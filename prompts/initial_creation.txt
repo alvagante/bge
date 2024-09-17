@@ -1,0 +1,30 @@
+I have to make a Jekyll site that will be hosted on Github Pages.
+
+The site will be about the podcast "La Brigata dei Geek Estinti".
+
+The site will have the following sections:
+
+- Home (with the latest episode and a link to the podcast page)
+- Episodes
+- Guests
+- Hosts
+- Tags
+- About
+
+The markdown files for each episode will have the following information:
+
+- Title
+- Description
+- Date
+- Duration
+- File (with the link to the audio file)
+- You Tube ID
+- Tags (with the tags of the episode)
+- Guests (array with the guests of the episode)
+- Host (with the name of the host of the episode)
+
+The site will be made with Jekyll, using a theme which fits the podcast.
+
+I have to create the site using the command line and the Github API.
+
+Please, be very specific in the instructions, providing commands and all the needed files.
