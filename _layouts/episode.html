@@ -1,0 +1,25 @@
+<!-- _layouts/episode.html -->
+---
+layout: default
+---
+
+<article class="episode">
+  <h1>{{ page.title }}</h1>
+  <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+  <p><strong>Duration:</strong> {{ page.duration }}</p>
+  <p><strong>Host:</strong> {{ page.host }}</p>
+  <p><strong>Guests:</strong> {{ page.guests | join: ', ' }}</p>
+  <p><strong>Tags:</strong> {{ page.tags | join: ', ' }}</p>
+  <div class="description">
+    {{ page.description }}
+  </div>
+  <div class="audio-player">
+    <audio controls>
+      <source src="{{ page.file }}" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  <div class="youtube-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube_id }}" frameborder="0" allowfullscreen></iframe>
+  </div>
+</article>

@@ -1,0 +1,11 @@
+<!-- _layouts/tag.html -->
+---
+layout: default
+---
+
+<h1>Posts tagged with "{{ page.tag }}"</h1>
+<ul>
+  {% for post in site.tags[page.tag] %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>

@@ -18,21 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: La Brigata dei Geek Estinti
+email: al@lab42.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Geek variegati, curiosi, esperti ed eclettici che parlano di cose.
+  Non per tutti.
+url: "https://alvagante.github.io/la-brigata-dei-geek-estinti" 
+baseurl: "/la-brigata-dei-geek-estinti"
+# the subpath of your site, e.g. /blog
+twitter_username: alvagante
+github_username:  alvagante
 
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +56,33 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Collections
+collections:
+  episodes:
+    output: true
+    permalink: /episodes/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "episodes"
+    values:
+      layout: "episode"
+      author: "default"
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Episodes"
+    url: "/episodes/"
+  - title: "Guests"
+    url: "/guests/"
+  - title: "Hosts"
+    url: "/hosts/"
+  - title: "Tags"
+    url: "/tags/"
+  - title: "About"
+    url: "/about/"
