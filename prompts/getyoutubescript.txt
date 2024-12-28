@@ -1,0 +1,10 @@
+Generate a script that gets as input a <number> and queries a YouTube playlist searching for a video whose title begins with: "BGE <number>".
+Of this video the script you return a yaml file with the following info about the video:
+- title
+- duration
+- description
+- generation date (in Format YYYY-MM-DD)
+
+It should also generate a file called <number>_transcript.txt containing the transcript of the video, if available.
+
+Use python or ruby, provide all the eventual commands to install the used libraries.

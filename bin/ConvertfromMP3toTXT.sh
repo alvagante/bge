@@ -18,7 +18,7 @@ for FILE in $( ls "$DIR"/*.mp3 | grep -v timebolted ) ; do
 
         # Check if the txt file already exists
         if [ ! -e "$TXT_FILE" ]; then
-            # Execute the pippo command to generate the txt file
+            # Execute the vosk-transcriber command to generate the txt file
             vosk-transcriber -i "$FILE" -o "$TXT_FILE"  --lang it --model-name vosk-model-it-0.22
         else
             echo "Skipping, $TXT_FILE already exists."

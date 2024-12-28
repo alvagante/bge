@@ -1,34 +1,71 @@
 #!/usr/bin/env python3
-# pip install google-api-python-client
-import re
+
 import sys
-from googleapiclient.discovery import build
+import yt_dlp
+#import yaml
 
-# Ensure a regular expression and playlist ID were passed as arguments
-if len(sys.argv) < 3:
-    print("Please provide a regular expression and a playlist ID as arguments.")
-    sys.exit(1)
+def main():
+    if len(sys.argv) != 3:
+        print(f"Usage: {sys.argv[0]} <number> <playlist_url>")
+        sys.exit(1)
 
-regexp = sys.argv[1]
-playlist_id = sys.argv[2]
+    number = sys.argv[1]
+    playlist_url = sys.argv[2]
+    search_title = f"BGE {number} "
 
-# Build the YouTube service
-# Replace 'YOUR_API_KEY' with your actual YouTube Data API key. You can get this key from the Google Cloud Console.
-youtube = build('youtube', 'v3', developerKey='YOUR_API_KEY')
+    ydl_opts = {
+        'ignoreerrors': True,
+        'quiet': True,
+        'extract_flat': 'in_playlist',
+    }
 
-# Fetch the playlist items
-request = youtube.playlistItems().list(
-    part='snippet',
-    maxResults=50,
-    playlistId=playlist_id
-)
-response = request.execute()
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+        # Extract playlist information
+        try:
+            playlist_dict = ydl.extract_info(playlist_url, download=False)
+        except Exception as e:
+            print(f"Failed to retrieve playlist entries: {e}")
+            sys.exit(1)
 
-# Search for a video with a title matching the regular expression
-for item in response['items']:
-    title = item['snippet']['title']
-    if re.search(regexp, title):
-        print(f"Video ID: {item['snippet']['resourceId']['videoId']}")
-        break
-else:
-    print("No matching video found.")
+        if 'entries' not in playlist_dict:
+            print("Failed to retrieve playlist entries")
+            sys.exit(1)
+
+        # Search for the video
+        video_info = None
+        for entry in playlist_dict['entries']:
+            if entry and 'title' in entry and entry['title'].startswith(search_title):
+                video_info = entry
+                break
+
+        if not video_info:
+            print(f"No video starting with '{search_title}' found in the playlist")
+            sys.exit(1)
+
+        # Now extract full metadata of the video
+        video_url = f"https://www.youtube.com/watch?v={video_info['id']}"
+        video_dict = ydl.extract_info(video_url, download=False)
+
+        # Prepare data for YAML
+        data = {
+            'id': video_dict.get('id', ''),
+            'title': video_dict.get('title', ''),
+            'duration': video_dict.get('duration', 0),  # in seconds
+            'description': video_dict.get('description', ''),
+        }
+
+        # Manually format the dictionary into a YAML string
+        yaml_data = f"""
+---
+youtube_id: {data['id']}
+title: {data['title']}
+duration: {data['duration']}
+description: |
+  {data['description']}
+"""
+
+        print(yaml_data)
+        print(data)
+
+if __name__ == "__main__":
+    main()

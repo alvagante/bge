@@ -11,19 +11,19 @@ DIR=$1
 SCRIPT_DIR=$(dirname "$(realpath "${BASH_SOURCE}")")
 
 # Loop through each file in the directory
-for FILE in "$DIR"/*_article.txt; do
+for FILE in "$DIR"/*.md; do
     # Check if the file is a regular file
     if [ -f "$FILE" ]; then
         # Construct the name of the txt file
-        EPISODE="${FILE%_article.txt}"
+        EPISODE="${FILE%.md}"
 
-        # Check if the md file already exists
-        if [ ! -e "${EPISODE}.md" ]; then
+        # Check if the txt file already exists
+        if [ ! -e "${EPISODE}_md.txt" ]; then
             # Run the frontmatter generate script
-            echo "Generating frontmatter for episode to $EPISODE"
-            $SCRIPT_DIR/frontmatter_generator.py "$EPISODE" 
+            echo "Generating ia data for episode to $EPISODE"
+            cp "${EPISODE}.md" "${EPISODE}_md.txt" 
         else
-            echo "Skipping, ${EPISODE}.md already exists."
+            echo "Skipping, ${EPISODE}_md.txt already exists."
         fi
     fi
 done
