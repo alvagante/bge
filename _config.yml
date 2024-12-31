@@ -8,7 +8,7 @@ description: >-
 url: "https://labrigatadeigeekestinti.com" 
 baseurl: "/"
 logo: "/assets/images/logo.png"
-theme: minimal-mistakes-jekyll
+favicon: "/assets/favicons/favicon.ico"
 
 plugins:
   - jekyll-feed
