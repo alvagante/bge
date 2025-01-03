@@ -1,0 +1,10 @@
+- Importanza dell'automazione nel settore IT.
+- Uso di strumenti come Puppet e Ansible nella gestione dell'infrastruttura.
+- Transizione verso infrastrutture immutabili per maggiore scalabilità e resilienza.
+- Sfide nel settore bancario relative a compliance e velocità operativa.
+- Approccio bilanciato tra controllo e agilità nei processi IT.
+- Efficienza nel rilascio del codice e nell'implementazione di nuove soluzioni.
+- Impatto della cloud-native architecture e dei container.
+- Discussione sulla sostenibilità delle infrastrutture mutabili.
+- Riflessioni sul futuro dell'IT e l'evoluzione delle pratiche lavorative.
+- Necessità di personale qualificato per gestire tecnologie avanzate.

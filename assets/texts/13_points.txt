@@ -1,0 +1,10 @@
+- Storia dei Database: Evoluzione dal mainframe ai sistemi moderni.
+- Oracle vs Postgres: Confronto delle prestazioni e dei costi.
+- Ruolo del DBA: Come si è evoluto e la sua importanza attuale.
+- Tendenze Future: Previsioni sullo sviluppo dei database.
+- Accessibilità di Postgres: Discussione sulla sua flessibilità e facilità d'uso.
+- Costi di Oracle: Esame dei suoi elevati costi e complessità.
+- Importanza dei Sistemi di Database: Come influenzano le aziende e le organizzazioni.
+- Evoluzione Tecnologica: Impatto dei nuovi sviluppi tecnologici sui database.
+- Scelta del Sistema Adeguato: Considerazioni nella selezione di un sistema di database.
+- Esperienze Professionali: Insight da esperti del settore.

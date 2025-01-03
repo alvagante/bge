@@ -1,27 +1,14 @@
-<!-- _layouts/default.html -->
 <!DOCTYPE html>
-<html lang="it">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  {% seo %}
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+{% include iubenda_cookie.html %}
+{% include analytics.html %}
+{% include head.html %}
 </head>
 <body>
-  <header>
-    <nav>
-      <ul>
-        {% for item in site.nav %}
-        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-  <footer>
-    <p>&copy; {{ site.title }} {{ site.time | date: "%Y" }}</p>
-  </footer>
+{% include header.html %}
+{{ content }}
+{% include footer.html %}
+{% include js.html %}
 </body>
 </html>

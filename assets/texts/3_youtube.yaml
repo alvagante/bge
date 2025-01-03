@@ -1,0 +1,37 @@
+date: '2023-01-31'
+description: "Un vero geek, anche apparentemente estinto, non pu\xF2 che essere interessato\
+  \ agli sviluppi sull'Intelligenza Artificiale. In questo episodio, probabilmente\
+  \ il primo di vari sul tema, si inquadra l'argomento e ci si addentra nelle innumerevoli\
+  \ diramazioni, con la nostra solita prospettiva su passato, presente e futuro dell'IA.\n\
+  \nE no, non parliamo di come diventare Prompt Guru. \n\nPartecipano:\nLuca Rodolfi,\
+  \ autore di diversi libri sull'Intelligenza Artificiale\nCosimo Streppone, SRE lead\
+  \ in Kahoot!\nMarco Foco, senior manager in Nvidia (grande ritorno!)\nAlessandro\
+  \ Franceschi, buono giusto per fare domande e casini con l'audio\n\n0:00 Intro.\
+  \ Con musica e grafiche (in alto a sx) create da IA. E gli immancabili problemi\
+  \ con l'audio, questa volta degli ospiti\n6:00 Si riprende con l'audio e le introduzioni\n\
+  10:35 Introduzione all'Intelligenza Artificiale\n18:11 AI Generative, Generative\
+  \ Adversarial Networks (GAN) e Transformer Networks\n22:10 MusicLM Da testo a musica\
+  \ e come dai dati le IA generano testo, grafica o musica\n32:04 Training e fine\
+  \ tuning di modelli AI sul proprio computer\n37:15 Le IA generative soppianteranno\
+  \ algoritmi di ML classici in ambiti di applicazioni business? \n43:08 Le IA come\
+  \ strumenti a supporto alle attivit\xE0 umane\n53:11 Considerazioni sul futuro dell'IA\n\
+  1:15:22 Rivelato l'Eye Contact di Marco\n1:16:52 Risorse fondamentali per approfondire\
+  \ sull'IA (link sotto)\n1:23:00 Le infrastrutture dietro le implementazioni IA\n\
+  1:36:23 Considerazioni (e perle) finali varie\n\nApprofondimenti suggeriti:\n\n\
+  Cosimo:\n- fast.ai:  https://www.fast.ai/\n- Canale Youtube di Jeremy Howard / Fast.ai:\
+  \  https://www.youtube.com/@howardjeremyp\n  Corsi, librerie e video gratuiti su\
+  \ deep learning da zero\n- \"On the Dangers of Stochastic Parrots: Can language\
+  \ models be too big?\":   https://dl.acm.org/doi/pdf/10.1145/3442188.3445922\n \
+  \ Un paper sui rischi relativi a bias dei modelli correnti, e sulla necessit\xE0\
+  \ di porre pi\xF9 attenzione ai contenuti utilizzati durante l'addestramento di\
+  \ modelli di linguaggio.\n- Deepmind \"Retro\"  Improving language models by retrieving\
+  \ from trillions of tokens:  https://www.deepmind.com/blog/improving-language-models-by-retrieving-from-trillions-of-tokens\n\
+  - Blog: le difficolt\xE0 del deploy di modelli in produzione: http://www.streppone.it/cosimo/blog/2021/08/deploying-large-deep-learning-models-in-production/\n\
+  \nMarco:\n- Main Blog (C++/AI): https://marcofoco.com\n- Streaming Blog: https://pan.spinningkids.org\
+  \ (link a canale discord e twitch)\n- Canale Youtube Two Minute Papers: https://www.youtube.com/@TwoMinutePapers\n\
+  \nLuca:\n-- Canale Youtube Statquest: https://youtube.com/@statquest\n\n#ia #ai\
+  \ #intelligenzaartificiale #chatgpt"
+duration: 6906
+title: BGE 3 - Oltre ChatGPT. Intelligenze artificiali a confronto.
+youtube_id: 4Pj9UGm6XCo
+

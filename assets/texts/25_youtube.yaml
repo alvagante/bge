@@ -1,0 +1,20 @@
+date: '2023-07-18'
+description: "Ci chiamavano sistemisti perch\xE8 gestivamo i sistemi operativi, e\
+  \ dall'altra parte c'erano i programmatore che scrivevano il codice che andava sui\
+  \ nostri sistemi.\n\nPoi il mondo IT si \xE8 complicato e quello che si faceva a\
+  \ mano andava fatto in serie, in automatico, senza necessariamente intervento umano.\n\
+  \nA allora ci siamo ritrovati anche noi a scrivere codice, ma diverso dal solito:\
+  \ non \xE8 codice per un programma, \xE8 codice per configurare le infrastrutture\
+  \ IT.\n\nE di questi codici e dati, da Terraform a Pulumi, da Puppet ad Ansible,\
+  \ allo stesso Kubernetes abbiamo parlato in BGE 25 con:\nRuggiero Tonelli, Head\
+  \ of Platforms & Site Reliability Engineering in Netquest\nAntonio Masucci, Software\
+  \ Engineering Consultant, autore di @OutOfDevOps \nLino Telera, System Architect\
+  \ in Infocert e cohost di @thepipelineguys \nAndrea Spagnolo, Senior Field Engineer\
+  \ in VMware\n\nLink su argomenti citati nella live:\nhttps://www.systeminit.com/\
+  \ System Initiative, la nuova startup, e prodotto, di Adam Jacob (l'autore di Chef),\
+  \ basato sul paradigma Infrastructure as Model\nhttps://en.wikipedia.org/wiki/Mark_Burgess_(computer_scientist)\
+  \ Mark Burgess, autore di CfEngine e autore della Promise Theory"
+duration: 7912
+title: BGE 25 - Infrastructure as Code
+youtube_id: dyfmUnmMX2o
+

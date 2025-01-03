@@ -1,0 +1,10 @@
+- FLOPS e ottimizzazione dei costi: Discussione su come ottimizzare i costi delle risorse cloud, sottolineando l'importanza di evitare sprechi e massimizzare l'efficienza.
+- Kubernetes e containerizzazione: Utilizzo di Kubernetes per la gestione ottimale delle risorse e l'orchestrazione dei container, migliorando la scalabilità e la gestione delle applicazioni.
+- Migrazione al cloud e strategie di colocation: Transizione da una colocation tradizionale a soluzioni basate sul cloud, per sfruttare meglio le risorse e ridurre i costi operativi.
+- Gestione dei costi in Docebo: Esperienze specifiche di gestione dei costi nella piattaforma Docebo, includendo l'ottimizzazione delle risorse e l'implementazione di riserve per ridurre le spese.
+- Cost optimization e frugalità: L'importanza di una gestione oculata delle risorse finanziarie e informatiche, adottando una mentalità di frugalità nelle operazioni quotidiane.
+- Utilizzo di servizi SaaS e gestione interna IT: Discussione sull'approccio alla gestione dei servizi SaaS in Docebo, con particolare attenzione al bilanciamento tra servizi gestiti esternamente e gestione interna delle risorse IT.
+- Approccio alla gestione dei costi e risorse umane: Strategie per coinvolgere e responsabilizzare i team di sviluppo nella gestione dei costi, promuovendo la consapevolezza e l'importanza dell'ottimizzazione delle risorse.
+- Implementazione di politiche di cost saving: Introduzione di pratiche specifiche per ridurre i costi, come l'ottimizzazione delle risorse di storage e l'uso strategico delle riserve nel cloud.
+- Utilizzo di tools e software per l'ottimizzazione: Esplorazione degli strumenti disponibili sul mercato per aiutare nella gestione e ottimizzazione dei costi, come Kubernetes, New Relic e altri strumenti analitici.
+- Importanza della formazione e aggiornamento professionale: L'importanza di rimanere aggiornati sulle ultime tecnologie e strategie di gestione dei costi per mantenere l'efficienza operativa e competitiva.

@@ -1,0 +1,19 @@
+<!-- geeks.md -->
+<row>
+  <div class="container">
+    <h1>Tutti i geek della brigata</h1>
+
+    {% assign geek_list = "" | split: "" %}
+    {% for episode in site.episodes %}
+      {% for geek in episode.geeks %}
+        {% unless geek_list contains geek %}
+          {% assign geek_list = geek_list | push: geek %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+    {% for geek in geek_list %}
+      <li>{{ geek }}</li>
+    {% endfor %}
+    </ul>
+  </div>
+</row>

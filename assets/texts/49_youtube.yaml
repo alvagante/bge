@@ -1,0 +1,16 @@
+date: '2024-02-20'
+description: "In questo episodio di BGE parliamo di FINOPS e dell'arte di risparmiare\
+  \ soldi nel costoso, a volte, mondo del Cloud computing.\nLo facciamo con Francesco\
+  \ Cambiaso, FinOps Analyst in Docebo e Ervis Jace.\nUna puntata molto utile e interessante,\
+  \ in particolare, per chiunque lavora su AWS ed ha la necessit\xE0 di ottimizzarne\
+  \ i cosi.\n\nAlcuni dei tool segnalati da Francesco in Live o successivamente:\n\
+  Vendr (https://www.vendr.com),  SaaS cost optimizazion + \"buyer as a service\"\n\
+  \nVertice (https://www.vertice.one), il competitor europeo di Vendr per la SaaS\
+  \ optimization, anche Vertice offre una piattaforma di SaaS management + \"buyer\
+  \ as a service\"\n\nInfracost (https://github.com/infracost/infracost), uno dei\
+  \ pochi tool, Open Source, che facilita in modo concreto lo shift left delle pratiche\
+  \ FinOps, con visibilit\xE0 diretta che chi usa Terraform"
+duration: 6678
+title: 'BGE 49 - FinOps: come risparmiare sul Cloud'
+youtube_id: w6LICBmmYH4
+

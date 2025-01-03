@@ -1,0 +1,44 @@
+<section id="episodes">
+  <div class="content-section-a">
+    <div class="container">
+      <div class="row adi-list">
+        <div class="col-lg-2">
+          <a href="{{ site.url }}/episodi/"><img class="img-fluid" src="{{ site.url }}/assets/images/logo.png" alt="La Brigata dei Geek Estinti"></a>
+        </div>
+        <div class="col-lg-8">
+        <h1>{{ page.title }}</h1>
+        </div>
+        <div class="col-lg-2">
+          <h2>BGE {{ page.number }} con:</h2>
+          <div class="tags">{% for guest in page.guests %}{{ guest }}</br>{% endfor %}</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-5">
+          <img class="img-fluid float-image" src="{{ site.url }}/assets/covers/BGE {{ page.number }}.png" alt="BGE {{ page.number }} - {{ page.guest }}: {{ page.title }}">
+          {{ content }}
+          <div class="tags">{% for tag in page.tags %}#{{ tag }} {% endfor %}</div>
+        </div>
+        <div class="col-lg-7">
+          <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></br>
+          Live del {{ page.date | date: "%Y-%m-%d" }}
+          <h3>Argomenti trattati</h3>
+          <ul>
+            {% for topic in page.summary %}
+            <li>{{ topic }}</li>
+            {% endfor %}
+          </ul>
+          {% if page.links != 'NA' %}
+          <h3>Link</h3>
+          <ul>
+            {% for link in page.links %}
+            <li><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+      </div>
+      </div>
+    </div>
+  </div>  
+</section>

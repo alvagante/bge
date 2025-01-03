@@ -1,0 +1,14 @@
+---
+guests:
+  - Luca Rodolfi
+  - Cosimo Streppone
+  - Marco Foco
+
+links:
+  fast.ai:  https://www.fast.ai/
+  'On the Dangers of Stochastic Parrots: Can language models be too big?':   https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
+  'Deepmind "Retro"  Improving language models by retrieving from trillions of tokens':  https://www.deepmind.com/blog/improving-language-models-by-retrieving-from-trillions-of-tokens
+  'Blog di Cosimo: le difficoltà del deploy di modelli in produzione': http://www.streppone.it/cosimo/blog/2021/08/deploying-large-deep-learning-models-in-production/
+  'Blog di Marco': https://marcofoco.com
+  'Canale Youtube Two Minute Papers': https://www.youtube.com/@TwoMinutePapers
+  'Canale Youtube Statquest': https://youtube.com/@statquest

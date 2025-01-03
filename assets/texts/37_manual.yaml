@@ -1,0 +1,9 @@
+---
+guests:
+  - Alessandro Palumbo
+  - Francesco Lerro
+  - Matteo Baccan
+
+links:
+  'The state of serverless': 'https://www.datadoghq.com/state-of-serverless/'
+  'Serverlessland': 'https://serverlessland.com/'

@@ -1,0 +1,10 @@
+- Utilizzo di Terraform come strumento principale nelle infrastrutture cloud.
+- Importanza di Kubernetes nel gestire container e orchestrazione.
+- Evoluzione delle pratiche DevOps e loro impatto nella gestione cloud.
+- Rilevanza del testing e dell'automazione nel ciclo di sviluppo.
+- Tendenza verso l'adozione di strategie multicloud.
+- Persistenza di infrastrutture tradizionali on-premises.
+- Discussione sull'importanza della sicurezza nelle infrastrutture cloud.
+- Considerazioni sulle pratiche di gestione del cambiamento.
+- Impatto delle scelte di strumenti IT sulla performance e sicurezza.
+- Strategie per la gestione di ambienti ibridi e loro complessità.

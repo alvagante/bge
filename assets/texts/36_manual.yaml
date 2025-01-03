@@ -1,0 +1,10 @@
+---
+guests:
+  - Marco Marongiu
+  - Alessandro Franceschi
+host: Cosimo Streppone
+links:
+  'Sito di Fravia': 'http://www.fravia.net/'
+  'Pagina wikipedia di Francesco Vianello': 'https://en.wikipedia.org/wiki/Fravia'
+  'Blog di Marco': 'https://syslog.me/'
+  'Puppi, un modulo Puppet di Alessandro': 'https://forge.puppet.com/modules/example42/puppi'

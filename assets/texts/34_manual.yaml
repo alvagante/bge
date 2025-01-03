@@ -1,0 +1,14 @@
+---
+guests:
+  - Giovanni Toraldo
+  - Giorgio Fochesato
+  - Antonio Liccardi
+  - Gabriele Santomaggio
+
+links:
+  'Video: Singularity, Superintelligence, and Immortality': 'https://www.youtube.com/watch?v=ykY69lSpDdo'
+  'Libro: The Singularity Is Near: When Humans Transcend Biology': 'https://www.amazon.it/Singularity-Near-Humans-Transcend-Biology/dp/0143037889'
+  'Libro: The Age of Spiritual Machines: When Computers Exceed Human Intelligence': 'https://www.amazon.it/Age-Spiritual-Machines-Computers-Intelligence/dp/0140282025/'
+  'Sonarqube': 'https://www.sonarsource.com/products/sonarqube/'
+  'Qodana': 'https://www.jetbrains.com/qodana/'
+  'Defender for cloud': 'https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-containers-introduction'

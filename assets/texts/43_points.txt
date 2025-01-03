@@ -1,0 +1,10 @@
+- Brigata dei Geek Estinti: La discussione inizia con un riferimento alla puntata numero quarantatré della "Brigata degli Istinti", una sorta di retrospettiva sull'anno passato.
+- DevOps e Infrastrutture Cloud: Giovanni, un DevOps Engineer, parla del suo lavoro, focalizzato sulla gestione delle infrastrutture cloud, in particolare quelle legate ad Alfresco Cloud e all'uso di strumenti come Terraform.
+- Importanza della Supply Chain Security: Si discute dell'aumento dell'importanza della sicurezza della supply chain nel campo IT, in particolare in relazione agli attacchi informatici e alla gestione della sicurezza del software.
+- Attacchi Informatici e Vulnerabilità: Vengono menzionati vari attacchi informatici significativi, compresa una vulnerabilità critica in Alfresco che ha richiesto il rilascio di patch urgenti.
+- Criptovalute e Sicurezza: Si discute delle sfide e delle vulnerabilità nel mondo delle criptovalute, inclusi gli attacchi a wallet e le conseguenze per le aziende e gli utenti.
+- Evoluzione del Mercato del Lavoro IT: Viene affrontato il tema delle trasformazioni nel mercato del lavoro IT, con particolare enfasi sulle difficoltà di trovare personale qualificato e sulle sfide di gestione delle risorse umane.
+- Open Source e Modelli di Business: Si discute del cambiamento nei modelli di business dell'open source, con un focus sulle licenze e sulle implicazioni per le aziende che utilizzano software open source.
+- L'Anno in Informatica e IT: Riflessioni sul 2023 nel campo dell'informatica e dell'IT, con un focus su temi come la sicurezza, la supply chain, le criptovalute e le evoluzioni nel mondo del lavoro.
+- Progetti Personali e Sviluppo Professionale: I partecipanti condividono i loro progetti personali e le aspirazioni di sviluppo professionale, evidenziando l'importanza dell'apprendimento continuo nel settore IT.
+- Intelligenza Artificiale e Futuro del Lavoro: Discussione sul ruolo dell'intelligenza artificiale nel futuro del lavoro, con particolare attenzione alle preoccupazioni sui potenziali impatti sul mercato del lavoro e sulle opportunità offerte dalle nuove tecnologie.

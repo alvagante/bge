@@ -18,6 +18,10 @@ collections:
   episodes:
     output: true
     permalink: /ep/:title/
+  geek:
+    output: true
+    permalink: /geek/:title/
+    
 
 # Defaults
 defaults:

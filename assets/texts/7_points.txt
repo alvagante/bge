@@ -1,0 +1,17 @@
+- Ruolo e responsabilità di sistemisti, SRE e devops.
+- Storia e evoluzione di Linux e suo impatto sul settore IT.
+- La transizione da vecchie pratiche di sistemistica a moderne metodologie DevOps.
+- L'importanza delle metriche nell'IT e come sceglierle adeguatamente.
+- La definizione e l'evoluzione del ruolo del sistemista nel corso degli anni.
+- Il confronto tra pratiche passate e attuali nell'ambito della sicurezza informatica e resilienza dei sistemi.
+- La relazione tra sistemi informatici e l'interazione con l'utente finale.
+- L'importanza dell'innovazione e del budget nel miglioramento delle infrastrutture IT.
+- Il cambiamento nel ruolo dei sistemisti e la loro adattabilità alle nuove tecnologie.
+- La necessità di competenze diversificate nel campo IT
+- L'importanza delle soft skills e dell'attitudine all'apprendimento nel reclutamento IT.
+- Il dibattito sul ruolo e la definizione di "DevOps Engineer".
+- L'evoluzione e l'importanza della sicurezza informatica nelle aziende.
+- Il ruolo della formazione e della consapevolezza nella cybersecurity.
+- Le tendenze e le sfide future nel settore IT, in particolare riguardo a Kubernetes e al cloud computing.
+- La gestione dei costi e la decisione tra soluzioni cloud e on-premise.
+- L'impatto dell'automazione e dell'evoluzione tecnologica sul lavoro dei sistemisti.
