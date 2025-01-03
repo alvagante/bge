@@ -1,0 +1,13 @@
+Nel vasto oceano della programmazione, dove le onde di innovazione si frangono incessantemente, il podcast "La Brigata dei Geek Estinti" solca le acque tumultuose dell'informatica con l'episodio BGE 32, intitolato "Quali linguaggi di programmazione imparare nel 2023?". Qui, una flotta di esperti naviga tra le correnti impetuose di linguaggi come Python, JavaScript e Rust, rivelando le perle di saggezza accumulate in anni di esperienza.
+
+Nel 2023, il panorama dei linguaggi di programmazione è una tavolozza in continua evoluzione. Mentre alcuni linguaggi sembrano immortalizzati nel pantheon della programmazione, altri, come Zig, Mojo e Dart, emergono dall'ombra, pronti a sfidare le convenzioni. Matteo Baccan, Giuseppe Funicello, Daniele Felicetta, Ervis Jace e Marco Foco si uniscono per esplorare non solo quali linguaggi dominano il mercato, ma anche come l'esperienza, anche nei linguaggi meno noti, possa arricchire il bagaglio professionale e rendere i programmatori più versatili.
+
+L'episodio, che si dipana per oltre 3 ore, attraversa la dimensione della sicurezza del software, sottolineando l'importanza di librerie affidabili e pratiche di gestione delle dipendenze. In un mondo dove le vulnerabilità possono costare carissime, la consapevolezza è l'arma più potente.
+
+Ma non si parla solo di codici e algoritmi. L'era del nomadismo digitale viene analizzata attraverso le narrazioni personali degli ospiti, che raccontano le sfide e i trionfi di lavorare da remoto. La partecipazione a eventi e conferenze emerge come un faro di opportunità, dove il networking e l'apprendimento reciproco si intrecciano in un ballo di sinergie.
+
+In un contesto di continua evoluzione, l'importanza dell'open source viene elevata a paradigma di crescita e collaborazione. Per i programmatori, il coinvolgimento in progetti open source si traduce non solo in un'opportunità di apprendimento, ma anche in un modo per costruire relazioni significative.
+
+L'approccio pratico alla programmazione è il mantra che risuona tra le righe di questo episodio. La teoria da sola è un castello di sabbia; è l'esperienza diretta a forgiare le competenze di un programmatore. Le domande sul futuro dei linguaggi di programmazione si affacciano all'orizzonte, con esperti che si interrogano su quali tecnologie saranno in grado di resistere alla prova del tempo e dell'evoluzione del mercato.
+
+Concludendo, il 2023 si presenta come l'anno di una metamorfosi linguistica, dove l'apprendimento continuo e l'adattamento sono le chiavi per non affondare in questo mare in tempesta. In un mondo dove l'unica costante è il cambiamento, quali lingue parleremo domani?

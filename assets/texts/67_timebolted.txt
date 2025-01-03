@@ -1,0 +1,753 @@
+e quindi siamo arrivati alla puntata sessantasette inapplicate degli estinti con questa musichetta che cosimo non non apprezza però
+faremo di meglio l'ha fatte e le intelligenze artificiali e proprie intelligenze artificiali partiamo parliamo stasera in particolare gli strumenti che per noi che lavoriamo nel mondo i t possono essere utili ovviamente strumenti basati su intelligenze artificiali e lo facciamo con due mitici fedelissimi
+briganti come cosimo e marco
+allora breve introduzione non a voi ma il vostro rapporto con l'intelligenza artificiale che in realtà abbiamo già incrociato in altre occasioni
+cosimo che dici tu che cosa fai con l'intelligenza artificiale di questa allora io l'intelligenza artificiale a me piace moltissimo l'ho cominciato a studiare quando ero teenager
+e poi
+non lascerò nulla per molti anni e ora ovviamente sono interessatissimo a tutti gli strumenti a tutti questi nuovi modelli che sono
+diciamo in auge ora è più
+oh ho realizzato alcuni progetti che sono in produzione nell'azienda in cui tuttora lavoro
+inglese sono molto interessato e molto buio vado a studiarmi cose per conto mio e se sei sul pezzo marco de marco allora io vabbè
+intelligenza artificiale zucche lavorate un po' di anni
+più o meno sì l'ho studiato anch'io poi dal duemilasette qualcuno decide a darmi dei soldi per fare qualcosa di collegato all'intelligenza artificiale e a toccherà citazione nel duemilacinque mi toccherà accettarli e fino a che non è arrivato questo periodo poi in cui tutto è esploso e tutti hanno
+sei nel posto giusto al momento giusto direi esattamente da un anno a questa parte io mi sono invece ritirato dall'intelligenza artificiale e mi sono messo a scrivere a lavorare solo sul codice cioè non non
+codice base librerie fondamentali non sto facendo e hai sviluppato e ai master
+invece usando per sviluppare
+perfetto quindi vediamo a questo punto sul cuneo sul tema la puntata che fare un pò un punto su quello che è lo stato dell'arte su i modelli e gli strumenti puoi basarti sui vari modelli di intelligenza artificiale che a supporto di sviluppatori ma in realtà non soltanto quindi anche chi lavora nel mondo t chi
+tutti noi che in qualche modo intorno ai computer lavoriamo e bazzichiamo
+due anni quasi dopo l'inizio della rivoluzione per almeno per il grande pubblico quindi dopo c'è pd l'annuncio del ventinove novembre del duemilaventi tu
+che cosa possiamo dire su gli strumenti attualmente disponibili promessa mantenuta intanto
+allora per me sì nel senso che comunque io poi ho fatto già con gimp trecento tipi ti avevo già iniziato a fare un po' di esperimenti con l'uso di questi strumenti legati al codice ho scritto già più di un anno fa quasi due restano
+articoli a riguardo in cui testavano facevamo fatto una coda di interview è e poi una una sessione di analisi del codice è già all'epoca sono state abbastanza un successo all'epoca la scrittura invece del codice era terribile cioè agli inizi
+provando con la scrittura di codice generare il codice era una cosa che mi introduceva bugie e tante volte non avrà neanche la sintassi corretta quindi diciamo che abbiamo fatto un bel po di strada dall'inizio degli dei la ocean lodge motel ad ora per quanto riguarda la scrittura di codice
+cosimo i tuoi due cents
+sono completamente d'accordo
+e i nuovi modelli che si susseguono diventano sempre migliori per quanto riguarda la scrittura del codice
+molti sicuramente magari stanno ascoltando avranno provato copilot quindi all'interno del proprio editor avere un strumento di cook please on in questo modo
+il periodo credo sia abbastanza comune
+o perlomeno ad esempio nella mia azienda
+disponibile a chiunque ne faccia richiesta
+centinaia di persone lo usano tutti i giorni
+se quindi secondo me sono d'accordo completamente ok allora visto che almeno questa sera io vorrei andare un po' sul pezzo quindi magari più che parlare troppo di argomenti che bene o male credo che molti ormai conoscono e utilizzano vedevano fare un po' di prove e verifiche e o far
+vedere strumenti che
+appunto che possa essere utilizzi utili per per chi guarda è come dicevo per l'occasione ho riattivato il mio abbonamento saggi p t per provare questi può dire nuovi modelli o plus you wanna che
+stati rilasciati da poco che promettono mari e monti io faccio una brevissima prova ieri e non particolarmente efficace ma era un caso molto limite o se siete d'accordo partire in tromba con qualche prova su un nuovo ciak gpt per vedere lui adesso in diretta come rispo
+fonde ai nostri prompt allora eccolo qua è pronto per l'occasione
+allora abbiamo vorrei vorrei solo dire che non ho ancora provato o wan
+non l'ho ancora provato perchè in questo periodo avevo cambiato da acp tela la l'abbonamento a cloud che è un pochino meglio era meno rispetto almeno fino al volevo provare modello saved diciamo l'ultimo modello di cloud antropiche e quindi non
+ho provato ancora owen ok halloween è tutelata mai riscritto un
+ho fame beccare questo ti ho mandato un grande esempio di presa
+fare con infrastruttura per esempio esatto quindi
+come lanciare un template in modo tale che le targhe hashtags siano visibili a distanza ah beh ok vediamo un po' credo che butti fuori un cos'è un codice e formation cosa ci aspettiamo in questo caso la risposta esatta risposta corretta diciamo è evidenziare come l'on
+template dev'essere modificato con un particolare attributo
+per fare in modo che le targhe siano visibili dall'interno della stanza e tu con ipad ti spiega esattamente spiega
+quindi è corretto e credo di capire che sì magari dovrebbe fare anche un esempio di lyons template più in là ecco qualcosa su maud ok
+su cloud è molto interessante perché ti dà a lato questi famosi a artifact posso io l'ho provato ed è molto molto comodo molto utile okay ma anche crotti da una risposta corretta o chapters letto quindi avendo diciamo che questo non prova una superiorità
+un passo avanti rispetto al cloud allora permettete di fare una prova anch'io che ama cosa abbastanza banale di pappetta che
+per gestire i baci però che mi facevano sempre i barili di strumenti
+qui semplicemente il trucco è quello che si vorrebbe capire quanto sappia scrivere codice puppet ma che sappia capire che apache su questi tre diversi operativi a dei nomi di pacchetti diverse quindi per gestire questa differenza cosa banalissima umano ma pernumia finora io
+non ho mai visto corrispondere correttamente ti crea codice puppet valido ecco qui ecco qui già potrebbe essere meglio scusa potresti per favore copiare e incollare al prompt da qualche parte così lo prova anche su cloud ma bravissima allora te lo metto nella chat interna vede un po' comunque ha risposto
+ha fatto la cosa giusta cioè quello che mi aspettavo dovesse fare poi a beacon sintassi che come potete immaginarvi un programmatore esperto difficilmente utilizza ebbe però in realtà in questo caso sì perché è tutta una stessa classe però sostanzialmente lui a seconda del sistema operativo assegna a una
+variabili diverse con nomi diversi e che sono esattamente quelli che servono per i diversi sistemi operativi e poi semplicemente stare al pacchetto gestisce le selle servizio e e gestisce il file di configurazione ok
+no se sì ci sta addirittura ti crea anche una uhm nella cosa sei bravo bravo e tra l'altro lo fa spiega anche dove mettere i vari file per configurare la classe quindi bravo ma superato l'esamina puppet molto terra terra ma
+che cosa mi fareste vedere mi fareste vedere all'inizio del del modulo
+e quindi vi ho sottomano quello di collo di floyd è esattamente identico praticamente ha anche lui fa la gestione del sistema operativo e se a okay allora anche claude rains possono come hai curato con quello direttamente sicuramente sta roba qua non la faccia correttamente su
+la menorah quando ho provato bene bene avremo altre prove che vogliamo fare tu m'hai scritto un'altra io ti ho scritto un altro prompt in questo caso di un problema che ho avuto sta avendo in questi giorni che ho un problema stranissimo
+che praticamente noi abbiamo diversi
+job schedulati che clonano repository da due e poi eseguono dei test e al minuto ventiquattro di ogni ora falliscono con quell'errore lì getafe di cee e c'è chi sei ed ed identification connection cloud
+posted by remote host
+emanuela di te di chiavi e se si ha
+anche perchè poi se non è avvenuto ventiquattro funziona tutto perfettamente
+guida l'autobus proviamo vediamo cosa dice lo escludo mai aiutato
+allora cloud ha dato una risposta te
+ha senso diciamo ti aiuta a
+poter identificare diversi casi che non funzionano ovviamente non sa non ha idea di perché falliscano
+beviamo e tu hai tradito la risposta poi colera nel tuo caso è no non abbiamo ancora risolto
+se risolviamo il problema poi
+effects validati as is perché quel nome quell'errore me sembra tanto henry
+un po' grandiosi e nel nostro caso la configurazione è esattamente la stessa pro job al sempre al minuto ventiquattro falliscono
+e anche anche come diciamo adesso sto
+comparando la risposta con quella di cloude sono molto molto simili
+entrambe ti dicono
+diciamo applicano dei criteri di di common sense no
+dicendo ma potrebbe essere questo potrebbe essere quello eccetera
+però ovviamente non hanno aggancio con la realtà non possono sapere investigare no e certo quindi possono dire va beh può essere questo può essere quello ma è
+che ha senso
+sì esatto tutta una serie di prove che uno farebbe normalmente ma ascolta mamma
+il
+succede sempre in ogni luogo ventiquattro ogni tanto e sto sempre avvenuto ventiquattro
+questa roba gira molte volte quindi non c'è blue hostess non si capisce ancora non l'abbiamo ancora capito
+va be sentito intanto ti mando un output così
+chat sei
+te lo becchi e
+va bene e qui qualche prompt interessante da suggerire a organi io come al solito suonata suo suicidio più
+ho fatto fatica degli esperimenti in copilot è e vorrei vedere invece come disegnare come disegnare potete esperienza sul disegnare disegnare fatto come disegnare un pixel come disegnare una linea orizzontale o verticale è una linea genetica vuoi condividere
+oh allora
+questo era parte era parte del tuo coding interview se non sbaglio no
+no questo questo credo di no ah si giusto no hai ragione invece hai ragione perché l'algoritmo della linea era proprio quello non della corgna interview ma nell'esperimento di analisi del codice magari trovano ricordavo qualcosa di simile sembra sì sì è corretto avevo preso
+magari mostro prima l'esperimento della volta scorsa
+nessun richiamo anche di quand'è perché
+intanto giacché aspettiamo cursor editor basato subito viso studio code e ai powered sangue in qualche modo come cosa ne pensate che poi il nuovo head on the block se vogliamo
+allora io
+l'ho provato diciamo in vista della metro parco magari prepara alla sua cosa in vista della puntata ho provato corso perché ne ho sentito parlare molto ed ero curioso di provarlo e non l'avevo ancora provato allora l'ho provato va be' diciamo velocemente non mi sono dedicato più di tanto
+ho avuto solo qualche ora per guardarci
+e francamente sono rimasto deluso un pò perchè
+il mio editore ideale non è visual studio code
+non mi piace molto come funziona quindi cosa è praticamente visual studio code semplicemente puoi aprire una finestra laterale e magari mi piacerebbe sentire da chi lo ha usato per più tempo se sto dicendo cagate correggete
+e però puoi aprire questa finestra dove hai la possibilità di chattare col tuo model col modello quindi nel contesto di un singolo file puoi chiedere spiegazioni e funziona secondo me funziona anche molto bene nel senso che è capace di comprendere
+cosa sta facendo il codice di dare suggerimenti o o altro quindi per esempio nel nulla
+scusate a cose molti segnalo che già usa o plus one preview e se a emily sono già disponibili sé e di cui all'art che usano senza particolare se ci se mette dei limiti anzi ci sono dei limiti è però così download e lo plus
+direttamente con questi aerei no allora cosa ha diversi plant no professional plan ti permette di usare
+i modelli quelli tipo saggio ipt abbonamento diciamo altrimenti hai uso limitato se sì però puoi acquistare qualcosa out of the box senza nessun plugin poi per poco tempo esatto esatto né quindi non è male sotto questo non è male asso
+attualmente non è male è ad esempio una cosa su cui mi sono scontrato subito era
+allora io mi ha importato tutti i settings da tutti i settaggi da visual studio code quindi avevo un progetto a cui stavo lavorando con visual studio code ha aperto tuttora automaticamente viene installato tutte le estensioni è aperto tutti i file quindi mi sono ritrovato in corso dentro questo progetto a cui stavo già lavoro
+quando vabbè tempo fa ma con risorse odio code e quindi ho potuto chiedere
+spiegazioni e informazioni su sul codice a cui stavo lavorando perché magari erano erano diversi mesi che non lo toccavo e che però mi immaginavo per esempio
+che tu potessi
+in realtà credo si possa ma io non sono riuscito nella mia prova e fargli
+scandire tutto la base di codice di tutto il progetto e poi andare a chiedere informazioni ma relative a tutto il progetto
+e questa cosa non sono riuscito a farla benché sia in realtà possibile farlo con contro l'inter però a me non ha mai fatto niente quindi tu devi dare un contesto che consiste in un singolo file allora poi puoi cominciare a chiedere informazioni ma a me interessava
+nella prospettiva
+di un tool che ti aiuti ad esempio ad entrare dentro un nuovo progetto che tu non hai mai visto prima e darti delle indicazioni quello potrebbe essere molto molto interessante
+best essere un problema di lunghezza dei the front perché potrebbe essere però non ha ricevuto nessun messaggio di errore semplicemente non ha funzionato però ripeto magari è stata una prova mia veloce però mi aspettavo
+mi aspettavo un po' diciamo più come dire non so neanche se è un problema non prevede in questo caso è un problema proprio di prodotto no
+beh comunque irreali
+so quanto sia quanto possano cioè so che sono sull'ordine delle nelle migliaia di tokyo emette per svariate migliaia adesso però è l'intero progetto rischia di essere un po' di più quindi non so come in questo caso per questo caso
+il mio progetto non è grandissimo quindi è semplicemente un browser station quindi saranno non so cinque sei file non non grandi cose
+ma comunque sicuramente uno strumento interessante
+quello che a me piacerebbe di più e perché non proprio visual studio code mi ritrovo di più con joe vim proprio duro e puro o se no
+intelligenze facciamo l'idea quel quella
+la tipologia di idee
+le preferisco quindi su su tali ehi cè copilot ovviamente
+ma non ci sono ancora almeno che io sappia non ho ancora provato nient'altro diciamo che si avvicini a coulson e più diciamo code con pleasant con copilot ma non
+un tool che ti dia diciamo un contesto più ampio
+sì
+team quindi copilot terreni
+sei intelligente hai provato anche il loro tool di idee in quella di airfrance
+no non ho provato no
+sai sai come si chiama
+no non mi ricordano troppo a cercarlo
+bella vittoria di tanto in tanto
+assistant sei assist sì sì sì foto completa in chat o che è quindi un'alternativa a copilot diciamo che a volte si preoccupa fairfield va bene
+vedere vedere il codice che ha generato me possiamo dividere
+liam si trova il modo di fare presente per screen per forza no puoi scegliere poi una finestra da poco dice lo screen e
+anche questa fa test pilot
+ah be' allora quello che ho fatto è una cosa molto semplice direi che voglio disegnare un pixel sullo schermo allora pixel sullo schermo viene generato il codice immediatamente è corretto per te verifica che le coordinate siano all'interno è corretto perché genera l'offset correttamente scrive il colore
+linea orizzontale vabbè magari un po' ridondante come ci si poteva fare qualcosa di meglio però corre sì che poi è abbastanza comune anche che il codice non si ha sempre dei più eleganti dai virgolette no di come lo faremmo noi poi si esatto cioè io per esempio aveva avrei
+le linee guida diverse a me non piace lasciare linee senza
+graffe però è maturata in più di stile e di altro tipo più ti mette a disposizione funzioni di libreria tipo swap per fare queste robe qua o o o tipo client min max per fare limitare il range di una variabile
+però
+cioè tutte queste cose quando devono essere fatti in una linea cioè potevi mettere questo qua è questo minimo qua e questo massimo di qua eredi risolta abbastanza il problema
+esiste una cosa che qui non hanno considerato più di tanto
+però non è un bug non è un bug assolutamente funziona lo stesso quindi no le cose funzionano
+linea verticale l'ha fatta esattamente la stessa cosa qui avanziamo di tre perché sono rgb quindi dobbiamo avanzare di tre byte qui avanziamo di un'intera linea adesso il modo in cui io gli ho dato il primo prototipo attenzione io gli ho dato il primo prototipo perché volevo esprimere nicole
+e coordinati in buffer in questa maniera tutte le altre funzioni mi ha generato anche il prototipo anzi mi ha proposto quale funzione fare il mio scritto solo dr horizont online e lui mi aveva fatto il prototipo esattamente macchiando quello che c'era già come standard
+quindi quello è apprezzabile già cercato comunque di imitare quello che stavo facendo di adattarsi come stile a quello che già c'era disegnare la linea verticale funziona disegno di un rettangolo questa è una proposta lui anche come una funzione che potresti voler implementare e
+mi ha buttato giù una funzione che sembra corretta
+oriundi rettangolo riempito allo stesso modo corretto e poi invece non sono molto d'accordo
+vorrei testarla però così ad occhio sembra sbagliata prima di tutto si era bloccato a questo punto fa
+si era bloccato blog
+e non ho capito perchè non ho capito assolutamente il motivo perché era relativamente semplice quello che avrebbe dovuto fare e quindi io ho dovuto generare amano questo è dire aggiorna le coordinate perché comunque hai le due coordinate quali verrà insegnata un pixel elaborati
+devi muovere sul pin zero successivo deve allora
+io non sono sicuro che questo funzioni non mi sembra corretto però vorrei testarlo ma questo piovane hai fallito con copilot copilot questa copilot se vogliamo provare con cage pitti o wan ingiusto per vedere e confrontare concerto one allora ti do ti dà due
+proprio in realtà perché tanto non serve
+me cosa ti do come prompt al prototipo della funzione e si dimmi quello che hai fatto a con b non male dopotutto cellulite produrre più possibile quello che hai fatto con le sulle due linee che ho scritto all'inizio
+ciao ho scritto al prototipo gliel'ho fatto completare in realtà
+devi rimettere dove c'è void rimandare a capo
+questo direi che è il primo e verifichiamo che sia la sua propria amato capisce che è inequivocabilmente c questa roba qui no in realtà volevo solo avvelenano il cibo e intanto cambia niente ci si esibì la spassa a questo livello sono sono scese dunque o aereo
+si è sostanzialmente
+quello che c'era anche quello che cerchi
+è esattamente quello che c'era di là io passerei direttamente alla linea diagonale perché tanto non serve il prompt era questo è in realtà il prototipo l'ha generato quindi ti darei lo stesso prototipo
+senti mi aspetterei che sarà sempre il prodotto
+questa juana detto questo è juan per i russi che quella era solo un pochino più potente rispetto alla resina manico
+che prototipo c'è allora di stewie sono il valori assoluti e poi si prende sei p e che è esattamente il codice che hanno generato anche copilot è questo che le prime quattro righe sono precise precise l'errore e di export di wine
+codice è identico a quello che ha generato quasi alle variabili ecco allora il codice è assolutamente identico allora io sono curioso di provarlo per capire se è corretto perché veramente linea vegan e esperienza l'unica differenza è che qui le varie
+apri sono chiamati solo i due sono chiamati erickson se se siamo in una fase ma questo è un caso comune questo
+cene sesso non è comune è una è un algoritmo che veniva usato molto tanti anni fa e che di recente è un pò decaduta infatti era il mio esempio di nell'articolo perché avevo scritto proprio perché era una di quelle cose che trovavi molto sui libri stampati e un po' meno su
+no crescent ovunque altri tricolore lo fa ed etico e quindi secondo me qua siamo in presenza di un training neo
+quando massimo d'azeglio da treni di qualcosa che era già vabbé tenenti tenendo conto che il mio io voglio provarlo e perché prima della fine della puntata lo proveremo perché io lo avevo implementato in maniera diversa però posso posso mostrare all'utente
+pastor si adegua come sempre
+è
+ai tempi con questa roba quale alternava comunque allora ai tempi la generazione di codice non c'era proprio ai tempi parliamo di due anni fa proprio non era non era in grado di generare codice è troppo complesso era in grado di generare codice relativamente semplice
+adesso fammi trovare anche l'altro esperimento di generazione del codice
+perché
+va vabbè comunque devo dire che la questione un po' mi sam ancora alan
+occhi adesso dovrei farlo anche con questo modello però in passato ho provato a fare qualcosa su con dei linguaggi che non conoscevo minimamente
+è tipo fammi un sito statico per la brigata degli istinti basato su hugo e con file fonts mattere caccia bolivar che è una cosa che mi piaceva fare e ugo però non ho mai usato so soltanto che uno statico e site generator tipo achille è quello di
+github
+e e con cat cbt con cloud in entrambi i casi buttò fuori da ottimo codice apparentemente con tutti i file scrive a modificare così via però alla fine non umilia fare una cosa di funzionante
+per mia totale ignoranza sul tema c'è la questione è che magari uno che conosce e lo strumento ugo in questo caso capisce al volo gay cosa c'è da sistemare o la virgola la mattina o cosa magari qualche forum da rifinire e così via nel mio caso io non suscitò ottenere come io alla fine ho ottenuto
+towns un sito ma non per esempio statica e
+con i fogli di stile corretti cioè per intero
+un po' di c
+incongruenze varie e ho come l'impressione che i comuni la bacchetta magica dello strumento che ti fa tutto lui non ce l'abbiamo ancora no come come nel demo di questo modello che iscrivevano scrive un gioco che fa una cosa pronti questo
+genere copia incolla il codice e funzionava però era una cosa abbastanza
+whereby fosse semplice o comunque specifica e non lo so io ho come l'impressione che non me lo dovevi provare meglio ovviamente questo lo yuan però per quelle prove che ho fatto finora ci vuole ancora un minimo di input umano per poter o di comprensione o male quello che stai facendo
+resta ovviamente quello sicuro
+andré
+scusami se come dice il codice puppet io non direi
+probabilmente difficilmente si nel codice che genera e come anche quello che dicevi telemaco sul codice c e un codice tramite te basico no non è un programmatore vero non farebbe mai un codice come quello o uno esperto diciamo così
+scusa volevo assolto solo raggiungere
+in preparazione della puntata mi sono letto il system card di obi-wan non tutto sono circa quarantatré pagine
+dove spiegano un po' di aspetti del modello del training eccetera
+e c'era menzionato come one mini sarebbe quello che ha prestazioni migliori per quanto riguarda il codice a noi magari potresti provare a trovare hogan mini non so se ci saranno differenze ma almeno questo è quello che dicono loro buono a sapersi
+codice fa stare a trish nei va
+questo sistema card dice che è migliore anche nella generazione di codice no che interessano gli farebbe fare le stesse cose perché alla fine non è quello di papa e sono abbastanza sicuro che lo farebbero uguale o simile
+perché comunque vi è un po' sé
+smettiamola anche più complicate
+poverino
+sì no giusto per vedere se è bravo bravo no però non ha usato data in module
+l'essere william
+ok allora tanto per dire quando gli dico use fosse lo scrive ho scritto un po' male
+data in module m'aspettavo che scusasse dei file del direttore data dove queste informazioni erano scritte in faang poi per dire questo e sintassi vecchia di pappette non c'è validazione i parametri che normalmente avrebbe sei fatta poi
+ok no non cade non cade in errore di assegnare senza pagarle due volte che seguono errori sintassi qua ci sono alcuni parametri che l'utente può definire e sono variabili che non puoi usare due volte quindi effettivamente sono variabili diverse e son quelli di prima con che cammina secondo i casi c'è anche darwin ah che bravo hugo
+anche brown per installare apache questa interessante su windows su windows non si sbilancia poi vi è un po' come gestisce stato scusate se lo faccio
+svelo c'è ve lo faccio in diretta poi a voi per voi questo può essere noto non noto però per dare un'idea di come in realtà sta anche questa sparando cazzate comunque io ho fatte un po' complicate però lui usa questa babele qui etc manager che non credo se la setta così
+ma non la sta usando nessuna parte e al limite può abusare provider che non specifica qua qua potrebbe specificare quale provvede a utilizzare presa la rete becker apaci su un'ex quindi questo codice in realtà è fallace questo fatto di è anche la parte di windows e si mette
+queste cose però non mi sta dicendo come installare apache su windows con cioccolate e con widget
+cosa fa non lo dice vabbè era però scusa
+allora come hai detto tu prima no se tu ne sai qualcosa puoi come dire guidare il modo di agire allora questo package manager come lo usi guarda che non è usato e lui rifà tutto usando no magari si se poi oh intendiamoci comunque io ho chiesto una cosa di un linguaggio che ormai lo usa più nessuno di fare qualcosa che
+per me è banale ma per chi non conosce puppet non lo è è bene o male ha fatto tutto e questo codice è puramente compila anche poi non funzionerà su windows su mac out of the box ma sugli altri funzione magari dovrebbe dirti guarda installate modulo ix da paper forge
+non a caso per il regalo dovrebbe dirlo per esempio qui lo dice per un brew su mac os per veri qua ti dice che gli apache web sia già installati per conto loro cantone lo dice però su windows e hybrid me license sembra poi ha ignorato
+oh
+vediamo se si ravvede
+adesso non può più fallire non non è più ambigua la cosa
+se dico di usare a data in module vuoi dire correttamente ecco bravo che qua ci fosse diretto deve creare dei file dove
+cara santa che c'era alla gara tre beta due volte la stessa da lettere interessante esatto anche se per opere dense sei comunque segna un pò ma qua a questo punto ha corretto e ha corretto e correttamente scrive diversi file diversi valori secondo sistema operativo nei diversi fa quindi fa quello
+che deve fare poi vediamo un po' perché tipo wendy brown che provai delle cioccolate e a questo punto questa quadro è un tema variabile che luger usare il codice e viviamoci la usa sia usa questo punto questa roba qua già vabbé questo ridondante se non ci sta questa roba qua già funziona con
+fit and play troviamo se ammesso se non vedete su questo hai ragione te comunque avuto c'è il cosmo una volta come dire
+rimbeccato suo comunque corretto su alcuni punti si è ravveduto e ha fatto una cosa che funziona correttamente quindi diamo atto però punta conferma il fatto che ci vuole una testa pensante del paesaggio dietro no e e
+questo no questo è profondamente sbagliato questo è profondamente sbagliato c'è meglio
+è corretto sintatticamente ma e non lo fanno non è uwe non è inutile ridondante sta cosa qua edwards è automatica sta cosa qua
+nel frattempo
+però vi posso dare una notizia
+ho testato il codice ha ragione funziona compila funzionale il codice compila ed è corretto e l'isola greca fatto un'implementazione che io non conoscevo però il fatto che tutti l'abbiano fatta uguale da me da un po' c'è qualche fonte online
+bene la mia rabbia paura che poi si ricollega a quello che stavi dicendo
+estende un attimo enel mamme anno sono stati creati per creare le risposte simile simili a quelle che genererebbe un umano la sostanza è quella meno sulla linea di principio iniziale o uno già inizia a metterci più cose sopra però nel class
+fico è fatto così il problema ed è un po' il problema che ho verificato in alcuni casi è
+il codice che viene generato viene generato non necessariamente corretto ma sicuramente credibile
+se viene generato qualcosa di sbagliato è molto simile alla risposta giusta
+ed è proprio per quello che io sono molto scettico c'ero ero scettico in quella implementazione che non capivo e
+evidentemente corretta dovrei ragionarci un po' meglio ma evidentemente corretta comunque se c'è una mossa dicendo che è una mossa da alfa zero
+alphago con la mossa si è probabilmente un qualcosa di
+allora io come lo facevo non era questo qua e io come lo facevo lo facevo con due errori separati qua c'è avevo un errore che era bene dovrai spiegare come funziona l'algoritmo di di di brand un pò e un pò complicata dato che il trucco era fare tutto in aritmetica
+intera perché all'epoca i computer non aveva un'unità floating point resterà o perlomeno pochi computer aveva un'unità floating point la maggior parte dei computer non ce l'aveva quindi il trucco era fare tutto in aritmetica intera per essere più veloce usare le istruzioni del processore e non cose che venivano poi
+emulato il metodo che a voi verrà leggermente diverso però questa sembra funzionare quindi non lo so ritrovato tanto dovresti comparare velocità utilizzo di memoria e tutto quanto non doveva mai più efficiente e
+vedere nave così ero e che abbia ragione perché adesso io sto condividendo lo schermo quindi voi non vedete l'altra immagine no non la vedete video devono condividere e condividere lo schermo
+comunque vedo
+se c'è adesso stiamo un po' anche a cercare il pelo nell'uovo se vogliamo perchè comunque quello che genera spiegando cosa d'altro può essere un ottimo strumento didattico per imparare cose di linguaggi e poi ah beh appunto a botte di prompt e di correzioni facile vetrai hai voglia qui
+molte cose possono essere fatte anche belghe eccolo qua la linea diagonale io l'ho provata in tutte le direzioni perché è questo algoritmo a volte funziona in maniera strana
+se è la linea più verticale esce più orizzontale cioè il budget di solito si nascondono libro facendo linee più verticale più orizzontale in qualunque direzione non ha dato nessun problema quindi sembrerebbe funzionare ma se tu scrivi e chi dice fammi una ruth uno scheduler per
+un tipo demo stai
+quello quello è stato è stato un tentativo fatto in una diretta in austria intuisce
+anzi più di uno in realtà volevo creare una demo questo stato cerca gennaio febbraio di quest'anno credo di avere ancora le registrazioni da qualche parte
+ho cercato di creare una demo con
+cos'è che usavo
+direttamente anticipati
+quindi ho provato a
+a fargli generare il codice per generare e tutta l'infrastruttura di wired next we'll e è stato un fallimento completo vogliamo provare ad esso con qualche possiamo fare destra assolutamente magari proprio un po' off line intanto che voi vedete sto provando sto provando
+con summit poi ho provato opera invece con open kelly ho avuto un po' più di successo però anche là sugli shader come collegare i parametri degli shader agli schedari effettivi e ha dato il papa ogni volta ma ha fatto un po' di casino quindi
+diciamo non non non sono riuscito a portarlo a termine mi sono fermato perché era cioè ci mettevo molto più tempo ora ho rifatto un po' di tempo fa no e quando i modelli erano ancora meno quindi in frequenza media per senso fare una prova adesso per del rischio e rimase adeguata ci prova
+subito offline fare qualcosa di simile offline sesso
+mentre voi parlate fate vedere altre cose andrò fare
+allora ho provato ho provato al primo botto non funziona però adesso provo a fargli una corretta allora avrai avevo ottenuto dei risultati abbastanza divertenti per cui
+per esempio quando gli chiedevo di fare il setup di dare sto edward mi faceva una bella funzione con il prototipo giusto della funzione con tutti i parametri e poi metteva all'interno del blocco metteva barra barra puntini puntini puntini e non c'era modo di fargli generare qualcosa di più sensato quindi c'è eccome
+proprio eccetera eccetera
+tanto lo sai fare
+allora facciamo così mentre voi cercate rifinite prompt per generare demo e condividere ancora lo schermo perché manco a dirlo apposta proprio oggi ho visto onde un ecco un bel po
+sta' di buon padre chiede build che fare un bell'elenco di strumenti e servizi vari online legati al mondo devops del check-out se con ia generativa e quindi vediamoli allora tipo driver and security scanning remediation quindi questi
+francamente li ho aperti io adesso non non li conosco però li segnalo così che possa rimanere come memoria o eventuale utilizzo per chi vuole è questo a quanto pare appunto sport
+va beh è una città backup che si può entrare direttamente su quattro repository e quindi fa attualmente appunto analisi sulla sicurezza static cod analisi
+e basate sulle ah ah beh come dire poi credo che molti di questi strumenti alla fine sono come dire no saggi p t b o altri modelli simili banner con un po' di lancio di torno qualche pronta di contorno e e quant'altro securities apportano pereto sc
+biglia appunto a mitte apartment for operations sarebbe questo
+ecco questo un po' l'idea della gente del collega botte no che ti aiuta a far cose gli chiedi e lui è come se facesse un membro del team con cui interagire
+abe
+cubica punto è hai
+qui come si può immaginare c'è un pò di tutto over maine questo interessante perché in realtà l'ho fatto conosco i tipi che era affondata e tutto quanto e impara analisi fanno o meglio su tutti quello che uno fa libro di cambiamento sul proprio codice di
+infrastruttura su cloud fanno vedere qual è l'impatto che avrebbe ogni singolo cambiamento
+e aiuta anche per fretta bow shooting in realtà lei a aggiunta come è come pezzettino di contorno ma in realtà non è solo hai e quindi è uno strumento utile per chi ha su i blues credo soprattutto kubernetes e vuole gestire
+re e valutare l'impatto di cambiamenti delle proprie configurazioni open mind tech
+poi jazz sheila e ai
+cloud architect questo è un altro agente che fa il cloud architect
+wait list quindi sono ancora in fase di alfa sciopero sono molto scettico e sta roba
+ma il punto è proprio quello che se poi la fine come probabile c'è un po' di rughe e un po' di modelli esistenti e un po' di promoting ponte engineering intorno alla fine sotto sotto chessò come camere con la classica vignetta o il meme su chi si vede su internet la startup nuova swift toglie la
+maschera sua coscienza accept
+è possibile che molti di questi anzi probabile che molti di questi servizi online siano come dire usino poi i modelli esistenti e intorno a quelli ci fanno un po di
+di contorno che magari soltanto qualche pronte qualche bella interfaccia web magari c'è un po' di logica giunta magari c'è un po' di date aggiunti però però anch'io sono un po' perplesso non lo so magari funziona benissimo bisogna valutarli e testa liberamente io per adesso a titolo di
+appunto per l'
+li mostro perché sono comunque collegati anche al tema e ha puntato essere it make it questo è un altro come dire agente vado a casa
+vado a casa faccio fare lei o che serve sono io alec poi appunto name questo non fa e non fa così tutto è tutto il mondo e sette
+ecc ecc
+allora anche grafica aver ragione quando mi giro negli buttafuori le immagini e ragione se non è così la questione in poi e lei sempre come li usi e quanto siano efficienti poi clark quindi un alto che ti fa l'ha che cosa fanno perché se così da
+così non si capisce moderna eh beh diciamo che è più utile nelle descrizioni di patrick che dice appunto incident handling
+in questo caso fa auto automaticamente fa il triage
+cerca di scoprire la ricchezza root cause analysis e non è maison se funziona il fresco remo scetticismo a ovest jack pack make up sempre you straccio eat mappano base the wild side with charles ma mains sms software
+sto questo qui cos'è un terraforma
+e anche questa sala con l'episodio si appunto taiwan banche è un'idea però come segna estate ma poi ci parla lui con tutti sviluppatori back-end per non fargli fare cagate
+poi c'è l'altro strumento ci sarà un'altra che ti controlla
+soundcheck artificiale se lei
+e hai comunque come vedete anche il mondo operations non soltanto il mondo sviluppo e in qualche modo impattato perché poi va da sé che tutto quello che infrastruttura s è qualcosa che in qualche modo e quello è interessante secondo me almeno si fece sue attività nel settore se me
+un punto di vista diciamo io sono convintissimo che finché si parlerà di strumenti e ai non ci sarà mai nulla di veramente utile c'è o chat
+lovely come abbiamo visto sono molto utili però bisogna fare il salto di maturazione tra
+aicel tool die hai a
+che è dentro un prodotto che sparisce cioè deve sparire laino è come l'elettricità nessuno parla di ama ti serve l'elettricità l'elettricità è dappertutto non se ne parla lei deve diventare così altrimenti vuol dire che diventa più avanzati ma diventerà così c'è presenterà qui
+certamente deve diventare così come per dire anche gli stessi che gpt e sparirà probabilmente resterà invece i modelli usati via ai piai cena avrai magari modelli di gpt sotto di openai ma usati in cento
+posti diversi e però non è più magari neanche più l'interfaccia in cui scrivi a mano fammi oppure lo fai ma sempre a livello di singoli prodotti molto specifici in cui
+in cui winston sito qua sembra proprio una roba buttata lì a caso
+si ma infatti molti monumenti sono a questo italiano attenzione
+e bisogna vedere poi come queste cose sono però è vero c'è che che poi poi magari estetica ma anche a volte magari è più sostanza che altro
+però è
+è vero che c'è il rischio che alcuni di questi servizi siano magari appunto il service con lei davanti c'è una cosa imbellettata dietro c'era il modello di openai etici chi ti risponde un po' e con i limiti che abbiamo visto su
+oprah per cui chi poi son limiti ma che sono sempre più più
+meno limiti no perché poi visto che bene o male le cose ritirano fuori
+sarebbe interessante vedere magari meglio me lo guarderò dopo se qualcuno di questi tool sono modelli sono video su youtube che spiegano come usare o fanno vedere no proprio nella sostanza per poi alla fine con soluzione del genere poi te le devi portare dentro nella tua infrastruttura
+a collegarla al tuo logo i tuoi monitor no perché altrimenti stefano fanno niente no sì ma che poi succede quello che no so magari nei tuoi strumenti di monitoraggio ci sarà l'integrazione con lei hai e dallo strumento stesso verrà fuori c'è se ci pensate tutti nel mondo e
+tutti i produttori di qualsiasi soft di qualsiasi prodotto online e servizi e così via han detto come integrum online il nostro prodotto ci da due anni non fanno che tutti pensano a questa cosa qua no che poi magari vuol dire appunto un po' di prompt di contorno su la cosa magari vuol dire qualche modo
+un modello proprio qualcuno c'è però credo che la domanda se ne sono fatti un po' tutti come cavalchiamo l'onda e come anche questa
+possiamo usare hai nel nostro prodotto per renderlo al passo coi tempi e quindi si vedrà la domanda sbagliata no e scusa se insisto frutta roba qua è la domanda sbagliata perché cosa succede in genere è che
+non so la board of directors si sveglia e dice oh ma stiamo dando alcoa osare reale la usano tutti cerca te e allora dopo tutti si sforzano vallo a dire a allora
+il team di sviluppo dai bisogna usare la lotta ma è quella roba lì è sbagliatissima cioè tu devi pensare al tuo prodotto non devi pensare a usare dove il tuo prodotto dove può diventare migliore poi ti serve hai bene usalo ma sennò non ha senso no altrimenti è come
+me c'è come voler vestire come dicono in inglese dicono il lipstick sol lipstick sul no sul sul mettere il rossetto al maiali c'è non ha senso quella roba lì e però per molti sta facendo quello è sì ma
+ci sta nel senso unico che possa aver senso per oggi
+ci sta porsi la domanda non lesse solo è è legittimo che la gran parte l'azienda abbia pensato perché nel contesto del tuo prodotto però non nel senso che devi usare per forza perché cosa se dà valore al topo ruotano diciannove certo che in questi conti questi temi ugualmente
+successo c'è poi magari chi l'ha fatto bene chi ha fatto male chi non ha fatto chi non ci pensa o ha pensato in una lettone non c'è niente da aggiungere da fare con lei quindi inutile che possiamo metterci cose che non c'entrano niente però ho come l'impressione che è una domanda che chiunque abbia fatto un servizio un prodotto un software
+e si sia posto insomma chiunque abbia una a parte usarla nei propri processi box internamente così anche un altro paio di un altro tipo di paio di maniche che anche quello ovviamente è successo e
+posso farti vedere lo shaver
+vediamo cosa ha tirato fuori cloud aws riesco clouds
+allora charles green
+oddio non so cosa sto facendo qua sears che vediamo
+flat wind and mrs green day e provo a farmi male vediamo no no puoi scegliere puoi scegliere la singola finestra o french touch screen dopo fame allora questa è la finestra di cloud dov'è il mio prompt se riuscite a vederla spero si se
+scritto wright girl saint sever per trans vince the flight of mount mountain the rain
+venne quasi ad arrivare più direttamente se deve prendere il codice di aic vuoi metterla dentro qua
+effet
+dici che è troppo scontato e uno degli autori di segretaria usd
+no però vediamo lo vediamo
+art dieci inigo inigo wilkes e lui e ungheria se allora la prima il primo il primo tentativo mi dava questo errore esce new mexico per lodi function found e dice ah ho trovato l'errore e quindi mi ha dato un altro un altro errore allineo
+ottanta
+diciamo un operando tra due tipi diversi una operazione guai ace è appunto spara cose non c'è una verifica sintattica non
+no no allora non è
+poi però
+segue e poi e poi ha funzionato però è funzionato con questo esempio qua ma poi gli ho detto fammi vedere amplifica l'altezza delle montagne
+e l'ha fatto l'ha fatto correttamente quindi questo è il loro server funzionante cioè secondo me miracolosa scusa mario
+no non male l la giustificazione che gridò al fatto che
+abbia fatto quell'errore e perché
+adesso dovrei controllare non mi ricordo più molte cose per andare a prendere un libro di origine di là però mi pare che gli chieda di open gym di scegliere fiom-cgil e jesse che sono quelli che poi sono diventati world gym pieno delle differenze sul sul tipo di operazioni che puoi fare cioè le operazioni miste sono per me
+essere medici nel centro cgil ma non sono permesse tra tipi visti in originale esse e i widget quindi diciamo che l'attenuante
+è un attenuante e io invece no invece
+sono ancora a un risultato decente e non credo che ci arriverò
+entro sera perché allora posso posso mostrarvi un po' di
+fuori cosi tanto ha generato una caterva di codice che c'è che ha abbastanza senso non è una cosa terribile ecuba
+allora prima di tutto non aspetta che ti condivido suggerimenti di attivarlo te o che è prima di tutto io sono partito da qua cioè gli ho scritto questa riga
+queste tre righe qua intanto sono state aggiunte così alcoa girl league
+scrivi a lavoro
+allora sadler si era bloccato qua e non voleva andare più avanti poi si è sbloccata e ha iniziato a tirar giù anche le altre cose vabbè discutibile quello che sta facendo qua ma fa niente non ha non abbiamo problemi adesso per ora anche perchè non so se arriveremo mai a
+vederlo in azione questo oggetto la creazione della finestra la scritta giusta mi ha scritto una cosa divertente questa queste due righe che ho dovuto commentare cioè per avere le funzioni di hope cgil devi chiamare una funzione che si chiama
+gugel creator gazprom address e come vedete qua lui ha una una la chiama per generarsi le varie funzioni di open xml per prendere le varie funzioni del genere sono chi ha deciso di prendere l'indirizzo e la funzione bug lega pro wilderness usando wget che gates che non ha senso perché questo intanto
+non è una funzione di open xml e ha pensato no ma lo prendo anche quella così e va bè no
+ho dovuto metterci un bel commento mi ha tirato dentro una serie di funzioni che non servivano a niente e contando che questa va bene perché la messa prima e poi non l'ha usata ma c'è solo una serie dopo che vedete quelle più scure
+perché a un certo punto mancava questa funzione allora gli ho buttato lì un commento nel codice che avevo scritto
+prima però che sta sotto allora rimesso un bel commento per la funzione lui l'ha presa poi però ha attirato dentro altre funzioni che non c'entravano niente cioè non ha interagito col codice per cercare di capire quali erano le funzioni mancanti e prenderle ha generato una serie di funzioni che solitamente ha visto
+pescare assieme quindi già qua c'erano
+decine di funzione di funzioni tutte in riga che
+non facevano non solo
+il codice non compila perché
+perché c'è questa funzione getti uniformi location che dovrebbe ritornare qualcosa ma e ha deciso che era void adesso io posso provare a modificarla così e vedere se qualcosa funziona meglio proviamo a compilare e vedere se funziona mai
+per qualche errore a manca nove qua mancano girl and text or alive
+bene manca mancano un paio di cose di lentini ma questo non aveva controllo quindi diciamo che non è colpa sua
+beh sarebbe bello avere qualcosa che ti aggiusta anche questi problemi possiamo provare a usare la chat
+sam provare
+oh aspetta però che so questa bella scusatemi stavo cazzeggiando anch'io il conservatorio a questo punto faccio una piccola digressione se sì allora vai a roccella questa però anche una scheda e resistente che
+e io gli ho detto a ciao gipi ti ho copiato questo attacco codice e io ho scritto modifica me questo uscire per fare dei cerchi invece che delle star del design del lean e delle delle delle stelle e lui l'ha fatta che non è male e secondo me perchè ha capito dove c'è
+nel senso è fallito cosa esistente che funziona però però l'ha fatto al volo
+va be' niente questa roba miracolosa dacia come passavo portavo papà
+è come essere che ci stiamo abituando come dire a sederci su un salsicciotto d'acciaio a volare tra i continenti no era era esattamente la stessa cosa cioè sai com'è magari vedi poi magari è stato segrete in te semplice perché per come è fatto lo
+le aree sono sventato nei dettagli a
+a cui era relativamente facile cambiare fu forma non lo so però vedi tipo qua flora il cerchio è una forma più semplice della stella sì però comunque fa impressione cercando di giocare la serie capito che c'era una stella da qualche parte e che c'era un cerchio e la proverei a chiedergli una stella sette
+punte per per capire se sia veramente a vediamo
+vediamo vediamo mettiamolo alla prova questo modello
+vedi che comunque eletto star function adesso ha cambiato quella star seme function a te
+quindi è già promette route road attenzione ecco queste sono cose che da cui questi modelli qua per mia esperienza capiscono un sacco di cose e non va avanti il fatto che c'erano funzione xmaster fai adesso te
+infatti a me è andata
+eh no non è una stella ha lucidato proprio vero senso della parola ed ebbe cose ci sono roba una roba allora quando ho fatto il blog post che non ho scritto ma che posso probabilmente cercare di mettere allora frank condividere losche
+piuttosto che la finestra
+allora quando ho o fa ha scritto questo articolo che è dicembre duemilaventidue ed è stato
+scritto con charles pd la prima verso questo paese sei giorni dopo è stato pubblicato i saggi più tiepidi la primissima versione di saggi pd e allora quello che ho fatto ho cercato di dargli in pasto del codice che non si capisse volutamente perché avevo già sperimentato
+che se iniziamo a dargli del codice con delle
+dei nomi di variabile e dei nomi di funzione che fossero significativi capiva automaticamente quello che quel codice faceva dal nome della funzione come avrebbe fatto un cristiano cioè bene adesso quindi volutamente gli ho rinominato tutte le varie
+abili e in vista diventato una storiella che c'era un collega che aveva mollato la società e aveva lasciato il codice così ma lasciandoci tutti merda e ho detto va bè ora aiutami a capire cosa fa questo codice allora è stato un
+ragionamento in coppia cioè praticamente ha iniziato a riscrivere cose il codice era volutamente incasinato e non è non è come scriveresti l'algoritmo di brezsny che abbiamo visto poi si può semplificare addirittura è quello che rispetto a quello che pensavo io si può semplificare ancora di più scrivere cinque righe
+e questo era incasinato scritto generato con template
+con cose veramente strane quel mezzo va bè mi riscrive un pò di cose ragioniamo su un po di cose gli do qualche suggerimento ma sto attento a non darmi a non dargli troppe informazioni
+vabbè quasi tutta la trascrizione poi magari lo mettiamo sul link della puntata perché adesso discutere fino a fino ad un certo punto in cui mi scrive questa cosa qua tra l'altro codice incompleto però vi scrive questa cosa qua allora questa funzione in tanti parametri avevano
+valori diversi e non si che è la classe non era un'immagine quindi era arrivato a capire che era una linea e non me l'aveva mai detto fino a questo punto al che gli ho chiesto ma perché hai chiamato con la funzione hdr on line e qui mi ha spiattellato tutta la motivazione cioè che era quell'algoritmo algoritmo
+di cui parlavamo prima cioè identificando non solo la funzione ma l'algoritmo l' ip il significato dei parametri il colore led identificando tutto in una botta sola
+eh brava a riconoscere il codice insomma questi algoritmi genova in winslet art ha necessitato di qualche suggerimento è però ho cercato di essere questa non era la prima chat che facevo era la sesta settima perché
+in tutte le precedenti ci arrivava molto prima perché gli davo un suggerimento sbagliato magari ti mette il nome della funzione originale anziché il nome della funzione modificata
+ok mi scappava qualche informazione extra o mi scappava qualche nome di variabile all'interno delle funzioni niente a genio ci è arrivato e veramente mi ha sorpreso quando è arrivato quando è arrivato qua veramente mi ha colto di sorpresa perché non non solo non mi aspettavo che arrivasse
+a identificare chi disegnava una linea in così relativamente poco tempo ma che ci arrivasse a identificare anche l'algoritmo perché per come era scritto non l'avrei identificato neanche io l'avevo scritto quindi
+va bè mele no no è in linea e questo era già ed era il primo ciak peter quinn effettiva effettivamente il primo genera e
+ancora avrò questo articolo in cui ho fatto una coda di interview hagel gibidi tre quindi giugno duemilaventidue
+questo qua era un pochettino della valle cose se avresti assunto
+il gpt allora alla fine ho scritto che la assumevo è però però in effetti come new york crawling forse è un pò gnocco anche perché in alcuni punti
+gli ho detto di non usare una certa funzione rivalità sì assisi va bene e poi gli ho detto di dirvi di fare qualcos'altro
+di fare una semplificazione di complessità e il vialetto pam karius la funzione power
+no però in realtà ci è arrivata c'è chi è arrivato a fare la complessità inferiore questa tra l'altro è una domanda che realmente utilizzavano i colloqui quindi ho una certa esperienza in questi anni nell'utilizzo di questa funzione nel vedere come persone reali reagiscono
+questa a questa domanda
+io non l'avrei passato e siccome
+ma non so se avresti applicato la petizione
+e poi nella nel fare e double gli ho chiesto di tradurre qualcosa in tavola cercato di fare una cosa mettendo solo risultato double però bene o male alla fine
+stupidaggini tipo momento in cui cercava di fare il resto la divisione per due con i gable che non si può fare alla fine è arrivato è arrivato a convergere nel punto quello che mi è piaciuta di queste interview è stato
+che gli ho chiesto quali sono
+gli errori dei floating point e questo mi ha dato una spiegazione
+abbastanza corretta carl di come sono gli errori di floating point anche se forse l'errore specifico che ha che ha mostrato non può succedere però l'idea era giusta l'idea era corretta in particolare e in particolare gli ho chiesto una cosa che ho chiesto proprio quello richiesto ma s
+tempio che hai fatto con due tre è un caso reale no è solo un esempio
+chiesto il risultato con due trend sarebbe esatto sì e con zero uno sarebbe esatto no chiede e sono esattamente corretti perché gli ho chiesto anche la motivazione la motivazione che zero virgola uno non può essere rappresentato in maniera esatta nell'aritmetica frati in poi mentre due tre
+sì sono solo numeri possono essere rappresentati in maniera esatta quindi già gbp tre equidi stiamo parlando di una cosa di più di due anni fa già aveva parecchie nozioni sul
+un buon modello
+non ha un modello di come funzionano i floating point ma aveva già esposizione a qualcosa a qualche dialogo qualche testo che spiegava come funzionano i floating point è abbastanza completo di regen non ne
+non aveva detto troppe cavolate quindi boh
+questo era un esperimento dell'epoca facciamo che
+abbastanza dannato però
+se mi permettete vorrei non so se avete ancora un'osservazione su diciamo generazione di codice volevo sottolineare un altro potenziale utilizzo che personalmente trovo molto utile
+posso introdurre questa deviazione
+perché o si parlava di strumenti utile a sviluppatori ovviamente non è che scriviamo sempre solo codice no
+almeno nella mia esperienza per esempio è molto importante scrivere la documentazione tecnica
+nello specifico un esempio proprio super recente
+nel nostro team abbiamo l'abitudine di scrivere un blog mantenere un blog interno su quello che facciamo all'interno del nostro team di infrastruttura per documentare non tanto le soluzioni tecniche che quelle sono sono molto documentata dal punto di vista
+dei dettagli nel repository eccetera ma dal punto di vista delle decisioni che prendiamo quindi le scelte che facciamo
+le decisioni nel contesto della nostra situazione attuale perché poi queste decisioni poi si perdono diciamo se non si documentano si perde la storia del del perché alcune decisioni sono state fatte certo ci sono targhe race tutto quello quello che vuoi però
+usiamo facciamo questa cosa in maniera esplicita che proprio l'altro giorno qualche giorno fa
+diciamo col tema abbiamo l'abitudine di trovarci la mattina virtualmente su slack o su google meet discutere di alcuni problemi quando lo facciamo via chat diciamo c'è un thread jeans lee dove discutiamo un certo aspetto e questo e questo
+qualche giorno fa abbiamo discusso come
+affrontare diciamo nel nostro nella nostra situazione delle l'aspetto di repliche di radice attraverso regioni di the blues diverse abbiamo preso la decisione di cambiare il modo in cui facciamo con cui abbiamo sempre fatto questo allora sto mega
+trad di
+lopez un'ora di discussione ho detto ora sarebbe utile adesso riassumere tutta sta pappardella qua e fare un blog no allora le ho detto ok
+cloud subnet
+letteralmente preso copiato e incollato tutto il thread di slack
+che quando lo incolli come testo viene fuori una schifezza perché ci sono nomi ripetuti c'è sistemi mezzago nota un macello
+e però ho detto fammi un diciamo
+per il nostro blog interno servirebbe una documentazione della decisione che abbiamo preso di modificare il modo in cui facciamo la replica per favore riorganizza tutta sta pappardella in blog post
+oh è venuta fuori una roba completamente usabile certo poi c'erano magari alcuni pezzi che erano per noi e irrilevanti o parlava per esempio
+nella frase si esprimeva con il nostro team di sarri ha deciso che va vabè cosa sono
+come dal punto di vista stilistico non è proprio perfetto però comunque c'è in tre secondi ti ha fatto totò e il blog pronto o no da copiare incollare e ha fatto sospeso qualche minuto in più per pulirlo diciamo però anche quello è
+utilissimo secondo me ciao per documentazione tecnica o
+blog no perché no
+se no aereo perchè puoi effettivamente gli usi anche i normali no mai con i romani per sé il testo e sui gay
+traduci fai
+metti a punti fai un piano c'è tutte le cose che fanno tipicamente con un allarme legato alle cose
+il paper work aziendale se vogliamo ha senso che venga utilizzato
+io mi sto perdendo con sede a tokyo drift e fatali restano
+tanto per vivere sono giusto perché passiamo in modalità cazzeggio questo è una cosa che ha fatto lui based dicendogli family fatali che sembrano delle celle che si beve
+option potrai senza senso per la somma di tali premesse
+così
+e a questo punto un area b
+se scegli attori veramente uno si può mettere a sbizzarrirsi con quattro from tempo interessanti e e non solo li vendono cose interessanti il bello che qualche test inviatemi velocemente direttamente no
+io non ho minimamente idea di come e di cosa è sta roba pace network questo un quasi nel senso che ti puoi immaginare però insomma a me questa sera una mail
+seven ma secondo me è anche diciamo dal punto di vista della democratizzazione no
+se uno non sa niente non sa programmare con strumenti con gli strumenti che ci sono ora che senza dubbio evolveranno ti dà la possibilità di cominciare magari no cioè tutti abbiamo almeno io ho cominciato leggendo sui
+il magazine che c'erano negli anni ottanta
+iscrivendoti copiando i programmi e poi non capivo niente e poi modificando cioè vedendo cosa fa vai a casa o modificare capisci a me l'aspettavo questa variabile controlla quello ha quindi potrebbe aprire ancora di più
+la programmazione e non fine a se stessa ma proprio mi serve qualcosa chiedo aiuto a
+a wuhan o bambini mi fa
+secondo me claude non è a un ipod o qualcosa in più nel senso che questa cosa questo meccanismo degli artifacts molto molto utile ad esempio ho chiesto l'altro giorno
+pretesto cercando di fare un progetto di di un una specie di style transfer tra due immagini da una foto ricavare un altro avatar diciamo una cosa del genere è però voglio volevo farlo from scratch comptoirs no allora aspetto che proviamo cloud
+sonnet
+le ho chiesto di fare questa cosa qua
+un progetto di conversione da un'immagine di input l'immagine di output però voglio usare out from scratch no brown e me mi ha scritto per cinque minuti lasciandomi tre quattro file indicandomi come organizzarli nel progetto c'è la roba
+non ho provato ancora però fantastico no t t se si imposta dalle cose e che poi è l'altra faccia della medaglia di questa democratizzazione e il fatto che toglierà il lavoro in teoria come si dice per el sacco di cose legate a quello che le sanno
+fare ricerche il caso della grafica e clamoroso perché lì è veramente non c'è neanche da sapere scrivere il prompt saper copiare incollare le energie dei codice gli dici due cose ti generale la grafica è pazzesca
+non sono d'accordo su questa cosa secondo me non bisogna aver paura che tolga il lavoro c'è o ci sarà una certa misura di quello sicuro però come sempre
+toglierà al lavoro nella fascia proprio super bassano
+è sempre bisogno di qualcuno che ragiona dietro cioè non non si scappa like
+sì però abbassando così clamorosamente il livello di ingresso e non c'è neanche bisogno di sapere di vedere uno che ne sappia tantissimo per i poeti da dire per scrivere codice c magari e ti basta bere un po' di basi di c e poi una buon
+project engineering e s se vogliamo è
+e come in avatar e lo dice allora l'esempio che avevo e proprio dimostra il contrario nel senso che per adesso
+siamo ben distanti chen l'esempio su cui stavo lavorando che è quello di open xml
+sì sì sì mentre condivido questo schermo così vedi comunque viene giustamente antonio dice si proietta ripetitive di basso livello ben venga questo ai fatti
+e allora diciamo che qui mi ha tolto dei task ripetitive ma mi ha creato dei buchi erano allucinanti allora e anche qua necessario pensare per esempio a me queste sono cose che non aveva definito che poi mi ha definita da solo contatto di numerino ricordato a memoria quindi tanta roba è
+il problema è che ha creato dei bug allucinanti di cui me ne sono accorto
+mentre voi parlavate
+è andato a riprendersi delle funzioni che invece non doveva prenderli in questa maniera per cui queste funzioni ritornavano puntatore nullo e crescevano un'altra qua va bene ok identificate tolte non è comunque questo compito infernale e a scuola
+christie's ha generato da due
+chi ha generato duecentosessanta linee di codice
+e per cui è anche difficile capire dalla sua cosa è questa home alive è questo più o meno perché c'era da imparare che era messa online ho provato a spostare all'esterno perché l'ho provato a spostarlo estrema perché questo flash
+e anche come l'ho scritta io grecia non cambia niente questo da the bunker fa un primo giro e al secondo giro in grecia
+segnala questa interessante c'è se sei esperto magari lo trovi leu isole
+se non lo sei ti perdi li mi reputo abbastanza esperto anche se un po' di anni che non tocco of cgil e non ne ho la più pallida idea del perché non funzioni quindi il problema è che sono abbastanza perso anch'io non è una cosa che mi metterò a sistemare
+probabilmente entro stasera però riesce a creare dei bug che sono veramente difficile da leggere c'è mi hai fatto è generato duecentosessanta righe di codice perché veramente tanta roba poi lo cagherà meno da qualche parte ma semplice riga c'è qualcosa
+è leggermente cosa colonie che modello è
+questo qua lowell high copilot è co pilot
+era un po' indietro diciamo secondo da quello che ho potuto vedere
+statua wind e cloud summit è un pochino indietro e non è detto che faccia meglio che gli altri facciano meglio però
+paolo albert west winston c'è arrivi al punto in cui hai risparmiato un sacco di tempo per generare il codice ed era scritto talmente credibile che devi spendere tutto il tempo non tutto il tempo forse un po' meno però forse un lavoro anche un po' meno interessante
+da capire e ricercare age che ti ha inserito
+però allora secondo me giusto quindi
+c'è in aggiunta cosa potremmo dire se ad esempio no alcune volte jahvè allora questo esempio che tu hai dimostrato se secondo me è l'esempio che fa capire come magari se lo scrivevi tu sì certo magari ci mettevi un po' più
+di tempo però non cadevi in quel vago e misterioso che che invece adesso devi praticamente devi ricominciare da zero a capire tutto no
+una cosa che non hai scritto tu che ha scritto lui ecco quindi da quel punto di vista forse ti complica più la vita però dall'altra parte ci sono anche molti casi in cui ad esempio hai un progetto
+dai dieci step per per implementarlo
+uno dei quali è devi iscriverti un programmino in python che legge da un fail jamal tira fuori converte cioè quella roba è solamente una perdita di tempo non è che devi oddio devo pensare come fare no è solo diciamo il tedio di metterti lì a sc
+scrivere una cosa che funziona no ma se quello dello scrive sonetto me lo scrive o wan ma ben venga che me ne frega a me che devo spendere tempo a scrivere un programmino che parsa lo yamal estrae e converte io gli dico allacciò questo ad esempio
+io qua devo trasformarlo in questo round e mi fa già tutto ma ero cioè ottimo no non è che poi tra l'altro è stato ottiene un lavoro esatto o anche quando devi fare qualcosa che non sai esattamente come fare o non sei la sintassi o blabla invece di cercare su stackoverflow chiede
+al boot
+secondo me è quello che almeno per me e io ho cominciato a usare molto questi modelli durante lavoro normale ma sempre di più le sto introducendo anche nella mia vita per te per esempio ho una pila di scontrini l'ultima roba
+che ho fatto era un po' maniacale ma una pila di scontrini di quando vado a fare la spesa li metto lì sul suo nome alla mia scrivania poi e col telefono faccio tutte le foto le mando a cloud e gli faccio convertire tutti gli scontrini in un file svg
+con data quello che ho comprato prezzo per un prezzo totale prezzo per unità dove l'ho comprato e praticamente mi sta facendo uno spreadsheet
+le cose che io acquisto no perchè poi io vorrei che lui e infatti ho provato l'ha generato una spesa media settimanale
+ok
+l'app che fa questa cosa fai foto a scontrini tipo e organizza tutto al volo velocemente ti spiega quanto spendi in cosa spendi ma fantastico c'è quindi voglio dire
+se uno entra nel meccanismo poi vedi dovunque vedi
+possibili applicazioni no ma è fantastico è fantastico
+come si fa a stare senza una rottura fra un pò ci chiederemo come si faceva senza una serpe in seno
+se questo è vero
+bene dai allora e abbiamo altri altre cose da chiedere ai nostri amati agenti intelligenti o verifiche vogliamo fare l'unica altra cattiveria che mi viene da fare è fargli fare qualche regular expression veramente incasinata a su quello sono forti
+gt e su quello sono fortissimi
+forse ce n'è una ce n'è ce n'è una cattiva parola devo andare a cercare perchè mi è capitato un problema nella conversione di una libreria
+che usava delle regole express un po' troppo avanzate eh eh esiste una libreria che si chiama buster excel in leggi di più eh eh é stata aggiornata all'ultima versione delle regular expression gestite da ecmwf script non mi ricordo quale versione la libreria st
+standard di cipro fiom invece nonostante sia stata disegnata come impronta su bus streghe xche l'esatta praticamente una replica uno uno non è mai stata aggiornata nelle versioni più recenti delle ragazze di ex-manager script ma è rimasta a qualcosa
+che c'era attorno ai primi anni duemila questa libreria usava bus regex e usava quelle quella parte di regex avanzate piacerebbe vedere se la trovo come
+come avrebbe convertito quella parte di codice che era un misto si place place phaeton e regex usando solo regex standard
+il a intanto se avete altro
+allora succede pt neve questo è un prompt di quelli suggeriti aveva prima l'uovo o la gallina ha risposto iv
+ha risposto tornato dicendo che aveva prima loro
+la furiosa scientifico è più probabile che sia stato ruolo almeno questa era semplicemente un prompt che aveva suggerito qua questo qua però qualche quanto interessanti di logica magari ha senso farlo ricordate che
+le cose noi si poneva anche un po' in giro e intelligenze artificiali perché davano risposte sballate a domande semplici apparentemente semplici per noi umani è in realtà a quanto pare adesso sono molto più efficaci nel gestire queste risposte
+non so se avete qualche indovinello di logica
+chi ha internet
+mancherà sempre focus junior project
+mia sorella al doppio dei miei anni ma quando avevo tre anni mia sorella quando negli anni c'era quello che
+fino a qualche tempo fa non ci pigliava per niente e se se se se
+rai anna oltre sua fusione
+allora nata
+e però il problema che lì se prendi uno di quelli popolari saranno nel training set già non è esatto quindi effettivamente un po' io un pò questa roba qua che io non avevo neanche pensato alla risposta ma ho visto la candela
+lo stupido però make-up
+si qua effettivamente se
+se la prese da internet è facile però lo spiega
+situata su youtube
+a questo classico
+neanche questo è un classico
+sapete la risposta peter che questa esperienza durata che faccia a faccia figliolo trentasei anni in due sapendo che il padre ha trenta anni più del figlio quanti anni ha il figlio a
+è stato attraverso un iter di solito non ci pigliano niente rabbia un po' i nomi li vediamo ma qual è la risposta
+non sapete
+una lacrima bagno un attimo non sei ovviamente perché non è esatta
+non ho guardato ma sarà tre non ho tre trentatré
+giusto tre trentatré vediamo ma no ma questa la fa quasi sicuramente
+ha fatto il calcolino al giorno a circa tre anni alla fine oceaniche a due sono saint charles darwin ha fatto la lezioncina da
+a questo però era un classico che poi non gli hanno abituati a
+eh va bè no comunque insomma succhia per cose osanna diciamo ai modelli hogan sono fatti apposta non training specifico per seguire questo cosiddetto oceano of no se è quello che fanno e si auto pronta no da soli
+con il genoa foot e poi ti generano la risposta sì tra l'altro leggevo che non dicono
+cioè non ti fanno vedere tutti tutti tutti i processi che fanno interna mauri no anche per questioni di sicurezza e di evitare comunque è questa systems card che dicevo prima questo documenta documentazione di modelli you will cioè quello che hanno fatto è veramente
+eccezionale fanno un lavoro anche di ryan timing del modello quindi hanno
+ho utilizzato diverse aziende ne pare due o anche più aziende che si sono messi lì con i loro tester hard times a blindare modelli c'è veramente un lavoro
+forte eh
+salutate la lettera se stessi e comunque
+cioè se il modello inizia a pensare così e pensare e non appunto mettere insieme touchscreen
+godere stocastici cellule secondo probabilità di sequenze e qua c'è ci si avvicina velocemente no a entità pensanti in qualche modo che ragionano e che fanno
+appunto
+processi di ragionamento deduzione induzione e così via su un su qualsiasi cosa nessuno insegna come si suol dire noci sebbene legga e dietro la porta e l'elefante nella stanza e ci salutiamo sempre però insomma mi seguono passi avanti notevoli no non si può neanche più dire che si tratta semplicemente
+di le parole più probabili che facevano mai stato con questi modelli è mai veramente
+è la classica cosa e mette insieme le parole secondo la sequenza più probabile che debba essere
+ma quell'anno
+ciao forse poteva essere il caso per gpt uno oggi più di due ma se appunto no per dire comunque si sta facendo molto in più rispetto a questo quindi è insomma sicuramente sì
+eh va bè abbiamo altre domande da fare questi modelli
+dopo la domanda di iren ex non l'ho trovata quindi dispiace
+anas cassa inglese
+il suo destino tra tre porte la porta rossa nasconde all'inferno con la blu un assassinio la verde tre leoni
+io avea verde che tanti leoni saranno morti no vediamo
+sorso d'acqua questa nave avessero il mio mesi a tre anni che sono morti facciamo e prove però eh ripeto che tiene a vite poi se se ha indicizzato
+vediamo se camuffiamo un po'
+ma no questo no l'altro non la camuffa così perché
+perché il meccanismo di self tennyson
+infallibile
+eh va beh vediamo un po'
+sì no però porta grigia si
+però comunque al netto del perché questo
+océ può averlo indicizzato ma questo no
+c'è la sua deduzione su che cos'è il
+l'inferno dove si sogna aprire agli assassini e che vede l'europa come cambiarla prova caviamo dicendo un orso che non mangia da tre mesi
+si aprirà sarà l'inverno magari sa esattamente e perché questo è
+fatti massimo
+trionfo
+era proprio quello del ragionamento cioè
+rewards che amazon a tre led da tre mesi
+perché e come diceva come tutti gli animali allora
+beh però insomma sempre meglio tre rosse che le assassine nave amena normale non un'assassina potrebbero mai non ammazzate a tutti i costi quindi
+william
+eh è probabile wow è
+e invece no però non perché sono morti ha detto che è altamente improbabile che siano vivi
+però ne vai non è non ha sbagliato e non non è sbagliato ma non è neanche giusto
+andiamo ancora si dice
+a padova
+che c'ha soldi e adesso sono svegliate ripago per svegliarsi sono svegliata albergo però ha fame
+sono lacrime miste eoliche che sia outdoor
+va allora non so se vi ricordate ma va
+il fatto che sono in letargo sono inattivi e quindi
+se vi ricordate tempo fa era uscito diversi anni fa
+era uscito
+gpt dungeon una cosa del genere no non era ciò gpt gpt dungeon una cosa del genere
+ha cambiato idea scuse e credessero per gli orsi si sono svegliate aspetta dice quindi l'assassino dovrebbe scegliere la porta blu ma non è s no quali socio adesso è in fondo dice quindi l'assassino dovrebbe scegliere una porta blu bay
+flash of the shell
+eccome no no sei stupido servita un assassino che sceglie la porzione no era la nostra famiglia diceva si segue un assassino deve scegliere il suo destino fatale a ocean assassinare scusate la porta era mai accaduto prima degli assassini però adesso dopo che i tre si sono rappresentati nel letargo affamato
+se il territorio sia prevedibile pepe
+se invece gli assassini anche se pericolosa potrebbe soffrire una possibile negoziazione e combattimento o fuga è sembrato persone umane c'è una certa positività rispetto alla solita naturale con inferno è ottimo e ragionato di tutto è per questo che si cieco
+non male non male dai e se è obsoleto questo ranghi dei rischi che ciò che è interessante è
+vediamo un po' step com'era prende visto creata pasticche l'inferno
+the l'ex ad altri artisti
+ciao siamo partiti per jonathan haidt jaguar
+nel febbraio del suo regno naturale e qui segue il suo territorio di
+a me quasi rasata a questo punto
+e se
+la porta
+stiamo poco serie
+super satana vi fosse meglio il paradiso tre assassini viveva dagli scrutini perché si riprende se li porta da sola ed io non potevo ma poi ho capito un pò come da
+e qui si dirà che l'analisi swot ma vi piace questa
+lonato dai paralisi
+poetessa per esempio il luogo in contrasto diretto con il dominio di satana vantaggi potrebbe
+opera blitz del paradiso ma questo comporta rischi significativi
+questa
+pepe medesima espressione di server e quindi cosa dice fruttagel ok
+anna aspetta cos'è azioni finali eh conclusione cassata in adozione aggiornate sarebbe la porta blu e assassini ragioni è bene
+per espandere il suo dominio realizzare i suoi piani
+scarpe rebel dai questa non è male comunque ragiona bene il ragazzo e anche con una certa logica
+finché il potenziamento
+collabora con altri assassini potrebbero forzare il potere
+le affida che
+sai che questo mi fa venire in mente dicevo si chiamava non si non si chiamava gbp teenager si chiamava ai dungeon
+credo sia ancora in linea
+sullo stile di quelle vecchie avventure testuali che c'erano una volta e qualcuno se ci sono ancora è però generata da dai primi modelli gpt
+adesso c'è vedi vedi com'è divertente no potrebbe essere assolutamente interessante continuare con lo stivale anche becker qua e c'è e divertente appunto le le le spiegazioni che fa no a percorrere grazie veramente tutto quanto è gestibile senza si potrebbe sulla distanza
+zione inutile passatempo che potrebbe
+perché concentrarsi su alleanze potenziamenti
+airwell beh dai comunque
+oh certa che affronta minacce fisiche immediate come gli orsi per satana
+vediamo però solo mettendovi
+a corso di biologia
+i russi sono
+beh potevate costrizione di satana difendersi o esiste una situazione potenzialmente incontrollabile in fiamme la messa giusta messa giusta esteso anche passavano attraverso una scocciatura a che fare con lei józsef me
+eh però non è male è questa
+quest'oceano foto
+checché si prende dietro al nostro owen mini
+in teoria è quello più veloce
+serve non può smontarlo però
+è pokémon
+vedere avevamo qualche promoter verrebbe ne fatto code red team ari di cosmo immagino avverrà
+arquata in tutti i modi per capire di back in action di arrow beh no non pensavo che jack sarebbe bello smontare dicevo cervello vedere all'interno cosa veramente fa e com'è veramente
+qua dice io ho chiesto chi sono i whitesnake sentiva spiegato tutto viviamo severo non credo
+mi meraviglierei
+sarebbe un po' troppo aggiornato
+però quella lacrima pokémon serie
+fino a ottawa noi duemilaventitre non mi ricordo quando ho iniziato era aveva iniziato sicuramente ha inizio duemilaventitre
+esatto veniva che non ci conosce nessuno di questi west is good fight club movimento sociale
+che può dire qualità online
+ha estinto il fuoco su temi sono stati sovrano reggente del passato e progetto creativo artistico e ho chieso a buttafuori un po' di ipo ipotesi è che haider ragiona ragazza e buttai fai illazioni no mette dentro possibili e tutto sommato
+civici capite e rapine questo ovviamente va bè è timido fondi ultimi dettagli
+bene
+richiamalo podcast mi sembra un po' esagerato
+analisi critica pure ne ho visto passare loro impatto sulla
+qua e qua è quando prende sbarella no e inventa l'ho visto correre di opinionisti fare
+perché volevo capire se sono possibili tematiche
+iodice cieco lo conosce neanche kebab io non non ci calcola ragazzi e poi con
+se vuoi wind e calcolati nostalgia tecnologica cultura pop storiche a fumetti serie tv non ci siamo
+sì no però comunque sono i suoi dilatatore su quello che potrebbero tematiche possibile in effetti hai ragione allora l'uno ci siamo due no ma su tre già ci siamo di nuovo perché storia dell'innovazione
+se gli rangers vabbè vabbè comunque agoda e poi si basa solo sul nome quindi il pathos della tecnologia ha senso c'è guerra
+quattro su cinque hanno senso di te sono esattamente quello che facciamo quindi ha ipotizzato bene ha ipotizzato ha ipotizzato però non ci conosce e sa che sei avvocato materialista
+in realtà gadget di prenderci per il culo
+è bello tosto fatto cuocere non so se anche sul mini la limitazione dei quanti quelli puoi fare
+centoventotto cappa di context l'ente iniziò a essere abbastanza
+questo è il quattro quattro qui invece stiamo usando il one man o anche a no quattro km
+altri controlli hanno sono la stessa cosa quindi
+ma è in realtà da quel che ho capito owen sono quelli nuovi
+no mi confondo perché quattro è venuto fuori abbastanza in sordina poi sono venuti fuori huawei poco dopo
+dice rowan fosse sono quelli
+credo che non abbiano usato
+alt shift t per generare la documentazione
+infatti perché vedi che poi sono non sono ancora non ancora giornata richiama avrebbero dovuto usare nei casi di ragionare documentazione non l'hanno fatto
+quindi cosima dovresti consigliargli di
+anche loro di usarle già esibiti per aggiornare la documentazione
+sì che poi qua con un volto
+okay è sinon owen sono nuovi allora mi sembra rispetto alla ah io quindi in teoria questo aeree e se il grosso e seppe cabeceo o quattro uomini e quattro legacy
+è già vecchio gpt quattro eudes
+ebay
+va bene dai è
+direi che se non abbiamo ulteriori domande anche da antonio se vuoi anche tu chiedere e suggerirci qualche brontë per owen o se non avevate cosa approfondire il nostro giro su su chioggia pitt devo dire che questa cosa dell' orso mi a me è piaciuta e come
+ha girato e cuneo ha elaborato le cose e anche non male rockaway e cazzolata s per servizio non avrà cara all'inizio non aveva capito però avere totalmente sono
+se hai ragione perchè il letargo però anche te eli tre mesi senza mangiare
+estremo che e viaggeranno frittata come modelli sì esatto questo deve seguire una nuova caratteristica cui aveva sei un prezzo extra
+io volevo un colore solo magari un'ultima cosa segnalare
+diciamo come adesso mi sono buttato su questa prova di cloud una cosa molto interessante di cloud e che è possibile
+creare un progetto quindi depositare dei file nel nel contesto del black out the cloud e utilizzarle come contesto della chat dove poi puoi fare riferimento a tutti i fans che fanno parte del progetto puoi avere diversi progetti e mi sembra una cosa molto interess
+che ho provato ad usare non ho avuto ancora molto successo ma perché può causare pdf e altre cose
+però mi sembra molto molto interessante probabilmente open ehi hai farà lo stesso
+anche lei beige aggiornare no anche aggiungere file e a
+conoscono bene ottenere un certo ip poi caricare delle immagini o dei pdf enel nelle chat singole ma non mi pare che si possa come dire costruire una base di fan a ocean specie di raga tuo casto e nato e usato solo verso una pac
+gamento arden park e quindi si può credo
+beh non l'avevo ancora vista diciamo questo l'avevo vista solo in cloud in tropic
+mi sembrava molto interessante e se si si si aspettano è che
+va beh sì comunque stanno facendo dei grossi questa cosa what place efficienti di claude una gran bella cosa è e può essere anche utile per l'appunto
+per dei progetti come khaled said
+è
+ne vedremo delle belle comunque in due anni ne vai già viste
+e adesso non so secondo voi come siamo nella curva del live poi dopo dell'area divisionale poi delage grecia continua
+secondo il pattern classici però anche se se fosse neve se potessi prevederlo sarà il miliardario probabilmente ciò diventerà il miliardario perché diventeremmo se potessi prevederlo perché è prevedere quando ci sarà la caduta del live se ci sarà la tutela live e
+è stregoneria
+beh per qualcuno c'è e c'è già stata in parte no
+certo un raffreddamento degli investimenti eh c'è stato per certi aspetti nelle nelle colpe dei venture capitalist però molto creativo non è stato un crollo come dio e nostra taiyuan e comunque i grossi player stanno continuando a investire quindi
+news significa e cosa cosa succederà è difficile prevederlo perché comunque leggevo un po' di articoli che dicevano i
+i grossi player sanno che è adesso possono anch'essi investono adesso e poi succede qualcosa
+essere qualcosa nel senso che viene sviluppato qualcosa avranno dei ritorni e se non lo fanno e succede qualcosa c'è si sviluppa l'hai
+in una certa direzione chi non ha investito prima a casa
+chiuderà bottega probabilmente quindi essendo una cosa che trasformerà molto il rischio è di rimanere di diventare blockbuster cioè quelli che più si adattano al mercato perché non arnall investito in un modello diverso hanno ottenuto il modello vecchio
+perdono e vengono e falliscono sostanzialmente
+tronco e a un ambiente brutale perché questi modelli ormai parlano di miliardi di dollari di investimento per fare un training di un nuovo modello quelli che cercano cose follia
+veramente semplice e poi come giustamente
+ci sono molti investimenti s l m
+venne decapitato di partecipare a una conferenza che la conferenza di lima organizzata da medico cioè da una persona che è principalmente tripla interessata aree dal punto di vista medico
+e lui diceva appunto che da studi fatti il problema dei medici e che subiscono molto c'è una variabilità nella loro performance di
+intuizione o di
+lettura delle carte e delle e degli esami clinici che varia molto a seconda del momento della giornata della stanchezza del lear di quello che è successo durante il giorno cioè sembra che sia e non
+non da zero a cento proprio comunque abbiano una discreta variabilità per motivi di stress di stanchezza e di altre cose cosa che una macchina per fortuna non ha quindi se la macchina analizza la stessa immagine dieci volte trova gli stessi risultati meno
+sì no infatti c'è da sperare ed aspettarsi che qualche notevole passo avanti in ambito medico ma anche in ambito che ne so scienza dei materiali ricerca di base e
+cioè ci sia no etc
+non servono soltanto per fare riassunti o papà e immaginette o scrive quattro righe di codice se sono così efficaci nel farlo per questa attività è possibile è probabile che poi in poi le applicazioni più specifiche in campi specifici poi magari vengono non sono note al grande pubblico però
+ci sono poi fosse in ambito medico o sai c'è molta
+segue i tempi i feedback sono più lunghi anche a livello di sperimentazione so di farmaci piuttosto che copre che dicevano era accanita il l'unione delle due cose cioè
+avere uno strumento che punti nel nel posto giusto non necessariamente che dia l'assoluzione ma che dia suggerimento è di quali sono i problemi più importanti o o per esempio nel caso di analisi di emerald di puntare all'
+june aree sospette non necessariamente viene a dire questo e horkheimer nella recensione si no
+ma
+porre la menzione del medico al fine di cose specifiche infatti ha dato io mi arriva una newsletter però legate al mondo dell'intelligenza artificiale in ambito medico e
+c'è un sacco di dio ci fa riferimento anche lì e va da sé dice
+quindi speriamo che i risultati arrivino presto comunque arrivino bene detto questo direi che per stasera ne aveva abbastanza che dite
+cosimo vogliamo dei di sé
+vogliamo spendere le tue ultime due parole per chiudere e marco poi a
+dal mio diciamo da parte mia direi che il periodo è assolutamente interessante fermento su questi strumenti è veramente alto
+come dicono in inglese nel water time to be alive no
+si vedrà dove arriveremo ma
+ripeto ancora una volta per me è interessantissimo andare poi a studiare come funzionano queste cose quindi mi sto facendo i miei progettini le mie cose
+per diciamo in piccola scala
+a capire più a fondo su cosa si basano queste tecnologie provare con i miei piccoli progetti
+ultima e ultimissima cosa se qualcuno è interessato ad utilizzare questo tipo di modelli
+più piccoli sul proprio computer a casa magari con una scheda
+video da gaming è possibile utilizzare un'applicazione che si chiama ellen studio lo studio e provare questi modelli direttamente sul proprio computer non ho wan diciamo cloud olio roswell
+quelli open source e più piccoli e quantizzati quindi da poter farli girare su computer di casa ed è comunque interessante giusto così da bruxelles e tra l'altro le lemme studio anche questa funzionerà di fare le piace una nebbia di openai quindi uno può svilupparsi in locale sul pc
+hogan meno che parla con hope ne hai anche se poi in realtà il tuo modello che gira in locale e farsi le sue cose appunto senza avere necessità di accedere all'app con i costi del caso sia il mio studio una figata bellissimo e
+marco un'élite le tue ultime parole
+signora le mie parole e va verso questa puntata quasi anche un pò costretto a riguardare cosa che ho fatto in passato e cosa avevo fede e
+cosa sta succedendo adesso perché comunque poi gli esperimenti che avevo fatto li ho rifatti
+che ho fatto un annetto fa ho qualche decina di mesi fa
+e devo dire che sono cambiate le cose cioè onestamente anche il fatto di aver generato con trecento linee di codice che comunque averlo portato a compilare in meno di un quarto d'ora direi c'è scritto tra centri di codice compilato è stato un bel passo nelle
+blog che avevo fatto la volta precedente era era a confronto un disastro ore per cercare di fare qualcosa che anche con pilar se quindi tutto sommato l'evoluzione mi sembra buono
+nel corso del
+beh non parlo in generale eh ma parlo delle
+specifico di quelle per il codice secondo me come diceva ma infatti sono curioso di vedere quello strumento che diceva cosimo perché
+qualcosa che funzioni a livello di progetto è sicuramente più interessante di qualcosa che lavora a livello di file
+eh onestamente
+mi sembra che copilot qualcosa a livello di progetto lo faccia però non ho capito come
+e se a livello cioè se si ha accesso ai teli senza l'informazione indietro il compilatore oppure no non l'ho capito quindi devo devo comunque tornarci sopra vedere bene come funziona
+però quello che interesserebbe a me e come diceva lui anche cosimo è qualcosa che ti aiuti in de large cioè sul progetto grosso a capire come entrarci perché nel piccolo siamo anche noi capaci di capire una funzione come funziona
+come funzionano leggere un file di mille righe non è un problema invece arrivare a leggere un progetto di un milione di righe e riuscire a capire quali sono le funzioni che svolgono una certa parte o individuare quali sono le parti
+siti del codice che interessa analizzare è una cosa adesso impensabile
+eh
+comunque avevo fatto già un po di messaggi un po dei vari strumenti che possono usare in locale è effettivamente bello c'è un sacco di roba pista end foro lama la mafai helen studio prima che tutto questo sapere retreats d'invidia free chat box locale da come gongola
+marco e
+direi grazie grazie cose marco per stasera galli interventi grazie a tutti quanti nella chat per sette minuti aver fatto domande antonio e luciano gheri vi aspettiamo online anche voi prima o poi alla prossima occasione
+toni e noi ci si becca anche lunedì prossimo

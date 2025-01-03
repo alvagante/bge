@@ -1,0 +1,547 @@
+e quindi siamo arrivati alla puntata quarantanove della brigata degli istinti in cui parliamo di flops e lo facciamo con francesco cambiaso airways gates che ormai conosciamo tutti per cui subito francesco breve presentazione e poi entriamo nel merito allora a tutti buona serata
+parto dicendo che sono ligure e belen quando si parla di palanche capite che c'è un collegamento con fino a un sempre attenti alle palanche che sono geneticamente allergico agli sprechi era in liguria da secoli abbiamo costruito le case in mezzo fra la
+mare la montagna per stretti senza sprecare centimetri e io
+da piccolo
+proprio nel dna perché da piccolo ma m'è tornato in mente un episodio che avete presente quegli album di fotografie che
+ti dava il fotografo quando portavi rullino a sviluppare di solito avevano forum
+una quarantina di pagine e magari avevi trentasei foto e quindi avrò avuto otto anni vedevo tutti questi album con le ultime quattro pagine vuote e a me sta cosa da fastidio definiva ho consolidato no ho messo insieme le foto del mare della montagna del duemila decennio millenovecentottanta
+ottantadue ottantaquattro e bello orgoglioso ho portato mia mamma a far vedere guarda ho recuperato due due album
+bocca adesso sono vuoti e e praticamente avevo fatto job matching quello che si fa oggi con kubernetes e mia mamma però non aveva capito che mi avrebbero pagato per fare questo genere di consolidamenti ma ha sgridato
+messo insieme tutte le foto diverse quindi hai fatto la cd hacking per eliminare i fogli vuoti alla fine
+poi ho cominciato a programmare programmare ho incominciato a giocare con il basic con logitech spectrum quarantotto cappa in quarantotto kilobyte di dirham
+con lei le riviste prese in edicola il gruppo editoriale jackson quelli con la cassettina e già allora learning funzionava bene
+laurea in ingegneria informatica primo lavoro in team come sviluppatore java ai tempi kde degli interpreti si chiama bin sh
+da lì il passaggio in pagine pagine gialle dove talpe abbiamo lavorato tutti assieme per qualche anno è
+l
+già nel duemiladodici
+ero innamorato di the blues ma non è stato amore a prima vista perchè c'era anche rackspace che avevamo valutato e tempi rackspace era molto quotata come competitor dieta blues e alla fine avevo portato in seat pagine gialle in via grosio milano nicola previati quello che sarebbe poi diventata
+il country manager di the sky italia
+allora ci erano solo il lussemburgo
+per farmi spiegare e blues anche a tutti gli sviluppatori
+c'era era venuto anche il mitico danilo boccia che all'epoca penso fosse l'unico tecnico italiano di essa
+da lì siamo partiti
+quindi siamo passati gradualmente da una colocation
+alla classica migrazione in cloud quindi è sempre al posto dei capponi
+è stato un bel viaggio verso la nuvola è proprio anche lei fin da subito ho capito che bisognava stare attenti ai costi
+già da subito
+prima reservations
+e-mail ed era lì qualche dare una guerra all'epoca da cambiaso era un casino
+frugalità e frugalità è anche uno dei valori docebo oggi
+puoi sempre all'epoca
+ero
+mi aveva convinto anche il fast i primi tour surf per the box come new relic che era molto meglio del vecchio agos e oggi docebo a tutto sas cento percento salvo per il proprio it interno ehm ecco poi appunto nel duemiladiciassette sono passato a docebo che all'epoca
+aveva due trecento dipendenti oggi siamo quasi mille quotati alla borsa di toronto nasdaq
+uno dei pochi unicorni italiani che a un prodotto cento per cento sas
+è un sistema di learning e un led learning management system e non vediamo non vendiamo corsi ma vendiamo la piattaforma per fare corsi lo vendiamo a ed da blue stessa e blues che ha costruito su steve wilder che è il loro servizio dove
+puoi imparare il cloud
+studiare per tutte le loro certificazioni docebo lo vendiamo anche un'altra big tech una delle big five e lo vendiamo netflix a migliaia di aziende in tutto il mondo alcune veramente molto bella
+ehm in docebo siamo il novantanove per cento su e da playoff come prodotto utilizziamo quasi cento servizi diversi diede bluff
+il ciclo è l'ottimo francesco dominidiato che era venuto anche qui
+un illustre esponente della community già l'italiano e ambiente inclusivo e lgbt oknoplast
+ci crediamo davvero una bella famiglia assumiamo quindi se siete in gamba mandate il curriculum
+docebo sono entrato come infrastruttura engineer
+nel team devops
+nel duemiladiciassette docebo cresceva tipo del settanta per cento over-ear ma in quel momento le spese da blues crescevano del duecento per cento e ia ruberia e quindi all'inizio oltre che fare classico sistemista mi sono già occupato mi ero già occupato subito di cost optimization e come potete immaginare
+la gente era focalizzata sulla crescita nessuno guardava i costi e quindi c'era all'inizio una marea di queens di saving proprio facili facili e nel giro di pochi mesi eravamo riusciti a dimezzare la bolletta a west e allora scusa prima domanda così interrompiamo il modo nuovo tanto hardisk navi
+presentazioni di saltiamo direttamente le big wills iniziali come sono stati i primi corsi tagli di costi allora mancavano tante reservations sia sui sei tu che su skywards che su last catch elasticsearch che gli mancavano il reservation e li fai e il cinquanta per cento facile facile poi
+magari vi racconto qualche
+trucco per sfruttare bene le convertible
+una delle cose inedite che di cui vi accennavo prima
+e poi tante allora mi ricordo c'era lo tutto lo storage aree di esse con provision da jobs che era quello più prestazionale ma alla fine era overkill perchè lo pagavi dieci volte lo storage gbp due che all'epoca era quello standard e me
+ma non ti dava veramente performance in più cioè anche con lo storage gipi due magari
+facendo over provisioning di storage riuscivi comunque ad ottenere tutti gli iops che ti servivano
+ehm beh poi abbiamo fatto accordi con il blues quindi praga pricing tenete presente che l'account manager e da essere il vostro miglior amico e rompete le scatole ogni giorno
+se utilizzate in maniera massiva qualche servizio anche se non c'è lo sconto ufficiale chiedeteglielo perchè di solito riescono a venirti incontro e
+c'erano anche cose tipo macchine c due comprate
+come come
+baby hair metal quindi con l'opzione di avere il l'hardware dedicato test probabilmente qualcuno avrà sbagliato a cliccare no mandò
+l'anci nelle due lutero chiedere la power metal e quello era tipo quattro cappa al mese solo per una semplice c due che per sbaglio era stata fatta per metà avevamo forse anche non avevamo messo la partita iva per cui pagavamo le tasse e l'iva e non uno cose di quel tipo
+può anche a livello amministrativo c'erano problemi se i queen che mi ricordo ora erano previsti come me
+qui è esattamente quello per cui è nato il remo inox no cioè tutti gli scenari possibili e immaginabili a intendi che di ottimizzazioni possibili noia sull'ottimizzazione ma il fatto che tu hai scoperto un sacco di problemi che con una visibilità più completa a trecentosessanta gradi dell'azienda sarebbero stati
+gli identificati facilmente no c'erano all'epoca non avevamo neanche la possibilità di se non sbaglio neanche di settare un budget su sky gamblers no
+e lo ricordo bene quando la implorerà introdotto eseguirà materiale qualcosa tipo del duemiladiciotto si
+sì tutta la parte di ghost reporting e monitoring lieta blast negli anni è cresciuta tantissimo con come tutto il resto quindi nel duemilatredici non c'era neanche cloud strada quindi non non avevi l'auditing è che per un enterprise non era tanto accettabile il costo explorer che lo strumento principale
+negli ultimi anni si è evoluto tantissimo siamo passati alla granularità oraria per vedere i costi e adesso addirittura ci sono più di tre anni di retention riesce a capire tutti gli errori che ho fatto anni fa
+ecco il costo anomaly detection e quindi è in realtà un semplice machine learning che ti identifica dei trend anomali nei tuoi costi a livello di account a livello di singolo servizio può anche a livello di singola hudal dal singolo line
+e questo è importante quando scali la costa anomaly detection perché non riesci più a stare dietro a tutto e quindi ci vuole qualcosa che si accorge dell'anomalia aperto agli studenti che hai citato di pulire relativi di the blue sky te ha senso affidarsi anche qualche altro strumento magari sul mercato servizi erano ricchi cene
+solo
+e allora di tool ce n'è
+forse un centinaio fra commerciali open source
+di solito cominciano tutti con cloud of clouds fix slow juicer laudabil di cloud zero claude custodia ryan
+il park my cloud c'era una volta quello per spegnere automaticamente le macchine degli sviluppatori la sera e poi ecco anche lì è uscito il leda blues instance scheduler e park my cloud ho fallito o è stata acquisita da qualcuno perché l'inizio del servizio da blues che facciamo lo stesso mestiere
+allora io non sono un grande fan di betulle di terze parti perché a quelli fatti bene risposta no
+fa si prendono una quota dei kering
+emily non ti danno tre sei solo e da blue si passano secondo me i servizi nativi e debolezze
+se vuoi avere il singolo penny of life con google cloud oracolo tutto forse può aver senso di un telemetro è che il buon gary ci suggerisce incerto cosa mi sai dire
+uno
+allora immagino che sia qualcosa per chi ha a che fare con l' application performance management slot quindi non c'entra tanto per i costi ma più assolutamente potresti utilizzarlo perché tu puoi neanche so a ridirezionare magari tutto cloud trail verso un servizio che raccoglie i log all' open telemetri o
+però lo scopo è quello di avere uno standard per tracciare le richieste per esempio che passano tra i vari israeliano più che uno strumento secolo xi esaltò che risate ci sono varie implementazioni vari servizi che supportano se non sbaglio anche qualcuno dei servizi di cui potrei dire una cosa sbagliata proprio come si eviti di ama
+tony e lo supporta nativamente sicchè extra
+non so se lui se non sbaglio c'è non sono più adesso non sono molto afferrato su sulla parte di telemetria dei servizi però le agenzie no però il discorso qua secondo me sui tools posso fare una piccola parentesi no perché
+secondo me lo scenario più un po' più ampio no perché noi stiamo parlando di clown e clown che ci interessa a noi non parliamo di e i dadi etc
+e magari oppure ora con qualche sono però in realtà in questo momento quando in un'azienda ed esci dalla hit parla di cloud in realtà comprende api o stress dei cinque google workspace
+un sacco di strumenti che genera costi verso l'azienda no lo inviò a modesto
+cosa webcam va noi avevamo un certo punto degli account gamba che non utilizzava nessuno che erano briciole no però briciole che magari raccolte tutte insieme facevano un bel gruzzoletto che poteva essere investito in qualcos'altro no quindi per questo magari
+so avere se ci sono ma perché so che
+esiste un framework un tentativo almeno di standardizzare il concetto di inox no
+uno o un'associazione un qualcosa dietro non sono ferratissimo sul concetto come però io ho fatto una ricerca qualche mese fa e non ho visto uno strumento al momento sono in grado di coprire almeno io non l'ho trovato uno strumento che coprono tre sessanta in bag
+sarà ma abbastanza standard tutti questi aspetti
+e allora abbiamo parlato di tre argomenti grossi
+allora adesso vado
+l'area intanto i kit surf che su cui sono parecchio coinvolto perchè poi dal duemilaventi io ho chiesto all'azienda di focalizzarmi su knopfler e quindi dal duemilaventi praticamente io spendo metà del mio tempo sull'ottimizzazione iaaf e da blues un po' di gossip e l'altro cinquanta per cento sulla ottimizzazione dei software
+fase invece ne abbiamo più di duecento e la spesa su docebo è tipo il doppio della spesa
+e tablet quindi assolutamente a senso ottimizzare anche i vari facebook e atlassian in quel sweet room perché anche lì hai tutti i problemi di tool duplicati degli inattivi users infatti anche se gli utenti non lo usano e allora non c'è
+è un tool che gestisce bene sia la parte
+casas però ci sono tanti tool che gestiscono bene la parte sas
+noi dal duemilaventi utilizziamo un certo blitz culi che poi è stato acquisito da vendere quindi ti fa la detection automatica di tutti turca in azienda perché lui si collega al tuo singolo non si può un buco il login li vede cuciture che usano il e aziendale
+si collega anche netsuite dal tuo gestionale per prendere le fatture
+riescono anche a farti lo scanner delle mail su gmail per prendere le fatture che arrivano via mail
+ricostruiscono il sistema of record di tutti i tuoi sul gas e poi la cosa figa di vendor che consiglio a tutti e che ti fanno la negoziazione cioè sono dei baker e ht service quindi loro negoziano l'acquisto e il rinnovo di whatsapp
+per migliaia di aziende in giro per il mondo e hanno un database team di ricotta di insight
+pazzesco per cui sanno per ogni software qual è lo sconto che puoi ottenere qual è il vero fritz e quindi riesce a bilanciare l'asimmetria informativa che c'è fra chi ti vende ti comprano i giochi un po' a alla pari mentre si chiamano esattamente vendo
+e vendor senza logos denver the band rock and roll
+e giusto per del software viene venduta recuperato dall'aereo
+tre utenti dopo il primo anno che l'abbiamo usato e non solo abbiamo pagato sulle cinquanta cappellano chef già fatto cinquecento cazzo di serie anche di piuma force e l'unica ti fa risparmiare tempo perché gestire tutta la negoziazione
+età i consumi
+è lunga george uno umano dall'altra parte che prende in mano la tua pratica gestisce il bayer service è un umano che si smazza i rinnovi ogni or biaf stato il bar e puoi farlo negoziare direttamente a lui quindi
+dici al tuo player parla con lui oppure fanno il background porta dietro le quinte di negozi tv magari se il suo player flash player critico ci tiene a tenere il rapporto
+installare le utility come per avere informazioni intelligence esaltano le cose rate transfer baseball molto interessante scusa ho fatto un po' scivolare il discorso ritorniamo su su su e poi credo che attualmente voi gestite principalmente dubbio è se gissi pino e nanami
+non ami avere tool esterni quindi uno sfogo che stai utilizzando gli strumenti che queste due piattaforme mettono a disposizione per come lo definiresti tu in un'azienda cos'è inox e quali sono secondo te quelle fasi che lo rendono approcciabile per un'azienda hayley sta ridendo perché gli è stato trasformato il giardino
+bushnell
+meglio così
+no no no no perché sono curioso di questa cosa qua perché un cliente che ho in questo momento ha problemi di costi e vorrei avvicinarlo a questo moon francesco perché non fornì non crei la business unit di docebo che dà consulenza fino a terzi
+e allora se non ti pago
+la abeba scherzi a parte fu pure febbo ligure lele consulenza e le faccio pro bono
+non emetto fattura da attuare e allora
+è il framework inox quello ufficiale della fondation vi dico una cosa di troppo perché a lei francesco franceschi scusa vita alessandro ha fatto la prima versione dell'infrastruttura fino dai rami e tu l'hai fatto la prima ottimizzazione
+anni fa anni fa perché l'hai fatta ottimizzare francesco voi stessi dopo che tu l'hai finito e lui si è collegato come si usa costi
+questi duecento euro sprecati quelli
+ebbene con palanche
+allora arabia equinox foundation va bè non segua la bibbia prima edizione seconda edizione più più grossa
+è una fa parte della linux foundation e propone questo framework operativo e che quindi una pratica culturale dove l'obiettivo è massimizzare il valore aziendale del cloud permette le decisioni tempestive basate sui dati e creare awareness responsabilità finanziaria at
+attraverso la collaborazione fra i team di ingegneria finanza e piscine quindi è un pò il devops esteso al finance cosa si fa
+vedendo non è chi dai non ti insegna a fare eco saving specifici è più un framework
+alla fine tweet
+si divide in fasi
+l'approccio alla costa optimization e spiega l'importanza della reportistica dei forecast cost splitting dividere capex opex
+come promuovere in azienda la la financial accountability rendere tutti team consapevoli che qualunque cosa fanno su e da blues la pagano
+promuove quindi la collaborazione fra diversi team inox è un po' come il mediatore culturale che abbatta i ponti abbattere i silos tutto preso molto da da devops infatti mi pare che chi aveva coniato il termine fino si era rifatto la definizione
+quella del rey fenix project dream incontri quindi prima si chiamava cost optimization dal duemiladiciassette è nato il termine flops però secondo me
+poi non è particolarmente legato al cloud si poteva fare film cost optimization anteprima anche con il datacenter un preme solo che la la scala temporale era molto diversa tu prima facevi un saving e il risultato lo vedevi magari dopo un anno quando rinnovabile licenze oracle o quando dovevi fare il refresh della
+hardware o quando dovevi contrattare il contratto tipo location nel cloud e il saving lo vede in tempo reale e spegni qualcosa il risultato lo vedi subito e questo per uno che è malato come me di halle sei vedi spread che si è
+e di e diventa gruppo immediato e dopamina dopamina meglio meglio di instagram meglio di che si tratta
+e infatti bisogna stare attenti a non esagerare a non esagerare a non farsi prendere la mano cancelliamo questi vecchi snapshot del duemilaventi poi scopri che segue no no vai avanti vai avanti progetti su framework of jobs
+tutta l'impostazione che c'è intorno sì allora
+è terminato cioè se si toccano tantissimi aspetti william
+propongono un modello come lo chiamano crawl who ryan quindi cominci a gattoni i cammini e poi corri è una specie di maturit diversi maturi di level e allora nella mia esperienza e io ho incominciato a fare a trovare le ottimizzazioni e anche implementarle in
+prima persona quindi quando ero dentro il team devops aveva accesso in produzione potevo analizzare le opportunità di saving parlarne magari con il responsabile che lo stesso giorno implementarle anche quindi la relazione imposte optimization che ti permettono di raggiungere sé
+e passando uscendo dal team devops
+ho dovuto lasciare gli accessi di ruth tutto ho appeso la sacca al chiodo non
+non sono più operativo in produzione è un po' più un ruolo fino a di analisi e io analizzo
+i costi e propongo delle soluzioni che poi saranno implementate da altri magari posso suggerire magari non lo script per automatizzare certe cose lo faccio ancora io però poi è responsabilità di altri mettere a terra
+l cost optimization la fase quella un po' più evoluta mi serve per scalare poi fino a in azienda
+anche perché io sono sempre uno nelle infrastrutture da gestire e crescere e
+renderei tutti i pin jewelry consapevoli
+dei costi quindi si tratta di fare training team
+di riutilizzare anche molta empatia perché ovviamente i team di sviluppo
+non hanno il feeling come priorità
+quindi bisogna sapersi porre
+nel modo giusto non non rompere le scatole film di tim di sicurezza cavaliere e impone di fixare subito
+il bug perché è sì li può aver senso nel senso che è badge di sicurezza devi farlo subito
+il picco di costi magari il nome non è così urgente poi qui entra un po' il tema del dell'opportunità costa cioè bisogna fare una matrice effort saving cercare di prioritizzare tutti i semi impossibili in base a quanto riesci a risparmiare e a qual
+lele fort necessario per portarti a casa il sailing e ovviamente si incomincia con quelli in basso a destra tanto segue in poche ore è ford e per quelli che richiedono tanto effort parliamone perché magari quel team di sviluppo sta lavorando per una figura importante per un potenziale cliente e si mette a lavorare sul
+saving ti perdi un cliente da un milione di dollari all'anno
+quindi di buon senso e poi anche alle logiche del devops applicate al contesto mi immagino anche
+esposizione delle informazioni agli utenti e far sapere agli utenti quanto costa quello che fanno in qualche modo magari non certo tema della trasparenza del
+io non sono arrivato come si faceva in the box a mettere in monitor con l'andamento dei costi in tutti gli uffici però
+sì ogni team tendenzialmente a
+il suo account di sviluppo e da blues con ovviamente l'accesso al lost explorer quindi magari vi spiego come usarlo e non è banale
+tante cose possono essere miste leading se ci sono i costi ammortizzati per cui magari di default non vedi i costi della reservation non è un tour banale e ci vuole un po' di training che di solito facciamo quando c'è un'opportunità perché incombe giobbe e e poi si cercare di premiarli mi è capitato l'asl
+giorno di
+di fare un applauso
+sviluppatore aveva evitato tipo dieci ca palmese di costi su time shift è un database in un sequel
+di quelli che gestiscono le time series e gli è bastato abbassare la retention
+per cui lui si tiene il dato in rama inn invece che tenerti tutto in rame per un anno
+tienilo una settimana e il resto lo metti subito su storage magnetico e magicamente costi crollate e poi come giustamente si suol dire no l'arte di programmazione con verso sulle risorse che lo sempre più abbondanti se per solo lo spirito dell'ottimizzazione però a tanti livelli
+ce n'è da ottimizzare noir e ho visto che se un programmatore moderno e quindi sprechi risorse come se ci fosse un domani ma in realtà io sono molto attento ce ne ce ne sono ho sempre l'ansia quando specialmente adesso con il podio automazione no ha sempre un'ansia o che comunque sia la tua
+poi dipende dal livello dell'azienda no però ci sono aziende che se poi fai arrivare una bolletta la bolletta tra l'altro del nome da diecimila euro le mette in difficoltà no quindi ed è facilissimo farlo se fai degli errori non esista basta che tu fai una configurazione del servizio di lord vale per il dato che comincia a girare e fece impressione
+si entra e comincia carica magari tela di dati il costo esplode
+in poco tempo oppure ti dimentichi per esempio
+ha poi l'abbiamo beccato subito però quando utilizzavano gpm di vpn cloud e i tablet credavamo tante istanze quando erano gli utenti però se tu tieni sempre attive coreano costano e poi servono magari per un'ora poi dopo non servono più quindi
+no
+land ormai landes quest è diventato la barzelletta le cose che possono succedere
+dal punto di vista dei soldi e bisogna stare stare molto molto attenti a dove di recente mi sono sfuggiti un paio di cose rothman sono applicate nell'ordine di poche decine di euro piuttosto che poche centinaia
+prima di questo io sono molto scusa jervis prima di farti andare avanti francesco più perdite fra poco ti chiedo una decina di suggerimenti pratici per fare saving su the blues più specifici diretti puoi magari preparati bene che li
+amore da parte per
+usi futuri e magari rilanciamo il futuro vai avanti jarvis secondo me c'è nel senso il punto principale è avere la capacità di beccare in fretta l'errore perché l'errore non sarà non è possibile eliminarono la possibilità ed il tipo che sbaglia lo studio automazione e ti crea
+più risorse del necessario oppure qualsiasi con qualsiasi tipo rigidi erano una risorsa che non sempre però se tu hai la capacità di vederlo in fretta non vederlo alla fine questa è la differenza fondamentale è poi più persone lo guardano più più facile ottenerlo
+come non è uno dei miei clienti recenti abbiamo per esempio lady of operation che un signore il quale siccome gli è successo in passato che i programmatori avessero fatto degli errori lui ha l'ansia da controllo no quindi se lui ha quando a una dark sword controlla più volte al giorno e se c'è un problema lo becca primo piuttosto
+aspettare magari un programmatore che lo becca dopo la stima dopo due settimane
+nel frattempo del sud sono rationes che puoi settare ci sono appunto quello che dicevo e francesco i sistemi di machine learning esaltano e moglie per cui però c'è c'è anche un altro discorso da fare perché la scala di docebo per esempio nella scala di molte aziende molti di questi servizi hanno dei costi che per altre aziende non sono eccessive
+vidi no
+poiché se io attivo di l'anomalia del tracking sui miei lords of west è quello lì poi bisogna utilizzarli e friedrich parte facilmente no e mail allora francesco è giunto il momento dieci suggerimenti dieci per ottimizzare i costi suite blue allora di suggerimenti penso che ce ne siano meglio
+il servizio da bluff sono credo ormai che tipo duecento e ogni servizio a tanti sotto servizi quindi era di essere già esigue l'aurora c'è lo storage
+i the cup
+la più
+sono tendenzialmente infiniti le opportunità e bisogna stare al passo con tutti gli annunci di diablo jeff perchè ogni giorno hai opportunità nuove quindi io dov'è
+pensavo di raccontarvi quelli che non si trovano
+molto in giro
+perché se parti da alcuni banali poi le chicche che non si sanno dai le basi almeno essenziali allora le basi
+spegnere
+gli ambienti di sviluppo la sera ti porti a casa un settanta per cento di saving perché se fai il conto del rapporto fra ore lavorative quella non lavorative sulla settimana sabato domenica non si lavora cioè subito un settanta precedenti lo fai facile facile con led a blasting sto scheduler o domanda c'è un qualche modo più smart per farlo per cui lo
+spegni quando l'utente quando lo sviluppatore non lo usa
+alcuni magari anche non solo magari di notte lo tiene acceso perché lui sta lavorando però magari durante il giorno che non vi allora in realtà la deadly sins scheduler funziona con un tag che lo sviluppatore è libero di mettere e togliere quindi
+noi l'abbiamo impostato che c'è lo spegnimento di default la sera a meno che tu cambi questo tag quindi lo lascio attivo e e poi di giorno tratta di te non è che tu lo riaccendiamo noi
+e questa è una soluzione che non ha incontrato direi nessuna resistenza modulo ha funzionato benissimo e
+poi
+usare dove possibile serverless perché è riuscire a spendere tanto su lambda o su dinamo p e devi proprio impegnarti c'è devi fare le cose tipo che quello che dicevi prima tu jervis di fare di lupi ma devi impegnarti
+noi lansdale non tantissimi warcraft network
+e lambda lo utilizziamo da tanti anni tantissimi servizi in produzione e prendiamo due tappa al mese che per noi è proprio niente niente niente jenny e ci facciamo
+tutta la parte sia la parte di prodotto che tutte le automazioni il cloud per
+per gestire l'automazione orchestrate sion eccetera
+poi beh usare lo spot prove mi sembra di
+di andare proprio sul banale
+è utile facciamo veramente servizi stateless
+e dove non possiamo utilizzare le lambda utilizziamo almeno di auto schede in gruppo o utilizziamo uno scheler fatto bene come kubernetes
+tipo cosa c'è carpenter mi pare quello
+sponsorizzato anche da the place jean
+attenzione
+ai costi network perché rispetto ad altri cloud e da blitz è quello che se li fa pagare di più
+adesso lo sapete dal duemilaventiquattro anche gli indirizzi ip utilizzati no postano e attenzione soprattutto ai weiwei che sono delle belle bestie le macchinette mangiasoldi del
+the the bar e perché hanno un costo per gigabyte che è un ordine di grandezza in più rispetto a tutti gli altri servizi quindi va bene sono comodi servizio cento per cento managed li metti su paghi e te li dimentichi però non usiamoli negli account di produzione tende negli account di sviluppo degli
+campi di sviluppo facciamoci la notte in stanza e che le istanze c due della dad geniale mai pronta
+fa lo stesso lavoro della gateway di solito basta una lite tra yeti quattro micro
+c'è stata un po' più di banda la fitball e puoi risparmiare davvero tanto
+in produzione usiamo i nas gateway ma meno possibile ad esempio tutto il traffico che va verso est creek se passa dal nat gateway lo paghi quindi bisogna mettere i pupi si end point di esse trae in modo che tutto il traffico e va dalle due di una certa regione sul budget della stessa regione
+ci va diretto bypassando i nas gateway e lo stesso vale anche per i dear per il repo repository delle immagini docker è anche quello alla fine è basato su tre è lì con let's green point e assicurandosi di avere requie nella stessa regione dove hai le macchine che
+se lo debbano pullulare
+puoi fare grandi saving soprattutto se hai servizi è un po' tanto effimeri che continuano a ripartire tipo far che ogni volta che partono si scaricano
+l'immagine se un'immagine tipo quelle dei tully di dio vai su grosse grosse dove c'è tutto il modello
+gigabit a botta e quindi utilizzare anche feature del repository per skincare automaticamente il repo in tutte le region da cui l'olio pulli docebo in produzione a tipo sei o sette righe diverse perché facciamo scegliere ai nostri clienti è la regione in cui avere
+i loro learning management system per problemi di compliance eccetera e quindi sì quando devi gestire più region poi ti si aprono tutto un altro mondo di ottimizzazioni possibili soprattutto a livello network e perché appunto il traffico cross di john può essere molto costoso
+dai poi incomincio con con la prima ottimizzazione
+inedita che è una delle mie preferite
+trans coding
+docebo fa un botto di crans coding perché i nostri clienti ci applaudano i loro video con i corsi che vogliano mettere sul sistema e fino a qualche anno fa utilizzavamo e la fiction scooter servizio diciamo lega-fdi di crans godi che ti genera dei dei degli file
+emmepi quattro wow quel protocollo cui ti spezza il video in più frammenti arctic pink qualcosa del genere m ed eravamo arrivati a pagare po cinquanta cappa al mese di ann scouting siamo passati a media convert che è il servizio nuovo più moderno che già ha dei costi di listino più bassi per
+poi abbiamo fatto di meglio perché abbiamo colto l'occasione per rivedere un po' i formati di output cioè siamo andati a vedere i nostri clienti
+gli serve veramente la loro quali fimi idioma ai quolit quattro cappa
+stile youtube no dove scegli il milan la risoluzione quindi abbiamo smesso di generare formati che poi vedevamo che nel quasi nessuno usava e poi mi sono divertito a
+proporre ed è stato accettato e di fare
+il formato è quello qualita bassa a settecentodicotto righe invece che settecentoventi perché settecentodicotto per the blues sei sulla sullo standard definition e ti costa la metà che settecentoventi linee che considerato definition quindi i due li nemmeno nessuno se ne accorge
+beh pagina metà ehm in più c'è una specie di coda riservata su cui tu mandi i giochi di trance coding e che ti costa un decimo del the job on demand abbiamo attivato anche quella in più ottimizzando l'algoritmo di san scouting tu riesci ad avere a parità
+di qualità dei video molto più piccoli quindi vai a risparmiare in realtà anche sullo storage spree è una sedicenne su cloudfront
+ecco questo è importante spesso e tu fai dei saving che hanno impatti su diversi servizi e quindi è importante puoi calcolarli bene in modo che alla fine dell'anno
+vivi fai un bel report richiedere un aumento e questo vale anche per gli sviluppatori ovviamente e allora poi magari continua perché sono mai questa
+i documenti più utili della vulgata di cistite da quando esiste quello che aveva passato è però rispondere a un periodo tanto
+ci trovi magari come open telemetri come possibile alternativa cloud watch per tutto il discorso di re magio e quindi risparmiandosi così lay out watch che prova lo devi mettere da qualche parte comunque parte comunque devi mandare roba traffico è tutto qua però e allora chiede roberto zen e prima rimmel
+suonato processo con cui avete scalato fino a sydney le aziende chiede quali sono le leve e le modalità con cui sei riuscito a diffondere la warner smarriti o diffondere il verbo allora
+empatia cercando di beh allora impatto all'inizio avevo fatto anche tanti errori
+probabilmente all'inizio mi ero posto in maniera un po' arrogante supponente
+del tipo ho fatto sto lavoro tanti anni dopo lavoravo prima
+vi propongo queste cose facciamole no calma bisogna capire
+perché certe cose sono state fatte in un certo modo
+magari c'è dietro una ragione
+quindi prima di proporre ascoltare questo bè alla fine vuol dire empatia penso
+soft skill che non sono mai state il mio forte però a forza di sbagliare si imparano e poi è come viene in mente allearsi con security nel senso che tante e ottimizzazioni che servono per il saving servono anche a friuli ti fanno comodo anche a loro può spegnere tutte le cose che non servono
+per risparmiare
+diminuisce molto il la superficie di attacco altra cosa e aggiornare i cluster kubernetes evitare di avere ancora un sacco di uno ventuno in giro vuol dire migliorare la sicurezza e risparmiare perché attenzione aprite le orecchie e da a
+aprile e da blues farà pagare l'extended support e questo lo sta facendo non solo per kubernetes ma anche per me sicura il cinque sette cioè fino a ieri
+the blues tendenzialmente ti faceva usare
+tutte le vecchie versioni chef senza troppi problemi adesso hanno capito che è un'opportunità di business quindi vuoi continuare ad utilizzare software obsoleto
+noi ti vendiamo l'extended support e per kubernetes si passa da zero dieci allora a zero sessanta sei volte tanto il compro il plain dei dieci paesi prima ti costava settanta settantaquattro dollari al mese adesso ti costa sette per sei quattrocentoventi
+dollari al mese se come noi né hai un'ottantina di control plane avevo fatto il conto sono tipo dieci tappa al mese e quindi
+sì ad allearsi con security ecc
+è in modo che magari facciamo un po' la testa rompere le scatole ai vari tino e poi te lo accennavo prima
+re evitare di puntare il dito piuttosto fare i complimenti
+funziona io a volte mi commuovo quando
+ci sono i team di sviluppo che propongono ottimizzazioni ne abbiamo fatta una spettacolare sul text no sullo switch to text quindi noi abbiamo l'audio dei corsi che dobbiamo
+far passare da speech-to-text per averlo testuale puoi estrarre i tag fare tutta l'intelligenza artificiale ecc ecco nel giro di un anno siamo passati dal tè
+dall'ospizio to text di google a quello sempre managed ed e da blues
+trenta per cento di saving e poi il team ha proposto di passare a
+si chiama whisper che un progetto collegato open quindi ci siamo portati in casa
+l'algoritmo in modo abbastanza facile perché con the blues bbq lui si tira su il container dove gira winspeare e
+quindi non non c'è neanche questo grosso e forte di maintenance e fra il servizio è gestito di amazon dispiace to text a whisper c'è un dieci per c'è un ordine di grandezza di disegni e qui attenzione in generale a tutti i servizi gestiti perché belli comodi
+solamente neanche ma quando arrivi a certi volumi
+può avere senso riconsiderare di di gestirsela in casa
+io ho visto che poi più sali di livello di astrazione più il il premium in più che ti fa pagare e da blues per darti il servizio gestito e alto e nelle su cose tipo era di esse last action elasticsearch ti fa pagare più o meno il doppio e un servizio di rai come te
+gustus peacelink e un dieci per dimenticato la domanda iniziale ma
+come diffondere
+i principi flops in azienda
+poi aggiungo io da totale ignorante segue le logiche e le metodologie devops quindi che un blog è condivisione e trasparenza educazione e responsabilità condivise non finger pointing
+uno tutte le regole di buon senso del comune vivere insieme stand up stand a questi nostri
+evitiamo e
+bene molto bene e c'è un tema che a me caro perché è l'unico che giustifica la mia esistenza il mondo informatico ancora che la dove patrie action ha senso secondo te o è come dire roba per nostalgici che non vogliono mollare il colpo e trovano in queste in questi pochi esempi
+di gente che scappa dal cloud un modello di possibili future evoluzione le infrastrutture se ti chiami dropbox o che è scappato ultimamente forse yeppon si diceva che polly forse usciva dai the blues qualcosa genera e sei quella scala lisi valutalo bene
+se non ho usato una cosa che scala quando hai o magari esci per dei mattoncini della tua infrastruttura è anche open telemetri quindi gestirsi in casa la parte di racing performance management
+ok devi avere delle persone che conoscono bene open telemetri altrimenti usi data dog che è vero costa costa tanto e anche sudata dog ormai anche lui ci avrà decine di servizi si
+che se si fa cost saving anche di
+prova rimanendo alla domanda
+lo lo puoi fare film ma allora anche netflix non ha tutto sui tabloid non lo sappiamo che l m
+gli hedge
+della loro cm se li gestiscono loro però
+quanti terabit al secondo di traffico fanno dei must have the zon che io sappia non lo fa ma magari mi sbaglio però la sensazione
+quindi no poi lobello stai parlando con un con un fanboy idee da blues non mi vergogno a essere definito fa un pò di the wrestler
+prova nel discorso non è tanto essere fanboy e a meno di dargliela però quante aziende sono il tuo business model non è open telemetria è dato dal ghetto devi fare un servizio che risolve un problema leggi tendenzialmente no poi ci sono magari aziende che fanno tecnologia e va bene però il novanta percento alle aziende vanno a
+si prendono l'indagata bere respirato un'altra tabella ma dal mibact evidentemente il loro lavoro non è gestire nei server me non aggiungono valore al business no a meno che quando arrivi a cercarsi da una scala in cui dice che i rom mi abbassa i costi pesantemente rocco la scala lì vuol dire che deve avere i professionisti erano esitanti perché
+devi competere con eddie che li prendi arredi esterno che una stronzata installare un database mais quello tra le ultime nazioni che fanno loro io non ho mai visto un installazione on-premises che raggiungere estese per poterle poi
+c'è da dire che quelli della nostra generazione l'hanno vissuta l'anno vissuto lontana floxin
+abbiamo passato dieci anni a nei corridoi freddi dei datacenter ad attaccare cavi a a imprecare per i dischi rotti per
+la corrente che va via anche se il data center
+è super ridondato
+in telecom a rozzano mi ricordo una volta si erano avevano si erano accorti che nel nel serbatoio quello per i generatori diesel e c'era acqua invece che gasolio e quindi non è partito do dopo la prova di
+togliamo vediamo se funziona lupi aeffe e ops c'è elliot per l'affidabilità che ti dawn e da jeff
+su su questo esame era venuto in mente alessandro nel nell'invito a questa puntata avevi citato marc andreessen software eating the world ma chi paga il conto e pensavo
+al mi è venuta in mente la metafora del cloud come se fosse un ristorante citato istinto che la gpt
+ok fa tutto lui
+se però questo ristorante per il software dove il software va mangiare e poi ristorante ci
+cecile tira fuori lo scontrino l'alternativa non prema
+a casa tua tra il tuo frigo vai a far la spesa e cerchi di far da mangiare cioè è da blues nel duemilatredici forse era il furgoncino dei dei panini da mortadella poi una buona trattoria c'è adesso e e ristorante super stellato che i
+investe miliardi di dollari ogni anno ricerca e sviluppo sui superfood cioè il software che mangia
+in ristorante a west caccia i superpoteri c'è il software che ti mette le ali
+il le
+inventano il superfood il server leslie e poi c'è bisogna anche stare attenti perché forse è un ristorante ligure che se chiedi il piattino in più per dividere in due il dolce
+poi detto lo fa pagare no sapete che quest'estate
+quindi paghi tutto tutti i servizi
+li paghi
+yelp creek bisogna sapere che non paghi solo lo storage paghi tutte le piccole tutte le gatte tucker put anche le liste e anche delle povere ed si pagano e si attivi l'intelligent kering ecco cosa che primo suggerimento su aeffe tre attivate di nuovi sentieri no no
+attivatelo però attenzione perché paghi anche per il tiro
+per tutti gli oggetti monitorati se hai un budget con oggetti tendenzialmente sopra il mezzo megabyte di media va bene e hai oggetti tutti di centoventotto cappa che il minimo su cui funziona l'intelligence tearing e rischi anche di andare a pagare di più rispetto ad usare lo storage standard quindi
+siete in un ristorante ligure dove vi fa pagare cristo attenzione alle scritte in piccolo nel menu
+attenzione essere consapevoli di quello che mangiate però è un ottimo ristorante io non esco da questo ecommerce autore con più ansia
+allora detto si sono scatenati in chat e molto bene vuol dire che l'argomento è comunque interessa del buon pigiama dice semplicistico parlare di story solo sul on-premise perché sono anche su cloud però effettivamente non ho capito scusa l'hanno capito la domanda no non è normale
+una constatazione sulle oh horror story che come ci sono solo un prema ci sono anche su browser
+ne abbiamo parlato prima
+vero anche che effettivamente se ci pensate la comunione up time dei tempi o meno di down time dei tempi non sono più accettabili oggi non sono più neanche come non ci sono più sono problemi che se avevano quando gestivamo noi nello stesso pasto due adesso sono salvo clamorosi casi di cloud che evaporano
+però sono rari insomma e adesso c'è aurora global database che ti replica in maniera forse anche sincrona se vuoi le scritture su un'altra religione si ama ma va bene poi però quando non succede ma se succede su amazon quando casca giù una regione intera poi va giù mezza internet
+etna ovunque corporea
+sono andati giù tutti anche l'accusa non esatta
+mai concordata di ferie non ti si possono avere questo tratto non è non è una brutta cosa e il fatto di poter delegare responsabilità e di conseguenza anche eventuali ma questa viene considerata se tu illegalmente sarebbe una causa di forza maggiore genesis oh è paragonabile a un terremoto un uragano
+scegli tu se domani qualcuno viene da te e dice senti tuo servizio è stato giù due giorni e peter sloan queste si decide guarda qua amazon down esatto questo questo è vero
+questo vero non è poi chiede a intanto ieri segnalava un po' di cose su intenso
+whispers hitmaker jumpstart va beh come è possibile approccio a l'uso di whisper in casa e
+segnala mayday zona usa mai per aver battuto dal cdm parti se ce la fai credo che ci avrebbe suoi labs e roberto zen chiede ancora quando parlerà si parla di flop spesso si associa anche un discorso relativo ai tag delle risorse cloud e quindi se hai qualche suggerimento da dare al riguardo come li state utilizzando tag vari stili
+a pagare ti serve
+per dare visibilità
+quindi avere nel cast explorer o nel anche in altri tool se volete poi un racconto altri tool sempre via da blues per avere reportistica ed elettrico philips e taggando
+riesce a capire
+a cosa si riferiscono i costi con la granularità che vuoi tu fondamentalmente a livello di singola istanza di singolo
+l'after
+tutto quello che vuoi li puoi combinare in modo da
+generare puoi facilmente report per centro di costo per prodotto per steam per
+tutto quello che potete immaginare e attenzione che i tag non finiscono automaticamente nel costo explorer bisogna configurarli bisogna dire coste flora quali tag
+considerare e a quel punto quando filtri o quando raggruppi
+puoi scegliere tutti i tuoi tag che ritiene importanti oltre a quelli di default che però sono pochi
+non poi tanto ti servono per automatizzare accennavo prima al tabloid sono scheduler
+in base al valore dei tag puoi avere la schedulazione diverse
+di di start stop della macchina
+kitagawa si servono anche per la gestione dei permessi l'isis è un guru di obama
+vuoi anche andy
+sa darti sui tag per dare o meno a qualcuno il permesso di fare qualcosa
+prata di alzare un muro di amarti
+oppure copiare da te
+se trovi l'esempio che fa primo avvocato
+altre news gates non so adesso non mi vengono in mente ma ce n'è di sicuro ancora allora chiede epigei che lavorando in banca
+questo capisci anche tu una domanda qualche esperienza di uso di sinopsi in abbinamento con green coding e o policy e g che dal basso e non so cosa significa e no rendicontazione non finanziaria figli e saggista per environment sustainability governance
+che sono le politiche adesso ti chiedono e tutti i tuoi finanziatori cioè ti quota in borsa devi dimostrare che se vuoi che alcuni fondi investano ne è nato società devi
+dimostrare che soddisfi questi requisiti e allora adesso si parla di green jobs per la parte environment green jobs e la cugina stretta di flops perché solitamente
+ah no obiettivi comune in comune cioè meno risorse consumi meno paghi minore e la tua carbon footprint e perché poi alla fine nel likes genere portiere suicidi david
+raccontare documentare qual è la tua carbon footprint
+quindi quante energie non rinnovabili dismisura in tonnellate di cibo equivalenti allora sarebbe bello avere un costo explorer
+dove invece che vedere i costi vedi i drammi i chili di liceo due che emettono i tuoi servizi
+nessuno dei grossi player né da gbp eur
+e ci è arrivato vicino per ora bluff a un tool di reportistica
+e lo vedi più o meno dal vicino al cost explorer da dalle parti del billing e credo che si chiami proprio carbon footprint tool dove hai tutti i dati degli ultimi mi pare che tra quattro anni però a granularità prigion macro region e macro serp
+vizi e granularità temporale mi pare del mese ma non per la tua opera il tuo account ti offre il tuo video auto epoca per i tour per tutti i tuoi account e nella cura ed aprezzo penetration allora ha mi ha sorpreso
+positivamente cioè non pensavo che consumassimo così poco e in parte è perché ormai tutti brody
+molte region i grossi da sostenere da blues sono alimentati o energia rinnovabile o specifici può comprare i certificati verdi cose di quel tipo però non consumiamo tantissimo cioè rispetto a quello che paghiamo e ho fatto due conti in chilowattora
+e poi ultimamente mi sono anche appassionato di
+risparmio energetico ho messo venti chilowatt sul tetto con centodieci qui in poi se volete vi racconta anche un po' di conduct mise optimization domestica
+elettrificare la casa pompa di calore auto elettriche
+prova facendo un paragone con quello che produco io sul tetto e kevin
+non pensavo molto peggio e comunque sì c'è questa nuova corrente del green jobs e propone anche coding green
+hotel hai detto tu prima il termine corretto green holding sì quindi magari sfruttare certe funzionalità delle più per
+il concetto di base è utilizzare quello che si faceva una volta quando chiesi se aveva poche risorse ma che si cercava di ottimizzare il tutto poi abbiamo fatto degli anni ad avere memoria infinita nel proprio infinito adesso e per motivi ma più legati all'ambiente che alle risorse cercare di riportare quel
+pensiero nella sto banalizzando ora però a grandi linee questo è il pensiero si rivolge ai vantaggi sotto una tv sono efficiente anche i cocker in poi perché è certo abbiamo casi di piccole ottimizzazioni del codice che poi ha portato milioni di risparmio per aziende comunque sul green coding segnalo il rilancio quello che ci scrive
+andrea saltarello che al awda di cui lui è stato organizzatore anno fa il video il tour di renato losio e eddie ci segnala wheels carbon footprint tool ti permette di vedere quanto geniali i servizi che utilizzi ma limitati da mesi utilizzo ma anche no maggiore più da nulla
+ah no non dice anche non solo per il mese utilizzo e sul futuro finto tool ma anche più granulare e volendo su questo poi non è la stesso livello di finezza che puoi avere colpe magari coste esplode immagino però ha sicuramente etc
+tutti i grandi player ci ci lavoreranno nei prossimi anni perché i temi esiti sono sempre più critici per le grosse aziende e tra l'altro see
+è delicata la questione perché bisogna vedere come vengono contate le emissioni etc
+ci sono emissioni dirette e quelle del classico impianto di condizionamento per raffreddare i server e l'energia per far andare data center è però ci sono anche costi indiretti e blues come azienda e ha dei dipendenti che si muovono vanno in macchina
+per andare al lavoro
+anche gli uffici di the blues consumano i fornitori diede a blues stessi generano emissioni quindi c'è un discorso di emissioni a cascata si stanno definendo gli standard contare mele con mele per pere e però d'oggi siamo all'inizio è interessante
+poi adesso con giochi p t
+killeen c'è il rischio di andare a consumare parecchio di più con tutte le tv più
+prevedono qualcosa tipo come il cinque sei per cento del consumo di energia nel mondo che a breve sarà
+generato da
+la cloud cloud of the year dal cloud di cui de
+news sarà una fetta sempre più grossa
+voi avete avuto un impatto sui costi dovuti alle lame da quando sono usciti allora la domanda che potrebbe essere anche edifici a risponderti e non se non vuoi non risponde però previene le mamme ho sentito che si fa pronto engineering si mette alla fine bigon sise cerca di essere conciso e risparmi
+b tipo sessanta per cento su sui touchscreen e della risposta è nato nacl flirt city
+pilots di gonzález
+e allora stiamo cominciando adesso con lemme lemme per cui siamo ancora diciamo in una specie di non è un freezer diciamo sono crediti che i vari cloud provider ti regalano per farti scegliere i loro i loro i loro servizi abbiamo già tanti servizi di machine
+herning
+classici
+e ci sarà da divertirsi probabilmente ci sarà l lemming flops merkel gli gonzáles
+non solo no doubt esatto il philips ai piedi si vuole outlook al terzo giro di pochissimo
+vi voglio vedere essere coincisi con e compagnia cantante e allora segnala francesco b placca libro di paola yannis di microsoft che a scrittori bus fino a sei azzurri potrebbe essere disponibile ancora online gratuitamente e di chi scrive che west si impegna per raggiungere la carbon neutrality entro il
+duemilaventicinque e o meglio un consumo di energia rinnovabili non so se per questo coincide con la nuova carbon neutrality e si e do nel carbon free footprint e questo ci sta perché
+vedendo i consumi di docebo l'infrastruttura negli ultimi anni è cresciuta ma se vai a vedere le emissioni sono scese quindi evidentemente hanno investito in datacenter più green o energia rinnovabile conferma perfect poi avere segnala sempre eddie che non è un fanboy di key west etienne
+precisare però che forse dovevo essere più efficente al cinque cinque per più efficienza punto vista energetico rispetto alla media center aziendale word così dice esclusivamente a letto da qualche parte e si che puoi anche legandoci un messaggio che ha scritto qualcun altro su confronto
+la disponibilità di infostud su cloud e quelle in casa e dentro non si possono fare tu jarvis devi andare e corpo magro e allontanare e tanto non ci servi dai abbiamo francesco
+tutti ti perdi suggerimenti inediti
+guarda il video guarda il video domani con giorgi pd come traduci sto video meramente gonzales
+spesso bitcoins
+la droga diverse
+a voice a presto ciao ciao ciao ciao allora torniamo a te francesco e
+dai andiamo avanti coi suggerimenti pratici per perché mi sembra che sia veramente utile credo per chiunque lavori nella west e non dare tutto per scontato perché come sempre quello che uno sa ritiene scontato quando magari non è troppo per a allora
+li vi dicevo ce n'è un'infinità e e si trovano
+ovunque perché ad esempio tutti i vendor di tool di ottimizzazione hanno il loro blog con i suggerimenti poi alla fine si ripetono molto più comuni
+profi uno che deve partire può partire da qualsiasi punto
+magari segnalo anche il canale youtube
+credo che si chiami proprio da blues cost optimization
+viene da due anni c'è tipo una puntata a settimana e no io ci tenevo a raccontarvi cose un po' strane che
+mi son venute in mente per ottimizzare i costi e costi del supporto sapete che è da blues a quattro tier di supporto da quello gratuito
+supporto di lei l'opera sarà tipo trenta dollari al mese poi c'è il supporto premium che è quello che la maggior parte dell'estrema b utilizzano lo usava anche docebo credo fino al duemiladiciotto e supporto premium lo paghi il dieci per cento del tuo della tua fattura mensile e su tu
+tutti i tuoi account su cui abilita il supporto premium
+qui il trucco è e abilitare il supporto premium ma solo in produzione e poi il refer vision comprarle e in un altro account o supporto basic e in questo modo
+tipo se compri la reservation affronta
+le paghi al cento per cento nell'account senza il supporto premium e che fondamentalmente non eviti di pagare supporto kernel questo è stato un trucco che ha funzionato un po' borderline mara
+non mi hanno mai non si sono mai arrabbiati quelli di the blue screen ve lo posso suggerire e ha funzionato fino a quando poi siamo passati alle enterprise perché con l'enterprise anche l'ipad intorno al cinque dieci per cento sul tuo ma sulla bolletta mensile però sei obbligato ad attivarla
+a livello di organization action quindi su tutti gli hashtag era poi finita la pacchia
+quanto ti capita di spesso usano supporto
+barry
+poi non lo uso solo io l'ho usata tutta l'azienda e anche lì c'è nella metafora del ristorante e visto che i camerieri chiedono la mancia sfruttiamoli di camerieri ciechi e degli
+qual è il piatto del giorno che vino ci va col brasato o
+se sei intollerante al glutine aerei i cibi gluten free itunes
+scopriamolo supporto e quello enterprise a parte che hai anche dei technical team di technical account manager solution manager non dico proprio dedicati a tema
+quindi oltre che sfruttarlo per dei bug delle cose che non capisci che non trovi nella documentazione sfruttati anche come supporto
+best practice su twitter porta architetturale e poi comunque nel tempo crescendo si crea un rapporto con i blues per cui sono loro i primi a suggerirti
+come ottimizzare l'architettura
+cioè da place come amazon e customer jozsef da arkham non è come google che e tecnologie offset
+io beh con google cloud spesso ho difficoltà a capire a capire che il mio account manager cioè se ho bisogno di qualcosa l'account manager cambiano non mi è stato comunicato non so a chi rivolgermi
+no è da bluestacks cliente o se lo coccola quindi sfruttiamo le coccole molto bene altri suggerimenti inediti fee
+allora questo è forse il più serio è quello più che può avere più impatto e preservation convertible
+introdotte nel duemilasedici credo per due
+ci sono ancora anche se the blues sta puntando più sul serio in plain lei ed elena reservation e due converti poi ci sono ancora sono ancora acquistabili quindi convertible vuol dire che tu sei libero in ogni momento di cambiare tipo di istanza di cambiare
+tipo di sistema operativo
+di cambiare anche la scadenza del reservation è questo poi la parte interessante è proprio il resto funzionano come delle normali reservation le puoi prendere un anno tre anni
+no front persona front walk of road e la cosa interessante è che sfruttando bene
+le logiche di funzionamento delle convertible tu riesci ad avere gli sconti delle triennali che sono poi il cinquantacinque per cento di sconto con the commitment anche mensili e questo come si fa
+e questo ovviamente è importante no perché non sempre e tu hai un'infrastruttura che cresce sempre non sempre business e a volte
+può capitare che magari qualcuno di qualche radeon
+magari riesci sei bravo a fare delle ottimizzazioni e quindi hai la necessità puoi quelle reservation non ti servono più e quindi riuscire a ad avere reservation più corte mantenendo gli stessi sconti anche
+palmare più nel tempo la reservation può essere molto importante e quindi si tratta di jean
+comprare ogni mese una reservation i tre trainano che costa niente è triennale e dopo un po' di tempo tu hai ogni mese una rete vision e a quel punto quando ti serve panini una reservation vera non la compri ex-novo
+boh triennale prendi quella che ti sta per scadere o o una un po' più avanti
+ne prendi una con
+i duo che che ti interessa e fai l'exchange di quella riservata sion e tu una pietra micro la puoi far diventare una r sette quarantotto x large e poi la puoi modificare in qualsiasi modo sembra complicato ma se volete poi magari vi spiego meglio in privato
+in alternativa se non volete fare questo giochino c'è un tool si chiama rosy rox te lo fa per voi e jasper ops rolfer ops sempre quindi loro si prendono poco tipo boko haram tra il due cinque per cento del saving e ti fanno loro questo giochi
+rino poi c'erano anche alcuni che giocavano sulla vendita delle reservation nel marketplace
+però poi like the blues si è accorta che non era tanto feira vendere preservation che tu hai ripreso scontate quindi i tool che si basavano su quel giochino li nonnini non lo fanno più
+ma il giochino sulle sulle convertible si può ancora fare
+ma domanda voi istanze sei tu che gestite ne avete parecchio immagino
+sì allora in realtà
+il servizio che per docebo più costoso e di essere i database gestiti sì il secondo e dieci due
+ok quindi a questo proposito è cambiare istanza a seconda delle nuove disponibilità di cosa è una cosa di fatto è costantemente comunemente sistematicamente come
+ogni volta che esce una nuova generazione rompo le scatole devops affinché la facciano lo switch e non dirmi che usa facebook come il provisioning le istanze della gestione per l'estate presente era forma okay quindi provvisionato e poi dimenticata ce ne sono più gestite no abbiamo oldman
+la maggior parte e con autoscale in gruppo e tu hai no ma la configurazione dell'istanza tu allora sulle due ci girano i container gestiti o tramite l orchestratore e l'articolo solo non ci gira nulla nativamente dice nella maggior nel novanta percento però il discorso
+in stansted passare alle nuove generazioni vale comunque
+diciamo che una volta ogni volta che cercherò qualche anno fa ogni volta che uscivano nuova generazione il delta di costo
+avevi più performance meno costi adesso hai più performance e costi o uguali o pochino più
+l'hai detto ci giorno contiene ma su kubernetes spesso come tenete su per conto loro allora il grosso ce l'abbiamo diceva ancora su x
+progetti nuovi e anche suo iatf enoico e contiene che giro sulle istanze in situ sono contenere stendhal alone con will o ci girano perchè c'è una john's gourmet è noto che dicevo
+se tu sono quelle degli rts di capelli voucher non sono quindi
+abbiamo i saints e il cidu e gestite da ex e altre stanze gestite dai tapas oceano quindi appunto al di fuori dei cheese paese istanze tu che stanno per conto loro con un click
+e ovviamente il ciclone umana
+non sono il grosso del dr a livello di costi chiede francese epigei se avete una sorta di exit strategy in caso di potenziali impennate sui costi di edwards allora fece il tema del ballo william e allora a me piace il log in i need a blues è un park
+sadismo dorato in cui vivi io ci sto dentro chiudo tranquillamente sono fiducioso che
+va intanto su tante cose siamo coperti da reservation triennali
+quindi per tre anni costi non si possono cambiare più di tanto e su tanti servizi abbiamo contratti di breve briefing quindi anche qui rompete le scatole vostro account manager affinché sul servizio sorprendetevi di più vi faccia degli sconti ad hoc quindi oltre al classico e di
+b quinquennale che copre tutto ci sono anche dei contratti per singoli servizi
+non so tutti ma sono precisi e con questi contratti tuo blog puoi avere il prezzo bloccato per cinque anni
+poi ecco anche per le reservation non fatevi prendere dall'ansia oddio se poi cambio in slip cosa succede per esempio software di esse non ci sono le convertible quindi se prendi
+un reflex su aurora in teoria devi rimanere su rt sei per tre anni in realtà apri un ticket da blues gli dici gli spieghi loro small business gates per cui vuoi passare da pensò ad amalfi quella ad aurora e ti fai cambiare la reservation della reception nuova a
+valore maggiore o uguale di quella vecchia per quella che è la mia esperienza finora te lo cambiano
+ovviamente nulla di garantito
+non lo possono scrivere ma poi dipende anche dai rapporti che ci sono fra la vostra azienda e tablet se poi credo che beh qui non sposa prevedono grossi cambiamenti di prezzi insomma c'è un mercato non quindi se non possono rischiare di allenarsi troppo easy clean
+alla wine week mi verrebbe da dire però
+allora colpite io mi ricordo oracle
+va negli ultimi anni è vero i tagli dei prezzi non sono più stati frequenti come in passato un po' ci sta perché l'inflazione
+ce l'abbiamo avuta tutti e anche nel mondo fas
+quando vai a rinnovare atlassian e dieci percento ogni anno in più e devi lottare per abbassarlo un po'
+quindi ci sta molto bene mio amico giulio che un mio amico che lavora in ora con alice
+che il loro cloud è molto più economico per tecnologo non compra nessuno aggiungo io
+network e di sicuro è anche il freezer
+food ho diversi colleghi che hanno ad esempio home assistant per la domotica ce l'hanno su cloud oracle perché riesce ad avere una macchina decente su qui home assistant gira benissimo forza italia e conflittuale poi fai tutte le bpm le cose strane ai tunnel per accederci in sicurezza e funziona bene e anche la parte net
+work
+l'idea è vero allora se hai un business che fa tanto traffico qui puoi valutare oracle forse ciò che avevano fatto un'alleanza con cloudflare la circondano
+per cercare di mettersi d'accordo fra i major cloud provider e avere dei detti dei prezzi di imperi per il traffico network molto bassi e tablet non ha mai aderito però anche lì se riesce a far passare tutto da da da cloudfront della sydney
+intanto non paghi il traffico da esse tre perché se tu hai e tre come origine e cloudfront omicidi km il traffico in uscita est e non lo paghi e questo lo puoi fare solo con cloudfront e e poi con cloudfront lì e pubblico si sa che c'è un breve briefing si negozia e che hai tranquillamente
+degli sconti del novanta per cento rispetto ai prezzi di listino a abe escono numeri numeri importanti su ma credo che qualcosa sia anche pubblico degli sconti su cloudfront con molto interesse allora se non entra nessun altro e prima di chiudere ti chiederei di darci
+cinque di dirci tu qualcosa che ti senti di dire da lord anthony noto che è veramente parecchia gente interessata è uno dei pochi casi in cui finiamo in più persone di quanto noi iniziamo e qualsiasi cosa che secondo me è utile sapere al riguardo perché comunque allora
+ce n'è tanta
+no prima di richiudere chiedo a chi ci sta seguendo liberatevi con le ultime domande se ne avete che la saggezza ma intanto tenetevi aggiornati cioè se fate se siete fino a oxford e poi non sarebbe proprio il job title match ormai anche le bozze fino a ups sono diventati grigi job title è state aggiornati
+io seguo la newsletter da anni la lav tweed blu jeff corwin in tono molto poco simpatico sarcastico fa la rassegna stampa delle notizie più importanti dei lanci di evan blues più più importanti proprio con un focus sulla costa optimization
+quindi invece di agganciarsi al feed rss ufficiali di the blues rock italiani ormai sono ingestibili perché escono fuori cento annunci al giorno
+la t da sue eroine the black lo consiglio poi ripeto per qualsiasi cosa mi fa piacere
+aiutarvi contattatemi su linkedin
+consulenza pro bono
+senza problemi e poi eccola là la parte e elettrificazione e vi accennavo
+e col centodieci mi sono fatto mettere venti kilowatt di pannelli
+sessanta chilowattora di batterie e a pompa di calore wallbox casa indipendente fino all'anno prima pagavo mille euro di elettricità mille euro di gas e duemila euro di gasolio per fare venticinque mila km all'anno e dopo il centodieci
+se ti conviene fare suo discorso perché centodieci e chi l'ha fatto è contento che non ha fatto quello che però il gatto ma allora i prezzi dei pannelli sono crollati e nel duemilaventiquattro e stanno arrivando dalla cina non fosse hanno sovrapproduzione o cosa e te li tirano dietro i pannelli pannelli poi l'installazione e la manodopera
+c'è sempre il cinquanta per cento in dieci anni se sei in home e puoi aderire alle comunità energetiche o centodieci non potevi aderire non posso aderire alla comunità ed energetica quindi
+hai nemmeno sconto però poi per tutta la vita ai benefici aggiuntivi delle comunità energetiche centodieci mettere i pannelli se puoi perché comunque e allora evitate le batterie perché ci hanno un ritorno sull'investimento
+e che non hanno senso
+io se non le avessi avute gratis con centodieci non le avrei messe e avendole messe
+ho visto che non convengono anche perché la batteria solo portare accesa deve tenere a temperatura di dieci per cento giochi l'elettricità
+la rete la vendo al prezzo industriale dell'energia e il famoso il punk il punk quello che se ne parlava tanto quando ci era stata l'impennata
+io va bè quando c'erano i prezzi alle stelle e ho preso tipo cinque mila euro in un anno di
+per l'energia ha venduto adesso ne prendo su duemila e la mia bolletta dell'energia e mille quindi prima pagavo quattro mila euro all'anno adesso mi tormenta mi tornano in tasca mille euro riscaldarvi e anche se sono ligure faccio fare la doccia calda ai bambini
+moglie eccetera
+abbiamo questi lussi e venti mila chilometri con la macchina elettrica e aveva francesco dai lascia perdere san francisco tenerlo a sentirlo
+però è rivelata una cosa velocemente sul
+che c'è una mini massimo di kilowattora dell'impianto per quale puoi rivendere alla rete ci sono delle pratiche diverse a seconda delle aree devi stare su twitter kilowatt pioggia ti ho fatto mettere cinquantuno pannelli
+da tipo qui per arrivare giusto giusto ai ai venti kilowatt e se li superi diventi officina elettrica quindi deve andare dal commercialista per me non vale la pena sotto ai venti chilowatt
+molto più lineare e semplice l'adesione al t a l alpe superi i sei kilowatt devi valutare l'impianto in trifase
+non è nulla di che non è neanche tutto il discorso del bilanciamento dell'età
+allora se ci capisci di se fai sai fare due conti col cloud il trifase è un gioco da ragazzi quindi comunque i grossi passaggi sono fino a sei kilowatt perché poi c'è un discorso che trifase e poi sei o dieci era in alcune zone ti lasciano anche il dieci monofase boeri e poi i
+venti hai detto fiorentino per prima di entrare nel mantello ok allora teniamo le domande
+della cia chiede il buon roberto zen quali sono i prossimi passi che probabilmente farete in azienda o le iniziative fino a jobs che ti piacerebbe suggerire in azienda si allora come accennavo prima il prossimo passo è rendere i team più autonomi possibili più più più tonico sì l'idea è che il team inox
+di una o più persone
+gestisce in modo centralizzato la parte di reddito optimization el in tutta la scontistica le reservation
+perché hai la visione su tutta l'azienda riesce a fare economie di scala
+quello senso che ci pensi un team dedicato tutto il resto tutte le best practies
+e dovrebbero essere
+conosciute e applicate dai singoli team è qui vuol dire fare formazione fare
+elena lombardi king raccontare quali sono le best practice
+lavorare con il cloud architect
+magari mettere in piedi un bel club saint raphael francia dove queste best practice sono condivise con tutta l'azienda per lavorare con il business di più
+ad esempio mi è capitato recentemente di lavorare con jimdo chievo si occupa di pricing strategy come creare e i diversi bundle il classico codici ebook basic docebo primi ho avuto tipo enterprise cosa ci mettiamo dentro e cosa vorrebbe dire dare una frontiera
+a tutti
+basare le decisioni di business su su su metriche di costi infrastrutturali che a volte può ti può far prendere delle decisioni giuste e equipe e poi c'è il nirvana del delfino ps il
+il discorso il concetto della unit economics e riuscire appiccicare una metrica di costo a tutte le tue metriche che hanno a che fare col tuo business quindi quanto mi costa ogni manfria active user quanto mi costa ogni cliente ma anche più granulare quanto mi costa la singola transazione
+leone se sono booking com quanto mi costa completare la prenotazione di un albergo quanto mi costa la source per provare la disponibilità di tutti gli alberghi nella tua zona e a quel punto riesce a capire la tua spesa se buona o cattiva perché riesce a capire se è legata a
+a un incremento del business o se qualcosa di intenzionale perché sei tu che hai voluto lanciare una nuova feature che per funzionare richiede certi costi e oppure se i costi aumentano perché
+mi spiace più spreco cioè si sono create inefficienze e se la unit economics condivisa con tutta l'azienda un po' il nirvana
+inarrivabile o simili perché se archiviare il livello di dettaglio del tipo quanto ti costa una singola transazione una singola cosa vuol dire e poi con la chiedi informazioni del football serverless le lambda è anche fattibile per in parte no perché arte per il l'infrastruttura di comunque
+ho anche un dinamo db tu hai costi sulla singola tabella e non è come reds che
+a il costo del cluster con tutti gli schemi che ci sono dentro sud sudan kenya mod b hai il costo della singola operazione di input output solo sul singolo record ma certo della vittoria riesce a raggiungere comunque immagino poi di di cose da considerare sono così tante che
+comunque complicato per prima cosa un suo sfumature del cloud ma se poi rimanendo anche solo nell'ambito di prodotto c'è data dog eh
+beh anche noi abbiamo altre cdm per ad esempio per gli utenti cinesi ci vuole la cnn irpina che gli blue non ce l'ha
+abbiamo tutta la parte di security
+sonar hub
+tool di compliance
+orca di google prima avevamo per il prisma cloud di quello de palo alto anche quelli sono costi rilevanti e
+si vanno ottimizzati anche quelli
+la security costa tanto è perchè ci sono questi servizi esterni poi hai tutti i servizi like the blues nei vari arguti
+it security hub inspector
+ho anche l'impressione che ci sia un po' di overlay ogni tantum
+ci lavoriamo duramente un evento che fa tutto per te script serve anche negozi con tutti i fornitori salse bene dai allora è bene grazie francesco sono state quasi due ore molto interessanti utili e se non ci sono altri interventi
+la chiuderei qua grazie a te francesco
+complimenti e buonanotte
+grazie a te alessandro a bene e complimenti per per queste live consiglio a tutti quelli che hanno bambini dai cinque ai diciotto anni la puntata su videogame e learning imperdibile da far vedere anche tutte le mogli dai fa vedere la moglie si
+la sorella ebbene sì sono d'accordo ma anche questa
+ma suggeriva magari non modifichi foto
+molto utile grazie di nuovo grazie francesco grazie a tutti quelli che hanno animato una chat molte domande molto interessante e veramente gradito e ci vediamo la prossima buona serata buonanotte a tutti

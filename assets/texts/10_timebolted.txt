@@ -1,0 +1,694 @@
+ed eccoci qua decima puntata della brigata degli estinti con nuovi pregiati ospiti e elijah che è una ricorrente presenza in queste stanze quindi senza ulteriori ritardi diamo subito la parola detta e domenico per una rappresentazione
+diretto da alessandro
+mi occupo più
+sicurezza informatica
+da vent'anni
+di più perché ho cominciato nel duemila quindi ventitré e in questi ultimi anni mi sto occupando in particolare di tecnica wireless e formazione
+belli più conosci di introduzione alla questione fino anche a questioni un po' più tecniche o più edson fine della presentazione bravissima come dico sempre come solo i migliori sanno ingegnere perdonare del genere perché alcuni casino io sono domenico esperienza
+sandro per l'invito mi occupo di sicurezza informatica da metà degli anni novanta continua occuparmene
+le cose principali sono tra la divulgazione di sicurezza ha parti tecniche la polvere varie aziende si vola più ricchi siano workers della parte operativa per le aziende e mi fermo quartiere molto bene allora abbiamo chiamato questa puntata minacce e rischi e nelle bozze
+nel tempo vogliamo capire un attimo e fanno un po' anche beneficiando la nostra età
+un excursus su quali sono stati i quali sono tuttora le minacce informatiche più frequenti io direi anche che dividendo sia per singoli individui che per aziende e
+come queste sono evolute nel tempo e poi magari facciamo anche qualche ragionamento su come sono i tempi moderni come possono evolvere poi in futuro per cui chi se la sente di fare una piccola storia della minaccia informatica almeno dal punto di vista personale io singola persona che con il mio computer mi collego a internet chiarisci o avevo in passato
+e soprattutto che rischiò adesso poi magari faccio un discorso più legato all'azienda po' troppo generico però voi siete fuori casa per più avanti con la storia
+servizio medico perché seguirà ha vissuto ancora prima
+l'ingresso su internet quando internet era il deserto ma già deciso
+tu sei già partito molto avanti sta già parlando del computer di internet ma lì gli attacchi c'erano già ricordati che il primo attacco informatico della storia considerato tale è avvenuto perché un ragazzo americano è preso dalla spazzatura i tabulati del magazzino le stampanti ad aghi con cui riuscì
+per mandare poi gli ordini via fax di vendere materiale quindi non è di fatto di fatto si usava una truffa informatica ma il computer si è parlato marginalmente oggi chiaramente siamo in un mondo iperconnesso quindi non mi limiterei ad internet del computer il problema è che al computer internet ce l'hai
+google ormai sembra che se non hai il
+il termosifone collegato su internet tu non possa dire e ricordiamoci sempre che abbiamo tutta questa serie di apparati che so che noi colleghiamo a internet in modo abbastanza incosciente e poi bonaparte questo operati non sono nati per esserci sono stati aggiunti perché è diventato molto trendy molto di moda
+oltre alla serie di località meno l'europa una serie di
+di sovvenzioni date se le cose andavano su internet che hanno portato a questa situazione di hulk il movimento è quindi un tempo eravamo quattro gatti che eravamo in questa unione anche in autostrada la mulattiera si andava
+bellissimo
+connessione come tu sessantaquattro trecento bowl cocco con la coppia con la copiatura acustico esatto
+è poi andata via via evolvendosi già lì comunque eravamo già allo step avanti perché cercavi comunque il modo di fare di più di trovare nuovi accessi nuove cose che potevi fare lo più sono le reti universitarie all'epoca di rete aziendale gira pochissimo e poi da lì si è andati a mangiare c'è una cosa che ho già arrivati da lì
+reykjavik con altri
+le pagine di guardarli cercando gli accessi perché poi molto spesso se di un modem collegati alla rete aziendale contiene neanche una cultura o il pensiero che qualcuno potesse chiamare la tua azienda ed entrarci perché c'era poca gente coi modem ricordiamoci che nel novantacinque quando si
+andava dalle aziende gli si diceva avete bisogno di un firewall la risposta
+devo spendere questi soldi
+e penso anche alessandro che nessuno faccia era già reato nel novantacinque in l'italia no non ancora no allora la guarda te lo so dire perché ho parlato oggi con l'avvocato che mi serviva per una cosa e del novantatré il decreto
+legge introduce film
+esatto il primo che introduce i reati informatici fino al novantatré giungla giungla non eri neanche perseguibile
+di essere all'estero
+non da noi infatti i primi reati se ci pensate che hanno coinvolto gente che abbastanza conosciuta quella dei oggi nella scena italiana sono stati arrestati perché tornavano le carte ed anche per te
+sì esatto proprio attacco dimostrativo anche no se ci ricordiamo bene prima del duemila un qualche istituzionale penso con poche gocce so chi però ha usato parolacce era già una legislazione prima del novantadue non c'era a parte che non c'erano neanche
+anche su internet iniziava mancava c'erano i primi provider stava arrivando video online
+dalla sardegna con furore no non c'erano queste in italia non ci non c'era una realtà e reazionari venticinque no io mi ricordo di un raid aereo ma in realtà erano già esplorazioni pure quelli che tenevano le reti x venticinque l'epoca in cui
+in un ovale con pomolo
+in pochi ambienti no quelli che erano diciamo i rivali del mainframe vivaci e quindi vedevamo si vedevano questi primi bisagno x venticinque dei problemi perché
+ad esempio un sono molto antica già ai tempi fra frac e fanzine simile come nella scena fra cracking free streaming qui c'è c'era già era già abbastanza sviluppata no se vogliamo anche un po' andare un po' indietro forse la l'innocenza internet e come si può
+dire si dice l'ha persa con il morris worm o forse quando si riproduceva paziente clinicamente e se i primissimi serissimo
+alla metà degli anni settanta quindi avevo internet super albori
+mi sembra che fosse qui per morire libera vita
+quella roba lì girava su pochissimi offre in realtà perché non era poi così grande la cuoca
+dell'epoca
+un punto è sempre quello cioè far fare alle cose è qualcosa di diverso rispetto a quello che pensate
+una volta almeno quando ho iniziato a occuparmene io c'era molto l'approccio curiosità che prevaleva sul sonno però adesso c'è la fuori l'attore minaccia è tendenzialmente sede criminale criminale ha la stessa motivazione che ci deruba per strada
+o organizza una spaccata occhio una bacca wild e ed è un mondo completamente diverso c'è la curiosità di vedere come funziona quella cosa ambientali
+e poi magari nascerà altro ma assolutamente
+la gran parte della indennizzi per esempio hai menzionato è basato sulla curiosità infatti
+strepitosi
+ci sono alcune
+machin sta farfalle e alex
+parlavo la bibbia
+la cavalcata dell'intelletto umano alla scoperta
+come far fare una cosa diversa a un oggetto che nasce per fare le cose che fai computer
+fanno qualunque pd tendenzialmente prende
+spesso infatti come racconta levi nel suo film nel suo libro hackers non dice proprio questo cosa dice i primi del mit hanno creato questo gruppo dove poi sono passati telefoni poi al bivio
+cdp per cercare storie ma sono partiti col fatto di un giorno uno non ha lasciato le chiavi dell'armadietto però ho detto ma noi riusciamo con due graffette qualche cosa ad aprire l'armadietto quindi può qualcosa che non è fatto per aprirlo
+tant'è che tutt'oggi si è andati a defcon siete mai stati a las vegas hello the
+la vita in germania è uguale garlenda dove fanno anche i corsi in aula
+ma adeguare vorrebbe dire riesco a fare qualcosa che non va non dovrebbe essere fatto in quel modo beh però dai con la mentalità hacker c'è ancora è comunque forte magari non è preponderante e magari le minacce non sono appunto dagli hacker vecchio stile con magari il cappello bianco
+più è appunto dai criminali che cercano il denaro però somalia lo spirito antico dell'hacking io lo vedo ancora pervenute in molte anche in generazioni nuove no
+ero presente all'epoca non c'era l'idea per esempio scrivere
+diventi famoso per quello trovo che la vulnerabilità sul portalone c'è il lavoro assicurato ad essa un pò quaranta e alice c'è chi fa il mazzo per trovare vulnerabilità e poi andare a parigi dove si fa la sua tournée poi alla fine
+oh così dolce banche bar banchino dice anche barbanti che ha un po' smontato questa cover stato un periodo cosa che neanche venire
+gamboa è che è diverso da esplorare per il gusto di esplorare
+se sesso orale non devi dimostrare niente a nessuno
+stai cercando di fare uno sport di capacità tecnica magari si diedero sfoggio di capacità tecnica ma è un effetto collaterale non è il focus è completamente diverso l'approccio è completamente diverso la minaccia cioè adesso negli scanner su più social e siamo disposti a
+pare che brutale sulle persone più indifese quella è una minaccia che usa il veicolo informatico perché i social sono di fatto l'espulsione
+stiamo andando umanità usa i social
+miliardi di persone
+ci sono bande di criminali che utilizzano tecniche di
+distocia gli ingegneri ma anche per nascondere le loro le loro farm dove dove dove svolgono questa attività e fanno delle cose terrificanti che tu lo fai per curiosità non arrivi a quei livelli di piena massificazione della criminalità e su quella roba lì
+continuava del successo perché ci sono ci cascano in tantissime tantissime persone il famoso tornado anche quali esempi dicevamo prima i quanti di luce se girate su facebook ultimamente no però tutti quei famosi quiz dimmi il nome del tuo primo animale sono poi casualmente
+vite nascoste in mezzo a cento domande ci sono le domande classiche per i due copie della password e questo è il social engineering più bieco nel senso perché vado nel mucchio la famosa lavandaia di godere ci cascherà malmo magistrato sarà anche perfetto cosi
+io vedo
+spesso questa casa ho conoscenze anche io
+e mi capite signori in imbarazzo che hanno ricevuto la mail dell'hacker che pubblicherà online tutto quello che fai se non gli paia di scarpe
+oppure quella che gli dice sono il commissariato di polizia abbiamo scoperto che sarei indagato per
+a una persona di quasi ottanta anni l'uso e social arrivano a meno
+con parole
+te anche se razionalmente è la persona migliore del mondo saviano dalla parte certe fasi la sola idea che qualcuno possa pensare di gelo che basta nome è completamente in balia di queste persone e io non trovo che sia la minaccia grosso poi questo per l'individuo questi individui quando invece
+sono più giovani ancora dell'attività lavorativa magari sono quelli che ci cascano nella truffa via social ha vinto la fan
+arriviamo ora qualunque sul computer che usano anche per lavorare il saluto margherita
+ciao care cioè la situazione della grande azienda strutturata una cosa ma la piccola media azienda italiana non è sempre nelle condizioni permettersi una postura di sicurezza superprof e allora facciamo un po' di servizio utile cosa serve la piccola media azienda italiana per proteggersi da questi
+agenti offensivi ostili budget serve bagno
+budget e capire a chi affidarsi cosa non semplice perché ricordiamoci che il polso che ultimamente c'è il grosso carrozzone della security ci sono tanti soldi e se voi dunque sta guardando ventidue se guardate su internet cercate per esempio vulnerabili soprattutto te lo fanno dei due
+cento euro a salire ma perché sono soldi c'è tanta gente vado nel mucchio troverò qualcuno o la gente che dice non viene in mente apostolato azienda studio cosa non va e sono spessissimo improvvisati
+dietro una preparazione uno studio and society un'esperienza no io seguo su quello del gancio questo punto seguono sono alcuni forum per quanto riguarda sono un po' le certificazioni no io
+cioè lo studio e quindi insomma mettono su branchie benissimo vedo tanti ragazzi che voglio iniziare voglio fare l'etica kruger
+c'è obiettivamente forse sarò io che sono obiettivamente la sicurezza può essere affascinante perché in campo mi abbraccia
+costruibile ultimamente antiumano noi non soltanto tecnico dell'informatica e quindi veramente può essere affascinante perché poi ti porta a essere un programmatore ad essere un sistemista essere uno che entra
+però appunto ma tu non puoi iniziare a fare l'ethical hacker metterti non sai quanto molte modifiche saranno in più
+be' non sei nelle condizioni mentali per fare l'ethical hacker fa l'hacker etico non etico che sia
+spieghi come si fa soprattutto adesso che i sistemi motori di ricerca e anche a carpi
+abbiamo avuto un tempo era
+sì però voglio dire al di là di tutto qualunque siracusa c'è tanta informazione si chiama manca la chiave di lettura può fare
+no no mi manca la chiave di lettura in questo senso può esprimermi meglio cioè voglio dire è come se oggi mi risulta alcuno volesse dire di sentirmi vorrei specializzarmi in ortopedia non è un medico cioè come fai a specializzarsi in ortopedia che non sia un medico o i paesi terapista sei mesi no però lo dico però
+volevo fare dunque prevista
+ed è quello più salute un welfare io volevo fare il certificato e di galadriel non è non è un hacker perchè il problema sono le basi per essere uno che conosce un po' i popoli computer giudichiamo un po' di più insomma perché tu tu devi andare al di là no assoluto nelle specializzazioni che ci sono nel campo della cybersecurity
+solo nei network è un mondo ho però devi avere una conoscenza così una rete cioè da qui dalla rete diviene così un protocollo altri due delle anomalie un protocollo di riconoscere
+se se già ci conosci cinque protocollo dice protocollo dice qui vedi un'immagine quindi cosa c'è di normale in questo scambio di pacchetti e c'è già un mondo e se sembra una cosa banale una specializzazione figuriamoci nel resto io vedo invece una formazione che dicono no ma io vorrei fare più il divario di calabria requisiti
+iniziano a fare soprattutto in questo momento insomma tutta questa cosa di fare queste sperimentazioni e le ore per arrivare poi o andare sui declivi immaginarsi che credo tre quattro porte
+so di oliva
+un po' di perplessità insomma poi per tutte queste persone vanno nelle piccole e medie imprese
+ma guarda che possiede sono assolutamente d'accordo che vi racconto enormi capitali avendo una figlia in niger quindi mi capita di parlare con amici e sito web ma prima di ragionare su che bello io posso avere il giochino che uso quando vado a fare gli attacchi dentro le aziende ma prima tutti così un sistema operativo
+go diventa un sistemista scegli tu puoi windows linux però devi conoscerlo perché come fai ad attaccare un server web qualunque esso sia se non sai come funziona il web
+da lì poi usiamo piuttosto che la rete va bene studiare quando hai tutta questa struttura noi forse siamo stati avvantaggiati perché quando abbiamo iniziato noi sì mi ricordo che io scrivevo immeritatamente peraltro nella mailing list del kernel di linux perché con la mia programmazione non è mai sta
+eccellente però mi mettevo provavo me ne pagavo e quindi parliamo di dati
+non c'era perché non c'erano questi pezzi credo però una scheda di rete avevo un hub switch non esiste
+sul mio tre otto sei compilavo i primi terni però fatemi fatemi fare un po' il bastian contrario io dico ben venga anche il ragazzo adesso che vuole fare l'ethical hacker anche senza saperne di networking linux e quant'altro meglio quello che vuole fare altre cose come la vedo io poi tanto le cose si imparano no
+che queste cellule
+ormai ormai stiamo viaggiando su un livello molto superficiale e tu parli di internet la gente pensa al web www non esiste altro realtà c'è tantissimo altro tutto quello che serve forse a far funzionare il web
+poi ci sono le ultimissime generazioni niente il concetto di web concetto di app e poi proprio l'idea che esista qualcosa che sia un sito web al loro popolo viene né me
+non riesco a distinguere diversi
+tutto quello che è la conoscenza su su sulla pila iso osi diciamo è persa a meno che tu non studi non ti specializzi network
+ma allora la vedi ma vedi solo quella sta succedendo quello che è successo con altri scelti la medicina presente a volte c'era il medico che sapeva tutto l'umano e qualche luminare iperspecializzato adesso ci sono tutti specialisti per cui c'è specialista delle dita
+fai chirurgo e attacca solo di vita e non saprà mai attaccare un dito del piede magari si ci arriva però tenderà a farlo fare allo specialista che attacca alle dita dei piedi e non lo farà lui ne curerà un occhio invece
+una volta c'era hulk quindi stiamo andando dalla salita specializzazione ci parlerà bisogna distinguere due profili però uno è il profilo del
+l'impiegato della percettivo di chi è la persona affidabile che ha studiato quelli a parte il timer sicuri che sia rete che sia
+la programmazione che sia come fanno l'autenticazione degli utenti i che queste cose basse specializzato in una cosa e affidabile su booked gli va bene poi c'è la mentalità che c'è fuori però quello che ha appassionato che magari ha portato a tali
+di suo che se la coltiva fin da piccolo che già sa verso quale studio indirizzarsi che non va a chiedere in giro come faccio a fare di character che lo so già chi c'è l'ha già capito proprio dei ragazzini cominciano a dieci anni questa e che si appassionano magari nel video gay magari con
+con qualcosa che hanno letto qualche film che hanno visto e vanno da soli cioè non hanno bisogno di qualcuno che gli dica da dove iniziare a studiare si arrangino benissimo da sé fino a quando non arrivano al loro livello di incompetenza e allora cominciano a uscire dal guscio per cercare qualcuno che gli cresca ma quelli saranno sempre la mia
+pranza prima puoi pretendere di avere tutti e politica la gerla l'etica hacker bravo quello che va a testare attivamente i sistemi di sicurezza alle aziende
+non fa rima con l'impiegato della signorina impiegato figurini magari va benissimo per configurare firewall ma non eme cioè realizzato su quello o per configurare il mindset ma non il webserver cioè perché specializzato su una cosa si deve dire io sono assolutamente da
+cornice
+se tu puoi vedere poi
+insomma chi partecipa a queste queste conferenze non sono tanti in italia sulla security poi basta che vedi due o tre più o meno dopo due o tre volte baseball versione femminile
+che non sono impiegati della city sono le persone per cui anche quando stanno wilson forum si vanno a vedere un reddito stanno su walt whitman canale sono interessati perché fa parte di loro stessi no la nutella va al di là della pura prestazione lavorativa nasa che fa parte della loro esistenza
+zak è il loro modus frantoio modo è appunto una postura più al di là dell'aspetto tecnico sta proprio una postura che quella di insegnarla come mimica e semplice
+già perché tu quest'auto non applica solo nel campo informatico quindi il dottore che fai cioè voglio dire tu entri in banca così senza volere a vedere intorno riuscendo delle telecamere guardie
+svuota la guardia
+non è che puoi parlare a rapinano è una tua postura mentale su le cose noi insieme oppure insomma
+clienti o così dice vedi quella persona come si sta muovendo non dovrebbe stare lì e tutti non è che
+l'obbligo mondo informatico è ancora più complessa questa cosa perché dovresti iniziare a capire il poter violare il sistema o difendere come funziona quanti sanno perché le cose funzionano soprattutto i protocolli complessi che sentiva una discussione oggi poi mi taccio su tutta una cosa che coinvolgeva
+svolgeva un'altra cosa che diceva ma come dovrebbe funzionare ciò che c'è che non funziona
+che cosa c'è quello che ispirano la filosofia etc
+capito come funziona su anche perché quando non funziona e da lì potrei anche immaginare quale può essere una vulnerabilità www no non so loro sul filosofico però il principio è quello non è così facile da immaginare perché quanti sanno dei ragazzi quest'app che tu sai cos'è come è scritta
+ma almeno
+e due paletti calabria
+vabbè non faccio promesso che se non è una questione di percentuali non di va da sé no nel senso lei la persona
+interessata che nacquero mentali tra testa e non di c'è stata in passato c'è ancora e ci sarà sempre poi
+allora giustamente anche in chat gianfranco rosa parlava citava le reti lug google sta facendo perdere il senso della preparazione tutto pronto tanto da adesso con lei cui chiede direttamente sarà ancora diverso però è anche vero che certe certi tratti umani
+ci sono sempre magari una percentuale più o meno minore ma grande di persone ma ci sono sempre se vengono fuori adesso ben vengano adesso il ragazzino di cinque dieci quindici anni che mentre io e quindici anni a dieci anni giocavo con sessantaquattro questo già fa e vuole interesse è interessato a fare l'hacking
+tanto di cappello alla mia età sarà meritiamo
+mostro di cosa cosa dell'informatica fare sto tempo no gli ho detto
+diventerà uno script kiddie che si aprano usare vetro esplode come mi trovo al colloquio che mi dicono io sono lesbica lacrime a sì non quando esso usare questi dodici moduli di metropolitana va bene qua e là film
+allora però siamo d'accordo allora siamo d'accordo sul fatto metasploit come dire lo script kiddie che usano exploit perché fa tutto lui è un po' come il numero dei nostri tempi domenico no e però non c'è solo quello no quello è un esempio come ai tempi c'erano i meloni che copiavano incolmabile ma non puoi andare a far
+rete non così e non è quello che puoi fare
+l'età giusta secondo me sì no
+io posso passata da essere sistemista a configurare firewall a fare marketing ad accorciare vulnerability assessment per esempio una pausa e prendere il vulnerability assessment bello automatizzato prendi passa al cliente un'altra riprenderlo
+e spulciare per vedere a che
+o no è capirlo
+per esempio è una cosa che è quasi scomparsa invece per esempio all'attività per cremare oppure identità è notevole perchè ti fa vedere quali sono le reali
+i reali rischi tu lo prendi così così com'è uscita dal dal software glielo passi cambiando il logo non è che hai fatto molto bene
+hai dato un valore aggiunto soprattutto parate niente sabati si vedono ogni tanto uscire nel mondo
+o negata
+poi si no no ma non quello cioè ce ne sono e dando periodicamente spuntano qua e là vista mare
+ho capito a cosa ti riferisci cioè ultimamente si è stata una curiosità comunque scusate allora da ex-moglie istinti però non voglio farne una questione di generazionali o discorsi dichiarazioni se non ne usciamo più e poi veramente e non è neanche troppo interessante che prima avete parlato per difendersi servono tanti soldi
+soldi ecco io ho tanti soldi come li spendo o meglio non ne ho tanti devo ottimizzare la mia se il mio budget per la sicurezza sono una piccola azienda italiana che cosa come l'investor e li spendo come li spendo bello la domanda
+capire come è organizzata una azienda perché la sicurezza prima di tutto come tela organisti se tu non cambi la testa delle persone e gli fai capire che era una cosa importante anche in termini di come
+ti poni tu lavoratore
+nei confronti di quello che è il patrimonio sia dei dati che dell'hard azienda non vai da nessuna pacchia puoi spendere tutto il budget che vuoi e anche di più le scatole e si configura mano
+drake molto distante perché a te alle persone che hai formato per quella cosa se ne vanno c'è di nuovo da capo al genero però il test dei soldi
+in tutto c'è un cambiamento di mentalità nella direzione c'è chi prende le decisioni e non c'è convintamente di chi gestisce l'azienda qualsiasi tipo di intervento con poche o contanti saldi è destinato a rimanere lettera morta o esaurirsi con
+l'arco di carriera di questa di questa persona e non c'è la sport il vero problema secondo me molto ingenuamente direi no uno si potrebbe partire da un notaio
+minacce
+pesticidi di posture delle aziende e fare da lì vedere quali sono uno da prevedere nessuno liars importanti quanto valgono
+dipende dall'azienda pure anche se forse in azienda e pluriennali per la mentalità tu stai parlando di piccole e medie aziende piccole medie aziende o che perfetto quindi non deve dire con questo elemento non da quel punto di vista no
+questo elemento dell'azienda se non funziona risolti dal web è un problema e se mi cambiano sito web è un problema quanto mi costa perché poi la cosa oppure anche potrebbe anche essere che tu dia del sito web
+è una vetrina però l'immagine della tua azienda è molto importante per cui al di là del valore intrinseco se disponibile a spendere dei soldi vediamo e poi rientriamo delle minacce per difendere quello risorse è inutile andare a spendere milioni di euro su le difese per un qualcosa che ne vale un euro
+hai capito perché no dico è inutile spendere milioni di euro per difendere qualcosa in ballo un euro no e viceversa quindi è una cosa vale milioni di euro non puoi pensare di spendere un euro sembra un discorso banale purtroppo perché il vero problema delle difese difficile misurarle ora cerchiamo un po' di più
+vederlo però in realtà non stai veramente con i vari discorsi di ethical hacker appunto penetration test quanto vale la mia difesa e che succede se e allora adesso ci sta tutto un discorso anche più recente blu team red team payplug poi sono belle
+figure che cercano di andare in qualche misura come la vedo io ho letto questa cosa
+a misurare o gli investimenti le cose che tu hai fatto come risponde internamente il team di difesa no rispetto a un attacco del genere se ne rende conto o meno
+mescolare nel maestoso castello di carte costosissimo so se poi c'è qualcuno che fa proprio non se ne accorge nessuno perché riempiono i log gli incroci non si capisce niente e alla fine passa inosservato qualcuno e guarda l'acqua nov rolex
+chiamano i vecchi dicevamo questa cosa che in genere si vedono i log solo quando succede qualcosa puoi vedere le cose che non funziona modale ancora w
+ma è è esperienza comune a tutti diciamo non dico neanche afferma provo ai sistemi ibridi e sta tutti diceva studiato questo errore l'hai lì da anni quello che l'obbligo nemmeno mai visti insomma tutto ciò che io ho dato una buona idea quindi opal
+partirei proprio da una analisi dell'azienda e vedere lì prima di spade perché è facile li emettono antivirus ma basta alle fender per dire devi usare per forza windows
+segue questa fase pila howard fu da
+a fare
+la halawa e anche william
+dell'azienda
+amministratore delegato
+canopus non corrisponde
+spiegato cosa sta parlando in realtà
+organizzazione estremamente piccole spesso la stessa penserà più catene
+sentieri e soprattutto da quando è arrivata al cloud benedetto claudio
+slitta è la figura del sistemista è sparita
+io ho visto chiedere gli apostoli e figli
+sedie per ufficio
+j'onn risultati
+ignoranti disperati a seconda del punto di vista aziendale intensiva e lunedì altri ragazzi ai tuoi quelli che dici tu i letti dove poi c'era la gente che si è trovata tutto toccata tutta la parte sul cloud e dice ma io adesso sono rovinato rischio la cia
+usura so e ciò che non è tornando al discorso di rischio non è solamente quanto valgono i vari dati le cose ma io a fronte di un attacco con solo poi in grado di dirlo non posso permettermi di subirlo perché c'è natura del diritto di veto se producete me e mi butto hanno tutto
+io perdo tre giorni di lavoro non me ne frega niente mi costa meno quattro giorni clandestina hai fatto quando ha fame vuole una tua analisi del rischio condivisibile o meno non m'interessa però l'hai fatta sei conscio di dove sei e cosa ti succede questa cosa tra peraltro tornando invece non solo le aziende che tu oggi
+nel senso chiunque già sul tuo pc hai tutta una serie di dati che sono fondamentali perché ma l'antivirus costa
+proprio nello spicciolo per esempio però
+però non fa niente tanto figurati se vengono a criptare e poi invece arrivano gente che mi chiama ho preso il cryptolocker persone normali non aziende vicine perché perché oggi era fondamentale su quello che è il computer si è bloccato da fare i bonifici non riesce a pagare il gas o cose del genere però
+fino a ieri costo di un malware baito di un qualcosa che cercasse di mitigare quanto meno il rischio lo stato
+hanno puntato su su
+a proposito di questi ragionamenti falsi
+postate su facebook ho un attimo di disperazione stavo chiacchierando con le persone sempre sostengo che nel trend di ariano o aree
+che questa persona usa windows sette
+i wing sette perché supportato da due a tre anni no credo tre anni venti eventi dalla destra
+oh tre anni in questo e non ha aggiornamenti di sicurezza
+probabilmente temporaneamente l'antivirus moderno esplode ci va molto vicino questo è un oggetto che avrete un pericolo anche per gli altri questa signora ne fu questo ci che fa corrispondenza citava anche indirizzi e-mail e così via ed è considerato normale perché perché
+cambiare costa comprare altra licenza nuova perché non mi gireranno sul computer che adesso e cambiare computer costa
+che perché cambiare interfaccia è fastidioso e faticoso e cambiare interfaccia e faticoso quindi mi tengo il gas di tre anni fa fu portato questo qua è un problema sicurezza per sé e per però bagaglio si stanno agli sportelli ho fatto anche i costi no
+perché sono sicuro che in giro esistono versioni antichissime fa supportate e quindi anche del problema di amici saranno ci sarà no no
+impianti oggi di un nuovo articolo c'è macchinari biomedico che però fanno delle eccezioni e può supporre comunque vengono messi in protezione in altro modo libero
+un cittadino come no però voglio dire quella cosa lì questo mondo questo modo è creato anche te produttore è creato un mercato del tuo non solo e fai la versione nuova ma anche tutto il mercato quindi questa cosa della difesa diventa un mercato da parte del produttore puoi andare
+supportare il software di sette anni fa facendosi un numero a caso
+so di office e voglio dire deve vivere un bar di varie linee di prodotto che vengono aggiornate conversione obsoleti
+cambiare politiche
+che per esempio ci saranno sistemi diversi
+agrigento
+è tanto difficile no salerno grandi parso banale german croce un livello di
+attenzione no corretto ha dei costi anche per l'individuo non fatale per l'azienda si moltiplicano e l'azienda preparata e gli obblighi
+petrachi i dati personali è obbligatorio
+se sei una catena di fornitura
+coperte da altre leggi e obbligato anche lì quindi che devono spendere
+il problema è la mancanza di secondo me per quello che pregiudica la mancanza di competenza sul tema da parte dei decisori in qualsiasi tempo per cui sono obbligati a affidarsi all'esterno e purtroppo vince
+non necessariamente è più bravo o il più adatto ma vince chi ne ha
+farà sentire che per al cento per cento sicuro perché perché senta sicuro più tranquille ora qua sappiamo tutti e quattro noi pensa che gli ascoltatori vento
+senta sicuro è una bellissima utopia ma non è realizzabile quindi c'è una neanche tanto se fa poi a leggere bene fa però vincono quelli con quel tipo di cliente è che perché manca la consapevolezza è quello che secondo me andrebbe fatto a livello
+campagna di formazione a livello proprio di
+di consapevolezza del rischio della minaccia esistente ma senza età jonica come si fa la campania fu risparmio energetico non è quello usi
+eretta e cosa diciamo in questa campagna fai facciamo che tu sei responsabile la campania per la promozione e la sicurezza informatica è l'italia che cosa fai veloce in qualche punto secco per dire prima di tutto cominci a capire che ci sono delle problematiche differenti nelle problematiche di base a seconda dell'età perché poi
+se devo fare delle pubblicità devono dirigere correttamente sia sui canali che con il linguaggio giusto tanto per cominciare poi comincerei a
+top quality analizzare e fare la warning base fare fate attenzione cioè non fidarsi delle caramelle da sconosciuti su internet e io non capisco come ci siano persone che restano a credere che si possa vincere un iphone capisci che ti regalo un iphone se tu gli lasci il numero di telefono e ci accosta mille e rotti euro
+capisci che non sta in piedi come può essere però il messaggino del corriere che ti dice il tuo pacco in giacenza passa a ritirarlo
+campione
+fermati leggi questa cosa e di chi vuole pacco ordinato no mi mettendo un pacco paga verifica l'ho preso su amazon su amazon amazon mia scritta e amazzoniche no e pinco pallino del corriere allora non è ahmad chiamo amazon scrivo nel forum
+mandato in consegna qualcosa o come con le banche stesse cose uguale
+giusto oggi stavo scrivendo una cosa questo tema ti arriva da mail che il cervello non l'ho scritto io così però
+così
+anno
+ho grosso come una casa
+magari è vero c'è anche qualcosa sulla pancia perché devo cliccare il link che mi costa troppo scrivere l'indirizzo nel browser dove perché se la mia banca ci vado tutti i giorni giannino ha esercitato regolarmente per fare le operazioni bancarie è più comodo cliccare sul link che se ci pensi bene se è così pigro che
+cliccarci su linux si basi sul naso un istante prima ti fa vedere se l'url è vero basta leggere qui
+una cosa che globalmente non viene fatto far vedere per esempio qual è l'impatto reale ci sarebbero statistiche su quanto pesano questi attacchi senso la vita delle persone
+persone che hanno avuto loro identità rubata due anni bastano ancora a najaf nel disastro e perché sta infatti la pandemia senza poter riuscire a gestire un cavolo poi favole ma accogliente privata che li possano rubare anche senza nessuna come dire
+colpa da parte tua tra virgolette senza nessuna leggerezza personale uno poi puoi dire le proprie identità che dai documenti che poi lasciano in giro ragazzini che si fanno ragazzini e ragazzine ragazzi giovani che magari hanno dei buoni profitti i buoni nel senso che hanno tanti follower migliaia di
+padova si fanno gabbare dalla più classica delle truffe per fregarti da cow roba che gira da tre anni per cui andrebbero spiegate ho anche whatsapp ha decapitato l'anno scorso da un mio amico che ha un ristorante che gestiva tutta la parte del delivery con luca
+mi hanno fregato un account lui è stato due giorni senza orbi è un disastro per il mio ristorante peraltro perché perché
+ha candidamente no ma mi hanno scritto sta cosa io gli ho mandato i codici perché no
+norme minime ma vanno spiegate vanno spiegate alle masse perché e gli attaccanti medio non è il dj advanced persistent threat
+oh fondi governativi che cerca vacanza infrastruttura critica è quello la pesca a strascico la massa di milioni di utenti che scrivono gli importa niente sei italiano tailandese cinese africano un interesse a spillargli soldi tennero fra identità e utilizzarla
+cioè queste cose spiegate esattamente come a
+metropolitana che dicono attenzione che ci sono borseggiatori articola in quattro lingue
+tale cioè ti devo avvertire che internet non è un posto dove é completamente la cognizione di sé stessa i cattivi del primo che passa per strada tendenzialmente no perciò imperfetti di il primo che su internet questo è proprio il minimo da andrea spiega nevio poi si può passare
+gli sforzi più grandi però tu vedevi programmi per esempio televisivi si parla di questi argomenti non in toni da tregenda
+oh
+parlando di geopolitica per esempio ultimamente se ne parla alla stata carina la russia gli attacchi le cose però se ne parla in un'ottica di cyber warfare o comunque all'interno di un contesto che non è quotidiano un programma che parlasse coerentemente d'essere notizia il feed spa
+con tranquillità davanti solo trovare notizie sui media tradizionali lanciando la televisione è un problema c'è e va beh almeno io a parte i soliti tre o quattro che si leggono sempre però per il resto qualsiasi notizia che ha a che fare con malware
+somewhere attacchi informatici problemi alle infrastrutture perché cavoli anche le infrastrutture it ogni tanto fanno i loro errori
+svergolamento che non è colpa degli hacker ma magari una mappa assicurazione o
+un aggiornamento che non va a buon fine guardate book
+ad esempio
+remi e tu no io io volevo associarmi in realtà se a vedere appunto sono parte dei media queste cose sono riportati con superficialità ancora indagine
+è l'anticristo nate iniziative
+funicolare d'italia e fissi
+è una cosa che dire
+l'era della carola
+beh adesso c'è anche dietro cui fra partecipanti del gruppo diciamo di ivan di fare bersaglio
+sono famosi per la conferenza che fanno a roma e lì di diciamocelo hanno uno spessore diciamo elevatissimo queste le problematiche tecnologie articoli molto interessanti molto profondi biblioteca bisogna vedere e quivi goldman
+però mi devo dire un basta dare le notizie di diversi dall'altra parte qualcuno che voglia andare oltre uomo comune profano io voglio andare oltre la superficialità e una vabbè va no appunto tutt'oggi uno degli ultimi articoli parla diciamo di sviluppo digitale della cina
+uno va a guardare con occhi da seguire
+accende l'occhio di colui che vuole andare un po' al di là potrebbe andarci a vedere là dietro a questa grande rivoluzione digitale professata è dichiarata anche delle cause ad essi o delle motivazioni maggiori i conflitti conflitti umani dicono
+di quelli che stiamo vivendo che provo sembrano più fermo che fare con territori ma non è vero per niente hanno a che fare soltanto scuse per altre cose ma è difficile bisogna difficile perché fanno mai molta gente abituata a vedere solo i titoli a garanzia delle leggi dell'ue
+divieto richiede comunque che vendere oltre a cercare di capire qualcosa e non troppo difficile insomma ancora parliamo di api e non del duemilaventi treno come se fosse un individuo singolo pista lì dietro junction prendono non è più così non mestiere criminale perché sono atti al
+davvero no no no no no no no gli cosa fase stato eliminato
+no va bene se vogliamo no no no ma no la figura di replicare un positivi il contrario mi sta venendo lo sai però non dire questo vuol dire io non ho ben chiaro che non volevo dire no di hacker o iniziamo a fargli of fate
+no no merci arrivano di coloro che fui diciamo sono dei criminali è già un delle competenze come uso i robot rapinatore di banche professionista è un uomo molto competente nel rapinare le banche non è che è nuovo ad alta specializzazione no
+quindi nessuno dice di no è assolutamente sentito io però non voglio rassegnarmi allora ben detto dovremmo fare se si dovrebbe fare divulgazione per rendere le persone più consapevoli sui rischi informatici su internet tutto quanto è sano d'accordo però un'azienda o comunque un qualsiasi entità non può
+soltanto basarsi sulla responsabilità dell'utente no non puoi lasciare la fiducia al cliente tra virgolette per quanto sia quasi impossibile prevenire completamente eventuali problemi che sono dovute come dire
+alma l'utilizzo di tecnologie le ha fatte tuoi dipendenti però soluzioni tecniche tecnologiche che possono mitigare il più possibile
+anche l'effetto del ho cliccato per sbaglio perchè ero sovrappensiero come giustamente diceva anche andrea cathy sul link e poi mi mi mi è arrivato un malware che mi ha infestato il computer allora avere l'antivirus sia fin troppo semplice però va da sé che ci sta anche quello ma praticamente voi e che cosa consiglierei
+un'azienda che ha un budget sufficiente tecnicamente installare proprio quello infrastrutture e sui pc dei propri dipendenti cosa ci va cosa si può fare per leggi tutto un cambio di paradigma sicuramente suo
+noi siamo sempre stati abituati nelle aziende nelle reti che sia indipendente agli accessi da una filosofia zero trust dice che ogni volta che chiedo è un dato devo candidare fu detta molto perché chissà potremmo parlare per ore e ore dello zero trust abbia già un concetto interessante
+oggetto di ricambio diversa cambia parecchio per cui anche se clicco sul link se poi devo andare a criptare qualcos'altro bisogno di una nuova pianificazione che non può fare i suoi outfit a chi questo però chiaramente richiede un cambio proprio ragionamento del t questo se magari qua per assurdo è più facile
+che il sistemista molto spesso e cambia anche perchè esatto
+proprio come pochi
+alla fine le attività esatto ed è per questo che è più difficile prima
+che ce l'hai più dal tecnico la resistenza che dal metal dall'organizzazione perché lo vede
+è uno sforzo perché poi appunto dico il discorso è che puoi fare questo investimento che comunque richiedono organizzazione e poi è difficile da misurare la validità di quello che serve c'è
+eva fiction
+per fare un asteroide finisce per farlo che e per definire la beslan deputati dove vuoi arrivare dove vuoi arrivare e come lo misuri performance etichetta come cosa misuri come auditori problema è che tutti questi siano processi aggiuntivi te
+il fare sicurezza al di là del comprare una scatola configurarlo e metterla lì significa cambiare i processi aggiungere processi nuovi trovare le risorse per gestire dei processi queste sono le fasi difficili poi la scatola come configurarla
+colore la marca il modello quelle sono robe che definisci con un progetto alla mano facendo delle prove vedendo quanto traffico fai in quanto aspetti di avere
+eccetera
+è una cosa diversa ma il contorno che è quello che poi farà funzionare questa cosa è fondamentale io sono ventitré anni che aveva comprare scatole configurare scatole lamentarsi delle scatole però la versione semplice abbiamo percorso questo vi copriamo completamento un problema lo scatolone
+è uscito oggi diciamo oggi ieri ndr codice unico della pubblica amministrazione pm
+il cloud due zero
+giovanni varadkar breve a breve diciamoci su stazione aggregare di un fucile con febbre per una strategia di passare tutta la pubblica amministrazione sui clown con tutte naturalmente c'è il cloud ti offre tutte le soluzioni integrate di suicidio ritiene o no io penso che mentale
+mente molte persone in questo modo dicono riesco a delegare sicurezza un altro addio
+no la la sicurezza è una è una delle varie cose che una responsabilità condivisa non è del tutto sbagliato suddividi il punto
+e di
+niente sa realmente quanto e come sta suddividendo per te responsabilità e sicurezza
+perché io mi piace accogliente rivolgersi al cloud
+abolendo pensando di abolire la figura del sistemista
+non ridondante per esempio le connessioni internet il giorno che è arrivata la ruspa abbia addosso la fibra ciao york per una settimana o quasi senza poter fare niente fred sei in cloud e hai un'altra connessione con lavori
+anche lì il cloud può essere la soluzione può non esserlo bisogna che le persone però sappiano cosa stanno facendo claudio qualcosa l'ho visto e interpretato io nelle grandi aziende ma la piccola soprattutto è stato fantastico ho smesso di splendere falli questa paga uso è gratu
+quito hallelujah e finzione parlando faccio una parentesi sui vip
+penso
+non è interessante come puoi dire qualcuno dei formatori nove le aziende storicamente su alcune formazione nel campo della security
+uno
+arriva ricorsi della sicurezza è tanto dal punto di vista offensivo e difensivo nel cloud che iniziava ancora non pensare perché in più c'è anche fare un test di un cloud adulti con gonfi è diverso e il
+delle connotazioni diverse redditizia anche diverse e cambiare prospettiva
+la villa
+quale che sia il fatto che
+tu devi pensare in modo diverso anche e già il fatto che tutto fatto tutto pronto però bisogna vedere sempre il discorso del management
+ovviamente quando legge le cose dei fornitori
+come vuole il governo del fornitore mi offrirò
+questa piattaforma di collaboration in grado di intercettare con mille sensori di manzo wagyu intelligence artificiale quindi mi sento abbastanza sicuro
+abbastanza sicuro di dove tutti sti processi ste cose ormai ho anche inutile perché insomma c'è qualcuno che ci penso per me è un rischio che poi va visto al momento perché poi alla fine il discorso della sicurezza dal punto di vista filosofico sempre uno l'attaccante ha bisogno di una fan
+al difensore deve cercare di chiudere tutte praticanti delle batterie di un piccolo e da lì sappiamo dove puoi arrivare perché lo stesso discorso in difesa di una banca se credete più frase io dicevo trust il modelli paradigma zero trust di cui ho parlato o sta avendo successo proprio perché è quello che in questo
+si sta dimostrando più adatto a contenere questo discorso che facevi all'attaccante bastano a farla piccola poi una volta dall'interno può fare quello a spandersi non sappiamo come no può farlo nel modello zero trust che diventa estremamente più complessi problema è la fase di transizione dal tradizionale zero draft
+che è un vero incubo
+come domenico immagino sappia visto che si occupa di un flop
+va ma è lo stesso discorso no
+alessandro quando si passi da una fase
+poche quello che abbiamo vissuto un po' tutti anche te no e soprattutto per te la passi da fare dei processi manuali a fare processi automatizzati cercando di farli ripetibili non ti sembra oggi una cosa che fanno tutti no e però non è stato poi è stato fa tappa a chiave
+ha adottato samp è stato obbligato a a piegarsi come sat intende
+aziendali
+si parlerà anche di genere il configuration management di come utilizzare l'automazione rispetto a chi era abituato quello di cose manuali oggi vanno di più
+diciamo forse ricercare commercializzare un fottuto anche chi cerca di automatizzare qualcosa di interessante che non sempre automatizzabile no come la security cerchi di procede procede automatizzare tutta la security ma la verifica non sempre è automatizzabile no perché
+se la vuoi affidare degli strumenti ma non ne è ancora di uno strumento può verificare concretamente fare o modificare le cose mute
+se vuoi andare dalla sicurezza avira del campo dell'ignoto e non ci siano strumenti che ti fanno andare dell'ignoto perché loro conoscono giustamente loro uomo potrebbe ancora arrivare vedi quando vuoi e quindi fidarsi sempre e solo lo strumento software non ci vuole sempre dall'altra parte qualcuno in grado di governarlo questo post
+veniamo dal quello che deve fare analizzare vulnerabile assessment che chissà che cosa vuol dire questo strumento è che falso positivo ad esempio sta prendendo perché seguendo la luce della lanterna esempio teoricamente classico growl si ripropone ancora oggi non è che dico non è che siamo diventati obsoleti perché
+le persone sono diventati tutti più intelligenti dei il software di dubbio intelligente ma la questione è sempre quello
+e come andiamo a seguire le altre cose insomma non è un'accusa così
+non tutti leggono tutto e minaccioso sempre diverse perché adesso c'è un interesse economico il mercato economico rispetto a trenta anni fa di dimensioni i vari ordini di grandezza più grande quindi senza entrare nel campo
+poi effettivamente militare senza età che due novelli obiettivamente ti ama un altro livello che io conosco te io stesso
+sarà affascinante però roba
+diverso dalla piccole e medie imprese a dare risposte cyber spazio militare possono altri livelli dire trovo tutto molto più complesso perché la vista
+energia è diventata più complessa per fare questo effetto più complesse andate chiedendo alle persone come filmati okay
+per iscriverti dove secondo loro si trova nei loro dati che nel e lo abbia fatto la domanda angelone di rimorsi quando insegna fatto pagare west
+pd è una delle domande che ne faccia ma voi sapete che quando voi ne è un boyfriend e cloud
+e poi
+ehi ciao ehi dov'è tecnicamente come falsi stati istruiti adesso il dovere è molto comunque
+puoi identificare anche fisicamente un dataset immaginate un'altra sette ma dov'è fisicamente poi in realtà non è così scontata perché è importante questa fase perché tu stai pensando di spostare un oggetto
+e fu supporto o agisca che è lì davanti a te in un posto altrove e non hai neanche idea di come hai fatto cioè com'è fatta la struttura nei dati ora io non entro persone locali o accedere a sandro e chi può accedere perché
+noi potremmo avere idee
+ad provider che sono sottoposte legislazioni nazionali per cui il legislatore nazionale può credere o chiedere rispetto a quei dati casomai per dire legislazioni europee questa ondata vieterebbero no o italiane era e recuperato questi dati in un'altra nazione invece casomai
+l'intelligence di correlazione nazione passare che fa un warrant
+cede jackson non è una cosa
+che ovviamente è importantissimo non se ne parla di questa cosa qui se ne parla anche in italia e del quadro nazionale chi è chiaro che lo fa dove stanno i dati hanno detto
+acqua
+cleanse se il problema è la nazione che ti spia cioè ti spiano anche nel transito per cui il problema è che visto successivo ma se ci di alessandro quando lavoravamo insieme di ottocento
+dove c'era azienda che voleva andare sul cloud io
+ci ricordiamo vero che claudia è semplicemente il computer di qualcun altro proprio spagnolo al massimo ha chiamato a questo principio poi che di fatto è semplicemente dal mio hard disk che ho messo su da disco distribuito come ci pare no è un di equità che problema c'è se ci pensi una volta che c'è una copia di quel
+dato in qualche modo poi alla fine fosse solo un po' cup per la maggioranza dei casi il problema di trascinare alla reputazione o altri tipi di rischi però
+in primis la qualità del dato anche in caso di disastro no quindi il tuo beccato brutalmente detto quello è quello che ti salva la maggior parte dei casi la vita nei momenti in cui uno è anche nei casi più gravi a meno che anche il capo e come abbiamo mica mai vista in aria
+no no mai vista ma è successo perchè il gap
+diretta atalanta ma avuto una domanda che teniamo in corso
+insomma avevo da qualche
+per chi mi sa rispondere è se tu ti becchi un cryptolocker chi fai a parte non pagare va da sé la prima cosa che ho fatto
+sempre bene
+in italia aiutare
+esatto superato però trauma cerco di capire se ho
+app disponibili e sani quelli fuori tempo
+il sito che sta in cassaforte ma in realtà quello l'approccio dovrebbe essere diverso tipo no cerco per prima cosa è capire dove sono mentre un'altra squadra vedi quali hai beccato
+ma perché
+perché in assoluto le sono entrati dall'esterno sfruttando una falla io vado a ripristinare gli umani sono daccapo novanta
+stai parlando tecnicamente di quali sono le fasi dell'incidente quasi rimanendo
+non amo le cose neanche quello è un lavoro una specializzazione
+ma io lo so perché mi diverto a fare tutto
+di tutto un po' niente di tante cose
+all'altro una nota sul quest'anno però scusi hanno detto tutti non paghiamo il riscatto ma lo sapete che nella prossima finanziaria può
+il costo che paghi per il titolo ma non c'era discussione secolo
+quello che mi sono fermato
+inorridito dal fatto che non si vede perché possa essere una energia perché tu quanto pagare un riscatto
+familiare
+la lingua e la mia azienda
+se tu paghi un riscatto in realtà sei complice tra virgolette non sono un avvocato quindi non so dire a livello europeo
+sono un avvocato no esatto c'è però una cosa che ho trovato abbastanza aberrante anche perché non c'è alcuna certezza che stephanie le scarpe
+grande anche la lockheed
+sono aberranti tu comunque partecipe un crimine non è andato giù quel periodo
+cosa più importante cioè quello proprio intendevo tu stai partecipando a un crimine e mentre bloccare la possibilità di pagare un riscatto almeno ufficialmente può far sì che su cento cryptolocker novantacinque non ricevono i soldi e quindi magari è un deca
+corrente anche per chi hai detto no nel momento in cui la cosa che ho fatto che anche defiscalizzata quindi aspetta mi costa meno piuttosto di chiamare un consulente vedere pago di scatto e lo tolgo dalle tasse da incentivare in un certo modo anche questo genere di ben altro
+scusate ma io non voglio dire dobbiamo tornare sul pezzo se no qua ci prende due cose intanto finiamo il discorso nel responso che voglio dall'inizio alla fine e poi è una cosa ma se uno paga di fatto quante volte ottiene il deep thing e quante volte invece a prendere in quel posto lo stesso ci sono statistiche ci sono idee su
+queste cose ci sono feedback avete più scontri diretti
+perché in cui si possa con raven
+va bene ma senza far nomi e cognomi ovviamente c'è nel senso se si paga di solito ottieni quantomeno quello per cui è pagato oppure no al netto del fatto che non dovresti farlo e si dice sempre non fatelo presente non è un campo che non è un campo allora torniamo subito sul discorso
+respons dai facciamo la timeline
+se è calato un imbarazzante e si response mi hanno beccato mi becco il cryptolocker dal tempo zero è qui che arriva la chiamata del
+quando questi scopre in poi la cosa si fa riassumendo un po' ma domenico e
+alla radio tutto piange come piango due minuti
+vabbè comincia a fare cose e capire dove arriva normalmente io do quasi sempre per scontato sia arrivata per lei
+ho visto un'altra volta un'altra vettore di attacco aereo visti più volte
+all'esterno c'è quasi sempre dati
+west neanche proprio serve più aperti gente che è stata dentro parecchio piuttosto che altre situazioni per cui attaccante entra per quello che leggevo più importante questa analisi perché se no questo l'ho visto
+chiamato alla seconda infezione perché il primo giro asia abbiamo i backup hanno fatto tutto in casa tre giorni dopo accadde di nuovo allora andiamo a fare una un'analisi quindi vediamo da dove da dove e come sono entrati perché comunque finché la mail finché la media anche lì non è detto che basti perché io pecco
+mail me pagare mi ha infettato il pc e ha fatto il primo giro di ransomware bloccando tutto però magari è andata a fianco in modo dormiente e si attiverà tra due settimane
+hello è un'analisi che devi fare quindi andare a vedere per fare questa analisi è fondamentale perché se no guai
+d'accordo con te il punto è che se non vado a vedere the cup rischia di fare analisi e poi trovarmi col cerino in mano perché tanto non c'è niente da fare
+tim
+segue tre dovrebbe essere data per scontata esistente
+ma pensa che sia capitato anche a te almeno di ritrovare quello che dice
+e poi fatta propria montarli vestiti dicono ma che vuoi da me
+ci rileggiamo e via quel punto lì che tu abbia fatto l'analisi è è rientrato fai cambia poco perché avrai comunque devi ripartire da zero comunque allora a quel punto tanto vale fare avanti e cercare qualcuno da incriminare
+o se no sbarazzare
+e poi voglio dire sei alessandro è già un discorso ben vedere però stiamo parlando di una bomba di crimine informatico è però evidente nella sua cosa tragica è la cosa più semplice che c'è stato un crimine
+ah sì
+film davvero
+non è che solo il rom sawyer è importante però è come dire che tutta la malavita rapimenti e non è così cioè che ci sono tutte le varie forme che vanno da negazione del servizio è anche quella che ha un'evidenza a un qualcosa che invece è più sottile che può essere utilizzata
+zione dei dati di cui non è nessuno
+soprattutto se non sai dove andare a cercare no
+cioè neanche che li hanno tolti quei dati il dato importante che ormai lo scopri dopo
+che poi è una notizia riservata uno che notizie riservate in qualche modo pulito utilizzata e vuoi vedere
+devo dire jewish league proprio che conoscono tutti quella edge
+molto meglio andare a vedere in borsa c'è
+le notizie riservate si è svolta a no ma certo
+lì parliamo di una guerra politica no certo è così questo discorso cioè come andare a vedere che come essere certo di informazioni non è stata rubata da cda quindi nessuna macchina qualcosa che per un istante entrato l'anomalia un comportamento di una cosa
+che però possa essere indicativo di un'azione malevola o che ti faccia sospettare di nessuno ma quella è una cosa più difficile più difficile da realizzare né un antivirus non è la
+web marketer ragazzi stiamo divagando torniamo sul pezzo e facciamo finiamo il discorso
+sette responses facciamolo dall'inizio alla fine e
+comunicare allora intanto è hobby in quali casi deve comunicare la cosa delle autorità quando tratti dati personali quando no
+se io l'evidenza ho il forte sospetto che ci sia stata un'uscita di dati e senza banali fatti mi è capitato di qua quando capita la prima cosa nella nell'ambito di questa analisi di come sulle pratiche di successo per esempio chiedi al provider la nave i
+i grafici sono presenti dell'utilizzo di internet nell'ultimo periodo e davis e devi proprio dal grafico si si provi già delle anomalie credi le anomalie nek in uscita puoi presupporre che ci sia stata questa fuga di dafne questo furto di dati e a quel punto se tu tra i dati personali perché
+a te che a seconda del tipo di dati di che cosa tratti eccetera dovrà reagire in maniera diversa lucilla anche in quel caso sicuramente devi fare la denuncia al garante però poi gli eventi che devi fare variano a seconda del tipo di dati
+garanzia
+un tempo siccome preliminare usato tuoi file entro settantadue ore
+dubbio un paio di giorni unicamente di è proprio quella che abbiamo trovato che non sarà affatto scontati da i minerali oppure abbiamo proceduto analisi abbiamo scoperto che sono stati applicati questi dati ma non rivestono un'importanza locale perché
+sono comunque dati
+dipende da quello che trovi in questa anna e questa rinuncia come viene fatta via mail via cell una volta c'era il modulo per inviare adesso adesso c'è no io chiedo a te di dover rimandare becca
+adesso non c'è un'area apposta
+re si fa online in qualche modo velocemente tra virgolette solo alla faccia dello schieramento del presepe con l'avvocato sono viziati fabbriche di ti amo di più grandi di pio e li riciclare tu falla a io e poi vediamo ecumenica della capisca perché non sempre di piano ci sono molti validi in italia ma ci sono
+anche molti di più o che c'è di più e la tv geniale continueranno con l'ennesima gabella che
+venditore deve passare allo stato e quindi di pio e uno ministeri e alle volte anche in conflitto d'interesse
+perché magari è responsabile in cui crediamo di più o finiscono saprei dati personali no praticamente in pochi anni però da quando devo fare anche iniziare ad oggi se ne sono viste di più
+responsabilità del personale praticamente data per data protection
+quello che quello che comunque ogni azienda di fatto nominato tecnicamente no in teoria responsabilità di un geometra è obbligatorio secondo certi parametri deve rientrare in alcuni imparare e ti conviene sentire di chi fa di più o perché per esempio ci sono piatti etnici ma attende
+inizialmente di creare un avvocato specializzato in
+diritto alla privacy tecnologie in cdm c'è ancora
+una specie di
+perché è molto molto complessa la materia non è banale anche perché ha dei riflessi tecnologici e non banali e quindi vip ok bravo è un è uno che ne sa di legge è un bravo avvocato ha studiato né ce la fa però è anche in grado di apprezzare tematiche tecnologiche cioè quando si rivoltano parla
+con l'incidente engler è in grado di capire quello che insieme ai cani da slitta
+cercando di spiegare quindi se gli dice non c'è stata esfiltrazione di dati po' antiquata come se tu avessi appena detto ammazza la vecchia così
+bene quindi non ti diciamo a chi dovere e team si mette a indagare le cause e come tutto questo è stato possibile tim inizia a recuperare i dati immagino che tu prenda cerca di capire se i dati ci sono dove sono quanti sono
+ci sono dei casi meravigliosi sistema più repliche dei dati per cui hai diverse possibilità per
+ripristinarli e comincia a calcolare i tempi perché non è così banale e certo
+una volta sfera dei dischi rigidi piccoli ad si parla di era e non è che ripristinare qualche tiro dei dati ci vogliono una manciata di minuti e grazie al cielo il suo più del t u s a
+va anche bene così perché una volta hai capito se hai i peccati sono disponibili pari della presunzione di tempistiche poi devi capire che cosa delle infrastrutture è saltato e questo lo deve fare e cioè di capire chi sta facendo un insieme di gang chi deve dare informazioni quali sistemi
+destinare in che ordine si spera che ci sia un piano di disaster recovery deliberato cosa che non sempre detto che ci sia per cui te lo devi inventare il momento coglie informazioni che raccatti al momento
+questa cosa con arrivi da esterno è spesso un incubo perché tu vai alle aziende diciamo che va bene abbiamo metà degli ospiti
+tariffario che io vado ad analizzare noi facciamo litigavate l'analisi forense di cosa è successo è successo va bene non ha stabilito che è stato l'omino con la mail per semplicità quindi ti amo mentre lo scrivete una squadra si occupa di vedere sui tipi tipici sono sani stabilito qual è l'attacco
+due zero ripristinare l'ordine di ripristino
+perché la gente spesso ti guarda con degli occhi capisco perché piango ma perché poi posso ridere perché stasera bianco prima farai senza quel punto di vista lacrime perché poi
+questa cultura la sicurezza è un problema da altri quasi sempre nell'ottica aziendale il dipingere qualcosina ha fatto più in alto perché
+c'è la multa quindi ho dei dati personali non rendendosi conto di aziende che tutti i dati personali anche tu hai ancora la tua azienda indipendente dei dati personali banco finché i miei stessi dati immagino di si
+ben protetto assenza di perdere gli altri dipendenti nessuno lo so come però banalmente però una cosa non finché non ci sono due non credo ci siano credo che un po' tutti sia capitato la sensazione di perdere dei dati dal computer perché come spariscono fluire nuovamente andare prima a quello c'era c'era tutto eppure
+dall'alto non c'è più quindi giustamente si piange prima cosa perché comunque lo sbigottimento di fronte all'ineluttabile
+e poi si spera di avere il capo perché se no più frustrante quando dimentichi la pasta andiamo cosa si tratta
+quello è veramente qualcuno
+li osservo sani vedi la partizione è integra e tu non ti ricordi la password scritta perché eri troppo in paranoia voi
+punto perché poi la crittografia è sempre stato considerato storicamente una tecnologia li usano
+calogero
+fotografia avanzata
+i moderni algoritmi crittografici e per quello che prima era soltanto una cosa che andava lì virus studiò qualcosa più remunerativo bloccarlo sbloccarlo e sulla crittografia
+padre sblocco software e vogliamo che abbiamo abbiamo ripristinato perché siamo riusciti a trovare
+azzera i poveri in qualche modo abbiamo ripristinato e adesso bisogna capire sulla base di quello che hanno fatto il team di infineon handling
+lezioni quali salvare mediation
+mettendo in pratica
+questo non ci sono delle metodologie sviluppate nel tempo suicide a dandridge di tipo organizzativo fondamentalmente puoi anche tecnico insomma falange e tu ci pensi allora diciamo il caso più semplice ho cliccato sulla mail va bene non va bene però
+l'abbiamo scoperto è semplicemente quello che è andata abbastanza bene il problema è sempre quello che magari con il caso io come
+ha fatto un'analisi più visto che quello siamo sicuri che quelle locali come forse il caso di andrea i corsi di security awareness a questo culto ai dipendenti perché non sprechino sulla maine e la risposta nonostante gli appena rischiato di un'azienda di si poi ci pensi che questa poi la realtà dei fatti ma a livello tecnico per evitare che
+clicchi solamente in spacchi tutto cosa ti basta avere installato sul tuo computer dato per buono che magari a livello di rete aziendale magari ai tuoi proximity
+strano ma magari fuori della rete uno che usa il suo computer ci sono dei software che ti danno
+che fanno una serie di analisi però che arriva dalla campagna di spam passiva e tu sei dentro ci siamo tutti in quartiere in cui qualcuna di queste liste almeno ora
+esatto e non il tuo software qualunque esso sia gratuito o a pagamento non a quella scimmia tu non puoi farci molto concettuale proprio devi arrivare prima ma scusa un modi di egoisti che su cose che fa un suo processo sulla sul fasciste ma sulla memoria sono magari
+ticket che ti controllano questo c'è questo processo che si è messo a scrivere come un pazzo su fa' il sistema ue cosa facciamo lo bloccherò ma no esistono gli chiedo io allora io per sfizio mi sono installato
+non sono infallibili il proverbio
+nell'ambito shock non installiamo degli agenti che poi ti mandano dei report dividono come funziona cosa sta succedendo su un singolo processo e poi sono agenti che lavorano molto vicino al kernel però che non stavamo parlando del tuo pc di casa e alle tue domande e tutto il problema il governo ha
+una curva di apprendimento anche loro come veicolo di falsi positivi a manetta fin quando non capiscono quali sono i pattern tipici
+no delle cose generiche che già sanno però poi devono imparare e tu utilizzi la tua postazione in un certo modo che magari indifferente
+oh il bar il male si guarda tanto alle direttive
+alessandro di questi giorni no il fatto che adesso gli strumenti di produzione del malware sono diventano dei cripto it che si vendono
+non si vendono merkel
+utilizzano anche tecniche di intelligenza artificiale portano a lago la creazione di campagne quindi adesso è come praticamente se qualcuno avesse inventato un nuovo tipo di arma la mette vendita no questa cosa stiamo parlando e con strumenti nonché basati
+sorteggio calcio nel senso algoritmi sofisticati ed è un'accusa che continua c'è soprattutto un ambiente complesso in cui puoi la gente effettivamente effettivamente usano quello strumento per lavoro
+puoi mandarci tre allegati rilevanti quattro dice no il sospetto c'è di che stiamo parlando non è così e ometti automatizza certe cose non
+e allora cos'è quella quella normalizzazione via mail un attacco o una drammatizzazione via mail fatta tant'è che è l'esperienza di tutti che puoi dire le cose che dovrebbero funzionare questi strumenti che dovrebbero difendere fanno funzionare le cose che dovrebbero funzionare e genoa il padre dell'antivirus
+bloccato questa gold ma bloccando il tuo gruppo o quest'altro pensavo di fare una view point
+un'accusa malevola invece cioè io uno pc un antivirus mi ricordo i motivi del suo famosissimo e che aveva trovato un rispetto delle regole di waf che ho mandato living
+caprioli e aveva troncato e allora dice no allora dice amanda mandy hale cifra a te
+c'è sembra una cosa banale no dice ma il manager può alla fine che il criminale che ci entra probabilmente perché guido voi queste cose bloccano l'operatività non va perché in realtà il problema insomma c'è non esiste una soluzione definitiva perché
+cento per cento che era quello che si diceva
+però siamo d'accordo soprattutto non c'è la sicurezza cina per cento se uno ti vuole bucare ti buca soprattutto se terminato però offrirà un pò di
+meccanismi di prevenzione per mitigare il rischio e su attacchi a larga scala dovessi proprio asse c'è la rete a strascico chi prendo prendo e ce ne sono dai nonni e tiriamoli fuori diciamo io voglio nomi e cognomi e metodologie come livello di paranoia standard alto antivirus firewall
+la tua postazione privata antivirus firewall lavoro e del cup
+ho consultato the cup
+ci andavo filtro sui dns e magari alla come dire dns e comunque di default non ti fa andare su tutta una serie di siti noti per pagare saranno dinamici with the blacklist maglia viola alle persone che devono fare perché io sono contrario in posizioni però
+l'azienda dietro la tua azienda per fare un controllo
+peter un fatto la capanna privato però
+beh anche li spesso e volentieri si può vedere lo streaming si cambia il dns come vuole noi a bestie che sia capace di farlo e se non è capace di farlo dns non lo fai toccare perché non vuoi puoi internet però dico la soluzione che magari soluzioni software che ti fa una risolvere
+il locale localhost che poi fa lui i filtri del caso e che poi ti blocca già in partenza tutte le guerre a a domini ostili saranno già immagino sarà una gestione sicuramente a livello di rete malpaga
+welfare
+anche la cavo
+in pakistan si configuri normalmente sicurezza basica ormai sono abbastanza evoluti per il windows firewall fa anche dns filtering cioè fa e chi va a caccia tutta la lista dei non
+voi vi siete sicuri dei software anche di terze parti stanno solito di terze parti che trovi su alcuni computer fashion betti da configurare e meno tempo per fare come fa
+cioè io vi posso anche permettere ad un livello di sicurezza altissimo ma se mi stavi per la pesca a strascico l'unica difesa e a strascico vera e il livello di attenzione paranoico finalmente dice dopodiché si fa l antivirus e firewall secondo me messi sullo stesso piano questo
+per l'utente privato poi sentendo un reato andare via
+sito porno di scambio cose che ho trovato sul canale telegram oscar altissimo
+vuoi usare dns e che mi ha dato un amico o un colorino sono censurati i siti che fa vedere le partite in streaming che era quello però io posso
+come dire c'è anche gente tuttora che da emule scarica la qualunque
+sweets kong banner poi alla fine più restrizioni metti poi la gente di esterne anche a cercare di eluderle non perché poi semmai quella descrizione di fare di lavorare bene non ti obbliga a lavorare in determinati modi a fare determinate cose per quello però è disco si
+zero trust anche di prima insomma sicurezza in qualche modo spesso quella azienda non puoi fare a livello di privacy
+località puoi farlo in pubblico fango per carità però non hai una fruizione dei servizi internet e fluida come fare l'utente che viaggia con la vocazione di base che è secondo me essenziale alto antivirus antivirus firewall ovviamente il sistema
+torna dopo
+impreca in saccoccia automatizzato che vada e poi del minimo indispensabile poi corleone
+ti limita in quello che puoi fare se pure alessandro devi anche immaginare che fa parte dei test che ho fatto dice che succede in questa produzione fallisce
+civilista abilitato
+l'antivirus disabilitato il sistema contiene quello sicuro d'accusa visto difendendo sto difendendo cioè riduce la mia difesa è l'antivirus o l'antivirus comunque un'evoluzione
+emanuele diciamo qualunque strumento o oppure è il sistema il sistema non è ma c'è un antivirus che funziona va bene bau sia recepito
+cambia la spinta dai carteggi di famoso discorso tu dici cioè tutte le fibre edizioni fa ruolo di cose eccetera
+seguono un momento non funzionano non vengono disattivati
+il sistema contiene ancora sicuro se viene attivato la fa
+walter pezza
+salve nel sistema
+però guarda con consigli vi posso dire che da un punto di vista metodologico testo tutti tutti molti pianeti
+action tace
+ventidue vengono fatti anche in assenza di difese esterne al sistema perché è chiaro che se tu dici dio devo riuscire a passare anche un sistema solo una questione di tempo cioè che cos'è il tempo diciamo che una volta che bevo stato io
+la sicurezza che io vivo e voi passate con i sistemi libero è il famoso discorso io so un edificio che protetto da tutto l'insieme di controlli elettronici che differenziano la luce sistema continua ancora puro anno ai fili della luce proprio sistema
+uno tutte le porte le vip come questa abbia avuto inizio e metodologico si fa spesso battute
+si immagina che l'attaccante riesca anche a eludere le misure di sicurezza o gli strumenti di protezione per eludere misure di sicurezza perché potrebbe tecnologie dual use
+fauno del rischio di giovedì non antivirus di flusso controlla i flussi è però purtroppo traffico cifrato che facciamo allora non riusciamo a fare le frittelle il peso e no ma insomma non si fa più neanche quello
+rapine inizia a diventare noi che vedono una cosa che non è per divagare ma obiettivamente
+al di là dei flussi separati
+presso varie attività
+la nel gadget
+viene proprio da quello a certi fa infatti fa quindi diciamo che anche metodologicamente non è soltanto quello che è esposto in pericolo anche ma è quello che ho detto che potrebbe protezione potrebbe avrebbe dovuto fallire oppure l'ostacolo renderlo inoffensivo
+divertente privato perdono amica chef
+alessandro ha fatto l'esempio della pesca a strascico la pesca a strascico
+no non è uno sport fishing
+vuoi dire diciamo che magari association fda se sei un
+se sei un bersaglio di rilievo vorrei dire allora li c'è voglia delle euristiche network valgono niente allora persona giusta male mai alzato la domanda a questo punto non posso che andare avanti
+con quello che hai detto prima becca app antivirus firewall il sistema picchiato e così via e un po' di attenzione e consapevolezza come singoli ci definiamo dalla pesca a strascico è bene o male possiamo sopravvivere in questo mondo è difficile ma se c'è un attore esterno che vuole proprio bucare la nostra azienda
+perché siamo un'azienda grossa o che gli interessa bucare e quindi è determinato e quindi parliamo più e a questo punto livello più di infrastutture aziendali che di singoli che comunque fa parte dell'azienda e sono anche una componente che facciamo che con il nostro budget che abbiamo
+innanzitutto
+dire alla questione quanto vale il bucato
+perché da lì tu hai un'idea delle controparti quando nel duemilaquindici la russia ha bucato le centrali elettriche ucraine sospeso prudenti svariati milioni di euro nel riuscire a farlo però è uno status
+illimitato l'azione politica che volevo fare
+ricevuto l'analisi prevede interessanti dell'anno molto bello molto bello allora
+per dire quanto vale il fatto che mi buchino in quanto amico e se tu riesci a far sì che il costo per bucati è maggiore del beneficio dipartita sopratutto sulle aziende grandi esposti di ripartire da questo presupposto perché se sei una
+l'azienda che
+in qualche modo interessante davvero tanto creare uno stato che può essere interessato a bucare il primo a dei mezzi illimitati tendenzialmente quindi occupati e zero zero del liquido poi di emanuela questo presupposto base che purtroppo è così questa è la security non puoi continuare a aumentare
+giudicare tutto quanto
+essere poco appetibile è un po' come l'allarme che metti in casa lo sai benissimo che sei un ladro davvero volessi entrare in casa tua quello me lo fa saltare ma sì però più blocchi
+di quelli tutti i ladruncoli chiamiamoli così soltanto ladruncoli che girano per che cercano di google di entrare in casa tua a rubarti televisori toglieteci il numero ancora
+per darti un po' la dimensione della cosa quindi quel ceto e devo far si che di non diventare un bersaglio appetibile quindi iniziato sicuramente
+come l'attenzione che io devo porre sulla bici di casa devo trasferire anche ai dipendenti ul sulla loro operatività giornaliera e poi vado a creare tutta una serie di news fai ruoli di ansa it s
+e so chi sia ma di arte cui vanno a vedere comportamenti che escono dalla norma la seconda di quanto budget oh di quanto diventa più critico per me l'eventuale
+attacco e conseguentemente vado a crearmi le mie strutture di difesa che ha anche la senza esagerare da un lato perché non puoi neanche spendere miliardi per difendere un'azienda da cento lire però bisogna trovare la giusta quadra
+vettel stai dicendo qualcosa ti stavo crescendo ma concordano con la pulizia
+molto bene allora
+visto che ormai siete delle vecchie volpi della sicurezza e le avete viste di tutti di tutte e immagino che vi siate fatti un'idea di come sta andando il mondo e di come potrebbe evolvere in prospettiva del mondo della sabbia security delle minacce rischi è tutto qua
+cè qualcosa secondo voi che potrebbe cambiare evolvere o
+sei più prendere forma un po' diversa rispetto a quello che abbiamo adesso in termini di sì a minacce potenziali no perché per esempio adesso tutto il mondo del cryptolocker fino a qualche anno fa non c'erano che io sappia insomma non era un problema tra virgolette lo è diventato col tempo no e non so se fosse una
+un po' senza senso perché punire minacce e informati non ha nessun quelli ma vedete all'orizzonte qualche nuovo tipo di minaccia ma già il fatto che sono anche i tipi di attacco sono di tutti i generi non si vedono le forme dell'hacking sono sempre meravigliose e a volte trascendono la comunione ogni possibile aspettativa tra noi
+sensore infrarossi per vedere non so né in touch pad dove sei uno inserisce i numeri a sistemi remoti per vedere o
+onde varie e di diversa natura insomma c'è di tutto in giro lo sapete meglio di me però insomma qualche prospettiva qualche possibile l'idea in questo senso con qualcosa da dire non la amo particolarmente fare la bulla con la palla di cristallo però c'è tutto questo
+artificiale porta con sé anche light nel senso ostica
+come come attaccare
+mi aspetto dell'evoluzione in quel senso però quali come non te lo saprei dire perché
+l'unico aspetto che ho un po' indagato di questa faccenda e relativa all'uso della steganografia e agli studi recenti
+l'utilizzo del machine learning sia nella creazione artistica geografico sia la detection e sta diventando veramente ho una razza molto interessante è l'utilizzo per la creazione dell'artefatto steganografia rete estremamente complessa la rilevanza
+zione e di falsi attestati su basi statistiche da rinnovare e allo stesso tempo il potenziamento delle capacità di analizzare grandi quantità di immagini per individuare anomalie anche quella fa progressi notevoli quali arabella reich inseguendo erasmus
+di nicchia cioè
+età un focus sta seguendo questi argomenti val è veramente troppo vasto non solo una grande programma ed equipaggio costa fatica la figura tre i trend di possedere
+umore di immaginarsi il futuro quello che c'è oggi stanno iniziando emerge è una cosa semplice e molti dati devono essere protetti per giorno due
+ok peseranno tre persone per vent'anni trent'anni osserva allora che cosa vuol dire tutto ciò cosa come si trovi te perché dei dati
+sono soltanto dati transienti ma casomai sono delle lettere riservati da una serie di per trenta anni devono rimanere figure per trenta e quindi
+il coordinamento delle informazioni principe la crittografia diciamo che a livello internazionale
+hanno previsto su e già sono in atto da nike
+diciamo delega aree che hanno visto vincitori per quanto riguarda le firme digitali
+vedi anche repubblica per algoritmi che possano essere resistenti ai computer quantistici quanto resistente albany ufo parole continua
+ma ci sono senomax questa cosa è bello è bello però il discorso è che adesso già fan stando a dire questa cosa qui le maestre già nicchia devi iniziassi a essere introdotti protocolli attuali no ma infatti
+ma non è ancora così
+belvedere vedere gli algoritmi che vengono utilizzati protocolli che le tre che nessuno di quegli errori
+un tempo fugge noi sistemisti ma forse no a meno che non si era appassionato che le opere stesse ad esempio ha introdotto un algoritmo opera litografia post quantum anche se non è uno di quelli di diciamo che puoi su tali candidati o dei primi
+ciao m algoritmi che si basa su un problema matematico specifico per trial è una cosa interessante perché dice lo bevo io associo loro
+il cifrato con due tuttavia oltre quaranta anni è ancora sicuro ma ebbe un publisher weekly e-news
+non è quello buono
+che però diciamo ciò una chiave protetta in croce questa è un'altra cosa è molto importante
+però diciamo anche lì e di nicchia non dannoso perché molte persone poi anche nuovo per il cifrario il dato lo dai per scontato che nessuno può prenderlo e se l'atmosfera che ragionevolmente un governo governi bene oven che anche aziende oggi anche un individuo
+individuo può avere foto contro voi utenti di un politico probabilmente non le fai ho risolto il problema
+foto compromettenti
+scaltra natura però può darsi che una e solo una visione io ti dico i trend che lei bue e quindi non è che sono opinioni personali a quel punto uno c'è vuol dire che ad un certo punto di vista è una preoccupazione riguardo ecco
+a vedere poi come questo è che puoi cambiare un algoritmo crittografico prova paulo è una cosa nuova la nuova molto lunga o perché c'è una base sono otto i prodotti che prima che i giorni cioè passa tanto tempo e decine anni
+queste volte hanno sganciato che parlava di una traversa metaverse lavanda quello e bisogna vederlo
+talvolta è
+gianluca corpo traversa ma penso che dobbiamo vederci tutte fa
+io sono dell'opinione che siamo già immersi nel metaverso prima puoi aver lasciato scorrere attraverso il velo ovvero quello che faccio lo sappiamo tutti qua no
+no io siamo già un po' perdendo un pochino io sto perdendo lucidità mancanza di zuccheri
+proprio tempo forse volevo riprendere un'affermazione i toni salta su google come bilanciare il classico problema della sicurezza il bilanciamento fra produttività e sicurezza dove stava il compromesso ideale perché poi giustamente voi mi insegnate troppa sicurezza fa ingegnere
+personale eludere l'asilo e le logiche di sicurezza per cui diventa poi spesso succede che ha l'effetto opposto magari ci sono persone che si fanno loro tunnel nelle stesse caso
+mezzo a trucchi per bypassare tutti i fae vuole tutte le loro cose e voi in realtà non credo che sia una
+la valutazione no di una risposta diversa dal solito dipende però se avete qualche idea al riguardo qualche l'ottima l'optimum per il bilanciamento tra sicurezza e produttività esiste ma è sempre più difficile perché lavoratore di fatto tempo è sempre più abitua
+ha una esperienza d'uso
+fluida e ininterrotta e pretende lo stesso anche ambienti di lavoro dove però
+magari non possibile già effettuati
+informazione non soggetto ad alti livelli di sicurezza ci sta ma se appena appena trattiene informazioni devono essere protette un po' di fastidio
+c'è sottratti informazioni che devono essere molto protette
+l'esperienza di un è tutt'altro che soddisfacente diciamo è troppo legnosa e questo però rende molto difficile far passare il falchetto della necessità di
+di stare alle regole lì io va bè no
+lo dico perché me ne sto occupando direttamente da un po' di anni fa moltissimo la formazione è però non deve essere la formazione
+come viene intesa spesso ovvero quello che vedo molte volte che viene formato l'amministrativo perché quello che lavora sul computer poi magari non viene formato su questi argomenti tecnico per fare l'impianto se invece quello a contatto con macchinari costosissimi attaccare
+bene perché ci sono tutta una serie di problematiche magari in una fase ancora non so avanzata protezione in termini infrastrutturali tecnici perché lei è una materia complessa e non si fa in un momento impagabile e poste personale non viene formato su questi aspetti
+e quindi l'effort è stata fatta da parte dell'azienda ma ha cercato male sugli obiettivi e target che deve essere quello che ha a che fare con l'oggetto più prezioso sarà in vigore e anche più almeno temporaneamente indifeso non è formato correttamente meno
+quello che fu sommato vive in una delle celle antivirus c'è
+il firewall è configurato è un ambiente da ufficio per cui anche se
+per un'ora non puoi usare il computer non succede niente di gravissimo mentre se ti succede l'impianto che sta fermo un'ora è un problema serio
+non viene realizzato l'obiettivo di formare correttamente e quindi a quello che lavora impianto gli viene propinato su questo argomento il classico video corso out frequente con le dieci domandine in forno col foglietto che se lo passa uno con l'altro da settimane
+mentre all'amministrativo viene fatto il polso magari in presenza visto che siamo tornati in presenza con l'esercitazione magari rifare anche l'esercitazione anti phishing considerata bene queste cose qua è un problema organizzativo è difficile far capire queste cose a chi magari
+si occupa del personale che è quello che si occupa di formare le persone questo tipo di energie e va bè questo perché
+non sei ancora colto che digitale è trasversale a tutte le attività cioè se ne parla tanto ma non c'è la reale comprensione di quanto fu trasversale in cui l'aereo ti diceva tema
+se il piano di formazione basato sulle qualifiche ma a me non interessa avere qualifiche le persone a me interessa quello che fanno con qualità che trattano ma non solo che posso
+per venire nella gloria del medico non lo faccio i corsi di howard prima cosa che le aziende ma ricordatevi che con uno slogan la
+la catena è tanto debole quanto il suo anello più per cui tu devi formarli tutti o tutti a un ottimo livello perché sennò se tu se tu pensi che ci sia uno che può essere formato o meno quello è il tuo punto d'ingresso tempo
+riguardo invece al calice
+dove la media io mi ricordo un libro che mi hai regalato tu tra l'altro alessandro
+è possibile
+viene proprio te
+si parla di sicurezza fenix droghe o stufate
+dove quando parlano proprio di sicurezza dove quello che dice alla persona sicurezza non mi ricordi noi un po' di tempo lo vede più importante che si deve lavorare insieme la sicurezza coi processi perché la sicurezza si ci stiamo a guardare solamente la sicurezza delle cose scully sicure ma non utilizzabile
+dell'utente e invece bisogna lavorare a braccetto trovare il modo per cui anche lì io sono al pentagono ma davvero serve a tutti avere un problema davvero un problema da risolvere una difficoltà nell'accedere ai dati sempre comunque magari no magari della segretaria
+seleziona adesso non mi viene un più centro pulsante chiudi chiude magari ci sono dei punti che possono più hanno bisogno in realtà di essere più snelli ma possono permetterselo
+la sicurezza deve lavorare per l'azienda andato individuare ultime biologici dove non si può transigere
+l'obiettivo però è anche più facile che uno che non ha a che fare con numerosi concerti dati da fargli capire la sensibilità del problema quando magari al receptionist
+ma non è così facile
+capire ma d'altro canto magari usati
+è importante che prende il prende nota davvero ritieni di chi esce poi altri colte cose può può può anche non solo non saperle non seguirlo nel suo utilizzo della rete delle cose strutture aziendali può essere più fluido il cui bisogna trovare un pò la mediazione anche in questo termine perché non è assoluto cioè non è che necessariamente tutti
+l'azienda dev'essere devo avere procedure complicatissime procedure dei dati adesso sto chiaramente esagerando
+ai fini della chiacchierata il buon marco ci chiedeva anzi suggeriva quando vi aspettavate i primi attacchi di social engineering basati sull'intelligenza artificiale o i modelli di page language moderno come me li sta già facendo come sta già facendo già a scendere da un bel pezzo e anche perché non servono intelligenza
+artificiale tra virgolette così evoluta con gli altri cbt per trarre in inganno purtroppo molte persone cioè ci sono un sacco di canali gestiti da booth bene granché anche su altri social
+in cui ci sono persone che sono consapevoli che stanno parlando con dei bot ma vi garantisco molte molte persone che non sono consapevoli di star parlando col tempo e questo scaturisce dalle stesse assolutamente tra esilarante e drammatico a wild
+facendo una golf sport beppe pensare una cosa di stephen po' di anni fa e uno dei più incontri più famosi del mondo
+fu educato
+su ipad per divertirsi per cento diciamo
+gli interlocutori
+gli algoritmi
+di vedere giovanna nel periodo giudicale wilson però insomma
+non erano della levatura di chartres pd insomma si riesce a fare del però facevano quello che serviva per convincere dell'obbligo parte basta un uomo una donna
+so non deve fare grandi discorsi dato il tipo di division di calvet però
+l'uomo non pagava canone di abbonamento per favore di parlare con una donna
+incontrarli interessante come fruste non so sono troppo val susa
+di base per potermi fidare di un modello
+vero nel senso che l'unica cosa che mi viene in mente quando quando mi suggeriscono di incontri ma scusa una rosa abbastanza problemi coniugali veri devo anche mettere i problemi digitali
+società dell'informazione con alla fine che ho perso un po' il contatto non la prima volta
+non c'è formazione informazione
+bottega che colpisce il nostro io interno no bronson trapani a bologna
+altro è troppo profonda
+va beh che dici alessandro chiudiamo la serata l'abbiamo chiudiamo guarda e li hai fatto tu vai fai tutto da solo decidi argomenti ci riconosciamo noi fai pure
+perché io io vi ammiro che avete mantenuto l'attenzione tanto tempo anche io mi stupisco da tavolo
+perché puoi comunque per me
+eseguire anche quello che dicono
+e impegnativa questa cosa bisogna fare una riunione normale ma molto più parole
+alessandro
+no no io sono sempre contento di quello che facciamo di quello che si dice tra l'altro quello che è
+sai cos'è tu giustamente devi avere anche il ruolo che è giusto no devi devi essere
+il la a un insieme di che non è impegnativo e poi anche rispo
+vabbè dai facciamo la chiusa vi lascio per ciascuno tempo che volete vita è qualcosa di memorabile che rimanga agli annali qualsiasi cosa vi interessano
+e poi e poi chiudiamo veramente no qualsiasi cosa che sia attinente a quello che abbiamo detto oggi se avete osservazioni o cose raggiunge
+salva sempre che sicuramente un tema che andrà sempre più
+sempre più negli anni quello che capito da un punto di vista non di formatore ma di colui che insomma segue qualche informazione ora oggi che va sempre più evolvendosi l'approvazione e cloud quindi diciamo un cambio di paradigma
+su anche gli strumenti che oggi noi ce l'ha sempre il computer sembra piccola azienda ma cambierà e non è una cosa così banale cambierà anche la postura
+difese perché stai da un'altra parte
+e anche da un punto di vista tanto di colui che deve fare i controlli di sicurezza tanto dal punto di vista dell'utente e non è ancora una cosa che secondo me almeno da noi sia così diffusa e adesso che pare formazione proseguendo world bread e ti danno tutto l'insieme di idee muove nel rispetto
+solo tre quattro anni fa e in cui c'era una dei metodi molto più tradizionali quando si parlava ancora di antivirus pagherà ancora di più director no di come difendere invece oggi
+sempre di cloud come funziona la macchina il sistema è sempre più nel più una cosa che sta lì fissa ma viene scopare però deve essere comunque rimasto maniera sicura insomma è come siti nuovi in modo laterale all'interno del cloud quali sono i punti deboli che tanto sempre uno
+uno le basta lauren e costruì questo lo vedo come vendere diciamo quello che colui
+vogliamo formare bene come cosa memorabile
+no non mi diede immemorabile
+no così a sneddon anche senza fare la cosa effetto comunque
+non c'è bisogno di fare dichiarazioni che rimangano nella storia è tardi
+ue no
+che ne so abbiamo parlato parecchio anche fosse troppo non so chi ci ha ascoltato
+hai fatto
+ma
+la
+rosso
+la tecnologia continua ad evolvere e quindi allo stesso modo rivolgono agli attacchi
+dobbiamo continuare col genoa sia come utenti sia come professionisti nel campo e cosa che secondo me come ha detto molto bene prima e chi no ma non ci sono dei corsi sam che ci spiegano come evolverci come utenti etc si vuole
+ci sono non solo di diffusione di massa non chiamiamola così i famosi spot i palme ha scritto qualcuno
+ha anche visto prima nel senso non ci sono quindi aggiungiamo che va un pò più al singolo dovrà continuare a stare al passo con la tecnologia evolve e riuscire a starci dietro c'è
+anche perché oggi abbiamo una tecnologia enorme nelle nostre mani mani ma non ci ha insegnato davvero ampia consapevolezza maggiore sicurezza come diceva mai al tempo fa
+abbiamo dei cellulari potentissimi ma siamo poco più dei bambini la differenza è che non lo mettiamo in bocca e non lo sappiamo
+ha esattamente la polvere amaro in mano ai privati
+vivere
+la fase
+e io chi lo conosce sa richiesta
+direi che con questa citazione non possiamo che chiudere degnamente la puntata quindi grazie a tutti e alla prossima grazie alla pazienza di rimanere grazie alessandro grazie alessandro

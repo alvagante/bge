@@ -1,0 +1,649 @@
+quindi
+e quindi siamo arrivati alla puntata cinquantadue della brigata degli istinti stasera parliamo di intelligenza artificiale torniamo sull'argomento e cerchiamo di capirne un po' i bias e faremo esempi e cercheremo di spiegarne le cause magari anche i modi per
+a mitigarli e lo facciamo con diverse persone che stiamo che sono fiero di avere qui con me parto e a cui invito a presentarsi parto dall'ordine con cui li vedo io nello schermo che poteva anche lo devo cui si sono collegati e sambuy oh buonasera a tutti tutti e tutto
+io sono sam bush ad una formatrice consulente di diversità equità e inclusione e mi occupo quindi di questi temi e antirazzismo doris buonasera io sono dora bugatti sono co-founder di abeti amritsar abiti scuola è un progetto che vuole utilizzare il gioco di ruolo per fare informazione su tematiche di diversità equità e inclusione già
+arrivarono un videogioco però dopo da tavolo quello serio insomma elena
+buonasera sono simone vigevano co-founder di bello e accessibile società benefit e siamo un manipolo di disability manager con varie altre professionalità che si occupano proprio di accessibilità e inclusione per turismo e aziende come servizi di co
+consulenze in outsourcing grazie dell'invito sì ciao tutti luca sambucci dagli anni ottanta ho fatto tutta una carriera nella cybersecurity e adesso da un sei sette anni mi sono spostato su l'intelligenza artificiale e giacomo sei mutato una poesia
+coming down with c'è sempre qualcuno s'è mutato
+swatch watch ciao a tutti mi chiamo giacomo de benedetto sono il fondatore di guerra artificial intelligence è una piccola realtà con sede a varese che offre delle soluzioni di intelligenza artificiale per le aziende piccole e medie imprese ma anche multinazionali action week da sei sette anni come me
+bene quindi direi abbiamo una bella rappresentanza io direi intanto di inquadrare l'argomento bias è legato alle intelligenze artificiali e
+non so chi si vuole iniziare a lanciare magari a impostarlo simone io so che tu ti sei preparato i compiti a casa e quindi forse puoi puoi partire direttamente sì allora ovviamente
+mi sono incuriosito l'intelligenza artificiale per vari motivi quando però ho iniziato a usarla non giochicchiato ma in pratica perché mi serviva a generare delle immagini anche per il lavoro quindi in ambito disabilità e non mi era venuto in mente prima di farlo
+e sono rimasto abbastanza basito
+si sentono sempre più spesso ultimamente
+convegni webinar eccetera sull'argomento bias intelligenza artificiale
+li ho sempre visti almeno finora un po' slegati da chi accusa determinati vaas invece
+persone dal punto di vista dello sviluppo
+del degli algoritmi dell'informatica in generale che cercano tempo di spiegarle non i motivi ma la struttura e quindi sono molto curioso stasera di cosa possa venir fuori
+da
+non solo di di di appunto denunce di difatti
+io do creato delle immagini di rampe che non sono rampe ho chiesto di rappresentarmi persone con determinate condizioni di vita può essere
+disabilità sindrome così via in alcuni ambienti e
+l'intelligenza artificiale non è stato in grado di rispondere alle mie esigenze mi sono confrontato con condor e sambo anche loro esperte nei loro ambiti di varie problematiche relative all'essere umano non ha la macchina e ci siamo scambiati info
+formazioni è venuto fuori che quello su cui professionalmente giornalmente ci scontriamo come è giusto che sia visto che è una nostra estensione siamo noi che abbiamo istruito l'intelligenza artificiale si è ricreato questo questo ambiente in alcuni casi anche estremizzato
+c'è un piccolo problema che poi non è il focus della serata quindi si può anche aprire e chiudere la parentesi che però non è un fastidio del professionista che incontra un pregiudizio in una nuova tecnologia ma è una tecnologia dove io venerdì ero in un istituto di brescia a fare una lez
+ione sull'accessibilità grafica ho chiesto a adolescenti non ancora maggiorenni quanti avessero mai usato l'intelligenza artificiale hanno risposto ovviamente tutti e quindi il problema di tutti i giovani nuove generazioni che si interfacciano con una nuova tecnologia che l'approccio in modo diverso da noi come la novi
+sta al giochino ma come una realtà come quando si è andati noi che ce l'ho già la televisione così via
+nasce in un ambiente che lo si reputa asettico esterna alla nostra società ma che invece non lo è e rappresenta il peggio della società allora diventa un problema perché sta istruendo e allora lì al posto che scontrarci e basta contro gli esseri umani tutti i giorni
+a cercare di formare
+e togliere quindi i vecchi pregiudizi bisogna anche affrontare questo discorso nuove tecnologie e risolvere il problema ormai è già nato non prima che nasca però quando ancora non è così un grande problema qualcun altro a qualche sua testimonianza su bias in cui si sconto
+prato direttamente o scontato direttamente ma dopo ampi ti voglio parlare
+layout e abbiamo sempre questo finca viene
+e io ho iniziato diciamo contiene
+fuori dirmi a disfarsi algoritmi e intelligenza artificiale eccetera
+direi un po' prima del covid finiva prima del duemilaventi
+il fatidico anno attraverso una notizia la notizia di leggo il nome perché non me li ricorda
+tin it e gebru che era una holding del re all'interno di google che era stata licenziata proprio per la sua posizione opposizione verso a
+come secondo lei venivano trattate le persone che lavoravano per google in particolare le persone di gruppi finalizzati e etnicamente finalizzati quindi le minoranze e poi anche su iris i propri derivanti dai bias che c'erano all'interno da lì
+poi ho visto il documentario su netflix netflix accordo buffer che affronta proprio i pericoli dei bias legati proprio al colore della pelle quindi oltre all'aspetto non solo per forza alla alla dimensione etnica colore della pelle
+ma anche quella di genere quindi maschile adesso femminile e da lì mi è esploso un po' mondo quindi insomma inizia la chiesa e nelle mie ricerche che facevo non fossero già presenti dei bias che in qualche modo mi rendevano più difficile trovare parlando ad esempio delle piattaforme social
+persone con una professionalità che non fossero bianche e o che come primi risultati non fossero solo uomini ma anche magari donne insomma andando avanti e ad oggi si è arrivato a un momento in cui secondo me estremamente importante domandarsi che direzione si sta dando
+ando a all'intelligenza artificiale non perché non possa essere uno strumento molto utile ma perché come
+andando avanti adesso diventa un'ulteriore sistema uno strumento problematico che va secondo me ad acuire ancora di più le disparità le differenze che ci sono io ho letto un caso in un in un ospedale di new york alcuni dottori usavano un sistema di intelligent
+artificiali e per prescrivere delle
+malattia nelle malattie prefestiva delle medicine piuttosto che per trovare un
+uno non proprio una cura insomma malizia gradi ma
+e questo sistema si basava su pregiudizi quindi equiparava ad esempio agli uomini bianchi agli uomini neri ad alcune patologie degli uomini neri che però dovranno essere curate totalmente diverse in modo totalmente diverso proprio perché geneticamente c'è anche comunque un discorso diverso
+e quindi ho detto ok tra virgolette mi preoccupo e penso al riconoscimento facciale a tutti i sistemi di profilazione che vengono fatte attraverso anche gli algoritmi dico che hai già e bruce grave ma andando ancora sulla medicina diventa uno step ancora più in
+portante se poi penso a nando indietro al riconoscimento facciale quindi una possibile profit fra profilazione dei sistemi per le persone lì mi preoccupo molto e quindi fa ma sono curiosa un po' di chiacchierare di sentire da cosa ne viene fuori scambi di
+ma allora puoi passare agli esperti tecnici informatici d'ora stavi dicendo qualcosa anche tu ma in realtà a parte quello che c'è da quello che dice il sangue è quello che dicono simone mi sembra di intuire comunque ci posso estrapolare almeno due grandi due grandi cose non si tratta di due grandi temi quali indirizza artificiale
+non è soltanto l'output o cieche all'intelligenza artificiale parte da dei dati che magari sono biased e fauna output che beast il punto è anche che poi perpetra gli stereotipi anch'io come come sambo insomma mi sono un po' come anche simone ho fatto i compiti e ho guardato ho visto un bellissimo video di un canale youtube che sia
+filosofi iwbank di una divulgatrice di filosofia che si chiama abigail cowen che ha fatto tutto un video sull' intelligenza artificiale su quanto i tiri di artificiale sia o meno etica e un lunghissimo video saggio di un'ora e mezza insomma ci sono un sacco di cose però delle cose che mi ha interessato di più è un esperimento che hanno fatto in amazon nel duemiladiciotto che fondamentalmente
+era un'intelligenza artificiale che analizzava il curriculum e poi alla cava il il il lavoro c'è dava lavoro alle persone dopo aver guardato il curriculum il punto qual era però che effettivamente l'intelligenza artificiale partiva da dei dati che le dicevano in questi in tutti questi anni sono stati assunti per lo più uomini quindi il lavoro era sempre dato degli uomo
+uomini quindi non è soltanto che ho i dati sono quelli effettivamente ma i dati sono quelli perché esiste già un in balance nel nostro mondo quindi è nel senso come facciamo effettivamente di rock ehi mettiamoci dentro dei dati diversi cerchiamo di controllare i dati che utilizza ho capito però i dati sono quelli perché effettivamente esiste uno in val
+tags già strutturale sistemica quindi per forza i dati saranno quelli in un certo senso prima cosa che appunto intera interessante da esplorare sono i modi che per controllare i dati piuttosto che mitigare in qualche modo attraverso il contesto è questa cosa punto che devono rispondere gli esperti perché io posso semplicemente osservare di rocca
+i dati sono questi perché effettivamente il mondo e
+non è non c'è equità non essendoci equità ci sono questi dati li artificiale
+su questi dati e quindi perpetra ancora la non equità e come faccio a creare un petit chemin e sono
+quando ci provano poi come gemini con il caso dei nazisti di colori neri o
+ci sono altri problemi problema opposto tra virgolette e a questo punto luca e giacomo diteci voi allora dati o che è un punto
+tanto tanto tantissimo sesso o tanto scusa luca se mi scuso ho preso direttamente parola perché ha interessato molto l'argomento di per il fluo molto interessante allora in realtà il problema è complessissimo cioè nel senso ovvio spesso lo provo anche con il mio lavoro e
+è oggettivamente ci sono dei modelli di intelligenza artificiale che se non stai attento possono dare determinati problemi ne faccio un po' di esempi programmi presi tanti in questa chiacchierata e sono tutti quanti interessanti andrebbero tutti quanti analizzati uno a uno come ad esempio il sistema di riconoscimento facciale che ho detto prima shampoo un gran che
+problema è un problema gigante questo per due motivazioni principali uno è di carattere un pochettino più tecnico l'altro di carattere
+più di dati a un bivio che avete detto voi anche prima ovvero che i dati già prima e sei totalmente sfalsati e whatsapp dopodiché da correggere soprattutto in ambito grafico è molto difficile in dato in circondati che invece sono assai semplice tabulari che sono dati
+i matematici non so anche calcoli sui mutui sui mutui delle persone ti amano abbiamo un mutuo è molto più facile sistemare ma ad esempio sistemi di computer vision come ad esempio un sistema che fa object detection un sistema che fa riconoscimento facciale tendono di norma basarsi su un concetto di rete neurale che si chiama
+convoluzione praticamente io prendo un'immagine ne estraggo un'informazione una caratteristica e cerco di trovare le differenze tra una cosa e l'altra in un modo o nell'altro c'è tra un'immagine e l'altra scopando il problema quindi considerando l'immagine come un insieme di tanti problemi analizzandoli uno a uno
+uno a livello matematico basso costo ultra semplificato un centro pma okay okay
+però ad esempio questa cosa qua con le persone di colore è un problema ma per una semplice motivazione il contrasto dell'immagine ad esempio le persone bianche e anche chi scrive reti neurali tende a fare allora come ogni informatico tutti quanti gli informatici vogliono arrivare alla soluzione più facile col minor dispendio possibile quindi
+partono dalle cose semplici curiosamente è molto più facile dal punto di vista anche l'elaborazione delle immagini la questione del segnale fare un sistema di riconoscimento facciale sulle persone di colore bianca perché c'è un enorme contrasto tra quello che la nostra pelle e tutte quante le nostre parti fisionomiche quindi più facile fare un modello dal punto di
+visto che sei capace di riconoscere delle differenze di contrasto così tanto elevati spesso soprattutto i primi modelli venivano fatti con dataset enormi giganteschi ottocento un milione due milioni di immagini di persone bianche proprio per insegnare ai modelli quelle che erano le conformazioni del viso con formazione del fascio giustamente
+non vanno con tutti giustamente samuels è un problema nel senso perché comunque c'è giacomo un sistema deve andare messa nero su bianco che sia grigio giallo in qualsiasi altro colore della pelle perché siamo totalmente tutti quanti uguali ma cambia nulla ma proprio dal punto di vista di elaborazione dell'immagine diventa più problematico vuol dire che c'è più dispendio da parte dell' az
+tenda che scrive con la rete neurale sia per trovare i dati per fare tutte quelle micro modifiche ai modelli per renderli performanti vuol dire che devono spendere molto di più anche dal punto di vista proprio di di spese di training è comunque una rete neurale bisogna fare un training nella rete quindi a rete deve insegnare cioè deve deve imparare
+con un dataset di partenza ok bisogna diversificare tantissimo il dataset per fare in modo di includere anche queste caratteristiche quindi questo purtroppo è il secondo problema è molto difficile mitigare il bios dell'intelligenza artificiale computer vision è lo stesso discorso riguarda anche per simone ovvero per la generazione di may
+margini perché lui giustamente dice cavolo io voglio generare un'immagine determinata condizione non riesco a farlo come se letteralmente questa parte di popolazione brasiliana stesso poi ho trovato un modello non esiste è vero in parte è vero perché vorrebbe dire andare a includere all'interno del dataset di origine cui il modello viene addestrato
+un enorme quantitativo di dati di persone che hanno determinate caratteristiche e spesso non viene fatto e anche qui il modello purtroppo è di nuovo ai due emotivo ed una di carattere tecnico se io ho un'immagine di un barista mettiamo un barista che sto facendo un caffè e un'immagine di una persona che sta correndo
+io vuol dire che ho un'immagine di due persone sane dal punto di vista fisico per non viene immaginato semplici che fanno due attività diverse in due ambienti differenti curiosamente soprattutto nei modelli molto complessi delle reti generative avversarie che sono quello appunto che creano le immagini scrivendo voglio un pony che vola nello spazio
+un pochettino come come ne aveva miscela di alessandro sono modelli molto complessi su modelli molto profondi dal punto di vista proprio computazionale quindi curiosamente riescono a prendere tante cose assieme riescono a comprendere cosa è una persona quale l'ambiente dove si sta trovando in quel momento se ad esempio voglio la luce soffusa voglio
+non lo so voglio un gatto vicino a venetian preparando il caffè
+riescono a capire un insieme di un'informazione da un'immagine ma che hanno bisogno di tantissimi esempi soprattutto per le cose più particolari nel senso se io scrivessi a una rete neurale costruisce in un reattore nucleare
+con top uranio dentro va in tilt e tu mi dirai sei ecm
+reattore nucleare una cosa una persona in sedia rotelle e avete perfettamente ragione questo purtroppo dipende da il dataset che si prende di riferimento di nuovo ad esempio io immagino che simone abbia utilizzato da lì oppure hanno utilizzato step diffuso nei modelli più classici utilizzati da da bing ads google openid
+per produrre e produrre immagini spesso non vengono addestrati con dati and bust tantissimo non sono correggia non c'è loro vogliono ottenere spesso chi fa questi modelli spesso mi sono trovato anch'io in questa determinata circostanza pur di risparmiare dal punto di vista di training e del costo ma anche di performance del modello stesso voglio
+ottenere il maggior risultato al minimo costo quindi prendono le cose più standard quindi vuol dire che è giustamente entrambi acqua c'è un problema no presa atto una
+zona bianca standard e questo è un problema e questa atmosfera qua da qua là se questi quartieri questo è lo standard della norma logica esattamente jason
+dobbiamo guardare nell'ottica di benpensanti che siamo di persone che giustamente sanno che non esiste uno standard non esiste uno standard è un dato di fatto ma multinazionali che scrivono qui modelli e che puntano unicamente al guadagno dicono cos'è che va bene per non il novanta ma l'ottanta per cento dei nostri stakeholder cosa che gli interessa cosa che riceve
+no loro fanno un'attentissima analisi sulle query ovvero guardano voi le ricerche più fatte dai nostri clienti per il nostro modello generativo nell'ultimo mese andiamolo a vedere quando vedono ottanta per cento sono di un determinato argomento o che magari una piccola minoranza ne vuole un altro come può essere simone poi può essere salvo eccetera
+lo dicono perchè noi dovremmo investire ulteriormente dal punto di vista economico per rendere contenti quel cinque per cento e spendendo più di quanto sia quanto di più ci spendiamo per migliorare il modello per il rimanente ottanta novanta questa è una cosa che purtroppo capita spesso non
+delle leggi secondo me che rendano obbligatorio soprattutto per determinati modelli
+includere un po' di tutto oppure le leggi sulla trasparenza che adesso ora stanno uscendo in questo determinato periodo storico vero che li ha deve essere trasparente ovvero vuol dire che se il modello ha un bias e devo scrivere nero su bianco nel modello bbc guardate per come il modello è stato addestrato per i dati che abbiamo dato a un bias qui
+indi è giusto che venga scritto in un modo o nell'altro ma perché capiti è sostanzialmente per questo per la motivazione che vi ho appena detto e soprattutto per determinati modelli tipo quello che ho detto simone con quello che ho detto sambuy molte multinazionali piuttosto che dire risolviamo un problema per una minoranza e spendiamo milioni in ricerca e sviluppo per migliorare il modem
+l'ho oppure teniamo al modello quello che è ma lo rendiamo più performante per il rimanente novanta per cento fanno la seconda cosa e lo dico per esperienza perché ho usato questo modello ed hanno poi problemi tecnologicamente continua ad essere migliori ma il gatto continua a essere dura se a volte è capitato che in teoria se le cose avrebbero diritto a migliorare col tempo no way out puoi fare tutto quanto
+questa posso dire tutta questa attenzione giustamente che su west lei ma in realtà determinati modelli diventano ancora migliori per determinate circostanze per cui erano già ottimi e per quelle altre fanno sempre più schifo cioè tirar fuori delle delle ciofeche clamorose quindi
+e proprio grazie giacomo perché questa cosa mi
+è molto interessante
+ovviamente poi si aprono tipo eh beh certo
+perché ad esempio tu giustamente hai parlato della difficoltà per un sistema di riconoscimento facciale nel vedere i differenze cromatiche e data la differenza calcolata è venuta in mente una cosa io ho comprato un telefono
+l'ha solo ed unicamente perché quando era uscito quel modello la resa che aveva sul colore mio o comunque simili più o meno oscuri era diversa perché diversamente in tutte le foto ho trovato umanità esposizione altrimenti non mi si vedeva
+ostili devono solo gli occhi e i denti oppure bohm un fascio di luce in questo perché i l'algoritmo intelligenza artificiale che serve a migliorare la tua faccia recriminazione della tua faccia è stato fatto con un dataset sballato quindi non capisce quello che ha davanti ogni volta dice troppo scuro troppo chiaro troppo
+troppo chiaro non mi piace non mi piace capito quindi continua a sballare quindi nel momento in cui viene fatto però un sistema fotografico di un cellulare che però riesce a rendere il colore senza che io lo debba toccare vuol dire che in teoria una sorta di passo avanti è stato fatto e qualcosa passo avanti
+e allora puoi allora tu tieni conto che non per forza soprattutto in fotografia non per forza ci dev'essere dietro un modello che faccio a che i migliori colori no uno prende una bella videocamera fotocamera della hasselblad t'assicuro che si vedrà d'addio benissimo anche senza modelli gay però di nuovi modelli tendono essere
+fatti perché è oggettivamente una fotocamera che sta qua dentro è una fotocamera dalla scarsa apertura focale quindi non può prendere chissà quali colori che vuole profondità di d'immagine quindi loro a destra dei modelli per migliorare l'immagine ovvio che col tempo il problema che tu hai detto in realtà è un problema che è venuto fuori tre quattro anni fa cioè non è
+proprio recentissimo c'è già tre quattro anni fa c'era era venuto fuori sono mi ricordo o contro samsung contro snow perché oggettivamente sballare totalmente le figure di color cioè le persone che avevano la pelle carnagione scura venivano totalmente denaturato dal non dalla fotocamera che oggettivamente era un pò penoso ma va vabbè
+però era meglio quello che avrebbe fatto la fotocamera da sola che la fotocamera più la correzione intelligenza artificiale perché oggettivamente sballata quello perché il modello è stato addestrato per riconoscere determinati prese su altro determinate tipologie di carnagione e con le persone di colore dava questi problemi in un modo o nell'altro ti faccio intervenire
+network c'è problema solo di dati o ci sono anche altri livelli in cui poi questi bias emergono e no ci sono ci sono tanti livelli ma anche dei meta livelli io penso che questo anzitutto
+una prova di maturità per il settore dell'informatica allora faccio un passo indietro e
+le spiegazioni tecniche di giacomo sono ineccepibili
+effettivamente come dice giacomo l'informatica è sempre stata un pochettino è stata quella disciplina dove si cercava di ottenere il meglio possibile con il minor sforzo possibile ma anche a livello di programmazione se riuscivi a fare la stessa cosa con meno linee di programmazione eri più bravo
+agli altri quindi si tende si tende sempre a sfrondare si tende sempre a ridurre il più possibile finché regge poi ovviamente
+fatte le dovute eccezioni eccetera però l'informatica è un po' sempre stato questo campo adesso che l'informatica non è che ha iniziato a sviluppare prodotti oggi per tutto il mondo ma prima
+un foglio di calcolo o la posta elettronica o altro non davano problemi a persone e di altre minoranze diciamo così e poi qui apro una parentesi e la chiudo subito quando tu chiedi inizialmente che baia sapete incontrato io mi rendo conto che sono un privilegio
+giato da uomo bianco occidentale senza disabilità almeno per ora eterosessuale di una religione maggioritaria io di bias sulla mia pelle ne ho visti pochissimi e quindi me e quelli come me e fintanto che non c'è qualcuno che ci ha preso per le spalle e ci ha scrollati
+queste cose non ci si accorgeva
+poi entra anche la questione della moneta delle aziende e qui di nuovo do ragione a giacomo si tende anche lì a dover fare prodotti che vengano venduti alla maggioranza delle persone e se devo spendere gli stessi soldi
+quindi devo raddoppiare la spesa solamente per renderlo utilizzabile dal cinque per cento in più di persone molte aziende tendono tendevano a non farlo e quindi ci siamo un pochettino portati appresso questi bias anche nella mentalità da me
+molti anni ma io devo essere costantemente corretto da amici e amiche che mi fanno vedere cose che io assolutamente le statue delle città un'amica mi ha detto una volta
+facciamo attenzione alle statue che abbiamo nelle nostre città la maggior parte delle statue raffigurano maschi a meno che non si voglia rappresentare la figura dell'italia eccetera ma in generale le statue per le personalità sono sempre uomini con poche eccezioni non ci avevo mai fatto caso adesso lo so
+sembra un po e qui faccio un ulteriore passo indietro non so chi che ha figli però quando vedi tuo figlio che inizia ad avere un po' i tuoi difetti comportamentali
+ti rendi conto ma da dove viene questo difetto dove viene questa questa arroganza oppure dove viene quest'altra cosa e poi ci pensi ti guardi allo specchio e di odio vengono da me questi difetti è la stessa cosa con l'intelligenza artificiale adesso vediamo dell'intelligenza artificiale i difetti della nostra società ci vengono riproposti e
+forse questo è un bene finalmente dopo decenni che sentivo
+che chi aveva una disabilità si lamentava chi apparteneva a una minoranza particolare si lamentava e non veniva davvero fatto nulla adesso con l'intelligenza artificiale non possiamo più andare avanti così i dataset devono essere migliorati
+come vengono creati i sistemi di intelligenza artificiale devono dev'essere migliorato e qui adesso vengo alla tua domanda alessandro sono solamente i dati il problema no assolutamente no i dati sono un problema fondamentale ma non solo sono l'unico
+il primo problema secondo me è l'obiettivo ci si deve chiedere cosa vogliamo ottimizzare quando andiamo a fare un sistema di intelligenza artificiale l'intelligenza artificiale un ottimizzatore di qualcosa che sia risposte o che sia le immagini quindi vada a ottimizzare quella secondo me
+è la risposta che vuole l'utente se noi andiamo a creare un sistema e lo mettiamo all'interno di intelligenza artificiale lo mettiamo all'interno del sistema giudiziario cosa vogliamo andare a ottimizzare vogliamo andare a ottimizzare solamente le pene che io do alle persone quindi ne darò di più
+alle persone di un certo colore un po' di meno alle persone di un altro colore perché storicamente la recidiva è diverso oppure vogliamo andare a ottimizzare un po la società il sistema sulla società in generale quindi non deve guardare con i paraocchi solamente certe cose ma deve andare come tutto il sistema giudiziario ha miglior
+rare la società dove viene emesso e allora qui non non c'entrano solamente i dati ma c'entra ad esempio
+quella che si chiama feature engineering quindi andiamo a vedere quali sono le caratteristiche che io devo andare a prendere e a ottimizzare per ottenere il risultato che voglio che magari lo voglio un pochettino più equo di quello che è adesso non solo accurato ma devo anche andare a scegliermi il tipo di algoritmo
+algoritmi che magari penalizzano gli outlier quindi diciamo il frange quello che sta nella distribuzione abbastanza lontano agli estremi e allora se penalizzano gli outlier vanno a sfrondare oppure magari mi cerco un tipo un tipo di algoritmo che invece da una certa importanza agli outlier senza cancellare
+charlie e allora lì di nuovo viene messo all'interno di tutta tutto il calcolo e riesco ad avere dei risultati più equi quindi dati obiettivo fichera ingegneri tipo di algoritmo è per me finale una cosa molto importante
+il testing il quality assurance una volta che io ho creato questo sistema di intelligenza artificiale che deve andare a fare una certa cosa e lo voglio mettere da una certa parte a chi lo faccio testare quindi in quali comunità vengono testati questi sistemi vengono testati da persone con disabilità o tutti quanti possono cam
+binare perché se tutti possono camminare poi fanno come me che non si rendono conto che lì c'era un gradino che non dove non si poteva arrivare vengono fatti testare dall' ottanta per cento di uomini vengono fatti testare dal novanta per cento di bianchi è lì anche il problema cerchiamo di farvi testare da un ca
+copione più
+equo non dico rappresentativo ma equo possibile natale che escano fuori anche i bias che magari in fase di test possono essere presi visti e corre con tante cose andrebbero viste non solo i dati luca questa cosa che dici mi riporta a un pensiero insomma che faccio tendenzialmente
+ente che è un po' quello come mai l'informatica la tecnologia e la tecnica non comunica di più con le materie umanistiche con la riflessione antropologica con quella sociologica con quella punta sugli esperti di diversità e inclusione quando parli di questi metodi che mi sembrano un po' contenitivi del bias che potrebbe avere l'intelligenza artificiale piuttosto che riparatori in qualche
+modo mi chiedo se non si possono appunto mettere a punto attraverso anche un dialogo più aperto con persone che si occupano di filosofia di etica di sociologia di antropologia oltre appunto alla fase di testing in cui puoi coinvolgere comunità che sono appunto più più diversificate e più inclusive non la classica comunità appunto
+formato sempre dal dalla stessa persona che poi l'ha magari anche creata nitidezza attività quindi non diventa una cassa di risonanza doveva ragione soltanto io e vado avanti a raccontarvela da sola
+è giusto noi informatici allora mettiamola in questo modo è mancata la voglia di comunicazione da ambo le parti e insiste perché è un po' di capelli bianchi insomma ti posso dare anche una prospettiva
+gli informatici non venivano coinvolti
+diciamo così molto spesso dagli umanisti dai giuristi eravamo i g c eravamo i nerd nelle trasmissioni televisive eravamo quelli brutti brufolosi e con gli occhiali
+aias enorme comunque è da lì e da lì noi dico noi tra tante virgolette diciamo così perché adesso non voglio fare tutt'erba un fascio però c'è stata
+siamo un po' isolati
+il computer le comunità
+il gergo che nessun altro capiva e solamente negli ultimi paio di decenni tre decenni da quando abbiamo diciamo noi informatici iniziate a creare prodotti e servizi che do tutto il mondo ha iniziato a voler utilizzare
+c'è stata poi la spinta la voglia iniziare a parlare ma ma sempre su piani diversi perché l'umanista stava qui è l'informatico stava qui
+adesso un poco la cyber security dove alla fine perché miseria hai bisogno è qualcuno che ci capisce sennò io perdo la tesi
+è iniziata un po' questo coinvolgimento sempre più dei nerd
+e adesso con l'intelligenza artificiale che le nostre creazioni vanno in giro per il mondo a far danni e tutti quanti dicono che è altolà fermi tutti tutti seduti allo stesso tavolo e iniziano a parlare però ancora adesso c'è questo bias perché io sto vedendo numerosissimi eventi sull'intelligenza artificiale ovunque e ok
+ogni tanto per sbaglio c'è qualche informatico ma generalmente medicina intelligenza artificiale di informatico praticamente neanche l'ombra gli avvocati e l'intelligenza artificiale anche lì c'è uno che sa un po' di ingegneria elettronica e quindi di straforo può entrare c'è ancora molta
+se io se io facessi un evento sulla medicina non invitassi neanche un medico o se invitassi il novantacinque per cento di non medici e il cinque per cento metodi medici mi direbbero ma sei scemo poi un convegno sulla medicina dovrebbero essere quasi tutti i medici ancora oggi si vede convegni sull'intelligenza artificiale dove gli informatici si devono cercare
+con il lumicino bisogna parlare molto molto di più di tutte le ragioni ad ora
+si sta facendo obtorto collo un pochettino adesso gli informatici iniziano a essere coinvolti ma mai è stato un percorso molto lungo e faticoso io vorrei un attimo puntare
+invece l'attenzione su una cosa che è stata trattata ma non esplicitamente che è molto molto molto importante perché
+siete stati veramente molto chiari giacomo luca e ve ne ringrazio perché
+si si è capito no cosa cosa cosa c'è alla base però quasi un po' da sfiduciare se per esempio giacomo quando dicevi e
+c'è quel problema alicia anche se demograficamente c'è una minoranza ai due episodi di un pò di numeri
+è difficile soprattutto quando i primi numeri sono stati esagerati perché si è concentrati solo su quello hai voglia fare un numero
+da abbastanza massivo da cambiare no
+il modo in cui l'algoritmo usa quei dati però c'è un però
+chi chi chi chi fa arrivare a un discorso di conseguenze che quello di
+non portiamo il livello sul era come un aggiornamento uscivo con windows novantacinque non funzionava molto frustrazione nell'utilizzo si migliorerà perché le conseguenze sono adesso invece molto più immediate e anche beth poche persone ma che hanno
+un
+il problema immediato d'oro fatto l'esempio anche sulle assunzioni sul licenziamento cioè capisci ops un errore di programmazione sì però io e altri dieci abbia perso il lavoro e giocare con le vite sostanzialmente god bias che faceva l'esempio sambuy finisce in un modo
+pazzesco perché fa l'esempio del russo quando ho visto
+erroneamente il segnale del missile americano la testata nucleare che stava perdendo ha preso la decisione di dire vabbè
+meglio che muoia un una sola parte del mondo in un tutti perlomeno anche se la mia patria che sfiga un algoritmo
+ragionando per come era programmato era non ho remore la risposta è quella che mi hanno scritto rispondi bon e il genere umano era era terminato quindi le conseguenze possono essere gigantesche io stavo parlando di giovani no ciechi che vedono questi bias
+nelle immagini che generano come come riflessi della società però sambo ha portato degli esempi anche più immediati perché se non mi riconosce anche lì sempre in gol faceva esempi no non riesco entrare in casa mi prendono per ladro
+cioè sono cose che influenzano in immaginiamo di venire arrestati per sbaglio o c'è una cosa che comunque disegna disegna perché tu sei già magari ce l'hai contro un poliziotto che ha sbagliato ma se un sistema causato un poliziotto e quindi diventa
+no sistematico e lo comprendi con una giovane mente e li ti stai facendo una fotografia della società in cui vivi allora non è l'aggiornamento di windows novantacinque speriamo che escono nuove release perchè funziona male e allora qui l'argomento è un altro va benissimo sfrondare puoi benissimo che per soldi sì sì
+risparmia me va benissimo se però oltre al discorso giustamente che è stato fatto dell'etica e aggiungere determinate regole di trasparenza per esempio va benino però sappiamo quante persone quelli che hanno le cose knopfler corpo
+lo accetto è facile e non leggo niente quindi la trasparenza fino a un certo punto
+c'è un discorso di io non posso gridare alleluja ce l'ho fatta e adesso lo butto sul mercato con un prodotto che non ha dell'etica sotto e faccio due riferimenti intelligenza artificiale
+abbiamo preso un campione perché era più facile abbiamo ottenuto ottimi risultati benissimo però non esco al pubblico se constato che può avere dei riflessi negativi sulla società altra cosa
+mi va bene se per conformità allo schermo come si illumina retroilluminato colori eccetera mi attira l'attenzione e quindi sono over super stimolato e così via ma se io scopro che nel codice di un app c'è di tutto e di più per farmi spende
+tenere lì oltre la
+diciamo l'istinto naturale oltre ogni ragionevole consapevolezza degli algoritmi di instagram ad esempio giusto per lei è velenoso poetici concordo con te allora a quel punto stai forzando la mano sostanzialmente non stai giocando con i i con
+i miei difetti perché alcune cose che sono genetiche perché cacciava amavo perché adesso sono usati come giochino per sfruttamento puro e semplice allora lì non è più ah che bello che al tavolo ci sono sia informatici che gli parla invece di altre materie di etica ma sono materie una
+carinaro concordo io prima di commercializzarli bisogna pesantemente chi tanti ci mettono le mani comprese minoranze compreso altre esperienze così via non si può uscire così alla leggera
+alla natura di quello che l'accusa meno semplicemente perché stamattina ho letto una cosa che magari poteva interessare tutte e tutti a proposito di questa cosa che dice simone proprio cioè ok va bene ho capito prigionieri percussioni effettivamente stamattina ho letto l'articolo otto marzo proprio dell'altro giorno sul sole ventiquattro diceva la polizia
+stare registrato un più diciotto per cento dei casi romance scam truffe romantiche per quattro cinque milioni di euro nonché ai casi di sextortion edp nude cioè quelle intelligenze artificiali che ti permettono di fare del porno con una persona che non ha mai fatto un video pornografico la sua vita e poi però viene usata
+come revenge porn piuttosto che estorsione c'è questa ripercussione grave effettivamente tra l'altro il deepfake che è anche c'è anche disponibile da più tempo dell'intelligenza artificiale generativa di quelli che usiamo insomma non è elastico fair-play nei giorni c'è ricordo che è di un po' di tempo fa anche se lo odio ma è anche molto facile da fare in casa
+cioè
+ed efficienza
+cifre modello
+tifo non è complicato da scrivere purtroppo è una bomba che uno può costruirsi in casa con la farina e quindi se allora io concordo pienamente col discorso di di simone è totalmente giusto allora concordo pienamente anche sulla parte ad esempio degli algoritmi che
+naturalmente sfruttano quelle che con le tue debolezze a livello psicologico per tenerlo attaccato è anche vero però che il neuromarketing esiste da settant'anni cioè ci sono molte aziende che sfruttano il datasheet ma con dei limiti se allora è anche vero che adesso naturalmente un algoritmo
+che magari luca possiamo fare può farlo in modo indeterminato in modo estremamente efficiente e ti può tenere attaccato se il fatto che non esistono ancora delle leggi in merito a questo allora io concordo che andrebbero create hai perfettamente ragione nel senso che non è giusto che ad esempio hanno anche i bambini che rimangono
+attaccati allo schermo utilizzando tic toc perché l'algoritmo basato su raccomandazione di tic toc è perfetto è un emmy award
+odio lo odio il programma e senso io da informatico e studioso della materia sono ancora ricercatore mi fa schifo quella
+quel determinato a fare però ne apprezzo come funziona è un'opera d'arte dal punto di vista matematico è un capolavoro che andrebbe regolamentato ti do pienamente ragione a maggior ragione per delle categorie deboli come possono essere i bambini o adolescenti che possono perdere le ore ma anche io sabato
+se mi annoio a casa sappiamo attaccato per ore perché vedo sempre un video che vi interessa curiosamente il video dopo che interessa sempre quelli di prima perché naturalmente mi ha già profilato ha già fatto un profilo perfetto mio di mio interessi e cose varie quindi mi rappresenta allora non vorrei che allora io concordo pienamente con ogni punto è soltanto che è
+è tanto una battaglia come ha detto come ha ben detto tutti in questa chiamata compreso luca compreso tu simone compresa ora tutti quanti è una battaglia non tanto sull'utilizzo dell'ia ma su mad men ma più che altro una battaglia sul mondo in cui viviamo nel senso che è basata spesso su l'exploit di questo e-book
+olezzo dell'essere umano non ci sono delle regole che tutelano questo genere di cose purtroppo poi per quanto riguarda le conseguenze tragiche che dice d'ora ad esempio come pinewood come il potermi fingere tranquillamente qualcun altro la realtà dei fatti è che abbiamo creato un nuovo coltello da mettere mano alle persone quindi le persone possono utilizzarlo per taglio
+fare il pane più facilmente facendo meno fatica possono utilizzare per uccidere facilmente è molto difficile controllare come una persona utilizza un coltello in casa sua a maggior ragione perché la potenza di calcolo nel corso degli anni sta diventando sempre di più
+dio posso scaricarmi o posso scrivere un mese sono abbastanza in gamba un software che dipinga te ed ora ad esempio basta che non so o le tue chat da qui a dieci anni perché hotel in un mondo parallelo tu sei la mia ragazza ed un ragazzo posso prendere un modello di un modello del mar
+m come non so gipi ti tre cinque modelli di google fare una cosa che il nostro gergo chiamata fine tuning ovvero che vuol dire istruire il modello su un tasto specifico e curiosamente riesco a potermi fingere tesi anche non soltanto per come scrivi ma anche come come come fai le frasi la tipologia di congiunzione
+utilizzi diventa molto più difficile è saper riconoscere se una persona che abbia scritto quel messaggio o una cosa incompiuta è un problema abbiamo creato un nuovo coltello il problema come abbiamo ancora possiamo dire scritto le leggi né ci siamo fatti le domande perché secondo me lo sviluppo dal punto di vista
+una delle poche volte nella storia in cui lo sviluppo informatico è andato molto più veloce dello sviluppo del turismo attivo a pari passo cioè in realtà è sempre stato così o che però vittime sprone ultimi dieci anni nel primo caso diciamo di esoterici competente
+più avanti anche rispetto all'etica non soltanto lei ma no ma gli ultimi e gli ultimi cinque anni c'è una roba ed è decollata in uno stato ad esempio come l'italia può fare una legge ci vogliono anni prima che i nanni l'aams in un anno lei è passata come ad esempio quella con la generativa dei video a fare dei video terribili che sembravano
+ti guardano intendo sessantaquattro a l'ultimo capolavoro che è ora che un algoritmo di ai
+open id che crea delle robe che se tu le guardi di striscio non prestando attenzione ai dettagli cambiano o in un anno i e-mail scusami giacomo e per questo io ti sto seguendo benissimo va benissimo ma non è un problema lessicale ma di unità di misura sostituisce a tutto quello che hai detto finora anziché colt
+bello bomba atomica perché quella la dimensione cioè non è più il coltello non è più windows novantacinque è grosso e immediato sia l'effetto che lo strumento quindi
+lo dicevano eh sì era una bomba atomica voglio dire te la puoi costruire in casa
+da smazzarsi alla bomba atomica sì se viene percepito come la bomba atomica bomba atomica ce n'è ancora a pieno il mondo ma ci siamo fermati lì quando sono state lanciate perché sono bomba atomica non sono coltelli se vengono trattati come coltelli succedono disastri nel frattempo ma prendiamola dell'angelus la
+bomba atomica fa una sola cosa esplode e uccide il problema è ancora più grave tra virgolette diciamo complesso perché l'intelligenza artificiale può essere utilissima può curare malattie può creare la medicina personalizzata ma allo stesso tempo dual use no allo st
+stesso tempo joker
+creare delle situazioni che dal punto di vista sociale sono sono tremende io dico spesso che guardate ai ragazzi che noi andremo incontra un'epoca che sarà la fine della verità semplicemente perché non oggi ma tra qualche anno non riusciremo davvero più a distinguere anche se una persona invitò
+data a un evento come questo sia reale ossia un avatar è vero non riusciremo più a distinguerlo non riuscivo più distinguere se la persona che chiama al telefono con un numero ip spoofing quindi magari che magari vedi che la chiamata da tua moglie tuo figlio tuo marito con la voce che in tempo reale viene in real
+età
+diciamola elaborata si è che in realtà c'è un'altra persona
+è qualcuno che ti sta che ti sta manipolando e la fine della verità e come come reagiamo ma qui diciamo così gli informatici sono un tassello del puzzle oggi secondo me
+il
+il compito più importante elevato che possono avere gli informatici è quello di educare
+il più velocemente possibile un po tutti gli altri ovvero sono giuristi niente filosofi perché stiamo un po' a una prova che dovremmo superare
+si è parlato molto di armi coltelli bombe atomiche io quando faccio un esempio di quei ragazzi siamo siamo dei bambini che hanno scoperto un mitragliatore ok
+e adesso i bambini devono crescere in fretta per evitare di ammazzarci tutti quanti e allora serve un salto di qualità della nostra società intesa come umanisti intesa come giuristi medici politici
+per iniziare a fare le cose sul serio capire quello che sta arrivando e allora qui dobbiamo essere bravi noi informatici a informare non solo di quello che c'è oggi ma di quello che arriverà tra due anni lo possiamo vedere chi è informatico e che fa questo mestiere da molti anni riesce a vedere quello che arriverà informare la gente
+lottare per preparare non le leggi a ciò che c'è oggi ma quello che arriverà domani domani i deep fake già oggi si possono fare a casa ma è un informatico che li può fare a casa un domani chiunque potrà fare un deep fake porno di chiunque chiunque potrà fare una una voce al telefono di chiunque domani ma dom
+mani proprio cioè non tra cinque anni ma siamo pronti a questo che facciamo stabiliamo delle password al telefono per stabilire che siamo veramente noi dobbiamo trovare dei metodi sicuramente ci saranno dei metodi informatici e per carità inizieranno ad esserci app sui telefonini che ti fanno l'analisi della voce
+per stabilire se si tratta di una voce creata digitalmente o se controllando la respirazione e altre cose diciamo fisiche è in realtà la voce di una persona ma sarà una corsa agli armamenti quindi si creeranno poi di deepfake sempre più sofisticati in maniera tale da creare delle alterazioni stocastiche che siano in grado
+anche di
+siamo a trarre in inganno questi software a livello di società dobbiamo crescere alla svelta
+e dobbiamo impegnarci tutti quanti per crescere alla svelta perché comunque lo sviluppo dell'informatica del digitale dell'intelligenza artificiale non si fermerà ma andrà sempre più veloce quello che
+mette paura e la velocità del delta che c'è tra lo sviluppo dell'informatica e il resto della società il delta sta aumentando è questo il problema e a questo dobbiamo in qualche modo prepararci e sono assolutamente d'accordo con te luca il fatto è che vedo una complessità che parte dal
+tu dici dobbiamo insegnare e formare io penso che a formare a intrighi ha una propria dirigenza si informatica fin dalla scuola cosa che probabilmente al momento ancora non accade io ricordo di aver fatto informatica quando ero ragazzina andavo alle elementari alle medie non ricordo che era semplicemente come accendere il computer in spiaggia a cannes
+già a fare cose che le mie insegnanti non sapevano fare durante quell'ora informatica o gay quindi abbiamo anche già abbiamo questa complessità cioè è vero dobbiamo fare questa cosa qui ma ci manca già le basi su altre cose di cui mi occupo io con simone shambles nella nostra nella nostra quotidianità cioè latte
+saggiamente nei confronti dei pregiudizi l'atteggiamento nei confronti del diverso dell'altro ci sappiamo ancora questi queste cose semplici che dovrebbero essere superate ed evolute come facciamo a trasportarci anche verso complessità diverse come quelle delle sfide della tecnologia in azienda che sono così resistente la trasformazione digitale
+tale che utilizzano ancora a google docs per fare le
+per i loro processi aziendali e lorenzo va bene quando va bene
+come secondo va bene o va bene ogni miracolo
+a diminuire questo dente effettivamente chi è già enorme e grandissima io la vedo molto come una complessità che picchia una comunità bella tosta è talmente talmente stratificato la mancanza di comunicazione di attenzione ce non stiamo attenzionando niente di questa bomba atomica perché non viene percepita
+con una bomba atomica perché la maggior parte a volte l'essere umano appunto non è che la la se il pericolo non è immediato non è reale e lo vediamo coi malati
+emanuele altri esempi come il cambiamento climatico cioè stiamo effettivamente andando verso il collasso ma evidentemente non è abbastanza immediato quindi non ce ne preoccupiamo davvero la complessità sia andiamo avanti formiamo eccetera però c'è sempre una grandissima resistenza cosa che invece bisognerebbe superare secondo me quell'atteggiamento
+nei confronti di dire la tecnologia è esattamente quello che ci porterà verso un nuovo essere umano un transumanesimo migliore di quello che stiamo facendo adesso però c'è una grande resistenza una grande resistenza proprio nei confronti dell'umano è una prova è una prova che dobbiamo superare se non la superiamo allora saremo manipolati fino alla morte
+qui in inglese si dice wake up call
+una sveglia insomma che ci dobbiamo dare come umanità perché adesso stiamo giocando con delle tecnologie che possono portarci davvero al prossimo livello
+di benessere umano oppure possono trascinarci al livello inferiore è assolutamente o peggio o peggio una parte delle persone a livello inferiore o superiore un'altra quello inferiore perché magari si riesce a portare avanti solamente certe fasce della popolazione
+oppure certe minoranze e altre no insomma la cosa può essere anche ambivalente è molto molto complessa però anche diciamo nel nostro piccolo serate come questa sono un passettino nella direzione giusta l'importante è continuare a farli e magari
+aumentare anche la velocità secondo voi bastano le leggi per arginare come dire i rischi dell'intelligenza artificiali domanda retorica no no no no
+no no ci deve essere una leva per parlava prima neuromarketing no ci dev'essere qualche leva forte dalle ultime parole di luca mi è venuta in mente una cosa
+parlando dell'argomento non a caso la mia maglietta stasera io questo è il primo film che ho visto al cinema con mio fratello che è un po' più di anni di me e poi mi ha assegnato talmente tanto da piccolino il primo film al cinema che vedi vedere ritorno al futuro insomma
+ti ispira di più pensiamo ancora prima la generazione proprio di mio fratello quindi una decade prima chi è nato negli anni settanta respirato dagli astronauti no sono ci sono delle cose che riescono a smuovere molti
+sono entrati dell'informatica perché non è l'informatica non era i gay occhialuti con i brufoli era qualcosa più vicino a quello allo spazio quello che ti può portare no
+in un sogno da bambino ma poi fatto nella realtà
+qui sinceramente non so cosa possa è talmente immateriali lavora talmente sotto chi usa l'intelligenza artificiale non sa com'è fatta non sa cosa ci sia dietro non c'è un un qualcosa di di ispirazionale davanti sta creando molto digital divide assolutamente c'è
+siamo in un mondo in cui si parla di computer quantistici e appena scrollando il proprio feed c'è quello che scrive zuckerberg non deve usare i miei dati sono in mio possesso
+wall di facebook capiamoci oppure le persone che non sanno usare lo speed ancora effettivamente
+le persone
+a prendere appuntamenti però in effetti anche i siti delle nostre situazioni sono molto farraginosi per le persone magari appunto di un'altra generazione però gli effetti effettivamente abbiamo i computer quantistici e l'incapacità di utilizzare lo spid nello stesso momento e poi il problema dell'ospite che esiste lo speed ma dovrebbe
+da domandare per esempio agli informatici cos'è che potrebbe ispirare questa generazione a muoversi in modo così repentinamente diverso quindi con l'umanesimo anziché con l'informatica i e a muoversi pari passo con con le leggi perché poi vanno applicate giustamente anche io sono d'accordo che non basta
+perché devi devi applicarle difficile quindi cos'è che potrebbe essere così d'ispirazione educazione civica tantissima gente devi devi prenderli da piccoli sennò
+disastro io non sono per niente ottimista perché credo che simili adesso in generale loira da nocera tar voglio essere ottimista però non lo sono tanto perché mi sembra una battaglia molto difficile da vincere perché come giustamente dice luca perde terreno ogni
+so che fai tu stia camminando in avanti ma nel frattempo la macchina fa letteralmente david è una battaglia complicata ci sono dei fortissimi anche interesse non da non far vincere questa battaglia possa passare ad esempio a la multinazionale tic toc c'è è ovvio che qualsiasi ente con un minimo di quoziente intellettivo
+ed etica cuore vieterebbe l'utilizzo di algoritmi di profiling come quello per tenere i bambini attaccati allo schermo più ore possibili al fine che possono vedere proprietà è impossibile ma allo stesso tempo dall'altra parte è una multinazionale che fa miliardi di dollari all'anno di fatturato quindi è più il mio pessimismo deriva tanto
+dal mondo socio-economico in cui viviamo dove purtroppo l'hai al problema ecco questa enorme differenza sono metrica cosa che non abbiamo ancora affrontato mq secondo me è di rilevante importanza alla bandiera in questo discorso che a differenza di tutti quanti gli altri progetti informatici della storia però noto punto di vista software la
+è l'unica veramente dispendiosa creare un'intelligenza artificiale un modello di dente artificiale e ultra dispendioso ti servono tantissimi soldi sia di potenza nel senso che mi servono schede grafiche data center che vanno quattro sette km e non posso nemmeno sapere se il risultato corretto perché lo posso scoprire
+solo mentre faccio le mie fase di training sia per tutta la ricerca che ci va dietro quindi è realmente una nuova rivoluzione anche da questo punto di vista perché probabilmente è la cosa più cara oltre al mining di bitcoin che fortunatamente spero diminuisca perché ha veramente delle conseguenze per il clima che sono disastrosi
+in vista
+claire come anche laiche oggettivamente
+tenete conto che
+stampare trentacinque frasi con cat gpt che utilizza ventiquattro giovedì tre cinque è l'equivalente di usare la macchina per un quarto d'ora nel senso dal punto di vista di emissioni di co due non è poco e pensate a da quanto ho capito però li ha è la prima che questo enorme problema nel senso prima
+fino a qualche anno fa se uno voleva attirarsi in piedi un proprio progetto anche anche abbastanza complesso comprava un po di server o addirittura qua in ufficio l'ho letteralmente di fronte che mi sto fissando adesso e li metteva sopra il mio progetto lo mettevo sopra sera ha capisci quindi sarà robin computer molto avanzato roba fisica robe particolari km
+idrologia
+calcolo di attriti o simulazione on alibaba ma sono più dei ricercatori ma hanno un'applicazione pratica si usa lo fanno e multinazionali ma non diventa di dominio pubblico capito cavolo l'hai è una cosa di dominio pubblico e dispendiosissima nel senso perché c'è chi la deve fare anche chiunque voglia voglia mettersi a dire perfetto voglio
+da me oggi il mio primo algoritmo come giacomo de benedetto totalmente senza bias quindi mi procuro aiutati facendo training credo un pò vi servono
+cinquanta milioni di euro possono bastare
+uno si chiede anche se l'intelligenza artificiale possa davvero in qualche modo potrà mai davvero in qualche modo essere davvero etica davvero orribile allora se lo può essere perché oggi fortunatamente curiosamente stiamo ancora seguendo la legge di murphy quindi vuol dire che primal algoritmi che dovevano già
+che in un data center adesso girano sul mio iphone giusto per fare una sterilizzazione non è così il discorso però è così però già riesco faccio tardi algoritmi molto sofisticati tipo immaginiamo una rete neurale che riconosca lo bastoni sono i tumori cerebrali equity blackstone c'è
+non da una lastra tridimensionale riesce a farti una segmentazione nessun tumore evidenziato lo bene è stato interni esterni riapre affacciarono un algoritmo del genere ci voleva un datacenter ci volevano quattro cinque server in parallelo che andavano adesso non so chi di voi un videogiocatore ma su un computer da gaming abbastanza potente girl a
+ritmo pensò quindi curiosamente ad un certo punto di vista sta diventando sempre più economico per l'utente finale utilizzarla sempre che non lo voglio usare in claudio come microchip di robe varie eccetera che sono in cloud
+quindi non è il locale che gira sul tuo telefono ad esempio l'algoritmo che ho detto prima sambuci rapa sul tuo telefono benissimo
+quello per il miglioramento del viso
+è sempre più costoso per chi lo vuole fare perché vuole fare treni mattinata quello che ti chiedevo giannini mi rifaccio quello che dicevi tu mitico nel senso quanto aequo poterlo fare se c'è sempre una questione si allarga il divario di potere che è già esistente e deriva dal fatto quello segue ovvio cioè allora pochettino come costruire una macchina elettr
+c'è da costruire una tesla allora ovvio tutti quanti dicono la tesla è comodissima cioè non inquina quando va poi per produrre con le batterie al litio è un disastro insomma vedere dietro
+allo stesso tempo però il problema è che l'inquinamento con l'udienza artificiale va avanti anche mentre tu utilizzi soprattutto per quella tipologia di intelligenza artificiale come ad esempio chat gpt robe varie realtà quella che proprio jacques ramon nella mia azienda che offre ai clienti nove volte su dieci gira in locale quindi vuol dire che io e vero consumo
+tanto è spendo anche tanto per allenarla e lo faccio spesso anche in data center ma dopodiché a meno che non siano cose molto particolari tendono a girare in locale quindi girano sui server dei miei clienti quindi già li è diverso quindi è però qual è il fatto che creare la
+per il discorso di prima che ne sto parlando con simone ho paura che sia una battaglia persa perché più va avanti il tempo e non vi nego che così è un dato di fatto più anche per le aziende offriamo delle soluzioni di ai
+diventa sempre più difficile e sempre più costoso crearne di migliori o di diverso rispetto a quello che ci sono uno perché il costo dell'hardware e del software continua ad aumentare due perché la complessità dei modelli continua ad aumentare quindi immaginiamo un modello ha dentro quattro neuroni virtuali naturalmente komodo locali entro quattro miliardi solo lo standard quattro
+miliardi arriveranno una multinazionale che ne formò da sette miliardi che funzionerà benissimo uno da quattordici uno da quaranta anni ne ha settanta alessandro correggimi sua opera gigantesca capitolo è un modello gigante ovvio che poi cos'è che succede che ogni fascia di popolazione che sia consumer quindi che sia tu o che sia business pr
+vende quello come punto di riferimento e mi dicono jack ma se tu devi fare con modello base deve andare bene almeno quanto quello e in più dev'essere essere basket capito perché è come se io se dovesse costruire la mia macchina che non inquina diciamo e tra costruisco io però non va più di venti all'ora
+tu non puoi invece
+io voglio che vada come quelle nuove che vada bene nel frattempo però che non faccia questo questo quindi è per quello che non ho fiducia quindi possono sono le multinazionali che vengono messe alle strette da legge
+che impongano loro determinate
+determinati limiti come ad esempio come lettura con simone giustamente del tratto utilizzato algoritmi eccetera oppure secondo me owen è veramente una battaglia molto complicata da vincere e diciamo che un modo come per metterla io ritorno al discorso delle api com
+come un bambino mettiamola così come uno specchio
+che riflette i bias che abbiamo nella società adesso tutti quanti chiedono urlano impongono agli informatici di fare l'intelligenza artificiale etica o senza bias o con meno bias possibili secondo me la strada sostenibile
+non è quella
+dobbiamo noi rendere la società più etica con meno bias perché quando io ho il bambino che mi cresce arrogante o che dice le parolacce il modo per farlo smettere non è punirlo o insegnargli che le parolacce non si dica
+uno anche mai smettere di dirle io allora poi dopo un po' smette anche lui e forse qui ci siamo resi conto che l'intelligenza artificiale ha pregiudizi l'intelligenza artificiale così non ci piace lascia a terra molte persone ma perché la società che le lascia a terra e quando dico che dobbiamo fare un
+colpo di reni un salto di qualità parlo della società e allora uno
+giustamente come giacomo dice ma allora guarda impossibile chiudiamo subito e andiamo ognuno per la propria strada perché ci stiamo provando magari da decine di anni o da secoli non ci siamo riusciti adesso dobbiamo cambiare passo e provarci in maniera molto più spedita perché è inutile puntare il dito contro l'intelligenza
+artificiale che sia comunque va corretta si assolutamente bisogna cambiare un po' i processi eccetera ma ci stiamo mettendo una pezza sui problemi che vediamo nell'intelligenza artificiale perché poi comunque ci affacciamo nella società e li vediamo allo stesso modo quindi è li'
+si deve intervenire
+altrimenti diciamo qualsiasi conquista che faremo sarà davvero a breve termine chi è il cane che si morde la coda perché se però in contemporanea io cerco di cambiare la società la società si riferisce a intelligenze artificiali e propri bias è difficile perché
+dicono e il formatore lui è ottimista ma poi la realtà e mi rispondono giornalmente le aziende no
+quello che dici tu magnifico ma poi bisogna lavorare tutti i giorni come se fosse scisso da quello goblin e io su hiv aids
+del lavoro
+no ma quello che dici è giusto però comunque comunque la correzione di un determinato bias si può fare perché abbiamo un po' tutte le carte per farlo se noi decidiamo come società e come informatici che da domani o comunque dei prossimi modelli
+non ci saranno discriminazioni con le persone che hanno la pelle nera e con gli asiatici allora si creano dataset particolari si mettono in piedi i modelli particolari e nel giro di qualche anno avrai tutti i telefoni come il telefono di google che diciamo gestiscono bene
+tutti i colori della pelle e quel problema non dico che lo hai risolto ma ci ho messo una bella pezza sopra molto più velocemente di quanto ce l'abbia messa la società che invece sono secoli che ha questo problema quindi questi bias identificati e presi di mira potrebbero anche essere me
+litigati in maniera molto forte ma sarà comunque mettere mettere una pezza su una diga che che che fa acqua da tutte le parti è vero cane che si morde la coda io cerco di
+correggi la società poi arriva lei che mi distrugge tutto le hai
+qualche hanno identificato quel bias probabilmente lo vedrai molto meno spesso ma comunque la società continuerà ad averlo e quindi ritornerà anche dentro le hai perché messo fuori dalla porta in qualche modo ritornerà dalla finestra perché quel bias riesce a intrufolarsi in tantissime vai
+gli abili in tantissime caratteristiche che anche se si prova a metterlo fuori magari per un po' ci si riesce ma poi oriente ecco su questo volo approfittare di fare una domanda tecnica perché ci sono alcuni bias è come il discorso di disabilità c'è visibilità palese può essere un po' più semplice perché a spock
+abbattimento delle barriere architettoniche perché palese ma un gradino lo vedi poi per carità non si sa come costruire una rampa però sai che il kgb
+la soluzione la rampa e o l'ascensore l'ennesimo aereo perché ovviamente ogni volta che si parla di disabilità si parla di accessibilità e di rampe
+no assolutamente ma se fortemente
+ma un piccolo bakekas all'inizio ma lo dico per ridere è scappato anche luca no che diceva
+disabilità e con riferimento al camminare è un giochino che facciamo ogni informazione quando iniziamo e chiudi gli occhi chiudete tutti gli occhi immaginatevi una persona con disabilità
+quasi nove persone su dieci si immaginano la carrozzina perché perché uno dei problemi e questo è quello che stavo dicendo adesso che poi il l'immagine riproposta i distrugge quanto puoi fare con la formazione noi abbiamo un simbolo che è quello del disabile quelli in carrozzina la stilizzazione la persona in carrozza
+cina ci si sta domandando tantissimo perché non è facile graficamente non è solo un problema della società e un che non accetterebbe altri simboli è un problema che graficamente far capire con dei simboli le varie tipologie di condizione umana che porta
+ha dato da malattie e patologie varie condizioni di vario tipo comunque vari tipi di esigenze quindi disabilità e e se non impossibile molto molto molto difficile quando le cose molto molto difficile e
+diciamo si trova la strada più corta perché il problema era già lì tantovale procrastinare l'ho e si rimane per decenni con il simbolo della carrozzina ma la domanda era come determinate disabilità palesi dicevo prima la soluzione può essere un attimino più semplice tant'è vero che avete detto tra i
+diligenza artificiale fotocamera eccetera eccetera colore della pelle troviamo la quadra si toglie quel bios se ho fatto delle delle dicevo prima delle onde sono vittorio magari vedere le immagini se avete bisogno ditemelo che ve le condivido
+oh tutto è partito da chiedere le rampe e lì quando hanno chieste un po' è venuto fuori ho capito quale fosse il problema per la mancanza di dati e successivamente a cosa si è appoggiato per rispondere alla domanda di giacomo inizialmente era in realtà ho usato fair play e micenei ok
+rampe non non non non sapeva farle fare flip ma neanche nei giorni non farvele sarà a questo punto se vuoi fare una risposta alla tecnica alla tua domanda mostra esempi e così diamo anche delle risposte e magari specifiche dicevo pratica più ad est yahoo
+williams tedesco da te ce la faccio ok
+vedete
+sì
+ok
+per per farsele queste sono rampe per intenderci
+sono evidentemente gradini però avevano un luogo comune quello dei dei
+a parte queste bellissime ma pure calda
+era da circa metà metallici da taylor una scala che finisce in un'altra scala ok però non so se vedete ma anche i corrimano sono tutti uguali e viene fuori che praticamente si rifà soprattutto a
+diciamo inizia come se iniziasse a ragionare ma bellissima rampe che vanno addirittura nell'infinito e oltre ok c'è nel senso meglio a sto punto meglio suicidarsi effettivamente
+e sono tipo dei tapirulan o delle scale mobili cioè questi riferimenti si è iniziato a pensarci vedete che
+ci sono i gradini c'è quel tipo di corre mano e ricorda ecco qui soprattutto vedete le scale mobili ok
+e quindi si riesce a capire qual è il problema cioè in realtà vedo anche uno sforzo dal dal
+dal punto di vista dell'intelligenza artificiale che ne ha viste di piscine perché è abbastanza palese peso piscine o scale mobili ma il problema è un altro party vado veloce perché vi faccio vedere questo è in realtà vi dico anche alcuni architetti costui
+direbbero una rampa così
+ristorante inaccessibili e inclinate quasi come questo sostanzialmente è qui quelle vediamo simpatica erano i due in fondo vedete quanto ci ho provato qui è incastonata una carrozzina dentro nel corrimano molto molto simpatiche effettivamente visto che non ce l'avrà precisione gradini tanto valeva usare la cuisine
+carrozzina o robe del genere qui addirittura
+questa ricrea e qui ha creato la disabilità nel senso che non succeda avevi prima usi quello scivolo
+prima o poi la lampada hai bisogno
+qui invece io ho chiesto ami giorni lavoratore con disabilità
+e sono tutti in carrozzina
+ok
+e continua varie situazioni
+giustamente chiede a un uomo uno pensa una cosa simile non è qui però è successa una cosa strana è successa una cosa strana ho descritto una persona nello spettro autistico parte che sotto almeno due sono con la carrozzina però non sapeva più cosa inventarsi ma le prime due sono qualcosa che effettivamente
+partorisce una carrozzina anche qui ma qui è qualcosa che richiama un po' libera al timone una carrozzina sulla testa di questa di questa persona molto giovane vedi e nero tè è certo perché è una ragazzina nello spettro autistico molto inclusiva e quindi pensa anche alle disabilità degli altri evidentemente però
+chiedo il ragionamento dietro il sesso qui ancora ancora allora qui dei dati forse sullo spettro autistico
+qualcosa del discorso mentale psichiatrico
+ci dev'essere perché qui invece all'opposto io vi sfido provate a ipotizzare che cosa chiesta ami giorni per generare queste quattro immagini tanto non ci arriverete mai gli ho chiesto una persona con la sindrome di te
+con la sindrome di down che lavora in un bar
+qual è il programma scusa o niger
+poi ditemi come ha fatto a creare questa roba qua perchè non c'entra la sindrome di down central bar qualcosa di kubrick chiaro agli
+io invece c'è verso riderai molto proprio corso crederci cornell alle immagini di prima per favore vai io ci vedo aspettare dimmi qual era l'input persona questione con sindrome di down samuel
+persone con sindrome di down che lavora in un bar allora la prima
+la seconda
+sono giuste per il modello ho capito perché adesso god
+se vuoi ti posso rispondere dal punto di vista tecnico perché ci sono queste cose così assurde nel nelle tue risposte e lascio vedere altre due prima però scrive quasi poi chiudo
+la condivisione questa per lui è un per lei è una persona cieca e piace anche qua
+ho chiesto un
+un caso psichiatrico e e on-demand è qui e l'altra cosa un rugby ragazzi nello spettro autistico a scuola con gli insegnanti di sostegno lasciando perdere i disegni sotto qui sono tutti in carrozzina e soprattutto non so se hai notato una cosa che è molto peso
+sante perché sottile dono contestualizzabili in una scuola pubblica di quartiere c'è il tavolo un po' sgarrupato
+vestito un po' così cioè queste è talmente sottile ma talmente presente nella società che la disabilità riguarda anche uno stato sociale povero che è pesantissima e devastante per un giovane che vede un'immagine del genere sapendo che cosa doveva generare ok chiudo
+rispondimi mi posso togliere la diretta intanto se esce certo certo assolutamente sembra allora
+io ho capito perfettamente il problema
+allora a parte che è una parte di me non so come dirlo
+ma ti prego non prenderla sul personale non è assolutamente una cosa di questo tipo cifra che non dev'essere in alcun modo un attacco perché non lo è o a immagini generate così sono i madsen generate
+in modo errato nel senso è un è un modo un poco chiaro perche spesso mi è capitato anche i miei clienti
+per dire non sai bene quello che stai facendo mentre le ceneri che hai proprio capito perché c'è un argomento benissimo un passettino alla volta e realtà è un pochettino più complesso di quello che sembra ma questo purtroppo è un enorme problema ed è quello che appunto io credo che tantissimi problemi del diana e soprattutto dei bias che vengono fuori
+in questo modo brutto per giunta oserei dire anche per l'ottimo esempio come hai fatto è perché spesso non si sanno usare questo termine voce gli strumenti
+tu mi hai detto cosa atomi di giorni
+allora il margine piuttosto simpatica ma oserei dire che è un po' macabro e quella del bar del piacere la persona possedeva sbarra è venuto fuori perché in realtà mid giorni è stato addestrato soprattutto con un dataset di immagini collegate a dei lebel sono quelli propri
+scrivono inglesi in inglese
+in cui tu scrivi del testo in italiano lui prende la traduzione letterale di quella parola o la cosa che ricordo di più dal punto di vista inglese quindi lui probabilmente sospettava qualcosa di tipologia come down sindrome o mentre realtà non trovando nella frase non si tratta dawn inteso come stato emotivo quindi le persone infatti erano
+tutte tristi al cronografo e bar
+messo in quella posizione alla fine rossa che c'è tutto quanto uno studio molto particolare dei modelli generativi che forse luca conosce ma nessun certo che si chiama prompt engineering ovvero è molto difficile far tirar fuori ad un modello generativo esattamente quello che vogliamo perché il modello si aspetta l'input in un determinato modo un pochettino come come
+vive una frase in inglese ovvero che c'è prima prima che il soggetto poi il verbo poi aggettivi messi tutti in un determinato ordine preciso perché se lo fai in un modo bellissimo ma non quello il risultato cambia totalmente cioè non certamente niente di uguale infatti questo è un è un esercizio che poi ti invito
+ricavare qualche volta
+e poi ho visto che hai fatto delle richieste estremamente complesse che un modello come miti giorni non riesce a fare
+si chiamano context praticamente tu devi sapere che tu ogni ogni frase che dai come input ad un modello generativo che ai più è lungo più tu in realtà questo ti sembrerà assurdo ma te lo posso dimostrare matematicamente se tu ogni lettera che aggiunge stai aumentando di un livello percentuale la probabilità
+che la roba venga totalmente sbagliata perché tu stai facendo una complessità matematica che esponenzialmente maggiore ogni volta che metti dentro qualcosa cioè dal punto di vista probabilistico e ottenere un buon risultato facciamo un esempio puoi scrivere arhus cinque lettere quindi letteralmente text teenage cinque lettere o re dawes curiosamente scrivere
+red house o scrivere pokémon che sono uno una cosa e l'altro invece un un soggetto con una frase c'è un oggetto con un aggettivo color agoda lo rappresenta per il modello generativo dal punto di vista della probabilità di tirar fuori qualcosa di buono in realtà sono la stessa cosa anche se tu rappresenti
+un sola una sola cosa ok oppure un
+un soggetto con un aggettivo che identifica in modo più specifico e soprattutto aggiungendo un altro punto il discorso fu più aggettivi metti dentro come diciamo
+condizioni per la tua immagine tipo voglio un'immagine di giacomo al bar sopra un cavallo mentre coccola un gattino arancione però gli manca la zampina in discesa soprattutto in italiano magari seguendo anche in italiano tenendo conto che novantanove virgola nove per cento dei modelli generati
+vivi vengono addestrati in inglese come liberace e di che trovano i dataset di pesca tutti quanti in america e poi la lingua base sostanzialmente dei ricercatori alla lingua base dell'informatica in inglese tutto quanto è in inglese non esistono informatico che purtroppo a sue spese non deve imparare l'inglese dalla testa ai piedi perché è tutto fatto in inglese sostanzialmente chat
+pochissima roba è madrelingua all'interno della programmazione ma anche della divulgazione proprio ciò che è scientifico approvato riguarda l'informatica mentre ad esempio per la medicina c'è anche tantissimo tedesco spagnolo no in informatica non troverai mai niente
+spagnolo esattamente niente quindi purtroppo vedi questo è perché secondo me è un è una cosa un argomento molto intrigante
+spesso le persone oltre a giustamente non mi ricordo chi di voi prima ha detto quella fase estremamente intelligente ovvero che molti usano liam ma pochi sanno cosa sia ok non mi ricordo chi l'abbia detto ma mi hanno colpito molto perché non è una cosa che si sente molto spesso è un dato di fatto nel senso sono strumenti
+che non sono così isis lei come uno si immagina anche sempre la parola rampa io ho solo tantissima ora prima mentre tu mentre tu facevi vedere c'è in inglese ho pensato a tempo e spesso le frank l'immagine delle auto capito cioè non deve il modello probabilmente
+ha trovato delle cose per cui ce l'ha fatta a capire che desideravi una rampa per disabili all'interno della visualizzazione non capendo bene cosa sia né come posizionarla all'interno dell'immagine e soprattutto probabilmente ti metteva la carrozzina dentro che la cosa più importante è fondamentale perché lui
+probabilmente associava disability è il simbolo standard con cui viene fatto come dici tu e lady isabella era carrozzina messo dentro all'interno del database come le persone che lavorano o ad esempio quello della scuola che probabilmente il più complesso i che richiesto letteralmente come input non non c'è modo in cui ti faccio una roba del genere in modo
+corretto ci è noto non c'è modo ma vorrei provare esplicitamente non non te lo posso dire io sono una persona che una cosa va provata piuttosto me ne sto zitto a provare a scrivere la stessa cosa ma in inglese quindi utilizzando delle terminologie inglesi magari
+lavorando un pochettino bene su prompt engineering da rete neurale quindi capendo bene come usare il testo più immagine per far in modo che funzioni bene in modo corretto quindi capire bene qual è la professione di comandi per arrivare sua migliore e vedere cosa viene fuori perché sono certo che su questo tu usi dei termini più specifici come blindness
+altre cose di questo tipo
+potrebbero risultati molto molto allettanti ecco dimmi una cosa giacomo su questo perché a proposito di pronta individui in malora un'umanità già non so quasi niente di informatica niente però quando il sito mi giorni atei per tutti per il pubblico su discord sono stata una delle pazze malate che semestre wow finalmente io posso creare quello che
+sempre immaginata senza essere in grado di disegnare incerto da giocatrice di ruolo
+e da persona che appunto si occupa di gioco di ruolo per lavoro io sono sempre attaccata mi cernia quindi e so conosco molto bene inglese quindi usami giardino inglese e macchinette un po' a confronto engineering
+io sono arrivata adesso è un pò che non lo uso quindi gli ultimi modelli non li conosco più tanto bene però i il primo che è uscito il quattro poi cinque gli abusati e usati parecchio e questa cosa che dici tu a proposito dello scrivere bene è pronta me ne sono logicamente accorta però cosa ho notato che anche in questa cosa qui nello scrivere dei pro
+c'è un bias di base i voucher
+quando io cercavo di creare una wall street c'è una maga una maga potente i dungeon dragons questo grazie veniva sempre bianca molto molto magra denudata io cosa ho capito che per far uscire un risultato interessante attraverso il pronti ingegneri quindi con un
+viso non stereotipicamente da modelle di tumbler che si richiedono su instagram piuttosto che dovevo scrivere trattino trattino no make up quindi per eliminarli completamente il trucco in realtà non avevano trucco però togliendo il mecha in qualche modo gli toglieva un po' della femminilità e allora in qualche modo creava un'immagine
+june è una un viso un po' più interessante e quindi la faceva un pochino più androgina e quindi la faceva un pochino più vicino a quello che stai mangiando ma perché è il nick up dev'essere associato con quel tipo di faccia con quel tipo di corpo che secondo me non è neanche noi ha neanche voluto ma è semplicemente una pura conseguenza causa
+ale di infinite infinite sommatoria matematiche che arrivano una dopo l'altra quindi curiosamente ora che anche il dataset potrebbe essere pulitura io te lo dico per esperienza ho scritto reti neurali con dataset politiche gli chiedevi cos'era una mela e ti rispondevano che era una scarpa finché in realtà non è l'intelligenza artificiale viene spesso definita black box
+da noi che studiamo e da noi che va utilizziamo perché a volte fare problem solving e di una complessità disarmante perché un singolo risultato è frutto di un'equazione ricorsiva che si richiama infinite volte quindi curiosamente tu mi dirai cavolo giacomo o jack perché c'è il pericolo che curiosamente cioè potrebbe
+essere che abbia deciso di incrociare i dati da donne col trucco che non c'entra niente come totalmente altra parte amache lui sa perché le ha unite in quel momento ho capito
+certo dalla spazzatura finisce a una cosa una cosa molto molto simpatica che mi è successo che io ho scritto un paio di reti generative che volevo che creare delle macchine cioè le automobili guidate da delle persone e una volta mi è venuta fuori una macchina come quel gas cioè letteralmente con occhi al posto delle rughe
+fedel del frontale e con la bocca giù zuzzurro cioè sembrava fatto apposta ma non lo erano e non ti so dire come va letteralmente ha unito due cose è matematicamente parlando ti so dire il perché ma non te lo posso sistemare ci devo dire che devo cambiare approccio per sistemarlo devo ricominciare da capo cambiare approccio ma non posso sistemare quella cosa lì
+in particolare capito perché sono troppe funzioni assieme quindi è molto difficile stimare queste cose così piccole danze più piccolo problema nella rappresentazione più diventa intrinsecamente complicato la risoluzione di quella
+posso dare una scorciatoia adesso un po' da customer care visto che comunque sia simone si adora hanno incontrato questi problemi c'è adesso una funzione che c'è già in altri modelli ma è stata inserita in discord che la funzione descrive quindi lei descrive allora tu prendi un'immagine
+simile a quella che vuoi un esempio la metti su discord metti ti scrive e ti darà il prompt estrae da quella immagine tu fai copia incolla dello stesso prompt sommi giorni e in teoria dovrebbe darti un'immagine simile se tu vuoi
+vini con disabilità all'interno della scuola ma vuoi che sia una scuola ricca tutti con l'uniforme o quello che vuoi gli dà un'immagine simile dice ma quella che vuoi fare guardi un pochettino il prompt che ti dà che poi anche lì è una scoperta perché nel prompt sono cose che tu non avresti mai immaginato di trovare
+o inizia a fare le prove e puoi arrivare più vicino ai tuoi risultati ovviamente qui sono discostati molto dal dal problema diciamo della trasmissione che il bias è tutto questa è una scorciatoia che da un po' da hacker ti permette di risolvere il problema ma non risolve ovviamente il problema alla fonte ma secondo me invece è molto more
+intrigante che sono arrivata in questo qualunque perché nel senso ti dà tantissimo anche secondo me l'opportunità di pensare che sì l'intelligenza artificiale è per tutti e deve essere inteso per tutti quanti sono primo che lo dice ma bisogna bisogna capire che è estremamente complesso da utilizzare può sembrare user-friendly perché l'ue ele
+letteralmente una barra una barra con un tasto invio però se uno vuole utilizzare uno strumento così tanto complesso livello matematico che non segue un algoritmo standard
+purtroppo deve imparare a giocarci ecc c'è bisogno di smanettarci un pò prima di lei
+ah scusatemi vai vai location smettila una chiosa per dire che questo è un bias ulteriore perché devi essere niente
+capire e l'intelligent tu magari si vedono molti bias perché non l'hai sai usare e perché magari scrivi prompt in maniera normale invece dovresti iscriverli con un gergo certe cose che solo gli informatici sanno e quindi anche quello un bios tradizionale dove per avere meno bias devi avere un qualcosa che altri non hanno quindi la conoscenza
+beh si però in parte diciannove a raton cielo si è un bias è un bios insomma ricordare che stiamo vivendo anche questo però è uno strumento molto complesso c'è spesso le persone lo stendono ah ah
+cioè non gliene frega di capire come funzionano vogliono solamente il risultato ma questo molto molto tante nella vita ci capita spesso queste cose c'era la macchina non mi interessa come funziona basta che mi porti da casa da casa cerchi un lavoro sì ma se tu non sai che lo scroto mancano per tenerla a settemila giri per tutto il tempo prima o poi si rompe io penso che serva anche tante
+educazione da questo punto di vista action perché sennò può rimanere deluso dalle tue aspettative che la tua macchina non ti porta al lavoro però però siamo d'accordo che non è uno strumento pronto per il pubblico non aveva non dovrebbe essere uno strumento attendibile è ancora in sviluppo e dipende allora uno come un generativo hotel
+attuale secondo me dev'essere uno strumento di fascia prosumer come li è sempre stato uno strumento che io definisco non consumer o prosumer oppure business una roba molto mirata tipo ad esempio non so io due mesi fa abbiamo scritto un sistema di controllo qualità
+questo fatto vedere se un determinato pezzo che esce dal macchinario e cioè va bene non va bene come dimensioni quindi fai il confronto temporale stava benissimo strada per esempio di acheron che non fa male a nessuno anzi dopo tanto aiutare i laboratori a fare un lavoro migliore
+non rischiando di mettere le mani quel macchinario
+cioè come accadeva prima
+c'è una bella videocamera che controlla il pezzo in modo in modo tridimensionale è vero che secondo me determinate tipologie di intelligenze artificiali andrebbero limitate quello se cioè se quello si ma infatti determinati modelli che stanno facendo hanno determinati modelli pericolosi che possono dare degli output
+troppo troppo ad esempio fotorealistici come diceva prima anche luca per il per il discorso di non sapere quale più la realtà alla finzione come matrix già ad oggi stanno mettendo cioè o li bloccano oppure sono costretto a mettere dei watermark sono letteralmente dei dati che vengono lasciati dentro l'immagine intrinsecamente per riconoscere fico
+quell'immagine è frutto di un'intelligenza artificiale e non di un e non c'è moralistica in un modo o nell'altro ovvio che come dice luca col tempo diventerà sempre più un problema perché comunque gli escamotage cresceranno sempre di più per poi passare queste forme di come posso dire o di censura o di controllo uno trova sempre il
+mobili purtroppo fai passare questa tipologia di blocchi che vengono messi però si è un po' un problema è un problema ma è un argomento estremamente complesso ne ho parlato anche l'università con dei ragazzi quando brodo ottenuto una versione un po' di tempo fa news scoop dei ragazzi all'insubria era venuto fuori un problema
+come fa un'intelligenza artificiale a classificare bene una persona nel senso ad avere l'arroganza di classificarono ma in realtà io ho voluto semplificare il problema dicendo che è sempre capitato in un modo o nell'altro dovere rinuncia ad avere dei sistemi informatici che effettuassero delle classificazioni che semplicemente
+veniamo fatti a mano quindi come diciamo noi informatici wildlife vi devo dire se è così è così se è così allora un'altra storia adesso c'è semplicemente un modello che lo fa che ti dà purtroppo un grosso problema delle black box ovvero tu a volte non sai perché l'ha fatto ma infatti questa è una cosa che mi rende molto felice ci stiamo muovendo su
+una sempre più trasparente anche nel principio di funzionamento spesso ora anche per le europee viene richiesto che l'algoritmo sia trasparente cioè se io do al mio cliente un determinato modello di ace tratta dati personali o per cui è possibile effettuare determinate tipologie di classificazioni
+se è costretti a spiegare bene come funziona anche determinati risultati per fare la baia swing comunque noi chiamalo esistono delle tecniche per poter risolvere il problema e soprattutto quei dati quei dati proprio con numerici stiamo già applicando queste tecniche esistono cioè se un esempio classico sono i mutui delle banche se io johnny
+dataset contenente mille famiglie magari di una regione non proprio ricchissima queste mille famiglie sono novecentocinquanta novecentocinquanta famiglie di carnagione bianca poi determinata provenienza le altre a un setting sociale che invece è meno fortunato dell'altro ma ho istruito il modello
+partendo su questa tipologia di dataset che magari sono suicidati che un cliente che una banca o che qualcuno ha a disposizione il modello over fan razzista
+ve lo garantisco una razzista al cento per cento cioè magari gli metti davanti una famiglia un nucleo familiare che guadagna anche centocinquanta mila euro lordi all'anno ma semplicemente perché riconosce quali determinata tipologia di prestito provenienza dice il mutuo non te lo voglio dare è questo un grande problema ma fortunatamente abbiamo sviluppato
+delle tecniche di visualizzazione e di modellazione dei dati ok anche dopo che la rete viene allenata per fare in modo che noi possiamo riconoscere questi comportamenti sbagliati delle reti neurali e correggerlo prima di metterli in campo possiamo applicare dei pesi ovvero sostanzialmente possiamo dare noi possiamo forzare noi l'importanza di d'età
+nominate caratteristiche all'interno del calcolo quindi perlomeno per certe cose passi avanti grandi si sta facendo non è proprio tutto fermo nel senso anzi questa è una bellissima notizia c'è un buona cosa e poi la cosa buona è che continuano a migliorare le tecnologie puoi farlo dapprima era piuttosto complicato da fare cioè sì
+sistemarle dopo le cose dopo aver creato un modello adesso è molto più facile andare a limare venti mutaforma roba brutta prendi olivi sostanzialmente le funzioni
+che già conosco non mi volevo farti una domanda
+i tecnici appunto visto che hai citato la cosa dei black box
+giacché mentre una black box io non so che cosa sta succedendo rientrò sempre rifacendomi a quel video che ho citato in apertura si parlava anche un po' appunto dei modi per mitigare piuttosto che si parlava di modelli surrogati cioè modelli più semplice che in qualche modo ti spiegano cosa è successo dentro una black box è una cosa che non ho ben capito quindi volevo chiedere oltre a
+la coppia era anche un'altra che diceva che erano le
+constatazioni contro attuali una cosa del genere cioè se tu avessi avuto quest'altro totti in più viene il curriculum io ti avrei assunto secondo il modello il nostro modello e quindi questo è sempre una possibilità esperienza di modella però la cosa il modello surrogato c'è un'ulteriore intelligenza artificiale più semplice che però in qualche modo ti spiega cosa è successo dentro
+black box e se curiosamente lo puoi fare e comodo un senso c'è gelosamente e più è letterlamente di nuovo è divide et impera cioè per il nostro cervello capire matematicamente quello che succede è troppo complicato per che usiamo tutte quante le variabili matematiche ed è anche quasi impossibile da fare ma se io istruisco una rete neurale a fare il probl
+siamo all'opposto c'è è curioso so che è un po' mind blowing però tu utilizzi una rete più piccola che analizza l'output della rete neurale in base al l'imput cerca di trovare delle correlazioni quindi uno può soltanto le sue azioni l'altro tira forte correlazione e dopodiché lo fai a ritroso lo fai al contrario quindi tu tuoi dai solamente la
+booth o come cocaina
+l'output di quella grande come input scusami io so che è un gioco di parole terribile mi sento un po' in difficoltà
+sicuramente ti sa dire guarda che quella cosa ha avuto più peso rispetto a un'altra
+ceppo è una è una tecnica che si può usare ti dirò che non viene usata molto al momento perché lo puoi fare in fase di costruzione della rete neurale cioè tu ti puoi fermare dopo un po' di epoche si chiamano tali le varie parti di allenamento di una rete neurale ti fermi e dici ue vediamo quali sono come
+dice luca che ha parlato prima di feature che poi sono le feature quindi le caratteristiche che hanno pesato di più nell'arrivare questo determinato risultato in un modo non ha senso qualcosa di migliore che dicevi tu prima luca non c'entra niente cioè io metto dentro l'immagine mi da nulla
+diversa
+come discorso si comunque i modelli surrogati hanno vantaggi e svantaggi
+come diceva giacomo
+ma essenzialmente rischiano anche di semplificare troppo e quindi si perdono accuratezza e informazioni
+ci sono ci sono altri sistemi per cercare di gettare un po' di trasparenti trasparenza all'interno del black box però è sempre un thread off è sempre una situazione dove mi crea una situazione dove voglio trasparenza meno sarà accurata
+e viceversa e poi arriva sempre il test del mercato cosa cosa sceglie il mercato alla fine qualcosa che è molto accurato ma alla fine non non spiega bene perché l'ha fatto ma se è molto accurato magari non mi serve davvero che lo spiega in certi contesti perché io voglio la spiegazione quando sbaglia e questo generalmente dop
+si punta tra hanno ovviamente dei contesti specializzati come la medicina dove tu vuoi invece anche se la
+decisione giusta il medico vuole capire perché ha prescritto quel farmaco in quella dose lo avrei fatto anche io però dimmi perché così mi fido allora li serve serve molta molta trasparenza e io volevo approfittare per rispondere un secondo a simone quando dicevi
+beh se non sono diciamo fatti bene non bisognerebbe metterli sul mercato no per altri aspetti
+sì perché diciamolo non puoi mettere delle ciofeche delle cose che non funzionano che poi creano danni per carità
+no perché anzitutto noi ci accorgiamo che hanno bias però perché li mettiamo sul mercato perché altrimenti verrebbero testati da un gruppo di maschi bianchi a san francisco nella silicon valley e non ci renderemo mai conto di un sacco di cose ma ti dico anche un po' la mentalità e qui ti fa
+cio arrabbiare probabilmente ci sono due mantra nel mondo dell'informatica sotto degli ultimi anni diciamo uno è quello che si usava
+dicono in facebook che è muu fast and bright things quindi muoviti velocemente e rompi cose lì è inteso come
+fai le cose velocemente senza controllare se poi si rompe un altro pezzo del sito ma ma va bene
+e quindi questo è un modo di fare e poi c'è anche una frase famosa di reid hoffman che quello che ha fatto leyen che diceva essenzialmente se non sei imbarazzato della prima versione del tuo prodotto vuol dire che lo ha lanciato troppo tardi quindi lancialo imbarazzati di
+quello che hai lanciato e pensa subito alla prossima versione quindi questo modo è rampante veloce di rilasciare il più possibile e fare in modo che attecchisca cozza tantissimo con quello che oggi tutto il mondo chiede all'intelligenza artificiale no no fermat
+devi testate ragionate non importa se mi giorni versione sei viene lanciato quest'anno o l'anno prossimo non muore nessuno però magari fate qualche test in più ma non è proprio nel dna di chi fa software ecco perché ritorna all'argomento iniziale serve molta con partecipazione
+di tutte le altre fasce dell'umanità
+per stare al tavolo condiviso non è mai la cosa diciamo non è però niente la cosa
+che risolve tutti i problemi ma sedere sedere al tavolo con molte professionalità multistakeholder si dice tutti allo stesso livello così almeno anche qui non ci sono davvero grandi bias che possono inquinare il processo decisionale potrebbe aiutare tantissimo a cr
+creare uno sviluppo condiviso dell'intelligenza artificiale perché se lo fanno solo gli informatici saranno sempre bias se lo fanno solamente i giudici
+o i giuristi magari non ci sarà mai innovazione tecnologica se lo fanno solo i politici saremo manipolati fino alla morte insomma
+bisogna stare attenti un po' a chi prende le redini di questo di questa innovazione mi promettete di giungere il cieco
+l'accelerazione livello di rilasciamo tutto vi lasciamo in fretta c'è stata proprio grazie o per colpa del successo di giorgi pd perché prima dell'esplosione molta ricerca era condivisa molte rilasci erano più controllate e così via successo mondiale gp
+di corsa all'oro tutti fuori
+e quindi come dire anche il mercato in qualche modo richiesta accelerato il buttiamo fuori il prima possibile e molte finire le logiche di controllo di precauzione e di verifica sono state veramente abbandonate non so se
+potete confermare ma si ha validato questo concetto
+ha validato il concetto di hoffman ha validato
+magari buttiamo lì da questo successo dei ciechi pd lo ha confermato sembra ci rendiamo conto che abbassare il livello a un tot al chilo nel senso che la fortuna di abcd t l
+la qualità del prodotto che buttava fuori a livello diciamo di precisione di grafica non di appunto completezza di affidabilità anche da un punto di vista
+the rooms e così via il affino quello che ho detto prima perché sembra va benissimo effettivamente semi fa il disclaimer è ancora in testing è un conto se melo venti signori
+normale intelligenza artificiale cambierà il mondo
+idee oggi anche se parlo al futuro allora nello stai proprio vendendo se la polizia inizia a utilizzare l'intelligenza artificiale per il riconoscimento riconoscimento facciale non è ancora affinato è un problema già sul mercato non è the stig luca secondo me hai detto giustissimo prima e
+era una cosa che volevo dire nella mia introduzione mi sono dimenticato perché pochino me l'ero preparata cioè il discorso che l'intelligenza artificiale è uno strumento e un facilitatore è un acceleratore cioè se
+ritornando tanto ormai questo video alessandro sarà completamente depenalizzato tutte le volte detto bomba atomica è già tanto che youtube non te lo tiri giù
+noi lo facciamo per soldi anche perché non ci sarebbero i presupposti
+quindi
+è un conto se c'è già grave se l'intelligenza artificiale mi dice io lancel la bomba è un'altra questione se l'intelligenza artificiale dice sta lanciando la bomba o gay fermiamoci al io ti suggerisco io non ti selezionerà questo soggetto per il
+mutuo e ti dico perché poi ci sarà il valutatore umano che confermerà o meno mi ricorda l'ex no che comunque adesso non so a che punto siano ma inizialmente ero un po' più lenta perché c'erano persone pagate per ascoltare le frasi registrate che cosa le aveva
+capito e correggerla sostanzialmente no usiamolo come facilitatore non usiamolo come potere decisionale a fare al posto nostro ma quello che dici tu e lo human in the loop tenere sempre l'umano che però gli umani così come clicchiamo su etsy a tutti
+i messaggi
+da hulagu gli umani di un bias di conferma quindi sia un muto per questo motivo hai un baltico per me vero nemmeno io te lo darei sempre
+l'intelligenza artificiale un premio vero peccato
+ma tanto che alcuni
+alcuni gruppi di ricerca stanno andando la direzione opposta danno meno informazioni umano per consentirgli di fare una decisione un pochettino più autonoma
+c'è un amico un professore che lavora molto con gli ospedali e fanno dei test quando io ti dico questo paziente dev'essere operato al ottantanove per cento allora il chirurgo dice sì è vero bias di conferma ottantanove per cento è praticamente cento per cento e allora hanno
+tolto questi numeri molto precisi e hanno messo dei colori verde giallo e rosso ti indirizzano sempre verso un consiglio una decisione ma diminuendo l'accuratezza e in maniera voluta danno più possibilità alla persona di dare il proprio cosí
+tributo e partecipare alla decisione no ma anche anche noi l'abbiamo fatto con il nostro software non bisogna mai dar l'accuratezza di risposta alle persone che stavano in paranoia vero no
+secondo lei aprono ancora
+no no no no no no no ma è vero se sei su determinati miei clienti che magari volevano ottenere l'accuratezza con cui il modello pensa che un determinato prodotto sia a posto oppure no cioè quando gli tiriamo fuori tipo che mi diceva che il primario mi diceva che la protesta era al novantasette per cento novantotto sono convinto anche se sono convinto punto
+chissà se li vedevo che arrivavano clamorosi su dati dicevano no ma c'è novantasette novantotto ho tolto e ho scritto
+se sopra ottanta è buono è tra ottanta e quaranta giallo sotto quaranta rosbash non no no no ha ragione evocare una roba anche per fare la controprova puoi assolutamente uno ha molta meno fiducia in se stesso se deve andare contro una macchina che dice che nel novantanove per cento dei casi una cosa è una serie tv
+non parliamo del desk killing dei professionisti
+certo che se staranno lì solamente a confermare quello che dice l'intelligenza artificiale e poi perderanno gli skill come acquisiscono esperienza insomma il problema è serio in realtà si deve mantenere l'essere umano squillato quindi con competenze e l'intelligenza art
+ufficiale fatta male o diciamo implementata male rischia di diminuire lo skill di chi la usa se no
+e poi per quello che comunque si studiano si usano mai per le cose mission-critical il tuo intervento giustissimo simona ce li ha li ha deve essere utilizzata scusa milord
+vai vai tranquillo vai a cioè dicevo che ce li ha non lo useranno mai per per niente di mission critical ovvero niente di troppo complicato o cose vitali c'è una domanda che faccio spesso ai miei amici quando mi chiedono che lavoro faccio ma io dico sbottò provo a chiedere loro in quali ambiti secondo loro li ha usati
+spessissimo loro lusso perché sbagliando di brutto mi dicono il pilota automatico degli aerei che c'è i miei amici spesso sono le persone che conosco sono spesso convinte che se mia a guidare l'aereo o il pilota automatico serie a c'è il prototipo dell'aereo non esiste niente di più ferreo e meccanico di un'opaca
+faccia if else if else e quando esce dal suo dominio di controllo dice basta ti fa plon plon lampeggia così oceaniche disabilità ti dice non voglio più tenere in mano i comandi sono fuori a tutto quello che conosco o che è quindi tò ecco a te la palla che li ha purtroppo ha un altro problema che è gigante ovvero che non può mai smettere di rispondere
+avete provato perché da lasciateci pitti non risponde o non può
+no no ma non può farlo perché hanno letteralmente fatto per quello perché non c'è uno strumento che lo possa fare o tu glielo imponi nel senso che io faccio uno strumento di controllo che letteralmente riconosco un determinato pattern allora non ti risponde o io dico sotto una certa probabilità non rispondere tipo sei convinto che colpisce un albero al dieci per cento nascondi l'output è
+però non è non rispondere non e stai zitto e non parlare quindi ci nascondi semplicemente il tuo account fai in modo che non arrivi niente se non verrà mai usato per cose mission critical dove lei stessa dovrebbe dire e non è mai capace di farlo perché anche l'uno per cento di possibilità è una risposta
+non c'è bidet e ti dirà io non so cos'è che sta succedendo prendi turavano pazzo non esiste non esiste una cosa elijah non può trovare delle soluzioni li ha può trovare semplicemente delle nuove combinazioni ma non delle nuove cioè non potrà mai ad esempio sostituire un pilota su un aereo poi lo farà perché è un dato di fatto che lo farà ma sicuramente terranno sei
+apre se ora i piloti su un aereo sono due per inondare pensate che fino a vent'anni fa erano tre addirittura dopo che sono stati due distrutti quanti sistemi che hanno messo probabilmente tra un po' d'anni diventerà uno o perlomeno due ma di cui sopra di cui solo uno magari dove stare in cockpit mentre l'altro può andare a riposarsi tranquillamente nel caso ancora ci stia male gli venga cioè gli
+è un infarto celebre fossa essere fortunato sull'euro però magari può riposarsi può non rimanere lì ma non sai che dopo l'incidente di wilson cole
+quello dove il pilota si bloccato dentro la vita nel cockpit praticamente hanno introdotto l'obbligo di avere sempre due fisse
+ma non sporco allora emerge poi c'è sempre hanno sempre due ma secondo me ad esempio modificheranno le paghe dei piloti c'è oramai qualora c'è uno il primo pilota quindi officer comandante e uno prende proprio dell'altro ma paga sostanzialmente la stessa cioè voi vedrete ci scommetto quello che volete ne riparliamo tra un po' d'anni che tra un pò da
+anni il secondo pilota verrà pagato la metà perché come se fosse il supplente ove koulibaly piazza però è un supplente cioè non è non è non è lì attivamente responsabilità non è neanche sua estremità che subito subentra nel caso del fallimento del sistema automatico del file e del fallimento anche del pilota che dovrebbe farlo
+poiché però non accadrà cioè nel senso non potranno anche la guida auto la stessa guida autonoma che un argomento molto intrigante mi ha fatto un paio di decreti ricerca su quella roba lì è un disastro c'è il dilemma etico il famoso dilemma io devo investire una vecchietta o una bambina e non ho alternativa cosa faccio cosa faccio allora o scrivo io il software che se vede una bambina
+vecchia ammazzi la vecchia perché bobbio direi che io direi che è meglio ammazzare la vecchia però magari qualcuno ci pensa poi uno giustamente al suo livello di etica capito se uno magari pensa che è meglio prendere la bambina anche se dubito oppure che cosa fai ti schianti contro un muro ma li vai contro la prima legge ovvero non puoi andare a fare qualcosa ci sia totalmente
+contro il guidatore possessore del veicolo c'è è un disastro è na roba da oppure cosa che fai random vuol dire che lancia una moneta letteralmente fai giocare un numero casuale alla macchina da uno a dieci se sei dispari prendi la bambina suoi pari prendi la vecchia però qualcuno si deve assumere responsabilità di scrivere un software del genere quindi qualcuno vuol dire che si prende la briga di dire che quello
+funzione etica migliore ovvero lancia la moneta ed è un disastro dimostra come lo giuro c'è bisogno ragazzi nudi non so come risolvere amici ma stavo anche magari cagata che sta diventando pazzo che era romana i numeri c'è a tirare un dado con un salto in realtà non equivale davvero a qualcosa vicino alla gola numeri i numeri allora tu di solito questo perché
+i numeri registrati dal computer vengono definiti pseudo-casuali non solo
+unico modo per ottenere un numero casuale
+al mondo è letteralmente mettere un contatore geiger con sopra un pochettino di uranio o aspettare che un atomo decade e di conseguenza emetta emettono un
+come posso dire un elettrone o quello oppure incredibile da dire che assicuro che così la valente avete mentre la valenza
+e la valente colle corneto tutte quante le bolle eccetera ecco tenete conto che claudio flair che è letteralmente uno degli enti che crittografa tutti quanti i siti web per creare le sue chiavi pubbliche e private rendere la crittografia impossibile hanno costruito un muro di lava lamp sono due dove c'è nessun tipo dieci per dieci che con una videocamera ad altissima
+risoluzione e usano la dimensione delle bolle felicità numeri casuali e non pseudo-casuali questa roba molto curioso più colonne o comunque l'esempio di giacomo benvenuto slot è l'esempio del resto l'esempio di giacomo sulla investi la vecchietta o la bambina è comunque dentro un bias culturale
+perché hanno fatto questa domanda diverse persone in diversi paesi e ci sono ad esempio paesi asiatici dove le persone anziane sono valutate più
+da noi che da noi diciamo e c'era un'alta percentuale più alta che in occidente che diciamo salvava la vecchietta piuttosto che salvare il bambino quindi anche lì se dovesse esserci bisogna vedere di quale paese prendiamo le auto se avete giapponese o tedesca americana ha infatti c'è la soluzione è chiedere all'inizio quando
+hofburg la macchina che dice imposta la lingua imposta da te ora terza domanda è cosa vuoi che faccia ciò del tedesco esatto potrete riceverle e voi che investo la bimba ho la vecchia come rispondervi con le vostre stesse armi che avete detto finora
+l'intelligenza artificiale richiederebbe tre domande ditemi
+chi delle due disabilità razza è
+del genere assieme a un dilemma pc allora c'è oggettivamente sono i famosi dilemmi inquinanti gli esseri umani sanno rispondere quindi come fa un computer a farlo cioè nel senso ad esempio per la vecchietta per la bambina eccetera c'è uno el islam è il dilemma del cambio di binario no cioè che c'è il treno che sta andando e suk hyun bin
+mario c'è una persona legata o
+magari con bambino tu puoi decidere di dedicare una leva a cambiare binario all'ultimo oltre o non lo puoi fermare ma dall'altra parte ci sono tre anziani un amore
+è un dilemma filosofico molto molto ipotetico smartphone
+parliamo di equità parliamo di un sistema reale che effettivamente c'è esiste e strutturale può essere cambiata mediante intervento che non vada pensare su l'iperuranio delle pile
+ma ovvio ovvio
+il mio è l'esasperazione di questo concetto magari anche sbagliando magari riuscendo anche a dominio di riferimento però no no probabilmente si fa si fa riferimento a questo a questo dilemma con jenna certo una delle cose che gli portano anche in aula ha più una degli strumenti di cui si parla si parla spessissimo però non ho grandi sempre
+poi a non riflettere alcuni panni dicono però se poi siamo tutti gay la razza umana si estingue di cosa stiamo parlando non esiste cioè non c'è non esiste la possibilità del genere capita
+parliamo effettivamente di balance di potere di disequità stiamo parlando di qualcosa di reale che può essere cambiato con interventi reali
+jerry garcia ho una domanda per sambuci vedo un po' pensieroso
+sto ascoltando molto attentamente e dimmi un po' che riceviamo zona royal harbour no no no no no no no assolutamente io ho tutti i miei pensieri quindi a ascolto perché bisogna di immagazzinare poi rielaborare e quindi
+vedi è tutto molto interessante molto curioso e mi stavo guardando così dei degli appunti e sono davvero tante cose che mi vengono in mente e che vorrei chiedere ma c'è una cosa che più una riflessione che condivido sono un sacco di cose che sono state
+questa sera è
+cosa che è passata un po' ecc era che quella un proprio riferimento ai dati
+che multinazionali insomma chi ha il potere di gestire
+e di fare l'intelligenza artificiale ci fa cioè il considerare i numeri delle persone quindi si è parlato di minoranze scenate e allora una una grande riflessione cioè ad oggi spesso si
+perché addetto ai lavori sulla desert boot usa non si usa più il termine minoranza ma a gruppi finalizzati ma questo perché semplicemente perché ad oggi si sa che i dati di analisi di mercato contengono all'interno anche dei bias quindi mancano proprio a voi
+una serie di dati e quindi automaticamente di persone e quindi in questa riflessione mi chiedevo quanto quindi già dall'inizio ci sia già di base una mancanza e un'assenza di persone e quanto invece dall'altra parte parlando di poteri e di persone
+nei figli gruppi che hanno il potere ci sia anche una volontà ad ascoltare un certo tipo solo di persone che non per forza corrispondono ad una maggioranza a livello di numeri non so se sono stata hard certo guarda i bianchi in sudafrica insomma sotto
+l'apartheid si dava ascolto ai bianchi cioè l'esempio penso che vada in questa direzione
+quello che tu dici chiusura delle minoranze e potenti che a volte tengono sotto scacco le maggioranze che sono deboli ma esattamente come la questione del della discriminazione di genere della violenza di genere le donne sono una minoranza di potere ma non sono effettivamente una vacanza di dati rilevanti di potere che quindi ovvio
+mentre parliamo i gruppi analizzati perché non parliamo più di minoranza effettive ma parliamo di una percezione nei confronti di certe configurazioni sociali che sono che non hanno appunto potere non c'è sei rimbalzi potere cui parlavamo all'inizio ma anche ma anche a quelli che hanno il potere d'acquisto io faccio un qualcosa per il dieci per cento
+mondo che può acquistarlo del novanta per cento mi importa niente quindi sì assolutamente ma considera che c'è una una minora una una percentuale che non c'è all'interno dei miei dati perchè nulla mi viene in mente il caso dell'italia no perché visto che lino
+dirigente artificiale viene sommata al mondo americano anglosassone eccetera dove c'è anche un tipo di società anche a livello culturale diversa ping pong storico in italia ad esempio per alcune minoranze e alcune intersezionalità di minoranze non sono consider
+rate parlando ad esempio della mia in quanto persona afrodiscendente e poi anche donna ma in quanto persona down afrodiscendente su alcune cose io sono considerata solo all'interno di una piccolissima nicchia quando poi in realtà nel quotidiano
+mano e proprio e esistiamo come categoria molto ampia ma anche molto ampia il livello di a livello di mercato in alcuni settori in altri no ma genericamente si e quindi mi chiedevo niente fare questa riflessione su quanto per quanto si possa lavorare su
+educazione
+che parta dalle persone ci stia comunque davvero anche molte bisogno di fare quello che si diceva quindi una educazione che venga fatta in stile sono tra chi porta degli argomenti e chi la crea insieme a una parte di persone che hanno il potere insomma non vive in un mondo utopico quindi non mi aspetto che
+i leader dei grandi multinazionali si facciano questo problema e non so neanche quanto davvero poi i dati li interessino realmente vedere quali sono i numeri però ci sarà qualcuno interessa mi chiede magari prima o poi ti farà una domanda quindi la mia riflessione che mi ha portato ad ascoltarvi tanto
+john c era anche anche quella
+che qualcuno risponde
+secondo te shinbun ma in realtà vale per tutti è cessato i progressi invece c'è una in evoluzione
+dei passi avanti poi siamo tutti d'accordo che siamo ben lontani da una situazione ideale però ci sono i passi avanti ci sono dei passi indietro per quello che la vostra percezione il riferimento all'intelligenza artificiale in genere che il censo ai bias sulle minoranze su
+nì nel senso che allora c'è la volontà di anche grossolanamente di iniziare a fare qualcosa magari di capire
+c'è però manca ancora tanto manca ancora tanto secondo me da proprio capire che cosa dalla base quindi di che cosa parliamo quando parliamo di bias in che modo i bias che ognuno di noi ha impatta su quello che facciamo
+sulle persone che conosciamo sulle persone con cui decidiamo di parlare
+sulle possibilità le possibilità che decidiamo di dare a determinate persone piuttosto che altre le parole che decidiamo di usare la visione che abbiamo di un sacco di cose è un lavoro in divenire mancano manca ancora qualcosina
+così diciamo così
+ottimista quindi io parto dal presupposto che magari io non lo vedrò magari lo intravedano i miei figli o magari neanche loro lo vedono i loro figli non lo so qualche cambiamento ci sarà
+quanto meno me lo auguro la pizza lottare veramente molto truffe però non è immediato però fissano in te ci sono ancora dei passi da fare un po' sul porto quello che ha detto sam wood do
+altri dati che possono essere di riferimento per esempio sempre un po' riferendosi all'intelligenza artificiale
+quando si parla di dati ufficiali per quanto riguarda la disabilità l'unico dato ufficiale è quello delle persone certificate con disabilità grave e gravissima che stiamo parlando circa il sei per cento della popolazione peccato che gli addetti ai lavori sanno che in realtà traducendo il terme
+mine disabilità e persona con disabilità una disabilità nell'accezione funzionale quindi esigenza devo soddisfare parliamo di esigenze
+non della maggioranza ma comunque comuni intorno a un venticinque per cento della popolazione se ci rendiamo conto li incrociamo questo dato degli altri dati quali per esempio che nell'ultimo anno c'è stato un rapporto nascite e anziani di uno yacht a
+quattro quindi su cinque uno quattro l'invecchiamento della popolazione non fa altro che incrementare nell'ambito delle esigenze specifiche o addirittura di disabilità quel venticinque per cento quindi minoranza si venticinque per cento ma un quarto
+così tanto villaggio stiamo parlando l'uno per cento e neanche del cinque per cento che sole persone certificate venticinque per cento collo tu un attimino vuol dire anche non
+perché ho dette esigenze perché non disabilità la disturbo dell'apprendimento
+di s a non è una disabilità non è considerato una disabilità peccato che a determinate esigenze per quanto riguarda per esempio l'accessibilità visiva grafica così lentamente quindi si arriva anche no facilmente al discorso del venticinque per cento e poi noi abbia parlato di bias però
+a questo punto dobbiamo aggiungere un'altra cosa l'ignoranza nel senso che quello a cui si riferiva sangue non è tanto il bias per esempio per per la risoluzione della problematica
+perché mi sembrava quando stava parlando un po' troppo pessimista uno due generazioni ancora adesso che corre tutto velocemente però effettivamente se abbiamo una fetta di popolazione che non concepisce solo per il colore della pelle la nazionalità e quindi quando ha un persona magari
+foro discende quindi seconda terza generazione come italiano come italiana e si dice torna al tuo paese e lì non è un bias è un problema culturale il problema di ignoranza di base
+sto andando della persona nera io non sto concependo che quella persona abbia la nazionalità slegata dal fattore razziale ok
+qui diventa un po' più complesso e abbiamo giocato con i dati che abbiamo detto prima i tecnici loro già parlato della complessità dal punto di vista del algoritmi del niger
+calcolo informatico ma qui c'è una complessità a livello sociale è famoso il cane che si morde la coda di prima e quindi so cavoli anche dall'altra parte non solo quello della risoluzione dei metadata degli dei big data opera per quanto riguarda la parte informatica senti contro l'ignoranza davvero
+non saprei cosa fare per risolvere ma quando quando mi ha parlato di torna a casa loro mi è venuto in mente a causa di ignoranza una notizia dove si parlava di un senigalliese senigallia
+commesso un crimine quindi senigalliese ruba e i commenti tornati a
+tornatene a casa vostra senigalliesi a casa loro re degli ignoranti avevano sbagliato pensando senegalese adesso ogni volta che dico dico senigalliesi a casa loro ma questo per sottolineare l'ignoranza delle persone che quella praticamente non è curabile se sei ignorante sarà ignorante anche con l'intelligenza artificiale f
+wrestling misurabile si può istruire
+no ma ignoranza con la i maiuscola cioè l'ignoranza non mancanza di istruzione
+e io voglio credere necessità possibilità alle persone di aprire un dialogo perché molto spesso manca questo e twitter quando parliamo di dati e numeri anche se importantissimo quello che di testimone presente un occhio il fatto che arriviamo quasi il venticinque percento tanto è già diversa dal sei per cento però resta comunque un dato punto è che la popolazione umana no
+non è una norma matematica la norma sociale viene cambiata e l'asticella di che cosa è normale viene cambiato in base al percepire sentire comune non è una cosa matematica molto spazio quando io apro i corsi di reclusione chiedendo cos'è la normalità c'è sempre gli ingegneri grigie è una cosa matematica il numero che ha viene più spesso no
+non c'entra niente la normalità sociale è sicuramente un'altra il punto è che queste persone tendenzialmente non hanno una porta aperta verso la diversità viviamo in delle sacche delle sacche appunto delle casse di risonanza verso cui non hai neanche occasione di parlare con una persona afrodiscendente con una persona con disabilità una persona transgender
+è per quello che c'è a questa ignoranza ma se si creassero più occasioni di condivisione apertura racconto certo c'è l'istruzione e la formazione ma quello che io intendevo anche fare con quell'idea del gioco di ruolo era proprio quello facciamo un gioco in cui tu puoi provare sperimentare ad aprirla questa porta verso la diversità cioè tu che
+non hai mai sentito parlare una persona transgender è un mostro se invece la conosci è una persona quindi si sposta il tuo concetto di normalità non è più un dato ma è un concetto una percezione un sentire comune sociale o quasi
+è questa
+the way of
+a brevissimo ci sono anche josè scusami dimmi vai
+anche quelli che dicono che ho conosciuto l transgender quel transgender mi piace tutti gli altri sono mostri ci sono quelli che ci mettono un bel po prima della dia sempre però risponde alla domanda di edie scusami alessandro se qualcosa è cambiato o meno io penso che bisognerebbe celebrare il fatto che negli atenei negli ultimi dieci anni e sta
+un'accelerazione enorme il problema è che c'è ancora una grande mancano gli strumenti effettivamente spesso io sento parlare le persone per esempio di e di genere in modo molto confuso questo mi dimostra che c'è una sorta di bonaria ignoranza che comunque perpetra ancora delle cose negative già stamattina per esempio al bar
+sentivo parlare due due signori molto forbiti molto molto furbi estremamente furbi che però mi stavano facendo una gran confusione tra ciò che è sesso ciò che genere ciò che presentazioni genere e dicevano che tutte queste categorie non fanno altro che dividere bisogna tornare un po' alla base noi viviamo in un mondo che ha già fatto di categoria abbiamo parlato tanto di
+dirigenza artificiale di come funziona con il prompt di come funziona con il simbolo noi esseri umani nella nostra cervello ragioniamo per simboli per categorie ne abbiamo necessità però i simboli le categorie cambiano con il concetto di normalità con la storia con la cultura con l'assetto socio-economico non sono intrinseci
+non sono intrinseci all'esperienza umana aprioristicamente all'esperienza umana vengono creati grazie all'esperienza umana quindi nel momento in cui abbiamo secondo me quella e si svincolano da questa concezione un po'
+un po' falsata dell'eba bè però i gay sono sensibili e le donne sono più brave di noi a volte questa cosa un po' bonaria però è in realtà è negativa ancora abbiamo poi svincolarci e tornare a pensare appunto le nostre categorie ai nostri simboli e al nostro concetto di normalità perché ho proposto giusto
+sono intervenuto io no non ho giusto giusto giusto nessuno può controbattere nulla
+chiuso venerdi beh io direi che allora luca mi dispiace che tu dopo un'ora puoi andare via e se qui ancora no ma mia moglie ha risolto ha coperto per me
+io dovrei andare invece nesso tra poco tra poco vi saluto ciascuno campo
+sì no ma direi che a questo punto dopo due ore e mezzo di chiacchierata non perché ne abbia abbastanza perché devo dire che io vi ringrazio sono state veramente discussioni interessanti grazie hotel per averci ospitato e spero veramente tutti quanti di rivedervi in futuro occasioni mi stavo scrivendo un po' di puntate fosse
+simili futuro in cui invece seguiranno no ma vedo che saremmo poi io parlo per me però credo che saremmo tutti felici di partecipare nuovamente a una cosa di questo tipo
+molto fa di temi molto molto interessante beh oggi è stata la mia grazie ragazzi per capire l'ambito se vero
+ok dopo ci addentriamo dentro iniziano a partire le litigate e zanzara no no sto scherzando
+attualmente non so se voi avete omaggiato con il podcast
+mi chiamo giacomo bene
+rallentate rallentate sono alla voce giusta è il video che comunque ci sta e
+bene dai con questa nota
+re curiosa
+magari prima di chiudere e volete dire una vostra ultima le ultime parole sue
+fai tutte le prove con famose
+ma allora diciamo che io spero veramente che è soprattutto in ambiti ha la partner venga molto più considerata nel senso non so se lo sapevate ma un po' di tempo fa c'era un c'è una raccolta firme che hanno firmato in un po' al mondo per fermare per un po' lo sviluppo dei modelli
+grandi quelli piccoli sopra una dimensione per potersi mettere in discussione prima sia sugli stessi che sull'impatto etico che sull'etica con cui vengono creati io l'ho firmato subito attualmente erano persone sono totalmente d'accordo
+spero che non soltanto le istituzioni ma anche
+i grossi enti che appunto creme crema questi modelli multinazionali possono interrogarsi un po' di più su questi temi che reputo particolarmente importanti come ultima nota ecco vi dico che non sono molto ottimista diciamo che spero tantissimo in un controllo più ferro da
+parte degli enti ecco quello sì che segue unione europea con la action che abbiamo uscito ci sono degli enti indipendenti che sicuramente nasceranno è un concetto cioè arriverà il ministero d'eliminare dell'intelligenza artificiale cioè
+se non proprio così nascerà sicuramente un ente di controllo per tutte queste cose e spero che capiti prima possibile e comunque non è giusto che diciamo come ho detto prima giustamente luca in teatro ma anche anche dopo era detto questa frase intelligentissima condiviso entrambi che li ha
+è imperfetta senso a maggior ragione visto che un modello matematico e ultra è perfetto ed è l'esasperazione delle nostre imperfezioni se non controllata bene charles nuovi sono imperfetti abbiamo dei nostri gala mettere semplicemente più abusato quindi e ha un effetto amplificatore quindi
+visto che è uno strumento altamente impreciso spessissimo che ha un'accuratezza che nella migliore delle ipotesi è del novantaquattro per cento non di più modelli che fanno più di questo torneo complessi vuol dire che c'è qualche altro problema che è la base dello stesso funzionamento
+dev'essere solo uno strumento di aiuto di supporto
+la mente non deve prendere decisioni importanti né deve avere l'ultima parola questo discorso di testimone ha totalmente ragione condivido appieno non deve mai avere
+ne crea farle le diagnosi deve dirti potrebbe essere questo può buttarci un occhio e dev'essere regolamentata meglio direi che concludere così la mia parte diciamo questa in questo primo episodio in cui sono coinvolti non c'è spero non l'ultimo occupa il primo e per quanto mi riguarda la faccio breve è stato un momento di cresc
+scita per me quindi vi ringrazio tutti perché comunque
+come ho detto all'inizio bisogna sedersi allo stesso tavolo e parlare con tutti e sentire cosa hanno da dire tutti perché adesso diciamo chi chi è un informatico chissá chi sta nel settore dell'intelligenza artificiale si rimbocca le maniche e la mattina va a lavorare e magari alla fine del mese fuori un
+modello per un sistema e se in testa abbiamo qualche informazione in più sulla società dove viviamo e su quali sono le esigenze che il venticinque per cento ha un qualche tipo di disabilità ho bisogno per me è un numero gigantesco ma in realtà mi ci ritrovo
+perché a pensarci bene è vero allora con queste consapevolezze si cresce
+insomma io direi di mantenere i canali aperti sia questo ma ma in generale per questo ringrazio chiudere la mia parte così una metafora che l'intelligenza artificiale come strumento come come facilitatore può essere visto come una caldaia
+disabilità di chi ha in mano la responsabilità del popolo quindi con leggi con consapevolezza dovrebbe limitare no il potere di questa caldaia in modo da non generare acqua a cento e passa gradi che appena ci si apre il rubinetto ci si scotta bisogna chi come
+noi no io sarei un ora fare il nostro lavoro con la formazione delle persone perché sappiano usare il miscelatore un po' più accuratamente però la cosa che ci tenevo tanto a partecipare e spero anch'io che non sia la prima in questo questo ambito delle
+dirigenza artificiale e perché è stato detto velatamente da giacomo luca che ha un altro potere e lo sviluppatore che è un tramite se giacomo con la sua attività chiama consulenti di di di
+per capire come come poter avere
+meno bias possibili nel lavoro che sta generando non sotto vari aspetti
+e ancora le leggi dall'alto non sono perfette però un po' si è già accelerato sulla risoluzione del problema su una consapevolezza ehi sono i tecnici della caldaia che anche se la legge dice che a settanta gradi va bene il tecnico se la pone a quaranta ci si scotta meno anche se la
+caldaia è fatta per andare potenzialmente anche a settanta gradi ok
+quindi
+c'è questo questo livello intermedio con un potere che però potrebbe essere anche un un ambito di di di di prosecuzione della discussione perchè non bisogna responsabilizzarlo renderlo fatalista e così gli sviluppatori sono così vanno di fretta i potenti sono quelli che pagano ricordiamoci che a
+aziende che fatturano più di pil di paesi sono state create da sviluppatori quindi nasce da lì proseguiamo anche su quella strada ho molta fiducia e
+grazie per tutte le informazioni tecniche date anch'io ho imparato davvero molto è veramente democratico
+grazie ad anto tanto e tanto ancora da scambiarsi da imparare da entrambe le parti certo assolutamente grazie a voi da ora vai tu vada
+ma è adatta dal diciannove anni non dico un'ultima cosa semplicemente io penso che sia interessantissimo quando come dice luca si siede allo stesso tavolo ed hanno cosa che siccome non si fa abbastanza stesso lato umanistico lato tecnico tecnologico la tecnologia dovrebbe migliorare la vita di esseri umani non disgrazia karla più di quanto già non
+quindi trovo grazie per avermi invitata perché trovo molto bello che stasera ci fossero tre persone che si occupano appunto di equità a livello sociale e di formazione in azienda due persone che si occupano effettivamente intelligenza artificiale perché non è estes che capita e forse prima volta che mi trovo a fare con qualcuno che effettivamente ne sa più di me and grill artificiale che tantissimo perché
+non ne sa niente solo da utilizzatrice da persona che rampa usata e che tratta di baines di pregiudizi discriminazione eccetera avevo notato qualcosa che adesso posso posso comprendere meglio e sicuramente anche per gli altri e le altre poi a destra io concordo con tutto quello che è stato detto sia da simona è da
+ora ringrazio luca e giacomo per le preziosissime veramente spiegazioni che hanno dato veramente non mi posso far vedere il quaderno di appunti perché si è spenta ma sappiate che ho scritto un sacco di cose e io concludo secondo me dicendo
+tutti quanti abbiamo parlato di strumento e ci dobbiamo ricordare che come strumento quindi è qualcosa che dev'essere usato e non siamo noi a doverci fare cile a non dover far sudare dallo strumento quindi ricordiamocelo e speriamo che di queste insomma conversazioni questi tavoli aperti ce ne siano in
+futuro altri perché sono secondo me molto importanti per creare sempre più consapevolezza da entrambi le parti sia su questo nuovo strumento sempre più importante e impellente all'interno della società che l'intelligenza artificiale e contemporaneamente anche però perché sulle questioni dei bias della diversità
+di là dei vestiti ed incrociano quindi insomma avanti tutta
+grazie mille grazie a tutte e grazie a voi che ci ha seguito

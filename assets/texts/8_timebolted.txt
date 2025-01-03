@@ -1,0 +1,550 @@
+uso
+sì
+s ma
+ma
+mikey
+ma c'è un motivo per cui tutta qui
+la gente è così esaltata vedere questa presentazione questo è un demo e l'avete lasciato al black point duemilaquattro un demo farti è tutto quello che state vedendo la grafica la musica e l'animazione movimento della telecamera da tutto erano eseguibili di quattro kilobyte
+tomino novantasei beh questo per me è uno dei momenti più topici epici in termini di scena demo in termini anche di programmazione di cosa un programmatore è stato in grado di fare nel suo computer il suo compilatore suo codici quattro kilobit per
+fare quello che state vedendo quattro byte per intenderci è meno di quello che può essere quello necessario per fare raffigurare una icona del vostro avatar su un qualsiasi social media tutto questo tutto quello che vedete in cui lo schermo è lungo quattro km e di questo dell'e-mail
+ike che sono in grado di fare i programmatori e di tutto quello che è stata l'evoluzione della programmazione negli ultimi anni e parleremo oggi nell'ottava puntata della brigata e degli istinti lo faremo con i soliti personaggi più o meno nuovi o rico
+correnti che abbiamo la fortuna di ospitare e abbiamo cosi ma abbiamo marco che avete già conosciuto e abbiamo nuova entrata fabrizio fabrizio tortino che invito subito a presentarsi da tutti
+quindi
+fabrizio io lavoro lo sviluppo
+più di vent'anni ormai
+gravità
+aziende
+fattoria
+o consulenza in vari posti sud
+il mondo è da circa
+circa tre anni
+sound engineer in adobe dove mi occupo di
+lavoro essenzialmente su un prodotto di hadopi che si chiama jean
+è
+adobe experience manager e content management leader sul mercato da
+circa dieci anni non più
+la donazione
+essendo io
+ingegneri che stiamo facendo e spostare questo prodotto che nessun premio o sul cloud
+questo prodotto è fatto a vari livelli e più più che un produttore diciamo una piattaforma per intenderci sono migliaia di sviluppatori
+passi per il mondo
+io lavoro sono parte del più basso livello non lavoro
+su
+novanta per cento diciamo su open source da tre anni sono capaci pensi member per quanto riguarda
+ruby o
+un progetto storico del
+aci e comunque collaboro anche in maniera sporadica diciamo su altri progetti open source molto bene grazie direi che abbiamo persone che sanno quello che dicono in termini programmazione credo e quindi inizierà subito a parlare un po di
+di quello che poi il tema della puntata è che
+l'evoluzione e le architetture software vogliamo anche dare una come sempre una prospettiva storica di come certe cose sono evolute nel tempo come era passato come sono adesso e magari come potranno evolvere nel futuro io confesso totale ignoranza al riguardo quindi inviterei gli esperti a darwin
+un excursus storico su come può essere stata
+adesso dieci minuti farla così mi sono un po' pretenzioso per lasma un'evoluzione di quella che lo sviluppo software poi immagino dipende anche da quali quali software no in quali contesti e
+mai posto prima letterale diciamo nel path
+porno
+sezione
+piacerebbe visto che è una parola un po' fasi secondo me
+definire
+e architettura nel
+in modo anche da rimanere inizialmente un po alto livello e perché è importante avere un'architettura di qualità e anche magari andare a definire il ruolo del architetto anche se devo dire a me almeno personalmente sia la parola architettura che ha
+ecco
+nell'ambito software
+non mi piacciono campo
+anche perché secondo me sono state ereditate da altri contesti
+sono stati ereditati inizialmente anche alcuni aspetti
+ad esempio
+la parola derivata puntualmente dal campo edile reali dove c'è bisogno di un'architettura
+e che cos'è secondo voi cos'è l'architettura come definite con l'architettura di un qualunque sistema
+voi che siete architetti del software
+allora condividono l'idea se non sono appassionato il termine architetto software anche perché mi sa che almeno la collocazione che viene dato in generale e quella del de
+quello che lavora isolato dagli altri e fa dei castelli in aria che poi da il mago degli altri data da risolvere
+è la connotazione tipica
+ma poi so che non è vero perché tanti si sono evoluti dalla folla
+vero male e io penso però era vero tanto tempo fa e fortunatamente le cose stanno cambiando magari non dappertutto
+però dipende forse dagli ambiti secondo me l'open source ha aiutato tanto in questo
+mentre prima milano-cortina concezione dello sviluppo software è cambiata cioè
+nello sviluppo cascade classico fare canada architettura e poi mandare avanti ed a qualcun altro si preoccupava dell'implementazione adesso è molto più fluida la cosa quindi comunque la figura dell'architetto
+se si è sospesi
+alla figura dell'architetto sia stata sostituita quella del team leader se vogliamo del
+c'è quello che cerca di guidare il design che però dovrebbe essere il più possibile emergente poi non credo neanche nelle estreme del design emergente perché secondo me sono due estremi c'è quello del fascino abi architettura nel vuoto cosmico e qualcun'altro e ovviamente dall'altra parte facciamo tutto il cazzo principale
+anchese e poi verrà fuori ed architettura fatta bene credo che ci sia un giusto compromesso e mezzo da qualche parte guarda a proposito di questo c'è una bellissima discussione che
+in questi giorni è venuto fuori su twitter proprio su questo argomento qua non so se avete avuto occasione di leggere ma
+se si sono poste belga thread e poi ci sono articoli elencati e magari puoi
+aldo riferimenti dove
+in questo articolo in particolare spiega come ci sono diverse figure di architetto come stavi facendo tu è quello che lavora nel vuoto cosmico che lo odiano tutti
+certe volte anche un consulente esterno tra l'altro che rende le cose ancora più simpatiche se possiamo immaginare e poi c'è la figura dell'architetto che fa parte del team e quindi e diciamo è un po'
+come dicevi tu team lead ma anche non tim league può essere una persona che semplicemente la tua esperienza e soprattutto questi queste casistiche ce ne sono tre o quattro erano spiegate molto più in dettaglio con un articolo molto interessante magari poi metteremo sandro che lo mando e quindi sta architettura che cos'è del soft
+dipende da che lato a wuhan secondo me potresti dare una definizione diversa visto che il più economico la parola arriva ad altri ambiti ad esempio colledimezzo ambiti tradizionali dove ovviamente l'architettura definisce le cose che sono difficili
+cambiare in un secondo momento sono le cose che complesse e che ha un costo cambiare in un secondo momento ad esempio nella nella costruzione di un edificio non puoi permetterti di sbagliare le fondamenta altrimenti c'è anche se non impossibile
+beh però diventerebbe troppo oneroso a a smantellare quindi
+l'architettura tu per me sono le cose importanti
+e definiti che fanno parte di un progetto molto importante solitamente sono ascritte
+su switch su diagrammi
+ma
+diciamo spesso c'è solo una una visione parziale di quella che è l'architettura per l'architettura diceva marco prima evolve nel tempo quindi però secondo me per avere un'idea di un'architettura dell'architettura di un sistema dovresti andare da quelli che sono
+considerati i gli sviluppatori esperti di quel sistema e chiedergli quali sono le cose importanti a me non piace molto il termine architettura perché secondo me nel software confronto ad altri ambiti c'è possibilità di di andarle di fare le cose in modo che possano essere
+rey cambiate poi il tempo a macao infatti citava evolution avere hector è un concetto che si sente spesso quando me
+parlando di anni di evoluzione c'è stata un'evoluzione nel ruolo
+inizialmente c'era questa questo ruolo di architetto che dicevano viveva su questa ivory tower aveva mai toccato una lira di codice però decideva il componente sarà qualcuno che poi doveva rimboccarsi le maniche e farle funzionare in qualche modo cominciamo con un open source
+questo è cambiato e le architetture almeno quelle
+cui mi sono trovato a lavorare in cui quello che penso funzioni
+funzionano meglio sono quelle che evolvono da una serie di persone perché l'architettura secondo me alla fine anche più del software è un costrutto sociale social contro
+che viene fuori da una collaborazione tra più persone che hanno avuto diverse esperienze e mettono
+in un progetto diversi ingredienti
+essi si completano l'uno con l'altro riescono a a definire quali cos'è quali sono le cose importanti e secondo me la bravura di un architetto è quella di saper bilanciare
+la
+irreversibilità delle scelte con la parte diciamo economica per intenderci
+nel software secondo me è possibile
+strutturare i vari componenti in modo da poterli cambiare nel tempo con una certa facilità questo però un costo ovviamente perché se ne aumenta la complessità quindi è secondo me il bravo architetto è quello che riesce a mettere assieme la parte diciamo chiamiamolo così morale
+perché tutti
+ingegneri secondo me con una certa expertise
+dovrebbero mirare a ad un'architettura di qualità la miglior architettura possibile però questo non è sempre possibile perché richiede una certa complessità se io voglio io so far sì che la mia interfaccia parli con tutti i database
+possibili lo posso fare però un costo
+quindi c'è bisogno di prendere alcune scelte a volte
+oltre a prendere anche delle scelte irreversibili diciamo
+perché comunque da mettere anche in gioco come dicevo la flat la parte economica
+i tempi di sviluppo e la complessità
+e in generale sì
+a mio avviso si dovrebbe tendere all'architettura di qualità perché le architetture di qualità pagano nel tempo e nel tempo perché sono quelle
+architetture e soprattutto su progetti di lunga data se se tu hai un progetto con un'architettura diciamo un po' un po' fragile col passare del tempo diventa poi difficile aggiungere nuove funzionalità si allungano i tempi se l'architettura toppo
+non è non è stata disegnata a in in in modo
+modo efficiente
+sì questo è il mio punto di vista diciamo che più più che architettura a me piace chiamarlo design e il design di un di un progetto secondo me è un termine più consono diciamo legato al software
+vuoi demistificare un po' questa grande architettura alla fine come scritto con margini le classi da usare come si organizzano e o sto banalizzando no figura
+no
+sostenere che quello che aveva detto
+scusa visibile sulla brexit
+rick
+che che è un costrutto sociale e in effetti è assolutamente vero e mi è capitato in un progetto parliamo di tav otto nove dieci anni facile avere una cosa che hanno iniziato un po' prima però insomma cosa ho fatto dieci anni fa
+era un progetto storico di un'azienda che ero portata avanti dal due anni prima nel duemilanovantasette e io sono entrato attorno al duemilasette come utente di quel progetto era grande perché l'azienda smalto divisione e poi sono arrivato allo sviluppo del core verso duemiladodici duemilatredici periodi
+fino al duemilaquindici tempo comunque
+e l'architettura sia un costrutto sociale assolutamente vero perché è quello che potevo vedere in questo software che si vedevano agli strati geologici e vedevi che
+ai cambi di team corrispondeva una stratificazione geologica del del software e chi lo prendeva in mano dopo diceva questa palla qua non la voglio toccare gli metteva su un bello strato e costruita sopra e ed è impressionante come vede eccome come le ville
+è anche il fatto che gli stessi c'è che tim diversi abbiano reagito nella stessa maniera tra l'altro è abbastanza curioso che abbiano reagito a tutti dicendo non guardo sotto sto qua ci penserò più avanti
+software il software molto particolare è un soffio che viene tuttora usata quanto ne so
+viene usato settimanalmente e ce lo hanno radici settimanale non non posso dire molto
+però interessante sto fatto di stratificazioni questo organismo quasi vivente che evolve nel tempo e invece poi c'erano quelli che andavano può controllarla l'idea di avere queste tre stratificazioni e io li chiamavo i trivellatori cioè d'identità ti ritrovavi uno che aveva fatto un buco su tutti gli strati per andare a prendere la variabile che gli serviva
+dentro il cor
+sette coi piedi delle porcherie assurde
+rara era curiosa come cose nella vostra esperienza capita spesso di avere del software che è veramente a queste aree geologiche sanificazioni per cui dire
+ha il suo vissuto e ci devi avere a che fare quindi devi gestirlo e lavorarci insieme nella mia esperienza sì confermo anch'io che
+l'architettura
+una non è statica nel software ma era una cosa in evoluzione continua e dipende anche dal dal dalle circostanze non solo
+tecniche ma anche sociale e ho avuto la fortuna per esempio di lavorare ad un progetto
+un game server per l'account dove lavoro ora cosa che non mi sarei mai aspettato di dover fare e
+ci ho lavorato da solo e che è stata un po' una cosa stranissima è la premessa di questo progetto è stata un giorno il fondatore di caduta è venuto da me e mi ha detto
+cosmo qua bisogna riscrivere tutto da zero un progetto che aveva fatto lui questo team serve l'aveva fatto lui all'inizio dei tempi dell'azienda e non ci metteva più le mani nessuno perché nessuno si ricordava più niente era talmente no cementificato questo progetto che nessuno aveva il coraggio
+di metterci le mani anche perchè è una cosa che se tu laptop fai un rilascio che diciamo che hai pagato tu fermi completamente l'azienda nessuno più può
+nessun utente più o più giocare account e quindi è con questa cosa sai ci si paralizza lo oceano io non ho paura di mettere le mani è un aspetto che secondo me è importantissimo
+diciamo per le persone che cominciano o che non hanno tanta esperienza che immagino magari non non stiamo a guardare questa trasmissione qua quelli che guardano sotto i veterani no è secondo me una un un elemento che fa la differenza fra
+serio è uno che può o meno serio il fatto di andare a trivellare o perché diciamo c'è come dire c'è una certa difficoltà a dire ok tuo sistema nessuno lo conosce devo mettermi e scoprire qual è l'architettura scoprire come funziona tutti gli am
+casi etc casinò tutte le leccornie tutte le caratteristiche che rendono questo sistema funzionante in produzione magari no è detta spessissimo io ho visto
+molti programmatori anche bravi e dire eh no questa roba bisogna riscriverla impossibile no andar dentro in certi casi è vero nella mia esperienza nella maggior parte dei casi quello è semplicemente una reazione di rigetto per dire no questa cosa io non mi metterò a capire
+esattamente come funziona perché vi ci vorrà tanto tempo mi devo metterli con cose pager bagarino e mi andrà via al nostro quartiere e quindi la reazione no no no la cosa più regolari soprattutto se le persone arrivano in un'azienda arrivano a nostra nuova casa mr bright no
+la molto interessante è la classica sindrome neanche quello che arriva fresco fresco con tutte le sue belle idee vede il merdaio che c'è dietro ignora tutto il debito tecnico il fatto che si è accumulato nel corso degli anni e dice schifo che ammazzano me non solo non solo il debito tecnico ma anche diciamo tutte
+le caratteristiche che il sistema ha accumulato durante gli anni che gli permettono di funzionare no cioè tu butti via il sistema butti via anche una serie di bug fix che dio solo sa cosa c'è dentro là dentro insomma per finire la storia scusatemi ma
+fondatore viene da me e cosimo qua bisogna buttare via buttare via rifare il letto ma sei pazzo no c'è sta roba tiene su tutta l'azienda e tu puoi riscriverlo da zero e poi dici a me di scrivere ma io non ho mai gestito niente alla mia carriera credo di aver fatto forse due progetti in tutta la mia carriera da zero
+erano insomma no ha insistito no devi fare come dico io cominciare da zero questo sistema è venuto fuori semplicemente da come io pensavo che dovesse essere fatto e onestamente fantastico c'è una roba totalmente bellissima dove tu puoi formare tutto il sistema tutta l'architettura
+esattamente come pensi tu che prima si diceva sociale ma sociale passa anche uno i programmatori seri come dici tu io non mi considero un programmatore serio ma carmack vogliamo nominare fabris bella non lo conosce nessuno quello è un genio assoluto inigo wikileaks né quello che ha scritto
+ha scritto questo programma space engine a un russo che non conosce nessuno sia praticamente scritto un simulatore di universo dove c'è dentro tutte le stelle pianeti e ht
+costellazioni conosciute con posizioni perfettamente corrette e
+c'è gente che no e quelli magari questi lavorano anche da soli no e invitiamo
+porterà più diciamo tournée quelle architetture o design di applicazioni chiama enterprise che vanno devono essere utilizzate all'interno di organizzazioni quindi ai dipartimenti e ritornando al discorso di di costrutto sociale
+ale
+adesso non è una cosa nuova e negli anni settanta
+questa legge di godwin che arrivano
+compito sentito con winslow
+era questo informatico che diceva che le aziende che architettano i sistemi
+uno attendere e gireranno e delle architetture sono delle copie del riflettono l'organizzazione dell'azienda è quello che si sta vedendo io ho avuto modo di vedere direttamente a questa affermazione è stata fatta negli anni settanta dove quando l'informatica non era invasiva adesso
+tutte le aziende hanno bisogno dell'informatica quello che sta avvenendo in alcuni casi in tanti casi e si chiama davenport iowa ma manubri praticamente è l'inversione è il sistema che viene progettato in un certo modo e le organizzazioni cambiano la loro struttura interna per
+funzionare meglio per quel sistema e l'informatica oramai è diventata invasiva e quindi è il sistema che guida e come viene strutturata un'organizzazione quindi all'architettura di un sistema di guida come
+come viene organizzata a come sono i dipartimenti e non è nuovo post interessante io dal lato mio ho notato una differenza grossissima passando diciamo nella transizione per un'azienda all'altra e lui l'ultima in cui sono ora questa fortissima divisione
+tra front end e backend che non era mai esistita per me nella mia esperienza
+si faceva una volta quando abbiamo cominciato io quando ho cominciato io a scrivere sistemi weber c'erano sigilli no common gateway interface quello era il miracolo del web no tu scrivi
+non importa dove su che sistema e lo puoi vedere su qualsiasi sistema e quello è stato per esempio nella storia delle architetture quello secondo me è stato un momento che ha aperto nuovi scenari
+però cosa volevo dire mi sono dimenticato no mi sono dimenticato mi spiace ho perso il filo del discorso allora torniamo adesso però a questo punto visto che bene o male anche sono ancora esattamente capito
+me lo posso immaginare cosa sentirebbe architettura software che abbiamo detto in modo chiaro e tondo e abbiamo già girato un po' intorno però correggimi se sbaglio si può intendere il modo con cui organizza varie componenti del tuo software magari la stessa interfacce con cui le piaghe del tuo delle tue classi
+stringi sinopoli è molto dipendente dal sistema ad esempio potrei farvi una domanda secondo voi il linguaggio di programmazione a parte dell'architettura del software linguaggi di programmazione utilizzati dipende
+una delle parti che non puoi amiche
+è più difficile cambiare alla fine anche lì dipende e che condividevo con evoluzioni secondo me che ci sono state negli ultimi anni avete se parliamo di monoliti
+mi viene difficile cambiare il linguaggio di programmazione in corso è una applicazione micro services magari riesco a cambiare in corsa delle parti in maniera incrementale
+è questo quello che dicevo prima la paura dell'architetto dovrebbe essere quella di di eliminare l'irreversibilità mantenendo però dei costi accettabili perché non posso andare dal product e dire sì ti faccio architettura super figa però
+ci metto cinque anni per per darti un prodotto anche perché alla fine alla fine dei conti l'architettura è un qualcosa di interno qualcosa che il cliente finale non vede se tu hai due software che fanno la stessa cosa e uno costa meno dell'altro a livello
+featured il cliente tende ad ampliare su quello che costa meno facciamo in tutte le cose no guardiamo le funzionalità quello che c'è sotto non lo vediamo perché dovrebbe tendere ad architetture di qualità e perché l'architettura di qualità ti permettono di evolvere nel tempo come
+abbiamo ospiti che ti fa stare al passo del mercato
+passi che riesce ad avere delle interazioni veloci e rilasciare nuove funzionalità cosa che invece nel tempo un'architettura fatta male
+complica le cose perché aumenta i cicli di sviluppo
+aumenta il ciclo per fare babysitting e quindi rilasciare nuove funzionalità e l'architetto diciamo il designer la bravura che deve avere è quella di mantenere la parte tecnica la parte economica ne avere il giusto però tra l'altro questo mi ricorda una cosa se cenno storico
+non so in quanti di voi si ricordano multipla multiple n era uno dei primi fogli elettronici epoca precedente ancora l'autismo web marketing e quindi molto precedente xen anche multiplayer era di microsoft era un foglio elettronico di microsoft che microsoft ha svilup
+pato per architetture otto e sedici bit era l'architettura era perfetta totale perché poteva girare su tutte le architetture otto e sedici bit e loro lo mantenevano proprio per poter girare su tutte queste architetture e il problema era proprio una questione di costi a parità edificio quando lotus petraeus
+to e puntava al pc come target solo al pd non hanno avuto la possibilità di muoversi molto più alla svelta di essere più competitivi come costi molti che richiedeva la portabilità su tutte queste piattaforme zeta ottanta ottanta ottanta ottanta ottantotto tutte queste addirittura credo
+sei cinque zero due e non riusciva a star dietro con beneficio e quindi
+aveva dei costi elevatissimi quindi alla fine lotus ha vinto l'hotel uno due tre il foglio elettronico ha vinto sulla base del fatto di muoversi molto più velocemente e infatti excel è stata la migliore migliorando di microsoft che nonostante si pensi che il sito switch è uscito prima su mac e loro hanno man
+mac e pc parte due prodotti separati facevano le stesse cose man due cortei completamente diverse e non sono mai andati su altre architetture che non hanno mai detto andiamo anche su iga non lo so i tempi c'erano perché era
+shelly e credo che sia la prima versione dell' ottantaquattro anni non vorrei dire una vaccata però più o meno metà anni ottanta e devo andare anche su amiga volendo non sono mai andati proprio per evitare di disperdere troppo le soggiorna multipla queste vagamente collegato con quello di prima perché la persona che sviluppava
+multipla la persona che ha sviluppato il progetto di cui parlavo prima
+interessante una coincidenza strana perché multiplayer microsoft america e questo era provincia di modena
+quindi non italiano
+sanno l'italiano l'americano che a un certo punto della sua vita si è trasferita in proprio in provincia di modena aveva abbastanza soldi è andato da una certa società che gli piaceva molto e mi ha detto io vi faccio un lavoro per faccio anche gratis spietata trovo di elaborare per voi e adesso mi sto rendendo l'azienda tram c'è tra un pò avete capito che azienda è
+atipica questa comunione che è
+sono sono un pò titubante perché jahvè era otto anni fa da ferrari dal sistema di telemetria di ferrari
+e questa persona lì con zelo allora facciamo anche il nome suo e nick johnson è stato uno dei due sviluppi i primi ingegneri di microsoft ed è stato certo punto si è trasferito a modena perché sua moglie era modenese è andato in ferrari leggenda che va raccontato dentro ed io codice chloe è a lavorare
+isbn
+non so quanto ci sia di vero ha detto no no ma io non gli faccio una telemetria me la faccio
+però fatto sistemare il cord il primo corre il nocciolo di quella roba era suo e poi ci hanno costruito sopra siti tra gli stati
+è una cosa molto divertente è che quando sono entrato ho incontrato nel duemilasette come consulente facebook
+software costruito sopra telemetria acquisito la telemetria la rielaborato e mi sono accorto di un bug ridley nel sistema di telemetria cioè se tu facevi mi sembra la funzione fosse flores quindi prendere la parte più bassa intera libro intero più basso
+di un numero negativo tipo meno uno virgola due allora la già uno dice sarà meno uno o meno due e nel dubbio per trovare tornavamo in hotel c'è una cosa completamente sbagliata e
+nicole compositiva quello che hanno detto cosimo c'è l'evoluzione di questi sistemi è un po' difficile un po' qualche volta non sai neanche come questo non si ebbe nel linguaggio di scripting quindi come gli ingegneri film finali utilizzavano queste funzioni non lo sapevamo senza in strumentare il codice e far passare un tot di tempo che non lo sapevano perché all'epoca non fa
+c'è parte di molti non lo sapevano quindi il problema è stato il tempo per risolvere questo bug ci ha messo circa tre quattro mesi perché la prima versione hanno aumentato il codice hanno visto se qualcuno utilizzava e floor con numeri negativi quindi looking a manetta poi hanno sono passati un po' di gran premi in cui hanno visto che ne ness
+non utilizzava allora quando osman accumulata abbastanza dati per essere abbastanza sicuri che nessuno inavvertitamente da fare quel conto si sono permessi di fissare il budget perché magari c'era qualche ingegnere che aveva deciso che gli andava bene così e aveva sfruttato quel bagno vabbè
+la battuta su questo spiega certe defaillance ferrari ma
+siete in vacanza alla fine suonò
+utilizzo normale di software e che problema c'è se tu dai un software sbagliato che però funziona in maniera
+coerente tipiche
+qualcuno potrebbe decidere che quella funzionalità va bene così
+girarsi attorno e più problematiche le bugie poi diventa fiction e hanno fatto anche bene a controllare prima non si sa mai estrememente avrei fatto io sul momento ero meravigliato ma perché ho detto marco sono fissate subito una cazzata talmente grossa che poi quando hanno spiegato tale
+sai forse fate bene non siete progresso ferma la macchina perché se no assolutamente assolutamente perché quello anche il problema la macchina non si ferma però gli ingegneri possono vedere delle cose completamente sbagliate anello possono decidere che alcune situazioni sono pericolose quando non lo sono
+fermi la macchina per sbaglio ma puoi decidere che una situazione terribile non per i ciechi che sembra non pericoloso noi in realtà lo è potresti non fermare la macchina mette anche a repentaglio la vita di qualcuno quindi meglio mangiare le cose giuste in quel caso allora facciamo una cosa abbia parlato di cgil e quello mi ha fatto
+a riaprire
+i ricordi del passato e del trapassato remoto andiamo di architettura software era di software web design è troppo generico ci può essere di tutto e correre tutto quindi applicazioni web e da allora se mi permetti avevo delle note che mi ero preparato su
+giusto un minuto la storia del dell'architetto l'evoluzione dell'architettura esalta sono arrivato preparato stava rarissima vai vai pure che proprio pochi sono in giro per aurore sono arrivato preparato allora in principio c'era von neumann e von neumann disse questa è l'architettura del vostro sì
+sistema e i software erano le parc card quindi moduli neanche moduli c'è istruzione sequenze di istruzioni poi negli anni sessanta si è
+diciamo la scala dei sistemi software si è ingrandita e quindi c'è stato il ricorso a programmazione strutturata e programmazione modulare quindi i primi linguaggi che supportavano moduli
+anche tra l'altro era anche i primi linguaggi
+ad oggetti sono nati negli anni sessanta per esempio simula che è stato un linguaggio
+sviluppato qui ad oslo tra l'altro aveva già diciamo il premio concetti di programmazione ad oggetti ma comunque negli anni sessanta diciamo sistemi software più grandi qui l'esigenza di
+creare moduli e perché programmazione strutturata quindi potuto cose che mi hanno insegnato a scuola non deve fare poca arte dev'essere strutturato con una sola quella cosa lì
+che siccome non è neanche male tra l'altro c'è qui sono andato diverse wave disperse holden o a coloro che lei è una cagata oppure però nel tempo nome non ha ha ha ha ha un suo senso poi negli anni settanta c'è stato diciamo una rivoluzione
+al a a strati dove diciamo si sono evoluti gli strati di sistema operativo strato di networking sat specifici di software quindi lei è rizzato diciamo e qui no non pretendo di essere accurato do solo una piccola panoramica e più tardi fu
+anni settanta anche iniziano e settanta tra l'altro ho sessanta come abbiamo detto
+sistemi ad oggetti quindi i vari
+smalto smalto c'è più più giava eccetera quindi con classi con oggetti
+e chi più ne ha più ne metta quindi league c'è stato sicuramente uno step evolutivo
+anche se si ascolti e alan dice che è stato tutto sbagliato che nessuno ha capito realmente cos'era la programmazione cos'è la programmazione a oggetti e ce ne sarebbe da dire
+su questo e poi secondo me gli ultimi due step sono l'entrata del web quindi è forte disaccoppiamento tra le ire di presentazione è tradizionalmente era desktop rawai tutta quella roba era integrata nell'architettura completamente separata
+puoi avere due un ics che parla con un network che parla con windows nt che parla poco e non se ne frega nessuno che viva dio secondo me è stata una bellissima innovazione e poi è quello che viviamo oggi è l'esplosione completa dei sistemi
+distribuiti e non sto a dire cosa c'è perché ce n'è da parlare per ore e ore e giorni quindi questo è un po' un riassunto in sé i sei step evolutivi non so se
+no ma hai citato già vinto dai ottanta ottantasei mai un pochino dopo però va beh questi sono dettagli e io non diciamo che gli happy evolutivi che ho vissuto sulla pelle ciao perché li ho passati attraverso aziende ed esperienze non inizierà a lavorare nel duemila
+uno è l'audi gialla uno punto due
+ho iniziato come sviluppatore java
+è praticamente inizialmente
+si cercava di fare tutto con un solo linguaggio di programmazione tipico un monolite ricordo questa applicazione ha e ha avuto anche un discreto successo tra l'altro era un prodotto che era scritto completamente in java sia per quanto riguardava la parte the end e per il suo impegno iniziale
+scritto con nostro se ricordate giava e tablet
+che un sussidio alternano avant window tuo target price advanced non aveva proprio niente
+la chimera del software multipiattaforma no anche viti e poi siamo passati a opera feed iowa
+quindi passi protesi si cercava inizialmente di fare
+di centralizzare di di fare tutto con un unico linguaggio di programmazione e c'era la regola la prima regola dei distributed ledger era non distribuire usufruire perchè
+cercare di distribuire il meno possibile perché hai un goffo poi quando diciamo i sistemi hanno avuto una rivoluzione perché comunque è aumentata la complessità aumentata la scala di
+la programmazione e sistemi distribuiti sono sono diventati una necessità a quel punto è inizialmente poco visto che c'è stata
+ha una
+un cercare di nascondere quella che era la comunicazione di rete e la comunicazione attraverso gli oggetti
+con
+noto tecnologie
+come ad esempio corba piuttosto che nell'ambito giava remake che eravamo metodi
+che da un punto di vista sulla carta sembravano bellissime però si è scoperto che funzionavano ben poco perché alla fine se questa location trasparenti era bella da un punto di vista concettuale però se avevi un problema network
+è meglio sapere effettivamente quale sia il problema che ha sulla rete piuttosto che andarlo a cucire a coprire con una stazione che nascondevano è praticamente aumentavano la complessità in modo
+esasperante in alcuni casi poi io ricordo che c'è stata l'entrata di porterà joint forest edition
+e dei primi application server
+in quella parte lì ad esempio il mio gruppo avevamo decisori c'erano i primi affinché conservano la maggior parte commerciale abbiamo deciso di iscriverci il nostro applica sul serio perché c'erano delle cose che non ci piaceva nella quiete sul server erano a mosul in commercio è sempre un ricordo l'implementazione del contest
+gandhi ai piste piuttosto che su database l'implementazione di connection pool cose che adesso c'è chi p g
+nessuno riscrive un connection pool anche perché grazie all'open source
+contro visco poi totalmente c'era questa tendenza di creare questi application server erano dei macigni erano dei veri e propri macigni mentre adesso fa tendenza inversa di creare dei
+the michael frameworks che siano veloci da
+da bastare boot
+avviene in
+millisecondi se si pensa magari aquarius di redhat piuttosto che a spring boot ad alcuni esempi
+bisogna c'è stato il passaggio diciamo a alla comunicazione a lei con l'ingresso di restylit hai piuttosto che anzi prima c'era so non lo so se ricordate i primi webservice costruiti con con stop erano davvero complessi c'è c'è stata più
+essenzialmente una semplificazione
+dei frameworks
+a punto di vista
+fino ad arrivare diciamo ad iniziare da circa dieci anni fa alla la destrutturazione non so come chiamarla scomposizione di questi monoliti per farli diventare
+microservizi
+che a mio avviso non funzionano in tutti i casi
+a volte in alcuni contesti è meglio mantenere
+un monolite piuttosto che andare a complicarsi la vita con
+con un'architettura microservice no alla pendenza estrema che stiamo o meno in quest'ultima fase secondo me che quella del pancione su service
+ed è serverless adesso tutto quello che diciamo
+che viene rilasciato una nuova parola magica server serverless dentro
+non è non era e non è il sex appeal anche se
+più più guardo alcune
+alcuni prodotti che vengono rilasciati con il nome serverless ma alla fine eberle sono solo dal punto di vista dell'utilizzatore finale per il server
+dietro ci sono eccome quindi questo diciamo è è l'evoluzione che io ho visto
+e ho vissuto su sulle mie esperienze non so se voi avete
+mai io potrei dire la mia rivoluzione ma è un po' casuale nel senso che
+io non ho seguito il percorso molto lineare e soprattutto non ho sempre seguito le ultime tecnologie per alcuni punti di vista quindi
+io ho visto una parte forse un po' prima di giava
+perché nel duemilauno avevo praticamente finito di lavorare giava
+ho visto la zanzara uno zero uno due sostanzialmente
+il periodo è una disperazione totale di giava con applet
+vistosi andare
+assolutamente
+grazie a me piaceva
+l'unica cosa che ho sempre dedicato girava proprio della uno zero beta tre era la mancanza dei generics che ci hanno messo troppo tempo a introdurli credo che siamo stati traditi in uno cinque addirittura è ed è stato imbarazzante secondo me mai
+a due punti di vista giava è stato imbarazzante per cinque sei anni perché è stato fermo senza introdurre una feature una che possa elencare cioè da quando c'è stata l'acquisizione
+la fama ecosistema ha ora con i primi anni di ora che sono sono stati un design totale
+mentre adesso diciamo che anche grazie all'apporto della community le cose stanno cambiando come linguaggio io do ragione ad esempio a chi programma youth hostel ha avuto un un'evoluzione nel tempo come linguaggio
+fantastica quello che è che giava ha avuto e che continua ad avere e gli altri ancora non secondo me non hanno non è tanto il linguaggio nella piattaforma e l'ecosistema la ebm in sé per sé è un qualcosa secondo me creato trenta anni fa ma che ancora ha acqua
+massima
+basti pensare solo ai linguaggi che vengono è possibile creare sulla review basti pensare a scala cloud usano linguaggi funzionali per finire con contro innesti secondo me è uno dei luoghi più interessanti e sta trainando giava perché tanto
+dei costrutti vengono e sono in java diciassette diciotto diciannove venti infatti presi proprio proprio da lì quindi già come linguaggio io l'ho sempre criticato anche senza
+il mio linguaggio di riferimento per oggi vieni in sé per sé secondo me è il fiore all'occhiello è quello che ha tenuto su il t
+ava il nome di homo no io credo io sui linguaggi sono un può appunto un po' picchi per nessuno
+io sono nato così con assemblee pascal
+sembra in grado di garantire una lira e poi ho imparato cipro più perchè non riuscivo a far intascare quello che volevo fare
+quindi è il motivo per cui sono stata all'archivio più con i linguaggi di scripting non c'è mai azzeccato sostanzialmente quindi tutto quello che nasce evan ticketing tuttora ho una certa avversione io posso scrivere picton ma se posso evitare preferisco
+è una cosa via da certo t capisco dico che
+secondo me ogni linguaggio ha un suo contenuto
+sale sia un suo dominio magari se devo scrivere una pia lai va bene è un linguaggio di scripting hanno assolutamente fatto è che io non non avete mai fatto web se non non ufficialmente cioè avevo fatto un sistema di vendita polizze per europ assistance che non è mai andato in produzione esterna pubblica anche perché al novantotto
+sarebbe stato delirante metterlo pubblico anche se l'idea principale era quella
+è strutturato internamente però per bricocenter è ed era fatto client server apple sul sul client server serpeggiava pure quello che in europa
+diciamo che non vede un'evoluzione
+che oramai è assodato diciamo è che all'inizio cercare di fare tutto con un solo rosario
+in maniera sbagliata l'ho fatto anch'io
+non so se ricordate addirittura quando per scrivere la web application si utilizzavano robe del tipo fatte da google
+google web turchia dove scrivevi in giava e alla fine generava javascript e css e chat ml era un po' come remake secondo me nascondeva delle cose
+ebbe un punto di vista concettuale riceviate nel castigo però poi quando dovevi andare a fare delle canonizzazioni specifiche delle implementazioni specifiche la complessità aumentava e si
+i primi anni di giava tra l'altro giava veniva proposta da shanna come no cos'è l'asi e radwanska ryan e brewery in realtà tra noi e
+parliamo della geometria dei nostri cieli sono perché è una delle cose che avevo fondato al suo tempo ebbero tra i fondatori e
+me lo chiamavamo radwanska di baviera del web perché tutte le piattaforme erano assolutamente differenti dalle cose più banali la finestra
+aiuti che era
+è utile se c'è susan comma ventuno dava una parte da allora poi con voi con swing invece
+sono allora lasciatemi difendere linguaggio di scripting viceversa visto che siete molto
+vedo che siete molto fan di giava no io tra l'altro abbiamo visto la melodia o un po' disprezzato non onestamente perché non lo conoscevo neanche adesso ho imparato ad apprezzare i suoi pregi ma lasciatemi difendere linguaggio di scripting perché quando giava diceva san diceva avrai points
+ryan and weir che non era vero assolutamente tutti lo sapevano le applet erano un disastro totale perl girava dappertutto e io l'ho fatto ho cominciato a lavorare una delle prime cose con cui ho cominciato a lavorare sotto pearl tra l'altro su un sistema che tre person
+zone me incluso hanno scritto hanno cominciato a scrivere nel novantanove circa ed è un sistema che gira ancora oggi di quella un'architettura che ha funzionato quasi cinque anni è ancora lì e ovunque ti vada o no
+tema complesso tetto con con un linguaggio di scripting a fare un refactoring tanti auguri poi non è vero ma non è vero questo è la tua mentalità di giava che capisco perchè perchè ho ovviamente già diciamo
+anche i tool di sviluppo per giava sono molto evoluti e sono molto comodi da utilizzare ma non è vero che non puoi farlo e infatti il sistema lo testimonia che ancora su oggi è quello che volevo dire era che questo questo pearl nel novantanove girava già su lee
+whoops windows nt network ix a essere quattrocento ragazzi è la stessa lo stesso codice girava dappertutto e noi usavamo questa roba qua offrivamo la possibilità di installare questo software è che era sviluppato in-house dappertutto e poteri ovviamente era web
+world days e quindi e se uno voleva linux ma quella volta novantanove nessuno voleva linux e lei eravamo tra i primi a utilizzarlo ma la gente voleva windows con la juventus non farsi girate java linux e sta cosa pirata o birdie open source ma che non lo vo'
+e allora il nostro software girano dappertutto e come per esempio quell'anno un'architettura interessante e pearl no con questi grandi sistemi linux
+linux
+gira no ho girato per tutto per girava dappertutto
+sono sistemi con un'architettura molto molto interessante anche se non diciamo old fashion non invoca più uno magari sistemici iscritti in c
+complessità non banale
+una evoluzione che ho visto secondo me a quella di passare dal linguaggio di programmazione singolo chakra si usa solo questo
+a
+dei sistemi delle architetture e design che usano linguaggi problemi di programmazione monopoly grotta che utilizzi diversi linguaggi di programmazione
+all'interno anche in modo da avere dei bei team autonomi che magari hanno u
+ha familiarità con
+un linguaggio di programmazione usano quelli modi di programmazione aspri
+al team che usano un altro linguaggio di programmazione questa è stata sicuramente un'evoluzione che è stata chiara diciamo da a quel punto poi
+oh se penso alle grosse evoluzioni che ho visto un'altra grossa evoluzione secondo me è stata quella di andare da sistemi completamente sincroni sistemi asincroni
+inizialmente i sistemi cercò dei sistemi asincroni erano poco utilizzati anche perché secondo me il modello a sincrono non è facile dal punto di vista di implementazione
+negli ultimi tempi sono grazie a nuove librerie morte ed è diventato più semplice però il sistema il paradigma a sincrono è molto più facile da comprendere per uno sviluppatore
+io non so se voi avete visto la fiction assolutamente ma lì è andato di pari passo con lo sviluppo della scrittura
+so che c'era al nuovo processore lo sviluppo sincrono aveva un senso e conveniva perché era più semplice data da fare nel momento in cui si è iniziato a sviluppare su macchine ma finché avevi due cor van berkel quando c'è l'applicazione verticale specifi due di più qualsiasi applicazione verticale specifica telaio i soldi
+e tante volte lo ignori come problema ma fanno corsi diventati degli otto sedici il modello di programmazione singola diventato necessario tradurlo perché diversamente diventerò non dico impossibile ma molto difficile gestire di pecora in maniera efficiente quindi tutti i linguaggi adesso stanno introducendo
+in una maniera o nell'altra lingua di legno i modelli asincroni parlo di sei plus plus perché ci sono dentro è stata una cosa del del venti abbiamo introdotto le cortine e poi non c'è supporto però non c'è la libreria di supporto e ce la siamo dimenticata sia sia dimenticato probabilmente tre del ventisei forse riuscirà nella libreria di supporto
+sì
+e un altro mi chiamò ha anche un altro aspetto che ho visto
+che si è evoluto è stata sulla parte di persistente inizialmente i progetti web si chiedevano lo so a all'architetto agli sviluppatori esperti di disegnarmi l'architettura nel novantanove percento dei casi portello attivano disegnando vidi descrivendomi il database
+e adesso quello che ti sta avvenendo e anche tentata bestia diventa poliglotta senso in molti casi c'è un master un master persistent però le varie applicazioni sistemi servizi chiamano calmatevi un po' come come volete non accedono più direttamente al alma
+ardeva ma si collegano a un sistema dei denti che fa lo streaming di questi eventi e creano le loro macchine alla tv in modo da lavorare in modo completamente isolato sul dato a monaco
+ufficiale alternata e avere la rappresentazione del dato è più
+diciamo è adatta all'applicazione specifica
+un esempio potrebbe essere se io ho un sequel ma devono andare a fare
+a fare traversa
+che vanno a più livelli magari un database relazionale non è non è idoneo per l'applicazione per il servizio che devo andare a fare quindi che cosa faccio mi inizio a ascoltare sistema di eventi che arriva dal master delta e mi costruisco magari un
+va bene capo
+che posso cambiare quando voglio quindi ora che ho visto diciamo arrestata anche la proliferazione
+rendere l' assistenza poliglotta sono ci sono più livelli di persistenza
+che da un certo punto di vista è come prendere un database e scorporarli tutti i colleghi alla parte del bacio è la parte base di una rete di database e gra
+ma tirala in più e sono più adatte alla tua applicazione di te
+molto interessante tutto quanto e volevo fare però una domanda a questo punto un pochino quasi dal servizio pubblico se vostro figlio un tweet resterà un suggerimento a un
+uno inizia a aprire informatica ad essa e vuole fare il programmatore e cosa suggeriresti ai linguaggi programmi di programmazione che cosa ho un genere che approccio o non farlo una squadra che mi è capitato durante l'utilizzo di stream è arrivato uno dentro e mamma mi ha chiesto cosa fai
+re e dopo tornare al contrario di ma cosa stai facendo adesso ereditario programmi in assembly perché mi piace assemblea diverte e non ho imparato ancora cinema mi piace da sempre e sto facendo delle cose piccole e semplici in assemblee che mi permettono di tipi di fare vorrei imparare una adotterebbe bimbi cesma quali di un baciatore il punta
+la domanda molto semplice se mamma ha detto che era il primo anno di
+il becero
+per il primo di tre anni letto hai bisogno di guadagnare perché uno dei motivi per cui io ho iniziato a lavorare durante l'università e che hanno bisogno di pagare di università e di pagarmi anche degli altri cosa resterà molto semplicemente potevo farlo ho iniziato a programmare quando inizia dei soldi che sono grande laureandi tra un altro discorso ma a te hai bisogno di iniziare a guadagni
+ma allora quando arriverai alla fine del pezzo alla fine del master punto uno in università avrà imparato una serie di cose che magari non saranno direttamente applicabili ma ti avranno fatto vedere altre cose oltre che la semplice ti piace e
+due a cinque anni le tecnologie sono già cambiate poi quindi un conto è se a te piace sperimentare con altro fallo ma se ti piace sperimentare con assemblee impara in calabria sempre bene infatti tante cose in assemblee e vedi cosa con cosa riesce a tirarci fuori quando avrà imparato tutto quello che c'è da imparare ma
+o ti sarai già spostato avrà imparato altre cose tutto quello che ho imparato ti servirà per fare quello che serve e avrai una rapidità a mio avviso di imparare la nuova tecnologia del momento in tempi molto più brevi di tanti altri che sono stati a inseguire la tecnologia e l'hanno imparata senza una passione senza età
+sere interessati l'hanno imparata perchè era quella che serviva per fare ciò quindi secondo me è più importante quanta passione ci metti in quello che stai studiando piuttosto che studiarla cosa personalmente non ho mai avuto problemi a fare cambi di paradigma cercavi di linguaggio non di paradigma completo perché
+sono troppo vecchio per farlo però cambiare linguaggio non ho mai avuto problemi pascal ci si deve più si rifugiava già va ancora dietro a cipro o più paesi scarpe
+python come visto il manufatto poi a un certo punto mi hanno venduto come esperto matlab e allora tutto imparare mayflower
+egli è e adesso fighter anche quello di imparare la fine quindi non c'è problema imparare cose nuove il problema semmai è quanta passione kaine per farlo python lo so male perché non lo appassiona non riesco a metterci quando mi sono impegnato
+ospita anche delle cose che vi piacevano civiche che le ho scritte in un modo che mi sentiva distintivo di darla a qualcun'altra delle varie queste due ospiti titan per per fare sta cosa quindi diciamo non è che è impossibile però non è quello che invitare la sera fa altri input immettono nell'area stesso più
+unione tornerei
+cambiare il linguaggio non non è un grosso problema ricordo action più sono stato assunto da una società io lavoravo dieci anni dieci anni in sa che era una stalla shop e gli ho chiesto ma perché hai da subito quel punto era la lettura un'importante a
+il linguaggio di programmazione importante è capire che si ha a che fare con qualcuno che ha passione
+ha ovviamente ben chiari i concetti particolarmente
+su qualsiasi linguaggio al tuo amore e i concitati sono sempre quelli parliamoci chiaro ovviamente vedo bene un po' di differenze ad esempio la parte
+quando si cambia un po' il paradigma mare si va sul funzionale spinto sulla programmazione funzionale
+magari hai un background matematico
+può aiutare perché ci sono concetti di pomona
+application
+la algebriche attraction che ti vengono sicuramente più facili da
+da prendere se si conosce già poiché non c'è io direi senz'altro
+parlare di passione ad alcune persone ad alcune persone non piace non perché dicono ma io dovevo essere appassionato al lavoro alla fine dei conti ho avuto una un collega che mi ha detto questa cosa qua parecchi anni fa forse anche dieci anni fa
+se parlava serie
+parlavo dicevo ma a me piace piace ancora programmare
+ho la passione per quello e questo collega mi ha detto su di tutto
+perché non è giusto parlare di passione secondo me è giusto parlare di curiosità ecco la curiosità romana molly irresistibile no quindi c'è quella secondo me c'è
+un po' di curiosità un po' di tenacità si può riuscire a fare tutto nell'ambito software quindi consiglierei a queste persone questa persona queste persone sicuramente di capire se hanno curiosità per questi argomenti è quello diciamo che avranno
+anche un po' di fortuna nel senso perché non tutte le aziende sono disposte
+ad assumerti anche se non hai esperienza in un certo linguaggio però l'altro consiglio che do sicuramente deep learning studiarsi se c'è un pò di curiosità appunto un po' d'interesse e quello alla grande il grande chef tano di questi anni
+sicuramente io ve provocò lì allora visto che sono tempi in cui come dire andare troppo in profondità quasi diventa un disvalore mi viene in mente no coda e prompt come cose tipo genere a pagare duecentocinquanta mila dollari all'anno così ho letto in osso non me ne capacito
+oh ho anche tutto il mondo e il no code che mi sono pure scorciatoia per fare quello che finché la piattaforma ti permette di farlo riesce a fare il resto
+sono questi magari in futuro tra virgolette il programmatore che non sa programmare ma che fatta
+mettere insieme usa cosa gli altri o quasi promesso di non dire certo putin ma adesso fai capire
+è colpa mia lo so
+allora ho fatto qualche esperimento e mi messo un paio di settimane fa a cercare scrivere una demo con ciò che hai fatto allora ci ho messo circa un treno href title sponsor e dell'animo demografica come quella che mi ha visto all'inizio
+storicamente solo quello io quindi per quello che ci conosciamo ed è per quello che conosco anche inigo e all'autore della nave devo madre no conosciuto nel momento in cui lui stava iniziando a lavorare in pixel perché lui ha fatto in pixel il la foret
+testa del film brave foresta il film breve è talmente vasta che non starebbe memorie su nessun computer probabilmente neanche attuale lui ha fatto in modo di generarla durante la parte di tracciamento del marchio una cosa assurda che proibì
+e adesso andavano esattamente per quello che risolto il problema comunque no una una demo di quel tipo cioè l'idea era fare una demo di quel tipo concessi più di allora
+sto facendo streaming quindi se qualcuno spaesata dentro a vedere e delle stronzate che fa steven
+ho speso tre ore per fare un party consiste quindi palline che si muovono sullo schermo tre ore per concerti pd per decidere come farlo e per farla prima implementazione funzionava niente poi ci ho messo tre giorni da solo di questo non l'ho fatto in streaming perchè sarebbe stata una palla mortale però settimana scorsa avevo due giorni di ferie
+obbligatorie quindi editore di cemento e ho fatto tre giorni per fixare i problemi e capire effettivamente io non ero rimasto aggiornato su open xml è l'ultima cosa che ho fatto in genere del duemilaotto una cosa del genere quindi non sapevo niente tutte le ultime cose ho messo tre giorni ad aggiornarvi sulle ultime
+cose e capire che c'è istituti male ma ti ho sparato delle ostinate e mostruose
+vedi i concetti basilari completamente sbagliati pd tanti auguri se vogliono adesso concessi pd e sviluppare applicazioni da un prompt dall'altra parte oh yes
+un'esperienza diversa nel senso che dovevo prototipare lo scripting language per un'applicazione allora in un prompt mi sono inventato l'idea di come strutturare i comandi di usare un linguaggio molto semplice nel mio caso è stato display quindi tante belle parentesi però è un linguaggio che in teoria
+dovrebbe andare da cassidy t direttamente all'applicazione quindi non è una cosa che gli umani devono scrivere poi e mi sono meravigliato che invece c'è antipatie è riuscito almeno all'inizio a dare dei comandi sensati capendo cosa stavo chiedendo traducendoli in queste sequenze di comandi però
+collassato molto presto e dopo pochi pochi scambi di messaggi andava sempre regolarmente in back quindi non so se li è il contesto che non è abbastanza potente ancora non è in grado di mantenere il contesto o comunque seguire con mantenere il prompt è il contesto contemporaneamente quando le inf
+formazione diventano tante o che altro non ho non ho fatto degli esperimenti tanto puntuali per capire quale dov'era il problema però è tutte queste cose mostrano che la direzione c'è che non ci sia associato il giudice può farlo è un altro discorso non ce l'abbiamo adesso però stiamo andando nella direzione in cui
+cui la generazione di codice secondo me diventerà hagel il cap city del futuro cicli di quattro cinque sei dieci diventeranno delle cose che sanno dei tour molto potenti terra prese anche per gli sviluppatori io la vedo dal punto di vista e tu non la veda punto di vista dell'arte sostituiamo il programmatore con
+through the fighter
+almeno non tanto avrei io non la vedo come un pericolo lo vedo come un aiuto valido aiuto al momento
+l'utilizzo
+sesso al tempio
+facilità
+lettura di johnson piccole funzioni che fanno delle cose specifiche no e soprattutto secondo me è utile o non descrivono una funzione ad esempio una funzione al mio punto di vista che attualmente ha dato l'input una teoria input deve ritornarono una ser
+liam e di output e o è giusto e sbagliato mentre ritorniamo al al titolo della puntata quando parliamo di architetture di design di sistemi complessi le architetture e design non ci sono design giusti o sbagliato
+e lì diventa difficile utilizzare qualcosa del genere e li secondo me ci sarà sempre bisogno di avere gente che ha una certa esperienza che ha visto
+ha visto una serie una serie di cose nella sua esperienza e l'età
+le sa mettere nel contesto in cui si trova perché ad esempio vissute alcune cose le mie esperienze passate
+ma che erano
+sono state erano efficaci in quel tipo di azienda in quel progetto ma che non mi sognerei mai di andare a
+a proporre in in altri contesti perché c'è tutta la parte diciamo sociale non solo quella diciamo
+tecnica che un buon ingegnere deve tenere in conto e non pensò chat al momento nel breve
+riesca a richiesta fare strana aspetti diciamo mia opinione posso dire una cosa però sulle architetture secondo me
+sono d'accordo sulla parte che non esistono architetture sistema sbagliate che come me non esistono addirittura giuste e quelle sbagliate sono facili da riconoscere di solito anche non esistono marchi il crollo del sistema operativo
+la sua architettura un'architettura ottimale dopo due anni è sbagliata comunque ma si sa che devi andare ad evolvere pesate c'è c'è l'architettura che funziona nel momento in cui al momento meeting ma l'architettura giusta rara becchetti se non è un problema semplicissimo che si può spiegare in tre righe in cui la
+architettura corrisponde con la funzione l'architettura giusta direct e slancio nella mia esperienza non c'è e sulla coda allora chiudiamo subito l'argomento centricity non voglio più sentir nominare per il resto la serata no code che cosa cosa mi dite di sta cosa un po' mi ricorda un po' il server nas per noi sistemisti captive
+l'antitesi di quello che umanamente facciano codice sempre state journal
+una novità del duemilaventi cioè io ti posso dire nel novantacinque novantasei dichiara sto prodotto che si chiamava gupta e ti permetteva di dormire lo chiamavano code li chiamavano fuori generation language all'epoca è però era la stessa login
+ca c'è invece di scrivere codice il disegno il codice componendo blocchetti ci sono i due noti tutti i software di computer grafica senta tag darcy le gracia grafica di computazione che tutti i software e i computer grafica ti mettono a disposizione dalla
+dalla notte dei tempi cioè maya nel novantotto novantanove già ce l'aveva sta cosa
+ma tanti altri ci arrivano in maniera in maniera simile eh
+l'avvio è un altro programma che oggetti po' di linguaggio che viene usato molto invece in ambito
+elettromeccanico per fare la qualche costruzione di macchine
+dove colleghi fili sostanzialmente tre macchinette con due figli e questi blocchetti ne fanno un calcolo fanno anche l'interfaccia e ci sono sempre stati questi questi tipo di questo tipo di di di tool non hanno mai reso la mafia legge di fatto era per fare videogiochi
+puoi aggiungere il codice se vuoi ma se non vuoi puoi inserire nell'ambito del giustamente non so se ricordate quello tematico construction kit perché ma immagino sia quello c'è maggiore sia quello quello che intendi con no code sii daesh
+si intende quello sostanzialmente lo diciamo terminare il codice sostanzialmente esatto permettere di far girare una funzionalità senza allora adesso è molto legato al mondo implementare applicazioni web cit ovviamente però la sostanza è l'evoluzione di queste cose pace sono cento mila esperimenti nemmeno negli ultimi trenta anni che mi ricordo ma sono
+non dico certo ma
+se andiamo ancora indietro negli anni ottanta e sarà qualche altro esperimento simile secondo scusami permettono l'osservazione che nella mia esperienza certe volte diciamo no code come concetto non è male in se stesso perché per esempio c'è ci può essere la tendenza
+dato un problema no al tas che deve risolvere o quello che è di cominciare a dire a james apro microservice no per questa roba qua mi faccio al mio microservice con la mia piccola e piraina di quattro week end point no no magari poi arriva l'archivio
+famoso architetto di prima no ma hai pensato per esempio che però si risolve il problema in quest'altro modo dove assolutamente non ti serve nessun codice problema già risolto ma adesso non mi viene in mente nessun esempio ma per dire a fare l'upload dei files west street e dopo con cloudfront
+download bouncer sono già disponibili infine no è quello buono cody no vuol dire ho evitato di buttare far crescere l'entropia dei sistemi dell'azienda no per esempio potrebbe avere anche un'accezione positiva tutto sommato sì
+secondo me dipende dalla complessità
+paradigma ad oggetti di una certa complessità richiedono integration con sistemi diversi a volte negatività umana no-covid diventando difficile da utilizzare
+come no colpa di cui io sono un sostenitore del codice conciso
+perché
+ovviamente ogni volta che aggiungi una linea di codice aggiunge un qualcosa che deve essere mantenuto
+nel tempo
+vi sono a parte di quelli che pensate che codice debba essere conciso andare proprio sul no code quando
+che fare con progetti una certa complessità
+nel breve e non lo vedono come un pericolo dal punto di vista lo sviluppatore di app sul suo d'accordo tratto quasi sette se sennò colpa no forse sono ignorante in materia e che si con consentendo comunque il riutilizzo di soluzioni già esistente posto di
+di codice secondo me torniamo al discorso del del sistema poliglotta e quello è uno dei è una delle risorse uno dei linguaggio in cui scrivi la cosa cioè una parte può essere quel sistema che hai descritto però in un sistema più complesso avrai sempre qualcosa che qualcuno non ha ancora inventato
+cioè
+dubito che
+in un sistema complesso
+che a fondente end
+database di qualunque tipo alla fine tu abbia la possibilità di fare tutto con componenti già disponibili sul sul mercato collegandole semplicemente tra loro in maniera anche di già esistente senza dover scrivere neanche una riga di codice diciamo che è un po' una tendenza che ho visto emergente come
+dicevi te nulla di nuovo sotto il sole nel senso che non è un concetto nuovo però diciamo c'è un discreto
+boom se vogliamo di soluzioni no coda e strumenti che ti permettono di gesti di creare applicazioni software che sappia scrivere codice o sapere scrivendo il minimo codici fossero grillo code come si suol dire però se son d'accordo va da sé che poi ci sono i vincoli intrinseci tali approcci
+sono dati alla piattaforma che usi è quello che la piattaforma può fare tutto quello che va oltre quello che la piattaforma prevede di fare una cosa devi farti tu per conto tuo e quindi che batte magari magari tante volte va bene nel senso
+infatti ci sono una cosa che ho visto io
+di cui
+che secondo me è importante il fatto che negli anni ho visto questa sempre crescente pressione a skip no a certe viper devi fare più fitch era più velocemente possibile no magari una volta non c'era una volta era più norme
+male prendersi tutto il tempo del mondo a per costruire un sistema
+in certe aziende funziona ancora così in altre aziende no soprattutto se sei diciamo orientato sé
+siamo soprattutto la tua azienda a milioni di utenti per esempio quindi c'è questa pressione crescente a fare le cose più velocemente ma anche attenendosi a un certo livello di qualità che non è facile per niente e se hai a disposizione un anno vabbè sacra sono capaci tutti magari a costruire qualcosa
+cosa di decente no però se deve farlo in tre settimane tutto un discorso diverso quindi in questo senso qua soluzioni magari no code che ti portano diciamo portano fino a un certo punto no del tuo viaggio dove guadagni magari sei mesi in cui puoi sto intanto usi la soluzione no code poi
+c'erano cose inevitabilmente raggiunge un livello di customizzazione che non c'è essere può fare niente più allora lì è il momento di rocca e adesso dobbiamo investire in questa cosa qua che anche ciò ha senso perfetti versino l'azienda è piccola eccetera eccetera a poco a poco personale l d
+dipende un po tutto
+dai vincoli vincoli progettuali e la situazione aziendale quante persone quanti tim la cifra che poi va anche chiarito che appunto sotto il mondo sotto il cappellano codice veramente tante cose anche gli effetti dt e una coda uno strumento comodo e se vuoi usati e poi poi ci sono cose anche più specifi
+che prodotti anche a livello enterprise che riducono parecchio la necessario per scrivere codice è
+bene allora ridendo e scherzando come sempre il tempo vola e siamo già un'ora e mezza che naturali chiarimento allora prima di chiudere portelloni
+fermare tutto e il futuro il futuro della programmazione mettiamola così o meglio delle architetture software intanto ci piace dire per quello che si può si può capire adesso intravedere adesso perché come sempre difficile c'è io adesso forse il functional service punto più estremo
+no di decentralizzazione cose distribuite applicazioni distribuite e poi cosa cosa c'è step cosa possono neanche noi
+evoluzioni ma secondo me torniamo indietro e functional service lambda che devi fare lo zip devi c'era un tweet gustosissimo che ho trovato l'altro giorno l'ho mandato sui nostri canali interni c'era questo qua che diceva
+mi devo fare una lampada fa
+lodare il mio zip file su step ftp step
+tipo siamo tornati ai tempi no
+trenta anni fa non è sempre la stessa cosa ma peggio però t anch'io vedo come dicevo prima
+quando si progettavano le architetture né nei primi anni duemila si diceva qui si fa tutto in java adesso dev'essere tutto serverless oppure accettato il wave dei microservice quindi tutte le architetture dovevano essere micro termiche
+poi si riscopre più avanti ovviamente imparandolo facendo questi errori che magari non è corretto avere questi queste visioni diciamo un po'
+talebane possiamo trovarne dire si fa tutto così appartiene perché adesso si fa così
+ma ci sarà secondo me come diceva cosimo un un ritorno indietro
+eh
+secondo me non voglio dire che
+è sbagliato
+scrivere delle funzioni serverless però non penso sia giusto scrivere un sistema completamente fermo
+a nel lungo termine già adesso si sente parlare di database serverless
+ma la gente che ne parla non non fa i conti secondo me con i costi che si possono avere quando quando la scala quando i volumi aumentano o non fa i conti con il vendor lock-in
+quando ti affidi magari a kalamazoo per avere il tuo database serverless puoi andare fuori da lì diventa
+quello che diceva il concetto di irreversibilità
+e e pintor a quel punto e quindi ci vuole sempre un po' di
+come dire di
+di non non lasciarsi portare da dalle mode che ci sono ma
+pensare
+in maniera un po' più pragmatica
+ah
+alle sette che il pc si vanno a fare
+e che cosa implichino nel tempo un punto di vista sia di complessità che di costi sono totalmente d'accordo
+su questo
+convinzione assoluta sul fatto che nella nostra industria c'è troppo diciamo inseguimento alle mode del momento che un po' è dettato secondo me dal fatto che a tutti piace essere l'esperto di kubernetes no
+a kubernetes assi verso tutti cercano gente che sa cooper nesquik ed io devo anche sapere ovviamente se quindi dai facciamo sto cluster di test vediamo come funzionano queste queste dinamiche che diciamo in alcuni casi hanno anche senso per carità però molto e moda
+no secondo me quindi avere un po' la concezione di
+cosa mi serve mi serve veramente sta cosa oppure posso fare in maniera diversa magari perché hai già visto milioni di cose prima e hai già un'idea di quello che funziona quello che non funziona e anche secondo me è il futuro diciamo e meno moda e più pensare criticamente prova
+un'aspirazione idealistiche forse però il vero futuro il vero futuro e il nobel and questa c'era questo articolo vi pare uscito su hacker news
+dove un frontend engineer dice oh ma qua non mi serve neanche perché basta che dico a gpt tre oggi pet e due o quello che erano mi ricordo che voglio questa risposta dal backend e questo me la fa veniva poi vi dico adesso salvami nuovo documento con questa strutt
+tura e quello risponde come se ci fosse un backend sotto in realtà non c'è quello il futuro no
+ho trovato proprio super divertente questa cosa fa dove siete e tutti poi affidata bellissima
+si trattava di tiger fare
+kosinski lo fa lo fa the world school fase imbarazzante e fa finta di essere un terminale unix gli crea il file ti ritrovi tra i caratteri vede
+dopo improvvisamente tuoi fallo ci sono più però devo ammettere che per quei cinque minuti in quelle cromate
+no io non essendo che sono un po'
+prestato tanti ambiti ormai adesso sempre stato il web web poi prestato al mondo web services prestato il mondo delle idee
+non mi ritengo ormai il mio lavoro non ha niente a che fare con con quello che è
+che facevo nel fato lo so sei sette anni fa
+sono sono prestata varie cose il futuro secondo me è vedere che non devo fare piccole cose quindi magari che c'è qualcuno che le fa veramente non fa finta di farle come come cazzi giganti adesso quando produce codice quando si fa finta di essere the end ma che possa esserlo c'è posto generale davvero
+dice la parte del codice che non voglio scrivere
+quindi qui di avere pulci evoluti per anche lo sviluppo di idee per lo sviluppo della rete menava la cosa vuoi dire io avrei reso criticarci architect iva esente gepd chiunque su questo progetto che sto facendo lo sto usando come reference in maniera
+prepara abbastanza spudorata
+addirittura chiedendo di descrivere prototipi di funzioni senza che vada a cercare le sue pene
+mi scrive alle dichiarazioni fatte fatte giuste e precise perfette e finora ne ha chiamata ul questa è la cosa che mi ha impressionato cioè la quantità di roba che son riusciti a buttarci dentro è impressionante c'è tutte le dichiarazioni di open xml corrette se ne ricorda sempre non è sbagliata una morte poi a gpt o copy
+slot charles debiti censiti te non preoccuparti anzi copilot non l'ho provato di recente quando l'ho provato nel periodo di open beta non viene impressionato così tanto soprattutto su cose di nicchia tipo vulcan autogrill arctic sono proprio questi tre non mi ha impressionato per niente
+b in alcuni casi mi generava delle funzioni con dentro un commento barbara a puntino puntino partire
+ios
+copilot fatto
+l'abbonamento l'abbonamento subscription so come si chiama
+per ora sono abbastanza contento se diciamo che realizza lei
+rientrando nel mio nel mio cuore nel loro quotidiano secondo me dipende dal linguaggio dipende dal della libreria specifica che stai usando perché va bene nell'esperienza io la spia vietato con quelle cose perché volevo capire un pochettino di più obbligo aggiornate di aggiornarli softgel anche vulcan e te e non è
+bravi in queste gallerie di starmi dietro
+invece su su su e in altri casi proibite su altri linguaggi e su altre problematiche sono sicuro che funzioni perché ho sentito tanti che dicevano plastico non torno più indietro c'è gente che l'ha comprato l'intera azienda il giorno dopo cioè dopo aver provato detto tutti quelli della mia azienda devono avere è utile ma cosa hai provato
+anche consegna a cloud nine quell'alternativa non di
+tipo copilot fatta da terzi e per cui c'è anche un plugin per visual studio code
+cavolo sì
+un altro strumento di supporto all'intelligenza artificiale così ce ne sono penso non penso di averlo provato l'ho ho trovato solo copilot credo travolta non sono un clown tab n no sì che lo vedono come il vantaggio è che non usa codice pubblico il tuo codice non va nel calderone del
+un po' che puoi usarlo in privato comunque un po' di cose va be' niente e
+che dire dichiarazioni conclusive prima di lasciarci se volete fare qualcosa che rimanga agli annali per futura memoria software architetture sviluppo previsioni qualsiasi cosa vi venga in mente da dire non siete obbligati a
+ho il
+tema consiglio una lettura
+un blog ha esattamente vent'anni che trovo attuale lo leggo
+di frequente di due o tre anni e vedo che continua ad essere attuale e unison an architect di martin paul
+praticamente
+il ruolo dell'architetto non ha senso
+appunto l'architettura deve nascere come evoluzione e come aggiunto di tutti gli ingredienti che stanno dentro un team perché comunque io penso che con tutta l'expertise che ognuno di noi può avere
+le migliori architetture sono quelle che raggruppano tutti questi ingredienti insieme
+e producono un qualcosa che sia un costrutto sociale bernabè martin fowler
+anch'io lo conosco perché
+lo letto più alta un paio d'anni fa ricevevo poi ho guardato la data no per adesso e nel luglio duemilatré
+ed è sempre attuale quindi ma anche friedrich brooks attualissimo sessanta non so che che hanno scritto suo libro mitico belmont decreto sessantasette sessantotto attualissimo perché non l'ha letto lo consiglio assolutamente dietro l'altro
+ha una una bella sezione sull'architettura
+s m tre sessanta no fbm
+avendo io invece criticato perfino ruolo dell'architetto mi sento però di dire un'altra cosa è una battuta di dinamico che hai detto non forse citando qualcun altro che magari poi mi correggete mente che c'è stato qualcun altro e che lui diceva appunto possiamo tranquillamente risparmiarci questa
+mezz'ora di planning perché possiamo sopperire con cinque giorni di di programmazione
+save giustamente ma quello waterfall adesso non si usa più
+perché pianificare se abbiamo gli sprint tutte le settimane
+va bene dai e io vi ringrazio per questa per questa serata e io ne esco arricchito qualche informazione in più di quello che sapevo sicuramente mi è arrivata e
+mandate link a tutto quello che avete citato magari anche magari libri imperdibili come giustamente diceva fabrizio qualche articolo assolutamente degno di essere menzionato e alla prossima causa prossima ciao

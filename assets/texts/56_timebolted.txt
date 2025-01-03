@@ -1,0 +1,537 @@
+e quindi siamo arrivati alla puntata cinquantasei della brigata degli istinti in cui ci troviamo a parlare di front-end front-end e aumenta i framework le tecnologie le tendenze e lo facciamo con serena in duplice copia e francesco e
+de simone che invito subito presentarsi io direi lo faccio dall'ordine con cui vi vedo collegati quindi francesco breve presentazione vai pure buonasera piacere tanto di essere qui con persone che non conosco quindi avrò il piacere di conoscere questa sera quali si
+non è serena grazie per l'invito abed super super gentile io sono quello che ha sempre un problema grossissimo con gli occhiali è un sito di youtube
+però niente sono francesco sciuti mi occupo di a front-end da da qualche tempo è per via della mia passione dell'essere imprenditori in italia questa passione e un po' folle per essere in italia
+diciamo non sviluppo più tanto nel day by day però resto molto molto molto interessato appassionato e prova a restare sul pezzo
+studia e quando quelli e bon poi vabbè avrei anche altre cose da raccontare ma poi magari le raccontiamo a mentre mentre chiacchieriamo hogan fa più figo
+bene simone ciao io sono simone non sviluppo front-end da quattro anni no casca proprio mentre
+io
+non conosco anch'io né serena né francesco piacere di rivedervi per la prima volta
+chissà se se andremo d'accordo e allora io
+ormai mi occupo prevalentemente di formazione per cui lo sviluppo diciamo è diventato parte del mio lavoro ma non più come attività principale o sviluppo front-end per un bel pezzo della mia carriera ma ho fatto praticamente un po' di tutto e
+cerco anch'io di rimanere un pochino ho aggiornato anche se insomma si fa un po' fatica perché come francesco questo brutto vizio di fare l'imprenditore quindi
+diciamo
+il tempo è quello che è bene vedo che abbiamo un vizio in comune è che nessuno parla di front-end quindi ho chiamato sbagliato
+è talmente sbaglio perché abbiamo serena giustamente che tu invece di fronte tenne
+so che ve lo dico a fare
+allora io sono serena ovviamente non conosco né simone francesco ha il piacere di vederli per la prima volta buonasera anche a me
+il dottore e attualmente lavoro di giorno mentre paesaggi bella luce della nostra società che si occupa di informatica nell'ambito familiare pubblico privato e poi di notte scrivo ho aperto nel duemilaventuno myblog
+quando andare il collo montante dove parlo del mio lavoro ma da un punto di vista proprio di quello che avrei voluto trovare online quando mi sono dovuta scontrare con una serie di problemi vi sono guide e tutorial ma anche recensioni libri tecnici
+gli aggiornamenti sul mondo in generale e nel frattempo anche pubblicato dei libri con con apogeo e blink su diversi argomenti da qualsiasi purché questa
+molti sfaccettature agli argomenti che tratto perché ho parlandosi all'intelligenza artificiale che di sviluppo mobile che è lì con te realizzazione tecnica di devops
+oh e basi dati anche per non farmi mancare nulla e questo imprenditrice non sono ancora lascia perdere rewards
+viste viste le facce di leghe forse esame rimangono e tonon eravamo tutti belli prima o poi
+sì io guarda ero ad un bivio se sfilare per dolce e gabbana a fare l'imprenditore ho scelto fare robustelli gardens un po' come cambiano le case arabe
+ma così va così allora beh vedo che siamo tutti sul pezzo quindi vi chiedo una cosa front-end developer allora io mi ricorda ai miei tempi io mi mi spacciavo come webmaster a catenelle x quando vi erano stati introdotti mi sentivo è uno bravo e
+e poi adesso master non esiste più come parola perché di fatto che fai sei uno sviluppatore quando lavori con le catenelle soltanto con il background no come linux per un sistemista o un web master arm era molto figo come termine perché da quel senso di potere
+master avrai poi però il termine master è stato abbastanza ballata esempio guerlain
+esatto oggi vorresti webmail amano non funzionerebbe nello stesso modo
+quindi front end developer questo punto ma guarda cioè sembra un caso non ce l'eravamo preparata ma oggi ho trovato mentre si naviga york si possono si può dire qualche brutta parola sesso il libro tutti
+non c'è niente da monetizzare a bellissime e siccome come al solito show cazzo da fare
+giravo un boom e ho trovato un com job titles per il frontend e vedevo che vabbè i titoli sono sempre abbastanza astrusi però rispetto a tanti altri mi sembrano molto più centrati rispetto al solito perché vedevo che se
+fai website development ti dovresti chiamare website developer front-end developer academy lecce sesso ed è vero quindi tutto sommato non mi sembra niente di folle abbastanza simile a il vecchio webmaster
+poi si passa se fai invece web-application che ovviamente non sono i web site web voi se vuole lo distinguiamo passiamo a front-end application architect engineer job o developer per ritornare nuovamente su web sgabello dopodiché comincia una spada fiaba di jewel
+week end developer de qua e della e test web performance web accessibili insomma anche qui da un nome famoso webmaster tu aprivi il tuo file zilla pubblicavi in placebo live cd file tutto funz
+mezzo corpo non avevi bisogno del libro della sensini su kubernetes tutto
+va subito e per i webmaster oggi invece anche qui i nomi son cambiati sono cambiati marketing e tutto il mondo del frontend come tutta l'informatica in genere ha elevato la propria complessità in maniera piuttosto espone che ho ritrovato questo cos'è
+arkady mando ora vi giro il link non so se conoscete a uno del
+del
+fonti a mio vedere migliori sul mondo del front end ma ci vogliono i gas
+vuol dire che front-end master non so se lo conoscete e contiene nel suo nome masters tra l'altro vorrei fare vedi che aveva mantenuto solo man il ricordo ma va bene
+westbrook bookmaker issima no eppure sono tornati di moda in realtà è
+e sul fronte ai master ho visto questo articolo ora hanno una scusa mia lady book duemilaventiquattro ecco cos'era il book duemilaventiquattro dopo vi giro vi giro il link lì c'era questa spada affilata di a come si dice di là di ruoli no
+non vedete il il compensation che il paragrafo dopo che vi mettereste o a piangere a ridere vedete voi perché palesemente navata con un mercato estremamente distante dal almeno dal mio avo dal boss dato ormai non lo facciamo più nessuno di noi quindi fra l'altro
+dati ad altro e se ancora peggio perché quel punto lester brown prenotare soltanto peggiorate
+esattamente esattamente no comunque se si vuole avere ogni anno ho sempre dato un occhio a questo handbook loro lo fanno ogni anno considerate che
+non sono pagato da loro anzi vi dirò di più sono io a pagare loro magari da questa sera che ne so potrei anche riceve un coupon per magia ma devo dire che affronta il master è una un buon punto di approfondimento che una cosa non comune a g a p
+sempre i libri della sensini
+insomma disordine in tutto il mondo è però una gabbia studi per fare quel favoloso convegno parlo bene di tutti cosi
+se le fonti sono adeguate perché no poi c'è batman dietro che lui vi controlla no quant'è figo non so se l'avete notato
+parlare lui tra londra e non potrà e non si hanno dalle miniere dovunque a parte gli scherzi poi mi muto questo ebook è un buon punto di partenza mentre front-end master in genere è una piattaforma con moltissimo materiale fatto da nomi super tosti
+ma veramente gente veramente tosta che è molto divertente perché fa i corsi sono dei corsi live registrati quindi sono the world shop fatti da questi vari guru città i simpson james coeve mab ce n'è veramente un botto e quindi un otto
+may from fonte di approfondimento ce ne sono pochissimi basici però super interessante anzi alcuni sono estremamente avanzati
+pizio difficile da seguire beh allora in linea su questo chiedo agli altri quali risorse raccomandate per affrontare questa professione se vogliamo del frontend developer e anche magari che competenze uno deve avere io sono ferma a catenelle puntoit quindi lascio parlare comunque come risorsa italiana
+sia tuttora fatta bene non la seguo da un po' devo dirti la verità l'ho riaperto adesso dopo tanti anni c'è ancora quantomeno poi sì sì no ma comunque sempre aggiornato ma come risorsa in italiano è comunque una delle delle più aggiornate a livello internazionale oltre a frutta ma asterios di odin project
+a
+ha fatto bene per quanto riguarda il mondo front-end
+e poi le documentazioni ufficiali sono super fan delle documentazioni ufficio wfp social ufficiali e woolrich
+l'era l'altra anche odiarmi è però leggere leggere il draft of blood godric cioè devi essere veramente un coraggioso e sì sì però ma sono di quella scuola lì secondo me no is
+una cosa molto boomer stasera ai nostri tempi si studiava su quelle cose lì manca solo santo maggio e poi aver fatto un colletta
+ai nostri tempi si studiava su quelle cose lì e le capivi e quindi appello somala tutto quello che c'è in circolazione perché fa bene perché si impara si guardano si osservano poi tra c'è tra però poi alla fine vuoi studiare ti butti sulla documentazione
+bene sui libri che fa serena e promotion
+è
+e diciamo quel tipo di
+di materiale dal mio punto di vista
+l'altra domanda scusami mi son perso cosa devi sapere come fonte ed è vero e riconoscere browser molto bene ciò perlomeno devi saperlo eseguire esercizi
+per non morire
+e insomma devi sapere come funziona
+cosa fa un'applicazione quando gira all'interno di un browser secondo me è una di quelle cose che front-end developer tecnicamente teorie camin sapere cosa succede come viene utilizzata la memoria eccetera eccetera eccetera e poi diciamo i linguaggi principali il linguaggio principale giava
+script poi il resto viene di conseguenza dal mio punto di vista parlare di librerie framework è una conseguenza se si vuole un pochettino standardizzare
+proprio il proprio lavoro ed andare magari anche di mercato ben definita ma a livello di conoscenze secondo me quando conosci bene le guide browser
+come farlo funzionare javascript chiaramente che ti ama l'eccesso di fatto tu le cose le sai fare poi iniziate a un limite però come sappiamo i framework sono delle strutture che ti agevolano un pò il compito tendenzialmente tutto quello che puoi fare con un fremont lo fare con un linguaggio puro e quindi ti basterebbe già anche quello
+se vogliamo guardare dove va il mercato ad oggi almeno in italia stiamo ancora parlando di react angular e anche più ma anche se magari in minima parte svelte eccetera tutti gli altri mi pare di almeno per quello che è la mia personale indagine esperienza sono ancora in fase di sperimentazione
+di i side project eccetera mi riferisco io vi vedo tutti frizzanti quindi programmi per la mia connessione mi riferisco ai vari quick astro eccetera non vedo ancora questi grandi progetti portati avanti con queste tecnologie quindi probabilmente in italia siamo ancora a serena che dici tu
+devo dire che di risorse ne hanno già sparato abbastanza quindi mi limito magari ha un nome e cognome che a me personalmente ho trovato molto utile all'epoca quando mi sono approcciato al tema gagnon budget di uno sviluppatore
+stai sul pezzo e ha fatto due libri molto belli proprio graficamente è anche molto interessanti tradotti in italiano e il primo era proprio catenelle e c'è feste il secondo era già javascript eseguire interamente gemelli adesso è un po' bistrattato no perché ci sono se n'è tornato però attraverso i quattro sì infatti leggo un po'
+divenne dal momento però ecco io sinceramente non sono di quelle che dicono ah errore seguire anzi penso che in alcuni contesti sia modo che non vi sono più che appropriate inoltre ha bisogno di strafare io la mia vena popolo comprato grazie a william dir ma infatti non non c'è
+nulla di male
+sono secondo me le tecnologie tutt'oggi molto molto valide con cui iniziare assolutamente soprattutto fiat è molto sotto balon una delle difficoltà iniziali per esempio che mi ricorda che mi perseguita tutte le volte come banalmente centrale un contenuto all'interno di una pagina lì ti rendi conto o no
+esatto
+l'idea ha capito e chi non ha capito perché
+e ci assiste può essere tanto banale e tanto semplice perché ha una sintassi estremamente facile quanto potente per quello che ti permette di fare perché è ampiamente un'estensione pazzesca ed è una di quelle cose che bene ne dava pochissimo perché adesso ci siamo abituati un poco il team work che vanno dai componenti pronti da stilizzare grande
+grafica ati con indesign bellofatto e ci scordiamo di questa parte ed è un peccato perché qualsiasi di metter mano le mani grotta lettini green e mr gordon non mi ricordo il nome mannaggia
+comunque
+il
+il pinot di dello scorso codemotion è stato fatto o come si chiama non mi sto ricordando comunque da uno dei britanni ideatori scusarsi lui questo è quello che è uno dei padri fondatori e non mi sto ricordando il nome non è
+io mi ricordo va con il nome comunque sta di fatto che diceva proprio questo di amarlo e non ma noi ci abbiamo provato con lo feste però cioè si dovrebbe tornare indietro piallare tutto e ripartire da zero però oggettivamente a
+diciamo che a differenza di tanto altro il mondo del frontend e io oggi comunque rendo molto accomunato anche a quello del mobile development perché avevamo oramai ci sono grossi protagonisti a che derivano un po' dall'approccio strettamente
+front-end amy tutte le piattaforme
+cross-platform e
+in realtà a differenza degli altri ambiti della dell'informatica del modello sviluppo necessitano di più a conoscenze di più aspetti nel senso che ci sono degli elementi che sono diametralmente opposti tra loro nel senso
+che abbiamo tutta la parte di scripting e comunque diciamo da avvicina estremamente alla alla programmazione a tutti gli effetti alla programmazione nuda e cruda che conosciamo ma di contro c'è tutta la parte visuale che quello che poi fa da principe nel mondo dello sviluppo front-end è proprio un'altra tipa
+biologia completamente di approccio perché devi affrontare è proprio quello che accade a video non il risultato finale che avresti lanciando uno script o a
+realizzando delle pmi dicendoci qui ti scontri anche con una pazienza molto diretta che può essere quella come diceva serena di central lunedì quindi diciamo che oggi fortunatamente chi si sbatte molto meno vuoi un po' per tutti a
+tutte le varie possibilità offerte tra framework belli che pronti tram a diciamo utility free moro o comunque robe di questo genere che si va un pochino più più rapidamente pochino più ha serenamente ma anche cessasse di suo e
+cresciuto tantissimo a con con tutto quello che è arrivato negli ultimi ateo teodoro inutile standard elencare però sicuramente è cambiato io volevo aggiungere soltanto però una risorsa e non abbiamo detto che secondo me è la risorsa dalla quale partire in asso
+ludo che msdn perché msdn ti porta davvero un po' passo passo verso
+email verso se stesse verso ha javascript quindi diciamo che i tre pilastri addirittura forse in un documento pdf stein qualche rilievo fa proprio li trattava come i tre pilastri uno
+e quindi diciamo che questa cosa a quello è sicuramente il mio vedere il punto di partenza tra l'altro per buona parte anche tradotto in italiano non tutto però di documentazione video senza nulla togliere la catenella e bund vero diciamo che un minimo più
+più robusta come come come esperienza
+dal bull e poi discuterne l'ultima risorsa lo giuro mi sto zitto e già scritto punto info che secondo me se la leggete in inglese quelle in italiano non è tradotta a benton molto bene non tutto è tradotto benissimo in italiano fate alcune cose che ho tradotto anch'io quindi non vi fidate assolutissimamente
+è però quella è una gran bella risorsa quelle in inglese veramente una gran bella risorsa dove magari non si scende proprio nel dettaglio di tutto ma tutte le parti più importanti sono veramente ben trattato di una risorsa totalmente gratuita
+e tra l'altro totalmente open source quindi potete anche contribuire e se ne avete voglia e secondo me è molto interessante come come progetto io consiglio anche
+roadmap seat
+che è un progetto open source che colleziona diverse roadmap
+tra l'altro con un sacco di aggiornamenti ho visto anche ultimamente tra cui chiaramente anche la roadmap per diventare frontend developer ci sono un sacco di nozioni concetti non solo lele le guide ma proprio dire come dicevo prima sapere cos'è un browser un protocollo e più tutti i vari pezzettini che ti portano vera
+un quadro un po' più generale bene allora aggiungo anche dalla chat live livio francesco ci segnala al buon fabio biondi molto preparato beh ovvio
+e poi e allora ci sono poi domande osservazione che arrivano e una e apre un altro capitolo e dice cosimo front-end è veramente basato il novantanove per cento sulle mode del momento e non su esigenze reali se cos'è la vostra opinione riguardo poi al riguardo
+anche poi livio parla di bue base di eli lilly posso rispondere con una sola parola kubernetes c'entra che c'entra centrocampisti sempre nel senso che no no no no ti spiego subito che c'entra non è il front-end che è basato sulla moda e provò e non è neanche moda
+ma è tutto il nostro ecosistema che è basato sulla tendenza del momento cioè perché dicevo kubernetes in maniera provocatoria e perché oggi ha poi potresti avere anche bow dieci utenti contemporanei se non hai un'infrastruttura basata su kubernetes
+pirla quindi ti dico vero però a differenza non per tirare acqua al proprio mulino però a differenza di tanti ambiti che ancora cercano i vincitori ora è già da tanti anni e vinci d'oro comunque toghe
+affidabile su cui affidarsi sul mercato c'è già e come diceva simone cerri act angular react diciamo ha avuto la sua evoluzione lo so che non è esattamente così ma in termini di metafora amor su next però diciamo in fronte
+da oggi tutto sommato è quello poi chiaramente se ti vuoi fare prendere da tutti
+da tutto quello che succede a contorno ma quello succede in tutti gli ambiti dell'informatica il front-end è un po' additato per quello che è cambiato più spesso e più frequentemente sicuramente ah c'è anche un'altra nota che spesso anzi da u
+bando al javascript è diventata il suo morfo a quel punto qualunque cosa sembra un po' front-end spesso e volentieri tristemente ne il candidato parli con la gente ti parla di nod parlando di front-end non è così quindi tutti gli ecosistemi javascript sembrano per forza fare a
+arrivare al front-end cosa non vera quindi in realtà è una moda ma ci moda dappertutto io vorrei solo sottolineare una cosa voglio talmente bene a serena che ce l'ho anche nella borraccia guardate me ne sono appena accorto incredibile la mia amica serena elabora e rossa la borraccia allora la mamma a
+già vero pensa un pollo dei casi della vita penso o forse ci conosciamo da una vita non lo sappiamo ancora il bello che voi vi conoscete a vicenda ma io non conosco nessuno di voi personalmente affinché la prima volta vi trovo che vinca beh in realtà fosse re indirettamente ci si riconosce però mai avuto modo di comunicare direttamente e intanto salute
+ma anche livio gaetano cosma e marco che ci seguono e i due passati se avete qualcosa da dire come sempre potete entrare come quando volete e serena a illuminaci tu che vedo che qua sennò se lasciamo parlare francesco damone perdiamo il controllo e
+su questo tema del la rincorsa alla novità che poi è vero tendente tendenza di tutela tv però forse il mondo front-end è più come dire più orientato come le tue idee le tue opinioni la divisa non sia comment abbiamo quest'anno io nel frattempo vai simone facciamo
+servizio baby sitter anche nel frattempo
+beh allora
+con quello che diceva francesco un senso nel nostro mondo tutto è orientato e guidato dalla moda vogliono tirare fuori argomento e ai c'è quanto moda e per dire parlare di quello
+diciamo che il front-end è spesso coinvolto nei cambi di chiari di luna premete perché è più soggettivo è più aperto a giudizio anche del di quello che può essere il risultato finale del
+dash sia dal punto di vista estetico delle performance c'è probabilmente anche più come dire giudizio da parte delle persone quindi è quello che in qualche modo subisce anche questi continui e frequenti cambi che poi alla fine giustamente come si diceva prima alla fine strano
+ok ma vero comunque qualche anno che adesso diciamo un minimo di stabilità seppur con continui aggiornamenti ed evoluzioni però siamo in un ecosistema tutto sommato abbastanza
+standardizzato se se vogliamo
+passato questo termine però dal punto di vista poi del diciamo della nascita di varie librerie librerie di new soprattutto sono quelle che magari un po' più
+samo sono presenti probabilmente per via proprio dal fatto che vive di una componente di soggettività che negli altri ambiti magari c'è un po' meno cioè alla fine nessuno verrà mai a dire ma quel back end a me non piace tanto ho fatto così ci vorrebbe un'altra un altro step sono cose che chiaramente sono
+oh più pertinenti a un campo che c'è più
+soggetto al giudizio anche estetico a volte non solo quella delle vere no qui si vede più facilmente sapa usate quindi giustamente dall'altra parte c'è si aprono temi di accessibilità usabilità e quant'altro che è chiaramente sono provengono anche dall'opinione pubblica locale proprio dagli utilizzatori finali vai
+simona serena
+serena non ti preoccupare riavuto hardy mi chiama mi chiamano tutti simona quindi ormai risponde al primo anno stefania silvia e quant'altro e intanto grazie simone valentini il servizio prego sereno per
+stefano
+se no allora rispetto a quello che alle osservazioni fatte etica me che sono già molto completa e quello che mi sento di dire che nella lava giusto stamattina con un collega no prima quando si trattava di pensare di programmare un qualunque tipo di prodotto che potesse essere un sito web ma anche diciamo nella piaga
+di alunna c'erano tre strumenti in croce ad oggi effettivamente c'è il dramma di dire da dove comincio perché ci sono una quantità di tecnologie talmente vasta che diventa veramente complicato per chi entra in questo mondo approcciasse la prima
+per come l'ho sempre vista io la varietà anche di framework che varie lato front-end che ci sono ad oggi disponibili in realtà fanno un po' tutti la stessa cosa di base e poi chiaramente c'è quello che estende la serie funzionalità da una parte quelle che
+lo rendono più complicato da un'altra questo divenne molto in realtà gliela vedo come ad ogni scrittore a ravenna cioè son persone che magari inizia ore react si trovano benissimo
+entrano anche nella logica d'uso non hanno difficoltà c'è chi corre a non inizierebbe mai perché ha comunque anche un'architettura abbastanza complessa da prendere come primo approccio ho preso le afte come esempio ma in realtà ce ne sono tanti io per esempio sono sempre stata una grandissima fan di angular fin dall'inizio non angular sentendo le vostre successive
+e anche lo scaffolding
+la gestione dei progetti l'ho sempre trovata molto più intuitiva rispetto a un reato che ha utilizzato vita nonché un però hanno strutture diverse quindi secondo me il punto qui anche la complessità
+rispetto a quelle che sono le capacità individuali il fatto che adesso siamo circondati da persone che hanno capacità molto trasversale molto diverse bombe grandi universi fa sì che la scelta dello strumento con cui cominciare non sia così banale se prima ce n'erano quattro incrocia e adesso ce ne sono tanti che rispecchiano anche tanto e la
+la differenziazione se vogliamo dei background del del mondo dello sviluppo che sia radon nel frattempo comunque sono decenni che che va avanti quindi è ovvio che ci sia stata un'evoluzione quindi come mio solito ho fatto un po' la svizzera la situazione dipende però però
+comunque di wembley non avevamo ancora detto quindi allora io da veramente vecchio e mi ricordo che i tempi quando si faceva sviluppo su catenelle html qualche già scritte qualche chess è un grosso problema era la compatibilità dei browser internet explorer netscape e rincorre
+quanti mal di testa explorer questo è un problema del passato fra un framework che tutto quanto chiedo a voi che ne sapete oppure c'è ancora questo libro io ciò la mia risposta però a
+allora sicuramente oggi ha dato il a
+ha da dato come è cambiato il mercato ma soprattutto inevitabile negarlo dato il dominio di chromium ha chiaramente nel momento in cui è e anzi dove il predominio di chromium che vi amò il browser che sta sotto a crom sotto
+karen sotto a edge
+sotto a insomma
+folleggiare abbiamo delle percentuali idea
+roma roma ha un impatto enorme non so ma fino a qualche tempo fa era intorno al ottanta per cento safari veramente a una una fetta per chi apre il mac lavora solo con i tool anche se devo dire che se vuoi risparmiare
+re batteria su sui laptop mac chiusi safari ti dura sei giorni
+la figura sotto questo punto di vista il grande onore però diciamo che ha il predominio di chromium e la spinta enorme che inevitabilmente google ha fatto sul fronte sull'investimento sul web in particolare tutto l'ambito del web assolutamente support
+citato da tutto quello che è il mondo della cella la il woolrich da un lato pc trentanove per quello che riguarda strettamente il linguaggio
+ha ha fatto sì che molte moltissime delle discrepanze oggi non siano praticamente presenti c'è da dire una cosa anche che non va trascurata una volta a voi fermatevi ragazzi di goose dico cominciate hotel boyle
+ed aggiunge qualcosa però c'è una una cosa oltre alla
+i vendor si sono uniformati gli standard si sono evoluti la convergenza c'è stata ma c'è stato da un lato l'utilizzo dei framework che un pò smacchiano a questo genere di problematica ma soprattutto il l'enorme utilizzo di tip slip
+fa tanto di quel lavoro sporco per far sì che il codice possa una volta tra spillato possa essere quanto più julie idolo virgoletto possibile quindi anche questo aiuta moltissimo inoltre e poi concludo ci sono dei progetti
+t che fanno sì che tutto quello che si ha da un lato linguaggio nel caso di javascript così come per gli standard a catinelle web l'accademia va sempre estremamente lento però diciamo quello che sono gli standard ifs e tutte le novità che vengono portate dietro vengono spinte
+beh dai grandi player che gestiscono appunto
+il progetto chromium il progetto gomme non è solo google l'attenzione anche microsoft e
+e che aiutano attraverso i programmi a far sì che siano gli sviluppatori stessi a richiedere ad utilizzare quello che sono ad esempio le web app in modo tale che gli pelle le implementazioni le interfacce delle pmi siano molto più vicine all'utilizzo
+dello sviluppatore e questo fa sì che mentre vengono testate dagli sviluppatori sul campo vengano pian piano a implementati sui vari blog il discorso di ted script a volte croce e delizia perché spesso addirittura anticipa l'implementazione dei brooks
+joseph questa cosa curiosissima se ci pensate c'è spesso e volentieri ne parlavo l'altro giorno mi ricordo con chi ma anche semplicemente i decoratori i decoratori li conosciamo perché c'è the pips script altrimenti siamo ancora ora in stage tre se non li avremmo ancora
+ha cioè non non sono realisticamente supportati dai browser stessi ma tip script da quel lato
+ha portato ancor prima la novità prima che il browser la la implementasse di conseguenza tutti questi
+a tutte queste strategie hanno portato oggi a non sbattersi più come prima sicuramente i test a b scusate ecco anche la parte di testo ha fatto il suo maledetto lavoro quindi oggi diciamo che è un uno sviluppo moderno ti aiuta a pensare meno
+questo oggetto che non vuol dire non valutarle però sicuramente si affronta con più serenità non c'è più il internet explorer o chissà cosa gay
+a tutti i falliti po' il corvo al aldo giovanni e giacomo erano il corvo l'avvoltoio che ti sta dietro e poi ci sono cose che possono essere implementate primo dopo ma questo poi lascio la parola agli altri ma se volete poi vi racconto un episodio mi ha colpito molto è giusto due note di cronaca cosimo ci spero
+verifica statcounter dice sessantacinque per cento chrome safari diciotto per cento safari web no come edge cinque per cento opera tre per cento opera cosa usa come l'opera credo abbia un suo engine ma memoir
+e credo questa meraviglia inneggiava puro horror opera esatto
+quando si mantiene duro e poi firefox tre per cento che pensavo di più invece clamorosamente e browser
+anna fox ha perso tantissima rabbia purtroppo cosa usa widget
+fox engine usa wikileaks pene adige cosmo dice opera usa chromium bene e firefox chiediamo signor fox news
+firefox chromium quindi alla fine come dicevate omnium quasi ovunque ma io volevo aggiungere solo una cosa era stato quello che ha detto francesco che è iper completo che tantum allora da una parte era fortunatamente inevitabile questo progresso perché ad oggi ci fossimo ancora portati dietro proprio record di compatible
+lità inutile che andiamo a guardare anche altri ambiti dove facciamo cose fantastiche poi non riusciamo a mettere a sviluppare una cosa che gira su più browser allo stesso modo l'altro discorso è tanto merito va anche alla l'espansione del mondo open source che comunque ha dato un sacco di link
+idee e spunti contribuzione
+ha giustamente come diceva francesco anche il fatto di
+implementati accogliere anche le richieste dei dei sviluppatori e provare a fare una cosa tutti sì cioè tutto quel mondo ha portato inevitabilmente e fortunatamente ad un'evoluzione un miglioramento di quello che era un problema noto e anche un po' strano quindi ciò che ci si poteva ancora portare dietro ad oggi me le levo
+soluzioni e tecnologie no alle loro maturazione che giusta replat al consolidamento dei volevo farebbero una specificazione importante per ihg e ci uccidono uno
+stavo cercando opera è solo nelle versioni più recenti e infatti non me lo ricordavo onestamente però interessante leggere ma non lo sapevo attenzione che firefox no firefox assolutamente no non utilizza assolutamente grove infatti non c'è solo
+vuoto ma spider monceau questa cosa harmony è super importante perché
+ed è una purtroppo delle delle cose che oggi lo rendono un po' più fragile ma non per spa del monte ma perché inevitabilmente gli investimenti avvengono molto di più sulla sul progetto che traina l'ottanta ottanta per cento dei browser sul mercato che v
+volendo volente o nolente croce e delizia per il palato andrea saltarello ci dice fairfax house inn che deriva dal greco e cosmo ci dice opera usa chromium adesso in passato usavano suo engine che ha presto si chiamava
+che anche cosmo lavorate e vabbè quindi insomma la strana irritazione anche il fatto che non c'è l'abruzzo cuore in realtà è vinta da a quanto pare però insomma la il problema di compatibilità tra virgolette è stato superato con la sanificazione un po' come proponete se alla fine come si diceva prima le mode all'inizio sono modi e poi diventano standard fa
+acto se vogliamo è una domanda che mi viene in mente allora io da profano sempre sente parlare dei degli orrori di javascript in termini di data times gestione dei è l'alternativa times script per insomma gestire in modo un pochino più puntuale migliore i dati e le strutture dati perché
+non si usa times twitter per tutto quali sono i difetti che high times it
+rispetto ad un javascript che sei il domandone proprio ripetiamo una terza età tre fasi no non voglio non voglio rispondere sempre io se io ho la mia opinione nel bene e nel male di dbs script ha però se volete lascia assolutamente spazio ma non vogliono
+non vi conosco non voglio sembrare invadente zoo no no ma ci è sembrato preparato tre due uno va bene lo zio grandi e allora a ipswich town un non è un problema però di fondo times llc non è un linguaggio di scripting supersky è un super
+cioè una oggi è comunemente inteso come linguaggio attenzione però strutturalmente exit un superset cioè un qualcosa che va on top rispetto a java script qualunque times leave non è
+diciamo interpretabile eseguibile dal browser quindi inevitabilmente batman spillato failla il il codice che scrivi su whatsapp ma tra spillato gay molto di quello che viene trans spillato poi viene perso tre quindi ha enormi vantaggi
+gita ed script ad esempio esulta keepsafe tutto l'ambito del paese fao sulle varie strutture che porta con sé mi viene in mente le interfacce ma anche la gestione delle classiche oggi si sono più avvicinate lo standard paradossalmente si è avvicinato un po' alle funzioni
+adidas che mette a disposizione tip script timed script l'incapsulamento l'ha portato quasi da subito le variabili a private sud javascript ci sono dall'anno scorso e insomma dicevo è curiosa come cosa no quindi a tig scritta sicuramente tan
+altissimi vantaggi e molto spesso può essere definito come improrogabile nella scrittura del web moderno ma non è una cura tutti i mali che è una cosa diversa perchè ribadisco a primo a time ted script non esiste cioè può
+curare alcuni mali ma non tutti e seconda cosa e il problema è che
+anzi no prima di dire no va no la ditta dico così tip script purtroppo non risolve il problema della pigrizia e le persone che comunque non hanno voglia di capire cosa succede a livello di linguaggio di conseguenza per quanto tu possa essere
+splendido nello scrivere
+ha la firma con i generici più incomprensibili che possa esistere sta di fatto che alla fine dei giochi non se non conosci javascript quindi non comprendi che le classi sono zucchero sintattico e sempre sotto c'è un'eredità brodo rivale di google sarai fortissimo
+scrivere sul times che però comunque qualcosa di marca quindi non può fino a che non diventerà un linguaggio stesso cosa è abbastanza improbabile almeno credo
+diventerà un è comunque una comoda di ecco vediamo così che chi l'aveva proposto per renderlo eseguibile sul sul browser
+però non è una cosa che credo sia andata sia andata in porto anche perché insomma non c'è già javascript che away with me ci manca un'altra altra roba così appena apri il browser ci vogliono diciotto giga solo merda per lui che ho detto sposo le vostre
+le vostre idee e direbbe francesco apre
+detto tutto e a parte il trend spillava dovuto un attimo a rifletterci perché trump spillato in italiano uno è terribile ed è una cosa tremenda avuto un attimo un sussulto
+però spillato significa
+praticamente dire tradurre fare diciamo compilazione sul sito source
+la spillato guarda veramente mi hai aperto un mondo di errori
+se non a parte a parte gli scherzi diciamo che dal mio punto di vista che magari vampate l'utilizzo dei dati scritte che sono innegabili
+sicuramente fatte relativizzazione storica per cui magari anche chi viene da linguaggi web ma orientati alla programmazione orientata agli oggetti ci sono una serie di cose che noti ti lasciano meno perplesso anche se poi come ben sappiamo insomma una serie di mamme che raccontano bene la storia di come vengano gestiti determinati valori di fonte la do
+download the high street
+detto questo in realtà secondo me molto dipende dipende anche qua da dal caso d'uso perché concordano in linea con francesco che poi dwight scritta essendo un super sette non non fa che nasconde una complessità che in realtà c'è e che tanto prima o poi emerge quindi conviene sempre mettere bene
+in maniera solida le basi perché poi il fatto di nascondersi dead of night scritte o teamwork che derivano da questo
+non faranno che accentuare poi diciamo anche eventuali mancanze e lacune che tanto verranno fuori ok io non ho un'opinione fortissimo in merito nessuno parlò mangiata tutto l'oro che abbia molto da aggiungere è sicuramente uno strumento molto
+importante utile soprattutto per quanto riguarda la developer experience che aiuta moltissimo e a quindi cesare era avvicinato anche persone che provengono da altri contesti a anche al mondo web banalmente e quindi il suo lavoro lo ha assolutamente lo fa innegabile che
+lo ripeto è giusto perché all'andata anche loro questo non toglie che comunque le cose vanno vanno conosciute a prescindere altrimenti non
+non non aggiunge particolare valore anzi potrebbe in qualche modo a aggiungere ulteriori problemi e intanto andrea che ci manda un sacco di funzioni utili in chat io gli ho detto andrea entra in cool perché puoi sai sai e i riferimenti e tutto e neanche da raccontare ma per adesso fare il timido
+e vabbè che anche lui un altro di quelli che non si conosce qua dentro per cui bisognerà poi presentarlo a tutti mai sentito andrea altresì
+uno così uno che fa cose e
+ecco vedi parlare di andrea mi sono dimenticato quello che volevo raccontare e chiedervi perché io poi ho solo domande non ho risposte a riguardo e
+tabella allora la butto lì subito intanto web assemblee e
+forte realtà è una tendenza che diventerà realtà nel futuro come la vedete voi un po' lo stato attuale è la prospettiva che poi non è che c'è da oggi e se ne parla però so ma voi chiedo a serena di iniziare perché non parla eisenhower si attacca francesco poi io poi lo ferma più nessuno ma anche perché francesco proprio
+io credo forse due anni fa adesso non ricordo però la clown golf ha tenuto un intero intervento su msn a torino e neanche finirò a andare
+io c'ero quindi me lo ricordo per lui
+e allora dico la mia poi e poi fate mi troverò d'accordo meno comunque al momento webmaster leader come ebbe come è stato pensato harken diciamo la la compilazione dei vari prodotti che andremo a sviluppare abbastanza portabile non è un linguaggio di programmazione spesso viene
+cambiando il linguaggio di programmazione ma non lo è è piuttosto diciamo una sorta di sandbox e ambiente sandbox domandare a diciamo a gestire il mostro al nostro lavoro
+ha attualmente anche per quello che è un po' l'ecosistema il futuro sembra sembra molto promettente visto che
+la maggior parte dei browser tra cui quelli che abbiamo citato anche prima era fallo lo supportano
+viene comunque lavorato con uno standard open quindi ci sono versioni nuove che escono continuamente
+e ci si aspetta che diciamo nel breve medio termine arrivino anche dei improvement del tipo gestione della garbage collection gestione dei thread
+c'è da dire che ci sono diversi benefici nell'utilizzo massimi e bisogna vedere quanto si continuerà a lavorare sul muso questo progetto perché poi come come tanti progetti come a tanti permette succede si parte con un sacco di entusiasmo iniziale poi
+magari arriva un momento di stop il progetto subisce non una perdita d'interesse vedremo io sono c'è un un'azienda una
+sai che c'è dietro è bassa ma comunque uno standard non è un consorzio co com'è che allora se non ricordo male e b
+francesco sei mutato anche spremuto era per creare pathos
+è uno standard a tutti gli effetti a non
+è un progetto tanto quanto come script non non cambia non cambia praticamente nulla ed è ufficialmente il secondo linguaggio in eseguibile dal browser a tutti gli effetti quindi a ci sono nota come dice azz
+ci sono tanti aspetti un po' particolari però vi dico un nome su tutti a friedman probabilmente non esisterebbe senza wep assemblee
+tutto ciò che ad elevatissima computazione oramai raro diciamo ad altissimo impatto computazionale in genere oramai viene eseguito attraverso moduli web assemblee sul browser che altrimenti non
+come dire no non non non sarebbe possibile perché questo non è vero perché ne abbiamo già vista di roba splendida anche prima però sicuramente ha un grandissimo impatto welle workers sono diciamo la formula ad esempio di dwight ma di mirko non so di tutte queste queste applicazioni che ci sembrano
+ha molto ricca per essere per essere su su browser e
+we wow volevo rispondere solo a questa questa cosa del modello standard tra l'altro web assemble oggi come diceva serena e più più pensato ormai come un randy times come una sandbox in cui far girare qualcosa infatti ci sono anche i progetti per renderlo un va iron man
+a b and b side tram attraverso l'altro standard washi che non conosco bene quindi non parlo perché rischierei di dire castronerie però il futuro è molto roseo a mio vedere molto interessante se re stava accennando al discorso del garbage gol
+hector e dei trend che sono due dei dei topic più sentiti in questo momento tra l'altro se uno va a leggere un po' ok ogni tanto mi voglio male no entrò alla passione di leggermi blog di vuoto che dice ma cosa te ne fai niente in realtà
+poi alla fine ci capisco molto poco
+però lì ad esempio vuoto porta con sè web assemblee e tutta la parte di garbage collector stanno lavorando cioè avere la possibilità di scrivere o asma efficiente anche berilli per i linguaggi che lavorano con garbage collector
+quindi con allocazione dinamica della memoria e questo è super interessante il mutuo per rispondere alla domanda di alessandra visto che giustamente prima ha fatto la domanda cui chiedeva chi c'è dietro web assemblee in realtà se non ricordo male moneta è uno sforzo congiunto diciamo che è stato fatto da
+i grandi vendor che conosciamo da win apple google e mozilla che si sono uniti hanno lavorato un po' questo progetto avendo come scopo quello di grande standard ma non c'è una persona dietro soltanto di me stanno cooperando e c'è ancora
+fia e produttrici come francesco abbia quindi è però essendoci anche pur essendoci dietro e polly andrea dice uno dei problemi di webmaster e tu stessa che non ama tutto ciò che può mettere in discussione la centralità dello stomaco però andrea è inutile che scrivi e poi non ci non ci entri spiga
+nel dettaglio quindi sei schede e o mentre voi parlate perché noi non lo leggiamo quindi a buenos aires vedi
+sat su youtube ma è malferma le esiste ancora il via email
+allora riesco a venirne fuori il vecchio il vecchio che c'è in me il lingua la catenelle per mondi virtuali per virgolette in cui ai tempi si facevano coglie impreparato warren fatemi allora non esiste più il ciclo
+se esiste veramente una di quelle cose che è andata e allora esistono a warren mall virtual reality modeling language e allora oggi esistono per il web alcuni
+alcune librerie offre morgan che ti consentono io mi ricordo ad esempio frame che è una
+una libreria che ti consente attraverso
+attraverso il make up di pardi di fare praticamente ix erano quindi realtà mi poi in realtà se non se non ricordo male sotto il cofano giro tra haines comunque quindi diciamo una libreria molto molto nota però
+leggiamo come standard oggi c'è ci sono le le web series come plaid però no di mark cup che io sappia non credo no infatti ho visto anche nella chat o fox le quattro
+un un una serie commenti del tipo ma non lo sentivo da dagli anni novanta in effetti anche cercando un pò vedo che non è più ecco quella è una me pensate anche questo quanto
+a volte non so puntare su certe tecnologie studiarci sopra spendersi nel tempo e investirci poi dopo diventa avevi neanche mente flash tanto per dirne o silver light se proprio vogliamo dirla tutta si permette si chiamava quella di microsoft silverlight
+se ti sentisse fabio biondi prenderebbe un colpo perché lui è uno stadio è stato uno di quelli che insieme a me aveva investito su flex e su flash e poi la adobe ha avuto quella
+bellissima idea di ciò
+non è stata l'idea della dove però sono protratte morto e
+insomma
+tra l'altro fabio dice sempre che ha ragione tra l'altro mio vedere che oggi non si riesce a fare quello che si faceva vent'anni fa con flash quand'era ancora macromedia di turno cioè incredibile ma vero ma ottenere gli stessi risultati con una festa anche developer experience dell'epoca
+da oggi veramente molto raro
+no aspetta nel due mila e quattro avevo fatto un'applicazione in flex che ha girato per un sacco di anni senza mai piantarsi amara ma anche assurda per me
+il mio livello di bravura e mi ha lasciato chip per l'epoca era veramente qualcosa che era molto avanzato insomma lemme le mode che sono morte e quelle bisogna cavalcare cavalli just anche se a fairway che ci racconta youtube francesco e web gmail invece c'è
+no webmail
+che si fa come michelle cioè nel senso si
+e voglio certo che c'è assolutamente tutto quello che vediamo come tre di ebay in realtà anche due dvd a tutto wheel poi ora è arrivato anche web più che avvicina a diciamo a
+jerry diciamo così rimuove dei layer d'astrazione e mette a diretto contatto con con l'hardware ovviamente passando al sistema operativo e
+e tra l'altro questo motivo web più serie e super interessante perché l'altro giorno leggevo una cosa
+e cioè che web più per come lo pensiamo uno pezzo bhè ora lovely tre diesel ancora più figo ma in realtà leggevo che sarà un grandissimo supporto per le perle neural network stanno preparando si chiamano web nemmeno io non ci avevo badato
+onestamente è vero o super figo come lo meno interessante tesi
+non l'avevo associata come cosa ti dico la verità però anche lì web gmail diciamo si confina un po' su quello che è la grafica diciamo così ok per semplificare web più in realtà offre tanto altro di fatto ci ho provato oggi ci farà probabilmente anche e-mailing
+c'è tutto quello che è possibile probabilmente verrà verrà ampiamente fatto è però io voglio andrea saltarello no andrea dice che deve andare via presto e svegliarsi presto quindi chissà a quante anch'io
+siamo qua a tener duro
+è
+abbiamo anche sollevato bon bon cosmo anche ricordato le appoggiava che anche adesso anche meno almeno un lato front-end bastano grazie al cielo
+su questo alzo le mani tutto quello che giovannone
+da quando è stato proibito da ai vari da
+mi pare siano in circolazione ancora delle api hanno bisogno non è più supportata no e infatti quindi dai certi dai grossi bene quindi la domanda viene spontanea di fronte a questo può rare di tecnologie che nascono muoiono a volte sopravvivono qual è la stella polare secondo voi da seguire per evitare
+investire tempo e studi in cose che poi un domani saranno deprecate o dimenticate c'è un qualche approccio che consiglio da dare ai giovani d'oggi magari voi che ne sapete vado alla santa omaggio studia il sistema operativo
+santa madre del premio cuore scrissi
+volutamente assolutamente assurdamente ma qua tu penso che hai un po più il polso come moon anche per i progetti che ai gay
+però
+il discorso è sempre quello poi
+un discorso e devi iniziare un discorso e di fare scelte
+di business progettuali architetturali e quant'altro se inizi di ciò prima studi browser di java script timed scritte e quant'altro
+le basi fa proprio ma però fatte bene non diciamo
+a saltando arrivando subito a i framework e quant'altro e perchè quello poi però mi ha parlato di tip script che comunque deve conoscere bene javascript cioè alla fine tutto ritorna lì ma tu conosci quegli elementi cardini che stanno alla base tendenzialmente te la cavi sempre perché poi arriverà il nuovo
+framework fantastico cosa utilizzerà più o meno sempre le stesse cose a meno che non stiamo parlando proprio di standard completamente diversi sul discorso di fare degli investimenti
+dal punto di vista di business e progettuali ed è qui dipende molto dalla dal campo e
+feedback abbiano detto ma sì proviamo web così avranno fatto dei ragionamenti per cui ho detto forse questa roba qui ci torna particolarmente utile da un punto di vista di quello che vogliamo fare del prodotto che vogliamo rilasciare e quant'altro quindi
+determinate scelte vanno fatte con certo tipo di cognizione a livello poi di conoscenza
+piacere personale quant'altro si può studiare tutto in qualsiasi momento e approfondendo quanto si vuole l'applicazione pratica però è un'altra roba quindi se vogliamo
+puoi passare a sfruttare delle tecnologie è in produzione dobbiamo fare altre tipologie di ragionamenti quindi il progetto quanto stabile quando stan quanto standard quanto è supportato mail mi porto dietro delle complessità che poi nessuno in grado di risolvere
+c'è una community dietro che mi aiuta a comprendere come risolvere determinati problemi tra tutti questi ragionamenti vanno messi in campo dal momento in cui si si cerca di fare un investimento su di una tecnologia per qualcosa ripeto che ti serve per
+per un prodotto un servizio da portare in produzione per quanto riguarda i progetti personali lo studio eccetera non c'è nulla che possa essere imparato che costituisca di fatto un errore quindi
+qualsiasi cosa comunque ha un suo perchè beh però insomma una cosa da imparare anche per propria esperienza e gusto personale qualcosa che poi ti può servire un domani è un'altra cosa magari impararlo per cosa poi non ti servirà mai napoli quindi
+se toccherò possiamo imparare tutto e bisogna comunque fa una selezione dipende però pericoloso perché studi
+ognuno ha un proprio un motivo per cui studia tu studi perché
+ti piace rimanere aggiornato sei affamato di cultura di sapere cetra non c'è nulla che tendenzialmente tu possa imparare non ti dia qualcosa in più chiaro che se stai studiando invece per fare un upgrade di carriera orientarti su di un mercato evidentemente dovrai fare delle scelte orientandosi su quel mercato quindi ti studi un pochettino asset
+tore che tecnologie vengono utilizzate linguaggio standard eccetera ti fai la tua roadmap e studi quello ho detto cavolate ciascuno può aggiungere wall cosa no
+mi trovi mi trova d'accordo simone sul fatto che non c'è uno strumento sbagliato spesso si tende a demonizzare allineano se deve cominciare a vincere questo in realtà come come dicevo anche prima divenne molto da anche dal background che si ha per ognuno c'è uno strumento più giusto o uno sbagliato anzi sicuramente mi rendo conto che se dovessi cominciare ad es
+esso come dicevamo all'inizio complicato muoversi in questo mare di tecnologia sicuramente anche molto molto difficile io su questo devo dire ho trovato anche dal riscontro nel seguire persone che magari sia ancora quel determinato campo attraverso le community attraverso pagine linkedin e via dicendo per cercare di capire un attimo quali sono
+tranne noi nel senso di farmi prendere dall'entusiasmo del nuovo framework javascript è uscito l'altro ieri ma nel vedi se però ci son persone che lavorano per aziende iniziare sono aziende magari vorrei lavorare anch'io e usano queste tecnologie e allora forse mi può essere utile studiare queste tecnologie è un approccio come un anno
+troy però lo trovo diciamo interessante perché mi da modo di vedere sul campo chi lavora con cosa e magari anche quali sono i the crown e lavorarci io volevo aggiungere una cosa posso condividere lo schermo
+ah spero di non vedere roba tipo un po' sconcia no no credo di no prima aspettava dunque riducono a te se non provvede col binocolo o dovrebbe andar bene prima simo ha giustamente aveva parlato di questa risorsa
+oggettivamente molto interessante che roadmap a punto e arca e rap che fa vedere un po tutte le roadmap di tutti i settori e come dicevano sia lui e serena oggi ha a
+iniziare una botta è veramente una botta cioè io a mentre mentre eravate stavo guardando proprio la
+la roadmap per il frontend non è questa che guardiamo e studiò anche the man studi cestes studiavi javascript se non conosci già mi sembri abbastanza fuori dal mondo glenn pm per la gestione dei pacchetti di scuderia the wind waker scrivere gesto perché
+sei una brava persona descrive i test okay ma in realtà questa è la vera la vera roba e sinceramente guardandolo detto mamma fortunata ho iniziato tanto tempo fa perché so in quante vite avrei dovuto imparare queste cose no che un po' come diceva sempre simone prima e
+come sia serena mi insegna è un po' quello che mi succede a me personalmente oggi volle che sono sempre super curioso voglio scoprire voglio voglio leggere voglio imparare magia e non sono io a volermi oggi fermare all'astrazione quindi non poter scendere
+shopping profondità e oggettivamente io mi devo fermare qui per lei no non posso arrivare già qui c'è stata troppa strada tracciata
+quindi seguire oggi un percorso che ti possa almeno questa è la mia opinione un percorso che ti possa portare in una maniera che ad essere un un professionista di tutto punto con delle conoscenze di tutto punto richiede un sacrificio personale
+anzitutto veramente enorme veramente enorme poi c'è chi è super brillante per ridai riesce molto rapidamente a tirarsi tutto dentro forse siamo noi che siamo un po' stanchi perché ormai lo facciamo da tanto tempo è però c'è qui non è più un discorso di qual è la stel
+elaborare qua c'è una galassia ha oramai da da seguire e soprattutto continuiamo ad essere bombardati da i reddit twitter il scusatemi feed redditi il feed twitter feed linkedin che continuano a subissare di cose nuove giusto
+per ironizzare un altrettanto lo il ventiquattro aprile è stato lanciato un nuovo package manager per perugia javascript filtro cioè teton lanciato dall'ecosistema abbinano no però
+quante vite dovremmo avere per portarci a casa queste cose un giovane un una persona che comincia adesso probabilmente una delle cose migliori e può fare quasi re idea e intanto affidarsi alle altre persone capire un po'
+anche grazie alle community di avere un po' di orientamento cercarsi un mentor qualcosa perché altrimenti oggi sbagliare rapidamente strade un attimo conoscere gente e ascoltare seguire non chiunque mette un maledetto post su linkedin scusatemi e bosusco
+rosa diventò ancora sorpasso correggerti solo in corso d'opera non tanto sbagliare direzione perché ripeto su questo dipende molto qual è l'obiettivo finale da raggiungere proprio che altro sviare dal percorso cioè se in corso d'opera arriva l'altro diciamo però è figo anche quell'altro allora se ti perdi dal percorso e anc
+più problematico
+anonima ma giustizia lentissima correzione c'è però secondo me se usassimo anche oggi per una persona che si trova in questo ambito o che vuole entrare in questo ambito è difficile anche capire l'obiettivo tre è il problema più grosso
+questo io probabilmente dico a conoscere le community magari avvicinarsi cominciare a conoscere le persone omo come dicevo prima non seguire qualunque tosto su linkedin ma riuscirà a filtrare veramente la gente che poi dice
+le cose di un certo tipo di una certa importanza e gabbiano che non siano a loro volta a
+influenzate da quello che succede nel mondo e quindi da tutte e tutti gli oggetti brillanti che andiamo a vedere d'estrema quindi bisogna saper filtrare un sacco e se oggi non ti dà una mano qualcuno è veramente difficile difficilissimo che io sfido chiunque a senza una guida o come
+chiacchierando con un amico amica una persona di cui si fida perché sa che conosce bene l'argomento ad orientarsi un minimo sul mondo delle email fronte sul mondo delle aree ci sia non avesse avuto un dialogo con un paio di persone probabilmente starei ancora scartabellando lì
+guardando corsi qua e di là mi sono bastati due libri per avere dei concetti molto più robusti e poi pian piano mi aiuteranno a costruirci un po' sopra poi lo so con gli argomenti no figurati però è un buon punto di partenza eh e poi leggete i libri dell'asl al
+punto intel valentia che la pubblicità comunque a fort lee
+sponsor permanenti serena no ma aggiungo che comunque
+ho tanti
+riflessioni tanti anche bias probabilmente
+oggi fare qualcosa da autodidatta e completamente immensamente più complicato di quanto poteva essere una volta che puoi per noi era più complicato di quello che poteva essere per quelli che c'erano prima di noi
+sul discorso dei consigli ovviamente o sposo questa teoria bisogna anche trovare quelli giusti perché a volte i consigli sono anche abbastanza anche loro
+portano con sé dei bias cioè anche nelle community io comunque visto teorie diverse c'è gente che magari consigliava per qualcuno che voleva fare il front-end developer partire da chi per esempio da java eccetera per carità sono tutte magari visioni diverse
+dello stesso risultato però molto influenzate da quello che è anche il proprio background trovare l'informazione oggettiva e più adeguata quello che la la propria personale esigenza è chiaramente molto più più difficile giustamente come dice francesco bisogna filtri
+ore molto
+fare le cose da autodidatta ci si riesce ancora ma è molto più difficile mantenere il focus l'attenzione non farsi sviare perché
+io guardassi questa o questa road map oggi tramite
+inizierai nemmeno per noi avevo una cosa che se da un lato una fortificazione tecnologie richiede competenze sempre maggiori e differenziate normalmente per essere produttivi alcuni erogare qualcosa di fruibile non è neanche decisamente bisogno di sapere in profondità certe cose nel senso che puoi
+poi abbracciare il freno di riferimento capire quei concetti base e sei in grado di fare qualcosa che poi magari quello che ti serve fare sul tuo lavoro e senza aver mai tutto un background di conoscenze che magari uno esperto vecchio ha accumulato il passato ma che sono appunto coscienze su tecnologie passate
+magari non sono più correnti o necessarie è vero che l'esperienza aiuta ma è anche vero che no
+non so
+come dicevo prima oggi più o meno almeno per quanto riguarda i framework in circolazione se tu conosci le basi più o meno ti barcamena proprio perché la conoscenza delle basi l'inverso è molto più complicato quindi avere una conoscenza diciamo così a grandi linee di un framework senza avere tutta la conoscenza pregressa di quello che succhia
+sede sotto
+non so se riesci a fare esattamente questo tipo di percorso con successo ecco io sono più della scuola privata impari le basi poi fra vedi che ti arrivano siamo d'accordo ma la mia non è non imparate le basi ma e potrebbe bastare sapere la
+superficie senza decisamente conoscere le basi per poter erogare fare un qualcosa di presentabile lavorativamente parlando poi a livello di rete viene a liga dipende cosa devi fare se no va beh va da sé per fossi io lo vedo più traslato lato operations dove magari oggi non ma anche se kevin
+indispensabile sapere di come configurare certi software open source come gears apache così che una volta era imprescindibile adesso sono totalmente conosce le compilazioni certi strumenti perché poi alla fine non ne hai bisogno nel senso che magari hai contenere che ti fa quello è tuo alla fine non è che devi confidare pulita
+però forse si trasla poco e volevo aggiungere una cosa
+a un po'un quello che dicevi diceva simone
+scusate
+mi ricordava non so se avete visto l'ultimo film di maccio capatonda no
+quello dov'è poi a lui si ritrova nello stesso mondo ma senza tecnologia senza aver un ritorno alla tecnologia gli anni novanta e lui era abituato a guidare sempre solo con il glam con il navigatore c'è
+parte con la macchina non ha idea di dove andare ecco se tu conosci wild frank morgan e alla fine ti viene tolto sei come maccio capatonda e senza naviga downloads andare avanti
+tra l'altro per chi ha la nostra età guardatelo perchè è veramente una grandissima iniezione di amarcord e poi a adeguando dici tu io c'era un commento al quale volevo rispondere però non voglio interrompere il flusso maria di serio vuole raggiungere wall cosa ecco no
+in realtà quello che dicevo anche all'inizio iniziare ad essere drammatico quindi ho tanto tanta ammirazione per chi si butta in questo mondo adesso mi sono vista la scelta e mi rendo conto che guardando la roadmap la mia reazione leggermente differente nel senso
+più che dire oh mamma vuoi concentrare tutta sta roba è
+ci rendiamo conto che chi lavora per esempio nell'ambito affrontando anche diversità overland dovrebbe sapere tutte queste cose e spesso non lo sa
+sarà una domanda
+ma va bene e qualcosa non le va esclusa una cosa oggi
+promotion a me ha fatto partire la prima lezione del corso per recruiter per te recruiter è una delle domande che mi hanno fatto eh ma come devo valutare un junior che non mi sa definire la differenza tra framework linguaggio e io ho detto beh insomma
+non sa la differenza tra le due cose non so pm
+la red flag ma se ti fa il tuo top front end web comunque con noi infatti dipende poi da come lo devi collocare traccia
+mi faceva un pochettino sorridere
+ma anche in virtù del fatto effettivamente di tutta questa roba
+effettivamente andrebbe saputa ma non so quanti effettivamente la sappia tutto prima di definirsi fronte a vero per noi c'è anche da dire che fosse
+rispetto anche a quello che dicono testimone
+in una serie di colloqui
+ti ho fatto diciamo che evitò sempre di fare domande dirette dimmi la differenza tra perché per me ci può stare che tu sappia determinati concetti altri non ne abbia mai visti per proprio per quello che dicevamo prima approcciarsi a questo mondo di ideali e tu magari usi questa roadmap ma comunque ti stai perdendo qualcosa di importante che tu sappia di non saper
+here è una grande differenza perché comunque anche quello può essere uno spunto per dirvi so di essere junior ciò che vi manca ancora tanto questa cosa me la son persa mea studio e me la vedo anziché che risorse puoi suggerirmi epson e può fare tanto la differenza dire guarda non ti saprei rispondere ma se mi dai qualche dritta proverò volentieri presentano
+questo però siamo un po' uscendo dal binario me però ci sta un atteggiamento mentale come approcci un qualcosa che non sai fra il la presunzione saperlo e conoscenze non saperlo e di dover approfondire fa la differenza e leporino po' tutti no no nessuno nasce imparato ma
+e poi anche anche tutte queste competenze che appunto io da non front-end è bello per conosco vagamente solo in parte e son cose che poi uno accumula cielo di adesso che magari adesso ne conosce il framework perché comunque è in grado di far qualcosa perché parte dall'alto poi col
+tempo scaverà e accumulerà esperienza e conoscenze e tutto quello che poi serve per dare sostanza alle proprie competenze no però ragusane per house
+se io ora ovviamente qui stiamo parlando su una pagina web per carità non voglio generalizzare ma se io ti dico qui di fare delle scelte o qui di fare delle scelte non è proprio la stessa cosa cioè quando io arrivo impicca fra monaco e quindi
+cosa devo vedermi di tutti prima di decidere quale scegliere o è quello che mi fa da driver del mercato che quello che devo scendere cioè è la vastità della
+le cose che ci sono in giro che creano grande complessità per questo ah io prima accennavo al fatto di magari affidarsi a poco ma molto robusto parlo di fonti in particolar modo a me con cancro stesso fatto parlando un po' tornando al discorso iniziale che
+una volta era il web master che faceva già tutto adesso sai il developer il grafico il like unix
+ai designer è quello che fa sì o no gsss la complessità delle
+delle delle tecnologie neanche poi moltiplicati i ruoli che servono e serena come enrico da valido vale per te vale per tutti quando volete andare non c'è problema dite devo andare salutate nessuno vi ferma così come per tutti quelli che ci vengono in chat cam online se volete intervenire
+dire la vostra e più posso dire una cosa prima d'essere ma vi amo e voglio fare anch'io promotion vero lo faccio in maniera molto esplicita e diretta da dove parliamo di front-end finalmente anche al sud stiamo organizzando una conferenza che sarà il ventotto giugno
+la prima edizione sarà dedicata al fronte quindi chi ha voglia di venirci a trovare al catania ventotto giugno lei saremmo felici di me si chiama qooder full ma soprattutto quello che ci interessa è far sì che la gente possa conoscere
+la possibilità che anche al sud ci siano delle conferenze non degli speaker come serena sensini ad esempio è
+o dei partner come simone don righe non avevo mai visto però il caso vuole che ma che coincidenza incredibile incredibile guarda io appena appena l'ho visto tutto e pure questa mi ricorda willy william
+con chi sei e quello code of july ventotto giugno luglio con la speriamo una bella temperatura non basta questa parentesi ricordiamo però ci tenevo a dirlo ma soprattutto perché è no no non è per arrivarci a tutti i costi ma anche trovarsi in ebay
+enti che possono essere guasto può essere qualunque altro tipo di conferenza può offrire tantissimi spunti per conoscere o come sta andando il mercato o cosa ci può portare magari low lay la fonte più atten
+bible che non è la conferenza stessa ma chiaramente sono le persone che la fanno nel centro gli speaker che sono lì a parlare questo secondo me è una grande una grande cosa da attenzionare che non per forza dev'essere una conferenza ma può essere come accennavo prima la community e o quant'altro e basta e si affrontando che sia qualunque altra cosa al vostro ris
+fondere a quel commento e secondo me è assolutamente da commentare un attimino
+troppo o streep osimo osimo strappone cosimo
+ha scritto una cosa la stella polare il woolrich con e alle cinque e vabbè e whatsdog il problema è che per esempio google talmente tanta influenza che se decidono di buttare dentro qualcosa nello standard lo fanno unilateralmente vedi l'abominio di kampala secondo me che mi serve
+doni non ucciso un po' di inesattezze in questo in questo concetto che lui espone non conosco cosimo anzi cose o collegati se vuoi rese animate per agire direttamente ma ma semplicemente per due ragioni amp non era uno standard outreach ampera un progetto
+ho lanciato per ottimizzare l'indicizzazione alla pagina web progettò nato in un modo cresciuto in un altro è fallito in un altro
+modo ancora cosa che assolutamente mi trova d'accordo non è però vero che gugol
+e non lo dico perché io sono un google fan però non è vero che qualunque cosa viene introdotta nella nella standard questo secondo me l'errore molto grave non è assolutamente vero che qualunque cosa va in testa google viene introdotta come standard anzi per quello che
+sono il mondo del web per primo lo standard è uno standard pubblico ha votato scusatemi gestito goodrich enel e poi il pc trentanove per quel che riguarda il linguaggio e comunque sono e chiunque può fare una proposal
+chiunque può portare a casa dei risultati o comunque fare parte di questo gioco che cosa intendo ovviamente c e woolrich sono delle
+a delle cerchie di specialisti diciamo così io però faccio un esempio su quello che si dice viene introdotto tutte le web app ad oggi introdotte da un po' di anni a questa parte vengono introdotte seguendo invece un approccio estremamente de
+lower driven community driven cioè la community stessa di sviluppatori che può proporre delle nuove pikaia ovviamente non puoi dire vorrei fare le pieghe dei pasticcini o le pieghe del caffè vanno chiaramente e preparati a delle proposta di un certo tipo ma che poi
+vengo su
+vengono affrontati svariati stage mariadb fasi in cui l'app viene studiata viene discussa viene messa in cantiere viene testata dagli sviluppatori stessi sul campo ma non gli sviluppatori la cerchia ristretta anch'io po'
+posso tranquillamente farne parte
+a per poi essere deplorata non a caso le web di oggi sono molto più ergonomiche rispetto alle più di una volta perché perché vengono utilizzate agli sviluppatori sono tutte eccezionali no per carità però c'è stata un'evoluzione enorme sotto questo
+punto di vista altrimenti probabilmente a tutto quello che vediamo oggi sul web non sarebbe così eccellente come come ci sembra basta scusatemi un momento polemico però si deve comunque cosma risposto anche specificato che neanche riteneva che a jaime pir avuto se non l'aveva
+scritto non ho inteso e poi sottolinea il fatto che google e altri possono usare lo strapotere nello sviluppo dell'engine chromium per dettare la loro agenda e quindi forzare certe me mi succedeva dai tempi di microsoft interessa fare quando introduceva cose che facciamo roma trans io io quello che voglio chat mentre quello che voglio trasmettere incont
+troy è verissimo cioè non ci nascondiamo dietro un dito è chiaro che i player che hanno il controllo di questo di queste tecnologie poi la fanno da padrone però di contro non dimentichiamo che senza questi driver il web non sarebbe quello di oggi ma non sai
+front-end non sarebbe quello di oggi
+grazie a google abbiamo uber aedes o così come grazie a microsoft abbiamo da script cioè va sempre un po' secondo me contestualizzato quello che nel bene e quello che nel male cane allora prima che serena ci lasci faccio una domanda lei poi risponderete anche a risuonare anche gli altri
+mondoweb duemilaventiquattro e quanto è cambiato rispetto a quello che era dieci anni fa ad esempio è come pensate potrebbe cambiare ed essere fra una decina d'anni domandina adesso un po' di tremarella sui dieci anni fa perché secondo me ti stai un po' facendo i conti della serie vediamo vediamo quanto posso andar
+indietro
+tu sei giovane vero flagship killer
+quando quando ha iniziato a lavorare ci diciamo e diciamo poi gli altri risponderanno a c'è come hai visto cambiare come hai visto evolvere proprio tutto un lato sviluppo web front-end allo sviluppo abbiamo detto alla baionetta sicuramente le tecnologie si sono moltiplicate con esse la complessità connessione a scelta e la
+la cosa forse interessante da notare che con questo cambiamento comunque sono arrivate anche tante cose positive anche tante semplificazioni perché poi non sembra che parlo sempre abbiamo fatto tanti discorsi come a dire hanno cominciato a lavorare in questo settore perché altrimenti è da spararsi vista la quantità di informazioni da me
+imparare in realtà comunque un settore molto interessante
+le l'evoluzione secondo me si vede molto anche evan da oppido che sono cambiati tanto nel tempo emise prima all'inizio abbiamo aperto parlando di webmaster no era un po una figura ibrida tra quelli che adesso sarebbero ruoli diversi un po' di web design è un po' una specie di sita admin master di personalismi
+luppa e adesso non c'è il front-end developer ma ci sono persone che sono specializzate in sottocampi del front-end quindi si rende conto che è il front-end e molto di più e molto di più ci sono diversi aspetti a cui dare attenzione c'è ci sono persone che sono specializzate l'accessibilità persone sono specializzata in design s
+stemma o dall'ambiente nella nella
+user experience e user interface quindi e il mondo è cambiato infatti anche tramite il blog mi diverto poi intervistare persone che lavorano in questo settore per staccare un attimo di capire che cosa fanno nel proprio quotidiano no perché a volte è difficile veramente destreggiarsi con tutti questi tutte queste professioni e
+panellenico ad essere fratello mi rendo conto che non è così banale di revoche front-end perché
+ci sono tante complessità da affrontare anche che vanno di pari passo con la tecnologia fisica che non utilizziamo se prima dicevamo i siti web si navigano principalmente da concludere chiudere comunque da smartphone o da tablet erano diciamo una fetta di mercato molto meno importante adesso la maggior parte del traffico tira direttamente
+suo
+piattaforme portatili i computer t ma hanno ridotto drasticamente l'utilizzo acquistò fa sì che bisogna anche riflettere tanto su gli aspetti legati alla compatibilità dei sistemi che anche qui non è banale per niente però lascio anche francesca simone altre considerazioni
+che magari lavorano interessanti ma intanto se ero nato guadagno per curiosità quaderni trend nel duemilaquattordici
+all'incirca si parlava comunque di single page spazio ce n'era uno qua ne curiosità single page website responsive design offset development front-end framework però si parlava di bootstrap
+ah e di software as a service web
+non esiste più su e già che ci siamo bootstrap si usa ancora
+ancora in corso ancor surclassato ormai direi da tale wind ma comunque c'è ancora
+diciamo che dal duemilaquattordici a oggi è cambiato prevalentemente l'utilizzo che si fa del del web è quello che ha guidato anche il modo con cui le cose vengono vengono sviluppate
+le infrastrutture
+si accede tutto molto più più velocemente con
+tipologie di contenuti anche anche diversi quindi front-end women per come lo conosciamo è cambiato perché sono cambiate le cose che si fanno lato lato front-end modo con cui con cui si fanno soprattutto con cui si consultano sono cambiate le esigenze giustamente come diceva serena entrano in gioco temi di accessibilità
+sa e quant'altro pd il fatto che negli ultimi dieci anni comunque le
+l'accesso alle al mondo web o non web comunque molto più ampio rispetto di dieci anni fa e lasciamo stare quello che poteva essere addirittura più tempo ella ha fatto sì che comunque
+necessariamente questa
+queste necessità abbiano portato a un'evoluzione delle dee delle tecnologie per dar modo di rendere fruibili a tutti quelli che sono le le le applicazioni e tutto quello che si può fare lato la web non solo su uno schermo di pc parliamo di smartphone anche altre tipologie di
+dispositivi che non c'erano dieci anni fa
+completo dicendo che in realtà come finestra temporale secondo me di fa tanto ma non tantissimo perché dieci anni fa usciva quello che era angular due quindi già avevamo vissuto l'epoca di angular haines
+lato hardware front-end è stato il giro di boa vero al netto di tutto quello che avveniva prima beach bunny and the e tutte queste belle cose è quello che è cambiato soprattutto a più di tutte in assoluto come si ma sul sicuro angular due del duemiladue
+ed ecco una gioia s duemilanove duemiladieci mohamed ma un po' più in là sinceramente credo che la versione due sia stata lanciata nel duemilaquattordici o giù di lì whatsapp giusta
+sta di fatto che quello che è cambiato veramente tante l'utilizzo dei dispositivi come gli smartphone quello secondo me è stato il vero giro di boa quello che è cambiato sensibilmente tutto utilizzo e sapete qual'è la cosa ironica
+troppo sorridere che oggi navigare il web da mobile è impossibile non so se voi scrollate il feed di google news ad esempio di qualunque feed di news e provate a leggere una notizia senza avere diciotto mila
+over lei di sopra di pubblicità devi andarti a cercare la ix piccolina qualche parte chissà dove cazzo l'hanno nascosta per riuscire a leggere cinque righe di news lo anche un po' quanto quanto in realtà si parla tantissimo di qualità e di beatles di west duello
+poi nella quotidianità probabilmente quello che diceva alessandro prima cioè o in bubba quattro cose farle funzionare workshop chiaramente semplificando e gustavo è tristemente quotidiana il libro ad osimo conterrà due bill ward gary ci dice ma infatti duemilasedici angular duemilasedici due
+duemilasedici di gela wikipedia guardiamo come video wikipedia wikipedia angular a key west sì angular due più vediamo cosa ci dice angular non angular largo diceva il quattordici settembre duemilasedici la prima release aspetta ah scusami però è stato presentato nel duemila
+quattordici è stata denunciata nel duemilaquattro fatti io mi ricordo che nel duemilasedici ancora usavo angular generis prima release duemilasedici com'è
+dieci anni sono otto anni però diciamo che già le carenze di diego chargers erano palesi da da da tempo però angular jazz forse duemiladieci qualcosa più o meno duemilanove vabbè comunque di bowden porta elisa elisa settembre duemila duemilasedici sette anni fa
+mamma mia come passa il tempo quando ci si diverte eh
+in gàbaon e ne approfitto per salvarvi e il distacco browser ciao serena ragazze
+spero di averti conosciuta un serie di conoscervi assolutamente speriamo di altri magari bresson alla prossima alla prossima
+incontra
+ciao ivan allora veicolo anche una domanda che arriva da o no da toni zucchini e che ne pensate di elisir e elisir io non so neanche cosa sia allora
+con front-end non c'entra proprio
+trovo assolutamente nulla aspetta e volevo vediamo se leggo la domanda un attimino sono trovata un attimo così è un linguaggio di programmazione no
+inoltre ritengo un buon tema oceano dal linguaggio funziona ma dov'è questo zelo ed aveva scritto governo toni di zucchini una domanda diretta a aspetta di cercarla nella babele chiunque quindi non avete idee specifiche comprende in iraq etc no no no no era il front-end
+no però ehm
+birra l'oim elixir front-end ma guarda scopriamolo adesso questa cosa no eliski rom no ma forse intendeva elixir è ligure me con aics ah no eliski è un linguaggio svolge elisa un linguaggio comune non ha è basato su erlanger
+mcneil ma tutt'altra roba agio e non ti iscrivi front-end aggiungerei fortunatamente però se gli interessano i linguaggi funzionali non so se ancora su c'era un framework veramente internet era una libreria veramente interessante funzionale che si chiamava elma
+se esiste ancora e seguono le parti di sé ancora el m era c'è super super funzionale e molto interessante sarei curioso di vedere a port said
+sursum eccolo qua sì su github l'ultimo commit sette mesi fa beh oddio è ancora vivo è ancora vivo però non non viene mai invece facevano domanda ma tu francesco blazer l'hai mai usato è andato via saltarello will
+e ho pensato anch'io ma allora no dio blake esordirono l'ho mai utilizzato o a baiso re palesemente una soluzione per introdurre e per migrare e gli sviluppatori glass sharp scusatemi
+in in
+mondoweb su un web show su front-end a perché sostanzialmente un modo per schede front-end in stick khartum quindi diciamo è una grande comodità lì con tutti i vantaggi e gli svantaggi del caso per scrivere web application per un team che magari almeno
+la mia opinione per un team che magari ha un expertise forte su back end su sisalpay quindi sull'ecosistema
+microsoft e dotnet e quindi si può facilmente muovere sull'ambito front-end però diciamo che ha secondo me dei casi molto specifici cecina eletti e realizzi le singole peggio application che hanno a che magari
+non puntano alle prestazioni in termini di vidas come dicevamo prima ma che puntano sulla forte user experience scusarmi developer experience è quella appunto uno sviluppatore di scarpa ah a questo non ribadisco e attenzione mai usato quindi tu ciao
+schierato molto con andrea ciò chiacchierato molto con michele aponte con a san diego con tanti altri che girano a colloquio con giù l'altro giorno però non ho un'esperienza diretta ecco
+e ciò non nega che a mio vedere questo crea un una difficoltà molto forte che comunque chi scrive blakeson uno tendenzialmente uno sviluppatore back end prestato al front-end non è detto che conosca così come potrebbe non conoscerlo uno sviluppatore front-end nato e cresciuto
+tutti i concetti che servono per rendere il front-end quello che necessita essere spero di averti risposto sì no sì sì sì no volevo fa ero curioso della tua opinione non ci omaggia so che viene utilizzato mam è troppo distante dal mio ecosistema difficile che ci metta le mani quindi immagino immagine
+immagino no va be'ma un caso d'uso ma perché lì in quel
+contesto microsoft è la manna dal cielo voglio senz'altro senz'altro a non so il progetto in questo momento che il tasso di floridità abbia ma penso che sia abbastanza spinto a penso proprio di sì e allora foto
+fra dieci anni cosa faremo ancora angular ventisette compagnia cantante o boom secondo me per i tempi che per la velocità che abbiamo stimare dieci anni o qualcosa di improponibile già due loris
+eppure ce ne dice anche prima acea duemilasedici angular due non è che poi se è
+era dieci anni fa adesso la velocità aumenta sempre di più e cioè stiamo parlando di una cosa al giorno praticamente non abbia cioè se tu vai a vedere da
+ad angular ga js angular due sono passati due anni ma da angular due alla versione caduti dal cielo oggi che stupido versione quanto passa cioè molto meno come tempo libero sfogo a me però le major league sono per angular sono semestrali e
+spero diciamo che ha una roadmap molto ben definita la verità è che in questo momento stiamo a mio vedere vivendo uno scenario che non possiamo facilmente comprendere appieno no anche perché tornando quello che dicevamo prima non sappiamo neanche che evoluzione tecnolog
+che ci saranno da qui a dieci anni c'è
+l'altro giorno mi è comparso un post vent'anni fa non c'era lo smartphone ok però quello cambiato tutto completamente quindi tra goten a dieci anni cosa ci sarà non lo sappiamo quindi anche il modo non tanto il modo quello che dovremmo fare per quelle tecnologie non pronosticabile no probabilmente no però
+io una cosa ne sono sicuro
+javascript uccisero
+già anche per capire cinema malaga chat e mail ecc quindi le basi di cui si diceva prima ma alla fine resiste a meno che non cambia completamente il mondo su cui ci muoveremo cioè internet sarà veramente tutt'altra roba blu
+a
+award e leggevo che ha apple a spostare stanno valutando di spostare la nuova release del visore delle polveri credo si chiami non mi ricordo
+al duemilaventisei mentre ne avevano in programma di far luce al duemilaventi lingue perché ancora forse la tecnologia ha bisogno di qualche martellata non quindi immaginare io immagino più un'interazione diversa con il web non tanto una
+forma così diversa però veloce
+vedevamo fa dieci anni ci saranno ancora computer con tastiera qwerty e mauser presumibilmente poi magari non sanno o diffusi percentualmente come adesso perché come abbiamo mai vedi il fatto è che comunque arriverà un'altra generazione che gli diciamo cioè proprio di persone
+noi saremo estinti vera me no che non usa il computer cioè la generazione attuale è quella di diciamo dei quattordicenni quindicenni che quindi sarà quella che tra dieci anni farà le cose non il computer non lo usa non lo uso e non uso proprio impedirà
+trama qualcosa è sicuramente cambiato il web lo usano si ma in una forma diversa cioè i siti web forse non li usano neanche probabilmente usano solo i social baby chiaramente cambieranno le abitudini però lo usano in una forma che non
+non siamo abituati quindi
+fra dieci anni fra queste sia nel duemilaquaranta
+il due terzi della popolazione italiana sarà quindi comunque ci saremo e giro a chi più chi meno a usare queste cose no non è che le cose spariscono e e però vedi anche gli attuali
+diciamo la terza età comunque si è adattata quello che è il nostro modo di utilizzare la tecnologia qui diciamo calore lo smartphone con facebook hanno quant'altro quindi non è che se noi cresciamo e ci portiamo il nostro modo ci adatteremo anche noi indubbiamente è domanda io faccio sempre la domanda fin verso la fine quando si sta poi quando volete io che vorrei
+fare il sito l'ha pagata dagli istinti e non soffoca mare c'è l'ultima programma voip capì però poi quando parati gialla grigia vado in difficoltà e che cosa potrei usare io pensavo achille fa una cosa molto lockwood è estatica per bisogni grandi cose cosa cosa potrei usare con una
+quattro immagini qualche video embeddato qualche testo per ogni video
+se la domanda più difficile
+una landing page no un sito con una pagina per ogni puntata con pagine tono tendenzialmente stati che comunque non ho neanche bisogno di metterci chi farà domanda ti vuoi orientare al risultato anche al divertimento nel farlo e all'apprendimento nel farle bravo tim questa domanda mi piace
+almeno uno parliamo di risultato prima ottenere cosa col minor con competenze possibili su gpt che ci faccia vabbè però mi hai chiesto
+minor sforzo possibile e si capì poi mi tira fuori una cosa che non funziona quindi non è che allora vuol dire ovviamente la soluzione più breve sarebbe mi dispiace dirlo ma sarebbe wordpress probabilmente c'è per per uno scopo di questo genere ridurre al minimo la parte di sviluppo se no se
+potresti utilizzare qualche strumento a astromauh mi dice che assassino infatti vivere infatti scrivere re
+perché l'altra l'altra opzione era se vuoi farlo imparando qualcosa sperimentando probabilmente astro click next sono tutte soluzioni che vanno bene basta quindi da uno scopo è infatti dipende molto da ma scusate achille si usa ancora morto
+esempi di protesta
+se no puoi pensare a quale gatsby peso ormai nel gazebo troppo e seppellito know i do il sito deve miei gatsby
+abbiamo realizzato qualche tempo fa e
+per ora sta buono lì compila le sue pagine in stadi x-light generation e quindi va bene però siccome il progetto di amy oramai non ha più l'impatto di una volta potresti trovare qualche servizio come webflow ad esempio
+che è totalmente no cover the front end e assemblare dad non so se per le pagine per un singolo sito di due o forse no no no no e no se non è semplice no vedo che uno pensa no code al web non è
+semplice no no assolutamente però diciamoci può costruire il tuo risultato finale senza stare troppo dietro il codice eh ma vedi
+se il discorso che facevo prima dipende vuoi il risultato o vuoi l'esperienza anche nel forum è un bel gioco
+la mia esperienza al loro che così cosa è il vostro nido d'accordo comunque che la lampo fra voi e la shipley proliferano i progetti come sempre qua a capri un vespaio di possibilità allora guarda ti dirò i network ugo può essere interessante perché poi delle
+due pagine di smackdown tesi è uscito anche henning gestiva il mark down gasbarri ripa wordpress effettivamente west woods è roba universal no-logo uno e un altro builder credo sono anche i tab pages alla fine insomma fa anche peggio se c'è praticamente non si fuma
+io non so e quello del crudo di esserlo che sui rimasta comunque vedo che effettivamente c'è un mondo dietro per cui vedrò
+ma scusate doppia capì che io ancora conosco si può considerare un front-end o che cos'è cioè di questi tempi è ormai e diciamo
+disaccoppiamento tra affrontarne back end
+i siti che sono fatti lato front-end ancora in piazza credo non ce ne siano più sinceramente ormai seat andati totalmente verso singol peggio application quindi bail out javascript avessi oramai
+piazza pia esiste e resiste con noi diciamo no e ancora sì ma non ci fai più
+plicazione monolite diciamo così o se ne fanno se ne fanno molto molto poche
+mamma mia quanto quant'è una generazione la mia generazione perduta
+tra l'altro tiene botta non si ha voglia cioè diciamo che secondo me il periodo più florido dal punto di vista tecnologico per capire un sito open space punto evo lo conoscete ma il maestro parlare open skills punto info europa per sistemisti vecchissima esiste ancora però ha in via capì inizi anni duemila
+funziona ma ancora lì è però molto basic e come a questo proposito mi viene un'altra domanda mam aggiornare questi freiburg cioè quanto è peaceful fare un aggiornamento ma un passaggio di versione so angular o qualsiasi altro da una persona bisogna anche voi magari problem
+di sicurezza come cinquant'anni si fa male è normale o un sito bene o male una volta fatto questo se vuoi fare al netto di qualche piccola modifica no e ovviamente ovviamente questo genere di strumento lo usi per fare applicazioni e se l'applicazione manutenuta dovrei
+resti fare un upgrade progressivo di alamo wind se se se fai l'update di angular dalla quattro alla diciassette
+che vuoi fare
+dalla croce segno della croce tv napoli femminile anche se noi qualche settimana fa abbiamo fatto un'analisi grovius di un angular quattro ricorre alle diciassette
+se è un processo iterativo che segue un un flusso temporale senza donna così impossibile al netto di breaking change so di cambi epocali a
+will ti consentono di gestire la migrazione anche un po' a non troppo repentinamente o troppo in un unico blocco ma
+a farla progredire nella nell'arco di qualche mese molto intenso e
+va bene ragazzi salutare stavo stavo giusto chiamando la chiamata alle armi finale per cui ti risparmio quello che si francescano puoi andare avanti a oltranza par di te monologo ti lascio
+bavaro vado anch'io vado in giro infatti è qualche osservazione finale che volete magari raggiungere ogni spettacolo che non ci sono ancora detti o qualche last words for it's too late
+ma guarda probabilmente a
+ancora c'è tantissimo da fare
+quindi c'è spazio per tutti ma ci vuole tanto impegno e tanta buona volontà quindi se uno ha voglia di a crescere in quest'ambito a sviluppare front-end sviluppare qualunque altra cosa non fate solo il
+compitino ma c'è veramente tanto se vuole teste dei dae
+degli sviluppatori di tutto bud no fare il compitino per la giornata di lavoro e tornarvene a casa c'è veramente tanto sacrificio e tanto sangue da buttare sulla tastiera che non vuol dire annullare la propria vita e però vuol dire studiare da soli su questo condivido così o chiudo anche
+anche io
+mondo web specialmente modo frontale molto inflazionato dal punto di vista anche di di di chi ci si approccia di chi te lo fa imparare e quant'altro quindi puoi veramente
+già
+facilmente t ti trovi di fronte a alla carriera da ad affrontarne vero perciò a volte
+tutta la buttano avanti si sarà anche tu la voglia particolarmente però poi la differenza la fa chi è in grado di usare bene gli strumenti e usare bene gli strumenti vuol dire conoscerne i principi i motivi per cui sono nati cioè nessuno almeno credo di quelli che sa palace dice ma perchè è nato react cos'è che fare
+yacht o fa angular che è così interessante per cui è stato dovuto perché per cui è stato creato o perché è stato creato astro e così via
+queste tipologie di domande ti portano ad approfondire e fanno tutta la differenza del mondo nel momento in cui le comprendi e sei in grado di usarle a tuo vantaggio l'effetto mi sembra un'ottima chiusa io vi ringrazio ringrazio tutti quelli che hanno partecipato in chiatta non tantissimi
+livio gaetano cosimo marco andrea e marco ancora francesco
+devo dire tutti questi punti gary è che
+spettanti sono ancora abitanti scusate sono veramente tanti alcuni si sono aggiunti alcuni sono andati grazie grazie a tutti e spero di rivederci presto oramai che ci conosciamo e ha fatto piacere conoscere francesco anche perché men arctic no
+muovono quand'è che sei a catania detto il diploma di will da domani la omicidi
+harvard

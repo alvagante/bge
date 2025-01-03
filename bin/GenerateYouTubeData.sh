@@ -24,8 +24,8 @@ for FILE in $( ls *.mp4 | grep -v 'timebolted' ); do
             # Run the YouTube get info script
             echo "Running $SCRIPT_DIR/GenerateYouTubeData.py \"$EPISODE\" \"https://www.youtube.com/playlist?list=$PLAYLIST\" > \"${DESTINATION_DIR}/${EPISODE}_youtube.yaml\""
             $SCRIPT_DIR/GenerateYouTubeData.py "$EPISODE" "https://www.youtube.com/playlist?list=$PLAYLIST" > "${DESTINATION_DIR}/${EPISODE}_youtube.yaml"
-        else
-            echo "Skipping, ${EPISODE}_youtube.yaml already exists."
+#        else
+#            echo "Skipping, ${EPISODE}_youtube.yaml already exists."
         fi
     fi
 done

@@ -1,0 +1,470 @@
+sotto il manto della notte
+una brigata
+già estinti e così si fanno chiamare ogni lunedì
+pronti a navigare
+l'intelligenza artificiale da codici e se puoi un viaggio senza di te
+sì no
+con una
+il passato il futuro
+gata leggi
+destinati
+sì perché
+codice
+è
+ho qui i colpi di mano tra reale e virtuale in un dibattito
+pulito senza fare
+devo alzare per condividere apprendere insieme
+tutto questo che sia proprio adesso
+e quindi
+ma
+e quindi
+e quindi
+ma
+e quindi siamo arrivati a puntata settanta della brigata dei poeti estinti e stasera parliamo di news
+casi d'uso e in particolare ai wurstel scopo che si è temuta e quando venerdì scorso poi il tempo passa
+venerdì scorso e di cui qui abbiamo due organizzatori poi altri forse ci seguiranno che si collegheranno per cui è chiaro subito a luca e martino di presentarvi e poi andiamo avanti by luca
+ciao a tutti e grazie
+alessandro non sapevo che cantassi così bene tra l'altro sentendo la siria
+come
+mi presento sono luca mercalli consulente cloud
+the box
+ormai mi sto capitalizzando su queste tematiche
+vasco in primis come sviluppatore anni
+vedi un po' sparati quindi mobile web così via
+me su tematiche più sistemistiche abbracciando quasi fisiologicamente ecco tutto un ambito ocse le conseguenze
+buona la partenza della verticalizzazione da qui anche un po' insieme
+amici qui presenti uno o meno tra poco abbiamo deciso di organizzare anche questo tipo di incontro
+martino ma se io ho anch'io diciamo una parte di un inizio in accademia è un poco fruttuoso io l'accademia non eravamo fatti per stare insieme
+però avendo sempre smanettato con
+operativi quando mi sono dato l'informatica applicata diciamo mi sono messo a lavorare quasi subito sull'infrastruttura quindi poi devops poi platform come si chiama adesso
+sempre lavorato modo kubernetes cloud native sul cloud dagli albori dei dubliners in poi ho adesso faccio il consulente indipendente nel campo dei e carnet formatore occasionalmente speaker ecco sostanzialmente
+questo è un po' il background molto bene allora stasera io parlerei oltre che la conferenza ma in realtà la conferenza magari ne parliamo indirettamente vorrei parlare un po' dello spirito la conferenza seguirà un po' questo spirito intanto news punto colf meglio news com
+o perchè questo nome e qual è appunto lo spirito che vi siete messi in testa per un simile evento
+ma allora è partito dal fatto che insomma noi siamo siamo stati colleghi ma comunque siamo
+viviamo nella stessa città e quindici ci troviamo anche per per fare quattro chiacchiere e una
+è una delle cose che ci siamo che ci siamo detti sostanzialmente è che
+ci sono varie conferenze tecniche in italia con interessanti e molto belle in cui i singoli noi partecipiamo peraltro siccome a volte anche come relatori ma ci pareva che fossero tutte molto cioè che mediamente siano non tutte ovviamente difficile dire tutte bisogna averle viste tutte però
+molte se che siano molto
+molto sbilanciate sul lato tecnico delle tecnologie informatiche no che poi come proprio il primo voglio dire e da raccontare una tecnologia è una cosa interessante andare a raccontare magari i dettagli di come funzionano certe cose proprio quelle nuove diciamo è una parte importante della
+quello che facciamo però ci mancava secondo me una maggiore rappresentazione del fatto di invece di raccontare delle esperienze di trasformazione tino perché comunque poi soprattutto quando lavoro su progetti complessi o di lungo periodo o in organizzazioni complesse non è tanto la tecnologia
+specifica da cui partire ma è partire i principi i percorsi le buone pratiche e il modo di spingere anche organizzazioni riottosi complesse e ad andare in una certa direzione ed andare verso certi obiettivi no quindi mentre il funzionamento del dettaglio di specifiche tecnologie
+framework software pur essendo importanti e piacevoli sono già ben rappresentate nel campo degli eventi di conferenze community quello che vuoi questa parte invece di raccontare dei casi d'uso di adozione di tecnologie o di buone pratiche ci pareva che non ci fosse
+se un
+un posto dove andare a raccontarlo
+l'idea prima o poi di diego braga che penso ci raggiungerà a breve
+è nata da questi discorsi diego ha detto perché non facciamo proviamo a fare un nostro evento proviamo a vedere se c'è un interesse o insomma
+abbiamo fatto un sondaggio certo interesse c'è è saltato fuori
+ho provato organizzarla e ci pare che segue venuto bene come puoi come prima come prima edizione c'è più
+dimentichiamo che niente
+idea da questa conferenza club sing off che se va bene
+imperdibile
+che la conferenza in cui si fa a distinguere magari step
+dormire mi tolgo del comitato organizzativo
+no poiché questo buonismo di sing golf è una cosa da anziani che devono fare i giovani io sono anziano nostri spero
+tentare di fare il gioco
+se c'è una conferenza se mi mettevo subito
+diciamo che è una cosa che è venuta fuori che che quello che
+poi alla fine cosa vuoi ovviamente tu questa cosa l'abbiamo pubblicizzata tra virgolette tra a volte rischi di pubblicità nella tua bolla perché ovviamente quelli che sono più vicini a te magari sono più simili a te quindi avevo un po' l'idea che potesse venir fuori una cosa particolarmente incentrata sulle whoops sull'infrastruttura
+perché noi gli organizzatori veniamo un po' da quel quel giro lì da quell'ambiente lì invece siamo riusciti a penso poi sta a me dirlo ma siamo riusciti a comporre un in-app speaker che va senza avarie perché si è parlato di devops di infrastruttura ma s'è parlato di
+metodologia software si è parlato di apprendimento si è parlato di green jobs quindi alla fine
+quello che volevamo fare non era il contrario di verticalizzare su una specifica tecnologia ma al contrario stare avere un taglio orizzontale da questo punto di vista è trasversale e quindi questa cosa
+c'era fin dall'inizio e penso sia stata diciamo
+penso che l'abbiamo portata avanti insomma quindi anche se uno poi si guarda chi è venuto a parlare di cosa ha parlato direi che abbiamo mantenuto questa varietà è
+peraltro abbiamo registrato tutto in maniera un po' artigianale
+mi è venuta bene e quindi fra un pò diciamo tempo di fare il montaggio dovremmo essere in grado anche di pubblicare video su su youtube quindi dare la possibilità a chi non c'era di di vedersi insomma
+molto bene luca domanda per te un po' meta domanda allora io esco
+qual è stato lo userei per voi nell'organizzazione tutto è stata la vostra prima esperienza di organizzazione della conferenza promesse
+quindi quali sono stati i io scrivere l'organizzazione le sfide e le problematiche quanto come è stata organizzata la conferenza diplomatica di questo gesto
+beh prima di tutto comunque avere a che fare con tre teste parecchio diverse tra di loro no né bene né male che comporta anche questo rende comunque sia il fatto comunque di cercare una linea comune che fosse effettivamente condivisa anche più banalmente nelle cose anche più pratico quindi questa cosa la facciamo sì no sì
+come funziona quindi passando fino da partendo da ad esempio la scelta di non so attribuire i beige che si sono iniziati un po' a vedere sui social e virtuali per coloro che hanno partecipato quelli che hanno partecipato invece come speaker stampare pro
+dure ad esempio i pass per coloro che entravano ecco tutte cose che sembrano banali mi sembravano banali anche a me all'inizio però effettivamente si sono rivelate comunque anche impegnative come la loro semplicità ma comunque produrre per tutti i pass e trovarsi per testare i
+registrazione che fosse comunque una registrazione fatta in maniera diciamo credibile no perché un conto è magari di rocca resistiamo va bene resistiamo però l'effetto che poi potrebbe avere una stazione un po' buttata lì un po' improvvisata quasi controproducente rispetto alla foto di alla proprio import
+senza quindi un po' sì sono state un po' di sfide sicuramente e quindi i primi se si promette lab
+la registrazione audio e video e anche la stessa mattina fino a penso tre minuti e mezzo prima
+diciamo ha avuto dei problemi e banalmente non funzionava e proiettore che fa ridere e a cooperare per l'aiuto e le loro offerte
+esperti di automazione dell'infrastruttura e c'entra e non riuscirò a farlo andare c'è poco da dire alla fine
+spegni e riavvia twitter jack audio video si è rivelato in effetti efficace su brown sia anche il fatto di per dire anche personalmente di ingaggiare altro personale in casa per fare la catena di montaggio e farei passa stamparli tagliarli plastificati eccetera ecco
+è stato tutto una cosa fatta veramente a livello artigianale ma tutto sommato abbiamo visto una buona risposta siccome quindi anche
+banalmente i colleghi insieme partecipanti alla conferenza che condividono la foto del passo la foto del rollup che è stato fatto ecco è comunque frutto anche di soddisfazione sono il tempo speso e investito nel fare che quel tipo di cose che potrebbe anche un pò passava in secondo piano rispetto magari a ai tool
+fattivamente
+visti da un'altra giornata insomma secondo me ci ha dato una buona spinta anche per per proseguire per organizzare altre edizioni negli anni prossimi e pian piano magari cercare di renderla più
+so che è un po' più serio e un po' meno artigianale ecco ecco un po' più vivibile prima e durante la nostra
+un consiglio per voi stessi e per chi eventualmente volesse organizzare una conferenza cose da fare e cosa non fare per quello che avete fatto voi meglio stavolta
+ah sì sicuramente se ci sono le possibilità per farlo ecco la parte audio video assegnarla a dei professionisti perché è veramente un lavoro nel nostro caso erano fortunati che io ad esempio su quello martino molto afferrato e quindi somma siamo riusciti a mettere in piedi una cosa buona va
+holiday però devo ammettere che altrimenti sarebbe stato un po' troppo buttata lì per come la penso io e e anche trovare il posto adatto quello sicuramente è stato decisivo
+ma sugli aspetti magari non oltre rispettivamente organizzativi pratici che sono ovviamente la parte più intensiva a livello di herford poi comunque
+ma allora noi siamo partiti se vuoi penso sia anche un maiale ormai di paloma è la cosa che abbiamo abbiamo voluto metterci un po' di tempo né nelle capannine di provare a dare questo messaggio di cosa volevamo raccontare e tutto sommato è stato capito io penso e
+nemmeno ecc meno sexy magari di una tecnologia di un framework in cui è più facile magari soprattutto per persone più giovani e essere attratti da aggiustamenti perché poi anch'io sono uno smanettone no
+attratti da tecnologie magari
+è più difficile capire da da per un per un per un junior
+l'importanza poi invece di idee e buone pratiche evolutive all'interno dell'organizzazione ma è per per per natura ovviamente uno uno magari loro lo capisce dopo poi secondo me è così importante è stata trovare le persone adatte per parlare che un po' ovviamente è un peso che scopo
+essendo una delle prime edizioni abbiamo un po' invitato noi un po' di persone a mandare un invito a mandare una chef epsom è quella parte lì e penso obbligatoria all'inizio sommano poi puoi invece sono la triade proposta da gente che non conoscevamo quindi vuol dire che comunque ha tratto anche un po' più di pers
+sono però ovviamente essendo una prima volta delirio devi darti da fare turn che è né diciamo dei relatori adeguati nei nail iscritti a che vengano a vederla arrivano dal cielo bisogna andarci da soli a cercare ovviamente per chi magari come me ha poca voglia poco inclini a fare
+da parte della del marketing quello che c'è attorno bisogna bisogna farlo insomma
+però questa domanda cercare per cercare come ci avete trovato uno come luigi che abbiamo il piacere di avere qui ai ferri gianluigi lo conoscevamo era uno di quelli che conoscevamo però gli abbiamo proposto di mandare qualcosa a tema con lo spirito della house of louis gentilmente
+graziosamente l'ha mandato una cosa interessante
+e quindi
+selezionatore la selezionato
+sei fece sei lourdes e sei paranoie se anche in mezzo
+se è esposto al pubblico ludibrio
+e come hai trovato la conferenza ha visto che eri lì e hai parlato anche egregiamente ma se lui è figa nel senso che ci sono stati
+tour insoliti non classici della hbo
+conferenza classiche a guardare magari puoi provare
+conference dove andiamo abitualmente
+contiene interessanti da anche daniel
+stiamo portando dei casi d'uso uno o riformulo se uno va una conferenza padova sempre solo di cose innovative cose dell'ultima moda eccetera
+invece qui abbiamo portato anche dei casi d'uso non necessariamente
+innovativi ma efficaci che possano quindi dare un contributo a molte persone agli addetti
+potrebbe mestiere di goder
+in qualche modo risolvere delle vere e proprie problematiche mi ricordo fu alessandro su phablet che comunque sexy
+vuoi non vuoi un qualche cosa che
+ciao non che appartiene alla storia ma che si conosce già da tempo no come dire un concetto sdoganato l'uso di puppet e poi magari
+anche altri sistemi sono nati proprio in virtù di budget per farlo in un altro stile in una con un altro approccio
+e quindi
+per poter avere e toccare con mano quelle che sono state le esperienze di abuso case chiuse effettivi draghi efficace secondo me è stato il punto di forza della conferenza conferenze come diceva il buon diego braga mancava effettivamente una conferenza con questo stile
+in realtà mi sono piaciuti tutti quanti i tour
+e manca anche se ha detto la conferenza su dissent comunque ripeto insisto già che al mattino si è tirato indietro ma da me è un total
+se c'è una cosa assolutamente da fare bisogna mettere in piedi qualcosa adesso non so a voi che avete lo spirito di organizzatori io ci sto golfo
+uno chiamare fort e gay odin
+che siamo degli anziani che cercano di fare come dico io sono anziano però
+novità ti offre roma spiritose ci n'è un po' di quel vogliamo al politicamente corretto ci mettiamo un po' di sarcasmo e ironia essi fanno magari informatevi non solo presentazioni ma anche come dire non so chi di voi ha fatto match di improvvisazione teatrale in gioventù come persone sul palco
+co che improvvisano e la banda improvvisazione dicono cose in questo caso devo fare belle discussioni
+senza come dire la la la
+la briglia del dovere dire le cose
+politiche di
+puoi pagare insomma fa parte del gioco senza offendere esso uova
+ray tra le righe e il politicamente corretto vuol dire che sta dicendo una bugia
+hotel
+eri la gravità a seconda del contesto ci può anche stare però in quel contesto sarebbe sdoganato e quindi scuole medie tu anzi fa parte del format
+se gabe
+e allora ah be' abbiamo accennato a questa scesa comfort alla conferenza come è stata organizzata e così via e
+però io volevo approfittare di questa occasione un po' per parlare di casi d'uso reali e legati a trasformazioni tecnologiche o implementazione di soluzioni formati così via e visto che abe
+atto nella sua presentazione magari deciderò di fare un breve riassunto comunque ma che eventualmente citare altri casi usi ma è approfitto di voi due luca e martino che come organizzatore non avete potuto parlare delle vostre esperienze personali di provare a dirci voi magari qualche esempio
+di casey degni di essere condivisi video
+attività fatte di trasformazioni digitali di implementazione di tecnologie dove avete visto vantaggi svantaggi problemi e tutto quanto insomma fate voi per una volta hai il presentatore di una possibile breve tour della vostra conferenza permanente
+web
+faceva la lucciola ma non una mia speranza che sicuramente mi è servito parecchio si riallaccia un pochino all'ultimo tour fatto da giorgio basile sul jet flow né tutele che includono più legato paypal it flow
+in un momento diciamo in un'azienda dove lavoravo avevamo bisogno appunto di implementare e di adottare
+it flow e comunque di implementare tutta una serie di automatismi e da qui anche la domanda ho fatto così via si alzò insomma sulla sulla parte di gestione delle versioni membro
+in quel caso
+diciamo che me eravamo davanti a numerose problematiche legate appunto alla gestione delle versioni di vari moduli di vari pacchetti software dei nostri progetti è ciò che in quel caso si era appunto messo in piedi pian piano è studiato era comunque un arricchimento della versione quindi un'aggiunta ulteriore di casa
+ampi quindi diciamo poche di revisione paolo beach insomma la quarta famosa cifra
+oltre la minorenne i suoi in quel caso comunque questo cos'aveva portato da comunque abilitato la possibilità di
+a gestire anche in maniera più come si può dire più isolate più sicura anche le hotfix fase di leasing eccetera però dall'altra parte ha creato comunque numerosi problemi proprio sulla parte di automazione su quello che si faceva mi si aprivano continuamente una battuta
+di branche enorme norme e il fatto di gestire dopo le chiusure di avere lineamenti sulle sue branche inferiori ecco era stato parecchio difficile
+poi riportare tutti i punti insomma al loro posto e capire sempre avere sempre una quadra e un quadro generale sempre ben chiaro vi si perdevano spesso dei pezzi
+è stata veramente una cosa che mi aveva fatto riflettere parecchio sulla avviare un'efficace anche del costo di questa soluzione rispetto ai benefici che ne portavano e quindi già li mi è capitato in diciamo successivamente spesso di portare avanti quello stesso tipo di discussioni quindi di rock and safe una cosa
+estremamente flessibile estremamente complessa e spesso la domanda da porsi secondo me i due casi e siano sicuri ma perché c'è questa flessibilità dove ti dovrebbe portare siamo sicuri che disarma sì va bene allora proviamo capiamo fin dove ti serve questa flessibilità perché spesso
+spingersi fino alla flessibilità massima ma alla fine è quasi controproducente e ci mette di più a gestire questa flessibilità che ottenerne dei benefici e quindi quello è sicuramente una cosa che ricordo è sicuramente anche ex colleghi che magari capiterà di vedere il video si stanno vedendo i video saranno d'accordo con me
+era stato un bel viaggio kayak it flow infatti quando lo sento ogni volta un pochino so sobbalzo dico messi dai magari cerchiamo di fare un qualcosa di un po' più magari a volte semplice no
+quindi bello questo quest'ora me me dalla per chiedere a tutti voi qual è il vostro workflow it preferito cos'è che vi piace non vi piace page flow branche e quant'altro
+ma a loop è pronta personalmente
+allora la risposta purtroppo è consulenziale ma harvest dipende radicale quello che sarà ma diciamo che tenderai personalmente ad avvicinarmi a quello di a quello di lab che diciamo si avvicina a high flow però lo smiley
+c'è un po' di più e quindi ti permette di avere più di un brand di vita lunga per gestire magari diversi ambienti isola dei test usare proprio
+ridere tecniche diverse per i diversi ambienti però è molto più snello rispetto a hong so che sicuramente è più flessibile però ti permette di fare magari più cosa
+era un po' più complesso sicuramente tastiera martino diego a vari aerei e bentrovate ben ritrovato diego
+rio marina legale dietro
+com'è nata sì esatto è lì fermo da dicembre l'anno scorso
+allora workflow it preferito quello che avevo con cui vi trovate più a vostro agio in chat e il buon livio ci parla di lei ora dopo fuori grillo
+dopo avere dato che chloe è stata come dire una rivoluzione ma anche una dannazione me ne voglia giorgio basile che rappresenta lewis scott
+se oggi il fluido l'antico tiro integration profilo per definizione
+kumar sam gaines o multibrand intanto o meglio singolo tipo maine poetici o brancher oppure come il caso di livio
+anche altri brand che tipo di sviluppo io dico me ne fece branchia brutale brutale se e solo se in serie c
+un po' di ordine nelle cose no scherzi a parte mi trovo bene con quello io la ribelle anche nella quantità degli elementi uno dei membri del team spesso anche quello incide parecchio sulla nostra scelta no se si hanno tim magari meno numerosi probabilmente si tende sempre di più verso contrà barche
+l'aereo parlano meno ci si può permettere di più entrambe contribuiscono un team estremamente esteso lo vedrà sinceramente un po' più complessa da gestire
+termini cosa circa classici cinque in un branch di sviluppo intermedio per testare e integrare fatto poiché viene usato anche dal no addietro di servizio che sta dietro quella diciamo
+col pacchetto software quindi se una cosa estremamente critica ha comunque bisognerebbe magari dedicare un ambiente per un tipo di testo un altro tipo di test stress di carico art week end integration in base a quello che si ha anche se si valuta
+magari viene appunto più branche di vita un po' più lunga ecco quello
+e come giustamente scrive livio è anche importante la frequenza dei rilasci perché anche da quello poi dipende un po' anche può dipendere il workflow si segue luigi tu che ti vedo pensieroso cosa tu che sei uno sviluppatore serio diciamo così
+dipende quello che si sviluppa
+no io in realtà dei fatti
+non uso più però usavo un mix sia del
+con molti pregi sicuramente sia l'approccio collegato alla buckner più che altro perché sui progetti di lunga durata
+essere solo concentratosi da fischer poi si è complicato andare a mantenere quella singola versione di quel progetto che ha in un determinato ambiente è quindi chiaramente rivelò dipende dalla complessità secondo me
+primis del progetto e poi la complessità del contesto in cui in cui ti trovi tipo walker siamo se stai a casa da sola i titoli e fai da maine sicher branche va benissimo moses simon team che devono lavorare su più fronti avere delle maison e rilasciare con
+dense che quando io ho cominciato erano violenze quantomeno trimestrale tende non c'erano
+sprint di due settimane o altre o altre cose
+tra quello ti dava la possibilità di poter
+fremente neanche in modo più strutturato e organizzato bene allora diego prima che tu entrassi avevo chiesto a un po' a tutti di fare una qualche esempio di uese la loro personale delle loro esperienze lavorative ne so qualche caso d'uso per in ottica
+nello spirito la conferenza ha iniziato luca e vuoi proseguire tu o qualcun altro chi può chi se la sente di raccontare un suo esempio di
+no beh c'era coda martino vedo poi arriva dopo martino dai sennò poi non fa più conferenze con me già è permaloso finire a suonare martino
+sammy li faccia per un anno quindi vai martino
+namara nove io ultimamente è da un po che sono
+in varie esperienze sia con aziende piccole o magari startup sì con aziende strutturate sono in
+nè siamo in un momento in cui io
+come faccio io diciamo c'è da capire come fare in infrastructure scout non ci sono stati anche dei tour che hanno toccato questa cosa la conferenza agricolo di hideki tojo di alessandro bay ed è il
+in particolare io mi trovo a fare code su su infrastrutture cloud o kubernetes barnett su cloud che è un po un paul un po' col check-in ecc ecc sicché che va per la maggiore in questo momento no come a livello di infrastruttura tecnologica e ci sono due modalità se vuoi c'è la modalità
+so
+alla kubernetes argo cd non so dico male quindi
+tops in cui tu commetti una cosa e questa viene applicata nella struttura oppure alla terra forme in cui tu devi fare un'azione di amministrazione per applicare questa differenza è la scelta tra questi due modelli o a volte la necessità dettagli entrambi perché non tutti vedono tutti fittano la il la cosa a meno
+è ancora chiara c'è faccio delle scelte magari insieme con con con le persone con cui lavoro e nel mio lavoro di consulenza che
+che possono essere più adatta allo specifico ambiente ma mi pare che ci siano ancora queste due modalità grosse modalità push pull the world che sono lì appese e non non c'è ancora un una vera soluzione accettata da tutti si può fare queste cose no e sia tentare di far eseguire telefono automatico non funziona
+bene e riesce a tentare di fare delle cose di infrastruttura che non sia kubernetes con il modello a lago ci dia ancora non è perfettamente chiarito quindi sono un po' diviso tra su questa cosa qua diciamo o delle esperienze mie ma non non ho ancora ben capito da che parte si andrà so se
+dico forse si è fatto un'idea di questa cosa
+se l'è studiata più di me forse
+non so se hai capito proprio assist for forse sono stato un po confuso io farei una conferenza sulla tua problematica così almeno riusciamo a svilupparla scommesse sette ore sono sufficienti
+vai ad assistere a questo no w s s r l nasce hashish
+walker sull'automazione io un pò di breve esperienza lavorativa diciamo così trovo che siamo il momento di rottura quindi
+peso dei paradigmi che michael stridono un po'
+paradigmi che sono anche da totalmente da rivedere perché ci sono certi processi che ho visto anche la parte di automazione
+in contesti enterprise del tipo o un'automazione per creare macchina virtuale e ne ha un'altra per modificarne il municipio a land è scesa questa cosa è totalmente negli antipodi idiota odio né di una automazione eda impotente che può essere rilanciata centomila volte gli darà cento
+villabate nessun risultato quindi
+siamo in un punto in cui gli strumenti ci sono ma i processi usa il coraggio di vedere i processi quindi questo è un polo e-news scesa che serve lo porterò non possono ci sono dati una regola questa news sconfitta da auto darci un tour
+e ci siamo riusciti però magari di cose ce ne sarebbero da dire però in realtà uno degli u che c'è
+ho pensato no ho detto se dovessi può portare avessi risponderà si affida della user scout cosa porterei io mi ricorda un progetto di open banking è durato un anno estremamente complicato
+con una di una ad eventi quelli con database non relazionale sotto in mezzo
+un dpcm e quindi questa cosa era molto complicate un ruolo di chi diciamo architetto e mi son reso conto che in certi contesti anche laddove tu hai necessità di introdurre un meccanismo eventi deve essere sicuro che il contesto te lo permetta ma nella sua conversazione del tipo ah sì io
+purtroppo quell'evento non scodato ciao cumulo può rimandare sì certo richiamo alla signora che tornano in ufficio eri naviga la la la la pratica e ti rimane un evento quindi
+quello è un bellissimo io scese che è stato molto significativo perché non è detto che la miglior soluzione tecnologica sia anche quella giusta per il contesto in cui la applichi va buttato così un macigno quindi come dice martino ci sono soluzioni che però vanno ritagliate nel contesto in cui le introduce
+potresti fare più danni se non innamorarsi della soluzione ma dare a susan migliora la migliore a chi poi la userà no e quindi lionel probabilmente possono poi fare delle scelte diverse si rivela al racconto sempre questa ma è
+io
+sempre
+sono sono un estimatore e utilizzatore da tempi non sospetti di kubernetes
+non dico un esperto brown uno che pratica insomma però la prima cosa che faccio quando è quindi molto spesso la gente mi chiama e dice voglio vedere governante scusa è questa la prima frase della prima frase d'apertura richiamo io tipicamente mi mi pongo l'obiettivo di passare almeno un giorno di tempo a a tentare di dissuadere le perso
+done da usare kubernetes penso sia un approccio che vale per qualunque tecnologia complessa c'è da dire
+siamo proprio sicuri di imbarcarsi in gubernatis purché
+perché alle sue vantaggi grossi sue complessità e
+produttrici con cuba karnezis con qualunque cosa che sia più complicata di una pena appena biro e va bene lo stesso c'è
+spesso mi ritrovo con con con l'età ma penso di aver capito che la prima cosa da fare è cercare di tira il freno a mano quando quando non c'è chiarezza di obiettivi no e non c'è mai chiarezza di obiettivi ne faccia avere le idee chiare non è mai così però anche nella parte automazione
+bene io ho paura a fare cose più complesse magari diceva di giovedì qui siamo su un punto di rottura eroe e anch'io ho questo questa cosa però come lui sai io sono un po' più conservativo tenendo a tirare un po' il freno a mano su
+perché ho paura di spesa spesso ho visto cose fallire andando dietro a magari live midway scelto quello sbagliato quindi sono un po' un po' più conservativo quindi a volte diego somma ti capiti discutere di queste cose alla fine
+magari tiriamo facciamo il leasing sull'automazione anche quest'anno non è l'automazione una struttura all'altra grossa che vedo io è la parte di observa ability che anche lì ce n'era da dire di cose e è generalmente in tutte le organizzazioni metrò grandi e
+piccole
+sei lì a guardare vagonate di dogue confrontandoli un pò alla buona guardando il timestamp cercando di capire che il successo eh
+se qualcuno vi ha detto è una modalità medievale c'è un sistema migliore però nessun rischio implementarlo almeno quelli che vedo io poi magari io lo vedo quelli bravi ma però alla media quindi ci sono
+da tante cose interessanti siamo e poco tempo per vedere tutte però insomma
+rosita martino quali sono i casi in cui tu e sconsigli kubernetes
+domande credibile e l'altro sono i casi facili tipo l'altro giorno mi è stato sottoposto il caso di un'azienda che ha tipo un una un paio di web-application un database quel server on-premise watson spendono cinquanta euro al mese
+pin di plenty of fish potenza finché vuoi e l'ingaggio e andiamo su e da lewes zuber kubernetes da blues
+per due applicazioni banalissime è un sequel server che voglio dire è è il punto di partenza da dire naumburg de gubernatis smaltire c'è ad esempio in tutti quei casi in cui non c'è un minimo di complessità che ne hai ti permette di di di di
+di fare un offset della fatica di mettere su woody gestire kubernetes di di avere un team sa usare di avere un team che sa usare basta una persona possa usare si mette su un un un attrezzo complesso come kubernetes quindi casi molto piccoli ad esempio siculo è quasi automatico consigliarlo insomma quello che non serve
+scalare automaticamente non sempre materie come la ridondanza esagerata e cose di questo genere ma allora è per me non è tanto scalare perché in verità io
+nelle mie esperienze o di usare kubernetes per scalare e tanto automaticamente non mi è mai veramente non mi è mai capitata fosse così importante ovviamente ci sarò ci sono dei casi d'uso in cui ci sono degli spie enormi eccetera eccetera finché vuoi però più che altro ovviamente se la flessibilità di gestire tutti tutti i carichi in man
+chiara uniforme e poi poterla automatizzare con l'auto michael sia un premio in maniera molto standardizzata no e quello è il principale vantaggio su come invece la scalabilità non
+non la vedo così importante nella stragrande maggioranza dei casi volevo fare io insomma chiede livio se sei un forse sei un monolite con tommaso non lo vedo molto conveniente
+spaccherei domande in due allora i single
+nella sostanza sono d'accordo il il
+il monolite però di per sé non è che sia un problema mentre cuba non è che kubernetes sia microservizio sono due due cose che spesso erano presentati insieme sono due concetti indipendenti diciamolo però se un singolo software su un singolo a una singola applicazione o due semplici è un database no anche perché sui database
+sarebbe tutta un'altra un'altra serata da sentire da brigata da fare eventualmente però anche lì prima di loro
+prima di mettervi database incubo netflix è meglio metterci così stateless perché comunque devi prendere la mano devi prendere le le competenze del team devi fare un'offerta di cose prima di metterci carichi più complessi come i database chi ci possono mettere però non sono la prima cosa che mi viene in mente da mettere quando
+c'è da fare una in una in un organismo non l'incenso
+luigi tesa
+il tuo personale magari non decisamente quello che hai raccontato in conferenza
+ma intanto michael
+ce ne sono molti relativamente europeo questa cosa che ho detto martino su kubernetes decennio
+come dire il mio approccio è proprio se mi serve scalabilità o alta affidabilità
+io con quello determino se mio se mi semplifica la vita kubernetes oppure me la complica ulteriormente quello che sto notando come dice martino anche una minima cosa o meglio un servizio su kubernetes perché perché scalò quando voglio ciò lato affidabili dammi ragione apple
+azione barra il body automaticamente lo scheduler di kubernetes magari duraturo non devo pensare a niente adesso però chiaramente già un
+un downside che quello del consumo delle risorse che permette ai suoi piedi due miglior servizio del piffero di ricreare un'architettura mostruosa con almeno tre master o walker arnold tutta una serie di cose presente servono
+ci servono serve una server farm avvertirà su vueling o servizi e si perde anche quella che è la creatività delle persone nel capire come far stare su in piedi due servizi quindi giocare con gli arbitri dei vari due sistema affinché effettivamente sappiano
+sono attivi tutti e due oppure uno è morto l'altro ancora deve salire eccetera eccetera
+quindi bè delega tutto kubernetes è rivolto mio problema groppa del graal e io mi ricordo quando stavo in redatta sia è passaggio è stato proprio hobby mi ricordo che sa trasformazione dell'application server che era abbozzo
+a butto dentro kubernetes è comunque tutti leader di networking lo spostò
+alta affidabilità e scalabilità è il giusto peso per dire la mia sul discorso che ha fatto ma martin
+io la vedo leggermente diverse chiaramente non esistono giusto sbagliato se chiaramente l'esperienza che uno ha avuto il discorso void
+come dice eco video quello sui monoliti quello lo sposo in pieno se c'è un monolite molto probabilmente non ti serve kubernetes
+why l'approccio macchine virtuali o fisici assieme poi trovi un modo per tenere più che altro per ottenere l'alta affidabilità piuttosto che la scalabilità altri casi d'uso
+ma
+non so quello dell'automazione pure è un tema ricorrente
+ho vissuto un phablet shade light anzi paul con terraforma poi quindi
+trappole come diceva giustamente diego
+si stanno prendendo strade e secondo me
+possono essere più che un po' come dire pericolose certe volte alla fine non riesce automatizzare nel modo in cui si dovrebbe a parlato diego di impotenza che quella è
+dev'essere mantra proprio dell'automazione senso dev'essere tutto deterministico no non puoi
+fare cose sennò è come se fai
+invece di scripta lance la macchina poi cambi resi più il programma
+cose così tornato
+non è non è automazione laico e riattacca si usa adesso così su due piedi
+non me ne vengono in mente da da poter da poter condividere
+allora domanda provocatoria tutti quanti visto che io nasco come l'automazione automation driven tanto
+ma sempre comunque c'è automazione almeno a livello di infrastruttura
+e quali sono i casi in cui forse si può anche dire ma magari anche no
+per me myanmar
+ma allora kies
+a me mi hai capito ci sono eccome dipende da dove parti cioè se io
+con in realtà e magari tipo startup che non sono solamente un'azienda startup ma comunque un ambiente che parte da
+kate cerco di essere sempre il più automatizzato possibile
+molta disciplina da questo punto di vista ovviamente si ciba da parte dei clienti e dei reni insomma dei responsabili tecnici eccetera sicilia a bordo partire molto automatizzato è veramente un game changer anche solo anche in una situazione abbastanza piccole perché
+perché t'importa avanti chiamiamo mente un po' fiscali manichei sorge organizzativo ti porti avanti la modalità e poi più facili al rif autorizzare un'automazione mille volte che applicarla dopo due anni che cosa amano ecco
+e ovviamente devi
+la regola del novanta dieci insomma puoi lasciare fuori il dieci percento di cose che sono benefici di automatizzare
+però il novanta devono essere stabili e quasi sempre il tempo investito nel farlo poi torna indietro diverso è quando parti da vicino e organizzazioni che hanno molta complessità i live limiti bisogna lavorare in maniera più strategica bisogna prendere dei sottosistemi e smontarli un pezzo per pezzo
+ovviamente farlo dopo è molto difficile di per cena è una organizzazione che ha quindici anni vent'anni di software dentro lo devi fare per forza allora lì ovviamente dei morti più piano perché più lentamente perché i rischi di spaccare molte più cose e devi lavorare in maniera strategica quindi devi andare a prendervi
+sottosistemi di verticali fare delle migrazioni e quindi è è sicuramente più faticoso dopo
+inevitabile quindi alla fine quello la risposta dipende da da da da
+dal contesto è tipicamente dipende da quanto lega sì c'è dentro insomma
+è
+però se parti da zero introdurre in maniera forte sia da una parte la disciplina automazione e dall'altra che la sorella diciamo alla disciplina della della continua integration contenuti liberi se le api che all'inizio si vede decisamente la differenza insomma
+quindi di fine anno se se se se chi vi guiderà alcuni sono tecnicamente non sono già di quell'ideale iso
+quello lottare contro i mulini a vento sono a greenfield brownfield per te fa la differenza in questo contesto
+su questo direi di sì
+e ne approfitto domanda martino da livio più lega legacy più o meno automazione
+boo legacy nel senso immagino se hai un'impalcatura lega si
+quanta
+quando tu vuoi in quanto ha senso introdurre l'automazione
+non so esattamente cosa intendeva
+ha senso cioè come me come minimo devi porti una un'idea di piattaforma per tutte le cose nuove quello è tutto dei nuovi nuove implementazioni e poi devi capire cos'ha senso di portare a bordo cosa ha senso portare a bordo delle cose più vecchie
+nella nuova piattaforma però david hard quando fai una piattaforma devi darti delle regole di piattaforma e richiama qualche volta c'è devi decidere
+di una check list minima in cui un punteggio minimo cui per un'applicazione per entrare nella piattaforma quindi non lo so
+devi fare continui ricevere un certo modo devi rilasciare in automatico con il sistema che è stato deciso ma ci sono lievi dieci punti che decidi in base al contesto e se un'applicazione non rispetta otto non può entrare in piattaforma e questa cosa è ancora più
+grave importante quando magari in situazioni enterprise in cui il tuo interlocutore non sono sviluppatori dell'azienda ma suono dei fornitori e di dna diventa diciamo essenziale fare un contratto diciamo di piattaforma cioè stabilire delle regole comuni di convivenza
+per poter accedere al
+almeno con i nuovi sviluppi o oppure con quelli vecchi che si vogliono adattare al nuovo a una piattaforma a volte un contratto non è solo un modo di dire ma diventa contratto
+devi scrivere un contratto con i fornitori stipulando che seguono certe modalità di sviluppo moderne e mi è capitato anche di aiutare a scrivere contratti o comunque ai capitolati tecnici allegati tecnici che stabiliscono questo tipo di
+di richieste qua quando un quando hai dei fornitori esterni che tiene le aziende non tech succede spesso se non sempre di avere fornitori esterni che software
+tutti casi d'uso di implementazione di infrastrutture di logiche di automazione infrastrutture legacy quindi dove c'è già infrastruttura brownfield gestita non in modo automatizzato e sia a livello di infrastruttura due sei configurazione di sistemi mettiamola così
+sia a livello magari di di diploma logiche di deploy di aerei testing di applicazioni e così via se avete qualcosa da raccontare riguardo potremmo parlarne di questo su sul brownfield specifico
+applicare sul tema dei tipo applicativo
+trasloco continuo solo a colmare
+c'era bisogno di gestire un caso d'uso specifico dove
+inizialmente si era dotato
+un tour per la continua a vivere il software quindi avevamo inizialmente
+diciamo automatizzato il rilascio di applicazioni su ambienti gubernatis e quindi fin lì diciamo che praticamente era un gran figlio comunque era venuto tutto fuori della sede di processo sindaco di implementazione particolarmente diciamo naturale fluido insomma fisiologo
+osimo quasi ne letto in cui invece avremmo dovuto iniziare a gestire rilascio applicativo
+a su infrastruttura legacy quindi applicativi non kubernetes
+di fatto
+sì era diciamo sfruttato lo stesso till per implementare
+pagamenti riuscisse ad acquisire quel tipo quindi in quel caso erano dei bar fire di tabloid
+robert
+cullera ho abbastanza
+interessante comunque erano utilizzati sono utilizzate tecnologie cloud nativa anche su ambienti non cloud network
+già stato interessante vedere quanto si distorceva magari il popolo lo scopo dello strumento e quanto lo sia abusavano hogan se ne usava o quanto alla fine era sufficientemente flessibile per essere adatto anche per fare quel tizio viene sete stato molto interessante qualcosa
+usato in modo epstein
+che avesse cambiato parecchio rispetto
+usalo
+ma tutto sommato fuori un lavoro pulito ma a livello logico armonia non convincente e funzionerà più
+c'era piaciuto
+non era stato indolore quello è poco ma sicuro ma insomma
+fruttato bene un po' le componenti alla fine distribuendo e implementando di deepin ad hoc
+alla fine sottocosto dei rischi vi bacio ovviamente che alla fine tutto si riduce a quello
+matteo diplomato andavamo a farle un configuration management dei profitti maneggiato puoi andare a tagliare
+la classica swarm
+io tutto sommato funzionava
+proprio le fronte non c'è spesso anche secondo me
+tool come quelli appunto motore di workflow che ti permettono di fare pipì spesso magari il rischio proprio quello di storpiare e di fargli fare un lavoro che
+si riesce tecnicamente riesce a farglielo fare ma alla fine non è il suo scopo quindi vi seguirò che in passato mi sono posto questa domanda quanto è giusto sfruttare uno strumento per fargli fare cose che in realtà
+non sono il suo vero scopo
+è nato è stato implementato insieme adesso talmon abbastanza difficile dare risposte grazie magari a volte è troppo comodo magari è già adottati per quel ti integri sicuro che c'è già e dipendono dal contesto in cui inizia ad usare tutti questi strumenti prosperi soci questo problema c'è se ci riesco lo faccio un
+non lo faccia introduco magari ancora altri strumenti quindi giungo magari ama tutta la trafila di strumenti della cei non sono cambiati strumenti che stia in piedi altri
+intanto tecnologia dei paradigmi c'è troppo riuscire a fare una cosa pulita ma molto più complessa con ponte il vostro difficile da risolvere in maniera insomma sul palco
+di baseball
+dai parla secondo me
+non è mai un problema tecnologico sei ho sempre visto i problemi culturali e organizzativi cioè prima parlavate nella complessità di introdurre kubernetes complessità e culturale organizzativa lasciamo stare che tecnologicamente parlando e complessa piacere perché bisogna montarla adeguatamente però
+sentito ennemila discorsi in cui si diceva eh sì però perchè il database non può finire succubi ermetiche perché noi storicamente siamo abituati ad avere database fuori vogliamo la nostra bella scatola con i nostri database gestiti da datevi stanno lì se escono da lì
+lo gestisce qualcun altro se essere uguale per lo storage vuole per la rete web security è uguale premonitori locale eccetera eccetera eccetera quindi
+kubernetes t forza di reuter ragazzi non possiamo creare il team kubernetes che noi assorbiamo l' ottantacinque per cento dell'azienda no quindi va va decisa convergenza quindi i che invece decisero convergenza si sceglie il tool e lì si lavora sopra e convergenza non vuol dire inizia a fare la spaghetti
+it infrastructure ok perché poi rischiamo di fare quello venne catturato assieme ma allora ionio tool stern storicamente il mio altro cui sopra ci mettono i tuoi quindici metri intorno un tool che sopra un tool che lancia il tour e si finisce punto a capo no quindi
+io
+non sono mai spaventato dalla adottare la tecnologia oppure no che avere il problema comincia a martignano riflessi a tutti al tavolo e benedetto strategia uno due tre e industriali probabilmente però non è mai un tema tecnologico è sempre visto scogli culturali ed è sceso
+dunque una scelta importante dire smontiamo tutto da agis a alessandro l'ha detto
+automazione però comunque deve passare attraverso schemi di beach ai suoi processi che devono rispettare le normative che dev'essere alimentato che l'unica fonte di verità quindi i passaggi harris code è finto e che dev'essere prima quello che deve essere alimentato e poi in realtà i processi sono dentro preso quello strumento
+per esempio per me cento casi su cento è un problema culturale non è tecnologico bombetta nel dopo un'ora di diretta però secondo me è così
+un po' banalotta dalla spada menate della cultura e poi no no no no purtroppo no fosse bello fosse bello che sarebbe bello se fosse una banalità
+oh e si ferma lila e l'introduzione dell'automazione secondo me altrimenti l'ha introdotta nel team che voleva farlo ma rimane un esercizio di stile e quindi inquirenti alla spaghetti e infra straccia la vedo così luigi tu come la vedi
+eh
+fedora quando si parla di adorazione ma poi
+lo step successivo che permetteva esserci e quello della osservabili di morire se non hai quello subito dopo
+ti vai a fidare
+ad una macchina statica e quella dicembre
+lo
+io vedo che tutte le volte si fa automazione che se due cose
+monitorate osservabili ti vengono fuori all'ultimo quando poi ci son casini
+se dovrebbe fare che si apra un figlio greenfield
+se vuoi fare approvazione da fare in qualunque ambito o qualunque contesto ma devi poter vedere quello che succede degli toccare con mano e capire quello che sta accadendo secondo me la macchia stati decenni di vino
+non è sufficiente fu questo mio contributo a questa discussione che sposa un po' sia quello che ha detto diego sia anche quello che ha detto luca perché
+ritengo sia buon senso sia da una parte che dall'altra parka donazione è comunque un cambio
+cioè deve avere uno sponsor dentro aziendale e si segue quel filone si segue la strada e che diventi semplicemente di un team che ha deciso di farlo ma ci dev'essere un investimento da parte di tutti di modo che così non è un lavoro fatto da singoli
+dal singolo the senese ad esempio alessandro server rouge ricordandomi il tuo topic se sì no no d'accordo ovviamente se fai la battaglia da solo contro tutti
+sono d'accordo io se volete vi do i miei due segni news va giusto per contribuire alla discussione che era poi un caso di mi di automazione con pappe dell'infrastruttura brownfield quindi tanti server esistenti non è quello di cui ho parlato nella presentazione venerdì scorso ma un altro
+e in quel caso l'approccio adesso al di là del suo aspetto culturale ma la procedura è stata abbastanza ma mettere a terra e pragmatica se vogliamo niente di
+nessuna scienza infusa debbo capire cosa andava dismesso cosa era più utilizzato cosa e dicevano
+decorativi e diversi tipi di applicazioni e cos'erano i lowen fuentes è quindi quello che si poteva fare più velocemente e con maggiori risultati che poi è sempre utile perché da quello c'è anche la motivazione per andare avanti no se tu fai un lavoro che comunque inevitabilmente ti porta via tanto tempo è un processo step partire dagli step
+semplici meno rischiosi e quelli dove poi magari ottieni anche risultati tangibili più evidenti che possono motivare ad andare avanti e poi nel caso specifico abe con puppet se è partito anche come diceva martino prima intanto il nuovo tutto diventa automatizzato e il
+esistente e a gradi a pezzi partendo da diversi sistemi operativi diversi tipi di configurazioni da applicare quindi poi anche lì tu magari hai una baseline comune di configurazione che deve avere vuoi applicare ovunque e lo fa sia applicato per gruppi di macchine
+sicurezza operativo ovviamente controllando controllando i risultati la atwood verificando nel caso di puppet no se la modifica è quello che ti aspetti quello no ed è peraltro interessante quando tu puoi per applicare certe cose e a configurare in modo automatico una resiste
+ente vedere gli scheletri negli armadi che escono come se non ci fosse un domani c'è tutte quelle configurazioni fatte a mano che nel momento in cui automatizza standard di zio vengono fuori come difforme da quello che ti aspetti e lì è interessante perché anche utile perché l'occasione in cui tu di fatto per fixare
+i problemi potenziali o da enti o è miss configurazioni che a volte non sono tali da creare un problema perché se non l'avrebbero già riviste risolte ma sono tali da avere da poter essere un problema in futuro comunque mi strutturazione che su
+animali preso confidenza il dns su amazon com
+ad cazzum con materiali semplici e se non più esistenti che magari ti fanno perdere un po' di tempi nelle risorse nelle richieste quindi un po' di queste cose sono quelle quegli esempi in cui
+è utile applicare a strati le cose le cooperazioni nell'applicare l'automazione delle configurazioni quindi nello standardizzare per controllare quello che stai configurando trovi anche un po' di appunto scheletri negli armadi che saltano fuori e
+poi un approccio graduale fino a un punto in cui dici ma questa applicazione questa configurazione devo questo sistema questa macchina questa devo veramente automatizzano oppure no nel senso assenso e una è un qualcosa che andrà a continuare a essere sviluppato mantenuto qualcosa che va a morire perché se poi mai
+magari devi stare ad automatizzare un sistema che tempo qualche mese e dismesso e te ne frega o lasci morire di suo e non stai a gestire o povero automatizzare qualcosa di più
+futuro quindi un po' di buon senso applicato un approccio pragmatico e cura
+stephen
+tale per cui poi insomma pezzo per pezzo porti avanti la cosa
+allora diego alessandro
+mi ha fatto venire in mente una cosa
+su una grande azienda di logistica mi ricorderò per sempre a proposito automazione configurazioni tutte le volte che li avviavano il firewall è attivo mezza giornata nessuno accedeva più ai servizi le macchine non si parlava eccetera eccetera
+questo perché vengano parte vuoi dire le confuse configurazione ad hoc lì sul momento devo poter vedere stamattina ho proseguito succedono da old abbiamo le regole però senza automazione poi quando riavvii o devi devi rifare le cose tiberti lutto
+i danni del
+è l'ultimo realtà dunque il limite ignoto allora c'è diego che mi sa che devi salutarci ai cookies
+qualche bella parola per chiudere in bellezza e lasciarci con le menti ispirate da me
+insomma ci sarebbe nata la rilanciare la uss scott del prossimo anno ovunque dai nathan mi piace sono stato con lei safari colleghi diciamo che
+c'è stato un bel momento di condivisione uscito venerdì e speriamo di farne tanti altri questo è un altro momento e magari strutturandoli ci piacerebbe fare qualcosa di più organizzato e più una visione carl calendarizzata
+però sono stato contento perché diciamo che già oggi sono lunedì prossimo decennio dei miei feedback rispetto a com'è andata la conferenza è quindi bene son contento e speriamo di fare sempre meglio e grazie per l'invito per oggi va bene diego allora la prossima
+ho già anticipato lo dico anche ai presenti che ci seguono in quattro gatti e vorrei fare in futuro puntate è arrivato agli istinti a microfono aperto quindi con link dove tutti possono entrare in cui raccontano house gage
+su argomenti che si vanno quindi l'ottica e comunione nello spirito la vostra conferenza quasi un follow up e competitor no no si
+proprio quello che avete detto
+esatto esatta volevamo fare noi quindi testimoniare questa cosa benvenga è facile poi sempre a microfono aperto poiché però fare la parte di singole dove non invitiamo martino però
+le puntate ci si parla addosso vuoi senza le alici sono sempre perfetto allora cento segno che ho un po' di personale ragazzi e età quell'occasione ciao diego ciao e alla prossima
+ciao
+sì tra l'altro tra un po' non far andare anch'io perché qua la figliolanza chiama bussa alle porte
+no
+cosimo perché cosimo che mi scrive presto mi preoccupa e preoccupa non ancora capito di cosa tratta questa puntata
+se un bene ma
+sono concentrato cosimo
+dall'inizio laici cinque minuti
+e qualcuno che lo racconta breve
+no se non ci penso io che fosse mia responsabilità allora in realtà questa era il pollo speciale la houses of hope abbiamo fatto con
+luca martino ed evoca andato via come organizzatori c'è luigi fogar che era fra gli speaker lo ero anch'io
+però questa news che a una conferenza abbastanza anomala nel panorama italiano perchè più che legarsi a specifiche tecnologie cerca di parlare di casi duso e fa anche su alcuni campi informatici diversi e far raccontare come certe
+trasformazioni tecnologiche certe implementazioni tecnologiche state affrontate le lezioni imparate così via quindi abbiamo sia parlato un po' di questa conferenza sia provato a fare nel nostro piccolo un po' di news sui temi diverse e quindi di qui alcune domande e un po'
+divagazioni su temi e argomenti vari per cui questo è cosmo e
+un po' così una puntata a tema aperto perché sotto certi aspetti news che possono essere di qualsiasi natura è però con l'ottica di provare a raccontare appunto casi d'uso diversa ho detto bene ragazzi voi
+sei arrivato durante la conferenza alla fatidica domanda dimmi cosa ti sembra questa giornata in questa conferenza va corrisposta somma fantastica ma è strana
+perfetto in una strana vuol dire che abbiamo centrato l'obiettivo è quello di sony
+presentarono qualcosa di strano di diverso
+qualcosa in effetti sia un farmaco
+tra l'altro abbiamo già aperto ossessione per l'anno prossimo quindi se qualcuno ha qualche idea anche ancora non formata in testa ma anche anche se non ha mai avuto esperienze di presentare a pubblico lui già l'altra volta ci siamo offerti di vento medio di fare da punching ball
+eventuale presentazione no quindi secondo me c'è tanta gente che vorrebbe potrebbe raccontare qualcosa interessante ma magari non è mai salito hai preso in mano un microfono davanti alle persone non è non sa come fare o non è o non ne ha voglia insomma no quindi noi già l'altra volta ci siamo offerti di fare da collaboratori non perché
+siamo praticamente esperti nel farlo ma perché avere un'altra persona che ci iran un feedback è sempre meglio quindi
+abbiamo già aperto successione per l'anno prossimo se qualcuno vuole fare una proposta e vuole fare una passata di rifinitura con noi noi ci offriamo di dare una mano su questi
+e a volte magari c'è più più più informazioni in giro ma meno meno persone che rappresentano
+giusto per saltare di palo in frasca e confondere ancora di più cosimo domanda di livio che va bhè ve la lascio lì così come potete usare bocca per automatizzare o anche no
+anche se
+io penso che contiene sia stato l'abilitatore container docker ma anche kubernetes comunque queste cose qua queste tecnologie quali sono state le abilitatore fondamentale della continua scientifiche contenuti liberi e quindi anche di tutta l'automazione che può farci sopra dico un po' più esteso cioè
+il mio il mio libro che sotto il monitor quindi non posso non posso farlo vedere sulla telecamera però quello di
+di continuo deliperi che è che è preda kocher come tecnologie quindi quei temi c'è come rilasciare velocemente il software in maniera automatica farlo arrivare in produzione velocemente che poi sta alla base del devops e dell'automazione infrastruttura e producer però secondo me i container sono state
+un grande abilitatore perché ti hanno permesso di fare un il tuo archivio binario che porti avanti velocemente e automaticamente fino alla produzione è diventato container prima era lo zip tar
+viaggiava il l'eseguibile di kelly eccetera eccetera adesso è diventato un unico blocco d'immagine container che te lo porti avanti secondo me quella cosa lì è stato un grande abilitatore di questo tipo di modo di fare
+quindi si sposta e soprattutto perché poi nessuno dire
+sono invece andava
+bepro di orchestrare il container è in produzione ma abbiamo la stessa cosa che puoi fare sul pc in locale
+bravo luigi eri molto convinto hai qualcosa da aggiungere allora intanto come dire
+risponde luca su una cosa sul mio pc andava diciamo questa problematica c'è sempre o dodger se usi immagine due punti latest
+oggi ti va fra una settimana o un mese non si sa sfera che utilizzare la versione specifica è quella su quello non non ci piove
+e io quando sviluppo e poi voglio fare ho una demo un qualche cosa io faccio sempre io over compose e quindi vuole immagini faccio tutto primo gol d roger layout mi funziona a dovere cut over mentre su dover compose per un discorso di lei di networking
+però assolutamente dover
+io diciamo che tendenzialmente mi occupo poco di infrastruttura bronzo
+sviluppo maggiormente
+tower nel pane al pane quotidiano e mi permette di automatizzare fare le cose precise deterministiche ripetibili ed è la vera portabilità se fatto con cognizione di causa
+molto bene
+è
+allora se ci sono domande dalla chat ben vengano avete qualcosa da aggiungere interno in qualche altro caso d'uso là dentro nel calderone giusto per rendere cosi ma ancora più confuso che comunque a quanto pare è
+argomenti vari su cui secondo voi nel mondo etika c'è qualcosa di significativo da
+da sottolineare anche a livello di come nel mondo rete lavoriamo delle moschee comunque siccome normalmente affrontiamo certi problemi e come forse non dovremmo affrontarlo solo ci scusiamo dicendo io come dicevo devo devo lasciarvi quindi grazie per la
+era tela sat sat di cosmo questa cosa che chiamano purtroppo chiama da poco comunque mi sa che chiudiamo anche noi
+va bè allora direi a questo punto colgo l'occasione con martino se non ci sono
+altri
+input
+possiamo anche chiudere oggi chiudiamo qui più potrà brema per i nostri standard
+un male
+allora niente ragazzi è stato un piacere avervi qui e
+ci si sente ci si vedeva prossimamente grazie a livio cosimo
+valerio chi è intervenuto in chat e alla prossima grazie alessandra grazie mille
+ciao ciao
+no
+ma
+ma
+ma
+ma

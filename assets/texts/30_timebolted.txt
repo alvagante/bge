@@ -1,0 +1,563 @@
+e quindi siamo arrivati alla trentesima puntata la brigata degli istinti con prove fallimentari di streaming condiviso e con nuovi personaggi che ci affiancano in questa puntata in cui parleremo di recruiter e candidati e questo rapporto simbiotico e a volte conflittuale
+che ci contraddistingue
+e lo facciamo con guido penta luciano francese o e andrea spagnolo che invito subito a rappresentarsi vai guido
+ciao alessandro piacere di essere qui grazie dell'invito io sono guido
+un recruiter tech night insomma è da qualche anno è caldo
+dire
+le prove fallimentari di cui stavi parlando prima erano per cercare di collegare anche
+i miei canali perché da qualche mese ho iniziato anche io a divertirmi con un po' di streaming
+molte virgolette educazione in ambito tech è niente
+breve e conciso
+luciano
+alessandro
+è vivo
+fuori dall'italia da molti anni quasi trenta
+e ho lavorato quasi sempre come freelance consulente
+i settori tanti paesi e quindi ho pensato di
+sull'area un contributo
+questa puntata perché ho avuto a che fare con recruiter da venticinque anni insomma e questo è proprio un pericolo qui
+nel bene e nel male oltre nazionalità esperienza
+fai quindi
+penso che ciò
+insomma come tutte le cose però avere
+cattivi recruiter quindi siamo pari
+ingegneria
+però qualche storiella e a livello tecnico sempre lavorato nel campo m e quindi baciava scala
+gruppi poi adesso quattro cloud migration correggere
+quasi esclusivamente con un cliente abbastanza grande di phone banking assicurazioni roba noiosissima
+capisco molto bene luciano e andrea beh tu sei un recidivo però la tua esperienza con i reclutamenti forse le hai avute ovunque le tue idee forti ci sono sempre
+sempre benvenuti diciamo
+sì allora io chi non mi conoscesse ancora un sacco di persone io sono andrea spagnolo sono uno ascoso attivi e in guerra nel senso che faccio un po' di cose ma sono solo sociali
+in realtà professional job hopper perché sono tra quelli che pensano che fare
+mobbing sia dovuto e doveroso della t in generale perché è un modo di affrontare diverse
+nuove sfide di questo nome in realtà ovviamente amo tutt'ora tipo azienda leader di settore giovane e dinamica che devi lavorare sotto stress
+commissionato
+sarà commisurata all'esperienza quelli sono proprio i miei focus se io cerco solo di questo tipo comunque
+niente ci si vede
+bene allora vediamo un po' dato il titolo di questa puntata è veramente conflittuale rapporto fra recruiter e candidati o pure una
+si dice poi in realtà alla fine gli uni hanno bisogno degli altri
+guida tu che io
+raccontaci l'unico rappresenta l'unico rappresentante
+allora si è meno di qualche anno fa
+ma comunque sì nel senso che
+cerco di fare il proprio discorso un minimo serio e anche se quattro spagna non ci riesco però devo cercare di evadere un minimo serio
+in realtà si è ultimamente ma
+i roghi nell'ultimo anno un anno e mezzo diciamo la la situazione si è placata però fino a qualche tempo fa su linkedin per esempio era un continuo a voi recruiters più brutti e cattivi perché hanno poi developer siete brutti e cattivi perché quindi ci si ci si può sconto
+brava e quindi l'incredibile diciamo era il campo di battaglia preferito un po' perché sugli incarichi
+si può esporre in qualche modo no portando un po lele le proprie ragioni e perché dava insomma faceva un minimo di megafono
+a livello comunicativo in realtà ultimamente vedo che almeno nel mio nel mio feed o forse perché sono riuscito a pulirlo
+però è molto raro vedere insomma ancora i dissing come dicono i giovani di oggi
+questi dissing fra categoria però in realtà poi diciamo se vivi le varie community di deb
+come no
+purtroppo noi non ce ne siamo community
+a parte una
+a parte una voglio dire che questo è un punto a favore fa il vostro lavoro perché voglio dire
+bello ritrovarsi dei punti in cui ci si confronta in posti in cui ci si confronta si parla di carriera lavoro sviluppo tecnologie eventi noi almeno io non ne conosco ma non abbiamo un posto dove facciamo la stessa cosa e questo secondo me è un problema è un grossissimo problema
+perché noi rimaniamo tagliati fuori da tutto quello che interessa a loro e come si evolve il mercato dove lavorano loro le posizioni che cercano
+questo problema mentre se ci fosse uno spazio dove chi fa il nostro lavoro si può confrontare si può parlare ne gioverebbero tutti noi faremmo meglio il nostro lavoro di conseguenza i derby li renderebbe meno si possono dire parolacce sì
+se hai david renderebbe meno il culo perché non conforme
+confronteremo più giava con javascript insomma una delle cose classiche che succeda ma faremmo pesca a strascico insomma tutta una serie di dinamiche
+un po' malate no del nostro lavoro probabilmente non dico che scomparirebbero però
+si si si limiterebbero ecco quindi è una simbiosi non direi proprio simbiosi ma piano piano qualche timido avvicinamento c'è però è inevitabile che siano due mondi molto molto molto distanti
+ovviamente noi facciamo un lavoro come vi posso dire umanistico passiamo al termine voi invece sia per formamentis sia per lavoro che fate in realtà avete modo di ragionare è completamente diverso vivete in un mondo fate un lavoro molto specializzato molto tecnico
+e che noi inevitabilmente non capiamo probabilmente non capiremo mai del tutto e quindi trovare dei punti di contatto non è facile qualcuno di noi ci prova ma beh devo dire che tu sei non ha interesse se fra quelli più attivi nel cercare di connettere mondi devo dire
+amato
+un atto di questo assolutamente
+è andrea c'è qualcuno che dice se lo shopping si fa all'estero per motivi per cui si fa in italia cioè immagino il
+assolutamente sì e no non è una cosa solo italiana al bowling è una cosa molto molto toccante adesso
+è in realtà il contrario e in italia che abbiamo una mentalità da posto fisso quindi non è non è strano che c'era nel senso non è che si fa di più in italia rispetto all'estero perché si fa all'estero e non si faceva in italia adesso che sta soprattutto il nostro lavoro perché comunque parli con altre persone gli altri lavori non c'è la mentalità deve cambiare lavoro
+non solo per aumentare la ral potrebbe essere quindi so cosa fare ma non ti trovi bene la una situazione tossica ti piace dove lavori per motivi cambia cambia si fa più
+fatto questo discorso con mia madre viene fuori completamente un mondo diverso cioè mia madre ogni volta che cambio che ho cambiato lavoro la mia carriera dice sempre ma quando ti accontenti sono vent'anni che lavoro ho lavorato vent'anni imposto non mi sono mai mosso magari se tu che hai sbagliato a stare sempre vista in quel covo
+in quella posizione a fare sempre le stesse cose senza mai aver avuto voglia di far carriera aumentare
+parlo solo tirala un riscosso più di esperienza in generale perché accende
+quello del vecchio modo di ragionare di pensare proprio quello il posto fisso se io mi piazzo da qualche parte dai diciotto fino ai ventisette a seconda se hai fatto qualcosa di laurea fino al xix anni cinquanta sessanta settanta seconda della legge in vigore al momento stai bene ti arriva il tuo fisso se contento certo i lavori funziona
+ancora così inutile inutile prendersi in giro posso vedere ora non voglio citare la pubblica amministrazione perché come sparare sulla croce rossa però si possono vedere un sacco di lavori che funzionano esattamente in questa maniera molti anche nella hit lavorano in questo momento ho avuto colleghi di altre aziende dove ha detto io sono arrivato qua sto bene qua
+attenzione quindi diciamo che un mindset che sta prendendo piede tra i più giovani poi ci salverà parlare anche di giovani cosa penso di loro
+cosa che facciamo e mindset che sta molto prendendo e ero la prima il primo scopo è aumentare esponenzialmente la rampa
+la rivista studi dimostrano l'esperienza dimostra che non c'è modo migliore di avere più soldi che cambiare logo che comunque è stata una stessa azienda nella stessa azienda è difficile essere promossi è difficile avere addirittura una
+i carispaq perché non tutte le aziende che affrontare limpatto basti pensare al composto della maggior parte delle temporanee cui guido tramite mi più di me perché vedendo avendo avuto esperienza come recruiter anche terze parti avrà avuto modo di vedere molte più aziende rispetto a me cari il spesso non esiste neanche troviamo con aziende veloci da persone due
+ove tu sei assunto come sviluppatore vista quello rimane tutta la vita ma su un servo fa un bonus una tantum prossimo tutti una famiglia che ci vogliamo bene quindi lavora come se l'azienda fosse tua o i soldi me li becco io
+che poi tante aziende italiane funzionano anche in questa maniera non solo italiane ma anche all'estero oculus azienda italiana quindi non esiste un vero e proprio spot del tipo che hai assunto come giulio mille tratterà di vento segno di staff
+da leader perché queste questo organigramma questa organizzazione aziendale non puoi averlo in un'azienda di dieci persone perché se tutti sunshine se tu son tech lead tutti sono sicuro che vuole effettivamente quindi capisco anche la difficoltà nell'avere diversi carri ha denunciato tipo che giocoforza sono anche la più grande
+minoranza di aziende che abbiamo in italia
+spagna una curiosità visto che sono una persona molto rientra in azienda prima di essere operativo e utile e ci mette un po' di tempo non pensi che possa essere rischioso come proclamare il tuo gioco ping in modo così sfacciato e proprio l'idea che magari la prossima azienda con cui vorreste entrare in contatto
+vede questo qualche cambia lavoro un po' troppo spesso e lo fa e se ne vanta pure e magari dice perché logora no perché oramai sono entrata in un loop positivo dal punto di vista ovviamente dove le aziende che tengono conto di questa cosa non mi interessano ma in primis perché una volta che arrivi a un certo punto di target aziendali
+ora non puoi dire io sono arrivato al punto della mia carriera dove non voglio lavorare nella piccola attività di paese non voglio lavorare nella piccola argentina ma spero di lavorare nell'azienda grossa che mi permette di fare cose sempre più belle sempre più agevolati impostati cosa che mi gratificano i più non solo quanto si è pagato ma anche soddisfatti
+il personale nel fare qualcosa deve comunque sapere che quello che fai viene toccato da milioni di persone l'architettura di cui fai il design viene utilizzata dalla pubblica amministrazione il paese x paese eccetera eccetera comunque cose che arrivato a cutter carriera cerco quello poi cercando questo tipo di aziende vien da solo un certo
+tipo di lavoro quindi certo tipo di valuta bene benefit un certo tipo di
+palace tra lavoro e vita privata eccetera eccetera quindi queste sono conseguenze per cercare un certo tipo di azienda tipo di attività e questo genere di aziende di solito non si fanno grossi problemi anche perchè possa guardare
+ok funziona google posizionamento sulla sesso è in gioco il mondo si fanno assolutamente problemi se uno si è fatto due anni in merito all'anno in google da loro anzi tu hai lo skillset richieste per lo specifico lavoro esempio pratico quando vi è una guerra buttata nel mondo kubernetes ha fatto payout di tutto
+la gente che aveva un minimo di esperienza super partes e l'assunta gliene fregava niente se arrivavi da redhat da google sarei fatto seguire in pista in esilio otto mesi ti fai un colloquio passi il colloquio gli piace al tuo futuro manager al tuo futuro team eccetera se assunto perché una mentalità diversa no
+intanto mai più
+parentesi è vero ciò popping ma la cosa più importante che puoi all'azienda che assume essere brava a mantenere
+che uno può avere tutta la mentalità già popping che vuoi ma se trova l'azienda chissà alla reception delle persone uno non faccio poco
+giusto va bene prendo atto effettivamente hai risposto
+ben bene e intanto segnalo che il buon massimo magni che si è collegato in pieno stile sbrigatevi estinti in cui li è sempre quello chi vuole entra entra e viene quando vuole si ha qualcosa da dire sull'argomento quindi massimo se hai qualcosa da dire su questo argomento è liberissimo ovviamente intervenire e parlare quando vuoi se ti mette anche il video è meglio
+però va bene così
+devo chiedere a luciano invece nel frattempo e tu che hai una lunga esperienza di candidato e intanto se hai notato un qualche evoluzione e nel modo con cui come dire recruiter si approcciano e poi come neanche se vogliamo anche il processo di recruiting come è cambiato se è cambiato patente dipende anche le aziende negli
+anni
+e poi la tua esperienza insomma sicuramente è cambiato moltissimo
+in peggio generale e chiaramente se non sono due binari paralleli ma chiaramente sull'esperienza del candidato che più aumenta più c'è una certa facilità detto certo tipo di lavori
+da approcciare a certe aziende grazie ai social venti venticinque anni di esperienza e certo tipo di clienti
+alle spalle diciamo il recruiter conta fino a un certo punto è
+la mia esperienza di più reclute però quello che noto io è che sicuramente c'è più
+george continua a ricevere comunque moltissime richieste di linkedin email eccetera eccetera di gente che
+a malapena lecce il mio profilo è
+perché sono io uso il mio link che ti ho scritto molto chiaramente multi amico non accetto cioè faccio solamente contratti non faccio per permanente
+c'è proprio scritto
+e irregolarmente
+interessati e permanente ma se tu scrivi che hai letto il mio profilo non c'è proprio scritto così non sono interessato per dire che neanche leggi il profilo che è questo che ho votato ecco diciamo che negli ultimi anni biblioteche si è aperto un rubinetto gente che non finita
+questo giro recruiter spesso quasi sempre britannici molto spesso almeno bisogna almeno mio vedo io è che
+ti mando questa email così non sai se lo fanno per
+per pescare il cv ci vivo per noi spesso non hanno neanche un progetto veramente non si capisce se il progetto c'è per davvero integrativa suo specifico se mi chiamate o avete un progetto oppure non mi chiamate neanche perché non c'è non c'è voglia di chiacchierare con te del più e del meno tutti ti chiamano per sapere chi sta lavorando e chiede abbiamo sbarcato dove stai lavorando ci hanno bisogno mi dice questo
+non succede succederà francamente diciamo prima intendo dire fino a cinque sei sette anni fa abbiamo lavorato con recruiter che mi chiamano per un progetto poi si passava alla parte più
+diciamo si parla di interviste cominciò a parlare di soldi presi facevo un'intervista se c'è un interesse reciproco e poi cominciamo a lavorare invece adesso mi sembra che ci sia tantissima più perdite di tempo io però parlo c'è una cosa una distinzione molto importante che io parlo solamente dal punto di vista di contracting non di permane perché io sono permanenti boom venticinque anni
+a parte questa esperienza che abbiamo insieme alessandro chiamo la mia azienda
+due tre anni avuto la mia azienda quindi ero io che cercavo le persone perché se continua alessandro una parte questa parentesi di qualche anno e quindi ampiamente il mondo del recruitment permettono conosco conosco molto poco ce l'ho costruito diciamo di luce riflessa stesso parlando con colleghi con amici parenti eccetera però nel mondo del teatro equipment per contracting
+mi appoggio a due tre quattro ruote che conosco tanti tanti anni che so che sono persone che lavorano bene che hanno buoni clienti e francamente la maggior parte delle volte una perdita di tempo provo questo
+potrei tranquillamente chiudere linkedin
+me non cambierebbe nulla perché il novantacinque per cento le cose dicendomi che sono perditempo far piacere permanente esattamente uguale se non peggio quindi voucher
+perché non capisco poi francamente neanche le logiche perché capisco che tu mi approcci perché vuoi sapere dove lavoro perché magari ti ama come si chiama il tuo manager ti pare io non ho pescato questo posso anche capire che i cerchi però se tu mi chiami più sarete sempre quasi solo per chiacchierare non riesco a capire bene qual è la faranno a che ha potuto
+richiudere conosco tanti anni uno una delle più grosse aziende in scandinavia di di recruitment e anche lui mi diceva che ha grosse difficoltà a trovare a trovare gente che lavora per lui e ho anche difficoltà a trovare buoni clienti perché proprio me anche questo ha spesso reso le aziende danno dei requisiti molto molto vaghi non so tu guido sei un'esperta
+ansa
+stile andre bisogna mi serve una persona però diciamo se tu vuoi cerchi una persona
+da mettere dell'azienda soprattutto come contratto che devi sapere esattamente cosa o cosa deve fare mi è capitato più di una volta di arrivare in un progetto dove sapeva niente c'è nessuno da dire ciao
+e se da settecento euro al giorno devono tenere
+cose del genere che vedo per cui non fa bene non so bene
+questo corso me è giocoforza anche di quello che diceva prima guido che non avendo recruiters hacker generale punti di contatto dove possono dialogare insieme tutto e non conoscendo in realtà il mondo t perché poi t rispetto a tutti gli altri settori un po' non voglio usare il termine bolla perché lo usano tutti ed è sbagliato è un settore particolare
+perché comunque sono competenze particolari e un uso e un bisogno particolare rispetto a tanti altri ambienti e quindi diciamo che è un mercato completamente diverso rispetto agli altri il problema che se a jerry zucker whiting sta dietro ma come si evolve il mondo della tv e sanno non possono essere al passo con quello che lei ti vuole per poter essere
+per cercare lavoro per accettare tutto quello che un recruiter ti possa offrire perché le tecniche che stai utilizzando adesso sono le tecniche di novantadue mila io quando ho iniziato esattamente queste erano le tecniche ma bombing richiedine ancora non esisteva ai tempi però da mas booming via mortali so rapido i programmatori esattamente il web il web
+master generico faceva il sito web per trenta mila lire al mio cugino della famiglia io ci credo eccetera dunque si è evoluto tantissimo mondo high-tech da com'era a come adesso sono evolute le figure se prima esisteva cittadina esiste uno sviluppatore fine adesso tra anche solo a capire la differenza tra un software del the way
+l'ocst frontend e backend reciprocità educativa infatti se notate fatto nove percento delle job position che trovi in giro si parla di sviluppatore web generico non esiste più quasi il che che che racchiude poi front-end del caen full story africa tematiche adesso la visione comune del recruiter e in parte anche degli sviluppatori
+le bestie satana che potrebbero fare un altro lavoro senza grossi problemi che esiste solo lo sviluppo web ci si è dimenticati di tutto quello che esiste nelle varie branche dell'informatica tutto ciò l'essere dimenticati e nonostante queste reclute non stanno dietro a questo mondo quindi usano tecniche vecchie tu riposi i vecchi perché ovviamente poi dopo questi anni di pane
+mia dove il valore dello sviluppatore il valore del vivere è aumentato anche la concezione dello sviluppatore stesso mercato perché non è che adesso c'è eccome se lo sviluppatore ma la tj warren in generale come se si fosse svegliato e ho capito che si può fare anche una bella vita qui non esiste solo farsi tre ore macchina per andare in uff
+htc non esiste solo fare nove diciotto o ventisette riunioni inutili legge la mia maglietta non esistono solo queste cose dice anche il poter lavorare da casa esiste il full remote esiste avere una vita bene o male sana e adesso che l'ho scoperto lo pretende fra le aziende ma reputa per la fine non è neanche colpa del recruiter alla fine con moderazione perché l'azienda si dice cookies
+recruiter che non è neanche in grado di educare l'azienda alla ricerca giusta del personale perché recludere che ti chiede la busta paga è vero che magari l'azienda che gli dice che la busta paga la tu recruiter che dovresti sapere come funziona il mercato lo si dirà tua azienda guarda è meglio se non la chiedi guarda tra tre anni diventerà illegale chiedono guarda cerchiamo
+un altro metodo per cercare di invogliare le persone a lavorare da noi questo manca semplicemente manca una cosa che non ho mai veramente capito io conosco un recruiter che lui lavora sono a livello
+a chinon quindi executive e lui ha fatto reso vent'anni alla light rain coca-cola quindi lui è un esperto di farli crudi recruitment solamente se lui ha lavorato per vent'anni dentro queste aziende come sails marketing mi ricordo è un esperto di questo settore focus su excel
+beveridge nonché di birre e goldschmied queste certo punto ho cominciato già oltre quarant'anni ha detto che cede subito a fare questo lavoro come recruiter e quindi una bestia questo perché chiaramente conosce il mac conosce benissimo il settore è quello no mai
+potrai pochissimi in tutti questi anni di recruiter che sono extremis sviluppatori o ex tecnici ce ne sono veramente poi non capisco perché
+potete è una questione che
+sviluppatore non piace fare questo tipo di lavoro che ci sta perché perché da sviluppatore guadagna molti più soldi
+guarda io ti dico che so io non so come quella del venerdì trinità in italia i recruiter suonare a livello rispetto agli sviluppatori da un ceppo mercato non so che all'estero la situazione diciamo è livellata ma noi leggiamo su stipendi abbastanza ridicoli rispetto ad un pari livello
+in termini di seniority
+ciò che sicuramente questo avrebbe il motivo principale però diciamo
+non è necessariamente così no tu puoi anche mettere su ti metti con un po' di gente mette su un'azienda di un'agenzia di recruitment e già questo mio amico quando piazza un candidato a livello zero si becca centocinquanta mila euro dal dalla coca cola della kagan non è che capita ma sta parla della coca gola
+però diciamo magari la coca cola vuole un profilo che gli dà un seme di euro l'anno di stipendio quindi vuole un certo tipo di candidato magari per trovarlo ci metti sei mesi tesi ci sta ci sta ma sarà ma sai cosa io penso che gli sta va bene che un recruiter non abbia conoscenza it perché alla fine fa un lavoro diverso nel senso che io
+aspetto sia una prima fase una expat generica dove tu parli con un recruiter jerry dove ti pone più a dove ti mette alla prova su quello che non è tecnica pura quindi come passare a sting ray valentine le cosiddette soft skill comunicazione con lavoro in team per questo genere di cose che ovviamente non puoi
+cioè non puoi valutare tra da un'idea se uno fa mettere in
+piedi tre fasi nella lingua corrente per cui devi lavorare italiani io vedo altro è inutile che lo porti avanti nel processo tecnico altro perché sai già che sarebbe un fallimento del territorio sheldon di turno dove assolutamente non riusciamo a fare un rapporto umano che sia uno parola dipende sempre dall'azienda segue la rockstar ok se vuoi uno è giocare in team eccetera eccetera ma genericamente mi sta bene
+che il recruiter lascia harry abbia una visione più d'insieme della persona e non della professionalità ovviamente mi aspetto che ci stiamo step più tecnico che verrà valutato da futuri pira che verrà valutato da quello che sarà il tuo manager sarà il tuo team editrici tra eccetera mi sta assolutamente bene
+ma dall' a non aspettarmi che il recruiter abbia conoscenze che io facessi facevo sistemista mi occupo più di architettura in generale non mi aspetto che il recluta tecniche lo sappia parlare con me di kubernetes come potrei parlare con mio futuro pirra però che su linkedin e già sbaglio il nome perché si vede che un copia copia incolla di un altro
+gli peraltro opposto di una traduttrice un po' mi gira il culo ecco diciamo che è un bel po vedere rai westlake oh come come mandare un curriculum e fare errori di ortografia
+rivolgo degli errori ortografia o magari cambiando può essere interessante però già immediatamente c'è un piccolo flag si alza e diciamo se c'è un candidato con pari qualità osilo titoli accademici eccetera ovviamente prendo il
+preferisco prendere me lo conferma fotografia però chiaramente pienamente d'accordo con te che non è giusto che un recruiter non è che deve forse se un programmatore però è
+spesso quello che manca è proprio la sensibilità anche di
+dove c'è famoso ghosting che ti mando le cose per spariscono ormai araba
+io faccio la mia blacklist
+croft appartenendo spesso quello che hanno dato anche che prima magari tu
+se iniziamo a lavorare con un una di queste persone poi quando cominciai a lavorare per l'azienda di richiamare ti chiederò come va ti trovi bene ti do del feedback cioè questa cosa è completamente sparita e adesso ti piazzano
+e poi c'è ho finito e va bene ma poi alla fine va bene così
+come dire viene poi questo alla fine se guardo i recruiter con cui ho un rapporto diciamo anche di amicizia se vuoi vado vado mi ritrovo quasi sempre un suo amico che ci hanno fatto chiudere e diciamo e gente conosco da venti ventidue anni gente che ha
+c'è chi lavora veramente molto molto diversa è che penso che sia un modo più tradizionale di lavorare nel campo delle ma come questo mio amico che fa lavora per cola che lui ha dei rapporti ci mette tantissimo devono un candidato ci parla gli fa quasi lo psicologo per qui anche perché appunto poi un codice questo è il grado di conoscenza e due quando parli con un'azienda dice guarda proprio una persona che fa per voi
+per tipo di carattere che ha tipo b decidono ti servono rockstar ti serve quello che magari non è una bestia di tecnica però è un monte
+the player oppure una nuova leadership
+è nata su una cosa del genere brivido che solo vedo un po' non potesse fare guido che che ci dici
+io uso la funzione alza la mano non si usa qua e intravede libero
+sono abituato e
+sono d'accordo con quello che dice luciano in parte nel senso che è io non sono assolutamente un fan del lavoro di quantità chiunque è stato contattato da bejo ha collaborato con me ok leggi in giro no sa però il sales e dave sono due lavori completamente div
+versi quindi capisco che il tuo amico ha un certo tipo di approccio che per carità condivido e però è una figura molto diversa parliamo di un lavoro di relazione c'è se devi fare marketing commerciale sono soft skill le soft skills sono il novantacinque per cento del tuo lavoro quindi di conseguenza tu hai bisogno
+di avere un certo tipo di relazione sia con il recruiter perché poi recruiter ti deve scusate il termine brutto ma è così ti deve vendere nel miglior modo possibile all'azienda e se fai un lavoro dove le soft skill relazione la lo standing la comunicazione sono tutto e ci devi stare molto dietro ora non dico che deve pieno delle mie
+macchine e qui torniamo sempre al solito discorso delle hard skill le soft skill per me ma fabio biondi mi mancherà però per me le soft skill sono importanti tanto quanto le hard skill se non di più anche se stai davanti al monitor tutto il giorno non parli con un cliente secondo me poi spagna vediamo che dice il merito però scelse
+email nel box del lavoro di dave contano entrambe poi le percentuali diciamo di ognuno se le giostre come vuole però rapporti è un lavoro molto diverso e poi il commerciale al commerciale possiamo dire che creò quanti job title ci saranno per i selfie non so c'è il preside il censis account sns
+manager ve ne saranno pochi
+nell'ambito tecnico invece ecc c'è il delirio solo per lo sviluppo web del frontend ci sta il becco national sales tax cell
+succede sono migliori o che è molto più frammentato perché le plebi le posizioni lavorative i tipi di lavori sono tantissimi hanno un miliardo di tecnologie e framework cazzi e mazzi non si possono conoscere tutti in realtà oggi pomeriggio proprio io e simone turisti di tumore devs stavamo rivedendo un'ipotesi di sc
+scaletta perché ci è venuto in mente proprio per questi discorsi che stiamo facendo qui di tirare su un corso per ferita recruiter quindi un corso di formazione tecnico ferite acc recruiter pop oggi pomeriggio spagna sa ride
+copia incolla da temple il fatto che essi però vorremmo fare una roba del genere infatti oggi pomeriggio ci stavo facendo poco l'elenco delle lezioni di tutti i moduli regalo finiva più perché devi fare devi spiegare affrontate devi spiegare il peccato di dispiegare il devops devi spiegare alla saprà suggerirti di spiegare tutto il delirio del data ingegneri
+ci sono tantissimi temi fa parte dell'infrastruttura il clou c'è il delirio da spiegare e o tentare di spiegare qui c'è un mondo molto variegato è chiaro che è impossibile sapere tutto però non si pone anche non sapere niente c'è il solito me la differenza fra giava javascript per lucas io sicura
+mente qualcuno ti avrà scritto chiedendoti se tu vuoi fare un progetto su javascript io sono arrivata mi sono arrivate anche richieste
+per fare l architetto architect a dubai nel santuario dei vostri palazzi una cosa del genere è capito cioè è qui e popola base poi è chiaro da queste andrea c'è popolo mail bombing che io vado su linkedin recruiter scrivo giava scrivo italia qualsiasi cosa ci sia scritto sul tuo profilo anche se descritto giava mi fa cagare e processi
+giava guidi una parola chiave io ti mando il messaggio è quello è un grosso problema con loro e brody sulla modalità del lavoro poi in realtà non la decide guida la modalità di lavoro decide decide il capo di guido perché se il capo di guida dice guido tu mi devi mandare mille messaggi al mese e me lo dice il capo magari a me fa cag
+gare ma il capo melodiche perché chi hai aziendali le metriche le cagate io quindi mi sto zitto mandeville messaggi al mese ma non è il lavoro il cielo potrebbe fare né lo potrebbe fare un qualsiasi automatismo io faccio due click e mi vado a prendere il caffè perché è stato fatto la macchina non è più un lavoro di relazione capita un lavoro o
+di pesca fascino e quello grosso problema quello che dicevo io devo dire prima ora più che mai sono d'accordo con te che anzi francamente per me un recruiter tecnico chiaro che avere un'infarinatura deve sapere un po' grandi background che m'aspetto di fare una conversazione profonda su una chiara ed è troppo liceo quello che dicevo prima a medaglie da veramente molto fastidio
+e o prodotti ed inserita appunto la mancanza di professionalità cioè ti fanno perdere tempo nel senso non hanno un progetto e non hanno appunto ti chiamano per una cosa che stanno sotto tuo profilo che tu non fai
+mi sa che ben tecnologia non va bene ho che magari va bene però
+se tu oppure mi chiami
+con dei vetri dicono un'ottima soluzione che non sono i proponevano lei di venticinque anni fa cosa del genere non
+oppure ti nascondono certe cose poi fai due due tre o due richiamate tuoi ti rendi conto che non c'è nulla dietro quindi in questo almeno credo mi sia mai capitato di avere
+un'eccezione con un recruiter quando capivo che non era un esperto non me ne frega niente alla fine va bene così tanto perfido google l'interfaccia l'intervista la formula azienda in ogni caso cioè non è che mi tradisse sambuco
+l'unico problema in questo caso è che se gialli recruiter quando ti contatta ti dice cose che sono completamente fuori dalla tua sfera di competenza come per esempio l'esempio che hai fatto tu andarci io la mia
+descrizione subito o architect devono somigliare a cercare per costruire un palazzo o te
+tu
+recruiter non sei tenuto a sapere xix wilson zeta non devi sottovalutare come persona non come una carezza almeno leggilo però porca pupazza almeno sapere di cosa stiamo parlando nell'attesa non dico sapere le basi di qualsiasi sviluppatore anzi si chiama educazione informatica no quel minimo indispensabile
+per capire questo è un computer questo è un televisore essere una stampante so io proprio
+indispensabile ecco stavo stavo cercando nessuno credono troppo cancellato nulla una recluta una ragazza mamma mamma un messaggio altrove in rima c'è scritto libri in inglese era suo ultimo i cammelli i cammelli non nuotano a sweeney qualcosa e poi non trovare una cosa arrivano gli ho risposto guarda i gamberi sono dei cammelli che veramente nuotano e siamo a stirarli
+credo che stavamo andando le cose rima sui cammelli camera concierge che sei in rima e facile
+a questo punto gli rispose io ho detto guarda la mano del link ci sono in india dei cammelli che nuotano siamo
+la tua ipotesi iniziale e vedrete che adesso passiamo a scrivermi qui io ci sto anche perché vari per attrarre l'attenzione lo sanno benissimo che c'è un sacco di mail e magari a l'attenzione è una cosa carina che
+anche meno ho una domanda però guido scusami se
+no no volevo solo aggiungere in realtà poi mentre luciano parlava sono andato sul suo profilo linkedin ovviamente cazzo c'è scritto grosso così io faccio solo il freelance c'è veramente io ci ho messo due secondi a leggerlo che cazzo
+coccola coccola deve non valido come no io semplicemente nido
+è un unicorno qua
+io leggo che max proposito giustamente visto che abbiamo fatto l'elenco delle cose che danno fastidio ai candidati questa pesca a strascico il fatto che non vengono visti profili il fatto che tutte ste cose cosa dà e chiede a guido cosa me invece dà fastidio di più a un recruiter qual è l'atteggiamento classe
+quelli candidati che voi non sopportate perché insomma trovate poco consono o professionale ma io ormai non sopporto tutto cioè nel senso che sono abituato ormai a qualsiasi cosa tipicamente è mai reciproco in realtà penso che dia fastidio a tutti agli hosting quindi il non rispondere only
+sparire e la mia compagna fa il mio stesso lavoro e oggi per esempio due persone che si erano candidate loro all'annuncio di lavoro lei le ha scritto via email non le hanno mai risposto ti ha scritto su linkedin non hanno mai risposto risposta ha scritto su whatsapp non hanno risposto spariti del tutto cieco di quella propongo sting iniziale quindi
+mi candido a caso però poi sparisco dalla faccia della terra ancora più grave è invece quando sei già in un punto avanzato quindi che ne so quando hai organizzato primo colloquio ti sei sentito a tutto apposto dai e dai e magari di organizzare il secondo step morte e distruzione ancora peggio è quando si arriva
+alla parte contrattuale quindi guarda andrea l'azienda tutto a posto ti offre non ci arrivi perché la gente sparisce questo succede a me per fortuna magari sono fortunato io succede abbastanza raramente ma succede li' chiaramente è un problema perchè magari se lavori diciamo in consulenza quindi per
+aziende clienti ti sei esposto hai fatto seguire tutto l'iter sia tu che l'azienda hanno perso tempo e ed è un problema perché magari è chiaro non dipende da te e tu il comportamento degli altri esseri umani non li puoi gestire chiaramente però magari l'azienda usl del culo perché
+no eravamo arrivati lì lì per match almeno su carta e per questa persona sparisce la stessa cosa facciamo noi e popov in maniera succede
+la cosa che dà più fastidio ai candidati e non ricevere feedback questa è una cosa che leggo sempre e quindi fare l'iter e poi rimanere lì in questo limbo dove non si sa come è andata se è andato male non è andato bene è andato bene se sia andato male perché è andato male nessuno lo dice nessuno
+mea culpa anche io ogni tanto me ne perdo o magari do manda delle mail e dei messaggi molto generici ma perché vuoi il tempo vuoi in realtà perché magari non è andato bene amen
+quindi ci sta però anche io ammetto di ogni tanto di essermi perso qualche feedback in maniera molto in maniera molto vedo tu la tua azienda per capire esattamente a tuo tu sei reclute personali s engineering polari yaris e la mia azienda che cosa solo per la mia ha quindi appunto assume solo per la tua azienda cosa fa
+kaitlyn noi facciamo industria industria quattro zero siamo in ambito industriale o che comunque siano positivi michelis come recruiter non esistono sui generis se il recruiter dell'azienda ma non cerca per clienti terzi diciamolo no in questa ultima esperienza io cerco solo per la mia manipola le sue eroine adecco è che una nave
+una veglia per lavoro più grosse del mondo e lì è chiaramente cercavo per i miei clienti quindi per ogni azienda cliente che avevo tendenzialmente c'erano dei profili diversi quindi sulla parte del ghosting e di sparire da molto fastidio la classica controfferta da molto fastidio a me no io
+soft in quanto guido non lo accetterei mai però è una mia è una è una mia idea perché poi secondo me se tu accetti la controfferta della tua azienda per rimanere inevitabilmente i rapporti dopo un tot si incrinano per come la vedo io è quella è un'altra cosa che da quello che leggo su linkedin dà abbastanza fastidio perchè anche io mi sono sbattuto
+cercate di farti avere l'offerta migliore l'azienda ti ha fatto la proposta e tu capito rimane nella tua azienda perché magari ti danno il contentino quei soldini in più per farti rimanere e che io mi viene da dire perché la melegatti prima e me li stai dando solo ora che me ne sto per andare
+quindi quello è un coreano li hai chiesti prima bravissimo esatto o tua azienda perché non me li ha dati prima o perché ti devono dei cessi prima questo possiamo aprire altri capitoli sulla crescita professionale pro tipicamente diciamo i comportamenti sono questi poi vabbè può capitare davvero di tutto gente che
+si presenta al colloquio in canotta hacker
+con delle condizioni diciamo di di luci e distanze improbabili curriculum del scritti veramente in cinque minuti pieni di errori come diceva prima lucas
+in alcune volte mancano poco le basi
+anche proprio a livello di che parli solo in dialetto cioè ci sono una serie di situazioni dove magari che ne so sul curriculum brillanti di conoscere di ddv riuscire a costruire uno shuttle magari arrivi al colloquio tecnico e ti seccano in cinque minuti
+voglio dire non ha specificato lo stato sembra quello lego e capitò c'è lo costruisce con i lego non davvero qui diciamo ci sono due o tre comportamenti che secondo me andrebbero evitati io dico sempre come la vedo io
+o anche magari sei cambiato come dicevamo all'inizio tanti lavori e no il job hopping magari ho visto male hanno no hai cambiato tanti lavori perché sei un un mercenario a non me ne frega un cazzo se tu me la racconti bene mi spieghi perchè a me non me ne frega niente in generale quello che chiedo sempre io che consiglio sempre il trasp
+carenza c'è quindi mettiamo subito le carte sul tavolo parliamoci chiaro la mia azienda che cosa ti offre all'azienda cliente che cosa ti offre e tu che cosa sai fare davvero quello che cerchi perché stai cambiando secondo me se parliamo a carte scoperte dall'inizio se si parla di si parla subito di soldi si parla subito di queste cose qua a me
+c dopo dieci minuti se non c'è match bella e ci ritroviamo la prossima volta interessante e guido ancora step che sei l'unico che dobbiamo c'è una cosa che a me come freelancer o comunque un'azienda individuale praticamente mi serve poter fare o poi
+come offerta al tuoi recruiter e che di solito quando la propongo ebbene cosa imprevista come ma tu sei marziano cosa vuoi c'è un po' di flessibilità cioè non in full time magari ma quelli io ti do a garanzia di darti supporto per essa se però non dev'essere full time con te perché ho altri clienti devo fare altre cose
+e magari col tempo magari ho un part time da dedicarti un trenta ore a settimana per ogni volta che voglio fare questi discorsi mi ridono in faccia fare non un volta però perchè poi una cosa che non viene concepita l'altro i casi che nel mio caso è ma credo anche di molti altri dove magari non c'è neanche bisogno una presenza full time per noi faremo
+aree operations dei bda ma deve avere una consulenza o supporto progettuale per cui non servirebbe neanche full time e credo che arrivi dalle aziende originari cioè come questa cosa è l'azienda stessa che chiede il full time però non c'è speranza per sé
+scenari di flessibilità in cui
+di fatto allora parlando dei freelance qua sicuramente anche luciano può può può dare il suo contributo allora io non ho tantissima esperienza nel recruiting di freelance quindi quello che dico prendetelo
+con le pinze però da quello che leggo nei vari gruppi vari freelance che portano le loro testimonianze nel settore il friends è visto come comunque indipendente ed è un problema perché il freelance tipicamente lavora quando cazzo gli pare e ti dice mi paghi ad ora mi paghi at any material
+stabiliamo un budget di progetto mi dai quel budget poi se io lavoro di notte di giorno di mattina al netto ovviamente i could schedulate con i clienti o presenza dal cliente se serve c'è in questi momenti come vi posso dire canonici dove se io committente ti chiedo dov'è andata al cliente perché di esse si è sfasciato tutto
+to e nel tuo contratto c'è scritto che cliente ci devi andare prenderci mai che però al netto di questo se tu il lavoro lo porti a termine di notte in due ore in tre ore in sei ore se io ti pago ammette inizialmente non dovrebbe fregarmene nullo nulla secondo me come la vedo io nella stragrande delle aziende la stragrande maggioranza delle aziende ci sono due
+grossi problemi uno è che il vostro lavoro è visto come l'omino che aggiusta la stampante così come il content creator e visto quello che fa i balletti su tic toc prendiamo atto che sono dei lavori digitali nuovi e meno nuovi ad alto o meno alto livello di specializzazione perché secondo me pure al content creator per fare i mille
+ioni di litio tic toc non è che si sveglia la mattina e inizia a fare i botti c'è tutta la pianificazione dei team dello studio della roba anche di dietro esattamente come nel vostro lavoro però qui la maggior parte delle persone pensa che chi sta davanti al computer non si sa che fa e lo chiami e ti aggiustava stampo quindi c'è una percezione sbagliata
+ata del vostro lavoro uno due la visione padronale del lavoro cioè su linkedin quanti annunci ci sono per finte partita iva che non sono partite iva ma tu schiavo ti pago a partita iva perché così non ci pago le tasse e contributi se ti spacchi la gamba sono cazzi tuoi non c'è malattia però devi stare online su tim
+dalle nove alle diciotto perché sennò e non sta lavorando ma è un problema anche di chi si fa sfruttare in questo modo cioè se tu sei partita iva non ti devi far rompere il cazzo dall'azienda gli dici se si ama signori io sono un libero professionista e mi vuoi queste sono le mie condizioni io devo fare dieci task se li faccio di notte di mattina in due ore in sei
+ore non è un problema tuo perchè la giornata ma la gestisco io se vuoi una persona full time dal lunedì al venerdì il derby da lassù è chiaro che non tutti hanno il potere contrattuale di farlo perché magari sono alle prime esperienze devono fatturare quindi si si diciamo si fanno un po' mettere i piedi in testa però se tutti nel nostro piccolo iniziassimo a dire alla
+azienda se vuoi un libero professionista queste sono le mie condizioni cavalcabò diciamocela tutta un derby che sia dipendente o che sia freelance a meno che non sia proprio un cane nelle relazioni umane lavoro lo trova anche se mette la foto sua a petto nudo su linkedin è comunque il lavoro lo trova a meno che ripeto non sei un cane e dai
+fuoco al computer del cliente al primo giorno o loro trovano lavoro per loro e caffè va bè cara al lavoro lo trovate sempre e comunque fermi non ci state quindi il kernel sensori non è progresso tema un dettaglio che in germania legale una cosa del genere nel senso che in germania se tu hai la testa come me un fibrato c'è un ma una
+partita iva se muoiono è proprio equivalente però c'è un'azienda di una persona se io avessi un solo cliente sempre lo stesso cliente quel cliente dopo un anno che faccio faccio dodici fatture all'anno perché lo stesso cliente per il primo anno va be'il dovuto anche in italia a distanza anche il morale
+problema che non controlla nessuno potrebbero contro la germania quanto morale io sono troppo stretti insomma
+diciamo il problema più per l'azienda che per me diciamo perché l'azienda ovviamente a
+ah io devo pagare la mia pensione pagare tutto già prenderla con io che mettono quindi tra azienda e provano qui qui e qui e william forsythe se non lo sesta edizione numero
+poi se avessi un finto dipendente o indipendente è sempre stato dipendente che a pesare come un dipendente all'azienda esatto esatto ma scusa luciano tu come essendo freelancer come gestisce posto queste situazioni per evitare il mono cliente beh diciamo un po' lo decido hai ragione tu che praticamente passando per i recruiter è impossibile
+avere per fare tipo il quaranta per circa trecento video ciò preoccupò clienti possono utili etico con gli anni ho un border la si e quindi cioè i miei due tre clienti faccio le mie fatture poi dipende poi dal periodo portofino uno quattrocentotré però credo che non mi sia mai capitato da zero che mi chiamano ricordi c'è un lavoro riguarda quello che posso fare sono solamente due sett
+umana ma è successo che come dici tu ti ride in faccia non esiste io ci ho provato a un certo punto l'ho anche imposto però con fatica nel senso che la fine è diventato il quaranta ore flessibili che poi dico e chiarisco dall'inizio e tutto quanto però essere un caso particolare è quello che fa
+sandro fai anche una consulenza particolare perché sei ultra specialistico su un solo prodotto quindi sei il guru riconosciuto in quel prodotto e non è uno sviluppatore classico che dici lo butto dal cliente quaranta ore a settimana è tutto perché tu hai il tuo progetto l'azienda progetto mettiamo in piedi puppet facciamo trekking
+ning facciamo benevolmente quindi è completamente diverso rispetto allo sviluppatore stanza crazy qui se non riesci tu ad avere mai questo genere di lode bravo sviluppatore normale è assolutamente impossibile esperienza che io vi vedo io anche con le partite iva e che la partita iva rilevare in modo finto di avere il modo di non usare
+dare consulenza terza parte per non fare il diventano partita iva
+prepara per lazienda finale è esattamente comparabile avere una persona che puoi buttare via quando te fate se cambio il progetto cambiano le persone cambiano il top management prendi i cambio di società di consulenza o cambi centri partita iva
+sostanzialmente sono equiparati ma l'unico modo è quello di stabilire dei buoni rapporti con declinate nel corso del tempo e poi quando a un certo punto prenotato un volo con i contatti dei docenti che state facendo
+è andata sempre così poi si tratta solo di saper fare treni quindi turku anche facendo dei corsi che possono fare questa cosa qui quindi ormai fuori pericolo
+sì no io lo sono stato per anni tra virgolette molti clienti molte cose poi recentemente un po' di lavoro e andate a finire un po' di lavoro del partner puppet che non giravano non obbligavano più ho detto io qua sto passando troppo tempo fa nulla e allora ho richiamato il recruiter
+okay si leva da ok che kurumada ha contattato per un cliente che cercava lo specialista paper blabla gli ho detto guarda io sono a persona per te prima che voi prima gli avevo detto io ci posso essere certo tempo alla settimana ma non l'hanno beccato dopo l'ho detto guarda sono full time devo avere festività brioches
+simili altri progetti che ho in ballo ma sono pochi l'ho chiarito in fase di colloquio ok è vero è un casino ed è boh mi sembra un po' allora capisco che fosse il canale del recruiter non è quello giusto per questi casi o sei più bisogno di avere un canale e-commerce molto è molto raro che i recruiter gestiscano opportunità con frigo
+lansing e a me non è mai capitato di tutti i clienti che ha avuto nessuno mi ha mai chiesto trovami un freelance però in italia o all'estero è stato like e per i clienti che ho avuto io secondo me i freelance con esperienza si va molto di passaparola e per come la vedo io e poi secondo
+ma
+poco di gestione della ricerca se io mi arriva l'azienda ix e mi chiede trovami un staff osho io li trovo andrea spagna e gli dico andrea spagna a cento di rally o tipicamente i recruiter un'altra parte
+foro per cento che vede vabbè era per fare cifrata duecento facciamolo contento duecento di rally è tipicamente il recruiting di terze parti funziona che i recruiter guadagno la mia percentuale sulla ralla è candidato ok questa è una è uno dei modi in cui funziona il recruiting e quindi io riesco a s
+stabilire una mia tariffa perché ho un numero finito il freelance io la mia tariffa come la calcolo perché il freelance non amaral ok questo può essere uno dei temi che mi vengono in mente potrei far pagare la mia società perché te l'ho trovato che alcuni tu mi dai un gettone io te lo trovo biondo signor
+junior bello brutto bravo non bravo tu mi hai dato il mandato mi dà un gettone una tantum e poi chi s'è visto s'è visto questo potrebbe essere una delle modalità va in moto rara normalmente si ragiona sulla percentuale in base al jaral quindi può essere anche quella una delle motivazioni che mi viene in mente però da quello che ho visto io e moz
+molto difficile che i i professionisti e le professioniste a partita iva vengano cercate tramite e da anter società di recruiting
+secondo me funziona molto di più il passaparola
+gay all'estero però non è così almeno in italia
+settecento in inghilterra storicamente
+inter olanda sono i paesi dove storicamente forse c'è stato sempre più richiesta di freelance poi mai abbastanza lontana scandinavia meno in germania il primo dopo nucleari in germania perché è più facile trovare cercò motivi permanent soprattutto qui a berlino ci sono molte startup eccetera
+meno nemmeno contractor
+lavoro abbastanza poco in germania perché ma mi piace crederci più di tanto quindi è
+apparente popolo particolare ma no no diciamo che a livello alla fine se io lavoro lavoro dapprima aziende di banche o cose del genere ma è molto step molto molto utile
+nemmeno odio quando ci troviamo in un vagone parole che non viene lavoro molto rigido molto rigido
+ti votiamo un laptop aziendale windows tutto bloccato e se fosse così orribile stesse
+è
+però no all'estero c'è tanta richiesta ancora meno lo meno questa morte
+quando è cominciata la guerra diciamo meno però comunque a richieste sempre abbastanza tanta anche perché c'è la fila consulente
+per un'azienda è facile da mandare via lo serve e un costo che puoi scaricare sempre non hai rotture di palle cioè consulente non ti viene a dire non mi è morto il gatto non posso lavorarci quando un lavoro non vengo pagato cioè io sono dieci anni anomalie malattie x el capitan
+in italia è leggermente diverso perché è qui che almeno l'esperienza che ho io non do harcourt armata neanche sviluppatore php title worker che non si cercano tantissime partite iva se non per specifici casi si cerca tutti un po' diventano diventa per l'appunto il modo per avere la persona di sposa wall che quando tirò
+ampi o della persona dell'azienda conquista consulenza o cerchi non solo prendi ix persone tutela la stessa azienda cercando di replicare il più possibile sul costo per te
+quello almeno dalla dall'esperienza che ho io è la cosa che va per la maggiore quindi partite iva si può che magari per specifici progetti o a progetto con questo paper dai tre ai sei mesi usato come può essere che ne so qualcosa relativo a campo pieno centro cifra magari vedi il consulente di partita iva ma sostanzialmente voi
+renderlo diventa un po' diventa ma in realtà è così che anche all'estero diciamo soprattutto in queste grandi aziende del settore finanziario eccetera
+indiani a vagonate roma
+così c'è poco
+lavorato per sei sette anni in ubs in svizzera che lavorò per melandri che vuoi quindi diciamo roba abbastanza serio la segretezza che per una banca se mentre a fare affari con un narcotrafficante o c'è traccia degli ordini fanno duecento milioni di franchi di multa quindi è un settore che ha molti soldi nel nostro budget annuale erano ottanta milioni di franchi l'anno per dirti no e quindi
+certo punto se ci servivano trenta sviluppatore facciamo così apparivano stigliani dal nulla e schiere
+capisco perfettamente perché lavoro con un sacco di clienti in giro per l'europa e quasi tutti hanno partner terze parti se stesso visto giri del tipo vodafone kena che in realtà era gestita da parte degli oceani che in realtà subappaltata indiani
+eravamo tre con differenti per riuscire a trovare un punto può fare riunioni tutto quindi assolutamente settore che conosco purtroppo però diciamo che il discorso è sempre quello tu assumi che portano le persone ce ne sono di bravi cionondimeno bravi però chiaramente se cerchi un po' la profondità la oppure la leadership capacità di
+gestire un team ma che dal punto di vista umano difficilmente la trovi diciamo o la trovi tra di loro che mi capita di lavorare in situazioni in cui c'erano i tuoi clienti sono le casse non lo sapete bene come stanno le caste che i più alti bramini che profondamente e poi a scendere e sono garantiti sono fondamentalmente organizzati così c'è il nonno metterti in un brahmino quindi la la
+leadership viene instaurata più da un punto di vista culturale culturale piuttosto che come dire di di esperienza di capacità innata di astrid e quindi se cerchi questo
+vedrai che un po' più di difficoltà ho lavorato per tantissimi professionisti di varie parti del mondo talento eccezionale ma anche meno ora tu dipende però la mia speranza in generale x cerchi per una persona
+anche che ha una visione più ampia su più tecnologie difficilmente loro
+su questo poi ora per da sola abbiamo parlato male dei recruiter parliamo male un po' desiderio perché non è giusto
+usata e c'è anche da dire che
+come dire sistemi di vento raccoglie la destra si va sempre mia madre nel senso che è anche scandalosa la qualità degli sviluppatori mediche si trovano a fare colloqui io leggo sempre sviluppatori che si lamentano di come i colloqui sono fatti avevamo parlato con questo non capiva niente sapeva niente i tecnici eccetera ma io sono
+estremamente convinto e qui studiò un sacco di sassate se uno sviluppatore avesse veramente il colloquio che lui vorrebbe avere non verrebbe assunto da nessuna parte perchè se tu sviluppatore che vorrei fare con l'ex tecnico di qua di là vai a fare quel colloquio dalla world amerete tutto che non sai neanche cosa cazzo è una complessità algoritmica non sai neanche il fisico
+le basi dell'informatica e ti cacciano a calci in culo praticamente estive ma cosa mi serve sapere la complessità algoritmo del babbo sorte quando poi al lavoro devo fare questo questo quest'altro quindi attenzione a cosa si desidera nel momento in cui tu sviluppatore sei altamente sotto danny kruger che pensi di essere molto più bravo di quello che in realtà sei at
+attenzione a proteggere il video in questo caso senza contare che la qualità degli sviluppatori è in caduta non libera di più e posso anche capire al recruiter che non trova oggi anche per la propria azienda o per aziende terze perché ti ritrovi giovane di ventidue anni che pensa di essere il nuovo linus torvalds che però che sa fare
+hello world in trenta linguaggi diversi che vuole subito tremila euro al mese netti per che vuole essere super due super mega staff però eccetera eccetera e poi gli dai una prova da sviluppatore e utile a fare neanche un algoritmo un algoritmo semplice che sa fare neanche niente non si sa di base non fa fare nulla coda
+almeno dal mio punto di vista l'ho vista veramente veramente tante volte e va bene tutta la disco se recruiter parole gente anche voi sviluppatori che volete intraprendere questa strada che volete sarà sostenuto svegliatevi studiate è vero che jobs e adesso ci siamo svegliati ma vogliamo più essere sfruttati tutto però metterci anche il
+so che è uscito dal coding school che sapete un framework volete subito ai cinquemila euro al mese super mega tutto sappiate bianche mettere in gioco uscire dalla comfort zone soprattutto ecco questa cosa fa parte della soft kill per esempio il sapersi valutare all'interno del mercato non sottovaluta
+farsi perché comunque la sindrome dell'impostore la cosa brutta ma neanche sopravvalutarsi pensando di essere i nuovi geni indispensabili quando poi è già tanto se sai scrivere linee di codice delicatissimo come sempre spagnolo sempre puntuale e
+sono d'accordo con andrea che rendono comunque lavorando più paesi effettivamente la qualità media
+dei ragazzi qui interagisco i suoi numeri venti venticinque anni meno di me
+non tanto a livello algoritmi nel senso che magari diciamo il codice lo scriviamo anche proprio come attitudine o come voglia di metterci un pò di passione o di
+fare quello un'ombra restarci puoi fare quei venti cm di più a finire una cosa piuttosto che voglio tornare un giorno luminoso
+se fosse poi pensandoci
+forse non è neanche sbagliato il lavoro non dovrebbe essere l'unica cosa che guida la tua vita
+proprio io che ho sempre fatto sola preoccupazione diciamo lo trovo abbastanza volte difficile capire certe certe scelte
+certi modi di lavorare però devo dire che quello che in effetti è questo prima qualità
+generale
+si sta alzando e abbassando processo tipico discorso di cinquanta cinquantenne ci lavoro e arredato ma fategli cosa non è tanto quello di far sì che elton il lavoro diventi la vita e che comunque c'è
+in una base per la quale tutti possono definire professionista professionale sotto quella base non si può definire professionista nel professionale il problema è che il novantanove
+parte delle persone con cui ho a che fare ma anche nel mio stesso lavoro ma anche nelle varie chat forum marfan statuto community riunione così che frequento ho visto proprio questo i ritrovi allora alla fine dipende tutto dalla persona che è tutto ruota intorno alla persona come dicevano le pubblicità delle banche quindi se la pera
+zona ha voglia di fare sia uscito dall'università che sia uscita da una
+da una scuola bootcamp che adesso è diventato il nuovo dimonio tanto di moda poiché non abbia proprio fatto nessuna scuola e si è studiato per conto suo una cosa che perlomeno mi piacerebbe dire a me ne frega un cazzo di come studi a me basta che sia calmato poi come ti sei preparato non m'interessa per aver studiato la notte puoi aver studiato in pausa pranzo puoi aver studiato con il re
+serrature mentre dormivi non me ne frega nulla l'importante è che tu sia preparato a prescindere dal tuo percorso accademico questa cosa manca che poi ti ritrovi il quelli super laureati centodieci lode master bacio accademico avrei avuto un'altra cosa accademica ma non si può bacio accademiche tutto che ho ci ho visto un pc gay non posso raccontarvi dove come ho visto di che non sapeva una
+mascelle sacca lo ciò che ci dicono è detto che sia preparato che hai fatto tre tre anni di informatica più due anni di informatica più biechi di relativa all'informatica fatto di non saper usare le stesse aqa a me un po' spaventa perché sera cominciare a raccontare le cose io stimo esagerano blade runner se viste di cose
+voglio dire a me spaventa e quindi hai ragione è una cosa un problema di attitudine perché è giusto che lavorano diventi la propria vita
+ho fatto proprio questo mio excursus negli anni sapendo che almeno lavoro migliore e più guadagno meno lavoro ikea vuol dire che sto vincendo questo non vuol dire che non sono appassionato non solo professionale non sono un professionista perché comunque un po' di conoscenza farlocca chilometri sono bravissimo cumulare quindi riescono a fare le cose al volo per il culo tantissimo un po
+riesco a pormi maniera come guarda questo passo sembra che in realtà so niente però l'importante è sapersi vendere e per cosa non so io ho imparato negli anni ahmed tredici galan servono
+dipende se sei una capra come me serve come avere il equilibrare non serve a parte questo e invece adesso c'è proprio la pittura e l fare quel miglio in più non vuol dire lavorare il weekend non vuol dire elaborare novanta euro al giorno e tutto ma saremo anche solo avere quella curiosità rispetto quello che fai io vedo gente che si sta laureando che per esempio
+dice emma io ho fatto l'università l'università mi insegna che a scrivere codice quindi non so scrivere codice ma come fai cinque anni tra spa triennale specialistica di ingegneria informatica informatica possibile che non hai mai avuto la curiosità di aprire un report un progetto open e guardare come fatto il codice sorgente se continui a fare informatica
+magari il tuo obiettivo è fare il technical recruiter può fare il cm fare qualcosa che non è prettamente tecnico ma è possibile che tu hai preso cinque anni della tua vita a studiare come un bastardo non hai mai avuto la curiosità di vedere quello che stai studiando su entrambe sembrava proprio credibile questa cosa ed è questo che porta al
+al rugby al crollo delle capacità tecniche dei giovani perché sembra gente che dice che faccio informatica perché facile faccio un rapido perché è la materia più pagata al momento dove trovo facilmente lavoro per poi non c'è passione dietro c'è uno studio struttur
+dato un determinato tipo dietro e come fai ad avere qualità con queste persone perdettero spagna dai anche tu sei stato niubbo e anche tu forse hai la passione però siamo stati tutti come dire ma io da principiante cinquemila euro al mese io da niubbo mi faceva bene il questore va a guardare gli altri stradale e me ne stavo
+zitto che facevo domande ovviamente questa domanda e mi aprivano il culo dicendo orribile fatman in questo senso c'è tantissima anche polemiche sui forum center manicomio dovuta verso di noi dei vari processi di recruitment spent issimi di aziende come meta
+dove ti trovi
+fare erano di interview con test complicatissimi
+devi disegnare sbattuti interviste di sistemi design dove ti fanno disegnare e gioia
+francamente trovo abbastanza noioso e poi soprattutto un disegno ancora ancora però se ti chiedono di fare video devi fare un algoritmo la lavagna
+member non è mai successo proprio andrea andrei
+però in questo senso capisco anche queste aziende perché il livello si sta abbassando così tanto che se non mi capisci se una persona cioè io ho letteralmente ho vissuto ho fatto tanti interviste nelle vite gente non sapeva programmare come dicevamo un fork lupin ingaggiava in scala in quello che è
+a parte aver visto proprio cose incredibili però diciamo quindi effettivamente a livello basso
+ti posso capire che certe aziende che ti pagano poi possibile lavorare per me dove lavorare per
+uber cioè da somma ti pagano bene quindi chiaramente devono avere un minimo di garanzia in questi personaggi sanno sanno fare come stanno facendo quindi non opinioni opinione forte su questa cosa qui
+chiaramente se io fossi un avvocato se fossi un architetto che disegna case non credo che se documentali di lavoro vai vai lavora per un'azienda ti fanno fare ti fanno fare un test per vedere se sa fare l'avvocato ma non so se se
+ti stupiresti che invece sì sì non lo so non so non ho idea francamente però
+mio padre ha un architetto architetto il senso e john
+non mi pare che dopo cinquanta anni andava a fare a far vedere saper disegnare
+non lo so però che non può essere che sia un luminoso allora anche qui no scusa no volevo un attimo prendere alcune domande prima della chat che è molto attiva grazie alla spinta di guido qua abbiamo un molta partecipazione e ce n'era una che era interessante
+tutte molto comunque e livio francesconi quali potrebbero essere i punti di contatto per avvicinare i recruiters developers dov'è che si può lavorare guido tu che su questo sei molto attivo
+non esistono no no nemmeno da dove
+l'avevo detto
+all'inizio
+non lo so nel senso che da un lato continua a dire la la la nostra competenza tecnica è bassa molto bassa e questi quindi non questo non ci permette di capire davvero che lavoro fate non ci permette di capire bene il curry
+vicolo che ci mandate non ci permette di capire bene davvero il lavoro che fate perché se io vado sul profilo di spagna la spagna che cazzo di lavoro fa boh non so perché
+e quindi questo
+potrebbe essere un punto di contatto cioè migliorare le nostre capacità tecniche questo potrebbe aiutare come punto di contatto e lato vostro mi permettere mi permetterei di dire fa probabilmente mi attirerò un po' di idee marea è voodoo di come la sua
+boccia e perché molti di voi molti di voi al contrario se la tira un sacco vorrai
+guarda s andrea scusami eh nel senso buono ma è veloce il cielo turismo dell'informatica è tremendo e sono tutti cazzari tranne me questo è un po'il
+classic secondo me
+guru chiamiamolo così stanco
+non mi rubare
+la
+si veda è abbastanza sdoganato come allora secondo me è fuffa tech è fuffa guru è fuffa quello che vuoi e in tutti i settori nel vostro che è ha molta più domanda rispetto all'offerta è chiaro che è più facile
+appunto sentirsi stocazzo per cave ed io ricevo trenta mail a settimana al giorno dicevi sentirsi caiazzo sia esatto tipo oppure che ne so guadagno ottanta miliardi di euro al secondo perché sto cazz quindi diciamo un pò di di di di appunto di celodurismo
+di spocchia c'è
+io la eviterei a me le persone che se la credono troppo io pure ho un ego enorme però diciamo non faccia pesare al mio ego e la mia spocchia sulle altre persone quando posso fare lo splendido lo faccio quando invece devo essere una persona umile perché magari ne devono assumere o sono in situazioni lavorative tengo i miei il mio ego a bada
+e però almeno se poi devo dimostrare quello che devo dimostrare lo posso dimostrare come diceva luciano invece o anche andrea magari il momento in cui appunto arrivi all'inter più tecnica o devi mettere in mostra le cose che sai fare in realtà non le sai fare e poi è proprio un approccio okay al mie colleghe e i miei colleghi di altre aziende sono su
+accessi delle scene veramente incredibili di sì dad che chiedevano al mostruose o anche lì il junior magari appena uscita dall'università o dalla coding school perché ha visto il marketing anno diventa davy in un giorno e mezzo e da domani i guadagni cinquanta mila euro quindi si fa un pò come investing cripta
+vai a vivere a dubai stessa roba e si sta creando una mentalità un po' finta su questo lavoro tenendo conto che poi se vai a vedere i report che ne so tec compenso punto com ce ne sono milioni in giro il derby d'italia di media sta trentasei cappa quindici vedi tutti sti soldi non è che poi li guadagna
+beh è ovvio c'è il genio di turno a quello che magari si è fatto la carriera lavorare l'azienda giusta che sta molto su ma c'è anche il dato medio è il cosiddetto operaio del codice che invece sta lì a trenta cappa e trenta cappa rimarrà perché non ha competenze non può crescere non sa crescere come dice spagna non sem
+mai alzato dalla sedia è andata a diary capo umide vi dà più soldi perché per una serie di ragioni quindi non sa negoziare una soft skill sacco mancanza fa niente rimarrà a capo forever ho esultato tantissimo dalla domanda nata la scusa in realtà non è interessante questo punto dammi un po' di numeri premi mi mi mi lascia un po' spiazzato in italy
+il team senior dove dove può arrivare non esistono bersaglio l'italia ha un sospetto non è una non è una trollata nel senso che il novantanove per cento delle aziende italiane non hanno il concetto di simile
+però allora tipicamente
+ti diamo diamo un po' di numeri prendeteli sempre con le pinze perché la seniority non si dovrebbe negare agli anni di esperienza sul curriculum però ci ragioniamo come un essere umano medio jeans stretti da zero a tre anni anzi zero sei entrerebbe da zero a tre sei junior da tre a sei sette barra sei un mito da sette in su
+otto in su è tipicamente un sigaro e così a spanne che puoi magari puoi essere anche uno che lavora da venti anni insomma può accedere al computer ma è un altro discorso tipicamente le fasce ad occhio sono queste qui può un derby che ci ha dieci anni di esperienza ti può vendere sul mercato come so come senior è molto
+difficile io parlo sempre di pmi italiana non la kwembly wear multinazionale che ha la sede legale italia o qui parla di azienda nata in italia cresciuta d'italia con la mentalità italiana gli stipendi italiani è molto difficile molto difficile superare i cinquanta sessanta mm
+molto difficile e cioè sopra i sessanta un'azienda italiana è molto difficile che te li dia ne ho conosciuta qualcuna male devi proprio cercare col lanternino e poi anche lì i processi di selezione sono più complicati perché sette devono da tanti soldi non è che si prendono gli scappati di casa giustamente direi poi ogni azi
+tenda sceglie i suoi criteri di selezione
+alcuni sono giustificati altri non sono giustificati mamma non me ne frega niente che ognuno si gestisce l'azienda come vuole però diciamo il tetto per un signor in italia della pippa serravalle e non dalla multinazionale che ha la la sede legale italia sopra i cinquanta sessanta e moto difficile arrivarci
+vale anche per cloud engineer sistemisti tutto quanto cavolo io sono previste anche di meno
+i sistemisti sistemisti ormai stanno scomparendo che cos'è il devops come o come credo che quello che facevano mai resta quello chiamate adesso si
+se c'è l'evoluzione tipo pokémon da sistemista in spagna da quello che ho capito più o meno del lavoro no non proprio non adesso
+però diciamo più la parte di infrastruttura cloud cioè sistemista dell'epoca che stanno alla sala server è giusto e computer ormai per me questo nuovo brand adesso il sistemista voluto ottimista e esther platform engineer
+ti porta dentro al consumo di competenze di sviluppo che il sistemista dei nostri tempi non non aveva mai avuti anzi sistemisti old school che conosco io per loro esiste solo il reboot del servizio già che puoi vedere revoca ansible oh mio dio cos'è queste cose che
+lionel bus treni rock a furia di piper che fai qualsiasi cosa all'infuori di questo non esiste
+in realtà sulla parte sistemistica ma anche qui da noi gestite tantissime quindi ho una visione un po' parziale è quello che ho visto io che si sta un po più buttando l'occhio sulla parte di security quindi che ne so se tu hai il sistemista tra virgolette che magari ti può gestire anche un po' la parte di security di infrastruttura ma anche magari di più
+è abilitato a fare il data protection officer perché tipicamente l'azienda ce l'hanno esterno ma alcune optano di tenerlo eternamente e si affida tipicamente a una tac persone all'interno dell'azienda è tipicamente appunto e old vecchio sistemista holity manager chiamiamolo così e magari un un'evoluzione
+a livello di opt-out può essere può essere quella che affiancano più competenze in ambito diciamo di sì chiuditi ecco di gestione del dato aziendale o la buona pratica delle password di non avere il post-it davanti attaccato al monitor o che ne so le ong gli ingressi west bay vista alla reception
+tutta una serie di buone pratiche che magari stanno piano piano entrando un po'nel nell'abc della gestione dell'azienda e che poi troveranno tutte le conversazioni problema non è solo le aziende italiane sedi italiane tutto italiano sono un sacco di aziende in realtà estere ora non posso fare nomi perché i vuoi esprimere il vegano avvocati
+ma ci sono comunque un sacco di aziende che non sono italiane che hanno sede in italia e pagano che fanno consulenze tutto cure oltre a una certa chiudono ovunque vuoi perché l'italia non non ha fornito particolari sul dare determinate cose vuoi perché la categoria dell'informatico non è protetta
+non ha le sue cose eccetera eccetera diciamo che legalmente ti può pagare poco di solito poco a poco al nesso di determinate realtà dove comunque c'è perché l'idea generale su muovi soldi che facile che anche tu prenda parte di questo mondo abbiamo esempi anche fuori dalla tv ma il calcio è tutto perché è un calciatore dotato
+muove smuove miliardi giustamente lui se ne prende una parte di quello che un sacco di soldi altre aziende come può essere la meta come può essere nel west end può essere
+google muovono tanti soldi vogliono un certo tipo di competenza pagano con la consulenza di un'azienda che muovono gli stessi soldi che in teoria vorrebbero la stessa competenza però non va non conosciamo tutti quali aziende sono inutile fare nomi quindi non vi sto a dire cosa però bastava fare un giro in una qualsiasi azienda che usa consulenza a vedere
+quali sono le consulenze le aziende di consulenza più utilizzate che non sono italiane che hanno sede in italia due condizioni si possono fare purtroppo il discorso non è solo
+italia su italia ma anche aziende estere che lavora in italia
+l'hai mai stato italiano un po' il fatto che l'italia non ha particolari protezioni riguarda la categoria dell'informatico ma non voglio il sindacato altro però di un altro tipo di cose vuoi per tutta una serie di ragioni purtroppo ritrova in situazioni dove c'è il via mi guardo intorno che paga ottanta e più la pm di turno che paga trenta
+cookie
+l'unica cosa che si può fare sperare che arrivi anche dalla gente cioè cercare di creare un circolo vizioso anche tra di noi nel senso che se ti fanno un'offerta a meno che non stai veramente la colla gola devi assolutamente provare il bisogno
+devi lavorare su azioni che però scusatemi io ne ho conosciute veramente veramente veramente veramente poche donne capita magari avrò vissuto in una bolla ho sempre avuto un certo tipo di persona al mio fianco quindi magari è colpa mia che non ho visto certe storie trovi storie di gente che rivelò che nella t deve per forza assolutamente lavorare in questa azienda non può studiare non quando arrivi alla tua azienda
+ne conosco io ho visto tantissime scuse ma mai reali necessità del devo per forza rimanere qua e poi vi abbiano almeno che non è poco l'azienda della vita che dici a casa non me ne andrò mai perché amo esattamente quindi situazioni in cui una persona può migliorare se stessa e non solo a livello professionale quindi me
+persi a studiare cellula confort-zone fare cose che magari non ha mai fatto per imparare qualcosa di nuovo ma anche a livello professionale nel senso che una volta che hai il tuo lavoro hai le spalle coperte tutto prova magari a uscire a de facto internet sono tutte le varie taverne erano cresciuti vari gruppi è facile a prendere contatto con qualcuno
+chissà non dico aiutare ma che ti può dare un'idea su quanto può essere il tuo valore quanto all'azienda in cui stai possa avere o non posso avere la reflex che si sta trattando malissimo
+è tossico l'ambiente non va bene tutto ma c'è un certo tipo di flusso di informazioni tale per cui una persona appena appena si interessa a tirar fuori il naso dalla propria zona può capire vedere fare tu che sei nuovo o tu che continui a lamentarti che il tuo lavoro fa schifo di una guida apposita prova a mettere un attimo il naso fuori
+daddy da dalla tua bolla per migliorare te stesso migliorare la tua posizione lavorativa e vedrai che vivrai anche meglio non solo guadagnare più soldi i soldi secondo me sono
+c'è solo una conseguenza di un certo tipo di lavoro falsi falsi fanno battute poi chi mi conosce online online tutto sa che il gioco molto sul sagrato della radio guadagnare la rai comunica cose tutto però alla fine quando si parla un po' più seriamente il arrivare a guadagnare un certo tipo di cifra secondo me è un riflesso del lavoro che fai è una conseguenza e il
+lo scopo ma una conseguenza di quello che fai quando arriva da lavorare in tipo di ambienti e l'ambiente stesso che non vuole
+non vuole andare in burnout vuole tenere in azienda ovviamente essendo questa una persona valida vuole alternativa in azienda di tutto per non farti andar via e farti star bene e di cosa si traduce infatti sta bene non volersi far andar via traduce in tutta una serie di benefit che possono essere un soldo lo sono può essere lama la stupidità della macchina questa è l'assurdità
+darcy tuo club sandwich poi dipende da persona a persona cosa è per te un benefit totale per cui dici o che io voglia rimanere qualche possa essere anche il caffè in ufficio gratis o le macchine i distributori automatici dove non ci devi meteo soldi ma quello va varia da persona a persona ovviamente a questa anche la capacità dell'azienda di poter fare attenzione
+tonale è tutto quindi tira fuori il loco confort zona provaci non ti costa niente fare un colloquio con gente come fluido altro recruiter che sanno fare il loro lavoro non guido però altri che sanno fare il loro lavoro in azienda e in aziende anche grosse provaci buttati buttati e tabelle spa
+versione motivatore ci mancava e no
+alessandro è vero perché allora non sono un derby ma io feci un post qualche mese fa è ma lo penso tuttora e lo dirò sempre a chiunque che per me anche il fatto di essere entrato in un gruppo telegram con deb davvero mi ha cambiato la vita che il mio li
+conoscenza delle tematiche tecniche è schizzato e io a è stata anche una considerazione che ho fatto dopo qualche mese dopo essere entrato nelle varie community e mi sono crollati tutta una serie di preconcetti pd che io avevo nei confronti dei developer perché in realtà non ci avevo mai avuto davvero a che fare
+con questo nome esatto che siete persone e sapete anche comunicare o che cosa perché per me era impensabile avete anche relazioni con altri esseri umani incredibile però a parte diciamo la mia esperienza personale in generale quello che dice spagna è sacrosanto perché siamo nel duemilaventitre quasi duemilaventiquattro e non ci sono scuse
+per non sapere quello che succede nel mondo dello sviluppo rain ed in tra le community i podcast i canali youtube i siti glassdoor tre trustpilot tech con te cioè ragazzi miliardi
+ora facciamo i bookmaker però all'epoca mia sarò banale esisteva ci andavi a vista coi giornali i floppy disk e friends and family che ora magari di informazione ce ne sono anche troppe codice un overload informativo apri google e ti perdi o rosse uno minimo sa indirizzarsi o nelle communities pag
+la testimone tipo nel gruppo di patrick tutti i giorni arriva una persona e dice ragazzi mi ha contattato il recruiter dell'azienda ics oppure sto facendo l'iter di colloquio in azienda x che mi dite di questa azienda e a lavorare da mcdonald's che è capitato chef dieci derby ti dicono guarda con l'azienda una merda perchè io ho fatto i colloqui ci ho lavorato sono andato
+in burnout mi hanno pagato a nero non mi hanno pagato i contributi cioè un tot di deb ti danno dei feedback reali live online ragazzi va
+abbiamo scoperto l'eldorado entra nelle community indaga online parla con le persone crea delle relazioni tira fu questo lo dirò fino allo sfinimento tira fuori la testa dalla tua postazione dalla tua cameretta dall'ufficio da dove stai guardati in giro tanto come ha detto spagna chat e costa inizia fa
+colloqui o sette vanno a cappa o ci riproverà e capisci quello che sbagli cresci professionalmente perché se ti vanno poi colloqui probabilmente perché magari sei rimasto fermo tecnicamente sul mercato il mercato evolve o magari aggiornale le tue competenze può essere una cosa interessante quindi
+guardarsi attorno fare community fare rete e farsi aiutare se non lo facciamo perché poi giustamente come diceva andrea questo innesca un circolo vizioso positivo ma non solo per voi ma per tutti perché in primis i recruiter faccio più placement se io facevo il placement la mia azienda va meglio probabilmente guadagni più soldi
+però poi siete contenti anche voi perché io vi piazzo alle aziende migliori vi faccio guadagnare più soldi abitiamo tutti le aziende hanno personale più qualificato fatturano di più possono pagare di più di conseguenza anche io che faccio il mio lavoro e scott cresco tecnicamente costruiscono delle relazioni con voi e alla fine tutto il settore vince perché c'è il settore legale
+merda girano una barca di soldi ma veramente una barca di soldi però fa schifo mediamente ok
+qualche modo per uscire un una cosa che mi ritrovo però adesso mi sento queste cose burnaby burnout pure pagati in nero non pagati questo edificio venticinque tre anni che lavoro all'estero ho mai capito grazie al cazzo lavora all'estero
+questa fatina parte due tre anni blockchain cambierà fonti letterario l'italia non da qui la trovo la trovo
+forse anche la regione che me ne sono andato a buon fine il budget e c'è chi ancora si così che ancora mi fa dire queste cose imbarazzanti soprattutto nel nostro settore dove c'è una luce che dovrebbe avere serietà competenza tecnica ma anche cosa importante è vero ma se qualche azienda ci sono ancora che magari ti fanno i contrattini
+part time poi il resto te lo paga era nero ma devi lavorare full time le finte partite iva quadro critico
+real rimborsi o altri problemi per non pagarti la che può cioè pochino ci siamo passati tutti era un pastore l'italia già tantissime cose belle però non non succede in tutti i settori perché allora anni prima parlava magari propriamente di bolla però noi nel nostro settore wallace dal senso
+ok siamo veramente non dico una gallina dalle uova d'oro ma quasi o catechesi andiamo a vedere altri settori e che ne so tipo la ristorazione l'hotellerie cioè ragazzi sul settore del turismo schiave no lì e proprio schiavitù è veramente caporalato noi rispetto ad altri se
+attori siamo proprio una favola però ho anche dei letti ci sono un sacco di cazzi
+è inutile negarlo e poi ripeto latte
+ed è per questo che tutti voi volevo venire a lavorare perché hai detto
+tutte queste bellissime cose ciò non toglie che non è che tutti devono per forza per forza a lavorare nell'informatica che alcuni che con l'informatica sta qua loro fanno non si sa dove questo corre anche parte di quel che dicevo prima una persona dovrebbe rendersi conto fino a dove può arrivare e cosa può fare io per esempio non so nuotare bene
+pilotare un aereo o una certa fisicità non potrò mai fare il pilota di jet da combattimento bisogna anche avere un attimo piedi nella realtà non potrà mai andare a fare il calciatore in serie a non posso andare a fare il pornoattore cioè ci sono tutta una serie di limitazioni e o per qualità o per talento o per capacità non puoi
+fare informatica non è per tutti alti ci provano è anche giusto capire fin dove il tuo limite e ci sono anche altri lavori poi andare a fare prevenzione che domande continua a un sacco di persone ogni volta che vado davanti al mcdonald ci sempre cercasi personale vedi che l'informatica non fa partendo non è un cavolo dire dalla gente la prende come se fosse una
+sconfitta personale ma dalla sconfitta semplicemente ti rendi conto che non era stata giusta per te piuttosto che essere un canea ed essere schiavizzato in quel tour che ci fanno spingitori di codice e poi alieni te stesso rischi burnout perché fai un lavoro che non ti soddisfa ti non ti dà soddisfazione perché ti rendi conto che ce la fa fino a un certo punto
+conto che fino a porto non puoi andare prova a cambiare ma anche solo proprio come cambiare lavoro perchè vedo esattamente l'opposto vedo tanta gente che magari non è contenta del lavoro che fa e poi fare la coda in school per orientare questo mondo o provaci a scommettere su un problema poi come dicevo prima dipende dalla persona sola persona voglia di studiare fare disfare con cosciente
+che esce da old school ma poi si mette a studiare diventa estremamente brava ovviamente su un problema e una carriera come tante ci provi con fiona ottimo per te non funziona il mondo e grosso ci sono tante altre società di carriera non per forza di fare l'informatico anche perchè poi il problema è che le grandi aziende quelle che
+rosse di consulenza brutte e cattive di cui parlava prima andrea loro è un terreno perfetto perché loro fagocitano in continuazione neolaureati le persone uscite dalle coding school e vengono fagocitati in questi mondi del lavoro orribili a me un sacco di ragazzi mi scrivono guarda guido
+oss nell'azienda ix una qualche mese fa una roba incredibile e suo ragazzo sta questa grossissima azienda di consulenza in quadruplo body rental sono due anni e sta fermo senza nessun progetto quindi lui venduto come frontend developer ad angularjs al cazzo sono due anni
+che guarda il monitor ogni tanto ti danno qualche vampiro qualche bug fixing del cazzo ogni tanto ti danno un po' di formazione giusto per tenerlo un po' fermo ma lì sono due anni che non fa nulla ora gli ho detto sia un coglione tu che sei fermo da due anni dopo beja allo stipendio dammi i soldi o faccio niente bella vita ho capito però sul collo
+joker che ha debuttato due anni della tua vita sei fermo tecnicamente moses di qua di cazzata sua per cancellare niente problema suo certo però anche il problema di queste aziende grosse che fagocitano persone in continuazione perché hanno sempre bisogno e non tornò per mostruoso e quindi molte persone fanno la coda school sempre con la con le promesse
+sse della della terra promessa o magari escono dall'università vanno al career day vedono il big nome o ti fanno abbagliare dal big nome e poi entrano nei tritacarne poi arrivano ad odiare questo lavoro e pochissimo tempo quindi anche lì attenti informatevi e progetto scheckter e cercate ma va
+bene qual è il problema c'è ma che fa tic toc fee only fans un parrucchiere parrucchiera ma non me ne frega un cazzo se sei felice fai i soldi va bene lo prendono in giro non esistono lascia stare ok
+il tema è cercare di non farsi fagocitare e di avere un po' di di di spirito critico nei confronti del vostro futuro da sfruttatore di lavoro ripeto anche la mia compagna pollack mio stesso lavoro lei lavora proprio con il junior neolaureati tantissimi fanno perdere opportunità di lavoro estremamente più interessanti
+perché vogliono andare a lavorare nella big che c'è un grattacielo col nome è sparato nel cielo paul s bat segnale di batman poi lei in qualche modo cerca di fargli capire guarda se li beccano fra due anni che tutti i soldi che stai guadagnando dissi tende di daraa a allo psicologo perché andrà in burnout alcuni lo capisco
+uno altri invece hanno anche un sistema magari di familiari di amici jeannot va lavorano tutti al posto fisso e consulenza no l'ala consulenza it grossa e is the new posto fisso dell'epoca no io la vedo un po' così sono tutti rassicurati dal grande nome però quando entri lì dentro entra in un vortice
+tipicamente e poi non è detto io conosco gente che lavora nelle big di consulenze che invece felicissima che ce lo stack tecnologico bello il progetto interessante per carità e non si fa di tutta l'erba un fascio però tipicamente non sono dei buoni posti di lavoro quindi anche qui credi di avere un po' di dischi
+direi che cosa offre il mercato perché poi se uno va a scavare le aziende anche italiane dove si lavora bene ce ne sono e ce ne sono tantissime bisogna andarsela a cercare rispetto a obbedire il nome altisonante sul grattacielo ma allora visto che ci si lamenta tanto il lavoro l'italia è al netto del fatto che c'è un
+accogliente visto i qui presenti anche in chat che hanno preso sono andati all'estero
+dopo la pandemia con il fatto del lavoro remoto lavorare per le aziende all'estero stando in italia non sta diventando più possibile più praticabile è percorribile e a quel punto perché non farlo e se gli italiani sapessero parlare l'inglese
+quello è un altro problema ma faccio parlare spagnolo è una stronzata e una fontana perché l'estero non è per niente così tanto meglio rispetto all'italia tutt'altra cosa si può altre ma predappio spagna lascia però no e allora parliamo di che cosa mettiamo nel dettaglio se non stiamo troppo pur remota
+non è vero che l'essere acquistato
+l'italia possa vedere per esempio o per più grandi aziende che durante la pandemia seppur remota che non erano pure prima pandemia e stanno tornando nei loro passi adesso a pandemia finita quindi allora su alcune cose sono d'accordissimo essere migliore burocrazia alcune cose
+tamente burocratiche tutto e sono d'accordo stipendi sono d'accordo tassazione sono d'accordo oltre cose non sono così quattro d'accordo welter perché per esempio lavorando con tante persone io adesso ultimamente mi occupo di mia ovviamente l'italia perché madrelingua visto che parlava tanto bene dell'italia inglese gli italiani non vogliono
+avere gente che parla inglese tocca ma gli italiani visto che sono madre lingua avrà un sacco con arabia
+tutta la parte di will
+pubblico pubblico volta
+arabia dio la cosa
+energia e africa ho lavorato un sacco germania sono stato con francia ho lavorato con svezia finlandia tutto va sicuro che a livello di competenze a livello di attitudine al lavoro al lavoro non c'è questa vita no no no no aspetta aspetta però è appunto entriamo nel merito perché siamo d'accordo su competenze turno al lavoro
+fossero mai dire molto su molti aspetti
+ma su possibilità di lavorare all'estero con tariffe barra stipendi esteri su questo si questo
+tantissimi appuntamenti ti do ragione perché appunto essendo tutta la parte di tassazione completamente diversa tra parchi di welfare completamente diverso a forza di cose sì quello che riguarda la stazione quello che riguarda sapere tutto è completamente diversa su questo completino è su quello che dicevo c'è
+chi lavora in italia dipendente in italia che non si trova bene nella sua azienda che vuoi per questioni economiche vuoi per questioni di altro genere è però nello stesso tempo magari andare all'estero fisicamente può essere anche complicato per tutti i motivi che uno può trovarsi
+e allora difficile però alessandro almeno io non conosco sezione italiana però in germania per esempio se io lavoravo per un'azienda di singapore due anni fa no e questo è un certo punto
+lavorare con me e che mi hanno fondamentalmente assunto anche se per aprire una consulenza perché io non posso lavorare proprio come residente in germania non posso lavorare per un'azienda svezia se l'azienda non ha una sede in germania perché mi pare uguale perché il problema è che ci sono c'è la pensione cioè c'è la sanità
+tutta una serie di cose quindi lo puoi fare solamente come consulente come faccio io però come assunto non solo aiutare a comporre
+con l'employer record tela cubi in germania la tua azienda cliente svedese e loro ti vogliono assumere ma non hanno sede legale in germania e della stessa cosa dell'italia tu ci lavori con la partita iva oppure passi tramite remoto del
+ecco fatto
+usato queste due soluzioni però company che ha avuto una serie di siti di aziende però questo lo puoi fare
+paghi le tasse nel paese in cui sei residente eccetera eccetera ma alla fine quello che faccio io c'è da dare una mano di amici aveva un sacco di quotidiano raramente ho lavorato con aziende nei paesi in cui mi trovavo esattamente ma siamo d'accordo va infatti allora ovviamente c'è sicuramente una differenza fra consulente dipendente che come consulente la cosa non si vuole nemmeno come problema come dipendente diversa
+su adesso non so che marca hanno queste aziende di più eletti assumono loro in italia per un'azienda estera ma credo che una quarantacinque
+l'azienda che paga lo so
+alzare il costo del servizio
+siamo d'accordo siamo d'accordo è un costo per l'azienda magari ti coglie
+più cinquanta per cento quattro per cento non credo che sia troppo diverso come non lo so però non credo sia veramente economici queste
+le soluzioni per cui sì no allora sicuramente come li professionista è un altro discorso se la tua partita iva una tua micro azienda poter lavorare all'estero se ti permettono da remoto e i seguente più fattibile venne fatto che quello che faccio da quindici anni
+vivendo in italia però la domanda è c'è un flusso magari lo percepite vedevo che il pollo remoto full streaming che non è più tanto full però c'è comunque ancora in situazioni simili al allora chi dalla mia esperienza personalissima chi era dovremmo prima continuerà sempre a destra
+chi è diventato un remoto durante la pandemia sta ritornando ad una remota buttar dentro situazioni tipo widget sono una presa per il culo per chi vuole fully remote sia per chi vuole ufficio liberty sono quelle situazioni dove fa tre più due tre giorni in ufficio i due giorni che questa casa che hanno presa per il culo scusatemi ma è una presa in giro e tante aziende stanno più
+un piano tornando al voglio più furbo ma poi la presenza usato poi non stiamo qui a spiegare i motivi molte volte più politici che pratichi mentendo sui numeri inesistenti però questo qua è il trend che sto vedendo io il fatto che fully remote vero è sempre esistito semplificherà ci faceva prima continuava a fare pochissime le aziende che avendo provato su un remoto e rafforza
+la pandemia hanno mantenendo sul remote viewer
+per esempio è una di queste pur remota per le mie posizioni anche per le posizioni di consulenze di cracker che vanno a cosenza praticamente tutto stanno vedendo che ovviamente si risparmiano un botto di soldi e quindi anche il cliente paga meno hai esattamente lo stesso qualità di servizio anzi paradossalmente seguito online quasi mi eseguite
+dal vivo per tutta una serie di ragioni anche solo per il fatto di non dover viaggiare stare in albergo ti va compiuto avanti indietro
+alcune il fatto dei pagamenti dei pagamenti più alti anche li' dipende come dicevo prima visto che in italia non c'è tutta sta gran legislazione sul lavoro ai t a chi li troverai sul ramo d'azienda estera magari ti vuole come international contractor a p piva che ti tratta come se fosse indipendente esempio o amico che la
+ora il prox e capozzi e a lui
+viva international
+contractor ma lo trattano esattamente come se fosse un dipendente di ferie pagate malattia pagata in fattura adesso non mi ricordo se fottuta ogni settimana ogni mese io vorrei che lavora però se dovessimo avere bisogno in malattia la fattura no se dovessi avere bisogno di pace che fatturano poi è oro quindi varie aziende che tu sei dipendente italiano normalissimo ma ci sono
+esempio il mio contratto io sono un tratto viene ward italia in teoria sede a milano però visto che poi con la pandemia innanzitutto mi hanno fatto l'addendum fare il furbo
+perché il mio team essendo già distribuito dall' ufficio non avrebbe nessun senso perché l'unico il sassuolo
+in questo caso dipende dall'azienda come dicevo prima azienda che comunque ci pagava tanto prima volta accanto a prescindere azienda che può pagarti meno perché non c'è nessuno che fa non c'è nessuno che fa firstmet quanto ti deve pagare pagherà sempre la domanda per andrea luciano ma anche per guido per quello che può dire lui capita anche a voi invece avete notato che
+comunque le attività un set del cliente sono sparite e sono tutte da remoto o vi capita ancora di andare fisica mettere il cliente a fare le tue cinque giornate di un sito consulenze questo genere succede o se vado sempre meno puoi almeno una settimana dieci giorni al mese ma lo faccio più che altro per mantenere i rapporti
+che vuoi dire
+mi fa piacere andare
+quello quello che sto cercando di riprendere a fare ciò include uno due
+i prigionieri sono costretti scandinavi in udienza io l'app di yahoo yoga quindi farci piacere sono belli chiacchiere dunque tutto il tuo team
+insieme con swing
+finlandia b è però una cosa però non lo faccio più perché mi fa piacere farlo loro
+non è richiesto dice no no assolutamente no a meno che non sia una esigenza tecnica saprebbero cambiare la toppa allora sì che mi andare però altrimenti nessuno mi ha mai detto tanti alberi di essere fisicamente almeno che c'è conferenza c'è
+e e tu adrian i progetti allora da me ci sono varie
+non volevo dire dipende molto cattive dipende perché hai diversi flussi di lavoro se il lavoro più tecnico quindi il link architect che ti fa fare effettivamente il delivery ho veramente pochi che lo vogliono in sede se non per specifiche
+specifiche richieste esempio si va a lavorare con la via italiana qualche dataset allargate a tutto tondo all'imprudenza edilizia
+fare il resto ho visto che quasi nessuno chiede più
+ha detto che è una scelta del dipendente adesso per lo meno alla facilità di scelta posso parlare col mio capo mi riguarda vorrei viaggiare un po' di più per favore fammi viaggiare ma va bene così perché ci sono ingaggi ingaggi remoto e ci stiamo bilancio abbastanza bene perché non tutti i clienti vogliono trovare a mosaico perché ripeto anche loro stessi magari non lavoro tutti un sito e quindi
+tutti i froci ci possono essere lavorate in remoto poi ovviamente dipende dal tipo di lavoro che fai per esempio io che mi sono spostato un po' più verso il design architetturale e non più il delivery della soluzione tecnica quindi segue il cliente dal provvedimento si rende ovviamente esistono le preposizioni dove deve avere contatto con
+il cliente per esempio ossia realizzati da alessandro voi che siete gli imprenditori di voi stessi è normale che debba avere rapporto con il cliente diretta altrimenti a perdere tutto quello che può essere la fiducia che guadagnate con il cliente vis-à-vis potete quanto si vuole ma ogni tanto serve tutto io che rimango figura tecnica che va solo a fare il delivery io me ne fregavo questa parte perché c'è già il
+la salsa e soprattutto la parte di vendita e preferireste che si è abbattuta la parte di profili tecnica e la architects cade abbattuto il design architetturale solution engineer è fatto vedere il disegno oltretutto io che sono luke quello che poi va a fare effettivamente a deliveries ne frega niente se devo badare al chimico avere contatti col cliente è stato invece mi sono spostato su un'apposita
+zione può più avuto procedono con puzzone posizione dove devo chiacchierare e fare il design architetturale quindi non andrà a fare l'implementazione e so che a volte per mio c'è anche per mio piacere diventerà parroco con il cliente perché ovunque tu lo segue fin dall'inizio e il suo advisor tecnico di cui devi
+cercare di instaurare un rapporto di fiducia gli devi poterci parlare faccia a faccia devi andarci a mangiare una volta insieme queste cose per creare legame tra esseri umani cosa che non si fa più da anni per creare il legame dell'essere umano in questa maniera
+puntare sia dal punto di vista professionale l'appunto è tutto perché comunque dopo tre anni viaggiare un po' ci manca ecco io poi ho accettato di andare a lavorare mia guerra per poter viaggiare in europa e non solo in italia in questi tre anni è proprio selvaggio viaggiato su twitter vero quindi un pochino si guarda anche tornando così l'apertura c'è
+beati voi che viaggiate smesso
+si viaggia più ma sa che io stesso ho fatto fare solo una cosa e non so se quella cosa è browser
+va be' e guido e qualche tua percezione invece su quanto si ma è
+no nel senso che noi facciamo un lavoro molto diverso il cliente in realtà hanno lo puoi seguire tranquillamente online da molti punti di vista il nostro lavoro è simile al vostro senso a me banalmente mi basta un computer e una connessione e un paio di cuffie
+lavoro lo posso fare da ovunque un po' come il mostro e stessa cosa voglio dire la classica col codice cliente comunicazione cliente la puoi fare tranquillamente online anche lì dipende poi se io magari che ne so domani divento un libro professionista è chiaro che
+magari andare in sede dal cliente a prendersi il caffè fare la chiacchiera è chiaro che ha una valenza maggiore perché comunque il cliente lo devi conoscere devi coccolare fai vedere la fa vedere la sede ci fai la chiacchiera costruisce un tipo di relazione diversa che resti far durare nel tempo
+ma perché appunto lì l'azienda è la tua e c'è un tipo di rapporto diverso se si è dipendenti sono d'accordo con quello che dice spanish i dipendenti e hai una posizione nella quale il rapporto col cliente non ci deve essere ci dev'essere il giusto non dico che non te ne frega niente ma voglio dire è secondario e magari può succedere
+quando stavo in adecco che magari ogni tanto c'era il cliente di un certo calibro che magari ti faceva fare una parte di fatturato importante o magari ti aveva dato delle posizioni molto particolare da cercare quindi avevi bisogno di un minimo di contatto in presenza per capire meglio
+quei punti o magari se dovevi fare anche non nel nostro lavoro però vedo che capita spesso più sulla parte magari che ne so se dovevi tirare su una campagna di employer branding di marketing di comunicazione farlo in presenza e il brainstorming creativo sicuramente ha più impatto rispetto che farlo online quindi
+magari se ci sono delle opere più lato creativo e marketing sicuramente a farlo in presenza aiuta però al netto di questo ti direi che è ormai se hai la forma mentis di fare il suo lavoro online online siamo la presenza a meno che tu non sia un libero professionista anche dal mio punto di vista diciamo non la vedo così impattante
+ecco in questo senso e infatti questo è cambiato molto anche rispetto e-book dieci anni fa dove i recruiter
+venivano venivano a trovare per tutti i tubetti notte trovano un lavoro operaio per qualunque località e poi venivano ti offriamo la cena con la valigetta con la penna
+che magari puoi mettere in opera per trovare altri clienti per parlare con logo generale c'era questo rapporto più amichevole qualcuno che poi alla fine questi ci penso sono gli stessi ripeto prima su cui sono rimasto in contatto in questi dieci quindici anni vent'anni per cui questo rapporto un po' più vicino col curriculum vitae
+se è servito
+suoi quattro risate
+ti ripeto se un giorno io avrò la mia società di recruiting per dire io sono il primo sono convintissimo che sarò il primo ad organizzare degli incontri in presenza ma perché uno va fatto perché fa parte del tuo lavoro e due perchè io sono una persona molto di relazione faccio amicizia pure coi muri quindici ebook dire bello
+anche appunto come dicevi tu prima luciano farsi il viaggetto la chiacchiera a cena il bicchiere di bicchiere di vino fa parte anche un pò del ruolo
+immagino immagino che se io certo punto su due offerte come mi è capitato moltissime volte due offerti di più o meno pari entità magari scegliere quello che mi sta più simpatico di qui c'è un rapporto più di amicizia che anche solo
+che potrebbe essere sbagliato perché è più simpatico non vuol dire più in un luogo più il rapporto magari un rapporto diciamo so
+la bibbia instaurato lavorando per noi perché poi assolutamente la cosa fondamentale perché racchiude deve lavorare per te cioè se io percezione che sta lavorando bene per me cioè fantastici cioè alla fine io dopo è un po' come il sistema capitalistico americano se tu sei nel top five il sistema americano lavora per te e tu tu devi solo produrre
+l'aurora l'aurora spendere spendere spendere e al cinema è diventato lo stesso c'è un recruiter che lavora per te ti trovi clienti e avere un buon rapporto anche se non ti trova il cliente perfetto
+re più alto clienti figurano più roboante comunque questa persona ci puoi sempre far affidamento al netto delle condizioni di mercato condizioni economiche guerre assolutamente
+il porta a porta è diventato profilo a profilo e comunque che schifo di persona abiti infatti nella mia valigetta cento curriculum che ti possa far vedere i porter stone
+sempre comunque
+bene dai allora anche oggi le due rette minime e sindacali le abbiamo raggiunte e
+nessuna teoria abbastanza in fretta devo dire tra l'altro con contributi la chat molto interessanti ringrazio tutti tutti chi arriva da guido bonaparte quindi grande guido facciamo ancora non possiamo volta all'anno organizziamo veramente ma poi questi questi temi sono sempre scatenano sempre
+esca tremante mostra partecipazione a prescindere da dove si facciano
+sono sempre senza l'altro tours o leggevo che vuole lanciare una tua iniziativa di live sessioni live su twitch dove faire c'è candidati
+allora
+nel senso che l'ho già fatta a maggio ho portato su twitch questo format che si chiama con moltissima fantasia aziende che assumono
+ma tu sei un geniaccio di questa cosa
+ogni live sia un marketing guru
+copyright super creativo
+roma-liverpool la valutazione delle semplici e quindi in realtà ogni live streaming solo lunedì alle ventuno perché sennò che siamo in diretta concorrenza quindi dobbiamo trovare un modo perché purtroppo no anzi lo dico c'è anche cristian di caffè sviluppo anche lui esprimiamo tutti noi dev'essere grave forse le nostre compagni con p
+lasagne mogli fidanzate allora inizia il mercoledì con foto tutte bravi
+sì no dicevo ogni lunedì quindi ogni live e ho portato quattro tre cinque aziende in diretta e che ne so la cairns ti ho il figlio dipende dalle dimensioni ovviamente il de brel
+e in quel momento stavano assumendo qui dice l'azienda che si racconta io faccio questo le posizioni aperte sono queste lo stacco chi siamo e questo la ral per questa posizione è questa un po' la cultura aziendale e poi sceglievamo un paio di temi attuali dei quali discutere a maggio per esempio era appena uscito la proposta di legge quella dell'unione europea sulla
+trasparenza salariale e quindi abbiamo parlato di quella per esempio è stato molto interessante e ora la riproporrò ad ottobre ho quasi finito il calendario editoriale delle aziende da portare mi mancano un paio di slip sei serio e adesso neanche chi chissà cosa faremo settimana prossima
+guido la lavanda paese malato ha avuto un riscontro poi aziende hanno trovato dei candidati tramite questo mentre l'assunzione tre assunzioni ci sono state sempre molto contento
+ottima servito sede centrale o no diciamo così no zero
+alla locanda ancora non ci guadagno puoi magari cosa diventerà famosa iniziano iniziare a monetizzare pizza e hotels e open source tutta quanta la riproporrò ad ottobre e tra l'altro spoiler perché è online
+a cinque lunedì
+uno di quei lunedì quindi ci saranno quattro live con aziende uno di quei lunedì ci sarà live una consulente del lavoro è un'avvocata e parleremo solo di tematiche inerenti il mondo del lavoro ma dal punto di vista burocratico quindi che ne so come leggere un contratto di lavoro che cosa sono i cnel
+e cosa sono gli eur come lavorare per l'estero se mi mandano la lettera di contestazione come la devo gestire come funziona del preavviso quindi tutta una serie di tematiche polly galesi e burocratiche che io vedo sono sempre molto sentite c'è tantissima incertezza su tut
+una serie di temi il fair
+ci sono tantissimi temi che sono molto oscuri soprattutto diciamo fra fra i giovani ma non solo quindi ho pensato era da tanti mesi che la volevo fare ma non ero mai riuscito a trovare layla la persona giusta
+quindi il ventitré ottobre penultimo ottobre di ottobre scusa se mi faccio un di non ho mai chiesto cinque euro al cambio un campionario vengo avete attirerai
+facciamo facendo lo sento come un tema davvero molto interessante
+pubblicizzava la camorra del mare con laido parleremo di di diciamo di burocrazia legata al mondo del lavoro chiaramente tech ho trovato una consulente del lavoro che ha una sua azienda di consulenza del lavoro verticale sulla insurtech quindi possiamo parlare di questi argomenti che ne so il vesting del delle
+quote per esempio è un altro tema e parleremo dico siete matti tematiche strettamente legate al nostro impasto finito alle spalle molto bene ovunque hai fatto bene
+luciano andrea avete qualcosa da aggiungere prima di chiudere
+dato che avevamo fatto molto piacere partecipare piacere mi luciano anche rivedersi dopo tanto tempo e capire a berlino e mai sono detto detto io sto cercando qui
+ieri bambini sui voli no no
+i pugni su questa secondo me sarebbe piaciuto qualche giorno prima e giro guarda
+noi abbiamo due volte che
+azioni per fare il viaggio in giro due due bambine
+noi
+pure no va bene dai è stato un piacere rivedervi tutti quanti o vedere guido propria volta e
+veramente e morire per me
+grazie a chi ci ha seguito veramente cat molto
+partecipate per i nostri standard e anche qua mi sa che appunto dovevo ringraziare ancora
+guido e alla prossima
+tao grazie mille
+ciao

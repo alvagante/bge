@@ -1,0 +1,502 @@
+uso
+ma
+i sistemisti i musicisti grafici programmatori scrittori giornalisti artisti formatori copywriter operatore di help desk laboratori con il corpo con la mente che cosa sarà del nostro lavoro le intelligenze artificiali lo faranno al nostro pc
+posto ci aiuteranno a farlo meglio e beh probabilmente non lo scoprirete questa sera ma forse avete qualche idea più precisa su come sono e cosa sono queste intelligenze come si sono evolute come si potrebbe poi lo cercheremo di capire con dei nuovi al terzo episodio della brigata degli istinti
+in cui si parla di intelligenza artificiale con persone che ne sanno ne sanno parecchio e sono fiero e contento di avere qui con noi quindi partiamo subito con le presentazioni abbiamo in basso a sinistra road book luca rodolfi prego presenta giustamente
+luca scusa se ti interrompo un attimo mi sa che abbiamo qualche problema di audio quindi come sempre noi se non facciamo casino non siamo contenti e no esatto non sei solo tu che non lo senti quindi niente allora facciamo così
+tu mi senti ma tutto il resto del mondo non ti sente quindi purtroppo adesso fammi capire un po' giustamente qua e è il classico effetto che sbaglio sempre
+e che dire qua siamo siamo tornati ai soliti casini l'avevo anche testata sta cosa ma a quanto pare non funziona direi di andare a questo punto con il solito approccio che si sentirà un po' di rimbombo prova a parlare lo aspetta un attimo ancora vai prova a parlare adesso
+direi che come inizio siamo sempre sul pezzo
+ecco adesso ti sentiranno tutti con un po' di eco spero non troppo
+andiamo a
+aspetta mamma mia
+disastro allora adesso
+allora vediamo un po' adesso forse si sente
+il microfono non so se si sente fuori qualche parola adesso mi sento online riesce a mandarli
+condivisione live userete
+un problema connesso a destra e manca chi si sentirà un po' di domande su google
+grazie caro non aspettano
+aspetta che qua sto aspettando che arriva live
+parlare adesso
+direi che come inizio siamo sempre sul pezzo
+adesso ti sentiranno tutti con un po' di eco spero non troppo
+va bene no non sto più parlando possiamo proseguire credo che si senta in giro reale pagani se riesci mi fa sapere quando si inizia a sentire tutti quanti mi fa un favore usate questo è il solito inizio catastrofico è il marchio della fabbrica un giorno imparerò a fare queste cose e che dire è
+luca scusami deve rifare tutto da capo
+faccio un ricco ricco quello che vedete senso che sono tanti anni che mi occupo di dati di analytics e diciamo che ormai da cinque sei anni a questa parte il tema intelligenza artificiale poi nel mio caso in particolare parte più legata al macello
+più classico perché noi vogliamo soprattutto sui dati quindi niente l'intelligenza artificiale degenerativa ho cose particolarmente
+troppo complicati quindi mondo abbastanza classico ma devo dire che negli ultimi anni una serie di motivi che magari una chiacchierata girano anche stanno diventando importanti e quindi questi anni il mio malgrado cercato di infilarmi in testa più cose possibili per poi propone come valore aggiunto ai nostri clienti su e scrivere
+broker di successo è successo mica tanto quanto il primo che anche fosse un po' fortunato come libro gli altri due sono stati abbastanza deludenti come i risultati però insomma c'è il piacere di scrivere e condividere queste cose che poi la cosa più importante perfetto prossimo partendo anche
+in senso orario cosimo strappone ciao a tutti io mi sento
+appartenere alla brigata degli estinti ma al cento per cento perché sono puramente un istinto
+si è iniziato a programmare alla tenera età di cinque sei anni su venti e da lì mi si è aperto il mondo diciamo lavoro
+campo professionale da circa venticinque anni ho fatto una programmazione perché
+operations
+più ne ha più ne metta passato del periodo paper ecc
+è però durante gli anni non ho mai ho iniziato diciamo da teenager a studiare l'intelligenza artificiale è un po' diciamo molto entusiasmo ma poca competenza è però negli ultimi sette otto anni mi sono applicato un po' più seriamente e sono riuscito
+a diciamo
+molto practitioner quindi senza nessuna pretesa di scientificità o
+se alta serietà o accademici età e sono riuscito a votare in produzione alcuni sistemi abbastanza interessanti di reti di machine learning e ora ovviamente tutti hanno aperto gli occhi quindi questo è un campo assolutamente interessante quindi la mia esperienza
+ai machine learning e da practitioner da qualcuno entusiasta e mi applico applico queste cose quando post bene bene ma avremo modo di approfondire e marco beh marco non ha più bisogno di presentazioni superstar mondo l'hai però dici due cose che non sappiamo ancora però però
+ridimensiona
+invece di farle le cose le ho fatte sì ma qualche anno fa e neanche poi tanto
+adesso mi ritrovo soprattutto a gestire persone che fanno
+ahi che si occuperà di loro ne capiscono io cerco di stargli dietro però diciamo che lo guardo un po' più in alto livello adesso
+insomma ristretto tutti umili come i veri grandi tutti umili e le loro competenze e
+va bene allora io direi prima di entrare un po' a manica briglia sciolta a parlare di quello che
+viene fuori proverei a far fare a qualcuno i voi chi si prova si propone ma una sorta di introduzione se dovessimo spiegare che cos'è l'intelligenza artificiale a uno che non sa quasi nulla ma che insomma non è un bambino quindi senza usare termini troppo semplificanti come come l'affrontiamo cosa gli diciamo chi si propone di avere visto luca
+ha scritto un paio di libri
+assist
+certo va però questo artista
+guarda tema di divulgazione non è non è non è troppo troppo semplice comunque spiegarle perché si rischia sempre alla fine di banalizzare un po' no allora intanto il grande problema di questo termine intelligenza ci credo che non ci si attende più sbagliato però da un po' bene l'idea
+di cosa stiamo parlando fondamentalmente i soldoni è la capacità che alcuni sistemi hanno di fondamentalmente imparare dai dati ossia quanto in gioco un tema di tipo matematico statistico con cose anche tutto sommato che hanno raggiunto nel tempo un certo tipo di complessità alcune anche difficili cantanti esperti del
+un po' di comprendere la vera essenza di alcune di alcune tematiche su questo tema però diciamo che
+questi sistemi hanno la capacità di imparare dai dati per poter fare fondamentalmente una serie di chiamiamole così in senso lato previsioni quindi questi tipi di sistema se pensiamo dei numeri se pensiamo delle immagini se pensiamo ai suoni se pensiamo a tutto quello che fondamentalmente può essere costruito attraverso dati perché non addetti
+ai lavori fondamentalmente quando noi guardiamo un computer sentiamo una musica o vediamo un video dietro comunque c'è in qualche modo un insieme di dati che viene gestito trasformato e reso comprensibile ecco come l'intelligenza artificiale è possibile utilizzare algoritmi e modelli che possono diciamo così added
+mostrarsi in maniera autonoma sempre un po' pericoloso dire così un po' l'idea in modo che guardando all'interno di questo tipo di dati sono in grado di fare un certo tipo di previsioni la previsione più bella del mondo che possiamo fare un esempio stupidissimo è banalmente la buona vecchia previsioni del tempo quindi come fanno questi sistemi possiamo dire che domani
+piove domani c'è il sole dietro ci sono dei modelli matematici complessi che raccolgono milioni miliardi insomma adesso per banalizzare dei dati entrare nei temi che cosa vuol dire milioni miliardi e a quel punto questi modelli sono in grado di inserire comprendere questi dati una serie di informazioni di propone con un certo tipo di accuratezza e di probabilità che siano corretti
+non funziona sui dati sono siamo così ben utilizzabile per questa cosa tu questa accuratezza di previsione è alta quando arriviamo a certi livelli di accuratezza è in gioco un tema statistico per cui possiamo essere sufficientemente diciamo così felici del tipo di previsioni che ci viene fatta e ci possiamo fondamentalmente fidare faccio un ultimissimo
+esempio per non poter via troppo troppo tempo esempio che sto vedendo dal vivo con un cliente del mondo della sanità e utilizzo ad esempio della computer vision e di modelli che sono in grado di analizzando
+alcuni segni alcune immagini
+di ecografie radiografie in particolare in questo caso dei polmoni ma potrebbe valere per qualunque altra cosa sono in grado imparano da una serie di immagini a capire se un certo tipo di segno all'interno del tessuto polmonare può essere considerato pericoloso non pericoloso ecco quando poi io questo sistema sottopongo una nuova radiografia il sistema
+in grado cominciano tutti con probabilità nel mondo sanitario bisogna sempre raggiunge un'accuratezza superiore al novantanove per cento se no quel modello viene preso e buttato via perché diventa pericoloso ma quando si riescono ad avere questo tipo di risultati ecco che io medico posso vedo un aiuto importante perché il sistema guarda lui la radiografia per me tutto tra virgolette
+e mi sta già dando indicazioni del tipo guarda quel segno probabilmente è pericoloso non pericoloso poi c'è sempre poi quella chiacchierata ugualmente uscirà questo tema c'è sempre poi diciamo così la responsabilità di questa parte però immaginatevi l'ausilio che un sistema del genere può dare nel mondo sanità sta esplodendo questa cosa una serie di possibilità
+importanti ma lo avete visto lo vediamo continuamente sono tantissimi mercati che vengono non so se ho risposto meno male risposto benissimo è paralizzata una parola modello che forse va spiegata cosa si intende per modello e quali no che cosimo perfettamente spiegare cosa si intende
+grazie grazie dell'incontro diciamo ci provo nella mia maniera molto spicciola
+parlavi di modelli di previsioni del tempo e alcuni modelli sono per esempio un'equazione matematica quello è un semplice modello che permette di prevedere la parabola dove andrà a finire già annunciato ix e questo è lo stesso diciamo lo stesso concetto delle previsioni del tempo dove è
+a me risulta che siano utilizzati i modelli prettamente matematici quindi complessi sistemi di equazioni che permettono di stimare la probabilità che domani piova o no in questo caso parliamo di modelli diciamo machine learning e intelligenza artificiale ex le abbiamo adesso incluse in un unico calderone
+bene ma
+questi questo tipo di modelli in genere si basano e sempre di più si basano su deep learning e reti neurali che qui magari bisogna spiegare ma comunque essenzialmente moltiplicazione di matrici ma arrangiate in una maniera da modellare
+a gross grosso modo diciamo molto rozzamente che fu come funziona
+nel cervello il passaggio di informazioni tra i neuroni e questo tipo di modello ha la caratteristica essenziale di imparare da solo quindi a fronte di un
+set di esempi immagini oppure testo oppure qualsiasi altra cosa è questa rete neurale si rimodella per imparare
+diciamo dagli esempi che sono stati forniti e quindi poi estrapolare oppure
+prevedere cosa potrebbe succedere o che tipo di immagine è che tipo di animale oppure se è un autogol oppure no no touch per un'immagine che non è stata mai vista prima quindi questo diciamo
+potrebbe essere un riassunto molto bene allora prossima domanda adesso non so se volete fare il giro io non parlo poi io faccio solo domande oggi perché di questi argomenti veramente ne so poco
+allora si parla di reinforcement learning si parla di machine learning si parla di reti neurali si parla di
+hai adattativa e o generativa e dipanare un po' i termini per avere un'idea generale di quelli principali che ci sono e farci capire un po' le basi di massima marco aspetta marco io non lo sento però adesso sembra essere molto resistenti in
+che non ho ancora capito però funziona così
+inserimento all'interno
+sette nessun no allora è generativa
+hai un di solito appunto come dice una che di solito ultimamente sulla tanto di learning sono reti neurali che sono utilizzate per generare novità trovare i vari modi per addestrarle dare tanti esempi può essere uno ma altri sono per esempio le
+generative avversarie network sono molto interessanti perché sono costruite come un gioco
+cioè io voglio avere un certo risultato o degli esempi veri e quello che faccio e addestrare la rete a generare qualcosa a caso e poi addestrare una seconda rete è in grado di distinguere quello che fa la rete da quello che è invece l'immagine reale e il trucco è far giocare
+queste due reti tra loro quando la rete principale impara a generare qualcosa che va verso la direzione giusta la rete e che dice se si è generato dalla dalla prima rete o un dato vero impara anche a riconoscere questi risultati e diventa migliore e cerca di battere la prima
+lettera prima rete impara di più la seconda rete impara di più e viceversa ecco quindi queste due reti crescono contemporaneamente un metodo molto interessante soprattutto perché non c'è più bisogno di avere da tanti dati negativi ti servono suoi dati positivi a questo punto per addestrare questa rete quindi è più efficiente dal punto di vista delle informazioni che davide che devi gestire
+questi sono un metodo per fare reti generative prossimi sono molti altri questo per ora è quello che meno
+fino a un paio d'anni fa era molto di moda adesso continua a funzionare non non non si scappa dalla però non c'è più mi ricordo che un paio d'anni fa
+a tre anni fa perché caption era prima della pandemia quindi fino al duemiladiciannove sarà stato
+a fine duemiladiciannove c'erano avevano finito le due lettere gan cioè tutti quanti che inventavano un nuovo metodo di igiene andati per versare al network gli davano un nome con due lettere prima devono finire cioè c'erano più di cinquecentoventi metodi
+paper che parlavano di cose diverse quindi c'è stata un'esplosione ed è più o meno simile a quello che invece negli ultimi nell'ultimo paio d'anni c'è stato con delle altre tipi di rete che sono transformers network non entra nel dettaglio di quelle però sono molto utili per la moderazione del linguaggio gbp tre gb gpt
+tremezzo che sarebbe già gpt e gbp quattro che dovrà uscire ma anche alcune reti fatte da google sono di questa categoria e sono molto efficienti per quanto riguarda la gestione soprattutto dei linguaggi delle mance la l'analisi d'immagine sono quelle reti che non guardano più
+il tutto contemporaneamente ma
+navigano all'interno per esempio di un'immagine o all'interno del testo per per capirli quindi più simile a come un'umana fa le cose sono anche quelle usate per i primi giorni
+dagli altri generativa no per la parte di analisi si parla partecipativa no of play partecipativa sono modelli di diffuso che un altro modello ancora a cui puoi associare un learning anche avversari al o meno però patate
+non so come i pezzi dei lego se immagino che poi le ibridazioni sono diverse allora giusto per la cronaca le immagini che si vedono che scorrono quello in alto a sinistra sono tutte fatte da un software di come questi qua che vanno molto per la maggiore emily horne di stephen diffusion e in particolare
+qui poi la musica che avete sentito all'inizio è una musica fatta dal computer anche quella un progetto l'altro dove ci sono parecchi italiani li conosci tu marco quelli che hanno fatto questo lavoro di musiche lemme il pepe di google che è uscito recentemente non so se hai presente allora faccio vedere
+stretta fra faccio nascondo voi però non so se venite in realtà sono attaccato al di là lo vedrò tra qualche minuto va comunque praticamente c'è
+questo sito questo articolo una pubblicazione un paper che ha fatto questo andrea agostinelli mauro versetti faccio un po' di nomi italiani agli altri è un'altra cara di questo musiche email è un modello che genera la musica basata ad alte sto quindi come si fanno le immagini dal testo adesso ci sono
+so come ti occorre anche mastro tagliasacchi lo conosco molto bene e vedi che poi immagino la formattazione al politecnico
+nell'ambiente c'è molto da quest'anno google research paper e le musiche che tirano fuori poi sono gli dici che musica voi tipo questa è una mensa un arcade game e tu la fai suonare
+avevano sentite perché così comunque a me tanto per dire che in realtà appunto come cannone
+all'inizio citavo grafici musicisti musicisti artisti in effetti ormai nessuno è più al sicuro tra virgolette volendolo
+tutto quello che dicevamo all'inizio e alla fine tu puoi parlare di musica grafica video alla fine sono espressioni come fossero fenotipi di qualcosa che se vai sotto il cofano della macchina sono dati quindi ovviamente per fare un'immagine a ah
+colori con i pixel accesi con le tonalità con un certo tipo di risoluzione vi dicendo quella roba tu puoi trasformare una serie non voglio dire una serie di zeri uno e adesso lasciamo quello che lo diamo per scontato ma alla fine tu stai parlando sempre di dati quindi nel momento in cui riesci a possedere il significato e come funzionano
+di loro questi dati che sia un audio che sia recentemente openai fosse una roba di un anno fa o forse anche di più e non so se avete vi ricordate credo tu cerchi ma va sempre più giù box o qualcosa del genere cioè fondamentalmente un grosso sistema di deep learning che ingoiando un
+the wave cioè audio vero e proprio di un certo numero di gruppi musicali e cantanti alla fine avevano istruito questo questo questo modello e questo era in grado sulla base di alcuni tool di alcune caratteristiche di ricreare un vero e proprio audio
+tre di canzoni con parole i testi completamente inventati dallo studio dei beatles piuttosto che visto piuttosto che separa questo è un progetto ancora diciamo così disponibile proprio sul sito di openai basta entrare fare una prova e adesso al di là del fatto che per riuscire ad accontentare un po' tutti il risul
+stato un risultato con una bassa qualità audio quindi l'audio si sente un po' metallico e passiamo così ma è solamente una questione di diciamo così non so come dire potenza di calcolo che bisogna mettere a disposizione per fare una qualità maggiore come fare un deep fake c'è una una faccia appoggiare ad un'altra
+in cabina alta definizione o che ne so seicentoquarantaquattro ottanta dipende veramente dal tipo di risoluzione e questo vale per l'audio il video e soprattutto per tutto il resto quindi alla fine io ogni tanto cerco di immaginarmi questi sistemi
+funzionale ma probabilmente
+un modello basato su transponder che sta macinando immagini piuttosto che i testi alla fine la modalità con cui opera probabilmente abbastanza paragonabile poi con tutte le differenze del caso e le complessità che entrano entrano in gioco dove stiamo vivendo in questo momento qui cioè l'intelligenza artificiale generativa e proprio generativa di qualunque cosa
+se ci pensate musica audio video testo c'è bene adesso poi c'è anche un po' stancato perché gli ultimi due mesi e qualcosa però è veramente una cosa piuttosto incredibile perché la sensazione quando provi a colloquiare un po' con lui e se di cose la capacità che ha di rispondere infatti riassunto di di farti tutta una serie di
+di osservazioni puntuali al di là poi delle minchiate che ogni tanto poverino dice ma perché ovviamente è un modello fortemente disallineato da un certo punto di vista però diciamo che è impressionante noi fino a prima di novembre questa cosa così non l'avevo mai vista e quindi ci sta che rimaniamo immaginiamoci fa due tre anni quando si collega
+promuoversi su questa parte lì sarà veramente un bel
+spark hanno annunciato stadio che per preoccuparsi dicevo che google party che sarebbe un po' l'alternativa catena bici gbit l'hanno annunciato per quest'anno col fatto che poi si è collegato in rete che è di più ecco il fatto che dovrebbe citare le fonti che le sue informazioni che non è male come elogi e ingiustamente anche emiliano
+lanciata ci dice che sono modelli non dimetterà non deterministici processo creativo poi non sono soltanto sono date
+puntare su un modello deterministico però perché in realtà le reti neurali sono degli eterni quello che viene fuori da un training di una rete neurale è un modello di intervista magari
+non è ben chiaro però modello che viene fuori un unico punto dove c'è il non determinismo quando genera un'immagine con micio tosto che
+con qualunque altro metodo anche con le orecchie di passare il network eccetera e l'inizializzazione se lo chiede impasto una cosa che rumore con un certo valore piuttosto che un altro viene fuori un risultato diverso però la il modello di per sé edition
+è una questione matematica
+samson hanno questione matematica è differenziabile ma il modello questo fantomatici modelli e cosa sono dei binari cosa sono
+ma proprio vederla in questa maniera
+come delle delle reti ma
+spiego in maniera in maniera diversa delle tue ingresso immagini per tanti blocchetti che fanno ciascuno una piccola operazione un'operazione matematica semplice moltiplicazione di matrici perlopiù e entra dentro un valore esce fuori
+una trasformazione di quel valore nei collegi tanti in cascata tra loro e ottieni la tua rete l'addestramento è stato fatto ciascun blocchetto ha una sua amatrice e l'ipotesi tempo
+nel training consiste nel determinare i valori di pneumatici
+il modello finale deterministico di una rete neurale forse non si riferiva alla rete neurale ma le previsioni del tempo adesso sto leggendo però comunque no non l'ho preso come come come scusa per parlare del fatto che magari sembrano generare cose a caso ma le cose a caso non solo nel modello stesso nessuno quello
+che gli dà e poi come ingresso per farrah per far generalità
+ma allora tanto parlando invece di risorse computazionali che ci sta dietro a tutto quello che poi sarebbe farci vedere le immaginette o rispondere alla chat e
+immagino che dietro ci siano dei dell'infrastruttura informatica impattano la parte che mi interessa di più personalmente spaventose e abbiamo visto open hai comunque gira su misura linea un cloud microsoft chissà cosa c'è dietro però mi sembra di capire che il linguaggio i linguaggi fondamentali più utilizzati per machine learning python
+chi non è che brilla come efficienza diciamo è e che cosa si sta facendo a riguardo cioè nel senso immagino che poi come ottimizzare i cicli di più su queste cose è fondamentale
+è lì che questa sarebbe la risposta di marco sicuro perché
+video non lo dico io per non farti no va bene
+pensavo volesse dire qualcosa smart
+l'avrei preso
+lei li picton di facciata cioè picton è molto bello però non paiono fare i conti fare i conti sono librerie sottostanti che richiamano codice ci richiama un codice cuda tipicamente o riceva o vanno a richiamare funzioni particolari sulle tv di google quando parliamo di più di google o
+opel si è giusto perché voglio dire soltanto invidia però è vero anche che il grosso del training che viene fatto su su su video adesso
+quindi in realtà queste macchine sono una vera inclusa no no vai
+volevo dire si è vero che ci sono queste infrastrutture gigantesche diciamo dov'è bugo l'ho
+microsoft jason eccetera bibbia stessa però volevo segnalare che per esempio se qualcuno ascolta i sassi ma allora non potrò mai fare niente invece no non è vero secondo me ci sono molti sforzi da parte di diversi diverse soggetti
+i progetti per cercare di diffondere l'idea e non solo l'idea anche progetti concreti che dimostrano quanto anche solo con un pc un da invidia
+si possono in realtà fare molto
+diciamo
+c'è un po' la tendenza dell'industria a
+sottolineare come per fare il training di questi grossi modelli come gpt tre chat gpd eccetera ci vogliono risorse infinite e questo è vero senz'altro ma si può comunque dal punto di vista di chi vuole magari smanettare realizzare progetti molto interessanti anche
+solo con una scheda grafica consumer normalissima
+secondo me va detto perché
+è interessante dal mio punto di vista molto interessante diciamo che sia così accessibile anche a tutti
+quattro novanta e non solo tacque
+quella che non sappiamo è che adesso sta minore
+proprio limitante e la memoria la ram o borno
+però anche genere anche con una con otto giga
+è possibile fare cose interessanti se uno ne ha di più sicuramente meglio
+in video volesse sponsorizzare una quaranta novanta io non direi di no diciamo che forse se potesse sponsorizzare
+vi dicevo in generale vive a si ascolta questo sta trasmissione
+da parte a parte quello c'è anche un'altra cosa cioè appunto parliamo di quaranta novanta che sono quelle che sono adesso ma la la rivoluzione del deep learning è nata più o meno dieci anni fa stiamo parlando del duemiladodici duemilatredici quindi non duemiladodici credo che fosse la prima rete alex net prima rete di
+qui si è dimostrata l'efficacia per la classificazione di immagini e tag undici anni ormai a questa parte le schede grafiche loro stati tra i primi a usare una scheda grafica per fare il training da dieci anni a sta parte le schede grafiche sono migliorate parecchio quindi quello che dieci anni fa investment ci
+mese non lo so dico la civica coda cashman non sarà troppo distante dalla realtà per analizzare quei sessanta mila immagini che componevano dataset iniziale adesso si può fare tranquillamente qualche ora su una spiaggia più normale ma il bello
+e non dimentichiamo anche che diciamo scusate se insisto con questo angolo un po' diciamo personale ma chi vuole smanettare un pò con questi progetti vuole imparare vuole metterla in pratica raramente deve farsi il training di ms net o
+skynet central di questi modelli molto grossi e complessi semplicemente ti scarichi un modello già tre com'è fatto il retraining e poi
+michael si chiama fiction in quindi prendi il modello già che qualcuno ha già pane come dicesse sei nato redatto da andrea addestrato a qualcuno già addestrato con queste mega infrastrutture e fai semplicemente fanciulli questo è quello che in realtà
+si fanno nessuno o pochi
+almeno al livello che vedo io ti mettono a fare tutto il training di nuovo su milioni di immagini
+non ha senso no e quindi questo anche un punto di vantaggio per chi interessa di queste cose quindi
+l
+il bisogno di dover fare l'addestramento su queste con grandi risorse in realtà è poco si sente poco relativa importanza
+è una domanda ma per luca ma in realtà per tutti e nel corso degli anni c'è adesso con l'esplosione generativa e così via
+questi modelli vanno a un qualche modo a soppiantare magari un certo approccio classico a fare mascellone imbracciate applicazioni aziendali o in realtà sono campi totalmente diversi non si applicano sì e no no no assolutamente assolutamente così allora intanto dipende solo poi è gus hansen in gioco
+faccio un esempio noi io mi ricordo fosse uno dei primi progetti abbastanza abbastanza recenti per realtà dove lavoro io proprio sera duemilasedici adesso ed era un progetto adesso queste cose qua che ritirano un po' dietro un progetto qui
+manutenzione di tipo predittivo quindi tipicamente chi ci lavorava con set di dati classici dati tabellari c'era tali era un'architettura un'infrastruttura basata su sensori iot il tipo che generava un tipo tabelloni passami il termine con mille campi e qualche milione di riga ogni ora
+ora è alla fine il tipo di
+predizioni che si poteva fare con questo tipo di dati così abbondante così tutti uguali se stessero tutte quali abituare fondamentalmente delle anomalie e gli si utilizzavano molti algoritmi classici no quindi
+per diverso tempo anche se come giustamente diceva prima monaco siamo qui la rivoluzione del deep learning da una decina di anni fa le reti gas di cui parlava lui prima sono state
+siamo così costruite la prima volta nel duemilaquattordici parliamo di una cosa che compirà dieci anni l'anno prossimo se guardiamo oggi litiganti cosa hanno reso disponibile come hanno rivoluzionato suonando alcuni mercati pensiamo al mondo dei video entra
+della cinematografia sono adesso io mi raccontano che il nuovo indiana jones cinque che uscirà probabilmente sarà un mezzo fiasco perché pare non essere il film migliori del mondo però da quello che ho letto hanno fatto grandissimo uso di queste tecnologie qui per ringiovanire il popolo lo storico ha ottanta anni e lo vogliono fare ancora correre in giro per sé
+indiana jones e quindi voglio dire queste tecnologie vengono utilizzate hanno veramente cambiato parte di alcuni industriali quello che stiamo dicendo prima è che
+nel caso di attività legate all'opera mie esperienze al numero e ai dati che puoi mettere in una tabella quindi due usiamo i dati degli aiuti invece di un team piuttosto che le vendite piuttosto che il marketing è così ci sono tanti algoritmi classici che fanno ancora la differenza vi faccio un esempio
+un po' più di vita vissuta con un cliente
+multinazionale giapponese per la country italiana abbiamo fatto un sistema di analisi predittiva del tasso di abbandono dei clienti è un'azienda che fa abitudine quindi è un diciamo così un modello di business molto molto molto classico e molto maturo e quindi dati si prestano bene queste cose e poi abbiamo quindi visitato
+come sindaco ha supervisionato persona classificazione automatica dicembre nel nostro sistema abbiamo messo in competizione un po' di algoritmo reti neurali wemi sono un po' di roba ma alla fine l'accuratezza più alta la dà quasi sempre li mettiamo in competizione tra di loro questi questi algoritmi puoi scegliere il migliore mese per mese ma l'accuratezza migliore là da un algoritmo che credo
+abbia tipo cinquanta sessanta anni errato for speed è vero che noi utilizziamo anche reti neurali c'è anche un petit errato neurali in questo tipo di esercizio magari abbiamo abbiamo sviluppato male noi il modello ma sono pregiudicati nel senso che sono quelli che alla fine non a quel tipo di esercizio l'accuratezza più basso mentre brandon fa onestà
+funziona funziona alla grande quando invece vediamo questa cosa che tu stai chiedendo quando entrano in gioco tipologie di dati strutturali e di natura completamente diversa come ti dicevo prima nel mondo sanità la parte di computer vision sta diventando sempre più importante ed io sono di palermo
+quindi senza l'esperienza degli ultimi otto anni nove anni queste cose non non non si riuscirebbero a fare per come servono in una realtà ospedaliera dove questi sistemi sono supporto del medico che ti devono dire segue la mafia che ha nei polmoni è una cosa bella una cosa inutile o una cosa brutta e questo è quello che un po' visto che si è
+entra su tematiche diciamo così di non non non di dati classici dai la mia esperienza insomma
+gli algoritmi diciamo così i classici reggono ancora quando ci si sposta su questo tipo di dati strutturati e praticamente non ha praticamente senso utilizzarli se non utilizzato tipo non so colleghi amici cosa pensano insomma che tipo di esperienza hanno loro su questa cosa no assolutamente d'accordo circa vent'anni fa io facevo come
+esattamente quelle analisi dei difetti su radiografia di pneumatici non su persone
+radiografia di persone perché oggettivamente è complicato e non ha difetti su pneumatici si basava sul fatto che con una certa regolarità geografia gli aspetti di vedere delle fasce di un certo tipo quindi sai cosa andare a cercare pensare di fare la stessa cosa una rete
+grafia polmoni di polmoni visto le immagini di una tac addirittura tridimensionale e follia non è non è fattibile non è umanamente fattibile infatti non si è mai fatto un algoritmo di quel tipo magari si sono sperimentati ma non si è mai arrivati a mettere in produzione un algoritmo quel tipo prima del diploma
+ed è proprio questo però la
+sta' cosa della sanità mi piace perché mi permetterei di dire una cosa che tanti si spaventano dell'ente lei abbiamo detto prima
+cioè dicono mi ruberà il lavoro
+io credo che il radiologo non abbia paura di perdere il lavoro grazie all'ai anche perché vogliamo che ci sia sempre un controllo umano
+noi vogliamo essere non andar dentro una macchina e sapere che la macchina di ciascuno e poi magari si sbaglia però
+mi permetto di sottolineare una cosa che mette un po' a cuore cioè il fatto che invece secondo me da quelli ideali sono a pensare come uno strumento e va assieme a umano tra la stessa cosa di midterm e di
+pilot per programmare e questo tool per i medici per personalizzare nelle biografie sono strumenti non sono cose che si sostituiscono al lavoro del programmatore dell'artista o del hotel
+medico
+quando è iniziata la computer grafica io mi ricordo anni novanta cioè primi prima grossa diffusione del computer e della computer grafica dati dicevano a ruberà il lavoro ai pittori agli artisti non ne vediamo è diventato uno strumento nuovo poi faceva temo abbia già capito
+su questo sono completamente d'accordo certo moltissimi discorsi che si sentono diciamo ignorano questo fatto comunque tralasciano questo a horacio no della iaaf che ci ruba accetterà dicevano lo stesso mille anni fa quando hanno inventato la lan
+ciao centomila anni fa no è sempre quella la cosa e io volevo aggiungere un piccolo dettaglio diciamo sul campo medico che secondo me è molto interessante e è vero anche secondo me che non diciamo la rai non si sostituirà i radiologi però o o ebbi l'occasione di parma
+stare con un amico ricercatore in campo medico qui ad oslo e che ha sperimentato diciamo
+tra i primi credo primi ospedali
+enti di ricerca qui in norvegia che ha sperimentato con deep learning o comunque diciamo algoritmi di ai applicati a radiografie in questo caso
+in campo oncologico e per detection di cancro oppure no insomma abbiamo avuto una chiacchierata è stata un'occasione molto interessante per me e mi raccontava che in genere commedia di successo per un radiologo
+la percentuale di diagnosi corretta di una radiografia radiologia è circa del sessanta per cento quindi direi ben venga lo
+sembra essere nella mia diciamo da quello che ho capito in ambito della radiologia il deep learning sicuramente fa una grossa differenza è per questo che è anche esploso diciamo quindi diciamo interessante capire se l'umano certo certamente deve esserci
+ma non è che l'umano sia al cento per cento e neanche il novantanove quindi teniamone conto è assolutamente così scusami marco se il filo è un tema che sto che sto vedendo adesso c'è anche creato una grossa gara grazie al cnr e che dovrebbe dovrebbe consentire di dotare con una piatta
+forma poi sono sempre cose un po' megagalattiche bisogna anche vedere che fine fanno perché ci sono tanti soldi che vengono messi lì e quindi anche queste cose qua non sono poi così semplici da gestire però dovrebbe andare proprio nella direzione di poter dare tutta una serie di strumenti avanzati con una serie di algoritmi proprio per gli operatori
+professionali del mondo della sanità e anche per gli assistiti sul proprio percorso di cure dicendo una cosa interessante sempre della diagnostica per immagini è che se non ricordo male nel duemiladiciotto è stato proprio il l'humanitas duemiladiciassette è stato umani task che per primo ha messo in produzione un sistema
+e a differenza di quelli precedenti che fondamentalmente consentono di fare diciamo così di avere un qualche tipo di indica rettificazione ex post no quindi io medico ho il mio computer dove posso vedere le diverse radiografie e o un'applicazione un'applicazione una finestra che mi aiuta a capire se
+quel tipo di semi che vede come dicevamo prima nella radiografia non possono essere pericolose mani se c'è stato il primo invece mettere in piedi un sistema in real time per cui durante l'esame diagnostico in realtà un esame invasivo in cui ti infilano telecamere che poi si muovono all'interno dell'intestino tenue prevedere una sorta di
+esame parallelo alla colonscopia per dare un'idea ma la cosa veramente interessante è che l'identificazione di possibili problemi lungo il tratto intestinale con la telecamera che passa mi farti restare qui tu fondamentalmente cosa vedi vedi la telecamera che passa attraverso diciamo così il tessuto e il medico che guarda e verifica
+la questione è poi in un piccolo frame c'è la stessa americana con i classici quadretti rossi verdi e gialli che si accendono sulla base di quello che stanno vedendo in realtà qui il modello li risponde così on demand in real time e l'aiuto che viene dato al medico io non sapevo della percentuale così bassa diciamo così
+che ha riferito cosimo
+troppo posso dirvi che sul set di dati che vengono analizzati oggi siamo decisamente sopra il novanta per cento di accuratezza di questi di questi modelli ovviamente è un certo tipo di patologia di problema ma possiamo un'enorme altro altra questione cioè quanti modelli quanti sistemi abbiamo bisogno per poter monitorare tutto
+quindi c'è una specie di reining e quindi il tipo i polmoni sono stati messi al primo posto qualcosa che è stato un grandissimo acceleratore su questo tipo di sperimentazione e poi ci sono tutta una serie di altri pezzi di corpo apparati e organi intimi che sono un po alla diciamo così subito al secondo e al terzo posto in realtà
+la diagnosi per immagini è supportata da algoritmi del genere è destinata nei prossimi anni esplode ricordiamoci che in italia la sanità italiana vale il quindici per cento del pil quindi stiamo parlando di una monumentale area fondamentale per la nostra salute ma
+anche per il funzionamento del nostro paese su cui separano si faranno veramente grandi grandi investimenti molto molto interessante vai
+analisi per immagini che appunto come cosa diceva anch'io sapevo che le percentuali dei medici sono relativamente bassi non perché i medici non siano bravi perché è un compito difficile oggettivamente e invece i sistemi che prendono dai dati imparano possono imparare guard
+andando bene l'evoluzione del
+dell'oggetto cioè del pd tel problema e sapendo a posteriori che il problema c'è stato quindi possono analizzare delle cose in maniera diversa cosa che un medico raramente fa andare a vedere l'ultima radiografia e poi risalire alle precedenti per capire cosa avrebbe dovuto vedere per capire quel l'evoluzione forse
+se lo fa nell'università ma poi
+non viene più fatta successivamente ma c'è anche un'altra un altro problema il fattore umano cioè il fatto che il medico essendo un essere umano essere stanco può essere può avere gli occhi che ti danno fastidio in quel momento governa luce sbagliata può avere una serie di cose può aver litigato con la moglie
+può avere una serie di cose che gli impediscono di avere una concentrazione che vorrebbe avere in quel momento questi sistemi puntando l'attenzione del medico su alcune parti specifiche e non richiedendo al medico di trovare tutti i dettagli che mettono di aumentare sicuramente
+l'efficacia della diagnosi quindi
+per quello vedo molto bene una collaborazione non sapevo di questo di questo esame particolare ma è sostanzialmente la stessa cosa mentre sto vedendo il medico magari durante l'operazione non riesce a capire sta vedendo una cosa che magari a posteriori spegnendo mezz'ora sul singolo frank capirebbe non riesce a capirlo subito
+avendo un qualcosa che gli pone l'attenzione su alcune cose particolari può cambiare l'esame in tempo reale per vedere meglio e capire meglio cosa sta succedendo qui dice questo e questi sono proprio il tipo di strumenti che mi aspetta nel futuro in tutti i campi non soltanto nel campo medico exam
+medico perché è importante dal punto di vista economico italiano il pranzo inferno non sapevo che era il quindici cento del pil e anche a questo proposito visto che s'è parlato duemilaquattordici le prime ganna e diciamo che è dietro l'angolo dietro l'altro l'altro ieri questa esplosione
+il grande pubblico di di come dire ai generativa farà poi potenza di calcolo sempre superiore schede video sempre più potente per fare per trucidare dati e così via a cinque anni come sa messi cosa accadrà avremo in ballo cosa cosa ci faremo con lei
+previsioni della fed faccio faccio faccio un'osservazione non so se un po' una provocazione o no io continuo a pensare che fra cinque dieci ne fa venti forse anni se non cambia veramente profondamente l'architettura di quello che oggi conosciamo come deep learning la famiglia
+osa intelligenza artificiale forte resterà sempre e solo nei film come vedrà nelle dicendo credo che sia un bene determinato
+apocalittici nel senso che secondo me possiamo aspettare sistemi per certi versi sempre più impressionanti per la nostra esperienza
+carl schmitt secondo me è stato un po il primo si fosse anche quelli tipo m i giorni che qualche mese prima e perché poi sta capitando tutto più o meno in questo ultimo anno
+però devo dire che secondo me potrà muovere fra cinque anni e corollari a tono questo tipo di tecnologie che adesso stiamo cominciando a toccare con mano e saranno ancora più precise che saranno ancora più potente e quindi più impressionanti ma secondo me saremo comunque sei
+all'interno dello stesso solco con tutto quello che poi ci può essere
+atom è che potrebbe non essere poco però starei molto molto lontano personalmente per quello che ho potuto capire a rischi di trovarci di fronte a qualcosa magari qualcosa ancora più bravo ad emulare l'intelligenza magari insomma su alcune cose ci sarà un chip a cinque sei anni che potrà fregarci più facile
+mente su un certo tipo di ragionamenti magari casuali causali piuttosto che contro fattuali che un po' il tema centrale del fatto che chi fa un po' la differenza nella scala di perle dell'album a quello che doveva messo la coscienza di un sistema
+se avete letto il libro il nipote perché
+giudea pearl c'è proprio una parte iniziale del libro in cui lui posiziona l'intelligenza artificiale di oggi al livello più basso di questa scala anche dal punto di vista del ragionamento ci sono due temi che comprendere la causalità è essere in grado di fare ragionamenti controfattuali
+puoi dire cosa succede se è una cosa tipicamente umana un tipo b
+modelli di cylon che conosciamo oggi questa roba qua realmente
+non la fanno oggi non potranno fare domani anche se magari avremo una capacità di elaborazione spaventosamente più alta però magari le ci crederà anche perché alla fine stupende un chat gpd lo metti sotto steroidi lo fai diventare ancora più preciso lo fai diventare ancora più attento magari in grado di
+dati dati questo tipo di sensazione ma sarà solo una sensazione e concludo per passo per parlare di qualcosa di completamente diverso ma totalmente cambiato il paradigma di come oggi le architetture di machine learning di le armi sono e credo che in questo momento non sappiamo come dovrebbe non dovranno essere per andare in questa direzione
+no non ho toccato il tema che magari volevi chiedere no no ma guarda qua si è in pura speculazione per cui va bene tutto tra virgolette e io da totale ignorante quando nella mia immaginario fantascientifico la singolarità e quando l'intelligenza artificiale quantum computing si mettono insieme tirano fuori
+cosa faranno se neanche se questa cosa che sta ha un minimo senso quello che sto dicendo anche a livello tecnico
+fantascienza è esatto secondo me io quello che vedo se posso dire la mia
+abbiamo visto nel tempo questi modelli di queste reti neurali crescere quindi è iniziato da molti anni fa poi ip due tre tre cinque se siamo arrivati a modelli con centinaia di miliardi di parametri no questo è l'ordine di grandezza
+quindi sappiamo
+deep learning quindi vuol dire
+molte centinaia se non migliaia di livelli di rete neurale con questi centinaia di miliardi di parametri quindi il trend è sicuramente quello della crescita però oltre a un certo numero secondo me abbiamo già visto secondo me che questo trend come un po la legge di moore sarà
+nus non continuerà nello stesso modo certamente ci saranno esperimenti da parte di
+così sopracitati google la compagnia nel espandere ancora di più il numero di parametri quindi arrivare al peta
+a bath
+a parametri ebbene no però secondo me da quello che si diciamo si può vedere seguendo un po' la ricerca delle aree che questi modelli saranno arricchiti da altri componenti che sono diciamo che danno vita a dei sistemi ibridi per esempio
+a me ha colpito moltissimo ma non sto studiando dicevo nel mio tempo libero è un paper di deepmind questa sussidiaria di google e secondo me sono tra i più bravi al mondo e dove loro hanno proposto questo modello retro quindi un un transformer però
+con l'aggiunta di un modello di rc tre information retrieval loro fanno generare testo facciamo conto come fosse un chat gpd che però ha anche accesso a un database di fatti quindi database di
+frasi oppure fatti da wikipedia per esempio no è questo
+rende il modello completamente diverso e caratteristiche quindi l'output che si può avere da uno di questi modelli è non è non tende ad allucinare come chat gpd
+è il suo grande problema che abbiamo visto tutti credo chi l'ha usato è reso conto di qual è
+di questo difetto secondo me è la tendenza sarà sicuramente
+di andare verso questi modelli ibridi con componenti di informazione prima ma secondo me anche
+con evoluzioni ancora maggiori e
+io sono eccitatissimo perché a me piace moltissimo questa prospettiva dove nella mia testa immagino un sistema tipo questo vetro ma arricchito da altri componenti magari multimodali quindi
+una abbinato ad altre reti che
+capiscono immagini oltre che testo e poi anche musica anche input audio
+no secondo me si andrà verso
+sistemi che ti saranno ancora più impressionanti questo sicuramente ma saranno anche molto più utili alle persone
+e secondo me è una prospettiva fantastica non vedo l'ora diciamo anzi piacerebbe anche fare diciamo cercare di realizzare qualcosa del genere bene marco
+no tra l'altro non conoscevo questo me l'ero persa anche perché
+no non ho avuto tempo di di guardarvi peter in giro purtroppo ce ne sono troppi www buono a sapersi ci darò un'occhiata anche perché non posso parlarne purtroppo ma m'interesserebbe per lavoro per altre cose non legate database
+la cosa la cosa che stavo pensando beh due due il discorso della singolarità avevo già detto l'altra volta io non sono uno che è convinto di questa cosa della singolarità però e quindi sono più dalla parte di luca
+bisogna cambiare qualcosa pepper per arrivare dove vogliamo arrivare una delle domande è questo allora e anche riguardo a quello che diceva cosimo queste cose possono crescere fino a un certo punto è verissimo sono d'accordo e ci sono due motivi per cui non possono crescere all'infinito
+uno il primo è la quantità di dati che possiamo fornire che a un certo punto adesso stiamo già fornendo una quantità didattiche quanto abbiamo in rete è vero che ci sono tante cose in rete che vengono immesse ogni giorno ma la quantità di spazzatura che viene immessa in rete purtroppo è molto più alta alla quarta
+dai dati veri e quindi serve anche un modo per distillare
+quello che è giusto da quello che è spazzatura la seconda cosa è la potenza banana
+proprio la capacità di calcolo ma non ha capacità di calcolo certo possiamo pensare che nel prossimo futuro le schede grafiche o la capacità computazionale cresca ancora rispettata la legge di moore esagerando
+sì ma la queste queste reti invece forse stanno crescendo più velocemente e abbiamo un problema di computazione del proprio anche solo in fase di inferenza diventano se crescono il numero di parametri abbiamo bisogno di ram per tenere in memoria i modelli abbiamo bisogno di capacità di calcolo per fare le operazioni calcolare il nucleo uscite
+e non ce la facciamo più quindi non possono crescere indefinitamente per questi due motivi è quello che mi chiedo io è ma può essere che
+le reti abbiano bisogno di andare a cercarsi i dati da sola e quindi che abbiano bisogno di avere una controparte fisica
+in quel caso le cose cambiano e cambia anche il tipo di intelligenza perché le body ideai è una cosa completamente diversa da lei e quando hai a che fare con la realtà fisica devi fare cose diverse devi per forza un certo punto iniziare a porti le domande del cosa succede se perché non puoi far tutto
+quindi non lo so
+non è un'idea ben ben sviluppate qualcosa che mi è venuto in mente mentre ne parlavamo però sulle borse dai un po' di tempo che ci faccio ragionamenti e se vogliamo andare verso la parte più di genere hai secondo me è necessario fare quel passo ha cacciato punto sarà un argomento interessantissimo su cui
+piacerebbe parlare per ore
+diciamo io anche un'altra teoria certamente le botti interessantissimo di minsk a sta facendo a un laboratorio di robotica in cui
+c'è un c'è un podcast molto interessante e the mind insieme a anna frank pare hanno pubblicato e che io consiglio vivamente di andarci a sentire diciamo non è molto accessibile a livello tecnico quindi è interessantissimo in cui spiegano
+che loro stanno cercando di fare con la robotica in realtà quello che loro hanno visto ed è molto molto più difficile fare training o comunque ottenere buoni risultati con il mondo fisico che è una rete neurale tu la puoi addestrare velocissimamente con milioni di interazioni nel mondo fisico questo non esiste
+quindi c'era questo aspetto aggiungo la mia personalissima teoria e
+secondo me sì
+non dico si dovrà andare perché questo è solo la mia opinione ma è a me piacerebbe che i sistemi di imparassero un po' come imparano le persone quindi un bambino di un mese ovviamente non non gli dai in pasto è un libro da leggere ed è il tre
+reining di quella rete neurale avviene in maniera completamente diversa da quello che stiamo facendo adesso con le reti neurali artificiali e non so a me piace questa teoria del come dire potremmo forse un giorno applicare quel particolare metodo di apprendimento ma è chiaro che il discorso si
+espande in maniera esponenziale credo che fosse fosse proprio c'è stato un bel articolo credo di campati il
+il responsabile dell'intelligenza artificiale di tesla proprio su questo tema qui facciamo proprio il paragone del cervello di un bambino ci può apparire virgolette passatemi il termine vuoto ma è il risultato di quella che poi sono l'evoluzione del cervello dell'essere umano milletrenta
+quindi il bambino nasce già con un cervello che ha una serie di caratteristiche che lo predispongono a fare nessun nel tempo un addestramento che lo rende incredibilmente incredibilmente veloce da questo punto di vista probabilmente lo stesso bambino quaranta mila anni fa ci porta
+ava dietro una una componente se vuoi anche organica quindi architettura della sua testa nel suo cervello completamente diversa e probabilmente meno efficiente efficiente di quella di bambino dei nostri dei nostri sistemi questa è una cosa affascinante campate sviluppa piuttosto bene nel suo articolo adesso
+non riesco a ricordare effettivamente dove ho letto questa parte qua era un antico anche abbastanza divulgativo però poneva proprio questo tipo di tema usa introducendo anche un tema di machine learning federato e quindi diciamo così di condivisione della tabella del
+puoi dire della capacità che certi modelli anni di addestrarsi con questo addestramento sarebbe bello riuscire in qualche modo conservarlo per poi appoggiarci sopra nuovi modelli che tengano conto di quanto è già stato fatto mentre in molte situazioni
+questo non può avvenire quindi ho sempre ricominciare più o meno da capo ad addestrare per almeno un certo tipo di di modelli diciamo così di compiti di conquista da svolgere sono forse il mondo fisico ci aiuta io stavo pensando mentre parlavate ad esempio di boston dinamiche che un po' insomma il punto di riferimento forse su un certo tipo di
+i risultati ottenuti mi veniva da ridere quando ho visto poco tempo fa ero maschio con i suoi prototipi di robot
+sembra dai
+amici di quaranta anni fa voglio dire perché praticamente
+posso capire qual è il commercio nel senso che alla fine dentro la testa dei robot di oggi di boston dynamics effettivamente tutta l'esperienza che poi ti fa stare questi oggetti in equilibrio sessanta anni a correre mentre il nostro amico è un maschio i suoi bravissimi ricercatori deve partire da zero partendo da capo non può
+vedere questo tipo di
+beneficio questo secondo me è un è uno dei tanti aspetti che toccano un po' il tema anche della capacità computazionale del numero di parametri sempre più energia e forza da mettere a disposizione è come se esistesse una sorta di asintoto non so se siete d'accordo con me però a un certo punto si arriverà al ai mille m
+miliardi di parametri e ci accorgeremo che questi mille miliardi parametri in realtà ci danno poco di più di uno cinquecento miliardi un po' di più di quando erano duecentocinquanta e quindi come se fosse ti fosse successo avvicinarsi a un qualche tipo di limite insito in questo tipo di struttura probabilmente non è così però diciamo diventerà sempre più difficile
+quando si vuole
+esercizi di fisica si fanno ragionamenti su quanto è difficile aumentare la velocità di un corpo
+pensando che il sito finale alla luce della luce ma poi ogni metro in più al secondo arrivati un certo livello significa energia esponenzialmente più pesante che quindi fondamentalmente sulla base della tecnologia effettuai si ferma ad un certo punto non ti fa andare molto avanti e non solo ma
+adesso senza voler tirare troppo i paragoni no sentendo
+scienziati a parlare di come funziona il cervello ci sono circuiti nel cervello che fanno una particolare diciamo servono a fare detection come si dice in italiano
+the text riconoscimento di alcuni pattern di alcune linee di alcune cose parliamo di una ventina di neuroni e quindi
+ci sono cose assurde nel cervello umano succeda una cosa che sicuramente non come dire generare il linguaggio non è che ci vogliono mille miliardi di parametri o neuroni è una cosa che quindi nel cervello
+strutturato in maniera completamente diversa nuovo senza voler ed è estremamente efficiente in termini energetici estremamente efficiente non solo a livello energetico ma anche dal punto di vista ci sono moltissime reti nel cervello che cooperano non ce n'è non c'è un modello che fa tutto ciò
+bello non esiste questa cosa c'è
+quindi secondo me non so
+e così opinione astrusa della sera secondo me si dovrà andare lì pensavo
+in un simbolo di modelli di reti che cooperano per arrivare a secondo me quello è il modello più interessante
+il futuro e volevo dire anche un'altra cosa scusate se non voglio monopolizzare ma una cosa interessantissima che è venuto in mente a proposito della spazzatura che diamo in pasto a questi modelli come dicevamo mancano
+che poi dobbiamo distillare è un pepe molto interessante che è stato citato tantissimo di credo emily vendere tim it gebru si chiama the angels of stocastiche paros quindi che parla esattamente di questi
+siamo dell'etica della anime ma anche specificatamente dei modelli che producono
+testo come chat gpd loro evidenziano discorso sia nello specifico c'è anche un po' più in generale di come sia importante controllare quello che si dà in pasto ai modelli per fare il training fanno addestramento ora è vero che gli diamo in pasto questo comunque
+roll quindi questi cassetti immense di pagine web che sono state
+salvate archiviate ma immagino che sarà molto molto importante è già ma sarà sempre di più cercare di avere un
+non dico controllo ma almeno
+diciamo esercitare qualche forma di accortezza un po' di più di quello che è adesso riguardo a quello al materiale immagini testo pagine web che usiamo per
+addestrare questi modelli in questo era una cosa perché diciamo non è importante
+volevo segnalare che magari chi ascolta può avere la curiosità di andarsi a leggere
+dopo facciamo un po' elenco delle risorse fondamentali da seguire intanto marco io ti direi il tuo contact è agghiacciante dopo un po' di tempo
+secondo me se si sta cercando un momento per parlarne veramente felice
+allora spiega giusto parlare così almeno capire si capisce immagino che tutti abbiano una sorta di intelligenza artificiale che sta girando in questo momento perché vedo che sia luca a luca uno sfondo che cambia è lo scontro è fatto da da da da probabilmente da un'intelligenza artificiale alessandro
+ted stesso nella stessa cosa cosi non la stessa cosa ma con un di solito sono così questo e fa in modo che io stia sempre guardando la telecamera sto parlando di quella direzione
+ha adesso giusto per farvelo vedere la disabilità perché se no eccolo qua adesso guarda in una direzione diversa vediamo un pochettino così è cristo parlando così scarsa
+beh comunque effettivamente dopo alla lunga lunga pertinente e fa strano è quella che l'effetto ma comunque mi stavo chiedendo se a un certo punto non venissero negli altri da lacrimare per la mia mancanza di tempo
+vacanza
+svolgimento delle palpebre cercato di non pensarci per tutta la puntata ma andavo sempre lì e
+allora giusto
+tema e un po' di risorse fondamentali arrivassi ribelli siti
+ma mi viene anche in facebook ma di tutto e di più c'è tutto quello che secondo me voi uno che lavora con l'intelligenza artificiale e poi chi ci lavora già riconosce magari alcuni no quindi magari un po' di risorse fondamentali io non so se il caso magari mettili nella chat
+io io ne dico uno subito e oltre oltre che
+bravissimo divulgatore secondo me è anche una persona che conosco perché abbiamo li abbiamo fatti un interview anni fa prima che iniziasse a fare queste cose e non abbiamo preso e fortunatamente non abbiamo preso perché sennò non ci sarebbe tuo pin e pepe
+giovedì
+conosci numero uno è possibile esprimere questo
+ricercatore lui
+live esatta calorie giornaliere
+credo piú o meno
+però si iscrive in maniera completamente diversa
+lui è un ricercatore a vienna credo non ricordo la grande sei un grande appassionato anche di computer grafica di rendering lui è il suono del suo studio il suo lavoro principale sul ranking uefa però è diventato di fatto
+peter grafica anche perché tutto il campo della computer grafica adesso sta andando in quella direzione
+c'è da dire e anche della computer vision
+cerca il campo su cui ho lavorato per tanti anni è sempre stato quello che più quello della computer vision che doveva computer grafica sempre stato molto orientato verso il macello e amiche in generale
+ma adesso è proprio di planking non c'è più un algoritmo classico cioè pochissimi sono gli algoritmi classici che resistono nella computer vision fantastico marco magari tutti nella chat quella non debba limit ma quella direttamente da google così viene anche fuori nel video si è buttato dentro urla a manetta
+una manetta per contestualizzare e spiegare però ammette a moli e spieghiamo così rimaniamo con noi invece consiglio jon snow a starmene con il suo come si chiama stark questo lui previsto non so se lo conoscete quello della triple crown towers fondamentalmente
+spiega il funzionamento di alcuni algoritmi di machine learning e un tizio anche lui con qualche decina di migliaia se non centinaia di migliaia di follower
+un divulgatore siamo così con un certo tipo di successo e lui spiega pornografici disegnini veramente ben fatti cosa c'è sotto il cofano di alcuni calcoli
+ultimamente se si è spinto anche su temi legati al deep learning quindi cercando di far vedere tutto il giro delle reti neurali è bravissimo e quindi anche rinunciare
+un personaggio perché poi anche la sigla del diciamo così del suo il suo videoblog su scusate se uso un termine un po' boomer fondo
+sempre più intelligente e lui su suono la chitarra e fa canzoncine della sua sigla un un eclettico insomma di gomma che oswald star ma molto molto bravo a scrivere scrivere uno da qualche parte assoluti ma magari anche io do un consiglio giusto per
+ci sarebbero tantissime tantissime risorse sono tantissime risorse per chi vuole diciamo continuo nel mio dal mio angolo di persona che vuole magari programmatore che vuole dilettarsi nel non studiare e iaio provare e ci sono tantissime risorse
+personalmente per esempio ho seguito i corsi di andrew yang sul corsera e ho trovato eccellenti e vorrei però aggiungere secondo me la migliore risorsa in assoluto per chi vuole provare ad imparare questo
+corso fad si chiama fast dote hai di germi howard jeremy howard è un de santis che era ha lavorato a chagall
+è un corso assolutamente eccezionale fast hai hanno scritto anche la propria libreria che raptors è veramente una cosa assolutamente da da studiare da studiarsi da approvare i suoi corsi sono completamente gratuiti sono i suoi
+youtube è il tipo di educazione e diciamo
+topdown nel senso lui ti fa vedere ti spiega scusate
+ti spiega diciamo ti fa vedere nei primi dieci minuti ecco questo che faremo ti fa vedere il progetto il notebook di jupiter che funziona e che va e che immediatamente ti dà risultati e poi piano piano comincia a spiegarti tutto quello che ti serve per capire cos'è successo e assolutamente non so
+le cose migliori che ho mai trovato su rai molto bene fast appunto
+dote
+se riescono a descriverlo molto molto bene e allora adesso intervengo io con i miei le mie deviazioni e sistemistiche va mai tutto bello ma sotto il cofano
+sui server dove gira tutta sta sta brodaglia di modelli di che cosa c'è cioè a livello di sistemi di software di processi sia e di come funziona tutto quanto sotto poi immagino sono tante soluzioni tante cose
+però insomma parliamone cosi magari tu ne sai qualcosa visto che hai fatto qualcosa marco credo anche che sicuramente ci sono opinioni più accreditate aggredite voli
+la via io posso dire la mia da quello che ho visto a parte alcune
+aziende e organizzazioni anti aging face eccetera in realtà per fare il diploma di questi modelli sono sempre più grandi per esempio da parte dello sviluppatore medio che ha a che fare con lei questo è un grosso problema e ci sono diverse az
+aziende che stanno cercando di risolvere in parte risolto
+è possibile si sono formati tipo unix che dovrebbero rendere il diploma più facile da parte di sviluppatori in realtà
+ci sono talmente tanti prerequisiti talmente tanti formati diversi se usi torce e usi tensorflow
+è un mondo diciamo cowboy fare il diploma di queste applicazioni è un mondo quindi c'è chi dice ah io mi faccio il mio modo per container funziona tutto però in realtà
+anche lì no se vuoi utilizzare la lag più
+e ancora uno step in più io per esempio ho provato a fare diplomi merce
+mie applicazioni che ospito diciamo per lavoro cuba nantes avere un pad con supporto achi piccolo inconveniente non è una cosa triviale diciamo è un problema
+quindi ti sono moltissimi aspetti che secondo me non sono semplici
+però mi piacerebbe capire ecco totalmente ragione la soluzione ce l'ha a emiliano indichiate che c'è cloud lascia stare lascia fare a boulder sì però è anche lì io stavo parlando di soluzioni cloud sì no però mentre sarà anche di tutto l'ha dato mele ops se vogliamo tutto quello che può essere
+proprio a livello di gestione
+su sistemi che tu stesso gestisci e
+però non so se neanche il senso di questi tempi pensare fano in casa tra virgolette tutto un mondo simile piuttosto che a valere sul cloud direttamente claudio non dico cloud asano e me io io dico cloudways però forse emiliano intende più un cloud gestito e
+con te anche lì ci sono migliaia di soluzioni no
+amazon sagemaker per esempio ognuno ha la sua però non so io personalmente la mia esperienza ho trovato difficile adattare difficile trovare una soluzione che
+si adattava quello che io avevo bisogno e quindi alla fine ho fatto diploma di queste cose in un container e kubernetes autoanalisi più quindi diciamo il training l'ho fatto solo più però poi l'inferenza la facciamo su jody normale c'è più è però anche lì ho scritto
+blog post di quindici pagine per far capire i dettagli di tutto quanto ho dovuto fare per per esempio sul modello che tu vuoi caricare non è che puoi dire ok il container o ipod si sveglia quando arriva una richiesta no perché ci vogliono tipo tre minuti prima che il modello venne caricato age face per esempio
+puoi andare su qualsiasi pagina di un modello provare ogni volta che tu puoi provare a fare l'inferenza stai lì ad aspettare per esempio per un bel po' e a meno che siano modelli molto famosa molto popolari diciamolo
+domani anche di trucchi contro pulci per fare in modo che il modello sia caricato una sola volta e poi c'è lo sharing dalla memoria in modo tale che tutti i thread usino lo stesso model cose ufo ma poi pensai che quella tipologia di modelli che puoi forse per certi versi sono anche la maggior parte che devono fare i conti
+con la deriva del concetto e devono quindi perché prendono sempre nuovi dati e quindi devono essere continuamente illustrati e mi salta fuori un cinema che veramente si implica sicuramente sicuramente i big marco tu tu tu
+nel tuo lavoro fai se non ti occupi più di una partner gestire sviluppo anche parte di operations
+no ma cerchiamo di non fare operation perché noi siamo il gruppo di sviluppo però ci tocca perché sono un gruppo piccolo video è una startup venticinque mila persone e in questa startup una startup da cinquecento persone che oliver è in questa stanza ci siamo noi che siamo una startup che fa il motore di ricerca di università c'è e tutto è gestito a step
+problematica quindi i gruppi autonomi in qualche modo nella gestione anche delle risorse proprie abbastanza autonomi no ma soprattutto il fatto è che è un progetto creato relativamente di recente su un gruppo che non aveva forte esperienza di prodotto invece universe un prodotto quindi
+abbiamo negli ultimi quattro cinque anni abbandonato il progetto abbiamo da una parte acquisito le risorse necessarie e dall'altro ha sviluppato le capacità che ci mancava però
+a tutt'oggi manca ci mancano alcune delle cose che abbiamo imparato abbiamo imparato dalle
+nave cercare sul mercato una soluzione che adesso abbiamo che si chiama ipsec non so se se per caso avevate sentito praticamente motore di ricerca di un'università che ti permette di cercare oggetti tridimensionali all'interno del tuo store online e un'area un'architettura che tutta
+al container i container che come come disse una cosa che uno dei problemi è pina ape down di queste cose qua quindi abbiamo inferenza che va sia su shipping più per esempio proprio perché in alcuni casi vogliamo fare la differenza singolo in altri casi sappiamo che abbiamo un carico maggiore e allora magari
+che è stato appena aggiunto un batch di dati ho modificato un verso di dante allora sappiamo di dover fare un passaggio più pesante quindi tiriamo su due macchine veloci più tutto questo è gestito su su cluster kubernetes è dietro abbiamo cose abbastanza classiche elastic banano open source
+per per le parti di storage di tipo storico dei dati da cercare le cache abbiamo radis cos'è cosa è molto semplice in realtà alla fine cioè cos'è quasi banali è come come differenza ma ovviamente noi abbiamo la nostra soluzione che triton che va su ti tira su one next
+mixer e fa la valutazione sia quasi più saggi più quindi crow soluzioni non legate idea ci sono ci sono i vari tool serve
+quella invidia e
+legata bene sulla gpu perché utilizza non come fatto norcia le librerie di generiche per le reti neurali ma utilizza quelle specifiche per l'inferenza che si chiamano persone quindi hai un piccolo margine in più di efficienza perché non vai a fare quello che servirebbe per
+il training e cose che invece mg generici come trend topic panna sfruttamento e magari su una soluzione in cui in cui queste cose funzionano diversamente però siegel la soluzione che stiamo distribuendo noi sono veramente classiche da un certo punto di vista di containerizzazione di come sono gestiti i container semplicemente
+poi ci sono i container di più bello si conta energie più io
+non è solo per fare pubblicità in video ma ho trovato questo metodo abbastanza semplice per mettere la chat si chiama cloud native e per farlo il proprio faro sulla tua infrastruttura
+e se trovassi centri metterei a west des
+un progetto abbastanza interessante e open source di e ti permette di una serie di ansible bocca e ti fanno installare un supporto per legge più gbp eur codice ed driver per leggi più containerizzati e su su un cluster di e su cui hai anche gpl
+vedi abbastanza tute blu l'ho trovato abbastanza interessante perché avendo un cluster di macchine abbastanza eterogeneo su cui facevano esperimenti che sostanzialmente erano macchie che non si riterranno più come desktop messe con un po' di più sopravvisse in un angolo perché purtroppo per motivi logistici non abbiamo una sala da tè
+nella sede di zurigo vorremmo
+chissà stasera scrivania insomma
+i server sotto la scrivania
+quasi okay scherzi notte allora fortunatamente come dire abbiamo anche tutta la parte di supercomputing quelli che sviluppano l'hardware e adesso sono arrivati a far parte del nostro gruppo quindi abbiamo accesso a tutte quelle cose là però quando abbiamo iniziato non avevamo tutto questo abbiamo bisogno di iniziare a fare dei treni di modo
+dipendente e ci sono cose che superclasse sono state addestrate che sono diventate anche abbastanza famose adesso non non in a kingpin che non so se conoscete ancora attuale sposò in staten pigro che da una sequenza di immagini che ricostruisce le nuove viste è stato ne ha parlato anche sui ministeri
+se concedere serie di immagini costruisce un ambiente trendy
+ma come myspace rendering non come merce o voxel
+e quello non è stato compreso e stanno per poco non è stato propriamente qualche prototipo è andato anche su quel cluster poi mandati solo la più grossa però il progetto precedente di questi indirizzi e agca era stato sviluppato interamente su per last jedi è un cluster che avevo tirato su io per i ricercatori tra noi e i ricercatori che c'erano
+zurigo è stato usato per cose anche interessanti per cose più di rendering dei no esere direi tracking che c'è su tutte le pubblicazioni delle tre esige è stato sviluppato su quel cluster cluster stupido ma
+molto efficace
+e avevo usato questo sistema molto comodo perché per aggiornare i driver in un container che tiri giù e ritiri su
+e tutto il resto container che anche se comunque comprendete dappertutto
+scopri donna hogan music emiliano non ancora diciamo visto che scherzando scrive che poi anche lì poi alla fine john moses jordan tempo container sono tesi alla fine maniche e molto bene molto bene che ora che ci sei infatti sono ventidue quaranta quasi e o io posso andare avanti all'infinito ma non credo
+ossia
+per tutti e
+avete qualche considerazione qualcosa che mi preme dire o raccontare
+di tutto di più sempre legati al tema più o meno una notte che mi è rimasta una prima che volevo dire quello che diceva cosimo addestramento addestramento all'estremità di una rete come si educa un bambino o come impara un bambino ci sono cose simili sono state sperimentate cose simili
+google mi spiace ma sempre esempi di invidia ma è quello che conosco meglio perché sono in contatto con le persone più che altro per quello
+scusate il sintetizzatore di facce che aveva spopolato qualche anno fa c'è anche un sito che disperso nella visto qualcosa del genere è stato addestrato in una maniera molto simile cioè si è partiti ma come immagini relative a generare generale a bassa
+risoluzione poi lentamente sono state aggiunte delle cose per aumentare la risoluzione del primo treni che ho fatto è stato fatto un trend molto semplice a bassa risoluzione poi è stato addestrato l'insieme aggiungendo un livello di risoluzione superiore man mano fino ad arrivare ad alta risoluzione se o meno ricorda un pochettino il fatto che ci sia un'evoluzione del già
+cervello e l'apprendimento successivo è costruito sulla base dell'apprendimento precedente ma ovviamente non è
+non stiamo facendo l'intelligenza generale stiamo risolvendo un problema specifico però è interessante l'approccio sono d'accordo sono d'accordo con cosimo intanto marco atomici diecimila anni hai un canale twitch dove parli di queste cose io chris dove farlo però oriente soprattutto siplast last programmazione che ha però anche c'è faccia anche un po' di intelligenza artificiale perché
+uno dei progetti in realtà allora perché l'autrice è molto personale nel senso magari scriverle le cose in molto personale nel senso che è quello che mi sveglio di fare quel giorno non c'è una programmazione non c'è quindi vai live quello che devi fare lo fa e chi c'è c'è chi non c'è non c'è non hanno tempo ma tacco è quello che mette
+di fare faccio qualche volta e scrivere
+per parlare di o fa ne ho fatto uno di fatto un interview una codina interview agip di tre a suo tempo e e e poi non l'ho pubblicata sul blog
+e altre cose appunto parlare di sviluppo codice ma anche di come validi come secondo me va sviluppato il codice
+e ultimamente sto mettendomi a fare un po' di intelligenza artificiale perché non mi piace come la mia casa funziona allora ho ho un bel impianto domotico che funziona male non mi piace come funziona e sta cercando di acquisire dati inizialmente adesso ho fatto tutta la fase di acquisizione dati sulle temperature di due
+delle stanze e voglio vedere se riesco a ottimizzare il riscaldamento con varie cose sapendo che c'è un impianto solare sapendo che
+qual è la temperatura esterna tutte queste cose voglio vedere se riesco a destra una rete neurale che spero non richieda chissà quale altro anche perché ti è vero o l'hardware di invidia ma non necessariamente l'ultimo anno mio nonno non ce l'hai finito abbia quindi nerd level cento di
+sarà molto quello che mi sveglio la sera di fare kojima
+ehi se ti iscrivi puoi assolutamente su twitch dove ritroviamo cosimo considerazione tj ma ho letto prima sbirciavo o in chat c'era un commento
+e diceva ma alla fine è un pattern recognition un po'con steroidi no io
+mi sentirei di dire attenzione al deep learning
+va bene è già diciamo da diversi anni sulla scena ma è una tecnologia secondo me trasformativa è veramente farà la differenza quindi non non sminuirà ehi stiamo parlando non parte meccanica se in realtà no bisogna capire a cosa si riferiva a emiliano è perché ho già avuto modo di
+di
+a seconda di quando uno scrive magari non è esattamente la cosa di cui stai parlando però va beh no ma nel senso anche per esempio ho sentito anche senza riferisse a quel commento lì ci sono molti vedono chiazze più dei casi sono un sistema che in base alla statistica tira fuori qual è
+prossimo parola più probabile in realtà non è così
+moltissimi dicono così ma in realtà non è proprio così diciamo che secondo me si sta un po' sottovalutando se si dice questo o magari non si è capito esattamente come funzionano le cose e secondo me è qualcosa ma veramente da da tenere a tenere da considerare come una tecnologia che tra trasformerà al mondo
+trasformato ha trasformato già al mondo ma non trasformata sempre di più che cosa teologia
+deep learning audit le reti ma seve che imparano da sole se c'è ci sono esempi bellissimi sposano vogliono
+andare troppo lungo e sono esempi bellissimi che mostrano come la struttura interna di una rete quando stai imparando ti fanno capire esattamente che sono delle celle che dei neuroni delle cellule che imparano a distinguere le linee verticali o diagonali orizzontali e poi man
+umano diventano i concetti sempre più complessi e la rete impara impara a distinguere un gatto la faccia di un cane eccetera e questo avviene da solo se è una cosa diciamo
+difficile la portata di questa cosa non è
+tra l'altro scontata no e leggevate che non è facile appunto fare introspezione su quello che succede in una rete neurale o capire poi che cosa se non è facilissimo però non è neanche difficile
+vabbè comunque c'era questo progetto di google
+di tensorflow un'occasione di tensorflow che faceva vedere esattamente quello che succede all'interno
+visualizzato questi parametri l'ultima cosa che dico secondo me si farà un passo ancora aggiuntivo quando questi sistemi saranno o mentre ora c'è il ciclo diciamo del training e poi l'inferenza quando questi sistemi saranno a ciclo chiuso quindi un sistema e via
+bo nel senso che è lì ed impara direttamente da dall'interfaccia quindi se è un testo oppure può essere la mia voce il sistema impara direttamente secondo lì lì secondo me faremo il salto di qualità verso sistemi veramente che assomigliano a quelli del film
+così come vedete sono entusiasta di questa cosa non vedo l'ora propizia l'esperimento di microsoft di aver messo eh sì
+quello era
+non so in quanti vogliano ripetere questo esperimento perché non so se ve lo ricordate michael messo in gioco
+su twitter che è diventato nazista in cinque minuti
+steve sceglieva
+io mi riferivo più sistemi personal tipo personal assistant no dove tu sei quello che è quello è quello secondo me è una cosa su cui probabilmente non è il caso di aprire questo vaso di pandora adesso magari ci faremo una puntata più avanti però cacciato gepd io visto che in tanti lo utilizzavano
+home come google cioè facendo una domanda tante volte e questo tante volte senza sapere la risposta è pericolosissimo
+la risposta cioè da quello che diceva e credevano nella cultura tante volte però io ho scoperto che se fai una domanda la prima domanda o hai una domanda su un problema specifico basato sulla conoscenza di solito carl schmitt scrive delle cazzate inenarrabili in realtà secondo me infatti quella non è la memoria non è la coca
+senza di quella rete ma la potenza di una rete e credo che luca l'avesse accennato all'inizio e in attacco il contesto cioè la creazione di un contesto tu dialogando con la rete tra un contesto che poi ti permette di farcela la rete ti permette di ragionare di analizzare quei dati e la cosa interessante
+quando me è vedere quanto questo contesto può essere grande tre attualmente io l'ho utilizzato per analizzare un pezzo di codice che cosa inserisco a cui cosimo si riferiva prima della linea di brennan
+giusto pesato
+lato prima dell'inizio ti ho scritto un articolo sul blog e che riguarda proprio quello c'è tutta la conversazione è espressa lì ed è
+e mi sono impressionato dal fatto che partendo dal dandogli un codice incomprensibile ragionandoci insieme alla rete siamo arrivati a capire cos'era quel ovviamente io già lo sapevo cos'era però se guardi le informazioni che gli ho dato vedi che non gli ho dato il là su alcune alcuni sono proprio gli ho dato delle informazioni semplici
+gichi che a quello che avrei potuto capire guardando quel codice e il dì controlla la rete mi ha dato un'informazione molto preziosa che era esattamente algoritmo stanno implementando e l'hanno implementato io ma per come è implementato non era comprensibile in maniera facile di abe perché poi
+se volete vedere il post è sull'ultimo blog che ho messo sulla giacca perfetta da me tre cose velocissime la prima è che non ci sarà un terzo inverno dell'intelligenza artificiale quindi storicamente ne abbiamo vissuti due per una serie di motivi di aspettative
+ma intanto non ci sarà quindi a meno che non ci sia perché alla fine mi dice tutto non so non credo proprio bimbo un tetto non ci sarà altra cosa da grande appassionato di realtà e di rendering è una delle mie più grandi passioni io mi reputo quasi un artista da questo punto di vista io non vedo l'ora e sarà questione di
+veramente in poco tempo di avere le texture di
+di qualità ci sia in giro qualcosina
+ma sono certo che a un certo punto i vari creatori
+crea modelli tre ha subito tutta un'evoluzione nel tempo
+si articola suo tre di studio a costruire la casa la chiesa automobile con tutte le tecniche fino a passare alla fotogrammetria con i droni che riprendono le case che riprendono i castelli e i sorte che li ricostruiscono è il prossimo passo è quello di scrivere che cosa voglio è avere con una ri
+assunzione elevate un numero di poligoni elevati è già tutto un modello che è questo il sogno di tutti quelli che fanno che hanno questa questa questa passione quindi io quando costruisco un ambiente di rendering e ho bisogno di cancello arrugginito stile vittoriano
+poterlo descrivere introvabile oggetto e x aereo da prendere e mettere nel mio software è era un sogno che immaginavo irrealizzabile fino a qualche anno fa ma adesso sono sicuro che se non c'è lavoro l'anno prossimo ce l'ha fatta
+terza cosa una piccola annotazione avevo parlato prima di gunn e quando sono state teorizzate costruite nel duemilaquattordici da ian goodfellow che è stato credo anche un direttore importante per apple per un po' di tempo e carino come è nata questa cosa io non so sapete mi ha concepito questa cosa guidare
+conta è diventato un po' mitologica come cosa l'ha concepita sotto l'effetto di alcol fondamentalmente era in un pub con degli amici ovviamente amici ricercatori e come lui e dice che tra una birra e l'altra gli è venuta un po' l'idea di far conoscere e incontrare i due reti
+in un gioco da guardie e ladri una contro l'altra e lui dice secondo me è il tasso alcolico di quel momento mi ha dato proprio il contributo a prendere il coraggio per provare poi una volta arrivato a casa provare a mettere il primo su carta e poi nell'album miur nel mio computer questa idea e poi è un
+certo punto ho capito che effettivamente questa cosa poteva poteva funzionare questa roba hagan ha rivoluzionato se ci pensate di fleming nel senso che è stata la cosa più evidente è per l'uomo della strada insomma che puoi scaricare l'applicazione whatsapp
+e se invece si ringiovanisce prenderà la propria faccia e la mette sul sud sudan sul sulla sua torre preferito la qualità di questo tipo di risultato è proprio uno dei uno dei timer delle tante cose che questa questa architettura di reti neurali può fare e a quanto pare è nata sotto l'effetto di qualche birra
+secondo me non pensare che una delle cose così importanti chiamata sia nata
+da un ubriaco
+un ubriaco
+mio dio
+il famoso convertito che anche se stefano diffusa nel genere adesso usano net quindi non usano più gan
+scusa a questo punto devo chiedere unet che cos'ha di diverso rispetto a un hasan e quattro non vogliamo andare
+fatemi unity
+sono delle reti che imparano a capire e allora per farla cortissima proprio sintetizzata scusatemi se dicono cose inesattezze con con questa e praticamente tu puoi generare immagini dal rumore quindi dal completo statica un'immagine con
+rumore televisivo per esempio è questa un'età si inventa dettagli per arrivare a un'immagine descritta con un testo ciao
+si si no no sono diverse reti che collaborano a unet distinguere qual è il rumore da qual è l'immagine sorgente a cui l'uso anche del termine diffusion si è interessantissimo anche qui c'è un ci sono una serie di video eccellenti di fausto e iaio di jeremy howard consiglio caldamente
+chi è interessato ad andarsene a vedere perché spiega esattamente come funziona e ricreando da zero è eccellente però tra juliet e più un'architettura di rete che metodo di training gan è certo più treni in realtà ve lo dico perché noi abbiamo utilizzato per esempio
+toppan di duemilasedici
+un'architettura unica con una rete can c'è comunque con una struttura ganna per fare super risoluzione e i risultati erano carini per il duemilasedici poi adesso tanta roba ovviamente beh direi si possono combinare la cosa bella della rete che esclude praticamente come dei lego se da piccoli si gioca
+ma poi leggo giocare con le reti neurali è la stessa cosa
+direi che qui si apre il vaso di pandora e se volete c'è spazio e ci saranno occasioni per tornare su questi argomenti approfondire magari okay
+a random come adesso ok magari cercando di puntare su specifiche
+specifici punti perché vedo che comunque qua e di conoscenze ce ne sono e io sono sempre contento di attingere a tali sapienza però s'è fatta una certa una cosa sola ho visto che il link che non sono venuti fuori sulla chiatta sono venuti fa sonia ma non su quelle e hai ragione allora facciamo così melman me
+mandate anche se avete fatto via mail poi li mettono come oppure come a noi
+convinta e tiene oggi ma google scusate aiutooo bacini casa che toglie i wikilink quindi se anche li mettono i link potete mandarmelo poi io provo a vedere se ho provato a buttare come
+commento al video però avevo notato questo che lui li toglie li vedi solo tu in realtà a meno quando meno compaiono anche dopo essermi ricollegato quelli quelli che avevo messo prima non li vedo più tardi la miseria che proprio gli assediati di brutto vabbè è male molto male però magari mandami via mail e poi vediamo di farla franca
+modo benissimo ragazzi è stato un piacere conoscervi marco cosimo alla prossima alessandro un abbraccione a piacermi sempre di avervi qui è assolutamente dobbiamo fare un'altra cosa si fa ragazze annua grazie a tutti

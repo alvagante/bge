@@ -1,0 +1,10 @@
+- Linguaggi di programmazione attuali: Il focus è sui linguaggi più rilevanti da imparare nel 2023, con particolare attenzione a Python, JavaScript e Rust, e sull'importanza di scegliere il linguaggio in base al contesto di utilizzo.
+- Importanza dell'esperienza: Gli esperti discutono di come l'esperienza di programmazione, anche in linguaggi meno comuni, possa arricchire il bagaglio professionale e rendere i programmatori più versatili.
+- Evoluzione delle tecnologie: Si esplora come le tecnologie e i linguaggi di programmazione siano cambiati nel tempo, con un'attenzione particolare all'adozione di pratiche moderne come il testing e l'integrazione continua.
+- Sicurezza del software: Viene sottolineata l'importanza della sicurezza in fase di sviluppo, con un focus su pratiche come l'uso di librerie affidabili e la gestione delle dipendenze.
+- Esperienze remote e nomadismo digitale: Gli esperti condividono le loro esperienze lavorando in modalità remota, discutendo i vantaggi e le sfide del nomadismo digitale.
+- Open Source: Si evidenzia il valore dell'open source come opportunità di apprendimento e networking per i programmatori, incoraggiando la partecipazione a progetti collaborativi.
+- Formazione continua: L'importanza di aggiornarsi costantemente e apprendere nuove tecnologie viene sottolineata come fondamentale per rimanere competitivi nel settore IT.
+- Eventi e conferenze: Viene discusso il valore della partecipazione a eventi e conferenze per fare networking, apprendere dalle esperienze altrui e rimanere aggiornati sulle ultime tendenze.
+- Approccio pratico alla programmazione: L'importanza di avere un approccio pratico nell'apprendimento della programmazione è evidenziata, suggerendo che l'esperienza diretta è cruciale.
+- Futuro dei linguaggi di programmazione: Gli esperti si interrogano su quali linguaggi e tecnologie rimarranno rilevanti nei prossimi anni, considerando l'evoluzione del mercato e delle esigenze aziendali.

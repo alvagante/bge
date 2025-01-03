@@ -1,0 +1,10 @@
+- Rete mobile in Italia: Analisi dello stato attuale delle reti mobile e fissa in Italia, con focus sulle infrastrutture e sulle recenti vendite di reti da parte di TIM.
+- Funzionamento della rete: Descrizione del percorso dei pacchetti dati quando un utente si connette a Internet, a partire dal router di casa fino all'accesso ai server e alla rete globale.
+- Tecnologie di accesso: Spiegazione delle diverse tecnologie di accesso alla rete (fibra ottica, rame, wireless) e le loro implicazioni sulle prestazioni e sulla copertura.
+- Infrastrutture di rete: Discussione sui punti di accesso, armadi e centraline, e sull'importanza delle reti di distribuzione e dorsali nella gestione del traffico dati.
+- Vendita delle reti TIM: Approfondimento sulla vendita delle reti di TIM e come questa influenza il mercato delle telecomunicazioni in Italia, inclusa la divisione tra rete accesso e servizi.
+- Antenne e condivisione: Analisi della crescente densità di antenne necessaria per le reti 5G e l'importanza della condivisione delle infrastrutture tra diversi operatori.
+- Frequenze e limiti di esposizione: Discussione sui limiti di esposizione alle onde elettromagnetiche in Italia rispetto ad altri paesi europei e sull'impatto di tali limiti sulla tecnologia 5G.
+- Impatti della tecnologia 5G: Considerazioni sugli effetti e le sfide del 5G, inclusi i potenziali usi e applicazioni future, come l'IoT e la realtà aumentata.
+- Rete di accesso e capacità: Esplorazione delle sfide relative alla capacità delle reti di accesso e alla possibile saturazione in relazione all'aumento dell'utilizzo dei dati.
+- Futuro delle telecomunicazioni: Riflessioni sulle prospettive future delle telecomunicazioni in Italia, compresi i possibili sviluppi tecnologici e le normative, nonché le opportunità di innovazione nel settore.

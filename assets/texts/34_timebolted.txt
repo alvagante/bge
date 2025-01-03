@@ -1,0 +1,437 @@
+e quindi siamo arrivati alla puntata trentaquattro della brigata degli estinti e questa puntata è uno speciale sui container dei cocktails conferenze a cui abbiamo assistito settimana scorsa a bologna e con cui ci ritroviamo con relatori partecipanti e organizzatori insomma chi c'è stato e ha fatto in modo
+che queste conferenze sono state quelle che sono state e siamo qui quindi con gavone santo maggio giovanni toraldo giordo giorgio fochesato e poi forse qualcun altro ci raggiungerà io indicherei chiederei subito a gabriele di fauna di tutto grazie per l'invito
+la prima volta che partecipo
+quindi grazie mi chiamò appunto gabriele lavoro in team work lavoro nel core team di rob team boston
+facciamolo detto poco fa
+facciamola breve
+giovanni ciao allora anche per me la prima volta e un po' me ne dispiace so che avrei dovuto e potuto partecipare prima con alessandro ci conosciamo da un bel po' di tempo da quando the boxer ancora per me un lontano miraggio e oggi lavoro come the woods
+zheng di harper island che è un'azienda americana e io in particolare lavoro nella divisione di alfresco che è un software open source anche abbastanza conosciuto e mi occupo principalmente di mantenere
+deployment jules di alfresco quindi view cart e il playbook ansible oltre a fare un po' da supporto a tutta l'engineering di alfresco sulle tematiche the world's che al momento conta circa un centinaio di software engineer bene come tutto molto bene
+e giorgio sto tutto io sono toto la prima volta che partecipo anche io alla brigata
+ringrazio alessandro per ogni invitato e io lavoro per golf gps sono community manager e quindi faccio parte delle persone che organizzano le conferenze lavorò per il cross da marzo la prima persona che mi ricordo di dalla prima conferenza che ho visto è stato proprio alessandro perché io ho partecipato dopo
+pochissimi giorni dell'incontro devops italia e sarà arrestato che facciamo un gran casino e quindi è stata la persona che vi è rimasta più presto
+conferenze sono un ex sviluppatore shutdown
+lo sviluppo più da un secolo e mezzo però insomma io richiesto dallo stato uno che ha fatto codice per quasi dieci anni
+fatto cosa dice prima di convertirti al marketing diciamo così se ho fatto un sacco di giri strani e adesso faccio marketing bene dai allora
+giorgio partiamo da te visto che sei nel team degli organizzatori ci puoi dare qualche notizia di prima mano su come è andata come sono andate queste due edizioni di cui la prima des elysées il male assoluto e allora sono nate ben bene che stato container da
+felici ho avuto duecentocinquanta partecipanti in presenza e online infatti molti di più dovevo prima devi bere significa che comunque non è una conferenza che piace che c'è da qualche anno e che continuerà ad averlo suo pubblico e cosa cosa penserà sia una cosa positiva ma bensí jacobs è quello che insomma
+ha fatto bene ho partecipato e fatto duecento poco più di duecento partecipanti tra presenza online come era la tribuna maledizione questa cosa
+ci fa riflettere su come
+un segnale molto positivo è un tema che è quello della sicurezza entreranno forte delle nostre conferenze e ne siamo contenti che la community insomma abbia abbia deciso di partecipare ci sono state tante le persone che abbiano posto biglietto e quindi sì purché siano tutte due barrio parlato con suo un gruppo di gente durante le conferenze mi sembra che tutti fu
+oh contenti sicuramente giovanni gabriele sono quelli che sanno darci una visione un po' più da outsider di quello che è successo io da fuori penso che sia andata bene gabriele giovanni dai parlate senza peli sulla lingua ma io come ho detto anche insomma durante il tour continua del drop
+sda sono tra le conferenze che almeno personalmente preferisco in italia per i temi trattati prima di tutto perché resta se vogliamo una conferenza di nicchia molto specializzata la preparazione anche delle persone che vengono e medio-alta e poi la location
+spettacolare e poi dirla tutta si mangia benissimo
+a phoenix
+è sempre così è la ragione principale alla fine per cui si fanno queste conferenze cioè argomenti di solito sono il dieci per cento del motivo per cui uno si spostano si organizza di solito è per le persone che si incontrano e perché in genere
+sempre sempre così è anche per me sono ma da sempre sono conferenze interessanti e alla fine sono diciamo l'unico momento in cui chi è appassionato di questa tipologia di tecnologia in italia trova spazio magari perché oggettivamente non è che ci siano
+altre conferenze a livello nazionale su queste tematiche quindi sicuramente mi sento sempre in dovere di dire grazie al group è anche recentemente io stavo pensando al fatto che cioè alla fine buona parte diciamo del della mia carriera
+a sia incentrata su due devops insomma su queste tecnologie proprio perché un bel pò di anni fa cominciai a frequentare queste conferenze dove prima come semplice partecipante e poi successivamente anche come come speaker e ora in queste ultime occasioni non ho avuto la fortuna
+di avere i tuoi accettati ma io continuo sempre a a proporre turca dove ad ogni edizione insomma sperando e comunque anche se se ne beve insomma acido al mio posto io comunque partecipa almeno come
+ma attendant insomma per per fammi vedere perché mi interessa è un buon punto d'incontro per tutti gli esperti italiani del settore e quindi alla fine e finisce per rincontrarsi con le vecchie amicizie e incontrare persone nuove con cui magari instaurare un rapporto professionale
+in futuro perché no bene nota di servizio non ci sono solo queste conferenze da buon gusto e ne organizza tante belle però no intendevo di di là di su queste tematiche a livello schematiche tipo sud e mossa c'è proprio a settimana promossa anzi questo sabato de vaux rosa a parma
+non dovrebbe essere male e poi a me comunque sì diciamo che io e gus gusto per queste suo nome è un punto di riferimento intanto benvenuto antonio non so se non ti vediamo e per il momento non ti sentiamo
+ah ecco bene
+antonio riccardi anche tu presentatore
+container dei
+visto che sto abbiamo da poco finito le presentazioni e se appena arrivato vai prima di qualsiasi altra cosa presentati brevemente così poi proseguiamo con le nostre entrate allora ciao piacere a tutti sono riusciti anche a visitare la videocamera
+giov antonio riccardi sono il ciclo di black skin che come si può sentire dal mio accento un'azienda della campania di napoli specifico e ho partecipato anche io come accennava alessandro alla container da una delle due conferenze si sono tenute nei giorni scorsi a bologna e devo
+devo aggiungere conferenze il cui livello tecnico è stato molto molto toast
+credo che ce ne siano poche in italia che hanno lo stesso livello quindi complimenti al gruppo perche mi è piaciuta veramente come come conferenza bene allora visto che abbiamo accennato agli argomenti tecnici potremmo andare un attimo un po' in profondità intanto parliamo del container dei dove sia gabriele che antonio hanno parlato
+e devo dire anche hanno fatto delle ottime presentazioni
+vostre impressioni un po' sui temi trattati nelle network ovviamente mi domanda per tutti un po' sui temi emergenti nel mondo della containerizzazione che poi avete qualcosa da
+e visto che fate i timidi vado io e diciamo che a me l'aspettavo è piaciuto molto è stato
+ho l'occhio al passato nella storia che ci è stata raccontata su più di un'occasione si chiude un tour e secondo me io sono un fanatico della storia
+info ed è di quello che accade perché spesso si arriva capitò ad un certo punto e spesso si ignora tutto quello che c'è dietro e ho impastato prima volta ho fatto tour tour moto estremamente tecnici per svelare un po' di amarcord e i suoi segreti è anche piaciuto un po' l'occhio al futuro mi è piaciuto molto il tour di edo che parlava di web
+b assemblee quindi anche quello di paolo parlava di argo de insomma tutta la parte di automazione quindi un po' diciamo questo mescolare come siamo arrivati ad oggi con con i container e cosa ci aspetterà quindi sempre più automazione e probabilmente web based
+blake probabilmente serverless insomma tutto quello che potrebbe e sia in realtà non sono stati nominati però attendere potrebbe essere anche un un argomento che mi è piaciuto insomma questo questa dissonanza se così la vogliamo chiamare nato io invece aggiungo un tralcio che dice gabriele che
+effettivamente è stato così sacco di contenuti contenuti interessanti uno sguardo al passato e uno sguardo al futuro i tre tool che a me è piaciuto parecchio anche l'ultimo della giornata di jacopo e amy era secondo me visto anche per il ruolo che ricopro era un po a livello più alto quindi
+il senso di perché queste tecnologie dovrebbero essere utilizzate sfruttate svoltò in che modo queste tecnologie aiutano a far fiorire il business quindi è stata solo è uno dei tour
+e personalmente mi è piaciuto di più peccato che sia durato solo cinque minuti perché avrei ascoltato anche per un'ora per tre ore
+è anche un bravo speaker ho visto che proprio nel parlare
+esprime facilmente concetti anche concetti complessi di riesce ad esprimere in modo abbastanza semplice di modo che tutti li possano comprendere sebbene non abbiano una conoscenza appropriata su quell'argomento tiro trovato che lo prevedeva la libertà un non prendevo molto
+l'aspetto tecnico de tokyo però
+l'ultimo era anche per me che ero un neofita era coinvolgete era veramente stato c'è stato un piacere stare di ascoltarlo
+ero solo tono tronfio beh d'altronde jacopo nardiello non lo scopriamo noi è tarato ha partecipato nel passato audizioni e della brigata di cui parla a me è piaciuto quelli veri no perchè qui però gabriele è stato fra il comico
+comunque mi è piaciuto molto
+da quello che ho sentito dire gabriele con certezza anche lui
+the crazy si davide gabriele si nomina mai certezza abbia ristrutturato vi è sembrato di capire
+il mio politico al premier batman quello che sentivo dire questo
+grazie steve
+è
+abbiamo intravisto qualche ottenere qualche tendenza su basandoci sui visti e nel mondo dei container c'è cosa che avete identificato come elementi emergenti che val la pena su cui val la pena focalizzarsi particolarmente per esempio cambiare tu hai parlato di tutto il
+che hai operato che non sono cosa nuova però insomma mi sembra una cosa in espansione no nel mondo kubernetes
+sì è in espansione e continua il turco parlavo opere tursiope ritornò quando e come ma diciamo che il lamia il mio intento poi ho cambiato
+entriamo all'interno del tour e
+luogo reingegnerizzazione su cooper metes perché
+poi gabelli non c'è stato molto tempo per parlarne però nella mia esperienza vedo un po' troppo spesso abusare di tecnologie sopra tecnologie e che prese singolarmente magari sono tecnologie che funzionano sono consolidate però messe insieme ancora non hanno quella maturità
+quella maturità per per vivere e per vivere insieme dal mio personale punto di vista insomma non lavoriamo con open source abbiamo codice nel tour milioni download uno tosto doctor magia insomma minimo di joseph li vediamo e spesso vediamo una guerra ingegnerizzazione è più una
+moda perché devo ficcare tutto quanto dentro piuttosto che una reale necessità io dal mio punto di vista vedo un po' questa tendenza ad abusare un po' troppo degli strumenti almeno purtroppo a noi arrivano semplicemente lamentele e bugie cosa non funziona nessuno che scrivesse
+ma una volta sui gruppi lo sto utilizzando e funziona tutto grazie non solamente bug e problemi e
+lo dico on wheels
+ti addentrerai ovviamente propriamente malati venivano lesi
+se qualcuno ti scrive solo per lamentarsi più di uno una volta ricordo che un tizio scrisse nel nostro gruppo insomma ufficiale utilizzo rabbit da molti anni grazie funziona ce lo siamo girati noi e con le lacrime
+grazie sconosciuto
+se questo è il mio punto di vista si trae vinta scusami non volevo dire tra l'altro tubi in alcuni punti della sessione fatto proprio vedere no alcuni di questi crediti
+se ti sono arrivati foibe parlandone ad una penso fossero di una scena in cui sosta un pò l'idea di raccoglierli tutti e di scrivere per benedizione che sarebbe interessante adesso al esalta il codemotion sto preparando un tour che però intitolato disastri in produzione lo ha chiesto alle al alle persone di
+raccontare le proprie disavventure e le sto mettendo in un tour sfortunatamente non riesco a mettere tutte perché me ne sono arrivate parecchie quindi le devo selezionare un po' e poi non voglio fare semplicemente l'elenco ci voglio anche trovarci una sorta di morale in tutto e in tutto questo è l'acqua
+beh adesso non mi piacciono non voglio spoilerare steroide però è stato bello più tutta la partecipazione di molte persone che mi hanno scritto ed è abbastanza come dire
+abbiamo perso abbiamo perso uno gabriele forse più bene al novanta per cento che si sono scaricate le batterie due su tre delle cuffie perché ti vediamo ma non ti sentiamo proprio sul più bello di cipro ed intero di qualcosa ma non va talmente gabriele trova un modo per ritrovare la voce
+a chi altro input dal vostro punto di vista sono anche quanto stava dicendo ah sempre su valladolid vado io aveva sempre sui sulla tematica del della reingegnerizzazione qui se non ne vale la pena di spenderci il secondo perché è anche un argomento di cui di cui ho scambiato qualche qualche parola anche durante la conferenza
+e cioè che spesso si tende a farsi ammaliare dalla semplicità di quickstart no mask forum tool mi leggo le dieci righe di documentazione per il wiki start riprova replicare funziona e che sono e sono già contento mi sento già penso già di essere lucy
+migliore del mondo non si riesca a funzionare una roba che di cui non sapeva nemmeno l'esistenza fino a cinque mesi prima insomma me questo è uno dei motivi per cui si tende spesso a specialmente su kubernetes dove davvero l'ennesimo pezzo in più e alla distanza di un hub city e la play
+westminster e quindi si tende a buttare roba nel calderone e tutte cose che poi non è così scontato che che fra di loro possano funzionare sempre comunque sotto qualsiasi condizione che è senza poi anche
+diciamo il concetto che comunque tu non conosci davvero uno strumento fino a che non hai davvero padroneggiato ho risolti i casi più comuni insomma il fatto che tu sia riuscita vista black-bloc al volo non significa niente in confronto a quello che poi chi serve davvero per sapere per padroneggiarlo e secondo me su cui quest'ultima questi aspetti
+qui su specialmente nel mondo kubernetes è una cosa su cui si rischia facilmente e velocemente di inciampare perché sembra tutto facile tutto veloce da installare ma poi chiaramente mantenerlo e soprattutto sereno ambiente di produzione è tutto un altro paio di maniche non è una roba che può
+improvvisare se questo ponte credo che siamo un po' tutti d'accordo su questo no barney frase in fondo deriva da un progetto di google fatto da google per l'esigenza di google per cui non è detto che tutti abbiano le stesse esigenze di scalabilità e flessibilità che abbia che hanno loro a me viene in mente però io questo discorso lo puoi fare come abbiamo anche voi siete un po
+modo calmatevi io sono un po' vecchio mondo viene in mente cosa ho fatto puppet con il suo prodotto si rifornì che lo poneva un sistema siae per puppet che di fatto è un'applicazione
+web che parla con paul scrisse poi coi suoi agenti remoti i
+e hanno deciso di lasciarla show
+repliche ted che questa distribuzione kubernetes che permette di patente su trial presso super tesa e poi su quello ci dettò duplica in modo semplice una sua interfaccia e ci hanno bestemmiato ci hanno lavorato per anni anni e anni con un'installazione che per la fine rowan single macina tipico casinò e una macchina soltanto su cui installi kubernetes
+su cui installi la tua applicazione con tre quattro pod a fare business è l'applicazione tour ultima release quattro zero è deciso tornare a fare un container senza coperta potrebbe anche essere un rpm che sembrano cambiare boh io dall'inizio ero un po' perplesso queste scelte perché ha senso se devi scalare se ti permette di scalare se puoi fai
+le cose che hanno grande traffico ma un sistema sia insidie per esempio a uso interno e per la tua applicazione interna e a livello di affidabilità quanto una soluzione come quella che tratto acerbo di problemi sia perché fortificazioni stanza nessuna stanza sua stazione aveva infatti sono tornati ma quella era classico esempio di società che hanno inseguito il
+il cavallo kubernetes perché tutti vanno super tesa e quindi bisogna fare le cose super netjets a prescindere dallo specifico news credo che su questi casi ma perché lì non si sbaglia perché non si fanno analisi quando si fa la scelta del tool o perché qual è motivo io sono proprio la moda e la moda il management nuovo
+nuove proprietà o no le cose che sono arrivate nel contesto specifico con una certa editori molto bravi l'idea che noi siamo perdiamo a cavallo del cloud native perché siamo uno scomparto uno strumento innovation management classico e quindi cosa facciamo non facciamo qualcosa che si fa chi serve
+per il team ma usiamo kubernetes per farci una applicazione che non c'entra niente con cuba niente se non ha bisogno questa cosa è ciclica perché lo stesso problema c'era stato anche qualche anno fa con il passaggio al cloud dove chiunque doveva per forza passare da on premise cloud perché
+scalabilità infinita perché avevi il pepe rosa perché avevi tutte queste cose qui e poi ci sono tante grosse aziende che a un certo punto facendo fonti alla mano e si sono resi conto che avrebbero speso di meno e quindi sono tornate anche indietro inizio insomma secondo me questa cosa qui ritorna ritorna è ritornata ritorna adesso su cui tornare
+si ritornerà promette in futuro sul prossimo ip quando ci si renderà conto che insomma come al solito nell'informatica il golden hammer non esiste cioè ogni problema ha bisogno della sua soluzione non bisogna farsi guidare dal dal sentimento del momento e quindi qual è il prossimo scusate se mi intrometto con sito web
+esploravo
+sa ovviamente
+ho tenuto una conferenza per quello proprietà
+dell'intelligenza artificiale degenerative no e mi sembra abbastanza e poi non so quanto eipass bowl noi abbiamo passato il web tre zero non so se e cosa ne è rimasto
+in effetti è tutto quanto l'effettiva tom un bot
+sette
+però forse il tassi con la classica curvano per cui c'è il picco di aip dopo c'è un crollo e poi però magari se la tecnologia valida e che sono reali puoi comunque vedremo vedremo anche su queste metaverso no quello te lo dico io per certo quello secondo me non ha nessun senso non ha mai avuto dai tempo
+ha avuto nelle sale giochi e
+mi piace questo questo è il massimo e di metaverso secondo me
+ma anche lì quando ci metterà i piedi e apple con la sua versione del metaverso tra virgolette e sai che quando arriva apple con sette cose che non scopri nuove ma le fa meglio di solito le fa usabili di solito le fa usabili per il mondo però se ci pensate tutto il problema della realtà virtuale
+ale friction dell'uso no il fatto che è scomoda che è fastidiosa a volte usare il visore adesso non è solo quello il metaverso non è solo metà verso quello che farà e paul però boh vedremo se ricordate
+erbe i film di steve basato
+se ne parlava inizi a inizio millennio forse in questo periodo l'intelligenza artificiale a stampo predominando va vista anche del mercato software quello che la
+un forte interesse instaurano un forte interesse nei confronti
+i modelli e le mamme di sviluppo associato a questi modelli e so anche tutti gli strumenti a corredo copilot chi più ne ha più ne metta e l'altro giorno la settimana scorsa scherzando con alcuni colleghi uno di loro aveva scritto nella cia
+aziendale è finito l'ultima versione di questo modello e io ho detto che se magari stanno diventando un po' come i javascript probabilmente ne esce uno nuovo aggiorna che a sette milioni di milioni miliardi mi pare fossero dei parametri quindi la gara un po' a chi
+più lungo però chiama il bip di verona
+è arrivato a un certo punto certo se ti chiedi anche a jenkins innanzitutto come tecnico come sviluppatore ti pone il problema di quale può essere più affidabile degli altri sul quale mi potrebbe aiutare a risolvere un determinato problema è spesso la risposta non ce l'ha anche perché queste tecnologie non sono anch
+ora così abbastanza mature sebbene ci siano paper ci sia documentazione che ebbero malattia aiutino a identificare quello che serve per old town est però nell'atto pratico magari può essere difficile utilizzarli perché sono ancora un po' acerbi ma come strumenti da integrare da sfruttare
+appieno è però per raggiungere la sala sopra ingegnerizzazione e spesso quello che mi è capitato di vedere è che
+cercavo te ma come è comune che sia si prova a risolvere un problema di dominio di contesto di business soprattutto con una soluzione tecnologica che se ne va uno degli errori più grandi dovrebbe essere rivisto un pò adatto divenne infatti giovanni prima diceva una cosa interessante era proprio quella di
+a che punto di vista vidi la soluzione a questo problema secondo me dev'essere prima ad alto livello e poi la vai a incanalare una soluzione tecnica che ti possa aiutare tantissimo e spesso certe volte utilizzare governare nessuno poi diceva anche alessandro è un può provare a sparare a una mosca con un cannone perché
+al di là del fatto che è ci vuole un'infrastruttura che magari è sovra dimensionata per quella della tua il tuo portale quello che devi tirare su ma ma spesso t in
+da ma ti richiederà la necessità di andare a considerare tutta una serie di fattori vedi in primis alta disponibilità e disaster recovery che sono aspetti fondamentali quando dai una certa ashley tuoi clienti ovunque presupponi la tua piattaforma sia sempre accessibile sia sempre in funzione
+questo siano alcuni aspetti da considerare quando si tenta di risolvere un problema spesso si cerca di convincersi di avere quel problema che puoi risolvere con la tecnologia che vorresti provare
+di grande
+quelle domande premio veicolate nel rispondere in modo e risolvere il problema se sia snowden era anche un nostro difetto no da sviluppatore che ci piace molto smanettare e la produzione ma avere vogliamo avere la scusa per poter fare quello che ci pare da fomo la nostra
+è quella di
+tutto nuovo che salta fuori tema
+anch'io anch'io no dico è anche fonte di frustrazione non possiamo non puoi seguire tutto e quindi inevitabilmente rimane insoddisfatto e frustrato dalla tua ignoranza windows ti preoccupa posto in questo e in tutti i settori
+ventitré ormai è possibile seguire attraverso il possesso parlerà di un argomento sempre più la specializzazione verticalizzazione qualcosa deve essere fatto perché già difficile seguire solo un canone e conosciamo bene
+anche semplicemente come appassionato di tecnologia certo senso non riesce più a stare dietro a tutto quello che essere figuratevi lo sviluppo della tecnologia applicata infatti a un certo punto devi scegliere scegliere quello che vuoi fare nella vita in sostanza
+ti piace una cosa piuttosto che però ad esempio nel mio caso specifico seguire conferenze seguire turco podcast è uno degli aspetti che mi aiuta tantissimo non dico ad approfondire ma perlomeno tenermi aggiornato
+sì se esce una nuova versione di web tre zero almeno sapere cosa e come magari funziona a grosse linee senza poi entrare negli interna ass i dettagli per il culo magari può essere una competenza che vai ad approfondire solo quando ti si pone la necessità di risolvere un determinato problema come quella
+tecnologia però sono d'accordo con te è diventato difficilissimo tenersi aggiornato perché le tecnologie evolvono in
+evolvono così velocemente che dalla mattina alla sera veramente hai problemi a imparare quello che è uscito il giorno prima e diventa frustrante
+lo l'ho vissuta sulla mia pelle qualche anno fa però poi a un certo punto mi sono detto no basta devo scegliere devo capire in che ramo focalizzarmi che avevamo a spendere le mie energie perché altrimenti sarebbe stato un serio problema
+ma non avrei dormito la notte non ce l'avrei fatta comunque
+anche perché approfondendo gli argomenti ci si accorge di quanto sono sprofondata nel bianco milionario sopra di gabriele lavora su rakuten tv magari noi avete più lo usiamo quel tipo si sta la usi le code fare quelle tre configurazioni fatto queste cose le vede gabriele si metterà nei capelli diceva questa roba qui eh magari
+è per questo che è perché poi più conosci il prodotto più ti rendi conto di quanto ne abusano gli utenti o lo usano in modo sgraziato e pressapochista e più ti preti di quanto possa funzionare a volte no e quanto possa comunque in qualche modo stare in piedi
+la baracca anche se usata in modo improprio e superficiale che quello che diceva prima giovanni falcone parlare di start kickstarter non dobbiamo più può fornire le cose sappiamo tutto è esatto salvo poi quando devi e puoi approfondire
+poi una mattina apri il computer e i suoi colleghi dicono questa roba che hai fatto due settimane fa oggi ha deciso di smettere di funzionare completamente e auguri insomma i soldi da e quello è il momento in cui impari davvero a
+a conoscere qualcosa perché c'hai un po' di pepe e nel momento in cui l'esperto ci mette un minuto a risolvere il problema non è se esserci passa le giornate esatto ed è quasi sempre così e io spesso lo ripeto che c'è alla fine la differenza fra i junior e il sei
+senior è quello il senior in due minuti gli dice cosa avessi sbagliato magari volevano risolvere un problema complesso però
+hai molta più dimestichezza nella tecnologia specifica e sai cosa hai fatto di sbagliato che non avessi dovuto fare però ormai l'ho fatto e ora prometti a posto e chiaramente questa roba non è una cosa che puoi improvvisare richiede capacità trasversali intuizione sullo stampa marea di cose
+fa veramente la differenza fra risolvere un problema capire un problema in pochi minuti e perderci settimane di ricerche su stackoverflow di più liste eccetera eccetera con la speranza di trovare una soluzione ha messo a dura prova un altro sperando di trovare qualcuno che abbia avuto esattamente il tuo problema
+altra cosa tipica che vede che spesso ci si ci si abbatte davanti di errori se quell'errore non non non è una roba che cerchi su google trovi una soluzione e a quel punto dici che fai se neanche google sa la risposta e basta chiudo il computer vada a zappare la terra non c'è altra soluzione e invece no insomma devi metterti lì a cercare di capire cosa è successo
+provi a fare che ne so perturbi lo stato di qualcos'altro vedi come reagisce il sistema e materializzata una soluzione che non era documentata da nessuna parte ma comunque insomma che fa la differenza fra conoscere una tecnologia che invece aver fatto solo il quickstart aver insomma io sono curioso su operator bambini lettura
+mi hai aperto un po la sacra quando mai parlato degli usi possibili e degli abusi anche voi un po' approfondire se se se approfitto di questa occasione e secondo te la prospettiva qual è come come ci siano tre
+dovremmo usarli per che cosa in realtà grigia navi già accennato nella conferenza durante la la conferenza poi ho avuto l'occasione di parlare con un po' di persone e
+gli ho notato questa cosa spesso nei miei tour che quando faccio il tool che le persone mi fanno quasi mai domande dirette poi mi fermano dopo non capisco se capita tutti speaker oppure
+qualcosa è week end comunque a parte questa cosa e parlavo con con delle persone mi dicevano guarda c'è tizio anche discretamente famoso insomma che la pensa in maniera completamente opposta alla tua e pensa che gli operatori siamo la soluzione a tutti i problemi in senso cap
+c'è questa persona metterebbe tutto quanto su sugli opere tornano quindi è quello che esprimo io per quanto riguarda i operator e dal mio personale punto di vista la forzatura di alcuni sistemi che non nascono per girare succo permette specialmente per la persistenza dei dati invece
+io io voglio ficcare per forza perché devo far figo
+che baso su come kernel di esse quindi lewes
+per esempio non ho avuto modo di parlare e durante il mio tour però anni fa lavoravo
+un'azienda molto grande dove facevamo veramente dei quando c'era il day spa e è spie che facciamo veramente lo spinge di nuovi cluster che partiamo da zero ma completamente cluster gigantesche che partono da zero ecco lì è perfetto capito cioè tu lo metti con tre file di configurazione i digest
+si schierò spie e poi te lo ritrovi giù quando non è adatto non è adatto dal mio personale punto di vista quando tu il cluster di dati che devi è il core business della tua azienda e lo devi mettere dentro cuba kernel e suggestive opere thor che tu devi assolutamente conoscere devi saper
+per quello che fa o che perché se non lo fa se non lo conosci si può comportare in maniera diversa da quello che tu ti aspetti perché magari sei esperto di tecnologia su macchine virtuali ecco lì secondo me non dovrebbe essere usato quando non lo conosce quando è sovra dimensionata ultima cosa spesso quando
+oh si ha a che fare con sistemi di persistenza dei dati tu hai bisogno di entrare nel sessi acqua magari sulla macchina no cioè quando tu chiamaresti piai non c'è bisogno di entrare in esse si arrocca sulla veste ip però magari bisogno di entrare se si ha a casa un mese quella a meno che non vuoi esporre le porte fuori che ovviamente non stupidaggine
+sul rugby it sul captcha su mongo eccetera proprio interesse se jaha dentro la macchina su su kubernetes buonanotte deriva quello e fai cose flight search insomma tutto un casino che secondo me non è che ne vale
+che ne vale molto la pena te fai dei due macchine banche coi i fissi ai due nodi esticazzi giuseppe accetterò scavi veramente veramente semplice almeno personalmente la penso cosi voi domanda le logiche per quali come annette se celle tipo autosili
+tony danza affidabilità e tutto quanto quanto è complicato e magari irrealizzabili applicarli a cose credo che trattano dati e persiste allora c'è da
+io qui veramente seccato mi mi do veramente due minuti di tempo perché sta roba io vorrei parlare ore allora quando si parla di scalabilità non è che c'è kubernetes ti dice
+voglio scalare kubernetes dice all'operatore mi serve un po' di più di quest'estate ma il software gestisce i dati praticamente deve essere in grado di scalare sai tu se c'è un software che non senti che non ha la replicazione che non ha lo scaling che la replicazione dei dati e tu dici dammi dieci ipod con l'ordine da dio
+ma se il software sotto non gestisce ci fan chat chavez e il killer ci dev'essere il mongo che è capace di scalare ci devasti rabbit che è capace di scalare quindi l'operatore in realtà non scala il l'operatore chiede di scalare al back end dei turni dici guarda che ti sto per chiedere un altro pod va benissimo
+simo allora affido tutta la parte di join del cluster della replicazione eccetera eccetera e allora l'operatore ha senso per esempio una cosa che fa il nostro operator quando cerchi di fare lo scaling down ti impedisce di farlo perché ti secca i dati ok ma perché lo impediamo di fare perché moltissime
+persone non hanno o non non ne faccio una colpa io per esempio non so non so capace di ankara la pagina hawaii ci capisco assolutamente niente c'è o a ciascuno il suono moltissime persone non hanno idea di come funzioni un protocollo di replicazione che ahsoka kraft paxos oppure tutta quella roba lì cioè non ne hanno idea faccia scaling up
+scaling down e funziona tutto non è vero non è vero per niente che funziona roba così lo scaling sulla persistenza dei dati è roba estremamente complessa e c'è lo scaling c'è la replicazione c'è partition king e c'è la frammentazione c'è leasing insomma sono due ragazzi da tenere in considerazione che non è che l'operatore per magia
+tutto non lo fa perché l'operatore chiede di fare queste cose e si deve vedere se il baccello di zucchero posso fare o non posso
+mi fermo perché sennò veramente andiamo penso sia alla base sia penso sia lo stesso problema non è tanto il problema operai erano breve ma più in generale si sta roba che fai girare su kubernetes a e cioè alla fine si riduce sul può scalare orizzontalmente gay perché
+far scalare un'applicazione e poi alla fine non è nemmeno genere nemmeno sufficiente che tu dica gas mettono load balancer davanti e ho risolto no perché perché spesso se un'applicazione non stateless mancherà uno stato ci metti davanti allo load serie continua a non funzionare niente lo stesso ciò touch e vabbè
+e quindi va bè si riduce sempre allo stesso discorso se almeno la differenza c'è la comodità dell'operatore e il fatto di
+poter estendere di fatto le le definizioni le custom resource source kubernetes così da poter diciamo avere un livello di integrazione che va oltre il creami un pod dentro container con carri semplificazione ma dichiaro
+in modo dichiarativo vi ripeto ma non so come altro dirlo
+lo stato desiderato della mia certa risorsa che va oltre le semplici risorse che sono disponibili default su subnet ma introduca una nuova risorsa che si chiama club del rugby it tutte le volte che crea una risorsa che si chiama classe b rabbit da qualche parte in quel cluster partirà un cluster rabbit a seconda
+per le specifiche dichiarate grazie all'operato e che mantiene il team di gabriele però chiaramente non è obbligatorio che per usare rapito rinchiuso venezia devi usare l'operatore di no no
+male a usare am chart e non è lì non dichiarerò una nuova risorsa di tipo ora bit cluster va farò un altro e visto che non è myspace diverso cioè alla fine ho raggiunto lo stesso obiettivo sullo stesso cluster usando strumenti di
+persi naturalmente proprio retour c'è un livello di di interoperabilità con kubernetes molto più elevati non ho idea di come si iscrivono pereto ma m'immagino e quando sei
+diciamo nella funzione e nelle funzioni che gestiscono rio per il turco abbia un livello di interazione molto più diretto con gli eventi di kubernetes è perché stai dentro occuparmene adesso quindi ha accesso alle piaghe governare del savio che ai più diciamo controllo ma ripeto non è che voglio demonizzare operator ravioli l'utilizzo sono un grande
+senofane operator bisogna prendere coscienza del fatto che lo operator e questo veramente una battaglia una delle tante battaglie l'operatore non scala l'operatore non operatorio cerca di fare il suo meglio per garantirti che il sistema sia sempre coerente che si sta
+amate sempre che abbia uno stato
+sempre coerente per esempio se tu quando chili un pod di una restrizione pomodoro cina invece il operator magari intercetta lo stop cerca di chiudere per te nipote di salvare i dati insomma di fare opt-out poi sono operator che magari non gestiscono dati che orchis fanno orchestrazioni del deployment che sono estremamente
+perché magari fanno delle cose in più che altrimenti dovresti fare tu
+manualmente e ritornando al discorso del gatt started page attestata deployment buon prò in produzione secondo me dovresti avere la piena conoscenza di volo il falò operator e dicono che c'è dietro quel semplice gatti stata alle applicazioni moderne di oggi è semplice non c'è niente è tutto estremamente complicato e purtroppo sì perché quella scalabile
+sta lì altrimenti non la raggiungeresti con il monolite giava che the flow su tom cazzano che si depositava su tom c'ha file world
+e paradossalmente questa cosa
+ne possiamo parlare un riguardo al fresco che ora io sono due anni che ci lavoro insomma no non sono un utente esperto di alfresco ma chiaramente solo tutte le salse con cui si stalla e al fresco è un vecchio monolite giava che nel tempo è stato diciamo cercato di essere portato verso un'architettura a microservizi quindi ci sono
+alcuni componenti
+che possono scalare orizzontalmente ma il cor tuttora è un'applicazione spring e si che impiega tre minuti per fare il boot anche su un nodo fisico font sedici ore
+di sì e vabbè la scalabilità cee relativa cioè non posso gestire i picchi di carico facendolo suonare un pod per qualche minuto e poi chilo no perché gli dicevo due tre minuti solo per poi fa partì la cbm e iniziare a rispondere a qualche a qualche richiesta e poi anche lì c'è tutto il tema della
+della della cache condivisa che viene fatta con con jase il cast e quindi li in realtà golf questo processo ava metti come prima cosa in comunicazione nodi con jase il cast è anche quella non è una roba che viene proprio magicamente no
+problemi che non c'erano problemi insomma è una roba abbastanza complicata è però diciamo o al giorno d'oggi di alfresco tu puoi comodamente fare l'installazione con ansible su nodi fisici o macchine virtuali o avere l'installer
+zione su supernews chiaramente le limitazioni sono documentate quindi scordati la scalabilità automatica insomma non esiste puoi fare cioè si continua a fare anche su benefici vecchio lavoro che facevi prima q un sistemista del famoso ridimensionamento dimmi il traffico che ti aspetti di numero
+i documenti che pensi di voler mettere su questo repository e io ti dico quanti nodi con quanto aram lì chiaramente kubernetes non ti aiuti semplifica alcune cose come può essere la gestione che ne so operativa dei nodi non stai a preoccuparti come facevi prima a chernobyl monastery cebu deve così via
+quella cui prima di coop nordest risolve ma non è che ti rende automaticamente scalabile la sua applicazione se l'applicazione non è una roba che quindi bastano infatti giovanni southbank ban imposto al flusso su kubernetes cosa dei bottoni giganti in cui gira il cor
+giada tra ipod e enormi del repository calcola che il vecchio che la cuddy facebook è la più vecchia e sono davvero tre minuti per partire almeno due giga di ip solo per falso solo per vivere e poi una marea di altri pod
+che ne so chieri componente che si occupa di trasformare i documenti e quella è una roba chiaramente scala orizzontalmente c'è un c'è un componente che fa da roger che smista le richieste di conversione documenti a diversi componenti uno che ne so una implementa image magick un altro implementa
+i playoffs questa roba qui chiaramente scala e davanti se c'è una coda che non era bit menu ma in out perché anche lì è una roba che esiste da più di sei anni quindi no non ti usa tecnologie nuove ma utilizza ancora il buon vecchio al film più più un paio di applicazioni web per l'inter fa
+faccia più il componente server per i client desktop che tipo per fare la roba tipo dropbox per capirsi
+e quindi sono tutti questi componenti che non fai neanche scalare alla fine perché non è roba che ti interessa alcuni di questi nemmeno ti interessa e che scalino perché magari una roba che riceve pochissime richieste e se sta giù un quarto d'ora
+non si offende nessuno credo ed è tutto a posto insomma è un po' complicata la situazione non è e non è così così semplice però comunque gira su kubernetes ci sono clienti che lo usano su kubernetes perché per alcuni per alcune ragioni ha senso che sia sul po ma ovviamente non è la soluzione a tutti i mali non è che perché l'hai messo su kubernetes
+allora diventa immediatamente blanca
+e ci puoi far girare tipo facebook non ci faccio il sito web dove chiunque si registri e cari propri documenti senza pormi nessun problema di scalabilità non è così perché ovviamente più e sempre più complessa un sommario il mondo invece volevo lanciare o quest'altro ma c'è una domanda io alessandro al tuo posto lightman
+il da fare il presentatore io sto vedendo praticamente negli anni io spero veramente andare in pensione fra due tre anni soprattutto coglioni però sto sto vedendo una forte carenza di sviluppatori che cominciano a dimenticare cominciano a non lavorare più sul basso livello no nel senso a
+anche perché ricordiamoci sempre che possiamo parlare governare adesso siamo parlati qualche cacchio di bar ma lo stack di cdp è anziano per quello e quello a cavallo e sfortunatamente sono moltissime persone che non lo conosco ma ripeto non perché io sia bravo o altri o semplicemente arcachon lavori diversi però antonio prima diceva
+capito che ci sono milioni di stecche accorge che vanno studiate magari l'azienda non c'è tempo di vedere un pò basso livello però con il tempo secondo me si sta perdendo queste questo tipo di conoscenze d'interesse come diciamo side effect qual'è che ci sta pochissimo programmatori di basso livello tendenzialmente anziani come me
+ne partiti a robe così e si si perde tutto questo va un po' in contrasto capito con lo scrivere magari un protocollo ptp ptt fino a arrivare al container che ti scalano milioni di ipod eccetera eccetera voi come vedete questa questo gap cioè il fatto che
+comunque molte persone ignorano completamente ecologiche stockton bene o male un ma però non me ne frega niente o lo ignoro
+è il vostro punto di vista su questo questa cosa io ho un punto di vista di uno che non sa di cosa stai parlando però il punto di vista ho capito quello che chiede è quello che vediamo tutti i giorni
+il tutta notte e come usiamo internet ma quelli che usano internet ad essa i mia figlia a casa tardi
+nell'ipotesi di eventi cosa è stato diventano waffle
+neanche io tenete il file
+boh forse non sarà molto brutto ma così emad di fatto però è la roba
+amo i protocolli roba di basso livello si iscrive ancora cioè nel senso che ci servono sviluppatori c'è bisogno di gente non ha capito che le cose nascono dal dal nulla tempo fa parlavo con una persona che mi diceva ma perché non hai utilizzato questo framework per fare questa libreria tu non hai capito noi siamo alla base
+di quelli che poi vengono sviluppati sui free work non possiamo usare framework per fare le cose noi siamo la base sul quale poggia il free work sul quale poi si ricostruiscono le cose c'è un cazzo di senso questa questa cosa cambia in tema di udine
+io vedo è uno completa un completo disinteresse probabilmente per la complessità su questi argomenti ma sono argomenti che vengono insegnate alle università fortunatamente sia un mio nipote che sta facendo informatica e hanno un professore che mi ha fatto fare degli esami in cina
+blair
+veramente interessanti ti parlo di me ma secondo me non perché sono così lungimiranti
+salute malattia livello
+voglio solo quello
+sad perché non sono mai arrivati oltre a hockey anch'io anch'io all'università mi facevano i corsi di chi mi spiegavano il qui e per fortuna insomma di soma secondo me sono rimasti a a quei livelli con che ora va battute a parte io credo che comunque questa stratificazione
+dove io mi focalizzo su un ambito solo e non sto troppo a pensare a quello che ci sia sopra e sotto di me penso sia comunque un segno di di progresso no perché chiaramente per una singola persona essere full stack si dice spesso il full stack non esiste è solo una figura mitologica per
+portare gli è cara far credere che uno possa fare tutte le cose che non sai fare niente però
+ma cerchi di barcamenarsi come meglio puoi
+e insomma è sintomo di innovazione somma di avanzamento tecnologico cioè le cose ora sono così complesse funzioni in questo modo qui nonostante non ci sia una singola persona che li possa capire che riesca proprio fisicamente a comprenderle dal basso livello fino fino a quello più elevato dall'altro lato
+me ne dispiace perché tutti i giorni ha anche a che fare con dei frontend engineer che qualsiasi problema ci sia all'esterno della sandbox del loro browser non hanno la più pallida idea di cosa sia e se è solo un problema capita non distinguono una roba da un problema che ne so
+allora c'è la network intasata la latenza elevata da si e no lo distrutto il cluster kubernetes rotto tutto per un aggiornamento no semplicemente non va giù stavelot è ogni tanto zaman vi lascio sempre un po' un po' perplesso della serie matt ma insomma
+force fianchi un minimo di capire
+quello che succede intorno a te non ti dico di avere la competenza di chi di risolverlo perché ci saranno altre figure elaborare insieme a te che invece sono più focalizzate su certi aspetti però nemmeno da dire e se non funziona la roba che non gira nel mio browser non ho la più pallida idea del perché del percorso di questa roba
+poi spazia perché oggigiorno essere sviluppatore software non può dire scrivere solo codice vuol dire capire qual è il problema da risolvere
+decidere come risolverlo non picchiarsi con i propri compagni nel team potere di decidere assieme qual è la strada migliore da fare
+mantenere mantenere insomma un backlog nathan's liste che un'altra roba uguale che c'è che non è scrivere codice e poi mantenere una siae saper scrivere test saper decollare l'applicazione c'è tutto uno spettro di competenze che oggettivamente non è soltanto scrivere codice già
+javascript di questa roba è comunque una roba che viene richiesta perché non è che io sono the woods engineer padova aggiustare la siae a tutti i repository di alfresco no ognuno si mantiene la propria massimo viene a chiedere consiglio ma ma anche tu frontend engineer se la suona si fa schifo è
+colpa tua non è colpa mia è però te la devi aggiustare la devi far funzionare perchè poi se sono già tre volte che fai una release per tre volte ancora non sei riuscito a far funzionare la formazione per aver pubblicato l'artefatto in automatico la versione giri su deposito insomma a un certo punto è un problema tuo un somalo dovrai
+preoccuparti di risolvere questo problema non è che possiamo far finta che non esiste che esiste soleggiava e questo è un altro problema secondo me del del rischio di essere troppo focalizzati solo su su una cosa solo se se dovessi dire la mia
+fontana giovanni perché effettivamente ci sono dei pro e dei contro
+personalmente gli esami che mi sono piaciuti di più all'università visto che si parlava anche di università e che effettivamente mi hanno lasciato qualcosa sono stati quelli su cui si parlava di
+aspetti legati molto non tanto al linguaggio di programmazione quanto più a te ne so come scrivere un algoritmo a come è fatto un sistema operativo a come sono fatti è fatto le reti di calcolatori quindi sono quelli un po' gli esami che mi hanno lasciato le basi che oggi giorno ricorda ancora lucidamente rispet
+che ne so all'esame o con qualcosa di sì plus plus dove magari licei ci sono più i tecnicismi che è anche più difficile da ricordare volendo fare questo paragone sicuramente il fatto che ogni giorno ci siano sviluppatori e persone al nostro campo che non abbiano la più pallida idea di perché che ne so il protocollo
+tipi funziona in quel modo e persone invece che lo sanno è una disparità che a mio parere è importante non ti consente poi in determinati settori di avere quella noleggio necessaria per poter fare bene il tuo lavoro se la dovessi però vedere da un altro punto di vista
+quello dei pro in sostanza diciamo che ogni evoluzione tecnologica ha fatto sì che per ogni gradino salito sulla scala infinita per così dire ci ha dato la possibilità di raggiungere il gradino successivo quindi magari ogni giorno noi non ne sappiamo nulla perché non è il nostro set
+tu non puoi perché delle tecnologie sono ancora acerbe non ne sappiamo nulla intelligenza artificiale di metaverse così via però possiamo anche ipotizzare che le persone che stanno nascendo che nasceranno a poco avranno comunque una competenza molto più alta di noi su tecnologia di questo tipo che per noi si conosce
+siamo under the hood magari niente non sappiamo utilizzarle così bene saremo un po' i boomer della situazione non un certo punto di vista perché effettivamente le persone che magari sono nate dopo di noi e che hanno visto queste astrazioni che in realtà noi stessi abbiamo costruito noi con tutti i vari framework tutti i linguaggi su un'astrazione che
+che hanno consentito e consentiranno nel futuro di arrivare a ideologie e soprattutto a tecnologie che magari noi stessi ogni giorno non potevamo o non possiamo ancora ipotizzare quindi è un po un
+è uno stimolo
+in questo contesto però secondo me è necessario avere questo dualismo perché altrimenti non si può generalizzare suo nome dicendo è un errore oppure è un bene e credo che debbano coesistere insieme queste due cose per far si che poi ci sia sia progresso che ci sia
+una delle fondamenta per costruire poi quel promesso poi nulla vieta che la persona che ne sa qualcosa di mi attraverso dovrebbe conoscerne anche la storia e per esempio a contenerne il turin ha fatto michele è stato molto bello e si magari giocherò qualcuno in sala che aveva quelle competenze però c'era anche qualcuno che
+non sapeva cosa fosse da da da due fosse nato tutto ciò dai concetti di virtualizzazione dalle piene del kernel di linux e sono state aggiunte quindi hanno consentito di avere determinate funzionalità per poi creare container quindi
+un abito così gravemente malati o per collegare quello che vedete ogni tanto mi domando quanto delle cose che ho imparato che sta imparando mi servivano mi serviranno in futuro è ed è sempre un
+guardarsi allo specchio e non capire cosa stai vedendo perché ci sono cose che magari io faccio sempre l'esempio dei comandi esatti di tiket zeta e così via per chi sa e si ricorda o usati ma adesso che ti sei adesso puoi tranquillamente vivere senza saperne nulla neanche che cosa sono forse più giovane qui non lo sai
+no e non ne faccio va bene così perché tanto non gli serviranno mai è la stessa cosa vale per parecchie altre tecnologie poi è vero che ci sono le fondamenta no chat cosa ci sono imprescindibili se tu lavori su internet non puoi non sapere principe anche se fa il front-end quello per me è una splendida skyline come l'inglese le conosc
+scienze minime che ti serve se poi altre cose vanno nascono crescono e diventano obsolete come starci dietro saperle non saperle diventa bene con questa nota di ottimismo e
+sei beta e poi non so se vi capita ex contendente parte di questi
+come frustrazioni in termini di apprendimento di nozioni chiama lesse poi esperienza poi a volte si dice anche se per me è un'esperienza che non ti abbiamo parlato del container dei parliamo anche un po' devsecops nave anche se poi qui e forse antonio tu non c'eri non se non si è trattenuto
+ti sento ci hanno siccome siamo stati noi ne abbiamo viste tutti fossero abbiamo visto come come speaker e tendenze della sicurezza harness sboom ormai sa niente e ragazzi sbobba due anni fa non esisteva non esisteva neanche la parola quasi non esisteva nel fango e nel mondo a tinos non
+era un concetto esistente e poi loco
+di conseguenza tutto quanto due anni o due anni no è iniziato due anni fa che verso dicembre venticinque dicembre due mila undici credo e ventuno che è venuto fuori il bubbone foggiani porge il secondo me se una bella l'ha spiegato bene
+gianluca nel primo solco che diceva del permetteva il focus sulla frequenza di questo tipo di attacchi che fino a qualche anno fa era una roba che ne parlavi e se ti andava bene e sentivi un all'anno e poi invece negli ultimi anni che è diventato un problema perché è un problema si
+veste non più una volta l'anno forse ma quasi a distanza di mesi uno dall'altro quindi chiaramente c'è stato un incremento e gli attacchi di questo tipo qui che riguardano la saprai cane e quindi adesso il risultato ovviamente è che tutti parlano di sap la scena tax infatti tipo
+la metà degli dei tool devsecops erano tutti incentrati sulla sulla sabbia e cene tac è che un po potrei anche dire che erano anche troppi e senso
+poi soprattutto quando introduci l'argomento tutti portano dallo stesso punto e poi magari prosegue in un'altra direzione ma io mi sono reso conto che dopo il quinto zoe sulla sua plancia in attacchi primi cinque minuti di zoe non li seguivo neanche perché tanto erano tutti a ripetere la stessa introduzione però diciamo non enzo
+ma una cosa casuale insomma il problema c'è il problema è grosso
+la risposta che deve essere data ramallah l'abbiamo vista con le diverse iniziative che ci sono per cercare di arginare il problema dei placche in atac sicuramente non è una roba che l'anno prossimo fra due anni sparirà quindi semplicemente è un pezzo che prima non c'era
+e che da oggi ci sarà per sempre perché non credo che da domani smetteranno di cercare di compromettersi le supply cane a meno che tutti non diventano bravissimi a mettere in sicurezza le proprie specie in quindi non ci sia più spazio più superficie di tacoma ma non crea
+alle aziende con che velocità si muovono quindi qualcuno si muovono più velocemente qualcuno più lentamente quindi sarà un problema insomma presente come come parli oggi come abbiamo sempre parlato del perché devi fare
+sia perché devi scrivere test perimetro applicativo da oggi ci sarà anche questo nuovo aspetto che cerca di essere sicuro che di artifact che produce e distribuisce telecaster siano veramente quello che ti aspetti e non il risultato di una compromissione della samp questo penso sia poeti assunto
+splash cena insieme dipenderà in larga parte dell'hardware e poi sale su fino a il tuo software contro le l'indipendenza e le cose c'è chi tiene un filo e tiri fuori tutto e poi intendiamoci l'aggiornamento di tutto il fatto che tutto sia vulnerability free almeno non vulnerability free
+voglio vedere come sarà in che contesto però quantomeno che ci sia ci sia un problema riconosciuto e delle soluzioni che si cercano di
+implementare per una
+cosa quindi ci sono tanti argomenti per la prossima edizione days
+act questo mondo si autoalimenta l'informatica è un gigantesco blob di informazioni che si autoalimenta e ogni cio
+se ci pensate noi facciamo conferenze si scrivono libri e articoli commenti post tutto su software su ufficio di software che roba scritta da umani oggi oggi si sveglia non towers qualsiasi un un francesco toraldo qualsiasi iscrivo
+un pezzo di codice su quello dio voglia un giorno c'è gente che ci scrive che ci farai maga discussioni ma di cosa stiamo parlando questo è un
+una generazione infinita di problemi di problemi sui cookie e le istruzioni vaga e discussioni e poi appunto a volte le soluzioni non ci sono però se ci pensate troppo troppa gente che fa le live su youtube o podcast è esatto se adesso in questo momento ce ne sono tre o quattro di laici non dico che
+sei seguire però che so che esistono e sono di gente che stimo e vorrei
+nome se nessuno
+eh va bè diciamo neppure tanto la concorrenza
+problema
+e siccome così ragazzi l'informatica è questa quindi è tutto buono per il ruspa che può organizzare nuove conferenze su nuove cose o avere argomenti all'infinito all'infinito l'altro giorno la mia manager mi ha fatto un'osservazione molto intelligente mi ha detto lei ha un fratello
+ingegnere elettronico o roba del genere lei mi diceva il software giustamente noi abbiamo possibilità infinite mentre il fratello se non arriva l'hardware è fermo cioè se non arriva il sì di ciò
+nessuna parte invece ne possiamo andare avanti per secoli praticamente già con quello che abbiamo perché
+presente infine non dobbiamo aspettare niente insomma ecco perché come diceva il cucciolo è tutto nella nostra testa esatto è agitato e noi non dobbiamo aspettare il componente garrivano dobbiamo aspettare il pezzo non mi aspettare niente abbiamo semplicemente scrivere e inventarci walk of life
+si già spunto di te
+bello ma un po' come si diceva prima non la fa
+homo e comunque questo fatto che è un campus del sapere quasi per definizione in continua espansione quindi esponenziale espanse after progetti protocolli problemi sono abed c'è
+per tutti mi chiamano risultato positivo va bene così il futuro è roseo
+di una cosa sono abbastanza certo non penso che l'intelligenza artificiale ci ruberà il lavoro da sviluppatori per lo meno brevi manu o demanda in pensione
+lupo lupo la paura di tutti i tipi i ladri di chi fa le foto di goodwin
+probabilmente aveva paura di tutti questa questione probabilmente alcuni lavori con l'intelligenza artificiale andranno sicuramente si ridurranno come lo è stato il ventidue venditori in cipro venivano però da
+cambia cambia va bene so che bisogna accettare con la tecnologia shadow sette bisognava mettersi
+prima lo accetti prima sepolto a cambiare se invece stai fermo sulla tua posizione fino all'ultimo è come la storia ho sentito dire a proposito di podcast è un podcast che racconta alcune storie di fallimenti molto importanti ma c'è stato il tizio del blackberry vi ricordate
+calcio colonnello della sfera eccolo lì presenti che fece un botto vi ricordate oggetto luogo spiegarsi blackberry eccetera è il tizio che è stato sostanzialmente un un visionario non ha voluto cambiare l'impostazione e quindi è praticamente collassato perché è restato fermo sulle sue
+posizioni il mandato avanti un giorno si presenta a ford puma ha spazzato via tutto quanto perché glielo avevamo detto e lo facciamo il touch screen facciamolo tipo quello era lo smartphone di tecniche e invece lui ha voluto restare su quella cosa lì poi lui aveva anche se non ricordo male l'email dedicata con dei canali dedicati
+cambiare una virgola ed è collassato punto il discorso di restare fermi sulle proprie posizioni sbagliatissimo assolutamente sbagliato quindi una corsa continua senza fine
+qui come dei criceti nella ruota continuiamo a girarci intorno e intanto mangiamo consumiamo reagiamo
+alcool
+ma ti immagini se no che noia sarebbe ti alzi la mattina e non devi fare niente che cosa fare secondo me te alessandro staresti tutto il giorno a fare live
+nastro youtube a parlare di come era bello una volta eravamo sulla sua energia asili suo lavoro quando bisognava lavorare per guadagnarsi lo stipendio invece di non fare niente perché tanto c'è intelligenza artificiale che procaccia il cibo per noi inizierà dell'intelligenza artificiale
+che risulta più efficace per l'avvocato e comunque tecnici di basso medio livello sei bravo o meno ti sei posto visto quindi riesca a che pesca da un bacino che è già pronto e c'è un'intelligenza artificiale che si autoalimenta proprio perché può uscire da qui schiavitù se puoi uscire da questi schemi
+il test sta bene e si libera
+aiuterò tanto però per fare la differenza scordare sempre bisogno di pensare ma tu la soluzione c'è puoi
+per cosa la usi usi proprio medico personale
+bravo medico ben venga la usi per fare qualcosa di creativo qualcosa dove serve l'intuizione piuttosto che qualcos'altro lì si ferma si parla eppure è la possibilità di accedere a questo corpus gigantesco di informazioni che chiunque umano non ha senso è vero magari non c'era la genialità del progetto
+e ma già con iren la dignità della persona normale e in più l'accesso a tutte le informazioni possibili immaginabili
+premessa può fare in nessun blog io mi sono reso conto che
+sempre usando chat gpd nonché alla fine ci interagisci parlando e alla fine secondo me fa ti fa anche un po' da psicologo nel senso che magari non è che ti dà se ti fa una domanda non è che ti dà una soluzione pronta subito nozze se il problema è complesso però comunque magari ti aiuta molto
+facilmente a a darti gli spunti per poi farti elaborare a te a una soluzione quindi quel caso lì comunque ti sta aiutando a raggiungere quell'obiettivo che puoi e raggiungi da solo ma non è che
+ce l'hai eccome puoi passare cogliere la calcolatrice esatto esatto è un po' un po' c'è alla fine comunque è già da un po' anche grazie ai motori di ricerca tu hai facilmente accesso a tutte le le informazioni no tramite michele su internet sull'interfaccia secondo me anche questo non è vero questo è vero
+per chi
+ha delle capacità degli skill tecnici
+ah è vero se quindi vuoi dire in questa chat mi ci metto anch'io nel senso che siamo tutti molto svegli allora ripartire le informazioni su attraversò il motore di ricerca alcune persone luoghi nuovi
+gli ha dato questa tesi non sto facendo la battuta del motivo per cui ci pagano uno stipendio
+le ricerche su google mica per programmare quello è solo una conseguenza di e james hetfield disastro
+e invece no effettivamente sì la capacità di interagirci parlandoci
+e soprattutto il mantenerti un contesto con le domande precedenti insomma sia a fini meglio la ricerca facendo quello che normalmente fai quando parli con qualcuno se io e te stiamo però di un argomento e non ci capiamo di farmaci su altre domande più specifiche tu mi spieghi meglio il tuo punto di vista e alla fine insomma
+arrivi per derivati strade a raggiungere un accordo che è il risultato della mia conversazione precedente con te vero c'è anche da dire che spesso ti danno risposte sbagliate c'è un mio amico che smanetta parecchio e gli piace proprio andare a un volare per così dire l'intelligenza artificio
+si è trovato in alcuni circostanze in cui la risposta ricevuta ad una domanda era sbagliata poi perché il modello non onestà non era stato trainato bene oppure vuoi perché le informazioni non erano ancora state aggiornate no perché quando noi utilizziamo chat it gp
+io comunque modelli questo tipo dobbiamo sempre ricordarci che sono modelli trainati fino a una determinata datano al training di questi modelli può anche richiedere parecchio tempo oltre che risorse risorse abbastanza dispendiosa è però a mio parere l'intelligenza artificiale non può mai sostituire l'intelligenza
+naturale almeno fino a quando non si suggella
+il problema di turing quindi superarla superata quella il test c'è un autore di libri molto famoso e short sto un po' un luminare nel campo dell'intelligenza artificiale di cui leggo il nome dal libro ray kurzweil della pronuncia non
+che la pronuncia sia questa e lui parecchi anni fa ipotizzo che nel duemila vinti nove insomma tre nel duemilaventinove duemilatrenta circa le intelligenze artificiali riusciranno aria a risolvere il problema di touring non so se accadrà
+però è interessante appunto che ci sia una anche una ipotetica stima solo su questi aspetti però a mio parere duramente ci possono risolvere aiutare a risolvere un sacco di tasca velocizzare ottimizzare quello che il nostro lavoro ad oggi non lo vedo come un assessment che andrà a sostituire del
+tutto ma più che altro saranno complementari okay ricordo quando ero piccolo uno dei primi film che mi ha avvicinato al mondo dell'informatica è stato johnny mnemonic non so quanti di voi l'abbiano mai visto lo conoscano
+e mi piacque tantissimo quest'idea di avere la conferma da ridire però il fatto di avere un qualcosa che ci rendesse
+migliori ma in un certo senso la trama del film qual è è che questo tizio ha una sorta di artisti impiantato nella testa il wiki è un trasportatore di dati ruslan vediamo da un altro punto di vista ovvero quello di come andare a utilizzare la tecnologia per migliorare o incrementò
+dare quella è la nostra vita la qualità della nostra vita perdono ancora un hard disk che scadenza tempesta però
+con un qualcosa che ci aiuti realmente noi ipotizziamo a tutte le disabilità quanto il mondo dell'intelligenza artificiale siccome al mondo non lo so ma salutandoli delle protesi possa aiutare a
+le persone che abbiano una certa disabilità sicuramente un aspetto che secondo me importante da considerare io mi piacerebbe vedere sempre più evoluzione ma è questa l'informatica che mi piace è questa l'intelligenza artificiale mi piace quella che mi consente un giorno diviene una sorta di essere umano ibrido che faccia del bene
+serra per scopi buoni e non tanto per scopi negativi o comunque verrà distruzione non come in tanti film spesso si si ipotizza of silence
+sicuramente si vede la distruzione non serve l'intelligenza artificiale ci riusciamo benissimo
+scomodare nella dirigenza vanno infatti non volevo arrivare a questo punto però hai ragione tu su quello già siamo bravi e non abbiamo bisogno di ulteriori strumenti effettuare detto andiamo sul seminato che l'intelligenza artificiale se non arriva come il prezzemolo in tutte le discussioni di questo mondo un po' come
+internet e agli inizi degli anni fine anni novanta
+voi cosa fate attivamente nel vostro lavoro per fronteggiare come insicurezza che tutti dicono esistono tutti dicono come affrontare e risolvere poi bisogna vedere come non affrontati come voi che fate queste tu che fai il devops ingenia in alfred
+esco è quindi proprio io non dovrei essere il primo allora in alfresco tutta la parte di analisi statica e delle dipendenze open source viene già fatta da tanti anni con usando un software che si chiama veracruz che è uno dei tanti
+tu l' enterprise quindi diciamo quella parte lì viene c'è questo c'è questo repository che mantengo io che praticamente ogni notte dirigerà una scansione di tutte le snapshot degli ultimi artefatti di boiate spietate giorno prima e c'è questa gestione centrale
+usata perché nel tempo nessuno ha mai avuto voglia di gestire la scansione sui singoli requisiti quindi c'è questo mega repository che invece si scarica tipi di artefatti e li su superfood supera cody viene fatta la scansione poi per ogni componente viene generato un report
+dove hai sia impossibili problemi di sicurezza legati alto codice java che è scritto male che è a bug sicurezza sia a dipendenze open source che magari sono state e contengono problemi di sicurezza in quel caso lì nel caso in cui venga rilevato un
+problema sicurezza viene aperta in automatico naif show sul sul gira su water team che gestisce quel quel componente lì e viene gestito come come ticket a priorità elevato che il pd ci sono delle slot rispettare a seconda della gravità ma tendenziale
+mente problema di gravità media uno che dev'essere fissato
+mi sembra almeno entro trenta giorni insomma dal dalla segnalazione e e questo poi alla fine è perché tutto quello che si è parlato di nulla nella conferenza quindi che ne so
+l'integrità delle immagini dopo che la firma il fatto di avere la pipeline
+bollinata per essere insomma quella provenienza sicura questa roba qui è tutto per ora è tutta una bella idea e fare in futuro lavoro però se per te e soprattutto poi la differenza diciamo grossa di alfresco è che al fresco in questo momento gli artefatti diciamo quelli che vengono supportati
+tanti sono solo i gli zip della distribuzione non le mie doppie immagini dove vengono pubblicate solo come reference e e quindi non nota non vengono mantenute attivamente questa è una cosa su cui io mi scontro tutti i giorni che secondo me invece una cosa che dovrebbe essere cambiata perché siamo nel duemilaventitre secondo me sono
+più importante le immagini docker che gli zip e di distribuzione ma questo va lo fa
+ti spiego insomma il fatto che al fresco comunque sia la tipologia di software un po' proveniente dal passato e che comunque si cerca spero migliorerà insomma il futuro io sicuramente sarò follia a cercare di migliorare stessa cosa fate non sei totalmente sprovvista io no io di continuo va al lavoro tutti i giorni e asciuga il sudore sblocca
+antonio da voi eravate voi lavorate su ambiti diversi però insomma la sicurezza che vada un po' tutti per quanto ci riguarda come vi riguarda è cosa fatta
+allora come anticipi noi lavoriamo su ambiti diversi nel senso io lavoro per due aziende diverse
+in una di queste facciamo un pensionante consulenza life tool possiamo suggerire al
+alla cliente ma spesso capita che tour vengono suggeriti dai team di security extra in te stesso quindi leggermente ci adattiamo e lidi dipende molto da quelle che sono le tecnologie che il cliente usa internamente noi per la nostra azienda una delle due
+abbiamo un applicativo che gira su cluster kubernetes è principalmente facciamo analisi sta utilizzando sonar sonar hub è uno strumento che appunto si integra bene con quello che la nostra il nostro ciclo di vita dell'applicazione
+visto che la nostra applicazione quindi nostro cluster gira sui suoi giorni perché per tutta una serie di motivazioni di kim e di conoscenze del team siamo andati su e hurrah e lì all'interno di isole esistono una serie di strumenti gente
+non voglio fare la marchetta
+sto semplicemente dicendo quello che usiamo è all'interno di edificio esiste un componente che si ama
+signori si sente rallentarsi giurista e mentre ci sono vari una serie di strumenti tra cui
+il lo scanning dei container che ti aiuta a identificare se nelle tue immagini questo va in abbinamento appunto alla l contiene registri chiusi o ti dice senza un ma ci possono essere dei problemi a livello di immagini che usi ultimamente stiamo anche valutando un poco dana non so se lo conoscete
+pulled up brains che fa analisi storica del codice non credo che al momento abbia ancora qualcosa che riguarda la luce lo screening dei container ma sicuramente una serie di
+elementi che consentono di analizzare il proprio codice nei confronti delle cibo e più comuni a quelle delle database presente su internet e quindi da quel punto di vista stavamo valutando anche se questo tool
+può aiutarci di più rispetto a suonare sebbene suonarci ha uno strumento molto
+come dire completo e anche di facile implementare facile integrazione all'interno di iris by al bando un qualcosa in più semplicemente perché ci piace certe volte sai fare degli spot che vedere tecnologie nuove o comunque strumenti nuovi gabriele come ti tocca a te invece tu
+allora noi lavorando su un prodotto diciamo che rabbit non abbiamo
+molte dipendenze esterne anzi diciamo che tendenzialmente la regola base non dipendere da evitare il più possibile le dipendenze esterne perché una dipendenza o può generare
+a problematiche quindi noi in generale le nostre librerie specialmente il cuore
+ricordo un po' di anni fa ed duomo aggiungere una libreria per fare alcuni controlli solo sulla memoria è stato un processo di validazione lunghissimo prima di metterla prima di metterla dentro quindi non
+amo michael abbiamo una serie di validazione abbiamo una serie di test abbiamo i long running enviroment che sono sempre aggirare lì per vedere se tutto quanto opposto alla sicurezza eccetera eccetera
+però non è che abbiamo noi una architettura che dobbiamo ridare jo è un po' un po' diverse poi leggo una cosa che che abbiamo noi non sopportiamo molti protocolli e e tendenzialmente diciamo del protocollo più attaccato e quindi quello che ha dato più
+non dico problemi e ovviamente la cdp è la persona che ha scritto il web server che gira dentro rabbit che si chiama cowboy perché magari ha sentito kerrang adesso lavora nel nostro coach team quindi praticamente sta leggendo cimelio
+chi meglio di lui e
+e quindi se ci dovesse essere qualcosa comunque viene viene risolto immediatamente tutte le
+i bug di sicurezza ridotti che abbiamo trovato erano sempre sulla parte ctp ma in minor parte poi c'è da dire moltissimo che abbiamo una grandissima comunità che riporto sempre quando vado in giro insomma a parlare anche di di di rabbit direttamente e indirettamente tipo abbiamo una media di ventiquattro ventisei
+milioni di download a settimana sui container sono dati pubblici è ovvio che ci sono ne sia hai tutto quanto prodotti amnesia ora su questa base così grandi numeri c'è anche la comunità ci dà una bella mano nel senso che considerando tutti considerando gli l'utilizzo così
+devastante che viene fatto di the rabbit se ci fosse un bug di sicurezza grave praticamente te ne accorgi tipo butterfly effect no per questo noi rilasciamo le versioni in le lasciamo in beta insomma c'è tutto un processo molto lungo di validazione sia interno con una serie di test che vengono fatti ma abbiamo un team di persone
+che possono west fai test non solo di sicurezza ma di regression test di test di performance eccetera eccetera fanno solo ed esclusivamente questo e poi la comunità comunque ci aiuta e devo dire che spesso con anche con delle purghe west che risolvono leven
+tuale problema ma ripeto di tutti i problemi restano tutti solo esclusivamente sulla parte a cat dp ma
+a rabbit di default e mqb non è
+curiosità quante persone lavorano su rabbit se c'è
+almeno fissa e fit giudicate sono rabbit poi magari immagino allora
+come numero di sviluppatori oddio forse faremo ma in poco meno di venti però siamo divisi in input team c'è diciamo e in più team siamo tutti microteam che un pochino ci scambiamo io in questo momento mi sto occupando da parte dei nuovi driver per apart streaming e nel mio team
+siamo due tre persone poi c'è la parte di test c'è la parte diciamo di core spartire cut quella esperta della parte di streaming quella del quorum quello che era il database e cerchiamo di
+di mescolarci un po' poi da lì c'è tutta la parte diciamo di supporto di primo livello secondo livello terzo livello il nome di quante trasferirsi però sviluppatori non siamo tanti dubbi a me al netto che siete parte una società più grande quindi ma il modello di business come sudore dove arrivano le entrate per quanto riguada rabbit
+allora prima arrivavano da una piattaforma cloud di vmware
+parte arrivano ancora dal league ci sono clienti che pagano questa gomma un'altra parte arriva da
+clienti che pagano l'assistenza con diversi con diversi modelli insomma o comprano la piattaforma oppure semplicemente pagano l'assistenza piedi rabbit perché vogliono essere sicuri di avere umano una risposta è
+biolchini un'offerta tipo enterprise che l'open source con con qualcosa in più intorno se c'è un'offerta che si chiama tanto rob team più che il software open source è sempre quello cioè non non cambia quello che do sono alcuni plugin che permettono alcuni plugin che solamente sono a pagamento che permettono di fare la reply
+locazione
+world wild di diversi cluster la replicazione la sincronizzazione di diversi cluster che ce l'hai solo diciamo in queste
+in questo scenario così
+alessandra hogan
+parecchi parecchie persone per un progetto open source ma è comunque rabbit
+devastante come cosa perché come dicevo ci abbiamo il protocollo mcphee ci abbiamo stomp world stomp out per esempio andiamo amore
+fornisce tutta quanta la parte di cloud cloud meeting occuparne netjets prometheus tutta quanta integrazione con i sardi
+discovery e poi siamo praticamente presente in quasi tutti i marketplace dei cloud quindi il cloud che ti chieda una cosa cloud e te ne chiede un'altra quindi
+siamo somma
+presente un po' da tutte le parti a livello di share di mercato sul message ewing come siete messi quali sono non ne ho idea allora
+diciamo che come competitor
+il competitor più diretto a livello di protocollo active mac tim cook non ha un grandissimo mercato molti fanno la comparazione con rafting più con captcha che secondo me lascia un pò il tempo che trova perchè sono due cose un po' diverse adesso noi abbiamo integrato lo streaming lo streaming adesso assomiglia molto diciamo a quello che può
+dovrebbe essere tasca però noi sinceramente internamente john e che sentiamo questa paragone con con captcha anche se si vedono milioni di tolkien capito milioni di blog post rob team rabbit verso scafa dal mio punto di vista sono due cose diverse ciò non per l'app sullo streaming quello sì
+rispetto a cosa ti bonazza come
+nats un sistema di streaming che ha le sue particolarità e
+streaming che i messaggi vengano se volessi sia più streaming la particolarità di di rabbit era estrema complessità del ciclo di vita del del messaggio
+un'altra particolarità è l'estrema semplicità di installazione apt-get install questo è sempre stato un punto fortissimo di rabbit col quale cerchiamo ancora di diamante di lavorare tanto ma abbiamo letteralmente persone che fanno solo le bild ci fanno solo quello per cercare di mantenere l'ambiente più consistenti
+facili etichette install e lo metti lì rabbit tendenzialmente te lo dimentichi che ce l'hai capito e stanno noi ci abbiamo per running tre anni quattro anni di persone che lo usano e si sono dimenticati che c'erano ma ti poni installazione di default appunto con la brigatista non ha bisogno di particolare di unico per amare per la maggior
+mathews così com'era nella maggior parte dei casi se non ai carichi particolari
+appiccicati installa noi e prima erano delle cose statiche o abbiano introdotto dell'auto tuning che amano che non fa l'override fa l'auto tuning in base ai processori e al ahram di alcuni parametri della virtual machine termini di harlan che vi assicurerà un delirio assurdo cercare di comprenderli per cui prima abbiamo schermo argomentazione stoffa
+facciamole l'auto ti unica a meno che non facciano globale nella maggior parte dei casi le persone ma neanche li cambiano i parametri di default e quindi lo installano e c'erano e c'erano lì magari per anni senza neanche accorgersene più è scusata ma così son qua uno che lavora sulla abita con il prof
+aggiornamenti quanto è problematico aggiornamento
+la signora alta per tutta la l'economia ecco questa è una cosa nuova e interessante perché noi facciamo facciamo regression test ha due versioni quindi sul tendenzialmente ha due versioni poi noi internamente magari sappiamo che quella versione puoi fare probabilmente anche il salto più alto ma c'è tutta quanta una matrice di aggiorna
+aumenti se pubblicati sul sito che diciamo se fossi da questa può andare a questo eccetera eccetera tendenzialmente restare sai ma ripeto c'è la matrice degli aggiornamenti diciamo sempre di andare non oltre le tue meteo e del meteo
+elisabeth c'è per esempio
+fa passare che ne so dalla sala tre sei alla tre sette senza problemi dalla tre sei alle tre otto senza problemi magari dalle tre sei alla tre undici potresti avere qualche problema per cui in quel caso dovresti fare proprio major cos'avete sean amber come versioning oppure
+ok mi sono sbagliato scusa non la national
+comunque al momento
+fisco in opera ma giustamente si sposa la logica masterson o deflussi di pagine sì è esatto
+sì però tendenzialmente appunto cerchiamo noi chiediamo specialmente ai clienti di almeno una volta l'anno
+programmare un aggiornamento allora cambia discorso coinvolgiamo poi il povero giorgio che lo vedo annoiato e di queste questioni troppo tecniche dove grazie perché me è un piacere ascoltarvi per stoppare un sacco di cose quantomeno termini dice un po' del futuro e le conferenze che sta organizzando dai facevi qualche anticipazione su quello che è
+accadrà nei prossimi mesi
+alcune cose le abbiamo dette nel finale delle conferenze quindi abbiamo le due conferenze che è stato sayid marzo l'incontro di boxe italia siano conosciute da tutti non riuscite proprio detto meglio di me il quindici marzo e quest'anno anche l'italiano una e di tra il versante la sala
+che avevo preso e abbiamo preso tutto l'auditorium dell'hotel savoia quindi la sala è walt più grande rispetto agli altri kirby cinquecento posti speriamo di riempirla tutta
+e poi il giorno prima invece è molto interessante livello il wireless headset
+e che fossero
+trasversale collega tanti tante cose e che quella internazionale quale solo inglese e stiamo già ricevendo le seppie ho già visto dei primi veri e veri ercoli venduti e sono apparse ci sia dell'interesse quindi secondo me sarà un bel vorrebbe la primavera vi risparmio tutto il discorso sui linguaggi di programmazione perché
+quanto all'argomento
+dello sviluppo front-end dilaga vero che acta
+l'aquila sarà giusto per capire qual è la più quella che è più popolate le conferenze come quella che quella più popolata è quella con cui con più partecipanti beh più rapida perché la prima cosa da scottie rapida a vedere
+tour di capri jazz day e io direi che di una conferenza che sicuramente è una di quelle che hanno tanto seguito e poi da qualche arredo reach
+asl che è molto seguito
+quarantasette chi viene da fuori e ho anche delle belle aspettative su angular rossoblù
+gli argomenti diventano tramiti di sviluppo web non è che non possiamo parlarne
+no non sono legati ai team devops è che sia ipotetico ci piace di peterson business e le mail
+sapete che posso fare se faccio diverse cose e che si trovino nuovi terreni dove speaker che c'è vedo che è una cosa che è piaciuta tanto e spero che ci sia modo di farla farla bene anche con più persone rispetto a quest'anno ho appena finito questa insomma pensare la plastica va bene allora noi c'è avviciniamo alle due ore di
+diretta come tradizione qui si inizia alle nove non si sa quando si finisce ma prima di finire vorrei dire c'è qualcosa di cui vorreste parlare o
+può mettere la vostra parola se parlate ora o tacete per sempre
+se chiedessi vorrei capire io lo faccio ogni volta è mia proprietà io dico sempre che il mondo di sviluppatori siamo delle persone fortunate ci sono tantissime onlus che hanno bisogno di sviluppatori e non ci hanno una lira quindi magari invece studiato una tecnologia di meno e aiutate le onlus cesvi veramente
+un milione che hanno bisogno di sviluppatori e e purtroppo hanno a che fare con delle aziende che chiedono soldi per
+giustamente per fare lavori quindi magari reso una serie di meno un nat e concia di meno e aiutate le onlus grazie bel messaggio giovanni sta vicino qualcosa è sicuramente una battuta fin qui non ti stavo chiedendo se se no ora ho capito che chiedeva yeats ma per messaggi di chiusura no
+stavo stessi lanciando il sasso magari per le prossime puntate che qualche argomento possibile per i prossimi a singoli episodi a suggerire libri tutti si ma prima mi riguarderò le ultime puntate che sono
+tra l'altro io vorrei che anche lost cambi diciamo io faccio l'oste parità ma nemmeno parlo e meglio è ma in futuro mi piacerebbe che anche altre persone che facciano questa organizzano loro decidono loro l'argomento magari invitare quindi
+vale per tutti l'invito se uno è interessato ci si organizza vi do i permessi fate voi prendete in mano voi la barack obama scherza però è un po' distante e
+quindi non sono argomenti ma appunto sono argomenti specifici anche scuro vuole bene e chi dire se non avete altre cose da aggiungere io chiuderei qui
+vi ringrazio per la partecipazione è stata molto gradita e il buon fabio mora ma scritto in mail che non ha potuto partecipare lui era anche lui aspettato ma va bene così noi siamo abbastanza flessibili chi c'è c'è chi non c'è magari la prossima volta e per voi tutti grazie mille
+so ciao

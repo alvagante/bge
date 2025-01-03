@@ -1,0 +1,21 @@
+Nel crepuscolo del 2023, la Brigata dei Geek Estinti si riunisce per un'epica retrospettiva, un'ode a un anno intriso di sfide e trionfi nel vasto universo IT. Questo episodio, carico di riflessioni e intuizioni, è un faro per coloro che navigano tra le acque tempestose della tecnologia contemporanea.
+
+**DevOps e il Cloud: Navigare l'Infinito**  
+Giovanni Toraldo, DevOps Engineer di provata esperienza, ci guida attraverso l'ecosistema delle infrastrutture cloud. Con l'ausilio di strumenti come Terraform, egli dipinge un quadro di complessità e opportunità, dove la gestione delle risorse diventa cruciale. Qui, l'efficienza si scontra con la sicurezza, mentre l'ombra della vulnerabilità si staglia sul panorama digitale.
+
+**Supply Chain Security: La Nuova Frontiera**  
+Il discorso si sposta in un territorio minato: la sicurezza della supply chain. I relatori sottolineano come gli attacchi informatici abbiano reso questo aspetto vitale, paragonandolo a un castello di carte pronto a crollare. Ogni vulnerabilità non è solo un dato tecnico; è un potenziale disastro economico.
+
+**Criptovalute e Vulnerabilità: Un Mondo di Ombre**  
+La conversazione si infittisce con la disamina delle criptovalute. Qui, gli attacchi ai wallet non sono solo incidenti isolati, ma un sintomo di una malattia ben più profonda nel sistema. Le aziende si trovano a dover navigare in un labirinto di sfide e vulnerabilità, dove il denaro digitale può trasformarsi in un'arma a doppio taglio.
+
+**Evoluzione del Mercato del Lavoro IT: Un Paradigma in Trasformazione**  
+L'anno passato ha visto un'evoluzione del mercato del lavoro IT che poteva sembrare inconcepibile. La difficoltà nel reperire talenti qualificati diventa un tema ricorrente, un grido d'allerta per un settore in continua espansione, ma afflitto da una crisi di competenze. I relatori non nascondono la loro preoccupazione: cosa significa questo per il futuro delle professioni tech?
+
+**Open Source e Business Models: Un Nuovo Paradigma**  
+La discussione si sposta verso i modelli di business open source, un tema che richiede attenzione in un'epoca di cambiamenti rapidi. Le licenze non sono più solo dettagli burocratici, ma chiavi di accesso a un ecosistema in evoluzione, dove le aziende devono riconsiderare le loro strategie.
+
+**Intelligenza Artificiale e Futuro del Lavoro: La Scommessa Tecnologica**  
+Infine, il dibattito si chiude con uno sguardo al futuro: l'intelligenza artificiale. Essa rappresenta sia una minaccia che un'opportunità. Quale sarà il destino del lavoro umano in un mondo sempre più automatizzato? Il timore di un'era dominata dalla macchina è palpabile, ma le stesse tecnologie offrono possibilità senza precedenti.
+
+Questo episodio della Brigata dei Geek Estinti non è solo una retrospettiva; è una mappa per il futuro di un settore in continua evoluzione. In un mondo dove ogni byte conta, la riflessione diventa l'arma più potente. La domanda non è più “cosa ci riserva il domani?”, ma “come possiamo plasmare il nostro futuro?”.

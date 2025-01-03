@@ -1,0 +1,492 @@
+e quindi ci ritroviamo ci ritroviamo anche stasera ci ritroviamo per un'occasione speciale perché siamo di ritorno dal mitico mitico incontro
+devops e italia duemilaventitre e lo facciamo con chi a questo incontro c'è stato ha parlato organizzato insomma tranne mano e che non c'era per cui dovrà trovare farà il ruolo di chi fa le domande dall'esterno comunque visto che abbiamo tutte persone nuove e invito chi c'è tutti qua
+a presentarsi brevemente poi inizierà subito con magari farvi dire una un'idea un qualcosa che ha portata a casa da questo da questa conferenza l'incontro dei box che c'è stata bologna sabato scorso mi sono pure da manuel no scusa ma è l'unico che non può parlare stasera exeter scherzo ma ovviamente parliamo da lino per adesso
+oh che intanto buonasera grazie ale per avermi invitato in realtà
+siamo anche qui perché
+siamo i due vedere i due organizzatori di design sia esatto praticamente complici in un
+qualche
+nell'organizzazione di un podcast chiamato the island house quindi prenderemo questa registrazione
+la tranquillamente
+la riproporremo anche come un momento facile ma in realtà
+giusto facendo
+introduzione io sono la lapide
+siamo che il lavoro per una società ogni
+di che fa certification authority
+c'è qualche cosa da dire faccio anche a tempo perso del professore universitario e sonore mezzo a mille community e sinceramente questa che un po' mi mancava per questo diciamo sono uscito dalla mia comfort zone come si suol dire e sono entrato un po' in
+l'occasione
+di aver parlato per all'evento sono uscite sono entrato diciamolo un'altra un'altra conviventi comunque ho cominciato a conoscere le persone di questa grande comunità sinceramente aver ritrovato anche ideale è stato veramente una bella sorpresa dico la verità i grandi ritorni sempre graditi assolutamente
+poi facciamo un discorso domanda facciamo il giro di presentazioni va a jacopo io superveloce
+ciao a tutti e grazie alessandro per aver organizzato l'incontro incontro super io sono jacopo non lo sono il founder fondatore di riscatto e nelle mie varie vesti comuni i comuni insomma tutto quello che il mondo gubernatis partecipato a un evento completamente digitale in qualche maniera c'è il mio zoo
+pino va da qualche parte
+i kubernetes milano incontro di box è uno dei
+delle conferenze che più mi sta a cuore perché forse stato uno dei momenti ecumenici mi ha definito proprio professionalmente negli anni quindi super ed è stato bello rincontrarsi i figli
+in diverse vesti sia tutte le
+manuel allora sì grande assente all'incontro di boxe
+ce l'ho fatta esserci però
+che dire sono platform engineering quindi mi occupo principalmente di di clouding più di tutti i livelli da serverless a quello meno serverless diciamo quando container e kubernetes irpino anche scendendo al livello più basso a livello eqf
+è
+oltre a
+al lavoro di giorno di notte martedì impallidì i comuni pizze e facendo lo speaker
+altre conferenze
+cerco di farlo speaker un pezzo del suo segretario un attimino indietro qualche cosa di quello che prendo e ne prendo tanto da arrivare da tutto il panorama silenzi e diciamo così
+quindi questa per me è una community in più quindi orgoglioso di essere qui dentro e così continuano così molto bene allora grazie a tutti adesso direi partiamo subito con quello che diciamo latina inizialmente uno spunto un qualcosa che vi è rimasto dentro di questa conferenza ma prima di
+farlo arriva francesco non possiamo fermarci tutti e ubi maior minor cessat quindi francesco benvenuto ti senti guardarmi ho appena finito il giro e presentazione a questo punto sei arrivi proprio tu in tempo per fare la tua usato un secondo e che se aveva giusto appena arrivato subito a fare così
+sveglio figli
+e niente abbiamo aver fatto un breve giro di presentazioni manchi solo tu allora francesco fullone sono il presidente del gruppo o associazione che da qualche anno a qualche evento nell'ambito dell' imprenditore faccio cose vedo gente che sostituzioni dipende di volta in volta cosa c'è da fare molto pochi
+tour gourmet grandissimo conciso come i migliori e bene allora la prima domanda che volevo fare un po' tutti quanti e farci è una cosa che se volete portare via dall'italia delle borse da volete portar via e condividere un qualsiasi spunto informazioni da chi vogliamo parlare partire lino
+ok allora sicuramente
+l'aver fatto io sono sincero sono entrato in questa community nel senso che possedere il primo speaker che faccio ha un audience un po' diversa vitalità
+a parte il nostro podcast che facciamo conduciamo emanuel alla fine il nostro focus è un po' più dagli uomini dell'infrastruttura in su come si suol dire e quindi spesso il target
+il mio target meglio sulla quale comunque facciamo le presentazioni oltre che fare le presentazioni interne all'azienda è sempre stato un po
+un po' più orientato verso le persone che da un lato erano reduci comunque di una transizione dal mondo dell' on premises verso il cloud e quindi con tutte le sue declinazioni e sfaccettature bene
+dall'utilizzo comunque di tecnologie cloud all'utilizzo di tecnologie basate su container in modo particolare su quadernetti sicuramente conveniente se un po' l'anello che ci ha unito
+io devo dire visto anche le presentazioni degli altri colleghi che è un'idea un po' tutti perché alla fine dei conti è un po' quel mattone di base come il mattone fondamentale che a livello tecnologico già abilitati a fare delle cose ora io e sicuramente da questa a questo evento a parte che adesso i feedback no
+ok e quindi pomodori non ne ho ricevuti quindi penso di aver comunque trasmesso qualche messaggio è cosa importante è che ho parlato per conto dell'azienda per cui lavoro quindi ho iniziato così come si suol dire una serie di stories e relative proprio a quello che abbiamo fatto e come
+diciamo stiamo conducendo questa transizione perché non ci dimentichiamo che oltre che alla tecnologia c'è la tecnologia in sé alla fine trovi niente se non viene
+collocata all'interno del giusto contesto quindi sicuramente scegliamo la tipologia ma abbiniamo anche o comunque un'organizzazione un come dire
+un apporto diverso è anche uno studio di quella che è l'organizzazione per applicare al meglio questa tecnologia bene qualche cosa da aggiungere jacopo francesco o comunque qualche vostro spunto per quaranta conferenza ma allora io da organizzatore sono solo contento
+che sia ripartita la
+la macchina delle conferenze e perché
+pre-pandemia facevano di numeri ancora non abbiamo raggiunto quei numeri e vediamo che la community non è più attivo come una volta acutissimi motivi uno di questi è la voglia di spostarsi mi metto per primo in quelli che hanno poca voglia di spostarsi nonostante organizzi degli eventi è però chi viene molto inneggiato e molto interes
+assalto è molto contento fa probabilmente più di prima quindi anche questa dicotomia è
+testata da play a vedere la cosa che ho imparato però quest'anno dai lidi e che sono colpite smesso di sviluppare il suo rimasto tutte le pratiche dello dello sponsor
+le ho comunque studiato io buco viste per altri motivi e prevalentemente in ambito manifatturiero nel senso pieno e quindi l'attività che sto seguendo adesso sono di altra forma
+i licei il boom danni e vedere qual è un flusso di gestione dello sbocco di tutta la lista delle dipendenze e della certificare il certificatore ed ha gestito il dato è mi essere fatto ringraziare ti fa passare la voglia
+gli avete smesso di scrivere codice ormai un decennio fa appena la carne al fuoco al codice swift sel ha governato genere di codice e di vivere molto più serenamente quindi devo farmi
+deploy su una macchina spigato weblog disuso e in anticipo cose di quel genere a lungo effetti ma sono a posto così e tutti i drammi
+meglio ryanair devops di questa
+lontani da me se lo sboom spaventato da se vogliamo
+jacopo ma allora che cosa dire
+è stato un bell'evento ho rincontrato davvero un sacco di gente questo è super positivo allora io mi porto a casa sono i temi nuovi in termini nuovi tra virgolette ovviamente di del momento sono temi legati a security doors cops vedono nick che sta maturando tra virgolette
+noi ci abbiamo kubernetes buffet esistente
+diciamo che stiamo entrando stiamo entrando in una fase un pochino più matura di adoption dove poi di fatto gli ultimi anni sono stati complessi dal punto di vista è difficile capire community kubernetes e cosa ha fatto negli ultimi anni perché tante cose sono successe però complicato incontrarsi e via dicendo e io come sempre
+conferenze sono un po' al babbo al video situazione semplice seguirmi tecnico per per nove ore salta un po' da una parte o dall'altra pare eravamo lì in qualità di sponsor quindi è la parte per me di maggior valore sono accertate tre conversazioni per rincontrarsi il famoso darsi una mano a mettersi di cinque minuti
+parlare e temi tecnici l'altro grosso tema ovviamente a tema che emerson è una gran scoperta conferma e tutta la parte di pasta mengele kering e tutto quello che ci gira intorno quindi appunto siamo entrati in una fase un pochino più matura del crossing the casa sacco a me come dirlo queste sono state le cose che
+che mi porta a casa ovviamente la cosa che a me personalmente fa piacere lo ripeta stacco di incontrare incontrare persone prevedere gente che in massa nell'altra poi anche magari in momenti diversi di community eccetera
+un po' get vecchia un pò gente nuova gente xxiii con cui svagarsi lavora tutti i giorni ma che per mesi o anni non si incontra ma quello è l'aspetto che io poi personalizzare francia
+il motivo per cui guadagnavo alle conferenze infondono a incontrare le persone tutto quanto ha detto non c'è o c'è stato nel passato all'incontro borsa borsa si
+e difeso pre-pandemia quindi adesso vai un attimo difficile immaginare come sia stato il ritorno
+allora intanto facciamo il punto
+respingeva come anche proprio perché perché allora quella per quella infatti poteva essere una domanda generica
+la domanda che volevo dovevo portare fuori adottare l'introduzione fatta alessandro come accade a tutti buono pari organizza quindi ho messe qui per esami grazie assolutamente abbiamo grazie ti ringraziamo
+francesco ha parlato dei numeri bene o male no di dell'andamento nel corso degli anni ha detto che l'abbiamo raggiunta ancora ai livelli pre-pandemia e quanto ci siamo noi allora fai conto che negli anni passati derivato a al sold-out sulle trecentocinquanta persone complessive e quest'anno
+abbiamo i pochi numeri superato le duecento e altra cosa interessante è che se prima c'era un grande interesse per il workshop a parte quello di jace che va sempre bene e probabilmente per i contenuti per insegna no jacopo quindi è perfetto è però no
+sui workshop c'è stata un calo d'interesse ma la cosa che mi lascia perplesso chi viene al workshop propaganda la conferenza abbiamo provato a
+farming sondaggio tra i partecipanti per capire il perché di questo atteggiamento si sono disposti e rimane anche per continuare ad apprendere non soltanto la parte verticale del workshop è quello che emerso che le aziende non sono più tanto interessato ad investire due giorni del tempo di una persona per partecipare a workshop formativo e o
+una conferenza da chi ha fatto entrambe le cose si era preso un giorno di ferie quindi lascia un pò così il tempo che trova dall'altra parte ci sono aziende che dicono vai watson fa la conferenza play-guardia online perché adesso diamo questa possibilità online c'erano oltre duecento persone e guarda online mentre fai altro
+hotel award in differita proprietario le registrazioni se si compra il biglietto online accesso alla differita parzialmente dal giorno dopo quindi anche lì
+c'è stato un cambio di attitudine delle persone alla partecipazione e noi l'anno prossimo siamo ottimisti quindi bandisce di prendere la sala grande del savoia
+per più di cinquecento persone vero vediamo come come andrà ma questa tendenza è vista in tutte le conferenze organizzate c'è qua ciapa clementino e in tutte le conferenze e corsi che organizziamo noi poi quelli che organizzano gli altri non li conferenze gratuite non fanno testo perché hanno hanno dei
+nice completamente diverse e nelle conferenze a pagamento quello che sta diventando quasi eccessivo si divide
+complesso perché organizza un evento da gestire e che noi a quaranta giorni dall'evento ma anche di meno avevamo quattro persone sessanta persone e il gran parte delle persone si sono iscritte tutte nelle ultime due settimane a far conto con centinaia di biglietti staccati
+almeno dieci giorni che vuol dire per noi uno sforzo logistico molto molto complesso o eurolink prometto che vada tutto bene oppure significa ricontattare il catering di ricontattare sale
+così via ad esempio da dove eravamo partiti quasi alla grande quest'anno visto il trend abbiamo preferito fare downgrade sulla sala da duecentocinquanta posti posso aggiungere un contributo francesco datemi a sud in gamba tesa mentre gamba tesa perché forse nella presentazione
+gli ho detto che era in mezzo altre community effettivamente c'è una copia di che devo menzionare che viene warehouse group italia la quale il leader uno dei famigerati sette otto leader e si gestiscono tutto il territorio italiano allora le nostre c'è l'evento come voucher è effettivamente un evento gratuito male dinah
+nice ti assicuro che sono uguali abbiamo una timidezza iniziale che anche noi ci lascia un po' perplessi poi tieni presente che dipende anche un pochettino come sono adesso la voglio buttare purtroppo nel sud però ragazzi poi bisogna fare sempre i conti è ahimè con sponsor sponsor conad
+gestire e verificare soprattutto le capienze queste cose qui e mugello fondamentalmente non c'è non è un istituzione locale e istituzioni internazionali quindi per questo motivo molte dinamiche sono alleggerite mettiamola così dai numeri che comunque si farà a livello internazionale e questo da un po' più di respiro
+ma non proprio perché le questioni logistiche comunque rimangono
+anche nei nostri eventi si comincia con un timido cinquanta sessanta iscritti verso la fine c'è un'accelerazione talmente forte che c'è stato addirittura un anno ed hanno dovuto proprio chiedere proprio la rete catering sorgere la gente che lo mangiava noi stessi eravamo in dubbio se riuscirà ad addentare un boccone durante la
+pausa quindi è sicuro e così è anche la dinamica comunque del di qui se vengo un solo giorno oppure posso venire seguire una sola ripresa però dopo l'azienda mi rivuole in sede bargain è questa via ancora prima della pandemia c'è sempre stata purtroppo forse se possiamo
+va bè lo dico ma è anche il presidente di jacopo che comunque alla fine credo che qui dentro l'unico rappresentante di una azienda giusto o meglio di una azienda di dipendenti che lavorano nel settore
+io
+vedo che jacopo in realtà quasi tutta si gate era lì presente giusto
+sbaglio o forse mancava giusto qualche o un buon numero muore omero west bon bon gelato è sicuramente va bene a parte il vostro coinvolgimento è stato diretto verso il primo evento diciamo quella famosa giorno e che purtroppo io ho mancato per problemi lavorativi perché se no ero già pronto a venire
+a seguire anche i corsi queste cose qui però diciamola così
+i crederci in quei in eventi di questo tipo effettivamente sta un pò alla base anche della nostra crescita professionale cioè di seguire corsi i ragazzi possiamo sebbene parti che vogliamo online ma ci sono due o tre ingredienti che si verificano solo negli eventi dal vivo uno sicuramente è il fatto che c'è più interazione non è solo un corso e unint
+operazione continua e questo sicuramente è uno dei valori che va trasmesso alle aziende e questo ve lo dico proprio pubblicamente per tutti gli eventi a fine duemilaventi del settore cioè non è un fatto perdere due giorni il dipendente non è assolutamente vero bisogna crederci e le aziende devono crederci sempre di più e l'altro discorso è quello che comunque c'è il momento
+network del network ragazzi jacopo tu lo sai anche meglio di me si chiama momento è il momento migliore fondamentalmente perché vedi persone crea situazioni e riesce anche a fare della zelig da questa cosa qui c'è il sesso c'è un guadagno veramente forte e quindi per questo motivo che rilancia ancora scusa alessandro se ti rubo
+bando ora cimino la scena però rilancio sempre di più il discorso del continuiamo a fare eventi e continuiamo a trasmettere questi messaggi come commedia beh lo dice la gente che lo fa continuamente no agli eventi per cui direi che sei
+beh sì no allora va da sé che poi nei no tirarsi si formano si frammentano si moltiplicano si allargano e si restringono a seconda dei tempi dei momenti e delle situazioni e immagino che anche adesso stampo cambiare la mentalità un po' su tutto quanto nonostante santo su lavoro del lavoro ma forse anche sue conferenze anche se secondo me una conferenza
+remote praticamente è in partecipabile per come la vedo io le conferenze online per me come se non esistesse e
+degli aspetti tecnici che sono emersi secondo voi c'è qualcosa in particolare che sta venendo è venuto fuori anche magari ve lo sboom ovviamente è stato visto che è stato un elemento un top di due tour importanti sicuramente stato un elemento che è emerso come sempre nulla di yen nuovi nuovo ma neanche vecchio
+come si diceva fosse pagheremo fa tutto il cinema sullo sbam è nato da la forge in poi se vogliamo quindi anche qua soltanto due anni e ho già due anni a qualcosa che adesso se i tempi son quelli e comunque qualche
+input su tecnologie o tullo qualcosa in particolare che vi ha impresso tutte cose che magari già conoscete però va
+tipi dico io facendo un diff tra quello che avete per quello che ho sentito fino adesso è quello che mi ricordo da leggendo la lista dei tool c'è il tema del kit i tre temi diciamo
+erano quello del dello sport
+il tema della developer platform è il terzo tema era un pò quello di utilizzo kubernetes non solo come orchestratore di container più che altro come uno hippie pianeti titoli un po' avanzato non c'è vita la mia interfaccia di piedi ci faccio altro è un tema che
+passeggero così oppure prenderà piede diventerà una puntata una cosa effettiva aggiungere aggiungere utilizzi tutto questo profilo forse posso qui se posso dire dare i miei due centesimi che vederlo un tuoi è avanzato lo vedrei come un controllo lupo manager a
+avanzato cioè di fatto è un engine che fa convergere statue e e fa cose radici alimenti e quindi ogni cosa che potrà essere fatta verrà fatta
+non so se c'è una legge che definisce questa questa tendenza e quindi dall'operatore che ti ordino la pizza su su domino con una cherry di a estensioni varie ed eventuali credo che quella sarà la direzione ed è stato in realtà uno dei uno dei motivi per cui kubernetes si è
+è esploso in questa maniera adesso stanno emergendo tutti i casi d'uso del death rispetto agli anni precedenti questo è un pochino quello che vedo io cioè viene percentile rauca fantastico abbiamo kubernetes
+come lo usiamo come iniziare a usarlo quali sono le figate scusate il termine che posso iniziare a farci iniziare a guardarci come destino come lo smart drug po' come citoplasma sopra roba adesso siamo al
+stiamo facendo girare roba sopra ma come ci facciamo girare sopra
+roba sopra bene e quindi tutte le tutte le pratiche di sicurezza che fino all'altro ieri e questo ve lo posso garantire perché facendolo di mestiere lo vediamo è la mia ennio mia croce quotidiana fino all'altro ieri temi di security i temi di gestione delle dipendenze temi di cui mi attacco e rendo disponibile l'infrastruttura
+gli sviluppatori che erano cose che venivano viste molto bene percepita cioè quando deve spiegare ti guarda
+ai clienti che guardavano con con occhi con occhi che dicevano sì okay ascolto ti capisco anche però che cosa vuol dire per me adesso ci sono arrivati e questo apporta un contributo io ecco visto che ho ritrovato al trecento per cento su una trama spoiler up crew uguale di
+il programma di ceccano che ci sarà adesso ad amsterdam al movimento advertising venite tutti a chi no nome bellissimo evento però anche lì i temi che si andranno ad affrontare secondo principalmente suonò sono qui che vediamo lì come tu ci vai noi ci siamo siamo sponsor
+l'aceto giù allora andate in ukraina due
+starei ci sarà anche ora magari faremo uno speciale cube con attrezzatura
+elizabeth è molto interessante anche stufata devozione di kubernetes che sta diventando appunto qualcosa di più dell'orchestrazione in container e bastano e anche se riscossa dei temi nuovi che poi appunto nuove nuove però spesso nascono e crescono e si sviluppano in pochissimo tempo
+adesso mi viene a fare un po' lo sproloquio su come l'informatica si autogenera no come certi interi temi dell'informatica che magari fino a due anni fa non c'erano praticamente non c'erano si creano si definiscono si strutturano gente che ne scrive e ne parla e definisce i libri e conferenze tutto quanto
+sulla base poi di qualcosa che si crea con questo mondo effimero continuamente note dopo l'informatica è in continua evoluzione molto fluida però sono utili no tutta sta cosa dello smom si facevano le considerazioni po' of sound track è vero che hanno tutto quello che non sarà prima sempre con tutto il disagio
+castle of foggia con irene è venuta in evidenza la necessità e poi quando sarà tutto consolidato ora è quasi normale routine e quindi forse francesco non sa neanche così penny full stare a programmare perché tanto ci sono strumenti e cose che lo fanno per te e automatizza anche la gestione lo sboom
+e sarà un passo avanti anche quello è un piccolo pezzettino intendi resilienza informatica in termini di dire
+capacità di assai più sicura e quant'altro che dite
+saremo contenti non saremmo capaci allora leslie mancherà l'acqua calda di nuovo io sono dell'idea ormai
+mite ritengo giovane ma neanche vecchio che però sono dell'idea che l'informatica sbalzo sul concetto di euclide fat clips dipende dall'anno se pari o dispari come remote
+ho fatto varie e poi i freni da qualsiasi tecnologia una tecnologia uniti in florida modo per far fare piume energia sempre quindi alè esso si
+kubernetes come cacciavite o come martello per fare una qualsiasi tra qualche anno uscirà qualcos'altro e in cui si dirà e perché succube che sebbene su tutto ma tutto tutto tutto e quindi dobbiamo attenderlo ancora più semplice
+quando oggi kubernetes era nato per essere il client rispetto a quello che c'era prima quindi le macchine più macchine virtuali più chic quindi boh
+sono solo cose sono code e
+oserei dire sperimentali che i non informatici ci facciamo continuamente per cercare di rimettere sempre acqua calda in modo sempre più complessi più complesso più interessanti da altri punti di vista è però di fatto ci stiamo semplificando la vita anche semplicemente pesa luogo la complessità che abbiamo per fare un sito
+statico quando pino a dieci anni si farlo alla vecchia era proprio da umarell che stai facendo è discostato boomer francese avrei regalato due metri l'acqua della proroga lui ci faceva con notepad di sblocco ricordo quella sito fa parte di voi ha iniziato con quella roba lì col fucile ospita
+forse è quindi times è però di ripetendo discorsi jacopo è vero quest'anno la security
+va va
+va che va nel senso tutti ne parlano probabilmente perché a una certa maturità dell'utilizzo dei tool e la gente inseriremo ma se io pubblico questa roba qui dove accessibile a tutti non è bello e quindi security che magari qualche anno fa in altri ambienti erano ascoltati oggi su tutte queste pratiche
+si stanno iniziando a vedere in maniera più puntuale precisa trattati poi anche anche noi faremo insieme al container dei riders cops dai qualcosa da chi e per andare un pochettino più nel nel nel dettaglio giochi e idee per dare un po' un
+un laboratorio da cui facciamo emergere dei temi se vediamo che sono temi interessanti personalizzabili proviamo a farci l'evento dedicato in cui magari posso andare un po' più a fondo di un evento generalista qualche due durante la pandemia abbiamo provato anche un email e o psd'a teen senso
+quei temi che ovunque nei prossimi anni diventeranno sempre più critici perché devo addestrare il mio modello di machine learning quel tiro dei dati come gestisco gestiscono storico o gestisco storico dei modelli che costruisco quanto mi costa fare
+quindi poi entrò in campo tutti temono delfino il financial protection per capire come gestire al meglio la mia infrastruttura senza ogni volta dar via un rene e quindi anche lì
+è
+la cosa strana è che in questi anni ho sempre cercato di tour fa parte di firefox ma a parte un qualcosa preso quattro anni fa non è fosse anche portato da mia vecchia azienda e non ho mai visto dei tour approfonditi su questo genere di tema tema che
+che penso che diventerà sempre più critico perché
+non so se si sta seguendo la vicenda di dieci cece che ha spostato basecamp ed è ida ed avviò esso sia riportato in caso premises ma non è l'unico
+e spesso quando parlo con delle aziende di prodotto il ragionamento se lo fanno giustamente perché dicono adesso ho scalato perché devo scalare rapidamente con pochi investimenti per fare massa critica adesso con massa critica
+mi conviene investire umidi o andranno in infrastruttura pongiglione me mi smith
+summit in un data center con potenza di fuoco e replicabilità del dato perché comunque quel rack prometto gli altri tre datacenter e in un angolo o praticamente speso quello che spenderei invano di davines con una visibilità a tre a cinque anni era in realtà scusa francesco se ti interrompo erano state che avevamo già
+sentita in realtà in passato non so se qualcuno si ricorda la storia di dropbox team sì sì sì e fu il più grande chiamiamolo esodo della storia
+riparare un exabyte mese dei dati qualcosa del genere che fuoriescono da dal mondo del blues ora e io personalmente ho incontrato proprio i signori che hanno realizzato proprio
+quello che è diciamo un pò il cuore componente di dropbox e che smart o qualcosa del genere si chiamava cosi progetto comunque loro l'hanno condotto in una modalità come si dice nel tempo perché non è che uno può fare liste civetta di tutti questi dati così in un attimo oltretutto le tecnologie di dove andava ad alterare erano
+differenti rispetto a quelle
+alessandra è però la cosa interessante è stata proprio quello che dicevi tu hanno fatto due fonti a novel in casellato questi conti detto ma noi che andiamo su un cloud provider siamo noi già un provider di cose e quindi perché dover costruire degli over head che non solo a livello tecnologico ma anche a livello proprio di
+costi fanno salire la vostra bolletta e magari ci riducono quello che il margine di guadagno sul singolo dato che andiamo a vendere qui questo effettivamente è un ragionamento che ho fatto e concordo con quello che di ciclo sul fatto che tutte le aziende dovrebbero pensare un po' più fino a quando fanno le proprie scelte e aggiungo anche un altro dettaglio un po' più fluide
+a livello di scelte di decisioni e proprio a livello applicativo cioè servire io la mia applicazione ma credevo imbullonati dentro un cloud provider devo poter scegliere magari un cloud provider a seconda di quelle che sono
+per dirla così modo brutto le quotazioni a livello di spesa magari scopro che la mia applicazione è cresciuto talmente tanto che a questo punto mi diventa anche economico tenerla in un caso provate la voglio spostare in un altro oppure la voglio anche infrastrutturare quindi inserire on premise è in realtà positivo è un argomento topic che esiste già più o meno dal non dico dal
+giorno due del cloud ma mettersi mai nemmeno il giorno rai però questo quest'idea qui è sempre entrato un po' nel è nella testa di molti cicli di molti sia io alla fine sta diventando preponderante che aveva di se io che inizino a coste
+i costi di esercizio di mantenimento oltre che la efficaci tecnica di quello che c'è da fare dietro
+e magari snatura il l'essere no essere un ciclo che deve stare o verdeggia della tecnologia per permettere all'azienda di essere sempre pronta però dall'altra parte è anche una responsabilità che è quella della della avere una sostenibilità economica non sono di immediato ma
+che su una visione nel medio-lungo periodo e quindi questo genere di temi penso che debbano diventare in qualche modo più più trattati anche nell'osso nostre competenza il problema puoi trovare il giusto interlocutore che porti li porti a discuterne e non so se si può dire io prendo se parla di un legacy comfort
+e mi piace tantissimo come nome
+è da un po quasi una provocazione che però non so perchè perchè poi il mondo leggasi è intrinseco dell'informatica no quello che è moderno ad essere le case domani per cui non è che
+ne siamo costrette a rincorrere l'esistente no per un'uscita a voi i cowley cowboys sono un gruppo di
+i pensionati americano che si è dato al flashing cobul ecc
+ma a cifre allucinanti e su quella su quella visione qualche anno fa volevo aprire un'azienda che facesse soltanto lega si
+il problema sai qual è e qui mi rimette il cappello da un merkel ma di quelli brutti no
+cito anche gli schianto sia qui ai giovani ci sputo in bocca e che nessuno vuole lavorare su quella roba lì
+la guerra giusta non deve saperlo
+la cosa giusta remunerazione ma
+giusta remunerazione dopo un po' qualcuno che lavora in cobol a sentirsi non sono dei fastidi comunque temi voli the job ormai col mio tappeto che dieci anni fa era culo e adesso e lega si che alla fine glielo dico sempre puppet nuovo cobol per quanto mi riguarda
+ma documenti ci sono degli sviluppatori che sono specializzati nel pre e nel nell'analizzare i
+i progetti open source che hanno un bel numero di utenti
+per diventarne leader nel momento in cui vengono raggruppati e poi per fare campare di quello campare di gestione del gas su pesa hazen free molto che è stato e udì e che ho utilizzato in gran parte del mondo intrapreso italiano frank e francese
+è dappertutto
+nessuna domanda reddito dettagli libri capire
+se vuoi mazen cos'è dittatore lega serie sono facebook zen lo zen faremo qualche morto anni fa adesso ha cambiato ha cambiato anche nome chiama golia al go qualcosa
+ed è stato preso in gestione da un paio di sviluppatori uno italiano che fa consulenza su roma pensiamo ai
+remmy vecchi la prima opzione dottrina che non usa nessuno tranne banche e simili che devono pagare fior fior di risorse per farcirlo gira quando era ben cinque che ci stiamo a parlare dei peccati cinque non esiste più da un decennio beh io butto i miei due centesimi cono
+almeno due aziende che vivono di copro anch'io il cui core business è mantenere infrastruttura dei grossi mainframe
+ma credo che sia
+adesso il problema che sta andando in pensione degli sviluppatori della sua gente quello è lì che bisogna vivere magicamente ha preso l'azienda
+il problema ragazzi c'è adesso tutta la buona volontà di dire anche perché comunque gli sviluppatori come si suol dire di altri tempi ma non si sono mai mossi poi dopo dalle nuove tecnologie perché secondo me è quello che sta un po'
+c'è quello che
+un po' come dire alimenta ancora il loro il loro esistenza alla fine è anche perché non ci dimentichiamo che lega sia alla fine che poi è sempre gestita da uno dei grossi vendor che trattano di informatica priva di tutti e alla fine ha ancora tuttora fa guadagna
+aree cioè nel senso mantiene almeno si dice quasi il sessanta percento degli stipendi dell'azienda solo dai proventi del legacy c'è
+mettiamoci proprio alessandro si possono fare nomi di aziende si
+parliamo di ivm ivm tutti quanti noi conosciamo per non lo so chi è che conoscibili al cloud di voi modelli operativi dai qualcosina poi tirato fuori delle delle cose abbastanza carine ma anche opporre al mondo dell'hardware così non troppo eh ma il cor business signori lo fanno tutti quanti con esse
+quattrocento tutto il resto perché perché i ragazzi ha queste quattro se è vero che per azzurra e sei quattrocento dell'inizio sparagli un missile perché per creare un'architettura del genere voglio dire da sola non viene giù c'è
+era già predisposta veramente per essere messe in una batteria contraerea non lo so neanche io veramente come l'aria che l'avevano ingegnerizzata certo non puoi pretendere performance da urlo o comunque adeguati come si dice will che file come ce le aspettiamo oggi e
+non puoi pretendere di parcheggiare su google analytics non lo so non credo però sta di fatto che comunque è una tecnologia che in questo momento sta gestendo ancora i conti bancari ergo ergo nessuno la sa ancora come suo palo o comunque i costi per lo swap sono talmente superiori e allora lo diceva beh chi se ne frega
+gli buttiamo su ancora quest'altra paio di migliaia di euro e andiamo avanti ancora qualche anno non ha mai guardate io adesso
+per fortuna non per fortuna mi capita spesso di parlare consiglio varie ed eventuali anche banche e questo è uno dei loro primi principale cioè il fatto che loro non devono gestire il nuovo tram che arriva quella è la parte facile quello che loro devono gestire e la cipolla e le sue e nella li sui layer tecnologici
+furono negli anni dove noi parliamo di
+vecchia fosse solo quello da gestire tutto bene il problema che c'è il vecchio il non così tanto vecchio il becchino il nuovo che arriva e quindi quindi sì penso che queste cose qui infatti la verità è che il progetto definitivo e qui troverà qualcosa per permettere di
+gestire la complessità mio avviso la conquista di tutta sta roba che si accumula negli anni ed è inevitabile è corretto che sia così non potrebbe essere altrimenti che poi è un po' un sintomo il riflesso di come eterogeneo e spacchettato tutto il mondo e ht ed enorme così naomi il mercato che anche la micro nicchia in r
+realtà se poi è per pochi diventano nicchia è un mercato a se stante no c'è un business sottostante da cui non mi stupirà fra dieci anni fra vent'anni e ancora i mainframe di vederla e kubernetes nativi attuali fisiche container funzioni
+tutto quanto ci sarà tutto ancora di tutto ma l'hai ampiamente con proporzioni diverse magari si saranno aggiunte anche altre cose io ne vedo un sistemista vmware si aggiungerà alla lista perché in italia già cominciano a scarseggiare come gli antichi guru di conoscenze perdute più o meno
+davide marinelli come quelli che amano ancora l'ebbrezza di farsi scegliere e avere l'imbarazzo della scelta tra il corridoio caldo al corridoio freddo o passare proprio come si dice le giornate intere ragazzi io prima di atterrare sul cloud ne ho passate di giornate anche perché sono diventato un po' sordo anche per questo motivo
+però vi assicuro che respirare come si dice l'ebbrezza di fare non sa magari in campus caldera partire la mattina e non sapere quando rientrare e logicamente l'opera andare a farsi un giro al bar ma per rimanere ore e ore e ore perché magari ne protagoniste non aveva configurato gli apparati di rete tu lo vorresti
+uccidere in quel momento insieme a tutto il rumore poi ovviamente temperature ma queste cose più permettere gestisci o praticante girava in braghe corte e in carota perché erano sempre caldo anche se pagano nella parte fredda perchè si vede che monofase valica fa pura che cosa volete voi cosa volete mai però queste sono esperienze che secondo me oggi
+se chiedete a uno studente universitario ti andrebbe di fare il sistemista e andare ancora il dataset arrancare no
+solo se si sentono chi vuole fare il sistemista di donarti la psicoterapia ma
+sì ma ma ma già dieci anni fa
+kelly dello studente medio universitario diciannove io voglio sviluppare giochi voglio fare i robot ne avessi mai sentito quello che dici voglio fare ma il bello è che però trovano finalmente lavoro per quello che studiano cioè non è che non c'è richiesta la richiesta c'è è solo che si stanno perdendo
+i sistemisti di hogwarts saranno i populisti tragica e uguali populisti pioveva perché nessuno vorrà fare ma anche tu pensi di street life si seguono a ruota
+la pipa se lì non ti dovesse mancare caldiero noi abbiamo degli uffici ti aspettiamo per un caffè quando vuoi europa sono scatenati tutti asset stiamo proprio di effettuarla va benissimo e solo così solo per ricordarvi vasta no però ripeto poi ha lavorato anche per il fatto di quei progetti
+ragazzi
+del tipo parti la mattina che devi portare rossa magari di tirare via con storace portarlo a settimo milanese cose di questo genere ragazzi volevano progetti importati dove avevi tutto sincronizzato ma cambia grazie ai progetti sul fisico eh certo senso eravamo noi cloud provider all'epoca e quindi so cosa vuol dire ed era per
+cliente importante l'aveva fatto e so che cosa voleva dire organizzare allestire tutto quindi quando le cose seguono come si dice la schedulazione impari tanto stesso proprio kerala è la palestra che serve
+purtroppo quando vado voti ai progetti che si incrociano con altri e vai a velocità diversa allora solo lì veramente e comincia a maledire dileggiano a che la mattina che ti sei svegliato è il motivo per cui sta hernando però vabbè questo voglio dire a parte un po' del cosiddetto stress che tutti i sistemisti vi operano
+hanno avuto almeno una volta nella loro vita e se chi non è stato in sala macchine a soffrire il freddo e il rumore virgolette ma non siamo così tanti lino però in realtà non sappiamo che non siamo neanche così rari bisogna capire quanto i sistemi si siano ancora in giro da che hanno bisogno quanti sale macchine cibo ci saranno ancora in
+ok che avranno ancora bisogno i sistemi può anche per tornare al discorso di francesco se il ritorno alla all on premise dopo la fuga al cloud sai come ci son quelli che adesso sta tornando indietro ci sono quelli che adesso stanno andandoci nel cloud e io vedo un mega migrazioni continuamente no verso il cloud ma io le già le vedo quando
+e anzi ne ho viste anche iniziare e arrivare alla fase in cui o chissà cos'hanno un po' troppo cosa facciamo adesso perché poi quello la fase in cui realizziamo novello però e per cui mai come io lo vedo sempre come questo continuo ricircolo no cambi di infrastrutture persone che sono infrastrutture si muove in una direzione o nell'altra ed è un continuo
+e mi sembra abbastanza evidente che la concentrazione nei nomi nei pochi nomi grossi siano i player raw s kaiju che fanno aggravate del mercato e poi altri a venire alla faccia dell'internet decentralizzata e liberano sotto certi aspetti
+stiamo diventando essi non erano un concetto nuovo questo fatto che
+tante reti lan reti ma alla fine poi se ci si sta almeno percentualmente concentrando in pochi pochi singoli fornitori che poi hanno in mano tutto e si cade a west cari miei no come si suol dire cade internet in qualche modo funziona più niente quando dovesse cadere
+ricordiamo l'incidente di essi
+duemila
+sedici di diciassette dove per ogni incidente sul set e andò giù lo status page
+via set di the blues e del resto lo status belgio anche se avvicinate di casino royal navy yard tra le varie ah ecco fra tutto quanto anche certo senato primo fra tutti la prima tutti flacca tra le tante cose si si si si scoprì e venne fuori che era stato speaker dieta
+di e di debolezza e quindi non funzionavano e infatti guardate secondo me questa è una delle grosse misto opportunities della nostra industria se devo essere sincero cioè il fatto che ci si focalizza troppo sulla tecnologia troppo poco sulle pratiche una volta calizzano
+fatemi fare il bunker mentre la stazione cioè oggi si parla di kubernetes verso william verso la datacenter su cloud una volta si parlava di riproducibilità dell'infrastruttura una volta si parlava di clan for taylor anziché bob taylor uno dei miei una delle mie passate vite di uno dei siti con cui ho lavorato
+guarda di incidente suo west non accadono mai ma quando accadono e lunedì prossimo quindi la verità è che non c'è un'infrastruttura non sono infrastrutture che sono bulletproof inside ce ne sono stati interreligioso sono andate bene poi per ore
+il discorso non è in come evito che questa cosa accade nel discorso come mi preparo quando questa cosa accade attaccate i can miscuglio di cose cioè questo prova un problema culturale dal punto di vista manageriale di visto anche
+mo' di adozione da parte di organizzazioni e c'è poi un problema dal punto di vista tecnico anche i tecnici hanno le loro colpe perché è noioso anzi fico focalizzarsi sulla tecnologia e noioso focalizzarsi sulla tecnologia che ci ha senso per il caso d'uso specifico in cui stai lavorando non sempre curiosamente va bene non sei
+cloud va bene a volte sì a volte no
+ci sono cose che abbiamo tenuto internamente cioè noi di mestiere facciamo kubernetes facciamo solo quello però l'ultima conversazione stata oggi vi parliamo portiamo di cloud perché abbiamo avuto winston sul nostro pianeta
+una parte di di nostro lab interno che cam francese a non lo prendiamo lo portiamo i ragazzi hanno avuto un incidente in due anni l'effort di prendere e portare quella roba in cloud da solo quello mi costa quanto cioè che quindi voglio dire manca manca manca anche una serie di mancanze però il tema è appunto pianeti
+scale per il fallimento quella secondo me è la parte una parte di pratiche tutto il nostro movimento parte alle pratiche non parte da un'ottica tutta la tecnologia non so come dire quella parte che è un pochino ci stiamo perdendo ti do perfettamente ragione jacopo su questo passaggio qui anche perché è un qualcosa che adesso in una vita passata io
+purtroppo ho subito nel senso che è una cosa che spesso quando si passa a progettare sistemi anche complessi che ha fatto architetture di sistemi lo sa uno pesa ma se prendo comincia a mettere uno store rifacimento questo no comincia a pensare il contrario e se si rompe tutto comincia ad andare veramente a ragionare al contrario deve dire
+io flusso di dati come proteggo questo flusso di dati da qui po' dopodichè anni e se comincia a ragionare così effettivamente hai trovato un po' la chiave giusta invece alcuni cosa fanno partono subito dalle tecnologie e dicono ma se ci piacciamo questo ci mettiamo è stato grazie io vi
+cioè ho vissuto l'era in cui si battevano james square e ibm tra i sette zero km e il dna di max di hamsik si e facevano a gara a chi ci alla storia migliore poi dopo andava a finire che devo implementare questa tecnologia e magari mancava sistema che ricordava mancava
+le pratiche di becca mancava tutto nell'azienda a un certo punto cosa facevano arrivava lì gilet ma io ho speso tutti questi capi di soldi com'è che alla fine ho anche liside ai ragazzi per come dire che quando compri una ferrari non c'è scritto che questa qui non farà mai incidenti perché se ti schianti contro un muro anche una ferrari si spacca
+diciamoci le cose come stanno è più un problema culturale per quello che anch'io ho purtroppo subito a suo tempo questa cosa qui ed è secondo me adesso che si è passati in cloud dove tutto si può in maniera on demand e quei ragazzi puoi fare grandi cose ma anche grandi pilastri e alla stessa maniera assolutamente una delle mie
+esperienze
+la sistemista perchè sono stato anch'io sistemista certificato microsoft
+basso
+bravo peso se non il primo il secondo lavoro come
+sistemista in un ced ancora così
+il city hotel dell'azienda
+logistica e ines
+li fece progettare
+il possente l'iraq con quello che ci andava dentro prendemmo un sistema di backup su nastro quello con le cartucce e nastri li era novantotto novantasette novantotto lectio qualcosa a t
+è la prima cosa che mi fece fare tutte le settimane il restore perché nicchie li mise tu puoi fare quantificato vuoi ma se i nostri fare il restore è come se non facessi capo quella è stata una delle grandi lezioni che mamma vanno insegnati l'ambito è vero puoi fare beh
+capo può avere sistemi ridondanti tutto il resto se poi non sei capace di fare il restore è come se non facesse assolutamente nulla molte aziende con cui lavoro oggi e si affidano cento processi da dio essa creando dei dati compromessi ciao mita
+non sanno come fare questo e questo perché perché manca una visione ma anche metodologia manca manca manca ma anche e c'è troppa necessità di andare veloci senza
+rallenterò la famiglia per vedere cosa stanno facendo il vendor già messo cinque versioni nuove del software testa utilizzando capito in pausa quella che sai intanto poi ne parliamo
+ti ricordiamo anche che molte aziende che si sono sviluppate dietro a quella che chiamano data availability e così via oggi
+si chiama capaci di mettersi il nome più bello però
+effettivamente prevedono spesso dei delle auto
+dei sistemi di autori
+di autore store comunque fanno dei test restore automatici programmati ultimamente quella che era un election year nel passato era diventata comunque a volte anche il mantra è una aziende che proprio avevano a cuore la protezione i dati però ripeto siamo ancora al punto in cui purtroppo si rinvengono prima avanti le mani e poi la test
+come dico io sarebbe dire progettiamo un sistema non abbiamo dimensionato niente per quando ci accorgiamo che per proteggere questi dati devono spendere altrettanti più venti per cento allora ci si rende conto a caccia ragazzi però costa questa roba qui e lo so capita però è quando avete fatto il dimensionamento del progetto io insisto sette
+lì sopra non è che devi solo guardare il flusso cosiddetto attivo dei dati devi guardare anche tutto il complesso del tuo progetto e solo lì puoi capire quanto effettivamente occuperà il tuo progetto come dire diventare un pochino più
+di quanti mesi
+con i piedi di piombo scusate
+quindi sia effettivamente io mi ci ritrovo tantissimo e anche nel tuo racconto francesco perché effettivamente a me poi non ne parliamo a fare il restauro corner
+libera di qualcosa che insegna veramente tanto tantissimo ma anche strategie di breakout bravissimo e anche quando si rompevano in austria e com'era bello e che cosa diceva quanto abbiamo scoperto ovviamente qui le strategie anche dovevi far tutto la strategia anche di dire quanti nastri uso
+in che modalità in che sequenza grazie
+oggi c'è il cloud va bene è un bene o male eh però proviamo a declinare un attimo questa cosa sul cloud
+la sensazione come dicevo prima è quella che oggi con il cloud possa avere tutto subito perché effettivamente il concetto di cloud e questo no risorse potenzialmente infinite disponibili subito definizione di cloud
+posso usarle bene e posso usarle male posso usarle male per dire vado aumenta la mia di sviluppo integra sviluppo aggiungo e tolgo il gioco al gioco giugno il cloud ti dà sfruttando questa cosa qui una possibilità enorme che secondo me viene molto sottovalutata che è quella di allah
+possibilità di distruggere tutto il rivedere le cose ad una velocità che con un sistema un premio con un sistema su cui tu hai investito e ha rimesso soldi non lo faresti mai questa era un'opportunità che può essere sfruttate che secondo me va sfruttata
+sotto questo punto di vista perché hai l'opportunità di dire sì perfetto non lo non disegnate così tra due anni non risponde più alle mie esigenze la butto giù no no ho solo i costi operativi non ha costi di più di capability no quindi mi posso permettere di più
+laggiù ripensarla ridisegnarla è una soluzione nuova e tutto ho fatto una questione di di t m c che
+difficilmente si si consente una cosa di una cosa di questo genere qui ci sto pensando quando si parla di questi temi si vengo proiettato rispetto a quanto è corretto approccio
+rifaccio rifaccio tutto from scratch io sono uno che in generale molto contrario di riccione per me i soliti sistemi software e sistemi che devono evolvere nel tempo tendenzialmente ovvio che le realtà in ozio questa roba non controlla più è diventata troppo grossa e prendono butto via e facciamo il bicchiere bright perché è colpa di qualcun altro
+e io la rifaccio meglio che l'approccio tandem a volte anche psicologicamente comprensibile che però non è una cosa che a me piace però non in realtà non centottantotto discorso facevi tu cioè ci sono strategie di business eccetera quindi questo è l'estremo diciamo così
+sbagliato di questa poiché l'altro estremo come quello sbagliato e di più di questo approccio usi sono d'accordo con te forse ho messo troppo e così via chi chiamare
+corretto nella fase un po' quello che ho detto all'inizio nella fase iniziale dell'azienda della startup di quello che dev'essere avere una piattaforma cloud che ti permette di fare il bianco il nero blu e verde un giorno all'altro è perfetto ti permette di sperimentare di scalare rapidamente di pincara ridurre
+altrettanto rapidamente quando vedi che il modello di business non funziona di capire cosa funziona cosa non funziona è però ecco attendere non è economicamente sostenibile perché se devo spendere cinquanta cento duecento mila euro al mese in serverless tanto vale è
+ogni compro un pacco la bolletta e sopra magari ci mettono un po' angusto una piattaforma sempre presso open source pagherò qualcuno per mantenerlo perché va premesso sempre questa sto spostando il risparmio che oda dal dall'averlo in cloud a pagare qual
+uno per mantenerlo e probabilmente mi porterò del debito tecnico in casa dovrò assumere più persone europea però a conti fatti anche guardando quello che sta facendo di dieci c
+il risparmio è un'azienda che deve guardare alla sostenibilità economica oltre che a quella tecnologica non può non porsi questo genere di domande ripeto poi nessuno obbliga
+ad andare online da una parte dall'altra anzi utilizzare i sistemi di ridondanza su cloud che di fatto meno avendo la piattaforma principale è un premier why not così come tutti i sistemi di di be' capo mandando diretto
+mente per immagini su su west street dossier o dove ti pare è il tema che puoi fare tanta roba non devi essere un link da una parte dall'altra devi capire dove l'investimento è corretto e quali sono gli obiettivi dell'investimento perché
+ciao jacopo dire ama rifaccio un software col piffero si sia messo un dieci anni uomo andare a sviluppare un software felicissima cambio fa paura perché più simili a quelli non è che ci mette un mese per rifarlo da capo ci metterai non magari con altrettanti ma un numero considerevole quotidiano
+immigrazioni il
+la qualità del vivere e del servizio che devi continuare ad erogare eccetera eccetera eccetera quindi anche lì il dire dall'oggi al domani cambio so lo scrivo lo faccio nuovo però posso fare l'uomo del teddy
+stava dicendo anche gli hotel
+mi sorprende sempre nell'atto cioè all'atto pratico veramente dipinse nel senso che io ho visto nella mia nel mio percorso negli ultimi anni realtà che c'è tutto il contrario di tutto dalle realtà che dopo il discorso alla dieci righe è perfetto fitta alle realtà che dicono ah
+re gestire sistemi mi fa cagare si può dire a cagare
+io quella roba era che non voglio vedere il mio il mio processo di business i miei margini me lo permettono ma ragazzi io serverless tutta la vita io se potessi a me tutti ma tutta quella roba lì meno l'acqua e ciò incide box almeno la guardo meglio non mi voglio svegliare di notte non voglio avere gli
+e allora in quei contesti lì ma kaldewei andare andare in cloud of the web su server le solite web l'utilizzo di gatwick
+i whatever and service che ti vengono messe a disposizione alla grande è ovvio che ci sono casi d'uso che sono l'esattore l'esatto contrario e quindi nella realtà dei fatti ormai è proprio sbagliato parlare di principi bisogna guardare il caso d'uso specifico
+costringe specifici che si hanno e poi si decide dove si vogliono spendere i soldi assolutamente si e direi in linea con questo che
+ricalca anche il discorso sull'eterogeneità delle infrastrutture informatiche arriva a bombay filippo dalla chiatta che chiede un'opinione su hybrid cloud con un'altro approccio ha un po' la via di mezzo se vogliamo che comunque non è per niente tipo notano i suoi simili se può essere un'alternativa è
+paolo tutto e poi meteo opinioni specifica opinioni forti al riguardo sul cloud ibrido allora posso
+come dire mettere due centesimi dal punto di vista di oubliette perché che poi va bè nel nelle ecosistema clienti integratore e così via allora
+cloud ibrido che dovrebbe essere in teoria
+come dire l'espressione dell'utilizzo al meglio di entrambi i mondi o gay o comunque di più di più moderata ne ho sentite tante su cloud ibrido che diciamo a volte faccio ancora fatica a capire effettivamente il termine significato prevenire o un pezzo che gira in cloud è un pezzo che gira on premises
+ragazzi quante applicazioni possono realmente iniziare la transazione da cloud arrivarono on premise torna indietro magari con una latenza di
+in tale sufficiente per dare una risposta ora questo dipende ancora come diceva mi ricollego al discorso di jacopo effettivamente hai ragione dipende dal business gates se ci sono progetti che partono in un punto e si distribuiscono o che comunque partono on premise si distribuiscono in claude così via
+ora lui ha citato notare che molto probabilmente stiamo parlando di un ambito us sta un ambito è effettivamente un modello di scala eredità diverso rispetto a quello che potrebbe essere un modello platform giusto e a mio avviso se parliamo di kevin times che son fatti molte nella storia pensate un po'
+portavoce di dei loro modelli ibridi effettivamente potrebbe essere carino però la realtà dei fatti è che non ho visto ancora progetti grandi e meno io nella mia esperienza che girano effettivamente beh claudio effettivamente con tecnologia spaventa qui
+questa è la mia previsione sembra un punto di vista abbastanza attendibile visto che il fanalino che comunque con james bond werner odiò e tenete presente che nutanix ha fatto mille claim va poi l'ho passato su un platform si è fatto il supervisor nessun successe di tutti i colori in casa
+l'ex cliente sono un po' i pionieri se possiamo dire così dell'iper convergenza era va più che bene cloud quindi diciamo che siamo arrivati ad avvocato come last mile hotel di tutte le tecnologie come per esempio hanno fatto questo clima anche altri big vendor può avere nell'onda nella scia appunto di non dover vendere il loro
+no era semplicemente dalla lava ora a un altro una cosa che ho vi ho sentito anche in silicon valley e così via effettivamente l'utilizzo per esempio degli hedge storage con il famigerato globale in space che può in qualche maniera estendersi dall'ambito cloud per arrivare all'ambita on-premise questo dà un po' l'impressione di
+utilizzo un pochino più diffuso e distribuito dalle risorse però so se definirlo effettivamente un discorso a will cloud poi enrico ragazzi noi è da meno nell'azienda dove lavoro progetti ibridi in realtà ne abbiamo non è che non ne abbiamo abbiamo comunque delle componenti che
+regulation per una serie di motivi devono girare in parte on premise si parte evan in cloud però ripeto non è che tutta l'applicativo effettivamente albright ci sono pezzi e pezzi e comunque ci sono sempre delle intercomunicazione tra i diversi pezzi del disaccoppiamento che in qualche maniera permettono comunque una user experience
+sicuramente accettabile sono altrimenti siccome almeno io lo vedo poco fattibile ok vedo che cosimo sottolinea sata una nota sul fatto di quanto alcune parole non premano tre mesi al time per alcune del giro regioni geografiche insomma il concetto che in effetti certe fragilità che abbiamo con fornitori cloud pubblico
+ce le sogniamo seguiamo le furgone un frame e e immagino ci sta tutto no al discorso del dipende che poi a seconda dei casi ci sono situazioni in cui può convenire non convenire e quindi
+in gara
+se posso se posso dire una roba scusate che gusta la prima pietra diversi nota ha scritto un bellissimo kuwait peter
+che la memoria si chiama dublino essere variabili di pillars che in realtà spiega molto bene il costo della bici uno può avere trenta zeri trentanove dopo dopo la virgola
+il costo improponibile quindi il costo sarà molto molto elevato a volte può essere sufficiente averne due di nove e il costo si riduce del dieci per cento
+del novanta percento del suo stop sto inventando ovviamente sto dicendo numeri a caso però il tema è sempre una questione di rapporto costo rendimento e loro li spiegano molto bene come andare a calcolare tutto il team degli sla calcolare tutte della ryanair biglietti cross street journal e via dicendo
+così lo segnalo se qualcuno se qualcuno interessi vennero vennero letto un po' un po' di tempo fa e nella well well architetti tremo giusto e butch morris non non ricordo non ricordo verità che non ricordo male l'ho scaricato messo su sorridere ma sono letto di una sigla qui non ricordo dove
+ho trovato però quello quello che reggere nella certificazione per il salso addirittura neanche il tecnico proprio una certificazione rilasciata era proprio quello era proprio uguale pecora cioè non era una roba era proprio quel peter tecnico entrare nel merito come erano costruite le righe e poi lasciatemi fare seo
+il bookmaker ha il calcio alla fine tutto byte che devono spostarsi da una parte all'altra sempre storage è sempre network e quindi io da persona che fa infrastruttura da tanti anni non so che tacchi woolrich outlet minaccia nel nel senso
+è un glitterata dove bisognerebbe entrare nel merito di che cosa ci hanno messo dietro perché lontani xkè è sinonimo di infrastrutture iperconvergenti nel maine con dentro tanti dischi super performanti con lei all'astrazione per tutta la parte poi quello che ci hanno costruito intorno e come
+hanno connesso i vari provider bisogna vedere come è fatto e quindi o di quello stamparla sia di quello stiamo parlando ed è un grosso se non era per toglierla poesia
+ogni volta che mi che si parla di storia ma qui me dico alberi di fico il nome figo suona bene non mettere su una maglietta però sarebbe bello entrare nel merito di che cosa c'è dietro guarda rompo ancora di più la poesia perché lei live di claudio potrebbe arrivare pure alle estreme in cui ti dico che in molti righe john e anche all'inter
+dello stesso vendor e knightsbridge per come poeta
+lei porterà a adelaide adesso non è che ci vuole a toppe non facciamoci troppo complicata io la vedo semplice easy bread sei dei componenti che gestisci tu o prema e dei componenti il servizio cloud che credo che sia una condizione optato forse la più comune che c'è qua e adesso migrazione in corso
+perché magari ci sono situazioni in cui hai sia a sistemi il locale che ama su cloud quindi io quello vedo la mia personale difensori di madrid è quella poi ognuno fosse alla sway
+il problema alessandro che è un nome è un nome inventato al marketing cosa c'è dietro dipende da che cosa che cosa intendeva il marketing poiché tu abbia ragione e ford cioè nel senso che sia quello che dici tu dipende poi chiaramente dalle astrazioni che non sono standard sono state costruite su sta roba siamo abituati al mondo
+dove le tecnologie ti son fatte per essere come dire marketing spesso no o comunque sono usati in quanto dal devops scopo per cui siamo abituati a tutto però si è utile averlo quantomeno a livello di definizione comune perché se no diventa un problema puoi parlare e vorrei però
+aggiungere giusto un piccolo bit tecnico proprio sulle terminologie perché diventi quando si parla di david cloud si intende che cosa è allora secondo me dobbiamo realizzare un attimino ancora sul termine cloud che non è semplicemente uso il computer di un altro ma vere e come si diceva tante lipasi come avevano si dice
+sporcato la definizione in tante salse tanto tempo fa allora dove doveva guardare i modelli operativi quando parliamo di claude e dai modelli operativi dopo arriviamo a altre definizioni certo c'è molto molto baso molto ma accettata dietro le terminologie quindi prendete con le pinze quello che magari potrebbe essere
+una mia definizione che mi sono dato quando giusto per darmi un orientamento quando parliamo di un private cloud per esempio brevettato che cavolo e alla fine è un modello operativo che è più simile a un modello provate a osservare che tu avresti come andare in cloud con l'unica differenza che alla fine è a casa sua ci è accaduto cosa vuol dire che il
+il
+il la governance di tutto lo stack è a tuo carico o comunque di tutto o di una parte comunque di una parte significativa delle crostate e vai a controllare quello che è lo stato di aggregazione delle risorse che in qualche maniera dopo creano associazioni logiche così via e quindi ti danno la parvenza di essere
+sul cloud provider anche se sei on premises i tuoi guardare sempre il modello operativo hai mercati effettivamente se lo intendiamo nell'accezione e nel muso gli stessi modelli operativi e allora torna la definizione di manuel che dice beth e anch'io da una regione all'altra ho lo stesso modello operativo perché non posso definirlo di questo ma definisco sheldrake
+ho qualcosa on premise allora qui potrei cominciare a ridurre un attimino il concetto di prader cloud in infrastrutture on e infrastrutture premises non è esattamente il parere del caso secondo la mia concezione secondo quelle che sono il modello operativo che applichi le gran premi sisa alla fine che cos'hai hai l'infrastruttura virtuale del testa
+il mistero di una serie di cose ma non hai a volte e questo avviene nel novantanove per cento dei casi non è definito un layer di astrazione che ti permette comunque di andare a fare come si dice efficientamento delle tue risorse
+dell'infrastruttura sottostante quindi insomma
+vuoi dire è facile incorrere in in questo episodio esterni in queste cose però ragazzi effettivamente nessuno ha scritto che cos'è definitivamente dal punto di vista tecnico un ebitda quindi voglio dire proviamo a darti una definizione noi a questo punto se effettivamente il dizionario del perfetto sistemista non ce l'ha
+io la faccio più semplice del previsto però effettivamente se ci sono queste possibili divergenze di significato ben venga ma
+io vi dico solo che duemilaventidue silicon valley abbiamo parlato di superfluo
+il bazooka modello operativo di cosa stiamo parlando effettivamente è un modello operativo però si rifà solo sullo yacht perché perché prendi il modello operativo che avevi un premises e lo sport utilizzando risorse cloud che lo fa questa cosa qui io guerrero da blues di anguera on premises oracle cloud guardate sono
+ritornate in auge quelli che noi avevamo un pochettino non dico no snobbati però che non fanno parte di concetti che oramai i concetti evoluti nella quale noi siamo adesso abituati a lavorare per esempio quelli infatti mi sono trovato come un pesce fuor d'acqua vi dico la verità io sono troppo boom
+scherzi a parte chiaro il mio punto è semplicemente che bisogna districarsi un po' nelle buzzword io ho preso poco il marketing driven development e apprezzo un po' di più la roba concreta ma bisogna capire dove sono i casi dove sono i cavi che hanno tirato
+oh come girano i pacchetti dove giro dove si stona la roba come vengono approvvigionate le macchine e poi ne riparliamo ok partiamo da lì chat è chiarissimo tutta la parte su modelli operativi super importante quello del pratico che dicevo prima la prossima puntata facciamo un balzo york bingo
+perdere io molto roll up alle conferenze
+allora reso la mia vita molto più semplice ma allora francesco e prossime conferenze le nuove conferenze e del futuro quali sono e perché quella che è tendenza è diventata una conferenza organizzata e quindi a questo punto tu fai tendenza e ci dici quali soldi noi facciamo tendenze esatto in realtà sta ci sta fallendo
+da anni il cobol dei
+conferenze a cui tengo
+organizzare ma non riesco a trovare il lumen è qualcosa sul machine learning ma che ormai è molto hippy quando abbiamo provato a lanciarla il duemiladiciannove quindi qualcosa tanto male ma non dipendeva da noi voleva lanciare una sulle pratiche nel pc e poi su tutte quelle che vengono utilizzate oggi
+la cbt e così via e-mail o sms
+e simili i linguaggi di programmazione ormai sono quelli peraltro quasi tutti i linguaggi conosciuti
+e simili hanno un problema di vecchiaia della base utenti almeno gli utenti giovani non stanno partecipando community
+community partecipano di meno conferenze partecipare alle videoconferenze vediamo più o meno sempre gli stessi nomi chiedono a parte che dall'altra del parco
+javascript ogni settimana si reinventa il mondo e perché non gli piace mantenere il
+the gold standard standard nel tempo bisogna inventarsi un lavoro nuovo fairway settimana oppure lo stesso faremo anche che ogni settimana
+major con delle
+rotture sulle aree
+grandi classici e avrai provato l'ebbrezza di programmare in javascript nelle prime edizioni client side la voglia di arrivo
+ragazzi lasciamo perdere che è meglio e pensare che è diventato un linguaggio di punta in ambito server l'estate testi sessisti
+mi chiedo come sarà grazie voleva che quando parliamo di javascript malaffari a
+le hanno attirate di parolacce davanti al monitor a io così avevamo invitato in italia brendan
+glas crawford steve saunders quindi comunque quelli che hanno fatto già javascript timone delle performance
+di tutti i timidi e altri altri contenuti nuovi e interessanti in realtà ne vedono relativamente pochi adesso magari tra i link della roba fuffa driven avversi blockchain
+così questo genere e cerchiamo magari di andare piu opaco gusto molto sul concreto e
+un team che vorremmo portare avanti la conferenza sulle pratiche
+i developer experience ed è bello per l'esercito barella e di
+perché pensiamo in italia siamo indietro di qualche anno su questi temi dal tantissimo già uno che mi dice che la mia azienda non mi manda della conferenza perché ho già fatto un workshop
+fa star male e io nel duemilasette avevo messi budget conferenze a tutti i dipendenti usabili usati mi dovete dire perché non li avete usato quindi altri tempi altri altri tempi altre aziende è però soprattutto poi nelle aziende che fanno tecnologia non è vero
+un piano di il chiaro verso l'esterno e denaro
+di chiaro verso l'interno vuol dire volersi male volersi male perché oggi gli sviluppatori non si trovano e quindi bisogna lavorare per attirarli elaborare sostenerli per rendervi felici o kube non non rendergli
+insoddisfatti del lavoro che stanno facendo ci si burocrazia per l'eccessiva complessità della gestione del box kodak e i ciclo chiederci
+quali sono altri due eventi che vorremmo lanciare poi vediamo se nel duemilaventi i trend
+il duemilaventiquattro con
+vediamo come come andranno ma non so quante aziende in italia ci siano che faccio notevolmente questo chip si contino nulla sui punti sulle dita di una mano curiosità francesco ma le location degli elementi sulla base quali criteri le città e i posti in cui la comodità
+ah ma allora no facciamo dei complessissimi calcoli statistici con logaritmi quelle cose lì e in realtà cerchiamo di trovare degli hobby a parte faenza e veramente comunità anziché dormire
+il mio teatro cinema di cui ho le chiavi quando voglio vado organizza una conferenza quindi tutti voi sul design porta faenza un po' fatemi solo a me e un po' perché non sono omologo di case di stradari è però bologna e verona nascono perché perché
+sono molto comodi facilmente raggiungibile da tutta italia e sia su bologna che su verona arrivano treni diretti da qualsiasi non facciamo a milano non facciamo milano perché non ci piace milano sfide male sistemare ciò di cui ci ha dei costi molto alti milano e orientale del
+che siano cominci
+delle drive da milano significa di fatto essere nelle mani degli sposi quindi dover accettare qualsiasi genere di compromesso molte sposo invece noi riusciamo ad avere le conferenze che
+vanno a pareggio o giù di lì con i biglietti nonostante i biglietti siano economici perché sì è vero abbiamo aumentato dio dieci per cento rispetto al duemiladiciotto dal duemiladiciotto al duemilaventitre stato un aumento del dieci per cento dei costi billy kenny prossimo avremo
+nel prezzo del biglietto è intorno ai centodieci centoventi euro più iva al giorno di conferenza se guardiamo la conferenza analoga meno gli stessi numeri guardare un gigantesco neo
+stessi numeri in giro per l'europa vanno dai trecento euro più il viaggio per arrivarci e le persone soprattutto scuole internazionali che facciamo sono le stesse quindi un po' l'obiettivo è anche è anche quello di continuare a mantenere le i nostri eventi
+relativamente economici
+più in più ci pensiamo anche tutta la parte di borse di studio per chi non ha lavoro perché studente temi di deversi di usi e inclusività quindi anche di puntiamo a renderli più accessibili
+possibili tutti quanti e
+abbiamo fatto degli strumenti in passato abbiamo fatto o eventi a bari a roma e a milano e
+bari roma abbiamo avuto problemi di logistica oh sì egli è lì il tempo si conoscono le persone conoscono dove abitano le persone nel momento in cui il giorno prima delle conferenze dicono e malchut ha cambiato idea non viene più o forse tinder
+questo genere e sale che ti avviso due giorni prima che il bollitore non proietta il verde o altre cose oppure sempre su roma
+post it sono venduti come centralissimi human resources solo un'ora e mezza da termini per arrivarci perché non ci sono mezzi pubblici a roma
+la metro di fatto non esiste e gli autobus è un terno al lotto riuscire a prendere quello giusto o che dite su milano e i costi devo andare a milano a fare un bell'evento o cede gli utenti sono fatiscenti veramente pacchetti hotel con centro congressi oppure vai sul classico amico o
+centro congressi a vendere equiparati i tipi ti spennano ti spennano con un servizio
+rispetto a un savoia a bologna dove abbiamo un catering stellato e a milano ci compri i panini che più che ci stiamo a qui mosso varie organizzando casi di italy
+club
+per di promozione se noi per fare un giorno evento totalmente community vorremmo tenere al minimo gli sponsor eccetera sopra i cinquanta cappa non do la cifra giusta ma siamo abbondantemente sopra i cinquanta ooo il fiume la carta e il budget complessivo di un evento è detto che che organizza
+okay quindi mappa mira a milano non ha assolutamente senso se poi parlò dell'energia lascia stare
+via libera gente che ogni volta che vado libico oggi qualcosa per la cena enorme polso al gomito che fa contatto col ginocchio sono stanco sono ancora in ufficio scuso di yogurt che stanno scadendo israele
+che rimase calvo o mi devo lavare i capelli o forse sono io il problema del non profit
+comunque parlare di conferenze dai facciamo uno schema ets plaga perché comunque ci sta quale state organizzando date tempi per le prossime sia francesco anche thénardier
+c'è jacopo e comunque anche linux e fate qualcosa ancora arto arto io che che che qualche altro mi dimentico stavo facendo allora abbiamo sicuramente il sedici di giugno che di italy quindi i governanti strumenti day italia evento dell'agenzia effe che stiamo organizzando
+vado insieme a pochi altri organizzatori quindi eventualmente community abbiamo chiuso da poco chip quindi insomma partecipato a numerosi sarà sarà molto bello
+poi che io sappia abbiamo sicuramente dopodomani se non sbaglio il sedici marzo del web che sta organizzando
+il buon andrea saltarello e via dicendo e
+sicuramente c'è anche
+le tabs da amit diciamo che quest'anno organizzeremo la organizzate voi non sono urgenza c'è una che dice è in realtà un gruppo di organizzatori dove io sono solo marginalmente coinvolto non ricordo male sarà anche questo giugno poi magari twitter o post roba quindi se magari mandatemi poi riferimenti che
+mettiamo in discussione si è
+e e basta quindi questi sono un po' gli eventi sono un po' gli eventi su cui stiamo su questa mora perfetto francesco costa e allora
+trentuno marzo abbiamo il cesso sede a faenza dopo due settimane il tredici aprile jazz a verona che durerà due giorni poi abbiamo a maggio in via rapida delle do
+lunedì dati storici su diciotto diciannove maggio subito dopo a giugno abbiamo noi winx xda
+è il nove di giugno e il sedici la settimana dopo ruby dei
+ad airola news lo facciamo a faenza e poi si va si riparte da ottobre con i container dei dodici il
+days of the day il tredici tra l'altro vedo che reggeva appena luce di il calendario di tutte le conferenze italiane e perché abbiamo creato un gruppo di collaborazione e vedo che il tredici hanno appena annunciato la gelida radici di ottobre il ventisette ottobre reato gears dei nostri sei ventisei
+di nuovo qualcosa affiancato di stato ci proviamo e poi si va a novembre con laravel day nove giudei di dieci e sei novembre la angular dei ventiquattro anni ci facciamo mancare nulla cosa altemps ocse e da quanto tempo lo sta facendo quest'anno
+infatti mi sembrava è venuto il primo biglietto
+bene allora buono a sapersi
+hotel cortez day che è nato da una discussione con jacopo durante i container dei
+sarebbe bello parlare di un po' di sicurezza perfetto proviamoci dove lo fa sempre a bologna dove mentre a bologna e presidente facciamo l undici dodici e il tredici ottobre undici faremo dei workshop in ambito sicure security for container incubo barnett
+so che quello che il dodici vogliamo
+è il tredici facciamo devsecops day sono le trattiamo come conferenze separate poi l'idea capire se cessi se ha senso continuare a fare ogni anno in of sda può renderla una conferenza a ogni due anni e alternarla a un qualche altro argomento verticale
+nell'ambito quindi potrebbe essere un e-mail o whatsapp potrebbe essere un filobus o qualcos'altro anche perché poi c'è il rischio che gli album siano mai argomenti veramente freschi la dava portarsi in caso molto interessante mi metto in lista faremo magari una alla colle del giorno dopo
+bene e vino tu invece come maga come viene wellness group italia siamo stiamo ancora facendo il planking quindi non abbiamo ancora delle date diciamo che noi cerchiamo di interessi come si sia intersecarsi e come possiamo
+per non sovrapporsi con gli eventi ufficiali viewer pd probabilmente siccome il viewer di jaguar annuncia due eventi principali all'anno e che sono i due eventi
+diawara explorer si chiamano stiamo più via world in realtà non so sono due adesso sono anche quattro però vabbè quelli più importanti sono las vegas e barcellona noi cerchiamo di stare fuori da queste date e finisco il viewer explora barcellona soprattutto cade di novembre e noi lo faremo in ottobre faremo il eleven
+foto principale che chiamiamo user cal user conference che è un evento di un giorno più vediamo se riusciremo a fare anche qualche extra la sera prima nel senso che siamo viewer tempo ha cambiato pelle ma noi come amorosa europa abbiamo seguito non tanto la scia di viewer noi abbiamo comincia
+anche noi a
+come si dice a portarci verso le community devops e quindi
+l'idea probabilmente quella di organizzare qualche cosa di coding il giorno prima e vado può fare diciamo l'evento principale il giorno seguente lo faremo a milano e da location ancora da definire
+però anche la data stiamo facendo in modo di non incrociarci con il container dei perché è magari a vedere container da chiesto
+tipicamente praticamente
+beh però fatto portavoce di questa cosa scusate non è una leccata finale ma perché evitiamo hedge cerchiamo di fare gli eventi cerchiamo anche noi di evitare sovrapposizioni e invece per gli altri re gli altri abbiamo il programma dei meeting in tutta italia
+solo che le location sono ancora da definire perché abbiamo logicamente noi avendo tutti gli eventi gratuiti stiamo cercando di barcamenarci con gli sponsor dove però qualcosina sembra che siamo riusciti a smuovere e quindi mettiamola così tra
+aprile maggio e giugno ci saranno tre date ma poi ve le comunicheremo state facendo in ogni caso se andate sul sito www punto it si addentrano tutte le date per penale annunciamo che fai insomma
+se vedete così via e basta invece deve parlare come the gaines saremo lì a rompere le scatole non puoi dire eco lanciavo anche se volete l'idea per avere due disgraziati da ospitare per fare podcast per rompere le scatole alla gente se volete nei nostri eventi
+noi siamo sempre disponibili come dice uno fisico l'altro da remoto tutti e due da remoto nome probabilmente
+da remoto fa veramente schifo ma la ciambella
+vi dico questo perché
+di ibride siamo riusciti nel viewer explorer dell'anno scorso dato che uno aveva il biglietto l'altro no abbiamo dovuto fare l'intervento ibrido
+nel senso che io parlavo in location lui era collegato in remoto e faceva la seconda parte dello speech
+vi lascio immaginare un po' tutto il contesto effettivamente una voce che parlava io davanti al palco muto
+se però l'abbiamo fatta ecco
+preferiamo la lingua
+se volete possiamo allestire un angolo podcast dove andare a rompere le scatole alla gente ovviamente sulle tematiche sempre quelle infrastrutture cloud kubernetes modelli operativi anche hacking se a qualcuno piace mondo
+come si dice della argo racing palese genere google qualsiasi cosa che fa piacere google accontento anche ale ovunque e roba
+dire strong br
+estinte siamo estinti non del tutto einstein
+beh comunque qua di livello boomer stasera preoccupante ma aspettavo gente fresca con idee nuove è arrivato jacopo che
+più avanti twitter
+mi fai basarsi ma per azionare mabasta tecnologia vast
+orpheus divertire con holden di posto
+no mai smesso di divertire io dopo che mi sono dimenticato la valigia in albergo incontro devops è fatta
+sono arrivata a casa ho detto ma legge diciannove
+no io ho capito che non fa per dire
+l'ho chiamato lontano chiamato dall'albergo no decorativo mandato
+effettivamente stiamo vendendo e nel dubbio abbiamo chiamato gli artificieri stavamo facendo brillare che volevo documentare anche questa cosa grazie molto bene e beh abbiamo fatto abbiamo raggiunto agevolmente il nostro re e mezza di riferimento però noi non abbiamo particolari orari ma va da sé che
+è in linea con i tempi prima di chiudere però io metterei ciascuno di voi a fare una cosa finale qualcosa di instagrammabili tra virgolette qualche dichiarazione su quello che verrà discusso oggi comunque presente e futuro delle conferenze della t senso lato seguiamo poco allargarci
+qualsiasi cosa di memorabile vi venga in mente da dire adesso pensateci bene perché fra poco inizia a cedere
+tipo quelle dichiarazioni che poi si risolve risultano i lacci e quindi a vita verremo additati
+attento detto quello che io sia molto generico con frasi un po' effetto che non dicono niente ma è sempre bene una frase effetto cosa dire naturalmente da avere inizio con le cose a dire che questo è quello che con te ma allora cosa dire dico la cosa per noi principale cioè che spero che tutto quello che è
+sto ma tutto quello che è e conferenze in presenza riprenda riprenda al top perché ci saranno non dico più occasioni bastano quelli che già ci sono però con maggiore compartecipazione diciamo condivisa di persone vecchie e nuove in maniera che ti crei veramente un ecosistema
+di di condivisione si riprendono avere un cuscino di condivisione aperto
+e io qui lancio una sfida in realtà francesco e cioè di non fare una versione la persona viva o di mettere a disposizione della nostra azienda network solo chi c'è presenza
+quanto ci abbiamo pensato solo che oggi considera che
+faccio olimpico a proposito l'azienda che è stata ospite al fatto dal brusco perché nel duemilaquindici sono cambiate le leggi e il terzo settore e per un'associazione no-profit fare venti era diventato veramente un incubo e quindi abbiamo perso una azienda aziende che continuate a fare dei agosto ed golfo un certo punto a fare eventi anche per altre associaz
+ioni che si erano ritrovate nel nel nella vostra situazione per qualche anno abbiamo
+tutti i server dns day erano nati in seno al louise il gruppo di server ssh da blue sky li abbiamo gestiti noi
+sotto il cappello il problema che apropos è un'azienda a dipendenti nonostante la pandemia siamo cresciuti eravamo tre pre-pandemia adesso siamo in sei
+uso un plurale maiestatis perché io non sono dipendente sono socio e sono il volontario che montero l'app quindi questo è opera di ricalibrare la mia presenza il mio impegno è oggi il canale online è un canale che comunque ci permette di remunerare un pochettino e di
+pagare
+e pagare stipendi quindi senza nascondersi dietro un dito eliminarlo di punto in bianco non permettono non ci riporta indietro le persone che comunque non verrebbero è che l'evento se lo vuole di nuovo guardare in streaming in differita tant'è che
+re
+streaming avevamo le persone che comunque ci chiedevano di poter comprare soltanto il video per perché di fatto non gli interessava essere di essere li ama francesco io capisco cioè nel senso io rendo perfettamente conto era una gara
+però ho capito che era una boutade intera e rendiamo però chiaro esplicito tutti cosa succede nel mondo le conferenze oggi perché è è tutto molto più complesso rispetto a qualche anno fa dove dicevi faccio un evento tanto cinquanta persone vengono comunque qualsiasi siano i contenuti nonché il mosso
+questo aspetto che avere a disposizione affinché il materiale sempre comunque compromettere la parte shield il singolo fattore che comprometterà
+o è un mix mix e ci proveremo probabilmente un paio di eventi toglieremo la diretta che però non non penso che sia quello i feedback stiamo dando siamo molto attenti facciamo serie di sondaggi da altro e quel che posso dire io come come come come chiudo
+giura e che la corte con cui abbiamo già parlato in maniera estensiva che la coltura del comunista sta è radicalmente cambiata in italia nell'ultimo decennio il covid ci ha dato la mazzata
+nel senso che
+cercasi co millecentodieci uno mille sono iscritti cento leggono dieci partecipano scrivono e uno fa le cose queste cose qui è calata di assistenza dal punto di vista che abbiamo ancora di più non solo quello uno che fa le cose oggi se prima ne faceva per la community quindi per lasciare va
+lore ad altri oggi
+non sempre ma spesso le fa per se stesso di quelli che prima erano community oggi si sono trasformate in un tweet privati di evangelist o quelli che vogliamo quelli che vogliono essere che di fatto parlano per se stessi si portano del valore ma non poi
+alfano nel valore strutturato di aiuto vicendevole sono io che dico le cose risponde a qualcuno in chat ed è finita lì e questa cosa sta sta evolvendo molto rapidamente nel tempo qualche anno fa si iniziava a intravedere oggi sono pochi i
+usa il gruppo qualsiasi sia la lettera prima le app e riescono ad essere attivi martiri con nuove persone alla fine sono sempre le stesse dieci famose che partecipavano sempre quell'uno famoso che è sempre lui o quei due tre che fanno sempre
+retour gli interventi è un discorso da boomer forse
+la parti comuni che si sta cambiando sta cambiando radicalmente e intercettare questi cambiamenti è molto molto complesso molto complesso soprattutto perché almeno
+quelli che partecipano ecumenici che gestisco è ad esempio qui su su su the rock non ci vanno non gli interessa andarci e anche su twitch sono in pochi quelli che ci va e quindi anche di poi riuscire a emergere questi gruppi d'età diventa difficile quindi
+qual è la cosa spero nei prossimi anni che magari questo spirito di community riprende ad essere più attivo è però so già che molti edifici molto interessante manuelino io chiudo chiudo velocemente genere nelle nelle compere
+alle conferenze fisiche diciamo che ho sempre fatto tanto networking e ho guardato meno
+ed e devo dire che questo ha avuto diciamo
+tutte le volte ha avuto dei risvolti positivi perché ho sempre trovato altre persone con cui sono in contatto anche adesso c'è più che meno che comunque sia avrei sono occasioni che non avrei avuto
+beh o guardandoli online quindi networking del termine
+concordo con quello che dice manuel e io volte penso
+possiamo seguire partito hoc e così via poi logicamente è uno che segue magari una conferenza in trenta minuti può dire qualcosa non puoi dir tutto adesso questo è un po' di perché la conferenza dev'essere o può rappresentativa neanche deve dare proprio tutti i messaggi e tutte queste cose cioè deve comunque lasciare degli spunti e sinceramente ingiusto
+oh mix fra seguire l'evento
+aprirsi anche a quello che è un momento di networking è molto importante poi ultimo ma non ultimo io ne sono sempre più convinto che si dicono più cose davanti alla vera volte che davanti a una conferenza nel senso che quella che è l'essenza effettivamente del vedersi e non è quella di fare networking e basta perché poi voglio
+con i mezzi virtuali che abbiamo oggi rimanere in contatto è veramente un attimo cioè voglio dire
+si fa presto in mano al presepio ci siamo visti qualche volta in un anno paio potrebbe essere lui a roma io sono a cremona insomma potete capire che se non c'era mezzi di comunicazione a quest'ora non faccio laurea che però per dire
+comunque il desiderio di vedersi di incontrarsi secondo me è talmente forte che a questi momenti non ci vogliamo rinunciare e sinceramente lo dico anche un po' per tutti è fondamentale riprendere l'organizzazione degli eventi
+siamo alla fine
+chi più chi meno
+come si dice persone che creano la piattaforma per l'evento e per questo il nostro contributo è importantissimo ultimo volo all'ultimo la partecipazione delle persone ovviamente possiamo inventarci qualsiasi cosa però è che giustamente come dice francesco è un po' un terno al lotto sei ragazzi qui a giocare coi dadi capire se è il momento giusto se alan
+giusto se il topic giusto se è diciamo la community giusta anche se stiamo per esempio per la parte di vmware come vi ama il presepio è una commedia e si sta trasformando nel tempo dove prima portavamo solo gente fanatici di storage networking infrastrutture oggi ci sono anche gente che opera
+ops e così via quindi capite bene che la
+la scena è cambiata e quindi per questo motivo sicuramente noi possiamo stare lì e ascoltare e recepire il più possibile quanti segnali quella comunità per cercare di creare sempre l'evento migliore molto bene beh direi lunga vita alle community lunga vita alle conferenze chi va o ci usa a
+sai il motivo per cui ci va chi non ci va sappia per cui che il motivo per cui tanta gente ci va ci torna e proprio per il gusto di dell'incontro delle tasse chi non ci va sa quello che si perde adesso e adesso forse sa quello che si perde per cui c'è sempre un modo per ritornare in te per tornare bene io direi che
+che per stasera possiamo chiudere qui io vi ringrazio molto per questa partecipazione è una puntata un po' speciale ne valeva la pena credo che tutte le volte che andava conferenza di fare uno speciale perché poi ci sta a parlare delle cose che si son viste e chissà magari lo faremo ancora con voi e grazie di nuovo
+e alla prossima grazie a voi grazie ringrazio tutti cioè sperando di download

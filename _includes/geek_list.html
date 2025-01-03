@@ -1,19 +1,20 @@
-<!-- geeks.md -->
-<row>
-  <div class="container">
-    <h1>Tutti i geek della brigata</h1>
-
-    {% assign geek_list = "" | split: "" %}
-    {% for episode in site.episodes %}
-      {% for geek in episode.geeks %}
-        {% unless geek_list contains geek %}
-          {% assign geek_list = geek_list | push: geek %}
-        {% endunless %}
-      {% endfor %}
-    {% endfor %}
-    {% for geek in geek_list %}
-      <li>{{ geek }}</li>
-    {% endfor %}
-    </ul>
+<section id="geeks">
+  <div class="content-section-a">
+    <div class="container">
+      <div class="row">
+        <h1>Briganti in azione</h1>
+        
+        {% for geek in site.geeks %}
+        <div class="row adi-list">
+          <div class="col-lg-7">
+          <a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ geek.name }}</a></h3>
+          </div>
+          <div class="col-lg-2">
+            {% for episode in geek.episodes %}{{ episode }}</br>{% endfor %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
   </div>
-</row>
+</section>

@@ -1,0 +1,413 @@
+e quindi siamo arrivati alla puntata cinquantatré della brigata degli istinti non senza i nostri soliti problemi di coordinamento stream incrocio dei flussi e quant'altro è questa puntata facciamo con gabriele santo maggio valentino berti alessandro bozza e succo permette reduci dalla cube con chi
+c'era chi non c'era non importa comunque parleremo di kubernetes l'oggi e magari il futuro quello che possiamo aspettarci nei prossimi anni e velocemente breve presentazione beh noi abbiamo due istinti recidivi gabriele e alessandro però presentatevi pure poi andiamo avanti vai gabriele se
+ciao sono gabriele
+lavoro in broadcom ex guerra lavoro nel team di rab tim cook e come dicevo prima sono partito sulla parte di kubernetes per quanto riguarda l'opera editor e e poi sono stato assunto da avviamo guerra anche per lavorare sul operator ma adesso fa
+ciò altro valentino towns valentino berti lavoro per l'app come specialista solution architect caro principe che segue la parte infrastrutturale è superato dal duemilaventi parto oppure istruttore poi come consulenti quindi lavorando nella
+servizi professionali di elevato sempre in openshot e da dall'anno scorso sono cominciato il mio percorso come specialista della sociologa alessandra e alessandro italiano ad amsterdam
+emigrantes hector non lavoro nel senso hanno
+c'è stato un kyle off dove stavo solo notaio a gennaio e quindi posso felicemente dire che sposò a spese dello stato olandese giusto giusto qualche un paio di settimane un po' di settimane che sto sto cercando in giro ma in realtà sto bene ex microsoft e redhat
+c solo è sexy ma la parte più importante di me che organizzo il meetup e guida di amsterdam olandese è il caso di un di daesh
+in virtù del lavoro costante nel comune di manno mi hanno fatto ambasciatore diciamo della della camera di coprire foundation per me come tanti altri anche molti degli altri
+una buona fiero di essere beh comunque email linux puntocom me quindi tanto e tanto sperma o cambiare da microsoft com linus bloccavano la gente rimasta scioccata pensa un po' come le vie della vita allora
+kubernetes è stato dell'arte cos'è come oggi kubernetes come si può considerare a livello di utilizzo di software
+industria se kubernetes chi era costui kubernetes dieci anni e il primo commette nel duemila duemilaquattordici più o meno in realtà susan sto un po' lenta all'inizio un po' molto molto cauta e oggi dopo dieci anni si può dire che chi ha vinto tutte le guerre
+battuto diciamo è
+vince tutto a mani basse in realtà
+quindi forma la base di tutte le piattaforme tutte le cloud non c'è un solo vendor a parte forse jack corp
+ma forse un po' ma neanche docker swarm non esiste più qui non c'è un altro orchestrato al di fuori di kubernetes tutti tutti si basano su quelle piaghe tutto gira contro quello che hai e stiamo possiamo dire che a questo punto e che succede dopo kubernetes no blog che viene messo su
+kubernetes o come viene messa in sicurezza come viene osservato e via cantando quindi dieci anni spesi bene dieci anni alla ribalta
+che eravamo pochi pochi poca gente ai cube con di non non ce l'ho neanche io non ho neanche google
+però david che eravamo poche centinaia a poche migliaia ai dodici mila di parigi la più grande cubo economy anche una una delle più grandi conferenze al mondo dell'open source in realtà è con la cloud foundation vada da un progetto kubernetes nel duemilaquindici
+attuali centottantaquattro quindi diventa la grande casa dell'open source cloud native e si può dire che si è mangiata anche la linux foundation
+insee flying fighters è una subordinata alla linux foundation ma in termini di numeri di partecipanti di membri è più grande della news foundation quindi altri dieci anni così non so come e come andrà a finire ma in realtà diventa diventa quasi
+è ovvio che kubernetes è la base del cavolo che amano il linux del cloud look per il sistema del cloud come jolly kernel the cloud quindi e a questo punto è quello che che la linux alla fine dieci anni fa gabriele valentino avete qualcosa da aggiungere a questa presentazione roboante di alessandro
+ma penso che che ha detto tutto perché bisogna aggiungere molto altro sono d'accordo diciamo che ormai è diventato quasi una roba sicché si dà per scontato e non ci dimentichiamo mai che comunque kubernetes aggira comunque su su linux quindi comun
+la base è di linux ce l'abbiamo sempre vende completamente componente d'accordo e ho visto ultimamente che ci sono anche alcuni servizi che se prima di nascondevano cooper niente sesso ti nascondono qualsiasi cosa quindi magari saudita non cover nantes e neanche probabilmente ti rendi più conto
+e probabilmente neanche ti interessa come
+come è giusto che sia insomma su server oppure su altre lambda eccetera eccetera ormai si dà secondo me è proprio
+oh l'environment perfetto è come l'aria che respiri no è lì è lì che c'è
+belen ma a me ha parlato di evoluzione perché di questo stiamo parlando e pensando al mio primo impatto con cuba niente che è stato un disastro nel duemiladiciassette perché non non conoscevo kibernetes pensando quei tempi dove
+era sostanzialmente una un orchestratore per applicazioni e guardandoci oggi adesso abbiamo
+networking possiamo gestire bridge milan abbiamo neppur pollici abbiamo concetto di harper shift per oyster contro blaine e possiamo far girare nelle macchine virtuali con consumi virtú adesso temo molto forte quello dei confidenze al containers il fatto di poter
+cifrare la memoria per impedire in caso di hacking dell'host di effettuare lampada della memoria è un'involuzione pazzesca e soprattutto è duttile ogni cliente alle sue esigenze e kubernetes con tutto il mondo che ha
+che è piuttosto enorme holder anche dopo l'ingresso degli operai portano sia facilitato però aggiungendo funzionalità quest'umanità che si traduce in aggiungo cardio raggiungo si erge tra eccetera
+la governance insomma non ha
+forse la cosa più semplice di questo mondo google sono d'accordo con voi che
+e risponde veramente a tantissime esigenze ecco perché la orchestratore a tutti gli stati più utilizzato in tutte le sue clamorose distribution amici o apro giusto una parentesi sui operator nel container te penso ai due anni fa ho fatto un tour che lo ha intitolato operator
+the next war perché sui operator come ben sapete non c'è una come dire una linea guida quindi ognuno fa quello che vuole e quindi sono opere etoro opinion ati meno opinion ati e come dicevi tu gestirli diventa un casino perché non sono uniformi e quindi ti deve andare a studiare ogni
+singolo operator ogni dettaglio e se posso diciamo adesso noi parliamo quant'è fico gubernatis bellissimo sono d'accordo ma io sono uno smanettone diciamo anche volendo anche un po' più di basso livello se così si può si può dire secondo me su operator
+canyon neanche oso dire non è stato fatto un bel lavoro perché lungi da metà dal criticarlo soltanto che appunto operatore di persona cosa tecnicamente fantastica però non ci sono delle linee guida non c'è uno standard quindi ognuno può scrivere l'opera etoro come vuole e questo ha creato secondo me anche un po' di di di con
+fusione perché tu ad oggi non solo devi essere esperto diciamo della del sistema per il quale operatore l'operatore è stato scritto ma anche dell'opera di torre che sono due cose diverse questo
+in aziende con la quale ho avuto a che fare ha portato un po' di confusione faccio un esempio cioè se sei esperto del database ix non significa necessariamente che tu sia esperto anche l'operato c'era operator te lo devi studiare e c'è il database c'è il broker c'è quello c'è quell'altro viene operato secondo me se devo trova
+are un punto che a me non piace moltissimo diciamo kubernetes è proprio quella parte lì nonostante abbia scritto operator e anche più di uno proprio perché non scritti dico che non c'è nessun tipo di standard non so che cosa ne pensate voi insomma questa cosa detta alessandro e sono d'accordo solo che il opererete non sono per me
+chi dovrebbe essere l'autorità suo operato
+sono tante e diverse community c'è quello di radice che ne sanno quelli che fanno reality ma anche con la card stavo cercando installa world flow l'altro giorno ce l'ha con mutiny cape charles carter dalla
+da quelli di astronomia è un ecosistema no tutti come è come in russia tutti avevano due tre modelli di macchina no e sono quelle quel quello e piace piace tutti sanno governare poi quello che ci metti dentro e sta a te è questa cioè la libertà si è
+sugli accessori no sull'operato o magari un security scanner piuttosto che un altro
+guarda come c'è un sacco di interessi un'industria un'intera industria scaturita dal fatto che tutti guidiamo la stessa macchina tutti abbiamo lo stesso oz tutti abbiamo lo stesso motore è poi quello che ci mettiamo su un ecosistema un'industria che fa libera e
+è meglio c'era scelta però tutti sanno che possono contare su delle primitive su delle piaghe ex comuni magari non ti può piacere puoi puoi dire ma forse
+potrebbero aggiungere qualcosa o togliere qualcosa per esempio non so se conoscete il progetto dei tuoi hp e molti ci ho messo un po' a capirlo o no a queste clip in realtà sono standard di kubernetes parole devi installare disinstallare shepherd apposta è proprio una scelta politica perché
+non vogliono aggiungere nient'altro al cor di kubernetes quindi sei costretto o tuo corpo vada lo fa per te dopo che hai kubernetes di installarti queste cose che sono poi parte standard di kubernetes però vanno in strada a parte perché il corno si tocca e la bibbia non si
+cambia e tutto il resto viene sopra se effettivamente però io credo è una giungla però è anche quello il bello la vita è bella perché variano quindi se se sa anche alle aziende di standardizzare o alle comunità read this post gress post grazie
+ti è un
+una giungla di operator variazioni sul tema e quindi sta stampò la comunità educate e scegliere e
+scegliere come come come deplori album come fan come gestire i tool
+e tu che gestiscono
+peraltro si possono scrivere banche wall periodo
+dice invece che wow
+se ma l'accusa anche cobol base
+se la modernità non morirà mai
+no ecco se posso però trovare
+una su chiamiamolo così mettendomi nei panni dei clienti sono i frequenti aggiornamenti
+già adesso quattro mesi dapprima crown una religione tre mesi il problema era un altro e soprattutto ma non solo perché kubernetes schema per tutto quello che c'è sopra perché purtroppo ricollegandomi al fatto dalla giungla degli operai day operator sul quale il canale alfa beta quelli
+che si e basta quelli che riescono anche ad aggiornarsi che fanno altre fantastiche cose e lì è effettivamente difficile
+trovare un sistema per moderare in maniera efficacia tutto tutto l'ecosistema delle opere perché ripeto mettendomi nel lato cliente voglio una cosa che funzioni che sia aggiornabile nella maniera più semplice sistema operativo compreso chiaramente tutto tutto parte da lì ma siamo infatti il mio discorso era non dal punto di vista diciamo di sviluppatore
+smanettone operator ripeto tecnicamente secondo me sono una cosa di una talmente semplice ma talmente geniali che appunto come dice alessandro tu puoi mettere dentro quello che vuoi però da un punto di vista del cliente
+aggiorna il database aggiorna kubernetes aggiorna operator studia dell'operatore insomma questo è un punto abbastanza importante e soprattutto non ti può neanche permettere di stare indietro perché poi è tutta quanta una catena poi diventa capitolo operator dipende dipende da kubernetes che ne so ventidue
+fatti un malore a caso però se bisogna mettere governate ventidue all'ora e data benefici ha bisogno di quella versione cioè secondo me tutto il sistema di versionamento aggiornamento operator come dici tu se vogliamo trovare un lato negativo comincia a diventare estremamente complesso per un'azienda che lo vuole gestire on-prem
+in tutto questo si sono totalmente d'accordo anche lì in poi il successo dei servizi managed assolutamente ma domanda un operato come quelli del cloud per gestire risorse cloud viene usato c'è gente che lo usa invece di altri strumenti tipo terra pompu lumi o affini o non è
+l'alternativa questi strumenti come che sei sei al potere risorse cloud e ci sono o pereto per la blue hour per un po di tutto ti creano e hanno i redditi delle risorse cloud pola vuemme o cose di questo genere posso parlare di agire perché ero vedovo e roll
+quando all'inizio c'era un broker cioè l'azzurro harris broker che era
+un aggeggio che girava in kubernetes realtà chiamava e esterne e creava infatti
+risorse nel cloud da chiamate ai piedi bernhard poi poi evolse nel nella source avviso prevede che tuttora esiste però non ha mai non è mai decollato come come avrebbe avuto maxon da esso poi c'è anche poi la debolezza non so se google aveva un colpo del genere ma c'è da scommetterci
+la debolezza ritroverete la risorsa che bevendo in realtà oggigiorno la tendenza è più di usare cose come pull-up microsd plain molto popolare popolare almeno guardando il numero di tool a cuba con la gente che ne parla poi quanto di questo venga usato in produzione è tutto da vedere
+richiedeva alla compagnia che sta dietro a palm springs ma bound certo è tutto ok tutto bello e tutto funziona però
+ciò l'ho provato e è interessante però non è se non è un po' over ingenia alla fine se hai questo house capace di creare
+infrastruttura nel cloud di kubernetes come come se red come oggetti governato e una ancora più urgente è una onlus che di nicchia
+non vedo molta gente disperata per avere esiti
+tipo di funzionalità o perché ne vedo cd-rom ho guardato nel suo territorio a b e c'è di tutto io non non mi aspettavo questo proliferare di operato nei moduli puppet che diventano troppi per essere usabili e lo devi anche stare a scegliere quelli giusti e
+per dire la metà di rischio e di cui faccio ctrl space facevo papa c'è ancora parte ispi o presepio è passata dall'operato ha deprecato lo pereto per tornare alla cara vecchia un più più intuitiva più più gestibile e altre community di altri progetti anche a mosè
+suo approccio alla fine per esempio quando installi prometti prometti school colpa fumo con la famosissima cuba e promise stack end card installalo padel detour via lan card
+lo credo se ci vuole sempre perché perché lo prevede quello che che continuamente controlla se c'è un cambio se c'è qualcosa se qualcosa non c'è il drift da quello che vuoi fare quello operato e standard ci vuole però l'istat nell'operato normalmente viene fatta dalle carte alla fine la gente non viene s p a
+posta molto all'operatore in sé per sé ma controlla loop network tramite dei parametri elm almeno questo è quello che vedo nella maggior parte delle stazioni più di quello che conosco qui
+nessuna delle statistiche su questo su questo no
+a ognuno le tiene per sé al suo mondo di scavo anche il modo di jfk records e sotto certi aspetti allora per cui avete abusato vista anche di quello che vedete in giro
+c'è una specie di standard gold standard sul setup di kubernetes sulle configurazioni base o in realtà vista la flessibilità lo strumento di conseguenza poi la gente fa in cento modi diverso e the world
+di dischi da un punto di vista di installazione o di nadi di lato configurazione se vogliamo installazione a installazione che sia in premi showing me la vera parte i le distribuzioni diciamo di bernini e al netto di quelle il modo con cui la gente uso per kubernetes i soggetti kubernetes alcuni
+sono in qualche modo sovrapponibili da quello che mi sembra di poter dire o meglio puoi ottenere le stesse cose usando oggetti diversi e mettendo insieme diverse c'è un'architettura di riferimento oppure in realtà si lascia molto a come lo vedete voi in johnson
+parlo sempre la redhat
+la distribuzione open source abbiamo trama l'aggiornamento dei riferimenti e poi soprattutto nel tu ci va a
+inserire delle configurazioni per adattare l'infrastruttura del cliente barlow
+dylan
+dove dove fare il forwarding del blog
+vetri che ci serve il multicast range che
+per gestire la flotta del cluster ma dall'altro sono tipicamente configurazioni dei più e si parte da una base frequente che è simile a tutti che
+questo è dato dal fatto che usate o per scelta o in realtà è un approccio vostro presidente
+ma perché l'obesità
+sappiamo che la platform e di età con l'oscurità che infrastrutturale di monitoraggio
+ha collaborato quindi già le allerte
+alert infrastrutturali vengono prese dal comune per l'esperienza che sfuggirono avuto entreprise i quali non le puoi toccare puoi aggiungere ma non puoi modificare per esempio un allert il tuo watching di e supera i dieci millisecondi nulla non può municipale che diciamo sono pacchettizzate altamente configura
+abile tramite del suo brodo pulita e tutto tramite c
+non è che
+denti più a hai qualcosa da aggiungere a riguardo e dai più è ancora lì no a meno che non usi open scelto altre istituzioni opinion api dai più piccola è un problema aperto meno male così che gente come noi ancora un lavoro
+l'hai non c'è ancora messo piede
+non sa come gestire un cluster e kubernetes grazie grazie al cielo però stiamo lì e sta arrivando anche lei non ha ancora da influenze
+sai ale e ho visto che alcune cose erano dappertutto e non so se tu hai avuto modo di approfondirlo alcune delle proposte viste ma c'è sostanza dietro la clip in questo caso in questo mondo o è un bene
+la novità da da da chicago chicago da novembre oggi siamo a marzo la novità è che in questi mesi è formata o like working gruppo finalmente dentro dentro se siete quindi c'è c'è una comunità dentro la comunità che parla di clown di reais come
+come come internet interagiscono il mondo clown deve il mondo e hai e che una via a due strade una strada a due a due vie da una parte kubernetes planet diventa il modo più elastico diciamo per far girare word cloud come inferenze
+training tant'è che openai si appoggia tantissimo su kubernetes tecnicamente e azzurro kubernetes è anche ci sono dei progetti nuovi come te test gpt che analizzano il tuo cluster e ti danno le raccomandazione o altro anche compagnie come elastic che riescono a
+il training il training del modello sui tuoi blog e alla fine puoi parlare con la gente no che la gente smith
+e chiederli che sta succedendo che mi suggerisce quindi c'è tanta intersezione tra le aree cloud meeting e tant'è che adesso c'è anche un working group
+light certo ip
+non saremo messi sta anche un po' the flight no sgonfiando moonlight sta arrivando ma sicuramente ce ne sono tante opportunità non soltanto business e dato tante cose da fare e vedremo vedremo a ah
+il prossimo come comecon dove deve andare con questi c'è c'è una track dedicata ai c'è una mini conferenza c'è un c'è un pomeriggio dedicato ai beacon e c'è un working group
+a questo quello che so mi interesso tangenzialmente un po' ma
+mi piace più fare l'infrastruttura
+da me piuttosto che chiedere a
+questa cosa che puoi interagire coi loghi chiedere alloggio è fantastico questo mi mancava e si è attento perché magari ci sono delle informazioni personali quindi devi
+bisogna stare un po' attenti però se futuro e questo l'infrastruttura smart ma proprio smart nel senso proprio che che sa imparare da da dagli incidenti sa imparare da logge e wally west
+là fuori e essi poi vedremo quando arriveremo alla fase non solo consultiva ma come reattiva delle infrastrutture smart appunto in cui da sole si si aggiustano e magari si iscrivono e dicevi valentino so che
+questa cosa dei loghi che potrà interagire chiedendo a questo punto anche a warsaw bilancio così
+dov'è il problema di correlare le informazioni sulle metriche
+si traccia italiana mutevole non ero a conoscenza se non quello news che isaac ha senso io mi domando altri casi dove magari ci pizzicano il pezzettino già gpt all'interno qualche pezzo del software per con un minimo di sistema pronta per dirgli fai rispondere con un minimo di contesto cose e lì poi bisogna capire
+dove e quando ha senso un uso di quel genere qualora ci fosse una mia ipotesi su alcune vedendo ai dappertutto al cube con qualsiasi prodotto avrete un pezzo di ai ma aspetto che qualcuno sia al classico come dire maschera con sotto un saggio pitt o affine a cui mi mette intorno ai due sistema prompt
+per
+e però se inizia a usare il blog come forma di rally per il tuo modello e poi magari ci mette un po' di
+di logiche aggiuntive e il tutto diventa molto ma comunque ci sono sistemi che
+già vanno avanti da un po' questo di utilizzare le hai come sistema predittivo adesso tutta la parte di osservabilità se lo vogliamo dire in italiano non c'è molto non è predittiva cioè chi ti dice quello che sa quello che sta accadendo è secondo me la parte di smart
+appunto di infrastruttura e non solo necessaria ma qualcosa sulla quale io al momento investire molto perché le applicazioni sono estremamente complesse con tutti i layer tutta la roba che c'è è praticamente impossibile analizzare la mano ma moltissime aziende tuttora fanno parte di roca a mano analizzati
+hogan mano e fanno una strettissima analisi manuale the rock per vedere cosa è successo cioè con tutta la complessità che c'è sui sistemi se già ne hai ti dice più o meno che ci sta dentro già ti darà una bella mano somma perché
+su su in passato mi è capitato veramente i passaggi delle giornate intere sui suoi look poi cabezon ma parliamo un po' di anni piano piano si è si sta sta migliorando però comunque sempre a mano già
+molti look temi
+avidi di les unica quello che preferisce o di rap e e li analizza fatti secondo me ogni sistema dovrebbe cominciare a fornire insomma dell'interfaccia standard per interfacciarsi con qualsiasi sistema di intelligenza artificiale per più o meno comprenderlo
+assolutamente tag font c'è anche da dire hackathon cioè ai dappertutto ma che è una strategia nel senso oggi se se se hai una startup e non ci mettono un po' de hai per forza soldi non te la dà quindi per quanti di questi ci mettono un po' di salsa
+giusto per tirar su un po' di quattrini e quanti veramente sono i pulsanti va bene così jose se li investors
+sono così nel duemilaventiquattro così funziona il mondo fa bene e poi appunto di questo si traduca in vantaggi reali no per per l'utente andremo a vedere dove va e nave al largo e parlando parlando con molti questo questo questo e questa situazione basta che non mi scoppia
+mi scoppia il mercato azionario
+su una possibile bolla delle aree
+anche perché adesso insomma immagino che seguiate anche tutto l'andamento dei mercati salute le borse al massimo root super pompati proveniente dalle dell'aids sette cinquecento ha fatto un botto nel nell'ultimo periodo che quasi surreale capetown so quanto tempo ancora riesca a resistere con questi
+in questa idea veniva dalle aree a lei
+e poi se li comprate invidia o di vendere mai dal momento che sai dietro l'angolo magari c'è il chip di microsoft il chip di meta quindi molto interessante
+non so voi ma io qua per tre anni ho vissuto proprio l'avvento di internet l'avvento di settanta tecnologie però questo è proprio il momento migliore per essere divino questo è il momento migliore dove stanno succedendo cose da film di fantascienza sta
+sviluppandosi sotto i nostri occhi e
+e allora a proposito di fantascienza e qua abbia un palato presente futuro di kubernetes è ancora in futuro di kubernetes da qui a mettiamola due cinque dieci venti anni pur semplice semplice questa aerea e diamoci un po' di olio gusti personali
+prendo quella più facile qua due anni no
+come vi accennavo prima primal confidenza containers assolutamente e qua purtroppo ad oggi cosa un po' con le hai quando le schede video vengono utilizza la stessa scheda video per esempio viene separato nell'utilizzo
+in quanto la memoria condivisa e questo è un problema per gli sviluppatori del confine con thayer che si basano su carta come in plastica
+uomo e tecnologia di ex in questo caso parlando di intel li shan programma ovunque questo è sicuramente un argomento che per il duemilaventicinque sarà molto caldo soprattutto in ambito fs aifi la panacea
+pavimenti e altro argomento che già c'è ma sta spiccando un po sul volo prescelto per ogni nostro incontro bene e altre cose basta quindi ho risposto ai due anni e altre info bella atmosfera
+alessandro come sapremo tra due anni penso che persone ci sarà fan paura tu che sei interna le cose siamo all' uno trenta trenta o trentuno
+trentuno è cosa che esce ogni quattro mesi quindi due anni sono ventiquattro mesi uno punto come come la logica ci sarà un due punto a un certo punto è quand'è che sarà il sahel
+e a saint inverno quindi c'è lo zen vero no non penso ci sarà un due punto
+non penso che la community beni si mettono d'accordo per lasciare allo stesso punto zero perché l'everest le api salute di uno e resteranno vivi non ci sarà mai una di due che vuol dire de calpe non se ne resta sulla sla uno punto e in ventiquattro mesi saranno sei versioni quindi la uno trenta
+otto ottantanove ma adesso sta diventando piuttosto boring e non ci sono più le deprecazioni come le ingress o altre opere di aki quindi alla fine è un semplice nostri ragionamenti no
+se una volta dovevi proprio stare dietro l'anno horribilis di varese duemilaventidue duemilaventuno ventidue dove ci sono state delle deprecazioni abbastanza importante ma oggi tant'è che le nuove app vengono messe a parte né di mettere giù su su kubernetes quindi nelle serie di qui che i due
+hai presente quindi non è non mi preoccuperei più di tanto se se resti indietro anche se ovviamente devi stare sempre nella nella windows di sopportabilità d'epoca of water ma stai abbastanza tranquillo anche se non aggiorni comunque sai un anno e un anno e mezzo verso no perché quattro mesi
+no non è non è più là io andavo in giro per parigi a cuba e poi mi chiedevo ma questa giostra quando finisce ecco come e cosa diventerà o finisce o si trasforma in qualcos'altro ben non mi so dare una risposta se non so
+sangue yankee la giusta c'è ancora ma sicuramente gasperi spero ci sia ancora o lo sai meglio di me c'era eccome coniuge o parte tutte le sere
+vedi gli amici e mangia anche bene se nemmeno necessaria per quello monumentale almeno per quello e per dare lavoro ai vari le varie figure del ssn siepe e per tenere la giostra diciamo in moto e che un'industria e un ubriacone un riflesso di un indù
+austria multimiliardaria non è un evento ma in realtà dietro c'è
+grosso interesse grosse grosse aziende che vogliono comunque crescere e vendere di più e ci sono ancora molti miliardi nascosti sotto sottobosco di word cloud che stanno ancora sulla jvm stanno ancora sull' on on-premise
+in realtà molti sì molti hanno messo fuori del blog comunque dell'opinione che questo cubo con noi c'è il ritorno all' on premise ma nella media e alessandro il sentito dire di quei due o tre casi che hanno fatto rumore è certo se c'è david ma non quello di base camp
+che si fa fa il promotore del ritorno all'ombra e se lo dice lui o ci devi credere perché è un'attività
+però effettivamente la gente si sta un po' bruciando con la colt cloud no le bollette vanno vanno su il mantra e produttivi e come puoi anche giustificare moralmente no licenziare mille developers e pagare pagare e pagare
+il cloud spending
+di milioni no e mi spiace c'è qualcuno alla porta quindi mi ha sempre un viavai gabriele tu i tuoi due cents fuori per le previsioni a due anni come sono
+non non ne ho nel senso non penso che tra due anni vedremo qualcosa di gigantesco sul discorso ritorna lo prema ne parlavamo prima
+io un po' l'ho vissuta questa cosa diciamo nelle precedenti esperienze di lavoro e facevo l'esempio dell'intelligenza artificiale dove si era spostato con flow il training su
+se lo spostate il training su non mi ricordo quale cloud provider eccetera su amazon il costo del kgb più era una roba mostruosa per cui alla fine qualche azienda in particolare due hanno deciso di tornare all'home prema si sono comprate lgbt più e non utilizzate per per il training
+in quel caso si è adottata la soluzione ibrida nel senso parte del training veniva fatta in realtà sul cloud veniva fatta una simulazione diciamo una validazione del dataset e poi un premio veniva fatta la durante il training perché costava veramente legge più non so adesso maltempo costavano rent un modo di soldi per cui l'anziano
+tommaso che c'è ci compriamo tre quattro kg più ce la facciamo a casa sempre sull'infrastruttura kubernetes sempre conchiuso però un premio bindi quindi se c'è io personalmente l'ho vissuta un po' questo
+ritorna indietro e poi c'è anche sempre la bellissima vignetta che c'è stato un periodo in cui kubernetes qualsiasi cosa era governata statuette per forza quindi a volte non è neanche proprio necessario quindi magari torni a un premio con due macchine virtuali risparmi un botto di soldi e te funziona comunque
+e funziona senza troppi problemi siano che probabilmente per la maggior parte dei workload in realtà come netsons strettamente parlando non sanno più cosa più utile è la immagino no qual è il motivo per cui ha comunque molto più senso che altre cose alessandro qual è il motivo per cui è così
+diffuso di fatto è sicuramente la community
+perché hai tutto una montagna di documentazione e tutto il mondo che ti può aiutare è perché semplifica
+santissimo l'infausta infrastructures code si realizza in kubernetes conquistò poi con contanti bonifico red tops benone che nasce con però efficiente e semplifica la realizzazione semplice e relativamente di cose molto complesse farle e non fa bilanciamento bilanci
+auto sailing e distribuzione dei carichi tutto quanto farli con tecnologie diverse e qui si potrebbe anche discutere nel fatto che essendo appassionato di applicazioni distribuite quello che dico sempre non è che se un'applicazione non ha disegni scalabile anche occuperete sua scala cioè
+applicazione deve essere disegnava scalabile a prescindere del fatto se la de gubernatis oppure no cioè se l'applicazione di versione scalabile non c'è kubernetes
+solida c'è giusto una piccola nota perché abituali continua a porta aperta e non è
+desidero infrastrutture
+uno dei primi incontri facciamo partiamo dalle applicazioni
+kerber prova puoi farla business continuity ce ne sono in grado di stare a
+allo stesso momento può mettere anche otto di kubernetes action
+non basta john aaron kubernetes a farlo scalabile comunque raggio suonano non fa il caffè però non fa macina il grano operator che ora che farai
+e cinque anni fra dieci anni dai che cosa succede cosa c'è cosa cosa cosa ci avremo in mano fa decennio fa in pensione negli usa in versione telefono arena siamo tutti e due in pensione amano vicini ai caraibi però non so se
+vi faccio i complimenti per la pensione però non non ho la minima idea di cosa sarà governativa spagnola murray allora sì punto e sicuramente non sarà una cosa che ti togli tanto facilmente di mezzo ma qualsiasi cosa contrada più ancora cobol esatto informatica non si vive di generazioni era
+re ma anche stratificazioni queste ore una sull'altra e mandarvi e lega si è sempre difficile per cui anche se dovesse un giorno diventare lega si comunque sarà così diffuso da renderlo rendere necessario ancora attore cesena avere ancora un alessandro forza in giro vecchietto è già pensionata ma ci vorrà
+non ti piace scrivere avermi in giro no no no ma per me va benissimo ben venga
+più più vozza per tutti se vogliamo chiunque
+mio figlio ha dodici anni quindi fra fra dieci anni a ventidue anni quindi anche lui è pronto a a diventare cloud engineer alla grande
+eddie cline o cinque quindi piano piano arriverà sappiamo più cosa più ingegneri alla causa e chissà altro ma secondo voi c'è si vede in giro o si può ipotizzare quale potrebbe essere il
+the next big thing
+infrastrutture informatiche perché insomma se ci pensate noi abbiamo avuto i computer poi le reti poi nel mondo dei computer reti dei vari sistemi operativi e internet e con internet e poi con il radisson la parcellizzazione del dell'applicazione meglio la frammentazione dell'applicazione
+l'oro fatto che vengono separate in tanti pezzettini distribuiti e così via no quindi anche le architetture software sono evolute di conseguenza adesso siamo in tendenzialmente in fase serverless sostanzialmente come ultimo baluardo di frammentazione no quindi a quel punto hai una funzione che
+neanche più software diversi o diverse funzioni che chiami in un cloud che cosa potrebbe esserci dopo cos'è quali sono i prossimi paradigmi informatici so che è una domanda un po'
+avventata e
+ovviamente in un semplice risposte ma impone un'idea ce l'ho e un po' ma accettava perché mi piace
+qui sto lavorando io e orbitz e o questa start up ho idea comunque il pam e david hume si chiama il pap-test che punta a far scomparire i cocktail come il mago silvan snoda come abbia fatto scomparire le bmx ben più cluster esso me il l'evoluzione potrebbe essere
+almeno questo è quello che mi spiace spero io e gli altri che abbiamo cominciato questa avventura si chiama cuba e facebook tahoe
+dove facciamo sparire outlet ci focalizziamo sul muscolo che conta che il main non sempre c'è sempre un cluster comunque non è il tuo come comporre un altro comune il aria
+come esige il cloud è il computer di qualcun altro
+la tua idea è far diventare il cluster kubernetes è qualcosa che non devi neanche di ma tecnicamente bene o male già così nel momento in cui tu configuri come vedete su namespace
+ci son la maggior parte delle aziende abbiano quello che vedo io è dunque il cluster con il pet no è qualcosa che va proprio curato nei dettagli viene a guardavano quindi secondo me ci muoveremo come oggi chi è che gestisce più la gmg che si mette lì a fare feste
+e installato un pacchetto no
+cioè una cosa del passato c'è ancora ovviamente ciclo è una curva quindi sono quelli che stanno già nel futuro e quelli che vivono dieci anni indietro e quindi nella media oggi giorno non si parla più di m come come peste tutto tu no
+un giorno non lontano spero il cluster kubernetes fai il testo e non più una cosa che va va va va presa
+va va va tenuta sotto controllo quindi secondo me questa è una delle direzioni che vedremo poi ci sta investendo che un array raid e questo lato kubernetes come dire comunque sarà sempre un cubo danese sotto quindi non ci sarà sempre una lepre sono quelle le pmi non non
+cambiano bisogna veder delle piaghe e lo standard dell'industria e fa bene avere le pigne standard non non non no per carità non non facciamo cambiamo di nuovo no
+basta cioè abbiamo e sta bene così poi tutto quello che bastò radio pereto
+e altre cose ben vengano però ci serve uno standard di the cloud ciò anche nei progetti per standardizzare proprio l'istat la cloud huawei sta ci sta lavorando insomma è stata depositata realizzate ma è difficile mettere d'accordo
+i chow-chow weider in uno standard unico quindi bisogna avere un po' come come andrà a finire questa evoluzione valentino gabriele voi a dieci anni cosa cosa farete con kubernetes
+lo speaker spero sinceramente sia un in giro perché altrimenti
+andare al lavoro a cinquantacinque anni fa dieci anni per me sono politiche parte gli scherzi non fare previsioni è difficilissimo anche visto che negli ultimi negli ultimi momenti come diceva alessandro si è un po' calmata
+perché sei stato best abilitato dell'ambiente
+aggiornamenti sono sempre gli ultimi quattro mesi quattro mesi non lo so non ho
+non vedo cosa cosa possa essere aggiunto ulteriormente kubernetes vedo quello che deve essere continuamente misurato è stabilizzato e standardizzato appartiene ancora al discorso della norma del prete non servono manager
+ha picchiato i discorsi mi storage disastri poveri chic regional
+discorsi che sono già già in piedi ma spero anche prima dei cinque anni che sia veramente stato avvisato che non ci si pensa più allora torniamo al presente e vi chiedo un po' di numeri è come dire quali sono i migliori standard di riferimento e dato si ha idea di installazioni kernel
+cluster kubernetes nel mondo c'è una stima spannometrica non impossibile quanti ne hai iper
+schiller non c'è nessun dato di nessun genere niente quanti download
+questi dovrebbe guardare uno voto
+è quella di girare con le immagini docker anche però una volta si si tirava giù tutto da docker docg b ma ad esempio oggi è gay gay nodo contiene registri e quindi abbiamo dei dati
+ah così a memoria ci sono organizzazioni come mercedes che hanno novecento lastre ma due anni fa oggi magari avranno millecinquecento cluster ci sto
+dipende anche un po' dall'organizzazione mercedes per esempio punta avere molti club piccoli c'è un'altra organizzazione che hanno cluster giganteschi come open air con mila cinquecento nodi quindi è il numero di cluster e magari non è proprio indicativo sarebbe più il numero di nodi però alla fine e come fai a
+capire come fa distinguono avm che fa la vm virtual machine da un'azienda che fa parte di un pilastro po e un po' non è facile non penso che quando c'è anche
+quando si hanno diversi cluster come approccio quindi direi foto io dico una un'assenza
+il numero dei nodi tre cinque poi vorrei paracelso con situazioni però se si vuole tenermi come lavorare su il nome sul numero di clay
+di craster e non sul numero di nodi per cluster c'è un minimo che uno di solito usa che è
+tre keyword carnose il minimo paese styles louis manet darwin come chester's incontro plein è gestito dal cloud provider e david sassoli nodi che il minimo diciamo perché tanta gente dalla colpa kubernetes magari il deployment con una con replica
+uno e allora teneva giù il nodo della terra
+forse non hai capito bene come funziona liability quindi minimo tre nodi distribuiti su tre zero il papa vadano aboliti zones quindi stai sempre sul sicuro sayid se la tua applicazione ha già abbastanza copie
+per spandersi per replicarsi su diverse zone in minimo tre
+almeno tre se l'applicazione può funzionare replicato per tre giusto gabriele festa
+non volevo fare ragazze però sovrana su alcuni sistemi diciamo specialmente di persistenza non puoi mettere
+diciamo la replicazione diciamo in maniera sincrona su su su nodi diversi infatti si lisi entra un altro discorso sulla replicazione asincrona di alcuni cluster specialmente quando si parla di basi dati io un problema diciamo che ho visto lavorando e utilizzando kubernetes studiando kubernetes
+che da un punto di vista quando si parla di esempi no dico kubernetes se si parla sempre di esempi senza stato allora finché non c'è stato tutto molto semplice problema cominciare hostato su kubernetes cam avere dolori io immagino un qualsiasi sistema che debba garantire una uno strong consistency
+che
+è replicato su
+zone del mondo diverse tecnicamente un po' funziona cioè la vedo un po' non è che non può funzionare funziona però insomma con delle come come lo fai voce e con delle candele e c'è
+se io se io devo avere un sistema diciamo caratterizzato ad alte performance che magari mi deve garantire la consistenza dei dei dei dati i nodi devono stare il più vicino possibile se vuoi un tipo di consistenza se vuoi un altro tipo di consistenza magari possono replicarsi in maniera sincrona anche su r
+eaton diverse che non c'è e diciamo la versione giusta o sbagliata semplicemente dipende dal contesto dove vai ad operare io sono un grandissimo fan dei di molti cluster piccoli però diciamo localizzati per contesto ma voglio dire ripeto non yes
+esiste una cosa giusta
+giusta o sbagliata dipende semplicemente dal dal contesto che poi bisogna distinguere il cluster kubernetes dal tuo cluster che va a creare all'interno di governare sono due cose completamente diverse
+soprattutto tutta la gestione degli affinity della finiti nord della vicinanza tavolo roba che spettacolare e quando vai a creare diciamo un determinato tuo cluster di resistenza di taglio psd o di competenze se tendenzialmente cerchi di gestirti e la la rete in modo che sia più vicino possibile per rimediare partizioni
+di questo tipo e poi li dipende da che tipo di persistenza steve e utilizzando strumenti di assistenza stai utilizzando allora in attesa di eventuali domande del pubblico che c'è neanche se è molto silenzioso oggi continua a fare io da totale ignorante mondo kubernetes è
+è l'una e appunto sulla persistenza si è trovata io mi ricordo per quel poco che ho seguito da lontano tutto il mondo della c'è problema della persistenza e ambienti containerizzati e tutte le evoluzioni del caso da doc rai dentro roger e poi con kubernetes c'è uno standard de facto
+modo sano giusto e quello per gestire poi la persistenza dei dati con cui bernard shaw tante diverse approcci e ci sono quali sono quelli che hanno più traction savoia
+sono standard tecnologico no c'erano uno
+prevalente se stiamo parlando di
+per esempio il nuoto metal con dischi dedicati allo storage e per gioco rua che l'operatore che è stato il diploma di chef e in questo modo puoi avere
+una storage flash player e rugby che è un riad che a blocchi ma ha un naso modo rieducati bene che è
+è necessario per esempio correlato immigration se si usa at birth dal festival e ti dà anche lo storage tre
+questo per chi è per i clienti che non hanno uno storage stuprando senso di un player esterno chiaramente allo stadio esterno l'olio ogni vendor si possono fare dei nomi falsi all'epoca tanto su quel dire
+abbiamo poi del capire o linux su driver se sai che forniscono
+o blocchi sicuramente alcuni al system
+hanno tiene perso varie tipologie e alcuni anche la suprema vinta non c'è un vero e proprio standard ed equa fortuna dell'interfaccia cesare chiamata per tutto questo ammassavano questa operazione vendor perché poi ogni vendor già verificare se support lo snapshot suoi supporter di clown
+c'è tutta una serie di caratteristiche da verificare chiaramente se il cliente può affrontare la spesa di avere tipicamente enterprise si va su quattro vale comunque step one è tuttora un'arte arcana e gubernatis progredire e almeno per me
+seggiolino e claude non cominci subito a guardare i vari servizi del cloud come man si grasso il manager è quella è il frutto sheffield l'organizzazione non è matura apre cosa che che io suggerisco quando vado quando a un progetto di questo genere
+affidati al cloud of clouds prendile
+proprio studio on se non riesce ad avere grandi servizi i manager di esteri manage post crazy nel fuel allora sì però fatti segno della croce perché non è facile non è una passeggiata di salute ancora magari magari fra cinque anni no
+mensa vittima di bullismo esatto plebe esce evoluzione ma sicuramente magari delle cose standard stare la gestione ci sono già ma dei consolidamenti no anche per capire the winners o le tecnologie so con quel che c'è qualcosa di promettente perché puoi bisogno anche di località del disco non del disco su quel
+nodo deve cambiare un po' ma sembra facile ci vai a guardare è proprio
+plage clicchi e va devi pensare dove stare lo storage minimizzare la latenza tra tre nodi insomma
+cronache con un approccio con appunto storici locali sugli host fisici quindi senza è come cosa root si va di rocca valentino
+ci pensare così al ballo sempre di root perché la soluzione redhat si chiama percepito dato foundation dietro le quinte utilizza aru dare appunto dare
+a blocchi fasciste ma lascia tre atlante muba che
+appunto permette di avere un una cetra poi se vogliamo dietro le quinte può essere replicato il budget possono essere replicati su su altri batteri terrestre e rucco è un progetto molto solido chef un peso che hanno bisogno di presentazioni situazione però anche con te
+la fortezza poteva possedere amazon in self su urru su joseph su kubernetes quella che viene chiamata cluster network non neve non devi lasciarla sulla frode su liam sulla sua sulla lettura di roadmap di cagli una una rete di nuovi si ritorna si parlava prima grazie a esempio
+ehm ehm mistero operator santissimo nello stesso periodo che ci permette di creare dei the bridge sulle sue schede di rete fisiche o
+sì fisiche e grazie al network attack non definition uniti sono state introdotte dopo che ci permettono anche di aiutare il milan sono talmente di creare una rete cui vari plugin una scena e di rete
+rappresentò per parrucca sulla cluster network e si utilizza whereabouts che permette di avere degli indirizzi ip visibili solo su quella rete dedicata se si può si può anche non fare è vero ma poi se uno va a chiederemo
+quanti jakobson fa chef rispetto a un altro di avere almeno una persona con tutte le cose deve fare il disegno lato invece networking far would load balancing tutto questo cinema qua cosa ci abbiamo un'operetta di riferimento ovunque cosa che andavo
+tutto cell farvelo operator ma da sola non lo so
+xtreme musical dietro le quinte usa dimostrato con herb pdf ed è quindi puoi fare tutto questo quarto per
+evitare controllare
+ingressi sui nomi
+parliamo belli corposi su
+grosso grosso funzionalità di cibernetiche
+c'è di tutto qui non io da totale ignorante arrivo nel mondo kubernetes devo capire quali soluzioni scegliere devo andare un
+se non vuoi se non vuoi problemi
+le cose giuste il mondo eppure di sbagliato
+quanto coraggio uno ha la firma
+parliamo con gli standard standard emergono per esempio silio ma è de facto de facto siena no
+c'è mal sopportano oggi giorno non uno che installa caligo una app of the night
+penso sia fuori di testa no sai tutta questa community esilio funziona bene e sicuro ti dà un sacco di funzionalità quindi ogni giorno e silvio ma il giogo e il figlio
+cosa porta evoluzioni interessanti per esempio non so se vi ricordate il famoso protocollo tcp che sembrava essere sparito perché nel cloud no no nation sale un premio nel senso adesso l'ho sentita ma non la vedo non riesco a concepire è tornato ai vari tempi è vero quello che segue
+per unire le reti non perfetto
+no perché un computer grazie però
+helium
+in rete presenta un colore di foto usiamo viene kubernetes una roccia
+funziona chiaramente diverso rispetto a silvio perché sono tutti figli basato su però l'idea e non è ict driven come silvio o emettere live celebrazione di un nuovo week end e oggetti mesh nostra platea ha il nostro caso è compatibile anche con aspettateci
+villa lussuosa villa
+lo uso allora la siesta hanno speso seicento milioni per comprarsi da europe direct mail da qualche parte fuori uno settecento milioni
+edward said dovuto andare a isabela in corso
+allora chiede il buon mitico ciro cardone e se lo scossone le stesse cose ho fatto per la persistenza si applica anche a sistemi di messaggistica quindi se si c'è un uno standard de facto se si meglio suggerì andare da karpov weider che ci pensa lui con i suoi sms ove fine o usa
+operatori tipo artemis operai quindi messaggistica come si fa
+gabriele e tu fosse qualcosa riguardo avere os x
+con rafting new york ma io non ho lavorato solo rugby cioè insomma sono appassionato ai sistemi distribuiti basati su messaggi giada per chi è anziano come me ve lo ricordate corba il protocollo u stai parlando del novantotto novantanove e parliamo di una vita fa ma
+comunque viene ancora utilizzato dds in ambito militare perché uno dei protocolli più affidabili in assoluto non è proprio diciamo uno dei più simpatici e amichevoli ma viene ancora utilizzato poi c'è un passato gemme e sms giga insomma i soldi si può
+per rispondere alla domanda
+non c'è una risposta esatta anche perché io quello che veramente sempre insisto nel dire sempre le stesse cose cioè l'operatore ti dà una mano ti aiuta a fare il deployment controlla lo stato ti controlla lo scaling up di controllo scaling down ma il sistema giu e se
+sempre lo stesso quindi se tu decidi di un medico rabbit come qualsiasi altro sistema captcha quello che vuoi ma di base c'è sempre quella cosa lì quindi non è che collocherete ormai a superare i limiti di un eventuale sistema di messaggistica non so se sono stato chiaro cioè se tu hai un sistema ics che non funz
+funziona in replicazioni geografica sincrona non è che se mi tiro operatorio che fa delle magie c'è il limite è sempre inferiore rispetto al sistema che tu stia utilizzando l'operato ora ti do una mano soprattutto quello che fanno molti operator una cosa molto intelligente evita lo scaling down perché magari
+a togliere un nodo e magari ti perdi dei dati l'operatore dice che cazzo stai facendo oppure ti aiutano scaling up oppure ti aiuta con le configurazioni ti dà una mano al sistema di base resta sempre quello cioè non è che fa magie capi dopo fa di più di quello che fa il sistema basta spero di essere stata notata una risposta però c'è
+quello che voglio mettere in chiaro è che l'operatore aiuta ma non va oltre i limiti
+sistema per autorità e voi abbia fatte su gabriele che vede solo lui non solo per la vedrà soprattutto il suo mondo e di messaggistica quando si usano ambienti supernews ecco cosa si se ci si trova a usare sono gli strumenti e le erbacce un progetto senziente
+chiama l'ats e amon più ampio sistema
+e quelli canali malattia streaming comunque nozze un sistema di streaming house per pensavo fosse simile accalca una cosa del genere e sono sistemi pubbliche subscriber di s'innalzano anche studiato e qualche interna al senato interessante se son no naz
+bellissimo sistema ultra performante è un sistema di streaming magari ci sono altri sistemi prendi anche non è che voglio parlare solo di rapido prendi anche se quest capito dai sistemi in cui si utilizzano un nano un sistema a coda più classica rispetto all'uomo di dio
+streaming
+però di fatto diciamo che al momento se vogliamo parlare di numeri in broker più utilizzati al mondo sono captcha rabbit nizza c'è pulsar di quelli diciamo molto ti scarichi e poi ci sono quelli on prem per esempio azzurra ciao
+ama e azure service bassa che in pratica mi occupi uno zero e come come conoscervi spassa amazon scelse e charles messi adesso sapore rabbit è un altro paio come standard però i nomi che girano sistemi di messaggistica saranno cinque sei
+around the world plaza nozze bello insomma un bel sistema di streaming puoi fatti in goccia dell'interno severamente interessante
+bene spero che la risposta in qualche modo abbia soddisfatto ciro e
+cos'è la cosa più più interessante che i dietro a te fai con vernice la cosa vi interessa personalmente poi non si parla di kubernetes spal di voi così vi piace più fico conveniente se settata a disegnare architetture risolvere problemi fare trovo footing oh cos'è dov'è dov'è l'asl the stefan
+se non è imparare cose nuove c'è sempre un tool nuovo c'è sempre qualcosa di nuovo o le cose che ho imparato da quando lavoro con kubernetes game mode con la mollica un po' più è sempre lì a scoprire angoli nuovi e non c'erano nuovi modi un po' di fomo
+per tutte le cose che potreste sapere ma non potrai mai sapere eccome c'è chef giuseppe fu a ex
+al default
+ci ci convivono era impari a convivere ora io sono ancora in fissa col passato asaad
+adesso conclude che i cetacei abusivi da dieci pollici blog vuoi vedere che do it busti che ti crea macchine virtuali la goduria wilson sono ancora quell'abitudine
+gabriele io invece sono più appassionato di basso livello per cui già da parecchio studio
+linux container senza kubernetes senza docker senza niente di niente quindi tutto il mondo legato all'isolamento dei processi come funziona il kernel namespace si group
+a b pieffe tutta quella parte lì sia carote insomma per comprendere come funzionano i sistemi su su linux come interagire appunto con filtri applicazione bpm cose di questo tipo
+per diciamo andare un po' più sulla parte che mi interessa di più home dell'infrastruttura e ciò mi interessa il giusto mi interessa il sistema operativo come come come funziona ho contribuito ho visto alessandro che tu lavoravi in solo quindi
+con astio ed in voi ho fatto anche qualche contribuzione sulle azioni tappa di lian voi ho partecipato anche delle discussioni interessanti su alcuni fichi roswell voice avrei dovuto inserire ma poi sono stati stoppati e i lavori a mentre sa moltissimo quella parte lì adesso solo facendo
+della roba su web pieffe per il momento ancora un progetto privato
+forse un giorno pubblicherò forse anche no però rame lo scopo non è lo scopo è studiare insomma a fare qualcosa di questo basso livello che io insisto sempre nel dire che troppe poche persone si appassionano a questo tipo di argomenti e secondo me ce ne è bisogno no perché
+se è vero che tutto quanto ho capito deployment eccetera approcci sta chi queste cose le fa lei studia le deve in qualche modo realizzare un resort causeway di brendan gregg nazionale brody
+cosa quando ho visto la sua demo che tramite gps andava ad analizzare gli
+differenza di potenziale fra la mano il welfare del laptop riprodurre dei suoni
+tags motivi tulsa che ha fatto male in realtà è allora in realtà è b pdf viene visto secondo me come un mostro praticamente indomabile ma di per sé specialmente con helium che appunto alessandro prima nominava con l'essere di capo di silvio uhm non è così
+diciamo complessi su uno dei tre skypoint ti fai dare diciamo leader per fare monitoring con pdf è una cosa abbastanza semplice un po' più complessa la parte di filtri con perché la parte di monitoring cioè ci sono dei dati che tu ricevi e da dal kernel e quindi quello lì è una cosa
+abbastanza semplice da da gestire quando invece devi reagire ad alcuni eventi bloccare delle sì school oppure interagire su pacchetti di network lì la cosa comincia a diventare un po' più complessa però quella parete league se con portelli è veramente veramente bella e complessa
+insomma affascinante tant'è che c'era stato clive box che per ombrelli carini sono anche il mio capo ha solo tre i box e un nuovo famoso eravamo conviventi ha fatto questo tweet ma perché qualcuno norris riscrive lo scheduler perché non cerchiamo tutto kubernetes nebbie
+pietre vive e diventa tutto questo kernel beh non è che kernel trattamento esattamente parlarono in quell'area e fuori dal kernel gps e tecnicamente no no no b pdf o rifiuta e viene eseguito dentro il kernel ma non è parte del kernel non è distribuito col kernel quindi
+b allora e allora il programma e bpf che fai tu è un programma mentre tu e tuo che ficchi tramite insomma c'è da approfittarne indosserebbe illich kubernetes che eventualmente hai fatto per l'occasione programma esterno non è le bizzeffe
+cosa è un genio ne' corda per nessuno senza stare a però non è canzone biglietti e la povertà o fama i programmi tv oggi al limite perché passa alla dusty non compaiono nella jeep trans willer bordon e poi non puoi per esempio mettere dei lupi
+il browser
+ci sono delle wilson esso gabriele magari eccomi mi trovi questo questo dubbio che ho è esperto e l'ho letto leggendo ciò anche di critichino lo user space non è che sia proprio lento vuole vivere e fai bene il roaming user space sono più o meno
+non dico che siano close to the metal però la performance dell'usaf peso né a priori a prescindere tanto peggio del kernel mod quindi non so c'è questa è un altro però siccome le ha inoltre fai vai alla startup che fai beppe ai sbarchi tutto
+e lo so ora ho creato il mito nobel deluso space lento se questo questo è vero poi considera che moltissime cose sulle piazze sono sistemi di monitoring che la parte sebbene il codice praticamente prendono il
+il record che arriva diciamo dalla parte più piace viene fatta una copia e poi passa diciamo la parte sospese dico e hai la copia del ddt
+lì eccolo lì a tutto monitoring passivo e quindi concordo con te che c'è non te ne accorgi nemmeno praticamente radio de lawrence consuma cicli vol due copie alex map
+sia gratis euro di no non non è gratis secondo me invece una parte molto interessante che quella parte ammetto che non lo conosco benissimo perché devo ancora studiarla
+è la parte di filtering proprio di applicare delle regole su
+diciamo su un su un filtro dpf e lì secondo me si vedono la vera differenza per se settimane applicare delle regole proprio al filtro omo e b pdf quindi senza nessun tipo di copia specialmente su sistemi ad altissime
+moltissimo traffico sono me lì cominciò la differenza ma lì ancora una parte che non ho studiato benissimo quindi non mi sbilancio nel parlarne però da un punto di vista tecnico è sicuramente interessante e poi aprono nota io ho parlato alessandro adesso mi viene il nome con un vostro non so many
+ce lo sviluppatore di solo che ha fatto un sacco di video su ken voi e filtri e tutta quella parte lì e ti ho scritto io l'ho scritto ho scritto anche per ringraziarlo dei dei video dicendo grazie perché proprio serie peter peter sagan twenge metà di sé
+e adesso io sto facendo in pdf è quello che con voi non sono riuscito a fare perché mancano proprio delle delle e sto cercando di rifarlo in linea b piace comunque solo gran bella so startup o azienda però trovo sempre un sacco di materiale utile
+su sul sito e sui video
+al qaeda ha deciso ci sono andato perché erano e sono tuttora innovativi stanno le cose è molto molto interessante purtroppo sono le startup
+una scala diciamo che
+oggi c'è domani oggi ci sei domani ti dicono scusami
+l'america funzionario zitta perché rosate rozzano sempre bello senza pretese poi nell'industria rouches e ci si conosce tutti genova film si bruciano i ponti e altri siamo in buoni rapporti con con con tutti quelli dell'adhd solo anzi li agudo
+leggono il meglio che possa crearlo
+e venne uno spazio interessato sars mers fca fa gallo e e la voglia c'è c'è cessione del ramo tesi c'è un sacco di ampia moda insomma è tutto anche leon di pablo è meglio filca filca flash vai vederemo può anche
+questione di gusti e vediamo un po' come come va il macabro e signori scusate ma io devo scappare insomma primaria che anche io tra un pò vado birra
+grazie mille alessandro un dell'invito gentismo alla prossima valentino grazie ciao arrivando a valere
+mostra però la prossima allora prima che mi scappate tutti voi il ginevra domanda di gay sassano e heli cinque kb pdf verso svama beverly stable ed i premetto io di cinque sulla cassia però è di cinque vivi e di pieve verso osservare e assemblee è uscito anche
+vama claude uno zero pochi giorni fa e mi chiedevo che impatto avrà nei due anni a venire soma e vivi aeffe verso obama ha un suo senso il confronto non
+non per me non per me però segue da eli cinque aveva citato e reso felici in cui vedo un pacchetto python enterprise linux
+earl e io leggo gary spiegaci cos'è li cinque io le gueli chi c'è vedo che è un pacchetto python o meglio
+e verrà web assemblee con quel sé anche lì ci si muove a velocità della luce c'è questa azienda siamo fermi on conosco diversi perché è tutta gente che viene da microsoft negli anni d'oro di michael quando sono anch'io
+a un certo punto ha detto due anni fa più o meno alto che c'è ci facciamo la nostra start-up sul web assemblee e infatti ampliato su founder e suoni innovativi ma alla grande cioè se uno vuole fare web assemblee fermione praticamente la l'azienda in cui
+devi starci hanno appena rilasciato spin cubes che è nostro sommo pericolo comunque un modo forgia jewell web assemblage kubernetes me è molto importante e un milestone importante web assemblea che l'esa e lo guardi a questo fra un po esplode quindi meglio impara
+parlo oggi che domani
+ed è una tecnologia che probabilmente diventerà qualcosa di impostato anche lì abbiamo appena convertito tutte le applicazioni a docker container adesso che fare dobbiamo passare tutta web assemblee con calma un po' alla volta chi più chi meno chi oggi i domani
+dovrà fare i conti con colt la tecnologia web web assemblee
+io per parte mia first of town park alpo saputo cosa speaker cube è qualcosa che è stato annunciato poco prima di come google e siccome sarà importante nel suo capitolo sei cinque ha scritto il buon cosimo explain like and fight sono cinque mesi
+pamela semplice
+sì vabbè quindi vi è fecondo a vama comunque su asma
+torno sempre a parlare di dylan voi perché hanno fatto secondo me una cosa stupenda meravigliosa che è in voi funziona praticamente con una serie di filtri standard che ti propone in voi poi se vuoi applicare dei filtri i tuoi infatti ha fatto un filtro win in rust
+lo scrivi e lo metti nella carne e viene deplorato dentro a web assemblee quindi in it ti prende tutta la catena di filtri che decidi tu su http diciamo su quello che vuoi e poi tu decidi nella catena quale applicare il tuo filtro custom lo scrive streaming web assembli e quindi c'è dentro un motore vuoto
+ti fa girare il filtro ed è spettacolare c'è tecnologicamente la roba spettacolare ancora ci sono un po' di limitazione però insomma anche come alessandro ad oggi web assemblee iva va conosciuto perché chi apre anche diciamo dei punti di vista che sono veramente veramente interessa
+santi suo discorso e di pfe e besos wolf ma adesso non è che muoio male esperto perché ognuno sa
+un'opinione diversa ci potrebbe essere un overlap per qualche contesto è tipo appuntò vi faccio l'esempio di tipi di e e voi con i filtri invece adesso lo sto rifacendo nei bps però tendenzialmente secondo me sono due cose diverse
+lavorano proprio su su due livelli diversi quindi e-learning spinge domestici come a un cinquenne
+su quali livelli lavorano causerà cosa fanno giusto per riassumere la menu
+passo al web assemblee
+ryan timer girato un vuoto c'è quindi è tipo del piacenza e simona vuemme diciamo dentro ci puoi
+far girare applicazioni in diversi linguaggi in web assembly viene compilato tipo da rusty da javascript se non sbaglio e gira su un vuoto in cina vuoto infatti pure si chiama e il bbcode no è tutto compilato in questo b codice porta
+abile e può girare nel browser nato nel browser ma poi alla fine cucinare dove vuole che il suo servo mentre il gps è un meccanismo kernel per far girare i programmi scritti anche lì compilati in un in un
+feudo c
+rossano operano a livelli di vertice
+pensi che voglia operare al kernel dal russell no sono due cose sono due cose diverse o magari magari eh
+conoscenza a cinque enne e b s lo vedo come come dire una componente del kenya che ti permette di avere programmi che si interfacciano con le
+si scalda il kernel con re in modo un pochino più diretto di un normale user space hall di miso detto una gran cazzata gabriele che attualmente è evaso ma è appunto cominciate voi una tipo uno kg web tipo omaggiava virtual machine un pezzo di software che può girare ovunque in diversi e che poggiava su windows anche se
+cioè siccome basta dove girò dove girò motore vuoto gira un browser ma anche stand alone son solo su vuoi poi magari scusami magari c'è un ragazzino nel garage che sta già un end of waste di s e jairo e totali magari domani al
+annunciano e la merrill allora vuoto e l'ha già scritta in cinese che viene usata su chroma sostanzialmente no e infatti non c'è
+ci sono dei chen ci sono dei progetti che compili e fanno l embedded della vuoto dentro il tuo
+diciamo dentro il tuo sistema se vuoi
+hey un mio sogno era fare un sistema per la gabbia via award best web assemblee con
+dopo che ho visto in voi ma i miei progetti sono troppi una testa partono e poi praticamente muoiono e quindi non faccio mai un cazzo
+c'è anche il progetto women's world time che un compare un run time the warm
+dove puoi compilare come target cioè se c'era un progetto rast logo lo compili con target watch mano
+così il l'artefatto che viene creato invece di essere un binario tomoyo linux per vivere è un binario o web assemblee e lo devi far girare col world timer con real time e come usava come fai java e poi il nome del programma è stata questa idea zidane
+la java vm è piuttosto genoa wilson vdm group think we both worlds worlds no time c'è tutta una tregua
+la e poi gestito da una
+dana foundation sé che si chiama la bpco dal lions in cui mike stop anche lì negli anni dopo da quando ce l'ho io cominciamo a muovere i primi passi nel new nel jason è tutto un mondo a sé ma comunque interagisce molto col mondo clown neti perché sono molte startup
+fiutano l'opportunità fiutano il business di forgiare web assembly in modo che un rampante è un modo di far girare i programmi in modo sicuro più veloce tutto bello molto più figo dei legumi
+le contee dove mettere il campione sono ormai duemilaquattordici vuole di roba remake aereo
+che fare allora
+esclusiva ad ottenere lead time was ma a questo punto i cookie id tutti webasto blue ovviamente non stiamo lì
+i sistemi dico noi no noi no e non mi ci mettono organizzazione hanno storia antica non nasconda vengono da lontano poi diciamo che sono micro proposti con nomi diversi non vengono semplicemente stata la rivoluzione la svolta è stata quando è stato introdotto
+otto diciamo il concetto proprio di namespace si gruppi di isolamento all'interno del kernel di linux che li hanno fatto il botto e la cosa paradossale che io ripropongo sempre che noi viviamo tutto questo mondo della contabilizzazione eccetera è alla finestra di due tre persone che hanno ficcato dentro ssa roberta
+cioè noi campiamo tutto quando sto cinema tre disperati che nessuno conosce
+appena uscì doccia c'erano quelli che dicevano scuse noi continui facciamo da vent'anni arrivi tu solo moonlight è fatto docker complimenti però grazie ma facciamo anche noi so che lui ha avuto l'idea lungo da lui e gli di blog farlo popolare
+carlo approcciabile anche da gente come me che magari non è che stai lì a scrivere annecy e centomila parametri no doe run e b come velo developer non soltanto io a verissimo verissimo anche perché la contabilizzazione su linux amò senza roger walker
+sistemi e un bagno di sangue e soprattutto
+e soprattutto quello che fai se non capisci bene quello che stai facendo magari apri delle diciamo dei dei bug di sicurezza per una cattiva configurazione enorme invece con tokyo con alcuni sistemi sicuri quando lancio un container su un minimo di isolamento ecco camus dov'era su olmo
+out del fair sistema ci sarebbe da parlarne però diciamo quando la dove il container con alessandro fai ryan e te ne fotti se lo fai a mano
+sia la cosa più semplice l'universo però insomma così molto bene detto ciò ragazzi
+andiamo per una strada c'è nella scelta chiudiamo e ringraziamo gary ciro cosimo e chi ci ha seguito in chat e in live e poi sottolineava il fatto che avevamo è stato girato per fontane su browse ma adesso tramite basics sistemi operativi e
+ok grazie alessandro gabriele e noi ci becchiamo una prossima volta grazie al cielo ora che tutti grazie

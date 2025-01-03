@@ -1,0 +1,13 @@
+In un’epoca in cui il dibattito tecnologico somiglia sempre più a una battaglia epica tra titani, *BGE 72 - bge4all. Microfono aperto, tutti invitati!* si erge come un’arena per le menti più affilate del panorama IT. La Brigata dei Geek Estinti, in questa puntata, ha aperto le porte a un dialogo fluido e provocatorio, invitando chiunque a esprimere opinioni e a scambiare idee senza freni. Un vero e proprio esperimento di condivisione, dove l'ironia e il sarcasmo sono benvenuti, a patto che la decenza rimanga un faro luminoso in questo mare di opinioni.
+
+Le tematiche trattate si snodano attraverso un labirinto di contrasti e confronti: **Vi vs Emacs**, **Commodore 64 vs Spectrum**, **Monoliti vs Microservizi**. Questi dualismi non sono solo nostalgici, ma riflettono tensioni tecnologiche attuali. La discussione sull’Intelligenza Artificiale nella codifica mette in luce l’ossimoro della facilità superficiale che avvolge le pratiche moderne, come un velo di nebbia che nasconde la complessità sottostante.
+
+La diatriba tra microservizi e monoliti è un tema caldo, che rivela come le architetture emergenti stiano plasmando il futuro dello sviluppo software. Le aziende, in una corsa verso l'agilità, abbracciano i microservizi, ma a che prezzo? La cultura aziendale, altro protagonista della serata, si rivela cruciale nell’adattamento a queste nuove strutture. Un’analisi affilata come un rasoio, che invita a riflettere su come il contesto lavorativo influisca sulle pratiche quotidiane.
+
+Le esperienze di lavoro nel settore IT vengono esplorate con occhio critico, evidenziando le sfide della comunicazione e la gestione delle aspettative. Un affresco di umanità in un mondo dominato da algoritmi e linee di codice. Il monitoraggio e il logging, discussi con fervore, richiamano l'attenzione sulla necessità di strumenti efficaci come Prometheus e Grafana, veri e propri sentinelle in questo universo complesso.
+
+Ma non è tutto: le retrospettive post-mortem emergono come il rituale sacro per l'autoanalisi e il miglioramento continuo, un antidoto alle ferite inflitte dalla pressione dei rilasci rapidi. Qui il tempo si ferma, per riflettere, apprendere e, magari, evolvere.
+
+In questo caleidoscopio di temi e riflessioni, ogni intervento è un tassello che arricchisce il mosaico dell’IT moderno. *BGE 72* non è solo un episodio, ma un invito a pensare, discutere e, soprattutto, a non aver paura di esprimere le proprie convinzioni, anche quelle più provocatorie. 
+
+In un’epoca di silenzi assordanti, la vera ribellione risiede nel dialogo.

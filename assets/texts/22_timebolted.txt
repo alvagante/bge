@@ -1,0 +1,601 @@
+e quindi siamo arrivati alla puntata ventidue della brigata degli estinti e ne sono passate parecchie sotto i ponti e la prossima è questa e sulla kubernetes community day che abbiamo fatto partecipato e poi c'è gente che l'ha fatto e l'ha reso possibile e lo scorso
+giovedì venerdì e quindi direi in attesa di eventuali altri entrate che eventualmente arriveranno più tardi martino michel presentatevi ok inizio io avevo messo il abito quasi tutti mi chiamano mi
+la vita di tutti giorni fa un developer al
+la mia corpo
+sostanzialmente il mio ruolo in bocca larga in italia però diciamo che si può riassumere con divulgare e assieme a tantissime altre persone qualcuno posta un semaforo modello amazon questi libri perfetti ne vado li onora mimica martino formata sono spesso scherzando dico che sono uno che usa cuba kernel
+se in produzione da prima che fosse saggio farlo magari con l'età che ho adesso qualche anno dopo non lo farei forse mi pare abbia fatto a suo tempo io sono un consulente indipendente nel campo diciamo del devops cloud network per dirla o ampia e di solito aiuta aziende di varie dimensioni sull'implementazione
+di videogiocare native cloud kubernetes sempre attenzione su una parte di automazione di francese gode simon sia dalle pratiche soprattutto con focus sulla parte infrastruttura ma anche con un occhio al reale insomma a tutta la pulce di sviluppo e poi faccio formazione su una serie tecnol
+logie molto richiesto e kubernetes container uso git quindi in grado di portare un team a livello di base su questo tipo di tecnologie e pratiche padre allora michel visto che al momento sei l'unico rappresentante degli organizzatori parlaci un po di quest'anno com'è andata come
+home
+rispetto anche agli anni precedenti e bevande
+un po un cosa generale telegenova restrittivo per chi non lo sapesse distribuiti dai
+realizzato un vademecum
+l'europa è realtà un mondo lo scopo è quello di riunire la community locale e poi dei topi
+la novità dell'ultima paris non solo moda giacomo anche una serie di cose che fanno un cosmo è un evento promosso da chef
+insomma molto focus e sono molto molte in realtà
+anche eventi molto molto grandi in italia puoi fare la tav
+sul foglio di cui la prima ondata
+novanta nelle scorse due
+nel duemilaventi duemilaventuno online
+questa roba fa una over
+green andare dal vivo ovviamente poi poco
+amazon
+oh attualità
+sarà o voi cosa ne pensate ma personalmente
+su youtube uno screening quindi dove possibile
+di andare dal vivo e quindi la filiera federico
+come detto poco fa dal passato
+prossimo anno
+a chi magari zone di milano
+non esistono mappe
+o complessi di edifici fatta fallire
+e amo duecento
+abbiamo notato
+un sistema di supporto
+non me lo dicono tutti
+no
+staff molto molto veloce per farlo è inutile evento molto molto meglio
+non so cosa no
+nota anche in o o qualsiasi cosa di profondamente
+da te
+sono totalmente
+mondo
+stato un buon insegnante lordo
+culturale io avevo molta molta paura
+all'evento in realtà
+auto moto
+abbiamo realizzato il mandato
+decisamente martino non tuo feedback da utente ma anche speaker
+tanto
+dire che
+se si accontentassero di ammiratori sembra varietà da dire però insomma so quando ho organizzato in passato altre cose insomma eventi simili o meno che lavoraccio non sembra ma sono anch'io contento del ritorno al fisico al ritrovarsi nel senso che io una conferenza l'anno riescono perché sarà perché viola i video
+guardami io non lo faccio volentieri rileggerla era una cosa mia ma
+comunque la parte scritta ovviamente se sei lake diverso e quindi e quindi anche la corrente non solo ci può andare anche se volevo stare
+mancano affatto
+guardate alla fine quando due o tre
+due virgola cinque per cento
+si capisce niente però io proprio non riesco a guardare i video lunghi viste non sono solo un senso onlive sono fabrizio un minimo di partecipazione visiva online insomma e quindi insomma come come è stato con l'incontro di box qualche mese fa insomma è un po' un ritorno anche questa è stata molto più
+ghemon poi presto i
+insomma non c'è l'evento rientrerà fatto bene posto molto bello simpatico e
+anche lì anche il rito sono stati vari sono un buon bilanciamento anche ai diversi livelli di approfondimento tecnico erano comunque accessibili anche a non esperti e non dentro kubernetes
+poi una cosa diciamo più generale che non riguarda solo questa conferenza che ormai siamo concretamente finalmente nella fase di maturità finalmente se non collegate non è più ultima cosa figa però chi lo sa se è un eroe ma è ormai diventata mainstream
+quindi ci sono stili diversi sono sono cose diverse da fare che dice più una fase di assestamento una fase di di sistemare tutto quello che sta intorno tecnologia fase quindi mi fase di espressa nella parte di incoraggiamento quindi non sono né enterprise
+clienti che hanno una certo livello di
+l'ordinamento di necessità di
+vi seguirà
+cominciate cominciare normative
+da parte di portarlo alle persone possono prospettare a parte
+quando hai l'appassionato tecnologo lo possono permettere
+puoi farlo ingoiare qualunque cosa perché poter poi magari raddoppio pur di mettere maestà tecnologia ispira che qui ci metteremmo volentieri adesso io credo che l'adozione generalizzata si sfogano con persone che giustamente o non hanno grossi interessi studiare teologia nuova solo perché è nuova e ci sta bene essenzialmente ragionevolissimo
+oppure che fanno che erano la loro testa così dal suo aroma e gli sviluppatori sono concentrati su altre cose e quindi il lavoro della comunità adesso è di rendere queste tecnologie facili come linux tra virgolette perché in zero limits adesso è vent'anni fa sono due esperienze in cui lo aveva visto
+a vent'anni fa è radicalmente diverse imperativo di eternit deve diventare un la tua selezione delle bozze posso
+il lato positivo
+è stata una cosa su cui abbiamo parlato tantissimo
+la scelta del volto non è causato quando abbiamo deciso di
+esterna
+di cui fummo nuova o magari altro che i testi di il posto delle persone che masticano operativo
+posso chiedervi un aiuto e un ulteriore parere
+rapporto
+salaam
+da veneto lavoro non fatto conoscenza magari tavolo
+posso dare io e mio marito è morto o no poi potremo avere
+l'idea del locale per quanto possibile
+ogni ogni modo da avere più
+store
+devo dire che stavamo soddisfatti del risultato peccato che come tutte le cose si può sempre fare meglio non esiste il gradino della perfezione e rosa
+ma guarda io da utente tra l'altro esterne neanche troppo esperto non posso che dire confermare quello che avete detto assolutamente e ho visto una comunità comunque bel no abbastanza numerosa mi piace io diciamo non posso
+considerami membro della cometa kubernetes italiana però mi piace vedere questa e diverse aziende che poi vi rivedete nelle varie conferenze nei vari settori che cevico ci si conosce a vicenda poi adesso non so i dettagli specifici però vedo anche con cui molte relazioni molto buona insomma
+ci si amicali diciamo quindi concorrenti ma anche magari non solo è e quindi questo è bello e molto comuni che l'hai poi magari la mia impressione da esterno
+se è come ho
+posso ma più
+la cosa che posso dire è che
+siccome dipende da quello che scuotono foto no perché se guardiamo alla community la comunità fatta una persone non da aziende poi ti ammali io ho la tastiere partecipano chiunque magari non vi andò e allora dirà se si mettono di lato l'azienda si sono da poco
+roma a una parte della tassa può fare parte della comunità a prescindere da chi siano le altre persone hanno
+io credo che
+fate parte dei comuni che stoner sia
+sono l'ultimo fra tutti perché lo scambio di informazioni l'aiuto che si può ricevere o dare va oltre quello che poi è il lavoro che fai
+di dove fissò come previsto
+felice di aver lavorato quando dopo aver incontrato anche tanti pochi istanti estremamente aldi sia come persone che come me
+questo è stato vi è stata una produzione tabella una cosa importante perché ha fatto il torto e il fascino fascino e la propria insaputa l'auto su un concetto di clienti quindi partenza il gruppo dare di cercare di come dire aiutare il prossimo
+un vantaggio autopostali possono essere quello della acquisire visibilità potenza sono certa di persone che
+poi io non ho assistito
+hitler nella sostanza tecnologia e quant'altro
+esattamente quello che volevamo
+una community che si trovava in formato tankobon senza caldo
+andiamo a idee conoscenze
+bene grazie riuscire martino tu di cosa hai parlato del tutor allora
+nel tornerà come controllare i flussi di escono open costa a costa è un progetto open source inventato io l'ho presa larga e ho voluto più parlare di come modellare i costi di quell'incubo kernel sei o impostare in parte incidentale in parte
+come dire proibitivo proposto allenatori sia outdoor suo percorso seduto sulla gestione dei costi diretti permette poi loro hanno scelto quello più imposte ma alla fine sarebbero stati simili lo stesso no perché alla fine mie intenzioni di più potrete parlare del tool anche a parlare di de martin so che è difficile ma diciamo tre cinque minuti per riassumere il
+tool l'essenziale ai cinque anni son tanti rientrare da allora e c'è un tema che ho sentito io l'ho visto in consulenza e mi pare che sia un tema che qui senso dedicarsi no perché l'ho visto molto e il tema della gestione di gestione dei costi di governante che poi è un successo
+merkel sono i costi del cloud non vanno intesi
+in casa oppure su un padre claudio sempre sempre clown e idee un tema non ben come i generali posto il club non c'erano c'erano anche un'organizzazione di una nuova complessità ma anche utilizzatore che utilizza bit louder per fare un laboratorio le cose erano abilmente il rischio del ricorso alla halawa
+il fatto di trovarsi a pagare dieci volte cento volte tanto quello che pensavi perché
+provette a uno sei tu però alla fine non avevano mai trovato in qui dice ok
+se supera un tot spegni tutto e magari non va bene la produzione però io mi sono trovato dentro le aziende che sanno spendere cento esso dovrà spendere mille così senza accorgersene
+collettivamente siamo state insieme ma se voi tutto sia rilevante come rilevante totalmente
+pensiamo prima diventato mainstream fra dicevo ci sono due eneco nel pubblico che ci sono due due modi di
+sono due cose da fare uno è capire come come distribuire i il cloud perché come recita una serie di risorse condivise preto di macchine che hanno taxi bus tram e sono usate da diverse applicazioni e molte aziende in cui sono stato in passato c'era necessità di dividere il corpo corvino
+sapere quanto ci costa un prodotto quando si rende un prodotto ci rende quanto vendi non so per quanto si posta tra le altre cose è riposta in fattura quindi è è una variabile importante non sempre nell'ottica di non come costo assoluto ma come costo rispetto ai benefici
+soft e quindi è necessario fare un modello ti dica come dividere i costi di siti web di rayman e poi non so perché faccio i conti sostanzialmente annunciano questo è un tentativo in questa direzione siccome non fa certo sparito che comunque non è ancora arrivato ancora maturo quindi si va avanti di buona lena può essere un
+può diventare una cosa interessante però già com'è adesso può essere utile per impostare una propria una propria strategia di suddivisione dei costi ma visto che siamo in tema altri strumenti simili e credo che il mondo fino a e affini c'è un po di tutto e sta tutto parecchie altre cose sta venendo fuori giusto per menzione a nessuno
+io non li ho studiati bene avevo per posta una
+fuori da dal dal l'azienda che ha fatto chiunque costa invece un prodotto marsa alam shawn però penso siano poco legati nel senso forse avevano ambedue
+col comune quando sono collocati siamo adesso non so se c'è ancora molta di più un costo che varia solo alcune delle mancanze di open co-sponsor degli altri tool che sono più per la parte claude hanno anche un peso di kubernetes chiamò tutti i liquidi ho intravisto hanno un po la linea
+stazione che sono poco configurabili poco estendibili io non ho mai trovato la situazione in cui serva un po' di posto in cui non serve un po' di profilo configurabilità anche se la supsi la situazione dell'organizzazione cosa ovviamente molto semplice tutto sommato probabilmente non serve neanche di costo ai
+pasta al costo cumulativo del totalmente se sei a posto quindi non ti serve qualcosa di più raffinato mentre se in una relazione complessa devi per forza metterci le mani sostanzialmente il problema è un pò la sfida empoli e non c'è pasto gratis dai no uno può sempre implementare un proprio sistema mentre che in questi kubernetes sono già raccolte
+i prometheus answers perché aveva visto il database standard se ne risultano finire sulle metriche vivono a finire quanto sia chiusa ogni singolo container che nasce anche per un secondo shantaram non utilizzati quindi i dati ci sono probabilmente ci sono già tutti quindi il food cost è un oggetto
+chiamaci da questi dati che diavolo di un taxon adattato a seaworld e i moltissimi fan card e ho sempre visto in passato farselo in casa non è rocket science però avere una uno standard condiviso su come fare questi annunci come fare queste decorazioni dell'interno dovrà sempre più diventare di ruolo siamo ancora un momento inizia
+insomma mi sono guardato più discusse del vino bz alla fine poi
+c'è stata
+forse in questo periodo poche sala la conferenza che fa fila fake news foundation stati uniti e la conferenza open costa viola visto suo marito in più dell'anno scorso del ventidue e anche lì tutto molto a livelli standard dizione tutto molto agli inizi so che andrò a vedermi
+stavo facendo provando a standardizzare un po' come si calcola il costo il cloud è un argomento molto aperto però interessante insomma
+la maggior parte dei posti dove sono andato non c'è niente quindi qualunque cosa anche semplice come un concorso può essere già un bel passo avanti per permettere questo succede perché poi l'altra cosa e poi essere seguaci di mitra minuti ciclo wilson scatti un'altra cosa se vuoi che ti dico che ho capito dopo un po' non subito sarà banale
+forse che l'ottimizzazione dei costi l'ottimizzazione delle risorse l'utilizzo utilizzate solo la stessa cosa non e sono due facce della stessa medaglia e pare incredibile ma io ho visto ma anche quelli di più i costi hanno detto nei loro tour più volte che arrivano nelle organizzazioni che hanno un'allocazione delle risorse rame siti su internet che ha uno
+l'efficienza del dieci per cento dell' otto per cento il cinque per cento e tu hai dentro si più e stai usando e verità tre quattro uno pisa
+possibile capito che incompiuti imposto sempre meno però e si vede chi veramente sennò tu non metti un tu che dici quanto licenza se sei sopravvivenza che viaggiano tranquillamente con efficienza del tipo macchina a vapore
+due tre quattro cinque pazienti di avere i soldi io spero di aver passato torniamo con il mio discorso almeno un'idea le persone li devo guardarmi queste cose per capire cosa sta succedendo esattamente e mitch tu da organizzatore come ti sei visto un po' anche tutte le richieste e le colf etero e così via e ci hai visto qualche tendenza qualche
+che cose emergente qualcosa che ha senso
+segnalare
+grant ho visto io palmare tutto un altro mondo
+partirò però sono essenzialmente legata all'aspetto sicurezza e allo staff film porno
+no uno e se ci pensiamo effettivamente un trend abbastanza classico dell'innovazione no e se valutiamo l'efficienza delle auto
+ho quarant'anni passo contenuto rispetto alle seicento occhi e facendo due mondi diversi come la sicurezza neanche editor di foto tendono ad avere fa
+modo di innovare o vivendo nella prima fase cioè reale innovazione a discapito di milioni
+infezione ogni altro uomo poi sono la porta per primo
+è utile strada
+sei tutto forniscono i clown mentito aspetto rocco porno non so se sono stato o cosmetici tipo è però non ho fatto il post
+veloce forse sono fatti di alzheimer se vogliamo chiamarlo così dove si va a lavorare significa costi ottimizzazione sicurezza e contatto nove otto persone chiedendo nostra primo spettacolo però oggi è molto più spazio per farlo non esistano dei dipendenti
+margini vengono playoff mentre i vasi forze ne fa una cosa molto difficile da trovare oggi
+cosimo stanno lì credo che desueto
+in questo periodo siamo soddisfatti
+oggi solito di più
+situazioni estremamente importante valutare la sicurezza a mano
+bagno di sangue ci mandano i film e automatiche aiutano le persone a far meglio seconda fase post vendita
+cloud e benefici del flauto sono piuttosto proibitivi e passeggeri che giorno di non ti rendi conto che puoi
+poiché l'output di un processo più calano anche rendersi conto di dover fare delle cose
+colori insomma è importante passare il messaggio poi wall cosa si fa come storico fumatori diventano cose in dettaglio avendo esistono cose di auto però a del
+la stima della sua tendenza questi qua e poi ho detto
+amo raccontare esperienze anche se non sto più
+scrivi qui il tuo posto rotto tecnologie
+molto strutturati molto complessi indifferenza parlare di pippo morelli l'integrazione non si non sono
+efficienza disprezzano anche il suo staff non doverti stato nella
+generale non sono non possono o chiede se director of forse non troppo interessanti perché hanno spesso problemi di casey stoner
+la maggior parte casi non sono replicabili in altri contesti
+secondo
+nell'ultimo momento sono grandissimi lei e ozzy non significa per forza grandi aziende ma ho un sacco di dica molto molto comodi che vivono in mongolo magari oman note al tipo
+i vari interessa
+l'agenda oriente pubblicati mi sono detto cosa che abbiamo apprezzato tutto lì devo dire che rispetto alla vocazione per l'articolo carlo felice un canale youtube dove ci sono tutte le presentazioni che se c'è mettiamo a lavare i migliori video arriveranno lo può mettersi in proprio
+che poi metteremo metteremo tutti i riferimenti
+importante ovviamente l'azienda un po' quello che vogliono
+ma no proprio quei pochi figli e che hanno scelto mattino rispetto altri ne sono di simili magari posto sicuro assicurativa e così via l'azienda più o meno uno stato di quello che puoi o di moto la cosa che potrei suggerire semmai qualcuno se qualcuno che riguardano apostol
+l'hai mai deciderà di affrontare il consiglio che do è quello di non basarsi solo su
+perché alcune volte diciamo e rendono crea quindi vado verso degli argomenti non so se poi un focus oggi è quello di noxon chiamiamolo così ma possono dietro
+troppo tardi per parlarne lì come dire guardate un po' cosa succede all'estero videoconferenza nel periodo leggermente funzionante alcun sospetto non fosse un buon modo per nuovi trend molto interessante allora due cose una nota di servizio sia qualcuno che ci sta seguendo dei pochissimi lettore o visite
+te visitatori che stai seguendo era come idea magari se volete entrare stasera visto che abbiamo siamo in tre che siamo un po' pochini due il buon paolo e jacopo non so se entreranno non entreranno per cui vedremo comunque se qualcuno e ha partecipato mi contatti in qualche modo
+se ci riconosce per altre vie o contatti qualcuno dei presenti mandiamo il link può entrare nella diretta live la seconda cosa è invece una domanda che mi viene in mente mentre parlavate di gestione dei costi immagino voi avete avuto esperienze diverse su clienti diversi po' in tutti avete visto classico
+c'è il momento in cui si realizza stiamo spendendo troppo cosa fa che
+allora non so se a voi per capelli di qualcuno che è tornato indietro se n'è parlato però solo me sono più cosa e episodiche che una tendenza e quindi tornare un premio è ma in genere qual è l'approccio cosa che si fa un po' l'avete detto gli strumenti tutto però insomma avete qualche specifica feedback
+sulle esperienze dirette da allora ottimo
+in verità non
+pur avendo diciamo letto a livello divulgativo tutto quello che si ripetono a obsoleto un famoso libro dunque verso nord fuori la seconda edizione è comunque una miniera di ispirazioni però come sempre generalmente tu quando non ti disturba un approccio molto dettagliato poi tu riporti sempre casa di ticketing difficile provincia che sorprende
+questo non implementa da capitolo uno ventidue no non funziona probabilmente comunque non è fattibile quindi ti porti a casa
+io ad esempio da
+sempre a casa
+lo facciamo dare effettivamente voglio dire quindi
+mi sono ritrovato più che portarono a casa di riuscire a dare visibilità a chi sviluppa applicazioni
+chi rilascia di dicono che sta succedendo perché noi parliamo di devops da tanti anni però ne è in realtà molto spesso comunque c'è ancora la famosa separazione quindi uno nel mezzo quindi riuscire a dare visibilità vuol dire anche solo dare di foglie sei brani un paio di aziende facevo un foglio excel una volta
+al nesquik di real time proprio proprio no semplicemente scritto uno script che tiriamo fuori da prometheus facciamo un foglio excel in cui cava per nodo per l'einstein per applicazione per container e l'uso di risorse possono postino che già questa cosa qua sembra una cavolata ma ha cambiato le cose sempre il meglio
+maniera importante
+e quindi questa è un po' generico richiamo non ne parlano tecnologica ma è sicuramente il modo la prima cosa la fame poi ovviamente ci si trova nella situazione in cui il settantanove speaker di tanta roba che nessuno usa è qui in funzione di come si è comportata l'azienda è facile trovare informazioni per capire
+chi o cosa fa una certa risorsa come spegnerla oppure no molto spesso il lavoro e andare a scavare cose vecchie di anni per capire la macchina quella risorsa bilanciatore questo quell'altro quel volume i ricchi e longer che utilizza il mutuo spesso è un no
+ora si va a scavare e non so io personalmente non so voi ma io non non ho mai trovato un metodo che non sia applicare buon senso la buona volontà del
+picconatore per andare a vedere cosa c'è
+perché è difficile arrivando su una struttura complessa a capire come è organizzata cioè bisogna entrare nell'ottica di come hai lavorato con l'azienda per capire che qui si utilizzano le macchine virtuali in questo modo vi dividono in questo modo talmente orizzontalmente spaccando l'applicazione per di qua e di là vi è una cosa che non è difficile sapere all'inizio fino alla fine
+il ops mi ha aiutato o comunque quel tipo di approccio meditato per avere un'idea di come impostare le cose nuove per le cose che io mi sono sempre trovato a tirare cavi pulpiti company non so se avete qualche idea il mio essere vecchia dipende dipende quanto è sono fondamentalmente forma
+puntare una nuova
+spesso sono raccontati
+interessante
+dove va a finire
+i nuovi post del mutuo
+l'ultimo della giornata uccide e poi
+parlava di dio e del prossimo come comandante bianchi
+tra gli operai
+continuiamo i costi inutili
+non so se conoscete o avete mai visto la assumendola rendendola molto facile oggi viviamo in un mondo in cui è estremamente facile ad esempio ha creato un nuovo ambiente papà escono più test verifica delle cosa e quando creiamo i progetti
+quando la forza di training
+niente
+specifica mentre all'epoca come qui io
+tutte le prove che volano sulla tua massa
+grossi monoliti e riuscire a far girare in un mondo dall'altro alquanto cose ti quadra omar io c'era un ambiente dove tutti lo so
+offrivano le loro azioni e poi quando il soldato urbana
+odio invece ho aperto il pacco non generi
+il mondo di un momento nostro e che tra le tante cose non periodo è un altro dei trend
+la focus mode succede che un re non possiamo fare una piccola modifica o la configurazione ed un ambiente magari con decine di nuovi post
+poi umani
+venerdì sera alle diciotto diciannove non ricordi di spegnere tutto ecco cosa continua a macinare quindi ammassare risorse fondi e vedi diciamo che nasce da via
+si mettono operatore take this avvenuta su playa salvini su spegnere in funzione di alcune regole grazie finestra tutti davvero
+chi un tempo di spegnimento e suoi discepoli un cambio di assunzione che si occupa di spegnere la macchina perfetta ma l'ambiente osmo viso diciamo di venerdì
+ovviamente trasportato
+season and poco e ossa utilizzi l'auto magari di grossi player over raid spegnere un bel po
+no no no loro non affronta o li rispettano
+completa parliamo di un fatto
+se ad esempio questo quadro metodi fatti la propria relazione con mattino nulla questo posto ma non ha un minimo di analisi e non puoi dare per scontato che essendo troppo non puoi dare un voto di persone hanno poco fa annunciare la verità assoluta
+cosa fai della solidità
+vietati e decidi e ora ottennero stampa non stanno però il discorso potrebbe scendere dal mio ho scritto l'applicazione che stiamo utilizzando linguaggio proprio look scelto per forza della funzionalità è abbastanza efficiente ma deve fare perché oggi la cosa che fai non è
+quella di scegliere un linguaggio a prescindere io conosco
+ciao sì e allora
+già perché si torna al ballo in realtà sono quattro maestre gli odi per affrontare determinate problematiche non dei bellissimi unici che però non ricordo dove gli autisti dove raccontano la velocità dei linguaggi il freno
+julie fondo in funzione del tipo di operazione di fame non in maniera attiva e rimettiamoci è più veloce di tutti noi ma vogliamo league vogliamo i link mitch e dei freni a trovarci poi rimettiamo tutto juve che una cosa però da valutare per persone molto malate quello che hai
+fatto con gli strumenti discussione
+massimo mi sento fortunata alcune volte però devi scendere a compromessi e oman costi del tempo in passato
+abbastanza grosso è capitato di lavorare a dei tasti erano fattibili solo tuttavia validi
+emotivo ero in linguaggi librerie faremo sulla falsa chiudendo la base
+da fabrizio no meglio sì quello sì quella è una battaglia di dieci anni fa secondo me la risposta mi ero perso dappertutto io sacrifico e pazienza se si quali salvo non sia quello dettato ai documenti e ai graffi o crepe
+dicendo per partito preso non tenendo ponendo un disastro perché ognuno ha delle peculiarità è ottimizzato by design
+le operazioni quindi come dire concordo con quello che dice a giugno o sul fatto che bisogna un po anche capire cosa un livello anche superiore a quello dentro sicuro i polmoni e europee ci do un'occhiata al tuo abusivo
+beh parlano di donne due cose una valida base qui c'è stato anche un tour due tom brown database barnett simili magari anche se io quello grosso non sono riuscito a seguirlo ma quando arriva il video sicuramente andrò a vedermelo per un tema che incisero liquido scritto delle parole dopo l'altra quiete
+scelte del linguaggio e a me fa venire in mente che
+in un ambito in cui hai lavorato gli ultimi anni in cui c'era molto giava e ti arriva allo studente su cui si trova un problema che alcuni fremont java spring boot non me ne vorranno gli esperti spremuto scrivo qualche castroneria nello specifico però questo problema molto particolare che viene in
+enti non carichissimi come magari ambienti di sviluppo test integrazione eccetera eccetera hanno questa caratteristica che è l'avvio sparano rame più soprattutto a mille e poi lo tieni utilizzano molto meno e l'altro problema era che per come sono fatti utilizzano una baseline rami più molto elevata anche quando sono
+vicino queste sono due caratteristiche che sono mal si sentono male col dire contiene perché contea e l'idea di fare scalabilità orizzontale di hvar tante istanze piuttosto fare distanze più grosse istituti questa istanza sono tante si chiuderanno senza far niente cattivisti istituti di riempirti il cluster
+istanze che non fanno niente e l'altra che secondo le vi fanno sparano più a mille quando fai un rilascio di una nuova versione e tutta si da suono e quindi quelle cose lì erano cause di inefficienza perché bisognava tenere spazio per un possibile riavvio di queste applicazioni che poi non viene utilizzato soprattutto in infrastrutture
+premi qui non c'è nessuna scalabilità diciamo generalmente non è per quello che poi sono venuti fuori così tim micro framework cose come parfums in giava che sono degli oggetti che invece vanno a utilizzare questa cosa qua quindi quindi prendi memoria di ram più facilità far scalabilità orizzontale wikimedia in sospeso non sono un replacement
+un rimpiazzo così i cambi solo la parte che sta sotto finire chiedono capolavoro di sviluppo però è uno dei problemi di essere vita era mutuo questa cosa qua in poi è stata risolta tipicamente quindi nei momenti in cui si fa adozione di kibernetes sono cose che utile sapere perché in seno
+oh si rischia di fare senza accorgersene un lifting shift di tecnologie che magari andavano meglio in altri ambiti finì andò quando tu hai nominato disposizione dell'invaso inutilmente seduto questo questo tema qua è utile discutere quando si vuole scegliere un frame con linguaggio da adottare per
+ambienti a container e forse poi anche il motivo per cui anche google inizialmente è sempre stato molto ha avuto diciamo successo in questi ambiti qua però secondo me o quasi tipi immaginato mainstream si sono mossi in questa direzione per essere adattabili a ambienti palma fu un esperto proda dalla parte dell'infanzia
+eppure vedo che questo è successo quindi qualunque sia la scelta del framework fare attenzione alle caratteristiche di amici modi i tempi di avvio questa cosa qua perché sono essenziali per portarsi a casa i vantaggi delle piattaforma comune se molto molto giusto molto interessante
+una curiosità c'è o ci danno diversi speaker stranieri quest'anno io ho visto la progettazione di daniel non era niente male e tenere anche lui ha parlato di quartu peraltro perfetto per la tira inutilmente per impatto e
+beh è la prima volta dal vivo quindi forse era perché abbiamo un idea
+il trend è tutto però insomma qualcosa come che sono arrivati questi spicca da fuori hanno ottenendo non può
+leggi e culto
+appunto no uno
+ivo
+sono tanti e tendenzialmente le prossime docente usate a palermo
+determinato tipo di contesto
+o non vuoi puoi
+i pensi della ue affinché vedendo tutti sono gli eventi che si sono poi dieci durò effettivamente idoneo italy quindi tendenzialmente vivono
+non siamo però abbiamo toccato un immobile occupato
+pierluigi cosa quindi non siamo andati a piedi universitario
+poi l'idea di questo genere di eventi e
+quando possibile renderli quanto più vicini al meeting è molto bello che abbia parlato quando molti italiani sono così
+sono davvero moltissimi italiani l'idea è proprio crollo totale e quindi avere anche un ospizio o magari parla la tua lingua in cui c'è meno paura negli interventi
+non lo so siamo
+o produzione quant'altro aiuto
+totale quindi lato mostrano l'apice del motore comandato semplicemente fatta da quel completo avvertito che viene dato dal turbine rosso
+poi abbiamo affittato avendo abbiamo promosso che se ne va plus
+capo vaticano il popolo e quant'altro non fin dal canto suo riferisce che finì nell'elenco dei testi
+imporre con scoperta da parte di enzo vengono qui hanno applicato quelli che volevano fare una vacanza d'italia hanno applicato sopra una bella cosa che ti posso dire che in questo momento storico molto ora forse un po' meno però fino a quattro mesi fa da domenico
+la diocesi di lipari gli eventi hanno molti meno rispetto a quelli che hanno due fonti originati da qui ai prossimi mesi quindi chi magari dando abbastanza grosso da daniel fa posto di lavoro
+muoversi quindi va in giro al parco
+in netta difficoltà a promuovere ventidue dal vivo questo significa che
+lo puoi fare anche online probabilmente uguale quindi se lo fai probabilmente ha partecipato a qualcuna
+ma probabilmente uno dei motivi per cui
+applicare anticipo
+poi ricordavano statistica così a spanne direi che più o meno sia stato un quaranta sessanta agli italiani quando passando le applicazioni italiane quaranta estere considerando che gli italiani che vivono a
+a milano è molto più facile farlo
+pensavo di più gli italiani rispetto in proporzione rispetto agli stranieri esteri come mission beach considera che
+secondo me come dire all'estero
+tutti i ruoli come il mio di molto più grande che desktop poi a
+ovviamente come me lavorano nelle d'italia affettuosamente palazzo
+impastare russi di fatto grip sinceramente dico uccideranno non tutti quelli corrieri detto di no sono italiano
+sono un po' più grandi esatto poi il discorso dice il circolo dei community days
+bene allora e qual è stato il vostro preferito dai esclusi i presenti a non per dire il meglio ma per il vostro qualcuno colpito e interessato diciamo pure fatto
+dico due
+allora non c'è stato in parte non è previsto tutto ma ho visto la micro demo che hanno fatto e c'è stata appunto la presentazione sul discorso di
+poi scrisse su su bernezzo in tutta questa questa parte della mia fascina che al momento in quel momento io mi è molto chiara no nel senso che è
+questo qua era di gabriele gabriele simile
+bartolini di stanzialmente loro hanno fatto vedere una loro modalità comunque cambiano anche un prodotto un progetto open source per
+la gestione di posta e squilli database relazionale per eccellenza open source kubernetes che è una cosa che ancora io corro io ho qualche dubbio c'è nel passato l'idea è che fosse troppo presto per poco tempo fa era forse troppo presto per mettere la divisa nazionale adesso ditemi di cosa sono
+cambiate loro stato hanno fatto una cosa mi è piaciuto molto che hanno fatto un demone un lighting e hanno lettera il programma è stato vedere assolutamente state in totale dieci minuti scarsi devo insieme quindi anch'io ho fatto ho fatto una demo però mi sono infilato appare ora costa dieci euro in dieci minuti chat su last armonizzava
+fantola di post eccetera quindi è stata cosa carina che bisogna avere un po' di coraggio per fantini sono stati premiati sono perché ha funzionato però questa parte il tema di mettere il database su kubernetes ancora è un tema abbastanza scottante che generalmente viene rifiutata quindi ben venga se
+un'azienda magari anche italiane con questa tempra meglio che e che invece provano a farlo lo fanno in maniera insomma da darti assicurazioni di affidabilità anche perché poi se stesso lo consumò nella pagina kubernetes ma gli mancano quegli automatismi di controller siete che magari servono proposte se vuoi
+barnett e quindi chi lavora in questo campo deve deve fare
+mi mi ha mi ha colpito è sicuramente andrò a vedermi andrò a vedermi cosa hanno fatto perché interessante perché essere giusta pratica digressione anche una una un progetto un'azienda interessante che si chiama times gail che ha fatto non ha un'estensione di poste per l'utilizzo del times i rischi piccole ansie
+dipinta la parte diciamo aiuti quindi la raccolta di sensori sul campo in ambito industriale in cui sto un ponte interessandomi anche e in quella parte di interessante perché sembrerebbe quasi che i si siano la cosa più naturale per qualsiasi tv invece ci sono diversi posti che sono molto efficaci
+senti i temi di spazio di velocità eccetera anche per quell'ambito di che sembrerebbe poco relazionano a finire ai nazionali miscela la strana azienda un po' prima ma è una scelta da fare però se sembrano sempre morti sepolti dopo vent'anni vent'anni so se andare lontani da quelli open source e quelli non
+risorse noi parliamo come età però sono sempre lì quindi bisogna tener conto che tali dati per morti in troppe volte questo è il primo tool mi è piaciuto l'altro mi è piaciuto quello dopo una
+direi che proprio ben possono possono
+focus junior focus lavoro e che quando dicono molto poco praticamente mai effettuati solo complesso ma questo complicatissimo veramente imposti
+quando una lapide forma e nonostante questo è stato comunque in voga tal modo molti anni dopo la vita
+giovane uomo
+non è luogo quindi
+la mia gamba
+nato dal prossimo marzo pari non si chiamava l'auto si chiamavano sistemi distribuiti probabilmente protocolli leggermente diverse tutto però
+no perché
+inventiamo sempre una ruota migliorandola
+sonno di sistemi distribuiti ciao io ci sarò
+diciassette anni fa sistemi cloud di buono ovviamente la potenza con cui lui dopo base di quel
+ma al momento in cui uomo e i dati tabellari poi quelle cose che uomo vuoi
+il medico può non bisogna pur essendo poco
+hai fatto bene e volevo chiudere il discorso se vogliamo chiuderlo non possiamo andare avanti su po scrisse su kubernetes è perché è beh buon gabriele le avevo anche invitato non ha potuto partecipare magari verranno altre volte lui ha questa sua missione di polvere
+secondo me sta facendo grandi cose anche se poi non sono esperto per poterlo dire e per cui beh comunque ben vengano perché a questo punto tutto il discorso gestione dei dati su appunto come dici te su un database relazionale in qualche modo i dati di quel genere comunque ce ne abbiamo ben visto
+bisogno di cercarli e curarli quell'approccio funziona ancora funziona bene e dai secondo thor che ti è più interessato ma l'altro che mi è piaciuto quello di diego praga il varo che occuparono sapevano pronunciarlo che è diciamo era l'argomento specifico
+era un fatto vedere come mettere una casa radici in questo caso sulle idee di barney di loro non hanno
+però questo era un caso interessante di per sé perché comunque ci hanno dato un buon ripasso delle riconducono alla casa sostanzialmente inutile però mi ha interessato di più con un'altra cosa perché c'è una cosa che mi ronza in testa e non solo meno nella mia mamiani siamo in pensione ma il fatto che come diceva credo massimo referee
+l'incontro devops io è stato sottoscritto la porta dicendo che
+qualcuno ha detto che kubernetes è un sistema di ip che per caso anche i container diventano c'è la provocazione vorrebbe dire per effettivo
+dentro la nuova era è il sistema di il fatto che il modello che è comunque
+in cui nico male
+c'è una riso ci sono l'età in cui ti sei sentito è stato dichiarato risorse poi c'è un controlla che mantiene che va sempre che tenta di aggiornare le cose per andare in quella direzione
+teoricamente non è un difensore banner e implementazione di successo di questo modello controller e va oltre ai container da adesso ti permette si utilizza per anche per controllare altre cose ad esempio quando ha incubi
+provider hai già degli oggetti che rappresentano non solo balance all'accampamento in container con servizio di dio li muovono e quest'idea che kubernetes comunque il suo modello sia sempre di più un oggetto per controllare cose generiche non container per me è affascinante sai non ho ancora
+formalizzato bema sta è implementato in tanto tantissimo sonno quindi loro hanno fatto vedere come mettersi la casa è uno dei motivi può essere che ti permette di gestire una moltitudine di oggetti non sono chiaramente container magari di diventare un po' l'infrastruttura tipo quelle della sufficienza c'entrano ne hanno coniugato questi aspetti e a me questa cosa
+martina scusa riguardo ai esempi di cose che puoi gestire con cuper hornets che non solo contiene sia di cose per le quali esistono già progetti sia cose per le quali secondo te un futuro potrebbe esserci qualche news gates ma allora gli esempi ti suono nel senso che è sostanzialmente
+i vari cloud provider baghdad da sempre kubernetes si possono gestire molti biglietti
+vi
+di dita provider non tipo dadada
+diciassette duemilasedici si installava da dio essi si poteva istanziare oggetti di due esiti paulo dybala sarà o lumi là dentro cuba me sei già pilotando cose che non sono container sono fuori di me e
+dopodiché tutta una serie di ora adesso stimoli i driver l'ultimo driver insomma si chiamano un altro modo per gestire lo divideremo gli esempi più tipici sono in provincia di storage tu hai una storia di un datacenter ad esempio è e puoi creare oggetti dentro allo storage da daccò
+una nebbia come mettere taiwan bauer sotto puoi creare un volume può non era agganciarlo al master senza mai andare in buon in oggetto kubernetes che volume con noi da vigila a cento giga e questa cosa per tutti i produttori che fanno i players di rapido bilancio
+vuoi dire tre o un bilanciatore sul mio e cinque nella scheda whatever
+per me quindi non vado più dentro a un altro oggetto da configurare ma lo credo lo credo lo distruggo faccio tutto il ciclo di vita del progetto da entrò barney questi sono gli esempi che già utilizzano nella vita di tutti i giorni il torace quindi
+re direte sicuramente e oggetti clown quelli sono già i soci ci sono ad esempio massimo faceva riferimento a un proposito però messo in piedi per controllare e sempre più cose di
+di bijoux dal sistema pd e il movimento seno perché a questo punto io vedo due due modalità vuoi macron o gestire le risorse alla terra forma e gestire risorse alla cpu veramente se teheran fornì inizialmente era facciamo modifica schiaccia un bottone e viene applicata
+va però anche lui si sta evolvendo suo politico che ci sono verso una una cosa più automatica sua kubernetes invece nasce già in cui io definisco crudele è stata una risorsa e sempre una roba che dire foto che fa in modo che quella risorsa avessi così
+ci sono tanti approcci ma discorso del kubernetes è venuto fuori come pulizia delle vie come pulizia del modello e siccome ala l'opportunità di diventare anche molto di più anche fuori dai container so che c'è
+the cross play che un progetto noto che fa sì che va in questa direzione quindi pronte uno dei primi da guardare però lo conosco in dettaglio però si basa su quello che che che che ho poi ho visto questo tipo di approccio quantum ai suoi provider a quello che lega più estero precisi piccolo
+meglio che ti permettono di creare risorse di questi provider energetico che poi hanno un marketplace in cui hanno provider che provvede sarebbe quello che sono i driver che permette di convertire un oggetto parte adattatore tra etica ecuba mettersi qualcosa nel mondo fuori da cuba in poi
+insomma ce ne sono altri i propri figli
+quelli grossi che vi vengono in mente bene e giusto per capire queste
+radis farei che caching delle app come gestiscono i casi in cui l'informazione dev'essere re flash ma allora se se non ricordo male e allora hanno descritto un po' delle modalità perché comunque zalab ti danno dei ganci per poter verificare se le informazioni sono solo una parola
+frecce penso ci sia un metodo poco più parte delle va a invalidare la caccerebbe giustamente è come quando utilizzi di chi chiede watch immagini meccanismo del genere in cui puoi essere notificato a linea di comando quando cambio una risorsa quindi puoi metterti watch su una serie di oggetti sono l'ipod quando quello lì cambia stato chi manda
+l'indicazione penso che il meccanismo sia simile e quindi deve essere poi le stessa che fa una pessima nation e loro hanno scritto un pezzo di software per agganciarsi a questo meccanismo qua interessante mickey presentazioni interessanti al notaio
+o forme fa impreparato
+domanda però non ho potuto seguire tutto con la prova del voto seguiva e devo dire quelle opere poco che questo riguardo sono tutte cose tipo la foto di gruppo
+funzionamento allora ti devo dire due cose molto piaciuti anche te
+direi che secondo me no
+estremamente utile non tornare magari no
+moda così come
+annabeth parlavo di utilità come azienda
+so e hoffman che
+ma come
+mamma
+piccolo
+uomo polvere aspetta parliamone adesso allora scusa amici da aifa e i tuoi tre minuti serie se ti ricordi di riassunto dovresti di quel tour su da allora
+anno dopo
+no
+con un po' di statistiche di buone pratiche e gli esempi che hanno un uomo per dire
+in generale
+morte del ragazzo
+ero molto più ampio ad affrontare delle mappe del team poi non sia snoda come informatica contatto stava anche dei tour sulla disparità di genere cosa positiva
+no no è chiaro che
+soffice
+tempo quindi richiederà molti anni fa papà
+equilibrio e poco dopo l'esperienza scientifica sul come l'uomo intorno alle nove
+sono di colmare questa lacuna quando possibile poi alla fine non in maniera attiva e non si trovava
+laureato in proporzione agli uomini per provare ad assumere nuova proporzione uguale se ci pensate anche di un'azienda
+uno degli aspetti abbiamo fatto molta attenzione
+uomo uomo-donna
+molto
+quindi come dire c'è poi alla fine trovava al polso
+vicino agli spettatori e attivassero
+consigliare a vedere
+che noi viviamo nel mondo anche touchdown e quindi il succo di quello di anna o no avevo accennato puntualmente l'anas community che sul trovare la persona di interagire contribuire al mondo clienti a trecentosessanta
+sin dalle auto sui social disposti sul forum offre i topi scarse
+molto carino perché ha fatto la fine della community sai che
+se non lo sapete il logo del pd
+masterizzazione di un pezzettino del logo de gubernatis ricche le auto
+la pizza era cosa molto carina che abbiamo fatto lo scorso anno e che abbiano registrato duemilatré silvio
+se
+app della pagina puoi farlo
+di tutte le informazioni comunque fuori posto
+tra questi ordini
+tokyo
+nazionali uno che a me è piaciuto
+pochi purtroppo è stato quello figlio operato di chuck norris non tanto per la parte
+swiss quanto ha vinto l'edizione raccontava
+grandine tutti i possibili modi per interagire con
+ahi ahi
+è molto molto carino poi all'interno del polo sarà ancora svilupperà l'azione di un operato
+del corpo per nucleare le risorse necessarie cartelle fa il
+possibili spoiler sposano occupato
+dipende e'possibile stimolano
+sin quattro zone weinberg sto tornando al discorso dell'ottimizzazione
+offuscata o devo dire
+sette campionati di più alto
+non sono scese
+una il
+un premio annuale per chi vive il pezzo di codice chip incomprensibile quindi inquinate in vari modi deve compilare funzionare però deve essere totalmente illeggibile nella maniera più assoluta è una cosa tutta guardato non ne sapevo nulla a guardarlo però
+domanda ma devono farlo a mano o curva di un
+potremmo
+di tu però è una fusione di eleganza no ken che non è semplicemente esatto sì un ordito gigabyte di spazio vota l'eleganza della cosa è l'estetica non è uno dei premi chi scrive la cosa più più più piccola e comanda il programma più piccolo che fa qualcosa di utile
+è storicamente ha vinto uno che ha sfruttato un bug del compilatore per fare un sorgente c di zero bytes fa il vuoto che compilava e facevo una cosa di stampavano una sullo schermo e a quel punto hanno cambiato le regole perché non puoi batterlo forse per te è proprio la cosa più nerd che forse esiste per
+nel campo delle cover nero ecco
+voglio spiegarlo a mia nonna o mia madre ecco
+stili diversi ma è divertente però ti preoccupare comunque dell'azienda abbiamo la nostra unicità per disarmato flash mob comizio poi però
+bene quando poi fondamentalmente quando ti spieghiamo come fare
+anche quello domestico da vedere c'è differenza
+dopo una serie di idee di come mirren bambina non è non è così banale ma utile
+l'atmosfera è stata soltanto perquisito io credo che offrono grande accumulando mandati al tipo e mandami una mail e tutte insieme
+seguito anche te mattino anche una se vuoi a fine col mandami una mail con tutti i link delle cose di cui hai parlato che poi è
+allora nel frattempo io ricordo la presentazione è fra quelli che ho visto che ho apprezzare e sulla supply chain di paolo mainardi che tanto doveva partecipare non hanno potuto e interessante lì anche anche a collegarsi dicevi prima mickey sulla i
+thule che ci sono ad essi per fare cose che prima non era così facile veloce fare per gestire nel caso specifico gli sbk omma e la verifica delle vulnerabilità basate sui falli spam generati e quant'altro tutte cose anche lì live demo molto interessante veloce in cui peggiorato lo sboom di un co
+container base per la terra alpina con un'applicazione minima è già quello in sé con un o una piattaforma
+su una superficie ed installato minima aveva centinaia e centinaia di pulire
+dipendenze registrabili registrati e generati in uno sboom con tutta la lista di tutte le persone in tutte le librerie e i software da cui dipendeva il software sta girando quelli già da solo un'immagine un ottocento novecento e altri software che costruivano quest'immagine poi di queste passat
+to alla allo scanner di vulnerabilità diverse decine poi va da sé che un match sul ci vuole non è necessariamente una vulnerabilità un problema però ce n'erano sette considerate critica al poeta poi appunto bisogna vedere se sono contestualizzabili ma comunque indicative di quanto la questione sia
+aperta e comune no la forge insegna il caso estremo ma e se si scava sotto se ne vedeva in tutti i colori e adesso che si iniziano a fare gli strumenti anche potuto discorso sboom questo tocco era su quell'argomento
+e sulla suggestione da super cane la sicurezza di ogni singolo step della produzione del codice è insomma come tutte le cose riciclate prima anche voi strumenti sempre più evoluti più che automatizzano e permettono di fare cose sempre più sofisticate e poi va da sé sempre più strutture sovrastrutture uno sopra l'altro e qui
+questo visto e quindi ambedue center se mi permettete li faccio li spende sul tour di paolo è però anche quello che mi è piaciuto quello di daniel ovo è appunto su l'open telemetri tutti gli standard i nuovi standard di approcci a gestire tutto quello che è la matrice long è
+tracking delle applicazioni che poi fanno un po' tutte come interessante qui come slide che dice l'ovvio è noto però il vero i fondamenti pillars dell'observer abiliti tono logo metri che è tracking e quindi strumenti che open
+source integrati che permettono di avere questi tipi di informazioni in modo condiviso e che non siano legate a singoli prodotti singoli vendor è uno dei argomenta nella sua
+e va bene scusate mi son permesso anch'io di dire le mie presentazioni preferite da utente giustamente quello è un organizzatore un tour un presentatore un utente che ha pagato per arrivare per entrare e quindi capito che è meglio
+non poteva andare come
+una parità no e in realtà poteva andar meglio se jacopo e paolo arrivavano come previsto è però va bene così non c'è problema allora prima di tirare un po' le redini in attesa comunque se qualcuno che si vuole collegare se jacopo jacopo ha scritto è bloccato in macchina
+in coda riesce entra dall'albergo in coll però non so quanto sia non contiamo e allora altri argomenti o temi o cose in particolare chi vi piace ricordare o dire riguardante questi poeti daesh
+io prenderò un po' di parole
+no no no no
+ne abbiamo parlato con però come dicevo il contenuto
+non penso non sapete probabilmente molto ma non il contenuto secondo non è una parte importante ma poco rilevante di eventi per il contenuto
+libri o dell'opposto reale tutti i fan dei famigliare
+manco un'ora fa fanno pam
+no no no
+ci tengo a specificare
+cuoco che hanno reso possibile
+e continuate con una coda
+dire ma il costo del biglietto ma prima
+okay
+tipo basti pensare solo a te
+stare allerta
+domanda al volante scusami quanto costavano quello che costata la location indicativamente no no non ho tutto il mondo in un incubo
+molto tipo quattro volte quello che abbiamo imparato
+in questo luogo
+l'omelia di biglietti hanno occupato un sesto un settimo quindi un eterno effetti ma infatti non si tratta dei biglietti erano anche i prezzi ma perché il nostro scopo weekend come tampone
+gli eventi saranno scopo non era dunque con gli sponsor avete coperto un po' le spese ci siete stati o comunque della community foundation
+non fanno più pari
+no nuovi partiti
+se non verranno hanno o la password stanno
+non domandarmi levano il pane è stato molto difficile
+raccontavo anche
+buffone è stato molto difficile
+playboy
+ma una cosa che è importante che la maggior parte
+stando all'ultimo e nelle ultime settimane
+giurisdizioni e all'influenza
+mi comprarli sono confrontato con dunque gli altri
+in giro e tutti fanno di sblocco
+ok pandemia zar
+all'ultimo
+modifica all'ultimo no
+il peso del neonato tradito anche anche fully nome del gruppo
+uno di questi incontri qua poi perché ha detto la stessa cosa sostanzialmente e soprattutto post-pandemia hanno questo piccolo finale da brividi
+si staccò dal periodo nero diceva sempre non so
+va vabbè però è veramente difficile perché se non hai un'idea per lo meno non sostanzialmente parola per parola comprese le considerazioni organizzative
+ale ale vivace
+liquido al di là della uno
+la nostra prova però devo dire che poi tutto sommato il popolo fuoco
+un momento bello e abbiamo sfruttato anche isabella pasta comunque
+un lungo balcone dall'altra fanno sonno tranquillità ma anche troppa gente grave come le pause
+calcolo
+poi la location secondo me no
+abbiamo parlato molto molto bella cosa perchè lo spazio per il palco era completamente download sponsor working quindi
+stanno lavando decidere morale di san paolo a tav
+stazione pessimo veramente strano facile
+non l'abbiamo detto mai file noi però parallelo
+due topi con danni in due di rafa
+da dove siamo partiti con gusto allunga bene valutazioni finali ma non ci sta ci sta anche per avere un po' di dietro le quinte se vogliamo e tue valutazioni martino un po generali varie ed eventuali
+o sul cui sul sudan sulla sull'evento tipo appunto
+ha fatto un bel periodo covid e anche posto per vari motivi poca frequentazioni fisiche in generale non solo non sono conferenze in generale
+per la casa a genova io secondo me si andrà verso siccome penso che è ma tu anche mutuo di nuovo chiamalo ramstein mary ransom varie forme ma non penso sia destinato a diminuire anzi secondo me appunto c'è bisogno perché l'uomo può essere timido o meno come me
+con più espansivo ma insomma la socialità aiutano quindi vedo molto magari un'opportunità per il sito che stiamo sempre più a casa a lavorare o comunque i cadaveri dei vantaggi
+notevoli no doveva essermi il traffico della strada però l'idea di bilanciarlo con una serie di eventi di questo tipo in forno
+la buona quantità può essere un bel fissò per dire ho il tempo di interazione con le persone vigili ed averlo tutti i giorni un pezzettino in ufficio alla materia e caffè impegno ogni mese due tre due giorni così un giorno così se posso in un incontro di questo tipo e gli diciamo de minicis
+di socialità e magari più efficienti così
+urgente perché possiamo incontrare diversa da pefc di aver che fare sempre con chiunque
+sono necessariamente sono simili a tecniche eravamo azienda stessa organizzazione sulle stesse cose quindi anche per le aziende che fanno tour potrebbe essere utile pensare a mandare le persone conferenze per per far loro vivere anche questo tipo di esperienza qua
+una delle cose che furono tra quello che esattamente proprio a livello organizzativo era appunto che anche molte persone non va nicola non vanno va fatto un po' di
+domande perché magari le aziende sono contrario non vogliono investire il tempo della persona che poi più tempo magari che il costo vivo della conferenza è però insomma sarebbe anche utile
+promettevi di organizzatori di cercare sensibilizzare le aziende e i vantaggi che apre spazio anche per bilanciare erano uno smartphone
+un ottimo un ottimo punto
+conosco anche del
+con lei
+vogliono un'europa ideale
+come
+via via
+fa uccidono i knicks e il venerdì a metalli vanno a milano
+a volte poi magari rimangono a bologna anche sabato e domenica
+l'attività
+fosse me proprio per compensare
+durante la passerella del semestre in semestre dell'anno a lavorare da remoto
+c'è ma in realtà mattino anche il
+ma secondo voi per incentivare la partecipazione alla community
+lo state facendo avete fatto parte di questi eventi sono sicuramente è una delle cose più importanti se si può altro fa qualcosa si può cercare di quali sono i mezzi gli strumenti che state già facendo il secondo voi cosa potrebbe essere fatto in più allora fondare io
+io
+voglio
+esistono poi in realtà non sono voi
+stammi lontano vi prendo
+se poi devo dire la mia dal duemiladiciannove il mondo comincerà molto
+sviluppato veniamo
+di come oggi baby
+poi molto convinti quando sport dopo la pandemia
+passo
+ho seguito
+nel dimenticatoio lato mostro
+si può fare mi fa affondano ora è chiaro che
+bene
+sono di milano
+non è il massimo e poi la comunitá italiana
+arrivano da palermo che arrivano da bari è chiaro che ognuno può lavorare
+nel mio caso specifico e nel carrello
+il lavoro
+il testo che ha deciso per il duemilaventitre diamo la nostra protesta qualsiasi community o qualsiasi come te
+di qualsiasi argomento anche molto lontano dal nostro mondo stanno bisogno
+siamo in fondo si chiama organizzano moltissimi moltissimi eventi ad esempio
+domani abbiamo nemmeno conoscono i fatti blog
+dove parleremo stanno prendendo un po' troppo nel insostenibilità e viene
+roma
+però come abbiamo fatto
+bar
+chiunque ha chiesto sede
+dobbiamo
+ieri poi quello scopo in realtà
+della compagnia
+quando viene
+come fai a capire se buco ma dico veramente uno a caso io so pero' un anno dopo l'evento
+trieste
+allora magari lo promuoverei
+modo da fare scoprire costole
+di cui facendolo diva questa cosa secondo me è poco ha un grossissimo vantaggio per quello di poi andate vari eventi e trovarlo ovviamente
+allo stesso pappone ma nei gruppetti di persone simili egli si era fatta molto
+è la prima cosa che abbiamo fatto come possibile ovviamente noi abbiamo uno
+paolo comunque tantissimi eventi non tantissimi in giro a parlare di nuovo verificano
+o no
+di no più o meno
+troppo abusata piazza saper fare
+quindi raccontare una persona che avremmo portato avanti il vostro evento
+ho un per artisti e quant'altro poche persone dall'esterno vogliono nostro focus
+sono due primo e solidarietà fa parte di persone
+nuoto
+un corpo molto
+colpo volontà di dio la vita naturalmente condividerla poi come dicevamo anche al di
+ma uno degli sponsor
+dopo un dopo l'altro ho provato a raccontare un po' la nostra esperienza
+durante quello che adesso
+certamente non io ma abbiamo detto a voce forte il che non è un evento estivo chiunque ha effettivamente dato una mano poveri
+bella paolo paul simon
+gli ordini poi poi cercare vai dentro la parola
+l'unica cosa importante che deve sapere che è una community alla fine non si guadagna nulla
+no
+nota
+con la gente
+un sacco di roba da fare
+a e
+non lo sia o meno sarà stato quantomeno lo possiamo tutti altri citavano però cosa fantastica abbiamo realizzato l'unico genere dentro un sacco di bene non è l'unico da eviterei comunque no veramente complimenti martino e vorrei dire qualcosa
+aggiungo qualcosa allora il discorso della dignità vedo che comunque vedono i segnali di ripartenza anch'io
+ho parlato non so se conoscete voi ragazzi ministro salvini stravince keats non so non so pronunciare
+e comunque stanno mi stanno raccontando che stanno comunque ripartendo su firenze verona milano torino sto guardando il sito quindi forse anche all'estero insomma abbattuti durante l'estate sono idealità sono gli italiani credo e stanno facendo una chiesa per
+per
+siti incontri quali più serenità magari una sera due due tolta quasi più agili diciamo quindi anche magari un po' più facili da organizzare
+come pensi di epperò parte anche da lì mi pare di capire quindi magari mi proporrò anch'io o magari più ricchi o più vicino perché così magari prova anche ad aram contribuiscono fa parte qua che spesso poi facciamo le cose più grosse come fosse stato anche kubernetes che il partite limitato
+dopo sai
+firenze
+l'ho sentito sì però non non ci non c'erano sentirsi ho sentito nominare hanno fatto più a marzo
+considerando per loro
+non avendo in assoluto a noi
+che tutti assieme no però come dire io che dopo tanto belli morbidi come le auto passando il gruppo non ne ho avuto qualcosa capo questo comunque funziona una nuova o no
+dopo questi eventi piccoli e all'opera
+è stato un grosso evento nonostante insomma alla fine però i comandi
+oramai
+ma insomma
+tipico il progetto rap come studenti nicolini e tanto di cappello il grosso problema
+prima che molto spesso dipende dalla geografia quindi avendo organizzato a firenze probabilmente molto la bibbia dopo a firenze nord l'italia e la cosa sarebbe bello
+simile questione limiti
+forza italia io so a palermo passando per la puglia no no
+lo posto mio nome hai fatto bene io l'avevo sentito ma non ho avuto occasione può dire ti rapporterai di eredi diretti insomma però sicuramente qui due due tre persone che ho conosciuto erano ben motivate quindi mi ha dato un buon buon fine su su quello che riuscirà
+fa molto bene ragazzi io direi che purtroppo anche se non si sono aggiunti tutti eroi giugno se chi c'era ha fatto ha dato
+ha dato molto da che sono comunque venute fuori infomazioni comunque interessanti e delle quali vi ringrazio e ultimissime note prima di salutarci allora speriamo di rivederci presto
+che il prossimo anno
+ci sono un sacco di peso e un sacco di
+la mamma tiene io alessandro ringrazio per gestire questi questi incontri qua e insomma se c'è un altro tema in cui posso dire la mia conta su di me insomma ah allora sì grazie michel per per la chiacchierata per essere stato mio partner di venire
+stato incassato in realtà adesso ci dilunghiamo un attimo ci sarebbe un altro tema a cui mi piacerebbe o meglio un altro tipo di il tema sarebbe sempre kubernetes per partire per un tipo diverso di formato non tanto col in cui si parla di più del meno ma più informativa più te più tecnica più didattica dove c'è un
+uno o più esperti sullo specifico tema uno che fa le domande che sarei io che non ne sa tanto o magari neanche uno che ne sa qualcosa oppure magari proprio ossia quello che non è soltanto sia quello che non ne sa nulla il punto è il formato e noi dobbiamo imparare quell'argomento quindi kubernetes ad esempio mi piacerebbe fare deve pu
+state ovviamente partendo da diversi veri difficoltà quindi partire da livelli difficoltà base e all'inizio ti dice che ha reso parliamo ai junior e spieghiamo introduciamo e poi crescendo e mi parrebbe magra ovviamente un tema come te
+lo esaurisce una puntata e neanche in dieci però comunque attività di questo genere qua per cui se volete dare seguito alle parole e io questa cosa lo invii farla una live però dev'essere meno pochino più strutturata di quelle come questa diciamo pieno più focalizzata sulla
+procedere verso una specie di corso o un workshop questo
+però partecipata asi tanti trainer è un dolce un leader
+siamo tanti innocenti quasi sarebbe una invertite sarebbe bello ma neanche necessariamente anche una persona competente o due che spiegano argomento ci si organizza un attimo su come spiegare le cose se c'è una cosa con schermi da condividere slide sessioni di terminali da far vedere che condividono è però così
+passa il tempo se può essere utile no per diffondere conoscenza e se si prende un tema circoscritto parso interessante come un pezzetto di un corso chi ci sta
+è si allora il punto kubernetes sarebbe potente una puntata assieme sarebbe però database e quindi a livello di concetto della difficoltà espresse spiegare bene le cose che ci aspetta da spiegare a livello base per un'ora e mezzo quello che arriva arriva e quello che le adesso va bene insomma io ve la butto il bilancio il sasso
+lino poi vediamo no ma parlavano appunto
+stante andando cosa di cui si può discutere ma ora posso dire alla mia dal mio punto di vista
+periodo quando sta per arrivare non è proprio banale però vado in pieno

@@ -21,8 +21,8 @@ for FILE in "$DIR"/*timebolted.mp4; do
         if [ ! -e "$MP3_FILE" ]; then
             # Execute the pippo command to generate the mp3 file
             ffmpeg -i "$FILE" -vn -ab 256k "$MP3_FILE"
-        else
-            echo "Skipping, $MP3_FILE already exists."
+#        else
+#            echo "Skipping, $MP3_FILE already exists."
         fi
     fi
 done

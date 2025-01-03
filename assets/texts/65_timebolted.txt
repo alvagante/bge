@@ -1,0 +1,749 @@
+e quindi siamo tornati la brigata degli estinti dopo lungo letargo estivo torna
+torna
+tutte le cose belle e tornano anche quelle brutte questo è l'episodio numero sessantacinque parleremo di telecomunicazioni lo stato della rete in italia mobile o fisso le infrastrutture e quello che c'è e quello che forse ci sarà dopo le recenti notizie aerea vendita alla rete di tim ha un folk
+straniero
+lo facciamo con stefano bolis man che ha un suo canale su youtube etc step by step bolis andy scott alessi che vedete anche nel suo nome e con bruno salmistrari che invito a presentarsi partendo da stefano
+apparizione
+ciao alessandra grazie mille innanzitutto bellissima la sigla se posso dire
+veramente molto bella che ci ha introdotto in questa diretta e grazie dell'invito è rarissima presentazione ingegnere telecomunicazioni che racconta e cerca di spiegare nel modo più anche accattivante e interessante possibile il settore dal duemiladiciassette qui su youtube o un canale è seguito da circa venti min
+sole con un totale di quasi tre milioni e mezzo di usa e l'obiettivo è quello di appunto raccontare questa parte di meglio il mondo delle reti che spesso soprattutto in passato adesso un po' meno ma sopratutto in passato veniva data per scontata ma che invece ci permette di fare tante belle cose di cui spesso non ci accorgiamo
+bruno
+sono bruno somministrare lavorano nel campo della teoria delle telecomunicazioni da ventiquattro anni
+che è un bel numero a pensarci è la tua sigla mi ha un po' spaventato quindi l'intelligenza artificiale fa la sua comparsa ormai in maniera abbastanza spenta anche in questo campo che è inquietante però tornando alle telecomunicazioni mondo vasto vediamo cosa viene fuori da questa da questa baia
+molto bene allora io partirei però a livello di produzione anche per magari chi è addetto ai lavori ma non nel mondo delle condizioni specificatamente ma più lavora nel campo informatico cosa succede nel momento in cui dal proprio computer di casa o uno si collega a internet con la sua fibra col
+rame poi poi magari jumbo a bruno chiedermi la stessa cosa specialmente su quello che succede quando uno usare il cellulare però insomma stefano tu che questa cosa
+la divulghi ce un po'
+senza magari essere troppo semplicistico però insomma raccontaci un po' cosa succede ai nostri pacchetti ip una volta che escono dal router di casa
+siccome interessante raccontarlo perché in effetti siamo abituate a essere a relazionarci con il nostro provai da quindi conosco operatore ai classici fast vodafone tim insomma
+i classici che conosciamo e quindi siamo magari portati a pensare che in effetti quello che noi andiamo a richiedere e cercare su internet sia sia lì che sia un pò il punto di arrivo il nostro operatore in realtà l'operatore possiamo definirlo come un po il punto di partenza comunque la porta che ci apre poi a tutto il vasto mondo
+internet in cui andiamo a raccogliere tutte le informazioni e quindi le reti di cui spesso parliamo quelle presenti sul nostro territorio sono in realtà una piccola alte di tutta la rete internet e una piccola parte di tutto ciò che ci permette di navigare quindi che cosa succede essenzialmente quando vede al computer facciamo una ricerca online succede che innanzitutto il no
+nostro pacchetto parte la nostra guida ripercorre la rete in primis del nostro creatore perché come ho detto è proprio lui che ci permette di collegarsi a internet e quindi passa andando diciamo alitosi di come spesso la si racconta ma in effetti ha efficacia a partire da noi e da quella che viene definita la rete di accesso perché ti dà accesso perché per l'appunto la rete
+te che permette di accedere ai suoi utenti finali ad internet è il primissimo tatto è il tatto di rete più vicino a noi che può essere realizzato in diverse tecnologie poi magari ne parleremo però diciamo giusto per elencarle può essere fatto in fibra ottica può essere fatto in rame può essere fatto anche via radio quindi senza l'utilizzo di cavi fisici e
+e una volta che il nostro pacchetto dati attraversa questa primo tratto di rete ecco che harry ha un primo punto fondamentale che è la centrale dell'operatore la centrale dell'operatore che raccoglie tutti i pacchetti tutte le richieste di tutti gli utenti di quel particolare operatore di quella particolare area geography
+grafica e da li aggrega questo traffico e lo trasferisce su un'alta parte di rete che è la rete di distribuzione che aggregando tutto il traffico che arriva dai vari utenti di quell'area geografica prende questo traffico e lo manda a un livello guetta ancora superiore
+fino ad arrivare essenzialmente alla rete dell'operatore perché ogni operatore ha una propria rete una rete che viene definita
+rete idea decor nella quale gestisce di fatto tutti i nostri dati per esempio siamo registrati in taiwan di questa rete di clienti di quell'operatore sono registrate al suo interno ed ecco quindi che il traffico arrivando alla rete del nostro operatore può finalmente uscire verso internet quindi come già detto in precedenza
+l'operatore è la nostra porta di accesso ad internet e a questo punto windows internet cohen primo a raggiungere
+magari vedremo anche come il server su cui i suoi su cui si trova l'informazione che abbiamo richiesto dove si trova questo senso server si trova all'interno di data senta quindi grossi
+diciamo insieme di computer superpotenti se vogliamo così dire che hanno al loro interno
+magazine magazine online di informazioni elabora le informazioni e così via quindi ad esempio per fare un esempio pratico se dovessimo richiedere un flusso video di netflix per esempio ciò che spesso capita che una volta che noi arriviamo al nostro operato ed ecco che ci sono dei punti che anche qui magari potremmo
+profonditá e
+successivamente vengono chiamati internet exchange point ci sono dei punti in cui da una parte arriva netflix dall'altra dio il nostro creatore si collegano all'inter proprio fisicamente cioè l'interconnessione tra le due reti la rete di netflix e la rete dell'operatore e attraverso questa interconnessione ecco che noi riusciamo a raggiungere il no a serie tv il nostro film
+che è salvato poi ci sono casi diciamo
+diversi potremmo anche qui approfondire ma comunque raggiungiamo le informazioni che abbiamo richiesto e facendo ovviamente poi il percorso inverso e già nel tuo pc potremmo vedere il nostro flusso continuo di video quindi il primo concetto ruota smettere poi ripeto ci sarà l'occasione di approfondire cos'è la diretta è proprio il fatto che la rete non si ferma al nostro creatore e quindi anche tutto ciò che vede
+amo fare per le nostre strade solo una piccolissima parte di ciò che poi è tutta la rete internet che ci permette di accedere ai nostri contenuti perfetto allora poi chiaramente questo livello con i re
+base poi su questa iterare che ci interessa anche un po' andare nel tecnico sotto certi aspetti bruno però la stessa domanda la faccio a te e però è quello riguardante fonia mobile cosa succede quando io col mio cellulare
+succederà da tracciato il potere di vista una cosa abbastanza simile a quella che diceva stefano quindi abbiamo delle
+è molto strutturata il il il percorso che fa la la comunicazione di fatto noi dal nostro telefono mandiamo un segnale che arriva ad un punto di raccolta questo punto di raccolta che poi è la richiesta quindi diciamo è il primo punto di aggregazione dell'operatore aggrega
+tutte le comunicazioni di tutti i cellulari che stanno in quella zona
+da questo punto si in base a dove si è locati fisicamente quindi se si è in città se si è in un punto rurale la comunicazione può andare su livelli diversi e quindi può essere fatta con un collegamento in fibra quindi collegamento in fibra che arriva direttamente dal primo punto di
+cota che la boxe e lo porta in centrale quindi abbiamo la prima totale e uno habits dove c'è l'antenna cosiddette antenne e dov'è dove c'è il centro di raccolta dove dove c'è l'antenna giustamente
+quindi il primo punto di interconnessione tra la rete l'accesso e la rete ricordi quindi la connessione in fibra dalla boxe alla centrale
+una volta avevamo anche cavi in rame che però ormai una tecnologia un po' superata viste le capacità che ormai dobbiamo gestire l'altra alternativa è un collegamento ipotecario questo collegamento in ponte radio a sua volta può fare diversi salti quindi può essere interconnesso con
+una tratta diretta che lo porta in centrale quindi diciamo equivalente alla connessione in fibra è un collegamento punto-punto oppure può essere interconnesso da un sito all'altro quindi fa diversi salti fa un un albero come se facesse un albero dove parti dalla foglia finale arrivi al ramo arriveranno principale poi vai verso il tronco e arrivi alla central
+ale ognuno di questi punti è un punto di aggregazione di capacità quindi è un punto dove
+tutte le connessioni della zona si vanno ad aggregare si utilizzano ancora altre tecnologie che sono le interconnessioni ad anello dove in pratica si va remotizzare alla centrale a a un punto fisicamente più più remoto questa interconnessione un anello appunto facendo un anello da una garanzia di collegamento a
+con una differenza di percorso quindi
+strutturalmente più più robusta di fatto cosa stiamo dicendo stiamo dicendo che stiamo cercando di portare la centrale remotizzata fino al punto più vicino possibile all'utente finale che il cellulare però come avete notato ho usato in diversi punti ci sono dei punti di aggregazione e questa è una
+perché tutti noi pensiamo che la capacità che ci fornisce all'operatore sia la capacità che leggiamo su un contratto che viene redatto poi però il piccolino c'è sempre scritto che la capacità garantita è una frazione della capacità massima che l'operatore vende
+quindi il
+un qualcosa di cui discutere a questo punto molto bene allora primo round introduttivo va benissimo adesso andiamo un po' nei dettagli e anche raccontiamoci un po' avete qualche numero intanto su per esempio
+antenne copertura delle
+del mobile in italia e in tutto quanti operatori di fatto hanno loro antenne in italia quanti sono quelli reali quanti sono quelli virtuali che si appoggiano antenne di altri avete queste informazioni
+allora reali sono provo a ricapitolare
+sono tim vodafone wind tre
+e un altro di cui in questo momento mi sfugge il nome
+fast and fast formalmente almeno diciamocelo delle tecnologie esatto non per tutte le tipologie però formalmente lo diciamo dobbiamo distinguere anche tra connessione in rete fissa e rete mobile
+infatti jim kenney copertura mobile che antenne in giro per l'italia
+trend allora a questo punto il viaggio energicamente se lei adesso antenne non è una recensione
+anche suonata
+sarà strutturata
+ok
+è
+bene o male però visto anche dove ci sono le antenne spesso succede che
+diverse antenne verso operatori sullo stesso palo tra virgolette sullo stesso sito come funzionali a una logica c'è un'auto con logica di affitto di spazio
+allora diciamo che il tutto è nato con reti completamente separate quindi ogni operatore si costruiva completamente la propria rete utilizzando le proprie antenne diciamo così erano completamente proprietaria
+questo vuol dire che siccome tendenzialmente nessun operatore acquisisce il sito ma lo fitta quindi affitto al posto dove andare fisicamente a mettere le antenne in alto e degli spazi per poi mettere tutti gli apparati in uno spazio che può essere diversa in base al tipo di struttura
+ognuno appunto si doveva gestire degli affitti questo all'inizio aveva portato a dei costi veramente notevoli sulla per gli affitti chiaramente poi sono state trovate delle metodologie per cercare di abbassare queste questa esposizione finanziaria e quindi
+sono state adottate delle strategie di condivisione dei dei siti quindi è per questo che adesso vediamo dei siti con una ricchezza molto molto visibile di antenne perché su diverse posizioni vediamo tutta una serie di locazioni orizzontali dell'antenna ma questo ormai viene fatto su diversi piani perché
+ogni operatore ha uno spazio dedicato
+inoltre sono nate anche delle aziende che si occupano di affitto siti e questi questi affitti vengono vengono dati a chiunque gli chieda e addirittura diciamo sono state proprio fatte aziende
+specifiche che sono state splittati dalle dalle singole aziende quindi c'è c'è un mercato proprio per quello che è l'affitto delle postazioni
+l'identità del compagno giusto quello a cui puoi far riferimento giusto tono
+se si vuole sandro scusami scusami inserisco la tms west che è un tema sempre interessante se vogliamo una tipa fa perché giustamente
+blu-ray ha attaccato così ma è maggiore anche la danza questa serie su questa cosa però questa dinamica è veramente molto interessante quando vado alla rete mobile questa evoluzione e anche l'evoluzione che votare del ruolo delle web company anche eventualmente in futuro perché con l'aumento era glenn
+lo sviluppo delle varie tecnologie mobili questo tema di condivisione pare che stia diventando sempre più forte quindi queste tower company in futuro potranno avere anche anche un ruolo sempre maggiore che già hanno avuto un ruolo crescente nel settore perché come diceva prima sono partiti dal magari affittare esclusivamente lo spazio fisico in cui è evidenziata
+antenne poi si è passati a affittare anche il palo e ares sta arrivando che magari affittare la parte cosiddetta attivano quindi a parte proprio della rete che trasmette quindi questo è un dandy è molto interessante se immagino con già quei cinque kg immagino c'è molta più densità di antenne non richiesta dal trasmettere più dati
+e quindi si moltiplicano anche i posti in cui bisogna mettere i tuoi apparati e quindi immagino che ci sia anche sempre più spazio per simili si questo anche perché se posso aggiungere un paio di considerazioni diciamo la rete cinque g l'utilizzo delle frequenze più alte rispetto
+a alle ventiquattro kg tre kg due kg il che vuol dire che hanno una capacità di copertura fisica minore quindi per garantire la copertura c'è bisogno di più antenne questa cosa attende un po
+a spaventare da un certo punto di vista perchè si pensa inquinamento elettromagnetico e questo è un tema interessante e quindi vedere un un'esplosione diciamo così di antenne a volte porta a una preoccupazione da questo punto di vista posso
+posso dare un altro punto di vista diciamo avere tante antenne vuol dire avere meno potenza perché chiaramente sai come concetto generico se hai bisogno di poche postazioni e devi andare lontano quello che puoi fare è aumentare la potenza
+invece avere tante antenne non vuol dire aumentare l'inquinamento elettromagnetico ma vuol dire tenerlo più basso perché ti permette di irradiare con potenze inferiori
+vabbè poi e esuliamo i discorsi su e iper micologia del primo oggi dal primo giro primi problemi niente né c'erano i cui i comitati di quartiere che si opponevano però alla fine poi ci sarà per tutti a usare cellulari per cui o si sceglie no
+oh non possiamo avere l'amore e la botte piena la moglie ubriaca
+ma questo è molto interessante e allora
+andiamo
+torniamo su invece passiamo al discorso o fisso sempre con un livello di dettaglio un pochino più approfondito armadi e poi centraline perché tu giustamente stefano hai parlato di centraline perché a livello ip la connessione arriva alla centralina però di mezzo ci sono sempre degli ahmadi instradano chat
+abbiamo quanti ce ne sono in italia di ahmadi o in cielo c'è un censimento sicuramente però per dare un'idea di numero centinaia di migliaia e sono tanti un numero faccio fatica ad altro
+a volte sono veramente tante anche perché appunto come dici giustamente è uno magari pensa al cabinet e quando pensa alla cosiddetta trilogia effetti chi però di base anche quando andiamo a fare set di jackass essa non è magari un vero e proprio cabinet però a volte lo apra in ogni caso ci sono dei punti di splitting ai cosiddetti peli in giro per
+la strada quindi comunque il numero non te lo so dire ma sicuramente sono soltanto una fase produrre eventualmente sasà il numero e sa integrare però
+questa festa lascia nel frattempo che trova esatta esatta è
+allora giusto per capire accennare anche all'altro altro re gigante nella stanza o meglio elefante nella stanza che questo discorso la mente alla rete tim che cosa ha venduto team esattamente e gli armadi e le c d limite e stefano vedere ossessivamente i sensi
+allora ken
+tim ha venduto di fatto è innanzitutto la rete rete d'accesso quindi ne abbiamo già accennato prima quindi quella rete che permette di collegare gli utenti noi utenti finali fino alla centrale con il mezzo eventualmente il cabinet quindi sia per quanto riguarda la tecnologia rame sia per quanto riguarda la tecnologia fibra quindi
+questo è una parte di rete che andrà sotto il controllo di chi java e che non sarà quindi poi più sotto il controllo diretto di tim che invece la utilizzerà come fare un esempio spero noto per lo proponiamo anche questo come già oggi altro creatore utilizzano la rete per esempio di open fiber è un operatore con cui noi utenti finali non ci
+ci interfacciamo opinione che facciamo un contatto con open fiber ma facciamo in contatto con altri operatori che si appoggiano fraiteve open file in futuro quello che accada che tim o realta servizio basandosi sulla rete di fibercop che però poi diventata di proprietà completa di quindici anni
+questa prima parte e poi c'è anche una parte di becky bond anche qui sia in fibra sia in in rame poi diciamo che sul dettaglio proprio super spinto aspettiamo anche il lem il giudizio del completo dell'agicom che solitamente nei loro documenti condividono qualche dettaglio in
+più su questo tipo di perimetro però per quanto condivisa da team giapponese documenti ufficiali questo è essenzialmente il perimetro oltre che ovviamente anche alle centrali agli edifici dentro cui ci sono gli apparati in centrale poi noi tutti i cavi tutto il rame che ci collega tutto rame italia
+ovviamente perché non ci sono alternative alla rete la fibra c'erano diversi operatori mercury frank castle e la fibra di telecom quella estesa lei ormai streaming seso con feta con errato e gli armadi le centrali parti dorsali e così via esatto esatto il tutto finalmente
+la divisione fa rete accesso e fornitura di servizi sarà fatta io il suo operato fu però l'accesso è stato venduto all'estero secondo me è questo
+diciamo che poi da questo punto di vista c'è stato comunque un intervento da vedere diciamo quanto poi sarà
+utile in tal senso però è giusto dunque precisare il fatto che all'interno di poi la società che ha acquistato la proprietà di fibercop c'è comunque un sedici per cento del mef guida il ministero dell'economia delle finanze che però ha un sedici per cento con poteri speciali quindi navi ausiliarie la pratica esatto esatto dove baviera
+livello di governance un po' più di
+e ovviamente formalmente come dici tu la maggior parte è ovviamente di proprietà di proprietà americana jenny volevo precisare di che quindi detto questo rimane escluso dal perimetro della vita del red team hit mobile di cui abbiamo parlato che invece rimane
+alcool nel controllo di tim così come tutti i dataset che abbiamo citato prima diciamo quando vi ha parlato più che altro diktat ma anche gli operatori anni papi data senta per servire per offrire servizi evoluti soprattutto in the times ma non solo e quindi ecco questa questa un asset infrastrutturale che rimane comunque nella proprietà di tim quindi la vendi
+ta di tim ecco un altro concetto che è importante far passare la vendita della rete di tim non significa che i team perde tutta l'infrastruttura perde una parte dell'infrastruttura poi c'è tutta un'altra parte di fan struttura che invece rimane ancora
+sotto il suo controllo e che le permetterà quindi di continuare comunque competere anche con gli altri operatori da questo punto di vista no quindi a capo di stella senta rete mobile e jet effettua e così via
+molto interessante
+è
+vorrei qualcosa da aggiungere su il disco valutazioni tu e anche su questo fatto della vendita della rete tim
+un operatore terzo e aggiungo uno straniero
+diciamo che da questo punto di vista la situazione della terra ecc in generale senza andare tanto distinguere tra rete cor accesso beppone diciamo che da questo punto di vista alan
+italiano ormai non è che ci sia molto in infrastruttura fisicamente e qua ecco questo
+per il resto a livello di titoli di proprietà yamamay da tanti punti di vista non solo a livello di gestori che sono praticamente tutti stranieri ma anche a livello di produttori
+perché di di di di produttori di apparati di telecomunicazione in italia ormai è rimasto veramente poco e abbiamo perso tantissimo ci sono vecchi produttori che ormai sono stati distrutti
+comunque acquisiti sempre dada dall'estero
+che io sappia al momento ce n'è uno solo che mi viene in mente e produttore italiano
+ken non so quanto sia ancora jenny non so in che condizioni sia
+per il resto penso che per la maggior parte tutti gli operatori si si rivolgano a produttori esteri che poi vuol dire wei erickson chi sono i nomi gayseso sono fondamentalmente questi set katie diciamo che da un bel po di anni che ormai sono kent
+tratti asiatici e su questo ci potrebbero essere alcune considerazioni da fare su su su discorsi di sicurezza dei dati
+come sappiamo ma in altri paesi hanno emesso dei banner sull'utilizzo di questi player da noi al momento non non
+così la tua impressione sono mai giustificati dal punto di vista di sicurezza nazionale
+anzitutto gestire dal punto di vista espresso nazionale ma tecnicamente re c'è un buon motivo per bannare certi apparati cinesi ad esempio beh allora
+il motivo del ban penso che sia stato perché si pensa che ci possano essere delle backdoor che permettono di accedere a dei dati
+tecnicamente
+non non lo so penso che sia fattibile non so quanto effettivamente possono venire usati teniamo presente che stiamo parlando di dati in quantità
+beh assolutamente in big data bisogna vedere anche poi quanto sono utili questi dati i dati sono dati c'è chi può usare aggregare sedici sanno usare i dati dicono tantissimo bisogna aggregarli in modo corretto è un rischio ma è un rischio non solo su open
+motore cinese cioè diciamo che chiunque abbia accesso ai dati potenzialmente può farne un uso pensiamo a echelon
+quello che è stato di cinque sino a che ci sono anche questioni esplicite no no e i cinque occhi o i sette occhi come si chiamano le
+si sa che ci sono monitoraggio di certe infrastrutture scienziati dorsale delle arene
+no del resto come scusa mi faccio una piccola selezione del tema anche se dice anche che il telefono microfono del telefono sempre acceso e il fatto di usare alexa o sistemi come questo degli assistenti vocali diciamo a un certo punto di vista permette a qualcuno di ascoltare tutto quello che di
+c di sapere i tuoi gusti di sapere tanto di te
+in cambio di una una comodità
+stiamo dando accesso a una parte di noi ha a terzi
+la discussione volendo
+la no
+quasi apri una discussione che va un po' fuori dal tema delle rc esatto poi volevo non volevo aprire una no ci sta perché lo volevo buttare lì una poesia
+la completezza che volevo pagare aggiungere il fatto che è vero che nel nostro paese non ci sono stati bungalow nostro paese ma comunque anche a livello europeo sono comunque stati
+emesse delle procedure e delle normative che stanno cercando insomma di
+sistemato comunque rendere un po'più possiamo dire così lei dopo più difficile è utilizzare dei dei vendor extraeuropei no quindi per esempio l'esempio più
+famoso è la golden power la cosiddetta golden power quindi una volta che un operatore decide di utilizzare apparati per esempio huawei deve fare una notifica formale al ministero e con una serie di appunto garanzie test aggiuntivi diciamo che dimostrano che quel tipo di
+a palati ebay vanno bene se vanno ci sono questi problemi di possibili bechtle che diceva anche
+anche anche collega ken
+e quindi ecco è chiaro che poi questa cosa non risolve il problema fino in fondo ma sicuramente diciamo addetti ai lavori sappiamo che rende più complicata la scelta e quindi in un certo senso la può anche disincentivare ecco facciamo mettiamola mettiamola così e noi intanto alessia e stefano ho messo un commento di alessia
+che sicuramente ti segue su youtube il maestro è tornato
+e prossimamente colore carne secca wojtyla fosse anche lui lunedì sera su youtube quindi
+dentro c'è c'è spazio per tutti e
+allora torniamo un attimo al discorso infrastrutture giusto per andare un po' sul tecnico e capire un po' la situazione italiana è ah abe io vengo ai tempi del rame in cui la rete tele con costruita coi soldi dei nostri contribuenti noi contribuenti ha fatto le tele cine italy
+elijah però adesso c'è tanta fibra e anche qua quanti sono gli operatori che stanno hanno messicano fibra loro
+a livello di distribuzione e poi abele dorsali ed immagino sì so che diversi e la tua però insomma fibra in casa chicche che abbiamo in giro in italia che ci ha che la porta è anche questo è un argomento interessante perché anche qui diciamo che ci sono i due più famosi e i due probabilmente più noti che sono fibercop e open
+cyber ipercoop di cui abbiamo per l'appunto appena appena parlato
+anche open fiber che ha una parte anche di cassa depositi e prestiti all'interno un quaranta per cento di proprietà poi il sessanta invece di un fondo australiano se non erro mcguire
+ad ogni modo questi sono i due principali ma non sono gli unici ed è importante questa precisare perché comunque non sono gli unici perchè c'è oltre a esserci anche fast perché comunque ha una parte di infrastruttura di ratifica proprietaria
+anche una vecchia rete diciamo in fibra proprietaria che riprende un po' il la topologia ad anello di cui parlava prima prima bruno rispetto alle reti mobili ma poi c'è anche tutto un sottobosco permettetemi di chiamarlo così di operatori regionali che non sono necessariamente razionale ci sono anche altri nazionali ma ci sono anche tanti operatori di raige ali che
+realizzano le proprie infrastrutture di rete sul territorio e si tratta sempre di fibra ottica proprietaria quindi non si appoggiano sul web come il suo paintball tanti di questi sono rivolti perlopiù al mercato business ma non solo ce ne sono alcuni che vanno anche sulla sul mercato di noi privati consumer quindi in realtà anche quando io butto sul piatto un'altra possibile
+argomento anche qui quando si parla della prospettiva di una possibile rete unica quindi di fusione tra tim e open fiber in realtà si tratterebbe di una fusione tra le due principali reti fibre ottiche perché poi fibra ottica perché poi in realtà ce ne sono tante altre distribuite per il territorio che non rientrano necessariamente all'interno di questi due
+domanda terra terra questo estremamente sexy casalinga di voghera ma quando ti arriva il fornitore di fibra nel palazzo e ti mette anche ti riempie ti porta la fibra nei piani e lì o è uno o è l'altro si mettono d'accordo nel sesso una volta come funziona a livello di accesso
+all'utente finale è
+perché io vedo nel mio palazzo c'è una fibra di open fiber ok
+però credo che uno che compra la connettività in fibra di tim passa su quella quindi allora dipende dipende diciamo che hai toccato subito un tema un po' un po' delicato quindi magari piogge generalizza il disco separato sul caso specifico nel senso che
+tim notoriamente e storicamente non si è mai appoggiata tradizionalmente su infrastrutture di open fiber quindi nel caso specifico che dicevi tu se tu prendevi la fibra da tim
+non ti appoggiare sul fattore poi paga quindi o arrivava anche la fibra di tim e quest'altro tema che possiamo discutere anche il tema della sovrapposizione delle infrastrutture che capita diciamo perlopiù ovviamente nelle grandi città più che in altre aree del nostro paese però è comunque presente e quindi in quel caso potrai poteste avere due accessi sia di team
+faida e di open fiber e in base all'operatore a cui chiedi la connettività potrebbe attivati uno l'alta struttura
+in generale invece producendo appunto da questo caso specifico
+diciamo che ogni operatore stringere degli accordi con gli operatori world serie in base alla copertura che vuole raggiungere tendenzialmente un operatore cerca comunque di stringere accordi con più operatori wall sheila quindi gli operatori che dan rivendono la propria fibra e il maggior numero possibile prendo l'esempio di iliad per esempio che si è buttata nel merc
+chat della fibra senza realizzare fibra di proprietà e ha fatto un accordo con fibercop con open fiber con fastweb quindi ansie le prese tutte e in base alla copertura di ciascuno di questi al cliente finale gli dà la soluzione migliore quindi tendenzialmente non è l'operatore finale che decide esplicitamente se andate su
+fastweb di open fiber tim o fastweb è l'operatore che offre solitamente la soluzione migliore anche perchè come ti dicevo e le zone in cui comunque queste sono sovrapposte sono comunque limitate ecco non sono così così frequenti e quindi di fatto il tema un po' e un po' è un posto qui poi
+giusto per non tralasciare diciamo pavia tutti i dettagli e non lasciate dalle imprecisioni in realtà recentemente tim ha cominciato a vendere anche su rete open fiber derivante dall'accordo che avevano stretto tempo addietro soprattutto nelle aree bianche e quindi quelle aree del nostro paese più rurali più isolate dove per l'appunto
+sarà possibile trovare anche la rete o meglio un'offerta commerciale di tim che si appoggia su infrastrutture open fiber me ma è assolutamente un'eccezione almeno per il momento ecco poi vedremo in futuro le prospettive di rete unica che cosa ci riserveranno
+è mona un appunto se posso ricordiamoci che tutte queste informazioni all'utente finale sono assolutamente trasparenti vedi l'utente quando vuole un collegamento in fibra che sia in effetti arena fttc poi questo dipende chiaramente dalla copertura che ha
+la casa che vuole collegare l'utenza che vuole collegare google e si interfaccia con un operatore poi cosa utilizzi l'operatore che sul fornitore utilizzi all'utente finale trasparente quindi da questo punto di vista non ha nessun controllo lui sa semplicemente che sta chiedendo un collegamento in fibra richiede una certa capacità con una certa
+con determinate caratteristiche come gli viene fornita assolutamente trasparente quindi il fratello che conosce con cacciata esperienza di ciò che conosce con certezza la tecnologia non c'è il self ti piace effetti dici o rame o via radio lo sa perché fortunatamente agicom ha introdotto dei bollini proprio molto facili c'è serie a
+fiba se giallo e fibra mista rame rosso e rame quindi questo almeno è esplicitato però giustamente cominciato con tutto ciò che ci sta dietro o no ed è assolutamente nel totale controllo derubato
+ok ce l'ho e ne approfitto per una domanda di alessandro come arriva la fibra alla casa a in un complesso residenziale dalla strada principale fino ai vari palazzi e poi in ogni appartamento lascia beh allora se se se in questo caso allora la fibra arriva fino al generalmente dipende un po' dalle infrastrutture di rete
+finché ci sono diverse infrastrutture di rete però diciamo che tendenzialmente
+la la fibra viene portata ai piedi del palazzo con un cosiddetto eroe che è un apparato che una volta ricevute in ingresso una fibra la slitta in più fibre quindi la divide in più fibre che poi andando a diramarsi nei va all'interno dei vari appartamenti passando banalmente dalle tubature si spera esistenti perché
+dipende ovviamente dall'età del palazzo però dalle tue foto esistenti sale fino in casa e a quel punto uscendo da una delle prese o anche gli altri delle tubature dall'appartamento arriva fino a kuta è questa la realtà ed una sì una cosa veloce in verticale sul palazzo che tubature usano reti elettriche due
+del centralino del coniglio citofono dell'elettricità c'è di buono che la fiba non interferisce con elettricità come rane quindi cosa si usa di solito perché sul verticale quei tubi world
+allora diciamo che di tipo nel mio caso specifico che sei stato abbastanza fondate sino al casinò costruzione cioè delle tubature diciamo paga libera e ad hoc per poterle far passare
+però è appunto il fatto che che non faccia interferenza lascia aperta la possibilità di farli passare anche in altre tubature e quindi da questo punto di vista diciamo che si cerca comunque di farle passare in quelli esistenti e per per fare meno minor lavoro possibile ecco familiare come posso aggiungere una cosa tendenzialmente che io sappia attenta
+di riutilizzare il percorso del cavo in rame del telefono
+perché così hanno già un accesso alla casa chiara mese però dipende dipende dalla garanzia metà dell'edificio diciamo perché posso portare una testimonianza personale da me sono riusciti a farlo arrivare abbastanza facilmente fino al livello del piano puoi però arrivare in casa
+ma ce l'hai fatta dal mio vicino no perché perché magari nella parte di cavedio della casa è stato fatto un lavoro che ti strozzare il tubo
+in quel caso c'è poco da fare il collegamento non viene fatto invece una cosa interessante è che una volta che rientrano in casa e l'operatore si attesta al primo punto utile di attestazione in casa quindi
+diciamo che se l'utente vuole vorrebbe il collegamento al proprio ufficio che dalla parte esattamente dalla parte opposta della casa rispetto al punto di arrivo del deciduo e in quel caso il l'attestazione che fa l'operatore e fino al primo bocchettone quindi probabilmente nello sgabuzzino
+dove a te non serve a nulla quindi da quel punto in poi è l'operatore non è più tenuto a fare nient'altro quindi se stai ristrutturando casa ti fai stendere col tecnico che viene a volte riesce a cui e accordarti farsi notare però quella discrezione però è esattamente ok
+usare il sito alessandro sette ti interrotto stefano lo è siamo arrivati all'armadio sotto diciamo di solito appunto c'è la fila viene portata lungo i cavi e i tubi del rame che quindi sono già terminologia e nelle case in fondo di solito melbourne
+io ce l'ho per dire nel palazzo nella sala delle accademie nazionale e nelle così via dove sei arrivata ti trovi lì c'è questo a
+no e non è elettrificato di meccanica e rende esatta dipende dall'architettura di rete nel senso che seo su semplicemente uno splitter e allora civico e passivo e quindi non è elettrificato e semplicemente in maniera appunto passiva divide la fila in più fibre che vanno a finire
+la
+nel nelle varie case nei vari appartamenti perdonami e invece ci sono anche infrastrutture di rete che prevedono invece che queste fasi di splitting vengano fatte tutte precedentemente guida in fuori dall'edificio di strada e si arrivi magari insolitamente a un cinquanta quaranta metri dai vari civici da varie
+appartamenti devono essere raggiunti e da lì poi si va poi touchpoint sopra fino all'appartamento dipende dall'architettura di rete che viene utilizzata ci son poi c'è questa differenza aqui in quel caso sotto c'è comunque un apparato che però appunto dicevi in inglese enne fibre e comunque escono jennifer
+ecco non è un non è una slitta quindi c'è questa ecco quindi one serve arriva in questi armadi in strada che mi ho iniziato a riconoscere a vedere da fuori cosa c'è in questi armadi nelle strada esattamente arrivano le fibre che parecchi sì sì sì sì anche qui diciamo il concetto è che allora alto
+avere la visione d'insieme perché camminò capiamo bene il sistema di alberatura no perché il concetto etico dalla centrale palco con un cavo o fibra che contiene in realtà poi chiamiamolo per semplicità cavo in fila al suo interno poi può contenere più fibre però ad ogni modo parte questo cavo in fibra che arriva al primo punto di splitting
+che quindi da lì parte con un valore di splitting solitamente di uno sedici uno otto solitamente versione più utilizzati viene per l'appunto splittato questo cavi in fibra in auto firewall sedici cifre dati poi ogniuno di stoccarda in ognuno di questi cavi viene ulteriormente slittata perché i livelli di petting sono nella
+due ancora una volta in uno otto uno sedici fino a raggiungere le nostre abitazioni quindi quello che noi troviamo solitamente all'interno dei pozzetti stradali dove vengono installati
+della rettifica sono per l'appunto gli splitter che come detto sono degli apparati non alimentati quindi sono elementi degli elementi passivi perché questa infrastruttura di rete viene infatti chiamata giappone che è per l'appunto e passive optical network quindi una rete passiva che ha degli apparati alimentati
+esclusivamente agli estremi quindi in centrale è in casa dell'utente e a questo punto uno potrebbe chiese qual è quindi questa palata in casa mia che viene alimentato la parte che viene alimentato in casa oltre diciamo al alla router per essere più specifici e lo kennedy che può essere o integrata
+uther pd non ci accorgiamo che c'è perché la fibra indirettamente per farla semplice all'interno del router oppure puoi essere anche esterno quindi appare un apparecchio esterno alimentato per l'appunto che riceve in ingresso la fibra esce poi con il classico cavo cavo ethernet e questa tra l'altro è una caratteristica molto interessante del nuovo info
+br perchè permette di fatto di a gridare e migliorare le prestazioni della rete in fibra stessa annata intervenire sono agli estremi perché all'interno di tutta la rete di distribuzione della rete d'accesso tu fai tutto in passivo e ti basta gestire gli apparati agli estremi e cambiare eventualmente anche i protocolli all'esterno
+no quindi passare per esempio da una jeep o nanà dieci e isgs panna che a quel punto la capacità condivisa da tutti diciamo anche quali concetti che chi diceva giustamente
+prima il collega e la capacità condivisa passa tra virgolette magicamente poi non è proprio così magicamente che ci sta tutta la parte dietro che deve sorridere ma comunque da due cinque gigabit al secondo a dieci gigabit al secondo condiviso solitamente tale sessantaquattro poi unità immobiliari che sia
+ceccano a quella vamo pony che viene poco anche chiamato così a livello tecnico ma che rende anche molto bene l'idea in maniera figurativa
+molto bene infatti
+che ti stavo per fare io mi accodo becco multiplexing su rame a livello di frequenze e qua si fa a livello di frequenze delle onde visibili no immagino che quello quello una steppa ancora in più nell'alta bravissimo esatto quali uno step ancora in più che ad oggi non è stato ancora
+massivamente utilizzato quindi al momento si utilizza comunque una lunghezza d'onda visto che appunto in nell'attico si parla di lunghezza d'onda non di frequenza ma di fatto è la stessa o è la stessa unità di misura ecco
+ma ad ogni modo ad oggi viene utilizzato uno stesso colore ecco come viene chiamato no quindi una stessa frequenza una stessa lunghezza d'onda in futuro ci si aspetta che l'aumento delle
+dalla capacità delle reti passi anche da questo quindi all'interno di una stessa fibra io possa trasmettere più colori più lunghezze d'onda quindi più segnali contemporaneamente e quindi moltiplicare praticamente la la cappellina a parità di cal quindi le fibre già stese dovrebbero già supportare eventualmente una trasmissione a diverse frequenze
+se ottiche il cavo in fibra fisico si e serve cambiare campanaria passati a me come dicevi te
+infatti è relativamente indolore te bene e poi ecco scusa di preciso solo indolore ovviamente nell'atto di sostituirli poi ovviamente il fatto di aumentare la capacità e necessita poi di tutti
+greta anche dieta tra virgolette lato rete operatore per supportato ovviamente tutto questo direte perché torna quasi un concetto che abbiamo sottolineato ma che è importantissimo sottolineare il tema dell'aggregazione c'è quindi se io vado ad aumentare il traffico su un certo ramo in fibra e io tutto quel traffico devo aggregare idee
+si va tutto il resto e deve essere in grado di reggerlo e quindi è indolore dal punto di vista appunto formale di elevate cambio appalto di qua e di là e prima c'è tutt'altra parte crescente volontà aso marta è questo allora quali domande che vengon dentro scusate poi se ti interrompo perché poi diventano si moltiplicano si accumulano nella memoria
+anche per bruno però vogliono approfondire ancora di discorso a livello di saturazione bundle italiana poi varia sequenze di dna regioni situazioni anche quartiere e così via ma come siamo messi perché ti accennavo prima mi godo le mie dorsale è sembrato ciro bit e i problemi a tim
+la banda poi col tempo visto che la banda diventata una commodity per cui non esiste anche più preoccupa di quanta ce n'è di solito ma insomma comunque perché c'è qualcuno dietro che ha steso cavi a barham messa apparati affatto reti e tutto quanto com'è la situazione a livello di saturazione se vogliamo attuale
+della delle reti italiane si diciamo che abbiamo avuto il
+l'importante stress test del covid nobel quel periodo lì è stato un bello stress test per le nostre reti che tutto sommato pur con qualche problematica ovviamente che è stata riscontata comunque sono riusciti a reggere sono riuscita a leggere abbastanza bene mi sento di dire
+quindi diciamo che dal punto di vista della della capacità e le reti al momento sembrano essere dimensionate adeguatamente per quella che è la richiesta attuale è quello che più caldo preoccupa è la crescita del traffico quindi la critica sul traffico sta crescendo sempre più e quindi le dorsali che ad oggi
+oggi almeno nella rete di distribuzione dove per l'appunto crediamo il traffico sono tendenzialmente per quando ho visto io poi eventualmente mi mi correggerà
+sono intorno ai cento gigabit al secondo di traffico aggregato è chiaro che però l'introduzione di risoluzioni sempre maggiori nel traffico video
+l'aumento di servizi avranno sulla vita perché banalmente il calcio per esempio che è andato in streaming da un paio d'anni fosse qualcosa di più due tre anni è stata comunque una bella ha una bella botta per le reti e più alto questo tema che preoccupa gli operatori che li obbliga in un certo senso investire anche molto su quella parte prima c'erano
+costante ad oggi le reti reggano comunque c'è necessità di giornale che siamo fermi ecco questo volevo dire di noce la parte di investimento sulle reti di trasporto è ancora importante proprio perché la crescita di traffico è esponenziale anche sulle reti fisse e quindi bisogna stare stare al passo eh sì esatto e boheme quello che hai fatto
+per tutti gli ultimi anni nota di fare forza ragazzi avere la fibra ottica casa un gigabit a quaranta euro al mese e per me è un sogno
+quando pagavo cinquanta milioni di lire e una sessantaquattro bit di linea fissa
+settantasette quaranta euro al mese magari per gli operatori quanto misera che la maggior parte insomma ciao siamo riusciti i consiglieri
+magari fossero pagati più di quaranta di copper gli operatori e per i margini che si insinua immagini e dicevi bruno posso solo fare una considerazione visto che hai nominato alla capacità di un giga
+finora abbiamo visto mi ha parlato di capacità lato fornitore volevo
+cambiare il paradigma di vista quindi vediamo la capacità lato utente
+certo voi lo sapete perfettamente però
+volevo comunque
+prova di porre a tema avere capacità della fibra a un giga a casa la tua utente non vuol dire avere un giga perché poi agli altri fattori che possono limitare arriva a casa un giga al router poi i tetti con me ti connetti in rete in due modi uno
+con il cavo ethernet e penso che ormai siano veramente poche persone l'altro è il wi-fi sia con pc che col telefono
+e questa connessione quella che poi diventa il fulcro di ortigia e locale e questo tizio sia un giga però per assurdo magari alle stesse prestazioni di una capacità molto inferiore perché alla fine tuo router o il tuo pc o il tuo telefono o l'ultimo
+l'ultimo punto di tutta questa catena di trasmissione è quello il la vera capacità che ha disposizione quindi se hai un pc vecchio di tre anni che supporta la lan la versione quattro quella è la capacità che aveva a casa se usi con una connessione wi-fi si molto giuste
+internet bruno e few come sta fatto che io mi sono accorta a un certo punto che si può fare velocità simil fibra senza avere un cavo da nessuna parte
+è
+questo è dovuto al fatto che noi abbiamo delle connessioni cinque kg molto veloci
+che sono molto capacitive e al momento non sono ancora molto utilizzate e comunque abbiamo anche winchester due versioni cinquantaquattro kg e anche quattro kg è un sistema attualmente ancora molto competitivo in termini di velocità la differenza fondamentale oggi mi sento dire tra quattro cinque kg
+è più sul temine della latenza che suo che sulla capacità nonostante cinque kg chiaramente non abbia capacità abbia una capacità superiore giusto per fare un esempio io lavoro
+cioè sono in grado di fare videocall su teams molto strutturate molto pesanti con presentazioni pesanti
+se utilizzo fibra o se si utilizza cinque cifre quindi da questo punto di vista è una rete molto affidabile
+okay riesce ad avere una connessione ad alta velocità senza bisogno di una connessione che si ha in fibra quindi senza portarti cavi a casa perché vuol dire fixed wireless wireless
+aces quindi un accesso simile fisso
+fatto però in wireless
+vuol dire che a determinate condizioni quindi dove ti vuoi connettere deve essere sotto copertura di un sito quattro cinque kg e a questo punto utilizzi la capacità del sito per fare la connessione verso casa quindi di fatto poi vai ad utilizzare l'accesso mobile è però suona
+mia fissa
+chiaramente non hai bisogno di cavi
+nì nel senso che alla fine avrai bisogno di un'antenna che si possa connettere verso la lanterna d'accesso quindi verso la bts è tendenzialmente questa dev'essere attaccata
+in esterno tendenzialmente adesso ci sono anche altre soluzioni però quella più diffusa
+forse un po' più semplice
+dal punto di vista installativo e di mettere un'antenna che sia in piena visibilità con il sito a cui ti puoi appoggiare e chiaramente poi dev'essere con alimentata e connessa al router
+e anche qui tardo alessandro interessante notare che anche qua c'è la può fare distinzione da chi utilizza e fornisce few su infrastruttura dedicata alle freeway oppure chi fornisce effettuate infrastruttura condivisa con la rete mobile come diceva per l'appunto bruno
+perché è vero che lo standard utilizzato quattro cinque kg però c'è chi offre le fairway utilizzando quelle antenne quella rete esclusivamente per l'appunto tecnologie segua una cosa per fare un esempio si prelevano da c nome io chiusa ante nevicate chi usa antenne condivise beh allora tre-sei
+ampio keyhole linen sono stati da sempre ma l'ex link ma ormai perché adesso non si chiama più link che però eolie le lingue sono stati da sempre gli operatori effettuate sono stati esclusivamente febbraio lo ritrovai ancora lì adesso sotto come attualmente si ancora in cam ma dietro c'è stata un po' di movimenti societari e c'è stato poi per esempio
+amy la stessa fast bet insieme alla già citata l'india ma che ha fatto una rete segua onde millimetriche con appunto unity tua rete dedicata a questo tipo di tecnologia è
+per fare un esempio diciamo di come questa cosa potrebbe portare dei vantaggi può portare dei vantaggi la tecnologia e few oltre al fatto che non c'è un sovraccarico dovuto alla rete mobile anche se solitamente è improbabile perché le tue uova inutilizzata in zone un po' più remote e un po' più rurali quindi si presuppone che il traffico mobile non sia così tanto
+ufficiale
+le prestazioni della rete fissa ma ad ogni modo viene tolto dal campo questa possibilità perché è dedicata ma per esempio eolo ha da sempre avuto questa tecnologia wave g che molti intuitivamente utilizza la parte di quattro oggi lo spazio trasmissivo di quattro kg realizzata da si mobili
+età pianta smettere dati quindi no diciamo rinunciamo a una carta ai sei quattro kg che ne effettua non ci interessa poter potenziare la trasmissione dati e quindi questo è un esempio che faccio sempre perché fa capire un po diciamo come può essere utilizzato un protocollo nato per il mobile perché quattro gg almeno è nato per il mobile cinque kg
+c'è già nato sotto diciamo
+requisiti diversi però ecco come può aiutare a realizzare anche una rete fissa
+ok allora ci sono un paio domande di alessandro freddi molto attivo e legge o entrambe ma se sulla strada principale si trovano i bozzetti età principale secondo me c'è un grande fosso e la sala secondaria ci passa sopra per pochi centimetri come fanno con gli scavi fa cielo l'eros pista
+le fibre come se non ci fosse
+qui siamo proprio esatta una situazione bella devo anche rileggere sembra la situazione ed è un po' età stata in cima alle secondaria avvaleva selezionati e un dal medioevo dove ci sono i fossi del castello maserati facciamo in linea con questo discorso quando cercate di fare scavi sulla strada
+no perché io spero che ci sia una specie di catasto dei dei cavi e delle connessioni in giro anche se mi sa che quando si parla di ruspe che paiono
+ma non sempre così ovvio però effettivamente c'è un
+ma quale sono anche galla grossi lavori di infrastruttura con clamore sulle estranee e
+tanto visto che le fibre di almeno quelli open fiber in strada fanno un taglietto proprio minimo minimo quasi superficiale taglio nemmeno possibile e fanno progressi la striscia quanto basta per far passare una fibra che immagino non sia neanche troppo profonda e
+ebe è però anche lì non so cosa succede quando devono infilare asfalto per esempio
+e lì diciamo che solitamente rimane un po' la strisciata di male e bisogna dirlo nel che comunque la la noti ecco dove dov'è passata alla fibra noti ma se sì esatto noti dove ce l'hai pascal fibra ma se dovessimo rifare la della strada immagino che arrivo io che scopo il problema ci saranno già ci avevano già pensato erano già risolto magari più
+profondo di quanto culi re dell'india anche ai dici devono ho capito cosa intendi si dice ho capito capitolo dei lavori che vanno ho capito ho capito
+eh bella domanda in effetti
+ci annuncia ho mai pensato che potrà essere fatto nuovamente
+sì no quello quello che stavo pensando io che che era interessante da dire era quando dicevi che appunto fanno un un taglio proprio fine e addirittura c'è anche una tecnica che prevede di bucare da una parte sia il punto d'ingresso la dieta la fila ed esci dall'altra se senza neanche farlo
+lozano è una cosa adesso non ricordo bene la dinamica come funziona però in effetti tu entri dalla parte e dall'altra senza neanche dover lo utilizzano ovviamente nella maggior parte dei cantieri ma è comunque una tecnica una tecnica esistente più che altro perché poi siamo abituati appunto avere dei lavori di open fiber che essendo bando pubblico e c'è felicità c'è anche un bug
+famiglie così un po' un po' limitato quindi usa anche tecniche troppo evolute diventa diventa difficile
+però sì lo scavo scavo e ovviamente è ovviamente un tema però non saprei veramente come si gestisce quel tè nel dettaglio quel tema che hai citato tu questo non lo so
+tu bruno e qualcosa no non ne ho idea l'unica cosa che mi viene da dire che avranno considerato qual è la media del sud
+di terra che viene elevata quando arriva all'asfalto e andranno sotto considerazione solo così questo senso è esatto e poi vabbè
+sei altra domanda di alessandro
+nella zona residenziale ci sono diversi lampioni tombini acqua gas luce e risalto il solito cinema di tubi più o meno noti che passano sotto le nostre strade si svuotano i tombini sito telo eventualmente lampioni credo più di un tombino ma ce ne sono
+ma non credo la domanda sia se si sfrutta l'esistente e quando si può o in realtà magari per questioni di concessioni o no quando si credo london road nave dove possibile si usa l'esistente non a caso il tema che ti dicevo prima per esempio dell'acqua del fatto che tim vendesi swedish open fiber
+derivato da un accordo di utilizzo a favore di open fiber di fast due distinti di tim quindi diciamo che dove si riesce andare a utilizzare l'esistente ovviamente si utilizza stilizza esistente questo è una regola base ma anche per non fare banalmente appunto più danni del previsto ecco perché già come ci dicevamo comunque
+la striscia vedi che rimane è anche uno dei motivi per cui a volte i sindaci sono un po' restii nel nel fare eseguire questi lavori perché comunque uno alla fine la nota che c'è da parte darà il lavoro della fibra
+kos dove c'è l'esistente si sfrutta assolutamente resistente si si si ok mi ricordo i tempi il discorso di capannelle cibo e sulle ferrovie così la collettiva che l'aveva fatta aveva sposato blake area fosse quella che è passato a livello di dorsali questo però non a livello
+distribuzione e che viene usato
+già tutti quei cavi delle ferrovie però non so se a livello aereo a livello di infrastruttura ferroviaria dove magari c'è qualcosa resistente e questa cosa è stata fatta una azienda dedicata come se ne va anzi
+non è infostrada te poi è diventata impostare anche premiata
+beh mi sto confrontando razzista modo il trapassato remoto delle eresie licei italiani e
+a livello di mappe in italia e allora knapp questi network access point per cui accennava prima stefano quindi punire edifici in cui ci sono apparati di comunicazioni condivise a qui arrivano fibre a questo punto arrivano solo fibre immagino non arriva name in-app e di diversi operai
+katowice e tramite questi e l'interscambio di dati quantici sono in italia amico del buon vecchio mix a milano via caldera famoso e c'è ancora no mix in caldera è però ce ne sono altri quanti allora c'è sicuramente il naming è quello di roma
+poi c'è quello a torino e di grumi viene la sigla
+kenobi viene la sigla il nome sia fatto uno anch'io recentemente a napoli c'è oltre ad fatto a roma ce ne ha fatto una napoli
+facendo un po' la conta delle cose mi viene in mente
+ho quasi senza viti principali poi non so perchè ho in testa che ce n'è una a bari ma forse ricordo male però ciò questa roba in testa ben velo ormai
+i punti di interchange son diversi
+è
+e chi li gestisce cioè c'è una società terza che chi li fa e vende l'accesso al nap com'è la logica di accesso all'acqua da parte di diversi operatori solitamente sono dei consorzi solitamente quindi sono dei consorzi di operatori
+che invece non solo operato ovviamente di
+intensa disfa vidal ma anche di
+fornitori di servizi
+che appunto si si si mettono insieme gestiscono come consorzio
+il m
+tate exchange point perché poi di fatto è un è un punto che dà vantaggio a tutti no è un'attività che dà vantaggio a tutti e che quindi cerca di vendere questo questo pamela dire così ciò che avviene questo vantaggio esplicito creando un consorzio in senso gestiamo in maniera comune questa risorsa
+cosicché non abbiamo effettivamente degli effettivi costi di transito ecco perché poi è questo un po' il concetto già così almeno riduciamo e non abbiamo anzi costi di transito a differenza di quello che succedeva invece in passato per esempio quando il transito wesley shipp adelaide team e dove dove invece ce l'ha ce l'ha quello che mi hanno raccontato ovvia
+mentre che sono un po' troppo giovane per averlo vissuto però vi hanno raccontato che c'era un periodo in cui insomma il transito era una bella una bella botta ecco non so se se vuoi magari su questo avete qualche informazione più più prima mano e eh direi proprio di mano da quando è stato fatto il primo grande fan
+stello è
+c'era faceva la trasmissione in streaming del flusso dati delle tele varie telecamere e quando hanno lanciato era un progetto che è nessuno considerava come di successo potenzialmente però ha avuto un successo fuori dalla non aspettato e visto che c'era lo streaming dei flussi dati a parte
+il disastro a livello di datacenter ai tempi era giampi un po' di mediaset in cui lavoravo come consulente e accoglierà sostenere raggiungere il seme per fare l encoding gilde coding del deflusso dati ma c'è stato un grosso problema a livello di mix perché c'era il mix intasato
+e i router in teoria facevano si può parlare di queste cose ormai sono passati anni e facevano traffic shaping perché la l'accordo fra ampi e mixer di una chiatta cosa hanno dovuto aprire i boccaporti perché rallentava troppo lo shaping i router e quindi rallenterà tutto quanto il veicolo c'erano chi faceva gavin
+online con quake ai tempi che si incazzava perché le latenze erano diventate fuori controllo quindi sino in passato ci sono stati anche problemi di di tappo ma questo era veramente quando fosse stato proprio il primo a cioè quando lo streaming video a inizio
+essere come dire massivo relativamente poi immaginatevi non sapere sul sesso si potessero immaginare i tempi però immaginatevi unica star video perché multicast non lo fai a livello di tutta la rete oppure non riesce a gestire
+ed è stato un bagno di sangue
+e questo ricordo e testimonianza nei primissimi anni duemila credo
+va bè è buio reti mobile allora cinque intanto scusa c'è una domanda che è a cui però è stato già risposto ma lo facciamo e aspetto aspetto aspettare chiedeva arturo se al momento è presente la rete cinque g su qualche tratte ferroviarie
+penso che se presente sul l'alta velocità
+sull'alta velocità esatto questo codice anche fare alessandro freddi dice sì
+beh comunque su una rete se non c'è motivo per pensare che con quanta la copertura cinque kg in italia adesso e con percentuale e odoroso dire
+immagino dipende anche dagli operatori non è molto frammentata e penso che sia quella con la crescita più lenta tra quella che c'è stata
+ovviamente sono partiti dalle dalle reti metropolitane quindi dalle città più grandi e keitel e poi si sono estesi
+in questo momento non ti so dire quanto ormai sia se esteso però sicuramente il tema del digital divide questo momento colao un tema ben presente
+ha anche precedenti al cinquecento
+mi confermate che il regime le reti tra gli sono state spente
+c'è cenno agli uno se ha un cellulare solo tre jake non essere più niente lo usa come proporla molto bene
+ma in che senso have no
+dove giovanni
+esattezza no no no spiega spiega spiega scusami il regime ancora quindi little marcel i t a il cui give bene è stato disegnato solamente tre kg se sei un vecchio nokia con quello parli ancora la grande un grande ma non vai su internet diciamo che
+no no quello anche se neutre gino blackwood che interessa anche se hai un vecchio samsung due
+ti va male
+di questa casa interessate dal fatto che sia saltata virgolette banche che due giri animato oli e il taeg è stato spento ma perché di fatto il taeg è nato proprio come dicevi anche tu infatti giustamente alessandro cinque l'idea di farti navigare vita va quindi con l'arrivo del quattro kg e cinque kg di fatto è stato ampiamente superato di due kg
+invece avendo questa diciamo caratteristica il traffico voce ma anche comunque delle caratteristiche che lo permette ti permettono di utilizzarlo per l'internet of things banalmente anche di quei contatori dell'enel alcuni sono ancora basati su tecnologia due kg e allora a quel punto ecco che due kg rimane ancora acceso e lo rimarrà per un po' si parla
+unità ventotto duemilatrenta come previsione è invece il ji che per assurdo è venuto dopo ha già abbandonato proprio per essere di fatto sostituito bunny con i quattro gigi alle frequenze del titolo perché tutte condiviso e tutta aggregata insomma questo ormai il mantra di questa diretta perché è tutto condivise con
+le frequenze al posto di utilizzarle per il triage tanto vale utilizzarle per reati è di quattro kg e se possono raggiungere solo una cosa sul discorso della percentuale di copertura del cinque kg nel senso che da questo punto di vista se si apre qualche porta che parla di copertura cinque kg potremmo essere un po' tardi t perché
+troveremmo per esempio che la copertura d'italia e del novantotto per cento in realtà dipende dal tipo di cinque kg di cui stiamo parlando perché poi ci sono un po' technologies cinque chiesa di bruno fa una faccia che
+capito bene a cosa mi riferisco esatto e perché viene all'interno dei reparti viene indicato intendo report non di operatori specificamente dopo più depot anche a livello europeo ma perché viene considerato anche il cosiddetto cinque gita in abit spectrum sharing chi è in realtà un cinque kg diciamo di passaggio una
+tecnologia di passaggio che prevede di fatto di condividere delle frequenze ai quattro kg cinque kg qui è formalmente il cinque kg perché comunque ti colleghi tecnologia cinque g ma è pur sempre una nuova tecnologia cinque g a livello di prestazioni molto più simile a quattro cinque kg quindi quando parliamo poi di te fammi dire vero
+g sono assolutamente valide
+le conseguenze che ha fatto bruno c'è quindi i cinque kg che poi non è ancora quello vero vero perché comunque si appoggia ancora in walter quattro kg però il cinque con frequenze dedicate ai cinque kg è assolutamente presente solo in grandi città in qualche periferia però insomma siamo su percentuali più basse siamo io direi sunset santa cinquanta
+eccoti così più o meno
+teniamo presente che però parlando di capacità ormai
+viene aggregato tutto quindi anche dire quattro kg abbiamo cioè quattro g utilizza diverse frequenze ognuna con diverse capacità quindi
+poi in base anche alle capacità del telefono perché anche qua ci sono sono tutti i telefoni sono in grado di riuscire a gestire tutte le frequenze o il multiplayer su su su più lei era aggregati tra il quattro e in grado di aggregare la capacità di di più livelli quindi rispetto a quando è nato là
+capacità che gestisce adesso è veramente un'altra tecnologia cinque g
+da questo punto di vista è in grado anche di aggregare la capacità di quattro kg quindi direi che tra un pò secondo me se si andrà verso una convergenza si parlerà più di capacità e si tenderà un po' a perdere la alam
+l'interesse sulla tecnologia che lo utilizza
+fatto sta che invece ripetono la cosa garfield effettivamente differenziante tra quattro cinque zero latenza quindi saranno questi due aspetti un po' a guidare
+la necessità del cliente e quindi la capacità e la capacità al momento non mi sembra ampiamente coperta era tra la latenza certo anche sulla latenza bisogna capire qual è la necessità a questo punto è chiaro che nel momento in cui hai bisogno di bassissime latenze ti devi rivolgere a cinque kg non puoi avere quattro kg aggregato finché
+attenzione si tratta di capacità e non di latenza al momento che io sappia capaci
+necessità di latenza così basse ci sono su casi di
+operazioni telecomandate quindi se ci sono due ospedali che sono interconnessi tra loro e da una parte un robot che opera e dall'altra hai il chirurgo che è sul sito remoto e che tramite le pinze
+meccaniche ma riesce a fare un'operazione virtuale che comanda il robot a questo punto si riesce a fare un'operazione a distanza che però ha bisogno in tempi di latenza bassissimi perché il feedback dev'essere in tempo reale poi
+a parte casi così particolari
+penso che non siano ancora tantissime
+necessità di queste latenze così basse forse manca ancora una vera killer application da questo punto di vista che renda necessario cinque kg e che quindi di fatto né né obblighi e uno sviluppo più veloce di quello che c'è perché al momento la capacità per l'utilizzo che si
+fa mediamente della rete e il quattro giri gestisce ancora in in maniera mediamente sufficiente
+the qualsiasi azione che se si possa alessandra che mi è venuta una domanda da fata bruna di spettacolo che ha detto perché mi ha incuriosito la coltivazione che ha fatto sul tema delle capacità non si è fatto di slegarci c'è che prevede diciamo che cisl legheremo dal almeno verso l'utente non andando verso l'utente dal tema della tecnologia ma parleremo solo di capacità quindi realtà
+volevo chiederti se secondo te gli operatori riusciranno quindi di fatto anche a
+creare dei servizi che siano davvero puoi basati sulla capacità non c'è perché adesso ancora siamo molto incentrati sul venda ed adeguate alla tecnologia non parla anche di cinque cinque kg secondo te invece sarà possibile arrivare a un ok ti do una velocità un'alta velocità un'altro gradino di velocità oppure la latenza isolate in sei
+se quella ti dò i servizi non te lo so dire in questo momento secondo me gli operatori sono un po' in un cul-de-sac
+perché la situazione è abbastanza complicata e
+al momento la capacità ormai non è più una cosa differenziante perché ormai quando fai un abbonamento ai chiunque ti vende una capacità che mediamente è ampiamente sufficiente per l'uso di una persona a meno che non sia un giocatore incallito che fa veramente un uso
+spropositato di download e upload streaming in tempo reale però per il resto penso che per una persona media
+quando fai un abbonamento di cinquanta ottanta cento giga
+quanto ne usi poi quando vai a guardare e ormai è diventato quanto lo paghi questo abbonamento
+delle cifre
+che sono veramente bassissime rispetto a un po' di anni fa
+sono crollate da questo punto di vista questo è un grosso problema per gli operatori perché dovrei io sono diciamo che il costo della capacità ha un costo altissimo perché lo sviluppo della rete e
+non viene ripagato adeguatamente rispetto ai ricavi degli abbonamenti
+quindi vendere una una tecnologia in questo momento forse è ancora può fare una differenziazione
+rispetto alla copertura quindi puoi dire ma io ti vendo il cinque g
+su quest'area che compro solo io questa potrebbe essere una cosa differenziante nell'offerta
+dire che vendi cento giga di capacità
+non so quanto ci differenze rispetto ad un competitor e dire che vendi una latenza di due secondi invece che diventi
+secondo me l'utenza media non capisce perché è troppo tecnica e non dai un'idea chiara di quello del vantaggio che stai dando il brano se la vendi come due mail secondi puoi fare online game in un certo modo anche online streaming gaming streaming gaming insomma giocando su
+stasera che lei sequestrare in quel modo e magari ritrovare il canale di comunicazione corretto per riuscire a posizionarti su su su questa offerta
+io non l'ho ancora vista questa cosa
+a parte che io non sono un giocatore incallito quindi non saprei neanche effettivamente dire a oggi
+che vantaggi ti da giocare su una rete cinque g
+quattro alessandro te una volta lo eri non so se invece la scommettitore adesso a parte il gaming online ma anche in game streaming sia tu giochi con un gioco che sta da un'altra parte colto magari dovrà scheda video è in un datacenter e l'arte in sé sono fondamentali da cui i se e con i rei
+di gente che fa gaming ce n'è parecchia gente che matta di gaming per cui è disposto a spendere e ce n'è quindi se si spendono per il mouse ad altissima sensibilità figurati se non spendono per la latenza bassa che comunque un parametro che conoscono benissimo quando il gaming certo non sono d'accordo
+bisogna vedere quanto c'è che percentuale di clientela rappresenta questa questa offerta se tutto sta a trovare quella che è l'applicazione che ne ha bisogno è fare un'offerta strategica su questo tutto sta tra virgolette perché al momento non ancora vista quindi non dev'essere così semplice
+però chiaramente è un fattore differenziante che in questo momento non vedo utilizzato come tale
+ra io un po' di domande ma prima di fare le mie domande giro alcune domande che arrivano dalla chat alla prima una sempre legato al mondo due kg perché è più legata a quello che sto dicendo c'è una previsione di passaggio dove girano in generazione che usa frequenze sempre loro due megahertz quindi e basse frequenze
+ma appunto però passare un passaggio della cambogia due gia basse frequenze ma
+allora il due kg uso delle frequenze decisamente più bassa rispetto alle altre tecnologie il che ha sicuramente dei punti di vantaggio dei punti di debolezza punto di vantaggio è che ha una ti permette di avere una copertura molto più più più ampia diciamo quindi
+una copertura fisica intendo coprì un'area più più ampia ed è una frequenza più robusta quindi è meno soggetta a interferenze
+ho
+in caso di pioggia in caso di eventi atmosferici a una frequenza più robusta però almeno capacitiva me
+quindi in questo momento di base voce come si diceva fosse ha senso sia pure di tanto fans come dicevamo dove magari insomma degli impulsi ogni tot o uno scambio di piccoli dati ogni tot li magari puoi andare a farci qualcosina anche con altre tecnologie è anche mobile ovviamente anche il cinquecento ed il rispetto quattro gin nasce anche
+anche per l'internet of things
+a ha la possibilità di andare in serie c il mercato li ul
+altra domanda precedente ma che riguardano l'argomento visto che alcune reti fisico ma appunto open fiber non sono più italiane ci sono cose che non possa twente fare c'è la golden share del nostro ministero economia e finanze
+a parte poter mettere becco su certe decisioni ci sono per legge per statuto
+dei limiti su quello che possono e non possono fare i cooperatori di
+allora che io sappia no ho detto che appunto il tema golden scarpe riguarda fibercop in un open fiber ma comunque scrive bene livio perché io prima ho citato il fatto che ho pensato te il sessanta per cento e comunque di un fondo che non è italiano quindi sicuramente riprendeva quel quel concetto però ecco che io sappia cose messe nero su bianco vero
+si possono fare
+non c'è per dire e mettere uno sniffer editrici che su tutto il traffico che passa su i loro apparati a ben opera questo tema in difficoltà indipendentemente direi da a prescindere
+da estero indipendentemente dal fatto che sia italiano o meno
+sai che questo è il punto nuovamente in quei mari straniere vuoi adesso in tempi di pace tutti amici tra virgolette poi il cibo fino a un certo punto come dire come si convincevano
+e vabbè
+non so poi esattamente sei libro intendeva appunto queste cose una spossante fare e sono così evidenti come intercettare il traffico no o anche se va detto che il dettato accertato sono esempi espliciti di
+cose vengono fatte nelle dorsali per cui
+va bene un film ma vedo nei commenti livio però sia putrida che su questo c'è comunque una una legislatura una legislazione che vale ovviamente in generale senza gambe
+almeno sulla ovviamente paese presieduto discostano dalla legislazione cee e poi io tendo a fidarmi che venga rispettata ma ancora giovane
+e va bene allora poi ho visto un po di follow up sui discorso cinque ghinee ma la mia domanda è a questo punto è ma visto che già il cinque g basta e avanza e non lo usiamo neanche completamente o
+f sei kg che che quando e cosa potrebbe permettere di fare che magari adesso abe fosse tutto il discorso di realtà telepresenza realtà virtuale o di questo genere cioè quali sono uno i tempi e che comunque ci saranno delle previsioni
+e due i possibili usi
+dei sei kg
+ma dove vai tu brunori
+ti vedo sorridere criminosa se vuole dire qualcosa se no tav seguente
+attacco hacker dalla parola sente anche la tua clientela sui seggi e allora è come empi diciamo che si prevede che possa essere standardizzato nell'intorno del duemilatrenta questa è un po la previsione a livello di tempo poi me c'è la cina che ha detto che loro vogliono lanciare il sigillo duemilaventotto non si è capito bene come però
+prima della standardizzazione auge questo è un altro discorso no però diciamo che a parte questa questa battuta sulla cina e i tempi sono più o meno quelli è adibito per la standardizzazione quindi poi c'è un tema di bilanci realizzazione delle reti
+però ecco quello che porterà i sei kg è in realtà il diciamo il
+claim che viene un po' trasmesso al momento e se il cinque kg ha portato un'idea definitiva il cloud all'interno delle reti mobili poi abbiamo parlato tanto nella parte di accesso dal cinque kg ma le grossissime novità per il cinque kg sono anche e soprattutto nella parte cosa dove veramente poi è diventata una rete
+cloud nel senso che puoi usare apparati generici sul quale installi le funzioni di rete di cui hai bisogno no quindi porta una serie di vantaggi che appunto potremmo profondità ebraico detto che il cinque già auda quello che ci si aspetta dalla sei kg e che po alti di fatto l'intelligenza artificiale da una parte all'interno delle
+reti mobili ma anche l'integrazione con il sensing quindi un caso che mi hanno dato specifico di studio che mi hanno raccontato al politecnico di milano col quale ho ancora rapporti diciamo
+mi hanno raccontato che per esempio l'evoluzione del sei g quella di utilizzare uno stesso segnale di trasmissione che ad oggi utilizzato solo per fare comunicazione quindi chiunque un segnale dalla dds sul tuo cellulare per trasmettere dei dati ecco in futuro l'idea è usare con lo stesso segnale per fare anche sensing quindi lo uso anche per valutare banalmente per farla semplice la plebaglia
+tale l'andata e il ritorno del segnale e faci delle valutazioni stile radar ecco per darci un'idea quindi utilizzare uno stesso segnale per più scopi per sempre per il tema che è tutto condiviso quindi se io devo fare sensing e però devo fare anche tanta comunicazione le frequenze una certa finiscono quindi cercare di mettere me
+trissino queste cose non a caso i sei kg viene rappresentata da una piramide cinque g veniva pestato un triangolo i seggi viene pestato una piramide dove quindi oltre alla bassa latenza numero elevato di dispositivi connessi e all'alta velocità che è quello della
+ultrabroadband che quello del cinque kg viene aggiunta anche intelligenza artificiale e il sensing e che quindi forma questa piramide diciamo del del sito quindi questa la prospettiva che detta in soldoni e poi lascio la parola a bruno e umido la speranza del sei seggi e poi in realtà quella nel concreto che dia poi chiaramente il
+via quei nuovi servizi che possono davvero rivoluzionare l'utilizzo della rete mobile perché è vero che ad oggi noi ci diciamo che il cinque kg non è utile ma è anche vero che queste nuove tecnologie dovrebbero anche un pò tainan se stesse e portare alla nascita e se stesse di nuove applicazioni o cosa che cinque al momento non è ancora riuscito a fare la speranza che lo possa fare in sei gg
+perché c'è questa speranza perchè si è visto diciamo nella storia seppur recente delle reti mobili che lenny
+se l'evoluzione tecnologica viene tendenzialmente una volta ogni dieci anni con le nuove tecnologie l'evoluzione livello di servizi avviene invece ogni due anni c'è quindi abbiamo avuto uno kg e due kg però poi con il tre gg che sono arrivate
+insomma applicazioni cose c'era quindi la speranza che sia ancora una volta così e che quindi la la
+la wave di nuovi servizi possa arrivare poi a compimento con i seggi e non tanto con con cinque vedremo se sarà così o meno
+se io farei ancora una configurazione su cinque una considerazione su cinque kg
+non vorrei che fosse passato la aver passato l'idea che il cinque tutto sommato a oggi è inutile perché quattro c'è già abbastanza evoluto ho postato questo messaggio
+mi sono espresso male non volevo dire questo ci sono anche altri motivi per cui il cinque kg è un'evoluzione che deve andare avanti e sono
+le evoluzioni tecnologiche ogni evoluzione tecnologica oltre a portare
+dell'evoluzione in termini di capacità di latenza così porta anche altri termini di evoluzioni che possono essere semplicemente semplicemente che possono essere anche il minor consumo dagli apparati quindi a parità di capacità uno cinque kg rispetto a quattro kg più economico da questo punto di vista dal punto di
+da un punto di vista del consumo energetico poi a un utilizzo spettrale molto più più più efficiente rispetto a quattro kg quindi permette un riutilizzo delle frequenze molto più efficace quindi anche degli altri motivi per cui dev'essere implementato che non sono da poco perché se consideriamo quanti siti
+suono in
+fisicamente su sulla sulla rete italiana e se consideriamo ipotizziamo che su tutti ci fosse il cinque kg e che il traffico passi tutto sul cinque kg per per assurdo avremo un risparmio notevole dal punto di vista energetico e quindi qua possiamo fare un discorso sia di costi che ambientale
+ti è piu di gestione della capacità che questo è un tema che abbiamo discusso tanto gliene parlava fosse bruno se non erro nella fasi nella prima di ritornare primissima risposta però anche il fatto di portare l'elaborazione dei dati più vicino possibile all'utente poi diciamo nella forma più evoluta e sarà possibile con i cinque kg proprio
+grazie a quel tema di codificazione delle
+delle funzioni di rete e la rete cinque g che per l'appunto proprio grazie al fatto che sono software e possono essere programmate e più o meno a piacimento comunque in base all'esigenza classifica che una volta ch'io metto dell'hardware generico vicino all'utente in base al servizio che lui mi chiede io attendere potrai anche programmare gli doping
+base al traffico richiesto la funzione di haiti più adatta per dargli il servizio richiesto no quindi ci sono tante cose che esulano dal solo navigare più velocemente su cui infatti ci siamo concentrati quel cinque kg ma chiaramente solo una piccolissima parte di tutto quello che poi che poi porta e walter ai chirurghi ospite poi il
+rimani sempre il solito su tutto questo vanno costruiti dei servizi perché sennò poi sia le aziende che le persone e poi ovviamente c'è bello il fatto che hanno vicino la capacità che hanno una latenza bassa ma poi ovviamente non finisce lì ecco se se non riusciamo a costruirci sopra nulla arturo scrive e per la
+la disperazione di chi vede nel cinque kg il diavolo è
+è fonte di ogni male speriamo che il valore del limite del campo elettromagnetico l'italia segnerà con cui la maggior parte di stati europei prima d'arrivo cinque sei kg immagino per esempio al fatto che i limiti italiani sono piuttosto più bassi livelli di potenza di emissione rispetto a quelli europei e venduto quanto più bassi
+è
+se ricordo bene dieci volte
+so che
+eh sì erano dieci volte abbia fatto un miglioramento perché siamo saliti a quindici vedi giusto un filo però sì sì sì esatto siamo migliorati un pochino veterano sei volt meta mentre negli altri paesi erano essenzialmente sessanta vol mito quindi come diceva giustamente bruno dieci belva siamo saliti recentemente ad apr
+riley se non ricordo male a quindici volt metro quindi siamo portati un filo più su
+allora per tranquillizzare mentre comunque e allora perchè comunque c'è un discorso di l'avrei anche tu accennato e potenza del segnale è comunque una radiazione elettromagnetica e più è potente più potenzialmente può interferire con tessuti biologici seguiamo così però bisogna capire
+appunto potenza limiti frequenza e quant'altro
+quali intanto i limiti europei secondo te sono troppo alti e gli italiani sono quelli che son troppo sono giustamente prudenti oppure sono troppo legati alla realtà
+i limiti italiani sono troppo legate a preoccupazioni che non hanno motivo di esistere c'è adesso al di là del nostro come dire fascinazione per la tecnologia e gli usi che ne che ci permette di avere quanto effettivamente hanno senso le eventuali
+preoccupazioni che qualcuno ha su il cinque kg live ma anche ottantaquattro girl velo su lee pulire il
+le radiazioni elettromagnetiche che vengono le antenne dei cellulari che cosa potevamo non possiamo dire a riguardo ma allora è sicuramente esprimeva scientifica li based basati su dati e al suo sì sì no assolutamente no diciamo che
+a livello di
+onestà intellettuale è giusto dire che comunque è un tema che in continuo studio e ci mancherebbe no come tutta la scienza cioè per le passioni di scienza non è un è una cosa strana il fatto che un fenomeno sia in continuo studio alla normalità e menomale che sia così e lo dico perché a volte invece questo se può sembrare per alcuni che abbiamo ancora molti dubbi da lei
+che abbiamo ancora molto semplicemente è un tema che è giusto che ella scegliere ventilatore e questo è giusto è una cosa normale detto questo quindi fatta questa premessa che quindi nel caso in cui dovesse uscire nuove evidenze ne prenderemo atto e prenderemo anche diciamo le dovute precauzioni ad oggi esistono degli studi delle linee guida internazionali
+che dai trenta mega sfida i trecento gigahertz
+il re non è proprio una linea retta quindi ha comunque un po' di oscillazioni però tendenzialmente in media il valore limite massimo raccomandato per le miserie to magnetiche è di sessanta watt mito questo è sessantadue sessantadue will smith che tali
+toh è un valore che viene ricavato inserendo comunque un
+un fattore moltiplicativo di gualdi ha rispetto all'ultimo richiamo alla rilevazione più vicina ai limiti cui sono visti degli effetti a lungo te a lungo e breve termine quindi se fate degli studi sono visti dagli effetti da li' siamo scesi di più di quello che si è detto che questo è il limite consigliato no
+non a caso nella maggior parte dei paesi europei anche per esempio agli stati uniti il limite di sessantadue will smith che è proprio quello che viene definito da queste linee guida
+nel nostro paese era stata fatta questa legge nel novantotto quando avevo quattro anni in cui essenzialmente si metteva il limite a venti volt metro nelle aree disabitate a sei volt mito nelle aree abitate
+diciamo per quanto mi riferiscono non si capisce esperti dunque parlato non si capisce bene su quali basi scientifiche così come in realtà non si capisce bene su quali basi scientifiche sottomesso guerre sul quindici nel senso che il quindici è un numero che diceva pietro alziamo ma non è che abbia delle evidenze il fatto che da sei a quindici cambi qualcosa no a sera sedici non è che avevamo
+è evidente quindi ecco quello che ti ho riportato prima sono le evidenze scientifiche che abbiamo e poi come in tutte le cose sicuramente si potrà alcuni citano studi indipendenti che hanno trovato insomma alta e alta evidenze diciamo che in quelle sezioni pare da quanto ho diciamo viene riportato poi della maggior parte
+comunità scientifica che ci fossero delle condizioni che non replicano effettivamente l'esposizione a cui noi siamo sottoposti e che quindi al normale avere delle evidenze diverse greco questo è quanto ci dice ci dicono gli studi e poi c'è tutta la parte tecnologica di cui accennava bruna a cui magari faccio aggiunge
+lui no c'è il fatto che cinque kg comunque mi dica un po' quest'uomo questo tema rispettare anche le tecniche precedenti sì io
+veramente
+vorrei fare magari una un discorso non esattamente scientifico ma
+spero di buon senso ecco da un punto di vista meramente dei costi
+avere una
+deve avere avuto questo principio precauzionale che ha abbassato un altro principio precauzionale perché appunto sessanta volt metro aveva già una un valore di abbassamento precauzionale abbassando di dieci volte è un messaggio molto forte e da un da un punto di vista psicologico penso
+oh è il messaggio che è passato è stato ah ma se è stato abbassato così tanto allora un motivo c'è perchè non è stato abbassato ancora di più motivo per cui
+ci sono stati anni in cui quando si andava a installare un nuovo sito o se vi ricordate uscivano articoli sul giornale perchè gli installatori venivano presi a sassate
+installare si cela veramente difficile e a volte anche rischioso
+e ci siamo e questo è un un background culturale che ci stiamo portando dietro da quei tempi e l'altro messaggio che è passato e nemmeno team ci sono meglio è perché ci sono meno punti inquinamento che capisco lo capisco come
+ragionamento logico però da un punto di vista come dicevo all'inizio di di potenze è l'opposto più antenne ci sono meno inquinamento e perché più antenne ci sono meno potenza serve quindi sono proprio due concetti in contraddizione e detto questo noi abbiamo in casa
+e utilizziamo quotidianamente un sacco di strumenti che sono potenzialmente pericolose dal per essere banale scusa dalla macchina dove sappiamo tutti percentualmente quanti morti ci sono in macchina e la usiamo tutti quotidianamente spesso senza pensarci più di tanto avere coltelli in casa a usare un forno
+microonde sul forno a microonde quando quando è iniziato a essere stato venduto in italia c'erano un sacco di polemiche perché
+metodo di cottura
+processava le molecole della camera in una maniera che le rendeva dannose ma che però adesso ce l'abbiamo tutti penso un forno a microonde in casa più o meno
+di fatto se vogliamo avere determinate cose dobbiamo scendere a compromessi da un certo punto di vista vogliamo avere l'evoluzione tecnologica nel senso della comunicazione avere un telefono che ci permetta di fare tutto quello che ci sta permettendo di fare perché poi a livello di telecomunicazioni
+il motivo principale per cui vengono utilizzate le rete radio se si e dobbiamo cercare di arrivare al giusto compromesso teniamo presente appunto che è un un una cosa che blocca o
+impatto molto l'evoluzione tecnologica quanti siti si fanno alla copertura cinque kg l'evoluzione sono gli investimenti e i costi utilizzare un principio precauzionale che tendenzialmente sono d'accordo ma è un principio precauzionale su un principio precauzionale che è stato
+finora applicato in maniera dieci e adesso passa passa a cinque perché passiamo da sei a quindici volt metro senza senza avere una base veramente scientifica per dire ok e sessanta cosa facciamo sei allora perché non tre o perché non dieci o perché non un altro valore
+ha avuto un impatto sui costi quindi visto che mettere un nuovo sito ha un costo che ics volte di più rispetto a utilizzare i sessanta metro ha un impatto sull'evoluzione tecnologica e sui costi
+è quindi scientificamente posso dire che è corretto usare posso anche essere d'accordo sul solo utilizzare un principio di
+di sicurezza sì però
+sappiamo che è basato solo su una sensazione perché non ci sono studi scientifici che dicano che sei volt metro è un valore sicuro che lo dicono sui sessanta anni che lo dicono sui tre non ci sono a oggi almeno che io sappia magari
+verrò smentito e ci saranno proprio perché come dicevamo siamo in continuo studio e teniamo presente che l'evoluzione tecnologica va utilizzato in una maniera sempre migliore
+spettro elettromagnetico siete perché in effetti il governo vuole aumentare il limite ventiquattro quindi poi il quindici è stata proprio una contrattazione politica ecco più che scientifica
+voleva aumentarle questi il nome esatto che vengono fuori da quattro politici che rispondere al loro elettorato e trovano la media
+e domanda di alessandro secondo voi sarebbe giusto limite in italia quale sarebbe giusto limite in italia e secondo voi collegandomi a domandare ventimila se duemilatrenta
+se il limite passerà a trenta watt metro con i sei kg il limite passerà trenta e will smith con seggi cioè succederà questo è è presieduta perché trenta voltmetro se c è un
+necessary è un numero qualche modo correlata ai sei kg perché non alien
+nadia è un numero anche questo è un po' così indicativo io credo comunque che questo sia stato un primo vinto e crea comunque un precedente storico abbastanza importante che i tentativi di aumentare i limiti le tovaglie sono stati veramente tanti negli anni non ci sono mai riusciti diciamo per dirla proprio in maniera piatta non si sia riusciti anche quando ce l'ha
+a da vittorio colao come diciamo ministro quindi voglio dire che è notoriamente una persona del settore ecco quindi regali non aveva interesse nel aumentarli e quindi
+diciamo che questo è stato un precedente storico importante che comunque
+non ha creato forse tutto il clamore che ti sei attendeva ecco quindi la speranza è che si facciano anche sempre più sensibilizzazione per cercare di aumentarla in maniera pacifica e con parzialità del del decreto che era stato varato chiaro perché questo aspetto c'è il fatto di fare un'adeguata comunica
+zione sensibilizzazione di quelli che sono
+le evidenze scientifiche come poi anche giusto fare questo ovviamente come diceva giustamente anche bravura nel senso è giusto dire tutte le cose come stanno e spiegarle per come sono e poi
+lori riforme una domanda di alessandro se voi foste ministri ed potreste ricevere e che walt crimine mettereste mai uno e l'altro
+beh veramente non lo sono
+non è capace
+hai dato una risposta politica che non senza darla e secondo me
+discretamente se mi sono contraddetto
+e quindi qual è un limite ragionevole secondo voi avrebbe senso
+frate fra aspetti tecnologici e di prevenzione i potenziali rischi a livello di salute pubblica
+io lo porterei a quello dei limiti delle linee definite dalle linee guida internazionali quindi io lo porterei anni di sessantadue world meeting e sessantadue senza
+uno da darmi un nome romano
+la risposta vera sarebbe anch'io capisco che questo poi possa essere effettivamente un messaggio molto forte quindi politicamente farei una media adesso siamo a quindici abbiamo fatto un raddoppio facciamole un altro e arriviamo ai trenta che abbiamo
+che abbiamo visto nella domanda
+pur essendo no ma però pur essendo comunque la metà di sessanta che tanto in meno rispetto a sei voglio dire è una condizione notevolmente migliore quindi
+voglio dire passa comunque il messaggio di essere ancora conservativi
+però migliora effettivamente la situazione rispetto a quello attuale
+allora altra domanda del buon marco fuoco e beatamente in invidia e c'è uno sweet spot sul numero di antenne e perché poi segue e spiega e a me pare che le antenne emettono molto e segnali accada molto velocemente in near field e mentre se vuoi
+amo usare poche antenne come giustamente dite si devono usare maggiori potenze colei giusto compromesso anche a livello di quantità c'è tutto fosse bruno hai qualche informazione ma non dicevo che è giusto usare poche antenne dicevo no no no lo dice anche lucien però dice che in near field
+sembra che erano strettamente al cliente ne mettono molto simile accade molto velocemente inn near field nei film quando sei vicino houston
+allora
+punto di vista
+di funzionamento dovrebbe essere il contrario perché nel campo vicino se sempre al massimo della recezione quindi il segnale decade
+quando ti allontani rispetto al punto di ricezione trasmissione dell'antenna poi chiaramente di penale frequenze più le frequenze sono alte più la copertura
+è minore
+va bè marco poi se vuoi
+riformulare un pochino meglio spiegare bene esattamente cosa volevi intendere lo sweet spot sul numero di antenne è ma giusto per capirci hannibal che vuoi quello che può influenzare scusami e l'altezza dell'antenna rispetto a dove sei quindi sul verticale perché l'antenna ha un lobo trasmissione
+ivo e se sei esattamente sotto l'antenna diciamo sei probabilmente in una zona di copertura molto bassa
+quindi meglio stare un pochino più lontani che proprio sotto sotto c'è esatto
+una specie di punto cieco se vogliamo dire amore esatto si può eventualmente c'è un tema che può rafforzare insomma quello che diceva giustamente bruno del fatto che se le antenne fossero di più la potenza trasmissiva sarebbe minore perché sia la potenza rimanesse la stessa ma con più antenne e poi sì che seguono twist prevalente bruno colleghi si sbagliava
+segue sacro sweet spot di operatori stessi che poi dovrebbero gestire le interferenze tra le varie antenne vegas due antenne che trasmettono molto per mezzo emette un'alta gestibile
+esatto ingestibile perché avresti zone di sovracopertura avresti lo stesso posto che over coperto da da troppi segnali e alla fine generi completa continuamente interferenze
+quindi sarebbe un problema cioè sarebbe a un apostolo di interferenze c'è quando
+due e in zone ad alta densità di antenne di diversi operatori c'è un accordo sulle frequenze che si usano come come se ci vede prioritario pestarsi i piedi se se si usano degli
+delle parti di frequenze diverse quindi non vanno e sovracopertura e a quindici anni ci vogliono sì sì ognuno degli slot dedicati
+che siano stati assegnati dal governo piuttosto che con mutui accordi dipende diciamo però ognuno ha degli spot dedicati quindi non non c'è a parte determinate frequenze utilizzi su alcune tecnologie dove prima bisogna
+dare a fare diciamo una modalità un po' diversa
+dove il primo che arriva si piglia la frequenza di ciò e quindi è a carico del secondo che arriva a fare un'analisi spettrale per andare su una parte dove non c'è nessuno quindi no non creare interferenze però nella parte di accesso e c'è una una divisione quindi il il rischio di interferenza e sullo stesso operatore
+che deve gestirsi il suo spettro elettromagnetico e progettare in modo che i vari siti non interferiscano tra loro chiaramente ogni sito che si va ad introdurre e va a chiedere una riparametrazione di tutti i siti adiacenti giustamente alessandro questo spazio
+ho dedicato diciamo che lo pagano salatamente quegli operatori non è una cosa non so se sai quanto hanno speso per le frequenze cinque kg gli operatori ghana cifra dei civici
+e mi ricordo numeri ragguardevoli già per il regime corpo è infatti fatica dei cinque kg credo le ricorda del regime dove il credo siano molto maggiori spiagge
+parte dello stato sei miliardi e mezzo per le frequenze dei cinquecento tale ovviamente in totali stata una cifra bella importante per avere quella porzione dedicata che diceva diceva bruno a proposito di frequenze e averle ci sono diversi spettri di frequenza che possa essere utilizzati e i termine
+nale i cellulari li supportano tutti dipende dal modello della marca come funziona e se tu hai un cellulare che non supporta un certo spettro cosa fare il fullback ecco come la logica bruno sì diciamo
+anche adesso penso che si stiano un po' uniformando però chiaramente il no chiaramente no però è successo che i telefoni non supportino determinate frequenze anche perché su questo gli standard
+non sono mondiali quindi la darete
+a supporto delle frequenze diverse rispetto alla rete europea che a frequenze diverse rispetto alla rete giapponese
+quindi semplicemente con un telefono che copre tutte le frequenze in europa se vai a farti un viaggio in america non è detto che funzioni con la stessa con le stesse performance perché la utilizzano frequenze diverse
+il che vuol dire che se utilizzi apple non è detto che sia ottimizzato sulle reti europee anche se adesso si sono andate uniformandoli ripeto questo era penso più heron un po' di anni fa
+allora in poi domanda al pubblico molto cattivo sanno
+in questo senso mi isolo solo un'ultima un'ultima cosa è vera comunque su su tutti gli step evolutivi della rete come dicevamo prima scusa faccio una comparazione con la fissa dove se ti arriva il giga a casa will quanto di questo ciclo dipende da che
+tipo di lana sul divano o di
+o di collegamento wireless quindi te hai un giga ma poi dipende da cosa usi te e tutte le volte che c'è un'evoluzione di rete il telefono e rischia di rimanere indietro perché magari viene utilizzata una modulazione che il tuo telefono non supporta quindi la rete ti da determinate capacità se il
+tuo telefono supporta a quelle caratteristiche se no è una capacità che viene delimitata dalle capacità del telefono quindi non solo da quante frequenze supporta ma anche da tutta un'altra serie di parametri che magari non supporta si presenta una limitazione che
+diciamo aveva reso quotidianit esagerato però con chi magari si butta nel utilizzare per esempio la collettività quattro gigli a casa no due uterino classica saponetta ma anche nagai adultero un po' più strutturati durevolmente tra sindaca fasi la sua linea fissano
+l'eni capita spesso che mi venga assegnato il fatto che macomer da cellulare nakagawa centocinquanta metri al secondo sul uterino e vado a trenta mega per esempio possiedo la stessa sim come poi ho fatto il test prima di prenderlo eva datasheet e perché come diceva sainte-beuve ci sono tanti parametri per esempio in quel caso la
+la cosa che spesso capita che questi ruta patologie sono di categoria quattro perché le lettiere quattro gia delle categorie e la categoria quattro è quella che non supporta l'aggregazione tali frequenze i telefoni ormai tendenzialmente tutti la supportano e quindi li si rischia non conoscendo questo aspetto che però ovviamente molto tecnico quindi
+è difficile diciamo da conoscere che venga esplicitato e faccio l'ospite ascolti formula la stessa simile vado a cento duecento mega perché sto usando più frequenza in contemporanea un po' come appunto le lunghezza d'onda della fibra che ci dicevamo prima met poi la simile avuta lui non aggrega news da solo una e mi ritrovo a trenta mila ecco quindi sono tant
+tanti parametri si che poi influiscono
+bene molto interessante allora riprendo un po' di questioni ha dato marco spiega meglio la sua domanda che mi è mancata come se ne parlerà in svevo qualcosa in vocazione
+fare acquisti ma come giustamente dicevo una provocazione di onde elettromagnetiche diverse credo che possiamo legate alle scosse di quando parlavi di parametrizzazione di tutte le antenne quando raggiungi una quindi effettivamente
+la rete
+alcuni relè le emissioni le frequenze che tu usi quando mette in piedi una rete di antenne e segue delle logiche che amate ma guarda marco tutto sommato non
+non vorrei sia stato frainteso
+anche nella propagazione acustica sulle sulle frequenze ci sono dei filtri quindi se vai a diffondere le frequenze acute decadono prima delle frequenze basse quindi il basso acusticamente lo sentì a una distanza molto maggiore rispetto agli acuti
+faccio questo parallelo punto sulle sulle frequenze basse in propagazione riesce a coprire delle distanze più lunghe rispetto alle frequenze alte anche elettromagneticamente
+e livio domanda basi di thiele di
+le comunicazioni sebbene le esose il mobile vengono istituiti la domanda è quando ci passiamo a vairano istituti primi due livelli e fisico e
+e datalink eh si perchè patologici sono a livello di wireless
+che lingua parlate voi quando dipingo appare nel cellulare con le antenne che protocolli usano me
+cinque kg queste cose no c'è mucche hanno dei nomi no acqua acqua sei tu l'esperto ma sai se tu il nad delle reti mobilità
+non voglio passarti la patata bollente ma mi viene presentato così ti hanno presentato così zappile buffet
+no su questo non non non ti so dare una risposta usano i protocolli si centra vengono usati e non sono protocolli che si chiamano cinque quattro gin giustamente esatto prevalenti malnutrizione
+comunque ci sono dei protocolli che fanno livello
+a livello fisico livello datalink e che poi è quello su su quelli poi ci passa light
+dottor einstein
+quindi i primi due livelli si vengono sostituiti si vede comunque ethernet non c'è più e non si vengono sì ti rispondo io li pallone da quello che ne so viene modulata dire vien da dire nagel allora la casa fisica resa per un attimo a riesumare le conoscenze diciamo universitarie ma sono giovane ma è comunque pas
+fate un po' di tempo eh
+no per allora a livello fisico che rete mobile sei comunque su una trasmissione nubia cavo ma via radio quindi viene modulata digitalmente per e umido non ufficialità e di david analogicamente per trasmetterla nell'aria e arrivata al ricevitore e poi una volta arrivata al pianeta trasformare in
+optare per un pedalino colpa onestamente i protocolli specifici
+comunque le do la risposta è sì c'è questa è una domanda puoi pure sma tipo di domanda non c'era in questa parte nei sette livelli iso osi i primi due livelli datalink e hardware vengono istituite e da qualche altro protocollo che noi sappiamo lo ricordiamo
+è su on top di quelli poi c'è il livello della rete e quindi soldi buoni p e tutto quello che ne segue il re che possiamo dire sì
+e invece chiede alessandro riguarda invece il david ti due e quindi il nuovo digitale terrestre e cinque gg mi avevano entrambi coi vari cambiamenti che stanno avvenendo fra questi due pecche a livello di uso di frequenze diverse immagino come come funziona mi sembra che il
+lo spegnimento dei vecchi canali del dvb-t
+venga fatto per liberare le frequenze e utilizzare cinque kg e quindi se mi aspetto mi aspetto che i cinque chili nel momento in cui riuscirà ad utilizzare queste frequenze liberate e non sarà subito perché dal momento in cui vengono liberate al momento in cui vengono utilizzate passa tutto
+l'app creta della rete fisica è perché bisognerà bisogna vedere come gli amplificatori che riescano ad utilizzare queste queste frequenze che parzialmente sono già stati installati perché diciamo anche da questo punto di vista la tecnologia ha fatto grandi passi in avanti adesso non c'è più un amplificatore per frequent
+enza ma ci sono degli amplificatori che riescono a coprire molti frequenze quindi ci può essere un amplificatore che copre due o tre frequenze una delle quali al momento è inutilizzata perché era in uso su goldbet nel momento in cui viene liberata questi amplificatori possono essere riparametrati
+e venire utilizzati
+il che vuol dire che però è solo una parte della rete che queste queste feature ma mi viene a dire quindi se si parla di stesse frequenze adesso usate dal derivi un rende individuino normale che poi in futuro verranno usate dal cinque kg i problemi di radiazioni cinque giro e borse
+infatti anche per l'italia digitale terrestre
+anzi forse di più perché poi le mie antenne non sono così distribuite i segnali sono più potenti com'è che nessuno si mette a fare in piazza manifestazioni su digitale terrestre o sbaglio io qualche concetto di base
+ma lanciate su cinque chili siamo tutti un po' accesi per il fatto che c'erano queste fantomatiche nuove frequenze a onde millimetriche non solo un po'
+che quindi le frequenze alte la rete ma come queste nuove frequenze adesso che succede
+quindi realtà è stato un po' quello secondo me che hai acceso il tema proprio perché erano nuove frequenza presente quel nuovo che poi erano nuove per le reti mobili in realtà perché non è che non venivano usate per altro è esatto ma se invece queste le frequenze vengono liberate su quali
+settecento megahertz ha quindi ancora ma semplice se non vanno andiamo sui giga hertz ancora no no no no se non fanno mai se quello no esaltano dannoso quello fatto di un astronomo sono pregiate come come frequenza infatti
+da che distanza più copertura maggiore come dicevi giustamente bello bello allora e adesso lo voi e la beffa è sempre meglio cercare badesse trovate avete qualche fonte
+è interessante su come adesso utilizzato lo spettro elettromagnetico delle diverse fonti di trasmissione non parte ai diversi usi civili militari e così via immagino che ci sarà parecchio da interessante da vedere no
+e cosi anche come è evoluto nel tempo l'uso dello spettro perché poi appunto lo vediamo adesso col digitale terrestre o lo vedremo quando ma poi immagino c'erano catene frequenti chen per il cinque qua dove hanno attinto per le frequenze dei cinque kg i quali allora le frequenze dedicata
+cinque kg sono quelle proprie pioniere che hanno detto che queste sono esclusive cinque giga che poi come dicevamo prima anche alte frequenze puoi usarle per cinque kg però quelle doppie o pionieri erano settecento megahertz tra i sette gigahertz e ventisei gigahertz e queste erano le trecce hanno che hanno preso
+appunto le settecento erano occupate dal digitale terrestre vengono spostati i canali a luglio venti due fossero finite di spostarli
+quindi quello ho liberati e annessi cinque kg le tre sette non ricordo se c'era qualcosa da società sette o etano e numero di holden sette sei tappe strategiche se c'era qualche altro servizio fossero ruota e sai che fosse neanche mancanze seo
+e le ventiquattro ventisei ventotto kg ha il ventisette e ventotto con quelle che usava euro ventisei gigahertz anche quale secondo me era il libro fosse già qualcosa di satellitare
+forse c'era qualcosa su ponte radio a può tirare anche se stesse quindi però comunque che link
+tanto su queste frequenze alessandro sinatra e anche qui una ma chi sgama interessante così giusto per curiosità che l'eloquenza di sicilia sanno un particolare postilla all'interno delle dei diritti d'uso che sono adibiti ad uso esclusivo ma se questo tema che è definito club house club house scusa di club
+house che è essenzialmente il fatto che se un operatore a queste frequenze ma determinata area ma non le usa se arriva un altro operatore che comincia a utilizzare le proprie nel mentre che l'altro non le usa può usare anche le sue cioè per incentivare diciamo gli operatori sia da rivalta privi sia eventualmente ad arrivare per non lasciare tutto lo sp
+ettaro agli altri quindi dice questa curiosità solo su queste frequenze ventisei david siegel s e ad ogni immagino che la utilizza non vengono usati in modi native per avere un'idea per avere una copertura
+buona
+a queste frequenze quanto vicine devono essere le antenne fa di loro anche quale densità di antenne necessaria a livello di ue immagino che dipende anche dal numero di utenti no perché è quello che fa però li lasciamo che comincia a diventare qua non dico irrilevante perché non lo è mai irrilevante però su ventisei giga si sonora che saturi a livello di utenti
+no bruno ne passa
+però li saluterò disegnare abbia tanto cambiò tanto il all'ambiente dove dove sta facendo copertura se sei in metropolitana in aree rurale cambio scusa sposare giusto progettuale
+per capire un paio di aspetti prima di tutto a livello di penetrazione attraverso le mura degli edifici più sono basse le frequenze più penetrano giusto è quindi uno dei problemi cinque kg delle alte frequenze e che magari non prendi fuori ma vai dentro l'edificio non prende bene e quindi hai bisogno di qualche antenna
+amplificatore che tira imponenti amplifica il segnale esistente o non nervosi e in alcuni ambiti puoi avere bisogno di una copertura dedicata per l'indoor
+il ristrutturato le tre frequenze no alessandro quindi frequenze basse le settecento tal punto sette ventisei che comunque anche la sette ma vi senta abbastanza comunque dell'indoor ti prende però diciamo che la si percepisce ecco che se ambiente indoor nove uno dieci art sette pene un po' ma perde un po' di performance
+direi siciliana settecento che passa dentro abbastanza tranquilla e fammelo dire così e quindi la domanda successiva e quelle frequenze altissime tra virgolette forse ancora poco usate
+cosa di soldi magari usate con delle antenne interne in un deficit non una fiera e mettono le antenne direttamente e dentro gli edifici per poter avere copertura di tante persone contemporaneamente quindi tanta alta frequenza così radicale di bandwidth maggio
+muore però si è proprio perchè sei dentro un edificio l'unico modo per poterlo fare magari adora direttamente l'antenna in nell'edificio ed è già previsto e contemplato oh sto sparando ormai già fatto non ti son cercare frequenza cioè non non so dire se uso il ventisei ma viene già fatto con
+appunto come come copertura indoor che quindi è già normale che in edifici dove ci sono tante persone ci sono delle antenne e dentro l'edificio praticamente
+una normale deve deve richiederlo
+infatti fanno una copertura dedicata se come cliente business e di una una copertura dedicata
+sì diciamo che questa è la tecnologia che viene definita delle small cell quindi sono queste piccole antenne che vengono inserite appunto all'interno degli edifici soprattutto in nova educa punto puoi fare collettività volendo anche mobile il peso con standard quattro cinque kg in due senza tre
+wildfire utilizzi le frequenze appunto delle delle reti mobili e quello che però ci tengo a sottolineare che gli effetti quello che tu dici alessandro
+ha senso perché era proprio uno dei casi d'uso che avranno presentato richiamano si parlava di cinque kg prima che arrivasse ceta eccita quando si parlava di queste frequenza ventisei gigahertz la riflessione è stata poi quella che di fatto tucker a livello generico ovviamente non parlo di specifici operatori proprio livello di quando si parlava ancora possibile boschese ci fece età si diceva che
+le frequenze sono alte quindi si propagano non troppo lontane quindi l'idea e usarle per fare degli hotspot di fatto il giro per le città quindi oltre che nelle sale congressi ecc età anche frasi più una piazza può avere senso non c'è piazza san marco erano da mettere delle antenne a ventisei gigahertz che almeno scaricano un po' il traffico la capacità del resto
+delle frequenze no tanto sei sicuro che tendenzialmente coprono la piazza ma che poi tra tutti gli edifici che ci sollecita a pezzi un po' di rimbalzi e cose però ventisei gen decade abbastanza in fretta ecco non a caso appunto queste frequenze almeno quanto mi risulta però se se bruno onda qualche notizia mi dà una notizia però a quanto mi risulta
+e ad oggi queste frequenze non sono causate proprio strettamente per le reti mobili ma vengono utilizzate per l effettua no quindi per la collettività sindaco standard mobile o rete fissa
+rete morti su rete mobile invece le stiamo ancora aspettando me io sto ancora aspettando ma appunto ripeto se c'è qualche notizia la prendo volentieri diverse abilità velo che è stato fatto per esempio negli stati uniti in cui hanno iniziato fin da subito utilizzare per esempio verizon nel duemiladiciotto addirittura aveva lanciato la rete mobile prima rete mobile cinque kg fosse anche al mondo ma questo numero di codice insicuro
+utilizzando proprio le frequenze a onde millimetriche ventotto kiev nel loro caso infatti già nel duemiladiciotto sul singolo cellulare riuscivo ad andare commercialmente a un gigabit al secondo c'è proprio così perché poi con quelle quelle frequenze like raggiungere o superi anche gigabyte che può arrivare tranquillamente a due gigabit al secondo su e-commerce
+ale ovviamente sempre senza che sia troppo sovraccaricata ma questo credo che sia un concetto che abbiamo thai stata abbastanza c
+ebook non ci sono antenne anni
+trenta valida
+sì no non mi sembra che ci siano ancora anna martin
+aspetteremo aspetteremo stefano vedrai quando sembra aver bisogno di più banda
+a questo proposito chiede anche arturo che confusa e connessioni starling presenta tre secoli microwave cinque kg allora sono lì nei dintorni le frequenze precise non le ricordo però son sicuro che sono lì nei dintorni più che altro perchè c'era stato una una notizia che aveva diciamo fatto abbastanza scala
+pore che era uscita forse un paio di mesi fa spazio ampio nel quale fu di lomas aveva accusato team di non permettergli di sviluppare la sua rete d'italia proprio perché c'è un tema di interferenze nel senso che i maschi voleva installare delle stazioni a terra per il suo servizio di starling quindi con le stazioni che raccolgono atto il segnale dal satellite lo mandano poi
+davide intanto un pò come tetti con la centrale città eccita e quindi ecco voleva installarne alcuni di questi nuovi sul nostro territorio e però non poteva farlo perché doveva prima fare una verifica di interferenza con i ponti radio di jimmy e timmy si era rifiutata in prima battuta di fornire queste informazioni perché di ciò che comunque erano commercialmente rilevò
+avanti quindi non era temuta darle perché se no punto
+la stessa la stessa starling avrebbe saputo dov'erano diciamo i vari punti dati accettabili pala finale c'è stata vita video di mezzo raccolti guidati alla fila cosa sia risolta però ecco temi di interferenza in effetti ci sono ecco che vanno che vanno considerati da da queste due tecnologie perché ancora una volta si torna sempre lì e comunque
+le frequenze sono quelle ecco qui disastrate non sta a guardare e addirittura ci sono frequenze che sono condivise tra più servizi e quindi e quindi scusa a starling che frequenze usa per allora tu hai parlato però delle frequenze delle stazioni a terra che è un po' diverso le frequenze
+del lander con il parabolico che ci metti tua in casa tua per starling giusto
+esistono sono diverse ma neanche così tanto diverse per pregresse hotel e te le recupero perché non me lo ricordo così su due piedi rock'n'roll nel dintorni ma allora è un po così come descritto da qualche parte perché un video la velocità
+no no sulle performance
+gusta le stalle un po' questo fosse lui
+eccolo qui allora
+banda cappa quindi siamo da tempo larga posa con l'indicazione più precisa però iniziamo con questa che è una banda cappa quindi dai dodici quaranta gigahertz po' larga e come come cosa però siamo lì comunque tra i dodici e i quaranta
+almeno in una prima fase che poi aperta la seconda fase
+saranno invece i nuovi satelliti che lanciai in fase due sono i banda e quindi vanno su fino a quaranta ai settantacinque gigahertz in quell'intorno lì
+susan storm domanda devi alte frequenze molto più alte di quelle attualmente usato dai cinque kg e satelliti in orbita bassa ma comunque lontani i più lontani normalmente di quella che è una antenna e potenza di trasmissione walter metro
+piazze in guerra contro starling
+home eh bè li il tema che in realtà è un segnale molto molto direttivo no quindi è tutta la potenza che trasmette posto di trasmetterla come mai non viene fatto proprio sempre così anche sulla rete mobile trattate inizialmente sulla rete mobile lo trasmette in più direzioni in quel caso fai proprio un segnale molto direttivo che
+punta esattamente verso i satelliti modale che tu tutta la potenza la cia immagini concentrata la potenza in un piccolo fascio o che va verso il satellite è cosi facendo il segnale ha una potenza tale che riesce a raggiungere il satellite poi ovviamente devi tener presente che anche l'hardware che arcadi
+esposizione sia l'antenna per trasmettere che il satellite sopra ovviamente molto più evoluto di un'alga che ha discussione presi per il nostro cellulare no quindi è in grado anche di captare un segnale utile anche quando il segnale di potenza la potenza del segnale non è poi così volte joe iper nel periodo scusa un'altra domanda a stento veramente mi sento
+è l'antenna trasmette e riceve trasmette riceve e il satellite manda
+onde elettromagnetiche e non è che li manda la singola antenna immagino no o le direzioni per ogni antenna con cui parla come come fonzarelli it le direzione nel senso che c'è la fortuna di avere questa tecnologia che si chiama
+beamforming che essenzialmente permette di creare dei fasci poi avete scoperto bruno intravide pure che sicuramente devi anche tu vero tre stagioni ci siamo vi informi che ti permette di creare questi fasci di potenza quindi posto che fa sì che l'antenna trasmette in tutte le direzioni poi dieci poi favorire una direzione quindi e quindi l'ide
+ah è che uno sotto usi al di fuori di quello sopra shelby forniti due fasci si vengono incontro fammela dire così ma seguiti entrambi fanno il possibile per allinearsi alla stessa direzione si vengono incontro e quindi riescono a
+a favorire questa comunicazione molto a grandi distanze ecco fammelo dire così che dall'altra la stessa tecnologia che permette anche all'antenna di starling di rimanere connessa ai satelliti perché i satelliti starlink sono bassi no quindi in realtà la nostra antenna cieli li vede passare sopra che è sempre ferma come i satelliti geostazionari
+trentasei mila chilometri di distanza quindi anche lì l'antenna di che abbiamo in casa sapevano chi a starling a casa e in grado di creare in quel caso due fasi che ha reso semplificandolo un pò però per far capire il concetto e le due fasci vanno così pronunce ha la certezza di quantità di prede
+c'è però uno aggancia i satelliti da cui prende il segnale e l'altro aggancia quello che sta arrivando perché se no cioè se fosse solo uno che fa avanti e indietro per intenderci ovviamente perderesti la connessione per qualche secondo mentre in quel caso l'antenna e galdi care due fasci che seguono i satelliti che gli passano man mano sopra la testa quindi c'è proprio una tecnologia di
+da quella a quella a quella tecnologia per l'appunto di dillon maschio comunque in generale dei satelliti in orbita leo che è veramente molto molto interessante infatti esclusa ne fa il warning visto che ne hai parlato scusami viene utilizzato anche su cinque kg
+e non tutte le antenne solo su alcune antenne ma è una tecnologia che permette all'antenna di di avere un logo personalizzato per singolo utente il che vuol dire che
+fatto sta che un'antenna è in grado di coprire un certo numero di utenze con questo tipo di utenti con questa tecnologia sarà in grado di individuare l'utente dov'è e di seguirlo nello spostamento andando ad ottimizzare per ogni
+utenza la potenza e riesce proprio fisicamente a seguirlo andando a indirizzare il lobo e a seguirlo se
+s m delle cose che ha spaventato molti complottisti no il beamforming che ti segue raggi ad alta potenza che di chic che ne inviai ecc in teoria e invece non è ad alta potenza perché ti permette di avere il diciamo il segnale in un
+in un ambito molto ridotto quindi vai a diminuire l'irradiazione che con le vecchie tecnologie riescono a notare che lo usi
+se vorranno mettere irradia te sì ma con la potenza necessaria e sufficiente esatta
+quindi in teoria il buon fabio dov'è adesso una cosa positiva ma il complottista la vede come edipo di seguito le immagini così come diversa dall'ultima cosa precisi si mette in posa ma dico ma pedal d'opera l'ultima shampoo wind blowing che adesso invece stanno addirittura anche facendo e il fatto che dal satellite di sky
+starlink arrivi direttamente a comunicare sul cellulare proprio in maniera diretta il cellulare si collega ma proprio anche col traffico dati questo questo sta lavorando in un maschio doveva arrivare l'anno prossimo in teoria questa tecnologia in malawi o quattro vie abituale
+stiamo parlando di coscienza di tipo quattro cinque legalità secondo collegando team satellite ma con un cellulare specifico cominciano lo standard quattro kg se si sei quattro kg
+sapevo sentito sta cosa no dell'internet satellitare con stalin che però appunto pensavo che fosse necessaria una parete un apparato dedicato insomma in altre patologie perché hanno installato un chip in orbite appunto bruno conosceva molto bene quindi proprio la parte che di fatto puoi creala di dieci cm
+spesso parlato l'hanno installata di fatto sui satelliti che stanno lanciando quindi è come se hanno lanciato una ps quattro kg nello spazio e da lì poi trasmetteva tutti tutti ovviamente di licenze e di utilizzi elevati al momento se ne parla solo negli stati uniti perché sono le stesse usate per le comunicazioni mobili però
+appunto comunque a livello tecnologico ci stiamo arrivando anche a quello
+molto interessante allora c'è una domanda alessandro però non capisco perché qua mi sfugge non fosse se ci fosse poesia
+se ci fosse la possibilità a me quindi questa premessa doveva si potrebbe creare una connessione di rete in fibra ottica in una nave o aereo
+e fibra ottica e gulen capo di haifa
+non so se intende cosa intende esattamente wc è una fantasia ad es paese ma ci fosse avesse voglia e fantasie perverse alessandro una officina per attaccata all'aereo patisce anche
+tipo aquilone tipo aquilone
+agitare per le navi c'è già sì sì satellitare anche per gli aerei di fatto
+quindi ron gli aerei penso che non possa essere utilizzato dall'utente sulla nave si aleutine ah si se fosse perché suonare si materana dell'utente o del apparenti della nave
+entrambi l'utente può acquistare una certa capacità sul sulle navi verso non so se su tutte le navi ci sono però alcune navi attrezzate che ti offrono il servizio satellitare compri una certa capacità
+e poi
+puoi connetterti fino a esaurimento della capacità
+hogan è
+bim e di i satelliti di elon ha numero massimo di utenti che possono supportare a questo punto per singolo satellite sono ben fornite essi essi anche per te xd comunque un'altezza altezza banalmente no quindi sono più bassi quindi rispetto ai satelliti geostazionari che ti coprono idealmente e anche con
+clienti diciamo che quasi illuminare più piccola anche qui avevo fatto aspetto dei conti deve però crimine devo recuperare però ho fatto dei conti su quanti riescono a me non si riesca a recuperare altra
+avevo preso degli umidi psicologo allora ogni satellite starling copre circa venticinque chilometri di diametro come area geografica più o meno lontane
+e invece a livello di
+teen ti chieda una linea eccolo di guida di stalin credono che il satellite possa servire fino a duemila client due due froyo un po' i numeri di dei satelliti di start up the center
+se halloween
+arturo i cavi in fibra ottica vengono usati in ambito abilità e per i droni e i missili atm antità guided missile per evitare kunming
+sì beh oddio però la comunicazione fra terra e drone e comunque radio può essere
+utensili di bo non so esattamente cosa intendi per ryan
+e a ovest il kunming si ci sta anche che in abito militare si cerca di evitarlo però se tu devi guidare un drone un satellite o un missile e quello è in aria non è che ci capisca
+era per collegarsi alla mano di alessandro va veloce e
+non va bene e allora intanto ridendo e scherzando due ore e mezzo che parliamo quindi come vedete pensavo cieca nei limiti non ci poniamo è
+possiamo finire quando volete e per cui magari se qualcuno vuole far domande ancora ben venga dalla chat avete qualche argomento magari voi che mi interessa approfondire e sviscerare a su cui volete aggiungere qualcosa stefano bruno
+fammi pensare
+un po' di cose le abbiamo create ma che vince una
+forse una cosa veloce sempre sulla capacità nella rete l'accesso
+dove
+abbiamo detto che ci sono dei colli di bottiglia diciamo così dovuti al
+al fatto che una rete di accesso può essere composto da diversi nodi che ogni nodo aggrega al traffico è anche vero che il le tecnologie adesso utilizzano molto l'aggregazione statistica
+che è un altro fattore per cui
+vendor viene venduta una capacità come massima e poi viene dichiarata in piccolo una capacità minima garantita perché tutti questi concetti dicono
+che il il nodulo stazione radio base diciamo così è in grado di garantire una certa capacità questa capacità però dev'essere distribuita tra tutti gli utenti che sono sotto quel nodo tutti gli utenti che sono sotto quel nodo possono teoricamente utilizzare un servizio che può richiedere una capacità diversa
+fa' una persona può telefonare una persona può usare whatsapp che un post di capacità una persona può
+guardare un uno streaming live oppure youtube quindi tutti i servizi ha capacità diverse questi servizi
+vanno a utilizzare alla capacità totale del sito nel momento in cui il sito ha raggiunto la capacità massima totale arriva un altro utente deve dare servizio anche quell'utente quindi quello che fa è andare ad abbassare le performance in tutti gli altri per garantire sempre un livello sufficiente per garantire
+il servizio anche al nuovo utente queste cose continuano a scavare fino a garantire un servizio minimo che è la capacità che viene dichiarata chiaramente si basa molto tutto questo sul fatto che è molto difficile che tutti gli utenti facciano nello stesso momento un servizio ad alta capacità di dati proprio perché una persona
+usare whatsapp se abbiamo cinque persone non tutte fanno streaming live contemporaneamente usano servizi diversi e tutto questo poi va a moltiplicarsi nel momento in cui questo sito è connesso a un altro sito deve trasportare la capacità di entrambi perché il chiaramente il concetto è valido
+su ogni sito di aggregazione porta alla capacità di tutti questi utenti quindi alla fine il collo di bottiglia se ce ne sono diversi uno e del numero di utenti sotto un sito poi e della capacità della rete di trasporto della parte di accesso che deve aggregare tutti i siti che convergono su
+la rete di trasporto quindi è proprio un concetto di modulazione di multiplazione statistica basata sul fatto che non tutti gli utenti chiedono il servizio nello stesso momento e lo steps tipo di servizio nello stesso momento chiaro che poi ci sono dei momenti statistici in cui è
+un certo tipo di servizio più richiesto che può essere l'uscita quando esce all'uscita cinque e mezzo uscita dal lavoro le persone vanno in metropolitana ci sarà un picco di persone che aprono cellulare iniziano a leggere il giornale a guardare youtube a fare un determinato tipologia di servizio però
+questi qua sono dei parametri per i quali vengono
+vengono
+gestite le capacità dei siti
+istat a capire un sito dove c'è inteso come antenna con sotto gli apparati che seguono e poi la sua collegamento in fibra con un alto quel con l'evento in fibra normalmente
+capacità hostess
+connesse in fibra arrivi direttamente in centrale non hai
+dove dove c'è antenne mobile brano di jesi
+e quindi hai l'accesso in fibra direttamente in centrale dad dal punto in cui era in genere se sei nel momento in cui hai un collegamento in fibra sul sito questo qua
+generalmente a meno di casi eccezionali maggiormente connesse direttamente centrale e con quali
+bandwidth
+sinceramente non lo so dire nel senso domanda successero però è una capacità che copre ampiamente la
+questa parte non è il collo di bottiglia a ocre la necessità del del sito e la proporzione di aereo anche a massima capacità è più bassa della fibra quindi a livello di costi a questo punto rimane successiva poi pioverà finisco lì a livello di
+topologia di rete dall'accesso alla distribuzione alle dorsali i colli di bottiglia dove ce li abbiamo in italia
+c'è magari troppe di nome va da sé che poi dipende da caso a caso da situazione area e così via ma dire le dorsali come sono messe sono un colle bottiglia non lo sono lo possono essere solo magari un colle bottiglia le fibre che vengono distribuite e spezzettati spezzettate specie
+gettate e come diceva stefano ho le antenne che vengono usate tanti diversi utenti contemporaneamente è più facile che siamo con le bottiglia in periferia diciamo o aereo di becky bond secondo me è una cosa che possiamo dire che è una domanda veramente molto complicato a cui dare una risposta univoca però ragionandoci su aven da dire che
+che
+almeno per la rete fissa
+in accesso non non non c'è un problema secondo minaccia se inteso facciamo così ultimo miglio secondo me non c'è problema di saturazione penso che no bruno possiamo dirlo con abbastanza cioè il fatto è lungi capite diciamo per secondo che devo meglio i due cinque gigabit al secondo i dieci gigabit al secondo dell'albero gpl
+mi vien da dire che non abbia problemi di saturazione per gli utenti
+però senza stezzano noi anche perché anche perché in questo caso vengono utilizzati gli stessi la stessa metodologia di multiplazione statistica
+fatto e quindi io dico ai giovani a una reazionaria strutturata per fare in modo che riesca a servire contemporaneamente il servizio richiesto a tutti gli utenti in maniera scalabile quindi se c'è un accesso molto molto ampio la la rete scala incapacità la bassa in questo senso però riesce comunque
+dal servizio esatto che poi si chiamò venezia eccessiva cioè quello si però ad oggi mi vien da dire quello che ti devo dire io e ad oggi non è che un utente in fibra per dire si accorge che in realtà non naviga più vecchia e fida capacità e con questo intendo dire noci a livello proprio di ultimo accesso c'è quello mi che su
+li possiamo escludere il fatto che sia un problema di
+quello che volevo dire è non c'era necessità ad oggi di dire abbiamo proprie necessità di passare alla dieci years pone perché con la iphone che ha sulla due cinque non ci stiamo ecco questo volevo dire però forse invece nella hall te dieta da quanto ho potuto intercettare mi sembra che invece li un tema di haydn grida
+si stia cominciando a fare stesso passando da dos da reti di distribuzione dieci gigabit invece a cento gigabit perché comunque ormai il traffico aggregato ovunque comincia a circolare proprio perché aumentano le reti in fibra nel nell'ultimo miglio rispetto al passato quindi li ho l'impressione che una grade
+sia in atto perché appunto comunque aumenta il numero di di appunto di connessione in fibra poi ecco questo è quello che mi sento di dire per una risposta univoca di proprio dov'è il punto in cui ad oggi c'è un c'è un collo di bottiglia il paese da mangiare veramente molto infatti per rifletterci insieme assolutamente è anche vero che il traffico sta esplodendo
+anno su anno sta continuando ad aumentare quindi
+oh diciamo situazioni dove oggi siamo tranquillamente coperti può anche accadere che che domani sera abbiamo dei baciamo
+che il pollo per la rete l'accesso
+le capacità sono monitorate e quando si raggiunge una certa soglia si tende a fare una una rete tecnologicamente potendo certo
+sono aggiunge antennine
+qual è l'alternativa araba chiede alessandro verrà aperta verità il football invece sin qui e così sono i cluster c di allora chiesta ci dicono le cosiddette aree bianche quindi sono quelle aree un po' più periferiche dura anzi periferiche ancora non ve lo diciamo naturali
+quindi quelle aree dove banalmente è arrivato a open fiber con il bando pubblico il famoso piano bul dove quindi è appunto il bando concessione pubblica
+dove è stata realizzata la fila in quelle aree in cui c'è da dove deriva cast cd e aree bianca deriva dal fatto che gli operatori hanno dichiarato in una consultazione quindi sono stati interpellati tutti gli operatori del mercato che loro non avrebbero portato la prenoti entro il duemilaventisei li hanno detto noi non la portiamo non ci conviene garrix motivi
+esatto e è stato detto va bene allora ci vado io vado io con un progetto pubblico cosa normalissima e dinamica normalissima che avviene anche in altri paesi
+quindi ecco mi aspetto se non erro c'è la possibilità di apparire il profilo da alcuni in alcune centrali a dieci gigabit perché se non erro open fiber ha fatto la creda in alcune centrali al tgs phone che citavo prima che quella dieci gigabit al secondo però io mi aspetto che la vendibilità c'è
+non venga aperta nel breve ecco perché dice proprio un tema di vita capi eco visto che alessandra tanto chiede di qualche dato qui per esempio su classici e dice un dato che pesa su questo progetto pubblico che è il fatto che se noi prendiamo tutte le case che sono raggiungibili in fibra in queste aree rurali e quindi dove coi soldi pubblici abbiamo portato al disastro
+dura solo il quattro per cento di queste ha poi attivato la fibra quindi c'è questo dato che pesa tanto su diciamo l'efficacia di questo bando comunque necessario fare ma è chiaro che qualcosa è andy attestano andy stott punto di vista commerciale della vendibilità della tecnologia quindi prima di arrivare a pensare a dieci gigabit in queste aree e credo che
+si ha altro a cui a cui pensare
+e invece che realizzano domanda precedente aib immagino a questo punto sono i cluster più popolati e lì l'offerta è già aperta e dieci giga
+è già sul mercato allora non son sicuro se simmetrica però è sicuramente dieci giga c'è anche per i consumer per esempio tim la offre sono sicuro poi non so se qualcun altro però a dieci gigabit c'è
+i consumi immagino che per i business ci sia anche simmetrica poi non ricordo precisamente tutte le le disponibilità commerciali ma comunque tecnologicamente c'è e anche commercialmente sono sicuro che almeno un'offerta ecc
+quella sì che
+bene direi che abbiamo parlato abbastanza e io sono contento per voi ho imparato un sacco di cose nuove o che conoscevo molto marginalmente e spero sia stata utile anche per altri e se non ci sono ulteriori domande o affermazioni o cosa dire io chiuderei qua
+grazie mille allora grazie mille di dell'ospitalità grazie a voi adesso partirà la sigaretta poi noi sarete finiamo di salutarci alla prossima grazie a tutti

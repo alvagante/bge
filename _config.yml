@@ -18,7 +18,7 @@ collections:
   episodes:
     output: true
     permalink: /ep/:title/
-  geek:
+  geeks:
     output: true
     permalink: /geek/:title/
     

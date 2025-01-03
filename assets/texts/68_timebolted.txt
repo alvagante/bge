@@ -1,0 +1,847 @@
+e quindi siamo arrivati alla puntata sessantotto della brigata degli estinti e ci mettiamo a parlare di giava questo linguaggio che arriva dal passato remoto almeno dal punto di vista informatico che però è ancora vivo e vegeto
+e ne parliamo anche per capire un po lo stato attuale con me e come statua magari come sarà con veterani del settore che di giava hanno masticato codice per una vita come luciano olandesi marco foco e luca botti che invito subito a presentarsi vai luciano
+ciao lavoro cominciava dalla versione uno zero credo
+negli anni novanta
+mantova cosa del genere solo se prima
+l'ecosistema giava quindi goslin scala crudi
+e anche altre cose però
+sono stato borgo professional services
+cosa del genere dirlo sempre meno rimaste negli ultimi trent'anni in questo giro questo
+ecco quindi veterano non a caso il vedremo di brutto te
+marco
+sì tutti ne conoscono persone più adesso qua scusa ma io ho fatto anche java ho fatto l'ho fatto
+iniziata dalla uno zero beta tre perché un'azienda mi ha pagato per impararlo ma detto ti paghiamo perché vogliamo entrare in questo mercato e ho iniziato a fare giava in realtà io l'ho abbandonato molto dormo poco dopo jenny fine anni novanta gli ho smesso di fare giava tranne un paio di cose in mezzo per consulenza
+però appunto
+all'epoca ho anche fondato un'associazione per giava che poi è continuata per i fatti suoi ed è adesso è stata chiesa credo chiusa paio d'anni fa
+era la abita nella società prosegue già vista istinto diciamo così io sono già vista estinto d'adda e male però sono interessato a sapere cosa sta succedendo nel mondo già esatto e credo che l'interesse di mio e di tuo e di forse quelli che ci seguono luca
+ma io non ho forse la uno zero non l'ho vista tanto bene la uno punto uno si la uno trentadue e tutte le successive assolutamente sì sono trenta anni quasi che java è uscito nel novantacinque novantasei non vorrei
+ma
+ho vissuto anche tutte le follie java enterprise gli chiavi in xhtml come linguaggio universale cioè tutte queste tutte le mode che nel mondo enterprise sono sono nate e cresciute con questo linguaggio che oggettivamente è universale
+vivo forse anche troppo molto cambiato rispetto a quello che realmente ha conosciuto marco è visto che l'ha abbandonata nel novantotto
+a te che oggi a volte si fa fatica a riconoscere questo lo anticipo va bene allora faccio subito una domanda che è a quello che hai detto facciamo una breve cronistoria delle versioni di giava dei culi re di quello che è successo appunto le parlavi anche
+le varie mode e manie c'è anche il buon livio che saluto che accenna anche save the gay quindi la service a marina di ragusa ce lo facciamo un breve excursus da persone che non so la prima cosa è stata la zero punto qualcosa ad adesso versioni ma cosa è successo in verso
+zioni velocemente tecnologie cose che chi vuole lanciare un osso provarci io ah no weimar ma non posso fare la zero uno zero uno uno
+massimale di lavoro uno zero
+c'è la uno zero era un linguaggio molto semplice infatti la prima cosa che ho visto confrontando la chance più che stavo comunque imparando in quel periodo è stato il suo dimenticare cat template gli ho detto ma in realtà erano i generics a cui mi riferivo
+perché era un casino a fare qualunque cosa cioè ogni volta che i vettori erano tutto un cast erano tutti i vettori di oggetti dovevi ogni volta a prendere il tuo tipo particolare era troppo complicato da usare all'inizio cioè questa la uno zero un linguaggio molto molto basic molto
+puntato sul il taiping dinamico più che insulta i primi statico che invece poi è arrivato se non sbaglio generics ci è voluto un pochettino sono arrivati a uno cinque e giusta se la mitica cinque anni ho seguito lo sviluppo di java in realtà però km
+scarpe hogan a uno zero che prosegue con le successive
+anche se sono cinque generis che in effetti sono stati hanno cambiato parecchio il linguaggio insomma poi assunzioni sbaglio dal cinque hanno introdotto anche un looping po' migliore con paulie mi pare
+pokémon più tardi ma più tardi
+e poi si appunto poi avere sei sette non mi ricordo cosa cosa c'era poi otto con cambiato tutto praticamente perché il linguaggio si è mosso più verso uno dei costrutti funzionali con le espressioni lambda di streaming
+optional
+per per evitare million dollar baby bunny connally
+e quindi l'otto dicembre smesso da un po' lo spartiacque no gay
+usatela tra la vecchia la vecchia e ha rinunciato duemila boh
+quattordici forza
+vedere
+già otto wikipedia wikipedia
+se vuoi io mi son perso dopo la otto hanno seguito come verona da una meringa coerente nel duemilaquattordici di impostazioni per non no ma non ammainando in amper incoerente giava la uno due la chiamavano giava due
+esatto già questa era
+posso posso approfondire un po' di cose che sono importanti per avere il seguito
+allora la luna era una ciofeca a uno punto uno cominciava a essere un linguaggio interessante la uno due migliorare le prestazione già si parlava di just in time con pile e che i tempi si provavano a fare le applicazioni grafiche con java swing e compagnia cantante la uno due portò alle slot ma soprattutto
+uno contro uno se non ricordo male per thor
+i remote metodi in vocational da cui poi son nate tutte le susseguenti mostruosità mostruosità enterprise java bin che se avete mai sentito parlare del progetto san francisco di ibm era un'antesignana dell'interprete java bin penso l'abbiamo conosciuta in quattro al mondo perché
+era una roba terribile
+vai alla valle a cercare non credo si trovano nemmeno informazioni in giro perché tende una mano ad sla
+una cosa che aveva detta diciamo magari un po' sotto traccia
+e la virtual machine e soprattutto il garbage collector
+mi hai voluta da tantissimo adesso praticamente quasi io a un certo punto meno specializzato in garbage collection che segue ormai button serve più famosi altrui cioè puramente molto poco da fare a meno che non ci ai propri problemi quasi sempre legata a un baco pro
+su quel luca chiediglielo quelle excursus mi piaceva molto molto pulito per me allora produzioni uno due o uno tre prestazioni migliorate sotto tutti i punti di vista già si sta in compagnia e migliorato forse anche qualche camion
+l'implementazione degli alberi collector uno quattro si va avanti con i miglioramenti la cinque introduce i generics che sono stati fondamentali la sei sono ulteriori miglioramenti prestazionali la sette passa un po' sottotraccia anche perché messi mi sembra ci sia stata un po' di tempo tra la sei e la sette la otto
+c'è voluto ulteriore tempo e arriviamo al duemilaquattordici che porta
+sono i miglioramenti non solo l'orientamento funzionale ma anche la concorrenza che se che viene portata dalla otto e quindi tutto quello che poi porta project reactor trading avanzato non più non più utilizzato con i trend già java pesa
+ma con un modello simile a javascript poi walsingham thread thread
+e poi dalla otto in poi è difficile perché la nove è arrivata molto dopo ma poi si passa a una cadenza semestrale quindi ogni sei mesi nuova versione con la otto che era diventata di fatto un long term support per poi passare
+non voglio dire una sciocchezza perché qui mi perdo un po' ma la successiva ed è storia recente la diciassette la ventuno sarà più o meno un anno un tema supporta lo stesso ogni due anni pattern è quello ad oggi siamo al ventitré quindi
+siamo arrivati dal millenovecentonovantacinque al duemilaquattordici alla versione otto e dal duemilaquattordici al duemilaventi quattro alla versione ventuno rilasciata forze ventidue prossima naxos
+ventitré difficile seguire verso le ventitré sei reti tra sé
+quindi scusate tutte queste nuove
+versioni che vengon fuori appunto con cadenza semestrale neanche guardare se ci sono ufficio particolari nuove oppure no o breaking changes qualcuno forse la cosa più importante è stata rilasciata negli ultimi anni sono tirchio altrimenti no perché primeggiava era sempre al gateway è tre ed erano legati alla del sistema operativo
+potevi far partenza quei trend seguici
+unità virtuali sul modello di go
+diciamo che in teoria puoi puoi lanciare molti più treni in parallelo infatti viene usato in varie occasioni in primavera
+non ho mai portato la macchina a esplodere contro il proprio è una pia è molto semplice praticamente identica a da pulci di trentuno mai boutique
+è la domanda questi tre virtuali sono cooperative io sono
+sono cooper suono cooperare alla it
+vuole certo punto pudore di metterla che cos'è in realtà la devi mettere un comando di switch fare un altro thread ho oppure di rimettere in kuwait di qualcosa se mai proporre puntano in modo che diciamo poi non bloccano il sistema operativo bella è che java uno
+aveva questo da alcune implementazioni erano moro trad e tu dovevi esplicitamente cedere il passo al tre zucche sermone tre tre successi jenna erano molti thread ma non proibiti quindi se tu dovevi avere un'istruzione che dovevi mettere ogni tot soprattutto nei lupi per
+per cedere il passo a un altro thread in realtà
+abbiamo fatto un giro e sono tornate indietro
+perché dava uno zero c'era la stessa cosa se c'era una cosa molto simile magari non era esattamente la stessa
+c'è poi un'altra cosa per me che che ha portato cioè che è diventato veramente molto interessante ultimamente soprattutto è il progetto graal per cui puoi compilare giava nativamente questo soprattutto in ambienti cloud lambda una bomba claudio cetera molto interessante perché diciamo bassi abbà
+batti la quantità di memoria dell'interessato l'acme di boot settanta per cento dipende dall'applicazione che mettono funziona su tutto non è che puoi applicare qualunque libreria però alfa al netto di tempo di compilazione molto lungo e abbastanza impressionante progetto
+ma a proposito di quello che scriveva christian che le release semestrali da un'impressione che l'ecosistema sia dinamico e forse lo è e lo è c'è l'epoca sistema ama e poi in fermento si sta affermando a parte appunto il underlying aggressivo diciamo
+così
+miniera a dire che lo sia sempre stato e perché
+lo streaming come lo chiamo io
+come si chiamano i paradigmi paradigmi funzionali che sono stati aggiunti cioè giava
+al di là della
+quando scherzo dicendo che a tutte le bestialità della enterprise che si sono succedute tra la fine degli anni duemila negli anni novanta e poi tutti i primi medie fino al duemiladieci di fatto da cui poi è emersa di palma
+un modello che è quello dei di spring o arcus micron adesso che sono un po' competitor
+in questo spazio
+come framework rò
+giava
+cioè pensato poi generics che sono arrivati è vero
+dopo sei anni sette anni però sono arrivati e con un'implementazione che ha avuto subito
+un ottimo seguito shannon non qualcosa di aggiunto in modo strano o poco funzionale al linguaggio stata un'ottima implementazione dei generics aveva qualcosina che non fu sam simon nella premessa nelle
+primissime versioni che poi è stato corretto le lezioni successive
+se qui la dinamicità del linguaggio c'è sempre stata c'è stata una fase di stanca secondo me c'è stata vista chanel periodo sì tra la sei e la otto di ciò che è durato tanto anche perché ci si era dati molto sul mux quasi esclusivamente sul mondo enterprise
+non so se vi ricordate sarchiapone
+weblog l'application server no orari e luciano te non lo sai ma io ho lavorato con me a
+i dipendenti woolrich
+se hai lavorato testa e oracle quindi forse dopo l'acquisizione ma io già prima quindi che
+ci ho fatto ci ho fatto anche io la mia professione su su su questo mondo però insomma ci sarà un po' incastrati su quello lì xml c'è
+non so se vi ricordate ma apache stessa aveva tirato fuori
+un framework di front-end dove scrivevi xml giava lo trasformava e ti dava la la cosa e lei ti dava la user interface non mi ricordo nemmeno più come si chiamava scrivi una volta e poi lo potevi trasferire su tutti su tutti i device che abbiamo fatto queste cose
+cose e mi ci metta io perché
+queste cose qui sono nate sull'onda anche anche del successo di alan perché poi se stiamo a parlarne ora trent'anni dopo e ne parliamo come di un linguaggio nell'evoluzione laddove già va di fatto ha sostituito e non voglio dirlo offendendo nessuno però di fatto
+ha sostituito quello che prima era il cobret ha sostituito le piattaforme enterprise per natura perché da lì poi è stato portato ovviamente sui mainframe succose po' dappertutto adesso abbiano sostituito scusa scusa parlo troppo poi avrai pure no no
+volevo aggiungere una cosa se quello che stavi dicendo che ha sostituito il cobol
+per come l'ho vissuta io
+il chip più un esercito più più più o meno profonde non provocava a calcola covo la fortuna delle fortune di giaffa è stato capitare al momento giusto i suoi capitare alla fine degli anni novanta in cui tutti erano impazziti per il millennium bug e
+e ed è supportare le date ovviamente che non era una cosa
+semplice no e e ed e tante soprattutto banche all'epoca io ho lavorato l'ultimo progetto che ho fatto era per un'assicurazione quindi
+l'ambiente era quello
+stavano introducendo giava proprio nelle loro nel loro cambio generazionale
+di di tecnologia quindi secondo me la fortuna di giava alla
+l'esplosione verso il mondo enterprise soprattutto nell'ambito finanziario finanziari banche e assicurazioni è stato quello di essere un'alternativa cobol quando dovevano nel momento in cui dovevano risolvere il millenium bug poi ovviamente è stato mantenuto è stata portata
+avanti
+qui mi collego a quello che stavo dicendo prima marco poi mi chiedo perché veramente sennò parla troppo io una un'idea un po' diversa
+non è solo stato il momento è stato anche che
+il mercato e vendor si sono orientati verso una serie di che chiamavamo standard ma che di standard avevano ben poco ovviamente atteggiamente brise con tutto utilizzazione te giardini che prendiamo in giro ma che in realtà poi hanno creato quel mercato di application server con ssh
+faenza sulla application server expertise arduo e guardate hardware even hardware che veniva
+ma macchine samuele
+sai diecimila c'è
+tutto questo
+esatto un sacco di soldi ma non solo ti davano l'idea di poter controllare di poter gestire le applicazioni che deploriamo sulla
+per la tua repeat tua azienda è un po' il modello nike free cam ne frema da una parte e poi il codice da the up
+giò control language che fa eseguire quel codice quindi
+il deployment descritto è un concetto era un concetto nuovo per noi ma ai tempi era la stessa cosa tutto questo guardate che ora con kubernetes e compagnia cantante si sta replicando ed è stato replicato pari pari hai sostituito l'application server con l'orchestra coro dei container
+laddove il container alla fine per definizione dev'essere un processo singolo e prima era la tua web application o addirittura l' enterprise application per chi se le ricorda ma questo veramente divagando cioè il percorso più o meno è stato poi come ha scritto
+il pubblico non ho visto il nome scusate e sì bright lights ryanair driver no più o meno riuscirà fa era anche quello abbastanza rivoluzionaria sloan kettering romics però nella versione uno zero e decidiamo randy winstead vaga woolrich
+bugie vivere al sisi me lo ricordo bene anche quello e che susanna vedi una serie di problemi su winrar degli altri cioè era era un disastro all'inizio una cosa vorrei dire anche a livello di sviluppo del proprio sul tempi più recenti e che sono stati per me molto bravi a a incorporare
+costrutti presi da altri linguaggi che sono stati sviluppati conto della sola ogm quindi la prima congrui poi scala o kotlin e questi linguaggio adesso cominciano a gru praticamente quasi istinto scala non se la passa molto bene forse l'unico icotri perché diciamo endorsment da google per quanto riguarda lui
+però questi linguaggi che inizialmente erano molto per me a livello di di sviluppo di creazione di negozio era molto più interessante giovane lentamente sta incorporando tutte la multi queste funzionalità dentro linguaggio a cominciare appunto dai costrutti
+video funzionali
+hotmail il gruppo dietro diciamo che gestisce già sono stati sono stati molto bravi con sensore atom di ray attira a capire quale peter weyland trend se vuoi più interessati per lo sviluppo del linguaggio
+però devo dire che ci sono
+la stella stessa cosa che hanno avuto che ha avuto giava con le stesse feature ce l'hanno avuto anche altri linguaggi più o meno con gli stessi tempi cioè secondo me e linguaggio vanno un po' a mode
+e e quindi si scarpa ha avuto la stessa cosa non l'ha avuto con scala n hanno avuto un progetto interno che era effects harper da cui sono nati tutti l'equivalente degli stream
+di giava è la stessa cosa sul sul discorso invece devi
+le funzionalità
+la parte funzionale del linguaggio
+stessa cosa anche sul sushi scarpe stessa cosa sì place place
+c'è tutto dove si fa spazio ovviamente arriva con l'ultimo treno perché è un carrozzone pesante non so che mi parla addosso però è vero quindi adesso stiamo introducendo le le le parti si chiamano range in sei plus plaza ed è una libreria che
+è nata a metà adesso si stanno introducendo nuove feature nei sei plus plus ventisei ce ne saranno ancora
+lentamente arriverà un livello decente anche se place
+allora erano poi domani scusate se interrompo e partendo da quella di cosimo su graal vuemme che sembrano fantasy come jewel mahdi sembra che pochi la usino cos'è è un tipo che ti permette di compilare un progetto java
+nativo quindi crea un benadryl se il binario che puoi puoi far girare sulla piattaforma target chiaramente non usa non usa ryan
+il garbage collector quindi o utilizza molta meno memoria fondamentalmente
+è molto interessante per applicazioni che puoi far girare in ambiente gubernatis perché ha una memoria più basso
+e soprattutto se anche utilizzare ambiente lambda diciamo cloud lambda a un startup è molto più basso rispetto a una teoria che già comunque velocissimo ormai perché poi questa storia che già aver letto non è però più breve
+perché si dice che sto
+valori collegano codice o luca è vero che diciamo qui c'è stato quel periodo già un seggio uno otto con tutela della parte tre rischi è come dire un po' assegnato a posto climatizzato linguaggio come il linguaggio lento stuart qualunque forum tu apri
+soprattutto in ambiente startup chiedono quando abraham già pendente non si abusa non c'è questo stigma ormai sul linguaggio che non è fichissimo
+da londra al wembley è un progetto estate purtroppo che l'avete rete c'è un problema di fondo è che molto la cooperazione è molto lenta e chiara mettere un po' winston progetto molto complesso condominio librerie non può compilare colpevoli liberi e quindi devono essere progetti hip post nelli è però sei suoi baby
+mio fratello fa action in una startup abbastanza grande campo farmaceutico loro no hanno abbassato il memory footprint di queste superino del settanta per cento su una cosa del genere sono aiutavo po' quindi c'è e usato abbastanza o che diciamo non è non solo non conosco la l'utilizzo globo
+ehi gridò ciò che è complicato come tutte le cose no perché ad esempio
+dov'è laddove vai a compilare
+vociava aeree e le librerie che lo possono accompagnare vai a perdere un po' di cose tipo light special che viene usata tantissimo i progetti tipo di rame e compagnia cantando quindi cosa perdi cosa guadagni devi vedere anche qua pushkov mete
+devi valutare bene che ognuno fa a modo suo sicuramente il tuo fratello ha avuto un un ritorno é importate in termini di memory footprint ma
+qualcosa perdi per strada si dice a nomade controllavamo tal senso è chiaro se è un progetto standard spring con sessantacinque mia libreria
+sono uno potrà mai capire il motivo però
+se la forma e la direzione che è stata data
+amazon ha un suo linguaggio ma all'ecosistema col linguaggio e comunque questo giova cloud senza creare applicazioni molto più tipi di arcus che crea applicazioni più snelle tutto nasce con spring
+che diciamo ha strappato via tutta la parte enterprise cercando di prendere più magro tuttavia tutta la struttura di un progetto e questa cosa prima avevano continuata finché puoi adesso poi appunto gradi applicazioni native in gioia tu puoi dire se la tua applicazione voluto da the blue homeland è abbastanza impressionante volpe farlo
+esatto poi possiamo sogni quindi insomma l'uso anche in ambienti cloud native comune diffuso e
+c'è funziona bene non diceva luca giacomo dipende veramente cosa se hai dei progetti che li prendi come sono li vuoi far diventare nativi probabilmente non uccideva per un bel pò di tempo sopra se si parte con un progetto volendo già far diventare nativo è molto più facile c'è marcus con un free mouth mi ha aspettato un senso possesso diciamo filosofia di catena
+un'amica finché filosofia siti di streaming
+a che stringe a livello di divorzio del linguaggio ha portato negli ultimi quindici anni motorie giro spring comunque per me influenzato linguaggio linguaggio stesso in un mondo e un altro
+e per quanto molti la odiano sono groot i concetti di base dipendenze in action ce ne sono non sono validi
+giusto per avere un po' di incrementi i framework più comuni quali sono adesso
+spring quartu s per quanto riguarda applicazioni restereste pm diciamo se vuoi creare resti neanche se è
+lombok è un progetto per che serve per diminuire la quantità di boiler plate che utilizzi le che serve del linguaggio per fare più crea dei costruttori automaticamente oppure crea dei loghi era automaticamente tutto basato su annotazioni gente con delle annotazioni questo linguaggio spesso
+source completamente basato connotazione in effetti ma da un'atra oppure i famosi get in sé che quando tu crei una classe hotel the gadget nabla sennheiser tattili te li crea lui a compilazione ed è ormai un framework così
+che integrato praticamente in quasi tutti gli aerei
+se acceso duemila due adesso ad esempio c'è un mio amico che ha lavorato su lanciano lanciano forgiava che è praticamente un morto di lanciatore per george che è molto interessante ti permette di integrare sono ovviamente un progetto famoso però
+c'è molto parlavi di fermento c'è tanto ti permette di integrarti con tipo lanciando delle reti gli agenti che sia l'interno con pompare l'allarme sia locali che che remoto
+dopo non so quali sono i progetti più e ovviamente ai bennett stesso ma guarda poi mi devo
+pensate a
+spring stessa spring spring boot che si è voluta nel semplificare la configurazione fluido da lì e stringe integra che sono recentemente
+il progetto stringhe hai per integrare la luce langham models e compagnia cantante
+e prima che ce ne sono veramente tanti
+il fatto è che come come diceva bene luciano
+c'è chi usa java ma poi odia le annotazioni ognuno baciava lo usa a modo suo
+cioè che è un po se vogliamo anche un limite perché alla fine linguaggi più recenti rast golan
+no legacy che si portano dietro e quindi riescono a essere più più coerenti più costanti prendeva da vedere nel codice scritto quindici anni fa che ce n'è in giro ma se vado a vedere spring stesso che è cominciata e credo sia uscito nel duemilatré springer duemilaquattro
+il mio moroso di rod johnson si esatto e com'era il titolo del libro
+me lo ricordo nemmeno più
+se però ecco per dire si riusciva a fare
+trovi il codice che rispetto a chi comincia ad esso con ama non sa nemmeno perché è scritto in quel modo
+svezia io ancora oggi alcuni un po' di sintassi faccio fatica
+anche perché proviamo meno rispetto al primo sicuramente però eh
+a volte mi chiedo se abbiamo sacrificato anche un po' di leggibilità in tante occasioni e perché l'avrebbero di giava che non sei costretto a usare esempio piazza match connecting adesso che è diventato abbastanza interessante nelle ultime tre versioni che in effetti il codice diventa un po' strano però non è che lo deve usare usare sempre uno switch normalissimo addirittura
+if then else project
+però un altro oggetto che è importantissimo importanza per trattenerlo e elasticsearch che mette di fatto
+almeno io sappia su moon i principali sistemi di ricerca enterprise non cadere ottime librerie veramente interessante per quanto riguarda scalabilità e mettono in cluster fm
+e poi c'è icloud com è un progetto di redhat per per un provider youtube
+che fa autenticazione autorizzazione e gestione degli utenti bell bellissimo progetto
+molto museum
+subject è buffo poi i tanti sponsor
+glorioso nati da bere altra domanda stupida da profana perché appunto è
+la licenza cos'è successo esattamente come è cambiata recentemente e che effetti ha avuto per quello che avete visto voi su diffuso l'utilizzo sviluppo e quant'altro
+ma io ti direi non particolare no secondo me non ha avuto particolare effetto ha creato problemi a chi se si torna sull'enterprise a delle applicazioni legacy su
+sceso a giava otto e non ha la possibilità di fare gli incrementi di versione che sarebbero auspicabili anche solo per motivi di sicurezza packing e compagnia cantante e che quindi sono un po' obbliga ad acquistare poi
+supporto esteso da parte di oracle scusa luciano non voglio
+no no io loro ci ho lavorato
+solo oppure oppure invasivo oppure una cifra centouno van gogh furono no no ma in realtà ognuno
+era una battuta non credo abbia colpito più lì anche perché poi c'è stato e scusa però mi spieghi bene cosa è successo a livelli camere cos'è cambiato nelle licenze allora java è un linguaggio fondamentalmente open source da da un sacco di tempo c'è un incendio di haley a open hoodie che gira
+credo dalla versione cinque forse ancora prima sia già stato aperto lo sviluppo di diciamo in questo senso
+quindi sono diversi anni quello che è successo con il cambio della licenza e che se prima
+non stavi a
+cioè ora con la cominciato a mandare in giro negli stati uniti perché da noi un pochino più complicato e meno usuale ha cominciato a mandare in giro la gente a dire amatrice java oracle java installato sulla tua macchina in una versione mi devi pagare la licenza per il costo delle stelle
+il supporto esteso ma questo anche per chi ci aveva che ne so vi ricordate l'iconcina di java che quando installate la acidi che su windows no agli attacchi anni che non la vedo perché tanti anni che uso linux formazione di servizio però ecco anche aziende che magari avevano cinque mila desktop con gemma install
+lato e si fanno le moltiplicazioni sono sei milioni grazie e insomma questo è stato il vero effetto perché poi amazon ha tirato fuori la sua microsoft ha tirato fuori la sua isola già la faceva da tempo sto
+chi poteva
+sia organizzato di conseguenza senza grandi impatti chain difficile adesso installare una una oracle java una versione oracle java di solito installi una open gay
+va precisato che lo volevo dire negli anni di consulenza non mi ricordo ultimamente vi sono in generale ora contano sempre ormai tutti tutti utili nuovo ruolo pregiudicati e che è praticamente la stessa operazione è lo stesso woody base è lo stesso pervase e quindi joseph browser
+forse ci sarà qualche banca il workout che magari hanno questi gli accordi enterprise giganteschi un'ora con quelli che gli danno un sacco di soldi che ci vuole a quello di database chianocco ancora
+e magari ancora pagano una licenza però ormai
+credo ci sia stata una storia
+non tanto sulla
+sul linguaggio ma sul
+come lo chiama come lo chiamavano test incompatibile it che verificava che già fosse giava per intendersi che è una suite di test molto estesa che va a testare un po' tutto
+la parte funzionale del linguaggio quindi verifica che la tua cena virtual machine effettivamente faccia girare giava come devi girare insomma e c'è anche questa parte qui e su questo credo avessero ipotizzato di far pagare anche ai progetti open source
+il rank della
+il rank di questi test comunque l'uso di questo kit
+ma poi anche anche lì credo che chi ha fatto le corporation che poi son dietro open ticket e chiacchierino e che campano d'aria
+si son messe d'accordo per sistemare anche questa parte qui quindi o qualcuno paga ora collector è tornata indietro ora non so bene come non ho seguito la storia
+ok
+ma la mia domanda è
+lo so che non abbiamo una risposta però perché oracle a questo
+cioè sembra quasi che voglia affossare giava echeggiava sopravviva nonostante aragorn
+però corvo lo offre lui hanno all'onu metallizzazione lets che tu poi a un certo punto equivale a otto anni di supporto se paghi per cui se tu hai una mission critical application su cui la tua azienda duemila applicazioni java comunque sapere che le pagine gilliam ci sono ci sono stati ci saranno
+cui avere annuncia come il supporto per privare ipotetiche aereo avere la possibilità di pagare supporto per per un linguaggio perché notiamo che fotomodella offre anche aziende che lo producono in quel senso lì
+io devo dire che da quello che vedo insomma un non nemmeno gli ultimi anni non ha non mi sembra abbia fatto nulla per limitare linguaggio e forzarono no no no parlavo di queste di queste cose cioè di quello che adwords seo che secolo crollò v
+sì sembrava quasi francia e posso fare una battuta se volete
+però come tutte le corporation siamo cresciuti solo del otto per cento come facciamo ad arrivare al tredici ma dov'è che possiamo recuperare raschiare qualche qualche dollaro facciamo pagare i test compatibili it che magari qualcuno lo paga oppure andiamo
+far pagare
+l'estensione di supporto per caffè e strategie è abbastanza normali no come quando come se force che licenzia scusate se entrano in argomento ma quante persone ha licenziato annuncia solo annunciando che li sostituirà con costrutti di intelligenza artificiale
+il titolo è salito non o quattro per cento sei per cento nel giro di due tre giorni annuncio dei paio di giorni fa e tre giorni fa quindi sto male le corporation così ragionano e quindi anche chi fa da steward a un linguaggio come cominciava senza affossarlo ma ogni tanto lo scatto in avanti
+no ci provo vediamo cosa succede poi rimangono sempre meno a pagare probabilmente può in qualche modo però si può si può ipotizzare
+etnici grazie al test fa peccato ma si indovina
+scusate ma la governance del linguaggio cioè chi decide le nuove ufficio nuova versione così via e oracolo c'è una commissione
+eh si pigiava community process tra l'altro hanno fatto le stanno facendo le lezioni in questi giorni se vuoi entrare nel comitato basta che ti candidi a candidatevi voi io che manco so come si chiamano le ma è seconda domanda
+quando vengono verso le nuove di pigiama le idee che arrivano a seguire subito come presunzione sesso visto che sono poi puoi mettere toppe in giudicato paziente la stessa cosa perché stesso codice pari pari della facoltà di jake stesso paese allora ma stessa post-base ma lo sviluppo di fatto avviene sulla hope
+in the air anche per ora con un po' per tutti arriva
+forse esula mi sembra segua un percorso diverso ma la stessa ora col brand prende il codice di biopic di jake
+e da lì costruisce la suora con java virtual machine
+aggiungendo age ci sono delle velate hai che sono specifiche ma credo che non ci sono neanche più ormai e non credo che quelle non sono più nemmeno se non ci sono più neanche nelle gallerie commerciali hanno tolto già da un pezzo non che dice sono rimasta indietro chiedono ormai non si vede quanto le ho usate ecco cesare
+oggi il processo è abbastanza recentemente sappiamo ha proposto una funzionalità che brigadoi template plating gonzález street in playing potevi fare interpolazione e poi a un certo punto l'hanno testate hanno visto che non andava bene hanno deciso di toglierla dal momento dal giudice che la introdurranno del processo abbas
+ansa dinamico dove ci stanno dei dati in lead che si portano avanti la proposta la sviluppano che sono non mettere gente di redhat umano è chiaramente uno che gira così e
+va bene un riuscito proprio in questa cosa che era una domanda come far prima quanto
+t
+katie viene gente del giudice viene deprecato per essere cambiato con nuove funzionalità
+perché per esempio hai mi ricorda che ovunque io ci ho lavorato ancora un pochettino tra il duemiladodici e duemilaquindici
+avevo visto che all'epoca c'erano ancora le applet che ormai erano
+era passata credo che nel duemila fossero già vecchia e leaflet
+e però le leve per le applet c'erano ancora
+la filosofia di soppressata di materia del maggior possibile quantità di muco
+compatibilità binaria con le versioni precedenti quindi i processi di deprecazione abbastanza lento non accade sicuramente tra un giudice e l'altra passa sempre sempre molto tempo fa mamo codice si levò marco nel duemila e adesso compila ancora
+se tu manualmente se possibile in cinese
+okay se a meno che non salirò per vedere le applet funziona ancora perché quella era un sistema client-server per questa assicurazione di cui non farò il nome ma è un nome francese e ed era
+il server ha scritto in java il cliente era un outlet
+edreams
+è alta domanda da niubbo ma giava appunto sul desktop quelli quei gavoni con l'interfaccia grafica gui non si usa più quella roba lì non simile ma no etc bratz ti direbbe che ti sbagli ecco perché tutta fatta in java
+platform è ancora fatta in più di beaver creek ci sono esempi di applicazioni
+è il client sopra e ancora
+lì scusate ho un lapsus se non mi ricordo il nome c'è un plains joypad diffusissimo che un'applicazione neanche tanto bella perché sulla piattaforma grafica non investono grandi funzionalità sono dentro
+proprio penso che pur restando ti riferisce un po' che sei vecchia
+applicazioni in tutti i bottoni tute grigie con tutti i bottoni e le robe né l'altra roba lì perché ormai diciamo si sia spostati quasi esclusivamente su architetture resto per cui c'è presa prima in frontend
+poetico di react slash blog
+e poi qualche tipo di backend rest gerry pc o qualcosa del genere per cui ormai da quello che vedo io almeno questo tipo di cose nonno
+se ne vedono più mason frank sei cm anche se nessun cliente adesso che stesse usando una sola un'applicazione di inox ancora e
+revet perfetta praticamente dove l'applicazione abbastanza riportate qui di
+ogni tanto
+dobbiamo interagire quest'affare gli dobbiamo
+mettere dei file in certe directory pesano dei processi che finiscono per sottsass
+micidiale micidiale
+comunque a scoprire che avrei potuto rivendere tutta la mia conoscenza ancora per
+tag invece suonata cercare di fare cose diverse
+mettere l'acqua
+scusate da ignorantissima la poi uai è questa la cosa grigio una vecchia o quelle cose no è quello che stavo dicendo io il client sopra che viene usato per stare ancora per testare anche da client interest credo è un po' che non lo vedo fortunatamente sopra è una di quelle cose che piano piano
+si vedono sempre meno anche se ogni tanto
+salta fuori salta fuori o me
+brook centonove quello che dicevamo prima di cominciare
+già purtroppo ha ancora questo questa sorta di stigma per cui sei tu io vivo a berlino e il suo ecosistema di startup abbastanza bastare ovviamente importante e cioè raro che dovevo festività eccetera che qualcuno è società passeggiava molto molto ryan
+è quasi sempre ubriaco option rubi oppure non hai esserlo anche sul server e è il motivo ciò e in generale da sempre perché appunto già è visto come una cosa enterprise notte dove hai l'azienda indiana che ti manda settecento sviluppatori
+quindi non è cool c'è un'accusa ma non so perché ma mcdougal esatto per qualche ragione del successo qualcosa dello sviluppo del linguaggio e della band nel modo in cui la gente percepisce che una cosa se sei uno musi gialli usi allora raschia noi
+green mangiavano e molto energia efficiente rispetto a il python che la bestia era consumer c'era un un posto però secondo me però già vasi e tira questo si potrebbe discutere perché
+spezzo una lancia a favore di python
+allora abbiamo qualche esempio di sviluppo nel green oppure no
+che
+ma anche tirato addosso un pochettino delle cose in passato quando aveva tirato fuori i benchmark in cui dicevano che già era più veloce nell'applicazione si plus plus size plus plaza
+in cui avevano costruito una cosa un bel pò con voluta in cui sovra bloccavano arrivavano a fare gigabyte di memoria non liberando memoria perché il garbage collector si eseguiva più tardi loro potevano misurare delle performance di picco maggiori che poi pagavano più tardi
+perché questo quello era un ingegnere riprende a lavorare in volkswagen
+questi risultati c'è
+è ovvio
+ti tiri un po' addosso il fatto
+se stai cercando di fare free climbing sugli specchi
+per dimostrare quali la roche però guarda marco che ora senza senza arrivare a questi eccessi e i benchmark relativamente recente è abbastanza per voi
+benchmark don't like ma players di benchmarking lo sapete benissimo quindi
+e lo sappiamo tutti sul holdem su cold start chiaramente quindi primo giro prima esecuzione giava è sicuramente più lento sul
+di rispetto a cip cip la spassa e sul e rasta ora il più recente sulla somma
+sulle esecuzioni successive quando ormai ha allocato gli oggetti a questo ha fatto tutta la sua analisi anche del codice è intervenuto gestita ai computer spesso anche su attività di computazione pura e i risultati sono abbastanza comparabili poi ovvio ci sono
+le pause de gama il colletto quando ancora avvengono sempre più raramente ma insomma ci sono
+l'introspezione che va a cercare l'oggetto in chissà quale livello della gerarchia eccetera eccetera li è chiaro che insomma non ci può essere storia zona di idlib sono tutta la vita comunque giusto per darvi un pointer qualcosa che è successi recenti di per forma
+c'è questo progetto che si chiama world million a biden row challenge challenge non so se lo conosco
+posso mettere il link nella chat
+e se non mi sbaglio l'idea è quella di leggere un miliardo di righe
+di
+con con informazioni legate alla meteorologia e poi aggregarle e
+in ama e poi qua c'è tutta la classifica di t di quanto vivesse vari progetti per esempio questo ci mette un secondo primo che ha vinto un growl l'altro quindi compilato nativo
+ci mette uno un secondo e mezzo a passare e aggregare un miliardo un miliardo di righe
+quindi poi beh
+diciamo fu molti usano whatsapp ovviamente ho per lei
+se proviamo a vedere il linguaggio è anche questa lo stigma di cui parlavo prima che
+wired molti molta gente che ha lavorato ma che viene al mondo gubbio viene al mondo
+google considera in tono non è vero no non è solo dell'utero poi il numero di whatsapp lo diciamo
+ed è entrato con questo progetto interessante perché la gente nel codice delle cose pazzesche
+ma persa a seguito alla domanda mi ha fatto nemmeno osservazione mi ha fatto andrea chat che su so perché comunque aveva cosa interessante come nella west transaction e rifare in estenderli webshop si usa ancora
+home architettura mactan manresa state piatti
+è morto anche perché non ci sono più o meno pochissimo meno io sappia non ci sono application server che da quella stronza action comunque era basato su su
+asylum si
+trattazione distribuite
+di conseguenza se ti serve anche l'application server che sta dietro che qualcuno deve pagare perché comunque si preso seco sono un sacco di soldi invece adesso ormai si va verso verso architetture con quasi completamente open source anche nell'anteprima quindi
+no direi di no
+ma soprattutto anche per cose tipo la west transactions è andato più
+verso pattern architetturali un po' diversi di voci r s
+leven sourcing tre dove vai un po' in queste direzioni proprio per sostituire quello che facevi male e che poi la tufacea commit su web logic sì forse no
+so insomma parliamone
+ormai eravamo affinché andava tutto bene l'architettura o meno la maggior parte del tromba il cui lavoro io sono quasi tutte su evento consiste in ciò per cui esame mandate su quasi tutto asincrono con messaggi che girano e che quei creativi d'altro classi di problemi
+però se vuoi se puoi sostituire quello quel pattern puoi usare il pater saga che a elimina hotel che puoi teoricamente può poi poi poi replicare quel tipo di
+le situazioni però pro nobile sopra ormai non sono anni e anni a me lo vedono anzi vi vedo altre cose anche più vecchie rom superprof
+elaborati
+mira anche perché abbiamo sviscerato completamente paradigma scusate la digressione ci siamo passati da un mondo di sessioni e apri la sessione tieni tutta sessione fai gli scambi fronte retro
+verso il database rimetti tutto manda verso front-end e così via a un mondo dove tendenzialmente insomma la sessione non è poi di fatto non esiste più esiste ti ti scambi i cookie il token che per riconoscerti per autentica
+arti ma poi fondamentalmente chiamate ed impotenti rest
+soprattutto perché sommate poi i container che nascono e muoiono e non sai mai chi sta parlando non sai mai con chi stai parlando esatto quindi
+proprio cambiato da un punto di vista elettorale ma in questo in questo senso può godere il linguaggio java e anche poi con kotlin eccetera
+tutti questi paradigmi no-kill vanno supportati benissimo certo periodo pisano molto che le vede puoi in mezzo secondo in un cluster kubernetes memorie futurista abbastanza basso
+più di quel senso
+in quel senso
+se si ragiona
+andrea ha ragione però
+un altro linguaggio un'altra offre il proprio progetto enorme che
+credo che sia scritto in scala gay chat captcha
+sicuramente girasole ogm è un veicolo descritto in giava o forse era nata già vengono convertiti in kotlin od osaka o viceversa non mi ricordo più però comunque anche giudicato captcha è anche un
+praticamente un bus è un progetto diffusissimo cioè esperienze ormai quasi ovunque vado ciò che c'è un captcha lì da qualche parte
+quindi
+eh
+già mai riuscito ad adattarsi
+aereo si adattato ai tempi ma mi piace programmare è ancora divertente programmare in java
+voi che immagino siete poliglotti come tutti programmatore di fatto gran parte
+e ci sono magari non delle cose ha una corona deve programmare marchi ma poi parlo io perché dicono una cosa brutta però fa
+diranno anche loro
+io già ma mi ci divertivo comunque
+poi ho visto scarpe si sciarpa ha avuto un'evoluzione molto più veloce di java all'inizio almeno quindi ha introdotto generics e tante altre cose
+prima di giava e devo dire
+l la parte di divertimento di avere una cosa leggera per fare una cosa veloce ios o sul sito avrà falsificato
+quindi sono quasi la stessa cosa e non sto dicendo che sono due linguaggi tanto diversi
+sono basati su virtual machine sono hanno avuto un'evoluzione simile anche se scelgo uno zero ave val i generi erano introdotti nella due zero feed
+sono due linguaggi che sono lo stesso discorso sembrava una vm sempre la parte a semplice semplice sempre librerie di streaming c'è sempre se ci sono le stesse le stesse cose però
+visto come si muoveva ok
+ho preso ho preso fischiato beh
+però so che giava e
+sempre molto vicino
+vi divertite luca luciano
+se lascio rispondere luciano ma ciò che ho
+sono capitano che scrivo codice però diciamo sì siamo soprattutto come si è sviluppato giava io siamo tendenzialmente ho sempre avuto
+vi piace scrivere codice funzionale
+vi fatto che giove sono permette lo streaming eccetera
+philadephia agli estremi che le collection eccetera
+crew del codice per me è più un terzo e più almeno dal mio punto di vista di facile da leggere molte persone possono dire l'afflusso dei problemi
+anche se hai configurato mentalmente
+e mi piace molto programmare in kotlin perché è un linguaggio che aggiunge parecchio così
+zucchero sul suo linguaggio ermetico per me che avevo
+l'intento del codice più pulito e più chiaro rispetto a volte aplotipi fare con già
+mi piace molto lavorare con scala poi mi sono reso conto che purtroppo scala preso una tangente da giardino diventato anche una scala the fisherman's treni di scala cioè la mia azienda purtroppo quel linguaggio è
+avrei voluto avere questa questa doppia
+questo cervello diviso a metà tra un linguaggio a oggetti e un linguaggio puramente funzionale grazie
+il viaggiano più decollato però mi piace molto scrivere lavorare in scala prosegue mi piace lavorare con un movimento in gioco riesco a fare
+si riesce a scrivere linguaggio pulito terzo di quel che non ammette si capisce quello che stai cercando di fare
+è facile da debuggare molto facile magari più rispetto a il mutui facili magari leggiamo in python esempio se spesso sono d'accordo
+se hai
+è
+non credo o almeno più lavoro come consulente quindi mi capita di lavorare su tanti progetti e vedo gente che va e che viene mi sembra che i generali con l'art del codice dell'arco best giava sono generalmente più accessibili
+per un motivo o per un altro i programmi dipende da quando sono salito e che sono state scritte
+scusi direi
+direi di sì mi piace molto scrivere picton mantengo dei progetti open source python però amore
+diciamo un chip e mi piace ancora e sociale dentro quando vi candidate
+te
+va bene quindi anche tu come maxwell avrai come dice giustamente christian chat su mangia
+è un po' dappertutto e pagare dai cellulari android
+ovvero di computer viene sovente non sparisce a breve e
+c'è un avete idea del dae tendenze c'è beh proprio di diffusione perché a me già arrestato per niente fosse
+sicuramente il principale linguaggio di programmazione negli inizi due milano a livello di diffusione adesso adesso che succede se guardi i vari indici è sempre lì sempre lì sempre inn hilton javascript e java a seguire civici più
+più e poi il restart
+questo momento si guardi gli indicatori te
+regalo per un riga meno da un punto di vista puramente empirico da quello che vedo io dopo un poco producente brutto gente più giovane di me di venti venticinque anni anche
+è la tendenza è molto lavorare su su times clip notes anche sul server tantissimo
+molta gente ma capiamo perché vuoi fare questa cosa con spring boot resto viene di fatto uno dei nomi richard garfield chef remoti che c'è tipo tipo fastweb per times che il metodo che si chiama
+e per cui la tendenza soprattutto ragazzi budget più giovane e comunque muoversi rimanere su uno stack unico peduncolo incremento dei vantaggi perché se tu fai un plaid serve dove tu stessa la stessa piattaforma puoi anche condividere dati più più facilmente potrà più degli oggetti poi trasferiti gli oggetti che pompili sul
+server quindi puoi anche trovare il plico del genere però mi sembra che la tendenza sia
+soprattutto gente più giovane sia sequel
+sebastian ma se la tendenza della gente più giovane hai ragione
+e anche la pendenza del
+facile veloce e immediato perché poi ma ti obbliga un può essere più anche se scrivere grandi porcate in java e codice scritto molto bene l'hai scritto già scritta e su questo penso siamo tutti d'accordo però almeno inizialmente anche solo i passi la compilazione e gestione progetti
+eccetera e librerie non sono esattamente non le scariche esattamente come www epac e compagnia cantante ora io onestamente del mondo take it script è già scritte non hank pym
+esempi m installer cioè le scariche mezzo di internet ho visto dei progetti quelli week end mike viene giù
+sono le pipeline sera ottobre in libreria decide di smettere di supportarle c'erano statale qualche tempo fa scusa alessandro c'erano un'analisi qualche tempo fa dove c'erano librerie utilizzate di javascript che facevano delle cose banali tipo
+dirti se un numero è pari o dispari cioè è il commento era zona
+caricare una libreria che tra l'altro poi c'era all'esempio della bici si scaricava un dizionario di megabit per per fare cosa poi ci sono stati anche dei buchi di sicurezza su una rivista una supply chain e avvelenamenti da sub bacini sono successe a capitan aeree anche recentemente quindi
+ogni animo ogni linguaggio ha le sue debolezze sotto questo punto di vista
+uno splendore
+due parole su questa statistica che una delle tante quest'opera di statista sui linguaggi di programmazione più usato il duemilaventiquattro
+un po' in linea con quello che dicevate no sessantuno per cento javascript cinquantadue nove a beja è necessaria se piton sequel times scrive the guinness omaggiava scritto ventotto per cento già è un buon trenta però sotto sotto e poi beh poi ci sono tutti i vari linguaggi
+riuscirò mai a catinelle è basso non mi considero un linguaggio di programmazione annuale e da purista io che sono un sistemista no diciamo poi puoi scrivere i brodi sono
+uno cose diverse
+se mai ti dico ti dico alessandro da dal punto di vista di statistiche trovo più interessante che ne so tipo il report di ats brianza che fa delle indagini ogni anno se non trovi risultati o che stackoverflow uno o anche stadio per champions league show the gift
+tab che ha un bug vietnam serve
+e anche se non cambiano di molto e cioè onestamente
+magari ecco
+e se un pochino meno prevalente giava sms neanche picton problema avete noi siamo noi siamo noi siamo lì abe poi non è se lo fanno giapponese
+sul front-end io non so chi mai vorrebbe utilizzare già iscritto a questo punto quando hai comunque tip slip che chi ti offre i vantaggi normale sono di obama le leggevo oggi che c'è stato un progetto che si è
+se ha deciso di abbandonare times times script completamente togliendo anche il supporto di times script
+facendo incazzare molta gente
+ballando non ho capito il motivo per cui hanno deciso una cosa del genere cioè a me sembra che se puoi almeno supportarlo tip script e conveniente farla javascript
+e farsi del male
+si è fatto senza annotazioni anche perchè poi la
+sì i framework tipo react www fedeltà eccetera
+nemmeno la mia esperienza è che se non di se non sai usare il sw da zero da zero a spaghetti cod mostra in dieci secondi
+cui se office non c'è nessun sub che poi io e te c'è tutto il nostro mondo entra esce chiunque ha fatto cessare la stanchezza verso filtro per cui esordio viste cose per cui
+mammina avere un minimo di supporto al compilatore si cambi una se cambiano una virgola non è non è una cosa visto che poi ormai anche l'impatto sulle performance compilazione si usi un
+nemmeno una medusa madre insomma
+sono quasi inesistenti per cui boh non sapremo mai perché qualcuno abusare di lei hanno scritto questo su un progetto di front-end
+qui giusto per tornare sulle statistiche di javascript sempre due questo regna sovrano a se regna sovrano così nascesse
+credo la skill and unique ogni punto è un qualunque trimestre partire dal duemilaventi ma la sua organizzazione
+le github sanno il fatto loro quindi in java script regna sovrano picton secondo
+cell questo finto linguaggio scelto i fan unit test sul farò
+ma scherzi offriamo fisso ovvio visto un tempo fa appunto che ti permette di fare test è fantastico voglio che scriva di crucial
+quarto times twitter nel weekend comunque
+docker file questo si parla di tav quindi va da sé che poi usano e affaticamento ai suoi le sue
+interessante come google sia così basso perché veramente ne vedo vedo parecchi
+foto qua sono tutto questo discorso di startup e ciò nonostante dal togo
+non vorrei considera che è un numero di linee di codice è esatto e poi robecchi dramma per il ricordo codici pubblico
+jan slangen un developer senegal kathleen van gogh fu uscito repository da vivere programming language
+ottieni sono gli sviluppatori i contati numero di sviluppatori hacker potrebbe piacerebbe capire se il repository pubblici o anche quelli privati
+vabbè comunque questa cronaca
+no beh può essere un osso alessandro posso rispondere alla domanda se ti diverte ancora certo scusami se non te l'ho fatta no webank è che sono un po di due cuore e ammetto che su giava veramente fatto
+ho trenta anni
+è molto bello l'ecosistema di giava cioè i tumuli tooling e c'è intorno come riesce a debuggare come riesce a entrare anche su nuovo progetto
+ormai lo standard per visitare i progetti sono fondamentalmente maven è gratis e credo piu maven
+almeno i progetti che vedo io sono quasi tutti su mare n quindi
+per cui anche tante tante difficoltà nell'inserirsi su un progetto che lega si sia dimesso no al di là del leggere il codice ean non le ha insomma mai piu o meno e touring di giava e me lo stalking taiping a me piace
+devo dire che intercettare determinati errori a cosa
+quando comincia a vedere che ne so la stessa teli di import in un file di sorgente e mi chiedo
+quanto ce ne sia davvero bisogno e se forse alcune cose ci siano scappate di mano così e una domanda è
+semplicemente perché credo che in alcuni casi
+si complicano le cose senza ottenerne veramente dei benefici faccio fatica a fare degli esempi concreti però il dubbio mi viene sempre poi metto giù e ci lavora onestamente se voglio divertirmi apro picton
+e uso quello
+prevalente la beta voi lo sto imparando lo sto studiando da un po' non mi è capitato di farci progetti veramente per cui quello rimane un po'
+comunque ciò
+nonostante l'età cerco ancora di imparare qualcosa di nuovo e
+ehi google rusty sono nel mirino però è
+diciamo che la stratificazione di java ogni tanto si fa sentire ecco
+anche tutti i paradigmi che si che vengono utilizzati non sto parlando dei pattern
+anche i paradigmi proprio e funzionale poi metto la concorrenza poi
+togliamo tutti gli mettiamo che ne so la fornace con il come me ci aspetta poi devo capire io mi chiedo luciano io uso intelligente poi chiuse eclipse
+cominciamo con queste storie perché sennò però ogni tanto mi chiedo se riuscirei a scrivere del codice funzionale in java quando vedi notte funzioni o devi intervenire su come funzioni se ci riusciresti senza www per intenderci con i boxer
+un browser versione summer trends
+prezzo con chopard cod nav ci ha reso con copilot puoi anche non farti le domande è una cosa che volevo dire poi riguardo a ma che ovviamente questo riapre anche linguaggi popolari come python e ospiti soprattutto per quanto riguarda le librerie che lavorare con linguaggio del genere sono molto lemme friendly nel senso chieti
+tu gli fai una domanda dice sto facendo progetto news spring hibernate ai piedi e sparì ha trovato poi libri io devo fare questo e quest'altro tratti della codice fuori che mutuo ciò ottanta per cento corretto quello del brief usate obbligato ad azioni dal punto giusto quindi quel senso lì
+si ma un'osservazione sul linguaggio free framework che succede
+sono un po' parlerebbe frank crisi magari usi un unico di voyage un po' più di nicchia contro il libro di un po' più di nicchia magari il codice noto scrive così lo descrive
+settimana scorsa doppia scrive il suo codice
+tocca scrivere codice esatto
+e poi se o debuggare il codice sbagliato che rivela il nuvole vede dalle lame quindi deve saperlo
+perché stiamo parlando di java abbiamo toccato l'argomento framework ma poi fondamentalmente me non voglio offendere nessuno ma programmatore medio enterprise lavora con il remake non lavora con linguaggio mensili dai spring is sharp forse
+non se ne accorge nemmeno e potrebbe sto dicendo una bestialità marco eh lo so però potrebbe tranquillamente sostituire aveva con sé scarpe perché fondamentalmente
+sono d'accordo altrettanto beh ovvio che poi le librerie di base cambiano un pochettino però non è che non me infatti ho detto ho preso sia scarpe e non giava per caso semplicemente perché nel momento in cui lo usavo l'evoluzione era leggermente più veloce un po' di più di tool
+ma credo che se avessi continuato su giava non avrei sentito la grande differenza grande differenza ma con la curiosità esiste ancora il progetto mono
+allora sn
+è un annuncio di un mese fa più o meno no
+xamarin la società che che che era che faceva mono è stata acquisita da microsoft è in realtà mono credo che esiste ancora come progetto però in realtà microsoft adesso supporta tutte le piattaforme direttamente quindi hanno moka
+è stato ceduto a chi non mi ricordo quale entità o del mondo presieduto ceduto da microsoft
+questo perché adesso dotnet open non so come si chiama quella la versione che gira anche su
+poi quella fatta da microsoft non più da camera
+un altro una troupe lo spazio una cosa abbastanza importante di giava come come ecosistema soprattutto dal punto di vista direi commerciale o enterprise vede anche il fatto che molte grandi aziende ormai hanno pochi programmatori siamo assunti e utilizzano tanti ottanta tanto source no quindi vanno i grassi
+provider parlo di molti progetti molto grandi i grossi provider di outsourcer sono molto spesso compagnie indiane o
+e questa gente questi ragazzi che vengono
+dall'università anno o a costo quasi esclusivamente ama
+quindi se tu sei un'azienda enterprise certo punto di fare un progetto e un contratto magari quadro con comprata con salti go una di queste aziende qui c'è sei quasi forzata utilizzare già perché qui si rimandano cinquanta persone che conosco solo giava
+magari conosco un po' di osti transfughi scena ti voglio magari c'è un architetto che vuole network
+che vuole fare un progetto
+oh o devono assorbire supera la gente e con tutto quello che ne consegue ad azienda poi non lo sono tra suv argento oppure insomma
+c'è anche questa questa sorta di
+coconut
+complessità commerciale che che spicca in questo senso ha spinto molto gioco come linguaggio interno di enterprise perché si trovava gente è più economica che tramandavano coccola cariola
+molto facilmente varo di banche assicurazioni
+dei progetti che duravano anni
+quindi questa è una considerazione mia però che penso l'abbia spinto molti linguaggio con la direzione di diventare muto enterprise e forse anche un po' meno sexy di altri linguaggio degli altri linguaggio isaac
+loro album ho letto sul progetto mono e dicono che win è il progetto di emulazione windows su linux non ha preso in mano mono per svilupparlo terzi in iowa dotnet hotel cork comincerà anche giustamente livio e snello
+girano su linux adesso no no assolutamente ma mono come progetto open source invece è stato preso in mano da wine wine week end
+a me comunque io da quando ho visto su stima come chiamare la stima controller il dac stile dei giochi windows è grave come se non ci fosse un domani ed è una macchina linux ho detto beh allora il web stiamo parlando non c'è neanche più il problema di
+di giochi nativi su linux perché ormai è una macchina linux
+intel o arm
+e intel
+il seguente elenco viene tutto vero
+robert norman nato ho visto cose
+di emulazione intel sua arma
+insomma google non ti accorgi che girano che sta girando roba windows
+gran parte dei poi avrei qualche cosina non va ma veramente
+notevole
+quindi unire il gaming su linux non si fa neanche più di gavin del dig necessità di avere giochi nativi perché in realtà con i pari
+emulatori adesso cos'è che usano il
+kroton mi pare sia il progetto più comune per emulare su linux
+cose di windows
+e vabbè comunque so dire stiamo facendo una riflessione
+e in tema emulazione dice andrea il miracolo ha fatto apple perché rosetta due incredibile effettivamente non ti accorgi nemmeno che stai girando su arm su un oceano tutti i programmi vanno non solo rosetta non rosetta due non solo quello ho visto anche cose di traspirazione
+di di di di codice x ottantasei su arma per per far girare i giochi in emulazione dovuto
+cosa che erano l'unica cosa che risponde ad andrea che vedo l'unica cosa che non gira su sugli sugli arm della apple
+database oracle c'è la versione free
+c'è la versione c'è una versione che sta adesso compilata per arm
+però devi pagarla la versione free ventuno è qualcosa
+non esiste più ma poi dichiarano puoi far girare palla lentissimo per cui è
+a ventuno c esce un cliente che purtroppo usa ora con le tende
+casino casino
+bene bene allora e futuro di java cos'è e cosa sarà di giava fra cinque dieci anni sempre in giro sempre ovunque sempre
+se tutto fresco effettivamente da quello che ho capito è un linguaggio che si tiene il passo coi tempi quindi
+che cosa
+siete potete immaginare che succeda nel mondo
+giada nei prossimi anni
+se si evolverà come si è voluto cioè col gruppo di lavoro
+non so quanto burrows che incombono il lavoro è sempre attivo abbia mai detto
+se entri nel primo chiaramente il linguaggio ha un problema di base larghe po' quello che la sorte in questo stesso scandalo cioè linguaggio java è un linguaggio object-oriented cioè la
+l'oggetto principale di giove la classe non questa classe con gli attributi come noi metodiche del ciel e palazzo introdotto questo concetto di record che sono che sono es good food oggetti che sono puri dati se vuoi però chiaramente se tu continui a spingere sul mondo funzionale ma
+c'è un fascino più o diventano vaga parte o vai di là
+l'ispra cioè certo punto oppure
+oppure devi comunque fare i conti sul fatto che con questo linguaggio
+certo oriente quindi
+non so quando giuseppe maggio a un certo punto ci sarà un momento in cui dovranno decidere che direzione finale della questo linguaggio se mantenere un po ciò chiaramente un omaggio oriente con dei costrutti funzionali per che poi la fine si batte sugar on top di vecchie reais oppure
+oppure oppure andare nella direzione di boot new toscana non uso spesso difficile dire però
+e ho molta fiducia nel grub ma penso che il progetto diventerà sempre più interessante se ci riescono risolve un po' di problemi a putin per la ruga il tempo di compilazione po' lento però è un progetto all'italia una nuova vita al linguaggio no perché ti permette di fare cose che prima erano impensabili livello di membri furti di velocità africa al sud
+io penso non è tanto giava come piattaforma quindi bohème eccetera
+è il linguaggio come strana vicenda che luciano cioè
+questo ritmo di innovazione che mai credo sia difficile da tenere sul lunghissimo periodo
+e
+si fa anche fatica perché
+io sfido chiunque anche me
+non solo noi quattro ad aver utilizzato tutte le ultime fichi redigeva ventuno o anche solo diceva diciassette per essere chiari cioè
+è abbastanza improbabile perché fai fatica a ridire ad abituarti a capirne l'utilizzo migliore e nemmeno comincia a usarle che c'è già qualcosa di nuovo e c'è già qualcosa di nuovo e c'è già qualcosa di nuovo insomma
+questo è questo ritmo che chiama
+capisco che a un certo punto è come voler fare una rolling release scusate e di un linguaggio per certi versi esatto che sono linguaggi programmazione ma su date let's qual è la numero l'ultima lets di giava e quantomeno uno mi sembra ventuno
+l'avventura
+diciassette sette uno a ventuno e quanto tempo sarà ufficialmente supportata
+ma al solito dovrebbe essere due anni manichino ne bancarelle tientsin però su quello puoi comprare l'estensione di osho e planets in questi casi non è tanto oracle che ti dà il supporto ma è un suono
+che stabiliscono qual è il livello di linguaggio quindi questo caso wayne ventuno che sarà supportata più a lungo degli altri quindi greyson
+almeno se ho capito bene il meccanismo e amazon ti dice che su quella potrei avere un periodo di supporto più lungo ed è
+quindi avrai un esodo patch level portati avanti per più tempo e così via poi
+è tutto un po abbastanza insomma bisogna entrarci dentro ma in realtà poi siccome adesso come osservavo luciano poggi sai un po di domani ce l'hai un altro no
+no eh cioè il problema non è su chi già chi coniava fa
+il servizio resta oggi perché domani potrebbe tranquillamente
+montare caso dockery email con giava ventitré e il problema va via insomma deve esserlo nelle tesi ma va via il problema ce l'ha chi
+supporta è obbligata a supportare le cose per un po' più di tempo etc brands che citavo prima ha una sua versione di java virtual machine quindi sulla quale costruisce una piattaforma che poi dà sulla quale poi da supporto per un certo periodo di tempo eh
+se facebook page tra l'altro pro the bentley l'idea di bagni una cosa che vorrei dire su youtube box vuole aprirmi con un linguaggio del corpo in futuro del linguaggio e mi chiedo se c'è un futuro dei linguaggi perché il congedo
+sviluppo software non magari sono un po' di tempo
+sono realistico rugby mi aspettava certo punto non hanno mandato il senso del linguaggio il linguaggio scritto un software semplicemente tu dici mi serve questa cosa qui viene generata in un linguaggio esistente non esistente non importa quindi chiaramente parliamo di un futuro neanche tanto lontano io non credo che ci sarà la figura del programmatore che siete
+proboscide il codice non lo so quello che abbiamo fatto la puntata questa settimana su ellen però in generale
+con questo tipo di questo tipo di
+general artificial intelligence che è abbastanza vicina non so quanto abbia senso puoi continuare a lavorare su mettersi adesso a accra un nuovo linguaggio del piano
+posso fare una domanda però non so ge me ma se non ci sono programmatori cnm da imparano ma non ci sono programmatori non ci saranno ci saranno anche programmatori però diciamo
+la visione godendo dello sviluppo software nei prossimi dieci vent'anni non è quella che tu george
+dai delle specifiche linguaggio naturale c'è qualcosa che trovo suicidio d'altronde ploia da qualsiasi mise
+non credo però non deve il fatto che tu non fai lo scrub fai e fai ti mettevi fede ma credo che il mio lordo non si è d'accordo ma per un discorso di verifica formale adesso magari parliamo gli ambiti diversi però ci sono dei casi in cui tu vuoi
+scusatemi davvero una verifica formale del funzionamento di quello che gliel'hai e con un codice sorgente scritto in un linguaggio di programmazione che aumenta che è un linguaggio formale puoi verificare che ci sarà la compliance quello che volevi con le mamme che
+genera del vice che interpreta direttamente un linguaggio naturale no deve avere sempre un intermediario formale per poi poterlo verificare però diciamo sono d'accordo cento per cento però tu
+partiamo dal dall'ottica dicevano dov'è che già a fiore fiorito diciamo in ambiente enterprise che un ambiente diciamo
+molto legato ai costi quindi anche ferito perché i programmatori java in costano meno facile averne a prezzi più bassi da paesi che possono decidere eccetera per cui per costruire comunque software enterprise se pensi adesso anche questi piattaforme no code in cui i drag and drop credere interfaccia
+abbastanza funzionale non mi aspetto che
+in questi ambienti qui in neanche tantissimo tempo sarà abbastanza impossibile costruire software enterprise quindi gestionali slack chiaramente non vai a fare il sistema di volo di un
+di un'astronave non provo che so un sistema per per operare al cervello però per queste cose qui dove giava è molto forte
+vedo un linguaggio rischio in quel senso di canzone mi spiego visto che il bacino costruito su di noi
+siano alcune delle funzionalità che siano ufficio se io
+ho devo fare qualcosa un'applicazione enterprise anche abbastanza complessa magari transazionale si sa bancario cioè alla fine devo usare amano robin non c'è dubbio tranquillamente nelle lame fra qualche anno credo che l'olio te lo sventurato utile sarkozy attività transnazionale
+tardiva so di essere giovane io io voglio essere sicuro che non posso fare da buzzfeed king george
+poi ho iniziato lettera dei sistemi di controllo però
+voglio dire
+per dove è nato e dove ho sempre avuto terreno fertile george mondo enterprise e nello stesso tempo è tutto molto il rischio poi non so magari
+non credo non vedono enterprise una banca che si a sviluppare il rast cioè
+avevo molto dono wilmington non creda però ecco dall'altra parte faccio un passo indietro a usa a quello
+resta una domanda successiva poi ne parliamo
+come quanto già venga usato in ambito hai però come linguaggio per fare cose verrò fra prima volevo tornare un attimo indietro perchè facendo parte del comitato su place place invece
+le critiche che avete mosso a java sono le stesse che sento muoversi place place troppe nuove feature non facciamo a tempo a imparare quelle nuove che già ce ne sono delle altre
+cioè sono molto simili come come critiche e da quella parte mi sento di dire
+allora lo capisco però mi sembra a volte che uno pensa di dover conoscere necessariamente tutto il linguaggio
+cosa che invece non è sempre necessaria cioè se a me va bene il sab set che sta usando va bene sapete che sto usando è ovvio che se in un progetto più grande dove utilizzano un subset maggiore è importante conoscere anche le nuove parti però non credo che ci sia qualcuno che abbia con me
+my style guide almeno progetti sani che conosco che abbiano come stai ed usate l'ufficio che volete non ci interessa di solito oggi si limita a una versione o ci si limita a un sab set di feature
+cioè se decidiamo che il pattern matching non ci piace non ci piace non lo usiamo
+ha ragione o torto ma di solito ci si cerca di limitare e-mail c'è la fomo no se c'è una nuova feature non devi saperla devi usarla se no rimane indietro e immagino quando lavori quando lavori presso il tuo progettino nel nel nel nel buio della tua cameretta si va benissimo quando lavori su
+progetto enterprise quando lavori sul progetto di larga scala no non non è professionale secondo me usare tutte le fiches di un linguaggio per il gusto di
+perché se sei un team di dieci venti cento sviluppatori che devono mettere le mani sul codice devi avere un certo allineamento poi non non andiamo l'eccesso di dire usiamo giava uno punto cinque non lo so giusto perché quello che al minimo sette itunes u
+utilizzabili
+ci teniamo sull'universo femminile intermedia recenti
+l'esempio che posso fare sushi place place
+perché lo conosco meglio e che adesso buona parte dei progetti sono sei plus transit la sla sportive sulla scarsa valentin che vuol dire che sono rispetto alloggi e indietro tra i sette e i dieci anni sullo sviluppo del linguaggio
+si prestasse particolare perché il compilatore non sempre implementare le ultime fiction quindi già tre anni si vanno via con quello però è abbastanza normale che non si utilizzano tutte l'edificio e non lo vedo un problema da quel punto di vista è ovvio che quelle figure sono uffici
+che si utilizzeranno tra cinque anni magari per questo lo sviluppo del linguaggio dev'essere più avanti e non seguire è questa invece una critica grossa su plus plus place invece aspetta che prima vadano avanti agli altri e poi pensa di introdurre cose nuove
+cristo può dare un paio di messaggi intanto c'è una un suggerimento di andrea per luciano e provare a usare una immagine kovacevic sessanta ottantasei dio alcol per farla girare intorno dockery sul mac
+la situazione lui ha detto che non ha approvato con java colma consegue il semplice profumo ci provo grazie quindi incl da andrea rota faccio un'altra loro rom non crea altre porcate così vegliate poi alessandro haber girava un paper che per avere il pc ne abbiamo accennato prima adesso condivido ma puoi parlargli
+in particolare questo quello che non è un paper che io ho sempre criticato cosa di canoe e del no due mila e diciannove diciassette duemiladiciassette sia quel paper la allora quel paper era stato sviluppato per mostrare ch'era a stabello
+già quella menata che i sempre
+allora no nel senso non è non è che è sbagliato fondamentalmente però è beast a bestia sul sullo start up time sono processi molto piccoli che fanno una cosa e poi escono quindi tutti i linguaggi che hanno una start up time lungo
+pagano tantissimo
+per esempio c'è un trentatré per cento mi sembra che
+eric c si sia uno rast sia uno e zero tre e sei plus plus mi sembra che vada già sopra non mi ricordo il trenta per cento o al quindici per cento comunque più più lento di dc che non ha senso perché tu puoi scrivere ci si è single
+place e sono la stessa cosa sullo stesso programma compilato con due compilatori diversi
+li hai
+forte bias sul instabile peter è un po' est secondo te altri e questo e questo e questo lo guarda e uno trentaquattro cioè il trentatré per cento tra sei e sei plus plus
+che sono sì è circa un sav sette plus plaza
+no la questione è rilevante la questione del ddl dell'efficienza energetica di un linguaggio secondo me è irrilevante assume rilevanza sì però tutti che seguono picton che uno dei peggiori sotto quell'aspetto e hilton è una delle tante
+delle cose più lente da quel punto di vista e quindi
+separa tanto dell'efficienza energetica poi però abbiamo lei ha e che convivono e allora è rilevante secondo me su protezione picton come viene usato sulle aree
+ken
+come glue code non è quello che esegue i conti secolo schema accennato il modello non è in python usò un non è michael fotomodella ed è scritto in python ma è implementato da librerie c g cuda sulle piattaforme di google usano le idee tv
+cioè è implementato in altra maniera
+inondati da come un hairstyle club per tutto quello che il mondo gay e quindi in questo punto vengo anche alla domanda torna alla domanda di prima su quanto le stia accanto giava stia cavalcando il mondo e aerei accennato prima le
+alcuni all'implementazione lan cane su abano
+un bel progetto
+come ho cominciato il tipo che
+chi ha inventato usiamo groovy e poi è solo sta ci sta lavorando un altro ragazzo brasiliano
+beh fondamentalmente una ripida e molto simile alla lan centro per il mondo arabo ti permette di
+global
+clienti e avrò abbastanza simile spot meter league cui si fa farmacia etc
+chat
+questa certe purtroppo usare le vie hai o per sviluppare modelli di no no no non sai cosa c'è ti permette di fondamentalmente un
+una libreria python
+che ti permette di creare agenti e un'aula un fa food per parlare con lemme o locali o remote mondo
+non crei modelli ma non conoscevo progetto specifico ma c'è molto tra i vari progetti d'integrazione con se due parti un progetto in python esempio poter essere integrati con una delle emmy o fai usi l'ebreo per i piedi direttamente quindi direttamente oppure usi qualcosa come lanciai il perché ti crea un piano uniforme che poi permette
+di sbucciare un'altra le lemme se vuoi
+creare lavorare con i prompt in maniera un po' più utilizzo un po' più elegante se vuoi invece di mettere proprio uscire pronto entro il codice pin
+e poi soprattutto creare degli agenti e questo progetto non riesco a mettere certo
+se poi condivido io
+e ti permette di fare la stessa cosa mangiavano che avete un progetto abbastanza di nicchia però se successive al progetto in java e interfacciarmi con la promette utilizzerei perché abbastanza beach spring social spring e hai che winner is link butterai un progetto dell'ecosistema spring
+che
+offre delle pmi ai pacchetti permettono di integrare tycoon
+con lemme in maniera uniforme quindi polls filosofia di piedi fai far partire l'applicazione di ti configura maniera automatica la chiave lolly
+perché avete q-switched
+gestione dei pronta anche lei non l'ho utilizzato però e ho visto un paio di video di dieta vegan sono abbastanza sembrano senza potente
+qui c'è qualcosa ovviamente come sappiamo tutti il mondo machine learning lemme
+attualmente modo python però
+felton
+non già
+week ed è più o meno quello che c'è negli altri linguaggio perché
+solo picton ha visto questo sviluppo
+di detlef
+per la parte di training tutto il resto di tutti gli altri linguaggi sono rimasti al palo ci sono degli utilizzatori
+no no anche se sciarpa ho visto qualche progetto in cui volevano sardo avevo visto che c'era swift su tensorflow un progetto abbastanza interessante morto anche ma la penso pure quello
+una parte di training non è sopravvissuto nulla adesso con tutti i connettori a
+ryan di torce per esempio è la cosa più tecnologica che c'è se non adesso accesso al servizio l'allarme remoti avrò interessate l'obiettivo e lo mantengono un piccolo progetto di python per recentemente ha introdotto qualche cosa di macellarli per far
+un progetto di fare trans
+persone times of touch scarica il file fidato banca e lui te lo categorizza tutte le transazioni automaticamente eccetera eccetera basato su un altro frigo sempre in coupon
+e certo avuto due voglio introdurre
+un training set che fa il trend sulle transazioni lui poeti auto ti categorizza automaticamente le date successive si può fare questo con ciò nonostante avete non avrei saputo da che parte partire per come compton
+sai queste librerie qui un appello in due secondi lo fa e diciamo che meno cominciavano un francamente non ci sono so che ci sono librerie però
+così naturale compaiono fare queste cose qui che che ci ha dato sviluppi da trenta anni in java non saprei bene cosa come un club come lavoro cominciano a cosa come panda e già panda pandas on non saprei dove da dove partire diciamo ecco quindi questa in effetti è una è una carenza sono libri non c'è tag
+con linguaggio però
+scusa però perdonerà l'efficienza energetica il training viene fatto eseguendo codice python nella maggior parte dei caso anche leggere non puoi far venire comunque fatto eseguendo librerie che sono native chiamate da michael
+orchestrata da picton
+ciao c'è ned fra
+c'è non ce n'è di bucoliche python viene eseguito con il maestro tutto il codice ciclo durava suo qui grosso non è un grosso non è non è peyton cacciava delle macro funzioni e i linguaggi più più efficienti
+diciamo per fare puntata saints con giava non è facile
+colosseo data swinson
+le manipolazioni ma ma anche prima di picton
+non era facile nessun altro linguaggio fare cose simili se non prima di picton c'era tanto matlab per esempio subisce su quell'area esame ma ma cioè non è non è mai stata una cosa di di grande diffusione sui dei fai fare un certo tipo da paralisi
+michael ruben holden preso spazio di a un giovane programmatore che s'affaccia al mondo informatico diciamo dopo liceo in questi ultimi anni gli suggeriresti di impararsi il java
+se vuole arrivare alla pensione
+il discorso di esse per me risulta essere policy lotte è importantissimo anche se tip se ti interessa questo mestiere più più linguaggi piping ti approcci più cose impari
+è un po' come quando fai arte andy sei un fotografo pro di jace leggere libri guardare le arti figurative ascoltare musica stesso beh per arricchirti per fare la tua parte migliore si sa poco programmatore se si conosce il suo linguaggio preso una dose più tutti più linguaggi pale più divertente più puoi applicare cose che impari ad altri linguaggi ed altri paradis
+pmi sono sul tuo linguaggio su cui lavori professionalmente cui si però non fate solo quello che serve
+sono poi ciò che bidè
+sì ma in effetti io noto che quasi tutti i programmatori che conosco sono poveri le grotte
+non si fermano un suo linguaggio però non so quanto poi abbia senso verticalizza parecchio oppure no su un linguaggio specifico questo punto perché è vero che si tenesse poliglotti però è anche vero che con che ci vuole tempo si è pensato del linguaggi sebbene eventualmente specializzarsi sono al lavoro
+ho molto da un punto di vista il mercato del lavoro e vendersi come io sono un programmatore java è meglio che cambi lavoro che deve immediatamente come minimo dev'essere full stack
+perché trovai lavoro come giovane diciamo se dire anche competere con l'allarme quindi a meno gustatevi se ti vendi come già vau apart hotel
+downtown ma e quelli che ti dicono che full-stack non ha senso parlare di un full stack developer cosa gli rispondi io da sono non ce ne sono tanti beh comunque sia essere in grado di se io vado da un cliente vada downtown enterprise e sono in grado di lavorare di fare una modifica sul front-end e capire tutto il la complicazione di tutti gli ecosistemi di fronte
+e sul backend somalia hai una carta in più rispetto a se faccio solo of cold spring faccio solo gli hotel brighton
+esagero però comunque se ti vede
+non dico che devi conoscere tutti i linguaggi tutte le framework javascript però se così almeno riesce a vederti con react
+e così ama il free world se
+will and wind e i resti piani magari in festa fase pia e spring boot options ma lavoro dove si trovano abbastanza se rimaniamo nell'ambito borlotti trovare lavoro mantenere un lavoro se tu fai partire il divertimento nel tuo discorso veramente ma infatti io farei una distinzione
+c'è un conto e sta iniziando a imparare allora impara in partigiana anche anche non di como zero però
+uno otto non lo so ma già vecchio va benissimo per iniziare a imparare anzi magari
+linus io non so se giava c'è la stessa cosa che c'è sushi place glassa e sushi place place paradossalmente è più facile impararlo al contrario ma nessuno lo insegna il contrario
+più facile impararlo da adesso non dico dalla versione ventitré che l'ultimo ma dalla diciassette
+diciassette è un linguaggio un pò chiuso in se stesso finito che è una bella macro si place place originale ciambelle c place place e voluto bene e sarebbe più facile insegnare prima sulla spiaggia diciassette e poi tutte le ricerche che sono di retrocompatibilità con ciò
+non so magari su giava esiste una versione che è un po' così
+e quindi io direi se c'è una versione del genere piuttosto imparare quella se uno sta iniziando a programmare non perchè si vuole vendere se uno si vuole vendere sono d'accordo su tutto quello che hai detto perché comunque devi puntare a quello che su cui c'è ricerca di mercato
+però se sta imparando a programmare e cioè a separare malesia solo puramente proprio livello di studi studente esatto però allora ecco che diverte non necessariamente
+o mio diletto minimo lavorare su paradigmi object-oriented paradigmi funzionali quindi prendere due linguaggi che diciamo qui che sviluppano bene questi due paradigmi uno potrebbe essere giava un altro potrebbe essere in uso
+così a uno dell'adr amazon jeff
+un notevolissimo perché magari santa fe
+lo conosco lo conosco poco ma lo conosco
+tosca la somma seppur rimanendo in campo
+sì
+non lo so
+bene ho nel film fuori dal coro perché
+invecchiando poi si possono coprire sporco può essere un programmatore full stack
+e chi comincia anche solo pensate alla complessità di dello stato nell'applicazione react redacted piuttosto che le transazioni su un week-end siamo sicuri che un programmatore di ventitré anni che esce dall'università e probabilmente non ha nemmeno mai visto hit essere chiari possa
+sa affrontare tutto lo stack con profitto vero invece di dire sì posso modificare lo stile lì e risolvere il bottone che diventa da rossa diventa verde ma non so bene nemmeno come farle quando si fa il programmatore full stack a volte di questo si parla se io preferisco
+e in azienda da noi un po' lo facciamo un percorso che almeno all'inizio sia più orientato verso un
+un frontend backend perché ognuno ed entrambi hanno una dignità e una complessità se vogliamo esponenziali e chef onestamente io non mi sono mai lanciato a parte qualche tutorial in su angular area più e compagnia cantante perché per me
+se non posso metterci mano per carità non voglio dire che non ne so niente ma
+da lì a dire stop programmare bene può
+un front-end java script timed hit che dir si voglia
+ce ne corre così come qualcuno che faccia che è molto spostato sul front-end che mi venga mettere le mani su una transazione verità non dico bancaria ma anche michael comments facendo l'esempio più banale lato back end parliamone cioè
+non a caso in questo momento poi si se guardiamo bene e un pò un movimento che riporta un po' le cose verso altri paradigmi sta pensando
+a katie mae sai che in questo momento sta emergendo sta pensando a jago che è sempre sulla cresta dell'onda anzi premete quando citi le startup molte partano anche te
+la cosa di questo tipo
+insomma
+perché e torna a dire una cosa che ho detto anche prima a volte ci complichiamo la vita cercando di fare cose che si possono fare anche con maggior semplicità
+però nadal a quello che dicevo
+secondo me è saper fare bene le due cose ci vuole tanto tempo ci vuole tanta esperienza e non a caso e abbiamo un po' tutti i capelli bianchi wilson sì però sono d'accordo in generale assolutamente famose cento percento sul codice però torna un po' quello che dicevo prima come
+come se lo potrebbe che a un certo punto sono anni fa mi sono messo a lavorare sul fronte hanno poi portato poi tutorial progresso verso una che mi considero un uno sviluppo del front-end qualsiasi esperienza però mi ha fatto fare cose che più hanno un gel disegnare una wiki lavorare su wired una cosa che non ho i dati apre nuove ipotesi si apre come parlano link
+buono buono poiché mettono in parisi nuovo io vedo solo due bambine bordo fuori che parlano quattro lingue a dodici anni e chiaramente e a porcia nuove lingue per loro diventa molto molto veloce non è
+quindi lavorare su cose diverse magari non sarai l'esperto massimo su quella cosa dei proti come ti apre a
+tip ti va proprio più spezieria inoltre a fine anno cosa abbastanza intelligente non c'è tutta una funzione i dati entra nella funzione e aggiornano la uae ho incrociato un bello figo per cui si comincia a lavorarci su e poi crei comincia a capire come funziona poi certi concetti e magari riesce anche applicarvi sul tuo lavoro di pagando e altre cose celesti
+per aspro e ragione che chiaramente se se se tocchi solamente mentre solamente il dito così nell'acqua per acquistare poi pretendi di essere chissà chi e poi li che diventi spaghetti mostri dieci secondi
+ed è quello il problema dei diversi frontend resort
+video dice che manca secondo me una cosa fondamentale sul front-end cavour la formazione però in realtà di formazione ce n'è parecchia e deposito l'informazione no nel senso sopra
+documentazione line corsi post diploma per diploma due diploma autonomi cioè credo che ci sia una discreta offerta formativa poi magari cela la nota della vecchia delle vecchie ciabatte come nuove pericolose ma dopo sei mesi di cosa non puoi considerarti pronto per affrontare
+dare una problematica goni
+aziendale nel tuo campo di specializzazione e di formazione però in realtà io noto anche
+che molto spesso basta poco come dire front-end developer tempari il tuo framework di riferimento e magari anche il tuo se specializzato su wordpress org ago così via quello sai fare poi per quello sai efficace e portare avanti quello che viene chiesto su quella tecnol
+logia poi hai sempre tempo nel crescendo per divagare approfondire a recarti su altri linguaggi e così via
+credo che permetteva due sente su un argomento ha senso
+prepararsi bene su una tecnologia che viene richiesto al mercato anche se non sai niente di quello che c'è sotto e poi col tempo colmare le lacune aggiungere ad allargare le conoscenze e allargarti ad altre tecnologie
+si sposa a parlare a partire da su tutto subito c'è così tanto olmo le cose da sapere mondo informativo che
+la cosa che ho notato vivendo anni l'essere che l'italia è una cosa che non avevo mai considerato nella figura di un mentor cioè
+all'estero si di più questa figura non qualcuno che ti ti ti ti aiuta ti guida ti ti ti fa vedere una strada e io credo che più che la formazione a volte sia più importante avere capire di quale potrebbe essere la persona di riferimento è avere coraggio dei sentimenti ti va di assorbimento per un po' di tempo così mi spieghi come
+mentre può essere magri on sunshine developer per la tua azienda non dev'essere studio della play by chat però produciamo
+avere questa umiltà e anche capire quale una persona che potrebbe essere alta a questo tipo di ruolo e se a volte più della formazione perché di programmazione network è importantissimo ovviamente poiché il quale formazione non l'esperto a cui chiedere ti fa risparmiare tanto di quel tempo che se effettivamente si può ed efficiente livio parlava di ispica
+formazione interna all'azienda quindi non non sento quello che accennavo io e l'intero team come quartz dipende la cultura aziendale perché ci sono aziende in cui questo viene istituzionalizzato e ci sono aziende in cui questo non viene minimamente considerato e comunque sono molto più
+diciamo individualiste come aziende non voglio far nomi perché
+però ci sono aziende che per esempio so che hanno un team di formatori interni che che sono persone che semplicemente
+vanno presso altri team imparano le problematiche e riportano generalizzano le cose per tutta l'azienda poi spiegando le soluzioni che hanno trovato e ci sono aziende che questo proprio non ce l'hanno e sono molto più
+dei silos e quindi dipende molto dalla cultura aziendale enel non ha
+c'è lavorato per multinazionali anch'io e non tutte sono mucche non sono tutte uguali alcune alcune hanno molto di più di quello che dici c'è anche addirittura istituzionalizzato cioè all'interno della della gerarchia esiste il team che fa soltanto quello è
+le altre invece
+no quindi non è un problema italiano contro resto del mondo ma è un problema di culture aziendali diverse forse in italia più frequente è quello
+quello che è individuale e individualista e perché poi come diceva alessandro è un senior o un esperto di ti dà un'accelerazione doppia ragionò quando avete fatto la puntata sulle che tu hai fatto generare quel pezzo di puppet che dice faceva lei foundation sul sistema operativo nato è detto
+un programmatore esperto non lo farebbe non scrive mai il codice favorirebbe sopra riconosco
+stephens
+visto che coperte e archivi cipro epatite le best practies
+riparlo trenta secondi volte me le spieghi e faccio un salto fenomeni propriamente esatto è quello che è ma credo che vagano ovviamente su tutti i linguaggi tutte le cose da imparare e ed è quello che fa un pò la differenza perché poi anche come si imposta un progetto no uno può partire con le belle intense
+zioni ma all'esperto sa già alla già viste tutte no e sai già come gli errori potenziali le insidie di certe cose di certe scelte cos'è meglio fare cosa non fare poi è vero che si impara sulla propria pelle e e scavando dentro no e poi anche vero se scavi scavi scavi la tua fossa su un problema
+che poi magari uno ti risolve con quattro parole troviamo giusto compromesso fra sudarci dentro e avere qualcuno che ti aiuta a risolvere i problemi più in fretta così puoi sudare su altre cose
+è
+però serve un po' di balance serve anche starci dentro persino penseranno i pari sono ti dice tutto è ovvio che non impari niente però è anche vero che se tu ti fermi davanti al big air bag al problema ha quella cosa che l'esperto ha già visto trecento volte e sa riconoscere al volo e credo che valga per tutti
+di tutte le teologie tutte luminose e gli ho raccontato della mia esperienza con kubernetes quindi hai presente che
+sì sì sì mamma e il valore del no del mentorship che si diceva prima averlo magari una azienda una figura così che ti chiede aiuto quando serve però tu comunque fai avanti il tuo lavoro poi magari ti aiuta anche lei alia il problema e di come ti aiuta li ha magari l'aiuto di ti sembra aiutare poi disparati rintracciate in maniche
+che ti creano più problemi di quelli che temi i soldi per cui anche alice compromesso e diciamo che lei è l'esperto e il mento a disposizione di tutti
+ma essi c'è da fidarsi io non mi filari lo continuo a vederlo qualità del merito l'ho visto oggi con un cliente aveva fatto in quattro e quattr'otto uno script python per fare interfacciarsi con pia ha aiutato documentazione fatto tutto ha spiegato spiegata fatto lo script c'è potente un lavoro di giorni che avevo messo un bel ripasso i giorni l'ha fatto in pochi secondi
+poi ci sono messe tre ore di bergamo
+con io che non son di python e intanto cercavo in giro su bathsheba four loko capriole logiche di
+se queste cose insomma più o meno e anche lì ah be' tornando alle scuse prima fosse lei a isee beh se sai già fare le cose perchè così capisci in fretta come c'è magari ti fai in fretta una una una struttura base con comoda però poi quando c'è da risolvere i problemi di sei squadre in fretta
+allora vedo che si stanno scatenando un po di commenti e mi ha un po' di vederli insieme christian ha giustamente questo discorso sui i framework sono sempre più orientati alla facilità d'uso e dannoso fan di freno tutto il software sta wendy sta diventando sempre più semplice da utilizzare non a livello di
+avvicinarsi all'utenza e a tutti i livelli se vuoi anche le richieste dei sistemi anche se poi si sono stratificazioni comuni infatti dice per questo per esempio fece creare un app react in dieci minuti e poi da lì son tutte vaste praterie verdi su cui lanciarsi esatto con tutti i vantaggi
+svantaggi del caso e
+qualche commento al riguardo anche spring puoi creare un'applicazione spring boot in vaso sono esprimi di kaiser dieci libri che vuoi se un'applicazione pronta in dieci secondi poi
+poi però devi finirla delle figli della carità e deve finirla
+però una cosa sola un codice diverso sul linguaggio python eccetera
+la differenza di genere codice generato da due stelle lemme per codice di front-end soprattutto di ace offriamo così noto un sacco documentazione esempi e molto migliore rispetto a linguaggi di back end dove c'è librerie più complesse cetacei in codice di fronte diffuso anche
+x eccetera e per me è molto buono e moto anzi diciamo cioè adesso francamente se avessi trent'anni di meno fare una startup a settimana cioè letteralmente farei una startup a settimana perché
+farei venire già totalmente poco mettere su qualcosa adesso è il suo tutte livello di cioè della moneta
+anzi cosmici che all time
+fare una startup a settimana
+adesso perché non fai più sei stanco e invecchiato e gomorra lo ciò
+tempo non c'è giorno nel frattempo
+abbastanza da tavolo e no ma in realtà
+un po' di tempo fa ho fatto una cosa con mia moglie visse quantità berlin germania il sistema a berlino sul tuo sistema delle scuole è abbastanza poco digitalizzate quindi nessuna piccola startup per le scuole per troppo low
+einstein
+a cohen battuta su giava la complicazione di affari aiuti non è vero non è vertici non è vero ang questa è una storia musei questi solo dopo che siamo diversi studi in chioggia è complicato perché magari qualcuno poi cita le classi di spring che ci hanno tipo fa sab builder controlla questi nomi lunghissimo
+in realtà al codice della droga nel complesso un complesso tu guarda in applicazioni di base di spring
+puoi fare tutto in una classe già praticamente con incluso database access key mapping e transazionali tajine in un in un solo codice zhou passeggiava
+quindi c'è una complessità sempre del tutto eccetera emesso dal sorrisino per home
+zona sud-ovest e abed davide
+un'azienda per la figura del mentor però dopo un passato in realtà multinazionale tornata in italia e questo ci può essere un caso può essere un sintomo del fatto che magari in italia se meno sensibili rispetto a certi posti all'estero però
+dipende dalle aziende anche in realtà il mentore un concetto diciamo che non deve necessariamente legato all'azienda in cui lavori tu puoi anche trovarti un momento fuori e vedere se il ruanda approcciare una persona che in qualche modo conosce attraverso frequenti un metaphor qualche tipo che tipo di situazione come questa
+amen
+se io metto un po' di messaggi che sono arrivati ma che bene o male vanno incontro a quello che sandaletti anche noi la soluzione un problema anche la capisci solo quando ci ha sbattuto la testa prima ed è vero
+però è anche vero che sbatterci la testa per dieci giorni e il mento che la risolvete la spiega in dieci minuti e ben venga il mento poi magari l'hai capita non completamente però se ce l'ha spiegata
+weekend
+è
+beh qui c'è la battuta di christian andrea vasapolli divorziare in aula già proprio of the ottieni
+è
+brave poi sulle startup una sata park settimana il problema ne fa fame puoi tenerlo in piedi
+no ma se posso se posso dare un link a un di ciò che soffrì podcast è la sfida che a me non piace però alto giorno ha intervistato conseguenza vescovi beach ma faccia tette
+sauro l'adesione a intervistarlo è un bel podcast ve lo consiglio ha intervistato come si chiama
+sono weston
+ha intervistato ha intervistato peter lely levels che c'è un universo questo mondo che ha creato un sacco di startup e
+è il racconto un po' la filosofia che lui ha avuto luogo questa preghiera vestita uno dei primi diciannove ha creato nomad list
+è lui a presidiarli fai fai un sacco di roba poi c'è qualcosa che che pack stick quattro invece fallisce dopo dieci giorni ma non importa basta ai continui a fare poi
+qualcosa alla fine è questo punto il primo punto siamo visto che ad essere così facile tra deplorare qualcosa che presentano cosa più niente più niente più immaginato dieci anni fa fare un deploy dell'applicazione java un database era abbastanza complicato adesso c'è tra cloud herzen cui siamo qui lo fa in tre secondi il frutteto fa il mezzo generale
+che aspetti
+vabbè questo è il link cave qua non si nacque nacque felice
+e nel videoclip terme einstein
+il competitor
+vero mi piace la redazione mi sta antipatico lo trovo un po' e un po' compassato diciamo però c'è tiratore ha tirato dentro la serie di ospiti diventano un ramo senza nulla togliere ai presenti
+la puntata dopo alex dopo questo lei c'era donald trump tower
+e se henry
+elon musk ma non è solo quello anche solo sull'ambito informatica tira su delle vere persone tipo chris lady nail art l'ha invitato quattro cinque volte chris è uno che si è inventato alla qualunque è in ambito di linguaggio swift progetto cliniche che era il pm
+e adesso mogio
+e nell'intervista si capisce che si conoscono bene non è soltanto il fatto che non stai intervistando ma che si conoscono perché si fanno delle battute abbastanza personale online non so se andrò msdn con in computer science
+alex friedman si insegna l'export machete si vieste in computer science ma non solo e anche da quello ho capito figlio di un'altra un altro professore universitario che faceva russo che faceva fisica e psicologica stanza famoso
+quindi diciamo che sono ancora più grande
+exedra allora se siamo siamo sicuri grazie manager tre ore c'è già solo pensare alle domande e trovare gli ospiti intervistarli hai già finito la settimana secondo me allora mettiamola così visto che mi avete chiamata ve la butto lì e
+noi abbiamo un mrc limitato a pepate che sono quattro gatti anche adesso che ci ma perché siamo in italiano in italia adesso io fra poco lancerò questo altro podcast che vi invito a sottoscrivere se non c'è nessuno non c'è niente quindi sareste i primi
+e qui ci sono fior di ospiti ed è internazionale sai in inglese tra cui tipo patrick de beauvoir che quello che ha inventato il termine devops o denise che quello che ha fatto puppet o chris whitty arte che organizza trecento km zero conferenza su devops prossimo su devops
+sarà il focus della drops devops ai t però in inglese e live almeno non del tutto ha inizio sano più interviste uno però non ve lo butto lì iniziate a malapena alimentare il canale che non c'è niente adesso non ci sono neanche iscritto
+non c'è nulla vabbé ereader così provateci vedremo cosa ne viene fuori ormai mi son fatto prendere da questa mania di ieri fra le cose ho fatto l'abbonamento streaming hard adesso devo ammortizzarlo insomma
+vabbè comunque ridendo e scherzando abbiamo parlato per due ore e un quarto e direi che
+abbiamo parlato abbastanza avete qualche ultima cosa da aggiungere e prima di salutarci ma ti direi fissa n'è un'altra da qui a cinque anni così facciamo una retrospettiva
+e vediamo a che punto siamo arrivati ottimo mettila sul calendario sperando facebook
+b de mille sessantadue saremo ai livelli di man
+forse l'ex forze
+noi speriamo di essere al livello degli ospiti di voi sarete a livello di de gasperi leeds e famose
+jacobs
+marco luciano il vostro
+chiusa ma non saprei ciao direi
+per chi entrare in studio compiuto azioni se adesso entra nel mondo del lavoro o comunque giava al di là di tutto permette ancora di down etc da un punto di vista professionale
+perché se semplicemente più lavoro al momento ancora tra sul computer
+scritto ovviamente da script quindi importanti e java quindi se uno vede anche molly lo studio e ha paragoni guaio anche per un'ottica dice lavorarci è sicuramente già e con cavo cosa tenere sotto su tokyo ancora per un po' magari però anche benché fosse meno ha meno appeal
+rispetto ad altri linguaggi più pensi più e qui c'è meno gente che lo segue però la necessità e la richiesta ce n'è e grecia
+quello che dicevo periodo giava otto nov sapete quante aziende ancora lawrence hotel sono una cifra colossale di nuovo con un giudice di
+quindi
+in questa follia un poco non so come ho scritto prima non paul cobol penso che alla fine gira gira un po' quello però
+alla fine visto tutti quanti poi diffuso forse la pagnotta easy jobs è comunque qualcosa ad avere nello skillset un poi ci si può divertire con altre gol
+marco
+ma io dico che appunto io già avevo imparato per tempo perché già sapeva un po' di linguaggio ma mi interessava imparare qualcosa di moderno all'epoca
+e adesso comunque mi sembra un linguaggio non avviene nulla da invidiare agli altri quindi se qualcuno deve imparare un linguaggio perché non giova anzi studiava si trovano tante risorse per imparare almeno per la mia esperienza passata c'era tantissime risorse libri per iniziare da zero perché come
+facesse regeni per per molti anni è stato il linguaggio che viene insegnato agli studenti di informatica anzi è vero che gli ho fatto il novantanove l'ultimo progetto ma poi per un sette otto anni dopo ho comunque tenuto corsi all'università in cui segnavo sia c e java
+quindi
+e molti usavano java come linguaggio
+base per informatica uno informatica due profili
+si trovano tante tante tante risorse per imparare java anche in autonomia
+perfect
+allora perché no esatto è
+allora io vi ringrazio siete stati tanto tempo aggiornato su questo meraviglioso mondo di aba che il sab morte davvero appeso adulto esterno che non ne sa nulla qui siamo un po' decadente in realtà è tutt'altro che decadente
+e poi ringrazio anche tutti quelli che hanno partecipato in chat carta livio gary cristiana luigi davide cosimo e ti aspettavamo in cooking live cosimo e tommaso alessandro andrea e tutti quanti
+francesco quattro gatti
+quattro gatti tira già aveva questo portò a scegliere quali la gente pochi ma buoni di quelli che hanno hanno atteso fra fa chi parla e chi scrive non è che poi siamo siamo sempre l'unica delle competenze siano varie sovrapponibili e e e ne ha ad
+dire anche che chi segue insomma e non soltanto vista accurati
+collegato in stream comunque come tradizione non punire questa brigata è aperta un pò a tutti e per cui se uno è in chat de slots lo dico per applicare somme hanno visto questa puntata per la prima volta
+sono incerte vuole intervenire me lo faccia sapere in qualche modo gli mando il link e si può collegare alla culla e direttamente
+e questo e quindi per oggi grazie a tutti e alla prossima
+ciao ragazze

@@ -1,0 +1,471 @@
+esempio due se ne avrò mai allenato il floor
+so o goodman è bello morris lui e poi faremo i big brother sampling end tuoi
+this room
+su newsweek pisillo ulteriormente isis
+il broadway and home box e mio figlio william
+vuole volete mi box gara west maschio pasqua hughes che non che sia open house kings county qualche esempio paolo semmai l'idea europea del sunday times già espresso capslock watch tower
+poi c'è lo immagino
+s e finalmente grazie all'intervento del sistemista anche le password funzionano col capslock disattivato questa prassi min song e questa settimo episodio della brigata degli istinti è dedicata a sistemisti e messer e devops vedremo un po' e che cosa è e cosa non è siamo e cosa faremo
+e lo facciamo con bee facce note facce nuove come prassi buon cosimo il buon gianni e poi rughe o tonelli che invito subito a presentarsi presentazione breve
+rigenera tonelli sis admin da una vita più di vent'anni ormai
+ma adesso sono platform in primis passare per la biglietteria
+questa è un'impresa di marketing research quelli che ti dicono se la lattina della coca cola nuova piace o meno
+e come intro vasta dove sono stato negli ultimi undici anni direttore di sistemi in un'impresa di outsider security che non si può nominare non che quando mi sono trasferito in spagna ero solution architect
+bozen ingenia parlavamo prima
+partner di amazon è per quelli più vecchi che hanno trafficato con linux agli albori forse si ricorderanno di valtellino è come noi quelli outdoor
+di quelli che organizzavano i meeting nelle alpi a base di pizzoccheri ho un buon evento è gente che ancora se lo ricorda e chiede il bis ma possiamo farlo barcellona nelle alpi già sarà un po' più più un disastro kebab va non si può dire mai mai dire mai
+bene allora revival revival a pizzoccheri e container allora e abbiamo intanto cosimo che c'è non c'è lui è in giro a cercare prove per cui ha tutte le ragioni del mondo per potersi distaccare però tutti o tutti ecco
+c'è esatto e faremo in modo di paga di sei per strada quindi esatto potrà intervenire come vorrai quando vorrai e allora io inizierei a partire dal titolo che
+quella di questo episodio operations sessantatré arabi e in particolare questo fantomatico e sai la ingenia che per voi che avete sicuramente letto il libro e saprete più di me che cosa s'intende esattamente potete spiegare un po' paul cosa si intende per essere re per rispetto a quel
+che poteva essere il buon vecchio sistemista o il più moderno come sempre tra virgolette dei box ingenia qualcuno si vuole lanciare in definizioni abbiamo principal scusa chi meglio o no
+esatto chi meglio di te
+passa il pallone dai ok quindi in teoria gli albori era un incubo e quelli che non sapevano abbastanza di software li mettevano mantenere le piattaforme ma se vogliamo andare rasi grassi quindi erano quelli che si occupavano di mantenere il sito gugel funzionante per
+tutti i nova saltiamo la polemica è quindi l'obiettivo principale
+i jeans mantiene la vela vigneti di tutte le piattaforme che abbiamo
+in teoria si applicano concetti molto più vicini al software developer che al si salvi per rassicurare mantenere quello che è la disponibilità della performance di le delle piattaforme che uno ha
+che poi era quello che già il sistemista e non è che è molto diverso o no esattamente chi no sistemista andava l'antico nelle grida del capo adesso in teoria si guidano le metriche lo script hai vuoi possiamo fare tre o quattro puntate sono e come scegliere le metriche
+per adottare sam raimi o la forma in genere interessa
+è la parola di moda
+sempre quello e alla fine cliniche devi mantenere quello che hai funzionante per il novantanove comma novantanove nove per cento e devo dire che su questo molto si è fatto negli anni poi ne parleremo cosimo stavi dicendo qualcosa su essere sistemisti era solo la piccola proroga
+azione nel senso che tu hai detto era quello che faceva
+cesate della vecchia scuola e
+diciamo che anche roberto segnalare nel senso si potrebbe dire di sì secondo me
+è un discorso che magari si può approfondire azienda ma potevano anche adesso perché puoi dire di sì perché alla fine lo scoppio allo stesso tenere in piedi i sistemi di no perché i sistemi sono cambiati forse e le metodologie con cui si tengono in piedi si gestiscono sono cambiate però alla fine lo scopo è sempre quello no fare mettere in piedi infrastrutture gestione fa le fusa
+uno psicologo è una cosa che è stata introdotta in quel libro league un po' ha dato il via al tutto perché senza quel libro probabilmente la definizione non so se sarebbe uscita allo scoperto proprio quello che ci è piaciuto è quello che dimostra quel libro lì è la questione più che
+l'assemblea ha quindi greenpoint con con l'utente finale e l'obiettivo uno di modo che poi uno può ipotizzare di avere un budget di tempo da spendere in innovazione da spendere nel fare cose amico budget li interessa perché poi deve migliorare un'infrastruttura ma
+che non sia un'infrastruttura o comunque un pezzo software perché a quel punto lì non è che delle cenge nel meccanismo dei cinici rientra solamente l'infrastruttura ma ti rientra tutto il software che può avere impatti sull'utente finale sempre col budget minimo un po' aperto la mente lo spieghi meglio il concetto di avviare in dettaglio nel budget
+l'errore budget secondo me quello è una cosa che durante fasi di ingegneria dell'innovazione e per investirci no no
+chiedevo vuoi specificare meglio che cosa si intende per quello che ne so io che comunque l'estensione oltre a quella quel libro lì non è che sono andato molto nel dettaglio per cento percento non lo puoi avere mai e quindi tu esisti e questo è già comunque far passare certe aziende dire il meglio che posso non è un obiettivo
+e prova quantificarlo e quindi le stelle howard se il tuo obiettivo il tuo obiettivo e novantanove punto oltre al punto nove zero per semplificare semplifica nel calcolo teoria hai questo
+la difesa trecento il tuo obiettivo dovrebbe essere il tuo budget di tempo che puoi spendere in eventuali casi nel momento in cui tu vai sotto quel limite lì non puoi fare cambiamenti di nessun tipo in produzione se non siano cambiamenti in urgenza o o o ma non migliorativi quindi
+tu ti puoi permettere di essere peggio di così detta male non no l'ho
+no blair o il budget finale quello che ha e sottraendo il tuo ipotetico sla oslo da dal cento per cento
+secondo voi quale sto straker budget quanto è migliorato negli ultimi venticinque anni
+al contrario quanto è peggiorato no adesso se vuoi cinque nove quanto sono quindici minuti quattordici minuti all'anno di leung ting non mi ricordo quattro minuti a qualcosa e io mi ricordo che ai tempi in cui lavoro inciampi se non c'è un danno al giorno non eravamo contenti adesso è impensabile che ho detto
+perché tanto ormai chi se ne frega
+però c'è nel senso io mi ricorda i tempi le operation sarà un bagno di sangue c'è nel so infrastrutture stabili senso poi si parla sempre come lo calcoli e lì il discorso
+quello che è
+avete
+il contratto tu lo fai con aspetta in qua e business meno con quelli che vendono al finale con quelli connessi level il tuo contratto questa parte di questo servizio novantanove normalmente è quello che cara al cliente o a scusa per quello che
+client racing point nel facing scusate ma io continuo a mischiare quattro lingue abbiate un poco di pietà e ce ne basta che
+di quello che succede di dietro quello che impatta il cliente
+lasciamolo irrilevante perché alla fine se uno può usare il tuo servizio è quello
+nel decreto ed mod io posso usare tuo servizio senza vedere le animazioni di venticinque mila colori o senza accorgermi che c'è un problema se il problema è che con due livello garantito e alla vita ma io mi ricordo ai tempi era molto
+il down usa facing e la resilienza e soprattutto con odierne anni luce avanti rispetto a quello che era
+quindici anni fa vent'anni fa questo io non ho quindici anni fagiano e dl west di linux esistevano già e funzionano abbastanza bene io mi ricordo ancora in data center quindi già eoni
+ere geologiche fa potevi mantenere thai
+più che serie di fatti
+io non le calcolo non c'è non si calcolavano non c'era con l'attenzione qua c'è una cosa che una misurata
+dipende quando ho incontrato il maestro
+le misure nostre cose quindi eri obbligato anche quindici anni fa che poi si faceva male può essere però tipo con bus e altri accorgimenti re stava spagnoletti per poter parlarci anche di load balancer arduo era ancora in banca
+avrà usati io c'erano erano tutti i software ma
+volendo nap time di almeno tre nove quattro nove era possibile a chi c'era gente che c'è a barche di milioni nei primi duemila con sistemi che assicuravano un'alta disponibilità della serie switch in frazioni di secondo faceva barche di milioni di euro di adesso non di lire
+potevi farlo dipenderà tutto da noi
+del ticket e a chi avevi di gente e se il signore che stava dietro che aveva codificato tutto quello che hai messo in piedi era fu il colera in tono perché tu puoi montare quello che vuoi cinquanta database plastica da dama se il signore che ha programmato il driver di mais sicché si connette a questo tab
+bates non sai ridi allogare il link point è venduto ma questo come tanti altri componenti e pezzettini e infrastrutture nel corso degli anni sono evoluti se sono raffinati chissà ci sarà esperienza ma tutta roba che agli albori di internet quando è escluso
+grande boom dove tutti si buttavano si lanciavano e dove il programmatore junior era strapagato perché nessuno sapeva cosa fare e come fare certe cose io i papocchi giganteschi liberi e voi li vedeva come forse era un caso particolare ho io
+parte del problema però è mamma mia io non ho confronti rispetto adesso io adesso tu hai la possibilità di avere resilienze geografiche ridondanze pazzesche parata prezzi e gusti e con airport irrisori rispetto al passato e poi le tecnologie al riguardo sono
+evoluto in modo notevole
+diciamo che sono più a livello di cristiano normale va bè allora voi avete forse abbiamo tutti avuto un po' un passato da sistemista no come lei oppure qualcuno che lavora sui sistemi magari più o meno col più o meno a avere
+che comunque deve mettere le mani sui sistemi adesso il punto è qual è il sistema su cui si mette le mani esiste ancora e c'è chi il sistemista come figura professionale ha ancora senso parlarne e in quali contesti secondo voi o dirò meglio il sistema
+c'è va dal punto di vista datacenter linux o cose di questo tipo una figura che è stata un po' convertita non so se l'essere o comunque diciamo che io non lo so quasi nessuno si definisce il primo bacio della parola devops antani che vi deve devops
+una supercazzola però dicevo si sono tutti convertiti un po' di lì poi quanti davvero facciano devops lì dentro deciso comunque sempre anche nel grotte
+aziende
+un briciolo di roba manuale rimane perennemente questo non lo so se le vostre esperienze c'è avete incontrato aziende davvero fu l'automation di cibo dalla a alla zeta fatto tutto fino poi c'è una questione sopratutto di definizioni perché poi se non si fanno difensori
+chiave forse si fa sbarellare un po' a caso è la questione cosa si intende per sistemista perché per come la vedo io tutto sommato allora o fa il tra virgolette claude ingegnere quindi non hai gesti non gestisce i tuoi sistemi c'è qualcun che li gestisce per te è un'altra cosa o fai o hai dei sistemi tuoi da gestire
+dire quel punto ti chiami e sistemista sistemista meno la stessa cosa cioè poi anche se lo fai con tutta l'automazione il caso se comunque sistemista non è che ogni anno ingenia giusto perché ma quello comunque è il suo ruolo cioè gestire i sistemi poi lo possiamo chiamare come ci pare ma per come la vedo io anche anzi storicamente il sistemista bravo e sempre
+che è automatizzato quindi il fatto di introdurre conviene legare un po' l'automazione a devops è un po' una forzatura da boxe e anche automazione e tutto quello che vogliamo però non è che è propria solo l'automazione del mondo devops un sistemista bravo nel duemila nel duemila automatizza
+ma il più possibile magari con chef engine magari con script kickstart e roba varia però automatizzata e quello cos'è diversa non essere adesso solo perché si mette troppa per essere re o strumenti sarà sicuramente cambiate non ci ha dato una mano nel senso che senza certi strumenti c'è che hai citato
+gin voglio dire di di super nicchia nel silenzio erano roba che già poi l'avvento di altri strumenti in pochino più più user friendly che ha vinto il già stiamo parlando strumenti comunque complicati
+ha iniziato il tutto diciamo che quello che vedo differenze se vogliamo fare analogie col passato e che magari una volta era un pochino limite tra l'isis admin e chi facessi un altro tipo di lavoro più verso la programmazione era più netto
+competenze di un certo tipo o di un altro adesso secondo me se vuoi stare bene nel mercato del lavoro comunque
+dov'è
+cioè devi saperne un po' di tutt'e e due in silenzio deve avere comunque un animo da programmatore di lavorare sui sistemi oppure i del codice sia i codici di prodotto però non puoi non avere delle nozioni minime di qualcosa che subisce che vada nel mondo container che non va
+i sistemi in generale decimare prima insomma c'erano differenze più netto sono anche dire che magari nel corso degli anni le competenze richieste a questo ruolo sono anche cresciute e si sono allargate e non di poco come una volta sapevi un po' di linux in teoria potrei definirmi un sistemista adesso linux e il prete
+squisito ripete come l'inglese e tutto quello che c'è sopra dal buon filippo che ci parla di terraforming sta per se usi terraforma o qualsiasi tecnologia usi per automatizzare in loco o su cloud con tutti strati di conoscenza che uno si deve fare no
+come dire io vedo un po' di sistemista ma volevo essere sistemista devops ingenia chiama municipale in teoria per farlo a livelli come dire
+elevati le conoscenze di base necessarie
+ho come l'impressione che siano cresciute in modo non trascurabile chiamiamolo assiste da ingenia anche se i sistemi sono tutti distribuiti quindi toccherebbe al giudice di un distribuite davanti però il tempo con quello che parlavamo prima fuori onda le verticali di adesso si il sapere un po' di tutto ma
+le verticali di adesso non te lo permette
+uno uno sherry normale corrente almeno programma in python però non sarà mai bravo a programmare in python come uno sviluppatore però sei stato parecchio stessa cosa il sesso sullo stato rotto però secondo me sapere le basi di un linguaggio qualsiasi da acqua
+solo che era il vecchio sistemista davvero quattro marce in più però questo te lo compro quello che dico io che il l'unicorno del devops
+secondo il concetto creato dai nostri recruiter bari
+un po' sbagliato un poco perchè
+con le verticali che ci sono adesso non puoi sapere bene di due mondi bastet bastante che sono anche simili per un certo verso adesso perché con tutto il set de mars più o meno sono mischiati però le verticali sono tanto alte reflue
+adesso prendiamo uno qualsiasi che va legge l'ultimo blog post può farti il deployment kubernetes infrastrutture dalla storia già spero non lo farà mai bene come qualcuno che si dedica per la maggior parte a quello di questo è più o meno il discorso che sentirà
+negli ultimi dieci anni se c'è il famoso adesso gira un po' questa immaginetta sui vari social della figura ti vedo malattie conoscenza molto verticale su una singola cosa e poi orizzontale ma molto bassa su me medio-bassa su tutto il resto sarà rispetto
+figura vii dove la conoscenza verticale va un pochino allargata a più aspetti perché poi è necessaria e utile per adeguarsi al
+già parliamo di pesce come sapete i costi shepherd sono geron toffoli del secolo scorso esso non puoi essere assolto shepherd dovrà essere almeno beh devi avere almeno due verticali doppia
+se vuoi che il tuo assegno sia più interessante e devi essere almeno come se riesco a questo e a pettine deve avere uber a cagli di expertise sta non la sapevo mi mancava e con cui non sei stata la mia ultima presentazione in cui decidevi se non sei una se non hai almeno cinque competenze di base
+se non entri nella mia azienda no però vediamo
+adesso con quello che costa assumere gente piace sia trovarla che pagarla quando le provi non ti puoi accontentare di quello che viene e ti dice io sono certificato con kubernetes faccio kubernetes però faccio solo quello prima
+explain estende devi sapere cos'è figlio mia
+qualcosa di database devi saperle anche perché noi facciamo tre a come c'è piaciuto farlo noi facciamo serie platform ingegneri nello stesso tempo però quando distacchi qualcuno
+in un team di designer room di sviluppo quando stai facendo una infrastruttura nuovo prodotto nuovo deve andare qualcuno che sa un po di tutto di questo di questa parte almeno sistemi database un poco per
+se non c'è una figura dominante nel team dove lo distacchi per aiutarli con le decisioni che il motore di database usare che t che
+the schemi usare o un sequel un database relazionale che
+per parlare di altri unicorni c'è questa figura mitica del full stack developer che
+sì potrai sapere cinquanta linguaggi e sapere cos'è mongodb ma
+possiamo ottimizzarla questa cosa o torniamo
+a vitigni install al punto di partenza se stesso avverte però perchè chissà quattro cose di linux perché magari non sono proprio quattro però un punto di partenza un punto di comunicazione la devops alla fine lasciando perde il termine devops usato dai carl è quello
+una barzelletta ormai è una guerra persa ormai devops è diventato una professione ma che non è non essere così però devops come movimento nasce anzitutto come un modo per comunicare tra due gruppi tra due mondi erano un po' separati fino a scendere mia io sono pro devo
+ops
+metto al tappeto rosso quando c'è qualcuno che sa più di un linguaggio di programmazione conosce anche i due tipi di database predominanti non non sono assolutamente contro questa cosa sono contro la perversione di questo sistema che tempo un po' come quando dan clark
+washing se lo ricorda qualcuno come termine no quando è arrivato al clown nel duemila e qualcosa tutti avevano sua cosa per il cloud della tav watching ne sentì nel senso che una cosa che rompere mai se segue e continuava a essere on premises di mettere una parolina cl
+houda davanti quelli di sales
+tu avevi immediatamente il drupal claude edition o qualsiasi altra cosa io mi ricordo duemiladieci quando abbiamo iniziato con amazon queste cose per qualsiasi cosa con un clown davanti lo stesso è avvenuto collo del devops che lo stesso sta passando ad est
+con forma genere sono le ondate di come dire di moda e tendenze che poi sono termini però la persona che dietro e che cloud non era nulla ed emozione nulla e platforms anche se anche qui
+c'è nel senso che non vedo tanta differenza fa cosa vuol dire di essere un platform
+palazzo menghini sei uno che gestisce disegna e minerali attraverso lo scopo è diverso scopo alla fine sembra avere a che fare con dei sistemi da gestire che poi siano sistemi ets crea la tua piattaforma per fare provvigioni macchine per i tuoi utenti o siano sistemi per erogare i tuoi servizi su internet possiamo
+i sistemi per fare il tuo banking sempre infrastrutture sistemica a disegnare e gestire e realizzare per cui alla fine si cambia lo scopra è poco come diceva gianni quello del devops
+un conto è
+qual è lo scopo di di perdere il mouse non riuscire a ritrovarlo e l'altro conto e come si dice
+mi son persa se no alessandra cosa che con la fine uno scopo ma a quel punto
+esatto diventa un po' rilevante il tempo allora per qualsiasi tipo di applicazione fai il ops cop cocktail have parliamo poi di selezione posso posso buttarla lì perché in generale non so se
+nella tua vita lavorativo comunque nel tuo passato vedi una difficoltà come in questo momento trovare persone un filo oscillate c'è adesso io non ho cominciato così indietro come voi quindi mi chiedo era così difficile trovare le persone con quel qualcosa in più anni fa ok
+pure e adesso che è la chimera cioè come come è cambiata questa cosa negli anni ne parlavamo prima con alessandro adesso almeno qui a barcellona
+sta cambiando pochissimo negli ultimi mesi per tutto quello che succede negli stati uniti però trovare gente per assumere che avesse due qualità no una era complicato tour che senso scusa la centrale da dirti per tornare alle terapie
+in piedi prima che sapesse di kubernetes è di amazon per dire no torniamo al discorso dai verticali adesso le verticali sono impressionanti ovvio non puoi essere bravo in kubernetes lasciamolo così se non sai niente di linux group
+myspace quelli linux sono quelli di kubernetes eccetera eccetera che sono alla base della contenere l'inflazione però
+dieci anni fa era più semplice
+no perché comunque giacerà amazon web service che aveva già coi suoi dieci venti trenta servizi che ti toccava a sapere
+vent'anni fa era più semplice chi è no dossier dovevi mantenerti una pace co
+capii dietro ma i sequel non era complicatissimo e questo tuo server unico dove a mantenere quaranta mila autentico dieci milioni di lire questa secondo trovare una persona da aggiungere al tuo
+mystic poteva essere comunque puoi sempre fare dico quello quello che facciamo noi per ogni persona che aggiungi devi mantenere il ratio di due a uno quindi noi per poter prendere due junior ne abbiamo bisogno almeno di quattro sedie per farli cresce perché è ovvio potreste arrivare a quattro
+uno per farlo crescere più rapidamente almeno di mantenere quarantadue non non il contrario come fanno in tanti imprese di consulta n s i o altre cose perché sennò questa persona adesso la moda è
+come si dice assumere per skills e non per conoscimento che però se tu assumi qualcuno pesci gli insegnare per insegnare nemesis hai bisogno di tempo di persone che ne sanno più di lui quindi noi di quello che dico cerchiamo di mantenere almeno un due a uno perché sennò è impossibile che questa persona
+cresca e possa essere anche come si dice efficace possa anche fare qualcosa nel tempo che cresce perché se no
+fai come fanno in tante imprese arrivi lì ti siedi ti schiaffano la piattaforma di e-learning del caso non facciamo nomi perché non ci pagano gli sponsor ai sei mesi per tirarti le tue cinque certificazioni e se no
+ciao è stato bello
+noi intendiamo fare un'altra maniera complicato perché comunque mantenere questi il ratio di almeno il doppio
+da almeno da signora da senior al basso non è complicatissimo a far passare la gente da assegnare a staff principal
+già devi andare su organizzazioni tipo google e usare il loro metodi per passare di livello e non quelli tradizionali sentite visto che facciamo un servizio utile e voi che siete anche gente che assumete perché se le condizioni di doverlo fare e quali
+sono le competenze che voi ritenete necessarie per uno che assumete magari sia per lo junior è un segno che cosa vi aspettate che debba sapere minimo poi per poter essere solo durante la selezione dei curriculum mi sto ricredendo
+sono in continua evoluzione quindi with contraddicono continuo però in generale allora
+quando faccio selezione faccio selezione di attivi i profili devops comunque orientati accaduto national park me se io vedo ha interesse in questa materia è la conoscenza di un qualsiasi linguaggio puoi anche non sapere nulla e per me è già una persona nel senso se uno ha
+non è una materia difficile quella che ho qui secondo me siamo da questo mondo dell'automazione a livello infrastrutturale negli anni è diventata più semplice quindi scrivere quattro righe terraforma propone un po' tutti a farlo poi scriverli bene consenso alla religione un pochino più di prima
+per ora che sarà così difficile scrivere ebook un'altra cosa quattro pezzi nel o con la qualità che c'è non è che sia roba di rachel si dice è una persona che ha un interesse che gridò un linguaggio e riconosce qualsiasi a qualsiasi livello e scrivere proprio quattro righe in python
+malesia scrivere decentemente perché non si creino si chieda perfezione per me quello è un valore aggiunto presso days sicuramente da sentire sta aprendo non prenderlo possibile strada facendo però per me quello è la dote in più che uno a cercare profili quindi
+dopo fa eletti tieni basso dici basta che sappia farsi new age of the seas il cobol va bene uguale perchè poi mette il metodo di pensiero capito che c'è quando ti trovavi uno che ha interesse nella parte infrastrutturale però a quel modo di pensare lì un po' da sviluppatore è lì che escono
+di cose te cosa ti dirigerò io fino a junior te lo compro e fino a middle perché l'ultima cosa che ho fatto e nikkor dipende un po' perché qui puoi tocca poco metterci la psicologia nel senso che tutti incontri con persone senior che sono dieci
+gianni che ha fatto in una certa maniera i se e se vedi che nella nell'intervista è sicuramente un italiano non si dice così nel colloquio e non ti mostra un poco di elasticità
+ivan casinò
+lifestyle perché tuttavia lacune delle cose che nell'immaginario collettivo fanno brillare i sistemisti sono che sono de coccio o che odiano la gente queste cose normali e correnti questi stereotipi che ci siamo portati però invece son le cose
+cose che tu cerchi di scremare direttamente
+la gente che non è stato re team working boy che viene co
+debian uber alles non voglio toccare nient'altro
+oh sì no no quindi
+gente che inizia a dirti colpa degli sviluppatori no non funziona così
+non è colpa di nessuno hanno insegnato che esiste bla bla esse anche altre cose no guarda ormai da noi si fa così rick junior t si tira
+la soft skills indica come si dice per attitudini e della voglia che hanno di imparare questo sarebbe associata junior sopra la junior già consideri un poco la sars poco perché non tutto è uguale anche se abb
+siamo in infrastrutture sacco si iscrive molto picton
+anche lato sherry però ci sono paletti
+ti dico
+l'ultima persona che si aggiungerà al nostro team
+uh sviluppatore che di sistema però è un poco perché crediamo nella diversity anche in queste cose
+siamo tra i pochi di
+di qui che hanno non maschi nelle nel team miracolo abbiamo anche donne che sono sistemista
+un po ti ho detto cerchiamo quello che non c'è difatti abbiamo tardato il nostro tempo per trovare un'altra persona per giungere al gay e dopo più di vent'anni nell'ambiente ai tanti semafori rossi qualcuno sta scritto in varie
+libri eccetera eccetera qualcuno te lo fai dopo aver visto gente che tu dici boh sa di questo borsa di quell'altro va proviamo assumerlo e poi dopo ti ritrovi mi ha fatto fare
+quindi insomma con tutto il bla che vogliamo però ci sono ci sono semafori rossi che dopo un po' impari a rispettare bene cosimo tu ci sei fra un'aurora grazie ci sono ci sono e c'è anche l'aurora qua ce la puoi far vedere o
+non so se si vede col cellulare non credo che si vedrà niente ma è qua e qua e qua con te e non so se posso disturbarti la come dire la contemplazione hai qualcosa da dire su quello che viene detto finora qualche tua
+e allora o resist
+non sono riuscito quasi a resistere di intervenire perché sono argomenti talmente interessante su cui avrai tonnellate tonnellate da dire però guarda ho davanti questa aurora fantastica
+sono combattutissimo e non riesco a però diciamo secondo me è un po con l'elemento secondo me allora io adesso magari chi ascolta dice mai chiesto qua sono venticinque anni che faccio sto mestiere no ho iniziato da sviluppatore eravamo in tre
+chiamiamola startup diciamo dove in tre fai tutto quindi facevo anche il sistemista quello che è sulle macchine raid raid uno o ci servono batterie in caso che il volume no tutte ste cose qua le ho imparate piano piano negli anni per i primi dieci anni poi altri dieci
+anni li ho passati in opera software dove facevamo
+gestivamo e i se i servizi web che erano collegati al browser opera quindi vuol dire milioni di utenti no quindi li ho imparato certamente un sacco di cose che oggi le chiameresti essa arriva erano quindici anni fa come dicevate no e alla fine sono le stesse cose adesso
+è arrivato google dieci anni fa col suo libro dieci qui non so neanche quanti sono ormai sono tantissimi anni fa ormai
+col suo libro moltissimi non sanno che questo libro che google ha messo in piedi è la collezione praticamente delle best practices di tutti i team e
+diciamo all'interno di google quindi loro hanno preso le cose migliori di tutti i team le hanno messe insieme in un libro ma quello che non è come google opera è solamente una collezione di tutte le cose migliori di tutti non so il microteam di tre quattro persone e poi non dimentichiamoci che google questo di questo
+se n'è parlato tantissimo nella conferenza e harry cohn e in ottobre questo passato ottobre ad amsterdam a cui ero presente o record o come volete chiamarla e google al tempo del
+nonno al tempo della pubblicazione del libro se ne parli al tempo della pubblicazione del libro erano due quattrocento
+quindi secondo me è ridicolo ispirarsi a questi queste pratiche diciamo ribellismo l'error budget eccetera ma se sei in tre persone per esempio il mio team in cui lavoro oggi lavoro questa piccola azienda piccola diciamo adesso
+abbiamo cominciato in venti ma adesso siamo circa seicento persone chiamata out in norvegia
+popolarissima negli stati uniti abbiamo una base di utenti molto grande che se
+nessuno ci conosce ma io vi conosco i corsi puppet durante i corsi che si sono messe sonic youth
+chi siamo siamo in quattro persone al mio team e gestiamo milioni di utenti con parco macchine
+ossia permette al kubernetes chi più ne ha più ne metta e the blues world cosa da pazzi in quattro persone
+e diciamo parlare di error budget con una situazione così ti mando a cagare no che senso ha non ha nessun senso quindi scusate se vado un po' a ruota libera ma qua dopo probabilmente staccherò
+ascolta soltanto in una situazione del genere applicare quello che google fa non ha nessun senso infatti questo diciamo era già un po' il sentimento che che noi eravamo nel nostro team poi siamo andati a questo essere con ci siamo
+trovati in mezzo a tantissime persone che la pensano come noi non ha neanche a farlo apposta uno degli organizzatori di restare con chi perché si chiama neal mafie una persona fantastica l'ho conosciuto ad amsterdam in ottobre è stato quello che al precedente essa ricorre in amen
+erica ha fatto questo tour dove lui anch'io note ha fatto il pinot prendeva al google book che lui ha contribuito a scrivere è strappato di fronte a tutti come badare al messaggio e dire guardate ragazzi questa roba qua non è che dobbiamo per forza prenderla con rebibbia
+e finalmente qualcuno lo dice queste cose qua perché ai ragazzi le le aziende sono fatte di team come il nostro di tre quattro magari dieci magari venti ma non duemilaquattrocento quindi ben venga questa diciamo presa un po' di posizione di autonomia della gente che dice io devo fare quello che ha senso
+non devo fare proprio google fa che me ne frega di chi google o altro scusate ultima ultima piccola considerazione e poi avrai anche un altro aneddoto molto molto interessante ma piccola considerazione
+in amsterdam abbiamo parlato con persone che sono all'interno di google ovviamente non posso dire chi ma diversi che si lamentano di come funzionano le cose dentro google ovviamente no quindi diciamo che un po' di reality check su questa cosa qua non è male no
+diciamo il buon senso del vecchio si sa admin che poi è diventato devops che adesso si chiama sari
+è sempre quello le cose non cambiano
+sono d'accordissimo sul fatto che adesso se vuoi essere una serie se vuoi essere una persona diciamo che opera in questo ambito devi sapere milioni di cose ma veramente tantissime cose perché va bene facciamolo terraforma dopo bisogna mantenerle queste soluzioni va bene facciamo kubernetes ma
+kubernetes in palla oggi abbiamo avuto per esempio un caso dove il padre di ugo si è impallato per due minuti ha smesso di funzionare lì dove vai a mettere le mani chi va a mettere le mani quindi sono diciamo argomenti interessantissimi su cui ci sarebbe tantissimo da discutere però il mess
+saggio in proprio due parole
+se noi ci sentiamo di fare diversamente da come tutti pensano dobbiamo prendere a fare diversamente perché probabilmente abbiamo ragione nella nostra situazione quindi viva il old school sis admin
+che naviga in queste acque no ecco scusatemi se vi sono nato a londra
+intanto diamo un po' quarto di bit un quarto di bit giustamente segnala in chat che secondo lui dipende anche questo riferito il discorso di prima insomma va bene ma fino al c'è junior con attitudine ma senza schifo va bene ma fino a un certo punto perché poi quando sei in ambienti praticamente mission critical magari
+un po' di ce non bastano solo i software ci vuole qualcosa di più e credo che su questo siamo un po' tutti d'accordo ma l'idea fosse che lo è affiancato poi ne sa di più poi a gianluca giustamente dice devops formamentis nella figura lavorativa su il devops in giro io ci ho anche scherzato in passato in conferenze presentazioni
+però sono d'accordo ci siamo credo tutti d'accordo no se l'ho fatto aggiungendo over aggiungendo al devops ingeniere salto doppiamo e sapete cosa secondo me non è così grave infocert
+lo dice anche dello stesso partito in una conferenza ma ci sta anche chiamarsi the in genere se tu e tra l'altro inciso personalmente avevo chiesto a jenin quello che ha scritto il devops dei freni sporgere così via che cosa pensava del termine devops engineer e lui market ma io non ci vedo
+di andaluso di male nel definire questa figura professionale poi sono d'accordo che il box non è quello solo quello però è anche vero che alla fine se vuoi identificare qualcuno che al tempo
+sappia di continuo integration cloud computing sistemi automazione che sia familiare con tutti i principi le logiche e le filosofie del mondo devops quello chiami chiara
+ingenia tra virgolette no un sistemista che ne sa che comunque alcuni una giornata abbastanza da sapere quelle che sono un po' i trend e le approcci più moderni puoi essere più magari abbastanza moderni perché c'è menghini engineer o l'essere è quello che vogliamo però insomma mettiamola così per quanto mi riguarda
+io la guerra ora discussioni troppo approfondite o troppo accalorati sul un ruolo oppure no
+non starei neanche tanto preoccupa anche perché poi di fatto è considerato un folle e quindi a questo punto sarai
+recruiter saranno darà tutto il mondo che ci sta intorno ma alla fine cercano il devops ginia e secondo me è vero che devono sanguigna può dire tutto e niente però abbastanza chiaro cosa si cerca quali sono gli skill di base ricercati no fasatura squad competenze su monitoring
+o serba aboliti e così via competenze su automazione sia essi di clown
+c'è un po' tutto questo poi forse troppo forse troppo e però è questo quello che si chiede in giro no o mi sbaglio mi manca un etto di security e il gatto però qua c'è il parte sec su cui poi quello però anche se vogliamo tutto il mondo stati uniti c'è un'altra verticalità che richiede puoi
+schiele competenze e particola anche qui c'è il sì però sì no o cosimo diceva benissimo prima che devi adattare le cose alla tua realtà particolare io nella job description dei dolci abbiamo avevamo era ti abbiamo le bugie li guardiamo
+for gold del signal ma alla fine c'è scritto che sappiamo anche che non siamo né google netflix quindi adattiamo se sei gay è tutto quello che è il chiringuito di turno a quello che le nostre realtà è la cosa più importante intendiamo world the tall come si dice
+razzolare come se come predichiamo predica predicare bene
+si dice predicare bene e razzolare come tredici grazie alla world tour platone questo
+tu dici che farei una cosa pretendi dagli altri deve essere il primo a farlo quindi
+lo stesso è
+come si dice quello della security diceva benissimo gianluca mi sembra pallido episodi fa che adesso quello che va di moda mettiamoci sempre le virgolette e passare tutto a sinistra quindi lo shifter iniziare con secchi di prima perchè se no mutiny occupare a parte di israele
+la parte di security di alcune cose quindi
+in teoria potresti sempre passare dalla parte degli odiosi però se inizi co
+l'analisi di codice analisi delle piattaforme quando sono ancora in qua se quello che gli togli marroni alla gente non quelli li provoca di quello scibile
+te lo comprano molto rapidamente anche in di sviluppo che
+infrastrutture non vogliono sapere niente o di security non vogliono sapere niente però quando al posto di essere lo stopper che non gli fa fare il deploy perché non hai uno scooter decente di security è quello che tre mesi prima inizia di questa libreria è deprecata se la metti dentro cosa nostra produzione
+se il marrone glielo togli dal fuoco ben venga security no quando sei quello che non gli lascia fare il deploy di un po' di kubernetes perché casualmente si è eseguita come root o non passa i bari x escort di qualche mission control
+serie sei il cattivo quindi esso senza montarti community of practice o cose alla gugel però se tu già hai tutte le tue cosine ben montate e se non hai pipeline fantascientifiche se hai jenkins
+che quando ti fai il deploy in qua passa days aste tutto quello che hai nella piattaforma meglio di security tocca
+il devops engineer che va a unirsi al tuo tipo
+il tuo team per forza deve sapere qualcosa in più di te
+il team qualcuno che ne sappia magari verticale nel team che che ci mette la sua parte sempre un po' devi avere quello
+la verticale più alta lasciamolo così però devi avere gente che sta almeno nella stessa pagina nello stesso che pretendiamo noi dà la gente che sta
+sviluppo anche del product owner giusto per tirare fuori figure mitiche di aids cram i produttori quando gli dici che poi bisogna fare questa cosa se stavi quello che parli non è nemmeno una discussione e aprire un ticket aggiungere qualcosa in ufficio se non sai cosa fa
+parli puoi aspettare seduto
+che questo fosse un po' il discorso che va anche linea con il mondo devops quelle che sono le logiche di collaborazione discussione e condivisione nobles s'allargano anche al mondo sicurezza deve essere come deve permeare un po' tutta l'azienda non soltanto qui
+il professor saturno il la consapevolezza sulla coprire una minima consapevolezza di base sulla sicurezza
+dunque anche perchè poi come ben sapete molte intrusioni non arrivano per vie dire informatiche tramite sistemi ma arrivano tramite persone che vengono aggirate in qualche modo magari una persona neanche un tecnico ma è il
+un o commerciale o che ne so la sanitaria per cui
+per come la vedo io comunque farla passare questa cosa qui della security e se riuscite a farlo in azienda
+sviluppi con me un valore
+indirizzo perché sempre il business vince su qualsiasi cosa idee sulla security quindi pollice
+che quando una cosa deve essere traguardato e portate in produzione così si pensa sempre dopo che dopo esser prende una matassa sbrogliarla perché ovviamente fa il quattro volte la fatica che affrontare subito il problema è difficile se ci state riuscendo tanto di cappello cosa ti aiuta
+durante lo sviluppo tu ci stai già pensando qualcosa che aiuta i vari equifax bari telefonica come si dice a quelli a quelli di save a tutti quelli che ci hanno un manager
+in cima
+interessa star sul giornale ma per cose buone quindi se tu gli spieghi che se non si fa questa cosa nel tempo ics prima che esca la vulnerabilità ipsilon finiamo sul giornale e non è certamente perché abbiamo triplicato i guadagni
+riesci a guadagnare tempo adesso io da un certo punto di vista sono fortunato perché nelle mie ultime due aziende con il tema compliance e cose che sono obbligatorie quindi
+anche come si chiama quello in pratica l'internet è obbligato a farsi il micro corso di sei versi più ricchi gli si spiega che i pdf scarica ma anche no che nessuno dalla nasa chiama al telefono
+per sapere come accedere al database di produzione pincopallo
+e cose del genere calcola che adesso noi tra iso e cose varie di marketing sua di marketing research ci tocca una fila di cose
+però s i corsi obbligatori cybersecurity non si esaltano e ti dico che ci abbiamo il re in
+che si diverte dell'impresa capogruppo che si diverte a inviare email di phishing come non ci fosse un domani e fatti anche bene
+è tipico che i corsi di cyber security
+non si può fare pubblicità tono all'altezza
+abbiamo tutto un team di security nella capogruppo che
+non lo vedo lamentarsi
+di come sono i corsi anche quelli base alla fine sono quattro cose cinque cose che devi sapere
+il telefono dove tiene in tasca non si aprono nei
+focolarini
+non è che non ero che science con un poco di attenzione
+una fila di altri prodotti distribuiti che si occupano di vigilare che anche se tu hai il click facile ti chiedono due volte se sei sicuro di voler aprire questo file che contiene un malware magari con il mini mini mini video di cosa succede se apri un pdf con un malware no non pretendo pretendi
+la maggior parte della gente anche in tecnologia che sappia cos'è un lateral momento océ serie di sacrifici però il minimo si dice poi linea con quello che ci dice anche gianluca carta poi la vittoria sta nel far passare i cavi di sicurezza come primi cittadini
+come requisiti doganali parte della mondo normale funzionalità normale dell'azienda lo facciamo con i premi per esempio che i primi fate che i primi dati sono gestiti a parte premi premi davvero quando fanno i accept the flag anche per gente che non è di security
+però sono una fila di modica e per motivare la gente a interessarsi alla security quello più consulta sì che mettere parte dei tuoi goal personali
+nel non creare incidenti di security i da un certo livello a salire o semplicemente di non aver nessun blog quando nelle pipeline
+sei mesi testo cosa si chiamano mafia si incentivi mare marina tutta una fila di plugin che puoi mettere perché non inizia a compilare librerie deprecate o un'altra fila di storie e tutto è troppo alto puoi avere
+il tuo up quindi non è assurdo pretendere che arrivi in una specie di deploy una cosa con almeno librerie che non siano bacate profondamente o container che gira come root non è assurdo pretenderlo poco perché possiamo leggere tutti in internet cosa succede se
+ti sbagli è un poco perché se c'è il tuo premio e monetario alla fine dell'anno essere sicuro che la cosa inizia a suonare l'anno dopo e allora io passai un altro argomento perché poi di sicurezza meglio parlarne parliamo neppure mafai parlare di sicurezza senza gianluca mi sembra quasi un mese
+un esso
+mi è venuto in mente una cosa mentre cosimo parlava di di google
+sanremo e del fatto che non siamo tutti google le nostre passato che non sono quelli di google è non è necessario fare come fa google perché lì ci sono sta
+dimensioni diverse e domanda un po' provocatoria e poi ditemi voi come respiri come
+cosa ne pensate si può pensare di dire la stessa cosa per kubernetes venete s nato da borg fatto da google per le esigenze di google adesso usato un po' da tutti ma io
+fare una mezza provocazione premesso che io ho gran parte del mio lavoro tutt'ora con lo strumento quindi non ne voglio sputare nel piatto in cui mangio ma non solo fan accanito a prescindere dalla cosa nel senso avendo vissuto anche altri aerei geologi
+che mi ciò che non è lo strumento definitivo
+inizia con una legge la provocazione andando un po' dietro anche poco certo prima cosmo del fatto che
+ma il gubbio si fa davvero così nel senso ovviamente è venuto fuori da google ma google stessa rosa la risposta lo sappiamo che non lo è perché figlia di borg ma hanno detto nessuno ci ha mai consigliato lo aveva visto nessuno con nessun tour dove magari dicono in google usiamo kubernetes
+si usa bar poi si desidera qualcos'altro quindi chi c'è io mi chiedo anche quando è uscito gubernatis e la sua immaturità tutti i livelli perché se pensiamo le versioni nelle primissime versioni schermatura età anche come era destinato il codice non epoca di una confusione incredibile che
+amava poco più ampio sì ovviamente predilezione di google quindi boh c'è anche qua parliamo per esempio occuperete parliamo di cuba hornets secondo me bisogna contestualizzarlo dalle grandi aziende perché avranno già un orchestratore continua che sarà casto l'ho fatto
+comunque su misura telo della che conosca il business dell'azienda out of topic bronzo sono partito da una parte
+ha risposto però nello specifico medium parte mi hai detto fosse google non lo usa ma non lo sappiamo eccolo parte a parte google ma per chi deve mettere in piedi un'infrastruttura che è o meglio diciamola così poi ditemelo voi anzi in realtà perché
+avete probabilmente
+il polso della situazione molto più più chiaro dove i vantaggi
+a che livello come dire i vantaggi di una cosa come conveniente che sono evidenti superano gli eventuali svantaggi legati a complessità e ovra sovrastruttura rispetto magari a certe cose che magari puoi fare semplicemente con un modo più semplice con te
+c'è un momento in cui ha senso dire kubernetes
+ha senso è per questo tipo di infrastruttura
+prima qualmente no perché comunque magari o dei siti hanno particolare bisogno di scalare di avere il carico che so che non potranno non hanno necessità di certificare chi è ma altre cose che
+prendete su
+qualcosa di utile inevitabilmente ma che non è utile nel contesto specifico
+inizio io da noi siamo
+come si dice in italiano
+un tool per davvero per ogni cosa quindi kubernetes dipende
+se qualcosa mission critical avrai il tuo deployment kubernetes è il pull back con terra formino una struttura più come semplice in cui nei servizi di amazon perché alla fine container gli dei li metti dove vuoi nel servizio che più ti piace no
+io in questi ultimi anni son più le cose che siamo arrivati a togliere da kubernetes che quelli che abbiamo raggiunto nonostante che le ultime versioni tanto di cappello perché da quando abbiamo iniziato e occuperete nell'azienda dove sto pironi e soprattutto quando
+andati su managed messo qui potremo scaricare scatenare una polemica di quelle fantasmagoriche come mettere o no i database kubernetes ma
+ha fatto passi da gigante negli ultimi due anni curo lo useresti mission critical
+magari con multi tennent's di una fila di altri diecimila croci che aggiungono cinquanta layer di networking quando potresti averne uno si conclude niente puoi fare tutte una specie di mini mini club provider dentro un altro provider
+dipende da cosa vuoi fare la scelta giusta o no
+sufficiente che qualche altro gruppo o foro mette applicazioni monolitiche incubo netsons puoi farlo se tu sei solo hai kubernetes nessuno ti va vietare di mettere un body con più di un servizio dentro
+oh un doc con più di una cosa che corre dentro
+nessuno te lo vieta è una best practice secondo alcuni no
+ti troverai qualcuno che ti dice di no
+le maniche analisi riguarda sistemi sistema esiste oggi uscire purtroppo
+se volete abbiamo anche l'angolo assistenti e poi lo facciamo
+alcune alcune cose funzionali poi quando gli vuoi far fare il caffè a esatto c'era il sesso quando uno calca la mano con con qualsiasi strumento che vedo tanto altro a partire partner forum abbiamo un attimo e sembra che che con quello si deve far tutto no è la stessa cosa
+kubernetes senso presso cerchia calca la mano e che magari vede c'è qualcuno letto recentemente che kubernetes diventa un po' le idee
+general purpose quindi ha un ip con cui potresti farci di tutto compreso il caffè allora lì inizia a stare un po' difficile perché ogni cosa diventa una cosa castle e esistono ormai
+che ne so cross play nel player prendi tiri su prezzi infrastrutture in cloud depliant oggetti kubernetes è una forzatura no parere lo è funziona in certi contesti può funzionare da valutare nella tua impresa nel tuo contesto che può funzionare euro di contro non è che ogni oggetto
+può essere custom con un controller suo che non rimane più nulla cioè se se mettiamo qualsiasi cosa che gravita attorno a quello che voglio dire
+ellington un'età general purpose secondo me è uno dei valori aggiunti e capire un po' come funziona sotto gubernatis capire da dove sono dei degli oggetti descritti che hanno futuro che stanno migliorando eccetera eccetera è dove decidi di stare lontano perché comunque si muova
+o un prodotto e su certe cose ancora un po' immaturo quindi non è non esiste secondo me un un limite dicendo da questo punto in poi se devo fare
+più di un tot di risorse allora vi conviene usa-cuba uniti romeo processo comunicativo li abbiamo degli sviluppatori che soprattutto le nuove leve non possono non lavorare alcuni container quindi quello a c'è
+è un dato di fatto quante cose riusciamo oggi the player fuori container o pensa proprio gli enti l'ausilio di continuo durante lo sviluppo veramente poco e quindi secondo me più kubernetes sfruttare come come facilitatore
+della comunicazione tra gruppi diversi tra chi s'intende di sì groups chi non sa che cosa sono mouse container è una curiosità un autore detto qualcosa avete tolto recupererete che cosa e perchè uh posso dirlo
+finisce di internet si
+intanto sono quattro gatti che ci guardano un trucco per l'anno ampliamo lo spettro negli ultimi anni abbiamo tolto si cose de gubernatis no questo non nell'impresa da ovest dove sto adesso ma ci sono cose che un poco poi workflow un poco per le limitazioni anche
+solo delle macchine dove alla fine va a girare kubernetes non puoi o matt e fino a qualche release di kubernetes fa
+uno dei motivi che normalmente ti costringeva a uscire da lì erano i numeri i la quantità di leeds gb che aggiungi networking
+già solo un pod poveretto limes lì da solo già s'è beccato quattro liar di networking almeno uno quattro km stai mentendo spudoratamente sono almeno sette otto per chi inizia a quello che quella che sa insegna e cloud già tre layer di network interi becchi giusto giusto perché emesso
+un'istanza
+orrenda almeno perché sta
+layer fisico dei cavi il primo layer di sabine
+di software defined network tutte il tuo tennant e jason tre
+ogni cosa ne mai giungere kubernetes cantine
+aggiungiamo almeno almeno due o tre per una cnn più almeno più debole solo suo come si chiami oggi che sta sotto poi per ogni serbi se un altro layer
+baia l'ingresso è un altro layer in quel pistone alla fine
+ci sono ci sono cose che ti va vai a mangiare traffico fossero pari tipo traffico interzona queste cose te a mangiare e dovranno fatturare poi
+a poco a poco senso hot incontri con top e dipendono moltissimo dalla latenza tipo un aereo spia non andrai mai metterlo kubernetes serial times quasi tutti immemori
+pagare dipende dal fort tra ruggero scusami se ti interrompo però dipende un po' da quale ratto missione e quanto importante quella roba lì perché non è che eco bernetti del male e se te pensi che quella roba lì con kubernetes è facile e faccio prima e lì l'errore
+probabilmente è ok sei del mestiere oppure di facile e veloce che va al primo colpo ci credo poco nel senso di quello che ho visto però
+questo io ci facciamo
+recupero letizia abbiamo messo a sistema live decisamente importanti con decisamente impatto sull'utente finale quindi non è che siamo kamikaze però di vestirci talmente tanto che poi ti guardi indietro ciclabili sono due anni che si investendo in questa direzione noi ormai lo so ci devo più si va
+the flow va in macchina virtuale o no va tutto in kubernetes poi ci sono degli hedge gas che possono essere database possono essere il vendor che non è
+prontissimo andare a mettere i software container oppure nei casi limite perchè comunque il modo di container ancora raffinarsi quindi che ne so hai bisogno di tantissima ramo devi fare a botte con lo schedulatore di kubernetes perché non sai come potrebbe reagire a determinate cose
+case e allora lì
+però sono secondo me i casi più unici che rari sui database l'eletta te
+non dovrai alimentare il flame e ti capisco però è una cosa che anche il chi vi ha capito i superni giri database non si sono dati occorre una risposta quindi forse il buon senso e capire se va bene per te è l'unica strada dipende anche da
+se un planet sail planet sail può andare in kubernetes perché è cloud native un cluster di polvere smontato da te magari anche no magari diventare sul prodotto di nota di italiana che lo fa per kubernetes ciao
+essere con quadrant come
+gli amici sia con quadrant quelli quelli che l'anno che ricevetti loro hanno tutta una cosa becky moses
+kubernetes che almeno degna di nota o dimensione poi mia religione mi vieta di stare in un club provider non usare i suoi database as a service
+cioè religione alla fine quindi tu tutto sei
+se si può farlo gestito lo lascio gestito dalla camorra ti dico
+noi come team normalmente visto che siamo al budget ci teniamo servizio che mantieni tu deve deve giustificarsi se io devo pagare due ingegneri per mantenermi un cluster di business e mi costano quello che sta scritto costa sicuramente meno
+ottenere lo stesso e nel servizio service del club provider di turno
+eventuali lucina possono esserci rischi in questo senso lo vincere anche con kubernetes
+a meno che non ti monti tutto tutto tutto tutto dentro kubernetes obi-wan e poi e poi come dormi dormi tu
+perchè alla fine se sta in google tutta la parte di gestione dei roll usi l'equivalente di aeham
+di google perché ci sono cose che non te le inventi non ti inventi la ruota gestione degli utenti che stanno lì quelli di base i ruoli di digestione e usando quei dolci a espinho aerei ambientarsi la ruota perché si perderai un po' di portabilità ma
+quando viene il signore della compliance ti dice il servizio che usi per gestire
+i signori che accedono qui e lì e iso ventisette mila uno me lo sono fatto in casa
+iniziano a saltar beh grane o quando il tuo fantastico volte
+biascicò ha promesso incubo kernel e si rompe e magicamente tu non puoi accedere al al kubernetes perché hai usato il fantastico la fantastica federation con con voi dentro dello stesso serve lo stesso cluster buon divertimento
+ci sono cose che da sul reno faresti che poi si facciano perché è più facile o così lo possono mantenere tutti o si
+è come il vendor lock-in e con meno del multicloud
+era quello che usavano quando non avevano il prodotto nel cloud
+dirti no non farla è quello che usano adesso col multiplayer perché se ti vendo anche il mio cloud ma alla fine se ti monti le cose fatte bene con tutte le le caratteristiche del tuo cessa di tramontata bene se poi tiri degente che nel cloud sta da quando l'hanno inventato non da lui
+ultimo che dice o a avendo claude te lo vendo a metà del prezzo per il primo anno poi negli altri ti pago uguali quindi tu ti becchi i vecchi che ti sei pagato la migrazione però si è pagato metà che poi non è vero perché l'hanno dall'immigrazione pagato mi dicesse più uno e due hai pagato la
+migrazione costo in più hai pagato la schilling della tua e del tuo team altro posto e secondo anno perché nessuno ti regala niente per più di un anno due ti ritrovi con hegel hai pagato i quattro cose in più con lo stesso costo dei servizi di cloud cosa e guadagna
+si può dire una cifra sentito parlare di cloud
+allora c'è neve
+la tendenza a mettere roba su cloud è stata inesorabile inequivocabile negli ultimi anni è però inizio a sentire ma non è che da adesso però ogni tanto qualcuno che dice no io adesso d'accordo vado via forse perché ho troppe risorse o ma niente era più come avere il mio dataset
+da qualche parte inizia a esserci secondo questa cosa secondo voi questa cosa resterà un problema di pochi tra virgolette quelli che hanno come dire troppi corsi sul cloud l'infrastruttura è abbastanza grande da giustificare tornare a gestirsi in ferro per conto loro oppure è quindi solo per questo potrebbero avere suonato
+tendenza che si allarga anche ad altri ad altri soggetti alla domanda allora prova a rispondere per colpa mia esperienza sicuramente cloud
+a tali costi anzitutto incalcolabili a priori cioè talmente difficile per quanto tu ti possa sforzare non saprai mai a fine mese quanto vuoi spendere
+maggior parte ci sono tante cose che non sono calcolabili a priori e quindi a una forbice che potrebbe diventare molto grande dipende che ne so anche dal traffico che fai anche soprattutto il traffico fa per dire tutto il traffico in uscita si paga davvero a peso d'oro
+e non è poca roba in generale poi avrai la tendenza a fare un milione di macchine e di segregare più possibile affine sicuramente non è un ciuchino economico bisogna prevedere cosa quali sono i servizi incolla
+quel migliori di servizi che ti offre da esso per lui
+cose è davvero importante per te perché ovviamente se usi un provider lucido fare intelligenza artificiale è un po' più difficile che mi troverai altrove che tu fai ai bisognosi solamente negli states dieci due sensualmente egerton sci dove invece
+hai un prodotto vecchia scuola o quasi quello che vedo nelle piccole realtà che si guarda anche abbastanza a trovare inferiori tra virgolette inferiori di digitalocean di turno o viaaa troppo piatto o sfigato se volete però comunque
+cui provare perché all'offerta hanno un'offerta sicuramente inferiore al livello di servizi però che poi si riflette tecnico tornare completamente al ferro la vedo comunque al virtualizzato fatto in casa per me lo vedo abbastanza impossibile se non magari grandi aziende dove
+un suo suono abbastanza soldi e però non penso di perché il risparmio come dice orgia in termini di personale enorme però c'è gente che l'ha fatto e ha fallito una impresa di chiamiamoli videogiochi c'è gente che l'ha fatto ed è venuto alla luce dopo l'ha fatto che cosa
+sostenere al cloud
+mettersi on premise a dropbox e gli è uscito bene hanno ammesso che
+parte di quello che hanno risparmiato l'hanno dovuto investire in persone con tutta l'automatizzazione che abbiamo avuto negli ultimi anni può essere o no un problema però io ti dico negli ultimi dieci anni ho visto anche realtà piccole portare world workload fuori
+però sempre gates
+come dover processare un tera al secondo di networking e questo in amazon ti va accostare quello che non sta scritto in google uguale o qualsiasi altra anche in alibaba anche in nove ace o in hetzner west non essere no perché non parli la
+banda
+comunque qualsiasi altro provider paghi te hai bisogno di cose più intensive costante nel cloud non è la tua soluzione io ricordo migrazioni a fuori batte per cose cdp yaoundé
+orribili
+il costo di un mese un mese in un giorno in amazon si giustificava la migrazione è un anno di
+un altro provider com ma perché perché sono
+word cloud che per l'alto uso di cbd più no più se costante l'uso
+non ha senso se è uno spot
+io posso fare un'autostrada da dieci a cinquecento istanze koei tecmo sms e uno spread di un'ora di quattro di cento ore al mese si se uno spread di settecentoventi ore al mese lo stai facendo male indi beh ovvio a dipendere da dove sei in europa perché
+se sei in frankfort
+ti puoi permettere di tirare fuori quello che ci più bound in elster perché tanto imperial lato di quello di amazon al largo di quello di google non vai a perdere tantissimo il la times i monti l'equivalente della connessione diretta tra le tue macchine il cloud provider di tv
+turno sei nella stessa rete hai ti togli quasi tutti i problemi di seguire i di quel livello l'agenzia candle accanto è lo stesso che stare multi azienda alla fine puoi farlo e se in italia adesso che c'è più di un cloud provider a milano si
+se stai a otranto non lo so
+ci sono una fila di cose da considerare come fino a qualche anno fa a nessuno gli verdi e sarebbe venuto in mente riaprire mettere un'applicazione mission critical in italia e in spagna perché perché erano mal servite da quello che è la rete geografica di elettricità qualcosa
+del genere esso posso ricordarmi male però
+erano tra i due paesi dove no grazie a chi anche amazon ha aperto la sua prima religione sud europa aperta in irlanda e poi poi siamo passati ai reali in germania e lo stesso più o meno fabio google bene cosimo ci sei sempre fra noi hai qualcosa da aggiungere a cosimo ne abbiamo però
+fa lavorare e lo dico io cosa vuole aggiungere tocca fare un'altra ah ma allora i giochi
+una serie di persone personaggi argomenti che sono già previsti e social ragazzi ci sono e ci sono un'altra un'altra sicuro ma un'altra sicuro
+il principio è sempre lo stesso una volta che uno partecipa una volta puoi entrare tutte le volte che vuole di solito si cerca di farlo mentre sugli argomenti su cui si è competenti cosmo versione notturna con in cerca di amore
+e com'è come evolve la situazione ti farò vedere le foto è una cosa mai vista mai visto ai quindici anni
+ma l'abbiamo notato anche noi e questa cosa qui vedi magari dopo un po' giù un po' di flusso
+secondo me sì
+attenzione alle tempeste geomagnetiche
+c'è non c'è kubernetes che si salva
+noi siamo abbiamo messo tutta la tessera magnetica la nostra civiltà è in mano ai computer e basta un come dire uno starnuto un po' più forte del solito tra il sole ben indirizzato verso la terra è è altro che covid è altro che guerre alta tutto ovunque scusate volevo solo fare
+a tutti quanti perché è stata una discussione veramente bellissima be' mi è piaciuta tantissimo con tanti spunti su cui discutere a lungo e dai aggiungici le tue considerazioni conclusive è qualcosa che vuoi magari dire nel frattempo mentre parlavamo qualcosa che ho avuto in mente
+ma una cosa forse un po' divertente ma magari me la posso ottenere per la prossima
+per la prossima puntata su sarri
+comunque la complessità e tanta sicuramente
+c'è molto spazio secondo me per anche per i giovani
+noi stiamo concordo con la difficoltà a trovare persone qualificate decisamente sì noi stiamo cercando di puntare anche sui giovani diciamo anche formando un po'
+è importante è importante quindi non dimentichiamoci che non tutti hanno venticinque anni di esperienza e
+importante anche portare nuove nuova nuova linfa ma anche perché chi ha venticinque anni di esperienza come fare il tecnico come il sottoscritto non ha nessuna speranza di essere assunto in aziende come le vostre per cui continui a fare il consulente più verticale oppure si dà alla pensione per come la vedo io noi ci assumiamo
+non c'è problema
+addio alle tariffe norvegesi fosse potrebbe avere senso se ci penso
+è
+allora abbiamo fatto un'ora e quaranta ridendo e scherzando per cui in teoria è il nostro come dire budget di un'ora e mezza e abbiamo anche consumato e siamo oltre oltre però in realtà come sempre possiamo continuare finché ci pare che avete qualcosa magari chi
+allora intanto finiamo così
+solita domanda un po' che fosse lascia il segno del tempo che trova nel dare una prospettiva storica alle cose in questo caso alla professione del sistemista tra virgolette allora abbiamo visto un po' che abbiamo visto con cui abbiamo fatto intravedere che a chi lavora su sistemi venti anni fa lavorava su tecnologie necessità
+ma di conoscenze di un certo tipo diciamo sistemi operativi software open source open source ci giravano sopra adesso chi fa quel tipo di attività che poi magari siano più sistemista si chiama palazzo menghini
+o devops in genere piacciono piaccia deve avere altre competenze di fatto fa altre cose o cose leggermente diverso più o meno leggermente diversa tra dieci anni che cosa farà il quello che si occupa delle infrastrutture dei sistemi secondo voi
+la sfera di cristallo che tira fuori ci illustra il futuro sistema
+qui ci vuole davvero a sfere di cristallo per saperlo perché ti guardi indietro dieci anni fa
+anni fa no
+fa caldo non era troppo diverso forse perché non c'era un governo arrivato come c'era giada e noel
+cosa
+non lo so lo ricordo chiudo per uno zero quando è uscito però diciamo che ci sono state delle rivoluzioni negli ultimi dieci anni
+negli ultimi venti sul cloud di vederlo da quindici anni mi aspetto almeno un'altra soluzione ci sono state le cose che sono state che hanno cambiato per sempre il modo di fare le cose tu guardi verso duemiladieci così c'è stata l'introduzione del cloud che era una roba
+c'è in quel momento era solamente il compito tra gli altri capito
+un computer un profilo più lontano dieci puoi modo continuo non si può dire che non abbia rivoluzionato tutto perché li configuri come dici non l'ha fatto ma come ha fatto in modo di continuare proprio adesso tutto per aria e mi aspetto un'altra cosa che verrà messa per aria quindi quale sarà il ruolo del sistema dei sistemi ingegneria
+è un po' troppo dal trend beppe un'altra cosa che virtualizzazione e cloud container non è che puoi puoi andare all'infinito a spaccare l'atomo e a prendere le risorse di un computer e frammentarlo a estrarle a raggiungere livelli a un certo punto credo che comunque boh
+so francamente
+non vedo se non esistendo ancora forse l'eventuale tecnologia che sarà predominante fra dieci anni forse non riesco neanche a immaginare come potrebbe essere però ho come l'impressione che non è che possa andare troppo lontano da un container o no ubu non lo so abbiamo saltato il paradigma server
+l' arte del serverless è un paradigma però alla fine li fai alcuni nella tecnologia sotto sono continui o quasi
+tutto ciò c'è certo punto qualsiasi cosa girerà da qualche parte
+però anche le funzioni hai ragione scusa
+cerchia di persone che fanno operazioni assistere ingegnere o comunque un ruolo tecnico sopra dopo nessuna quantità di clienti non hanno mai hai ragione o per le parole servono e se inteso più come bild di contenere tutto ma in realtà intendevi più functional service immaginavo quindi mentre quello è il passo
+un altro problema dovrebbe comunque arrivare dove arriviamo ci sarà sempre il signore che va cambiare i dischi o cosa o come saranno le opere che comunque i c s p c s pima qualcuno nei data sheet dei vari provider continua cambiando dischi e quello sinastria dipendere da questo
+beh se stai usando il problema è il posto in cui si chiamano rischi alla fine diventeranno già adesso sono molto concentrati piano ancora più concentrati alla faccia dell'internet della sua
+diffusa alla fine sono abbastanza centrati beh dio però il mercato mercato it quanto se lo prende solo papà rai due sei hurrà e in parte minore google cloud questi due microsoft e amazon si portano via sarà sempre il signore che per dieci
+centesimi meno sceglie i quaranta ladroni posto che sì sì sì sì però la concentrazione mi sembra c'è stata abbastanza chiaro non è che ci sono loro ci sono solo bisogna avere un po' li vedi non so se ne avete di idea di unire marche cher
+bari campo vario però come questa impressione che c'è stata questa grande concentrazione se va giù adesso va giù internet non è che si
+uno dei motivi per i quali qualche architetto dice che è inutile essere multivigenza con te tu stai
+nella prima nord virginia se sei caduta quella probabilmente non posso neanche mandanti di me per lamentarsi
+cercare di virginia ha scampo quindi no quello che diceva della dispersione che comunque adesso e io
+come si sarà ben capito
+usiamo solo amazon qualcosa di altri provider ma giusto per quello che qualcuno dice che non si può mettere lì ma per questioni di religione
+però calcola che adesso almeno tutti sono molti se almeno due zone le hanno tre ma arriviamo anche verne qua quelle sono geograficamente sparse in più adesso con tutto il tema di un'altra legge non mi ricordo che si sono inventati
+la recensione dei dati qualcosa devi devi aumentare le possibilità di disaster recovery anche se sei amazon quindi dispersione dispersione dispersione per disperdere bisogno di tecniche di anche signore come cambiare i dischi
+da lì aumenteranno anche quelli staranno lì anche quando skynet dominerà il mondo
+ci sarà sempre qualcuno che deve fare la park e tempere a scendere come ci sarà sempre qualcuno che si occuperà della parte più più vicina all'espressione del concetto che non sia
+al montare l'artefatto perché si è tipo terra davvero con quattro righe di terra forum puoi montarti il tuo ex a esse l'hotel sea sono poche righe montarlo bene il caso
+moltiplicate per dieci almeno ma questa è la parte astratta poi alla fine sempre c'è bisogno del
+dell'ingegnere che sa che e dichiari di tod's
+sardine
+virtual datacenter e non limita i p che si mangia la cna di cabernet e sei finito
+giusto giusto con fare come fare il deploy dei quattro body che vengono di sistema sono cose che puoi apprendere o sapendolo già ho qui si dice a ostia starebbe ammazzate quindi ci sarà sempre bisogno di tutte le varie figure che partono da mettere server in un
+rugby sarà più leggero meno leggero più performante no ma sempre sì sarà un hardware
+le cose
+suo di lato fino ad arrivare a quello che all'architetto resto non so se va ancora di moda usa l'architetto da noi non ci noi abbiamo i sardi perché usiamo sei quindi esistono sisac che sono quelli che si occupano di architettura dei sistemi a livello
+stratosferico poi dopo analisti a terrazze nei vari concetti che dovrebbero assalire da di official site oh però alla fine ci sarà sempre i vari livelli più o meno mischiati in verticale più o meno pronunciate dallo stress venti anni fa eri il guru se riuscivi a montare con due
+serve qualcosa in alta disponibilità adesso se non hai almeno venti cluster kubernetes con cinquecento nodi se nessun partito città del new jersey
+il percorso era stata abbastanza
+ultraventennale
+mi viene in mente la master twitter i casini che va bene in tutti i sensi
+se vuoi un altro aneddoto i tre o quattro imprese fa
+qualcuno col cappellino rosso non poteva far funzionare bene un multipack in fibra con i dischi ancora quelli da quindici mila giri e siamo dovuti ricorrere a al poveretto di turno che compilato il driver multipack e saliva da talpa
+dal politecnico di milano casualmente con la pace del politecnico funzionava tutto è al posto che i quaranta cappa al secondo si poteva andare a cento mega a seconda te parlando di un po' di secoli fa e
+beh diciamo vent'anni fa da niang e gioventù abbiamo detto parecchie cose spero interessanti per chi ci ha seguito ci seguirà e
+direi a questo punto che possiamo chiudere adesso
+perché vostre ultime cosa dire prima di loro per sempre a chi frase memorabile che citeremo per le prossime
+di cosimo quando facciamo la prossima allora un argomento senza fine a ben guarda infatti argomenti su cui discutere quando si parla del mondo detti a me questo poi dipende anche da quanto va in profondità anche perché poi sai si passa da un po'
+un posto all'altro e interessante volendo si potrebbe andare veramente fino in fondo in fondo non c'è mai un fondo certe cose a discutere e non si finisce più però è il tempo è quello che è e poi non è questo forse il luogo per approfondire per cui detto questo ragazzi io vi ri
+ringrazio
+grazie a te per questa serata e alla prossima oggi piacere alla prossima ciao ciao ciao

@@ -1,0 +1,744 @@
+no
+musica
+eh lo so lo so che la mia voce invece di questa musica rovina un po' tutto però siamo qui
+siamo qui per questo e
+non c'è musica
+ma la musica non facciamo arrivare si sentirà dal vivo e eccoci qua quindi benvenuti prima edizione del
+e applicate dagli istinti un appuntamento che vorremmo essere settimanale in cui ci si ritrova fra possibilmente non del tutto estinti in cui parliamo di tecnologia ai t devops cloud sicurezza software e sviluppo e quant'altro e
+direi di partire subito con le presentazioni visto che nessuno ci conosce e noi quasi non ci conosciamo a vicenda e scherziamo ma fino a un certo punto e elijah prego chi sei cosa fai nel mondo katie perché sei qui perché invitato
+poi siamo entrati abbiamo lavorato insieme
+tematiche più dure management sono fondamentalmente sistemista con un polo di interesse
+si chiamano riempito e lavoro in banca d'italia
+diciamo che alcuni esperti e comunque natura se vogliamo usare un termine dico come sono io sistemista
+sistemista
+le competenze nell'ambito della sicurezza dello stato
+bene bene avremo modo di parlarne quindi a dio e a
+io sono
+giochi al momento
+quindi su vari titoli di assetto corsa bene
+corsa competizione e lavoravo bis
+ho una decina d'anni fa credo
+il campo giava
+perché
+sono tornato al mio vecchio amore perché lavoravo vent'anni fa nei videogiochi poi avevo lasciato per un po' e poi semplicemente con assetto corsa
+certo scultura è iscritto a sette cosa no non ho scritto
+semplice se ho partecipato sviluppo
+se tu puoi essere tu possiamo
+dall'inizio alla fine adesso sul nuovo progetto
+ricerca ad esempio
+abbiamo serie
+mi occupo di nota
+no
+mi occupo di tutto tranne che pratica per rendere la parte
+alla gente interessa che più quindi della parte grafica non me ne occupo assolutamente un genere solo parte di
+architettura e
+ehi lei audio queste cose e basta
+grandissimo grandissimo avremo modo di approfondire jervis
+sono uno sviluppatore startupper appassionato di cloud sicurezza e ciclo di vita dello sviluppo software
+belle
+porti un po' understatement vorrei dire però
+vorrei non vorrei parlare delle cose che ho fatto recentemente
+no ma importante direi
+più o meno di che cosa no al di là di quello che si vorrebbe avere un bambino anche di difenderemo perché ovviamente no cioè il fatto che stiamo qua volevo dire quello che facciamo ci piace al di là del lavoro e
+assolutamente
+questa interessante la compagna c'è oggi
+perché stiamo tutti in un certo senso magari
+alessandro perché proprio i vicini però gli altri come sempre annunziata
+ma su posizioni che sono molto lontane l'una dall'altra
+quindi avere questo dubbio cosa sto pensando no alessandro sta parlando di tanti stata invitata e neanche lui ha capito però su questo
+dire dopo e aspetti lui viene fatta io dico una cosa perché mi sta spiegando una cosa perché oggi abbiamo fatto anche che è completamente fuori dal nostro mondo nel senso lui inizia a sbatte le palpebre esistono neanche sempre
+vorrei fargli dichiarati però comunque sia non è una cosa che m'interessa il configuration management per come lo intendiamo noi con l'automazione anche se ce n'è tanta anche lino ma per come lo intendiamo noi che facciamo più caso questi sistemi il decanter per noi sono argomenti che siano poco rilevanti no però in un modo o nell'altro secondo me
+si possono in qualche modo di incontrare nel di muovere dire mondo perché
+io e allora tu cosa fai con sistemi di
+quindi io credo che quello quello che inizialmente vai a fare quello che fisico naturalmente giusto
+a la discussione ti mantieni delle macchine macchine dei servizi per sempre no facciamo anche l'epilogo software ti fa assolutamente assolutamente
+rumori che c'è tutto ciò che non è un vero e proprio sviluppo applicativo web
+qui però
+il contesto quello e quello
+con visto che mi occupo di security
+dal buco quello che vuoi proprio perché sono assolutamente ma quello che devi fare no però comunque sia migliore
+il nostro quello è il tuo mondo è il minimo che sono molto su questo punto si incontrano e servizi mantenendo mantenere i servizi controllare tu fareste io sviluppo quindi mantieni le mucche
+in poche parole
+il modo di lavorare di alto livello che riproduce un antipasto che va stato distribuito milioni di macchine per lui non ha il controllo no alla fine dei conti se c'è qualcuno la merda che abbia fa giusto il sistemista giustamente doveva poi pulire ma milioni sarà meglio non c'è sistemista
+permettere di avere un problema che non vuoi mettere in gioco chiamato la cercano devastate se
+romagna
+ovviamente se c'è in genere o servizi siete perché anche proprio dei giochi perché conserva le statistiche del giocatore
+usiamo le connessioni le connessioni perché
+questo ci fa capire grazie
+serve fondamentalmente c'è un week-end poi quelli che c'erano
+effettivamente non abbiamo sistemi elettronici signor presidente sono gli stessi programmatori un genere
+c'è no ma in realtà fortunatamente quando si usa
+ovviamente quando oggi un termine che si è meritato tutto anche the box che poi oggi può significare tante cose diciamo
+l'italiano
+ormai che cerco una persona più faremo tutto quello
+tutto un cad però lo pagano
+chiaro fuori di metafora quindi dice segue non ci sta il sistemista però fare uguale
+prevede prevedi vacanza
+noi ormai all'epoca chiamavamo delle competenze più radicali e io ne approfitto per una cosa perché io poi tira l'acqua al mio mulino che è quello il motivo per cui faccio queste live inizialmente è però ne vorrei approfittare e chiedo a ciascuno di voi quali sono delle applicazioni quali nessuna applicazione
+software gli strumenti che usate più comunemente quelli fondamentali per la vostra attività al partiamo da te che sei il nostro lavoro
+quasi nulla villa sulla corda studiare
+se questa storia york
+lite poi chiama lui a farlo lì dipende dal progetto troppi furbi e plastica per continua
+scusa
+mi dispiace ma cos'è che è un presidente
+gestione dell'età
+diciamo contenuti
+classici e non quelli che amo tantissimo spazio fondamentale così
+e poi niente poi abbiamo qualcosina per
+l'organizzazione quindi pascal
+cose del genere siamo
+new york city
+sebastian molto bene molto bene quindi che un esperto anche di diciamo
+di verso il
+esperto no perché
+no io sono qui sono nel modo più semplice
+io sono io sono a brookfield
+poco è molto scarso però ho contribuito abbastanza credito delle opere continuando siamo qui ci siamo domenica
+che sia
+non sono esperto twitter nel senso che lo usiamo per poter ovviamente collaborare sul codice ma
+il minimo possibile
+creare un prezzo
+sì perché comunque stiamo proprio pochi sviluppatori
+bene visto che cosa usa invece a parte ma io so ho avuto il mondo e il flow abbastanza
+il per la tutela di brand me
+il lupo e i re che google mi astengo workflow
+non c'è precisata chat gpd no perché adesso ci sta anche operai e cioè
+cavaliere io accetto una novità
+è vero già visto su pensa che adesso è uno dei temi molto caldi no non so se istituite e serie b inserire
+esiste sempre
+palle il pc rotto i coglioni diciamo le cose ma in senso buono mi hai rotto i coglioni a qualcuno che lo stanno usando
+potrebbe fare
+ci sono già dei casi di malware
+tutti i critici organizzare addirittura
+interessante no no questa è una cosa che le toghe
+su wired e ci sono
+non è perché volete comunque capisco
+siamo noi
+no comunque e sicuramente ci sono stati
+hanno rilevato che nasceva da quello che dici perché tu sei ben vedere poi le cose che nascono da questo tipo di oggetto io
+sale sono abbastanza riconoscibili perché quindi se ci sono dei casi anche d'interesse molto interessante scrivere
+alessandro all'inizio dei fatti pubblicamente
+sia smalto devo devo dire che alessandro franceschi che probabilmente è preso un colpo di queste dichiarazioni questo strumento allora provato a metterlo in difficoltà proseguono
+scienza verticali palpebre e insomma mi chiedo però è andata abbastanza bene no d'alema come voi sapete che già non ti dico ma bisogna affidarsi fino a un certo punto nota che schede tutte cose dice un sacco di cose convincenti però poi quando va un attimo a nel dettaglio sopratutto se spara di codice a volte tira
+fate il codice che non esiste non funzionava lo dice in un modo che sembra però sembra errato come molte persone anche umani i sospetti
+umano è molto umano esatto e convincere
+datevi un sacco di gaza esatto è
+no avevano comunque gli usi sono tanti però
+io vorrei un attimo a togliermi dal momento chat gpd da discussione perché poi so che si va a finire lì perché tutti ne parlano io continuo a dire mi sono rotto i coglioni di sentirne parlare ma non perché non sia una rivoluzione una grande cosa ma perché ormai credo che un po' tutti ben capito che una cosa epocale e quindi
+tale inutile che ce lo ripetiamo che poi è vero che utile vedere gli utilizzi che se ne possono fare e ciascuno condividere il suo io ad esempio ho fatto caro enrico come avevo scritto in sata io ho scritto di conversione di tajani date alle persone tre persone quattro gli ho fatto fare a lui in ruby
+chi con un po' di cavazza con un po' di aggiustamenti però anche lì appunto bisogna farlo con un po' di botte di prompt se vogliamo così come gli ho fatto fare i
+unit test di codice pappe attività in
+passa alla classe pappe tenuta ha generato
+testa e l'ha fatto ma non funziona giusto
+eh
+sai avere tutto il mondo e bene perché ci sono nell'ambito di altri
+le persone che lavorano ai videogiochi c'erano ragazzi che facevano tipo testa mi sto scegliere
+no
+si farà poi del codice civile
+guardati e sembrava perfetto non so magari un piccolo dettaglio che lo rendeva impossibile non c'è però la cosa che la coda che uno che non fa mai e che quindi mentre l'india che in realtà tu fai una domanda
+la risposta di un oracolo non è così essendo uno strumento che se tu fai inizia a fare un'ipotesi ben scritto soprattutto in inglese
+lui ti darà una risposta tu continui a lavorarci quella spedita in risposta alla fine cambia parecchio ed è una cosa che si deve fare un dialogo come obiettivamente è quello che succede quando uno si mette insieme qualcuno a lavorare non è che uno dice una cosa e quello subito una risposta definitiva alla fine da un dio
+analogo berlusconi
+e lui soltanto
+nel caso nostro
+sparare stupidaggini non lo facciamo mentre nel caso suo succede perché ci dice stupidaggini loro dio
+ma io ho visto provato tutto campo
+passione matematica insomma
+visitò lì e lì puoi premio rapallo solo uno minuto
+abissali è però
+siccome può colpire però la cosa interessante è sicuramente avrà degli sviluppi però adesso non stiamo parlando di crimini altrettanto interessante visto che abbiamo delle persone
+totalmente diverso però costituiscono la base poi delle mosse più o meno sono quelli che trovi qualcuno più interessato alle cose che dice alessandro
+mai era stata
+vorrei farvi una domanda giusto per piante deviare un po' dal discorso pronunciato gpt e com'è la vostra professione come è cambiata da quando avete iniziato ad adesso è come credete che possa cambiare perché io ho visto nel mio campo c'è praticamente di tutto è successo
+il mio campo è più lato sistemi come giustamente anch'egli a condividere ma credo anche lato sviluppo dai vostri inizi ma quello che facevate prima volta che stimolate codice a livello professionale quindi non come abusivismo ma per lavoro ad adesso che cosa che cosa avete notato come evoluzione avete qualche feedback poi se volete possiamo
+a dire il nostro elia datosi noi abbiamo questa scemata da piatta da parte di siti di idee e votata parte
+io l'ho visto e rivisto non solo fondo quando risponde alla realtà polvere però non sembra
+a destra
+la realtà è sempre la polvere urbani
+lingua
+io guardo quando
+alessandro i capelli e
+io non credo proprio
+no no va bene proseguire il discorso ditta arrestato e lo parla come se ognuno di design c'è adesso così ampio serve una persona abbastanza giovane
+no alle seduzioni trentacinque anni
+ricordate il vero
+dai evitiamo i discorsi estetici parliamo un po' di robaccia per dire per esperienza io pensavo peggio
+quindi chi vuole iniziare dai suoi inizi quando ha iniziato anche anni che cosa si usava cosa si usava e cosa si usa adesso broadway ne parlo io così vi introduco il discorso vediamo un po' allora
+beh io ho iniziato novantacinque vai su internet e ho fatto aperto un provider internet handyman inizio novantasei e a quei tempi c'era il server linux un server o linux linux non era ancora tanto diffuso però nel caso specifico maoisti era basato su linux inutile dire che quella lista azione già del server al baraccone fisico in cui tu
+qui ci mettevi dentro il pd sta facendo istanza nel sistema operativo in quel caso ha redatto due qualcosa e
+avanti avanti configuri e quello era il set tappa di un sistema operativo poi in preistoria effettivamente quindi forse non ha tanto senso parlarne però fosse anche utile per chi nel novantacinque non era ancora nato e adesso lavora con kubernetes rendersi conto delle sofferenze a cui abbiamo assistito è che abbiamo sofferto in passato
+il passaggio successivo è politicamente parlando per noi sistemisti era dalla installazione da cd-rom quasi vuota dischetti floppy ha magari l'installazione via network no kickstart jumpstart dove si iniziava a fare un po' di provisioning automatico dei sistemi in modo tale che tu il sistema operativo dei server che deve
+gestire perché puoi sistemista quello faceva lo faceva facendo bootstrap magari delle immagini via rete queste però era già diciamo anni iniziano i duemila non da tutti non per tutti se vogliamo perché poi cambiava a seconda di chi di che cosa sa nulla nessuno ti impediva di continuare a fare l'installazione da cd-rom dei tuoi sistemi
+i sistemi erano le tue bestioline che ti tenevi ben calde e sotto controllo nel senso che poi è un super non dico che per sempre però te lo tenevi
+cibo per un po' di tempo quindi dove i curatelo tipicamente inizialmente a mano iniziavano già ai tempi finalmente dei primi anni duemila i strumenti come chef engine per fare il configuration management questa logica di gestire la configurazione sistemi come in modo programmatico in qualche modo modo
+riproducibile in modo tale che non devi fare a mano in stallo questo pacchetto
+questo valico piazza e così via e poi a me il tempo l'evoluzione è stata secondo me è rapida e abbastanza impressionante che poi si è andati verso la virtualizzazione e quindi vuemme guerra immagini
+volevo ti volevo fare una parentesi delle cose che steve diceva quel periodo di medina
+no curiosamente pensare su molte riviste adesso non esistono più ti sei registrato
+sì c'erano dei degli articoli proprio continui fissi su gesù linguaggi
+penso che il sedici
+e alla fine è uno del codice
+cosa scrivere scrivere codice scrivere un codice di un livello un po' più alto quello che scrivi vorrei scegliere per l'epoca quello che mi univa nell'ambito unix univa tutto l'insieme di caratteristiche che tanti piccoli o meno di cellule
+stavo
+del linguaggio chiaramente un gruppo divenne costruire dichiarazioni sempre storiche dell'epoca del cgil ai perdono
+inizia a escluse le prime applicazioni web erano tipicamente cgia i
+sistemista rompere uno uno bravo
+termine era uno che sapeva anche scrivere per te
+e siccome pensavo a un qualcosa in albergo
+sa programmare in qualcosa io no ma il vero wally
+no mai un'accusa che cui stiamo per dire l'evoluzione
+quando abbiamo vedrete tante però credo anche pesato
+titolo dal duemiladue prima della virtualizzazione
+so che adesso non lo diamo per scontato però quando l'abbiamo fatta noi alessandro era una cosa più realistica dei cookie
+potere reale che non solo sottovalutava la prima volta che ho visto una macchina virtuale xen partire dentro il mio linux di cui smanettare questa sensazione incredibile di come dire stupore all'idea che ci fosse un sistema operativo dentro sistema operativo
+va da sé però ai tempi mi sembra una cosa fuori dal mondo tu la tua ascella e del tuo linux e poi lanciabili ha come dire la macchina virtuale xen che ha un precursore c'è ancora in giro tu chi sei
+usa ancora
+che ha detto ma lì dentro la cella di una macchina virtuale dentro la tua macchina
+mike browning mike brown però va beh altri tempi poi fast forward to adesso io poi magari non voglio tediarvi troppo sulla storia dei poveri noi sistemisti ha sfornato adesso adesso la macchina virtuale anche la stessa logica di creare un sistema operativo è una commodity cioè
+non pensi neanche sistema operativo no ci sono immagini ci sono funzioni ci sono container e tutto quello che ci sta intorno per cui il sistema nativo e diventa quasi irrilevante se non quello che usiamo noi sui nostri desktop e sono passati giusto venti anni e quindi effettivamente che sono tanti
+magari per qualcuno è una vita per me è un soffio quello che è andato bene sono rilevanti per esempio vediamola così rilevanti per lo sviluppatore forse non è chiaro probabilmente diventano ancora più rilevanti per coloro che invece le infrastrutture devono tenere il caso
+trova i covo trovai qualche serra da qualche parte c'è
+scegliere voi come sempre si dice che le vecchie regole
+no fondamentalmente cruciali
+che lo sviluppo siete operativi in continua redistribuzione compiere il loro lavoro
+e c'è dietro comunque ci lavora tanto proprio perché sono solo far andare sviluppi sono valide da tanti cloud provider nascono oggi e stare su internet nascono oggi forti innovazioni in vari campi magnetici perché so che installano alcuni
+la crittografia è anche tenuto duro per farsi pubblicità e quindi sui lupi partecipano google sono decalogo bagno
+americani partecipano
+questo tipo di parcondicio elia chiediamo ai nostri amici sviluppatori d'altra parte la schermata che cosa come è evoluto il loro mondo informatico
+va news
+nuovo come che io mi ricordo che io lavoro qui
+filtrarli alle superiori
+ho fatto pascal
+come come linguaggio poi mi ricordo che quando ho cominciato a lavorare da tutto
+lavoravo in una azienda che faceva niente
+pagine gialle all'epoca e tutto ciò che era grande rabbia carino che poi era super cattivi esiste ancora ma
+è quasi tutto quasi morto come come domani e mi ricordo che eravamo questi cocktail enormi gestite in essere whitney in maniera parla a capolona
+vueling
+non so neanche come funziona vero test abbia io parlerò
+io ho usato il cibo este
+perché se io faccio un modello pensato che sarei voi
+ci pensavo proprio
+categoria ma non lecito al voto proprio per evitare america
+i prezzi medi
+uno uno uno uno uno
+sono andata in vacanza avendo toccato
+fai chiamare l'amministratore delegato di rilievo
+è dal diavolo poiché manualmente
+l'olio dei motori di ricerca che veniva fatto connessi civili andare nella cartella dei motori capaci di primo rilascio della mia vita
+io l'ho guardato tutte eravamo molto famosi all'epoca milioni di barili al giorno mi fanno vincono il rilascio facile rilascio mando giù non solo la base di hennè macchine
+appena arrivati facciamo a sapere che lo manda
+automatico il venerdì nuovo funziona nessuno ha cominciato a non funzionare soprattutto vista la logica
+online
+ad arrivare ad atene che stavamo parlando della lois o modificare una riga
+comitato e tra venti minuti mi arriverà un il servizio online
+ossessionante come in effetti tutto questo progresso è in realtà un progresso se ci pensate se ci penso non c'è bisogno di pensarci meglio nel senso che il mondo e t a livello di resilienza di di livello di testing di stabilità dei servizi
+luce avanti rispetto a qualche anno fa
+sì però c'è da dire che allora il fatto che il mondo d'oggi cioè agilità città luci dell'alba tutte le occupazioni civici di ti sembra che tutto il mondo abbia seguito come ho fatto io
+dire che devi molte organizzazioni che sono andate avanti così tutto potere
+ragionevolmente certo che che tutte le vocazioni che abbiamo fatto insieme alessandro all'epoca non stavano molto in giro dai militari
+altrove no problemo garanzia niente
+era e ancora oggi secondo me non è stata più che tranne in rari casi dove sia andato due mesi ormai
+guarda che io sono già vecchie su quelli io sono io sono legato al mondo pappetta roba vecchia c'è adesso non si fa più queste cose qua adesso non siete non fa come fai ma come fa jervis lui schiaccia terraforma provincia sul club fa tutto lui non è però qualcuno te
+scritto eh sì no insomma ben venga però capisci che
+secondo me stai mi piace pensare che ci sia un sacco di gente che fa ancora le cose in modo primitivo o che magari ancora bisogno di strumenti come puppet per i quali sarebbe un passo avanti ma pensa
+ci sta che chi ci è passato avanti il treno è e moltissimi poi va da sé che chase casi c'è di tutto però ma guarda io per esempio se vuoi credete così non ti viene
+condividiamo l'elenco
+se vedi che il management come
+ti ricordi ero uno dei campi di lavoro
+sta voi nel forum di zm
+staremo vicini
+occorre ancora del brexit management parte strumentale
+dicevo inizialmente tengono i container continua nascondi
+è una formula di management evoluto ci ha detto tutto in un ambiente protetto che detto
+faccio una navigazione a propulsione scopri adesso mi sto occupando devo ricostruire l'ambiente leggere ricostruisco rocco l'hotel è protetto fino ad un certo punto perché tu dici bene che se vuoi io voglio vedere che questo container sicuro dice credo di sicuro voglio vedere i livelli delle pesche
+e cosa dire
+non c'è
+installazione
+così
+quello che ho costruito
+sebbene nato tutto il sistema qui le versioni dei software
+guarda non è una banalità ci vai
+quindi tu sei costretto educato romana per fare un controllo della mente
+diviene quindi questi metodi sicuri vi sono panama
+andiamo comunque di eseguire le applicazioni
+possesso dei beni
+qualsiasi
+un'altra delle forme
+pin
+vedi oppure utilizzando delle forme a bristol è deciso le
+comunque qui una questione che dia
+riconoscibile lo chiedo l'interrogazione steam non possiamo fare
+dunque convincermi che sto
+quindi se ci pensi siamo tre martiri e ma dice il container
+ma è interessante non sei d'accordo rimane tutto alla fine ci sono sempre applicazioni che devono girare su un sistema operativo che poi sotto forma di immagini o vuemme o quant'altro ci siamo
+però ti ripeto non è più lo stesso ce n'è mai più neanche più bisogno quando guarda a dio che non ha neanche più bisogno un sistemista che ci fa perdere il lavoro perché
+avendo perso una battaglia avuto bisogno
+la vuole assumere a lui
+è lui quello che non lo sa perché non lo vede in busta paga però
+puoi
+ma quale
+devo vedere cosa cercano di mostrare ti voglio bene che noi ci mettono dieci persone domani frangenti dieci come me ma tieni
+se è quello che elia ma se già il concetto di devops qualcuno sta dicendo che è obsoleto perché cominciavo a te
+l'ingegnere della piattaforma e quindi se quello che lavora su in ferma sul cloud devi preoccuparti di bastia
+posso posso andare un po' contro a tutti voi
+quando ho aperto questo posto grazie
+pure io
+lascia perdere soprattutto turini è il mio bagno
+dicevi no
+perché sì proprio quello che sto facendo
+ho un po' di progetti da da va bene
+ho cominciato prima per gioco tutto però naturalmente ci vuole una madre non è che tuttavia anagrafici però il fatto che io come sviluppatore in questo momento possono essere completamente indipendente no da un sistemista e sto esagerando il discorso perché io ho questo progetto
+davanti a questo monitor
+o dalla forma
+una piattaforma cloud può essere fa google ma stiamo parlando di un brano o di parti di ricambio
+chi se ne frega non ci sia nessuna settimana in settimana
+impossibile in questo momento e io mi sto
+rilasciando un'abitazione completa scritta da uno sviluppatore è completamente indipendente e completamente automatizzata è completamente dipendente da una figura non poteva essere il
+lean in un'azienda di una volta è completamente automatizzata no secondo me questo è
+ci vuole tanto a nostra conoscenza nonché uno nasce e lombardia che stia per arrivare al torrente però queste letture
+aceto
+gioco erotico è scosso e il discorso e comunque sia ci sono varie vari livelli
+quattro l'utilizzatore finale io non ho voglia di sbattermi nemmeno questo però sono applicazioni e ambienti in cui questo approccio ci sto facendo io in questo momento non è accettabile che se dovessi fare una buona valutazione che devo
+vorrei che qua però deve prendere una nuova edificazione cristiana ma questo non mi basta mai no naturalmente ho bisogno di figure più forti che sostengono con infrastrutturali se io devo fare il clown
+stiamo ancora parlando di quando facevo partire da wuhan
+non lo so ma quello ancora no lo fanno in maniera molto più lineare e semplice proprio quello quello fa quindi sì sono grandi più strati sia esemplificato da una parte e comitati da un'altra
+però secondo me la massa quello che una volta poteva essere prevedibile
+il management che ha portato poi al mondo dove stiamo adesso adesso non è più un movimento di massa no nuovamente di massa in questo momento è passato dal cosa poi magari tra dieci mesi due anni dieci anni chi lo sa ne arriverà un'altra
+la configurazione di una macchina né nella maggior parte delle persone che lavorano in questo settore è irrilevante
+no anche perché non perché non sia corretto no ma perché tutto già fatto tutto coperto da un altro che ha fatto annullato software che in automatico prendiamo dormire
+costruisce quel qualcosa che mi serve molto semplice meno controlla che siano i minimi
+uno per un qualcosa che sia minimamente protrarsi arredi e veloce basta poi è normale non è l'ottimale però raggiunge l'obiettivo e poi siete pensi anche se si a quello che mi lasciavo io all'inizio carriera
+questa è una pagina
+come risultato finale
+la creazione di un discorso che voi adesso
+il presidente questi noi
+strutture quando abbiamo sentito altri hanno preso imbattibile
+da anni volevo
+semplicemente perché
+è un po' diverso
+e ho un paio di cose interessanti innanzitutto credo che non è cambiato molto dal punto di vista del programmatore
+è cambiato l'approccio forse perché
+lavoravo come il senso
+spazio adesso magari su business che lo fa automaticamente ma non cambia niente alla fine anche se noi non siamo politicanti testa
+automatici
+siamo invitati a restare esseri umani
+per varie ragioni sia noi che loro perché la complessità
+alcune come dire
+gli scenari dove si possono creare buchi sono talmente alti che
+presidente
+automatici
+comunque questo è uno dei cambiamenti più grosso è stato probabilmente ha soltanto il fatto che adesso abbiamo la possibilità di rilasciare qualcosa che lasciare un gioco e ti mandarono
+dopo infatti è una cosa che va di moda giochi
+enormi nel giorno stesso
+da lui
+inserimento
+efficiente appena fatto
+fuori arrivi su milioni di computer che non avevo modo di testare e tecnologiche
+probabile subito
+sociale invece
+anni fa questa cosa qui non potevi farla il fatto che
+distribuire successivi il gioco e poi ciao
+piovuto trasloco quella parte
+perché c'è una rete deve essere fatto
+tutti le sostiene
+esatto perché fondamentalmente ah ah tra l'altro non so perché all'epoca non so
+questo tizio non ci ma se tu paracadute gioco
+dirmi che ovviamente
+poi lo potevi fare
+la sensazione l'ansia
+anche la più severa
+ed è anche il suo stile dei programmatori perché all'epoca bisognava essere molto più attenti gestivi per esempio anche semplicemente la memoria modo maniacale per esempio quando lasciavamo si sposta
+avevamo prenotato due
+fare quello che facevamo era praticamente a allocare che tutti e trenta giga di memoria e puoi farci il nostro
+il nostro newsletter per gestire
+fare la frammentazione del tutto fatto a mano
+i lavori e invece adesso non te ne frega
+c'è talmente tanta memoria per assurdo che
+fai ancora attenzione però
+e questo sicuramente ha cambiato
+secondo attenti senza tanto più se c'è la rete di sicurezza l'aggiornamento ma abbia i giochi attualmente sono comunque partecipa splash
+ma perché voi state bene è il massimo
+controllo e permettere l'ottimizzazione velocità e quant'altro alle volte ad esempio all'epoca stavano intanto proprio consorte
+l'antica roma era stata
+adesso che già hai
+ad alto livello
+se stato generalmente non si fa
+quindi sì
+poi vabbè ovviamente sei vedi
+so adesso sono distribuiti anche abbastanza estremo
+gli unici trading
+questo era stata sottoposta questa protezione abbiamo fatto
+per la parte di rendering fondamentalmente perché poi tutto il resto era realtà realtà nostra
+è questo anche il framework che hanno cambiato molto nel mondo dei videogiochi perché so magari anche per assurdo il ragazzino che fare un videogioco semplice
+con
+avendo detto che era stato mi sento programmatori che lavorano
+credo che questo sia forse più facile però per fare dei giochi tripla a e non è così non è così immediato perché se ti prendi uno tipo in genere
+commentario talmente tanto che alla volte ti comprende factor da zero il vantaggio del freddo immagino che anche cross-platform in qualche modo ci pensi
+si fa invece in caso contrario devi fare motoria anche per l'altra
+adesso sui sistemi moderni quante piattaforme devi occuparti di gestire playstation quanto diversa da un normale pc xbox
+è una domanda
+non so più niente
+falsi nel senso civile fortunatamente necessariamente
+assetto corsa
+è stato portato da noi su playstation ma adesso già utilizziamo in genere aziende che fanno del porting del gioco su console
+sistemi sono molto simili all'epoca si rifacevano motorio che avevano un'architettura completamente diversa stesso e possesso
+mi ricordo che avevamo neanche perché avevano patito di implementare
+e voi
+creiamoci rendering completamente un'altra cosa che devi fare due cose completamente diverse più o meno portate librerie che lei all'interno dell'altro
+e quindi quella che aiuta tanto ovviamente avere qualcuno che lo fa quasi automaticamente anche lei non è del tutto vero perché il console pc sono molto
+di ciascuno
+se quindi la fine devi devi anche di tutto questo magari ai contenuti grafici esclusivi
+non gira
+le piattaforme di riferimento in genere sono windows e playstation xbox
+avendo straniero
+è sempre la stessa cosa ma devi fare il interesse
+anche perché poi ci sono due ospiti ai tavoli consolle bisogno di distribuite delle regole che ti danno delle persone molto
+scritte su quello
+la belen a punto i sistemi di sicurezza quando salvi
+deve avere delle componenti diciamo che il loro che decidono loro come devono essere fatte prendere pc
+sistema più facili su cui sviluppare su linux
+quasi mai adesso vulcan e mutevole
+una libreria
+per rendering che va abbastanza automaticamente su linux però è ancora poco
+gli schemi in soli news eccome il desktop su linux è sempre l'anno prossimo come segue
+ecco la questione nucleare vennero anche lei vorrei brevemente il tipo
+vuoi vedere che abbiamo un inizio settimana di tempo io uso android
+sono grandi perché ritiene che la metà neri lo puoi mettere anche questo
+a livello di contee non mi pare davvero
+in memoria domini di me praticamente quello che eventuali detto alla deve fare
+provenza suddetto qualcuno che non esiste c'è la finestra più piccolo del vincolo smartphone o tablet
+più malattie e invece adesso sono state emesse per logica gaming quando fai il gioco che poi le diverse piattaforme tipo stream piuttosto che ciascun magari piuttosto che box ciascuna con il suo sistema di messaggistica o meringhe in ufficio e così via cosa fai fai una scelta puoi fare qualcosa
+alti
+se fai una scelta fai una scelta lontana
+infatti implementi le pelagie steam steam per windows
+poi ovviamente xbox a loro non non sa
+quello
+la stessa paghiamo ma dovete rimanere
+io non credo che sia il più grosso perché quasi tutto diciamo che hai delle piattaforme alternative di forza è ovviamente quello di
+dove ci sono ogni tanto hanno delle coppe
+le esclusive alcuni giochi così come non so
+origin o battle net per scooter
+utili perché ma quelle in genere tipo quello che trovi anche su steam quindi steam credo che sia piuttosto sono più romano
+ultimamente milioni si giochi
+e hai fatto bene a cosa sarà adesso poi quando sviluppate un gioco alla piattaforma requisiti minimi come devono essere almeno
+a quanto si primo gioco è certamente i requisiti minimi sono più alti di queste ricerche che stanno intorno
+quando avete sviluppato un giorno
+ovviamente sai che un gioco magari dopo tre anni quindi teniamo qui poco fino a quando non ti interessa l'unica cosa che magari alcune decisioni non sa utilizzare delle directx undici o dodici a quel punto tu escludi una serie di magari al computer molto più vecchi cerchi comunque guidare quanto più possibile per mettere
+attività ma che comunque ecco guardate i dati stime non sono in tanti comunque ad avere magari all'ultima scheda grafica per dire quindi che comunque coprire un bel po' però
+non non te ne preoccupi poi così tanto senza la quale fine magari fai un po' di
+è tempo di opzioni possibile per ridurre magari del carico è semplicemente uno accetta di andare magari a sessantatré invece c'era
+centoquarantaquattro mail
+ma lei
+l'aifa ciclo di vita di un software di un gioco come puoi su un assetto corsa quattrocentotrentatre anni da quando inizia a sviluppare quando lo rilasci alle malattie dipende dipende dalla durata del titolo che per esempio assetto corsa competizione è stato molto veloce
+tre la sere
+dall'inizio alla fine forse entrambi in tutto però se andiamo a vedere per esempio sono un altro caso
+che sono promossi o attacco giochi
+sono stati appena iniziato ad andare a indebitare tipo
+milletredici millequattordici sono ancora
+potenzialmente ci sono giochi che non escono mai dalla verità è che hanno finito per partire poi è stato toccato
+circolano so chi
+che è interessante quindi in realtà non hai una moneta dipende quanto il gioco innanzitutto quanto vendere è come è come è come il suo richiamo
+sistema commerciale perché per esempio puoi vedere magari cose che compri il gioco che ti portano avanti
+perché puoi continuare a sviluppare quanto vuoi perché comunque continuano ad arrivarti profondità e dagli acquisti in game per esempio non so quando war thunder c'è chi li dove la gente continua a spendere soldi e loro continuano a
+da parte del gioco aggiungere contenuti o per esempio online che fanno memoria
+famosi che sono praticamente dei giocatori tu paghi quindici euro al mese quindi quello che c'è pericolo
+è online esiste dal duemilaquattro per esempio
+questo spazio sulla nostra adesso
+se si può dire
+no sul nuovo titolo
+ma essa sembra corse o non deve
+no no non voglio mettere in difficoltà
+next big thing ricordate che me l'avete sentita per la prima volta qua
+beh comunque assetto corsa e io non sono capace di giocarci perché che sono troppo scarsa guidare però mito assoluto
+l'italia insomma molto bene molto bene allora
+io mi ero iscritto un po' di domande da farvi in realtà io volevo anche scrivere codice tag data mentre voi parlavate ma non ciò non c'è modo non c'è tempo e
+bene così insomma è
+come la vedete il futuro della vostra professione di qui abbia visto un po' come è nata dieci anni fa come nacho come adesso com'era vent'anni fa fra dieci anni fra vent'anni che cosa sapete fare e ha visto sarai in spiaggia a bere cocktail
+vanno un'ora
+questo è molto complicata da capire comunque sia vedi
+quando le novità prima
+le persone il momento istante prima di una grande modifica la grande novità non se ne vedono mai
+i titoli dei giornali prima di eventi storici importanti che nessuno si sta rendendo conto di quello che sta succedendo metterò c'è sempre si è vero c'è una poesia ci sono
+c'è qualcuno che comincia magari nelle cose ma la mazzata pascolo
+quindi non so non saprei non saprei non saprei dire che potrebbe non esserci la nostra professione domani come potrebbe essere meglio
+pensate che saprete bene
+io lo dico io
+realtà o evoluzione esistono però sono possibili sempre più vicina giuliano perché esempio parliamo di container non sono ragionevolmente certo che ne parlai delle www
+ma poi anni fa e poi quando guarda guarda quando quando redatte da un su google sulla piattaforma si parla di container e membri
+non di contenere in sé ma del discorso di nemici facili
+sto parlando di ios nove anni fa oggi iniziare a dire finali
+ma oggi tre quattro anni e da tre quattro anni che inizia parlando di kubernetes è ancora oggi per l'ennesima volta che non lo vedo continuamente e quindi anche per aprire chiudere e intorno stanno così cosa state costruendo un ecosistema sempre più ampio e diversificato usata
+cosa cambierà tipica la lega avverbio terra formula
+per esempio in alcuni territori
+da vedere
+prendete questi no
+qualcuno dovrebbe diventare la cosa che più o meno conosco qualcosa e
+io vorrei io vorrei fare ci pensi più
+perché ci avresti ricevuti cellule specializzate si riduce a lei almeno cinque che sono verticali per essere valide a meno che non ti metti a parlare delle luci e controlli di firewall controllo di una rete di sensori ma se sono verticali chi si occupa di detection test è diversa
+si occupa di e chiederle come vede verificabili e si occupa di fare forensic sul mobile e un camion che non è uguale a quello che fa
+web application perché deve avere anche delle competenze di cose e quindi di che stiamo parlando di sicuro non parliamo poi della crittografia dove entriamo in un campo che non puoi neanche che ti mandano devi avere delle basi matematiche che se vuoi se vuoi capirci qualcosa
+sono le a quello di google sicuro
+chiave più lunghe di quelle piccole
+a questo livello qua è la stessa cosa nella propensione c'è il programmatore
+devono essere verticali abbiamo qui di
+un esperto di videogiochi quell'esperienza dialogo che si trova sulla strada
+se c'è senza esperienza e valore no
+mensola assolutamente no no no ma non è mai reale
+pure io pure
+che ho io no però però competitivamente insomma qualche migliaio di pagine ho letto poi qualcosa ci è rimasta e lo legano sofferenza non vale perché poi vai a vedere le tematiche di fondo ma la compresa da tutto questo marasma
+si affaccia al mondo
+sottoterra che vogliono ancora non capisci neanche che problema sta risolvendo rispetto c'è poi quando c'è qualcosa che non funziona
+quello che sto cercando di fare questa cosa e non è magia di sempre
+otto tamara noi dovremmo sempre cercare di vedere perché le nuove funzionano cosa che oggi è sempre più difficile però alla fine
+cose che non funzionano perfetti
+vicino vediamo alcuni casi anche tecniche più grandi clown
+tutta questa magico però
+eh si perché dovete a voi contributo non funzionano ci vuole veramente il mago e recapito
+il diavolo pronto alessandro carnevale
+però ragazzi ho mai
+non ci stiamo perché non possiamo però no una parte del mondo ci vede
+no non è che ci viene problema
+no no
+facciamo entrare la maggior parte bissare quello che noi facciamo non mai continua con il valore espresso né il significato no
+succedono delle cose sono nipotini ma come siamo arrivati da quello poi magari ne trovi non so capendo
+poi queste breve
+la vai a sistemare la stampante qualcuno sia un genio cavolo no e poi staccate la stessa no la prego
+beh però guarda io ti posso dire che per esempio il rispetto ai dodici anni fa cioè secondo me la comprensione proprio questo tema bold ha avuto livello che non è esattamente la cosa in cui io diciamo brillano anche qualcosa di particolare però diciamo un tema che secondo me
+l'informatica e la tecnologia diventa meno che vedo dottrine di business per le aziende che consolidate anche economiche perché poi alla fine c'era c'era di tipo e le innovazioni finanziarie ad esempio nasco si possono fare giusto
+sarà uno sviluppo informatico rende possibili certe cose la gara finale delle banche chiusa è dovuta
+ciao cosa c'è
+ma grazie all'informatica che non so cosa positiva produttivi che qualcuno deve staccare e vale per l'approvazione di altre cose
+artificiale machine learning cambiare cambiano fare delle cose che prima non potevi fare di solito includono proprio fare adesso vivi di quello non cedibili dell'informatica se il noto pittore connessione non reti informatiche lasciamo stare
+potevo c'è un'aria di ricerche che no eppure facebook cercherei una forum manca o facevo prima l'esempio dei cloud provider solo degli sviluppatori del camion del corpo della criptografia ma non solo un'azienda di ricevere di ma fa quando trovai davvero
+c'è questo
+cosa interessante secondo me prima era strumentale decide di fare una cosa oppure il pacchetto informatico perché mi aiuta oggi è il contrario cioè delle evoluzioni tecnologiche che permettono di fare dei diritti che prima non potevi fare però c'è di nuovo
+se tu li volano potresti essere il volano potresti trasformare un'azienda di finanziare un'azienda che finanziaria me neanche finite queste tecniche non è un peso è aumentato
+la bellezza e lo dici a elvis and founder fintech
+peraltro peraltro diciamo in alcune istituzioni che parla a livello strategico pubblico pubblico quindi non succede nulla di segreto quindi se vuoi vedere se parla del loro pubblico famosi di sempre
+internazionali e nazionali quindi se si vuole dire voi però dietro la tecnica informatica di vendita rilevante e tutti i tipi che stiamo affrontando diventa parte integrante del business come la tranquillità di servizio la sicurezza no
+siete stato cavolo
+io o ricordo si parlava di sicurezza e novantacinque
+da sei mesi
+in modo ecco chi fa sicurezza comunque un lavoro ce l'ha ma sempre
+ecco un modo e l'altra me oggi vorrebbero farlo ha dovuto utili per il problema che vorrebbero farlo saltando a piè pari le conoscenze di sistemi operativi o lei scusate intanto
+so se abbiamo marco fuoco che c'è
+entrato e benvenuta ma noi stavamo quadro che sta battendo
+la squadra
+afferma simile
+qui grazie
+però e allora se leggero ritardo ma lo sapevamo
+santissimo
+per chi non lo sapesse marco introduci ti ho chi sei po' che appare qua e incolla così così ma non mi pareva una buona idea venire qua
+no io lavoro in linea
+che faccio faccio il manager in linea e mi occupo anche di più nel comitato internazionale della danza
+motivo per cui sono arrivata in ritardo proprio perché voglio comitato italiano parte questa cosa se tu per invidia ai lavori del comitato in tv non esattamente anzi il mio lavoro hanno poco a che fare con quello che mi piace poco
+lascia stare mia sorella
+date
+anche in invidia questa cosa che mi piace più
+io mi occupo degli anni e quindi quando c'è il tuo sito che fa le presentazioni tutte fighe sulle migliaia così via in realtà il tuo sporco lavoro che viene presentato imbellettato fatto
+piccola piccole
+però nelle ultime presentazioni abbiamo fatto una bella presentazione della mia roba con data
+attenzione cosa crea la tua roba di eclipse è alla ricerca di oggetti tridimensionali
+guarda che qui abbiamo alveo chi sviluppa videogiochi quindi comunque invidia e tutto quanto mi sa che quando la vista si fa a parlare di invidia le tocca la prima domenica
+stiamo investendo a posto
+di tempo
+grandissimo allora noi stiamo parlando da un'oretta di cose molto più triviali dei tuoi simposio sul cinque maschi hanno ben altra sostanza e abbiamo parlato un po' di cose e
+però ne approfitto per chiedere anche a te quello che un po' ci siamo chiesti noi come è evoluto il tuo lavoro dagli inizi
+adesso è come pensi che potrà evolvere in futuro allora no
+sostenitore delle ig metall proprio buttiamo le basi per me e alcool
+ma basta vedere l'evoluzione
+parlo da programmatore
+basta vedere l'evoluzione di quello che è stato
+schede di sviluppo
+sviluppo sono sempre diventate più intelligenti adesso non dico ovviamente che la scimmia programmare descrive un programma senza principio io però dagli aiuti che hai in confronto a quello che c'era negli anni novanta eh già esatto a livello ti interessa ti scrive luigi ti suggerisce come copilot
+anche senza parlare ed ecco qua
+pd eccetera cioè poi con la cacciata esecutivi ciao io ho fatto
+home blog
+poco com e due articoli fatti benissimo che sono ho fatto d'accordo mi rivolgo a chi ti tratta e è passata al passato
+le cose cosa
+causata dalla fanta no anche qualche cagata di codice qualche cosa allora da codice in qualche camera fatta e si celano ha fatto un paio di cazzate linee di codice
+da teheran era un tipo a ocean però
+no è stato difficile però lo è talvolta anche con le persone convincerlo che doveva cercare una soluzione complessità diversa però tante volte anche con le persone non gli puoi dire camminata
+vedere la complessità logaritmica non glielo puoi dire così
+troppo banale mi devi dire ma prova a vedere qual è calcola miracolosità vedi qual è lo riconoscete consiglio perché mi piacerebbe che producono
+lavoro di una visita se volete chiudere
+curiosità degli eretici che riguardano lo sguardo toponimi
+c'è anche lei
+queste pareti lunghe
+a
+di avere un ambiente che richiedono almeno complessità dio infatti quando tuttavia la grande domanda vera strategia del segreto e voglio conoscere qualcuno che mi parlava ma scusa batteria che tu sei nel quadro oppure fai
+vorrei iniziare
+ma a me non è abbastanza forarsi nelle codici internet dei vari google facebook non è a quei livelli lì è abbastanza classico fare una domandina lirico curiosità o oppure un problema ma il problema banalmente era
+vendere a vedere
+è e quello era uno dei problemi altro problema l'altra cosa che ho fatto piacere sul quale siete proprio i primi giorni ho detto però non voglia di farglielo un po' di vita professionale implica sempre la stessa cosa ho preso un pezzo di codice strano che avevo scritto io io io più che facevamo implementare un algoritmo di più
+grafica che si usava fare negli anni ottanta e gli ho detto fa capire cos'è e mi ha detto subito cos'era ma non è questo è proprio il post che ho fatto perché ho capito che alcune deduzioni ai nomi delle variabili dai nomi delle lame dai nomi delle cose che c'erano quindi un cambio che tutti i nomi delle variabili che i nomi delle tensioni in modo che non siete
+una mazza di quello che ha infuocato il tuo codice
+mio codice e poi non ho gli ho detto che cos'è e basta perché non ci riusciva capitolo direttamente qui di certo
+obiettivi ma io ho ragionato con lui cioè facendo finta di voler capire questo codice fiscale che mi aveva lasciato un collega bastardo che era andato via lasciandomi il codice di merda e ha detto cerchiamo di capire allora ho fatto un po' questo giochino e alla fine a un certo punto mi ha attirato fuori
+non solo ma dato il nome della della sanzione ma mi ha detto a implementa un algoritmo di brezsny di questo tipo blablabla e stato un di sebastian
+devi sapere che questa cosa che
+benedetto
+all'inizio
+in cui eravamo partiti che c'è
+ne parlavamo proprio esattamente quello che hai fatto tutto io lo dico perché ho seguito un po' le persone che l'avremmo fatta in altri campi addirittura dono dell'ubiquità
+il fatto di risiedere così miseramente emanuele
+è effettivamente c'è quello è una cosa credevi di stupirci che però come hai detto tu giustamente al di là del fatto che gli umani in da cui dicono proprio prossimo
+ci dicono le nostre cazzate però non in modo così serio quello che succede eccome
+dialogante dialogando dialogando portare a un risultato come tu stesso puoi
+è chiaro quindi nella base di conoscenza che nessun uomo può avvenire solo però mettere insieme qualcosa di più
+più
+sinapsi trovano ancora oggi ancora fase di conoscenza sarà tutta quella memoria
+però come carati
+dice cazzate con la faccia di bronzo è imbarazzante e io ho sofferto gara voluto cioè quelli che l'hanno addestrata abbiano arrecato questa situazione imbarazzante di salvini non ci sta
+dipende perché sono più sottili
+più difficile chiamarli
+non saprei dire ormai nemmeno organi ragazzina
+ti assicuro che ci sono adesso non so se non mi ricordo un esempio che stavo cercando anche di capire di fare un altro post su una cosa invece che far vedere che dice cazzate di solito le cazzate che dice sulla prima domanda se ti fai una domanda secca all'inizio
+un'altra domanda che devi darmi una definizione di fede so se è una definizione un po' particolare cavolata
+si definisce non sono abbastanza se anch'io ho verificato un po' nei miei scritti e gli ho fatto fare cose simili c'è iterando e anzi tipi semplici
+penso in un caso era un mucchietto di fare una cosa in python la prima versione me l'ha fatta senza fare l'importo della classe gli serviva la seconda cosa senza dirgli niente l'ha fatta aggiustando il pezzo quindi devo vederla meglio sta cosa perché è curiosa e quello che prima era la stessa cosa cioè io ad un certo punto che ho detto sentiti non capiva le cose
+la prima cosa che stavo dando in pasto proprio codice
+dicevo prima è un certo politico se ti fai una cosa scrivi di tutto con dando un nome alle emozioni alle variabili
+adatti ripeta quello che abbiamo capito finora e mi ha dato la risposta da dare un nome alla paura funzione senza limite comunque stiamo tornando sui piatti tipici che ci siamo detti noi non cadiamo
+ragazzi
+l'interno del giorno noi abbiamo voluto fare un uomo però obbiettivamente
+vogliamo andare ve l'ho detto chissà io mi sono rotto i coglioni sentir parlare ai bicipiti ma non perché la cosa brutta o sbagliata obsoleta perché è così ovvio che campbell e l'inizio della singolarità che è un po' come stiamo andando
+che adesso a
+dire alessandro
+devo dire che da lavoro
+interessante dovremmo sentire un poco tutti
+abbiamo provato a chiedere a noi diciamo come vediamo il futuro da qui a qualche anno nel nostro campo l'evoluzione che dice che abbiamo cambiato un pochino molto visite ovviamente il tipo di lavoro almeno quello di alessandro un po' come poteva essere il mio cammino
+stilistico come potevo resistere
+gli altri ragazzi in ambito sviluppo applicativo non più o meno oppure delle infrastrutture come vedi te come vediamo poi durano quattro anni che come ci si immagina così dicono
+che cosa ribatte che noi conosciamo rimane quella o ci sarà un'evoluzione del coraggio in che ambito perché c'è il pd sono un elemento che sembra parla solo di te
+carnevale
+anima e le infrastrutture come evolverà
+ciao cosa del genere come ti vedi te soprattutto sul tipo di lavoro tra quattro cinque anni
+dell'emissione marco fa quattro anni fa dagli schemi della sua famiglia
+era disoccupato resta piatta che si parla di stare a breve
+mi avete mano tuttavia è un tiepido ti piacerebbe l'aviazione scivolone no
+sei bravo
+a questo punto li non c'è
+che dovranno attendere la notte
+oh no no no no seriamente
+ci sono delle cose che mi interessano che mi piacerebbe vedere nel futuro che
+riguardano la programmazione differenziata
+le reti neurali funzionano in una maniera relativamente semplice l'algoritmo è propagato una roba degli anni settanta inventata l'ha nessuno aveva pensato che forse tutti pensavano fosse un'idea buona però retina orari sappia cristiana e sono venute fuori agli anni settanta poi c'è sono
+dimenticato qualcuno di novanta persone sono dimenticate e poi nel duemila sono accorti che potevano girare da una parte e dall'altra ma ho risolto anche quando proprio di tecnici di base per cui mi sono diventate fa fatica a imparare a lenox
+l'idea di
+di bene propaganda ma è la stessa della derivazione della differenziazione e dagli anni ottanta ma anche settanta probabilmente esistono
+l'esplorazione riguarda la differenziazione automatica andati allo stato attuale ristoranti linguaggi prototipali differenziarli cosa vuol dire che
+trattare come se fossero una rete neurale sostanzialmente adesso si parla facilmente come se fosse una rete neurale cioè ci puoi fare ben propagata attraverso e questo secondo me sarebbe un grosso un grosso passo avanti e altri
+conosco quello che abbiamo adesso in tanti casi e hai la rete neurale che è la differenza quindi puoi fare proprio
+e poi hai quella che è la nostra
+perché è quello il tuo obiettivo è un numero e una è una funzione che ti genera un numero che dice quanto bene l'attuale
+in tanti casi che quello che sta
+questa funzione è una box cioè io sto addestrando per esempio il robottino e voglio che la mia funzione e il caffè vado avanti no vale uno quando la tregua è pari a zero quando da qualche altra parte questa funzione è difficile per una rete neurale da capire perché
+se il catalogna arriva vicino alla sedia oppure dall'altra parte della casa sempre preservare la funzione tu puoi dire che smetterla a distanza però già in azienda
+tanto lavoro hotel semplice nel cappello poi l'acqua quello che ti permetterebbe di fare avere una pancia differenziabile e di dire come del resto qua ed euro uno e la fece a zero ma forti gli obblighi
+il tuo ultimo passo in questa maniera qua ti avvicini se vai in quella direzione ti avvicini a qualcosa che dovevi andare e questo permetterà veramente di avere tutto sotto controllo da una rete neurale risolvere problemi che adesso risolve con una
+come si chiamano
+che possono poco lo dico stasera
+con algoritmi di comprare praticamente a tentativi sostanzialmente laurenzi che ti possono avresti che hanno un nome specifico sono il modo di disegnare una rete che
+tasca però cazzarola fosse che non date comunque
+privati che quello che fanno
+no può diventare alibi e cercare di capire come il sistema si compone però esplorano stocastici
+codici ascii quello che però ho anche no ma io vado esattamente
+no insieme inutile verifica un problema learning trovare ordine
+che comunque non è che possiamo essere
+no cioè io
+mi vedevo mente di carcere
+poi vorrei approfondire uno dei campi della bibbia delle polveri che derivano
+questo sistema permetterebbe di semplificare data questa è una cosa che mi piacerebbe rivedere invece riguarda quel codice l'italia stavano della singolarità io sono uno che non crede nella singolarità
+secondo me è bello pensarlo ci piacerebbe che ci fosse in questa cosa che esplode va non riesco a credere ma fa figo però se ci pensate noi abbiamo credo tutti una certa età ad aver visto il mondo digitale non aver visto almeno un pezzo di vita vera vissuta in modo analogico e questa secondo me è una fortuna che una generazione
+due generazione ha avuto e non altri non potranno mai avere e adesso io ho come la netta impressione io mi sembra abbastanza condivisa cioè non un pensiero originale ma chi stiamo vedendo già un altro salto come dire quantico in qualche modo e che lega
+l'intelligenza artificiale agli sviluppi che stanno avendo che hanno questa accelerazione pazzesca per i ragazzi già adesso per tornare a lui
+in un metro e mezzo ha cambiato sta già cambiando il mondo e in qualche modo e stiamo già parlandone tutti per come cambierà il mondo perché di fatto è così
+abbastanza evidente no il
+coprire il salto che ci sta poi chiama la singolarità forse bisogna definirlo singolarità
+però io mi ricordo gli anni novanta come pensavo cambiasse il mondo coi computer poi si è cambiato grazie però molto meno di quanto speravamo c'è votato questo dramma allora mettiamo così il mondo anche nel duemilacento se ci sarà ancora un'atmosfera respirabile tutto ci sarà il rudere in cam
+spagna i boschi la montagna e tutto quanto è e la grigliata nel campeggio ma se ci pensi a quanto è adesso scusa quanto è cambiato il computer ma adesso se tokyo si smettono di funzionare tutti i computer in questo momento altro che covid guerra e tutto quanto smart e la civiltà umana finisce
+sette io cosa supercar volevo vedere le macchine macchine che si guidano da sole forse ci siamo adesso si
+anche se ci pensi
+capelli che hanno fatto ultimamente
+vorrei dire
+non mi pare che ambientale
+nel duemilasedici grande problema che si abbassava e diciamo che noi stiamo ancora il loro candidato
+clima cupo di blair però le macchine volanti
+guardate che ragazzi questa è la conferma che i computer sono dati molto più velocemente di quanto la fantascienza pensava allora separate guerre stellari o tutti i film di fantascienza dei tempi erano molto più avveniristici per tutto quello che riguarda spiaggia in uno spazio macchine volanti e mappe
+quanto riguarda l'informatica erano
+molto meno evoluti
+prevedibile e quindi questo è un po' questa azione
+hanno cambiato tanto e in poco tempo e in modo radicale e se ci pensate davvero che quelle cose lì fantascienza quello che parlava con loro dialogare
+c'era esatto e sembrava essere
+ho preso un cazzo di fianco che ne sappiamo lei sa non è che dirlo che sennò si sveglia
+no e comunque sta ascoltando quindi regista natura
+sai su questa cosa secondo me invece è la dimostrazione in qualche modo che i computer hanno cambiato tanto e forse più di quanto potevamo immaginarci so io speravo di aver veramente la guidava da sola
+ben accetta ma credo che ci stiamo arrivando e non e che anzi però
+le devozioni adesso dovrebbe dire no
+ciò che però non è sempre questo
+sì perché poi se prevedete
+proroga modo sai
+siete cioè che
+se non è un caso che cedere cerca di smontarli dell'esercito sono fatti con ferraccio che per quelli di poter realmente difficile prendere una delle macchine
+dividere l'impasto
+computer di bordo rosalinda celentano
+l'accumulo
+era da quello che c'era da vincere in macchina controllo una cosa semplice da accettare le sorprendenti
+scusate io che devo abbandonare
+vista la poca
+generosità che a un certo punto dice non posso farlo per motivi di visto la macchina che a un anno
+peugeot duecentotto che la nostra piccolina è già troppo intelligente che stata decidendo che vogliono stare la velocità per un motivo che non mi dice che probabilmente sa
+ha selezionato
+se da quelli frigorifero
+no ma infatti io ho dovuto spegnere e riaccendere attraverso questo crollo
+cosa da brividi perché il che mai
+perché ci arriviamo ci arriviamo
+che già quando si parla di e adesso ci sta alla fine dovrei mettere l'antivirus frigorifero che puoi
+tesina dono ma queste queste cose
+c'è sempre un discorso economico che poi fortunatamente grandi innovazioni nascono poi in campo umiltà e dove stanno i fondi per esempio anche le cose che fa lui dei videogiochi e dei grandi ottimizzazioni poi qualche misura dell'evoluzione dei computer come potenza nasce
+purtroppo delle guerre dove vengono messe
+e poi è chiaro che certe innovazioni su cui crescono e si diffondono nella società
+vedi la stessa internet va
+l'esempio più classico è quello il colore anche io
+piuttosto che con potenza dei calcolatori dove ci sono i soldi sono purtroppo siamo delle guerre le cose e i viaggi spaziali fanno poi sperimentano delle cose avvenieristiche che puoi sì che spesso è vuota viene applicata anche nella vita normale anche in campo veri
+solo che c'è un fatto finanziando macchine volanti
+ci sono sono
+ovviamente seriamente c'è sostenibili no ma se si potesse non sappiamo ne verso l'energia per andare con le macchine
+macchine volanti questo
+prende sempre una strada
+prevista né nel bene o nel male più assoluto negli anni sessanta noi eravamo sicuri probabilmente che negli anni duemila avremmo avuto una colonia sulla luna perché
+probabilmente adesso ci stiamo forse tornando con molta calma perché perché è cambiato innanzitutto
+standard di sicurezza che hanno stravolto tutto e poi anche ovviamente per questioni economiche l'interesse che c'erano
+appello
+quella cosa che
+proprio di fronte a voi una cosa che andava sulla luna voglio dire tostapane no tu dici ma c'erano degli errori
+ma no lui di più
+c'è l'astronauta oggi c'è sempre un eroe però c'è
+se dovessi fare un paragone tu con diceva don nicola bacchetta fare un viaggio nell'oceano in tempesta che magari grazie
+grande così la claustrofobia mettersi dietro la testa penso proprio così
+casa rappresenti alessandro che dice per stasera va bene o perché mi sembra che sia un po' accetti stiamo andando avanti se vi faccio sentire una musica che faccia farà sicuramente sentire qualche ricordo
+marco
+grassi se possiamo chiudere la conquista
+perché diciamo le cose che stava dicendo marco sono molto piacerebbe partecipare perché noi diciamo anche che
+solo dei suoi temi per me nuovi e quindi
+non ho mai allora io purtroppo c'è ovvio o sento sistemisti sviluppo applicativo le palle di sentire i sistemisti esatto no ma allora tutti quanti siamo quello che ci racconta di intelligenza artificiale c o di grandi programmi
+tardi perché qui siamo qui per scambiarci le idee che poi in punti di vista diversi come te che non ti veniva mai di andare a automatizzare l'installazione di software di sicurezza che cazzo c'è che cazzo solo per vedere codice però questo cammino
+lo faccio
+perché beh devo dire che a qualcuno piace c'è qualcuno che ha fatto una macchina virtuale cambio della sicurezza è giusto perché uno dei top persona lavora da noi chat mensile e ha fatto la macchina virtuale con un software commerciale non mi pare di sì c'è ricerca di indicatori di controllo
+zione
+che che nell'ambito del cibo e se c'è uno che fa una cosa del genere va bene
+c'è qualcosa che però non è una cosa diffusa che non sono neanche programmatori fondamentalmente zona i sistemisti sono cos'è la tragedia che fare versi gay
+cazzo non si capisce bene
+va bene dai comunque allora io direi sì giusto chiudere qua le prossime volte tende a fare un'oretta uno che mettere in mezzo già adesso un'ora e mezza è abbastanza pesantuccia da spesso soprattutto da seguire però sono molto contento di quello che ho sentito e delle diverse cose
+spero che avremo altre occasioni marco vogliamo crocifisso ma tutti quanti voi lo avete detto che parlava di retrogrado mittente
+stavate parlando di retrocomputing sono arrivato io la gamba tesa su retrocomputing interesse e lo so lo so bene
+l'intelligenza artificiale il futuro e fantascienza immagini ovunque no veramente che per me almeno non lo mostra molto se mi dai una chiave di lettura per poterle approfondire perché sennò per buttarsi dentro lo così io dico sempre è abbastanza complesso ci vuole sempre che sembri un
+profano che hai bisogno di un maestro che ti e noi avremo i maestri dobbiamo farli parlare i maestri poi li ha quindi mi raccomando prossime occasioni cerchiamo di limitare il nostro eloquio
+vero vero comunque
+beh ragazzi che dire la chiuderei qui e grazie a tutti poi in realtà grazie a una cosa che parte in cinque e continua con chi vuole e noi cinque chiunque altro vorrà partecipare per cui anche fra chi è
+chi ha seguito che qualcuno ci ha seguito abbia amici e conoscenze quindi parenti e amici però è comunque persone che conosco e che sono hanno anche loro molte cose a dire che sicuramente avremo modo di invitare e insomma queste sono chiamate che vogliamo fare regolarmente lo ripeto ogni lunedì bene o male quest'ora ma
+gare più brevi sono diverse stazioni diverse che raccontano e ci spiegano le loro attività quello che sanno e noi da imparare c'è sempre no c'è sempre
+volontà quantomeno
+lewis ragazzi è stato un piacere alla prossima stessa cosa
+s ma

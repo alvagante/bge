@@ -21,8 +21,8 @@ for FILE in $SOURCE_DIR/BGE\ *.png; do
             # Convert file
             echo "Generating resized png ${DESTINATION_DIR}/${DEST_FILE}"
             sips --resampleHeight 140 "${FILE}" --out "${DESTINATION_DIR}/${DEST_FILE}"
-        else
-            echo "Skipping, ${DESTINATION_DIR}/${DEST_FILE} already exists."
+#        else
+#            echo "Skipping, ${DESTINATION_DIR}/${DEST_FILE} already exists."
         fi
     fi
 done

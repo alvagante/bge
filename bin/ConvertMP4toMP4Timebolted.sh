@@ -23,8 +23,8 @@ for FILE in $( ls *.mp4 | grep -v 'timebolted' ); do
             # Execute the unsilence command to generate the timebolted file
             echo "unsilence -y $FILE $TIMEBOLTED_FILE"
             unsilence -y "$FILE" "$TIMEBOLTED_FILE"
-        else
-            echo "Skipping, $TIMEBOLTED_FILE already exists."
+#        else
+#            echo "Skipping, $TIMEBOLTED_FILE already exists."
         fi
     fi
 done

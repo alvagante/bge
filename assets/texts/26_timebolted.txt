@@ -1,0 +1,646 @@
+e quindi siamo arrivate alla sedicesima anzi no ventiseiesima toni ventiseiesima puntata la brigata degli estinti una puntata particolare perché è senza tema non sappiano sapevo chi sarebbe partecipe chi sarebbe entrato chi no
+nata libera e c'è toni toni zucchini che abbiamo avuto già modo di incrociare in passato e bentornato tony intanto io qua noto il temporale che si avvicinano quindi se per caso scompariamo c'è un motivo e non va via la corrente o sarà bath
+tutta la casa
+sì scusate
+inizia a grandinare
+poche volte sentito parlare e
+toni che va bene partito così non so se anche a te si sente anche tu il casino
+sì no no no sta piovendo forte però finora non sta camminando e bronzo sono anche io come penso ormai
+ci sarà qualche blackout va bene è puntata ad alto rischio vedremo chi ci sta
+ecco cosa succederà
+detto che da un po' ora del giorno ed effettivamente
+sta diventando un po' sul tropicale
+va bene comunque te ma non sarà il riscaldamento climatico e
+visti presenti noi possiamo parlare di data warehouse di database e
+cos'altro tony no no
+non è che ho una scaletta che speravo
+i colleghi insomma con cui scambiare idee soprattutto sono venuto anche per salutare alessandro che questa sia l'ultima puntata prima delle vacanze no
+vedremo in questo mercato ma anche perché voglio dire iniziativa che ha fatto diciamo di mettere in piedi queste chiacchierate informali con youtube
+trovano sempre una cosa molto positiva anche perché tra noi colleghi non è che ci si parla molto soprattutto quando si lavora all'interno di organizzazioni insomma tranne le comunicazioni dovunque per progetti comuni insomma ma facoltà imparare qualcosa di
+più imparare
+input ecco come si
+tutto sul mondo su cui non si conosce è come dire sembra una cosa simpatica ma queste esperienze sia
+era venuto quindi anche perfetto per fare questo tipo di testimonianza non per parlare essenzialmente di nuovo datawarehouse poi è un ambiente con pochi intimi diciamolo pure chiaramente tra renzi non gode di tantissima popolarità all'interno
+ha delle organizzazioni e soprattutto anche alla luce degli sviluppi moderni in cui tutto sembra volersi automatizzare nel cloud è pazzo o queste diciamo architetture di database sembra
+narra essere complesso
+sensazione che ho avuto ascoltando diverse trasmissioni che tu vedi organizzato con gli altri colleghi cui effettiva
+i dati sono sempre lì sono sempre di più quindi qualche meccanismo il sistema per gestire le ci vuole magari cambiano gli strumenti ma non tanto marco benvenuto è tornato ciao
+quindi sono affidati sempre maggiori sempre crescenti sempre di più sempre più importanti da qualche parte qualcuno che puoi gestirli non cambiano questo è sicuramente anche nel cloud ma ci sarà bisogno di professionalità che gestiscono i dati
+nelle architetture del cloud però bisogna poi qualcuno lo capiscano con penna e magari non pensi di risolvere tutto con l'automazione ho sempre maggiore automazione e magari non comprendendo
+lavorando su le scritture di database insomma si possano ottenere grossi benefici grossi incrementi di prestazione senza pagare spendere tanti soldi per scalare come direbbero quelli che lavorano nel the box che magari è un problema no magari si può risolvere
+torna alla vecchia maniera ottimizzando
+ottimizzando fare
+esempio ultimamente e
+quindi un fornitore ma atto una guerra su un
+ho mandato una guerra detto ma perché ci mette dodici ore previste no
+io debba immagina questo il suo problema in ambiente rocks
+diventa molto lento molto lento sopra il resto insomma se qualcuno non ci mette mai le mani dentro no magari di mascara o aumentano pua dalla rampa se io ho riscritto la guidi passato
+un secondo per dire
+per dire quanto voglio dire ancora amo il contenuto all'interno di questi container queste immagini insomma può essere ottimizzato prima ancora di scalare quindi ecco qui io dicevo questa di stampo questa deriva insomma un po' preoccupante in cui si pensa di ottenere attraverso una thomas
+zione all'esterno all'esterno delle architetture piuttosto che all'interno come se
+se la sensazione che ho io provo diciamo da non essendo un devo devops sta richiamo e
+però poi magari vogliono lasciare la parola a te o vapore a mark ronson beh diciamo cose
+marco non so se sarei d'accordo il problema della scarsità di risorse ormai
+e soprattutto cosa è passato adesso si abbonda c'è abbondanza di tutto e quindi l'ottimizzazione è diventato un problema secondario esistono tanti problemi
+no l'ottimizzazione in realtà c'è c'è c'è ancora bisogno e quando c'era ancora quando inizia a raggiungere il limite di ciò che cavolo non basta aggiungere le risorse quando i costi arrivano al
+pesata e allora inizio a valere la pena dovrebbe essere prima secondo me fai prima tu prima di qualcuna dice la parola magica scaliamo amo anche perché può scavare agosti ha un costo che si propone insomma io fossi lì l'ha detto ma del cliente non di quello che vende i servizi
+dove gli eventi hanno interessi diversi da quelli della
+cliente finale sono l'architetto del cliente finale vediamo prima cosa non ci sta cosa non va nella architettura poi dopo pensiamo a scalare e io questo è la location
+eccoti
+i clienti devono avere bisogno di architetti non è detto che siano database attivit ma anche solution architetto ma si sa i media no
+oh il rapporto con i fornitori di servizi in questo caso ai fornitori di servizi cloud in futuro poiché i fornitori di servizi it i ecc che punto classici sistema su quello sfondi una porta aperta anche su altri fronti come in generale sul software ingegneri c'è proprio suo su su cose cose anche applic
+nativi locale cioè pensare un pelino in avanti è sempre necessario ovvio non si può pensare troppo in avanti e iniziare a ottimizzare tutto da zero all'inizio quando ancora non si sa se la cosa andrà a scalare o meno però fra un certo punto bisogna farsi la domanda è il caso di scalare e farlo prev
+intimamente se si sì voglio dire occupandomi della base di dette warehousing sentire dei devops ma database scala cioè capisci allora wall
+e che diventa verde
+dico a voce senza troppo purtroppo voglio dire insomma trovo troppo ot sisma potrebbe danneggia voglio dire insomma probabilmente perché effettivamente quando un data warehouse deve servire cento utenti bisogna fare personale personale business l'intelligenza cioè non è che deve seguire un miglio
+di personale improvviso insomma nella tua sedia
+quindi puoi pianificarlo e senza quindi perciò non deve scalare non deve scavare necessariamente insomma è però pagare di persona in questo momento magari distribuiscono i loro database giocattoli progress mais querido maria di p all'interno delle loro applicazioni e delle loro architect
+tour e insomma software magari pensano che tutto si possa ricondurre a a dire a questi giocattolini insomma la nuova punta attualmente amministrano senza essere voglio dire esperti del database tuoi bombetta iniziato a spararle
+e mi ricorda molto il problema che ha avuto facebook all'inizio questa cosa qua c'è facebook aveva concepito tutta la sua bella architettura con adesso non so che e database avesse dietro ma sicuramente con
+un linguaggio adatto
+infatti poi si sono inventati di compilare l
+biker e di compilarlo in modo da ottimizzarlo a fare renderlo più veloce renderlo più scalabile e credo che poi alla fine abbiano riscritto buona parte in altri linguaggi tra cui sono sicuro si place plus perché adesso facebook che tra principali attori che sviluppano è liberi nelle tue riunioni e come acquistarla
+bene intanto benvenuto a giacomo matrone che una nuova entrata una sorpresa grazie a toni che abbiamo potuto averlo fra noi giacomo ci senti cento spero sappiate anche voi e ci sentiamo non ci vediamo ma ti sentiamo che dici di te una piccola produzione e poi magari parliamo
+che magari vi sono anche affini a quello che fai beh io mi occupo ci permette di intelligenza artificiale non abito in italia ma il paese dove ora c'è una bella tempesta di sabbia qui fuori e sono gli emirati arabi e niente ho iniziato a lavorare nel campo dell'intelligenza artificiale per più o meno netto e minivan
+quindici duemilasedici in realtà all'epoca uscivo fresco di laurea economia e finanza quindi finanza matematica e mi si parava davanti due strade la prima era quella di fare il commercialista che per carità mestiere interessante con me
+l'altra era imparare a codificare fare coding quindi sono partito da erbe poi python poi pochino scala poi pochino insomma tutte queste belle cosucce qui e mi sono dedicato principalmente al campo del machine learning hitler ormai specificatamente cosa fai in questo campo
+nel campo di planning io lavoro molto con natural language processing
+computer bici quindi attualmente in realtà computer vicino soltanto perché la polizia per sicuri però ho lavorato per tre anni in accento quindi li diciamo
+ho avuto modo di poter approfondire sia la principalmente da parte computer vision anche la pappina in pancia
+molto bene beh a questo punto l'intelligenza artificiale perchè non parlare della yamaha abbiamo giacomo toni facciamo noi gli spettatori se volete vi faccio vedere come faccio le immagini come i giorni che vedete in alto a sinistra
+devo dare invece una novità
+sto tornando indietro no cosa succede lentamente sta tornando alla alla programmazione classica lasciando l'intelligenza artificiale
+se non è mai uguale
+non è mai male no va beh è stato è stata una cosa io mi sono sempre ritenuto in prestito all'intelligenza artificiale l'ho fatto perché ce n'era bisogno al pepper per lanciare per iniziare a fare a creare alcuni prodotti adesso mi rendo conto che ci sono delle persone che ho in parte ha formato in parte arrivano già formata all'università
+su su con un'esperienza molto più vasta la mia intelligenza artificiale ho capito che era il momento di fare un passo indietro tornare alla cena del software in genere in classico e
+e lasciar spazio a chi l'intelligenza artificiale la conosciamo adesso meglio di me sicuramente ma marco ti dirò guarda il discorso è questo che campano intelligenza artificiale richiede solidissime basi di programmazione perché rete te devi mandare modello production ma parliamo anche di una semplice libreria
+come fai tocchino io se devo creare un modello competitors o anche tensorflow levante opera di noi mette che cosa sia il flagship e come lo puoi andare a ottimizzare per quello potevi fare di calcolo purtroppo anche nel software engineering quello che vedo spesso perché poi tornare ho lavorato per varie alla
+che fanno software diffusa quella della prora il problema di fondo è che ci sono tutta una serie di approcci di paradigma che le classi ed è distratta albeggiava non aiuta per tutta una serie di motivi non sappiamo però
+in effetti è molto più verso l'approccio funzionale e questo è un po' problematico da questo punto di vista perché perché tecnicamente l'approccio opzionale ti fa perdere anche la possibilità di estendere quindi avere un bozzo background soft origine
+sa io vedo molto spesso data scientist miei colleghi approcciare una funzione il suo cappello funziona si rintraccia se intervengo io lavoro tutti i giorni un interessante nel lavoro alla commissione europea come consulente ovviamente è la formazione software ingegneri ingegnere tendente a zero
+io hanno un solido background di conoscenza di dominio ovviamente perché poi da da da saints va applicato
+lei ai settori in cui tu sei smettono di usare questi strumenti sulla conoscenza del dominio di questo diciamo no visto che ha le basi di programmazione semine trova un po' di picton marco mastrorilli
+è una possibilità
+i costruirsi come model destini come è accaduto
+anche di utilizzare strumenti più sofisticati un tipo maschile
+se non animali una competenza specifica sull'argomento tratta quindi
+a questo proposito vi domando ci hai recentemente abbiamo un po' una democratizzazione sembriamo intelligenza artificiale spaventando molto più accessibile usabile anche quasi per tutti e poi vorrei vedere cosa fai e cosa vuoi farci quindi una cosa è usare gpt i giorni per fare delle immagini una cosa è farsi il proprio modello per un'applicazione
+specifica però la domanda vi faccio e non è che sta diventando più semplice e anche magari usando quello che viene fornito dai fornitori cloud quindi mettendo insieme pezzi di funzioni servizi online e cose e
+ottenere i risultati anche utili e specifici per le proprie necessità per poi non ci sta e senza neanche aver bisogno in queste grandi competenze programmazione o comunque serve comunque dipende
+se vogliamo andare verso la parte di data analyst io quello che sto vedendo oggi è il citizen data sai visto che manco a farlo apposta ho avuto uno scambio di battute con il professor lauro carlo laurea della federico secondo le statistiche è quello che votava diceva cipro questo sito è andata sarà in pista altri non è che da panama ecco su questo io concor
+b pienamente c'è una definizione science che di scienza in realtà che arriva dall'approccio del metodo scientifico che richiede praticamente una fase sicuramente sperimentale è un'altra fase di replica affinità non a caso
+best practices nell'ambito dei saints machine learning sono quelli di mettere anche a disposizione dataset correlative distribuzioni dei database per poter poi avere effettivamente una tecnica rapidità del risultato quantomeno per pestarlo questo è un discorso ad oggi nella production quello che più interessa però è l'aspetto di poter generale
+usare quanto più possibile modelli che l'introduzione è questo punto diciamo viene un po' meno questo della replicabilità però viene meno ma non è detto che non sia più necessario anzi l'aspetto che comunque continua a essere necessario in realtà questo è strettamente legato poi con l'aspetto del software engineer come dicevamo poco fa cioè
+io vedo difficile non creare un pacchetto ad hoc per quello che sto facendo ai fini anche della replicabilità cioè se devono andare il production qualcosa comunque mi serve anche per capire un pacchetto che sto facendo oltre ad una produzione anche per sperimentare ulteriormente con quel pacchetto poi sulla tracciabilità degli esperimenti che
+cosa si usa e possiamo usare mille strumenti a nessuno chiuso quello che diciamo però tecnicamente la parte che dev'essere importante è che comunque non chiedo scusa ci deve essere questo metodo scientifico altrimenti si fa generic e che si sfruttano i modelli per addestrati un'altra cosa va benissimo però tornando al discorso della
+democratizza della democratizzazione secondo me questa piena attribuito un livello diciamo alto come d'asburgo un livello intermedio tuo figlio devo spostare pagine facebook sempre giusto per citare un spero di non fare pubblicità fulcro del discorso è che odio e secondo me è il portale più interessante perché molto più open esatto e agenzie
+permette già di personalizzare tantissima attenzione quindi anche li puoi avere partite e poi c'è il modello del modello nuovo c'è il divieto di
+senti ne approfitto per chiedere una cosa me mi intriga l'aspetto operations del machine learning e di tutto quello che è il processo che ci sta dietro e quindi le varie logiche e le cosiddette mele ocse e
+che ha ai suoi passaggi nodali data dal dato a sgrezzare dato classificarlo e poi sono questi e i suoi strumenti mi fate voi che le sapete queste cose un browser web
+overview di quali sono i vincoli tipici passaggi di una con una pipeline di sviluppo di un modello proprio su propri dati dal punto dai dati al passaggio in produzione i test la verifica tutto quello che sta dietro e quali sono quindi i passaggi e magari anche gli str
+aumenti più comuni utilizzati per questi passaggi ci saranno diversi magari alcuni sovrapponibili un overview di questo genere mela riuscite a fornire
+sì come no
+diciamo che tutto parte dal data extraction c'è bisogno di estrarre dati da qualcosa ma questo qualcosa questo web può essere un buco interno può essere un database vettoriale per forza un sequel nazionale o gassata per il senso che io possa avere vari strumenti per la progressiva la prima fase è principalmente quello di
+prendere questi dati cercare di fare un primo studio circa la distribuzione statistica dei dati cioè se ci sono delle ricorrenze
+notevole all'interno della struttura da
+lo spot dei pattern secondo me la parte che dovrebbe venire tramite test statistici se vedo due campioni voglio misurare per esempio se ci sono delle similitudini tra i due campioni posso usare tutta una serie di test da chi quadro a edilizia
+i test poi ci sono tutti i test non parametrici quindi abbiamo un momento poi espulso discorso un po' più alto un po' più bassi e poi fatto questo si inizia a fare il modello più opportuno è ovvio che in assenza di normalità di dati può sapere non parametrici con normalità dei dati possa iniziare a sfruttare una radice o modelli a partire per esempio dalle recuperati
+e poi il discorso è questo che qui arriva la parte secondo me è più opinabile dove ci possiamo incontrare più lungo con l'altro e discutere perché ecco come faccio il tracking degli esperimenti quali metriche agosto per fare il tracking dei miei esperimenti spesso vedo gente molto focalizzata nello studio del
+trovare le del dev'essere uno scorrere della cura e della cura si ma che secondo meno sono metriche abbastanza adeguate perché quello che dovreste avere la padronanza della vostra action e perché la swanson si comporta in un certo modo e a quel punto fare track del dello sfalcio l'approccio proprio secondo me più canonico e anche migliore
+ovviamente dove si tracciano con spreco no no no no
+ovviamente dove si tracciano questi esperimenti sacco e li possiamo perciò non possiamo vedere il flow ci sono addirittura dei tully su più flow beh matt maddmaths penso ad esempio lui che trasformano i dubbi del notebook in veri e propri fa il debito
+propri script python che c'è sopra i suoi contro come cosa io personalmente preferisco fare tutto a manella controllare quello che succede
+scusa sentiti non potranno farsene
+alessandro volevo chiedere se tu proprio rispetto a questo modo ti poni tu tenendo tu voglio dire tutto l'ambaradan proprio lui voleva dire se eccetera voglio dire se tutto questo poi si trasforma in qualcosa di automatico di nazionale
+your sfruttando gli strumenti la sordità a broadway
+può dirti quali catene di packlink questo tipo di strumentazione insomma mai infatti no no no no hai ragione prudenza allora tieni conto che insieme al flower box degli esteri o su outflow ed ha anche la coda basket professionista quindi in realtà integrata stesso con tecnicamente io
+posso avere la maturità del mio prodotto dopo tanti esperimenti sapere che quello maturo e dopodiché breda qualcuno scenderà quindi sì assolutamente sì schiavitù è propriamente automatizzati senza problemi domanda ma una pipeline diciamo automa completamente automatizzata dal data extraction una volta che hai fatto
+tutti i tuoi lavoro preliminare ma
+planato mentalità e che tipo di testare tuo modello fari learning magari automaticamente sulla base dell'output in produzione ottenne fa un feedback che i remote e no non sto chiedendo se è possibile ma se quanto è comune è quanto è ubriaco
+il dream che molti hanno che pochi ottengono e il discorso è questo che allora per fare una pipeline totalmente automatica tu banalmente bisogno di potere computazionale di potenza computazionale questa potenza computazionale un e quindi questo significa fare ennemila tentativi poi ci sono mille tre
+metodologie di questi tentativi si va da iper optimization paese search no a parte di reinforcement learning che fa praticamente tramite con o di contrasti blog il discorso e quanti lo fanno e allora io credo che lo facciano attualmente google open e ai meta è probabilmente
+add fields
+queste secondo me sono le realtà che ad oggi lo fanno ne sono anche di più piccole che lo fanno io l'ho visto fare next century secondo me lo facevano anche abbastanza bene però le piccole aziende continua di quattro cinque dei passanti ancora
+se ti permetti di chiunque hanno dei fondi limitati hanno piccole produzioni chiedo qui negli emirati c'è una realtà molto interessante secondo me credo fa che un istituto di ricerca si chiama hai secondo me lavora molto bene però loro scienza quindi so fino a che punto poi si spingano verso questo tipo di kipling thomas
+si sentono lo possono fare anni fa però non farò altre informazioni evidence visto un paper che hanno scritto realtà più piccole la tendenza l'automatismo c'è c'è molto trendy suo automatismo paradossalmente uno strumento come large van gogh mothers stanno spingendo anche molto le aziende più piccole ad adottare questo tipo
+beh però darti una statistica poi di queste piccole di questo microcosmo come si muove è un po' azzardato non posso dire con certezza voi marco turco i tuoi metaverso le tue cose la tua ricerca motore di ricerca sugli oggetti tra dio e tutto quanto quanto è automatizzato tutto quanto allora
+ray
+ma partiamo da
+ora che ne stiamo parlando perché quando abbiamo iniziato ovviamente e se c'era poca gente ci hanno pochi strumenti e quindi in realtà ci eravamo sviluppati internamente siamo un altro gruppo di ricerca un po' di tool basati su gitlab noi abbiamo i club internamente e che potevano potenzialmente far partire in automatico
+tutto quanto noi tracciamo tutto quindi il codice
+i parametri dell'esperimento il dataset proprio tutto quanto era comunque un commit sul
+suite per poter ricostruire esattamente tutto quello che tu tutti i setting mks dell'esperimento
+non avevamo però integrato
+la siae per un motivo che era quello che diceva giacomo costi
+cioè non non ci potevamo permettere di fare tutto il prodotto cartesiano di tutti i dataset che avevamo con tutte le le soluzioni che in tutti gli esperimenti che volevamo fare quindi in realtà
+si facevano esperimenti molto più mirati avevamo dataset che erano che sapevamo essere problematici andavamo a daniele a cercare di risolvere quei problemi il momento in cui avevamo risolto il problema cercavamo di vedere se era peggiorato la precedente è ovvio che ora ben
+l'azienda si è strutturata in maniera completamente diversa quindi ora abbiamo meno scarsità di risorse all'epoca ogni piccolo gruppettino si faceva il suo
+la sterlina e faceva i suoi esperimenti adesso è un discorso diverso già già da un po' di anni son le cose sono cambiate e questa è una cosa c'è
+sono d'accordo con quello che diceva giacomo non basta tracciare la scorta pochi parametri e in alcuni casi poi dipende allo scopo di quello che stai facendo in alcuni casi noi non eravamo neppure più di tanto la performance ma eravamo più interessati all'efficienza computazionale quando si trattava di roba
+doveva essere inferenza real time quindi nel caso di super risoluzione realtà è meno eravamo interessati a avere dei più seri possibile
+c'è certamente una curiosità ho visto che siamo nel campo ma tutto sto circolo del d d s come insieme di quel meccanismo di dieci milioni che automa denti e sulle schede nvidia
+rendering dll stesso d lgs come c'è cosa c'è allora di un componente che in qualche modo va aggiornato così vasta zona litoranea per aggiornare poi allora non ti posso parlare del due e tre perché sono cose che sono venute fuori dopo che ci ho lavorato io appunto quella compone
+ente di cui parlavo di super risoluzione real time era una potenziale miglioria di diesel di alex uno
+che però era stata sviluppata più o meno contemporaneamente di alessia s due è diciamo andata persa perché è arrivato di alessia web molto prima di quanto lo sia se ci si aspettasse lionel gruppo di ricerca che gli stavo lavorando è arrivato con dei risultati fantastici abbiamo vetture avete vinto
+siamo le mani
+che cosa vuoi fare nara era era talmente nessuno aveva tanti problemi e era un bel gioiellino quando è stato sviluppato però aveva tanti problemi dovevi avere tonnellate di dati est tendeva a
+per focalizzarsi su alcuni dettagli quindi non generalizzare come volevamo e non pro
+diciamo che
+il miele se esse come viene implementato se ci sono dei dei tenso dieci più delicate per fare i calcoli tu la base di modelli che sono embeddati in allora nel driver c'è una parte di deep learning appunto perché se una parte di kelly
+ovviamente è e quindi c'è un piccolo adesso da quello che ho capito modello di deep learning e il resto sono parametri che riesce a estrarre dal rendere quindi tutti i vettori di moto per esempio sono cose che estrae da render render già sa i pixel della scena
+corrente dove andranno nel prossimo frame una volta che ha calcolato il moto di tutti gli oggetti sa già quali pixel dovrebbe riutilizzare
+però non è abbastanza fare accumulazioni c'era tempo finanziaria se in prima non aveva lo stesso lo stesso gli stessi risultati tempo la casa non faceva cose simili ma senza l'aumento di risoluzione dolcemente faceva anti-aliasing prevedendo dove i pixel precedente andavano a finire e cercando di arricchirsi
+la scena
+black sails fa questo ed altro cioè fa
+riutilizza quello che già c'era genera dati nuovi di alessia estere addirittura genera frame intermedi
+è
+quindi in totale hai un aumento di framerate risoluzione e una e
+miglioria del rendering che è proprio un antialiasing temporale e c'è comunque anche se non non è conteggiato nel bel nome
+in pratica c'è un mese addirittura addirittura più tre fa una magia ancora di più perché abbassa la pensa dei comanche una cosa assurda perché mette in comunicazione c piogge più egli permette in pratica di fare questa lavorate figa rosa spettacolare questa differenza permette tutto ciò è bellissima me o io
+sono al quaranta novanta devo capire cosa farci
+hai fatto bene grande ti ti ringrazio personalmente per ottico
+sperpero di soldi
+fare questo tipo di lavoro non necessario avere quattro nove
+oppure all'ordine la no le schede grafiche nvidia sono tutte uguali c'è no non è vero non sono tutte uguali allora
+le schede sulle schede grafiche nvidia tu puoi eseguire qualunque cosa quindi non c'è differenza la differenza
+non c'è differenza di quello che puoi eseguire la differenza è la quantità di unità di un certo tipo che ci sono su una scheda su un'altra sulle schede da gaming ci sono più di rendering meno magari tensor ora anche se sulle quaranta novanta sono ovviamente ce n'è e non c'è nessuna limitazione
+a come puoi usare una scheda su un desktop
+le limitazioni ci sono se vuoi metterla in data center
+in un data center
+ovviamente non autorizziamo la forza classe geforce gtx che senso non autorizzate non non non sono note o no
+non sono supportate per esempio non supportano la soluzione adatta center
+ma per una serie di motivi per un fatto anche di temperature di cooperative di come sono fatte proprio di fabbricazione di come il metodo di raffreddamento di di qual è lo scopo di quella scheda
+un archetipo un accento parte che pesa l'ira di dio va un accento e ora perché l'ho vista però da cento e qualcosa è una macchina molto complessa perché addirittura posare piper piccola per poter avere praticamente la localizzazione
+nella gp più forza esattamente più che in parallelo piacciono su differenti applicativi mettere a farlo su meret zero quaranta novanta insomma hanno poi
+puoi fare con l'hennè polemiche su per cento puoi fare parallel computing che è una roba proprio pazzesca ora ci sono dacca certo lo sappiamo
+e sulla quaranta novanta questo non lo puoi fare assembramenti
+e ci sono tutte queste cose qui che ovviamente ci sono dei motivi se tuona centravanti di quattordici mila euro
+giacomo io volessi prendere nuove reti x quattro m fare una cosa casalinga secondo te e secondo me è perfetto in realtà però tieni conto poi dipende perché ci sono cioè se tu e addestrare large van gogh modo il tipo che so un incipit da venti miliardi di euro
+tecnicamente tu puoi prendere un taxi quaranta novanta addestrarci geppetti sopra ma come con colora ora perchè bassi praticamente la risoluzione a quattro bit mobility
+quindi a quel punto c'è hanno è leggermente meno precisa comunque strano sta facendo tu addestramento in europa ancora peggiore per cui non siamo stati addestrati questi modelli è peraltro la dentro però ci sono molte molte metodologie che può usare anche su quarantanove ma io ti darei
+posso pure faccio pubblicità occulta ditemi voi alessandro no tranquillo puoi dire tutti i prodotti che vuoi anche la possibilità di usare colab e io sarei quello magari prenderei l'ipad l'abbonamento pro o il prolasso inizierei attestare la soluzione sulla gpu più base di cola se quella sono un sequel modello add
+testato con metodi tipo colore eccetera funziona cut l'ora produttivo loro istruttore su secondo me quello ti potrebbe dare già dei risultati interessanti e poi dopo scali sulla tua quarantanove te la compri a quel punto quarantanove prova prima su playstore col computer di qualcun altro poi proprio su questo sito
+io sarò stato buttato marino anche perché il piccolo
+no perché anche voi
+uno potrebbe lavorate per mestiere ma forse mancano piumato ci vorrebbe un mestiere se qualcuno poi gli effetti vuole approfondire questi argomenti la casa l'aggiornamento professionale insomma puoi
+dire si deve creare un piccolo
+piccola collaboratori o un piccolo ma gli strumenti che potrebbe con cui potrebbe approfondire queste cose insomma da sole
+soluzioni cloud però
+possono essere anche competitivi e soprattutto se non hai un utilizzo continuo neve londra ma a prescindere da colab o altre soluzioni già ci sono tante anche tirarsi su una una macchina virtuale su west per dire ora su amazon
+può essere competitivo se non ne ha se non devi usarla al cento per cento del tempo se ovviamente devi usare hai abbastanza lavoro da coprire il cento per cento del tempo di una macchina allora esistono diverse tesi a però anche lì cloud voglio che pio io sono amore perdete più dove l'ho scoperto che fai torce sarà la possibilità di fare gli xml
+wifeys che è una cosa spettacolare e tecnicamente vado su circola proprio stare almeno a lei di più e dire quanto va veloce poi dopodiché
+bravo basta però
+sono varie possibilità classificato possa proteggere se volete osare anche interessato professionalmente anche per il lavoro che faccio attestare sto male non ce n'è più per fare quelli sul database per utilizzate per il pronao pero' ci vogliono dei trader professionali
+le schede professionali insomma è semplicemente come anche sempre e solo per l'aggiornamento professionale e rimane rimane la cosa per il test locale su un desktop su una macchina di classe desktop non è un problema si può andare di di schede grafiche tradizionali è proprio la filosofia su cui è stata
+concepita l'architettura cuda cioè l'architettura cuda è la stessa su tutte le classi ovviamente più vai su più ce n'è di una certa quantità però a un certo punto sulle classi per esempio lacca cento a cento adesso non ho i numeri sottomano però la cca centro a centro
+ritrovi magari molte più unità sessantaquattro bit oppure molti più
+penso al cor
+ti ti ritrovi ti ritrovi magari meno hardcore o di più a seconda di come concepita con la scheda grafica quelli per fare rendering quindi trovi delle cose leggermente diverse ma non c'è una feature che manca e quindi non puoi fare una cosa per i database per esempio
+rapids e il progetto nostro che ti permette di fare una serie di cose di machine learning non di learning su più e ed esso si aggira su qualunque scheda almeno
+dovrei non voglio dire troppo ma che io sappia non ha dei limiti di classe delle schede
+ha dei limiti perché lo distribuiscono solo per linux per rape per motivi loro ma non ci sono non ci sono limitazioni sulla classe di scheda che puoi usare ovviamente se devi metterlo in produzione devi sapere che
+si va in un data center dev'essere una di classe nel quadro oppure di classe server che c'erano le vecchie tesla adesso non si chiamano più tesla ce ne sono là a cento lacca cento che citava prima giacomo
+oppure ci sono anche delle altre soluzioni solo per l'inferenza per esempio celebre tennista cose solo per
+nvidia perché forse miti c'è una differenza tra gaming desktop e scheda professionale
+non posso parlare premium di etsy
+va bene
+la conferenza si ha allora la conosco
+la differenza la differenza c'è però il discorso fondamentale questo che almeno stato ai fatti ad oggi perché fu stiano facendo tutta una serie di recuperi anche su driver eccetera supporto insomma supporto sai metti ancora abbastanza acerbo anche perché comunque la pittura cuda è sempre stata quella più spinta comunque a livelli paralleli
+citazione eccetera a embedded ha avuto delle difficoltà nell'affermarsi una parte datacenter fra te che non si vedono sovente come scegliere
+lato gaming tono più o meno prestazioni simili vogliamo dire però comunque alla fine lo sfruttamento del driver differenza c'è tra quindi effettivamente chi si è messo a fare il back end di python che poi non ci scordiamo e molto chic la password taiwan non errato o quello di torcere sempre cifra squash tecnicamente non è che sia andato a creare
+un discorso per meeting
+perché insomma andate su quello che veniva usato per la maggiore quindi la parte più interessante in realtà io ritorno a dire se proprio ti puoi spaziare tanto vedere delle pubblicità di computazionale assurdo e prova a giocare corretti più scuola perché è un qualcosa di pazzesco fermo restando che comunque legittimo secondo me restano ancora da parte
+ancora la parte più utilizzata per addestramento tumorali e anche per avere fretta penso accelerato con reciproche molto bene quindi macola va però lo usi con risorse online puoi anche usare il locale con alt mascherine locale per difendere ucciso c'è la possibilità di utilizzare la tua del locale
+hansen però tutti connection realtà epocale picnic io in realtà con l'applauso moltissimo per i gay
+mio piccolo budget quando c'è qualcosa che produsse chiaro perché ovunque c'è una condizioni equiparate sporcarsi le mani
+esiste infatti ce lo dicevano stampa
+the norwich del lavoro che ognuno sa fare portare avanti insomma se vuoi approfondire certe questioni insomma devi fare tu personalmente probabilmente cercando bene allora giacomo come la vedi l'evoluzione del mondo il tuo mondo machine learning intelligenza artificiale
+general l'avremo quando secondo te insomma due previsioni sul futuro a breve medio termine questa è la classica domanda che mette in imbarazzo perché perché se sono ottimista e tra qualche anno perde il lavoro la gente inizierà a ridere dietro da quando ero poco sono invece pest
+smista la gente inizia a dire però tu perché capisci niente intelligenza artificiale no il discorso è molto semplice general e hai secondo me ci può essere però dipende da che si intende per genere alleati se parliamo di modelli inferenze che restano modelli statistici nel bene verbale beh alla fine ce l'abbiamo già qualcosa che genere
+perché abbiamo i giorni che mi trasforma il testo in immagini e abbiamo una serie di modelli che trasformano le immagini in testa caption per cui lasciami dire ecco generale dal punto di vista cioè la parte più interessante in realtà io credo che sia la parte reinforcement learning che è una branca che è sempre stata vista
+insomma un po' con sospetto parte di tutti practitioner del mondo ma verdi un pò come diciamo
+di puro no farsi mettere armi che abbiamo sempre definito così però non è sempre stata invece la parte più interessante perché poi si basa su una serie di concetti statistici matematica avanzata abbastanza abbastanza importante quindi per me igiene generale hai qualcosa che ci sarà sì ma bisogna vedere come generalizzare modelli questione perchè alla fine
+parliamo sempre i modelli statistici samuel
+noi stiamo parlando di una serie di modelli che imparano dai dati esistenti quindi se per genere alle autrici un modello che prende tutto lo scibile umano attualmente esistenti sono fumetti in pancia si ma se ti aspetti un modello che abbia la pura creatività
+ma io guarda sulla crescita francese ufficiale ormai ho alzato le mani su di me quando si parlava di intelligenza artificiale che operano i lavori manuali lasceranno libertà agli uomini fanno i lavori creativi e schemi giorni e che cazzo di scusa c dove le vuoi dire cosa di più che il rango di quello che ami giorni sostanzialmente
+i alberghi rocque però c'è bisogno di fare una demistificazione i giorni va bene se tu devi creare una serie
+amo grafiche basate su quei destini bene o male già esistente bene o male o nei giorni dei depo combinate può mettere come dici te però alla fine devi imparare ad usarli per cui è chopin dal saint flour siti zampa angeles in questo caso il grafico professionista che sa scrivere esattamente quello che devo fare ciò che io
+proposito ne ho mai fatto una mia personalissima polemica sul gruppo facebook sul naja
+in cui ho gustato delle immagini generate con i giorni con impronta caso meramente lettere a caso
+l'immagine è uno spettacolare ma belle proprio belle da tim giorni inventa se ci mette del suo e secondo me parlare di arte quando si parla di un kart come dicono loro è ridicolo non c'è niente di artistico nello scrivere in età adulta e ottenere le immagini stupende quelle che
+vedo adesso in streaming sono quelle che se non adesso la maggior parte quelle fatte in due giorni sono tutte fatte con prompt banalissimi senza neanche particolari dottrine nel cercare di
+roma mentre saranno moglie aggancio quello che difese
+non si poteva voglio fare una domanda sia matto che giacomo perché io vedo nella mia bolla
+i creatori di contenuti e jamal si stanno un po' agitando sul suolo
+su questa storia dell'intelligenza artificiale c'è anche una protesta o hollywood degli sceneggiatori e attori insomma la mia domanda è questa queste persone cosa te
+se io fossi un grafico sarei molto preoccupato ma come anche un transito un fotografo sono d'accordo con te traffico
+è una questione etica in fondo il fatto è che
+alcune di queste reti sono state addestrate con dei dati che sono stati presi in giro un da da fonti non dichiarate o non necessariamente libere
+cioè
+questa però è una storia che già sappiamo cioè se io prendo una foto da internet non necessariamente posso prenderle lettera sul mio sito senza scrivere da dove l'ho presa senza neanche citare la fonte o senza a volte pagare la fonte dell'immagine potrebbe essere su internet ma potrebbe essere con diritti riservati e quello non mi piace
+smette di prenderla e metterla sul mio ciclo e l'intelligenza artificiale purtroppo prende quei dati li analizza e li rielabora la
+tra questo
+rimpasto c'è il fatto che al consenso
+ci si è accorti che alcuni
+alcuni siti alcuni di questi generatori di immagine erano in grado non soltanto di acquisire le informazioni su come fare un fumetto come fare una cosa ma erano in grado di capire esattamente chi era l'autore e se gli chiedeva di fare un autore con un
+un fumetto con lo stile dell'autore erano in grado di replicare esattamente
+lo stile i personaggi le ambientazioni con troppe cose rispetto a quello che è
+semplicemente
+in una fantasia delle aree
+cioè
+è difficile anche capire dove finisce la fantasia delle aree dove inizia la copia spudorata
+ed è per questo che che che è una questione di fondo però il discorso secondo me c'è discorso scusa che nell'imbarco pubblico forse ancora più in profondità dentro di noi come te che cosa definiamo per fantasia delle aree perché nei giorni al novanta per cento è un modello transformer che già qui
+zucca i valori eric pari ok e vai di correlazioni spurie quindi questa corre e poi lei generalizza grazie al fatto tu emetti petabyte dati ce lo chieda esattamente per cui tecnicamente possibile parlare di fantasia secondo me si parla di correlazione proprio matematica check-out no no no no ma
+perdonami uso il termine fantasia non ci sono delle belle virgolette grosse attorno proprio proprio per questo motivo proprio perché non si tratta di fantasia ti si tratta di diciamo prendere ispirazione a larghe mani da quello che è già stato fatto
+maestro così vengo ma ma questo non riguarda soprattutto la storia della austen letteratura in cui tutti gli autori non dico che hanno copiato insomma però cioè voglio dire chapeau
+fa parte di fronte
+l'ambiente dello scibile umano in qualche modo umanamente le persone anche nell'informatica e così creativa in tutte queste discipline in certo senso hanno letto hanno trasformato l'intelligenza artificiale fa la stessa cosa insomma è però l'uomo non può fare ancora un più vuoi dire
+chiuso su scala più vasta in maniera più precisa più matematica come dice giacomo
+però tendenzialmente la stessa quello che problema c'è il problema dei falsi quadri falsi c'è sempre stato e il fatto è che non c'era mai stata una precisione abbastanza alta da non poterlo identificare adesso
+possiamo creare delle immagini che sono pressoché identiche a quelle che avrebbe creato l'artista
+che si possono tranquillamente spacciare per opera dell'artista perché è talmente preciso le limitazione che
+diventa difficile ho come l'impressione che anche nei modelli rim giorni ma immagino anche gli altri dati nella mano man mano che crescono e ci sono nuove versioni
+è possibile che in realtà il dato input diventi altre immagini generate l'intelligenza artificiale quindi a quel punto si diluisce quasi l'input originario della creazione umana primordiale certame allora non ti parla di prodotti specifici che non voglio fare un discorso più generale il fatto che questi modelli
+possano potenzialmente replicare te lo fanno alcuni replicare esattamente quello che va quello specifico disegnatore significa che stanno imparando troppo poi quanto questo si si ridi louisa
+è è relativo perché il problema è che diventa molto difficile dimostrare quanto sia diluito quanto non si è diluito perché basta non me me me se non serve il nome dell'artista soltanto ma devi mettere anche il nome del personaggio è diluito abbastanza sì oltre al nome del personaggio da mettergli anche
+anche il colore da usare e diluita abbastanza è difficile capire quanto è diluito e mentre parlavi cenni in streaming l'immagine della ragazza afghana quella famosa foto di e il titolo era afghan e sono avuti fuori quattro versioni tutte o riconoscibilissime
+diverse
+acsi
+devi dire effettivamente o poi allora ma poi c'è un discorso che ovviamente questa è una vis conception che c'è in tutto il mondo delle idee va bè perché molto spesso si parla di aver fitting perfetto generalizzato molto spesso look fitti può essere sul singolo data poi per cui il particolare esempio ti calza a pennello ed ecc
+sezionale dopodiché vai a vedere cuba non generalizza bene su altri corner hashish che poi magari soppalco corner che esiste si discostano solo dalla cui ad esempio e questo è un problema molto importante che in realtà ecco per esempio
+è riuscita a risolvere utilizzando delle pipeline colori gli umani pero' dentro è ritornato al famoso discorso della scalabilità cioè ci sono questi esseri umani che vedono il feedback di gepd e cercano di dare una correzione all'input oppure comunque cercano di fare una serie di operazioni per dirla così adatto ripeto
+modificano e questo è il discorso anche qui c'è un discorso etico perché poi se ne sono uscito fuori recentemente che openai ha pagato dei lavoratori
+paesi africano per fare tipo trecento token allora c'è trecento peste allora certo frase e anche questo è un discorso etico c'è il discorso del consumo energetico ecco cos'ha fatto
+modo che non è non potenza nucleare efficienza perché abbiamo avuto una serie di ripensamenti a mio modo di vedere totalmente insensato ci ritroviamo oggi con sorteggio da un punto di vista elettrico che fa paura e quindi ci sono tutta una serie di discorsi che vanno presi per una riflessione tantinello più approfondita tornando al discorso
+del del della prendere quello che io dicevo poco fa era questo l'artista non ha bisogno di sentirsi minacciato dalla generativa non c'è proprio bisogno perché l'artista c'è un potere suo di creazione e distruzione di quello che fai di ricreazione è un qualcosa di fondamentale questo
+non ce l'ha guarda io ho fatto un po' di discussioni ci sono tanti punti di vista su questa cosa va bene un po' tutti poi in realtà anche la definizione di arte artista è tutto molto come nome
+è il mio punto di vista per quanto possa valere e se produrre tra virgolette una put che ha una sua valenza estetica un'immagine bella comporta come si può fare adesso coi milioni turno till minimi saper scrivere anzi a volte neanche per
+basta scrivere causa caso veramente lettera case milioni di buttafuori immagini stupende del querelato organization the best
+e poi nessun
+c'è uno può dire sì poi l'artista fa quello che fa selezione poi in realtà magari l'immagine fai la usano in tua trattazione lì tutto un altro discorso ma l'immagine così come buttafuori nei miei giorni come ripeto tutte quelle che si vedono adesso sono tutte buttate così asia swan single pronta e la maggior parte i giorni
+tutte ste cioè non me che mi considero artista per coscritto con tre parole su una sculacciata di discord assolutamente favore però quelle immagini lì non è che sono tanto distinguibili esteticamente magari da un'immagine ricercata io vedo gente che assumi giorni fa lo stesso trump è cento volte
+perché tu le vedi tutte le creazioni tutti i c'è
+a fare le stesse cose le ho avute solo se c'è cos'è il tuo essere artista e selezionare l'immagine che ti piace di più in mezzo a centinaia di altre immagini dove il che praticamente esteticamente possono essere tutte considerate belle poi chi più chi meno secondo il mio gusto ma alla fine quindi a quel punto dove l'arte è quella
+arte poi vo
+e poi un'altra questione è cosa ne fai come le usi magari se ci fai dei tuoi delle tue creazioni che usano arte generata dall'immagine incisa artificiale e con quelle poi fai le tue cose lì quel punto l'intelligenza artificiale diventa uno strumento come fotocopie per i fotografi che no
+imbrogliare quando sarà foto si occupava come la fotografia prima ancora che sembrava come l'arte della fotografia riprende il reale qui non può essere arte semplicemente oggettiva rappresentazione reale vaglio c'era un fotografo come meccanico e quindi a quel punto vale un po' tutto no se vogliamo è entrato
+neanche difficile alessandro però se vedi è un discorso evolutivo nel tempo cioè quello che oggi non è arte perché dici scusate il termine maestà roba effetti poi pian piano diventa qualcosa che dici ammazza che roba c'è cambio proprio prospettiva la norma sindaco
+gordo ma ripeto ma se per ottenere quel risultato la capacità tecnica este con ricreativa e scrivere un testo neanche particolarmente necessariamente originale su un prompt
+vuoi venire a rendere l'arte accessibile tutto ma questo è un po' come dire abbassando il livello d'entrata a praticamente a zero e a quel punto è secondo me c'è c'è c'è però ci sono due cose storicamente già accaduto l'abbiamo l'abbiamo detto c'è storicamente quando è venuta la fotografia ma adesso
+potete no non serve fare il ritratto c'è la fotografia poi anche gli artisti si sono accorti che poi si sono accorti che per fare ritratti e invece di avere una persona ferma l'operatore era meglio fare una foto e poi fare il ritratto dalla foto erano iniziasse da usare come uno strumento poi si è sviluppata anche l'arte e la fotografia adesso non voglio fare il macron
+storia però io quello che vedo l'ora intanto mi piacerebbe fare una distinzione tra l'artista e l'impatto che ha questa tecnologia perché l'artista se parliamo dell'artista con la a maiuscola quello che fa arte
+è toccato fino a un certo punto anzi potrebbe anche giocarci con questo è ed essere continuare a essere considerato artista il problema è che questo non va a portare gli artisti va a impattare il mercato del lavoro dei disegnatori quelli che fino adesso faces
+vano il lavoro a mano cioè se tu hai bisogno di un'illustrazione della confezione del succo di frutta tu prendevi una persona gli chiedeva di fare illustrazione del succo di frutta già adesso quanto mi riguarda enel
+voglio chiarire la definizione di arte perché un conto è l'arte che sta alla biennale di venezia e un conto è l'arte che c'è l'arte il lavoro del disegnatore adesso non lo voglio sminuire non chiamandolo arte ma è un lavoro mi sono quelle le persone che sono impattate scuole persone non sono quelle che
+che vendono l'arte per migliaia di dollari e sono quelle che vengono pagate a ore per fare l illustrazione e ora o si adattano a fare anche loro ad avere nel loro pippen quella cosa oppure verranno lasciate indietro come sono stati lasciati indietro e disegnatori emanuele
+negli anni novanta quando ha iniziato ad arrivare foto cop e compagnia bella scusa marco ma cosa differenzia questo non ha fatto del computer ha lasciato a casa dei dati g rogers negli anni ottanta no no non differenze non differenzia assolutamente il punto è l'impatto che avrai perché
+l'impatto che avrai è che adesso il salto che stiamo facendo certo il computer lasciate a casa le dattilografe ma
+il tempo lo spediamo noi a scrivere le cose prima era qualcun altro che lo scriveva quindi non è stato
+non è stato pari come com'è com'era già non è stato un un miglioramento delle performance di mille volte qui stiamo parlando del fatto che il mercato potrebbe venir ridotto molto il mercato che c'è adesso non è necessariamente un male o un bene perché non voglio dire
+è sbagliato o è giusto questo però dobbiamo renderci conto che l'impatto avviene a livelli diversi cioè a livello artistico e questo tra l'altro mi mi mi piace anche dirlo è vero che ci sono cose belle fatte con pronta a caso è vero anche che ci sono persone che sono artisti e lo erano prima
+e lo sono adesso se vedi le creazioni che fanno loro sono una due spanne sopra vedi la differenza tanto che fai fatica a riconoscere che sono fatte con gli stessi tool che usa la maggior parte delle persone sieno e dunque anche su questa cosa all'inizio fosse più così ma adesso con gli ultimi modelli di giorni
+veramente ma io dico che siamo abituati a vedere la qualità come fotorealismo e non noi può anche lui vabbè dai ci sta tutto qui no perché secondo me abbiamo un bias noi adesso in questo momento di transizione in cui non riconosciamo il il fatto che lei è monotona
+che non ha intenzione in quello che fa
+e quindi apparente esattamente non può fare variazioni casuali perché il pattern si dev'essere copia li l'intenzione di qualcun altro non ha un'intenzione per se stessa non ha un'inquadratura particolare copia nell'inquadratura che ha già visto però scusami ma giacomo e marco
+l'intenzione può vedere dei pattern che gli altri non vedono assolutamente può vedere di partner che altri non vedo mai statistica quindi vedrà i partner che gli altri non vedono con una frequenza molto più bassa e li rigenera e rigenererà con molta meno probabilità
+potrebbe copiare una cosa molto bella con una probabilità molto bassa
+perché semplice cura della oppure perché perché in effetti diciamo che le reti neurali sopra un problema di ottimizzazione lo confesso cui potrebbe anche prendere fischi per fiaschi e inizierà a vedere cosa era un probabile come cosa probabile se se se questo è vero questo è vero potrebbe anche fare qualcosa che non ha mai visto ovviamente però è poco probabile
+tendenzialmente cercherà di interpolare cose che ha già visto con una certa regolarità nel senso che dico magari di genere
+a caso lo zoom mano o fare una poesia che poi magari magnifica
+o magari
+ed è molto difficile perché manca di intenzione e il poeta che scrive la poesia ha un'intenzione ha un'idea dietro e se tu guardi i testi generati dalle a prima occhiata ti sembrano anche poetici scegliere i cieli poetici però se cerchi di analizzarli poi dice ma cazzo stava dicendo questa mostra
+non c'è un'intenzione dietro
+c'è un esempio che mi piace proposito l'interpolazione è un esperimento che avevo fatto e allora se tu chiedi un nome di una persona è un lavoro che non assomiglia a niente questo concetto ripetilo fatto non so se funziona ancora perché centri obi ti è stato aggiornato parecchie volte però mi esprimo
+avevo fatto questo avevo detto
+prova a chiedere persone a caso nomi a caso e vedere se mi inventa storie su quelle persone ho provato vari nomi tra cui anche il mio ovviamente non sa chi sono io non sono così frequente nell'inter in internet per per per essere abbastanza noto per essere data point interessante
+quindi non c'era niente
+ho provato a dare dei nomi invece di persone realmente esistenti e ovviamente sapeva le informazioni su quella persona perché in qualche modo i dati quella persona più o meno giusti
+erano archiviati all'interno della ritenuti mettiamola così fatemi semplificare che giacomo puoi metterti a out
+quando non parli perché c'è un po' di eco che ho fatto un esperimento intermedio perché la mia la mia assunzione era che
+per mia esperienza le reti neurali hanno due modalità di funzionamento più o meno o interpretano dati oppure falliscono dando proprio un valore casuale quando vai a beccare punti che sono molto vecchie sono lontani dai punti su cui l'hai addestrata o comunque anche vicenza cioè tendenzialmente sei vicino dei punti di adest
+lamento e interpretano se sei lontano da fonti di addestramento e luciano non hai un'informazione e delle cose inventate sostanzialmente e nel caso di arcipreti c'è un pull back che dice so di non sapere e quindi ti dico la frasetta fatta in cui non ho informazioni su questa persona che sono meccanismi
+di sicurezza che hanno messo per evitare di ricevere denunce sostanzialmente da quello che
+all'inizio si chiedeva i nomi casuali il professionista
+ora quello che ho che ho provato e inventare delle cose che fossero simili a cose reali e la mia richiesta è stata di di di spiegarmi di raccontarmi la vita
+di questo silvano bernasconi che ha fondato il movimento quattro stalle allora sappiamo tutti che queste informazioni sono vicino a dei dati reali
+pd si è inventato che questa persona è nata a mendrisio perché bernasconi è un cognome tipico del ticinese quindi un'informazione già ha correlato un dato e l'ha messo assieme
+che ha un
+che era era un comico inizialmente nominando un duo comico svizzero che non c'entrava assolutamente niente
+ha fatto
+esistente esistente esistente
+che ha fatto che ha fondato questo movimento politico con una grande partecipazione popolare per difendere il i diritti degli allevatori svizzeri cioè ti ha inventato una serie di informazioni che non gli avevo dato sulla base di quelle cose che quei punti da data point erano vicini e secondo me questo
+piega molto come funzionano e i transformer ma anche altre altri meccanismi altri tipi di reti neurali quindi
+o non interpol o tira a caso perché non è addestrato su quello oppure cerca veramente di attaccarsi alle poche cose che aveva e estrapolare o interpolare informazioni che non che non c'erano ed è questo il problema è quanto fa questo è quanto non lo fa a volte è nascosto ovviamente quello
+andate a stuzzicare per capire dov'era il limite non non non è stata la prima cosa che mi è venuta sospeso
+di a giocare e farmi rispondere che non conosceva delle persone e finché non è arrivato al punto in cui mi ha detto mai inventato queste cose però l'ho provato due tre volte e genera ma a quel punto con quel prompt sempre delle informazioni
+pronto secondo marco giacomo magari anche toni beh questo limite che confermo totalmente anch'io ho osservato è destinato a essere superato o è in qualche modo intrinseco nella logica di modelli
+emotive così poi puoi superarlo mettendo del rumore artificiale infatti data augmentation ma
+ma comunque per quanto tu possa mettere rumore artificiale che può essere un qualsiasi tipo di rumore che tu vuoi mettere tecnicamente comunque ci sarà si riproporrà solo più avanti lo nascondi
+rappresentiamo è andata orientation uomo artificiale cos'è esattamente intendente dati aggiunti ma reali o all'ora sulla giungla era rumore artificiale te lo spiego in maniera molto semplice il
+guerre stellari uno una delle prime elaborazioni digitali nel campo del cinema è stato fatto su guerre stellari in cui sono state aggiunte sulle scene delle delle informazioni per rendere le scene più realistiche quello che hanno fatto è letteralmente togliere il rumore dell'immagine aggiungere il personaggio artificiale e aggiunge
+per il rumore sull'immagine che mi animava quello che c'era prima sostanzialmente l'idea è la stessa e tu vai ad aggiungere del dell'informazione che non c'è una componente casuale che non c'è e questo ti farà sembrare l'informazione più vera perché non è sempre
+tematica sempre ripetuta sempre la stessa informazione ma varia leggermente questo ci frega al cervello cioè noi crediamo di avere a che fare con una cosa surreale google questo rumore lo introdussi nel sistema e avresti tutto pure i fenomeni
+di post processing no ma ci sono delle tecniche anche per capire qual è la quantità giusta di rumore da reintrodurre successivamente in fase di esecuzione adesso non voglio entrare nel tecnico però comunque ci sono come c'erano nell'immagine sostanzialmente andavi a reintrodurre esattamente il rumore che ci sarebbe potuto essere in quel tipo di scena
+esattamente e lo puoi fare anche adesso questa cosa magari a toccare con dei token volutamente sbagliati per esempio test quando alessandro tu scrivevi parole a caso nei giorni evidentemente l'hanno addestrato con con molto rumore perché se riesce a generare immagini diciamo belbo no
+politico ma con questo tipo di script da parte tua che ha scritto tutto casuale significa che comunque alla fine alla fine dei conti
+hanno inserito del rumore in addestramento hanno reso più robusto diciamo lo stimatore il generatore
+giusto per darvi un'idea e stampate non è neanche parole a casa uno uno a casa quindi una parola unica senza senso compiuto è però l'immagine immaginare abbastanza simili tipo queste montagne in questi paesaggi meravigliosi come dice mio amico comparsa di disturbi bellezza struggente no è
+perché bellissime immagini tipo di montagna avatar galleggianti sul cielo e queste cose qua abbastanza simili come pattern quindi non tutte uguali ma
+come come un soggetto ma di quel genere ovviamente si è attaccato a che è qualche cosa che ha capito lui qualche data poeta e poi su quello umano
+nessun default mi giorni mod bello bello e fantasioso che guarda ti do ti do un'informazione che c'è già per un attimo preso malissimo poi poi abbiamo siamo accorti resto non usiamo più quel training quindi ne posso parlare a un certo punto nel fare gli esperimenti
+un sistema c'è il sistema di ricerca abbiamo messo il nome di un famoso politico è venuto fuori bidoni della spazzatura e arance
+e questo era molto problematico per quel politico invece
+se hai capito di chi sto parlando
+le cooperazioni che fra l'intelligenza artificiale fa sulla base di qualunque cosa in realtà in realtà avevamo proprio il timore che ci fosse un bias specifico su quella persona in realtà fortunatamente abbiamo dimostrato che non era così a parte non usiamo più quel training quindi
+censurare non rischiamo nulla però non
+non era un era una correlazione spuria cioè il fatto è che noi avevamo provato quello era andato a prendere un punto in cui c'era era distante da qualunque altra cosa e le prime cose che prendeva vicino erano quelle abbiamo scoperto che mettendo parole a caso andava a pescare in quel punto quindi è possibile che i miei giorni con parole a caso
+lettere a caso ma prima di fare un esperimento adesso comincio on line facciamo qualche pronte vogliamo di fare un po' di gente non ami giorni non lo uso però mi sono fatto l'abbonamento per l'evento allora facciamo così intanto metto su no aspetta lo condivido su justin sono per
+e
+oh che dovreste
+self promotion stupido allora
+io gli ho creato una pagina su facebook che si chiama disasters
+poi quando quando trovi qualcosa di interessante condividilo lacey
+allora già e allora facciamo una cosa ok
+il pont artista che scrive un pronte di questo genere qua veramente
+vediamo cos'è l'intelligenza artificiale da fuori intelligenze ecco anche spiegato
+costruisce le immagini per cui apparsi su tiri poi aggiunge pezzi e dettagli finché ottiene allora questo può
+l'algoritmo che stanno usando loro però uno dei primi algoritmi di generazione di
+chiusa la canna era era basato su un dataset di celebrities quant'è quindi generava immagini simili celebrities
+uno però le a bassa risoluzione è una delle prime cose che che è stata fatta è stata aumentare la risoluzione basandosi sul modello a bassa risoluzione quindi prima esegue un modello bassa risoluzione e poi esegui un modello che parla sopra risoluzione e successivamente cerchi di raffinare l'immagine
+che hai per mandarla verso il prompt in quel caso erano dati casuali però era lo stesso cosa sta pensando l'intelligenza artificiale fronte al prompt
+a caso
+lumino la sagoma in primo piace dice sempre e comunque e eccome comune questi paesaggi più o meno spettacolari
+ripeto già per me uno che debutta una immagine questo genere così
+è già di per sé bellano una di queste a caso cosa devi farci tra l'altro diventa anche rispetto alla rielaborazione a quello che fa
+va bene aspetta e non poté problema con la voce
+selma microfono può essere che
+e forse condividere condividere che secondo me può darsi che vedete qui qui e anche aggiungerci poi un po' di menate ti
+extra definizioni per ottenere immagini un certo tipo con un certo vendere inclusivi via che è un po' lungo che molti fanno però non è che fa migliore parliamo sempre attratti però almeno io ti perdo a tratti si è oppure ti permetterà
+scusa
+volevo fare una domanda se giacomo che un atto se loro ipotizzavano
+quanto riguarda
+simona ventura regolamento si oppone si dovrebbe fare in europa sull'intelligenza artificiale
+è un guazzabuglio stile bsd
+eppure qualcosa di effettivamente utile
+si deve lavorare bene ma allora una raccolta goldman lamentazione secondo me è utile però non so prevedere perché non conoscendo no ho letto e non so come sta in che direzione stiamo andando adesso quindi difficile prevedere se sarà una cosa
+distratti o se sarà qualcosa invece di semplicemente sensato cioè
+secondo me ci troveremo che durante l'elaborazione avremo dei pulsanti da premere tipo do il consenso del consenso del consenso
+eva senz'altro tutte volevo essere così negativo
+ho paura anch'io
+sarà
+sarà marco f swing non mi somiglia per niente sei tu vediamo gli altri no
+è quanto magari magari marco suggerimenti kristall francia e se no però le tecniche da casa
+la felpa col cappuccio ma ma ma ma non era proprio uguale
+io proverei testo a caso con
+vincolo punti cosa scusami proverò presto a caso casuale hai fatto prima lettera è proprio del tutto casuali più parole magari ho dei vincoli dei vincoli di si con dei piccoli tipo fotorealistico sì sì sì ma io l'ho già provato non cambia molto
+poi dipende quali metti poi ci sono quelli che ti cambiano tipo le popolazioni tipo questo
+lo prima altre cose dipende ma
+la multa invece
+ti do ti do un prompt io fammelo tradurre perché non so il francese ma te lo
+te lo do per quella teoria che dicevo prima
+perché secondo me se dirai qualcosa che è simile cioè vorrei vedere se anche miei giorni a questo
+gli dai qualcosa di simile a
+qualcosa di esistente se si mette a generare qualcosa di simile
+se capisce il riferimento
+io sto scrivendo sulla carta intanto esperienze di allevamento
+allora ruby da linea
+l'idea è l'impero della luce il quadro di magritte
+è
+proviamo a buttargli la repubblica delle lampadine giusto per capire
+un italiano
+se genera qualcosa di somigliante o se proprio perché
+è una curiosità mia c'è
+sono il genere di cose che mi aspetto colga il riferimento genere qualcosa di simile
+ma poi scusa l'ignoranza abbiamo perso di nuovo
+dicevo della busa design paul destino e quello era quella pubblica della l'impero della luce e questo quadro
+all'impero alla luce
+il quadro famosa dimagrita
+però qua vedi no
+ha inventato qualcosa di nuovo là dietro c'è rowan c'entra c'entra relativamente eh ma ci sono le
+come sta
+mi sembra polenta
+sì
+bello
+lampadine ci sono dai
+la lampadina si scoprono però non c'è il discorso notte e giorno forse potrebbe essere l'ultimo ma proprio tirata per i capelli
+se ti devi
+una lunga chiacchierata con turni
+no non viene fuori al primo turno
+non mi aspettavo che mi separa il primo colpo una cosa sensata
+vediamo con l'impero della luce perché il titolo originale dell'opera in francese però
+poi c'è così
+bello anche quello
+se le ultime revisioni poi sono spettacolari quando gli ultimi passaggi ci aggiunge dei dettagli che sono qui
+ma poi la cosa bella di quel quadro cioè il motivo per cui ho preso quel quadro è che
+magritte in quel in quel caso era un po' mid kernel cioè non ne ha fatto uno dei quadri fatti qualche decina che erano tutti più o meno simile che richiamavano la stessa idea che non c'entra con questo
+no assolutamente
+e magari proviamo con quello del col titolo in francese
+però in realtà ho impara of light in inglese
+uso
+comunque il mio punto e nel momento in cui lo strumento ti genera immagini questo genere così a alzi le mani dici basta c'è cosa vuoi veramente puoi quello che puoi ottenere variazioni cerca di ottenere quello che vuoi tu
+sì e allora sono immagini belle però a me manca l'intenzionalità
+ma tu dici non c'è pathos in queste immagini non c'è
+guarda anche la posizione in cui questa è una posizione comunque con la sua estetica una sua tensione emotiva o con l'estetica di qualcun'altra
+non sono e non possono sono anche in grado di emozionare i mali di questo genere anche se poi alla fine sono tutti simili c'è simili ma diverse
+a momenti in cui anche ragionati tournée secondo me non c'è emozione in più di tanto se non lo sapessi forse un po' diverso
+ed è a questo punto è altra valutazione perché lo zelo l'autore dovrebbe essere cambiare la percezione dell'opera perché così via
+emerge un fattore se sai che cosa
+ma pseudo-casuali un determinato modelli insomma chiaramente non ha lo stesso fascino da sacrofano no voglio dire un artista romano
+vabbè qua
+pregiudizio
+qua in questo caso mi sa che non c'entra niente con le immagini però perché interpreta l'indiano in inglese problema magari sono allenato da marco è che se io un movimento qui non questo strumento magari altri strumenti
+la mia opera mi sembra che già c'è stato un caso il caso del nettuno ha presentato l'opera una fotografia non è una cosa speciale e poi addirittura nate io ho pagato ho fatto è stato più di uno
+e però diciamo un merito suo premio ha generato dall'intelligenza artificiale allora
+nasce la polemica protocollo detto sentono minacciati
+qualcuno parla
+non è frutto del loro lavoro woolrich
+ma infatti il problema non è solo questo se si apre su una serie di scenari anche molto più importante
+se consideriamo che esistono modelli di speech-to-text e di text-to-speech poi a loro volta già io posso imparare a gestire si è parlato di una persona
+poi posso imparare cooperazione si apre un problema serio anche di più
+lessi recentemente di uno scanner di alcuni
+alcuni ragazzi che praticamente erano riusciti a impersonare un'altra persona presso questa banca e si erano fatti autorizzare un trasferimento
+e vi rendete conto che il problema è forse importante cioè c'è un problema molto serio per capire che sta facendo con me solo scanner possibilità di produrre prove per arrampicate in questo senso anche in ambito giudiziario
+potrebbe essere questo questo è secondario perché poi il problema serio può diventare anche di chè se c'entra il mio conto corrente perché sono numerose e diversificate
+e li conoscete perché effettuare
+possono autorizzare trasferimenti fondi pure per migliaia di euro
+comunque tutta la questione secondo me della problematica sulla sicurezza intelligenza artificiale e i suoi possibili misure ormai i buoi sono scappati
+dal recinto non si fermano più e c'è ormai già tutto fuori non chi vuole farne una bonus
+la documentazione gestionale sarà per gli onesti perché i criminali densità fa massa
+esatto poi regolamentare quanto vuoi test
+come dire di fatto la legge uno la viola
+bernabè
+va infatti mai fatto problema serio
+secondo me che una battaglia che ci troviamo davanti a colpi di religioso
+c'è chi crea il modello più performante dopo essere un discriminatore però creare disturbo motorio poco magari la gente lo usa per poter addestrare altre altre cose con quel discriminatori insomma e poi c'è cosa c'entra tempo capisce che è tutto utilizzabile pro e contro tutti voi
+per cui santa fe
+emilia cam diceva il percorso vedo difficile per fermarlo proprio padre alessandro notifiche per urgenza genere
+la contessa ideale parliamo di qualcosa che sarà sempre e sarà sempre una evoluzione
+qualcosa che poi possa imparare da sola il libro tipici di un intervento umano
+ci presenta
+poi può essere che dopodomani sviluppiamo calcolo parallelo
+si fa ad oggi sono ancora facendo
+magari tipo sarà molto interessante vedere l'evoluzione più veloce
+penso che possiamo ancora parlare di intelligenza
+a me sembra che l'intelligenza artificiale ci sta è arrivata nel mondo del ventunesimo secolo e dobbiamo anzitutto le vecchi quindi rimettersi adesso sotto la sabbia
+mettere un clima protezionistico non ci sono de nada l'intelligenza artificiale è comunque dovremmo confrontarci con volenti o nolenti ma solamente perché comunque alla fine li hai passati stress test times si presentò come esponenziale la legge un fenomeno incrementare consumi
+quindi
+ok per quanto noi a votare e andare a rifinire la legge eccetera ma fenomeno esponenziale mondo aree dispositivi
+abs hai bisogno di qualcuno che operi nel campo per contrastare chi fa insomma devo
+l'intelligenza personale noi noi dobbiamo cavalcare non è che possiamo evitare di confrontarci dobbiamo cavalcarla ai veicoli ma dobbiamo cavalcare
+e dobbiamo capire i limiti dobbiamo capirne i limiti assolutamente perché questa è la cosa più importante cioè una una delle cose è uno degli esperimenti
+perché io ho sempre fatto perché comunque come dicevo io mi occupo prevalentemente di sì place place poi alla fine anche se per un po' di anni sono state impresse all'intelligenza artificiale
+e le prime quando sono usciti fra i vari modelli cat beth ma ancora prima agi ventitré le prime i primi esperimenti che facevo erano come come programma come come scrive codice come capisce codice
+i miei esteri allora dai miei esperimenti ho tratto dei limiti che sono notevoli dell'intelligenza artificiale magari non si vedono in altri ambiti come le immagini o come la generazione di testi perché non sono ambiti formali al codice invece ho giusto e sbagliato
+è il problema di
+di sistemi come copilot
+non voglio parlare di scopare come prodotto ma inizialmente copilot mi ha un po' deluso non l'ho più ripreso in mano quindi stiamo qual è stato il problema e lo chiudo la copilot gli ho chiesto evidentemente troppo cioè non c'era abbastanza addestramento sul campo specifico si la classe computer grafica
+stavo cercando di usarla lui mi generava delle belle funzioni in un paio di casi in cui c'era proprio
+tipo della funzione che era esattamente quello che avevo chiesto e poi barra barra puntini puntini puntini e la chiusa graffa finale
+praticamente non c'era il corpo della funzione
+ma questi sono fallimenti che
+da un lato mi piacciono cioè non sei in grado di generare mi fai capire che non sai di che cosa sto parlando il problema vero è questo l'ho incontrato soprattutto su
+chat gpd e ventiquattro quattro
+è che
+quei modelli sono molto bravi a scrivere del codice è perfettamente plausibile è che compila anche
+e che fa cose quasi giusta
+il problema è che ci infila dentro dei bug che sono terribile sono proprio perché ricrea qualcosa che è simile a quello che avrebbe fatto umano ma non è quello che avrebbe fatto romano che capiva cosa stava facendo perché il modello non può capirla
+quindi ti ritrovi con delle cose costruite piede vorrei dire cosa
+pescara vista fissato con delle quelli che scrive delle queli
+se ti non scrivere però
+quelli migliori di molti sviluppatori
+ed è ok
+su codici si place place possiamo andare anche a discutere su quello è probabilmente meglio dello sviluppatore medio si place place forse sì
+però ci sono tanti cani in giro
+è richiesto un problema
+io credo marco che questo è un problema temporaneo leggere
+nel codice che funziona perché se non lo fanno già arriverà il momento in cui il codice stesso che fa lo globali da e magari lo compila direttamente
+non ho dubbi che a un certo punto arriverà meglio che migliorerà però il problema è l'intenzione sempre noi abbiamo un modello mentale dell'esecuzione del codice
+la rete neurale non ha un modello mentale dell'esecuzione del codice adesso ed è per quello che secondo me non si può neanche lontanamente parlare di ia perché non esiste né l'intelligenza artificiale un modello di come funzionano le cose il modello di chat gpd e come noi parliamo di quelle cose
+tre articolo tecnico che ti mette del codice o altamente strutturato altamente censurato censurato perché noi tante cose che diamo per scontate alcune non le diciamo il codice sbagliato non lo scriviamo non facciamo vedere quali sono i bug forse si possono inserire vedendo i commit del codice
+altamente sbagliato noi non non lo pubblichiamo neanche perché non ha senso e quindi l'intelligenza artificiale ha un bias quello non ha mai non ha visto tutto il codice
+ha visto una selezione del codice che è basata su quello di cui noi discutiamo cioè quello di cui scriviamo articoli scientifici che scientifici o tecnici quello che facciamo su github o su commit pubblici di progetti pubblici tra l'altro non di progetti privati e ci possono essere dei motivi per cui alcuni progetti non sono privati tv
+tratti crittografia per esempio beh forse adesso è un po' più più aperta però fino a qualche tempo fa
+non era possibile pubblicare crittografia in a me manca adesso credo che ci siano problemi a pubblicare crittografia in america e portarla fuori dall'america viceversa
+perché la crittografia ritenuta
+uno strumento militare quindi
+c'è c'è c'è una legge specifica in america che ti impedisce di dati alcune scaricate non so mi sembra
+all'ibis secca
+viene chiesto se siete negli stati uniti o meno
+putin mi ricordo ci sono alcuni tool che quando discariche ti chiede se sei negli stati uniti o no
+perché no di salute insieme ai famosissimi paesi canaglia
+no semplicemente no no no semplicemente perché avere del codice crittografico il codice che si occupa di crittografia negli stati uniti
+il codice non può attraversare il borgo è una questione legale statunitense il codice non può attraversare il confine perché è ritenuto uno strumento da controllare e quindi
+dentro oppure dev'essere stato riscritto fuori c'è qualcuno che si è preso la briga di riscrivere lo stesso codice globale non so se per gli algoritmi base per quelli
+oh occuperà altre cose siano state fatte eccezioni adesso so che una quindicina d'anni grande natura di nastro ma quando
+allora sì ma
+è particolare infatti avevo conosciuto un amico quindici anni fa che avevo una bellissima maglietta con il codice
+mi sembra di triple destra o qualcosa del genere e lui ha detto io sono entrato in america con questa maglietta addosso non loro non lo sanno che stavo importando del materiale militare
+era era un ordine da nerd all'epoca adesso magari le regole sono cambiate magari può cambiare ma stavo giusto vedendo adesso non mi ricordo banda i bei vecchi tempi anche tutto il discorso di zip
+cose qua e sono
+nel duemilaotto era ancora un problema e diciamo che quelle vere quelle più estreme di tecniche di crittografia come dire ancora valenza militare hanno ancora il ban ma presto è un pochino più libera
+no ma non avrebbe senso probabilmente hanno
+una moratoria per tutti quegli algoritmi che sono necessari per rendere il web sicuro almeno perché
+web e le comunicazioni remote sicure che non avrebbe senso diversamente però però
+è una cosa dev'essere una cosa relativamente recente perché ripeto nel duemilaotto sono ancora c'era ancora questa questa cosa appunto anzi gli algoritmi abbastanza semplice
+il buon pc di file zip e zimmerman
+il divieto di esportazione in pdf
+mente l'immagine di noi hanno dato tutto il codice linux
+tutto l'opensource possibile e immaginabile abile probabile è possibile anzi cioè non so se probabile ma è possibile
+però il problema è che è che come è stato scritto quel codice come è stato commentato quel codice non è
+una rete può capire non è l'intenzione che c'era dietro a quel codice se qualcuno si è messo sia preso la briga di descrivere quel codice e spiegare quali sono le intenzioni e allora la rete potrebbe aver appreso qualcosa in quella direzione
+normalmente no normalmente non nel codice appare magicamente nel
+e e quindi quel codice giusto altro codice simile potrebbe essere altrettanto giusto
+per quanto ne sa la rete
+e quindi tende a generare ci attende rischia di generare codice
+simile a codice che ha già visto plausibile è corretto
+però alla fine se ci pensi marco è un po' come il programmatore vetro stack overflow abbia
+e sì però il programma
+l'armatore
+non ha intenzione cioè è un problema suo
+skype
+io vedo il problema con entrambi non
+programma programma stackoverflow secondo me non è un programmatore secondo uno che
+è uno che ha sbagliato mestiere
+oppure che sta imparando va bene era seno
+per anni a fare
+lanci la prima pietra chi non ha fatto un copia-incolla incolla stack overflow una volta nella vita non voglia alcune cose che ho fatto ho fatto a piene mani
+source devi anche chiedere a volte ci sono dei bug esteso nelle banche della comunità
+mentre la comunità dietro a me è capitato ultimamente un mal spotless
+insomma una cosa molto caratteristica dopo sei mesi mi ha risposto uno che non va
+hitman
+noi possiamo
+open source
+accadono cose siamo spiegarsi meglio insomma come alla ricerca insomma
+una possibile soluzione che non c'è
+va bene e ridendo e scherzando siamo in ballo da un'ora e tre quarti per cui prima di chiudere qualche dovete fare qualche vostra considerazione conclusiva un po' su intelligenza artificiale cosa che futuro ci aspetta come la vedete è una bugia
+gaza o c'è sostanza come si suol dire vabbè il quarto inverno non ci sarà sicuramente dicono tutti
+e però è
+una bolla con ingiustificata secondo voi o no perché anche la bolla del duemila ed internet sembrava una buona trovata la fine di internet è stato quello che è stato cioè non è che era tanta salute mamma scusa alessandro proprio qualche giorno fa con giacomo johnson
+siccome c'è la multa bufale insomma e dovevamo aspettare un po' di tempo prima che le cose si assestino insomma
+che da questo punto di vista neeson soprattutto il mondo delle aziende il mondo enterprise
+non non credo che sanno cosa si possa assestare dal punto di vista della stampa generalista che rimarrà sempre abbastanza
+con descrizione descrizione sensazionalisti e lasciano il tempo che trova
+io
+io nutro una profonda
+sam altman tutto lo staff di operai perché sono riusciti a creare un qualcosa da open ha chiuso e ci hanno creato un altro business vicino che l'aspetto etico come prevenire le aritmie a fondo e questa secondo me è stata una cosa molto interessante però comunque chic
+ci sono comunque delle implicazioni etiche molto importanti
+lo stesso ennio e gigas come una persona che insomma sa il fatto suo
+ha detto sì però mi sembra un po' troppo esagerata questa cosa insomma ci sta un dibattito in atto
+ad oggi quello che io vedo e hai credo che la fruibilità delle aree tocca chi si vuole spaccare la testa sulle gare vere e proprie cioè vuole imparare vuole imparare la matematica comparare il codice
+quindi ci sarà uno zoccolo duro spero che diventi più ampio zoccolo duro perché credo che la comunità open source si basa proprio il professor leif
+c'è chi privatizza i modelli questo è normale fa parte
+però
+vedere sempre più persone e farsi vedere su reddit io ho visto un incremento per alcuni
+resistere proprio che sono praticamente duplicare c'è
+sono
+dieci watt
+fattore luce moltiplicazione gli iscritti negli ultimi sarà stati sette otto mesi quindi
+è interessante vedere anche questa evoluzione verso l'aspetto tecnico quattrocento lo percepisce
+ma credo che qualsiasi programmatore adesso come li abbia dica sicuramente abbiamo abbia iniziato a fare cose se un solo museo sa programmare poi inizia a usare pulire classi funzioni di
+credo che sia normale no che uno poi ci ci inizia a smanettare mete umane così si potrebbe assolutamente però l'auspicio è che la specializzazione perdite oppure a livello matematico la matematica serve per le aree
+parliamo
+però forse un po' l'hai un pochino più di te
+relativamente basso livello magari per poterla usare anche a programmando cima usando modelli esistenti di matematica forse non ti serve più di tanto o mi sbaglio
+se maestosa errori
+bice strutture di dati sono fondamentali per capire i grafici pittori no usare queste robe qui e sono se devi farti tuo modello magari o magari il tuo algoritmo per salvare il tuo modello ma se dei fare
+solo alcune funzioni all'interno anche nel database
+se tu sei impegnato nella pipeline speriamo e non sono impegnato nel però sono impegnato nel teatro di fornire mai
+hanno quel punto anch'io un certo senso
+sai effetto su di me che dice e allora bisogna montare lo zoom
+queste estensioni di west des esistono lettura visto che ricevute c'è una ricaduta all'interno di tutta la catena insomma in cui magari non sei
+uno esperto di ai
+se comunque coinvolto in qualche modo mi permetta di essere mi permette di essere ometto po' più preciso su questo portale
+perdonami se stessi
+io anche se dovessi usare
+attivista di end user
+il medico capire quello che fa come diceva marco prima secondo me fondamentale davvero minimo di conoscenza anche statistica del perché data poi eccetera può essere
+se poi parliamo invece dello zoccolo duro di cui parlavo io sono finirà che sviluppano e da quel punto di vista invece è necessaria proprio la voce su questo
+sono assolutamente d'accordo
+io io invece dalla tua mia amica mi lancio cioè siccome sia stato fatto il paragone è quello che ho in mente da tempo
+la bolla della new economy
+dai primi duemila duemila
+allora
+da un certo punto di vista vedo che c'è tanta tanta occupazione in questa direzione è
+non lo so e lo vedo un po' preoccupante e mi ricordo che all'epoca c'era tanto tanta gente che andava a lavorare nel web che veniva da posting quello che non erano neanche lontanamente collegate all'informatica proprio perché c'era scarsità di persone che ne capissero e quindi
+si si si recuperava da da ambiti simili persone che potevano aiutare e vedo che sta succedendo anche nell'intelligenza artificiale anche perché in artificiale forse hai bisogno di competenze più specifiche nella materia che vai ad analizzare quindi che sono magari ha anche emotivi
+specifici per l'intelligenza artificiale che nel web non non ha non c'erano quando era proprio web puro
+dall'altra parte però mi sembra che le aziende siano molto più preparate a quello che è successo è che un po' tutti stiano facendo questa questo paragone con con la bolla della new economy e non ci sia questa esplosione di
+di entusiasmo per lei hai
+fine a se stesso cioè non ci sia lei salverà tutti anzi c'è una posizione molto critica alcune cose quindi
+la parte artistica di generazione di che cosa va a impattare l'intelligenza artificiale da un lato e dall'altro lato
+non si stanno affondando cloni e cloni di aziende che fanno esattamente le stesse cose ma si cerca l'innovazione specifica quindi
+non mi sembra che ci stiamo preparando a schiantarsi contro un muro come la neve come è successo nella new economi in cui si che poi se vogliamo quando ciascuna economiche da una grossa operazione selezione naturale nel senso che se parliamo però poi chi è rimasto e diventate azienda in
+lioni di valutazione no dire no no no no assolutamente assolutamente però però
+il problema è che è stato sfoltito non so quale percentuale ma si sa c'è stata una grande percentuale di aziende è stata ridimensionata sfoltita
+di persone che lavoravano nell'ambito
+se ci si è resi conto di chi faceva di chi non faceva eco pepper
+per dirla propria
+insieme a creare con te una selezione naturale accadrà anche in questo contesto non fa però in questo caso tu dici meno meno meno bolla diciamo esatto o meno ma almeno mi sembra di vederla però non so se sono io dentro una bolla e vedo
+comunque vada invidia grafiche parte tutti sti modelli da quando fallire no
+però appunto non so se magari quelli che vediamo noi come potenziali partner potenziali cose o anche persone che contatto io sono già di un
+sei filtrate in qualche maniera e quindi e quindi mi sembra che sia molto più più sensato quello che vedo e magari fuori c'è il wild west
+molto bene direi che con questo possiamo finire questa puntata io vi ringrazio perché è stata bella chiacchierata è stata interessante e giacomo io ogni volta che parliamo intelligenza artificiale considerati invitato
+le puntate li facciamo su un tema specifico quest'anno è stata un po' a ruota libera ma credo che sia venuta bene anche così
+grazie grazie di nuovo e alla prossima
+ciao ragazzi
+fatto

@@ -1,0 +1,553 @@
+sotto il manto della notte
+una brigata di notifica
+già estinti così si fanno chiamare ogni lunedì
+a navigare
+l'intelligenza artificiale da codici è istituito un viaggio senza eguale
+dite che io lo sia
+e una
+il passato il futuro
+brigata leggi
+che quanti
+perché
+è
+ho qui i conti si sfogano tra reale e virtuale
+battito
+pulito senza fare qui
+può alzare per condividere apprendere insieme
+tutto questo che si adesso
+e quindi
+ma
+quindi
+e quindi
+ma
+e quindi siamo arrivati alla puntata sessantanove della brigata degli estinti parliamo di dachau e lo facciamo con veri esperti del campo come michele veroli e paolo duina che invito tosto a presentarsi
+ciao a tutti sono michela ho anche
+cna
+vivo da un po' di anni all'interno del dark mi trovo bene non ho fatto la muffa e cerco di galleggiare il più possibile
+paolo sono paolo duina non sono un esperto del dark web anzi sono qui per vedere di imparare ad imparare qualcosa navigo proprio pochissimo nel dark web sono un programmatore da un sacco di anni
+ormai cobol anche se sembra che sia in estinzione però ancora lavoro c'è faccio anche un po' di web tuttavia sono qui per imparare
+benissimo allora e partiamo subito con la domanda di base
+cos'è il dark web e principi di base e poi approfondiamo
+allora il dark web probabilmente non lo sanno in molti è nato nel millenovecentonovantotto per volere degli stati uniti d'america
+avendo necessità di poter avere una rete sicura e di poter lavorare diciamo segretamente i loro progetti e quant'altro infatti la rete tor project che noi utilizziamo oggi come oggi è stata resa di pubblico
+dominio nel duemilasei si chiama thor proprio perché the onion router quindi tour
+detto questo è dark web non è niente di eccezionale detta così sembra un po' una stupidaggine ovvero il dark web viene spesso e volentieri disegnato come la sberla no
+dove si vede soltanto la punta che è da parte del cliente dove noi navighiamo giornalmente e dove giriamo su google facciamo le varie ricerche andiamo vediamo youtube facciamo una serie di cose poi c'è subito sotto il deep web che non è nulla di pericoloso ma è
+quella parte che noi utilizziamo veramente anche qui giornalmente ovvero dove andiamo a inserire una password quindi una user e una password quindi è la mail una rete aziendale intranet la banca quando ci andiamo a collegare e poi sotto si inizia con tutta quella parte invece ha un pochino più su
+riosa un pochino più difficoltosa da dover arrivare appunto con solitamente si utilizza il browser e thor ok
+perché perché tutte le estensioni che ci sono all'interno del browser di thor non sono il punto con puntoit punto snai sport of books mai punto ognuno il proprio punto cipolla ok
+e i nomi non sono o perlomeno fino a poco tempo fa non erano
+tipo facebook puntocom ma è una serie di numeri e di lettere appunto jonio
+quando si entra per la prima volta all'interno di thor
+tendenzialmente ci sono un po' di cosine da dover fare per non farsi male
+per chi non è avvezzo a utilizzare le virtual machine quindi a prepararsi un computer nella maniera migliore e vuole utilizzare il suo windows su mac o qualsiasi altra cosa che voglio utilizzare consiglio più grande è quello di sloggarsi completamente di fare una
+pulizia del browser che utilizza può essere crohn può essere safari può essere qualsiasi altra cosa vogliate utilizzare bing del caso eccetera perché perché era pericolosità all'interno di thor e il fatto che non tutte sono delle brave persone nel senso che se
+inizia a girare in forum se inizi a guardare laddove ci possono essere delle cose illegali o cerchi delle informazioni
+per dover fare qualcosa di poetico è facile che prima che tu riesca ad arrivare a un punto dalla situazione che possa essere di tuo interesse molto probabilmente qualcuno ti ha scansionato ti ha controllato riesco a capire dove sei che ha letto l'indirizzo ip e quant'altro ecco perché come minimo e dico come minimo
+mo si compra non si usano le vpn gratis perché la wbm gratis tre volte su tre non è proprio funzionale quindi viene rintracciato
+anche mood e mezzo maniera con sistema di locali ad esempio è
+un sistema che si utilizza per dover fare dai pen testing
+lingua oppure comunque per andare a fare i film comunque è un sistema che proprio proprio non è ortodosso c'è ma non surf che è la stessa cosa cioè dal modo di avere connessioni continue fino al relais di tour ma ti va a proteggere completamente stufato sistema non solamente la parte di
+browser perché voglio andare a vedere thor allora abbiamo svariati ipotesi sono curioso sono curioso consiglio sempre di andare a fare il primo la ricerca come si deve e devon santo google o wikipedia può andare a vedere che cosa mi serve cosa mi serve poi c'è il famoso
+uso bimbominchia o il nerd di turno che quello improvvisato che vuole andare a prendere che ne so perché la ragazza l'ha mollato perché vuole andare a vedere se riesce a bucare quel telefono giustizia di di sempre perché voglio andare dentro nel social di lei perché lei o perché lui mi ha fatto disfa
+otto si tenta di andare dentro né dark e andare a cercare quelle cose laddove
+no sono proprio non è il massimo della vita qui come dicevo poc'anzi ad alessandro mi permetto di fare una citazione di quelle serie ricorda che la violazione di un pc o di una rete è un reato perseguibile per legge articolo seicentoquindici ter del codice penale che
+quindi quando iniziate a pensare di poter andare a cercare l'hacker di turno che vi promette la qualsiasi cosa ma veramente la qualsiasi cosa ricordatevi che il più delle volte sono specchietti per le allodole
+dovette andare a lasciare voi e i vostri dati e quindi voi pensate che uno che è in grado di andare a truffare o di andare a bucare qualcun altro non possa bucare voi andateci con tutti i carismi del caso non andrete mai dandogli una gmail come minimo tenterai di andare a farti una meno un attimo
+vino più protetta un proton mail a meno che un server svizzero che fino a poco tempo fa era molto sicuro poi ha avuto un pochino di problematiche è stato un po' bucherellato oppure lui però almeno protegge un attimino di più ricordiamoci che nel dark web non si paga
+in euro né tantomeno in dollari si paga in bitcoin sistema per non essere tracciati perché ricordiamoci che ciò che bitcoin oppure bull dove si fanno le cose fatte bene eccetera a tutto un sistema di tracciabilità perché ha una blockchain inalienabile solitamente si utilizzano sistemi di polmone nero
+cose di questo tipo che non rendono il sistema tracciabile detto questo quando sei lì sotto poi divertirsi a fare di tutto e di più ricordiamoci che una delle attività illecite più più grosso e più potente è stata negli anni silk road
+dove praticamente era un e-commerce dove tutto era completamente ben visibile dagli york e
+tutto il resto ricordiamoci che è stato smantellato dopo due anni e ha durata dal duemilaundici al duemilatredici forse qualcosina in più è solo che il proprietario quando è stato preso si è preso due ergastoli è vero che si è portato via duecento milioni di dollari d'incasso però voglio dire x
+sempre a due ergastoli sulle spalle ecco quindi non è proprio proprio la cosa più più semplice di questo mondo ciò non toglie che puoi ovviamente
+abbiamo avuto chi ha tentato di fare
+un altro colpo grosso
+viene chiamato re del dark web si chiama alfabeto
+è uno che
+ha fatto dieci volte di più il fatturato di silk road adesso non so se l'hanno trovato oppure no
+acerno cosa
+le stesse cose esattamente le stesse cose quindi plein
+allora al principio era iniziata soltanto a vendere ciò che erano le carte di credito clonate poi man mano ha visto che ovviamente c'era tutto dietro un interesse infinito ed è arrivato tranquillamente a vendere di tutto e di più dai dal fatto di poter andare a
+clonare vedere fare e disfare e fare tutto quello
+virus e malware conoscenze varie eccetera e poi ovviamente
+per questo si è fatto un bel po di milioni di dollari ad andando avanti consideriamo il fatto che
+su milano finanza mi sono presa un appunto proprio l'altro ieri c'è stato un articolo interessante in cui diceva che il mercato del dark è aumentato del trecento per cento
+e-fattura un giro d'affari di circa uno tre miliardi
+hanno calcolato che entro il duemila e trentuno
+proprio per questioni di
+ricatti ramsonware perchè purtroppo in italia siamo ancora tutti presi in questa maniera e abbiamo difficoltà a difenderci
+hanno calcolato che arriveremo tipo duecentosessantacinque miliardi di danni nei confronti delle aziende e quindi ricattabili e quindi che pagano
+scusa michele ti interrompo un attimo allora paolo tutti ricollegato più alto per vedere la live esatto se hai mai scritto prima di salutarci così magari ci segue su youtube puoi dire qualcosa ma dal tuo punto di vista che michaela è un pozzo di sapienza e di conoscenza assolutamente
+e infatti è stato per i suoi video che ho accettato molto volentieri di di guardare di partecipare per ridurre per un po' si dicevano che io
+temo che lei ha parlato di proton mail bitconnect tra queste cose qua diciamo le le conosco per per diletto non non per lavoro come fanno tanti altri non sono mai arrivato al punto di comprare qualcosa su silk road anche se l'avevo visto su a suo tempo per cui diciamo che sono riuscito a non farmi coinvolgere più di tanto naviga
+nel dark web così poco molto poco con contour per per curiosità non certo per fini illegali poi uno streaming ogni tanto ma niente di niente di veramente veramente illegale e basta tutto lì diciamo che comunque la cosa molto molto molto interessante non tanto come per utilizzarla secondo me ma come come ha detto
+michela per difendersi soprattutto perché c'è sempre da stare attenti comunque grazie mille personalmente prima di salutarci come ti proteggi e quando usi di nuovo nel contempo ma allora prima di tutto io sono quello cosa sono forse paranoico io uso uso thor in una virtual machine
+addirittura per e cerco di stare
+non so se sia sufficiente però quantomeno finora sorprese non ha avuto eco poi contatti ne arrivano talmente tanti ma ovviamente non non ho non ho nessun seguito a questi contatti anzi di blocco immediatamente da qualsiasi parte arrivano
+proprio questo senza andare nel dark web nel nel web normale ne arrivano talmente tanti
+però diciamo e finora diciamo che non sono riuscito a non essere truffato però come si dice non c'è mai non c'è mai limite per cui penso che ci sia sempre da imparare e sono qui proprio per vedere se c'è anche qualche cosa in più così che si può fare perché è vero che nel dark web siamo lì magari
+disarmati e con tutti i predatori intorno però quando magari navi cerchio navighiamo nel nel nel white web o come lo vogliamo chiamare pensiamo di essere al sicuro mentre invece non lo siamo per cui diciamo delle attenzioni che si usano le dark web possono essere molto utili anche nel nella navigazione normale
+perfetto sì esatto io da paranoico che non ho praticamente mai usato avventurarmi in questi posti lo farei virtual machine su una rete non la mia rete locale ma una rete guest diciamo di qualche genere dove non possono in qualche modo allargare il campo di
+ok forse disagio e
+va bene e michaela torniamo su di te tu paolo come vuoi se vuoi restare collegato il live vederci qua se vuoi scollegate seguire su youtube se vuoi aggiungili mi collego su youtube va bene grazie mille intanto a paolo ciao ciao ciao
+micaela domanda allora
+avevo già accennato in precedenza ma
+sul dark web si dice c'è molto di più nella piramide famosa che qui accennato il clear web poi lindbergh ruby è l'iceberg sotto il dark web dove c'è molto di più di tutto quello che c'è nel client es e io del web e io
+ingenuamente ti ho chiesto ma scusami io non conosco miliardi di persone e aziende che hanno il loro sito web possono pubblicano fanno cose online su internet nessuno o pochissimi di questi pubblicano mettono cose sul dark web posso capire
+dire punire agenti più o meno legati al mondo criminale piuttosto che al mondo della sicurezza riservatezza o legate al mondo della tutto quello che vogliamo però mi viene difficile pensare che nel dark web ci sia molto di più di quello di dati di di cose che ci sono nel nel client web
+michael idea di che cosa c'è nel dark web diversi tipi di allora abbiamo di tutto e di più
+la prima volta che si entra nel dark
+consiglio sempre di digitare la ricerca hidden wiki edit ti viene fuori l'elenco del bene e del male nel senso che trovi dentro la vendita di droga alla vendita di documenti falsi passaporti carte d'identità
+le solite diciamo tra virgolette le solite cose
+carte clonate ciò non toglie però che abbiamo all'interno sempre the dark ad esempio come ti accennavo prima che non è più soltanto il punto onion consumo numeri e lettere adesso per esempio c'è anche facebook e dark e jenny non è né più né meno lo stesso facebook sta sopra è stato portato anche sotto
+il times
+svariati giornali che vengono utilizzati dagli attivisti per divulgare perchè la difficoltà di dover dare
+un dato certo non fake di un qualcosa vedasi le varie guerre eccetera eccetera non tutti sono in grado di arrivare fin sotto e di mettersi a fare una ricerca approfondita quindi spesso e volentieri ci trovi queste cose qui
+manuali di ogni genere
+filmati di ogni tipo oltre al fatto che come ti accennavo prima e qui vado molto leggera nel dare le spiegazioni ricordiamoci che ciò che noi cancelliamo dal clear da qualche parte deve deve andare e c'è una sorta di cestino chiamiamolo così
+ai più sconosciuti ci è sconosciuto come ubicazione e sottolineo meno male dove comunque tutto ciò che viene cancellato da su da qualche parte deve andare a finire cioè non è una cancellazione bit per bit perché noi quando andiamo a cancellare un dato che lo buttiamo via dal computer nel cestino ecc
+eccetera noi pensiamo che le abbiamo buttato via da qua cioè fatto che non si occupa più spazio è un discorso quando buttiamo via gli allegati delle mail quando eliminiamo delle mail eccetera
+da qualche parte andranno dove vanno punto di domanda è un po la storia del coccodrillo come fa e nessuno lo sa è la stessa cosa qua non è che proprio proprio nessuno lo sa determinate cose si sanno ecco perché spesso e volentieri vengono fuori i documenti che dovevano essere iper segretati o comunque dovevo
+uno essere gestiti nella forma di privacy più importante ma tu quando cancelli un dato cancelli un dato tu non lo vedi più il tuo gestore non dovrebbe averlo lasciato da nessuna parte perle che ci sono alcune cose che vanno mantenute tipo le chat delle mail eccetera eccetera perché a seconda della richiesta di un magistrato deve poter accedere
+via andare
+come può capitare il cliente infedele all'interno dell'azienda pincopallo e se piace va a divulgare i dati dalla rete
+può capitare che qualcuno possa sapere dove andare a intercettare questi dati che siano in un mirror che siano da qualsiasi parte non essendoci uno spazio eterno perché lo vorrei ricordare cioè non è che prima o poi non andremo a esautorare completamente il discorso dei cloud eccetera eccetera non c'è niente di sicuro
+soprattutto poi se viene appoggiato in posizione ideale dove anche il dark web down delle problematiche non indifferenti e
+allora poi domandine correlate fin dove si può domandare è
+per legge il d i provider di posta e magari chi gestisce social così debba mantenere i dati dei suoi utenti ha i saggi non ho certo anche se l'utente chiede la cancellazione dei dati sì allora
+c'è scritto comunque allora in poi subentriamo e non mi metto in questo vespaio nel senso che non sono un legale non sono l'avvocato io sono soltanto al massimo un perito forense è un analista forense allora è capitato più e più volte di dover richiedere ovviamente tramite il magistrato
+perché ci sono di mezzo delle cause sono di mezzo spesso e volentieri ai dei minori eccetera
+che comunque in ogni caso ciò che è emessa in garage ciò che è instagram e quindi le chat addirittura alle storie o cose di questo genere vengono recuperate quindi da qualche parte sono mantenute
+e tu dicevi ci sono cinque anni di battaglie trenta west cinque anni si dovrebbero ma allora sempre per legge poi non sappiamo quanto rari casi
+onori di casa o che è ma dopo solo sei tenuto a cancellare i gestori di questi dati dovrebbero essere completamente cancellati punto basta poi è ovvio che spesso e volentieri chissà perché ci sono dei league incredibili e tutto quello che è league te lo ritrovi sotto e
+e va bene non tutti sono snowden del caso non tutti sono la rana dalla bocca larga che dico ne parlano e fanno tutto il resto ma tanti ad esempio si fanno copie di cose che non dovrebbero esistere e poi da qualche parte le vanno a mettere oramai è diventato di moda sto benedetto discorso dei cloud
+e tanti invece per esempio utilizzano
+diciamo the cloud particolari che stanno anche nel dark perché
+in alcune occasioni vengono ritenute più sicure e meno buck abili e soprattutto meno inviolabili nel senso di ricerca perché se una persona
+che è avvezza la social engineering quasi questo genere eccetera riesce a trovare il filone dove tu vai appoggiare le tue informazioni prima o poi ti trova e ti buca nel dare un pochino più difficile ma per arrivare lì sotto devi essere in grado anche di doverti gestire lo spazio che ti sei preso lo spazio che stai occupando e quant'altro
+voglio anche ricordare che ci sono dei siti
+legalissimo nel senso che è soltanto un fare una app cloud di un'immagine la lode di documento dove un sacco di gente e lo trovi in surveillance self defence punto onion
+ho dentro non forum uaar
+dove c'è dentro un sacco di gente che va a mettere documenti sensibili proprio perché sanno che nel momento in cui entrano nel circuito del dart non spariranno mai indipendentemente che ci sia scritto roba privata tutto il resto proprio perché lì se capita qualcosa qualcuno prima o poi lo trova
+e qui rientriamo in una serie di
+diciamo questioni molto più grosso di quello che possa essere una chiacchierata fra di noi così che qui andiamo a finire fra i paranoico e ipersensibile eccetera eccetera c'è tutto un sottobosco di queste informazioni che poi si vengono a trovare e quant'altro
+ci sono cose che sono assolutissimamente
+normali niente di trascendentale né di trascendentale tanto quanto invece ad esempio ti ritrovi con manuali per predare abusare i bambini eccetera che vengono venduti era estremamente illogica dove però questa è una cosa che bisogna
+dire perchè
+come tutte le cose c'è sempre un'evoluzione mentre prima quando tu andavi a cercare delle informazioni e quindi riuscivi a entrare nel forum riuscivi ad avere un minimo di attenzione perché non è vero dato che tu entri in un forum fai una domanda o vai a leggere qualcosa ti viene risposto
+perché chi sei tu c'è ci sono alcuni forum quando entri dove comunque che ti piacciono fin quando non hanno capito che tu al massimo fai da lurker c'è nel senso che leggi soltanto e leggi le botte e risposte eccetera ti venga dato il permesso di andare oltre perché comunque sotto c'è quello che ha sempre calva
+in tanti una
+aura di mal fidenza confronti di chi sta entrando che è alta proprio per l'auto esponendo non ti puoi fidare l'uno verso l'altro booking ovviamente no cioè io è anni che ho
+la mia sigla o un nome ben preciso non lo sa nessuno che dice mio giacché sono io ok
+proprio perchè mi salvaguardo perchè sto stia nella parte cattiva che nella parte buona del dark perché ci sono alcune informazioni che riesco ad avere in tempo utile perché sono all'interno di gruppi che non sono propriamente il massimo della vita ma che se capita qualcosa so come poter andarmi a muovere nei confronti di qualcuno che ha bisogno d'una protez
+ione che parlo di aziende o cose di questo tipo però ti stavo dicendo che l'evoluzione delle cose eh sono diventate molto più duttili perché mentre prima tutto stava nel dark adesso quando tu entri dentro ai cerchi un'informazione vieni
+l'incarto su telegram laddove telegram è ritenuto ancora oggi come oggi sebbene ci sia tutta la storia dell'arresto et cetera et cetera del signor telegrammi di andare tutto il resto è un posto dove ci sono delle grosse problematiche perché non tu
+tutti i gruppi sono pubblici non tutte le chat sono violabili anche da parte delle forze dell'ordine o di chi avrebbe necessità di andare a capire che cosa diavolo sta succedendo quindi quando vai a cercare
+dunque ti faccio un esempio stupido
+c'è un tizio che aveva un blog
+negli stati uniti dove vendeva
+delle immagini innocenti diciamo normalmente nel suo forum però dovevi entrare dovevi metterci dei soldi quant'altro eccetera eccetera erano immagini normali che ahimè e qui mi salta la mosca al naso ed è una cosa che con gabriele gobbo per esempio in altre
+situazioni eccetera l'ho sempre detto perchè cacchio i genitori i nonni gli zii non la smettono di mettere le foto dei bambini seminudi in giro tutto il resto sul web perchè volete spedire ste benedette foto chiama chiamato i parenti e mandateli foto fategli vedere che cavolo ne so
+una chiamata su whatsapp quello che gli avete fatto vedere il bambino queste benedette foto sempre in giro veramente c'è gelosamente king si chiama così perché è una cosa esagerata poi vengono utilizzate per fare delle schifezze e poi eccessivamente perché poi capita qualcosa chiusa parentesi scusami ma è una cosa che non sopporto questo tizio poi vendeva
+ovviamente dei video che erano totalmente diversi ma andava a incanalare tutti su telegram
+su telegram preparavano il tutto davano l'opportunità di avere dei link a una determinata ora in un determinato posto mali su né dovevi aver già passato e mai passato dentro nel dar tutta una serie di paletti per riuscire a capire che tu non fossi uno della polizia che comunque lo volessi andare a pregare
+così questo genere questo tranquillamente e serenamente prendeva venti mila dollari a video
+faccio nacque proprio proprio sia il massimo della vita e allora micaela g con poki domande che finora trascurato da chi ci sta seguendo
+poi andiamo avanti
+allora
+prima domanda di livio e se la foto questa imponente era legata a una discussa con freno prima strada
+sfortuna alla leggerezza essere vittima di un ransomware ad esempio per pagare deve andare nel dark web allora in automatico quando tu vieni colpito dai ransomware tu hai quello che viene chiamato poster cioè tu ti ritrovi sul tuo bel pc della tua azienda con su scritto cucù sono il gruppo pinco pallo ti ho bloccato tutti
+tuoi dati se li rivuoi indietro clicca qui è un file txt dove c'è scritto chiaramente dove devi andare e un link onion ti spiega come fare per scaricare i torti dice di utilizzare una vpn perché potresti essere bucato da terzi cioè sono spiegato
+è anche gentile sotto questo aspetto sappi che nel momento in cui entri nel dark è ovvio che è meglio che tu abbia qualcuno anche dietro le spalle proprio che ti parlo fisicamente che quattro occhi se non siete avvezzi sono meglio di due per vedere quello che di solito ti portano sul loro blog
+dove ti chiedono di inserire perchè hanno messo anche loro adesso il recaptcha quindi voglio dire devono essere sicuro che sia tu che ti stai inserendo
+ciao henry
+e in automatico una volta che sei andato dentro nel blog ti fanno vedere una parte dei dati che ti hanno fregato quindi tu sei sicuro che ti hanno bucato e in più sempre per gentilezza perché ricordiamoci che la acer quando ti buca e persino gentile pur di guadagnare soldi li fa
+qui c'è quindi ti fa vedere l'alberatura di dove sono andata che cosa hanno preso il server che hanno bloccato
+area finanziaria area personale email ti fanno l'elenco ed è ovvio che arrivi lì ti spiegano anche come fare per dover andare a utilizzare i bitcoin ma identificato su milano ransomware di un cliente che ahimè
+contro la mia totale volontà perché è ovvio che poi il cliente che comanda non avendo purtroppo un back up per recuperare se non vecchissimo ha preferito pagare quindi ha pagato un riscatto ma proprio perché
+ci sono
+degli escamotage meravigliosi
+gli è stato emesso una fattura da hong kong è stata pagata in dollari e in automatico chi ha ricevuto il bonifico in tempo reale ha permutato in bitcoin li ha fatti ricevere al gruppo che aveva era tutto e hanno dato l'ok che hanno mandato
+la chiave di decriptazione ma caro alessandro ti dirò di più siccome ci avevano già smanettato per tentare di tirarsi fuori eccetera eccetera e quindi la situazione iniziale di quando era stato
+patto il ransomware quindi non era più quella perché alcune virtual machine erano state tolte eccetera eccetera non continuava la chiave di decriptazione quindi c'è stato del bello e del buono a dover contattare questi ti posso garantire che è stato un lavoro non indifferente andarli a cercare nel dark andare a capire chi mostra
+riuscire a entrare spiegando che c'era questa problematica venti posso dire che si sono collegati loro che hanno sistemato il danno
+allora adesso viviamo un attimo al bagno è proprio quel discorso ransomware comunque in qualche modo è collegato intanto ben trovato e ben ritrovato domenico
+domanda ho punto la faccia anche a domenico ransomware arabe la raccomandazione però chiudiamo in fretta tra parentesi e non pagare
+ma se paghi ti trattano sempre c'è qualcuno che fa il furbo
+cerco alcun su sospende prima hobson company
+nel caso vada paghi c'è qualcuno che fa il furbo sì è pieno di gente che comunque ti chiede i soldi poi non
+non ti ritrovi ma soprattutto a prescindere dal pagamento o meno se tu non hai capito come sono entrati non è suonato la situazione tu paghi diciamo anche che ti decretano tutto e una settimana dopo sei da capo domani questa c'è una imprecisione della bastonata s r
+ricordiamoci una cosa che nel momento stesso in cui c'è il dato che ti è stato rubato non è che viene tenuto in un hard disk esterno o aton per dire che lo conservo i dati che ti sono stati rubati sono immersi nel loro forum sono charlie ok quindi volente o nolente se tu
+sai perché c'è un elenco e ti parlo in chiaro perché se tu vai a cercare ultime società sbloccate da arkham su trenitalia ti viene fuori veramente filosofare del mondo quel dato comunque in ogni caso se a me interessa e io contatto tizio gli dico sempre questa qui è una società
+grossissimo non me ne frega niente che tu prenda bitcoin da questo qua eccetera eccetera quanto vuoi per vendermi quei dati li c'è il fatto che io pago per riavere indietro i miei dati ma io ho dato l'ho già perso
+assurdo perché me la piglio nel fondo schiena due volte tre quando si inserisce il garante quando alan quando arriva la postale e vi garantisco che postare non è mai proprio molto molto tranquilla e in più perdonatemi ma da questo mese che poi è vero che entra a marzo ma abbiamo la nis due
+se qualcuno ne sa qualcosa sono capperi amari a partire dagli amministratori dell'azienda a scalare sembrerà di non se paghi se tu vieni bucato oggi come oggi con la nis due avrai problemi seri perché la nis due ti impone una serie di questioni proprio perché
+e sta dark fantasy più adeguato alla nis due no non se tu sei adeguato alla due ti bucano comunque c'è il problema è che hai ventiquattro ore di tempo per avvisare in piattaforma che sei stato bucato perché se è successo da me in italia io sono sulla filiera che ne so
+della della luce piuttosto che dell'acqua quindi do un servizio devono saperlo in polonia lo devono sapere in francia lo devono sapere dappertutto per doversi armare essere ancora pronti ad affrontare la cosa poi ho settantadue ore per iniziare a spiegare perchè sono entrati come sono entrambi da che parte poi ho un mese di tempo per due
+per andare a fare tutta quanta la disamina eccetera eccetera ma se non ci è stata fatta la formazione adesso è bello quello che mi piace di più e l'approvazione dei piani alti partendo da dirigenti quadri e tutto il resto perchè se poi non c'è stato adeguatamente fornita la formazione anche quei livelli lì ricordiamoci che ribadì
+esco io sono brutta e cattiva la cosa che mi piace di più sono il fatto che al di là delle multe ma sono almeno fino a sei mesi di sospensione dell'amministratore o del dirigente questo vuol dire bloccare una società perché se l'amministratore non delibere dei pagamenti delle
+fatture tutto il resto la società e con il sederino per terra
+qui rientriamo sempre nel discorso del dark sembra a latere no no
+vi annoso sulla percezione che questa cosa chiamata proprio ieri parlavo con un prospect nessuna badante misure tanto tutti ho capito si chiude da mano aspetta prima iniziamo a parlare dei processi di come funziona un'azienda poi poi ne parliamo galaxy due e noi parliamo della nis due
+e dopo che abbiamo parlato infine parliamo della parte it e importante centro sicuramente ma dopo
+aver fatto tutto il resto è inutile che io ti metta tutte le cose più belle nel modo istruire fatto un riscosse assessment prima non hai fatto tutta una serie di cose necessarie prima stiamo solo perdendo tempo e poi a terranova i due ti obbliga a fare la bua quindi il fatto di essere sempre pronto e di andare a controllarti
+nessun continuazione non una volta o due all'anno così per vedere se eventualmente sono bloccabile mi obbliga a fare campagne di phishing che partendo da amministratori andando a finire al portinaio quindi queste corone scusarmi carena sulla due io direi faremo una punta
+data perchè sicuramente ce n'è da parlare per anche perché insomma s'avvicina e non so quanto siamo preparati e
+torniamo un attimo al nostro escluso perché diverse domande che vogliamo girarvi da della chat è una mia che vi aggiungo qua e senza pagare un ransomware senza cup si riesce a decriptare in qualche modo oppure no i dati che sono stati
+dipende dipende da che cosa mi hanno buttato dentro se un lock bit che è conosciuto nel bene o nel male alcuni alcune varianti riesco a trovare resort sennò sono cavoli amari ocean
+c'erano dei manager o no nerazzurra a un certo punto abbastanza note risultano tutte la stessa chiave perché tu mettevi un file qualunque e usando gli algoritmi c'erano più dei siti ufficiali sia online nel web normale guardavi e ti terrò nota il nome che avete dato la chiave tutti i dati
+stavi tutto solo che anche la la tecnologia è andata avanti si sono evoluti è davvero difficile che trovarsi in questa situazione
+jochen scusate se la taglia un po' però voglio anche per un po' seguito alle domande che sicuramente adam un sacco di tempo fa e quindi mimosa è neutrale e cosimo chiede se navigando con contorno in incognito modo è possibile per chiunque lungo la catena di routing intercettare i tipi di partenza
+tu dicevi prima meglio una bpm perché così non ti beccano il tuo allora partiamo da questo presupposto thor il client e l'utente poi abbiamo e middle men che tipo il ban in the middle di quando si fanno gli attacchi cioè è dove rimbalzano i dati no e quindi ora che arrivano dall'altra
+partner passano dal exit router e quindi praticamente e server finale poi c'è il bridge router che sotto tutti i vari ponti che mi permettono di arrivare all'identificazione privata sul server abbiamo visto che adesso stanno potenziando la rete di terra per
+evitare di arrivare al liquidi partenza perché comunque in ogni caso si è riusciti
+ad arrivare ai lipidi partenza è il fatto delle incognite mood non non è incognito su chrome nessuno sa fare tutto il resto è inteso come su coman come il fatto che non tiene i cookie non tiene a capire che era in chiaro comunque i tuoi piedi il tuo quartiere
+non incontriamo bienne sotto sotto sei new york ma sono in bpm che continua a rimbalzarmi avanti indietro te
+intanto scusate aggiungiamo un altro o un'altra gradita visita
+all'acqua vi conoscete micaela io so lei chi è ma lei non sa chi sono ma va bene lo stesso non c'è nessun problema
+ti ringrazio per aver detto questa cosa perché è meravigliosa
+è la verità è
+vai a capire chi con chi parlo se non conosco il nick è una cosa terribile mi spiace e scusate tutti son troppo nerd buonasera a tutti sono stefania sono in vigore e casomai non mi riconosce laddove dom sono venuta solo per per per correggere le porcherie idee le bellissime cose che stavi
+se vi mettete a pezza
+effettuato sulla pizza raga basano e così stavo stavo seguendovi da un account ovviamente maria dell'arco d'azzardo ma sono dettagli qui e ho notato che stiamo
+ransom dakar bookmaker aams non è vero no no no non abbiamo detto no lo so però entrato anzi entrato il discorso però proprio per abbiamo divagato un attimo e sicura diminuzione sesso
+siamo arrivati anche fino alla nis due ma perché ovviamente sono delle trend d'union che ti portano no charles leclerc ci mancherebbe però dato che siamo dei siamo siete io spero di essere considerata chic quasi quanto vuoi quanto voi e il voucher non è solo rance sul dark web
+lissimo e fa un sacco di cose bellissime oltre che quelle bruttissime no quindi ma ci ha seguito le regole ecco
+no perché se ne abbiamo già abbondantemente
+chiarito dall'inizio somma le varie cose d'acqua e non è soltanto cose mi stoffe me crimine e pedofilia e hacking e carte di credito però
+bene e raising hacking senso cracking e quant'altro e allora e allora approfittiamone per andare avanti un attimo con le domande poi dopo torniamo un po su domande e si aspetta
+allora beh parliamo di questo va visto che
+anche qua se n'è accennato così per curiosità ovviamente chiede livio quali attività non malevoli si possono fare nel acque c'è l'abbiamo accennato no ci sono una serie di documenti cose che in realtà non hanno niente di criminale criminogeno e abbiamo anche detto dei vari facebook
+good times che sono sul dark web ma come utente io che che sono interessato che ne so la tecnologia al mondo gay al mondo t che che cosa mi consigliate di andare a cercare che non trovo manuali net manuali laddove nel client non li trovi ad esempio sono un sacco di manuali
+che nucleare non riesce a trovare e io vorrei sapere perché è sotto invece trovi dove li cerchi proprio
+palermo il motore di ricerca più utilizzabile o non è che abbiamo il famoso duckduckgo di onion che è quello che già ti si palesa appena arrivi e golf hotel
+poi che nessuno ribadisco quando entri e non sai vai su hidden wiki c'è tutto l'elenco di quello che puoi trovare cioè quella è praticamente la wikipedia
+the onion che oltre a farti trovare delle schifezze ti fa trovare anche tutta quella serie di informazioni pulite e che sono veramente importanti perché veramente io ho trovato un sacco di universitari lì sotto che fanno dei ragionamenti che sono fotonici mantiene i clear non non non funzionano
+sono tutti lì e non ti parlo di cose chimiche per dover fare la nuova bomba del simbolo ti parlo di gestione dell'acqua di questioni di purificazione e un sacco di cose di questo tipo tanto quanto ci sono per esempio tutto invece un discorso di attivisti che si muovono e che possono dare l'opportunità di andare a
+ad aiutare come è stato agli inizi se vi ricordate della guerra in ucraina dove c'erano proprio organizzazioni vere e proprie che si organizzavano per andare a prendere le persone ma che non lo potevano fare né su facebook né dalle altre parti non tu e hanno il discorso di telegram ma lì sotto sono riusciti a
+mettere un qualcosa per poterci arrivare a programmi ho citato bene l'indirizzo ip client text del clear web del bowie è quello lì che intendi se si
+e metterla sulla politica se non vi spiace se si formò il fare tutto vi ho potuto non credo non esagerare nella stepper o whatsapp semplice puoi fare tutto no
+il punto è che michela ha detto una cosa meravigliosa
+i manuali
+un piccolo aneddoto
+noi tra le svariate svariate mille cose che facciamo una piccola associazione che si chiama european society for compiuto preservation che pensa di poter tramandare alle generazioni future tutto quello che è la storia informatica cioè come siamo arrivati ad arrivare oggi ad avere lo scibile umano su
+della mano quando siamo partiti da un computer che faceva due più due cavi da solo una stanza ma fondamentalmente è ci capitato di recuperare una macchina meravigliosa olivetti
+alan olivetti era il top del top del top l'italia era il top è questa macchina non era un prototipo non era mai uscita sul mercato quindi chiamammo
+il museo della olivetti olivetti che adesso è di proprietà rimaste da vodafone poi sono mille mille vicissitudini che l'hanno portata ad essere qualcosa che non è più italiana ma ha ancora un museo ne hanno due in realtà uno che è gestito dagli ex dipendenti olivetti e
+meraviglioso si chiama
+o livrea se non sbaglio umane se non sbaglio non ne sono sicura comunque dev'essere livrea e un altro che invece quello ufficiale in quanto di proprietà della rivista noi abbiamo chiesto al museo ufficiale se ci potevano mandare i manuali di questa macchina mai uscita mai mai prodotta ma
+ingegnerizzata è costituita da oli
+per un pubblico che purtroppo non ha mai avuto il piacere di vedere quella macchina che stimano e ci hanno risposto va bene non c'è nessun problema solo due seicento euro
+siccome due
+cento euro
+e qua entra la parte politica
+ma se io non ce li ho duemilaseicento euro e voglio preservare la storia di qualcosa che ha fatto grande una nazione come l'italia cosa devo fare se io sono
+un ingegnere bravissimo ma nata in una nazione purtroppo un po' scalcagnata e in cui l'università non c'è magari non ci sono neanche le superiori tipo non so dico un nome a caso chiaramente il burkina faso è perché non posso avere la possibilità di comprare i libri e magari diventare lo scienziato più bravo del mondo
+perché esiste una società che fa sismi a problematiche eccetera in cui non vogliamo magari entrare perché non c'entra con il discorso di stasera ma il discorso dei manuali che ha fatto michela che è bellissimo rientra invece nel discorso del darwin day dà la possibilità a chi non ha la possibilità
+se io non ho la possibilità di accedere a qualcosa perché il mondo capitalistico mi costringe a pagare una marea di soldi per avere accesso a quelle maledette informazione me la prendo lo stesso dall'altra parte quindi
+da questo punto di vista arch week end
+va vabbè
+ho fatto una piccola divagazione che
+quindi orly e
+scusa il tono attimo velocemente alcuni interventi che sono stati trovato molto utile da elisa spiega raccontare interagire sulla chat è chi credo che tu mica è la conosci sia è piccoli e lisa siamo a conoscenza da molto tempo e la capezza il gruppo di
+veterani informatici
+salute dei budini molli
+perché
+i jolly allora
+telegram come ho sempre detto ai ragazzi e
+una chat che ci dà modo di poter fare argomentazione di un certo tipo abbastanza tranquilla ma ciò non toglie che purtroppo poi come è il sistema di ho preso la patente o come guido la macchina sono in italia sto sulla mia destra e faccio quello che c'è da fare
+se comunque in ogni caso ho in mano la macchina e decide invece di andare a duecento all'ora contro il primo corteo che trovo ragazzi la patente e comunque ce l'avevo voglio dire non è il discorso di telegram è il fatto e non è mai il mezzo ma come lo stile lo sgomento come si usa lo strumento vada
+se
+come giustamente lisa sottolineava dopo l'arresto di durov pare che abbiano un po' come dire non si limitato soprattutto fare le chat segrete mentre prima per esempio potevi fare una chat segreta che durava tot secondi e quindi vi è poi la lettura di andare invece adesso per esempio è molto più lenta e in alcuni casi non te lo fa nemmeno fare
+a secondo di
+del tipo di impostazione che tu hai emesso io purtroppo per questioni di lavoro è ovvio io tengo nascosto il mio numero di telefono è una cosa che consiglio a tutti i telegrammi dover tenere nascosto e quindi utilizzare soltanto un nick che però non è vero ho detto che con quel modo lì mi dia modo di avviare una chat con qualcuno
+quindi telegram no non è una
+diciamo il braccio di un polipo di vip del bel dark dark donna ma ribadisco è il mezzo di cui se ne fa uso voglio dire ci sono dentro centinaia di migliaia di carte pulitissime tante quante ce ne sono fanno veramente schifo o comunque che ti portano i link malevoli ma voglio dire perdonatemi lo stesso
+discorso di qualsiasi altro social dove ti scrive pincopalla che ti mette dentro league se mi vuoi vedere così piuttosto che cosa clicca qui e ti ributta su telegram
+no assolutamente no
+ok allora adesso beh diciamo che si sono sviluppate discussioni sulla chiappa non riporto perché abbia poi si possono leggere direttamente torniamo un po' a dark web
+che tu abbia accennato a michela che lei stanca un può evolvere nel tempo no e non soltanto tecnicamente ci sono io sono i sacchi nomi più leggibili ma anche su come come la natura fosse
+della cosa allora
+ai tempi di silk road che ovviamente è un po' l'anima no dell'inizio del perchè è stato poi così
+conosciuto il in dei conti di quanto dice darhk non vai mai a pensare appunto al discorso del manuale o al fatto di poter andare a trovare qualcosa di così utilizzabile senza farsi del male o fare del male oggi come oggi soprattutto dopo il covid
+c'è stato un incremento per dover andare a cercare persone che vendessero direttamente in chiaro quindi nei forum eccetera e con una sorta di vi addirittura sui social e quindi della serie ven
+rendimi le password della rete della tua azienda questa è un'evoluzione che non mi sarei mai aspettata e ovviamente è un'evoluzione il peggio non certo in meglio
+purtroppo ribadisco sotto il periodo covid c'è stato un grossissimo incremento e come dicevo prima il discorso di milano finanza è abbastanza chiara la questione perchè non è solo ed esclusivamente il fatto del razzo perché come diceva prima a stephen è solo ransomware e darcy
+è tutto un sistema che ci sta dietro è ovvio che poi viene veicolato di sotto però purtroppo su determinate meccaniche non se ne riesce a uscire fuori poi
+partiamo dal presupposto che già gpt che ci piaccia o no è diventata warren cup gpt
+muove comunque tutto ciò che world è un po si prende e si va sotto puoi andare a farti fare tutto quanto un servizio di ransomware e service di questioni malevole se service tipo poi ribadisco ce ne sono un sacco di link che che dico sempre se qualcuno vuole andare per andare a farsi a
+non fare del male farsi del male lo trovi perché trovi
+proprio dalle pubblicità che escono con stai cercando un hacker se vuoi andare a bucare la iphon di pinco palla o di pincopallo che ti ha tradito che ti ha fatto e ti ha disfatto sono a tua disposizione tu c'entri dentro un'unica chiacchierata con questo qua dopo cinque minuti poi però non lamentarti se ti sei ritrovato magari che l'hai fatto dalla
+dal telefonino che utilizzi normalmente
+i dati rubati o quant'altro e iniziano telefonate notturne che non riesce a capire cosa succede ho il telefono che inizia oddio santo a lampeggiare per i fatti suoi che stai andando a cercare
+lì sono anche un pochino anche soddisfatta di uno che fa così perché te ne stai andando veramente cercare per tutto il resto ribadisco hidden wiki dark night live la propublica sicur drop sicuro drop tratta di questioni di internet e di sicurezza nel dà
+li trovi delle informazioni che da un'altra parte non trovi nella maniera più assoluta e ne ho abbastanza assurdo perché non è che lì dentro ci sono cose astruse o tutto il resto però tecnicamente sono molto approfondite e quant'altro e ricordiamoci sempre in ogni caso che ci piaccia o no il fatto che chi sta
+sotto nel dark tecnicamente è avanti non mi vergogno a dirlo anni-luce dei poveri t manager o degli dei normalissimi di quelli del ced eccetera eccetera che abbiamo poi naturalmente dentro nelle nostre aziende c'è lì sotto trovi il fior fior di gente che c'ha
+capace davvero di fare di tutto e di più che se volessero per puro caso fare un qualcosa di buono verrebbero accusati dal fatto stesso che la loro conoscenza e quant'altro vogliono andare a fregare da qualche altra parte qualcuno
+ed è abbastanza assurda come situazione
+qua
+oh c'è anche radio dark e se volete ascoltare della buona musica mentre stai lavorando se nel dark c'è anche alla radio e c'è di dire di roba buona ce n'è e c'è anche della buona musica quindi voglio dire è tutto sta a voler andare a cercare quello che vuoi cercare perché
+in fin dei conti se lo utilizzi con le dovute maniere ribadisco ritorniamo agli inizi la wbm vuoi utilizzarla con la virtual machine libera e di tutti i vari sistemi che hai dei tuoi browser eccetera eccetera prima di entrarci dentro e che trovi dentro delle cose estremamente importanti e interessanti che so
+sono all'ordine del giorno che puoi utilizzare benissimo non necessariamente presume mi auguro che tutti quelli che entrano dentro hanno bisogno di andare a prendervi il trentanove
+di andare a cercarsi armi o tutto il resto anche perché ragazzi miei perdonatemi ma determinate cagate succedono solo negli stati uniti perché volevo ordinare non lo so pistola e devi farti fare tutto il giro delle dogane fartelo arrivare a casa da ora
+fotonica veramente non arriverà mai se c'è scritto qui il tuo nome il tuo cognome peggio allora fermo restando che questa è una cosa che devo dire perchè è capitata aspetta perché me la sono segnata perché c'è proprio un termine tecnico oh ecco allora c'è un link che funziona purtroppo
+che non vi darò mai dove
+al di là di andare a comprare le carte pokémon che ho scoperto essere tutto un mondo suo particolare dove ci sono dentro le carte pokémon false ahimè fate attenzione per chi ne è
+è vittima in questo senso c'è un
+sito all'interno con contenuti espliciti eccetera eccetera che fa che crea false accuse per millesettecento dollari e distrugge la vita delle persone vuol dire che vai a pigliare qualcuno che tramite social in genere inizia a curarti a dovere quindi riesce a capire chi sei chi sei cosa fai eccetera
+eccetera e ahimè siccome abbiamo purtroppo il vizio come dicevo prima dei social questa storia dello sharenting di questi benedetti bambini che vengono buttate in giro dappertutto
+geologa poi mi raccomando è geolocalizzato anche dove li portiamo a scuola dove li mandiamo all'asilo dove siamo in vacanza guarda casa uh guarda ti si vede dietro che tipo di
+piattaforma del tuo sistema di allarme molto interessante questo complimenti oppure oh guarda so come si chiama il tuo cane tutto il resto lasciamo perdere tutta questa cosa che da una che mangia coi social engineering e la noto al volo ma ricordiamoci che questi qui sono in grado di creare
+aree veramente delle informazioni malevole e allora la famosa pistola al famoso fentanil famose e richieste di droga o tutto il resto te ne fanno arrivare a casa tua
+lei simpaticissima come cosa
+poi ribadisco se vogliamo trovare il male siamo qua liste pulite non finire ciò non toglie ribadisco che ci sono anche delle cose che funzionano funzionano benissimo tu prova a andare a vedere effettivamente ritornorono meno nell'ambito
+diciamo così politico tutto quello che in effetti invece adesso in russia finalmente le mamme e i soldati eccetera eccetera stanno dicendo le cose come stanno e che quindi quanta gente morta e tutto il resto dell'anno ne sapevano un fico secco perché sappiamo benissimo che comunque in russia non hanno proprio l'internet aperto che
+siamo noi lì sotto a livello di attivisti eccetera eccetera ci puoi arrivare anche questo è un'informazione che comunque può essere portata avanti a fin di bene e sicuro senza nessun'altra problematica accessorie se diciamo che la percezione globale che si ha è che ci sia solo roba
+legale charlton heston anche perché
+anche se l'anno scorso sono anche abbastanza d'accordo con la propria schiavitù perché comunque bisogna andarci con cognizione di causa quando ci si fa ovvio se passasse il messaggio si vari territori manuali per carità abbiamo fatto abbiamo parlato abbiamo trovato informazioni importanti anche sul lavoro
+però fatto perché lo sapevamo fare in modo corretto se passasse l'informazione si guarda bene dal club
+perché è divertente ci sono dei dati che non trovi altrove anche muonici vai un po' troppo sgarza lino sui passi il termine cioè diventa un problema quindi abbiamo giusto
+quasi giustamente anche se non sono mai d'accordo sulla su come la stampa presenta tutta una serie di cose però quantomeno buona precauzione per le masse se vuoi assolutamente allora il fatto che abbia questa allure di pericolosità eccetera tranne per il fatto come ho detto fin dall'inizio che ci sono i famosi bimbi minchia
+ci vanno dentro che voglio dire comunque ce li abbiamo dappertutto no
+come abbiamo quelli che rispondono a testa di pera sotto a determinati post nei social e che ovviamente sono lieta se tutto il resto abbiamo anche quelli che ci vogliono andare perché fa figo perché fa bello eccetera poi si ritrovano davvero con il pc rotto hanno problemi seri su sul telefono
+altro e poi però
+non escono fuori è tutto qui poi è ovvio che è tanto quanto troviamo i manuali troviamo anche delle tesi che intendo proprio tesi di laurea che ci fregano e vengono vendute cioè voglio dire il bene il male comunque esistono tutte le parti no è sempre un discorso a dover fare
+oh no questo non è un post molto precedente di antonio quando suonava di come
+navigare nel dark web in modo sicuro e citava questo cube awards che ha la sicurezza
+come con la cavi con parrot che usi a non surf e centri del normalmente normalmente niente di che anche usare il sistema immutabile non sarebbe male perché quelli sono intrinsecamente più
+robusti almeno a punire manipolazioni esterne
+è quello che ci vuoi fare
+non ho mai mai diciamo un po' di profilassi per evitare contagi di no puoi avere un ubuntu sandbox vai fai brighi cancelli e torni su cioè voglio dire non c'è necessità di installare cubo e piuttosto che immutabile più
+tosto che ora live destro
+una ram una ram distro dipingere quello che ci vuoi fare da quello che devi fare da te e da mille cose non esiste la soluzione per il clan ma si può ridurre devi fare delle soluzioni diverse che arriverà un input che comunque verso il suo sottolinea
+interessante e ci mancherebbe era solo per sottolineare il fatto che non esiste una soluzione per andare sul dardo dipende da mille fattori a seconda di quello che devi fare esiste la tua soluzione e altri usi legittimi che trovate che avete fatto avete usato
+avete provato che legittimi o illegittimi non ho capito legittimi illegittimi immagino tutti a livello legittimo
+per dei clienti che sapevano benissimo che le violazioni dei loro dati privati
+ahimè per buchi delle varie asl eccetera eccetera dove ci sono dentro dati tali che se sparsi in giro potevano perdere il lavoro e tutto il resto legalmente tanto quindi con relativo mandato e quant'altro da parte di avvocato con autorizzazione eccetera eccetera
+questo per me è un utilizzo buono del dark sono andata a cercare i dati interessati delle persone e lì c'è stato un una richiesta proprio sul forum degli hacker che avevano fatto quello che avevano fatto di richiesta di cancellazione perché comunque avrebbero
+messo nei guai non la ashley che era stata bucata o la kasbah chiamalo come vuoi ma la vita delle persone lì al di là del fatto che non mi piace il fatto di andare a prendere ospedali o comunque questioni tali che vai a prendere le persone che santo dio non
+c'entrano un fico secco io ho trovato ad esempio degli hacker che hanno capito e visto che c'era una richiesta legittima devo dire che ho trovato delle persone fra virgolette stronze ma intelligenti etiche sotto certi aspetti che se io prima di diventare etica ci ho messo un filo però
+mi ha fatto piacere aver trovato dall'altra parte chi ha capito perché in fin dei conti allora non deve interessare
+non fare un'azione di forza per
+altra cosa che
+channel nel vorrei ricordare che piaccia o no c'è anonimo anonimo se spesso e volentieri ha fatto lavori laddove la polizia non poteva arrivare è andata a ripulire siti è andata a buttare giù cose così grosse e che bisogna andargli a dire grazie appunto che ci piacciono
+oh no sono
+art tu decor era un sito di quelli tremendi
+una piattaforma con vendita di bambini eccetera
+da l'fbi a tutto il resto ci hanno provato per due o tre anni a buttarlo giù se lo riesce andare a cercare ancora anonimo
+ha dato del filo da torcere fin quando sono riusciti a metterlo down e a far sparire buona parte della roba che c'era dentro ed era grosso come per esempio un altro sito che ha sempre ripulito anonimo usa era lolita city non so se ne avete mai sentito parlare lolita city
+posso garantire che iniziava così nel clear due selfie rivolto ai bambini
+e da li
+lo schifo infinito lì è anonimo per me li ha fatto del gran bene io non ti sto leggendoti anonimo museo la soluzione di tutti i mali però volente o nolente anonimo ha fatto delle cose buone
+nato hosting cioè io o metto qualcosa sul dark web immagino che alcune teorie analoghe della rintracciabilità vaga da entrambi le parti no lato client lato server se mettiamola così ma fino a che punto possono essere raggiungibile per vivere qualche parte i miei sistemi
+i dati saranno su qualche nuda fa sempre wow stanzino privato
+è prossima al traffico per esempio che esce a quello da sempre magari particolarmente evidente può dare nell'occhio chi gestisce un data sheet ram e non so se puoi avere chi fa chi mette questi siti
+a volte non del tutto leciti ovunque che vuole tenere nascosti non li mette in un dataset è normale è normale oppure puoi mettere anche in un datacenter normale fai una serie di mirror che continuano a rimbalzare a destra sinistra e vai a cercarlo
+in realtà da gariwo splende due parole che per cognizione di causa perché fondamentalmente lo faccio di mestiere e il discorso di dove si vanno infilare questi siti qua è abbastanza complesso nel senso che è già sedici da union diff
+facilmente sai dove vai a parare ma in più tu puoi tranquillamente crearti un sito normale su un hosting normale whoopi è nato e attraverso un sms idoneo quindi alla fine tu rai way amazon o pinco pallo fai il tuo sito al tunnel
+e finisce lì passando dai magari dal vietnam dal dal sud sudan o dall'uruguay difficilmente qualcuno riesce a capire che cosa c'è in quel sito a meno che non vai a vederlo ma immaginatevi i milioni di siti di video hosting che hanno questi providers se servono
+crollare tutto ciò che c'è dentro è assolutamente impossibile quindi è relativamente complessa la faccenda cioè andare a vedere dove
+fisicamente risiede un sito che ti gira su un'area relativamente difficile
+difficile chiaramente
+per gli esseri umani normali per chi ha la possibilità parliamo qua di polizia postale in italia voi in italia rischiano polizia postale giusto non sbaglio perché
+io io vivo in un'altra nazione quindi abbiamo delle nomenclature leggermente diversa
+però chi ha la possibilità magari riesce anche ad arrivarci non è così semplice devi aver traccia devi seguirla inseguirla probabilmente arrivò regolatorie internazionali cioè l'internet è un'unica cosa il dark web fa parte dell'internet volentieri vi è un pezzo di quelli internet l'internet non è una regola nazionale
+non è come se nella tua nazione qualunque di li qualcuno delinque tu riesci a dire quello di adele ha fatto qualcosa lo prende lo mette in galera le regole le leggi non sono identiche in tutto il mondo ahimè
+dico ahimè perché io sono per le la confederazione il film tv it ecc è però l'unico modo che avremo che chi sarebbe colui per il quale sarebbe possibile perseguire chi fa determinate cose serve avere un'unica legislazione in tutto il mondo sapete meglio di me che è impossibile
+la legislazione in questo momento in azioni faccio tre nomi corea del nord iran e argentina poi ci mettiamo anche il buon mike lei voglia fare una rogatoria chiedergli censito in argentina è abbastanza complesso quindi
+andare a trovare e binarie al complesso nell'unione europea anche con dietro la postale non è così immediato
+mi sono scontrato da non tantissimo da lì lo so
+quindi se vuoi andare sul wiki tu prova a chiedere o meglio io facevo tipiche
+consigliare ha preso quel sito che è stato usato come come ponte in spagna ovale che vorrei
+la risposta ora che riesci hai non ti serve già più quello che madre e figlio
+tiene cocktail
+che fa il sito sequestrato perché secondo la
+la procura di un tribunale italiano vendeva biglietti di concerti o di eventi di terze parti no e qui si oscura ora sti poveri disgraziati come avete fatto niente si rivolgono a un avvocato il quale chiama me e che cosa possiamo fare beh mandiamo finito l'iter p
+perché comunque dei falliti in tribunale comunque deve aver la sentenza di assoluzione o di non fare ovunque ci avessero una sentenza che dice che così non è così cattivo a quel punto chiama tutti provare tredici ragazzi dovete viso oscurare quel sito ecco non lo fa nessuno no
+svolgerà la impostazione periodo del black list
+edificio casinò non voglio entrare su braci pare si perché potrei anche dire cose brutte quindi non
+baviera kamikaze a mente perché ma scusate sono accese lists basate su dns blacklist season e hacking se viennese hacking se vuoi che traduco
+ma da parte c'è scusa quando un no vogliono mettere un sito su una black blacklist e la piccolezza può stare berlusconi un sito a ravenna fermati e uscito nel duemilatré è iniziato quando per il gioco d'azzardo è stato obbliga tutti i provider sono obbligati ad avere un sistema di blacklist per cui a fronte
+di una lista di nomi domini ma non è ambiguo
+daniel non e nomi dominic west tu devi rimandarli o a una pagina che dice che il sito è bloccato dalla polizia dal tizio
+agonistica oppure un olio dopodomani non a black hole
+e quindi i e questo lo fai a livello di viennese il tuo provider ma se uno cambia il dns e lo vede no dipende questa cosa e d'esterno diviene sei hacking questo significa che io quando faccio una richiesta dns passa attraverso il faro del mio
+wilder che anzichè mandarla l'ip del dns a cui l'ho chiesto lo manda a lip suo al suo chef for wilder verso l'austria
+marina grande il suo servizio è esatto quindi in realtà è un po' più complicata la faccenda
+dovresti farlo via tunnel esatto quindi quella di piena in teoria scavi perché poi alla
+stata affidata una coda laiche in viene fatto di default su tutte le tue vedi emesso soltanto su quelle black l'estate viene fatto su tutto di default è in funzione di quello che c'è in black list fondamentalmente la bilancia alla black list
+igiene se hacking kernel tecnica relativamente semplice quando tu fai una querela ha un tv led quindi a www punto pippo punto it io dico sempre pippo punto di tu poveraccio che gestisce un titolo altrettanto di spam che lo sa solo lui e fai la chiamata pippo punto it quindi cosa succede che
+prima di tutto risolvere i dns e risolvere prova a chiedere ai root server chi è che gestisce il punto it ecco a quel punto ti arriva il come risposta in teoria quella dei server che gestisce i a calgary in realtà se io faccio mai hacking posso tranquillamente dire
+al risolvere guarda che non è il gary che gestisce put itm il mio ip a quel punto lì la seconda qui eri quella del secondo livello del dna gli arriverà direttamente a lip che è stato iniettato sulla prima richiesta e a quel punto il mio dns risponde al posto di quello vero qual è l
+ip di destinazione ora tendenzialmente nessun provider frega ai suoi clienti di principio e quindi il principio per cui ti dà la risoluzione corretta a meno che non ci sia un nome fortemente quindi la legge dal tribunale che ha deciso che quel sito oscurato in quel caso ti dà come risposta
+un indirizzo ip che è o centoventisette zero zero uno un problema per te
+oppure se fanno dando per buono che ti sappiamo come funziona dns ma la mia domanda è a questo punto a livello più potente della terra ti intercettano tutto il traffico sulla cinquantatré udp pine te e drizzano a jocelyn è quello di default quindi qualsiasi sia
+che i tuoi consumato localmente comunque passa per il comando da un cellulare mandi una mail sulla porta venticinque del tuo dna del tuo server post di posta personale e ti risponde il certificato non è valido perchè perchè viene reindirizzato sul webserver sul mailserver scusami se usi nella sezione a cui noi come
+con accuse di daniel sister act non escono se usi un'altra porta non ne escono più banalmente ho chieste tu vuoi da me modi bergamo per bypassare tutte queste cose qua sono will e io so però nostro caso i comodi mangiamo anche poi per tornare al punto iniziale qual è il problema che tutti
+provider
+per primo mi ricordo che nel duemilaquattro è iniziata abbiamo fatto tutte le procedure per cui arrivava alle liste pronti per metterle
+anche perché prendevi la multa ma le procedure per toglierlo non diciamo che non sempre sono state fatte
+diplomatico
+partiamo dal presupposto che tendenzialmente non le fanno tanto chi se ne frega se non vado sul sito alessandro francesco i puntocom se anche adesso è valido tanto
+se sì concordo bisogna profondi tanto bisogna almeno per quello che non capisco io voglio capire meglio la passione le questioni come di fatto questa
+blacklist in funzionato che io tempesta tavola bonariamente uno dicembre io mi metto i miei server dns esterno usb può evadere per il ministro invece musica a tutti
+bene anzi male però vabbè pazienza con me
+si può usare basta che ti prendi la luce disegna una bibbia aereo standard di fare un tunnel verso la tua webmail
+è bene allora è
+cose divertenti che vi che per viaggi di tifare o incrociare o insomma con cui aveva www aneddoti interessanti legati al mondo dark web qualcosa che non necessariamente oscuro e criminogene luminoso o anche se hai qualche
+interessante qualcosa qualche aneddoto interessante che vi va di raccontare io di cose simpaticissimi
+skills e allora vedere una mi sforzo però io andrò a ovest in pace voglio dire quando non ci siamo i terzi molari della vita lì dentro è perché hai necessità di andare a trovare cose che non sono proprio all'ordine del giorno diciamo che ci sono un sacco di persone che
+in effetti ribadisco entrano nel forum cercando di fare gli splendidi e vengono ovviamente ammazzati non indifferentemente anche perché poi ti chiedono magari due cose tecniche
+semplicissime per dover capire se sei del mestiere o no perché stai chiedendo una cosa che voglio dire come spesso capita magari nei gruppi che ti dico di facebook cosa di questo tipo che tu fai una domanda per dover avere una risposta perché magari pensi che la tua community possa dare una mano spesso e volentieri c'è gente che arriva dentro
+in questi forum delle volte ci arriva me lo concedete per una botta di culo nel senso che l'hanno trovato riescono a iscriversi e non hanno la capacità di star lì a leggersi non so magari tutte le faq dove ti spiegano guarda che prima di mettersi a fare una domanda controlla che magari quello che sta
+chiedendo da un'altra parte sono le regole fondamentali che sono all'interno di un forum e tentano magari di fare le cose splendide appunto tipo e io però vorrei sapere è arrivato uno che ha detto vorrei sapere quanto mi costa dover uccidere pinco palla cioè voglio dire ma tu in ogni caso non ti metti a scrivere una roba del genere su fb
+forum non so se questo qui ha avuto ancora per molto tempo la stessa linea telefonica ho dovuto cambiarla o se non sia bruciato completamente il pc che la cui sta facendo alla domanda perché voglio dire vuol dire veramente farsi volersi fare male cioè sei voluto provare ci sei proprio riuscito in pieno
+ho azzeccato a fagiolo ecco tutto qua
+badisco l'ho detto all'inizio i bimbi in galera un giornalista
+magari appunto poteva essere perlomeno presentati sono della testata pincopallo vorrei avere un contatto con perché guarda che comunque di gente che ha voglia di fare divulgazione anche nel darci né è ovvio che devi andare a trovare la persona giusta che ti possa dare una mano doverti spiegare le cose ma anche tu per hotel
+neanche sapere e barcamenarti e bilanciare la richiesta della tua domanda in base poi è saperti regolare conseguentemente suocero
+sulle risposte che ricevi è qua no io di cose simpaticissima in allora riformulo cose interessanti da cose farsi nicola brutte anche me pugni al concetto di simpatia
+sette perché è simpatico prenderti una scia di un altro tipo
+puoi scrivere la targa entri dentro a maggio apri
+e fai quello che vuoi questo può essere una curiosità cosa
+io ad esempio una cosa
+che mi sento di dover dire e lo spiegavo prima ad alessandro andò prima di rientrare in trasmissione io ho trovato avvilente però lo dico sempre a livello di interesse pubblico di chi ci ascolta ricordatevi che ci sono un sacco di account fake
+paul paul o chiamatele come volete che sono bucati e nemmeno lo sai che
+l'hacker di turno aspetta semplicemente c'è non viene a usare il tuo conto corrente perchè è ovvio che quando ti arriva qualcosa che stai facendo subappalti chiede magari lo digita fai fashionista no aspettano che tu abbia fatto la ricarica dell'account di paypal allora una volta che hai fatto quello
+con cinquanta euro con cinquanta dollari concept fregano ecco questa cosa io ci sono rimasta veramente male perché non me l'aspettavo
+il vostro account che finora non ci accorgiamo perchè magari scarichiamo direttamente al conto della carta di credito appena lo ricarica direttamente dell'archeologia e scoppio avios infatti infatti questa è una cosa che ha lasciato mi ha lasciato abbastanza
+perplesso
+michele la tua immagine avrei cercato anche
+sul dark web informazioni su te stessa dati documenti cose per vedere quanto delicato non per ovviamente dai vari league ci fossero stati in giro hai trovato bob
+sì certo e immagino tutti troverebbero allora che cosa diciamocelo in maniera molto chiara oggi come oggi se tu non hai un dato sul dark non sei nessuno
+e come ai tempo
+garanzia sant'iddio se siamo noi un avviso di garanzia non eri nessuno cioè adesso diciamocelo chiaro e tondo te
+una denuncia no niente ho sempre ti ho semplicemente avuto o i dati della carta d'identità online dentro nel dark perchè hanno bucato
+la compagnia aerea c usufruiva normalmente uff chiuso stop che ci devono
+ma questo infatti lo immagino che noi a parte i e-mail
+ehi raga ryan email oramai c'è ma neanche la questione opinione anche se il garante coloro che ama dato personale sia per la varicella è un oceano codice fiscale oramai va bene che miguel
+hai vissuto qualche simpatico giorno di goliardia insieme me prova a fare la faccia che fanno
+i nostri clienti quando gli diamo le loro password
+è così
+più o meno come lo è
+nelle ne quando poi si accorgono che sono valide e valgono anche militari come amministratore dei loro sistemi reliquia se c'è tutto un discorso dietro però tra i vari servizi che fanno delle compagnie di osint adesso non so se anche michaela lo fa è quello
+di fornire ai clienti baal vedo ti vedo niente ma immagino
+di fornire ai propri clienti quelli che sono le credenziali rubate e che sono tra virgolette pubbliche sul dark e in realtà non è che sono esattamente pubbliche spesso e volentieri vengono pagate da qualcuno che poi le rende pubbliche quindi che cosa succede qual è la trafila io
+buco linkedin di colin perché è successo non perché voglio parlare di bio di cima perché for probabilmente uno dei più famosi league che ci sono prendo tutte le password tutte le mail e le passo che ci sono manda un miliardo di mail a tutti gli utenti linkedin come dicendogli ciao o p
+preso possesso del tuo computer questa è la tua password cavoli è vera perché è quella che vedi league kevin e jo mi paghi un bitcoin oppure io rivelo
+con la webcam che nei siti brutti e cattivi
+chi è che non ha ricevuto quella mail ormai è talmente
+el attar che mi arrivano decine al giorno
+outlet woolrich e abbiamo bucato dieci volte venti volte la cosa divertente è che noi sappiamo che c'è una certa percentuale di questi due signori che va alla polizia a denunciare il fatto che sono stati bucati perché le è andato la password non è vero non li hanno educati non è vero
+e anche la polizia poverina ha fa un po' fatica a cercare di spiegare persone che magari non hanno una grande competenza informatica figura che è stato il leaker di quell'altro non è colpa tua è
+è veramente lì è veramente dura ma anche ad esempio
+bello il commento della claudia scusa
+sul pianeta e virtuoso claudia ciao cla
+lei sa è vero è impressionante c'è tanta vantaggi che questo è quel dataset che è ormai cosa otto dieci anni una decina d'anni tutte ma credetemi se sbaglio e ci sono ancora delle copie login password che sono utilizzabili da quel mercato meritata sette
+sono anche le password in chiaro del loghi di l'inquilina degli utenti
+no make-up di un di questo league dove ci sono in chiaro e nel leclerc famoso dell'intelligence
+relativi numeri di telefono controlli esattamente però attenzione io ho detto linkedin ma perché è famoso perché successe public house occupare un elenco non finirà
+sollecitare municipale ottenere valide o delle slide mese per mese da cinque anni a sta parte ogni grande azienda viene evocata in quale mese e quando
+il dataset vengono resi pubblici oggi oggi io non so quanti ce ne siano sul dark web in realtà però fra i paes been fra league public fraile pagati ma poi recuperati eccetera abbiamo circa quattro miliardi di coppia login mail
+topic allora tutti lo conosceranno fra quelli hanno scusa questore fatto quelli che ci seguono però va da stephen holder è un sito che ha lo stesso database che noi usiamo per i nostri clienti ma che a differenza nostra non ti dice le paso ti dice se la tua password è
+è stata compromessa quindi se tu quando lo fai login che allo stesso fondamentalmente che utilizza chrome alcuni browser
+aggiungendo la funzionalità ti dice la tua password è stata compromessa se per esempio io riassumerei a quello avrebbe riso però siamo a livello di keynes cioè non ti dice quale gatto che in realtà quelle password solo in chiaro sono affini una vecchia conoscenza globale e quindi
+nel momento in cui arrivi in ponti dice la s la tua password è compromessa cambiano immediatamente faccio una piccola parentesi anche qui
+come fa un cattivone a trovare la password di un account usa un sistema che tendenze tendenzialmente siamo nella versione sfigata e wannabe hacker è il bruteforce king quindi io prendo led
+perché gli è comunque un modo o nell'altro non puoi recuperare facilmente difficilmente non lo sto a dire però si possono recuperare e incomincia brute force cioè acres a cercare la combinazione di una password che generi lo stesso di quello che è salvato nella tua login e la tua
+perdonami ma tante volte veramente basta andare a vedere quattro volte il social della persona interessata leggi in nome del
+il nipotino e tipo l'inter c'è veramente io ho trovato delle cose ansimò te questo ovviamente è la versione due chiacchiere un po' più elevate sto parlando della base gara cosa fai prendo
+il file con millemila password che elohim che ci sono lasciate e prova a bruges versarle ha una faccia per versare allora se tu hai la password decente è difficile cioè deve avere veramente la potenza di calcolo pazzesca per riuscire a risalire la tua passo dovrai fare milioni miliardi di combinazioni minuto
+è piuttosto complicata ma che cosa fa il cattivone prende un bellissimo file che è derivato da tutto ciò che sta nel dark web e quindi tutte le passo ormai utilizzate da tutti gli utenti ma i capi di tutti li' mai ricevuti e si chiama che se ne crea un dizionario
+dizionario lo lanci e io cerco quella quindi nel momento stesso in cui una password è stata dedicata non a te ma a chiunque rientra nel dizionario e diventano apparso da buttare via perché in cinque minuti della ragazza questo è abbastanza interessante al momento condizionale dom
+se mi dicono io non lo so
+no
+è importante che la gente che non è veramente addentro ai meccanismi di hacking di security capisca che la password non deve essere mai uguale a qualcuno già usata diciamo motivo perché rientra nel dizionario non deve essere mai una parola sia stato
+perché rientra nel dizionario non dev'essere mai qualcosa di intellegibile o di riportabili ai social tifo l'inter eccetera come giustamente e correttamente michela perché rientra nel dizionario o comunque rientra nella quello che noi chiamiamo osint dell'open source intelligence carta ma fondamentalmente tira a caso una ventina di caratteri e ogni sito di
+verso il problema non ce lo dicevano massimiliano infatti io ho trovato ahimè
+in assoluto il re
+tenga lei stesse la stessa mail
+dieci mail con lo stesso con la stessa password c'è assolutissimamente una cavolata fotonica però folle no ma è corretto anche quello che dice massimiliano adesso visto il commento
+sì il problema stesso passo per servizi diversi questo significa che se tu usi la stessa password ceduto ancora lì che viene sempre per non fare troppi nomi no perché mi ha fatto un usiamo quello hai usato la pasta working per la tua banca io vado nel dark web trovo li' linkedin beco quella pace quella associazione
+di login provo a loggarmi in tutte le banche del mondo pam mentre nella tua e ti porta dei soliti usare sempre password diverse su ogni servizio di chat
+allora come si è accennato prima il discorso finché password da associare tutto quanto non ci sono livelli livelli di pericolosità di esfiltrazione di dati che possono riguardare le persone è appunto in skate seduto fuori anche il discorso delle asl
+e e poi mi ricordo anche recentemente come sono quel laboratorio di analisi che è stato pesantemente
+francese
+allora domanda non so quanto e se sta facendo qualcosa visto che ormai si è visto che come giustamente scritto claudio e ce n'era anche prima valerio e sulla sicurezza delle asl cede o meno dei dati sanitari e
+ecco bravo sillaba come dicevano anche noi
+c'è c'è qualcosa di attivamente fatto che voi sappiate per migliorare perché io m'immagino che essendo hai obiettivi molto sensibili e meno già punire i casus belli accaduti più volte con qualcosa che avesse mosso siamo ritornati al discorso della nis due che è obbligatoria
+per le amministrazioni pubbliche e ovviamente
+hanno adesso come adesso molto probabilmente un pochino più richiedo scusa per l'espressione il pepe al culo però così è perché adesso ai piani alti iniziano a essere delle cose importanti perchè tu se sei un amministratore pubblico e ti bucano e te ne sei fregato
+non hai seguito e non hai fatto e adesso tu sei responsabile effettivo perché il povero disgraziato nel diploma in fin dei conti si poteva essere assieme a te è corresponsabile eccetera ma adesso se ti becchi sei mesi anche tu di sospensione molto probabilmente ti becchi anche sei mesi di mancato guadagno e
+oggi come oggi fin quando probabilmente non ti venivano a toccare il pantalone te ne fregava un pochino
+forse molto molto forse questo sistema potrebbe dare una botta in più fermo restando che io ho un cliente che un'amministrazione pubblica e un anno e mezzo che sto cercando ancora ad oggi di parigi digerirla g di piano perché ancora non si sono messi d'accordo con la gpl e ti sto parlando oggi di pierce
+un po di anni che produciamo
+e la whistleblowing è un pochino che è stata avviata o gay e adesso siamo con la nir due e ancora dobbiamo finire con la pia apro apro una piccola parentesi perché io come sapete non vivo in italia vive in una nazione dove il responsabile dei dati in caso di fuga
+note responsabile personalmente e non aziendalmente quindi la multa di circa duecento mila franchi che sono più di duecento mila euro e alla persona non all'azienda quindi se tu sei il di più in svizzera ti posso garantire che non vivi sereno
+guarda io lo faccio da cyber security manager in una holding ti garantisco che io non sto vivendo serena perché tutto quello che ho sempre messo per iscritto che rientra anche nel discorso del duca perché alcune dati io li ho trovati nel dark che ho comprovato che c'erano dati nel dark
+fino a che non abbiamo fatto la prima parte di formazione dei piani alti per il discorso della nis due è stato un continuo sbattersene delle scatole adesso invece hanno tirato su le orecchie e ribadisco dovrebbe essere così un pochino per tu in fin dei conti non è il problema di
+quando sarà che vi potrebbe capitare no discorso e quando verrò bucato c'erano quando sa quando mi bucano perché tu puoi essere tutto quello che vuoi io le aziende che segue o palo alto e cortex che non è proprio proprio la schifezza uova
+che non finisce più però in ogni caso devi stare all'erta a parte il fatto che comunque in ogni caso come nel caso del dark web e chi sta da questo lato dello schermo che si fa danno da solo lo stesso discorso in un'azienda perché tu puoi avere tutti i sistemi che vuoi ma il burlone di turno che va a cliccare
+che comunque insiste va avanti e poi magari ha la mail aziendale sul suo telefono personale e fa da anni perché nel telefonino ne ha fatte d'ogni e poi vendere la wifi password perché la ma abbiamo l'esempio settimana scorsa a disney certo certo
+society
+scusami manca ancora di disney cos'è che succede in rete c'era un dipendente che aveva il suo computer di gioco con anche slack è praticamente scaricato dei mod più piratati
+erano per un videogioco piovevano un malware trojan in realtà se vogliamo essere precisi per cui hanno preso possesso del computer computer collegato slack la cera un'inefficienza da parte degli amministratori di slack che hanno dato a qualunque utente la visione di tutte le chat quindi non c'era un conce
+getto di privi di privilegi e quindi lui quindi questi qua sono scaricati tutti i progetti e tutte le cose a videogiochi ha dati a film cosa hanno scaricato tutto e l'hanno messo anche su slack la questione del prompt che riuscivi a fare per tirar fuori le
+password di tutti i gruppi che ore sono solo dettagli ma ho sentito anche league
+bellissima evoluzioni e hai la targa e su sylar
+beh ne parleremo a tempo debito
+regala un mondo difficile io vi devo salutare fa con piacere
+ciao stefania grazie per la cena
+ho montato un po di cose però
+abbiamo un po' di problemi di salute dobbiamo scappare perché domani mattina sveglia alle cinque e i suoi amici
+va bene buona fortuna nella prossima stagione
+hey buonasera ciao ciao ciao ciao ciao
+allora michele so che anche tu devi staccare entro le ventuno i tre quindi comunque fra poco chiudiamo se qualcuno ha domande da fare in chat prima di chiudere fate pure e
+ma non solo intanto sullam visto che abbiamo parlato con cambiamenti della nis due due è stata pubblicata a fine duemilaventidue
+è stata approvata ad agosto di quest'anno e voglio dire e ci si deve adeguare entro no non è allora un giorno no lo stato deve deve ricevere perché nata innanzitutto scusate faccio un attimo una discussione direttiva rispetto a regolamento regolamento di pierre c'è già
+tutto dentro per cui tu lo prendi lo traduce in italiano se non è già prodotto e gestito tutto ma mai da inventarti niente su come su cui su chi deve adempiere cosa devi fare e quali sono i problemi c'è tutto finito direttiva no ogni stato deve recepire la direttiva è fare la sua legge
+già la legge dovrebbe la scadenza è il diciassette ottobre lo stato italiano ha fatto a luglio non mi ricordo il giorno esatto sui dieci o ventidue mi ricordo di quest'anno ha fatto una bozza che è un casino per come fatto in questo istante perché ha una serie di opere tendi
+scusami
+ne parlavo con con un avvocato proprio l'altro giorno che si occupa proprio di queste cose e il problema è che mentre teneva mentre ci dovrebbero essere delle categorie chiare di chi deve stare nella mistura chi può non avviene
+la tutela e invece hanno fatto un casino per cui non si capisce più chi deve essersi chinò reset tra l'altro lo stato italiano orgoglio ti interrompo perché io farò una puntata suona il rock è rimasta sicuramente è
+velocemente però a quali aziende si applicherà tutte quelle fan sean sanità national cioè non adora non confondere o nell'altro cose se no vai sono le aziende considerate critiche quindi tipo per la medicina crow ci sono
+dei chiedevano devi essere non un settore considerato critico o cose c'è la difesa amico molto fondamentale
+la cosa del tuo
+tipo un'azienda che fa produzione che comunque fa anche un servizio di datacenter che fa per esempio produzione di acciai alluminio eccetera eccetera che comunque in caso di loro considerano il fatto che noi siamo in guerra e che comunque il fatto che buttano giù le nell'europa di questo genere la produttività va a pallino ci chiudono
+blindano via quattro acquedotti non abbiamo più l'acqua e abbiamo problemi c'è tutta una serie di cose di questo tipo
+la viabilità tutta questa roba qua approfondiamo allora ci comanda da giuseppe che abbiamo già risposto faccio brevemente riassumendo gestione di password in teoria credo password ma poi correggetemi se sbaglio password manager con password random mai lunghe e la cosa attualmente più adeguata da fare se non vuoi usa
+un password manager la logica delle password e non usare paso che sono legate parole non usare password
+usa meno lunghe di dieci caratteri tipo con lettere e numeri maiuscoli e caratteri diversi così prima spiegava a stefania è più difficile trovare esce corrispettivo di quelle password non usare la stessa password su menu account diversi e ditemi voi cos'altro
+si può raccomandare a livello che sia ragionevolmente io però credo che alla fine un password manager come anche quelli integrati adesso con le ad esempio utilizzo bitwarden che in ogni caso quando vado a creare la password richiedono comunque di controllarvi in effetti ne va controllare il discorso del laser sia stata caratterizzata da altre pa
+parti per una cosa abbastanza corallo bitwarden buon password ce ne sono diventati vorranno vocata anche a kenosha
+avevo notato ma scusa però perché la sua password spezzo una lancia nel senso che io uso una password sul cellulare o la vecchia versione che mi permette di averla solo in locale appunto e allora visto che le donne non l'hai aggiornata e forza
+perché sennò andava a scrivere sul suo cloud piuttosto che su altri claude ed è stata bucata però scusate è stata bucata ma in teoria è il dato è crittato su un roster è vietato sui loro artisti ed dovrebbe essere dovrebbero navigare sono james
+parole coglioni
+la prima che hai detto
+coro delle voci bianche
+così eh no non puoi non puoi buttarla così
+fammi capire
+accertati dato cazzate non è il mio database lei con le mie password ma aspetto è stato bandito poiché quanto tempo pensi che ci si metta a fare una decriptazione di un database mamma con le chiavi sono abbastanza lunghetto e quelle per noi è ok va bene o
+se vuoi rimanere convinto stasera fai pure
+dormire così tranquillo e sereno io
+voi almeno riuscivo ad addormentarmi il caso
+non critica cambiare tutte le password i trenta mila ceppi diversi
+e a cui neanche malpasso sa che credevo fossale soltanto passano come schema l'altro che becky bucato recentemente sempre il password manager perché non è il primo voterà afghano a sei
+sandton un'altra che è stata imbucata è stata quella bitwarden regge roger tasca gay
+claudia passerà anche questo
+mauro giavarini ciao quanto sono importanti e tanto ogni cartella clinica all'interno di un forum dark vale anche fino a cinque mila euro soprattutto se ci sono dentro dati che riguardano ahimè tumori cancri cose di questo genere e sistemi
+interessano molto addirittura le compagnie farmaceutiche
+spesso e volentieri la compagnia farmaceutica dovrà cercare
+bene anzi male se giuseppe sono questi password manager programmi di gestione randon puoi anche generare password random o ti salvi le tue password e il problema è che se ti bucano esiste il tuo programma è un problema soprattutto se i dati di questo programma come appunto si diceva prima buona password sono salvate sul cloud e quindi
+volete giocare mentre il tuo compiuto una buca ogni server che ospitano i tuoi dati e i boccioli o che è l'ultima domanda per te micaela domanda che sei utente di bitwarden seme americano europeo a questo punto ho a questo punto meglio locale a locale è sempre meglio secondo me
+poi però voglio dire che sia americano europeo non è che cambi un granché
+va bene allora intanto se va bene
+direi a questo punto che possiamo chiudere qui e
+grazie grazie micaela sei stata fantastica grazie domenico gas estetica è intervenuto prima e grazie a tutti quelli che ci hanno seguito in chat
+è bella puntata e direi che non andrò a casa tranquillo però ci sono già a casa non tornerà tranquillo torpore notizie salvini una password non devono avere più forza amica ha preso necessariamente tuo database li chiamano lei
+ecco esatto non suggeriamo l'ho tanto ah beh meglio consapevole che è bucato diciamo così e grazie a tutti e alla prossima a presto
+serata e buona continuazione ciao cosa
+ma
+ma
+ma
+ma

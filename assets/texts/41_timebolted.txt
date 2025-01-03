@@ -1,0 +1,557 @@
+e quindi siamo arrivati alla puntata quarantuno della brigata degli estinti in cui parleremo di comunità informatiche lo faremo con chi queste comunità le vive e le organizza le porta avanti le fa nascere crescere ed espandere e per cui senza o interiore
+ulteriori indugi chiedo subito in ordine di come li vedo io sul mio scerbo di presentarsi quindi davide procedi allora tutti
+oggi sono in versione no voice
+altro che the voice e io sono davide imola sono un software engineer lavora per un'azienda svizzera di cybersecurity ma nel mio tempo libero perché si non sono masochista sono community manager per schrodinger attica è una community di svi
+gruppo attori e sviluppatrici che fa progetti open source
+siamo anche organizzatore di eventi tra i quali l'open source dei a firenze grandissimo giorgio che già ci conosciamo questi schermi ho passato qualche settimana fa sono torto faccio il community manager di google sono uno sviluppatore ho passato varie
+uniti che non c'entrano niente con l'informatica prettamente fotografia e creatività cosa di questo genere
+da ormai quasi un annetto dieci mesi sono ti
+possono salvare prossimo alla prossima
+allora richiesta una miniera eccomi program manager europeo
+codemotion e faccio parte di anche tante altre community come quelli di google group è meetic niger e nel corso dei
+sono sei o sette anni che sono in questo mondo è organizzato tantissimi eventi con tantissime community su angry birds flutter dedicate anche proprio al community management e quindi
+vivo a trecentosessanta gradi ecco questo questa domanda veterana direi pure edo edoardo ciao sono edo sono dovrei star fabric da
+quasi un annetto e sono un intruso mi ha mi ha infilato alessandro in questa live ma io non faccio community non lavoro in una community e
+non so che cosa avrò di di valore da portare questa discussione ma ce la metterò tutta quindi
+grazie per l'invito grazie a altri a voi tre alte che siete qua più così informati sui fatti di me ad animare questa discussione io cercherò di portare della caciara ho quindi cercherò di abbassare il livello quando vedo che si sta alzando troppo io cercherò di sabato me lo vedo tu con teli igienici come spia
+che era alla fin fine
+tutti gli eventi
+quindi se anche un vero edo per cui se non è usato
+guarda potremmo dire che non c'è evento in cui non ci vediamo tra di noi perché ormai le facce sono sempre quelle
+da un po' c'è una ragione naturalmente per questo è una ragione che è molto sensata però effettivamente è vero che il ricambio c'è poco insomma quando qualcuno prende il via poi tende ad andare a riciclarsi abbastanza spesso
+così soprattutto in una in un mercato abbastanza piccole tutto sommato come quello italiano al giro delle coppie italiane una domanda un po' frizzantina e provocante non è che allora queste comunità non sono poi così aperti se siamo sempre gli stessi a rivedersi no no no tutt'altro le commedie sono aperte il problema è che sai siamo sempre siamo sempre gli stessi tra virgolette cioè c'è un
+alto riciclo ovviamente di speaker perché fare lo speaker è un lavoro tra virgolette comunque un task impegnativo è abbastanza impegnativo cui una volta che tu inizi una certa opera prepari un tool per fare una cosa insomma una volta che tu prendi l' avvio in questo senso sfrutti le tue le tue nuove spille quanto più possibile dal
+lato invece di chi organizza le cose questo poi mi sapranno dare conforto anche gli altri tre diciamo facile affidarsi a chi ha un track record di tokyo già fatti e insomma poi si sa che può portare un diciamo
+medio valore abbastanza garantito alla compton che affidarsi e saltare totalmente nel vuoto ed è per questo che in questi due fattori e tu hai una certa percentuale di speaker che vedi ritornare a telecom ma se diciamo che ci sono due due aspetti uno sicuramente la tipologia di speaker
+che essendo che si è fatta anche una carriera possiamo dire no comunque riconosciuti anche a livello internazionale di lato organizzatore farlo di lato organizzazione eventi no tira comunque una certa tipologia di pubblico allo stesso tempo insomma il nostro ruolo è anche quello di bilanciare dare spazio anche a persone che magari non hanno
+ciao sono nuova in questo mondo magari così per esempio abbiamo fatto già da dal secondo anno che facciamo a codemotion milano è un programma di di svizzera dove il nostro team di ambassador fa da mentore per persone che non ha
+non sono mai saliti su un palco e quindi c'è un percorso di strutturato di in cui nuove persone che vogliono magari cimentarsi nel mondo del public speaking vengono seguite nella strutturazione del tuel fare le prove eccetera
+di che c'entra e per fare un po' in lightning teorica sul un palco di codemotion che come tante altre conferenze e un palco internazionale e per dare un po' di respiro anche a nuovi membri
+che magari hanno voglia di intraprendere questo percorso che non è per nulla banale come diceva aereo perché richiede tanto tempo tanta dedizione e soprattutto anche viaggiare fisicamente per conferenze e non è banale né in termini economici né in termini proprio banalmente di di tempo perché impegna
+tivo è come chiamare in questo senso per quanto sia fantastico
+sì anche perché gli speaker fanno anche magari un altro lavoro nel mentre quindi
+devono farsi approvare il fatto che vanno alla conferenza
+che dopo le volte viene anche coperto da l'organizzatore
+il più delle volte però comunque devi farti approvare il fatto che tu stai andando là per fare la conferenza
+un conto è tipo magari vedo che lui come lavoro fa il deve fare proprio relationship e quindi ci sta lui vado alle conferenze e sarebbe strano non vederlo io che faccio il software engineer io vengo pagato per fare codice non vengo pagato per
+andare a parlare a una conferenza quindi è anche quello difficile da da trovare perché comunque la gente si si si ci tiene perché ha paura anche di proporlo in azienda magari però lo direi quest'ultimi delle assunzioni di quest'anno o al mio primo anno che sono in questo mondo e da quello che ho visto o vissuto
+significa che erano alla primissima esperienza questo gli ospiti che era la prima volta che parlavano erano super agitati super emozionati perché non avremmo messo sul palco e poi hanno fatto delle sue figure e quindi non direi che è chiuso e che ovviamente è un po' più di esperienza come le dolomiti molto spesso perché sono delle certezze ad un uccello una conferenza qualcuno di
+esperienza qualcuno che ti rappresenta un po' la certezza ci dev'essere però io bene o male tutte le conferenze che ho visto quest'anno ho visto persone che erano alla loro prima esperienza globale sono quelle del gusto in generale
+spoiler
+io quest'anno ho iniziato a fare conferenze
+la mia prima conferenza è stata l'idea del green
+la mia prima esperienza allora in realtà non ho fatto la prima esperienza prima live con un web developer è una community europea gigantesca famosissima che mi avevano invitato a fare il devops day
+perché loro fanno tante conferenze virtuali e poi c'è lui developers a berlino e io ho fatto prima un tour virtuale e poi ho fatto tipo mise dopo idea che è stata la mia prima conferenza in presenza e anche prima conferenza come speaker così ho deciso di bandiera
+non puoi sbagliare così assieme poi devi devi anche metterti nei panni del pubblico no che va a fare un po' una cernita delle cose che ci sono dice dove vado si crea anche una sede una certa affinità tra pubblico e speaker no quando uno trova lo speaker che gli piace per come racconta le cose per i temi che affronta eccetera
+magari è anche più portato andare a una conta se vede il suo nome nella line up è normale funzioniamo così tutti lo stesso paio di lecco quindi è un po' come per esempio vuoi ascoltare che ti piace esattamente alla fine non non prendiamoci in giro non è che si va alle colf solo per spirito di community o perché c'è un tema che interessa è anche
+c'è chi sta parlando chi cheng in-app è per questo che grosse conf internazionali come wade vero perché citava davide ma chiude con altri di questa grandezza hanno una line up con speaker giganteschi è ovvio che attirano pubblico ma è normale che sia così ed è giusto che sia così se alla fine l'essere un
+non funziona così no le rockstar del mondo informatico una cosa si chiama masi resto non ha ovviamente un po' diverso però in un certo senso sì
+c'è chi ha piacere andare a vedere qualcuno con cui si è trovato bene insomma che segue con piacere e ci sta che magari non ha mai avuto possibilità di con cui
+di parlarci e quindi magari lo segue sui social che questo genio
+live eccetera eccetera e li hai l'opportunità di poterlo andare a vedere anzi a aree centri
+misano opportunità
+perché magari ha plasmato l'informatica come la conosciamo adesso ha creato progetti che hanno rivoluzionato il modo di concepire qualsiasi cosa quindi
+magari sei anche interessato a capire cosa dice e magari trarre più cose possibili per anche accrescimento personale magari poi mi sembra che ci sia disponibilità se io quello che ho visto è che c'è sempre disponibilità cioè gli speaker vengono ma poi sono sempre i primi a volersi fermare dopo aver
+pubblico qui
+lo stesso quello è
+una cosa per cui la gente partecipa perché sa che ti vede sa che ti potrà fermare opaco raccontare sospeso che sia qui anche il motivo per cui chi può io durante il covid di on online personalmente non ne ho fatti perché c'è quello che ti piace di più agli speaker e alle spiegheremo il contatto e il feedback diretto da parte di
+pubblico no che magari un agente poi ti ferma dopo e fateli lì a parlare ancora magari delle ore a fare domande città eccetera quello e poi secondo me il ringraziamento visto che non credo che siamo i livelli per cui ci pagano per fare questa cosa nel senso col casello questo genere di cose e dove sia chiaro scusami
+sono ancora un po' più bassi funzioni come livello
+ma ci arriveremo magari un giorno chi lo sa
+validamente
+è
+e quindi alla fin fine questa è la gratificazione che abbiamo nel contribuire nel condividere quello che sappiamo le nostre esperienze ci eccetera non
+è molto l'approccio umano è fatto di vedere fisicamente che abbiamo avuto un impatto sulla vita delle altre persone su un dato degli spunti le idee ho questo si fa
+si perché fine nel base di questo servizio di wilson una community che adesso siamo partiti subito per parlare di eventi perché siamo tra organizzatori di eventi fra i eventi diversi ma uniti non è solo eventi però è forse una delle cose massime in cui la community si identifica
+perchè alla fine
+fatelo momenti di aggregazione e usato l'evento è il più grande momento di aggregazione di comunità diverse
+perché organizzi l'evento si presentano
+anche più community anche community magari no no non non organizzano eventi ma che gli fa ah no magari cambiano e sawyer discord canali su youtube e così via che magari loro hanno la loro fetta di pubblico hanno la loro fetta di community di persone che fanno parte di o che sono interessate al loro argomento
+e che poi dopo si rincontrano tutti in questi momenti di eventi che fate io mi sono innamorato degli eventi
+un momento bellissimo perché conosci tanta gente fa i contatti sicuramente molto interessante poiché non si brutte persone come queste qua quelli che ci sono in questa chat
+no dario
+è bello stare online avere la community su discord su slack tutto quanto però secondo me quando incontri dal vivo è tutta un'altra cosa cioè nel senso proprio che vedi una persona dal vivo e se sei in un modo e poi completamente diversa resa questo scrub me è un'esperienza che vale la pena e poi quando se ne possono scambi
+stabilire maniera diversa e molto più tutto molto più vero e vivo senso viva le comunità online però viva anche gli eventi non sono le conferenze anche di persone per andare a mangiare una pizza
+tesoro se si sia ovviamente
+quello è vero però per le pensi in modo diverso infatti tipo dario che è partito prima in chat
+partitella io l'ho conosciuto precedentemente avevamo fatto amicizia parlando facendo robe open source poi a haidi ho avuto la possibilità di conoscerlo di persona perché eravamo entrambi speaker totalmente diverse
+è
+persona seria
+sembrava una persona seria
+no no non mi sono divertito un sacco sono sono quelle cose che bello conoscersi online bello fare tutto online però quando dopo si ritrova più te lo becchi lì e puoi andare mi dispiace per gli estremi bersi una birra o anche qualcos'altro che sia analcolico nel caso è sempre molto divers
+attente anche scambiarsi due chiacchiere a salutarsi e cose così molto molto molto bello alla fine
+credo che siano due strumenti no online quello che chiaramente abbattere tutte le barriere quindi può essere utilizzato più per magari tipologie di problemi impellenti piuttosto che connettersi più facilmente e più velocemente magari più concentrata anche sul conto un mutuo vediamo in questo senso qua e sulla sostanza intesa come
+contenuto mentre invece offline e più coltivare relazioni perché puoi community questo nome
+va bene il contenuto ed è giusto che sia così però alla fin fine fare complimenti vuol dire crescere insieme coltivare e crescere relazioni e le relazioni ci possono essere dal mio punto di vista
+e possono crescere solo nel momento in cui ci vediamo fisicamente c'è tutto il mondo della comunicazione verbale paraverbale e non verbale l'empatia cioè certe esperienze si possono vivere solo in presenza non non tramite gli eventi online o anche tra un server discord perché si possono sviluppare tutta una serie di dinamiche
+durante un evento totalmente imprevedibili che per esempio in un evento solamente online non si possono sviluppare cioè il fatto stesso di andare a prendere un caffè dietro di te e magari sentì una battuta inizia a interagire con l'altra persona cose banalissime che però poi magari
+fanno crescere un sacco di opportunità e poi ci sono quelle conoscenze proprio da conferenza per cui magari per anni e anni vedi e rivedi magari all'estero quindi dovendo online magari altre possibilità di incontrarvi però sai che in certe conferenze vittorie su otto che un minimo mera conoscenza ha infatti infatti
+esempio io vedo in realtà è un anno poco più di un anno che ci conosciamo
+che ci siamo visti dal vivo
+un anno di relazione
+di redazione roars
+i momenti passati insieme e scambio che c'è stato durante magari inutile non non ho non ho co
+tutte le volte che ci siamo visti mettiamo in questo senso però sono momenti talmente intensi perché comunque si passano uno o due giorni insieme non dico acca ventiquattro però comunque già solo le otto ore di conferenze che possono essere sono già e già è già tanto tempo che alla fin fine eh sì quando ci siamo detti cavolo passato heights
+giusto giusto un anno adesso sembra invece passata tipo conoscersi da da una vita no quindi io ho spesso questa tipologia di sensazioni dicono di vedere non è proprio una persona magari dopo due o tre conferenze conoscerle da una vita sembrare ci si conosce da una vita intera mentre invece ti sei visto tre volte e in questo segue esatto
+quindi effettivamente è vero cioè io e michele siamo stati solo a diverse conferenze ma io so già che lei e l'ambassador decisione cioè
+se quello che seguirà podcast e
+comunque sia nel vero senso monumento allora parlando di conferenze però non c'è di conferenze e a voi che lo organizzate è anche in relazione quelo che siamo detti prima su sono sempre gli stessi però in realtà non sono mai gli stessi c'è sempre perseguono in questo modo e così via che sono d'accordo in realtà io ho fatto una collocazione ma apertura di for
+nelle comunità informatiche e un desiderio di interagire intersecarsi in qualche modo mi interessava però avere qualche informazione un pochino magari di prima mano da voi che lo organizzate su
+bene o male quante in una conferenza quanta gente nuova c'è quando magari dei chiedete quanti sono quelli che poi le nuove leve che di volta in volta vengono mi è piaciuto che io e george abbiamo fatto la stessa osservazione
+si può salire lotta che brembana
+no no io ho una cosa da dire certo senso che non so quanti sono quelli che sono nuovi e però forse si può produrre dalla scarsissima presenza di giugno quindi sono pochi almeno scarsa comunque sono pochi i junior che partecipano alle conferenze e quindi deduco che se sei giugno
+questo dato da dove lo prendi scusa giorgio dalle cooperative gruppo al compratore gruppo perché sono pochi giulio bisogna anche vedere cosa si intende per giugno l'allora loro come si definiscono ok
+noi facciamo i sondaggi guarda ti do ti do un dato assolutamente empirico all'ultimo cos'è la te
+che dove speaker alla fine giulia ha chiesto così
+al pubblico quanti fossero per la prima volta a react-eu ed era praticamente quasi tutta la sala cioè non so se fosse il primo evento di tutti ma di sicuro era risaltano rat
+read gesti che magari non vuol dire niente
+dei nuovi arrivati non eravamo arrivati ai non esperti in materia erano no ma più che altro non erano che era gente che frequentava da poco il mondo delle colf
+magari aveva fatto dei meetup delle colf
+diverse da groupe però per la prima volta veniva al cda quindi non so esattamente i numeri però vedendo le alzate di mano in sala ecco erano davide ci sa dire qualcosa di sorriderà
+perché appaga più di un altro ti do un altro dato assolutamente empirico perché ero ero alla festa torino questo weekend e c'erano un botto di studenti delle università
+erano lì a seguire l'evento chiaramente le feste eventi gratuiti
+è una cosa un po' diversa però venivano lì proprio per la prima volta a vedere un evento di questo tipo io per esempio quando l'università non sono mai andato ad eventi o metà facevamo più che altro degli eventi organizzati tra di noi universitario e tu andavi all'università non facevano ancora le conferenze no non è vero non è vero c'erano c'erano i lug c'erano alcuni miti
+c'era qualcosa però eravamo ramon diciamo che eravamo un gruppo non dico un gruppo chiuso però ci piaceva organizzare le cose università avevamo un botto di roba da fare ed i giochi da fare soprattutto e quindi restava molto tempo tra di noi chiamano così e però ecco invece ho visto tanti ragazzi appunto università ma hanno detto johannes
+la sua università e ho visto che resta del festival non so cos'è però sono venuto qua è gratuita quindi ho dovuto vedermi anche piaciuta quindi un pochino di gente che si affaccia al mondo a questo mondo c'è chiaro the fest ripeto sono eventi gratuiti un'altra cosa però mi pare che anche cyrus ma alla fine per chi per gli studenti a dei
+somma dei piani e che non costano poi tanto le parti marshall scholarship però sono veramente una percentuale bassissima di quelli che vi partecipano
+non irrilevante assolutamente
+george volevo dirti una cosa tanto per dirti worlds rappresentato aleppo urbani una conferenza informatica e le abbiamo inventate noi qui
+no no era una provocazione
+su questo volevo dirvi una cosa
+neanche per sogno ho sentito che questa logica di aggregazione c'è sempre stata legata alle varie scene alle varie comunità di settore secondo il settore poi secondo le modalità e i temi numeri del caso ma un po' come dire è una cosa intrinseca nella natura umana no con il cercare di unirsi e trovare
+apri simili cercare i propri simili e convogliare e michela interrotto
+e assurdo
+una riflessione che in realtà una che sto facendo da un po' cioè no no allora quando per le conferenze è quello che faccio sempre chiedere come diceva ed ho fatto insomma è chi è qui per la prima volta ci tre eccetera ovviamente hai un'impressione molto sommaria perché non sono dati reali anche perché
+c'è solo degli asset faccio un esempio l'ultimo a milano la sala era da mille persone sono state più di duemila e duecento duemilatrecento persone che hanno partecipato quindi era molto poco rappresentativa mettiamola così però di mani alzate ne ho viste ne ho viste diverse secondo me c'è un cambio sta cresce
+scendo la sensibilità da parte delle aziende nel mandare i propri dipendenti alle conferenze e quindi credo che questo sia uno dei motivi per cui non abbiamo visto magari diverse mani alzate
+però bisogna sempre ragionare su il fatto di avere comunque uno uno zoccolo duro
+serie di persone che ti seguono nel corso dei vari eventi e poi il giusto ricambio cioè avere solo persone che ti seguono sempre è una cosa buona si ma poi quando quelle persone lì non ci saranno più e tu rimani senza stessa persona diciamo così cioè se non siete persone però
+non c'è un ricambio generazionale vediamolo in questo senso dall'altro lato sei sempre solo persone nuove è qualcosa che tra virgolette funzionando sta funzionando perché ci deve essere un giusto equilibrio ora quale sia quello giusto equilibrio in termini di percentuali non lo so però è un fatto su cui mi rifletto ecco
+da qualche tempo perché
+vi faccio un esempio sai sabato sono stata e sono attualmente a bari sono stata alla festa a bari e noi come comuni che stiamo ripartendo quindi abbiamo visto tante mani alzate perché i colli e ci ha completamente distrutto quindi per me questo è un indice molto positivo perché vuol dire che siamo riusciti a ad arrivare a tante persone
+zone e quindi
+è una cosa veramente molto buona ma perché c'è un concept tutti tutti i dati secondo me vanno contestualizzati in base a come sta crescendo la community che cosa è successo lo scorso anno per esempio quest'anno abbiamo fatto più di circa cinquecento persone
+lo scorso anno ne abbiamo fatte molte di meno e questo per me è un indice no considerando che lo scorso anno è stata la prima defence che abbiamo rifatto in presenza dopo due anni da noi arrivavamo da un evento che per esempio realizzavamo due che durava una settimana in un camping no quindi cambiato tipologia di evento tornati su bari
+dopo due anni di covid che ci hanno due tre anni i corpi che ci hanno veramente distrutto per me è un indice grande molto positivo vedere per spazio totalmente nuova ecco perché tutto il resto si era dissoluto ecco chiamano in questo senso ho la maggior parte vediamo cose vanno fatte tante considerazioni in base a a come sta crescendo la community
+alla storicità e tutto questo genere di cose qui a come si vota nel corso del tempo però secondo me ci devono essere entrambi entrambi le faccio magari sempre viste che puoi anche noi abbiamo avuto nonni i speaker che girano un po' le varie feste i vari eventi ma abbiamo avuto anche persone persone nuove è quello e anche poi
+nostro lavoro come organizzatori di eventi di bilanciare questo aspetto ecco perché poi non facilita il fatto che se vedo sempre nomi super figli mettiamola in questo senso non facilitano il fatto di
+ad altre persone nuove che vogliono approcciarsi a questo mondo di dire si ok va bene mi candido perché magari non si sanno si è subito week end di livello quindi è tutta questione di bilanciamento secondo me come a casa abbiamo parlato di conferenze ma il buon dario ci scrive se di parlare anche nelle comunità online
+in particolare partenariato che se guardare o la consulenza pensionistica
+che noi arrivano sarà senz'altro su come coinvolgere i luoghi che osserva senza partecipare nelle cave comunità online quali sono i dieci consigli da dare a brown
+dario è sbagliata la domanda perché intanto tu dovresti chiederti chi è il tuo target e che cosa vuoi fare che cosa vuoi che faccia perché
+smuovere è troppo generico no come età come obiettivo che voglio smuovere qualcosa è un po' generica di tutti gli porti un obiettivo più puntuale tu devi capire che cosa vuoi fargli fare se hai un po di gente che segue bene cosa vuoi trasformarli devi innanzitutto capire qual è l'obiettivo dopodiché devi creare delle azioni da
+parte tua che possono portare le persone più vicine all'obiettivo che hai
+poi si può iniziare a parlare di ok ho fatto delle cose e non hanno sortito l'effetto che mi aspettavo però se no allora generic neanche smuovere un po' troppo sia coinvolgere più persone a partecipare interagire e rispondere a domande degli altri fare domande sulla comunità ha bisogno di capire che tipo di co
+muniti e che qualche attività si fanno fede
+scusami non è
+quello che sto cercando di essere ottimista
+d'accordo non sono d'accordo dario ha scritto che la comunità ha un unico obiettivo l'interazione io non sono d'accordo se no sarebbe dovute community generiche invece ogni community e verticale su un qualcosa di molto specifico e non è vero che i commenti non hanno obiettivi di business tutt'altro tutta
+altro di quei btp e come dicono
+allora proviamo solo community scusa alessandro se se se interrompo ma ci sono community che non hanno obiettivi di business ma ci sono commenti che hanno obiettivi di business che sono state create no dicevo sono entrambi cioè
+io credo non abbia fretta
+ovviamente sono cresciuti e cioè io
+faccio un esempio uno è ovvio gruppo e codemotion nascono come community e poi dopo si sono evolute in stiva
+non mi riferisco solo a quello e amici non solo alle community nate intorno ad eventi ma anche con miti nati attorno a prodotti nate attorno a brand
+vado avanti eccolo qua che arriva a provare a intervenire
+anche la chiusura anche la community che nasce attorno a un cantante se vogliamo ha un obiettivo di business è quello di vendere i concerti
+però io faccio un esempio no
+community come diogenes italia non hanno un obiettivo di business l'obiettivo è confrontarsi attorno al al al al all'argomento oppure ai miti come adesso girone f angolo a roma forse diverso perché adesso è qui e si è sviluppata anche come conferenza però prima chiama così
+dove venivano fatti solo meetup perché anch'essi reading about mi verrebbe da dire la stessa cosa no fino a quando non fai qualcosa dove monetizzi anche se in realtà molto spesso non viene monetizzato nulla perché sono solo pagamenti pagarsi i costi però è solo l'obiettivo è proprio trovarsi avere un posto dove potersi confrontare e anche ruota
+torno a l'open source avvio piuttosto che non so i ugg per esempio no attorno per capire poi si sono aperti altre cose dipende dipende ecco secondo me da come me
+stimola e poi chiedo anche la sua dario che però non vedo
+chi guida una community in generale ha un obiettivo in testa non è possibile che semplicemente così
+usa esista questo si muovono cioè per esempio quando tu dicevi questo è secondo me assolutamente giusto che uno deve avere ma anche come community manager adesso gdg è ovvio che ci sono degli obiettivi da parte di un po' più dell'alba rispetto ai nostri ebrei però io io come organic
+kaiser g no no l'obiettivo personale di vendere i prodotti google mettiamole in questo senso qui no poi è chiaro che a livello indiretto a livello indiretto sto facendo questo mi chiamano così però il concetto è questo ogni organizzare ogni community manager deve c'è un favore che si chiama e sette più della community no che che ovviamente
+sono le persone il corposo e quindi l'obiettivo boston dove stanno dove si dove interagisco di persone la partecipazione quindi quali sono
+come le persone interagiscono tra di loro le polis quindi come lo possono fare possono essere codici dote tante cose la promozione e la performance quindi come poi si misurano questione di cose quindi è ovvio che devono esserci queste tipologie l'obiettivo e tutta questa serie di ashley corollario di informazioni
+ci devono essere altrimenti viene troviamoci al fine di trovarsi poi bello perché presi magari dall'entusiasmo funziona tutto subito ma poi schema chiaramente se ci devono essere obiettivi anche se non di business che ha chiari e condivisi sopravvivere
+scusatemi sono entrato così a gamba tesa perché alessandro mi ha sempre detto di poter entrare
+rivisitato vivono fuori e sono entrato a fare il caotico malvagio da dove allora provo un attimo a spiegare esattamente il mio punto di vista ho troppo il termine business perché credo che sia molto importante riuscire a definire esattamente cos'è community ed è normalissimo il fatto che ci siano organizzazioni nonché luchino batterie questo momento
+facciamo un vero e proprio business ovvero organizzare conferenze organizzare eventi ci sta è assolutamente una abbiamo avete provato non so se portarmi cielo l'esempio della base di un cantante è assolutamente vero ovvero
+le etichette organizzano gli fan club a fare tutto quanto ma allo stesso non è applicabile in tutti i campi cioè il concetto di coniugi esistono community create artificialmente con lo scopo di business lecito tanto quanto ci sono quei miti che vengono create esclusivamente senza un vero e proprio obiettivo a me viene da pensare
+hampton quindi tutte quante quelle principalmente che seguono un determinato argomento e non c'è un vero e proprio pic-nic è semplicemente la voglia di poter essere lì e di parlare o eventualmente sfogarti su una determinata tecnologia mi viene in mente per esempio la corona commenti che abbiamo recuperato su telegram è un costo
+tante lamentarti di quanto faccio schifo occuperà di quanto non faccia perdere volete bisogno di un banale ogni riferimento i capelli ovviamente casuale e non ha componenti di succo kubernetes per criticare kubernetes assisi si sentano così
+adatto eh
+questa era un film away
+è nella natura di internet che cercano attorno a una tematica è perché vogliono confrontarsi e capire come funziona meglio prodotto servizio è un framework un linguaggio cose di questo tipo anche quello o poi ti lamenti pure
+esatto però l'obiettivo in realtà di quella comunità non fare i l'obiettivo è trovare persone può avere semplicemente anche l'effetto roberta quindi ho un problema prova a descriverlo è un aiuto ma quello nel business e una finalità che esula completamente dal business quindi io su quello e
+non sono d'accordo con minniti non possono essere tanto business qualcuno può avere ovviamente un obiettivo di business lecito tanto quanto pare le attività
+l'influencer sorgente di su twitter ha una priorità ovviamente quello mercuriale pista di dire che tutte le economie sono di oriente non sono assolutamente convinto anna ma attenzione non ho detto che tutte le commedie sono business-oriented proibito che ci sono commenti che hanno l'obiettivo di business e altre no però posso anche dire
+che certi esempi che che vedo come tu hai fatto l'esempio del gruppo telegram di kubernetes io non so se possiamo definire ogni gruppo telegram una community perché allora io li metterei nel calderone dei forum o dei sabres dite pure rabellino ci sono gruppi di discussione più che community c'erano una o qualcosa di molto più
+peso molto più
+uniforme ma allora se quello su cui dovremmo lavorare e sulla definizione usare i termini corretti e a questo punto faccio una domanda
+se dico a torino è una community ma no non credo no no ma perché scusami non è che ogni luogo dove si ritrovano più di due persone e diventa una community non credo che funzioni così no però non è nemmeno necessario doverlo definire cioè nel senso se siano convinti o no ma guardate quando tu parli con me questa è una community aiuto pari
+community secondo comandamento cattiva e poi mai
+e così vado paio di pomeriggi secondo me pari di persone che si identificano fortemente nel personaggio tecnologia topic brand cantante attore è quello che vuoi e seguono legge è un identificarsi forte non è semplicemente ok rispondo a due cose su telegram in questo senso allora tutti i senti di appartenere a
+cosa non tanto di partecipare e basta e un senso di appartenenza che è diverso no dalla partecipazione se no allora io sono iscritto a quarantacinque sab reddit non sono assolutamente le mie community
+anche se ogni tanto vado io discuto telegram è la stessa cosa o dei canali telegram slack discord o meglio i canali però non definirei tutte queste cose community assolutamente al netto della definizione di community che poi ci può stare tutto il potere tutto va bene tutto e poi declina grazie se io voglio tornare su domanda di dario
+select dario la facciamo declinare secondo le sue intenzioni quando chiedeva consigli su come si muovono i lurker e giustamente lo faceva il pippone su sì ma cosa si qual è il contesto
+di definire cosa credo che abbia capito non esistono ci stiamo ci siamo quello che facciamo nel sacro ovviamente è ragione per cui definiamo il contesto e proviamo a dare delle risposte sulla base di quel contesto così diamo qualche spunto che può essere utile magari ad adattarlo anche qual era dario per esempio quando parlavi di smuovere i lurker in quale con
+testo ti riferivi in particolare può interessare
+possiamo usare il termine community applicato anche a canali telegram ma potrebbero essere anche più di facebook io mi ci trovo molto la definizione comunque però alla tua età ognuno ha la propria percezione detto ciò
+quello che mi sarebbe riuscire ad avere l'interazione non soltanto con il fuoriclasse troviamo le consiglio comunque di utenti esperti ma riuscire a creare un ambiente in cui anche i newbie anche le persone che giustamente vorrebbero intervenire possono intervenire e queste realtà era
+amanda principalmente poi per arrivare a un altro argomento è in realtà
+sto pagando tutte le consulenze senza pagarlo
+scusate tutti
+però principalmente come si fa a creare una community sana e soprattutto non ostica a maggior ragione è una community virtuale per tutti intanto che magari a un incontro fisico perché lo sappiamo sono un pochino come le uova con tutto rispetto ai cani venivano dal vivo
+sono un pochino più tranquilli no quando sono dietro uno schermo dietro la tastiera soprattutto se meccanica battono molto bene i tappi per scrivere insulti quindi in realtà era una domanda non dico trabocchetto assolutamente però come cercare di coinvolgere il più alto numero possibile di persone e soprattutto mantenere il controllo sulla
+curiosità o almeno il rischio e come l'ordine
+di lì secondo me comunque è una cosa che ci sto attualmente ancora sbattendo la testa perché comunque movimentare fare tutto è un'arma molto molto complessa cioè inutile girarci intorno soprattutto online ci saranno comunque sia
+mr larcher tutto è oppure anche i troll
+forse la roba più mi viene da dire che bisogna dare molta importanza ha
+dei code of conduct o delle regole ed applicarli in modo molto preciso perché magari
+i newbie
+se si vogliono farvi interagire community di fan di far rientrare e se c'è gente che ha un comportamento definiamolo tossico perché comunque si rientra sempre un comportamento tossico quando inizi a fare magari lo staff hotel
+perché ti pensi più bravo di di altri su un determinato argomento e quindi inizia a essere strafottente in quel caso lì molta gente
+se ne risente magari di interagire perché magari ha paura di essere attaccato perché magari non è così emotivamente forte da poter sopportare questo attacco quindi probabilmente è fare quello che direi un enforcing conoscono se qualcun
+uno fa il tossico lo si prende e magari prima lo li segnala e t calmati e poi andare proprio il pesante quindi bunny tutto quello che che si vuole fare ovviamente dopo capisco che è difficile comunque ti privi
+nidi di una persona magari è attiva nella community però non si deve non ci deve essere una distinzione persona attiva nella community e persona no se uno è tossico è tossico per tutta la community anche se continuamente attivo crea solo dei danni forse è meglio disfarsene io non credo che sia una cosa negativa nemmeno fatto
+che ci siano tante persone che stanno silenti eleggono e poi era stato dato nessun contributo alla community perché alla fine della coldiretti da sempre per questo certo senso non è che se siamo in mille possiamo pensare di mille persone dicono la loro esprimono un pensiero c'è sempre un grup
+dopo che smuove le cose che porto avanti e lo fa per chi poi in realtà si collega per reperire le informazioni e tenersi aggiornato non la vedo come una cosa necessariamente negativa il fatto che ci siano delle persone così vedo una cosa molto negativa i troll però quelli come ha detto benissimo davide quelli ci sono mille modi per
+per creare un ambiente che sia quello più distensivo possibile propositivo poi magari uno sai ci mette mesi a trovare il coraggio di scrivere due righe poi lo fa un'altra community di arrivare a cyrus che erano tutte prettamente live vedevo che c'erano quelli che se ne stavano online per mesi
+lo schema proveniente oppure fare quello che arrivava entrava e si sentiva subito a suo agio e scriveva è diventato amico di tutti e quindi è anche una cosa molto caratteriale ci sono persone così che sarebbero così anche dal vivo nel senso che poi solo loro vengono si presentano e ti saluta non parlo sono quelli che tirano il carretto e fanno casino dagli altri e penso che più o meno così
+comportamenti siano gli stessi che succedono online se poi c'è anche un'altra cosa da dire
+soprattutto in community magari molto attive
+su tè soprattutto su telegram magari che ci possono essere tipo tanti messaggi già praticamente si parte e si hanno uno scambio dei messaggi
+molto continuo molta gente magari si sente anche in difetto di entrare in conversazione perché magari o non vuole
+rompere il fatto che c'è questa conversazione in alto magari non non ha letto messaggi prima perché magari non è riuscito a
+non ho avuto tempo di star dietro alla conversazione oppure non ha tempo neanche per seguirla io tante volte
+i gruppi telegram faccio molta molta fatica a seguirli ma ma anche tipo quello di qua me lo potrà confermare anche la michela del del gruppo che abbiamo chiuso quindi è chiuso dei contributor del libro
+open source
+c'è questa chat
+dove parliamo del libro persona che sia io che michele facciamo parte di questa combriccola di gente che fa il libro open source e comunque talvolta partono parte mia apro telegram e ci sono
+chat con da ottanta messaggi diventa
+lo interroga banale anzi diventa un po' proprio un muro e magari oggi girato ma
+storia
+sì quello che voglio dire è intanto secondo me bisogna partire appunto da una consapevolezza che un po' anche quello che diceva giorgio ma che è un dato di fatto cioè
+per mille membri che ci sono a livello di numeri i membri che possiamo considerare veramente attivi possiamo fare una scala di dieci cento mille nel senso che mille persone sono lì sul gruppo cento persone leggono barra interagiscono in un qualche modo e dieci magari sono a
+attive quello che però bisogna secondo me ragionare e che cosa che cosa che cosa vi stiamo veramente misurando e cuore veramente l'impatto che noi vogliamo creare perché non necessariamente non sempre è sicuramente il fatto di vedere un numero di messaggi all'interno di una community e un ma può essere un più ma questo non non ti stai
+indicare il senso di appartenenza che poi diceva edoardo prima alla community cioè che anche le persone che non interagiscono comunque molte persone leggono e quindi comunque stanno aggiornati su quello che sta succedendo e a me spesso capita di incontrare persone che
+magari tu non hai mai visto perché non hanno mai non sono mai esposte però ti dicono ah ho visto
+questa conferenza che è stata in questa conferenza piuttosto che
+avete parlato di questo argomento eccetera eccetera magari non hanno mai partecipato non hanno mai interagito non hanno mai messo laico comunque non hanno mai fatto nulla che noi possiamo tracciare ma allo stesso tempo seguono le attività delle persone e degli ambassador e questo genere di cose qua
+secondo me quello su cui bisogna ragionare come misuriamo il senso di appartenenza delle persone alla community il numero di messaggi può essere una metrica sicuramente ma tante metriche che pensiamo possano funzionare se vi faccio un esempio stupido no e ne parlavo anche con con giorgio
+sentite qualche settimana fa
+noi abbiamo diamo dei codici sconto per esempio ai partner no e nella teoria delle cose dicevo bè riparlerà ingaggiato attraverso escursioni numero di vendite tra virgolette di quel codice sconto ma quel codice sconto nel novanta percento dei casi non è utilizzato minimamente e quindi tutti segnando una meta
+etica per valutare l'impatto di un'attività che tu stai facendo chi in realtà non è una mitica valida perché i t
+quanto il suo parlo di parnell perché per farvi un esempio più lampante io misuro l'impatto che ho avuto con le attività nelle mia community non attraverso il numero di biglietti venduti tramite i partner ma per esempio mettendo all'interno del form
+di iscrizione come sei venuto a conoscenza della conferenza e allora li vedo la conversione quindi quante persone mi rispondono tramite la mia community in quanto tramite i partner quanto i social eccetera eccetera e se io porto alla compiere io se il mio lavoro comunque come community manager porta l' ottanta per cento delle persone allora mi dice
+ok
+io e il mio lavoro convinti lo sto facendo nel senso che è vero che io non non non traccia tramite e quel che pm li mal
+come decido di tracciare veramente l'impatto lo vedo lo vedo subito quindi bisogna capire che cosa che cosa vogliamo tracciare e misurare veramente e poi chiaramente come diceva sia davide che che giorgio ci devono essere delle polis che devono essere chiare per tutti fin dall'inizio e devono esse
+rispettate perché è una community senza regole e dove dici se chiunque può esprimersi liberamente si ok ma fino a che non lede
+l'altra persona no quindi
+secondo me c'è da partire su una consapevolezza che il numero non fa la qualità e non fa l'efficacia della community che il numero è sempre esponenzialmente molto più alto rispetto al numero di membri ingaggiati e attivi e lavorare molto bene su quelli perchè poi sono quelle le persone che di qua
+alfano altre persone all'interno che comunque magari possono essere a disposizione per risolvere dubbi
+mentorship eccetera eccetera cioè non concentriamoci sul attivare millecinquecento persone nella community team a capire quali vip perché quelle dieci persone che sono attive sono attive chiedendoglielo e io questo è quello che farei cioè chiederei a loro perché tu stai continuando a fare quello che stai facendo
+e quali sono i driver che ti che ti muovono sulla base di quello a inizierai a capire e quindi ad applicare magari altre strategie per attivare magari altri ma sicuramente per coltivare le persone che sono e sono attive perché poi sono quelle che ti portano a z non so se ho risposto
+anche ma soprattutto
+secondo me bisogna sempre parlare di obiettivi in qualunque azione si faccia cioè gli obiettivi ci devono essere quando si crea una community quando si guida una community quando si fa qualunque azione sulle community perché tutti noi facciamo azioni con un obiettivo in testa se io mi iscrivo a una community o partecipano come
+faccio perché ho un obiettivo miglior personale non è che lo faccio perché così mi è capitata e non booth è successo no un obiettivo in mente che si sposa sposare quello della community ancora e ancora meglio allora vado e più questa community riesce a darmi risultati nell'obiettivo che sto perseguendo più mi sentirò
+ingaggiato e più mi sentirò di appartenere a questa community allo stesso modo chi crea o che cerca di creare una community o chi cerca di di insomma di manager non so come di gestirla come la deve avere degli obiettivi in mente perché se non ce l'hai se tu hai una documenti perché ti è capitato
+oh ma è
+fare cosa misuri a quel punto come diceva michele agoda misura il numero di persone nuovi messaggi ma sono tra l'altro sono tutte metriche che dipendono da vari fattori che non sono sotto il tuo controllo e quindi non ha semplicemente senso tu devi avere un obiettivo che può essere l'obiettivo globale della community oppure un obiettivo puntuali in un certo
+momento della storia di quella community e provare a misurare contro quell'obiettivo specifico è così in base a quello vedi come sta andando però se no si se sei troppo generico non riuscirai mai a misurare niente e tieni sarai sempre insoddisfatto dei dati chiari perché se non li misuri contro qualcosa ti sembrano sempre in su
+disfacimenti per forza perché non hai niente
+è come avere delle iso su github con degli obiettivi talmente generici che non potrei mai chiuderli no rimarranno sempre aperte e teheran insoddisfazione perché li vedrai sempre lì ma se non c'è qualcosa che non c'è mai un'azione che può chiuderle e allora rimarranno lì per sempre e cosa li tiene lì a fare è inutile o ti dà solo frustrazione invece deve avere delle cose che sono extra
+paul e poi a un certo punto ho ho raggiunto questa roba chiuso passiamo oltre oppure apriamo un altro uguale perché voglio rifarlo però è così che secondo me vanno gestite le cose perché l'essere umano funziona così noi ci alziamo la mattina e facciamo le cose con obiettivo in mente e non perché ci capitano e anche dei commenti che sono un insieme di esseri umani f
+le i gruppi di persone hanno dinamiche molto confrontabili con le singole persone no
+dobbiamo tener conto di questo vi ho detto all'impiegata delle ventuno cinquantotto grazie io vi condiviso un link chat su sette piper la creazione di un framework insomma uno dei tanti che ci sono per la flessibilità
+chat gay
+wendy sua
+youtube no non è verde e bugie bugie
+non c'è
+la nave non mi stai dando fake news amici non c'è nessun
+madrid e l'ha messa lì ma non c'è perché probabilmente in tutta la kidman sul quale outing la scelta della filtra ve l'ho detto qui fatto se se potete condividetele voi così evidentemente si è
+però l'altro punto che volevo dire fa attenzione che i tuoi obiettivi personali devono cioè siano allineati con gli obiettivi anche delle altre persone per questo dico che di feed o comunque indaga su per esempio quali sono gli obiettivi delle persone più attive all'interno del gruppo perché un conto sono i nostri obiettivi
+ivi come community manager un conto sono gli obiettivi delle persone e devono come collimare perché altrimenti di nuovo ti ritrovi ad avere uno scollamento nella misurazione delle
+non è più attivo l'attività che stai facendo e
+ti trovi a capire
+anche semplicemente ai playout
+dei problemi di diversità di opinioni
+se se la community deve remare barche tutte assieme verso dove si vuole raggiungere quell'obiettivo oli se cominciano a essere aggiungendo che dice all'incontrario bisogno un attimo di scooter me e capire perché sennò diventa completa anarchia diventa un
+asino e crea solo dei problemi perché se non si è d'accordo magari dopo si crearono antipatie si creano
+sentimenti contrastanti che non vanno bene e non fanno bene alla community di voi
+d'angelo sentiamo un po' la tua
+hai buttato
+re nascosto la mano io
+hai avuto quattro consulenze quindi così
+l'obiettivo era semplicemente le cause sono caotico malvagio no
+mi piace
+hai beccato il diventi dai vestiti da top dieci punti a grifondoro michela perché io immagino che di sicuro quella sciarpa veramente di grifondoro non solo ho anche il giratempo e facevo vedere ai miei colleghi dei fantastici calzini o i piedi no
+grifondoro banalità e me lo ha sempre detto ma bisogna spostarsi sui borbone audio l'aquila code of conduct dopo comunque no terza parte
+io sono quindi disaccordo con un supervisore però lui l'obiettivo era in realtà il caos che l'hai fatta l'ho fatta e abbiamo avuto il trono c'è
+tornato infatti a questo punto mi direi perché ti chiedi se che ci sono persone all'interno della tua community
+house che magari non si comportano come vorresti se tu sei il primo che alla fine seguono sempre ridere invierà ora che sei entrato in questa nostra community dacci la tua opinione e perché dovresti usare lo stesso metodo di definizione su eduardo questa non è una community ma esattamente l' arte è occupata
+sismo sudate alla fine credo che il grosso delle community è che viviamo l'illusione che siano accoglienti quando in realtà sono un insieme di persone di leader che traghettano la community stessa e quindi sfortunatamente le persone o perché hanno paura o perché non hanno interesse vero e proprio quindi
+l'arcano neanche come si dice in inglese avendolo dal comune senza interagire dove effettivamente la vera domanda è se bisogno e le persone interagiscono in comune o passano eventualmente quei quattro cinque dieci venti cinquanta personaggi della community che creano rumore che creano valore aggiunto con ironia
+era una domanda o una provocazione ma è inevitabile che sia così c'è proprio una questione di numeri non può essere diversamente voglio anche quello che sto passando condizioni di questa cosa e queste persone che non partecipano alla community come tu prendono un po' un po' come per dire credo di sì
+scapito di quelli che scrivono però tutto sommato quelli che partecipano alla community e lo fanno perché gli piace tutto sommato loro ti va bene perché se io scrivo qualcosa della community alla quale partecipo e condivido la mia esperienza lo faccio perché alla fine più persone possibili ne possano beneficiare ma lo faccio per un motivo
+penso quindi se c'è qualcuno che legge e da quello detrae un aiuto per me ben venga poi non è nemmeno detto che tutti quelli che partecipano qualcosa di intelligente da dire qual è l'altro problema assolutamente così effettivamente io non ho una risposta onestamente se una comunità debba essere attiva ci debba essere un questo vogliamo
+una percentuale di persone attive di utenti attivi non attivi mio piccolo orticello che non è poi ateneo ateneo è una community dove gli piace parlare con alcune persone esprimere i miei dubbi e riuscirai ad avere interazioni fra quello è semplicemente un mezzo dario giannone tu hai tu stai usando un mezzo sta
+definendo quel mezzo community ma in realtà è il mezzo che stai usando per interagire e un gruppo telegram è un forum però non è un vero
+in realtà guarda per parlare del mio caso che poi non voglio parlare del mio caso possiamo anche smetterla alessandro è molto diretto indiretti scenario smettila io smetto fu durante il covid durante tutto quanto la fase in cui mi avete parlato io gestivo questa commenti su telegram si occuper è principalmente di a organizzare degli eventi in cui c'erano
+passi nuove c'era un elevato ricambio di persone quindi non erano sempre molti dei soliti noti e c'era la volontà di interagire e probabilmente era dovuta anche dalle condizioni socio sociali in quell'epoca perché non si poteva uscire l'unico mezzo era all'epoca quando organizzavamo questi famosi bar
+in cui bevevamo qualcosa va bene non si deve bere alcol però in realtà valide anche la parola della verità si parlava in realtà molte persone aspettavano quindi hai ragione il mezzo e telegram ma allo stesso tempo applicando il tuo ragionamento una conferenza è un mezzo ma certo a questo punto la community è quell
+che sentono le persone quindi se una persona partecipa a un evento sente parte di una community anche lì la definizione di come si diventa veramente molto soggettiva quindi non possiamo definire cose comuni e cosa non è
+di rimandare della difesa io concordo con daisy
+scusa però non credo che tu non possa definirlo perché puoi basarti sulla definizione da vocabolario c'è perché esistono le comuni perché gli esseri umani si aggregano sono sempre aggregati in comunità cioè che cos'è da cosa deriva questa parola deriva dal bisogno di essere insieme per raggiungere cose che da soli non si riescono a raggiungerlo se questo è un po' il congiuntivo
+unendo valori obiettivi d'interesse esaltò learning
+osa non era community e io ho sempre detto io ho detto la community di telecamera commenti per questo non è una community di telecom
+ma non è mai detto potrebbero coincidere potrebbero non c'è se tu fai parte di una community allora tu hai dei doveri verso la community
+dai e ricevi qualcosa tu pensa a una comunità che cazzo ne so a un condominio non un condominio e una comunità di persone che hanno un interesse comune che il palazzo continui a funzionare perché tutti ci vivono dentro ci sono quelli che non partecipano perché mi frega un cazzo ma sono hanno degli obblighi verso questa comunità sono quelli
+che partecipano di più comunque l'obiettivo della community è uno solo cioè che tutti riescano ma come come le prime comunità di persone che si rimettevano insieme per difendersi dalle bestie feroci che c'erano polo per coltivare i campi no e protetti con delibera della contea ma ti chiedo scusa io non ho studiato ingegneria
+formati consentiti informatica ma io ho studiato diritto ed economia impresa in realtà un condominio non è una comunità un condominio è un negozio giuridico in cui ognuno di noi ha una piccola proprietà e un po' di festa di comunità perché io posso essere proprietario di un alloggio non vive con quella comunità quindi non ne faccio parte ma
+si hai ragione hai ragione però non siamo l'unica delle persone che vivono più di quelle che fanno parte dell'assemblea hai ragione in questo sei giuridicamente non sono i membri dell'assemblea ma vive l'italia
+però comunque voglio dire è la comunità ha un senso quando c'è un interesse che è comune a tutti e ci sono quelli che spingono quelli che prendono un pochino più passivamente quelli che non possono dare perché magari sono membri più deboli o mac
+che hanno bisogno di ricevere più degli altri e quindi tutti gli altri si mettono insieme per dare più possibilità a tutte ci sono anche questi questi casi qua no però l'obiettivo secondo me dev'essere sempre uno celeste sempre qualcuno che a mente quali o dove stiamo andando cosa stiamo perché siamo insieme ci dev'essere perché se no ma un obiettivo potrebbe essere anche benissimo
+amo imparare imparare e condividere conoscenze cioè io m'immagino dario ha lasciato telegram di kubernetes con l'obiettivo che la gente possa essere libera di condividere le proprie esperienze su kubernetes porre domande
+ricevere risposte e si crea comunque anche in quel caso lì una community perché alla fine c'è gente che c'è un interesse l'interesse in quello di dario per esempio e kubernetes c'è un interesse che prende tutti i membri della community perché se uno non è interessato kubernetes in cui la chat annunci
+neanche per sbaglio anche perché sarebbe un grosso errore
+capirebbe un'acca però
+allora c'è l'interesse sul quel tool lo strumento lì o qualsiasi cosa sia è l'obiettivo e magari non è tanto l'obiettivo dove portare la community ma un obiettivo di cosa devono fare le persone c'è la persona vuole crescere e magari dare un dare supporto
+ad altre persone dai una mano un aiuto dopo da qua puoi anche dirmi che magari sta prendendo una cantonata e ho detto una cavolata no no no ma io sto cercando anche di pensare perché ho fatto la domanda io di sicuro non ho certezze
+no anche di analizzare l'obiettivo di una comunity io onestamente non riesco a trovare la risposta dipende tutto quanto io mi affido più a voi esperti e giorgio eduardo a davide no perché mi hai dato ma una parole di
+uno darglielo vedi anche questo aiuta
+devo tirare fuori le tue foto vestito da queen che
+sono state eliminate
+ma in realtà allora questa è una violazione dell'accordo affonda io
+esattamente facendo ma choc
+questo in realtà è un ottimo esempio perché io e davide abbiamo l'amicizia a distanza che critica visti quante volte davide pensa due volte in presenza a volte due travolti sono capaci di tutte quest'anno comunque
+si riprovare diete eravamo in questo modo però visto da fuori efficiente questa sarebbe una creazione dell'account con te il problema che in questa community se vogliamo chiamare natale non ci sono connor contact non ci sono regole fisse non è che un vanto e mi affido sul buon senso dei partecipanti per cui quello errore
+esile con sé per gli servono più ma capisco quello che dice dario che effettivamente la coda la coda of conduct ha senso però
+ci sono delle volte in cui la condor ondate può essere limitante perché magari non prende atto magari di semplicemente sono due persone che si conoscono e sono amici che magari hanno passato del tempo assieme e sai ci conoscono e sanno prendersi magari ai
+anche in giro tutti voi magari le persone che lo so will queste cose
+di città e quindi è chiaro che il punto è proprio questo cioè non è non c'è il male se tra di voi fate questa cosa perché e in modo scherzoso il problema è quando non viene percepito alla stessa maniera al di fuori c'è e quindi può creare
+infatti infatti quello è quello che stavo dicendo dato che effettivamente non non è una cosa banale cioè perché magari lo dici senza neanche pensarci perché c'è soprattutto online
+magari cat così
+va' come se stessi messaggiando
+modo normale con quella persona quindi magari non ci arrivi neanche a pensare oddio ho detto una cosa che può essere minatoria verso
+potrebbe minare altre persone è molto complesso
+scritto swing sfido chiunque che magari una volta gli sia scappata in una chat una battuta e dopo magari dopo ma parecchio dopo gli è venuto in mente o no quella forse
+se la se l'avesse vista qualcuno da fuori l'avrebbe presa un pochino male amber
+è una
+perché non sappiamo mai mai mai successo max mara
+non ti credo riguarda eduardo guarda
+chiarito tutto al parco a zero ma scusami ma se io so che sto parlando con un mio amico in privato è un conto se so che ci sono più di due persone che stanno ascoltando mi esprimo diversi e edo
+ho da ridire
+io prego che ho dei pezzi di live tuoi
+bonus di continuo
+liquidi e una davide una bruttissima persona ma ma molto in modo esemplare
+esiste no analogo dato di fatto davide
+maturità non mettendo non sto imbarazzando nessuno
+notte persona scusa lo so lo so è che ovviamente il tuo tono of voice cambia a seconda del contesto in cui ti trovi
+sì sì sì sì sì oppure quando sei andata domenica coi tuoi familiari
+no era per dire che comunque può capitare dice una roba per scherzare e poi c'è mancato che può capitare a tutti
+se capita vuol dire che l'hai pestata e
+tipicamente sei un minimo minimo minimo di esperienza non ti capita capita vuol dire che sei non sei proprio in condizioni di capire cosa sta secondo me poi boh se io ho visto recentemente poi sto parlando di casi eclatanti e abbiamo visto recentemente i casi eclatanti in cui le giustificazioni erano più o meno queste può capitare
+ma in realtà non è vero che può capitare ed è talmente è talmente ovvio come ti devi comportare in mezzo a persone che boh non capisco come possa capitare abbastanza strano no beh l'anno scorso
+è quello che intendi e come viene percepito uno dei dibattiti su quanto e dove puoi arrivare a spingerti nel dire certe cose l'importante pratica e non è quello e questo se vogliamo apre un mondo di conseguenze possibili inimmaginabili immaginabili per cui qualsiasi cosa uno dice in teoria può venire fuori una persona idioti
+mi hai offeso ma non è questo non è vero questa è la secondo me e questa è la giustificazione di chi viene beccato con le mani nella marmellata e si prova a giustificare così secondo me perché perché i casi che ho visto sono più o meno tutti riconducibili a questo a questo questa casistica qua ma però io credo francamente che sono
+persone che in tutta buona fede si spenga un certo modo che può essere tra virgolette non politicamente corretto o inappropriato in ottima fede senza nessun retropensiero se tu ti esprimi universale ma se tu ti esprimi in modo inappropriato quello è una tua scelta tu scegli le prime timori ne appropria
+nei panni lei
+suo limite nel non capire che quel modo inappropriato per alcuni può essere offensivo però mettiamola così non lo vedo come una cosa del fabbro come il problema più grosso e io sono d'accordo con te alessandro e i poeti grosse che questa è una problematica che io mi ricordo quando sporadico contact
+kate george ho capito bene ai lavori per ruspe
+se io prendevo in giro cyrus code of conduct nel duemilasedici diciassette sono stato anche guardie durante un live della live durante la conferenza fatto il deficiente in realtà il cyrus
+molto bravo a implementare una condotta con windows ma allo stesso tempo l'adozione di una foto contact non può risolvere il problema perché la percezione del singolo è soggettiva e quindi non esiste un livello oggettivo per dire cosa è appropriato e cosa è inappropriato ma non è ne
+come andiamo nel dettaglio di una un livello misurabile quale l'unità di misura del appropriato e inappropriato ma c'è il buon senso
+ontario m'immagino che tu non ti esprimerai allo stesso modo con i tuoi amici al pub la sera e con la tua famiglia a pranzo la domenica no immagino ma
+hai imparato di bossi solamente in cui pare il buon senso appare qualcosa non è qualcosa di soggettivo viene misurato
+abbiamo eduardo io non voglio fare l'umberto bartorelli di sogni fatti in vita quale l'unità di misura come facciamo a misurare il wurstel quello che noi diciamo chiaro
+ma siamo persone che a razionali siamo in grado di misurare il contesto in cui ci troviamo immagino e quindi una volta che capiamo il contesto e sappiamo il contesto in cui ci esprimiamo diversamente ma è così dalla notte dei tempi no è come dire che la gente che va a teatro si veste in un certo modo e quelli che invece vanno a
+harker heights
+un altro mettiamola che nel momento in cui ti dici davide una bruttissima persona darius e tu in ottimo bonafede lo dicevi scherzando perché il tono e lenzoni è ovvio che il momento in cui riceve una bruttissima persona lo si fa per scherzo ma metti il caso che quella volta suo figlio trovi un davide che a quel punto il tu l'hai detto capito
+e non avevi cattive intenzioni della mia relazione con lui non ho offeso altri ho parlato di altri non ho espresso un concetto generico generalizzabile mi sono rivolto direttamente una persona con una parola non generalizzabile per cui va posto così eventualmente stonata melvin può essere state però può essere interpretabile e quella stessa definizione
+anche se poi nei momenti magari c'è un momento in cui davide quella roba la prende male oppure è nota un certo ma rimane tra me rimane tra me e lui non è generalizzabile questo questo termine hagen non gli sto non gli sto dando degli epiteti che possono essere generalizzabile tutti sappiamo quali sono perché tutti noi sappiamo sto dicendo una cosa che ti
+direttamente a lui un termine assolutamente
+hai pestato la merda perché avete qualcosa che non dovevi dire o che non era opportuno dire e tu dicevi prima chiunque sa che quando arriva farlo oppure no io ti dico secondo me no non è così
+e così è così è così perché sennò faremmo tutti perché perché qualcuno non lo fa perché solo alcuni lo fanno e poi quando glielo fai notare dicono
+lo si può più dire niente ma scusami
+gli permette quello il fatto io francamente non è dubbio non è vero chiaroscuro e vedo tante no io non molto grigio momento e complesse situazioni
+mettiamola così tu hai mai letto le regole della
+cosa cosa puoi dire cosa non puoi dire in una chiesa durante una messa non credo non hai eletto un regolamento no non sto nonostante immagino che nessuno ti abbia mai redarguito per aver usato un linguaggio inappropriato in chiesa pubblicamente
+lo sai perché lo sai non sono sfumature ognuno di noi secondo me è in grado di adattarsi al contesto in cui si trova perché vi si trova volontariamente cioè io vado in una comunità di persone perché decido di andarci non mi ci trovo catapultato no quindi mi trovo lì perché rischio andarci
+a quel punto mi adeguo al contesto in cui sto però aspetta stiamo parlando comunque di relazioni umane e per quanto potrà essere
+normale sono complesse c'è ma molto complesso e quindi è impossibile dare un bianco e nero perché per quello che magari puoi dire in un modo in qualche modo potrebbe essere che offenda qualcuno altro perché lo si vede cioè quando mi è capitato qualcosa
+ma qua qua
+non ho esempi sottomano perché ovviamente
+mi cogli è abbastanza bravo ma che
+no esistono quante volte magari semplicemente per frasi magari dette ma anche da persone di spicco di rilievo che magari sono anche abituata a parlare con gente tutto il giorno o
+mattoni e magari perché l'hanno detto questa cosa una parola in più ho una consegna in più offendono un'intera categoria ma perché pronunce avevano pensato
+magari non era fatto in modo cioè non era fatto in modo cattivo e complesso cioè non puoi un esempio vero panico io
+io credo di una categoria in minoranza in realtà una volta una conferenza ho fatto una battuta sul mio stato di polizia e ho visto un ragazzo a me quando ho sentito questa battuta è girato molto male perché probabilmente non era ancora superato quella fase del superare il fatto che sei io scherzo in questo modo permettere
+non è assolutamente un problema differente per gli altri però il fatto che io ho una percezione posso scherzarci ma non vuol dire che allora quella parola io sto dicendo all'altro compagno ladro a fianco a me e dire ehi tu pelato però capisci che un linguaggio del genere io capisco ovviamente certo di spie
+caro eduardo che ci sono dei contesti e quant'altro ma allo stesso tempo credo che ci sia anche la dignità delle persone e a me spiace usare questo francese tanto non ci sono francese di nome giusto permettere un'ulteriore qualcosa contro la coda seconda esatti saranno principalmente terzo sono un pelato e di questo un pelato ma qualcuno potrà
+beh sentirsi offeso però sono giannino io perché sono un deficiente solo stupido e faccio mi comporto in questo modo in maniera goliardica cosa devo fare devo smettere di essere goliardica con me stesso perché qualcun altro potrebbe essere sentirsi in difetto e lo so lo posso fare e non lo so non posso sapere se per assurdo
+anche semplicemente guardare la persona in un determinato modo potrebbe essere offensivo potrei mettere soggezione io per esempio il grosso difetto di guardare negli occhi le persone molte perfetto ma dario ma tu qui timore incute timore a guardare la gente negli occhi cedo totalmente tantissime sfaccettature dove non può esistere un qualcosa di ben definito si possono essere i canova
+ovviamente non si parla di festa non si parla di questo non si parla di qualsiasi argomento che potrebbe essere in base alla cultura in cui ti trovi attualmente è una questione culturale col secondo me e cerchi di mantenere un registro ma non è un qualcosa in cui veramente puoi mettere nella macchina di libri richiesti
+giusto quello che cercavate servire anche davide va in base al contesto va in base alle persone con cui interagisci voce la sensibilità personale e la creatività personale fortunatamente un qualcosa che non puoi sapere se io dovessi fare una battuta del genere vedo che l'altra persona ci sta magico ti chiedo scusa non era mia intenzione poi lui mi manderà a fanculo giusto permettere un'altra parola
+slack o eventualmente mi dirà non ti preoccupare
+d'accordo comunque bravi comunque
+sai sono opinioni e ci sta un tutto secondo me e mandarli a quel paese edoardo così via la bara o magari semplicemente secondo me chi li capisce come comportarsi lo capisce bye
+un weekend tipicamente non succede se succede secondo me è un caso eclatante non è una roba e si può dibattere una cosa molto veramente borderline no secondo me se si chiude il merdone e perchè proprio è inopinabile
+i casi che che ho in mente sono tutti i casi inopinabili di qualcuno che ha sbracato e si sdrai ti prendi la responsabilità di sbracare basta certo tu río bravo edoardo perché ho usato la parola nardone dell'azienda con la realtà la questione del quando io vorrei una domanda a michela giorgio quindi ruba ancora di più
+vedete dovete staccare una fattura e poi ve la pago della padrona noti facciamo la connessione l'obiettivo di questo gruppo a rubare
+la colomba guarda per fare una battuta sul rubare stavo per dire qualcosa sulla juventus ma poi
+michele giorgio poi seguendo le bozze come le piccole code of conduct avete visto
+avete mai avuto rapporti da dichiarazioni nella code of conduct avete visto bene quando il sindaco dopo la minniti diventata più florida è anche un insieme di per sé più persone diverse comunicategli hanno avuto la possibilità di accedere con l'inclusività alle vostre community
+qualcosa che mi piacerebbe sapere avere un'esperienza proprio sul campo a bada network twitter e youtube
+allora
+quello che io credo e poi ti do anche degli altri dati è che il fatto di avere un codice di condotta e soprattutto quando fai conferenze internazionali dove metti insieme a culture differenti e the ground e tanto differenti per quanto sicuramente appunto a ci sia ci si aspetta che
+che le persone si comportino in un certo modo sei stato necessario e se c'è attualmente un codice condotta e perché in passato si sono verificati dei casi che
+mi hanno chiamato nuovamente violato e che hanno chiamato la necessità di questa cosa ora e non tutte le culture funziona alla stessa maniera è così che possano continuare
+possono essere e scherzosi divertenti per una persona non lo sono per l'altro e puoi chiaramente c'è tutta la questione di diversità e inclusione che sicuramente tutela tutta una serie di casistiche mettiamolo in questo senso perché una battuta che per te può essere divertente
+se si sta in realtà per tante persone può non esserlo e dipende molto dal contesto divenne momento
+c'è in realtà non lo è divertente perché da questo posto però magari se tu sei insieme ad altri tuoi amici puoi puoi fargli passare questa battuta ovviamente nel momento in cui sai su un palco di una conferenza parlano di conferenze o comunque entri e inizi interagire con una community dove ci sono tante persone tanto diverse è fondamentale avere poi si
+chiara è successo
+che cosa dice di condotta venisse violato nonostante ci fosse steve
+non in questa esperienza e non è stato cioè non è stato bello nel senso che è stato
+c'è il fatto che ci siano codici di condotta non significa necessariamente che ti tutela da qualsiasi cosa nonostante siano messe in campo mi chiamano in questo senso tanti altri strategie perché non c'è non basta dire un codice di condotta e leggete però insomma
+e però quello che posso anche dirti è che noi abbiamo iniziato iniziato quest'anno un progetto che si chiama cafiero piante communities dove abbiamo raccolto delle testimonianze dei divari di emergere
+per quanto riguarda il loro percorso e le loro nacque all'interno come come come community a livello europeo è una delle cose che è emerso anche per tutelare diversità e inclusione accessibilità e il fatto che tanti e
+tanti comuni che hanno iniziato a avere un codice di condotta e da loro poi tante altre conferenze anche l'anno hanno iniziato ad adottarlo io so che gruppo e penso dai lì fin dall'inizio ha iniziato ha adottato il codice di condotta
+è stata una delle prime in italia che che l'abbia adottato e
+quindi il fatto di avere un di essere sicuri di andare in un posto in cui le persone hanno si possono comportarsi si devono ecco comportare in un certo modo che per quanto possa sembrare scontato in realtà nella realtà dei fatti non lo è perchè ripeto anche a realtà molto in
+realtà molti a te certe cose possono succedere perché non prevediamo come
+reagiscono quello che le persone o gli sticker possano dire
+puoi reputare divertente e come si chiamano in questo senso secondo me è fondamentale come organizer di eventi perché tu ci stai mettendo ovviamente un marchio no se mettendo un nome e secondo me è importante assicurare alle persone c'è chi viene chi partecipa
+ambiente
+sta sottostà a determinate regole ora poi non si può tracciare tutto non si può appunto la questione del pelato che dicevi prima non può essere un codice di condotta perché sta al buon senso del del comportamento delle persone
+però
+se come si dice viene in inglese sex toy story russ jones per esempio non sono cose tollerabili e devono essere secondo me devono essere cose molto esplicite perché in un contesto magari italiano in cui questo genere di dinamiche non ci sono o non è vero
+ero però ci sono molto in modo molto più attenuato soprattutto nelle conferenze che
+giriamo quotidianamente woodman durante l'anno in una realtà come può essere quella americana e magari completamente differente no quindi bisogna anche un po'
+vivere le chef calibrare e
+a riadattare le limitazioni in base al contesto come come dicevo prima secondo me è comunque una buona e una buona cosa e permette alle persone di o perlomeno è uno degli strumenti che non è non è lo strumento è uno degli chef che può permette il fatto di sentirsi più a proprio agio
+quindi di conseguenza di favorire la diversità inclusione non è l'unico non può essere l'unico ovviamente è uno dei più penso che subito lo hanno detto già tutto compreso che sia vero che fate questo trucco per combattere questo fa sentire le persone a proprio agio fa sentire le persone che magari potrebbero sentirsi in diffic
+coltà le fa sentire protetto e quindi le fa esprimere per far stare tranquillo il ritorno delle conferenze e c'è moltissima attenzione che il code of conduct venga rispettato e c'è molta appena c'è un dubbio che questa cosa sia stata
+in qualche modo ci sia qualcuno che non lo rispetti si fa delle verifiche
+questo nuovo libera soprattutto la comprensione group e o l'ho proprio percepita c'è moltissima attenzione verso questa cosa il code of conduct è stato sicuramente non è stato rispettato una volta ricordo molto bene dove sono stati fatti dei commenti poco carini verso una persona
+che aveva parlato a spasso un tool sono subito state prese delle misure in questo caso erano dei commenti scritti su fogli feedback che era pubblico è stato rimosso questa persona che aveva scritto è stata contattata perché i feedback e sono sono firmati quindi sono di regis
+darsi gli è stato spiegato che quello che aveva scritto dovere linea con quello che sul come bisogna comportarsi conferenze e si sono attivate tutta una serie di procedure per evitare che questa cosa non days comunque a inficiare sul l'atmosfera della conferenza sul tuo ambiente
+su tutto quanto quindi io penso che sia una cosa importantissima che ovviamente bisogna stare molto attenti a far modo che venga rispettato e se non ci fosse adesso c'è da tanti anni quindi fossero la gente si è abituata a rispettarla le conferenze ma se questa cosa non fosse stata introdotta le cose sarebbero diverse altrimenti non sarebbe stata introdotta
+esatto adesso probabilmente non se ne sente più tanto la necessità la percezione che ho avuto poiché è diventato inglese
+placebo
+però se tu ci fosse stato ci sarebbe voluta quindi ben venga che ci sia adesso poi diventato ascoltato le conferenze adesso quasi la prevalenza forse era la dèi che la feconda ed assolutamente magari sulla diverso inclusion
+è meno
+nemmeno un lavoro
+bisognerebbe lavorarci di più di un lavoro da fare
+e lavoro da farsi se ti serve
+c'è più lavoro da fare perché comunque adesso è quello l'argomento importante soprattutto dal punto di vista di eventi eccetera devo dire che
+confermo tutto io tra l'altro ciò un caso mio personale in cui ho fatto una presentazione una decina dodici anni fa con slider che adesso consigliere la farai mai nemmeno detto niente dire
+conferenza in america però mi sono reso conto dopo che non ha minchiata e non me l'hanno fatto notare o meglio qualcuno poi l'ha fatto presente agli organizzatori che una cosa di cattivo gusto e dieci quindici anni fa forse era una cosa più accettabile adesso sarebbe una cosa che avrei fatto onestà di chi
+ci tira fuori fai cammina out avevano anche cancellata la la la la
+slalom
+heidi busetti noci
+lo banna youtube
+coraggio la conferenza su pappetta questo software open source management e bella presentazione era su opzioni dei moduli puppet e una slider plug and play no perché era semplice però le immagini dietro era praticamente un uomo circondato da donne mezzane quindi qui scusa
+scusate il fuori non vi è eccome
+puoi non renderti conto che la roba che non puoi fare
+sarà perfettamente ragione fa erano altri tempi e
+il vero non ne ho nessuno e sia
+ai tempi quindici anni fa le robe erano totalmente diverso c'era una concezione ma io no
+una curiosità di fare non le fatiche non c'erano concezione di causerà di diverso cioè di cosa era sbagliato era completamente diversa quindici anni fa cioè quindici anni fa
+sessualizzare le donne errate io molto più foglie andiamo
+guarda che era vero
+non è vero guarda
+i programmi mediaset allora al contrario me è vero che se alessandro avesse fatto contrario ovvero un uomo al centro no anzi una donna
+ho dieci uomini dietro viceversa fosse stata fatta nei confronti dell'uomo dieci anni fa non avrebbe destato nessun scalpore la decisione vero orientati ad obiettivi fase isee uguali banchieri che tu neghi l'oggettività della donna è riconosciuta potremmo dire che l'ha riconosciuto al passato mentre la oggettività
+sessuale dell'uomo invece non veniva vista come me adesso come un grosso problema tanto quanto quella femminile non voglio aprire il vaso di pandora perché comunque la ma noi lo streaming ma lo sapevi lo stesso poi il fatto che di sentirsi legittimato a farlo toccando il discorso quindici anni fa non si parlava di questo oggettivizzazione ma evolve ma magari non se ne parla
+ma lo sapevi che era una cosa no
+evolve la società evolve cambia
+ma comunque lo sapevi loro stessi o hogwarts chi è più avanti e quant'altro assoluto e la società evolve e cambia anche la percezione ma non vuol dire che se lo pensavo in passato eri un cavernicolo che ai ragazzi destino ma non garantisco che è davvero vedo vedo ti faccio un esempio molto facile
+vatti a rivedere quando hai tempo molte vecchie pubblicità che venivano fatte gamma lagunari uno che ha degli standard diversi non proprio vendere della roba anche ci sono anche delle pubblicità ma che ci sono delle pubblicità
+qualsiasi film hai ragione davide sei vignette qualsiasi film di bozzetto di chieti infatti erano sessisti totalmente ma i tempi ci si arriva sopra capi no aspetta ok ma non è che non lo sapevamo lo sapevamo lo stesso ce lo facevamo dare bene perché così
+ma lo sapevamo però eduardo eduardo ti faccio una domanda allora via col vento era un film razzista e lo chiedevano in dylan no assolutamente no comment
+via via
+hanno fatto apposta l'hanno fatto apposta allora spiegami per quale motivo l'attrice nera afroamericana ha vinto l'hotel quello viene visto come una tantissimo perché è la istigare quello viene visto un film razzista perché c'è l'epoca quant'altro ma non è stato fatto nell'ottica di debito
+curare la popolazione afroamericana io onestamente rimango io sono assolutamente per la persona più inclusiva ho avuto in famiglia e viviamo ancora adesso testualmente anche problematiche di umidità di gender e compagnia bella e non sto dicendo che in passato anch'io sapevo cosa era sbagliato tutto giusto
+società si evolve e la percezione di evolve col tempo perde il suo punto dobbiamo aprire la bibbia e dire oh come mai le figlie di lot potevano essere stuprate a babilonia prima che
+parlando di cinquemila anni fa e sto un po' esagerando ma scusa microfoni de continuiamo il discorso era visto che volevi andar via se vuoi dire qualche ultima parola chiedo perdono per la slide quindici anni fa
+la maestra devo darvi anch'io ragazzi però lascio lascio dire quest'ultima battuta daniele poi a michele e poi la dico io me ne vado sbattendo
+volevo dire niente nel senso che
+cioè è ovvio che sotto certi aspetti la società evolve eccetera eccetera e come è ovvio che quello che magari a livello di codici condotta una volta era wow mentre invece ad essere una cosa normale però
+vediamo in questo senso io io quello in cui il mio il mio messaggio è semplicemente questo non basta avere un codice di condotta e dire queste sono le regole ma bisogna mettere in campo tutta una serie di azioni se ci sono degli obiettivi chiari esempio aumentare diversità e inclusione
+all'interno del proprio conferenze per raggiungere quell'obiettivo e non si raggiunge solo con il codice di condotta ma si raggiunge sensibilizzando gli speaker su magari facendo revisione delle slide piuttosto che
+con con lacune una comunicazione efficace comunicazione inclusiva vengono magari anche a livello di immagini rappresentate persone diverso tipo quindi nell'azione di role modo che tutte queste igienico slovacchia ci sono tantissime strategie chiama in questo senso qua dipende dove si vuole andare e con quale
+obiettivo ci si ci si è dati ecco mettiamolo in questo senso fa
+non posso usare
+cose mettiamo in questo senso qua e non posso dire sì e a giustificarle ecco mettiamolo in questo senso poi li posso contestualizzare in un arco temporale si però
+sì ecco questo è il tempo
+oh mio pensiero che vuoi dire il fatto di sapere che una cosa inopportuna e che quella cosa è tollerata nel contesto non la rende meno inopportuna e questo è emerso il discorso no c'è anche nei film degli anni venti e trenta il fatto che si perdonasse a certi film
+delle delle scene inopportune pur sapendo che era inopportune e perché il punto è se sapevi che erano
+ma adesso che sono in lockdown
+l'ultima l'essere umano no
+oh dio dio
+non lasciare il beneficio del dubbio pensando per vent'anni quello che noi stiamo facendo adesso come sarà visto che stesso tutto quello che noi adesso facciamo e siamo bravissimi bel cercare di essere più rispettosi di tutto e di tutti e inevitabilmente ci sarà qualcosa per la quale stiamo sbagliando agli occhi di qualcuno che ci vuole verrà
+aumentabili a noi
+secondo me sì perché perché è così perché
+cambiano gli standard cambia c'è un'evoluzione delle dinamiche tra le parti secondo me è la dinamica di base del rispetto reciproco non è che sia cambiata così tanto cambia la tua consapevolezza di quanto i lati poi spingere questo cambi argo scusa un attimo
+trenta anni fa ai quaranta anni fa se avessi sbagliato il pronome nessuno si sarebbe scandalizzato e quaranta neanche adesso si scandalizza nessuno ha detto invece un'offesa non è un'offesa è invece magari che qualcuno glielo fa notare perché si sente libero di fartela andare ma non c'è nessuno che sia il sindaco impagliato che profeta può
+essere considerato il loro peso non è non è necessariamente vero c'è chi è
+si tratta solo di avere la libertà di potertelo far notare non è fatto uso
+adesso ci prendeva anche cinquanta anni fa come detto non lo posso portare l'esempio direttamente sulla pelle io ho avuto mia figlia e per un anno è stata un maschio e ogni volta che un adulto perché poi in realtà parliamo sono di tutti ma sono i bambini usavano i pronomi femminili lei si stava molto male e nonostante noi
+guardate che si chiama luna chiama thomas era un costante farlo vestito mercalli quella era una violenza ed è giusto che quando combatté in non impongano perché poi è la parola sbagliata ma suggeriscono di usare i pronomi quarantuno dare questa roba qua è valida in tutti i periodi storici e semplice
+che cambia così ora dei pronomi non sarebbe stata accettata ma perché non c'era la consapevolezza perché no ma no ma secondo me non cambia non cambia la tua ora l'offesa che subisce qualcun altro cambia la libertà che hai di farlo notare cioè se una cosa che tu mi dici mi ferisce in qua
+dunque epoca storica ci troviamo mi ferirà lo stesso quello che cambia e se io mi sento abbastanza protetto e sicuro dal potercelo far notare e adesso
+lo permette che permette difatti dovevo fare non che permette non per la società ti permette di offendere il prossimo
+società che qui ci sono società che mi permettono di dirtelo che mai offesi ma fate quello che stiamo dicendo adesso comunque c'è un progredire e se arrivati dal rispetto a anni fa e comunque c'è ancora del lavoro in corso guarda caso quanti strumenti informatici
+attualmente si stanno adattando ora per l'aggiunta dei pronomi perché prima nessuno nessuno strumento informatico utilizzava i pronomi adesso discord c'è già ce l'ha linkedin almeno uno che ti contatta che
+pronome deve utilizzare per rispettarti nel modo più consono cioè se io mi sento una donna almeno quella persona sa come rivolgersi a me però ovviamente quindici anni fa si andava a ledere la sensibilità di qualcuno però ovviamente c'è è un
+è una cosa che sta evolvendo e la gente sta cominciando ad avere sempre più potere e libertà di dire quello che pensa ovviamente nel modo più giusto per evitare scusami davide alla fine eduardo trenta anni fa già che deve il suo nome alle persone prima di rivolgersi a loro va benissimo
+no no assolutamente no non lo sapevo era un problema mio non lo sapevo era un mio limite di tempo un po' perché assistesse voluto principalmente certo perché la società è evoluta per proteggere le categorie più deboli giustamente le categorie sotto rappresentante anni fa noi non eravamo a conoscenza quindi non potevamo sapere cosa fosse giusto e cosa posso
+sbagliato quindi o ci interessava poco c'è anche quello potrebbe essere anche quello ma una mancanza di sensibilità attualmente sia assolutamente tanto quanto trump però però dario secondo me non è che è cambiata la sensibilità delle persone che si sentono rivolgere a dei pronomi è cambiata la sensibilità di quelli intorno a loro e
+permettono di sentirsi in un contesto save potrebbe essere anche la società nel suo insieme società
+se le persone non sono
+le persone che gradiscono essere chiamate con un pronome non è che sono spuntate adesso è l'evoluzione dell'essere umano ci mette millenni non arriva in pochi anni ops ha già l'essere umano è sempre più o meno quello dell'epoca di cristo non è che siamo cambiati così tanto solo che attorno a noi adesso fortunatamente ci sentiamo più safe tipo
+potersi esprimere liberamente quindi io mi sento al sicuro no era troppo vecchio babilonia era troppo vecchio per cinque mila anni fa adesso dici che la società non è cambiata che l'essere umano decidiamoci un pochino con gli archi temporali no non la società all'estero l'ha persa fisicamente la sfumatura
+del cervello umano non è cambiato né che siamo evoluti sono spuntati umani nuovi no oggi più o meno siamo sempre gli stessi la società certo che è cambiata ma l'uomo no l'essere umano non è cambiato come struttura e borse era quello che ti sto dicendo sono evoluti e quindi tremila ai cinquemila anni fa era normale dare il
+pasto alle proprie figlie alla folla di babilonia adesso sappiamo nel duemilaventitre e che usa funzione normale ma in entrambi i casi se siccome lo facevano all'epoca o lo faccio o se lo facessimo adesso
+in entrambe le situazioni le figlie non apprezzerebbero questa cosa solo che oggi si sentono protette e si sentono di poterti dire no non mi dare in pasto alle ferie
+mentre prima no comunque mi è cambiato il contesto
+appena lanciato un'occhiata non è babilonia che lo scudetto sodoma e gomorra mia moglie ho detto va bè ci sia anche creatura occupa l'antica ragazzi scusatemi ma vi devo lasciare devo devo andare anch'io perché devo abbandonarvi verso stamattina e se ci siamo ci permetterai una seconda
+di andare resta quello fortunato
+amici
+domanda veloce che c'entra e non c'entra secondo voi cambiare su it il premier di brancher da master ama
+sì no
+troppo ma non puoi
+no no
+no
+mi è piaciuto il effettivamente la cosa perché anche quello lì è una cosa figlia dei tempi
+una bella scusate giro veloce vostra opinione d'accordo non d'accordo era opportuno un'opportuna sì no porto con me ci può stare giorgio ma assolutamente d'accordo siamo al passo coi tempi giusto farglielo ma certo ma certo è una modifica che non crea danno
+si fa nel migliore delle ipotesi fa del bene nel peggiore non fa niente xd perché no rispondo con il commento che c'era sul blog di antiracket e quando hanno cambiato la architettura master slave dire e come raccomandato dalla legge molto interessante molto interessante in cui c'era un afroamericano che diceva i miei
+avi erano evitati erano legislative ma io leggendo quel termine non l'ho mai pensato master slave ai miei prozii che venivano torturati per raccogliere cotone però
+detto ciò detto ciò io avendo trovato poi un progetto alla fine abbiamo dovuto esaminare il brent in maine e onestamente non è che cambi molto mascolina era semplicemente madia
+cambiare nella scelta per me quel termine ha nessun significato però il problema più grosso è che le persone vedono i significati che vogliono certe parole che bella prospettive ma badate con te è un modo quanto più incisivo per rendere più inclusivo per chi ha necessità sia assolutamente ci viene incontro io penso che siano piccole azioni che
+che le cose dal punto di vista pratico ma vanno a sensibilizzare le nuove generazioni e io lo dico come padre e una figlia di otto anni e penso che tutte queste piccole cose sono cose che poi questa generazione si porterà avanti e contribuire ad avere un modo più inclusivo e più rispettoso
+verso gli altri a noi tutto sommato che si chiama master baby berlusca beh nulla però è un passo verso su tutte piccole cose che messe assieme poi fa dell'educazione delle persone che però giorgio tu pensa a te non cambia nulla ma neanche a me fondamentalmente cambia nulla anche perché noi la nostra il nostro main language italiano per il tuo
+pensa se questi brand si chiamassero padrone e schiavo perfettamente ragione perfettamente ragione
+genere
+italiano ovviamente non cambia nulla per un afroamericano e servizi costantemente padrone
+hai perfettamente ragione
+ragazzo ti sbattono le parole hanno il loro valore in base al contesto puttane io ho capito certo dove però
+l'americanismo maslow poco quando schiavo schiavo da però io vorrei sapere il punto di vista di alessandro dato lui che l'ha lanciata questa bomba io sono d'accordo io sono molto combattuta ma inizialmente sta cosa mi sembra una gran perdita di tempo e pretestuosa anche perché se non ti riguardi l'attacco era molto
+più violento di quello teorico verbale che uno faceva facendo usando il tutto perché la parola mastering se ha molti significati quanti significati può essere il master gold in realtà nel mondo it e non è che si riferisce al master
+del padrone è il master del golden magi il punto da cui partire quindi anche lì sappiamo poi a girare intorno a tutte le parole è un po' difficile perché poi le stesse parole se vuoi trovarle tutte le sue sfaccettature semantiche escludere quelle che semanticamente sono inopportune diventa complicato poi come tutti ci adegua
+situati a me sembra un po' guardare non la sostanza ma la forma in questo caso poi uno può anche dirmi sì se non usi certe parole poi non rientrano però non credo che in questo mondo attenuare le parole abbia contribuito ad attenuare le violenze della società e per cui io francamente per quella cosa lì io sono qui grazie
+devo lasciarvi però magari ri
+ritornerò per continuare questa discussione comunque secondo me ci sta perché sei rimasto l'unico altare con cui abbiamo un qualche dialettica qualche punto di
+so mi spiace ma devo però ci risentiamo e porterò continuamente alto il baluardo del politicamente corretto che secondo me non è questa un male che si vuole descrivere oggi è semplicemente buon senso e un poco sforzo si può applicare nessuno dei due ha definito un maestro eduardo alla prossima alla prossima
+però quello già va bene dai orfani di michela io direi comunque abbiamo già fatto un paio d'ore di diretta e c'è qualcosa di cui non abbiamo ancora parlato che mi piacerebbe accennare discuto e raccontare sollevare come tema prima dei saluti finali ma in realtà
+schulman abbiamo fatto una bella disamina del mondo delle community cioè siamo partiti a parlare di di eventi arrivando anche comunque tanti argomenti vorrei comunque quando si parla di community di si a che fare con le persone
+e quindi si entra veramente argomenti infiniti
+perché non si finisce non si finisce più
+così così la vedo
+infinite le community se
+siccome la vedo anche gli altri voi suo corpo sarebbe un po' furbetta discussione vi ho parlato di eventi o per un prodotto
+comunità online abbiamo parlato del linguaggio solo per la visione di quello che sono le community dove fare un'altra offerta
+live si può parlare dei benefici che portano le persone esatto se effettivamente non abbiamo parlato parlato
+beni deperibili essere parte di una community effettivamente quello che non abbiamo discusso ma ma ma ragionandoci della bomba scusami davide ma parliamo di community secondo me sarebbe interessante parlare anche di the bread ovvero c'era stato un articolo molto distante piuttosto teologia alessandro
+io provo sempre fai a inquinare il per cercare di rivedere le puntate di quelle che mi piacciono per poi partecipare e c'era un articolo molto interessante in cui si parlava di quanto il livello playboy che ha
+il deferred in realtà sia l'elemento molto sbagliato molto tecnicamente non so come spiegarlo correttamente in un articolo in cui si parlava della fallacia del deep red che in realtà è semplicemente uno specchietto per le allodole secondo me questo marco minniti si potrebbe essere potrebbe essere anche molto interessante quel punto invitiamo
+richiamate
+approdata con edo mitch e dario succede
+grafica web
+no no no no vi prego no no va bene comunque
+come sai tra l'altro a parte la settimana prossima che parleremo di altre cose e torniamo sul retro gaming retrocomputing la successiva è ancora libera in qualche modo quindi è anche quel discorso che avevi accennato sull'open source va bene comunque io vi ringrazio per la precisazione è stato
+veramente piacevole ascoltarvi bel ritmo e a cui complimenti a tutti

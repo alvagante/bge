@@ -1,0 +1,790 @@
+quindi siamo live e quindi siamo online e siamo alla trentaduesima episodio della brigata degli istinti dove parliamo dei linguaggi di programmazione in particolare di quelli che ha senso imparare di questi tempi nel duemilaventitre che linguaggio di programmazione val la pena imparare e lo facciamo con programmatori gente di
+un certo spessore ed esperienza che sono veramente felici di avere qui con noi e che invito subito a presentarsi partendo da matteo per anzianità siamo grazie è svelato
+il segreto è che non va bene farò sembrerebbe abbastanza anziana però spero non si veda troppo e va bè diciamo che sicuramente programmo da parecchio che come tanti di voi di noi insomma è una passione che qualche magari da da piccoli lasciamo stare le solite scuse scomodo sessantaquattro amiga e così via perché
+un grande classico di come è nato negli anni settanta e le prime cose subito ovviamente del periodo sono state zap rivista di questo genere poi una trafila di una decina d'anni a scrivere per riviste info medie quindi di giorno programmavo era sera creo articoli per deep computer programmi log in tutta quella serie di
+è
+quindi ho visto tutta la rivista come è passata dentro eccetera qui di notte c'è collaboratori e andando a blocchi della mia vita negli anni gli anni novanta e io mi divertivo con quello che era ancora ai tempi un casey doors per clip quindi stiamo parlando di preistoria era molto carino perché era un prodotto che permetteva in un programma
+motore di fare sviluppo software quindi cosa assurda ed interessante avuto un certo clamore così passa il tempo ovviamente cambiano un po' le cose piano piano l'esperienza nuova così fino arrivare a quello che adesso un'attività mio ambiente che l'ambiente java enterprise e mi occupo di e per i degli stand messoci
+dei bonifici in tempo reale a livello a livello europeo prodotto progetto costanzo carino più altre cose e come tutti i programmatori sono un po' affamato di fare cose diverse quindi passo da eventi pisa magari layout perché segue aziende che fanno l'automazione cose così e si passa da java a c
+molly lotta come gli shampoo tutti i presenti come aiuto per importante perse per la stampa occupati in argomenti diversi quindi più sto purtroppo sono un pò un analfabeta sull'intelligenza artificiale sto studiando sto sperimentando facendo ho scritto il primo software i miei passi in automatico o quasi questo genere proprio
+che siano cose banali perché edicola ambienti riparte c'è un pò sperimentare loculo che prova a cercare un obiettivo e raggiunto più che a studiare che magari il linguaggio liberia pormi l'obiettivo è arrivare all'obiettivo e penso che sia un po' più più stimolante tosto che prende un manuale cessata inizio alla fine non avere un obiettivo preciso
+l'obiettivo di buoi dei piccoli cancelli da aprire delle piccole montagna superare un po' alla volta orribile un po' più disattenti ti dà una soddisfazione finale e cita poi ho fatto altre cose ma ovviamente non vogliono monopolizzare la serata perché l'argomento non lo sono io ma non quindi passo volentieri la palla al prossimo bene vai giuseppe
+atrofia sono a tutti ragazzi io sono giuseppe sono un programmatore freelance e ho iniziato a programmare come penso tanti di voi qui a scuola con te impediscono alla all'epoca torna a scuola ci facevano fare visual basic è stato il mio primissimo approccio che simpatica
+e dopodiché area università quindi già la serie tv the golden però in realtà iniziato a lavorare in ambito sistemistico quindi lavora in ambito sistemistico detto taglie pagano computer c'è quindi non è male e fare un po' di anni sono stato in quel settore
+sono partito dal basso poi son rimasto un ambito middleware alla fine per capirci vista applicativo visto dal punto di vista infrastrutturale però nel frattempo che mi divertivo a programmare per i fatti miei ho iniziato a farlo da firenze sicuramente l'azienda programmazione web quindi piccoli siti
+sono partito come tanti ovviamente da wordpress il dio della promozione web se vogliamo curare la programmazione o comunque più in generale mi sono messo a programmare in t e con le sue varie evoluzioni poi sono passato al mondo da javascript entrata in vari framework eccetera e che sono
+intanto un freelance a tempo pieno ormai da sei anni
+quindi sono lavoro da remoto prima il login questo è diventato un po' il mio badge è così che fa colore è
+ho programmato in realtà in tante cose anche per lavoro a firenze ha lavorato tanto in python a livelli non alti però però cavità trovare monty monty python e dopo di che ho lavorato da full-stack quindi prevalentemente sviluppo web è diciamo molto con javascript adesso tilsit con il mondo di
+un fatto qualcosina vongola langa anche che mi è piaciuto molto e adesso sono molto più specializzato sulla parte front-end un po' per necessità perché dove lavoravo preso in mano una parte così grossa allora mi sono un po' verticalizzato in questi anni e nel tempo non gli darà sempre per lavoro adesso mi dedico alla formazione quindi
+segna programmazione sempre web comunque quindi la nicchia quella e faccio video su youtube sempre sull'argomento po' il cerchio effetto tra l'altro poi ci diremo il tuo canale youtube in descrizione sempre molto interessante io invidio un po' la vita che fai da numeri digitali vorrei chiederti almeno gli asp
+negativi giusto per lourdes
+sentirmi troppo male però va bene no grandi cose e jervis e marco vi conosciamo
+però almeno brevissimo escluso sui linguaggi che avete imparato nel corso della vostra carriera dai chi parte ma micro-macro jervis bay molto molto molto io basic a semplice cinquantadue turbo pascal
+sei plus class visual basic e poi con tutto questo sono entrata in invito nel duemilacinque ha messo a fare intelligenza artificiale
+quindi picton e basta e mollato tutto l'intelligenza artificiale sono ancora l'invidia però finalmente sono tornato su trip la sua grandissima ottima si dimenticavo una cosa che crea associazioni seriali per il linguaggio perché nel novantasette novantasei novantasette george italian association
+per l'intelligenza artificiale ne ho fatta una zurigo che poi adesso è chiusa e e invece sì plus plus dal duemiladieci organizzavo aiutavo a organizzare l'italia splash splash conference e adesso abbiamo fondato la chapter di rappresentanza iso per
+comitato italiano di un'affluenza in stanza super chic la classica nientemeno chi l'avrebbe mai detto finito
+elvis io sto zitto padova
+no io ho cominciato a differenza di tutti con pascal valori che nessuno conosce ricorda più poi ho fatto caso più python java
+zwift
+go o altri tipi di gadget a terra
+sai che stai
+guadagni per mangiare mi sembra di capire che voi programmatori una volta imparate uno li volete imparare tutti e poi si diventa gara anche poliglotti fa differenza è che ci sono degli aspetti molto comuni a tutti e una volta che tu hai compreso qualcosa non è che tu ti chiederai python funziona in questo modo python è un linguaggio
+tipi da non sta dinamico che ha la gestione vorrei questo tipo blablabla e in automatico tu riesci a entrare in un continuo
+è un aspetto che in un in un ambiente che conosce no poi naturalmente la sintassi per la città si erge trenta i walker impari mezza giornata se tu impari mezza giornata però se capisco poi tra l'altro adesso è tutto facilitato non chiedere all'intelligenza artificiale
+come fare certe cose e poi magari ti rispondono in modo sbagliato però ti possono incanalare se non interrompa ancora sull'intelligenza artificiale per il copilota ha perso mi ha fatto perdere due giorni l'altra settimana scorsa aveva come homer mi ha completato un regalo perfetto
+due giorni dopo l'ho dovuta a riscriverlo che il bagno era lì regioni
+su questi schermi molto bene allora entriamo nel merito della puntata al riguardo inviterei il buon matteo che ha preparato anche occuperà della disposizione delle slide che raccontano un po' e non alcuni numeri sui linguaggi non so se matteo vuoi condividere poi lo commentiamo insieme le vediamo per
+parlare un pò sulla base di anche cenato lì si vede arrivare diciamo raccattato un po' di numero ha un po' di date in giro ovunque
+giusto per raccogliere ho deciso vado a vedere un po' di siti web dove ci sono dei dati interessanti però raccoglierli butto tutto su un progetto di tav così via giusto per non dimenticarmi quello che è stato fatto quindi lasciamo stare tutti i preamboli eccetera se si parla dei linguaggi il tuo business tempra si parla sempre di questo per mille ragioni liquidi adatto
+tabella prima ce ne dobbiamo prendere da lì per forza qualsiasi cosa dica anche se la minestra milioni qualche informazione bisogna dirlo perché sono pazzi da lino web allora cosa abbiamo fatto e ho predo l'index di settembre ovviamente ci sono delle cose invece che ci si aspetta un po' meno magari latomie mi aspetto hampton in testa mi aspetto eccetera handbag
+la sensazione non mi aspetto già vasca e così basso ad esempio con la classifica dei linguaggi questa è una mia sensazione però secondo questo libro assolutamente primo picton poi fichi passphrase a ruota gialla che fuma l'ha fatta da padrone per tanti anni ci sarà ovviamente se fai dotnet è inevitabile poi viaggiava si può sinceramente house
+mattarella con ramon io non me l'aspettavo così bassa affinché l'assemblea al nono posto mi sembra
+suona un po' così che capire un evergreen voglio dire isle basic festival mary and visual basic ab ma vi e insomma conobbe ancora aziende che hanno programmi tv serie non hanno paura fa ragionamenti stock di qualsiasi cosa sistema operativo aggiornamento del pranzo qualsiasi cosa che succede
+paura perché non stanno più in piedi però ancora ci sono in giro quindi cosa dire al linguaggio utilizzato utilizzato e lega sì probabilmente sì ma se ci sono aziende che lo usano regolarmente e se arriva è ancora settimo daccapo ma l'indice è basato sul numero di righe di codice o a un tutto un suo ragionamento
+di hyderabad da una cotta nella serie precedente
+sui motori di ricerca su offerte di lavoro ecc in realtà non è non ho provato magari c'è un modo molto chiaro quale descrivono da cosa è causata questa classifica però sicuramente un punto di partenza perché semplicità coloro tutti i mesi fa dopo un aggiornamento con le classifiche da anni per cui no quindi a mio avviso spostarsi cosa zampieri è l'unica cosa
+che cominciava fino alle quattro cinque posizioni va bene tutto è un po' discutibile non sono andato oltre perché perchè ce l'ha qualunque di non lo so se vogliamo aprire un primo un primo tavolo di confronto a mio avviso la posizione di ospite è sbagliato in questo
+e poi capri sinceramente avrei dato un po' più in alto più caldo perché trainato da progetti come wordpress dunque super diffuso e ed è molto utilizzata ancora a livello di thc web come linguaggio di programmazione gli altri più o meno sono chili si aspetta come python che assolutamente emergente degli ultimi anni
+nike
+è uno dei linguaggi da assolutamente da da studiare
+ok vado meno e non vai avanti avete qualche osservazione anche voi da fare gli altri ovviamente parliamo di è un'osservazione la farei secondo me siamo un po' tutti via strada dal nostro storico nel senso che per me per esempio farebbe sì sì place place picton in cima e gli altri con calma
+otto però ovviamente per quello che vedo io perché quello è la mia quotidianità capisco che assembli per esempio io lo vedo tanto embedded ancora fatto in assemblea quindi
+ma qui il discorso e in questo rating viene fatto su volume di informazioni presenti su certi media ma se non ho capito male dalla data del precedente suppongo che utilizzano che è un concetto temporale facendo in questa informazione ma magari questa è una supposizione che sto facendo io quindi può essere una lettura che secondo me
+tipo una sonda però da sola
+la fede un che lo conosco gli intervenuti sempre utilizzato e le discussioni al caffè ma nel linguaggio migliore del modi
+pesate dato però tutti i mesi a giorno c'è un primo dato prevediamo che in realtà ci sono altre ho provato a cercare altre altri spunti interessanti e facili dai diamo un po' mia riflessione eccetera abbiamo questo poi ho detto poi vediamo se c'è qualche sito web che ha offerte di lavoro dove magari c'è una classifica fatta anche da loro chiaramente
+parziale parla di mischia un po' di cose mischia linguaggio minchia stia tecnologie un po' di tutto e in questo caso c'è una certa differenza cioè ruby ho sparato primo posto
+già la scrittura
+saltiamo i vari full stack west così via appaiono appena sotto tir script di capì insomma più o meno ci potremmo acquistare andasse integrava che non so come fare
+chiudere root
+no ruby
+al primo posto è veramente strada come segue è la fase in base agli annunci ting pei remo hotel i lavori remoti con walton con salario più alto esalta esattamente quindi insomma se quello è il nostro metodo di paragone non è lo cerco in rete sui motori di ricerca ma lo cerchio prevedere il limbo
+viaggio dal punto di vista di quanto ci guadagno abbiamo una consigliera che è completamente diversa rispetto a prima quindi cos'è se guardiamo questo migliori ai dubbi ovviamente domani mattina lo studio e mi applico da qualche parte do sicuramente un posto di lavoro o nod come tecnologie però nord con facilità copiarlo da gian ha scritto ad esempio come cosa
+lo straniero che questa è la seconda statistica voluto portar dentro per di rocca e guardiamo dal punto di vista del quanto mi paga non so che qua se avete qualche riflessione aggiuntiva da metterci dentro vasta esperienza lo so
+sì no no no sicuramente no
+per esperienza mia la richiesta di rubik è relativamente bassa paragonata ad altri linguaggi e e quindi in poppa le anche legge di domanda e offerta si alza di molto la pagina quello che ho visto io
+media player questo sitema proprio sito la conosco molto bene ovviamente remoto moto sono molto per anni prima di non mano ma non è miei primi sogni a occhi aperti effettivamente atipiche tanto presente anche in generale onoda quello che è e si nota anche che piano piano si abbassano i livelli di difesa
+okay e più aumentano e sicuramente forse il linguaggio che ha più interesse a un livello medio-basso presente javascript quindi sta aumentando molto il numero di sviluppatori nel mondo adam kadmon questo fa abbassare gli stipendi snowden proprio altro perché the end o fattori son tanti un islam
+molto interessante vai avanti davanti anche le foto delle mie foto c'è un altro sito interessante che people
+che si basa anche lui sulla popolarità dei linguaggi programmazione poi direttamente alla loro classifica questo caso ma possiamo un po' rivedere nelle prime posizioni quello che abbiamo già visto prima sul theobald ex vietnam primo giava risalito un po' avast tramite una posizione un po' più interessante poi gli
+cipro spastici sarpi sarpi capisco va più o meno qualcosa che ci aspettiamo però che qui diciamo che nelle prime tre quattro posizioni sono abbastanza simili questi questi ipad il primo è stata west non remoto che ho dato un'altra classifica però anche qui la cosa grande è che python in questa situazione invece da
+grandissimo è una grandissima differenza rispetto agli altri quasi il doppio di giava che in questo caso o tre volte javascript quindi anche qui un modo diverso di vedere la la popolarità del linguaggio e tra alto ci sono alcuni linguaggi tipo
+swift probiotici che new entry rispetto al l'indice di prima
+poi son quelli linguaggio più o meno
+possedere sul basso come è più facile che sono variazioni su quelli che volete
+non fai più comuni e dal mio punto di vista nel senso come pista in programming grande assente rusty finora email perché tanti parlano di rast non so quanti abbiano progetti seri rusty alcuni sicuramente ci sono a parte mozilla dico fuori però sono sorpreso
+parlare molto di più di quanto poi è rappresentato unità rumorose
+sì sì ma c'è un motivo poi tira la bomba mamma più tardi ma dopo la mia pausa tiro la bomba su rachel
+che prenotano un salto in più mi sono detto va bè ho detto che potremmo andare a vedere altri dati ha creato detto ma andiamo dove vanno dove andavano magari la suona un po' meno i promotori news ostacolo fanno le loro storie di ognuno ogni anno lì a vedere l'ultima che ho fatto vi diamo un po' di tirar fuori cose o che west lakewood anche qua
+amo vederlo
+dal punto di vista anche come abbia fatto prima quello più pagato e anche qua una classifica che non c'entra niente rispetto a tutto ciò abbiamo visto prima zelig earl the zed che un linguaggio fantastico
+inoltre hanno scritto bunny league western sì sì sì esatto
+lo sto studiando adesso
+è un linguaggio piccolino sviluppato da una community carina e mi piace parecchio anche come filosofia abbiano poi speciali
+sicuro tuttavia mi sono spinto ad hello world giusto per capire come con macchia sul poco distante quindi ho detto proviamo anche lì fatto il micro programmino micro repository github l'ho messo su fuoco l'automazione per la compilazione sono già contento di aver fatto automatizzato il video di uno zaino di hello world
+vado fiero di questo risultato inutile e quindi anche qua come vedete tutti i linguaggi quelli più pagati prevede sono quelli un po' più come dire nuovi recenti vi promette anche guido domanda e offerta a poca gente che li sa trattare e sicuramente maggiormente pagati poi quanti di questi fetenti esploderanno
+sono già esplosi tuttora una fiera da decidere però più più pagati sembra che usciamo finalmente da quel grumo da quel blocco di piton chi avrà saputo da dove ci trovavamo prima questa è la prima sensazione passando da nelle autodichiarazioni che si fanno staff vediamo il peggio visto i migliori video ok
+anche qua peggiori e cece da art bag queen po' strano d'arte secondo me è che sia proprio ultima cifra lo vedo anche lì un po' di cose strane ed elfi e sopravvive lui ancorato tramite vecchi progetti personalmente conosco ancora almeno un paio di aziende che hanno grossi gestionali no
+t vent'anni fa chat di delfi che sono inspiegabili da quell'architettura
+trovarlo mi stupisce trovarlo così basso per assurdo mi sarei aspettata un po' più alto perché è difficile trovare almeno nella mia nicchia difficile però programmatori delphi quando c'è richieste e ovviamente inizia a scopare programmazione uno studio delphi che è un linguaggio veramente ero ormai di nicchia se non lo dico
+sicuramente pochissimi ambiti di utilizzo qui antico a vostro parere magari il suo interessante è il fatto che è già in uso è vero che non c'è tanto non ci son tanti programmatori ma ci sono anche tanti lavori che conosco un paio di aziende che hanno dei grossi gestionali scritti in delfi
+però quelle cose che per qualcuno delle persone che sta dentro il discorso è che dove vanno cioè necessario apprendere tecniche il mercato no quindi se ci sono due aziende che lo fanno sono dieci persone in italia professionista o venti o trenta perché sono le saprei dire il mercato e quello esatto
+anche qua altra cosa un po' strana che vedo adesso i suoi limiti mi sarei aspettato che convive in ambito blockchain sia comunque un linguaggio richiesto una sera aspettato un po' più in alto anche lui ma magari incide tutto il mondo startup vari crolli sono stati e mi ricordo che era in alto solidità efficiente se te lo nomini
+l'anno scorso centrò dopo la bolla live sempre esplode però considerate che questi sono i top pagati e io per esempio qui non vedo i grandi classici tipo appunto pane così via quindi williams comunque più pagati di tanti world stage a cui si fanno cocktail okay scusate ho letto gli spoiler
+ok ok scusa comunque che sono prezzi migliori dell'italia comunque
+la first lady anche in quella direzione dei poeti giusto per creare turbolenza era più che altro d'arte android c'è nel settanta di più visto anche un po'il l'interesse che su flat chiavi serre solari
+adesso forse più recente se forse se ne va un po' di anni però io comincio a sentirlo serialmente nell'azienda in questi media negli ultimi mesi l'ho sentito di world around the world sono meravigliata da matlab invece che con quello che fa frank pagare le licenze taxi
+batman non ha una storia ambiti igieniche finiscono i soldi della licenza
+per temporary e dall'altro invece tra i più pagati avevo visto lisp che non abbia nessuna lettonia black
+orca anche
+è uno dei linguaggi più litigare strana credo dieci volte a imparare ma non riesco perle è troppo lontana dalla mia testa per circa
+notate che c'è tipo funzionali c'è una luce una correlazione tra colore programmazione funzionale e stipendio dei quadranti quanto segue a parte zig che proprio qui fuori tutti gli altri sono praticamente funzionali schemi funzionali go forse no
+no assolutamente no proverò che perda tempo fa tutto quindi
+io lo definirei funzionale comunque cioè ce lo metto dentro e non riesco a definirlo non mi entra in testa niente e raid online rilevanza
+è un linguaggio night only
+il male non sta capendo le battute
+spencer vi lascio scatenare gli estremi
+io purtroppo devo scappare per una mezz'oretta ma giuro che torno va bene
+noi aspettiamo altre bombe
+allora proviamo a vedere qualcos'altro dopo aver ad i linguaggi prevede un'attività anche nadal tipi di lavori più pagati in ambito informatico e centotrentuno pensare linguaggio programmazione è poi divento ricco in realtà probabilmente non è non è proprio possibile qua
+ho provato a fare una classifica di queste tipologie dei developer experience un po' a metà di questa classifica
+ovviamente prima
+posizioni manageriali poi developer anche quattro ci sono talmente tante tipologie di programmatori programmazione di linguaggi diversi che credo sia anche difficile riuscire a legarlo d'ambito e poi un'altra cosa anche qui che mi stupisco un pò alla blockchain perché è più più più volte ho visto richieste e come dicevamo prima è quella
+era molto pagato lo spettatore richiamiamo solidi e giustamente le considerazioni di prima e potrebbe essere legato è fondamentale stampa potrebbe essere legato a mille cose che so many solito è una raccolta dati di da corpo su programmatore raccoglie po' di tutto quindi non abbiamo uno spaccato dove lavora le persone che hanno dato così questi posti
+e anche il security io mi aspetterei che un professionista silvio si è pagato probabilmente di più addirittura un programmatore perché è un aspetto molto importante della catena del valore di un'azienda che che in ambito software o comunque in abito industriale quindi per me l'aspettavo un po' più alto ma secondo me nella security si appiattisce
+forse un pò perchè c'è un sacco anche di gente un po' più di basso livello junior non a quello che vede nella security magari appiattisce su larga scala teatro il disco discorso non è proprio quello che queste sono delle medie su un settore no c'è sicuramente avrai tutto pin
+anche perché ci sono anche dei dei nella fascia alta abbiamo dei ruoli che sono poco operativi non sono più manageriali strategiche diciamo poi nella fase di nella parte ma operativa se vedi la differenza è minima da ingegnere sito della bild di centosette a novantadue ce ne abbiamo sette mila euro più o meno
+sette mila euro di dollari settimane dalla indifferenza no
+quindi sicuramente lì dipenderà molto dalla
+dalla conformazione mercato che prevede la figurina sicurezza si sta crescendo molto adesso no magari tutte alla leva che entrate c'è uno sbilanciamento verso giugno come dice giuseppe rispetto a agli altri settori non so quale tu cosa ne pensi come lo spiego io come sempre vedo che i manager che non fanno niente sono quelli che sono
+solo maldicenze
+questi cliché
+quelli che producono i muratori dell'informatica quelli che si sporca le mani e alla fine sono dei muratori quindi giustamente fanno le basi ma non ne prendono i benefici
+no beh comunque anche qua
+secondo voi in prospettiva questi numeri potrebbero cambiare e viste appunto lei ha e tutto quanto e come
+spero c'è protesta che sagra security e ho paura ho paura
+tramite blockchain a causa delle mille bolle che sono esplose si avrà quasi sicuramente un prete di ridimensionamento dal quale vedremo come uscirà spero che sparisca tutto lo scampia c'è in giro si torna a qualcosa di più di più interessante altrimenti rischia di affossare tutto quello che è un movimento a casa
+usa ragioni extra non tecniche
+bene è l'ultima slide down e altre buono c'è qualcosina ancora vedono
+ah ovviamente vediamo quali soldi lo student è stata quindi in tutto il mondo quindi gli studenti vengano sempre a mykonos non sfruttati è brutto ma diciamo pagate giusta dal punto di vista aziendale nel senso ovviamente quello me l'aspettavo giù i design usati qui chi fa frontend sono tantissime persone che fa
+front end ma probabilmente perché ce ne sono tantissime e questo appiattisce un po'
+il valore di queste persone anche se pare frontend e backend io mi sono sempre chiesto perchè fai front-end quando è molto più incasinato che farò becker becker alla fine non dico si sta trasformando a far parlare dei servizi a molte che fa il servizio è molto più stabile che un front end dove lo vedo dal mio punto di vista
+olto più frizzante dal punto di vista tecnologie o banalmente mi chiama il cliente che vuole un qualcosa che ti fa perdere giornate giornate rispetto un cliente che magari non mette becco più di tanto in un in un peccato che mi sono sempre fatto delle domande perché buttarsi così tanto su un front end
+è un po' meno sul perché anche un pochino più stabile possono domande viva verso sbagliato
+servono entrambe le figure tu non puoi dal punto di vista cioè se sposti il discorso dal professionista all'azienda no l'azienda ha bisogno di entrambe entrambe le cose e poi secondo me c'è anche una percezione della del fatto che magari il background perdona meno il front-end può perdonare un po' di più i
+conseguenza il fatto che tu prenda un giugno lo metti a fare affrontando è abbastanza comune rispetto a prendere un giugno e fargli fare il back end senza supervisione oppure su attività a cork fai molta più fatica no quindi secondo me puoi anche per la mia esperienza ci può essere una evoluzione dal uno entra in azienda a fronte
+tempo passa fare altro che può crescere sia per diventare il manager tutto oppure spostarti diventare full full stack mean giuseppe raccontava prima che ha cominciato a fare una certa attività puoi adesso la so anche se sempre specializzato su ebbero però comunque varia molto no è molto più a trecentosessanta gradi secondo me questo può spiegare
+spiega alla coda un altro discorso che secondo me bisogna fare la tipologia di azienda no perché ci sono aziende adesso banalizzo il discorso aziende di livello a piano vogliono qualità di minima qualità
+alta diciamolo ci tengono molto alla qualità del prodotto che vanno a prendere i professionisti e a pagarli di conseguenza no altre aziende magari gli interessa semplicemente mettevano in maniera brutta salvarsi la faccia il manager che deve ottenere il bonus che non ha
+ha come obiettivo quello di avere un prodotto stabile e
+con la qualità alta in produzione ma semplicemente dimostra anche lui ha chiuso quel tasto lì ed è andato avanti no e quindi questo secondo me incide molto sul prezzo che poi li attendevano a pagare no non so se mi sono la plastica trovati benissimo ci vorrebbe uno spaccato su questi dati per avere qualcosa utenti ovviamente ogni modello dall'imprenditoria
+sessioni ed il mio discorso sul front-end nera era
+che sia più che le aziende l'idea di avere un giugno era più facile che lo butti su un frontend alla mia impressione che helmut a chi inizia questo lavoro piace proprio di più fare la parte di front-end rispetto alla parte di backend è proprio una come dire forse per il fatto di vedere subito il risultato rispetto a vederlo gustative che
+vedi ma è così come dire
+bello grafico com'è come lo vedi di fronte a più più che anche come ti indirizza l'azienda e proprio wow ho l'impressione ma potrei sbagliarmi che dei giovani promotori piace proprio più fare la parte di problemi ti posso dare quello che vedo io che faccio anche propria formazione su questo non è oramai più che
+piacere a me sembra che il front-end proprio un approccio molto più semplice per chi non ha mai appoggiato la programmazione e chi ha sempre programmato magari appunto già ai tempi delle superiori o anche prima quindi ha sempre avuto la passione è probabilmente come dici perché non dovresti fare altro fuorché dossi andare a giocare
+c s impazzire dietro le richieste dei clienti e ci sta e mentre per tanti che iniziano da zero iniziare con il front-end quindi parliamo un attimo solo a katie alice stessa per intenderci risultava scrittura inseriamo dopo è qualcosa che possa imporsi delle regole dietro su una struttura quando arriva la
+programmazione in javascript è un cambio di modello mentale come sapete benissimo ed alcuni ed è la fine e quindi non riescono forse ad andare troppo oltre e mi viene da pensare che poi come diceva giustamente jervis sì sì va esplorata sempre un amatore di muove da una parte all'altra senza troppi problemi
+ma c'è un sacco di gente che preferisce tra virgolette rimanere nel frontend semplicemente perché un pochettino più semplice rispetto al entrare nella mentalità nel ragionamento logico della programmazione pura e quindi poi il audio devo fare una query su database rischio di spaccare i dati in produzione spam
+senta tantissimo rispetto al che c'è feste in qualche modo preso quello giusto è una super e iper semplificazione la mia però vedo che quello scalino lì fa un sacco di vittime e quindi vedo chicchi rimane un po' in quell'ambito anche per questo motivo bag guarda sono abbastanza convinto che sia corretto quello che dici anche perchè
+fra le varie cose che faccio insegno web design team r accademia di belle arti di novara e ovviamente chi fa chi fa quel tipo di scuola no non fa programmazione e li faccio semplicemente catenelle chess e provo a fare un po' di giava steam giusto giusto per dire
+cambio un dato in input box e così via e lo vedo che su venticinque trenta persone saranno due tre quelli che provano ad andare in quella direzione ovest rimane ancorato a designer che più semplice è come dici anche tu un poco lo switch per voglia per mancanza di stimoli per non interesse
+avete già soddisfatta di quello che ottiene vuole ovviamente in un'accademia di belle arti guardare verso la parte grafica quindi magaraggia neanche l'interesse ad approfondire però vedi che ci sono queste queste primule rosse questi questi casi fa frauke petry due tre a orson che ai quali piace e quindi vanno ad
+anche a studiare con la parte di limitatamente quello che dovevo fare però cioè accepted uno switch di testa in quel momento bene vedo che siete anche allineati con quello che ci scrivono in chat sei antonio de vivo che techno teddy bene o male i concetti sono quelli no front-end in qualche modo più diretto risposta più immediata su
+quello che fai e anche tanta offerta però che
+deriva anche appunto della grande attività di formazione viene fatta che magari riprende più questo aspetto è
+vai matteucci con le slide come son punti audio si potrebbe cura di hotel vediamo un po' lo facciamo la guerra di chi il
+wyatt rock e ci si ama qui c'è un unico vincitore lamar dominatore assoluto dai è meritato per quanto mi riguarda ma non scherziamo ragazzi questa slide completamente falsa non rispecchia la realtà dei maschi chat sei
+darò omesso il dato apposta sinistra io ammetto che uso visto studio code o netbeans quindi sono uno dei pochi eroi de rosa ancora ovest sud codice era ormai non è una cosa a mezz'ora dopo è un plugin che la fa quindi non è troppo troppo interessante metrò così si godono il super bowl
+rino ancora con visual studio code per cui devo tenermi di arduino però il resto più o meno sono maggiori riesco a far digerire il resto può anche qui
+mi sostenne not bad plus plus in quella posizione non l'avevo notato
+sveva perchè ci sono tanti eroi ancora che usano duri e crudi for flowers non posso su linkedin noi due noi uomini veri usiamo soltanto w w
+lo capisco e c'è anche un suo motivo perché ovunque vai lo trovi anche da riga di comando ma notepad place place boeri o piccolino che la
+però boh non è che basta questo sintassi colorata cioè non è ed è devoto di un fallo di al va bene però tutto il resto manca di più studio code per me è una droga se non uno lui e copilot sotto l'onu ma in ogni caso la mattina quindi purtroppo creano dipendenza ma in termini di sicu
+rezza non ci sono un po' di rischi con vista su d'accordo con tutto questo fatto che tutto già scritto e quindi uno sa prendere magari con i plugin si tira dentro fonia e da allora secondo me un po' sì i clienti dicono metti fai login su quel sito metri cubi di sessione l'utilizzo poi insomma ginevra anche un po' fiducia però
+di per sé la sicurezza può essere può arrivare il problema x arrivare ovunque anche qui copilot tutti i sistemi di intelligenza artificiale che garantiscono il fatto di il tuo codice non va da nessuna parte così via un olimpo non lo so affidarsi se viviamo lavoriamo sereni e si iniziò a preoccuparsi assicurarsi questi ambiti
+londra può fare nulla lavora anche per aziende dove non si possono usare così meccanismi perché ovviamente per polli si tu hai una macchina va su internet che non usa windows che non può prendere sull'aggiornamento gli eventi sviluppo non possono utilizzare l'intelligenza artificiale esterne e così e lo capisco però omofobo c'è da valutare
+non lo so cioè ci sono dei vantaggi ci sono delle slip dell'insicurezza ci sono dei requisiti un ovale dopotutto all'intelligenza artificiale sul leader è un punto della serata e va van eyck norma anzi io volevo fa parte del mestiere alfa usato ma chiunque fra i vari
+come plugin di co di intelligenze artificiali a supporto magari mi bevo mai molti sono anche i cross editor ma parliamo di viso studio code ad esempio fra i vari team nine copilot e compagnia bella avete qualche preferenza qualche raccomandazione quale usare
+i dabliu si chiama cody whisper cosa del genere in spagna nato whisper dal twister e copilot provati entrambi secondo me sono marco padre forse un po' più più invadente però copilot alla fine basato su centripeti non solo
+quattro tre mb sei tre cinque luglio se non sbaglio l'ultima versione però adesso c'è un'altra versione di copilot che è uscita dovrebbe uscire a breve e pacco a drew e ti fa pur riguarda remota un oggetto un tuo codice di parlare la rete peer review party l'intelligenza artificiale e ti commenta è tutto b non avete
+provato lo avete usato o conoscente ma quando mai non è un'idea nata online credo che se un plug-in di alfa no no ma forse non l'ho mai non ho mai non l'ho mai usata ma proveremo anche questi sto provando gratuito code yum che però è un livello sotto c'è palleggiamento livello
+ci sta perché è gratuito non è male ma rispetto a copilot e anche a cody diamo e s s si veda lo vedi ma conoscete progetti dice che ci scrive francesco gentile incerto e interessanti ma mi sembra che faccia da ide completo da un'idea di google è molto interessante ho chiesto la
+forse il poter partecipare ma ancora anaheim
+sono in attesa della band in italia non hanno ancora aperta ma anche quello
+gli script così c'è questa sessione è un l'evoluto uno degli aspetti una delle evoluzioni che avverrà in area che sta avvenendo e c'è la smaterializzazione di smaterializzazione del libano nel senso che tu non hai più una un computer con il tuo id è installato ma col browser vai sul sito
+la world space
+jenny li ho provati tutti sono nettamente funzionanti e non risolvono vari ambienti tutte le discussioni sulla sicurezza che per quanto prima che un fatto reale perché ci sono troppi casi con paride con plugin che aprivano porte aprivano a di sicurezza enormi comunque
+quello è uno degli effetti no della scomparsa del delivery idee di google è la risposta di google a quello che già fa e dabliu escort non mi ricordo come lo chiama e adesso oggi di equità con il concitato specialisti source code code spaces qualcosa del genere no
+intelligenza la sua versione comunque tutti si stanno muovendo in quella direzione l'aspetto che google ha spingendo molto sui gay serie oltre a essere ambienti di sviluppo remoto blablabla avrà anche tutte le funzionalità dell'assistente intelligente insomma già tutto integrato tutto il repository e
+dirigente
+siamo a cavallo
+battutacce a parte
+quando riguarda io quando quando quando ho detto prima compare abbia fatto fare un pacco che ho impiegato veramente due giorni a risolvere è vero mi ha inserito una riga di codice mi sono fidato e non era una cosa del tipo se mi ci so astrofisica ma era invece di un uguale a mike tyson un'altra cosa io
+mi sbaglierò una cosa così stupida ma non ho controllato l'ho rincontrato dopo due giorni mi stavo dando testate al muro perché sono due giorni buttati
+chiaro va ricontrollato
+però serve
+incontro molto spesso assolutamente credo che sarà un aspetto fondamentale al mese
+farà parte del nostro lavoro sta per utilizzare anche quello quello sgomento lecter senso sicuramente c'è un aumento di produttività non saprei quantificare in percentuale però spariamo e il venti percento buttalo via
+bisogna vedere poi nel tempo come migliorerà questa questa cosa siamo sicuramente agli inizi però molto promettente l'unica cosa che io nasco cerca della felicità
+si dice anche qui sempre nei corsi di web design ho provato vari modi di far anche qui lavorare da casa stessi
+ragazzi la cosa che gli veniva meglio smetterla con space quindi lavoravo tutti i sessione remota su tav è un premio interno al browser e lavorare in modo lì quindi dal loro punto di vista era più facile quello che installarsi qualcosa configurarli locale e pasticciare con faccia alla città un disastro
+vai direttamente con spese è tutto sincronizzato è sicuramente più efficiente tanto anche la configurazione di quegli ambienti li può essere trasformata in codice mandato giù un pezzo di codice il tuo progetto che quando lo aprì con godspeed si configura tutto come lo vuoi tu e per tutto il team solo per te
+è un vantaggio bonaria
+matteo altro slider tennis
+quale quasi da imparare imparare e parliamo di mille cose ma secondo a noi imparare a catinelle chissà se è forse vero nel senso che se vuoi fare front-end qualsiasi sia la tecnologia se non parti da lì va da nessuna parte è vero
+gli strumenti per prelevare ma poi si ci devi mettere le mani devi devi conoscere qui nelle terre celeste javascript le basi e poi rinnovati dal fronte e poi come sempre cosa imparare e ritornano sempre picton genova ci possono stessi quelli un po' più in alto profumato vero leggo ogni tanto di promotori che fanno linguaggio prenotazione
+le chiedo voglio studiare la parte simple però come si fanno a non sapere dico essere dei cintura nera di sequele ma almeno le basi insomma necessario altrimenti appena tocchi un database che con una norma o quello che vuoi c'è un problema non riesce a capire il perché il percome di questo qua è
+l'ostacolo cosa bisognerà imparare in futuro quindi mostrò d'accordo che anche se un pò anomalo nella prima posizione ci sia catena necessaria
+la slide che chiude la puntata praticamente
+sei a posto fisso posso aggiungere un link alla chat se sono finite le slide vediamo ancora poi così vado più veloce perché altrimenti no no no no
+non mi ricordo corpo travel venti venticinque adesso vediamo gli ultime sono così per discutere poi non vorrei assorbire cento per cento la serata
+ci faccio un commento veloce su questo slide okay no perché noi adesso stiamo dicendo i prossimi libri linguaggio da imparare e ci sono degli aspetti che sono fondamentali nel senso dici devo fare fronte a tanta scelta no non c'è discussione la discussione è chiusa in partenza nel momento in cui hai detto cosa devi fare nel resto noi stiamo dicendo bundesbank sulla base della popolarità che
+diamo adesso questi sono il linguaggio da imparare ma sappiamo cosa succede domani come facciamo a capire qual è quell'aspetto che ci permetterà di prendere una strada oggi che sarà consistente domani no immagina molte aziende adesso non voglio fare il nome del linguaggio perché puoi essere sensibile per me però molte aziende
+nde che hanno scelto sei anni fa un linguaggio e dopo quattro anni interviste ai siti di queste aziende se l'avessi saputo non avrei mai preso questa decisione no in quel momento lì erano sulla cresta tutti questi linguaggi tutte queste tecnologie ti va detto jarvis che questa lista qua è tutta roba che ci è data parecchio tempo in giro e quindi non è niente di nuovo
+sotto il cielo
+come
+partiresti con un progetto nuovo in giava oggi ma no ma perché
+ciaponi a me no
+no no no no no no ma non solo c'è una domanda non non non non sto chiedendo a te nessuno qua no in generale nel mondo vogliamo una persona che mediamente informata no mediamente capace gli arriva l'inedito farmi questo a lui prende leggeri miei patanjali dice con cosa lo faccio qual è la
+probabilità che cade in uno di questi secondo me è bassissima quindi qual è la probabilità che qual è l'utilità di imparare uno di questi linguaggi ma dove partirà esserlo roma scattata che no no no era giusto giusto per per aprire una discussione no se si arriva in mano
+per rilevare un programmatore di fare una cosa nuova probabilmente sceglierà quello dove si trova meglio quindi potrebbe essere qualsiasi cosa e se arriva uno programmato la cosa in mano magari cerca su internet poi gira la sua prematura dice fai così
+ovviamente meglio farlo in altro modo giusto per fare una parentesi e così via io conoscevo un'azienda che qua una delle classiche aziende di cui si parlava prima gestionale in delfi volevano partire con un nuovo prodotto e vorremmo farlo totalmente front end e back end art è acceso ma analizzando un po' le prospettive future ma soprattutto
+oh l'ecosistema che c'è attorno perché il linguaggio non è che basta zalman librerie sono dei componenti sarà interface vai poco lontano e quindi alla fine si è scelto di non usarlo di passare a wyndham west python di back end e tecnologie avast di front-end quindi alla fine di fare un prodotto che funzioni deve andare o te
+linguaggio vero ma c'è anche tutto quello che sta dietro se non c'è linguaggio superficie ma che non si interfaccia niente mentre l'altro autorizzare tutti gli ambienti
+barbara io penso come te
+in generale
+io non credo che ci sia il linguaggio figo no
+a
+uno degli aspetti che cerco di prendere in considerazione nel momento in cui devo partire con un progetto è ma tra dieci anni questa tecnologia ci sarà ancora no perché abbiamo un sacco di casino
+le idee di progetti ne rendi infelici c'è come ad esempio negli anni novanta e fiera era il delphi
+no non è nessuno avrebbe detto cavolo adesso comincia un progetto in dati tanto tra dieci anni sarà ancora lì dopo dieci anni di più anzi borland l'ha venduta a un'azienda che si chiama league so qualcosa di non mi ricordo neanche come si chiamano se io ritengo tradendo però esiste ancora alcun un prodotto
+esiste ancora ma assolutamente esiste esiste ancora ci sono come probabilmente hai tu hai detto gestionali fatti il defilé ho detto gestionali enfatizzati probabilmente qua c'è un incrocio perché non penso siano tanti d'italia è però
+li ascolto e che io scelgo giava oggi io son sicuro che tra dieci anni giava sarà ancora lì già ha senso oggi imparare java assenso ad imparare citycar stiamo parlando è un punto di vista puramente economico non ha senso dal punto di vista intellettuale assolutamente sì q è l'unico da imparare sia chip in tutto il resto non contano però da un punto di
+vista economico ed etico io devo
+professionista devo pagare l'affitto e il mutuo sono un'azienda devono finanziare un progetto che darà da mangiare per i prossimi dieci anni no secondo me da questo punto di vista la decisione diventa molto complicata e molto meno visibile esattamente cosa andrà a succedere lì dentro ma forse è una sega mentale
+ovviamente i soldi linguaggio che fra dieci anni ci ritroveremo ancora qua già giava secondo me lo troveremo ci serve e troveremo place place sono quasi convinto che anche chi ha capito troveremo ma più che altro ci sono dei progetti che sono pete wordpress è uno di quei casi diffusa in tutto l'universo magari lo userai solo per far quello ma ma c'è esiste picton stata una scelta
+ti sei progetti insomma questi qua che vediamo questa classifica secondo me verremo tutti e vediamo come andrà questo sono un po' più curioso io ho lavorato con tutti questi linguaggi ha inteso li conosco parecchi tutti tranne power cell un po' di meno no ce li conosco tutti e se dovessi partire oggi con un progetto da scegliere solo
+due
+facciamo nostra
+segreta
+per la comunità da una parte e per diciamo vari aspetti che possono essere tecniche e tecnologiche no però io fare o a picton per il weekend oggi cioè se si prendono decisioni in questo istante di san giuseppe che dici
+se i miei probabilmente sceglierei go quindi decennio non mi piace neanche d'accordo comunque con matteo sul fatto che questi qua ci ritroviamo felice ah con sicuramente anche perché facevi su però adesso ci sono domani chissà e tu adesso vi porterà a casa il tuo stipendio è vero che poi magari investe in qualcosa che
+dieci anni non esiste più però intanto dieci anni l'hai buttato tra virgolette la sua conoscenza a riguardo e poi chiaramente come in tutte le cose no la stavo stavo dicendo stavo parlando in progetto greenfield adesso passa da eroina aziende di
+solo un'azienda che mi è arrivato un professionismo o se non proprio
+mi arriva il mio capo o il mio committente mi dice fammi sta roba qua non c'è niente prima non ho nessun vincolo no non è che sono una banca di ciò che deve integrare con quello quello quello dice craxi librerie non è che tanta scelta no perché già gli altri hanno fatto il novanta per cento del lavoro io lo devo mettere insieme e devo andarci magari confrontando due servizi ma lì il probl
+schema è relativo no cioè c'è un'onda che devo seguire torna indietro e dico no non ho nessun vincolo quale scelgo perché secondo me è questa la genesi
+almeno questo è il mio ragionamento però se io riesco a rispondere a questa domanda nella maniera più
+come si dice più razionale possibile nel momento in cui prendere decisioni non è detto che ci azzecco e probabilmente non ci ha detto no ma no però nel momento in cui si crea una punizione di criteri che vi dicono che questa è una scelta che al momento sembra una buona scelta no ci sono anche altri aspetti da considerare veramente io pur essendo
+amanda molto giava con tutte le sue prove si può fare l'ho usato per fare qualsiasi cosa però dov'è che non mi sono trovato mai vere quando devo andare su qualcosa di embedded e così via quando ho fatto dell'anm da giava assolutamente non mi sono troppo bene so ma lo ambiti nei quali non è linguaggio corretto pur
+con tutte le sue evoluzioni e miglioramenti con interfacce native zitta gigi to do the world ma obiettivamente in base al contesto anche è molto importante se ti andava bene un tempo perché faceva google molto facilmente e avere accesso ai database molto semplice con delle classi utilizzate quindi assolutamente pro e i contro della
+naturalmente anche in base all'ambito nel quale nella mia azienda deve fare un patto per il futuro vado dove devo andare anche quello credo che fu certo punto di vista di a te è importante considerare ma infatti secondo me la cosa importante per quale progetto perché cosa perché noi abbiamo
+vedo che che dico giuseppe jervis probabilmente ma anche alessandro probabilmente per quello che fate date per scontato backend però ci sono tante altre cose per esempio se un'applicazione bancaria probabilmente già diverse diventa lo standard richiesto al cliente
+in tanti ambiti cell sciarpa perché sono società che lavorano con microsoft secondo me tutte queste sono linguaggio che ci troviamo tra dieci anni cioè non non ce n'è uno che va via ma a parte forse no non capisco perché la gente consigli bes e power shell
+jenny non capisco perchè siamo quasi le basi le basi ma non e sistemi oggetto un progetto un progetto non semplice michel tutela e gestione ma anche sì qual è lo stesso ragionamento vale per cinque secondo me per svariate tecnologie da imparare non esattamente il linguaggio di programmazione in questo oceano tecnologia da imparare la
+mah boh non lo so se quel secondo me sono cose linguaggio talmente specifici che non sono da considerarsi come
+se stanti sono da considerarsi se lavori con con qualcosa di specifico quindi sì quella in realtà uno standard c'è sempre sta a kate però alla fine ognuno fa quello che gli pare almeno non lo so negli ultimi devo dire che negli ultimi venti anni non ha fatto tante applicazioni con database magari adesso non c'è uno standard in senso lunghi orwell
+database relazionale sequel lo devi sapere un minimo ma sono tutti diversi è quello il problema che già almeno quando quando avevo fatto io forse era venticinque anni fa il mio ultimo progetto in cui avevo usato pesantemente database noi eravamo perché ovviamente l'architetto era un genio noi eravamo lo sviluppo su
+sunny e oracle la produzione su ics due fantastiche giusto per comodità e la sintassi di sicuro era completamente diversa quindi comunque non c'erano tante delle cose che adesso ci sono ci andava di rating di bbc quindi da tanto del supporto internet
+non c'era e si creerà diverse due bestie bestie diverse a secondo me il discorsetto tipo sì quelle browser per poter lavorare devi sapere tieni devi sapere it per esempio qua dentro io non vedo gay come tecnologia allo stesso livello allo stesso livello hai ragione cioè quello se ne metterei però era
+forse il discorso quadra su techno bar stadtbahn it baby porsche al no perché è una questione di principio però segue le basi gay tyson quelle cose che tutti attende un coltellino svizzero noce nel cesso decine di trappole se poi come utili di tutto il resto cioè che prima non so non c'eri c'è stato una una
+asl dove ci stavamo per picchiare sugli del violino sugli leader migliore
+eccola qua
+perfetta il primo non lo capisco molto il secondo lo capisco
+se però proviamo l'ultima slide la penultima che vogliono ritirare un attimo ragionamento non tanto per me la sagrada noi abbiamo tutti più o meno aspetti di ferite ma se non è onesto sia dal punto di vista del tempo che abbiamo
+salta foresta mestiere che gli ambiti dove andiamo ad abitare no è la domanda me la pongo a tutti voi da anche da dale prima alessandro
+tu oggi devi partire devi fare un progetto non hai nessun vincolo tecnologico non sia una banca che devi rispettare i vincoli perché altrimenti progetto non viene
+non viene approvato puoi fare quello che vuoi cosa con quali tecnologie da applicare e la domanda è vaga su un aspetto che tipo di progetto ma secondo te quello il più vicino al più vicino a te io da non programmatore programmatore molto scarso lo farei in python per impararlo meglio perché vedo che nelle varie
+slide uno di quelli più comuni chiesti anche se non immensamente più pagati ma quello di cui però non lo vedo come una lingua franca e sotto certi aspetti che chi ha senso
+dal mio punto di vista da niubbo da novi un però alcuni tecnico ma non programmatore
+andrea farlo in altri linguaggi mi sembrerebbero troppo complicata non ci pensare nemmeno o forse però
+per quello poco che lo conosco già so che potrei far cosa poi chiedo a copilot e il resto lo fa lui
+va io passo la parola a giuseppe a questo punto
+non si sa che tipo di progetto è il più vicino a te che mi chiedo è quella cosa che tu ti trovi ad affrontare il novanta per cento delle volte times
+se devo dire qual è il linguaggio con cui lavora di più in cui sono più confidente a des moines tags ti ripeto non so che tipo di progetto e quindi potrei dire una cosa molto brutta poter fare un progetto veramente poco performante però sicuramente a occhi chiusi ad il linguaggio che conosco meglio non uno che conosco poco la nuova n uno
+con poca oggi e far parlare papà
+il linguaggio più che conosco meglio ovviamente
+non è la prima cosa che userei la tua serva da esempio per quanto lo conosco bene quindi non lo usa anche l'usato anche ci sono altri quasi più performanti prima su tutti io conosca un po' e che appunto go in quel caso dell'italia ad una lunga opera magari un progetto che richiede un semplice monolite
+tap tip mi gioco tutto perché trovate un'applicazione web magari non ha nulla a che fare con una piccola web fanno niente di simile nella sala elaborazione dati quindi dare una risposta difficilissima da loro è stata un'ottima risposta secondo matteo io sono un pò in crisi perché ho in mente soluzio
+diverse e ognuna frank approccio diverso come dicevo prima con azienda che faceva da giovanni delfi o indirizzata verso uptown e cosa si usano react di fronte ad esempio nell'ambito e sono noiosi usare java per qualsiasi ragione la cosa più dura almeno usare giava ma è passato all'ultima versione
+di giava e utilizzare quella quella è la cosa più complicata ci sono altri ambiti dove dove probabilmente google può essere il linguaggio migliore però che qui mi chiedo a livello server
+e qual è il linguaggio migliore per far servizi promettono aleggiava tuo lo chiamano il migliore secondo me non c'è il migliore è quello più adatto alle tue esigenze e per questo dico che la mia domanda è stata vaga postano senza dire in questo ambito la propria volevo capire più o meno qual era l'aspetto che colpiva
+nell'immaginazione scorge anche qui credo che lo saprei dire permette dopo una raccolta dei requisiti allora ben più proprio chiaro quello che si vuol fare sono poche confidenze così io ho tanta confusione perché ho delle mie preferenze che però non vorrei che andassero contro il progetto perché potrebbe stare
+progetto penserà bene del progetto la tecnologia migliore da utilizzare e non a quello che piace personalmente altrimenti si farebbe e sarebbe il molo linguaggio questo questo è un aspetto molto importante che spesso sottovalutiamo tutti l'ultima l'ultima cosa che chiederà scusa permettetemi c'è anche il fattore che quanto sarà efficace
+in quel progetto telo
+lo faccio con linguaggio che conosco meglio in maniera più efficace lo utilizzo anche meglio se lo poteva fare con linguaggio forse più adeguato ma che non conosco bene magari alla fine il progetto viene peggio perché non sono mai esperto di quel linguaggio che ho avuto ho scelto più appropriato ma che conoscevo meno tempo e un ho potuto incontrare di tutto
+secondo me questa è una mia opinione tolto il chip più tu puoi diventare un medio esperto in tutti gli altri nel giro di qualche mese tolto il chip più perché lì non diventerai mai anche se credi di esserlo
+ma volutamente questo e posso confermarlo ma infatti è una delle cose che ho imparato più di tutte frequentando il comitato di standardizzazione cioè quelli che il linguaggio lo scrivono tu vai in giro a chiedere uno ma questa cosa delle routine non l'ho mica capita me la puoi spiegare no guarda io non ci capisco niente vai da quello là
+che ha fatto le cortine
+non c'è nessuno che sa tutto il linguaggio mi ricordo cos'era venticinque anni fa avevo intervistato via via email perché è l'unico modo a burns court bruxelles sul futuro di cipro splash e ho chiesto ma il futuro come sarà luigia ai anni ne so niente c'è il comitato che decide steps chi l'ha pensata non
+sapeva già giada o venticinque che avevo detto andare ma lui è comunque una voce importante nel comitato ma non è
+non decide nulla da solo cioè lui è rispettato ovviamente perché primo rally l'ha inventato lui aveva delle idee in mente che sono ancora alcuni di cui alcune deve ancora arrivare a realizzare quindi c'è del lavoro da fare ancora sulla sua visione però nel frattempo ci sono state idee tante altre idee introdotte nel linguaggio
+ok
+in maniera non sempre omogenea però mai infatti si plus plus non è il linguaggio che per esempio prende prenderei io per alcune cose perché dovessi fare una cosa che va un minimo su webcam o minimo su
+i miei progetti così veloci
+io adesso mi sono fatto la casa un po' di domotica in casa e per capire come ottimizzare riscaldamento mi sono fatto una cosa che acquisisca i dati mai e poi mai metterei a farla in cipro splash preso scarpe e via perchè eft scarpe perché per motivi religiosi non posso usare qualcosa che abbia un
+team dinamico quindi
+quindi è la cosa più semplice da usare in questo caso quindi in python diventare e perché mi sono capito male all'inizio hai detto che tu hai kitchen aid io ho fatto circa sei mesi in python e poi mi hanno insomma vuoi fare il manager sì perché così non è bastato
+se avete anche il mobile che python genera dei manager in questo caso è stato uno dei motivi per cui
+ma in realtà quando è iniziato piton non era così importante quando iniziate con l'intelligenza artificiale phaeton non era così importante torce che adesso si chiama app torce all'epoca non si chiamava victor si chiamava torce e aveva lua come linguaggio integrato non wait and see
+e quindi all'epoca era un po' un mix scripting python lua e un po' di sì plus plus per aggiungere feature del linguaggio cuda era un po di ogni
+dopo che sono diventato manager in realtà è diventato molto più python però io facevo computer vision e hai quindi ancora c'era c'era una parte dei la spiaggia io lo avevo incontrato cos'era quindici anni fa credo che ai tempi facevo un programmino che era a catena e netbook tre che serviva convertire
+le webmail in caselle potrà quindi tu chiedi questo demone lo interrogava in top tre lui faceva chiamata cd trasforma le pagine web in poco pollo po' tre e ti davano risposte e l'avevo lanciato perché ai tempi libero dalla popola la porterà alle loro caselle allora hanno fatto stà rovina per per
+divertirmi e c'era un altro prodotto che fece la stessa cosa che era fatto il l'uguale ho conosciuto in quel momento lui ha concluso che ognuno di noi abbia degli aneddoti su quando consumi tostato nave a proposito di luka luka una nicchia forte perché rimane come lingua scripting peri
+rendere ingegno nella maggior parte
+scomparso a qualche non mancano
+joan lui e l'aveva luogo del genere amri all'anno non affronta arredo che abbia no credo che ci sia qualcun altro che a lui non è non arriva la real ha al suo sistema di blue print e poi si place place che non c'è anche i reds e al modo di dwight
+non mi ricordo male
+comunque è usato nel gaming forse godono engine forse mi viene mi viene da dire perché poi c'è uniti che si scarpe
+nel mondo del gaming non hanno cioè so che è usato nel gaming lui ma non non non credo che se usato in uno dei motori maggiori cocos due l al training
+il kraken un crack keygen che però è scomparsa dalla faccia della terra da qualche anno fa era al top no no no e infatti li ha comprati amazon e poi sono
+andare lì
+tra l'evoluzione
+scusate ma civiltà
+dicevo per lui vedete un futuro perché ne vedo un po' di qua un po' di rap è uno smalto a capire se è un linguaggio così di scripting bash d'integrazione semplice o abbia effettivamente un futuro
+io personalmente ho visto la transizione tra luka in torce e torce ed è una cosa diversa cioè è una transizione che al crescere il progetto era necessaria perché lui non era in grado di star dietro a delle esigenze che aveva un progetto di maggior respiro com'era torce quindi va bene per le cosine che ri
+rimangono piccole ma per cose che vogliono crescere un po' di più cioè in realtà lì era lavorava al contrario perché torcia e una libreria di python mentre luka è un linguaggio integrato all'interno era un linguaggio integrato all'interno di torch li hanno dovuto invertire la logica perché
+stava crescendo troppo stava crescendo la necessità di avere un un sistema di far parte di un ecosistema che non era soltanto più l'intelligenza artificiale fine a se stessa per per fare esperimenti ma bisognava andare in produzione con anche tutta una serie di altre cose connesse alla l'intelligenza artificiale quindi era un certo
+punto necessaria
+quattro sicuramente si hanno sempre delle nicchie prendete cobot ancora utilizzato no ci sono
+approccio shenyang
+se tu vai in giro non è venuto fuori il suo stack overflow dei tuoi lavori più ricercati però c'è gente che chiede e cerca ancora a professionisti in quella in quel settore lì perché ci sono delle cose fatte magari settanta anni fa che mi sono corretto totale però che bisogna mantenere
+mettiamo che abbia letto quattrocento ha il proprio pg punto ma promotore brown il giovane età di quarantacinque anni che giovanissimo comunque
+va andiamo avanti di una slide di talento con johnson
+tecnologie da imparare
+the queen beh questo è tutto il web però
+e per quello dicevo molti giovani sono attratti dal lato oscuro del web da coro flow purtroppo c'è un miscuglio di tecnologie
+si cambia front-end di sì però tutte tecnologie web appunto decisi che non ci sono arenato
+qui rimessa lì e manche tantissimo lega si è diretta da metri
+un fischio dare oggi qui da un progetto attraction surveillance dovranno imparare madonna tornerà essendo anche questo derivata da
+indagine instagram flow può essere che comunque molti programmatori si trovano oggetti quanti come noi lavorano su un progetto che parte adesso i guanti lawrence progetti nati cinque dieci anni fa chiaramente c'è un nipote influenze del passato come air bud e ciao il progetto affrontanti è nato dieci anni fa e non è stato
+rivisto è un progetto morto
+mettere on line un progetto che tu hai cominciato a che hai in aquiro
+dieci anni fa metterlo su adesso mantenerlo allineato
+che passi tutti gli asset di sicurezza e tutto è marco oh quante aziende fanno sistema di sicurezza nella figa tutte no
+eh magari ma fu questa cover flow anche a pescare ovviamente in tutti i paesi del mondo pensa che vada a trovare di roba fresca e sul web si trova nemmeno mia amica era ad essa capoverde dalla sala jordan da lì chiedendo quasi ci viveva e allestiti governativi facevano paura
+rue paura o cosa stavano rinnovando però pista che ci siano i rami
+anche senza assistenza
+e poi in realtà ci sono dei progetti che sono portati avanti con delle delle tecnologie e dei team di sviluppo non dirò un paese del mondo molto grande però
+c'era c'era un amico che sta in california che aveva un progetto e mi ha chiesto di fare un assessment stiamo parlando del duemiladieci io ho capito guardando il codice che lui mi ha mi ha saputo com'era strutturato layla il meccanismo di lavoro cioè loro avevano lui aveva dato
+tutto a un'azienda esterna da sviluppare ma che una startup va fatto a sviluppare tutta aziende esterne e queste aziende erano scatole cinesi cioè sostanzialmente acea un'azienda che va preso prime contractor aveva fatto
+ha gettato le cose è passato a varie altre aziende le varie altre aziende avevano tirato fuori cose dal cassetto che erano completamente parliamo del progetto che era nato nel duemilaotto circa e con un sistema di pagamenti quindi comunque una cosa che avrebbe dovuto avere una cerchia di livello di sicurezza e
+di fatto in technet uno
+the end ha fatto in visual basic sei gen
+parlando delle cose che quando l'ho visto ho detto no delle parti che non avevano assolutamente senso di esistere quindi progetti nuovi non necessariamente sono concepiti con l'idea di di essere strutturati in una maniera sensata
+non inviterai uno che studiare ad mettere in mezzo questi progetti e quelle persone scrivono su stackoverflow giusto esterno sono un miliardo e mezzo forse questo un aspetto credo interessanti sulle persone che chiedono su stackoverflow sono più le persone che stanno mantenendo rispetto
+quelli che stanno costruendo da zero sono anche delle persone possono essere non vogliono android le persone che hanno o che stanno imparando o che non hanno la possibilità di imparare tanto spesso che sono più focalizzate a mettere a frutto quello che hanno obama risolve risolve risolvere esalta e quindi quando gli arriva una riga
+gesta di quel tipo dieci notti da imparare questa già qui e le risolvi tutto non so io non conosco tranquilli mi ricordo dollaro e basta non so cosa cosa cavolo potenza
+il mio ultimo progetto web del millenovecentonovantotto quindi giusto per chiarire ed erano applet loro lato server e java
+applications lato client roba perché l'abbiamo fatta nella label domanda per tutti intanto matteo tom mutato però ovviamente sentiti libero di ricordati che sei il mio interesse è
+voi dovete lanciare un progetto web nuovo ex-novo che free world utilizzate qual è quello che va per la maggiore con il free world duemilaventitre stagione duemilaventitre next gen s a bomba
+giuseppe
+del re che va per la maggiore è quello che mette una manciata magari è quello che fa solo che tutti le diresti no non che quello che va per la maggiore che lui ti sta inculcando code no al sale no no io non so niente di ste cose voglio sapere cosa gira cosa va di moda di questi tempi raglan il framework più famoso mettiamola così più richiesto e
+abilmente react seguito a ruota da angular per motivi diciamo probabilmente su su target diversi e poi invece sia il migliore l'altra sera ne ho parlato sul è stata una guerra con dio invece molto diversa fra livelli popolarità non c'è paragone quindi dipende sempre a chi doveva
+consiglio se uno deve studiare per lavoro perché poi alla fine lavorare e guadagnare è tanto bello piace tanto ai marshal è sicuramente adesso se impari react e ovviamente poi ci infili next che lo porta su su un buon livello invece secondo me è un buon prodotto io lo uso anche
+dei prodotti quindi
+molto performante e ampio sul mercato hai ottime possibilità e mi raccomando tag script su questo sono meno musulmana democratica hits
+mandato che technet in chat e la lista però non so se
+registrata su youtube ti sei non c'è una legge c'è un'attiva chat su youtube di gente che scrive e commenta va a farfalle intervenire lì dentro mandelli linc tu che ci rincontriamo tutti quanti dentro è però
+clothes di non so se ci conosciamo se ha il mio contatto contattami vario modo e ti passo il link è
+concreta la next next year
+e già io quando sono in difficoltà io mi sono già perso
+lecter when the view o che neghi con lo svelto
+l'ho sentito ho sentito tolkien cos'è quick è la parola che novissima queen non conoscete quella canzone del tipo cazzone ho battuta dichiarati o no c'è questa roba qua che devo fare ma correa non riesco a farlo adesso facciamo un altro ramo no
+sì che poi nascono e crescono e a volte muoiono in si infila è stato il grosso fosse qui oggi stesso in qualche modo il kosovo con una grande promessa che mi ha creato più problemi in assoluto media e questo è un caso reale angular a arles
+da un giorno all'altro ha detto basta queste morse quell'estate gay li volevo volevo prendere gli ingegneri di google sgozzarlo tutto donna
+con una mossa da stronzo desiderano che la tabella che me l'hanno fatto nel momento in cui io ero sotto assessment ed era arrivato all'ultima versione non c'è una soluzione per l'altra
+bene ha fatto la storia no non è stata affatto il suo geco angola haines ha fatto lo scherzone tanto però in realtà c'era qualcosa io adesso di web non ne parlo perché appunto già dichiarato di non capire una mazza l'unica cosa che posso dire top script fantastico ma semplicemente perché perchè
+l'ho già detto
+no però una cosa che volevo dire quando parlavamo di linguaggio se ci saranno tra dieci anni per me lingua e tutti quelli in grado ci saranno tra dieci anni il più lento è stata la salita di un linguaggio storicamente violenta la discesa linguaggi come
+delfi che poi era il successore di turbo pascal purtroppo hanno avuto una salita molto veloce negli anni novanta e una discesa molto veloce negli anni duemila molto più veloce rispetto ad altri nel senso visual basic
+non dico che siamo ancora indietro con visual basic sei però perché dot net visual basic sei sono due linguaggi diversi
+sappiamo che no non sono la stessa cosa acton è uno che è nato negli anni novanta e ci ha impiegato una vita arrivare al successo gli arnesi legata brighton secondo me non ce lo tiene tireremo reid media anche perché l'aspetto un'altra importante che diceva anche matteo prima o anche qualcun altro nessuno mi ricordo e la comunità quanto è sana la
+comunità che addietro no quello è uno degli aspetti secondo me più importanti ma infatti io inizierei con le bombe qua perché bath bombs rust attaccato allora rast prima parlavamo della comunità rumorosa resta effettivamente a una comunità rumorose non non non non non dico nulla di male nel linguaggio linguaggio e b
+bello linguaggio è bello però vederlo da fuori io io a un certo punto dicevo voglio imparare rasta sommesso fatto i soliti hello world le solite cose e poi
+c'è vedi che ci sono una serie di allora rusty
+facciamo un passo indietro circa un anno fa un anno e mezzo fa c'è stato un
+una serie di eventi in america in cui
+pubblicazioni governative in cui parlavano di linguaggi sicuri che non bisogna più lavorare con linguaggi non sicuri ed ebbe particolare come cosa perché comunque
+sei plus plus sì sappiamo che sono linguaggi non sicuri però questo è venuto fuori proprio in seguito a londra di rusty allora in parte uno può dire rasta dimostrato che un linguaggio ma resta un linguaggio che intrinsecamente ti impedisce di fare di fare porcherie tra le tante altre cose che ti impedisce di fare
+tra le tante cose che ti impedisce di fare sono liste elencate doppia per dirne una
+semplice
+è il motivo per cui è venuta fuori quella nota governativa federale americana è stato proprio rast ma non è stato tanto il fatto che proust avesse dimostrato che si potevano fare le cose sicure perché è anche complicato da usare rast su molte cose ma è stato il fatto che rusty me l'hanno sp
+spiegato successivamente è un'associazione che è di un tipo particolare ci sono varie forme associative e negli stati uniti rast ha una forma associativa che permette di fare lobbying e sappiamo che come come funziona il lobbying non so sapete come funziona il lobby negli stati uniti quindi già
+vado dal politico trovo il modo di convincerlo per fare una cosa che a mio favore sostanzialmente
+e questo mi è stato spiegato da invece chi gestisce la comunità di zig e
+era un linguaggio che ho visto così per caso e avevo detto ma guarda interessante questo linguaggio e siccome faccio degli stream twitch uno del pubblico ma detto ah ma io conosco il community manager di league che italiano e vuoi e stata un mega
+alla fine l'ho intervistata abbiamo parlato anche di questo ed è venuto fuori che tutta questa foga dei linguaggi sicuri è venuta fuori in seguito a rusty ma in seguito al lavoro di post come come lobbying
+e tra l'altro rast dall'altra parte ha un una gestione della comunità che è un po' particolare cioè a questa foundation che ha un po' il bello e il cattivo tempo addirittura ha detto che nessuno può usare il logo e il nome di rusty al di fuori di loro ha cambiato le carte in tavola sulla
+una conferenza per per non far parlare di alcuni aspetti perché non gli piaceva chi ne doveva parlare sembra che ci sono un po' di cose ombrose tant'è che gli ho detto va bè saint just è bello però aspetto a farlo perché non mi sento di investire su una cosa e
+potrebbe saltare non perché il linguaggio è brutto ma perché la community sta facendo dando di matto c'è una un fork di rusty che si chiama crab che hanno fatto proprio per evitare il problema del della
+copyright sul logo di rusty tant'è che a un certo punto sembrava che chiunque dovesse dire non sono affiliato con la rusty foundation quando citava rast cioè cos'è cos'è a livelli allucinanti
+che non hanno niente a che fare con la
+con la tecnologia cioè va bene dai abbiamo la bombetta l'ha rilanciata insomma e se l'olanda ha l'hobby di rafting no ma è una cosa che ha stupito anche me perché non non sapevo niente di tutto questo è è lei che anche sto fatto che adesso ovviamente nel kernel di link
+ubs né cederli langhe metodo esatto di windows stesso anche se ne parla e se sei
+senti persone presentazioni michael fordham incontrato questa ragazza aveva fatto una presentazione su raster molto convinta e
+sì
+c'è un grosso pouff dietro se vogliamo per l'amor di dio poi dimostra cioè avere per poter avere la dimostrazione diretta che quello che stai facendo non è una porcheria che funziona bene e non escluderà mai emma una feature molto bella che è troppo troppo il buon technet e disse non mi sbaglio
+aglio e che però se non ti fai vedere come premio gli incidenti è
+va bene allora tu hai tirato fuori una serie di fonte di
+free world
+di front-end tu sei sviluppi front-end immagino sei soprattutto comprende vero per se volessi ti faccio la domanda che avevo fatto prima gli altri se dovessi sviluppare un progetto web greenfield adesso che cosa useresti
+dio e io sono frontend di solito quindi non non parlo di backend un progetto web fuoco
+frontend come ti chiami troppo io e nel tuo talento adesso ciao daniele
+ma io userei lo stesso
+buon vecchio giuseppe giuseppe unicellulari
+tip street
+probabilmente reato programmi svelta o anche più che angular anche angolare bello impegnativo però non ho mai studiato angolare ma comunque abbastanza abbastanza gagliardo come framework bene
+allora c'è questo di matteo che rimane dipendente da un po' di tempo e con i suoi numeri dei vocaboli e quanto guadagna un developer l'italia dato data alla fine partiamo con le risse iniziamo a dire male dell'italia per fare questo di solito si parla solo della ral dicono che prendano il programma
+partiamo da lì è uno degli inganni aspetti quaranta non è l'unico però detto bè partiamo facciamo tre slide una raffica tra l'altro e buttiamo dentro anche questo tipo di argomento quindi sono andato su altro sito che tale como vi ho e dimmi un po' se tu puoi basare che loro ci hanno delle
+hanno la fede però perché mi ha dato
+mi hanno detto quanto preda così fatto le statistiche e quindi ho tirato fuori per tre nazioni qual è dopo la gara sviluppatore chiaro sviluppatore vuol dire qualsiasi roba lo sappiamo benissimo front-end and otis ma non importa una media generale vediamo un po' cosa salta fuori la tac c'è un'altra statistica leggono preso per mutare rachel
+quello stipendio al netto poi dita delle tassazioni locali però partiamo con tre bombole dietro l'altra ha ottenuto questo argomento perché è un grande classico quando si parla di sviluppo psicomotorio italiano rally medie da trentacinque mila all'anno tedesco a mela svizzero centomila franchi l'anno quindi
+perché ha avuto questa cosa perché spessissimo quando si si parla di che lavoro fa lo sviluppatore ama lavori ancora in italia e quindi un grande classico è quello di dire ad altri promotori di non lavorare che è sbagliato di andare all'estero e ortaggi sono mille cose da considerare costo della vita e
+più e più aspetti servizi ovviamente quello che ti da fit preparazione io ho lavorato
+poco all'estero audio in francia non mi trovavo non non nelle mie corde lavorare fuori fuori dall'italia quindi se c'è una cosa che ho con limitato però so ma buttiamoli questo argomento
+è giusto o sbagliato incentivare i programmatori a lavorare per altre nazioni dando come unico come dire come unica motivazione la ral lo stipendio che ha quale si può arrivare mi sento chiamato in causa essendo residente in svizzera
+con cento mila franchi in svizzera a zurigo niente no non ci tiri su una famiglia
+proprio non è cosa
+non lo so con trentasei mila in italia se una famiglia ci campa però con centomila zurigo no trentasei mila a milano per dire nara prevalente milano zurigo probabilmente milan e laura seimila paghi l'affitto
+non sede non sono più a milano da otto anni quindi non mi sento di dirlo però non mi sembrava una cosa una cosa o lavori in due oppure no non ce la fai la stessa cosa con i centomila zurigo quindi comunque stiamo confrontando patate con patate alla fine cioè sì centomila è vero sotto zero se riesci a metterti da pan
+arte dieci per cento perché i lavori in due perché perché perché perché sei da solo se riesce poi mettete da parte il dieci per cento quando esce dalla svizzera te te ne stai bene perché ai diecimila franchi l'anno per andare in vacanza euro franco non è tanto diverso all'uno a uno vanno sempre un po'
+su un po' giù
+la quindi non è che uno dice me ne vado all'italia per star bene vado in svizzera a guadagnare centomila fa a questo punto la svizzera a zurigo però il confronto con la germania insomma non è che la germania costi più che l'italia nel corso della vita in gran parte di città non conosco non conosco
+puoi tornare un attimo sulla germania per parola
+vita vi prendete il sito comunque si possono fare comparazioni di tutta una serie di altre nazioni che sono proprio tre prese lo dico a caso ma perché temiamo il motivo di questo blog sono fatto che spessissimo vedo promotore che cercano un lavoro poi se lo vogliono cambiare è una cosa che sento sempre dentro e scappa
+dall'italia è però le uniche motivazioni di solito solo ti pagano molto di più è che non è secondo me l'approccio corretto da dire alfano sviluppatore giovane che vuole e chi vuole cambiare sconnesso la sedia ad altri aspetti da considerare promette l'opportunità più che effettivamente il la val cpl oh che può ottenere
+però vedo che quello ovaiola la motivazione prima che smuove la persona e poi tutto il resto uno se ne rende conto dopo concordo sul fatto che la svizzera sia sia costosissima di un'opera ne ho abitato a cinque chilometri dalla svizzera il vantaggio di abitare civili là del fatto che puoi fare tra bled frontaliera e avere i vantaggi della svizzera e il costo italiano che
+comunque sui paesi di frontiera è un po' più alto
+parlare di remoto
+non parlare di un full remote in caso esatto questo
+c'è un digital nomad no no era un lavoro ancora purtroppo
+anche giuseppe
+vero nomade lavoro e spero e credo madonna overlay lavori da remoto in italia no no non lavoro a nulla voi hanno lavori
+come mai hai deciso di non lavorare perché un programmatore che un lavoro edificio e perché noi ce lo cerchiamo da me da anni cercavo cercando una persona da inserire non si trova ancora cercando lavoro pitney ventidue giovanissimi vi manda il cv eh eh va bene ottima abbiamo a che fare con la camicia uguale soli
+kevin cercano su internet senza gates lo trovi anche fra i miei contatti bene ne si possa se posso collegarmi in questo discorso che esiste esiste la patente anche giustamente diceva al contrario nel senso uno stipendio italiano tolto che poi queste queste medie l'ho usata anch'io per parlarne sono media quindi di penny it
+andrea tante cose però anche lavorando per l'italia anche al contrario si può fare arbitraggio me capita di andare predilige la vista che mi sposto che viaggia in posti della costa di meno decisamente di meno e li lavora in italia diventa un vantaggio non ho né pioggia che potrei lavorare mica
+capita a volte di lavorare per altri paesi dove può guadagnare ancora di più
+però dipende da tante cose è uno step up con un fungo ma se si fa una buona carriera in italia ti può arrivare a livelli alti decisamente più alti però lì dipende da tante altre fatta da comunque uno stipendio italiano in vietnam civile machine
+se estremizzando se possono poi un'altra scusa giuseppe dove sei in questo momento esistono nel sud italia per esempio io sono al night di torino sono venuto ad essa sud è già qua mi co me te vado a far la spesa stand di ed è veramente solo la nave
+da sud e questo incide anche sugli stipendi quindi ovviamente la media nazionale deve tener conto anche di questo ovviamente però il lavoro da remoto non lo si vede non si sente asolan cambiando regione milano non vado a fare la staccionata ed io faccio posso fare
+la squadra rimarrà mateo home di solito faccio il nome debba lo faccio solo fuori periodo scolastico come avete visto privare ho un bimbo piccolo che è entrata dentro al candore e quindi driver finisca la scuola ed inizia la caputo livia moglie viva ed elaborare in ogni dove dalla sopra la mucca nel prato e la spiaggia
+dei grossi vantaggi chiaramente di un lavoro come il nostro che quantomeno richedere a lavorare un po' più chiaro bisogna attrezzarsi un rilievo altri diritti è possibile richiedere crema smart working col portatile in spiaggia sempre chiesto fra il sole la sabbia il caldo come serie svegliò quando lavora al mare lavora nella stanza climatici
+alzata e magari bonasia raggiunga pranzo la raggiungo la sera gestire i bambini però quello è un po'la l'attività d'estate vi a volte credo che venga aver venduto anche un pò il sogno di lavori dove vuoi realtà vero che vuoi dove vuoi ma devi anche minimo attrezzate tuoi post ma infatti volevo fare una domanda giuseppe
+se vuoi se corrisponde al progetto abbiamo parlato dell'evoluzione dei linguaggi le tecnologie però c'è anche un aspetto dell'evoluzione modalità di lavorarono è un pò l'abbiamo subita a forza negli ultimi anni però un po' era anche l'andamento storico del del del mestiere come lo vedi tu la tragedia raccontaci un po' la
+tua vita da nomade cento percento remote nomade digitale che come in ogni lavoro come vivi che ha come organista lascio un'idea di come funziona siamo è molto ampi in realtà essendo freelance ho vissuto diverse situazioni perché da freelance o ti gestisci tu lavori più lavori e progetti lavori a progetto
+quindi decidi in foto le modalità infatti lo facciamo dapprima della pandemia anche se era un po' difficile da far capire che magari non potevamo vederci però è già ero abituato così in realtà adesso
+ha la possibilità di trovare molti team fully remote anche in italia anche in italia
+ci sono un sacco di siti apposta newsletter italiane che che danno appunto
+oh si occupano solo di datori di lavoro che permettono fu remote quindi non è più necessaria come prima essere per forza un freelance con partita iva fare tanti lavori ma potete essere anche dipendenti nelle aziende che fanno funk remote permettono poi ti dai discorsi che alcune aziende però non ti permettono di lavorare all'estero
+oh deve essere incerto fuso orario siamo poi ci sono casi un po' più più limita nel mio caso
+semplicemente quello che ho visto è che adesso post-pandemia tipo si può trovare tanto sicuramente tanto da senior e junior ovviamente fa più fatica vale per tanti motivi azienda magari vuole fare opera di formazione che dà oppure semplicemente c'è più
+più c'è molta più offerta e quindi l'azienda preferisce uno che va lì in ufficio lo veda ci sono aziende che non vogliono saperne di fully remote ma neanche di ibrido è quello che vedo però ci sono un po' di aziende anche tosto grandi in italia e all'estero
+ho più vasto ma in italia ci sono delle aziende che semplicemente danno la libertà di scelta ai dipendenti tranquillamente vuoi farti un periodo via
+non hai l'obbligo di andare in ufficio fisso e dopodiché come dicevate giustamente e comunque faticoso e attenzione che lavorano alla spiaggia mi godo la vita tutti i giorni suoi fan e faticoso devi stare attento alla alle connessioni ai mutamenti e poi io ho un bambino piccolo e
+zika è un casino e siamo in due e che quindi lavoriamo da remoto ci dobbiamo organizzare quindi diventa ancora più difficile quindi quello si però se prima della pandemia la strada era la mia strada è stata il divento freelance farlo con le aziende ne hanno fatto la mia rete mi conoscevano e quindi diciamo ma io vi dò
+quel supporto che magari mi davo prima ve lo do da remoto oppure mi chiedevano dei lavori post pandemia si possono trovare ricevo offerte da aziende che vivono non è un problema lavorare dove vuoi quindi non adesso si è proprio aperta molto anche se è tutto relativo e sommelier
+dire che tutta le aziende assumono remota anzi ma ce n'è già questa prima già per me già tanto
+quali sono i raggi secondo stadio della vita da nomade della nostra da te dettori sono nel senso perché il tu scegli di un'amica
+che fa la vita che fai tu pero' quando mi racconta la sua vita mi viene l'angoscia onestamente non era non è una critica comunque piacere
+sempre e sempre qualcosa da aggiustare no mentre per me vige torno a casa metto sulla pasta lei è sempre proprio programmare il prossimo viaggio i prossimi tre mesi prossimi sei mesi per esempio in merito alla casa fare il trasloco blablabla
+capisco capisco questa angoscia di cui parli
+no perché poi appunto lo facciamo in tre io mia moglie e mio figlio quindi non è che sono i cavalli in giro da solo lo facciamo con molta calma nel senso adesso abbiamo deciso di scendere giù perché c'era ancora bel tempo la teniamo imposte fa ancora caldo qua conosco delle persone così ne approfittiamo e stiamo più all'aperto
+anche col bambino e non era programmato adesso torneremo a torino perché comunque ne facciamo base a torino perché li ho la mia famiglia vicino e ho i miei amici quindi stiamo come non è che stiamo per forza sempre in giro per esempio non abbiamo casa molti nomadi fanno così noi vogliamo tornare e una spesa ovviamente abbiamo ridotto al minimo
+ma ecco anche causare un'altra cosa però io ho il mio posto con la mia libreria per dire non vogliamo avere qua per tornarci e dopodiché noi facciamo un po' diversamente nel senso e i viaggi quelli estemporanei sono un po' più improvvisati e sono tendenzialmente anche al risparmio però c'è sempre un viaggio grande vendita
+da gennaio abbiamo già prenotato e andremo sei mesi in asia e lo facciamo con altre famiglie per esempio che abbiamo trovato online la samp discorso perché il discorso di avere dei figli e lo è un po' più complicato perché il bambino vogliamo che stia con altri bambini dobbiamo gestirlo quindi è un po' più complesso
+però io capisco la dici tu perchè ci sono altre persone che sono sempre in viaggio e questo anche per noi stancante che a noi piace l'idea di poter scegliere magari stava anche tre mesi a casa non è un problema non è che dobbiamo per forza una qualche parte e ha anche per me personalmente quello che conta di più è poter scegliere quindi l'essere fu remo
+ottimi permette di dire magari adesso andiamo a farci un mese in montagna troviamo la situazione andiamo così sistema in un ambiente diverso mezzo alla natura però non che poi dopo andiamo lì capisco che quello però per esempio io capisco invece molto bene le persone che si organizzano in un posto in cui vivono bene in qua non della realtà
+sa l'ufficio si trovano bene se non per quanto io sia estremo nella mia scelta non credo che sia la scelta perfetta da o per sempre
+così chi e tra un anno mi trovate chiuso in un bunker paura della mia ombra no so quindi nell'astronave di alessandro
+però giuseppe permette originaria comunque permettimi una cosa lo diciamo per quelli dell'agenzia delle entrate sono cinque mesi e ventinove giorni che starai in asia non è da brividi
+che però ha in realtà asiago
+in realtà è giusta per te molto preciso in questo però l'italia ci ci tiene a tenerti quindi anche se stai un po' di meno le tasse le pagano all'italia l'effetto
+sì no è al contrario l'italia anzi avrebbe voluto nel momento in cui ci siamo trasferiti era appena nato mio figlio e lei era zurigo faceva avanti indietro a zurigo
+settimane rossum fine settimana ero giù poi potevo fare qualche settimana se mia moglie non si fosse trasferita io avrei dovuto pagare delle tasse anche in italia e quindi gli ho iniziato a ottobre nel mese di giugno ci siamo dovuti spostare a zurigo altrimenti lo stato italiano avrebbe voluto dei soldi da me perché sono i sei mesi nell'anno solare
+sebbene allora matteo come siamo messi con le slide che mi ricorda se vediamo questo era giusto per parlare fu rigenerato la bombetta dei salari e vabbè
+basta ok
+domanda per tutti qualche uomo se volete fare qualche aggiunta modifica nota ecc è un progetto di tav quindi ricco queste sono ben accette
+molto bene così metteremo il link mandatemi il link di qualsiasi cosa di cui avete cui si è parlato in questa puntata e polemiche
+chiaramente
+marinai ci sono un po' di fonti così quindi se anche avete altri spunti più bello e giusto per fare dei ragionamenti alla fine l'unica cosa che ho capito che non c'è una regola sul linguaggio la tecnologia chip ci sono delle cose che promette sopravviveranno alte probabilmente arriveranno più tardi ma alla fine
+dove ci sia mercato per qualsiasi cosa dopo uno vuole lavorare o per la programmazione impara uno due tre linguaggio perché la strada è aperta e può andare in qualsiasi direzione per assurdo anche se imparasse tempi adesso nel duemilaventiquattro un posto dove andare lo troverebbe quindi sono preoccupato sono più preoccupato magari rispetto init
+si inizia spesso e volentieri fa un po' fatica a entrare effettivamente nel mondo del lavoro visto tanti che hanno iniziato che hanno studiato le foto dei corsi hoc della volontà di iniziare bank poche opportunità fosse wall mercato vuole forse gente poco informata c'è un po' più in difficoltà portarsi i suggerimenti
+possiamo dare
+ragazze che iniziano adesso a studiare ovviamente solo trovare l'azienda l'azienda corretta allora beh quando guardo dei curriculum di persone che hanno poca esperienza mi piace più che altro l'iniziativa quindi si hanno ci hanno studiato o fatto qualcosa sono proprio profilo città ventotto su anche delle cose che sono non per
+l'iniziativa con la voglia di fare qual è la cosa che una persona giovane cerco più più di altri perché ero una persona di vent'anni non posso aspettarmi abbia fatto chissà che forse l'ha fatto tanto di cappello mi aspetto che abbia iniziativa che abbia voglia di imparare di crescere sia queste cose bene a tutto quello che serve per iniziare anche se sa poco utili
+mancano già queste cose secondo me poi posso sbagliarmi ma è
+sento di aggiungere proprio se riguarda questo nei miei nei miei stream twitch di tanto in tanto capita gente che fa domande a caso io faccio soprattutto si place place cose in realtà mi faccio i fatti miei la sera io uso twitch per
+un buon seguito e non è che però seguito un piccolissimo però mi faccio faccio i miei progetti che mi farei per la domotica o cose del genere è però mi è capitato un paio di volte qualcuno che mi chiedesse a me io sto cominciando cosa dovrei fare cosa dovrei fare in particolare uno che era interessato all'assemblea mi diceva io voglio
+mi piace l'assemblea però non serve a niente dal punto di vista lavorativo e io gli ho detto scusami ti piace l' assemblea e non ti piace magari invece in università non so cos'altro aveva da studiare e c travolge ce lo devi fare perché te lo fanno studiare ma adesso metterti a studiare e tu in quel
+al momento non hai la necessità di monetizzare quello che fai quello che studi nell'immediato fatti tutta l'assemblea del mondo c'è
+quello che questo ti farà imparare ti farà venire più voglia di imparare cose nuove e basta cioè una volta che tu sarai molto scillato in assembly può imparare un ch impara a metterci sopra una qualunque altra cosa sarà una passeggiata ma è la stessa cosa che come dicevi te matteo che quando cosa guardano i curriculum bill
+questo gliel'ho dato come consiglio rispetto a quello che anch'io guardo nel curriculum che è proprio l'iniziativa personale il fatto di aver fatto qua aver avuto aver fatto qualcosa non perché dovevi ma perché eri interessato a farla perché ti interessava quello che stai facendo e beh non conosco gli altri ma alessandro
+è quello che facevamo nella devozione alla fine quello era lo spirito
+clamorosamente tutto gratis ovviamente di muri e ovviamente non era neanche lontanamente immaginato non ci pensavamo neanche anzi un po' mi mi dispiace che tanta gente adesso abbia l'idea di monetizzare a breve quello che sta facendo su un computer
+e di concretizzare a breve perché comunque a lungo termine monetizzi tutto ma a breve
+è un po' triste e un po' triste secondo me perché ella
+c'è tanto da fare e non ci si rende conto secondo me che invece costruendo le cose con calma magari con io qua sono anche di parte perché a me piaceva l'università italiana com'era prima non come adesso e cioè a costruire una cosa con più base teorica e meno prati
+dica la pratica la fai per i fatti tuoi e secondo me funziona meglio che non fare una cosa che noi abbiamo un po' copiato lo stile americano comunque estero della verticalizzazione forte tu un aspetto specifico della programmazione ma in tanti altri campi la stessa cosa ritroviamo ad aver
+here quelli che studiano come no no non è non è così estremo di quelli che studiano come si fa la terza vita destra del del pianoforte però ci ritroviamo nelle persone che sono molto più verticalizzate e nel momento in cui un settore cala sanno cosa fare come l'italia pittura
+se i bagagli no volevo dire che secondo me questo è uno dei pochi lavori che c'entra molto la passione perché io ho lavorato anche in altri ambiti di lavoro e ho visto tante persone frustrate nella mia vita per dire ho lavorato anche in elettronica facevo collaudatore che ho conosciuto tantissime verso
+le frustrate del loro lavoro che non gli piacevo si sentivano sempre messe a un posto non adatto a loro
+magari anche sottopagate nel senso anche questa è una cosa che cambia diciamo nel lavoro del programmatore che può fare comunque carriera in un modo diverso da altri valori e si
+poi verso va da sè che sono lì i singoli noce è anche il singolo può fare un lavoro che apparentemente noioso da tutti gli altri mi piacerebbe tantissimo per oggi la passio è anche vero che nell'informatica ci sono anche persone che lo fanno come scelta non di passione ma di professionale perché è un lavoro
+possibile tutto qua e benson o i numeri che stanno arrivando adesso la maggior parte delle persone che entra fanno una scelta di dio e diventò medico perché paga bene diventa programmatore perché paga bene normale che i secoli non è neanche così tanto nuova c'è quando gli ho iniziato le superiori parliamo del novantadue enne
+con gli anni fa
+eravamo in tre ad avere un computer e sapere più o meno come si usava resto la classe si era iscritto a informatica soltanto perché era al lavoro del futuro senza avere idea di che cosa andavano a fare veramente quindi a io lo sto vedendo ultimamente proprio che fino a qualche anno fa le persone con cui lavoro lavoravo lavo
+gravi alla macchina del caffè si parlava di programmazione ha esito quello abbiamo fatto questa è una base fai questo così è meglio adesso c'è sempre più il gruppo che parla di calcio no anche se poi fai il programmatore questa era la differenza che sfruttando negli ultimi anni e non è sbagliato per carità
+devo dire che sto aspettando l'ultima partita per la fine del fantacalcio di stasera quindi appena offeso guarda vedi hotel calcio che è entrata nella programmazione key west ha fatto anche escogitato un progetto che utilizzavo per medie
+non ha il fantacalcio è robottino che ricalca fantacalcio e presentò pesca prendersi si poteva automatizzare qualcosa di più questa è la stimavo sia puntata è
+ehi hai e fantacalcio
+se hai guardato quello che sto facendo io purtroppo devo salutare perché ho promesso a mio figlio di portarlo a dormire senza papà non mi dorme quindi ci mancherebbe spa
+oh grazie matteo
+grazie al materiale già ciao buona serata e che avete vale per tutti qua si va un po' a oltranza tra virgolette quantomeno finché non ci si stanca però se uno deve andare via vuole staccare nessun problema così come se uno vuole collegarsi e mi parla di cosimo ad esempio che fosse ancora in
+chat e liberi sempre questo è un po'la logica della brigata e
+io sono contento di restare se mi fate compagnia fino al mio prossimo meeting grazie che ce l'hai
+alle tre di notte
+sì e io lo fa una domanda a questo punto a tutti i presenti e qualche lingua
+già detto in realtà il marco hai tirato fuori league che linguaggio che trovate ai pazienti interessante esotico non necessariamente utile o che avrà un successo però qualcosa che ha un quid che val la pena per chi è curioso magari dai un'occhiata allora abbiamo visto zig piano
+zig tweet e giù perché zig zag perché zn perché zigbee e un kg con una potenza espressiva che fino adesso io avevo visto soltanto in sei plus plastici bello quindi il così detto così vuol dire tutto e niente però ci piace nel senso che esistono e splash splash
+troppe fiction cioè mi parlo addosso ma se la spassa troppe fiction fatti non non è un caso che si ritenga impossibile da imparare
+io nelle mie presentazioni già una decina d'anni fa dicevo che è come imparare a suonare il sitar per gli indiani che dicono che ci vogliono sette vite si plus plus ci vogliono pure sette vite ma non c'è nessuno che è ancora morto di sì place place quindi ha voglia e non c'è nessuno che lo sa decentemente e no
+chi invece ha un linguaggio semplice con la base
+cory più o meno della stessa dimensione di c ma ha un linguaggio con pakistan che è lo stesso linguaggio e ti permette di fare cose che si place place facevi con template adatti in maniera strana incastrati dentro kinzica è tutto molto semplice molto leggibile insieme la squadra è come se tu avessi un altro linguaggio
+è
+il linguaggio magico in cui puoi fare cose in kinzica è lo stesso linguaggio che semplicemente viene eseguito dal compilatore e papà ti genera dei tipi di genova delle cose all'arma
+cosa ne pensi di rusty rusty ne stavo attivato la bomba prima no teoricamente rast è un linguaggio molto bello non voi vorrei sottolineare questo non è che voglio sputtanare ras dire che restano a me no rust è un linguaggio che ha delle fantastiche basi teoriche cioè il fatto che tu non possa fare race condition
+a meno che non ti impegni e è una cosa molto bella non ti impegni vuol dire non vai in modalità and save è una cosa fantastica cioè in tanti ambiti importantissimo avere una cosa del genere il problema il mio problema con con rusty è quello che vedo succedere nella community che mi spaventa e quindi dico questo
+c'è la community ti dirà non la community ma la foundation trust secondo me sta attivamente allontanando persone come me io non mi ci avvicino asti in questo momento perché vedo una community che non mi convince la mafia la nostra come dire non voglio desiderata osm
+ma ma perché comunque hai un linguaggio che è molto bello che
+stanno credendo
+cerchi di risolvere dei problemi che tanti altri non risolvono e inizia a fare delle beghe legali sul logo delle
+delle cose sporche sulla foundation questo ti rovina la commercia ti allontana la community tanta gente che era sviluppata da tanti degli sviluppatori da alcuni degli sviluppatori di altri se ne sono andati proprio per i motivi legati alla gestione un po' poco chiara della della foundation di last fm
+peccato perché stanno rovinando un bel progetto però dall'altra parte ho sentito che comunque molte aziende stanno un po' migrando verso sentito dropbox newyorker a switch audio surround per la sicurezza no no no no e ha totalmente senso cioè ripeto non è che insieme lo spazio
+facile spararsi su un piede e anzi grazie
+alla gamba queste sono le parole di di disastro sonoro
+kernel e quindi è ovvio e esistono modi per programmare in maniera safe place place sì però non è impossibile programmare in maniera assai in rust è praticamente impossibile quindi capisci si mette anche una scimmia programmare non può far danni seri place place è una press
+zona che non è totalmente attenta a quello che sta facendo rischi di avere dei danni e rischi che si estendono a tutto il sistema io non conosco ramsey però da quello che ho capito quel poco che ho letto e tutto il sangue che porta comunque perdi capacità di espressione dall'altra parte che non è
+io non posso so e se io non posso fare allocazione dinamica perché così tu mi garantisci che non annoiano no di memoria puoi assolutamente fare una cosa dinamica no quello che non puoi fare suono ci sono alcuni che alcune cose che è praticamente impossibile fare senza mettere l'asta in modalità safe
+e detto tra noi non sono completamente aggiornato quindi non voglio dire che
+sia ancora così ma in passato sono sicuro qualche anno fa e le liste elencate doppia non era possibile farle senza andare in modalità n sei perché c'era una questione di reference reference che non era possibile rendere in rust modalità safe
+nicolò che sia un po' un po' di limiti di lost sono sempre legati alla community comunque poche librerie poiché femore se ce ne sono sono tutti in beta quindi zwin beh c'è da dire che come il linguaggio non è maturo non è non è maturo cioè se uno può farci un linguaggio
+un prodotto rast parti di un prodotto
+però non è un linguaggio in cui io personalmente ci affiderei un progetto forse una startup forse ma un progetto per un cliente da freelance ma gli direi lo facciamo ancora strettamente
+per un cliente anche se adesso lavoro per una azienda
+perché il mio passato e quello da freelance lavoro remoto
+e però c'è la mia azienda lavorava remotamente perché gli enti in giro per il mondo stati uniti ma anche in italia però del secondo te in futuro lo migliorerà la situazione era destinato un po' morire e su quel punto in cui dicevamo prima cioè sale o scende cioè in questo momento sta sta assalendo sta scendendo
+purtroppo non abbiamo visto il i vari siti delle tre tra i vari siti non abbiamo visto tre nei top e neanche nei botta e non abbiamo visto la tendenza quindi non lo so non lo so se si inizia a scendere adesso non recupera più dall'altra parte vedo anch'io tante persone che vogliono migrare a rusty per questioni di sicurezza
+non ho idea quindi abbiamo diciamo una cosa i problemi che sta risolvendo rusty sono problemi relativi al mondo jack più c'è problemi che in altri linguaggi tu non hai comunque un senso assolutamente pianeta i problemi il disco c'è rusty che è
+importante
+perché famoso in questo momento no perché dice io posso sentirti sostituire c posso farti
+il kernel di linux sono sistemi programming language no però se se io voglio salire di livello la mia problematica non è quella ci sono una miriade di programmi linguaggi che quelle problematiche nome lei non mi risponde neanche no però ti risolve anche problemi di rete condition e ci sono in quasi tutti gli altri linguaggio no questo è vero adesso mi
+devo informarmi su google però
+si sa qualcosa era di hanno una soluzione statica accompagni il time tu sai che quel problema risolto e ed è questa la cosa teo risultato teorico che è molto bello di rusty però va beh ne abbiamo siamo finiti a parlare di rusty ma io volevo dire altri due linguaggi che voglio vedere perché ce ne ho altri due io sono con
+l'azionista seriale di linguaggi assurdi e tra questi due no uno ha fatto un bel po' di successo di recente sopratutto in ambito intelligenza artificiale che è mogio
+museum hilton con peyton place place
+ma nel vero senso della parola perché hanno aggiunto la semantica di coppia mood di splash splash python e hanno aggiunto la tipizzazione statica opzionale però se c'è viene compilata in maniera efficiente e il chi l'ha creato non è proprio uno scappato di casa ma
+è quello che ha creato swift che ha creato clang e ha creato una serie di altre cose nel mondo dei linguaggi di programmazione che assomiglia in mente come si chiama ah beh comunque la persona che ha creato swift e ne sa qualcosa e ha creato questo omaggio che è una cosa dedicata all'intelligenza artificiale quindi
+l'idea è quella di sostituire peyton con peyton place place ci riuscirà non ci riuscirà non lo fa solo per l'intelligenza artificiale quindi in modo particolare per l'intelligenza artificiale
+nacque a hodgins rispetto a picton cos'hai in più questa lingua piemonte non essendo allora ha in più la la tipizzazione una tipizzazione statica funziona cioè che funziona che se viene è un poll il principio di tip script applicato a picton
+hua però iscritte non è elaine
+in più ci hanno aggiunto un'altra cosa ci hanno aggiunto proprio la versata
+la la la semantica di copie movimento di plasma placidi e per un programmatore place plus non dico che quasi naturale ma quando ho visto la presentazione ho capito subito che ordinarono fatto loro avevano fatto questa questa mossa per avere da una parte ma anche per poterlo sviluppare internamente per
+poter avere una libreria che ti permette di fare tutto quello che fanno in python cioè la parte più dinamica delle reti neurali poter giocare con con attaccarsi anche framework come torce e cose del genere e dall'altra poter implementare le reti neurali nello stesso linguaggio tutta la parte
+di calcolo efficiente parallelo che adesso è appannaggio di sì plus classe cuda quindi un linguaggio pratico più che
+bello dal punto di vista pratico poiché dal punto di vista teorico punto di vista teorico invece c'è val che è un progetto portato avanti da adobe ma da un laboratorio gli addobbi sta in uno scantinato praticamente di adobe non sanno neanche se avranno una persona che potrà lavorarci l'anno prossimo pagata su questo progetto però un po'
+ho letto che il creatore di rusty ha detto questo è il linguaggio che mi sarebbe piaciuto scrivere e jazz
+sì ma scusa mario sinistro come will
+avviene però non cambiano parma live aid solo nelle aree diventato a ocean perfetta forma li vale non ero non era aggiornata anche a cambiarmi questo brutto segno
+va bene belle succose i tuoi linguaggi marco
+daniele tu cos'hai da
+linguaggio un po' esotici o anche framework visto che magari ti occupi più di front-end è però fra i luoghi esotici che di che vorresti segnalare oddio esotici io prima esoterici
+caso neanche troppo ma
+segnalerei svelte sta facendo parlare tanto che ancora un po' acerbo un bel po' acerbo però è che ciò un come dire un modo di usare lo stato o comunque di
+funzionare che viene un po' teso come quasi magico no perché molte cose prima per dire con react le fa eco u e spesso
+può essere molto boiler plate come codice che viene fuori invece svelta comunque ti permette di farlo molto più snello come come dice il nome molto bene no interessante e giuseppe che ci dici tu
+il tuo frutto esotico esotico no bè in realtà parte web gabriele ha detta di tutti i più
+non esotico no mi è capitato un paio di settimane fa è giocare con flutter e dart non ci avevo mai giocato e laden experience è stata veramente veramente ottima
+piacevole da baghdad prima linguaggio non conosceva anche abbastanza amichevole e flat come freeware
+ci sviluppi tranquillamente un'applicazione ovunque tranne che sul web viene da lira web magari no ma sul resto proprio facilmente ti fa un'applicazione mobile desktop a compiacere e un bel framework
+può dire che visto che la richiesta sta anche aumentando
+super esotico magari ancora c'è margine consiglio di giocarci un po' veramente semplice bello della band che ha visto hotel atocha io non so dopo dopo marco sto zitto
+no io scelgo la
+no a parte gli scherzi vorrei aggiungere qualcosa perché comunque abbiamo parlato di tante cose però sono certi argomenti che sono venuti fuori no tre la gestione prima degli argomenti e permette di sognare io uno che voi non conoscete wing wing league
+conoscete
+vedono perché più da sistemi cloud reti in c language con cui praticamente intera tutte le prime tv hogan
+sono tutte
+stavo per dire una cosa simile non non questo perché troppo esotico per me perché io sono molto molto democristiano e sul linguaggio c
+vengono utilizzati
+quello che mi è mancato oggi è della gestione dell'infrastruttura delle configuration management no tutte queste tecnologie linguaggi in un certo senso non non li abbiamo accettati non abbiamo parlato secondo me anche questi fanno parte della vita di un programmatore non certo non in tutti gli ambiti no almeno nel mio ambito fanno parte del
+degli strumenti che un programmatore in un modo o nell'altro deve conoscerlo tu mi devi darci un servizio a sapere cos'è terra forme come controlli sapere forza per esempio eravamo tofu io adesso sto sotterra forum sto pensando a terra grande però ce ne sono tre milioni no
+tofu è presente
+vera open source di assisi quella che è uscita adesso è vero è vero vero a me delle licenze non me ne frega niente
+no a parte gli scherzi a parte gli scherzi in questo momento cioè c'è una comunità c'è una
+diciamoci una coda ci sono dei moduli che questo topo è compatibile al cento per cento a me non crea nessun problema no non sono legato ad a c
+mani e piedi no però
+ho usato tarrafal per dirne una il concetto di base non tutti però in questo momento buona parte di quelli che gli sviluppatori creano qualcosa che andrà in un ambiente cloud no in percentuale credo che questo sia la maggioranza non vorrei dire un numero però questo numero piuttosto alto e
+secondo me è importante che sia lo sviluppatore lo sviluppatore sia in grado di comprendere dove andrai come andrà a funzionare il codice che sta eseguendo no che si prenda ownership parte del processo di deployment e questo avviene attraverso queste tecnologie magari non in tutto ma il suo petto specifico se vuoi parliamo
+sui linguaggi registrano in infrastrutture e forse no secondo me e secondo me anche quei genesi sole come abbiamo detto oggi qual è il linguaggio del futuro che poi una domanda del po supponente no però il discorso e quali sono qual è lo stack tecnologico che noi andremo a utilizzare domani no naturale
+la risposta è dipende da cosa andiamo a fare la prima risposta secondo te chi chiami nella maggior parte dei casi cosa andiamo a fare no che come la maggior parte di noi guadagna la pagnotta facendo servizi web novanta per cento dei programmatori fan quello nella vita non servizi web contempo ai servizi web quindi qual è lo step tecnol
+logico di questo secondo me ci siamo dimenticati un pezzo oggi che tutta la gestione del project management manager
+l'automazione dei tuoi progetti
+parlato in tante altre occasioni va da sé che però se anche quelli sul linguaggio che sotto quell'aspetto
+siamo tutti programmatori tutti i sistemisti come si diceva perché potete fare ai sistemi se non esiste il the
+ti chiedessi qual è qual è l'evoluzione del sistemista di oggi
+maze sul
+come ingegnere colui che ti fa di pila interna a livello per platform che però mi sembra un sottoinsieme del mondo reale però non è questo il contesto è un altro discorso visto che parliamo di figure e il software development lifestyle no che un suo aspetto e questo è cento per cento del
+dei professionisti che fanno questo mestiere devono
+gestire e comprendere per esteso non ci può essere uno sviluppo software senza un processo per la gestione e lo sviluppo so almeno è questa è trasversale su tutti i tuoi cari
+esatto aggiungerei senza uno sboom a questo punto senza uno sboom software bill of material senna nuova pagina tutta la logica non ci sta più indietro
+scusa qua scusa se ddc allora no
+spiega gli sport
+no non ho idea veramente come ne sono davvero
+no ma devi capire che io sono un manager di ingegneri non non sono ancora al livello vi vedo quei documenti io sono ancora in ambito assicurativo le pietre fatemi dire quelle due righe software bill of materials l'elenco di tutte le
+i componenti del software le dipendenze che hanno in gestione la loro sicurezza quindi l'inventario di tutto quello che in qualsiasi pezzo di codice a ma anche un'immagine di un continuo altra cosa è uno dice bene l'immagine container cos'è l'elenco dei pacchetti installati no non è solo quello ogni pacchetto delle librerie che utilizza e
+quindi ogni software che utilizza tutta una serie di pendenze è il momento in cui c'è magari una vulnerabilità in una certa persona è una certa libreria che viene usata da un certo software quella va identificata e non ben tagliata e corretta e dice tutto e l'abbiamo ce l'avete
+non è gestire
+ma non è gestito al mio livello non c'è
+il team è talmente vasto che sono centinaia di persone che ci lavorano credo che l'ultima volta che ho guardato sono più di seicento
+quindi il mio team di quattro persone ha pensavo che il tuo team di seicento persone
+quattro di quattro persone ma è proprio la parte più prima ero in cima allo stack prima intelligenza artificiale sullo stesso progetto in cima allo stack
+scelta ho detto no vado qua sotto l'altezza vi sono cose belle dei paduli sostanzialmente soggettiva
+è l'altezza di volo classica del padulo allora ragazzi si è fatta una certa e c'è qualche argomento che volete magari ancora accennare discutere o su cui volete aggiungere qualcosa prima che ci si chiede quanto manca alla riunione che marco una riunione
+zora ancora mezz'ora a leggere
+però parliamo di un altro argomento che come voi gestite la sicurezza del software in fase di sviluppo cioè quello lo sboom come minchia era chiamata alle
+mi sfugge che un aspettano che i gesti gestire la tua virgolette applicano per tutto quello che ti arriva dall'esterno sapere che ti arriva bene tutto però non è mica solo quello l'aspettano nella genera nella quotidianità come gestite tutto l'aspetto della sicurezza del software state sviluppate domanda
+una domanda
+se
+perché perché sicurezza e vabbè dico una cosa in plus plastica e il problema delle librerie delle dipendenze noi abbiamo tutto il sistema di provisioning delle dipendenze e rifatto in casa tutto l'intero piena da tutte le librerie e clonate versioni controllate con tutt
+vari
+che poppano
+di qua e di là e ci dicono che dobbiamo aggiornare questa o quell'altra libreria su tutti i progetti che a cascata la usano pelli secche c'è tutto un sistema che di cui io non ne so niente mi vedo solo gli allarmi mi dicono che devo aggiornare la tua libreria per esempio prima stavo litigando con ricompilare una cosa vecchia che usava un openness stelle
+vecchio e non potevo compilarla perché quell'esperienza la bild anche la wind locale falliva e mi diceva a norma
+a voi cosa usate come perché il chip più e gestione poi se puoi rispondere nel senso se si sceglie
+più io mi ricordo sono passati anni dall'ultima volta che eravamo principio più ed era arrivato a cinema era la mia tipo più avanti che c'era all'epoca mae e bill system e però non gestisce le dipendenze sopra snake stato noi non usiamo simili
+su suo cugino prima che un'altra roba bah ma anche lui non fa gestione delle dipendenze per la gestione delle dipendenze noi abbiamo una cosa fatta in casa e stiamo valutando
+conan che è un sistema che gestisce le dipendenze di un'azienda che si chiama a cieco che sono gli stessi che fanno arti factory per i pacchetti python
+pd quello è quello che stiamo usando factor per i pacchetti di factory
+concetto di tutto la qualunque si no e tranne il cielo e tranne tale che non si integrano degli alberi
+quindi voi avete chiesti tu decidi mettiamo che domani vai su youtube trovi una libreria fighissima poi probabilmente sarà impossibile perché le fate fatte tutte voi no ma per poterla inglobare nel tuo progetto c'è un processo di approvazione assolutamente i processi con l'approvazione classico e
+vabbè il discorso la libreria la licenza della libreria quindi dev'essere licenza permissiva
+e in quel caso il processo è semplice se non è permissivi c'è un processo un po' più complicato
+poi comunque viene creata una copia interna della libreria e del mirror del del del repository e noi vi diamo solo da quello solo dalle persone che decidiamo noi
+copia locale che non può essere manomessa quindi e viviamo da quella abbiamo un repository aggiuntivo che è il repository che di bill in cui abbiamo le medie bild perché comunque le istruzioni di wilden tsipras splash sono ognuno fa il cazzo che gli pare e quindi non non è possibile avere una gestione unificata
+e infatti conan in particolare viene con delle reti ip li chiamano per compilare ennemila pacchetti già esistenti e questa è una cosa molto interessante per noi perché semplifica semplificherà cioè ci semplificherà nel momento in cui lo metterei perché stiamo ancora valutando
+ma nel momento in cui decideremo di farlo ci semplificherà la vita parecchio interessante ma
+ma utet testing ne fate tanto internamente c'è il tipo unite integration testing assolutamente assolutamente no portland e mi dicono che devo portarla cover giusta per l' ottantacinque per cento non di quattro pacchetti che viene sviluppato quindi sono è tutto i ricci più più tempo perchè no no no bibliopride
+a cinque poi paiono il progetto possa anche dirlo e univers perché comunque un progetto che è pubblico nel senso che non è un progetto open source ma un progetto pubblico awards
+che si siedono sulle apposite che restano sul end week end video hannibal the powerful multipiù realtà and in questo te
+partner ideale per lavorare e noi qua a fare landa in gotica
+devo dire che che per me è la prima volta che lavoro con un con un progetto di queste dimensioni anche perchè non credo che sia facile lavorare con un progetto dove hai da dove stai sviluppando da zero
+ma un progetto che deve tirar dentro necessariamente per poter arrivare alla fine qualche centinaia di persone cioè è un è un'esperienza nuova per me
+non è ovvio
+scegliete un stampa di testing infrastruttura infrastrutture e alessandro tu cosa fai io allora nei posti dove c'è libertà di piena libertà che più sono grandi le aziende più si è limitata a fare le cose è peggio le fai sono più farraginose tutto quanto almeno per le mie esperienze nei posti dove sei abbastanza agile a mettere in piedi le cose come piace a te
+la pipeline dove gestisce
+odi deplora del tuo codice puppet nel mio caso e a saper classi cose che fate anche voi veri programmatori e senza test di sintassi test del limite se il codice è scritto in bello stile poi puoi fare un test se vuole però nel mondo papà e secondo me sono un po' fuori luogo
+l'effort non giustifica record su questa roba qua perché io adesso mi sto interrompo però è un'altra cosa io sto lavorando molto conterrà porno è stata una scelta diciamo sono passato da clown formation una terra fonte era per essere più aperto però avuto sempre e tabù extra quindi non so cosa guadagna
+dato però uno degli aspetti dove sono sempre un po' può così e il test oltre a fare il dente è valida del codice no testarlo vuol dire mettere su un ambiente no ogni volta che fai una bella figura ma se nel mio caso è un pochino più semplice perché
+l'intera infrastruttura con parte puoi farlo non è che testico e la testa cenge sulle singole macchine quindi quello che fai e magari fai girare il tuo codice pappetta il tuo brand censure sui i tuoi canarini dove vedi gli effetti e non ai bisogni ricostruire tutto il mondo ogni volta che puoi magari come
+forse un pochino più
+maggiori però se automatizzato tutto è fattibile anche se poi bisogna vedere i costi e i tempi del te spero nel tuo caso tu continua se vuoi fissare le cose come si deve dovresti almeno in fase come dire di avere il tuo ambiente di pre-produzione che rivive ogni volta e poi ai tuoi test che controllano se le tue app
+indicazioni stanno funzionando
+ma quello ce l'ho un ambiente di pre-produzione sì però il discorso io vorrei un qualcosa che né in fase di
+billy del mio progetto mi dice ho capito o no end roll back uno stato tranne senso dovrei crearmi un account nella mia testa in questo momento io credo degli account che servono solo a parità di no che parte fra alpine quanto ritenete che devi gestire la concorrenza può interferire puoi eseguire solo uno alla volta con un sacco di limiti
+delle notti quindi
+adesso non so come hai organizzato il tuo codice terra forma però immagino che diverse diversi pezzi no che non è che tu unico cioè no no no no come ambienti e moduli come come tutti i moduli però la questione quando via tu quando ti fa il traforo
+app l'hai e te lo fai dei singoli pezzi infrastruttura non di tutto necessarie a meno ma tendenzialmente io ci sto un po' ma non so se neanche però un progetto né infrastruttura che mi crea tutta diciamo l'involucro uno scheletro e poi ogni progetto si porta dentro il suo prezzo esatto quindi
+il pezzettoni infrastrutture non hai bisogno di testarlo costantemente no no
+modificarlo almeno modifiche ma è possibile quando avevo modifichi magari ti fanno il test e prove infrastruttura su un account di test separato va da sé con un'ambiente isolato dopo l'introduzione e i singoli pezzi che vuoi testare il deploy di un servizio di web come ai vecchi tempi adesso che cosa usate voi puoi mode
+terni da de nada
+quello che solo testi lanci deploro in un ambiente di test e verifiche che funzioni e come funzioni e l'autismo
+avrei un amico
+forse banali non saprei farlo in terra fonte a che non conosco abbastanza
+tanto però tutto è fattibile in realtà no e ti dico che si fa con puppet
+comunemente dove però per più configurazioni di server più che le infrastrutture intere e che tu il tuo codice a un certo punto lo fai girare su macchine reali esistenti già di solito perché ci metti troppo tempo a crearle lanciargli parte però anche lì in certi contesti puoi anche fare il test in cui ti tiri su una macchina virtuale o anche l'immagine
+etta container che simulano macchina virtuale su cui fare tutte le tue configurazioni e verifiche che tutto funzioni però distrugge ecco adesso mi hai fatto venire in mente perché non funziona questa roba qua perché nel momento in cui io o devo creare un ambiente no e se lo distruggo alla fine lo crea ogni volta però quando andrà in produzione no pro applicare su qualcosa che esiste già
+avete un ambiente a quel punto i testi l'applicazione leggi sull'ambiente esistente un ambiente parallelo
+in tal senso per alla fine l'unica cosa da fare è avere più ambienti invece di un'automatizzazione più più spinta e sì che con i svantaggi del caso perché l'ambiente parallelo ti costa comunque tenendo in piedi però regalo
+tu avrai sempre una media di sviluppo nome titolo dove
+per gli sviluppatori sì no no no no
+sviluppo l'ambiente di sviluppo e produzione cioè nel senso tu non puoi rompere il lupo devi avere un ambiente i cui testi la tua roba che se si rompe non nessuno sicuramente neanche ai programmatori quello è un problema classico no che uno considera l'ambiente di sviluppo come disposable ci fai test sopra ai loro compiti programmatori
+più lavorare in un di sviluppo comunque a suo modo è considerabile e produzione da questo punto di vista ne avevamo ambiente di o testo pre-production poi lo chiami come asset anch'io come ti pare sei tony sì a sviluppo test produzione di sì no esatto
+sviluppo allora poi pena anche lì che cosa intendi perché per me sviluppo l'infrastruttura di sviluppo e produzione dal punto di vista di server che eventualmente dove ci girano le cose che gli sviluppatori devono lavorarci poi loro ci testano il codice quindi chi sviluppa il suo codice fa sul suo ambiente di sviluppo e può romperlo ma io non posso rompere il suo codice
+non può rompere l'infrastruttura su cui esegue il suo codice quella produzione da considerare a tutti gli effetti è diverso un ambiente di test che puoi usare sia per testare i centri del tuo codice sia per testare il codice della struttura sia per farci i test di carico
+di sicurezza quello che ti fa anche lì dipende perché poi ci sono posti in cui anche a toccare ombra l'ambiente di test c'è la gente che si incazza e quindi non puoi farci troppi lavori e a quel punto poi beh poi le pippe si fanno in cento modi diversi no e allora l'ambiente in cui i testi infrastrutture l'ambiente in cui i testi
+codice che gira sulla tua infrastruttura però complicazioni più diventa costoso diventa è sicuramente costoso più vuoi fare queste cose più le costoso però è anche vero che se ci pensate le infrastrutture di oggi sono molto più resilienti robuste e il codice anche
+se vogliamo di quello che era vent'anni fa trent'anni anni fa io non so voi ma se lavorate nel mondo web venti anni fa un down di cinque minuti dieci minuti al giorno era il daily adesso ci
+cinque motivi da un mezzo disastro no in certi contesti
+perché sono cambiati i processi pesantemente lui mi ricorda il primo lavoro che ho fatto io facevo il tasso di produzione della vita dove si fa
+quindi tutte le auto amano west e ftp man effect l'automazione dei diplomi l'automazione dei test le sai per testare le tue cose sono tutti i vantaggi che l'evoluzione informatica e gli ultimi cosa abbiamo qualche tempo tutto sto tempo sospeso per qualcosa di buono se vogliamo la particola
+andiamo avanti kernel ingegnerizzare un lavoro manuale alla fine infatti e poi anche per una cosa c'è sempre tanta gente che ci mette nel senso uno magari costruisce sulla sua esperienza però poi c'è sempre gente nuova che arriva e l'esperienza non ce l'ho ancora quindi i suoi errori e si deve ancora fare giustamente e quindi anche lì il codice
+che necessariamente e sempre più aggiornato e più pulito è migliore perché poi se ci sono molte persone che lavorano su una curva esistente ti può capitare che sono le stesse che magari su quella base ci hanno fatto le ossa e il sangue marras risolvere questo problema è vero
+cosa c'è
+e si vuole talmente tanto a impararlo che una volta che riesce a fare compilare due righe di codice sei
+seleziona selezione leeds e-commerce più bravi
+oggi che più riesce a compilarlo e far cazzate
+tre ti esplode in faccia
+allora far compilare sempre più è facile compila anche quasi una manata sulla tastiera il chip più la prossima volta che c'è marco dimmelo che porta il mio un mio amico che un fanatico del chip più pavido game development bank non mi ricordo neanche dopo l'italia era il marmo
+mai non abbia un altro lavorava lavorava lavorava anche questo non voglio dire che è una persona che se la mena con la
+del genere quindi però prossima volta che sia lui lo blocca lo chiamo e cominciano a parlare di me da tempo i programmi tra di loro e noi ce ne andiamo via socket direttamente
+io io conosco poco l'ambiente di
+del gaming perché quando ho provato a entrare mainstream mi hanno fatto un'offerta che ho rifiutato
+ti ho cercato ridendo e quindi ha detto no va bene non è non è il mio
+sì rinnova ma perché quello è una un ambiente particolare dove ci sono persone capaci programmatori di più capaci li trovi in quell'ambiente lì e pagano pure poco perché la gente pur di lavorare lì è disposta a premiare la parte economica no no ma infatti quei pochi che conosco
+sono molto molto dedicati alla causa cena lo sai ho un po' di colleghi che sono andati in parte a finire in maestà indirettamente perché l'azienda per cui lavoravo io era praticamente a cinquanta metri da winston era fallita nel duemilauno torna al duemilauno come si chiamano knicks
+tours facevo computer grafica non faceva
+azienda molto bella è fallita per varie tragici strascichi della della bolla della new economy
+non è qui non era collegata ma era collegata dal lato pratico quindi purtroppo
+però appunto c'è stata molta gente che semplicemente ha fatto due passi in più è arrivato il mainstream
+le realtà italiane comunque è una realtà di tutto rispetto e assolutamente no ma non lo era era la situazione in cui ero io in quel momento avevo un assegno di ricerca che sono soldi in nero sostanzialmente perché non fa cumulo dei redditi almeno all'epoca non faceva comodo che vivere di redditi con altri redditi quindi
+quello che guadagnavo sull'assegno di ricerca e facciamo due consulenze fuori erano era come se vuole neanche solo le consulenze
+c'è fantastica tra una cosa e l'altra era tiravo fuori circa il doppio netto di quello che mi offrivano in maestà e quindi
+non è comune però ho dappertutto c'è persone bravissime che vengono pagate relativamente poi so bene i dettagli però è risparmiano la leggenda vuole che i migliori vanno a fare videogiochi ma vennero pagati poco
+guarda io ti posso dire che quello era uno stipendio da fame operata dei videogame va bene non non divaghiamo troppo perché vogliamo raggiungere record perché come dire la durata per due
+poi parlo parlo di un'azienda di più di venti anni fa vent'anni fa vent'anni fa esatti
+cioè adesso potrebbe essere completamente diversa e non è che non voglio dire adesso non la corona come la stessa cosa adesso mandano una lettera l'avvocato ad che basta parlare di noi
+è vero quello che ci interessa
+allora è
+dai chiusura non dobbiamo aspettare a tutti i costi marco che va in riunione che offre il record delle tre mancano dieci minuti quindi
+si deve preparare
+andare avanti a tutti i costi anche se qua non c'è nessun
+lavorare poi vedo che il buon giuseppe lo vedo un po' stravolto e mi dispiace averti coinvolto in questa cosa è stata interessante rimasta appostata ad ascoltare ascoltiamo adesso ascoltiamo e marco che si raccontano esperienze passate no ma parliamo di linguaggi di programmazione una domanda ecco vi faccio
+honda finale per vedere un po' e learning curve lì
+se uno dice io vorrei iniziare a imparare qualche linguaggio quella che potrebbe essere in non tanto di utilità ma in termini di facilità di apprendimento ma anche legato un po' anche tutto quello che ce li controllo io ho idee ho tutto quello che comunque potrebbe aver senso da che cosa poteva aver senso iniziare per imparare python
+benissimo
+oh io direi anche secondo me dato che viene usato tanto per il modding sui giochi ho sentito molte persone che hanno iniziato a programmare killua perché comunque parlando anche per il discorso di giuseppe che diceva che la catena e all'ex vedi subito i risultati
+con lui può essere più o meno simile magari se uno riesce già a capire un attimo il concetto di programmazione oggetti che riesce a divertirsi magari un po' tipo roblox per dire mi stavo chiedendo ti sia iscritto scrivere cose in rue in lui praticamente
+io ho fatto dei giochini dei giochini degli esempi in roblox me e aveva un un dialetto suo comunque me proprio o mi sbaglio avevano roblox roblox language io non lo so però penso magari brevissima ma
+poi non so quanto sia dialettale
+luke ah no è vero
+questa cosa dei videogiochi ma anche non solo ce ne sono diversi di giochi c'è una parte in inglese
+e compagnia bella questo è ciò che è usato in contesti totalmente diversi e inaspettati mi stai dando una notizia in ginex ha dentro lui adesso a fare facile regoline le cose ma no ma viva dio perché io non ho fatto un plugin quarenghi next un po' di
+anni fa ed era compilare da capo ricompilare ogni volta da zero tutto per metterci dentro il modulo non c'era al modulo c'era una parte del sorgente che rischierei di te
+la roba sotto casa
+c'è un modo per fare manchi
+arnica ce l'aveva e stavamo anche il modulo va
+infatti se è curioso perché quello che in tanti posti diversi naturalmente non aveva scusami burns non arriva lui però aveva un suo linguaggio magari cercare saluta pure lui
+il ritorno di tua
+sì no ma non hai detto una cosa sbagliata
+grazie
+perché gli io sto parlando di lui come una roba un po' vecchia per per per motivi storici di come ho visto i progetti e con
+traumi quelli che erano accettabili
+saggi studiano luka perché lui no ma a questo punto sia evidente
+re videogiochi per roblox che un'attività anche molto ben pagata pare lua lotta e mio figlio domani lo iscrivo a scuola di luka
+adesso soprattutto
+senti archivi di programmazione
+se invece miei figli li maltratto e gli metto davanti logo apple due però
+sei proprio cattiva scafati
+e va bene allora quindi linguaggi lua è un buon input e anche perché appunto si applica tutto il mondo del gaming del modding e via dicendo phaeton perché per voi che siete esperti è semplice però roba è semplice per tutti perché io ho avuto dei tag
+isti e da zero a riuscire a fare completare un'attività in python circa una settimana non ne conosco altri linguaggi dove le persone possono naturalmente un contesto molto limitato molto ben definita però si può fare
+la quantità di risorse che trovi su python è sterminata cioè keywords i corsi su corsi gratuiti su corsera youtube dappertutto c'è c'è c'è gente che parla di paita cerchi uno che ti spiega due cose suicidio più sexy
+e c'è tanta grazia spiega giuste perché quelli che vedo in giro delle volte dici no
+è la perda
+e
+altro è un altro discorso
+ciao io ho programmato per anni in chip più duemilaquattordici l'ultimo progetto no se mi dovessi mettere adesso sarei in difficoltà
+veramente in difficoltà domanda per voi che la sapete lunga quanto è diverso il codice a sei cifre che puoi scrivere adesso rispetto quello di inizio duemila per dire non c'entra un cazzo no a petrolio niente praticamente non c'entra più niente
+quasi tutti i progetti tono da siplast classi leben in su anzi direi che in molti stanno già migrando per spar fortin che comunque la roba di nove anni fa
+e però sì place place novantotto che allo standard precedente duemilatré che è una revisione sul novantotto
+adesso sta completamente sparendo e place place leben è un linguaggio diverso rispetto a shimla class trenta in quell'evoluzione c'è stato un salto enorme
+purtroppo ti è lento a evolvere come base e quindi buona parte dei progetti che trovi sono tra fortini seventeen
+venti inizia a essere supportata dai compilatori bene ora per ventitré business non c'è non c'è
+voi che fate draft no no no no svetta ventitré non esiste ancora formalmente
+non è stato ratificato
+per me è un lavoro finito perché l'abbiamo l'abbiamo concluso a inizio anno
+è il processo di standardizzazione sta andando avanti livello mondiale regionale ciò ognuno fa la sua approvazione fanno le sue ellen
+loro però il processo di ratifica e spiegami un po' l'iter di questa di questa
+cosa insomma allora beh cicli sono triennali di sì plastics è stato deciso che ogni tre anni ci deve essere una persona nuova disciplina da dal duemilaundici è quello che si fa intanto si cerca di dare un senso cioè con jack su cosa ci concentriamo nei prossimi tre anni ci sono delle cose che sono andando avanti da anni perché comunque
+se io parto adesso con una proposal siamo nel duemilaventitre ma anche fosse partita due all'inizio duemilaventitre e quindi quando abbiamo appena chiuso nel duemilaventitre sarebbe stato difficile per quella proposta arrivare dentro il ciberspazio ventisei di solito si punta a un inter
+a la seconda o la terza
+versione quindi stiamo parlando di cicli che pepper per sviluppare una feature si va dai
+quattro ai sei anni sette anni allora cosa dici o che vuoi implementare questa nuova funzionalità il linguaggio poi cosa succede postal vai a parlarne ci sono vari livelli di discussione ci sono i comitati
+gruppi di star group che semplicemente analizza una proposta dal punto di vista tecnico tu certi aspetti cioè su aspetti specifici quindi voglio fare una proposta al di intelligenza artificiale per fare reti neurali parlo di una proposal che c'è sul tavolo
+questa proposal dovrà andare c'è un gruppo che si occupa di machine learning e tramite il grosso del tempo lo spenderà per maturare per essere formata non è un design week e cioè di solito una persona che fa la proposta e il comitato semplicemente gli dà un feedback
+questa persona deve cercare di puntare ad avere il maggior consenso possibile cioè indirizzare la proposta verso quello che lo stadio gruppo gli dice essere la cosa più promettente per il mercato e successivamente si passa ai livelli successivi che a seconda del tipo di file possono essere quelli che lavorano sulle librerie
+o quelli che lavorano sulla sulle corde il linguaggio ci sono degli evolution group prima e poi ci sono i jolly group che sono iper watching ruppe e writing room che scrivono che scrivono il testo non non non il codice il codice deve arrivare già fatto prima scrivono il testo della della della che poi entra nello stand
+o elaborare in quei gruppi un'esperienza mistica te lo dico perché gente un altro livello si stanno lì a ragionare su una parola per mezz'ora non quindi neanche tanto bello necessariamente no non necessariamente la mia esperienza mistica c'è proprio roba completamente fuori dal mondo arabo che non hai mai visto e sei laici e perché no
+si definisce quella parola plus standard poi l'implementazione dello standard stanno ai singoli ai singoli implementano dei compilatori però lo standard viene pubblicato da iso quindi uno standard internazionale è arrivata un limite ok va bene abbiamo raggiunto il tuo peso
+quindi possiamo salutarci ma grazie è sempre un piacere grazie sicuramente alla prossima io direi teniamo duro due minuti ok e battiamo il record delle puntate se va bene
+ci vediamo il prossimo la prossima puntata in cui parliamo del processo di approvazione del pittore città spartana complete
+una cosa fantastica
+la buon lavoro
+bene dai e questo sarebbe un record sono mezzanotte tra tre ore e stavo giusto vedendo il record è tre ore e un minuto e venti secondi noi siamo a tre ore e due minuti e ventisette quindi
+merda siamo
+e se vogliamo esagerare se no poi è difficile superare e giuseppe bonanno dici qualcosa per chiudere in bellezza
+general
+sulla vita e sulla vita l'universo e tutto quanto
+cosa tutti quanti dal programma volendo ormai linguaggio di programmazione una cosa che così non è mi capita spesso di ripetere sono taglie junior a chi sta iniziando a studiare e a parte tutto ciò che è già stato detto anche sullo studiare le basi realizzarsi sul linguaggio freeware e shareware due cose molto interessanti
+partecipare all'open source l'altro quando avete anche già parlato perché apre delle porte assurde sia lavorativa si fa rete esistono sono persone ma si impara anche perché un sacco di senior che programmano nelle community e non è un ottimo modo per darsi un'accelerata pazzesca allo studio e poi un'altra cosa molto interessante andare
+dare agli eventi tanto gli eventi anche se me è un ottimo modo per stare immersi imparare anche se non mi è capitato anche anni fa di andare avanti dove non capivo niente però in qualche modo mi hanno aiutato quindi se dovessi dare un consiglio così a caso direi open source e eventi dall'ottimo condivido piena
+per me non esiste lingua programmazione che non sia open source codice che non sia opensource per come la vedo io e per gli eventi anche d'accordo anzi ne approfitto per dire che noi siamo loro partner community partner dei vari eventi del gruppo quindi devsecops daisy contenere così via il devops dei rischi ci sarà
+l'anno prossimo così come del cloud clown a milano passioni amo gli speciali dopo le conferenze per cui se vi capita di passare da quelle parti poi magari ci si becca laici si becca dopo qui bene allora le ultime parole famose da daniele jarvis jarvis
+è stato bello è stato usato bello è stato bello abbiamo abbiamo battuto il record battuto
+fate fare bene così daniele felici di averti
+conosciuto anche se non ti vediamo però va bene anche per me è un amore mi dispiace non avere la telecamera per la prossima occasione ultime parole famose ultime parole grazie di questa possibilità di parlare con voi di parlare con dei titani con degli dei
+saggio rogan vero
+sto bene grazie a te daniele grazie a tutti quanti che avete partecipato grazie a chi ci ha scritto in chat tante persone gabriele per ultimo arrivato tardi ma non ti preoccupare avrai modo di vedere e alla prossima
+alla prossima ciao ciao
+uso

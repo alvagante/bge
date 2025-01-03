@@ -1,0 +1,354 @@
+eccoci qua oh mio dio
+allora questa dovrebbe essere stato l'inizio della puntata della brigata numero cinquantotto la brigata degli ex condotta in via eccezionale da da me e cosimo invece che alessandro ma praticamente noi sono venticinque minuti che parliamo con luca e jenny
+nessuno perché io ho dimenticato di schiacciare il bottoncino della live ma almeno ci siamo fatti una chiacchierata
+spiace chiedo scusa a tutti per il ritardo re allora dai ricominciamo ora buonasera luca ward search ti prego introduci introduci ti allora ho cominciato a lavorare come programmatore intorno millenovecentonovantacinque ho fatto sia front-end
+sanders
+inizialmente ho lavorato per alcune startup italiane poi lavorato per serrare un anno nella forma uno sean mazzarella della produzione poi mi sono trasferito in norvegia per operò software dove poi ho incontrato anche cosmo
+programmatore che spero arrivino dopo
+e poi sì dopo opera software ho cambiato un po' di aziende ho lavorato per alcune startup fatto un po' di consulenza adesso lavoro per un'azienda che si chiama piano che è leader nei pei world quindi se andate nel vostro giornale richiedono che vi fa l'abbonamento potete pensarmi dobbiamo ringraziare te
+non facciamo solo taiwan che abbiamo anche kerygma dei maghi la sottoscrizione trans am the world bene magari c'è una una chiave segreta per aggirare tutti i paywall che tu hai scelto
+cazzata allora dalla chat c'è viene ora ciao buonasera a tutti devo devo veramente scusarmi per questa cosa è stata colpa mia perché ho dimenticato proprio di schiacciare il bottone del gol live quindi lo stream funzionava però non l'ha visto nessuno ricominciamo meglio di prima lo facciamo meglio di prima e buonasera a livio buonasera
+gary collegati e non so se volete entrare anche voi siete liberi di farlo e livio dice luca ha un accento romagnolo al massimo emiliano il raptor perché sono di maranello non è un caso che aveva lavorato anche preservata la fortuna di lavorare alla ferrari e lo video tantissimo dev'essere sta
+però diventare semplice e sicuro magari poi ce ne parla e allora durante la finta live che abbiamo avuto tra me e luca abbiamo introdotto l'argomento diciamo della storia dell'hockey dell'evoluzione dello sviluppatore backend e poi abbiamo fatto digressioni in mille direzioni
+questo ripete lo faccio diciamo molto più sintetico giusto per dare un'infarinatura poi può partire a parlare delle varie c'è molto più bassa ok vedo se riesco a fare qualcosa profano posso se si sente meglio se tengo il microfono davanti alla bocca un jane pronto
+pronto pronto pronto pronto meglio adesso che spero di si grazie livio allora
+diamo una diamo una piccola grazie ciao davide diamo una piccola
+diciamo over piccolo e outline overview
+la
+breve riassunto di dello sviluppo sviluppo backend e avevamo cominciato a dire prima siamo partiti dagli albori dell'informatica quindi dai primi computer tipo
+ferranti mark watney eccetera no e dove the end ovviamente non esisteva perché programmatore era produttore arcore linguaggio macchina e al massimo anni più tardi in assembler non esisteva nessun concetto di front-end almeno all'inizio e front-end erano dei
+led magari non so dei no ma delle lucine poi si sono evoluti in interfaccia testuale che è stata la regina delle
+delle interfacce per decadi no anche lì non si considerava e parlo poi diciamo dell'era dei primi mainframe e poi i sistemi di tipo unix quindi le macchine più
+di dimensioni minori ma con questo paradigma client server quindi tanti terminali associati a un server e quindi lì ancora lì l'interfaccia era testuale e anche lì non si parlava di backend si parlava semplicemente di sviluppo e sviluppatore è però il modello era già clienti
+server quindi poi i client sono evoluti abbiamo parlato prima nella finta live di cose come forgia in formis è oppure clan potevano essere addirittura sistemi windows poi più in là poi negli anni novanta duemila la la parte diciamo
+grande esplosione di internet e quindi non subito ma da lì si è cominciato a parlare di backend frontend non subito perché chi faceva sviluppo web curava tutto quindi sia il backend frontend cioè nel senso nessuno parlava di front end ecco si parlava semplicemente di sviluppo web
+e se un po' anche per le tecnologie in uso per quando io ho cominciato che c'era a visual basic vb scripts vi iscriversi p se ansip era tutto un biscione non tua pagina server generale la catena mal willis e poi però includeva anche dei questi
+ocean x o queste cose che microsoft faceva mi pare abbiano programmi primi no non è mai rivelati pam non del web erano tipo non c'eri potevi usare per i programmi discreto uso basic james bond per la parte web era poco
+come già spiegato
+cioè detto che puoi usare per generarla che ti manda nel codice server-side codice client san casimiro tramite boost e poi diciamo dopo l'era internet quindi li come abbiamo detto non immediatamente ma poi con l'evoluzione dei vari framework javascript l'evoluzione di javascript
+stesso che veramente è evoluto tantissimo dagli inizi fino ad ora
+poi ha adesso anche con i vari linguaggi sopra scrive con tip script eccetera
+se è sorta diciamo la figura dello sviluppatore front-end e di quello che si occupa soltanto della parte
+di interfaccia web che che è anche diventata molto più complessa di quello che era all'inizio era solo pagine web poi c'è stata la anche l' immensa
+vedere sorpresa dell'ajax no e mi ricordo benissimo questo magari lo ricordi anche tu questo momento in cui che google ha fatto vedere google maps no lanciato google maps anzi in realtà prima la colla prima cosa che mi ricordo e di jax era questa
+questa campo drop down questa select che si popolava in maniera dinamica ed era una roba che non si era mai vista prima no mi ricordo del mio team abbiamo visto sta roba qua come come fanno come possibile
+e poi qualche anno dopo credo un anno dopo hanno lanciato google maps è lì proprio sé è esploso l'interesse verso questa roba qua non fuori sequeri tutti i vari framework che c'entra se all'epoca io lavoravo su internet explorer cinque per sferrare perché a loro ovviamente potevano imporre il browser ma i loro
+loro utenti e max aveva implementato di tutto implementato punto anche jonesy henry
+era interessato ma all'epoca the grudge comando non esistono praticamente più nulla generali x ma lato server poi sparavo un bellis sale ballo superficie
+flat client da te avevo delle tabelle dove potevi ordinare a tutti gli area arancione poi vi ricordo potete scaricare addirittura alec shaw e peterson styles e io ho avuto anch'io a che fare con i css shell t devo dire che è stata una cosa un po' traumatica
+è però vabè dire che secondo me è grosso errore dell'ex shalit e che hanno voluto farle un mix mal riuscite dove doveva essere una tecnologia diversa che analizzava di xml ma non c'era motivo felix magazine spada affilata di codice infidi tuo codice
+poker up bro ma per alcune cose funzionavano
+e quindi e dopo ancora proseguendo negli anni c'è stato diciamo l'avvento del cloud computing quindi questa come dicevo prima questa esplosione cam briana di tecnologie di concerti e non solo cloud computing e poi più in là micro services ma è in
+quel lo stesso periodo c'è stato
+l'evoluzione diciamo l'aumento del traffico dei siti web facciamo ovviamente i siti diciamo long tail non non hanno traffico ma è aumentato il traffico dei siti più grandi ali si scrive cipro stati sottratti una serie di fattori che sono multipli
+chat vicenda applica una parte ha avuto questi brand giganteschi che hanno cominciato ad avere una quantità di utenti era inimmaginabile addosso serie di cinquanta aziende normali possono avere un miliardo di utenti il tribunale cose e poi se ha avuto da una parte cloud cam
+lavorare su mole di dati di questo tipo ovviamente normale incremento di potenza del computer e puoi anche layout layout comunque con molti molti device che possono produrre dati di continuo anche portato una mole di dati abbastanza considerevole è il pezzo mancante se vuoi era l'intelligenza artificiale
+perché fu il conto a raccogliere terabyte di dati un conto è fare qualcosa perché puoi fare delle query tu quello che vuoi però alla fine se puoi delegare qualche tipo machine learning l'analisi di questi dati al loro utilizzo strumento aiuta
+sai mi farebbe piacere signor
+vedo i messaggi in chat farebbe piacere se c'è qualche curiosità da chi ascolta fatemi domande pure noi cercheremo di rispondere nel frattempo volevo andare indietro a
+abbiamo accennato prima al fatto che in tutta questa evoluzione la figura dello sviluppatore prima ciò prima che fosse da anne frank temi quindi lo sviluppatore e poi backend il tipo di conoscenze che sono state necessarie al proprio lavoro è cambiato
+in maniera spettacolare diciamo che avevo a casa
+altre sei programma e programmatore che iniziano adesso è capito devono conoscere così tante cose prima di ricerca per qualcosa deve conoscere da blass riconoscerà jobs act farci quello che vuoi devi fare un po' di fronte a b segue commons
+diventa cioè diventa pesante iniziare ma ma come vi dicevo prima c'è stato un cambiamento nella dell' interview quando ho cominciato io a proprio a incontrarvi incontrarvi magari è il ceo della startup che vede prodi gafà gli dice che conosce un po' i computer parli un po' snob c'è l'italiano
+verrà colloqui più tecnico market e devono un po' di cose sulla
+sull'architettura delle siepi uomo oceania dopo di certo esperienza era finita lì adesso se vuoi un po' ostico web developer sono quattro cinque valle di st anger con delle domande assurde complicatissimi che non ti seguiranno magari mai del tuo lavoro perché ovviamente mettete in mano c'è un sito che deve
+gestire milioni di persone
+ha un impatto un po' di bears must have sono molti di più ulteriormente cercano cioè il massimo si è cambiato world parlando di di interview quindi di colloqui mi viene in mente
+agli inizi della mia carriera si era molto focalizzati
+da quello che ricordo queste domande molto stile martino quindi qual è il modo più efficiente per contare i bit in una parola di trentadue a trentadue bit e sono quelle cose che ora sono un po' viste in maniera negativa nel senso che tu o le sai
+ok se no certo puoi cercare di ragionare però se ci sono dei dei trucchi specifici e una volta si facevano molte domande di questo genere e tu dovrai prepararti in realtà si fanno ancora ma secondo me la tendenza è diminuita moltissimo rispetto a come era una volta una volta c'era più questa te
+tendenza che era secondo me anche un pò naturale e il mio uno dei miei manager e all'inizio della mia carriera diciamo
+l'inizio della mia carriera diceva noi siamo quelli dei bit no nel senso che si è ottimizzato tutto se ottimizzare tutto al massimo perché una volta succedeva anche negli anni sessanta e anni settanta le macchine non erano superpotenti la ram non era infinita come oggi ma certo una delle
+prime cose che ho dovuto fare
+era jaques min
+lo strumento era un software per gestire gli aforismi e c'è ovviamente una specie di database l'indice da ma poi dovevo comprimerli perché doveva stare su un floppy da amazon o da uno punto quarantaquattro megabus che dichiarano i problemi con cui ti scontrarvi all'epoca no al volume di dati
+molto molto ridotto verrà non era paragonabile a floyd d'asso per cui ci stava e di focalizzarvi sulla
+sul micro ottimizzazione diciamolo perché sai servono invece che due e hai mille utenti invece che cinquecento e mi ricordi in ferrari m'ha detto che sia adesso usiamo messe però fino a qualche anno fa per tornare all'epoca aveva tipo ottanta mila clienti momento che fino a qualche anno prima c'era un tizio che lacererà tutti in testa
+ci avevano anche il database però lui si ricordava tutti almeno i club principali
+mad world
+ecco vedi queste quasi caldo avesse limite dei sessantacinque cinquecentotrentasei colori e gas si poteva anche fare con il sale però ovest che ferraris può mutuabili di dollari valigie basso
+broker era quello livello mentre adesso non è così certo non hai un milione di utenti sensore
+e infatti è dato scusa volevo approfittare per salutare gaetano che è troppo incerta buonasera gaetano
+vi invito di nuovo se volete avete curiosità per favore chiedete non fatevi problemi
+apro proposito di un milione di utenti la piccola backstory questo è il motivo per cui per esempio io mi sono spostato in norvegia perché volevo lavorare con siti web fino a quel momento aveva lavorato con
+liceo dipartimentale logistico che al massimo aveva solo cento duecento utenti che però se sei in un magazzino con il portatile col palmare che devi no devi preparare un ordine quelli non aspettano e non c'è down timer che tiene quindi
+è stata una scuola formativa molto formativa e però appunto mi sono spostato con con l'ambizione diciamo di imparare come si poteva com'è che questa gente fa girare siti da un milione di utenti come possibile volevo capire volevo imparare
+fare e ho avuto l'opportunità fantastica di cominciare e cominciare a lavorare su questo sito web o community che opera aveva al tempo e in effetti avevano e credo quando io sono arrivato non ha ancora un milione di utenti ma siamo arrivati subito milioni di utenti e poi un po' di più
+ed era un carnaio
+era un disastro totale cioè funzionava però c'erano diversi database replicati ridò la replica però esplodevano c'era un database apposta per le cure pesanti esplodeva tutto il tempo
+poi sarebbe bello parlare un po' più in dettaglio di questa storia qua
+gold a volte interessante capire cosa c'è dietro è inutile interessa watson stabile drive mi hanno detto perché l'azienda per cui lavoro io ha comprato un'azienda norvegese il piano è un'azienda americana e compatto seasons è un'azienda norvegese che ha costruito un database per analitics molto veloci che quello poi su
+cui lavoro io e mi hanno detto che praticamente prima dell'acquisizione di piano loro avevano alcuni data center penso quattro e quando c'erano dei problemi sudata sempre semplicemente da slack o davano un comando e potevano sfruttare tutto il traffico è stato center
+che da una parte ero bello
+puoi fare una cosa gigantesca ben due secondi però
+per star piacersi e di piano ha spinto molto per risolvere molti più problemi sono certa perché troppi stabile ma comunque avere la possibilità di spostare traffico in quel modo
+è veramente utile
+noi lo facciamo ora nel nostro nastro perché ti può capitare qualsiasi cosa anche che i was ist j'onn vada giù c'è capita di tutto
+ti da la possibilità di con calma no toglie il traffico poi con calma analizza cosa è successo metti a posto altrimenti come fai devi certo certo ma lei era più business as usual spietati di questo nome numero
+vermox da quello che m'ha detto da quando ero arrivato a yarmouth di stato nel cosmo scripting vabbè quindi tornando diciamo backend all'inizio
+si occupava di qualsiasi cosa incluso front-end diciamo col semplificando con l'arrivo del web
+siamo concentrati più sulla parte server e database come diceva prima come diceva prima livio bel contribuzione l'olanda dati o database ma certamente si
+dagli anni settanta ottanta c'è stata una vera esplosione di diversi database che esistono ancora magari non esistono più e accennavamo prima database notes sewell una volta diciamo anni ottanta novanta era ancora molto in voga fatto che esistesse un db
+in un amministratore di database che si occupa solamente di quello e poi il mim diciamo fioccano nel senso di base per quello che di certo un database non lo tocchi frequentano le fai fai solo story presidio che dico io no da quello che io posso vedere i miei a parte
+diciamo sistemi esoterici tipo ora col lo so sai base se esiste ancora se un'azienda norvegese che ancora un mega sistema assai base sono la toja a parte quei sistemi lì adesso l' ingegnere ingegnere back end che deve smazzarsi alano infatti da quel punto di
+il ruolo della sisac meno almeno dal mio punto di vista
+è cambiato un po' più mischiato no adesso ci si aspetta che molte cose le faccia promotore decam idea più vario da vista il cui culo era vent'anni fa allora secondo me qui si potrebbe intavolare un discorso molto ampio nel senso sì sono d'accordo ho visto anch'io qui
+questo una volta il sistema administrator tendeva alle sue bestie no una per una
+ora una persona che fa ancora quello lo può fare in un ambito non so quando ne hai due tre dieci venti dove li chiami ognuno per nome ma se ne hai trecento
+mille diecimila in opera avevamo questo mega sistema di proxy serve per opera mini migliaia decine di migliaia di macchine se non puoi chiamare per nome tutte quante no
+quindi si è instaurato il bisogno di gestire sistemi con software quindi l'evoluzione del sistema dimostrato che adesso sta diventando harry quindi vedi le l'operation la gestione delle operazioni web operations come come software
+il back backend il discorso che ricevi è molto interessante nel senso io nella mia esperienza ho visto ho cominciato facendo tutto eravamo in tre e quattro quindi facevi qualsiasi cosa si zerbin the end front e quello che c'era da fare lo zoom
+se c'era da a il server è troppo lento che facciamo allora vatti a vedere o ci sono i raider osare ed uno raid dieci raid uno zero area di uno zero è più veloce ma poi aspetta prendiamo il controller casi no più performanti cioè
+a t di imparavi milioni di cose adesso praticamente ci sono tre quattro persone se vuoi fare vuoi fare quella roba lì e puoi sicuramente docker avuto un impatto molto potente da questo punto di vista
+magari ha aiutato la separazione uno poiché a sfogare programmatori diversi o che basano i luoghi che hanno possono avere un'opinione diversa per docker cioè io come come programmatore java non è che lo vedo come una necessità anche se lo uso in alcune cose però per me non è una necessità però si parli con chi
+i sistemisti loro vogliono assolutamente perché gli semplifica un sacco di cose e per altri linguaggi programmazione mi aspetto che lo vogliono assolutamente perché magari un pò più
+più frequentati non ci avevo visto hi-tech intendi joker nel senso i sistemisti vogliono d'oca nel senso che tu cioè come team di sviluppo hoc avrebbe chiamato arnold ehret cioè tu prepari e l'immagine musicale però delle immagini docker il promotore magari ci mettono dentro quello di cui hai bisogno puoi
+finito lì quindi per loro una grossa semplificazione per me come programmatore java non è una semplificazione sono cose che se non è la fine del mondo proprio di un layer che sinceramente sto bene anche senza dentro ad esempio se dovessi lavorare in python mi viene da dire che non c'è alternativa perché ci servono esattamente la versione perfetta
+di tutto perché come funziona
+picton ultimamente è diventato un popolo c'è anche di plagio anche di peggio perché una volta ho lavorato per un pò inaugurare liberamente dovevo c'è l'unica soluzione era joker perché non poteva funzionare stiamo parlando comunque soltanto di roba che doveva generare un fronte all'altro se ne va non va ritsos
+dicono sono viola non ho molta esperienza ma non parte la grafica
+billy e mandy da livio la domanda fatidica meglio piace capire javascript e java ruby per me dipende c'è sicuramente dipende e direi che forse è meglio che non entriamo nel più e meglio questo meglio quello che stare la guerra dell'iguazú secondo me abbiamo
+sia io che luca ma la maggior parte di chi ascolta anche chi partecipa a questo canale venti place anni di esperienza quindi sappiamo che
+diciamo diversi tour sono utili comunque non c'è un giovane dipende quello che vuoi fare se vuoi farmaci learning sono consideri python non sei serio poi magari quando si parla del green forest plot colonnato discorso
+o se vuoi fare macelleria lo devi considerare cibi e tu migliore non puoi far finta che non esiste anche se non è il linguaggio che preferisce allora alla seconda domanda quale framework application server in java io conosco tom cat sta conoscendo già il boss poi ci sono wordpress larve nebbia capì fast first no
+ps eccetera ma e quale favore ovviamente ce ne sono tantissimi e ognuno ha i suoi affetti lo so tu sei molto esperto di halloween spring boot spring boot spring boot è usatissimo se è usatissimo infatti c'è già il fatto che già va tende ad essere più standardizzato rispetto ad altri linguaggi più
+il fatto che ci sia qualcosa come spring boot che ha preso praticamente la grossomodo allo stesso market cercano un po' di più del java enterprise edition come si chiama adesso che dovrebbe essere la tecnologia ufficiale dal punto di vista di giava ti dice molto di più ci sono anche altri famosi che ho provo
+qua arcus brevemente all'epoca quando ho quando ho fatto la comparazione tra quarto su microsoft microsoft risolvere il mio problema quindi scelto macro mart poi per me il progetto usato sia spring boot che microsoft però alla fine anche se macron mi piace spring boot
+funziona
+è quello che io non ho usato molto questo so che qualcuno sia molto usato nella mia azienda attuale e indietro sceglierei qualcosa invece che macron probabilmente perché ha avuto più trazione lo switch se molto sviluppato spring boot lo vedo molto come non so per esempio quando io ricevo
+progetti da candidati che fanno mandano loro candidatura per lavorare con noi sono tutti spring boot praticamente se tu metti una cosa giava tutto perché praticamente ti butta su tutto super velocemente quindi va bè secondo me ci sono moltissimi e modifiche
+dipende da una cosa vuole vuole
+cosa vuole raggiungere no secondo me è importante nella scelta divertirsi magari un po' nel senso è un framework che mi piace usare poi se la tua azienda utilizza tomcat su tutti i progetti usa tomcat ne vai a prendere un altro e ho un punto che però volevo disco
+utero un po' meglio
+però c'è un messaggio che non possono leggere
+c'è un certo lame lame lazza che dice ho lavorato con cosimo più di venti anni fa all'epoca mi insegnò a perderci west e wes e anche lì i sistemi di version control e quanta acqua sotto i ponti
+ti ricordi che riguarda il pesce d'aprile di opera so se l'avete visto eh no quale non mi ricorda certo punto
+cora è passato a kitty aspetta quello dovresti spiegare un po' perché sono usarne nel modo lavoravamo in opera all'inizio penso usasse road swiss force del tour
+george wells dopo come non ti ricordi se perché
+restano no
+spinto ai limiti massimi della fisica
+hazard woody siamo passate it e dopo due settimane c'è voluto un anno di lavoro ma c'è voluto un buon broker l'ha fatto ed ha funzionato berno e dopo due settimane il primo d'aprile ho mandato una mail dicendo ah sono problemi tuoi hobby detective west
+uno dei programmatori del club votano
+avevo dato un bel bob cooper la poesia
+se mi ricordavo questa cosa fa i primi dieci wars usavo con altra cosa di michael da summer gold non so se sei felice livia
+quella roba lì cade l'occhio esclusivi e david vacanza la città
+sleep well up bellissimo e mi piacerebbe sapere chi e lamela melassa semplice puoi dire il tuo nome così mi ricordo anch'io più di venti anni fa walter che lavoravo ancora in friuli
+quindi uno dei miei ex colleghi che tra l'altro ho cercato di invitare più volte
+alcuni dei miei ex colleghi italiani trasmissione e prima o poi ci sarà l'occasione di
+di sentirli va vabbè aspetto aspetto notizie da lamela melazzo fammi sapere sono curiosissimo e volevo toccare un argomento
+diciamo ce ne sono tantissimi gli argomenti quasi me li sono segnati ciò una lista infinita ma prima abbiamo parlato di
+la necessità di espandere le proprie conoscenze per lavorare come backend una volta c'era un certo livello di conoscenza adesso molto di più e sempre di più prima tu hai detto che i sistemisti hanno questa tendenza a voler lasciare i backend cioè non vuole lasciare
+diciamo a spingere il due ottobre sviluppatore back end a conoscere a occuparsi di più della parte infrastrutturale no cioè non so se sono loro io ho visto forse l'ho sentito molto purché l'azienda in cui lavoro adesso ha una forte
+anche troppo secondo il mio punto di vista e abbiamo un team di infront però il programmatore deve fare molte cose comunque anche da quel punto di vista lì perché non lavoriamo su cloud ma lavoriamo nei nostri raptor center
+quindi un pò diverso da quel punto di vista però comunque anche con cloud c'è una spinta inevitabile
+programmatore deve fare di più
+senza preoccuparsi lui diede poi i suoi tablas per esempio general english club med music generale è che tu che esperienza e di questa c'è un fatto positivo funziona non funziona funziona diciamo che si ha un fatto positivo force bisogna trovare il giusto equilibro
+brooke ovviamente come tutte le cose dipende dall'azienda non è così banale no già una delle cose che è cambiato molto più cloud è che il programmatore è responsabile dei costi poiché non te lo dicono esplicitamente però è ovvio perché sei tu che all'occhio le risorse tu chi scegli le tecnologie the place
+dabliu asse o dopo costa che arriva dipende da te magico costa che arriva sorpresina esatto e da questo punto di vista hai capito non c'è il far west ancora da quello che ho visto io perchè ha già su sui clown si capisce esattamente una mazza perché le offerte sono
+variegatissima e cloud provider fanno tutto quello che possono per nascondere
+cos'è che generali costino già non mi puoi dire che nel duemilaventiquattro io vado nella dashboard di google per esempio è già search mi metto in ginocchio e pregare non riesco a capire qual è il budget e sta generando costi ticket se c'è il modo per saperlo devo attivare
+devo attivare l'export di tutti i dettagli dove trovi un'infinità di cose che costano zero due centesimi dopo un certo punto trovi duecento euro due euro quelli che sono sul tuo bar etc però non è o non dovrebbe essere necessario ma è ovvio che se stiamo parlando di bacche può sapere qual è
+già perché a demi schede queste cose pur c'è anche confusione perché comunque non molti programmatori non hanno
+non hanno una formazione
+reale di cloud nove cose tipo che adesso parto qualcosa succede quindi ad esempio ritrovi con un agente che per risparmiare soldi metteva ad esempio questi bouquet di online storage sembrano costare la metà però di costare un mese per cui se tu cara ritardo di sette giorni paghi il doppio
+che se usi lo standard
+il classico modo con cui mi piace fa risparmiare
+randall anelli allo yacht più big bear e secondo me è interessante il punto che tocchi perché soddisfatta la rete come come wind
+personalmente penso che è perché ci sono passato diciamo come dicevo prima eravamo in tre in azienda facevamo sviluppo di doti deve occupare di tutto no poi mano mano diciamo anche in opera gestendo questo sistema diciamo da da milioni di utenti si avevamo
+un team di sistemisti praticamente quello che loro facevano era pensa te c'è questa era a duemilasette duemilaotto quindi cloud credo fosse nato già e the blues baker arriva all'inizio noi facevamo una richiesta al nostro team di sistemisti per avere server fisici
+c in un data center nostro
+e loro il the witcher card ci voleva averne uno se dovrà comprare ci voleva no in genere la le avevamo perché c'era o non c'era un bacino immenso di opera mini no quindi non piacerà sempre comunque hardware
+poteva essere disponibile anche a brevetta prevede alcuni vendor che usiamo adesso sono molto più lenti di
+quindi ci si occupava di tutto tranne i server fisici no quindi si servono arrivavano installati con debian quello che lee e poi da lì noi si cominciava siamo passati dal
+o ci sono o buonasera marco marco
+la sala e approfitto per salutare paolo tonin ciao paolo che era la persona che diceva che la gara ha lavorato come piacere risentirti e sì in effetti sei stato poco poi io probabilmente sono andato via nel duemilasette quindi una sera marco
+stai iraq ora si parlava giusto giusto dei team di sistemisti nel periodo in
+le prede qui si lavorava ad opera io spiegavo come diciamo al nostro se vedi lo sviluppo back end come la pila iso osi a noi ci fermavamo al ci servono quattro nuove macchine ci servono dieci macchine ci serve una macchina con queste caratteristiche
+andavamo la richiesta al team di sistemisti poi dopo un certo tempo questi erano gli hostname ip tra l'altro si hostname erano tutti decisi a tavolino che ora sembrava una cosa e poi da lì in poi noi si faceva tutto quindi backend si occupava di qualsiasi cosa
+cosa
+sopra al livello del sistema operativo qualche volta c'erano interventi di tipo ok load balancer a un certo punto abbiamo avuto questo five of cinque che quindi era una cosa che i sistemisti mantenevano al di là di quello del periodo precedente dove non eravamo al five addirittura già facevano girare
+le macchine linux con le vs funzionava quindi diciamo il contesto di questo discorso era la conoscenza necessaria per essere uno sviluppatore back end all'inizio era no volevo dire che all'inizio era minore ma in realtà
+li dipende però adesso è esplosa no bisogna sapere di tutto e di più tumaco hanno lavorato e lavorato come anche come backend
+no direi di no io direi che
+uno di quegli strati bassi della pena
+se posso dire di più che
+già in opera eravate andati ad un gradino più sopra perché ho lavorato in ambienti dove anche gli applicativi diciamo dovevamo installarli due sistemisti adesso non non non voglio fare nomi di aziende ma per dire
+in un'azienda adamo perché i ricercatori avevano acquistato un software particolare che serviva loro per fare il loro lavoro non erano dovuti occupare dell'installazione sui sistemi della configurazione del server queste cose delle licenze si doveva occupare noi e cosi via
+quindi eravamo ancora diciamo che i clienti del gruppo erano ancora più in alto perché manco si installavano
+i software che poi avrebbero dovuto usare per dire già quando parli di di opera quindi sul fatto che vi davamo i sistemi pronti o meno dovevate fare tutto il resto siete già andati al gradino più basso
+credo che alla fine sia meglio così perché io
+certe aziende dove ho lavorato ho odiato ma compartimenti zazione street art e guai a essere metti il dito la florida
+c'era era una cosa abbastanza odiosa ho sentito che informarci frustati in realtà molti problemi con catapultano cambiato hanno cambiato consulenti sono diventati molto stretti ma ho detto che era un clima di terrore
+però mi domando se ci sono anche dei problemi legali perché a un certo punto mentre ero ancora in ferrari avevano valutato la possibilità di andare in borsa però senza andarci e mi ricordo che un giorno era venuto sto tizio che mi aveva chiesto di fargli vedere e io ero in grado di scrivere sul
+server di sviluppo ma non è in grado di scrivere sul serio di produzione che io gli ho fatto vedere beth però volendo possiamo anche fargli vedere il contrario perché c'erano serve di sviluppo che non riuscivo a scrivere a
+un sistema per ragionare serie di polizia però a parte questo comunque erano andati borsa
+non è stato un problema però volevano questa separazione quindi mi domando se by step può essere poveri plastica allora questo secondo me è una delle cose più importanti no che volevo toccare questo questo fatto della comparti mentalizzazione nella mia esperienza ho sempre visto questa attenzione
+home corsi di questi
+amo opposti nel senso ci sono alcune aziende cui tu veramente non puoi toccare i server di produzione quindi il deploy non lo fai tu lo fa qualche ora o qualcun altro no non lo fa il il team the end ma lo fa qualcun altro tu devi preparare un artefatto e poi questo artefatto in qualche modo viene con tutele problem at
+dice di change management eccetera eccetera quelle sono azienda
+si sarebbe interessante capire il valore aggiunto di questa fase quando c'è è il valore aggiunto allora è lì allora il fatto è perchè si fà sta cosa perchè in yen in genere quello che è successo è che in passato i backend ha fatto il deploy e crackato tutto no e quindi da ora in poi no
+end non tocca più niente da in mano la cosa operations che poi si arrangia e fa secondo me quelle sono le aziende che da una parte hanno magari requisiti di compliance per cui devono operare in questo modo ma io dico poveri loro perché le aziende che lavorano invece col
+il modello opposto per cui tu sei responsabile di un software lo sviluppi tu lo devi buttare in produzione non qualcun altro perchè se no c'è accade come dire l'incentivo principale a curare la qualità di quello che fai no ma infatti io ho letto che
+in google da gennaio mi piace di google fa così
+sue aziende paragonabile a google spray in questo caso in realtà un modello che secondo me molte aziende potrebbero va bene o male meno valutarono e da quello che ho capito tu hai tipo di bonus i punti in qualche modo puoi spendere per fare deploy sede floki vanno bene e tu continui puoi tutti quelli che vuoi nel momento però che ci sono dei problemi
+schemi non puoi più farlo vite come se quello è il famoso error budget a ha che fa parte delle pratiche di tre la abiliti engineering esatto proprio ad esempio non lo facciamo
+no biogas problemi browser non l'ho mai visto fare da nessuna parte ma non mi sembrerebbe molto ragionevole tu marco l'hai visto fare questa cosa dell'eroe budget
+sinceramente dal vivo no no secondo me allora adesso non vorrei fare
+il pretenzioso o eretico però escono me google google
+che ce ne frega di quello che erano certo sì error budget e sicuramente onore di marco reyes cioè indicativa me ne vuoi come sia stretto pro c'è
+dev'esserci fallo app ma certo una cultura certo però non è così scontato no non è così scontato questo è vero sono ci sono alcune situazioni in cui non viene fatto cioè nel senso per esempio i test sono rosee ma si fa lo stesso di plaino effettuerà una cosa che a me io non non p
+posso vedere mi viene secca
+sai che ha distrutto opera unidtest sta cosa no in test
+acquisto
+in realtà dovrei chiedere a cordenons per gay louis
+email queste cose quando ottima famiglia stasera esatta allora opera night era praticamente il tentativo di opera di faro web tre zero laddove praticamente gli utenti si beccavano un dns in opera e potevano per esempio far sarde delle loro foto senza dover passare da clown era la
+di cloud come opera lo metteva sonno e anche se c'era qualche tentativo di fare del peer to peer
+di cui tu sei stato
+parte
+colpevole di giava che non è riuscito a deliberare abbastanza da questo punto di vista però sviluppato con il gluteo
+però il kernel di tutto questa cosa era un proxy e ora questo proxy era praticamente una caratterizzazione di indovina ehi charlie rose sax bravo solo che cosa è successo l'hanno forzato e non l'hanno più aggiornato e capito quindi il buon denis prima di andare in produzione gli ha
+detto che i test falliscono questo proxy non funziona ovviamente
+nessuno lo ha ascoltato sono date in produzione lo ha funzionato due settimane dove siamo beccate anche i complimenti da google play nostra nostra idea e poi ha smesso di funzionare
+sono servite tre settimane a denise young vidor per scrivere
+le altre rocks the zar perché vivere aveva sede a gaza ha lavorato in un proxy un proxy da zero contro i proxy non oso immaginare qua per stimare di fox tv opere
+by che non ha funzionato
+non sarebbe stato un successo in ogni caso però se fai così prendi no ai test non devono essere rossi mi pare che abbiamo fatto questo errore in opera diverse volte di prendere un prodotto for carlo e dopo mio dio cosa succede un un anno dopo ma non siamo non siamo mica da soli
+quando
+on the ground dicevamo quando opera ha abbandonato presto per passare a chromium poiché ovviamente la spinta dietro arrivava da yandex e yandex aveva già fatto un browser di suo con firefox dove però credo successo come puoi immaginare l'hanno cercato hanno aggiunto delle cose e poi do
+dopo che sono rimaste lì si sono impantanati ne sono andati d'opera a quando opera fatto sta cosa ti ha spiegato sì perché poi prendiamo rom e poi la giorni fa e se loro dicevano essere un prossimo aggiornamento non l'hai capito lo george tutte le volte sebastián lo fai no
+hai capito questo funziona solo se continui a prendere il diabete altrimenti no
+adesso stiamo andando nelle negli aneddoti di opera
+è interessante ma magari non per tutti
+magari potremmo fare una puntata tutta dedicata al
+sarebbe interessante ma poi io starei ad ascoltare luca un sacco di tempo perché il suo la sua parlata con quell'accento mi è mancata tantissimo l'allergia guardare a san fernando
+l'allergia al borgo policy di pollo m'immagino
+devo accettare l'evidenza
+intanto c'è un commento di livio che dice credo che la settorializzazione sposa la vecchia strategia divide et impera parte ci può stare per un discorso di infrastrutture corretto diciamo
+forse sì e per continuare diciamo e pm marco di
+non avete non vorrei dire troppo sull'azienda ma io credo che una divisione estremamente rigida ci abbia portato ad infrastrutture terribile in un posto dove lavorato perché sostanzialmente non lo posso dire il gruppo di reti faceva disegnava e progettava di rete in una maniera che va perfettamente senso
+per
+le persone che si occupavano di reti il problema è che diventava un macello utilizzarle io ho
+ho dovuto configurare una macchina che aveva da cinque interfacce di rete
+ma fisicamente ne aveva addirittura nove dieci perché c'era una rete per il database la rete per il bilanciatore narrata per il management la rete per corruzione per l'altro questa macchina hanno dei ragni con anche con le zampe su tutte queste reti poi perdere nell'alta fra affidabilità
+non c'erano è interfaccia in long beach so però era un disastro veramente difficile lavorarci e peraltro per sistemisti era la stessa cosa perché siccome la filosofia di questo ci occupiamo noi voi non toccate niente asad ma magari noi si progettava qualcosa e poi cercavo di metterla in fm
+unzione ma sulla rete non ci andava perché non avevi pensato che lo avrebbero architettato una rete in quel modo e quindi non non sono molto d'accordo sul fatto che avere questa divisione così rigida porta architetture migliore per la mia esperienza personale ha portato a delle cose orribili poi ognuno la sua esperienza magari da altre parti ha funzionato
+alla perfezione per carità di dio però nella mia esperienza era una cosa veramente terribile per lavorare se io ho sentito che in ferrari lawrence poi passato perché uno dei problemi è che ad esempio volte forare con la comparsa di software e bisognava parlare per dei mesi cui si sabbia per vedere se scattava tutto quello che volevano loro
+quindi cose che magari costano pochi dollari venivano a costare molto e a un certo punto col cloud
+hanno cambiato marcia perché il punto di lì poi passavano come funziona esattamente tutto quello che volevano si chiama shadow it web si chiama shadow shadow light poiché siccome haiti non fa quello che serve allora la gente si fa il suo kit appena può esatto quindi c'è questo rischio e alla fine
+diciamola l'aspetto che condiziona tutte queste settorializzazione eccetera probabilmente se la gente come dire si parla insieme o no
+se si parlano attraverso team o no è quello che condiziona tutto quanto no tu puoi avere dieta che esclude è lì il problema può almeno in ferrari c'era il capo dei sistemisti windows che non era facilissimo da gestire come persona bravo ragazzo praga peter ci voleva un attimo per farsi dei nemici
+perché non ti becchi una querela ma adesso non più
+essa infatti sta teton
+no ma piacevole che ci lavoravo bene non era un problema per me però altre persone invece avevano dei problemi quindi a quel punto lì poi accumuli accumuli che non tutti belpasso non solo non sono abbastanza d'accordo perché sempre in quella stessa azienda le cose il migliore che abbiamo fatto da un punto di vista di architettura di funzioni
+aumento erano le cose in cui ci siamo seduti persone di gruppi diversi ma vogliamo fare questo dovremmo fare così così però non si può fare se lo facessimo così anche ha ragione facciamolo in questo modo qua allora funzionava ma se ognuno progettava le cose chiuso nella sua stanza
+questo è uno dei più grossi problemi che ho mai visto charles sempre visto negli anni se uno magari ci sono anche dei progetti come è possibile creare progetti di una persona e quella persona fa e fine
+dopo essere distrutte visti zing client in che senso certo punto fra avevano comprato questi da trentasette della ferrari
+domani mattina ti vedono la porta
+ehm no
+avevano questi questi computer molto economici molto piccoli dove praticamente l'utente in realtà stava lanciando una una sessione su web wilmot avenue flame war in rete
+funzionava produttivi non erano te
+re performance erano veramente terribile però risolveva ovviamente ha dei problemi alla leith
+e come mai ti è venuto in mente questo perché mi è venuto in mente perché è questo in realtà il classico atteggiamento che crea problemi di quello di parlava anche marco e che magari la hit cerca di risolvere i suoi problemi più che risolvere i problemi dell'azienda poiché questo questo diciamo che in alcune aziende più problematiche
+no primo perché si pensa un'azienda come ferrari ferrari nella software house ferrari fa macchina quindi la eth in realtà è una cosa necessaria ma non è una cosa che vorrebbero è una cosa che devono era però è semplicemente un accessorio mentre se tu vai software house produce software dalla t e l'azienda
+open si deve mettere molte altre persone che lavano prodotto tutto quello che vuoi però comunque quello che vendi al software quindi ci sta magari che
+sia più stretto da wildwood da questo punto di vista anche se non necessariamente caso e non so se ho chiarito bene qual era il punto da cui volevo il punto centrale della cia dall'argomento della settorializzazione che poi a che vedere tantissimo conti col movimento del devops no non abbiamo
+nominato ancora ma quello era il movimento che si proponeva di abbattere le barriere diciamo tra questi slow
+ce ne sarebbe da dire molto ma l'argomento centrale che io ho sempre sostenuto e ancora sostengo chi lavora su un sistema deve essere quello che fai il deploy non ci dev'essere nessun altro che lo fa per lui altrimenti non ci siamo come diciamo struttura
+incentivo a produrre una cosa di qualità e io ho visto sempre questa cosa negli ultimi dieci quindici anni che quando non c'è questo contatto diretto tra quello che io faccio è quello che gira in produzione la qualità è bassa non c'è niente da fare quando invece
+tu sei in prima linea
+sì però quando tu scrivi una linea di codice ti preoccupi di come questa girerà in produzione allora si che le cose funzionano il problema principale secondo me è anzi ce ne sono due che la conoscenza necessaria non è banale quindi tu devi avere esperienza deve aver conoscenza di no
+milionata di cose no per sapere se questa linea di codice che scrivi funzionerà in produzione con magari un milione di utenti no
+infatti ecco perché c'è il bim e watson mai laptop oppure
+was working docker
+airwell scipio computer e questo è il problema finché non c'è quel contatto diretto ma scusa stavo dicendo questi due problemi uno la conoscenza e due
+c'è la conoscenza nel senso devi avere un certo livello di esperienza e di preparazione e di competenza per capire per esempio se in quella linea di codice che hai scritto
+magari nella funzione c'è una jacquerie sewell deve anche sapere come database reagisce quando fai una querela di quel tipo e la tabella è piena di dieci milioni di rigano è uno uno dei problemi è che noi non facciamo deployment spesso quando li facciamo se io faccio un diploma e mi tiro dietro lavoro fatto dai miei colleghi ecco è quel
+ai principali che è stato segnalato più di venti anni fa credo a questo punto
+no forse no ma dieci quindici questo famoso argomento del tandy plus per dei nodi flicker dove è stato dimostrato anche materiale successivo come il libro accelerate per esempio dove si dimostra che più la bencic diploma e i
+eccola e più aumenta la qualità ecco che si completa nel nostro caso non serba esattamente ragionevole proprio un the player richiede rolling star di tutti shernon quindi richiede comunque delle ore ecco ma allora per esempio è qui e noi stavamo un database che qui ce ne sa
+beh dire ha però per esempio quello che potresti fare e ad un costo maggiore e avere blu grand plié quindi avere due completi di plaid e che che tu alterni no quando vuoi fare un diploma switch da uno all'altro quello quello lo possiamo fare in man
+semplice difatti lo facciamo di solito quello che succede è che noi ad esempio al nostro server nostri plus più grosso da so penso che dopo la riduzione sia a sessantaquattro macchine quindi immagino di sedici partizione con quattro replica ogni ogni partizione ha quattro replicato su un purificando per cui quando facciamo un test
+cambiamo uno un server ad esempio proviamo e se tutto va bene siamo confidenti che abbiamo tutto altrimenti cambiamo una replica per ogni per ogni partizione soprattutto bene due tipo quando ci siamo andati coi piedi di piombo quando siamo passati da java otto diciassette richiesto dei mesi fare un roll url youtube
+leto nasce cosa salma university of the year a prevedere che impatto c'era un certo punto ci siamo ritrovati in stazione in cui ibrido non andava più bene dovevamo semplicemente accelerare e finirà si deve
+e com'è andata da giava otto alle diciassette a è stata fantastica
+c'è un aumento di prestazioni che per synth
+in in molte cose l'aumento o è irrilevante o non già sto è chiaro però l'aumento nel garbage collector è una cosa che
+non è incredibile semplicemente incredibile noi quando abbiamo visto i numeri perché noi abbiamo scritto un evento un benchmark abbastanza sofisticato per testare il nostro database
+quando abbiamo visto i risultati sul benchmark abbiamo visto due tre quattro volte più veloce nella fase che nella fase più critica che allo snapshot del nostro ed è un database in memory ma è persistente ed ogni tanto devi salvare su disco che è quella fase lì era veramente sul serio più grosso da tre quattro volte più veloce su cluster
+classe regionale abbiamo visto un incremento di dieci volte guardò è una cosa incredibile
+e problemi perchè comunque c'era un aumento del consumo di ram per cui questa cosa subito ha avuto un po' di impatti negativi perché abbiamo visto uno un aumento dell'utilizzo del disco e quindi si tirò era lì lì per ordinerò rimanevo su giovanotto
+ho trovato la soluzione ha funzionato alcuni mesi possono più funzionato mi ha trovato una soluzione basso sembrava nuovi parametri magici del garbage collector una calmata
+azienda ho buttato via tifoso
+e voi usate avete fatto dovevamo ove repliche per la partizione adesso ne abbiamo quattro che abbiamo buttato via ottanta serva ciò sono comunque sono server che sono più potente rispetto quello di prima mi ha buttato via quelli lenti gay sono anche altre cose una sola già visto ma c'è però david macina tra
+quelle trentadue server ci ha fatto risparmiare garbage collector va bene bene io devo dire la verità deve per diverso tempo non ha usato già ma negli ultimi sette otto anni si l'unica cosa che ho dovuto fare è cambiare la locatore di memoria invece di usare eagle
+c usare g maalox quello ha fatto una differenza stratosferica ma la garbage collection veramente non tanto forse sarà di te dipenderà dal word cloud diciamo dal tipo di difendersi per noi quella è un'operazione molto particolare che richiedeva un sacco di tempo
+days of the week
+l'oms non abbiamo se serve che girano per mesi e mesi senza restart no e quindi il fatto della neve la frammentazione di memoria era uno dei fattori e dunque allora qui sono le dieci trentacinque e ancora non abbiamo cominciato a parlare di seriamente di cloud abbiano detto qualcosa su cloud
+non abbiamo parlato assolutamente di micro services dobbiamo parlarne
+forse qua ci vorrebbe una seconda puntata però
+anche perché io fra poco spariscono così come sono apparso
+sono solo uno faccia diciamo che è un po' tardi e ce sarebbero moltissimi altri argomenti full stack development per esempio
+la leggenda del sud sta arrivando tasse io odio quando mettono che cercano full stack developer perché perché a capirlo sei una startup perché semplicemente avere una persona che fa tutto anche se capisco le esigenze dell'azienda e sono comunque un full stack developer però mi dà fastidio perché secondo me sì
+stai chiedendo troppo ma puoi chiedere a qualcuno che sia molto bravo nel backend è molto bravo nel front-end
+molto molto improbabile secondo me si sta chiedendo troppo se però mi dice che mi serve un weekend di wallpaper che deve saper fare un po' di front-end o fronte di vallo perché per fare un po' di background e andrò anche lì no saper fare un po' di front-end ma tu hai visto con react
+cioè non è che come fai a fare un po' di eco nella mia carriera e fabio gli io l'ho visto ed è terribile quindi fai un passo dal borgo
+sono d'accordo purtroppo la mia azienda whishaw che a me non piace
+e ho visto chloe si
+terribile che però immagino di sì ti chiedono di fare seriamente tutti e due secondo me ci hai capito alla fine cosa succede che fu stack developer ti fanno asse la tua serva ci può anche stare nel tuo migliore che puoi usare e giallo scegli solo perché dopo c'è una persona che ti conosce usa lo stesso linguaggio si affronta
+webcam hd non so ma per l'amor di dio se funziona se non hai bisogno di chi sa che ho però eh va beh poi dipende dalle dimensioni dell'azienda se c'è capitalismo suona in generale poi non è che voglio bisogna vedere la singola azienda tramite da dire che è più facile per i manager capito
+non hai più bisogno di classificare quello di cui hai bisogno torna indietro agli anni ottanta dove mi serve un programmatore e che vive da solo il programmatore però ad essere un full stack developer e poi full step bisogna capire che cosa significa perché fu walk di re frontend backend infrastruttura anche a sicuramente e quindi se puoi
+ci metti due o tre anni d'esperienza atmosfere e dir ventitré
+fonseca frustate nuovo buster e forse il
+dice dice paolo dalla cat ehm e io
+non ho mai visto nessuno sapere frontend backend infrastrutture anzi in realtà no c'è un solo una sola persona noi abbiamo assunto come interno
+qualche anno fa che ho visto preparatissimo giovanissimo tra l'altro adesso in giappone è andato in giappone a lavorare e liam ciao lia lui non ascolterà in italiano ma è
+solo lui ho visto lavorare bene sia front-end che back-end che infrastruttura veramente bravo bravo bravo altrimenti secondo è un unicorno diciamo altrimenti non esiste
+allora ragazzo e dieci quaranta io non affronterei l'argomento microservice perché secondo me ci porta lontanissimo cell faremo le undici e mezza mezzanotte lo so lo so voi volete falsi
+se volete dire qualcosa di al al volo su micro services no man's sky una puntata dedicata si può spopolare lo aveva nominato clouds molto un po' di quello
+secondo me non so se c'è stata forse una puntata su microservizi già ma diciamo nel contesto del back end developer secondo me wired giusta una battuta così è la scusa perfetta per quelli di nuovo che non vogliono parlare con nessuno si chiudono nella loro stanza si scelgono il linguaggio che vogliono
+e fanno quello che vogliono nel loro piccolo microservice si è un tool che è stato abusato e superiormente ritengo che alcuni linguaggi sono ancora vivi solo per quello perché ci sono ci sono alcuni linguaggi che dal mio punto di vista che ovviamente come blast
+alcuni linguaggi non scalano oltre una certa complessità per cui se tu split l'applicazione e tieni questi micro series molto piccoli ghiacciai qualche centinaio qualche miliardi riga di codice se la cavano perché specie della severa centinaia o migliaia o milioni di righe di codice non sarebbe giusto
+tiepida quindi da un certo punto di vista gli ha dato un po' di ossigeno
+cose che vede come negative sui microservice marco vedevo che dicevi
+avere qualcosa da dire ero perplesso nel senso che
+è quello che uno scrive poi qualcun altro dovrà mantenerlo se uno se viene consentito alcuno descrittivi scrivere microservice in un linguaggio in un modo che
+il gigante sconosciuto al resto dell'azienda
+l'azienda si merita quello che si prende un certo punto
+cosa del genere in teoria può essere così sei così in pratica l'azienda si merita di affondare nella melma in cui si è messa sopra
+non puoi permettere alla gente di fare solo di testa sua senza volte la gente fa di testa sua ma io ho visto anche gente che non ha fatto dei test su che erano ingegneri manager che ha fatto una scelta che tecnologicamente era perfetta perché è praticamente siccome l'azienda lavorava su smart smart home ha deciso di fare un componente energia
+elixir è una versione un po' migliorata di harlan che è tecnologicamente ovviamente non posso dir niente veramente il linguaggio migliore che puoi scendere propria
+realtà non ai programmatori eliseo non li trovi io ne conosco uno est del codice e bianca piazza perché lo fa e ho provato un po' e nella proficua seduta conclusiva settembre voglio saperlo eh però
+non si si spiando ma in altri contesti può essere se proprio si sia proprio un problema grosso che ti serve un linguaggio specifico hotspurs rossi sono d'accordo con marco e comunque solo perchè puoi frammentare non è che sia obbligato i gonzi contrario applicati non aiuti nessuno no ma poi la
+frammentazione crea a lungo termine altri problemi nel senso che devi sai un c ne so database di utenti nel monolito
+poi se split micro services microsoft si sa a un certo punto ci sarà qualcuno che avrà bisogno di informazioni sull'utente che fa chiede no chiede ad altri servizi o magari crei una specie di servizio solo per gli utenti che magari replicando database sono la let
+tura o facendo una cache cioè deve diventa si creano poi il reticolo di micros service fatti ci sono diverse storie anche se i suoi youtube diversi video di gente che dichiara se microservice abbiamo cominciato cinque anni fa adesso è tutto con una rete inestricabile di servizio che si parla
+fra di loro tutto lentissimo e comunque ci sono modi e modi non dico che sia ancora una soluzione creativa ma certo houses of business e va applicato concretare come tutti i tully non usato correttamente non affacciano su internet anche perché al software un'evoluzione rinuncia perché se tu non cambiassi in alcune righe di codice
+cambia il modo in cui gli utenti lo usano cambia il numero di utenti quello magari ti sembrava una buona soluzione prima non è più fra tre due e attualmente preferisco jazz nella situazione in cui devo fare il merge di due microservice che se devo aspettare uomo che però ci sono anche soluzioni intermedie in cui ti puoi preparare uno split senza farlo allora livio dalla cat d
+vi do uno spunto per la prossima puntata immagino adesso c'è la moda di mettere dei monoliti con due servizi web e database come se fosse un sistema micro servizi questo per venderli come cloud nel senso che nel cloud
+tipo cos'è aurora questi servizi qua ti pongono esce cloud as well cosa del genere devo dire non ho che non ho mai sentito questa cosa qua una volta si faceva si faceva freddo il front-end server application server e database server
+separati quando non reggeva più su una sola macchina perché all'inizio si faceva tutto sulla stessa macchina apache e database lo desidera tutele poi oddio non ce la fa più a database separate altra macchina poi aggiunge un'altro pace tra eccetera eccetera
+allora direi no so qualche nota di conclusione a questa ci sarebbe milioni di cose da dire ma una nota conclusiva per questa puntata questo backend poverino che adesso deve sapere anche ia machine learning
+si fa
+non ce la fa non ce la fa non ce la farà mai che poi tra l'altro non so secondo me più si va avanti e più si torna indietro a s anna volte le soluzioni sono più semplici molto più semplice di quello che sembra si può in realtà una cosa una cosa volendo interessante è che google cloud quando tu parti puoi party
+dire con dei server molto piccole st michael hirst scripts uno due giga di ram nov fa quasi ridere non volendolo interessante nonché torna indietro che sto micro sherry rehman decine di micro istanze può e deve far crescere beh considerare i costi
+magari spread un server su uno di questi provider che ti danno server con cinquecentododici giga di ram a trentadue core e ti costano cento euro al mese fai puoi gestire un milioni di utenti tranquillo macchina supera l'esame va se vedessero di produzione che abbiamo noi
+se avessimo la stessa cosa su amazon avrebbe dei costi base di test smart mentre non abbiamo parlato di un sacco di cose cloud nove jewel cose del genere eh va be' questo è il tempo massimo dai magari faremo un'altra puntata non so anche in chat
+dite se avete altre funzioni forse barcellona ha un'atmosfera molto brevemente una cosa dicono abbiamo parlato e che amy vent'anni fa era praticamente inaudito parlare di avere più di un database già non era una cosa normale se c'erano dei casi in cui dovevi integrarti magari rari che era da squat
+cento frank non era una cosa normale mentre adesso è una cosa che si dà abbastanza per scontato muco ogni macro sarris al suo database puoi wendy tornerà un rebus ad esempio fujitsu emettono cassandra qualcosa quindi è stata sdoganata ma secondo allora nella mia esperienza è stato veramente il contr
+orario nel senso che non so novantotto duemila quando io ho cominciato a sviluppare web abbiamo fatto sto sto dipartimentale di logistica da zero sul web una delle principe era scritto in perl e il perl quella volta aveva c'era ancora questa interfaccia
+visibile fatta benissimo generalizzata nel in maniera molto molto valida chiamato di bahai e poi c'erano i vari driver che tu incastrarmi per parlare con database di tipo diverso ma l'interfaccia era pensata in modo da darti diciamo simile da dbc
+odbc e quindi questo applicativo che noi facciamo si interfacciava con qualsiasi database ma come le usavi pratone osavi due trump stesso tempo è questo di cui sto parlando noi aveva non nel allora sì anche sì però in genere si ragionava a progetto no tipo
+un cliente aveva di due client erano assai base un cliente non appoggiare sul cliente e lo stesso applicativo funzionava dappertutto secco che è quello lì quello lì esisteva sicuramente magari si è perso se vuoi che avesse perso totalmente sospesi abbraccio perso se si passa sulla me usano tutti i post che maschio
+si può comunque nel momento in cui li usi un po' di più ovviamente ti fai una specie di lucien però è abbastanza normale avere più istanze del database è anche più database di tipo diverso molto diverso un uomo riceve dinamo radius cassandra
+quindi questo questa è una cosa che ha cambiato molto ed anche uno dei motivi per cui si riesce a scalare di più
+dei database molto specializzati peso da sookie e database a grafi ad esempio pene allettante ovviamente più parto george's microservice con dieci stanze database ovviamente possono gestire più utenti anche in presenza i database a grafo ne genera uno mi ricordo il nome adesso
+new forget you forget molto diffuso anche lì magari sai se sei beckham e conosci quella in quel database lee e hai un problema da risolvere che è modellato perfettamente quel tabelle poi no però si tratta come dire di espandere ampolle e le conoscenze
+zeman queste conoscienze vanno dappertutto chang qualsiasi in in orizzontale e verticale in qualsiasi direzione ma adesso c'è una nuova ondata di database a grafi in arrivo da quello che ho visto perchè lo usano per taglia alla lama
+perché tu praticamente diciamo che ho trovato il punto sai league ai punti vicino te quindi se fai una ricerca diciamo ti trovi magari un un articolo ipotesi altro articolo simile da quello che ho capito
+trojan backdoor database sì sì ma quello che fanno praticamente unire i vector vector database per word embedding con dei database grafo una non funzionano rollato che stanno cercando di farlo sulla carta magari sera sono un sacco in pratica qua vedo commenti i commenti in chat
+livio che dice all'ultimo evento web del duemilaventiquattro visto che se prima si tendeva le singole peso application a quasi tutto front-end adesso si va verso il sayid rendering e se si ritorna di nuovo al com'era prima perché ci si è accorti che tutti i client java script
+byte molto pesante e lento è lento e ha diversi svantaggi e william sei otto nove dice io mi sono perso la puntata perché non mi è arrivata la notifica e mi dispiace poi io non ho cliccato l'iva al punto giusto forse
+se va avanti così
+ept client il client eccetera si va avanti così all'infinito prendono roba vecchia se da un nuovo nome vite questo è un classico per ragazzi ciao marco ti saluto ciao luca grazie per essere la grazia joseph
+magari riforma stanotte tratti faremo un'altra per esaurire tutti gli argomenti del del backend questo mistico backend developer che deve saper fare tutto e di più
+figura mitologica ritrovati ok ciao ciao grazie a tutti per aver seguito

@@ -1,0 +1,653 @@
+qui di fronte a me abbiamo tre modem o almeno chi è vecchietto come me li riconosce sicuramente al volo
+qui abbiamo un modem della sip o meglio società idroelettrica piemontese se vogliamo dirla esattamente com'era nata poi diventò società italiana per l'esercizio telefonico giustamente per altri versi visto che facevano quello sto modem era uno dei pochi modelli omologati all'epoca andava trecento baud
+si misurava in body non bit per secondo e
+appunto dicevo erano i pochi omologati e per poterlo utilizzare era abbastanza macchinoso tu devi sollevare il telefono comporre il numero che devi chiamare aspettare di sentire il fischio del modding dall'altra parte che rispondeva nel momento in cui lo sentivi tiravi su un interruttore davanti potete rimettere giù da quel momento
+i computer erano in connessione
+likes che realizzò invece questo oggetto qua sempre a trecento in questo caso perché comunque è stato il primo modem hayes
+sviluppò un proprio
+un linguaggio di programmazione per i modem che permetteva di superare tutte le macchinosità che abbiamo appena visto quindi attraverso una serie di comandi detti comandi a te perché il prefisso per ogni comando era a t era possibile dare dei e dell'istruzione il modo in cui ricomporre un numero rispondere e fare tutte quelle funzioni
+talità che altrimenti in questo caso avremmo dovuto fare con interruttori comporre numeri eccetera
+avevo solo difetto almeno agli occhi delle sue compagnie telefoniche non era omologato soprattutto in italia quindi se noi avessimo preso uno di questi collegato alla linea telefonica in italia avremmo rischiato delle pesanti sanzioni cosa che molte di s rischiarono
+un certo periodo è compreso per superare il problema della omologazione
+vennero creati i cosiddetti accoppiatori acustici e quando ne vediamo uno lo copiatore acustico permetteva di non dover connettere niente fisicamente ai fili della linea telefonica ma bastava utilizzare
+microtelefono cioè mettere questo oggetto qua così questo punto veniva a vivere una comunicazione audio tra
+l'auricolare microfono e quindi si poteva trasmettere dati
+non sempre funzionano benissimo perché comunque era soggetto a interferenze acustiche però bene o male era una soluzione che risolveva comunque problemi soprattutto per chi poi dovevo utilizzarlo in viaggio questa chiacchieratina di introduzione sui modem serve anche perché il prossimo intervento sarà quello d
+giorgio rutigliano per chi non lo conosce giorgio rutigliano è stato un pioniere della telematica in italia ed è stato colui che ha aperto la prima b s fidonet o fidonet come la chiama lui in italia
+quindi con piacere che gli lascio la parola che ci racconterà la nascita delle bds e dei primi social network dentro le bds prima ancora che internet fosse diffuso così largamente e quindi siamo arrivati alla puntata trentatré della brigata degli istinti e come sergio ha introdotto la
+in un'occasione diversa e siamo qui con george quotidiano c'è sergio aguero asini e adolfo melilli che sono fra i pionieri che hanno portato quel mondo fantastico di fidonet e delle bds italia e io non posso far altro che chiede
+derek umilmente a loro di presentarsi perché un grandissimo piacere averli qui da noi e direi in ordine di anzianità fidonet dai andiamo seguiamo questa priorità è ovviamente parliamo da giorgio e mattia allora buonasera a tutti sono giorgio rutigliano e diciamo che
+a livello lavorativo mi occupo di informatica da sempre è facile informatico e nello specifico ho messi in funzione il primo nodo fidonet in italia fra poco saranno quaranta anni
+bene
+allora io sono adamo fu melilli sono pensionato ma per tutta la vita hanno fatto preoccuparvi più che di informatica vera e propria di elettronica nel settore digitale lavoravo in una grande azienda quindi pordenone e comunque sono rimasto sempre nel campo fino al duemilaventi anzi lo sono tuttora come consulente esterno
+ho aperto il terzo nodo cronologicamente dopo il primo è stato ovviamente quello di giorgio il secondo è stato quello di fabio bernard d'arte di alessandria e il terzo è stato il mio a pordenone quaranta anni or sono giustamente
+sergio gervasini banchine solo teoricamente pensionato ma continua a lavorare lo stesso perché non riesco a stare con le mani ferme e ho aperto il nodo borno me lo ricordo più di fitz mente ma erano anche anche quello è uno dei primissimi tanto è vero che era aperto solo alcune ore al giorno con un modem a trecento che ed era
+citato da un'azienda che aveva una linea telefonica che era lì a far niente un hotel che era lì a far niente avevo detto beh apriamo la bibbia facciamo qualche cosa solo che potevo farlo solo per poche ore al giorno e quindi nella not lista c'erano dei flag particolari che dicevano questo modo funziona con delle particolarità esso
+poi un giorno
+invece ho ho ho creato la mia bds che era clessidra e quindi a quel punto lì poi è diventato tutta la tua storia mi occupo di informatica qui intorno vedete un po' di vecchi computer perché poi come passione diventa la retro informatica sono pigra e poco più
+la prima domanda che viene da chiedere mike
+qual è stata quella scintilla che mi ha fatto iniziare partire a quei tempi quali gli spicchi elementi cosa vi è successo
+i tempi di tutto quanto ma diciamo che quello che è stato il motore è essenzialmente il mio ma pensa un pò tutti quanti si ha comunque la voglia di conoscenza
+io credo che ognuno di noi si è trovato in una situazione particolare perché ovviamente diciamo in quegli anni e muoversi in quel settore era una cosa abbastanza complessa sia perché era un mondo completamente nuovo
+giusto per fare un minimo di
+il quadro storico in quegli anni
+karim rapidi vietato dalla legge collegare apparecchiature non si cifra alle linee telefoniche quindi diciamo il problema è che non esisteva non esisteva un mercato di modena la zip in realtà noleggiava che apparecchiature di questo genere apparecchiature che erano
+facciamo antidiluviane
+io in quegli anni per host all'attività lavorativa ho cominciato a fare il sistemista su dei computer a pietre vive minnie dell'epoca
+qualche anno prima comunione settantasette noi avevamo un centro di calcolo con una serie di terminali che erano collegati in remoto utilizzando delle linee in banda base quindi delle linee che non erano su linea commutata c'erano due linee di trasmissione ricezione e germano un collegamento diretto fatta sulla rete telefonica però
+avevamo anche dei modem avevamo hotel trecento godevamo un modem a settantacinque milledue quello che si utilizza per il videotel che servivano diciamo dispositivi di servizio per fare una serie di attività
+per una serie e anche lì fortuna resto che non vi sto a raccontare perché sarebbe inutile e diciamo anche troppo lunga da spiegare avevamo anche una serie di personal computer all'epoca parlavo di macchine c p m dopo di che siamo passati la seppia austera alle macchine messe quindi diciamocelo le apparecchiature come diceva prima se agiamo
+linee telefoniche che la sera era inutilizzata perché ovviamente ufficio al telefono non funziona dopodiché dice che abbiamo questa serie di cose perché mi fai qualche prova io che già all'epoca era radioamatore
+nel periodo facciamo collegamenti radio con le telescriventi con il brodo con il codice pod o a settantacinque caratteri al secondo quindi si utilizzavano le apparecchiature prima elettromeccaniche poi anche degli
+dei piccoli personal computer dedicati per fare quel tipo di attività non diciamolo la logica era proviamo a spostare il discorso dalla radio alla alla alla linea telefonica all'epoca io leggevo viste e riviste detroit è stata diciamo per lungo tempo
+uno dei veicoli più importanti vienna punto di vista di informazione e del fatto che questo tizio jennings aveva realizzato il
+questo sistema di interconnessione fra b p s avevo già scritto nel bps per far funzionare il sistema ha scritto efficacemente
+discorso abbastanza roseo giusto per fare delle prove per cui cominciai
+recupera il software in inghilterra perché all'epoca ovviamente non c'era internet si utilizzarono queste librerie si chiama
+fd server library che distribuivano floppy disk di software più o meno gratuito e cominciai a fare il discorso mesi infuria in funzione il il gps il giorno di santo stefano di quell'anno e i primi i primi giorni dell'anno successivo
+praticamente era online dalla praticamente nato fantastico mai stato un discorso a caso e necessità se necessario scusate ragazzi
+ho fatto un mio problema solito promesso ho messo estrema su video sbagliato interrompo un attimo riprendiamo subito ecco siamo tornati sul l'iva corretta io se non faccio casini con queste puntate non son contento allora comunque poi metteremo insieme tutto quanto e le persone vorrà seguire hai raccontato il tuo
+da questi primi momenti emotivo con cui ha messo insieme la cosa è ma fino ad allora una cosa una bibbia e una cosa filone
+giustamente come poi entrato il discorso fila ogni tanto quando allora fai è nata per angeli in caso necessità etc
+i casi della vita il problema nacque perché
+tom jennings che l'autore di
+di tutta l'infrastruttura di base aveva un bip s a los angeles a san francisco che si chiama fido
+che aveva già una sua base di installato cioè nel senso che avevano ben trenta copie sparse dagli stati uniti un bel giorno ci fu un tizio si chiamava
+gianni melilla che invece viveva a baltimora che acquistò un the rainbow cento che era una macchina che diciamo era portava le messe ed ossa però non era ibm compatibile perché voleva farci su un vps
+non riuscirò non riuscirai a una con un'architettura un po' particolare perché aveva due processori uno che comunicava con le porte il bebè
+votando ottantasei che in realtà non era in grado di parlare direttamente con le porte quindici anni il software che si utilizzavano nelle bibbie che utilizzava un'architettura standard ibm non erano compatibili
+chi mando in rete chiedendo ai vari boss sparsi per gli stati uniti fu detto no ma tu parla con tom jennings che a questo gibbs si chiama fido chiamato tom jennings che si mise a disposizione l'unico problema è che non stavo sulla costa ovest e in alto sangro la costa est
+tom jennings che era un professionista serio lui aveva lavorato al allo sviluppo del software di phoenix technologies è il primo bias che è ramon di ibm
+giusto per citare il fatto fenix per evitare i problemi legali che cosa fece prese prese due team di sviluppatori uno che feci il reverse engineering del del del bios di ibm e un altro che sviluppò sul reverse giannini fatto dal primo gruppo
+il
+bias nuovo tom jones faceva parte di questo secondo gruppo quindi lui aveva scritto il bios avevo scritto il bios per il dec rainbow e aveva scritto anche un pezzo di ross perry the raid dieci pianisti no io conosco tutto non ci sono problemi il discorso che con come nacque che ripeto per far per sviluppare le modifiche
+che è necessaria che fido potesse girare su the rainbow cominciarono a lavorare online arrivano le prime ammazzate di bollette telefoniche come all'epoca era comune in tutto il mondo e di strada a questo punto ci lasciamo i messaggi su uno sul benessere dell'altro
+a un certo punto disse ethics ma se io devo mandare bibbia lasciare il messaggio che ha detto di lasciare il messaggio a me perché non facciamo un software che messaggi si riscaldano da solo e lui scrisse questo modulo in un primo momento il programma della prima versione essere collegabile in rete era la ver
+versione otto di fidonet che di figo perché c'erano già state sette versione precedente del giorno
+tom jennings scrisse questo modulo per cui fido eri programma che gestivi gibbs a una certa ora della notte lettere lanar it che invece il programma che si collegava con l'altro con l'altro nudo
+e fai doppio net diventò fidonet la versione sette aveva ancora i due programmi se la versione otto aveva ancora i due programmi separati alla versione nove diventò un programma monolitico
+il discorso è che dopo i primi giorni
+ci fu natale liceo montale interesse in questo discorso che la rete cominciò a nascere in maniera del tutto autonoma perché era una cosa dirompente il fatto che i sistemi potessero collegarsi l'uno con l'altro in acqua è nato fidonet
+tra parentesi la diatriba tra noi italiani che vi saprà credo proprio che dice farrelly
+è ormai naturale ma va bene
+la cosa paradossale è che fido poi è un termine italiano perché fido significa fedele ed era un nome che si trova normalmente ai cani quindi è stata uno dei classici diciamo
+gli adattamenti che gli anglosassoni hanno fatto di una parola che però è partita dall'italiano in effetti si dovrebbe dire figo perché di fatto è una parola italiana però tutti dicono fai da te torneo internazionale va bene così allora io in quel periodo lavoravo come dicevo prima in una grande azienda che faceva
+televisori però forniva anche delle strutture praticamente la sala congressi e quindi aveva bisogno anche loro avevano bisogno di usare dei modem lan come ha detto giorgio in quel periodo lì non era possibile collegare nessun dispositivo alla rete telefonica nazionale c'era il monopolio della città
+non era possibile questi voti ma avevano bisogno di essere omologati e io presi parte nell'azienda a livello aziendale presi vaste a un progetto
+di un dispositivo che andava a trecento o il classico dispositivo che diventò uno standard di ventuno che era quello diciamo che perlomeno andava lento ma permetteva un vero full duplex nel senso che tutte e due le direzioni si poteva scambiare trecento bit secondo l'altro l'alternativa iniziare a quell'epoca il settantacinque due settantacinque ripropone
+mobile se dovevi trasmettere era veramente una cosa tragica preso parte a questo progetto e mi appassionai al discorso dei modern quindi diciamo io almeno portai a casa uno per giocare ma non era mia ovviamente era un produttore è stato sviluppato per l'azienda e mi ricordo che mi collegavo con una b s
+all'epoca gestiva elettronica duemila
+e che era praticamente una delle poche cose con le quali potevo collegarmi non albergo non c'erano molte alternative in quel periodo lei anch'io leggevo by night
+e anch'io senti lessig da qualche parte della nascita di questa rete quando io diciamo mi informai su questa cosa era già diventata una rete il video la prima fase di faido che era un'app separata dalla dal modulo net non l'ho vissuta l'ho vissuta diciamo che era già
+stato unificato praticamente
+non ricordo onestamente forse giorgio se lo ricorda ma non ricordo onestamente come frasi a entrare in contatto con giorgio eravamo tutti e due rematori ma di fatto non ci siamo mai collegati via radio ci telefoniamo io che sia giorgio che ero interessato appunto che cosa serviva per entrare a far parte di questa rete io avevo concludere a casa
+go su un pc steam e l'avevo collegata in questo modo ma lui mi disse appunto se vuoi un altro software inondò zoppi
+e così nacque quella che poi è diventata fatal error terzo morrow è stata una cosa diciamo
+automatica nel senso che io poi dopo magari ne parleremo più in dettaglio tenete conto che quando cominciamo a scambiarci messaggi c'era una fascia oraria di notte che si chiamava zebra dna alla jason howard e per cui le macchine che lo smettevano di
+ricevere utenti ovali perché dovevano collegarsi tra di loro però quella volta là il model non erano ancora auto daniel mi ricordo questo dettaglio che il numero dovrebbe farlo tu per collegare il nodo corrispondente quindi la notte e stavamo svegli oltre alle bollette chilometriche che arrivavano bisognava alzarsi alle tre e mezza del mattino per fare
+i primi collegamenti che quella volta erano comunque
+fu poi duravano ore con con i costi che c'erano però il processo è stato molto semplice io poi tutta la storia che c'era dietro alla nascita della rete l'ho scoperta dopo nel senso che io prima ho messo sulla rete perché giorgio mi passò il software e io avevo fretta di fare questa esperienza dopo video argomentai è stato diciamo
+praticamente da george avrebbe passato il software è stato un una settimana in una settimana era operativo
+tutto qua lo scintillio dei messaggi fra i vari nodi come veniva poi pacman ogni nodo si collega telefonicamente un alpe com'era il protocollo di distribuzione ma c'è putin abbastanza sofisticato nel senso che c'erano tre livelli già in origine il livello era unico possiamo passate a due poi siamo passati ai tre figli in pratica c'erano
+una delle zone che erano
+avevano un capo maglie sostanzialmente quindi in pratica il messaggio salito a un albero partiva dal nodo più basso passava al nodo superiore eventualmente al nord ancora superiore se doveva cambiare zona a un altro livello ancora doc che scendeva in pratica i sistemi si interconnette vano una volta sola una v
+alta per mandare i messaggi in aosta per scaricarli poi facevano da gateway e i vari nodi di temono insieme i messaggi e li mandavano verso l'alto poi scendevano verso il basso in questi
+west end origine e c'erano queste ore la mia laurea così come definita per fare il l'operazione poi am
+i programmi si sono evoluti e idee erano in grado di ricevere umani è posta in maniera in maniera trasparente però all'inizio c'era questo già si troverà molto rudimentale però funzionava
+poi indifferente una linea telefonica giustamente quindi la b se uno si collegava e morire
+hotels com
+vi racconterò aneddoto aveva una linea telefonica personale perché all'epoca non nero sponsorizzato da nessuna azienda quindi me la pagava da solo ma versano singolo voglio dire mi posso permettere di giocare con i miei soldi no erano veramente delle spese pazze e un giorno mi telefonò un dirigente della siepe quindi pordenone dicendomi che
+me alla loro centrale perché essa durava la decade cioè nel senso che c'erano talmente tante telefonate in entrata che è praticamente la loro centrale elettromeccanica quella di una volta che praticamente selezionava impulsi andava in crisi tutta la decade e io dissi a sta gente di consentire job pago la bolletta e le telefonate che
+seguono non possono essere un mio problema il problema è vostro non solo alla fine li convinsi a regalarmi una seconda linea a sola entrata
+c'era c'era continuamente il design si connetteva praticamente a tutte le ore del giorno e della notte poi appunto quando lo si connettevano nella seconda fase quando essa soft essere un è evoluto nel momento in cui non c'era nessun utente che si connetteva erano le macchine stesse prende l'iniziativa di collegarsi tra di loro quindi comunque traffico cenere cenere
+tra parentesi comunque dovrebbe durante il giorno
+chiara tutti gli utenti che si collegavano e spesso bisognava fare facevano a cazzotti tra di loro per riuscire a prenderla linea le biblioteche che avere un certo successo chiaramente erano gettonatissimi quindi come tali
+la linea si è preoccupata perché i monaci
+ritiene appropriato del pannello alla centrale qui a pordenone siti naturale per tutti quelli che continuano una parola fare il numero di serietà
+allora questi tempi al picco con le strane più sciocchezze sappiamo quale sarà ugualmente e poi forse parleremo del nefasto giorno e nei momenti comunque di massima frequentazione intanto magari fosse nata giunta belgio sanità welfare raggiunto almeno una li
+nea in più a chi linea aggiuntiva ma gli utenti navigano in quanti erano una bivi essere di successo quante persone vivono svariate centinaia se io mi ricordo un otto novecento settecento centri nail art tiene conto di quanta gente tra otto e novecento un record anche perché tieni conto che
+avevamo dischi io avevo un disco da venti mega avevo un artista da venti mega dove dentro c'era non solo tutto l'archivio della messaggistica pubblica e privata perché poi anche lì giace la distinzione tra la messaggistica pubblica e privata che lei si chiamavano eco mail erano un po di fatto quelli che dopo sono diventate i newsgroup su internet
+comunque i forum ecc mentre invece la posta privata si chiamava matrix e non solo c'era tutta la messaggistica e tutto il software che già quella volta si faceva condivisione di software più o meno serve più o meno condivisibile più o meno legale c'era un cervo un'area grigia linea onestamente bisogna bisogna dire le cose come stanno
+e tutto questo girava su macchine che avevano qualcosa come il seicentoquaranta cappa di rame e venti mega di disco cosa andava bene attenzione per lo meno nel mio caso era così
+lo avevo ancora ben ramsey per quello
+però ricordo recuperare un disco che non so quale rottamazione mi ritrovai con in mano seicento megabyte di disco
+che roba gigante era una roba che di rodi riempirò mai riuscito a cocoa beach
+ma io tenevo un disco la settantacinque mega sono jason biggs richiama alla memoria bene o male la seicentoquaranta gatta era il massimo che poteva fare estrema attenzione c'è un'altra cosa che secondo me va detta da questo punto di mentre nella seconda linea su un dlgs non è una cosa facile perché oggi siamo abituati ai sistemi multi
+ted all'epoca i sistemi non erano molti utenti quindi diciamo
+deve avere innanzitutto del software che era in grado di gestire molte utenze tutti quanti ben romanziera si erano adattati a qualsiasi erano organizzati per questo discorso in occasione o m catalitici
+con prodotti tipo tedeschi una cosa di questo genere che ne derivano a far girare più
+più programmi contemporaneamente oppure sei fortunato faceva una rete ma la rete all'epoca le reti all'epoca erano cui si fonde la lana e dai ricordi da novel light la regina ama ma io all'inizio ho usato arc net a due megabit su doppino c'è rocco erano cose
+all'epoca
+veramente è come oggi fanno fanno fanno sorridere fanno tenerezza
+secondo me bisogna fare veramente un salto mentale per pensare in un mondo in cui l'informazione era preziosa gennaio ad oggi non abbiamo problemi apriamo winter facciamo ricerche ecc se ci esce tutto lo scibile umano all'epoca la documentazione era in
+esistente già faccio un esempio banale la documentazione di fidonet vuoto è il primo software che faceva la comunicazione in rete
+dieci pagine forse otto pagine di testo ecco quello di luke legge è quello che su con il quale ipotizzò di confrontare ma questo è un discorso che vede un po' dappertutto eton la capitale tremila che comunque era un minicomputer gon che l'ha generata e macerie
+la multiprogrammazione eccetera eccetera tutte neri
+quindici sedici manuali e quello era cioè non è che hai qualche duna cui chiedere o informazioni di altro tipo di altra natura la rete per sua natura
+sembra facile ma in realtà non era manco tanto
+avevamo una sua complessità cioè in sostanza il metodo di inventare tutto da zero mettersi a pensare studiare tutta roba nuova
+avere conoscenza dell'anatomia dovrei avere conoscenza del software conoscenza ha bianche di presenza organizzare routing quindi la distribuzione dei dati sulla jason fra i vari nodi
+anche quello era qualcosa che tu dovevi rimettere a studiare perché il problema era che i comuni metodiche abbattere i costi telefonici
+il costo telefonico è stata una variabile importante filone ticket altro la gente normalmente non lo sa ha avuto dei riflessi che sono arrivati fino ad oggi c'è prima dell'avvento di internet sulla rete non esistevano e compattatori c'erano due programmi c'erano programmi di archiviazione
+birre e un altro che faceva la compressione qui sei tu dovevi mettere insieme dei file da trasferire per esempio da mandare
+sulla rete ovviamente tuoi interessi inesatta a ridurre il numero di file svolto a ridurne le dimensioni
+sarete ha stimolato
+gli sviluppatori di software a mettere in piedi dei meccanismi per ridurre il costo e quindi è nata la compressione
+sono stati implementati i vari algoritmi
+è stato quello che ha portato ha portato risultati però fino a un certo punto lo standard era un programma che si chiamava arch
+e come archive che faceva diciamo le stesse cose che fa oggi lo zip zip come è nato è nato perché un soggetto si chiamava la filca-cisl destra è morto qualche anno fa
+sostanzialmente su questa c'è stata una una battaglia legare molto lunga per cui diciamo i risultati sono quelli dell'ansia la battaglia legale che era successo a arcene un programma che era proprietario quindi non era già di pubblico dominio
+che però l'autore che era uno della rete aveva
+ci ha dato la possibilità agli utenti giammai edificio di utilizzare gratuitamente per favorire la diffusione di questo programma viene rilasciato anche i sorgenti e successe che da questi sorgenti l'autore di di di di di di campa zippo media tipica park
+dato il libro molti prodi il prodotto derivato costruì il questo software che faceva delle cose in più nel senso che piccole tesserine però andava leggermente meglio di anni lo vendeva qualcosa in meno rispetto alla a
+l'equivalente di arca che cosa è successo che l'autore di arca ha fatto causa a l'autore di up arte
+anna buttafuori un islam più grossi della rete perché chiesti chi prendeva le parti di dall'autore di arch che prendeva le parti l'autore del pick up come farla breve
+quello che è venuto fuori come risultato che sembrava che arch fosse la grande azienda alla multinazionale realtà era lui che lavorava con la moglie
+è
+contro il il richiamo il davide e golia di racket si invece sarà fatta che invece lui che eravate con la sorella che diceva dal punto di vista pratico cambia niente
+la causa l'ha vinta l'autore di pick up di pick up high speed edipica park e il tribunale gli ha detto di risveglio
+scusa paola ha vinto all'autore di era in poi il tribunale ha imposto al all'autore di dean jared tipica bar di togliere dalla dal commercio nel frattempo la battaglia legale andava avanti
+ah già ma ha riscritto il programma ha tolto da mezzo buona parte ma non tutte dei riferimento applica park che ha tirato fuori lo zip
+leap è diventato famoso e ha
+è diventato lo standard di oggi semplicemente perché si è creata questa battaglia che ha polarizzato l'attenzione dei season e gli utenti di all'epoca per cui era venuto fuori poi megiddo andiamo arnie
+anziché aprire i file zip mi fai larga dai bagliori verdi brillanti la storia la storia questa è una storia che ha portato degli effetti che sono presenti tuttora oggi nella nell'uso normale perché oggi zip bianco come atto naturale viene fuori comunque da da fatti successi in ambito fidonet comunque zip comprimeva
+un pò di più era più efficiente tema dopo
+è arrivato dopo l'ex jugoslavia la zip ma era il suo algoritmo di dati sensibili
+ho più efficiente bla bla quantità di commozione poi ragno periodo più veloce se siano sicuramente al pm
+una domanda scusa intanto non fosse poi mettere timeout quando un male che si sente un po' di eco e
+e guarda adesso così al volo col telefono è un po' un problema aspetto al giacomo sarà evoluto e allora le regole
+c'è un po'di vengono
+lo so matt detto l'ho cercato ho cercato invano dalla webcam per colleghi a collegarmi con piacere cuffiette ma alla fine per non mancare all'appuntamento preso quello che sono riuscito a fare
+webmail benissimo e domanda avete parlato di flame nelle giustamente i flame non nascono con internet ma già da prima ma com'era il mood e dormono le diverse cieco direi
+livello delle conversazioni o comunicazioni possiamo dire era tutto un altro mondo in realtà poi latine
+cartine e lazzi sempre comunque
+di sergio gaetano dopo aver dato alcuna prova pillon era barbatelle lo vedo al teatro per dire la tua
+a odiarlo parlava un po' per uno allora per quello che mi riguarda l'esperienza è stata
+diciamo interessante perché le varie aree di discussione erano divise per argomenti non necessariamente si trattava di argomenti seri mi ricordo che c'era un'area che si chiamava camper dove si parlava un po di tutto di più le fla venivano fuori spesso venivano fuori spesso perché
+anche oggi si vede insomma su anche se lo io sui social di adesso una parola fraintesa una parola di troppo la di poco scatena una polemica infinita però sono più diciamo sono più frequenti le flapper motivi non tecnici riguardo appunto rispetto invece alle tre di cui parlava giorgio che potevan
+essere
+derivate da dad da una discussione tecnica
+tieni conto che tanta gente e utilizzava dell'rbs già quella volta non è che avesse una base tecnica solida nella maggior parte dei casi andavano in cerca di software da scaricare perché è appunto tutti noi avevamo comunque degli archivi dove c'erano dei file che erano file server o comunque
+fai di pubblico dominio questo più sul piano teorico che sul piano pratico e c'era gente io mi ricordo che li prendevo in giro i miei utenti perché dicevo io che sa nel nord italia vedo l'effetto della forza di gravità cioè btp vanno molto più spesso dal nord verso sud che da sud verso nord perché c'è pochissima gente che manda so perché
+applaude dei file piuttosto che a venezia invece tanta gente che scarica
+di diciamo riepilogando io e l' ottanta per cento degli utenti che avevo erano utenti che andavano in cerca di materiale da scaricare e poi ogni tanto entravano nelle varie aree di discussione e lì spesso e volentieri vengono fuori dei battibecchi però niente di che insomma poi c'erano degli utenti che venivano bloccati perché anche lì
+c'era una certa police cellula un'etica da rispettare per cui anche il linguaggio dev'essere corretto non dovevano essere tifosi messaggi istigazione all'odio o di scarpe già quella volta all'anno e ci facevamo un po' come come season come responsabili dei vari nodi ci facevamo un po' anche portavoce di quello che era un'etica dei comportamenti
+tamento somme lettera
+volevi dire esempio proposto prima che userà anche una primavera io personalmente posso dire di aver imparato anche a cucinare in gabbia abbia madre imprese in queste modalità pro perché era facile una parola di troppo
+e a innescare un meccanismo pazzesco per cui ho imparato a calibrare con una certa attenzione ciò che scriveva ciò che dicevo e in qualche maniera cercando di istruire coloro che vedevo che non avevano capito bene questo meccanismo sul come era bene a rispondere in certe situazioni cosa che mi sopporta
+toy dietro quando poi con l'avvento di internet abbia comunicato a tutti quanti via maicon
+estrema facilità e sopra aggiungere anche due cose e per la verità la prima è che nelle nebbie bs in generale i s season
+sapeva vita morte e miracoli e perché un problema siamo sempre lì
+erano sistemi che dovevano essere gestiti per un problema di fondo che era quello dei costi di gestione erano tutti a carico lecciso e in generale salvo poi in una fase successiva sono tutti i sistemi che sono nati sul volontariato e sulla condivisione dei costi c'è la sezione news pagava i costi proprio
+ma in realtà non è che c'erano sponsor non è che c'erano indirizziamo cerrai
+fonti di guadagno e casomai sono fonti di perdita di tempo tra virgolette cioè il il il il ritorno era essenzialmente un ritorno come dicevo all'inizio di conoscenza e questa prima risposta che noi eravamo diciamo i a in forza di questa legge per permettere per ramone
+implementare questo disco samonà pollici un regolamento regolamento che aveva un un camera molto chiaro e molto diretto e molto come dire
+forse è anche rigido e il concetto di fondo era uno era non dei fa virgolette rompere l'altro e non ti devi
+incazzare più di tanto ma devi avere il giusto equilibrio fra il non essere fastidiose non farti infastidire certo una cosa facile a dirsi molto più difficile da implementare reich diciamo che nei momenti in cui qualcuno non si comportava in maniera corretta
+la moderazione era chiamo brigida c'era ogni a ogni area condivisa ogni area come kelly e come gli è venuta dopo cioè non diciamo un primo momento i sistemi facevano messaggi punto-punto quindi ho mandato il messaggio a sergio sergio lo mandava casomai al suo coordinatore via di questo passo
+dopodiché
+il passaggio successivo che è stato implementato sulla base di di di evoluzioni della rete totalmente con programmi esterni rispetto al rete faith non è stato quello dell'e-commerce in realtà era un meccanismo attraverso cui lo stesso messaggio veniva replicato su tutti i sistemi della rete che non era una cosa manco fa
+è tanto semplice perché problema è che tu e i la rete era fatta
+trasmissioni di ferite quindi ci metteva un certo periodo a propagarsi su tutta la rete nelle aree omelie che erano a livello globale quindi giravano tutto il mondo dove vuoi anche metterti nella condizione di essere certo che il messaggio poi non si ha lo passe non avesse un browns per cui tornava poi indietro e non riprendeva quindi il mech
+organismo non era tanto semplice poi da implementare quindici am
+è stato un passaggio importante perché ha reso possibile nelle cose che prima non si potevano fare però ripeto soprattutto per queste aree che erano così globali l'unica maniera per farle funzionare perché tu oggi diciamo su un'area su un'area su un gruppo facebook non ci perdi niente a fare un ping pong
+le persone che si pigliano a pesci in faccia ma la parte che erano messaggi che giravano tutto il mondo e quindi venivano rappresentati tante volte il problema è che erano i tempi che chiaramente non dilatati perché se io scrivo qualcosa sul mio b s a b s di sergio a quello di adolfo arriva il giorno dopo ha accusato
+youtube ha smesso in out e non riesco più ad avvocati credo che puoi farlo da solo
+direttamente sentiti libero di farlo quando vuoi però purtroppo se non c'era un po' troppo e quindi fin da quanto era grossa un certo punto ce ne sono nei tempi di massima estensione quanto ci mette male a scaricarvi poi i messaggi vai per i messaggi erano tutti la notte c'è quella mela
+i messaggi andavano e tornavano anche perché nel frattempo siamo passati dai entriamo
+presenta anche la città con il processo
+trattatemi rights le velocità erano diventate diversi meccanismi un po' più efficienti e quindi poi si riusciva a fare il meccanismo come ho detto all'inizio dopo era addirittura siamo arrivati a tre livelli c'è nel senso il nodo finale passavo il mio coordinatore di livello più elevato magari all'interno della stessa zona il quale poi a sua volta
+passava a livello ancora superiore di una zona un po' più grande fino ad arrivare a un arredo se vogliamo che poteva essere l'italia poteva essere addirittura il mondo cosa succederà che di fatto due volte la notte tu facevi questa operazione una volta per mandare i tuoi messaggi e la volta successiva per ricevere tutto quello che arrivava dal mondo
+e si erano stabiliti degli slot ben precisi di orari perché chiaramente tu mandavi a quello di sopra che a una cert'ora quello di sopra dove raccogliere tutti quelli dei nodi sottostanti e quindi puoi mandare a una certa altra ora tutto quello che è il riassunto di quello che gli era arrivato e via e via andare oltretutto in negozio era un
+un
+elaborazione cioè i messaggi dovevano essere compressi
+spargi dello skipper penserà che non debba elaborazione in mezzo i messaggi aveva qualche volta era dalle migliaia comunque cioè neanche fossero pochi invece ero pienamente un meccanismo di salita e discesa se vuoi per diversi ecco perché ci si collegava due volte la notte ci voleva una certa organizzazione dal punto di vista degli slot orari per poter
+far che tutto ciò funzionasse i fatti di droga poi da un lato i portatori delle mail ma dall'altro anche i coordinatori delle ecoballe che eran due due due attività a un certo punto separate
+è diventato fondamentale
+l'uso massiccio di scopa di compattatori e di compattatori perché
+sto malloppo di roba poi dopo le macchine lente o meno ma ci mettevano mezz'ora forse anche soltanto questo o mandarmi messaggi soprattutto le commedie ma abbastanza voluminoso materiale che arriva
+ma io possono buttarvi vi sentite sì sì sì al mattino mat è cambiato
+sto cercando di minimizzare
+adesso io penso abbia più veleno
+codice numerico microfono e io posso raccontarvi un aneddoto che è stato penso importante perlomeno a livello nazionale penso che sia stato importante
+nel periodo in cui tutto sommato alcuni erano ancora a trecento pips
+si signore di di mestre a casa mia c'era uno che praticamente rendeva nelle fiere vendeva schede piratate di epoca era il periodo in cui si facevano ancora i cloni dell'apple due e quindi erano le diciamo weston
+dagli anni ottanta
+e questo qui venne a casa mia con una idea bassa diciassette
+so che fai parte di questa rete
+perché non è perché non facciamo un nel nostro
+dico questo modo nostro
+poi dopo dobbiamo comunque omologarlo perché quella volta era ancora vigeva il monopolio e la telecom tela dell'allora sito per cui non era possibile collegare nessun dispositivo mobile
+affitto e comodato comunque
+questo insisteva mi ricordo che mi procurò un application note di
+nella serra che permetteva di fare nel duemiladue ventidue
+è l'esperienza fu che io mi iscrissi ma con voi partendo e questo faremo riferimento anche un pò quello che diceva george all'inizio non cioè non c'era niente non c'era nessuno a cui chiedere non c'era nessuno con cui confrontarsi perché non c'era internet quindi devi basarti di quella voga carta riciclata
+racimolare
+scrivendo una casa-madre fingendo di mandarmi materiale cartaceo o al massimo dei floppy
+e io mi misi in cucina sul tavolo della cucina perché di fatto tutta la bibbia
+che c'è
+ero io
+sembra evidente sul tavolo della cucina
+guarda
+se non è più adolf
+non riusciamo a sentire
+sto adesso è poki georgia lituania sullo smog sola
+allora forse un pochino male veramente c'è un po' di rimbombo sotto e segnalato voce un po'
+bassa rispetto al rischio
+sto sto sto usando il telefono adesso mi avvicino al microfono del telefono
+insieme a cattolico balcone ti sentivamo in scena intelligibile come sappiamo
+l'esperienza è stata più importante per me perché praticamente mi sono iscritto basandosi sul pochissima documentazione e mi sono iscritto tutto il proprio ruolo
+i comandi famosi comandi at it vi ricordate quelli che
+due volte
+il rischio è seduto il protocollo è questo rumore meno che sembrava quasi un gioco alla fine il re è stato omologato dal ministero delle poste quella volta lì è stato un successone perché è stato diffuso praticamente è stato dato in omaggio a tutti quanti bibbia seguivano ancora
+il quattrocento è durato poco perché poi nel frattempo sono cominciate ad arrivare l'italia i vari zii se arriva arriva e zero votes scadere dei protocolli ben più evoluti però quello è stato bello per me personalmente è stato un bel periodo di crescita anche a livello tecnico
+e c'è gente che ancora ce l'ho ancora non ce l'hanno
+certo a livello di collezionismo sto perché
+e funziona ancora
+se ce l'hai giorgio leccese e funziona ancora e guido svaldi da lasciata in malo modo milledue lo ricorda con immagino piacere
+mar ventuno ventidue
+detroit in qualsiasi
+è la domanda che faccio a cosa una certa che mi viene in mente anche i miei gusti si contempo andiamo a fari rovinare i nodi nelle chiamate al nodo superiore di notte immagino poi in più più messaggi più cose di più delle collisioni ma no non ci sono l'abolizione perché se chiami il numero è occupato
+vedi la broda guarda
+ristoratori giustamente
+piuttosto poteva capitare
+caputo poi ordinavano gli slot orari capitava come dicevo esistono obiettivi di elaborazione come del golfo certe volte anche bob lunghi tempi di elaborazione di cooperazione
+vede smetterla di arrivare allo bob superiore per non averne ancora niente da bagagli vedete essere in ritardo per
+perché non era ancora pronto il pacco piper dettagli da mandare o viceversa che si dovrebbe andare dall'albo non avete ancora provato al banco dei messaggi da mandare a nove bene
+sequestrata la bandiera del tipo spread perdere i nodi che lo chiamavano in linee urbane puoi preparare il profilo di terapia diventavano interurbane perché all'epoca la differenza
+derogare sistema vescovo di dover garantire anche in termini geografici
+per le donne
+peter paul e ovviamente qualcuno triangolare con contributi europei
+chi si metteva a disposizione
+le altre magari meno soldi
+sedici anni sembra facile e costruivano come quanto era facile campania qualità quindi il concetto e a quanto era facile ricorrente collegarsi
+cbs
+in qualche modo alle parte poi quant'era facile o difficile fare la paga come nella moda essi somala
+la scritta la bibbia sennò era visibile attraverso una nota che la bundeswehr
+l'opera di pubblicazione un certo punto
+se hai bisogno di fare grandi sforzi di programmazione per farlo dare anzi teoricamente doveva andare fin dall'inizio poi non erano sempre detto però va beh però collegarsi non era non era difficile una volta che riconnesso a un certo punto ti perdi termine o fuori le schermate di dirci chi sei e vai avanti insomma in qualche maniera almeno io non l'ho mai trov
+stato difficile poi ogni tanto qualche utente bisognava dargli una mano quello sì
+però non lo so non so la tua esperienza giorgio con gli utenti
+allora diciamo che dal punto di vista pratico ripeto grosse difficoltà non ce n'era anche perché paghiamo la struttura era abbastanza semplice e un minimo di diciamo un minimo di pratica bisognava farla ma
+era una cosa complicata facciamo le funzionalità non è che fossero particolarmente complesse dal punto di vista
+della semplicità c'è anche tener presente una cosa che la rete fidonet
+nel suo massimo splendore era arrivata meno un quarto livello che erano i cosiddetti point che in realtà erano sostanzialmente degli utenti più sofisticati che a quel punto accedevano le aree come come se fossero dei nodi operativi cioè all'indirizzo dei poi intera due
+con un con un punto finale quindi c'era la zona è varia il numero del nodo e poi due dei punti tre tre cinque barra un punto due tre quattro cinque sei quello che era quindi chi aveva interesse a gestire che come quantità maggiori poteva tranquillamente con lei
+assi scaricarsi la sua copia dei messaggi legge
+a leggersela line rispondere eccetera eccetera e poi partecipare alla distribuzione della posta esattamente come se fossero un nodo bradipo erano dei nodi che non davano accesso all'utente finale ma che erano riservati per chi faceva questa questa questo
+volume più alto di di di di di di di
+di scambio di posta
+le community come tutte le coppie utili richiedono lavoro lavoro da parte del coordinatore e a tutte le aree erano ripeterono coordinate e normalmente erano anche moderate quindi chiaramente in queste situazioni tu togli di mezzo a tutte quelle cose che partono e vanno poi capita
+ho acceduto ma diciamo non ho nemmeno tanto da questo punto di vista meno a me personalmente è capitato in maniera abbastanza rara ovviamente mi sono sempre occupato sin dalla parte fidonet perché il coordinatore e come ella era era un altro stefano pasquini agli inizi e il lavoro lavoro importan
+nte era trovare le persone giuste per fare il coordinatore delle varie aree perché quello poi determinerà molto il successo dell'area oppure no come vuoi i gruppi su chiudono touchpad tweet su facebook
+telese che se c'è un moderatore di un certo genere il gruppo funzione e ha tanti iscritti e c'è movimento è positivo l'altro un movimento positivo se il moderatore invece latita o comunque invece fa male il suo mestiere si rischia il disastro è si allora step che chiede a sergio
+contare quel poco che avete fatto e abusa porta complessive live again su e pollici p m che si chiamano come stai
+va dunque allora brusaporto che è stato credo l'anno scorso lo abbiamo portato i ore riportato in vita clessidra che giorgio ce l'ha ancora in vita alla sua età ancora adesso giusto giorgio erotici
+il vetro io invece l'avevo spenta e avevo fatto un bel the cape quindi va bè l'ho riportata in vita
+brusaporto portato alcune macchine tutte diverse tra di loro tra l'altro non mi ricordo neanche più quali macchine robot e la bibbia esso tirava su mps uno colore due per tutte per cui avevo quindi messo ko non mi ricordo se due o addirittura tre nodi di clessidra che giravano contemporaneamente il tutto collega
+dato un centralino telefonico analogico e con i modem che attraverso il centrale lo chiamavano la bibbia sennò
+dai vari interni chiamando l'interno praticamente quindi
+e oltretutto con il modo in veri cioè quindi le velocità allora trecento c'erano anche milledue e credo quello più sofisticato dal duemilaquattro quindi cioè non certamente velocissime e però era giusto per far capire l'esperienza volere
+firenze com'era il professore spiega vera ed esatta però adesso c'è ancora fidonet è viva e vegeta e spiegato un po come si può ora usare fidonet che vada se non si usa più il modem e adesso si userà eataly net un rifacimento se uno vuole provi
+fare l'ebbrezza di quel tipo di interfaccia o di esperienza cosa cosa puoi rendere un sito allora io ciò in linea
+ho fatto un'operazione
+preservazione della salute darti quella che era la la filosofia e la tecnologia è perché sono ripetono cose che altrimenti andrebbero perse del tutto che man mano che si va avanti su una rete e riferimenti a san stanno sparendo praticamente del tutto quindi diciamo utili
+realizzando un periodo di pausa che abbiamo vissuto tutti i guasti di qualche anno fa c'è stata quella del covid
+hommes in piedi un sito
+dov'è diciamoci buona parte delle informazioni utili come è nata fidonet la tecnologia è un po'diciamo di difatti sia storici che tecnologici dopodiché questa è una cosa che avevo già fatto prima ma non diciamolo perfezionata o in linea quelli che io chiamo
+le copie anastatiche in realtà sono le versioni di fidonet vuoto faedo network dodici che è stata quella la versione di fedeltà che si è diffusa di più e di un altro
+un altro software che è stato successivo bs che sono raggiungibili sia dal web c'è una facile interfaccia su una pagina del sito e si avvia del network cui tu ti puoi collegare
+sulle porte e fai l'esperienza perché poi diciamo il software che gestisce le macchine virtuali che su cui girano queste tre copie
+cerca di
+limitare anche la velocità a quella che effettivamente era la velocità dell'epoca dopodiché ci sono alcune macchine già la rete è tuttora viva una di queste macchine è collegata alla rete fidonet quindi diciamo può scambiare messaggi con il resto della rete rete tuttora viva c'erano il coordinatore nazionale italiana fabio buzzi ci sono una serie di nodi
+sono circa una dozzina di nodi attivi in italia sono nodi attivi in tutto il mondo
+e ovviamente al giorno d'oggi non hanno molto senso se non quella di preservare è una tecnologia che comunque secondo me è sbagliato che vada persa anche se oggi non è diciamo più utile praticamente non ha più il ruolo che ha avuto perché
+fai da te ha avuto un ruolo molto importante ha dato la possibilità a tantissime persone diviene adulto di entrare in connessione ma faccio un esempio discorso banale io vivo a potenza
+profondo sud diciamo senza grossi collegamenti con il resto del mondo
+noi in quegli anni parliamo ottantaquattro ottantacinque ottantasei fiducia ma alla fine degli anni ottanta siamo riusciti a mettere in piedi un gruppo di amici perché io considero tutti quanti amici abbiamo lavorato assieme abbiamo costruito assieme qualcosa sparsi sul territorio italiano
+in un momento in cui un'attività collaborativa che tu hai potuto fare solo ed esclusivamente perché ha avuto quel tipo di tecnologia è stata collaborativa e nel vero senso della parola che ognuno di noi non aveva come dice nessun interesse che se non fosse quello di far funzionare le cose scambiando
+e le informazioni e quindi facendoci crescere tutti quanti assieme ognuno di noi ha dato il più piccolo contributo qui il piccolo contributo è venuto fuori qualcosa di cui
+sostanzialmente nel periodo d'oro se tu fai conto che in italia c'erano probabilmente qualche centinaio forse centocinquanta e duecento kb s
+e se anche è vero che diciamo sicuramente sono state duplicazioni di utenti fra una e l'altra ma comunque probabilmente qualche decina di migliaia di persone ha utilizzato la nostra tecnologia per crescere pene per affacciarsi in un mondo nuovo che poi da lì a qualche anno sarebbe stato travolgente perché
+poi lo sviluppo di internet è stato travolgente e credo che sia comunque un risultato interessante dal punto di vista dal punto di vista pratico perché tende a dio
+cito solo un fatto
+all'inizio quando quando si è cominciato a diffondere facebook parliamo de grandis parecchi anni fa ci fu un tizio che mi cercò ce mi chiamò e manda un messaggi ma tu sei giorgio di anni filet si è tu non mi conosci però ti devo
+ringraziare perché grazie a quello che avete fatto voi oggi ha cambiato la mia vita sostanzialmente il messaggio era questo ma non mi dilungo poi sono di quelle cose che ti come ti ripaga affatto di aver passato tante notti tanti giorni e lei rinunciava il periodo di natale ci siamo il fatto che il
+fido potenza è nata il giorno di santo stefano la feccia annegata la virginia da siamo stati dietro uno stato dietro dietro al computer a far funzionare quell'affare perché ripeto con le quattro pareti di documentazione che arrivi dove sbatterci la testa per permettere poi tutto in funzione e far funzionare le cose alla maniera giusta ma penso che questo sia
+esperienze di tutti quanti eroi
+rodolfo suoi silenzioso e senza audio lo temo che il microfono non funzioni adesso forse hai messo io e non ti sentiamo devo fare se non muta adesso si è mutato adesso no ma non ti sentiamo vedo che hai messo gli auricolari ma mi sa che il microfono è stato disabilità come te voglio ricordi in qualche modo
+e se uno cerca su giorgio se mi mandi il link del sito web da cui uno può accedere per vedere cose magari lo mettiamo adesso incerte e lo mettiamo in descrizione poi nel video views fido a b s condotti ecco quindi anche le iscrizioni al figlio di esse punti allora sono
+vada su wikipedia la cuspide della diffusione di fidonet vede che dà dodici nodi nel millenovecentottantaquattro nel mondo erano arrivati a quasi quaranta mila nel novantasei e poi c'è il calo è arrivata ed è arrivata a internet però nel due mila nove meno questo grande questione duemilanove
+ancora seimila più o meno quindi comunque discreta presenza laddove fosse sempre silenzioso quello che pensi magari hai abbassato il volume del microfono fosse cambiandola espositivo nessuno perchè non sei più in newt adesso se non lo sei per contenerlo
+osservo conviene che provi a riconnettere forse conviene perché aspetto adesso ti sentiamo
+leslie
+mi sentite penso di sì adesso sì
+non avevo cercato di mettere gli auricolari appunto per evitare stesso effetto eco ma poi gli auricolari cemento sono quelli che si usano anche per telefonare lui mi deve ami mi disattiva anche il microfono interno del telefono
+anche sul web e over stasera è andata così adesso però serve open loro averi o tolti li ho tolti però siamo tornati in una situazione di prima che vi fa eco voi
+è molto meglio di prima media scusa non volendo nelle cose migliorate no volevo dire prima che
+c'è da aggiungere anche che è stata una grande esperienza umana cioè volevo aggiungere qualcosa a quello che stanno dicendo giorgio cioè dare la possibilità per la prima volta io l'ho sempre un po' paragonata a quello che negli anni settanta era stata un po' la cabina
+con la cb meno male era stata la prima occasione la prima situazione in assoluto nella storia in cui persone senza conoscersi indipendentemente dall' interesse più o meno per la tecnologia ma più che altro magari spinti proprio dalla voglia di parlare con il col primo che capita non nel senso dare subito che
+tv scambiare informazioni di vario genere io questa cosa qui los lagos
+penso che sia stato un notevole per
+nel mondo di fidonet dell'esperienza umana io conosco per riconoscerci giorgio sicuramente conosco coppie che si sono formate e hanno fatto figli tramite fidonet conosco
+storie di grandi amicizie che sono nate e che durano ancora secondo me anche l'aspetto social così come lo viviamo oggi
+adele radici già da quella volta abbastanza importanti non so vuoi perché è vero sì che noi si sia poi mettevamo su il sistema essenzialmente perché per per una diciamo bisogno di conoscenza cioè nel senso che mio scopo primario quello della conoscenza però poi inaspettatamente è venuto fuori un aspetto umano
+nano che non era trascurabile le idee i miei skills i miei gli utenti che già quella volta si collegavano tutte le sere e che ancora adesso mi seguono su facebook
+tutto sommato è un'esperienza molto piacevole anche a me è successo di persone che mi hanno fermato mi hanno detto guarda che con quello che avete fatto negli anni ottanta con le bibbie se in qualche modo mi ha cambiato la vita perché erano persone sole persone che avevano problemi di problemi a comunicare problemi a relazionarsi è bene o male questa cosa le aiuta
+di tantissimo nel bene e nel male perché poi al regime trovano anche quelli con cui discutere quelli con cui incazzarsi però è stata sicuramente l'esperienza è importante che concordo tra l'altro europeo di là che io ero
+privilegiato tra virgolette nel senso che rende un nodo milano e milano tmnews
+comunque parecchi di nodi
+era anche abbastanza comune ritrovarsi ogni tanto andare mangiare pizza tutti assieme
+chiaramente temo che vicino ad altro non è che ce ne fossero tanti
+e però facciano parecchi chilometri per me
+stagione a milano eravamo facilitati e sicura
+venivano anche dalla sicilia mario moreno lo ricordo che adesso purtroppo non c'è più è venuto su a vari incontri che abbiamo fatto nel centro nord beh se poi c'è qualcuno che si è spostato neanche come me capitava ogni tanto di andare magari per lavoro in giro per l'italia e con l'occasione diretta dai che incontro qualcuno vede
+sisko nelle zone relative dove andavo
+ed era sempre piacevole incontrarsi nel seme allora dopo un'ora discussione essere non so se quest'argomento privati discute però vogliamo parlare di quell' undici maggio novantaquattro perché dobbiamo ancora parlare
+che magari qualcuno non lo sa ne ha sentito parlare e non sa bene qual è l'impatto quindi magari
+di prima mano info
+raccontato per sam
+capire se lì non c'era pressione ragazzi che magari fosse stato posso condividerlo con voi un dolore profondo che invece io in fondo un dolore profondo che poi le faccio finita però bisogna che lo condivida udi fatales non ho più niente perché c'è stato un malinteso nell'ultimo periodo quella bibbia essa era stata praticamente
+parcheggiata presso un'azienda perché mi aiutavano a pagare i costi delle spese telefoniche essenzialmente quindi detto beh ben vengano fornite il computer mi ha a pagare le bollette del menga piuttosto che a casa mia alla metro da voi l'ho messa da loro un giorno vado là e non la vedo più e divano
+home mai che non c'è più e una scusa non ce l'avevi detto tu di formattare tutto
+lì a quel punto mi è caduto il mondo addosso praticamente della della mia bibbia c'erano più niente perché l'ultimo beccato che era stato fatto era di sei mesi prima ed era stato fatto sulle cassette dell'isde delle cassette streamer con un lettore
+dopo avuto difficoltà a cercare di recuperare stein astri che sembrava che non li leggesse bene insomma alla fine
+se io adesso dovessi dire che cosa è rimasto di di di di di fatal error del mio del mio nodo fidal non c'è niente e questa è una cosa veramente brutta perché io penso che questo sia un sentimento che hanno vissuto anche gli altri insomma no bene o male la tua bibbia era come un giardinetto c'è nel senso che ti dedicavi le
+ore da renderla non solo interessante ma renderla anche gradevole a fare in modo che gli utenti quando venivano dentro era come se venissero a casa tua insomma cioè dovevano sentirsi a loro agio ci mettevi delle cose carine che loro apprezzavano cose così ed è stata veramente una mazzata incredibile quando mi sono accorto che avevo perso
+praticamente anni di lavoro perché c'erano dentro anni soltanto scrivere i file batch scrivere tutti gli iscritti tutte quelle cose lì non solo ma c'erano anche tutte le accortezze che
+bene o male ognuno di noi aveva nei confronti del della della propria della propria utenza no e così stupidamente viene un colpo solo ho perso tutto questo è stata una cosa che comunque volevo condividere con voi soprattutto dopo appunto che giorgio ha raccontato come anche sergio raccontato che avete rimesso in piedi tutto io non posso rimettere in piedi niente perché dovrei
+cominciare proprio da zero da zero e onestamente settanta anni non ci voglia questa è una nota dolente che volevo condividere tutto qua scusami no
+per te e che capisco benissimo cosa vuol dire
+se vi piace occuparmi delle cose vecchie quindi avere ancora delle cose vecchie per me è fondamentale
+posso capire benissimo
+rita wilson stato tutto va bene basta perché ripeto in tutta la parte software va preservato perché sarebbe come dire facendo paragoni che non sono manco tanto strane come uno scrittore figlia tutto quello che hai scritto e buttarono nella sella distrugge i documenti perché purtroppo la realtà è qui
+e passiamo alle cose sono sanno anche vecchie e che sicuramente non sono vecchio non sono aggiornate però lascia il lavoro ci sta il sudore c'è la passione c'è emergenza la creatività alla passione certa certa c'è tutto internet
+senatore tolkien sapere
+fai basta
+però prima due cose intanto fatemi un nome bellissimo molto simile a franca
+complimenti
+la yamaha software in chiatta che è nata ricordato che sembrano difetti una manna e prima ancora su fidonet prima ancora che apparissero sui figli qui diceva che questa logica di scambio di informazioni notizie il tempo esiste era un veicolo era un veicolo di comunicazione non velocissimo un decreto
+ai tempi anche più veloce di alcuni media tradizionali
+dai parliamone di questo fido basta italian town facciamolo come se qualcuno dei presenti non sapesse esattamente cosa sia ce ne si può parlare ma non
+è difficile far finta troppo
+a chi ci sta seguendo ci sono sia persone come dire che c'erano e ricordano con noi e con voi e sia persona che non c'erano e vi assicuro che magari ed è importante anche ricordare un po' a parte questo mondo che c'è stato anche quello che un qualche modo in italia messo un po'
+un grosso freno a questo mondo affinché un freno diciamo che c'è stato sicuramente
+una certa visibilità a un certo punto secondo me il freno non c'entra
+però sicuramente c'è stata una visibilità e non necessariamente positiva ecco questo sì purtroppo poi quando ho fatto quelle inchieste giudiziarie di fatto non sapeva neanche cosa stessero facendo hanno sequestrato tanti di quei nodi fidonet e non fidonet
+senza sapere cosa stavano sequestrando
+si raccontano aneddoti di di persone che si sono ritrovati e sequestrati lettori cd piuttosto scrivere altre cose perchè non si sa mai servono a duplicare il software piratato è anche le ciabatte sì anche le ciabatte o addirittura addirittura a un amico hanno sigillato la stanza dove chiavari
+dentro tutte le cose
+purtroppo poi chiaramente si è spostato a maggio la maggior issima parte dei casi non c'era assolutamente niente da dover indagare sul caso però se hanno avuto una macchia che ancora per tanti versi non è mai stata sua maestà nostro giorgio se tu hai notizie diverse
+ci sono state persone che conosco che hanno avuto problemi poi li anche lunghi
+la legge si è smontato tutto perché non c'era niente da
+sì era una una diciamo un caso che non esisteva se
+chiamo fosse stato affrontato in maniera razionale ecco per fare un minimo di storia perché se ci sta e appunto qualcuno che non che non conosce
+la storia lasciamola la sintetizzo
+in un momento storico
+si è passati dalla totale rivendichiamo libertà di jesolo in merito al bar
+al diritto d'autore in ambito software
+a una serie di normative che oggettivamente erano forse estremamente stringe troppo stringenti ma che cosa è successo è successo che quindi riesco posto la polizia postale ha cominciato ad attenzionare come si dice normalmente il termine
+piccoli gruppi che facevano traffico di modi di software piratato perché all'epoca diciamo era una cosa abbastanza normale
+era un discorso che l'ha diffusa a tutti i livelli ma attenzione ha diffuso nel senso che era abbastanza usuale che t ti rendessero il computer e poi ti dessero libreria di programmi
+flirt cura di david con parigi software attacco bonanni
+oh
+adesso grazie alla condivisione di conoscenze qui si doveva condivisione per noi è sempre stato fondamentale comunque che succede che la polizia postale di pesaro se non ricordo male trova segue due ragazzini praticamente utilizzava il modem per collegarsi
+alle qui dietro si faceva normalmente con di strada dopodiché
+trafficavano in programmi meno ragazzi proprio non c'erano neanche era l'ala centrale del della pirateria per intenderci quelli che già non duplicatori di centinaia di floppy che facevano produzione di massa che succede che arrivano sequestrano i computer con
+butter di questi ragazzi e sulla argenta sul sul dialer di questo di questo di questo computer da una serie di indirizzi numeri di telefono di dbs che questi contattavano
+parte questa operazione per cui la mattina in qualsiasi immortali e in tutta italia centinaia di agenti della polizia postale della finanza eccetera eccetera a un'irruzione nell
+le varie fede hanno praticamente ti sequestrano tutto
+computer ma senza preoccuparsi granché per cui so di aziende zorzoli perso di persone che
+utilizzava che avevano il i biglietti in azienda hanno sequestrato tutti i computer dell'azienda quindi sbloccando poi l'attività lavorativa e adotta una serie di problemi io personalmente non non sono stato colpito perché probabilmente le persone e questi due
+ragazzi non non avevano il mio numero nell'agenda delle donne che hanno fatto il miele
+le aziende che hanno fatto un minimo di indagine dicendo può darsi pure che già qualche software non perfettamente lecito si potesse anche etf su qualcuna delle macchine sequestrate a smaltite ipotesi se ti vai a leggere
+ci sono gonnelline giornale dell'epoca sempre che ha distrutto la rete dei
+grande davide
+che cos'era la droga la droga era preferiva socializzare
+philip contrabbando che cosa c'è
+nelle ipotesi di tutti i tipi dopodiché ovviamente va vede la realtà
+si è sciolto tutto in un in un in una bolla di sapone però crea ha rilasciato una serie di strascichi inquietante perché ovviamente come detto prima nessuno di noi le cose le ha fatte
+un tornaconto economico ed è ovvio che a fronte del fatto eco quando uno comincia a bilanciare i favi golette il piacere della gola il con il rischio di trovarsi in mezzo in mezzo alle
+alle
+guai perché poi sono guai veri e propri è risultato finale quello che io tra l'altro all'epoca scrissi anche una lettera al presidente della repubblica
+citando c'è
+stigmatizzando la situazione che si amico ed evoca caro presidente oriente rappresenta la repubblica ci si rivolge alla maniera nella maniera giusta
+impensabile il fatto che si facciano discorsi di questo genere senza rendersi conto poi della realtà che c'è dietro perché mi rendo conto infatti l'informatica è una disciplina nuova e prima di fargli fare azioni di questo genere il risultato è che a distanza di tempo ci fu una una risposta molto
+so che mi arrivò mi ha risposto per dare smalto molto generica senza senza nessuna senza nessun ovviamente
+era era giusto uno sfogo
+era era chiaro che non potesse avere nessun tipo di risultato però comunque il problema c'è stato tanto non è stato l'unico quest'estate in italia c'è stato qualche cosa di simile anche all'estero ma le problematiche essenzialmente sono quelle il problema è che c'è stata una fase storica della vita nazionale
+tale in cui urla che vivendo con la pirateria e siccome noi attenzione la nostra policy fidonet era molto rigorosa guardo la pirateria quindi diciamo noi e proprio come organizzazione poi è ovvio che nessuno si metta si metteva a fare la chiama la polizia non esistesse la polizia
+interna nella rete proverà
+molto rigorose sul fatto che il software che poteva e doveva essere sulla bibbia esse devono essere software all'epoca si chiamava o shareware che era quello che uno provava oppure di pubblico dominio
+salmone in sawyer oppure anche al progetto
+però il problema è che
+in una fase storica dell'italia sulla pirateria software
+si è utilizzato sono utilizzati dei metodi che oggettivamente non erano correlati al al reato che poi si andava fa che conosco fior di imprenditori che casomai sono finite davanti al pretore perché sarà il programma che casomai auguri il program
+mino anche non necessariamente l'auto cadde o world
+ciao programmi sono di un certo peso ma se deve scendere che questo che cos'è a reato penale per finire ad appleton cioè ripeto sono di sono quelle cose in cui spesso e volentieri l'azione repressiva ebner è troppo forte rispetto a quello che poi è il problema
+in quanto tale poi ripeta all'epoca lì scorse che il
+i giudici che avevano avviato quella quella quella operazione realtà hanno avviato qualcosa di cui secondo me direttamente non capivano assolutamente niente perché all'epoca la conoscenza era oggettivamente molto di nicchia e probabilmente sono stati mal consigliato loro non capivano niente e coloro che sono andati in
+giro per tutta italia fare sequestri ne capivano ancora meno quelli che andava a finire che sequestrò solo delle cose assurde
+è proprio di tutto il materiale sequestrato onestamente non so quanto sia stato restituito non credo neanche molto adolfo sei boot bohémien e lodi golf la broadway e che hanno sequestrato cose che poco avevano a che fare voglio dire loro sequestrato l'auto poi forse questo ruolo anche frullatore la lavatrice olandese erano lì
+questo problema era la prova che loro stavano eseguendo un ordine e si sia chi gliel'aveva ha impartito suo ordine ma sono soprattutto loro che lo stavano eseguendo non sapevano cosa stavano facendo esattamente perché che cosa stavano cercando loro non sapevano gente che proprio per per per evitare questo hanno seppellito i floppy nell'orto centro sud
+gesso delle cose incredibili pur non avendo niente di così scandaloso come contenuti è venuto fuori da psicosi da pupo e da quel momento come esclude successo a filone d'italia voi avete detto in realtà fosse successo
+io ho chiuso
+io chiuso io no io sono rimasto attivo ai purgato e rivisto ventuno
+io non avevo assolutamente niente ricoprire te ci stavo abbastanza tempo queste cose poi non posso dire che conoscevo esattamente tutti i software online vero si stava abbastanza attento che i primi mettere mano in qualche cosa di solito ci guardava quantomeno web
+peso di di non aver mai avuto roba critica o quantomeno di certamente autocad non ce l'avevo e gulf air
+perché poi osman il levi biesse pirata che c'erano comunque non è che erano tutti magari non era neanche evento filo cinese sono un
+terroristica c'era c'era sempre una quantità di pdz non fidonet siamo quel punto lì potevano avere quello che volevano diciamo che la polis fido fido scusa
+era sicuramente una policy molto molto rigide molto chiara su questo aspetto poi come diceva anche giorgio non è detto che tutti lo rispettassero io lo ritenevo giusto che fosse così e quindi l'ho sempre l'ho sempre rispettata e l'ho sempre due per due org cameriera
+avete per questo motivo l'opera probabilmente non sono finito in questo casino per fortuna fisime è probabile che gli ignudi che chiamassero
+vi diciamo e le persone avessero un minimo però attenti a questo non mango detto ma che è capace che si collegavano al nodo solamente perché erano interessate come hello alla comunicazione l'olio vi ricordate da me monson voglio direttamente non ho avuto nessuna incursione
+da parte di nessuno
+la fine di fatal error è stata perché appunto a loro dire
+sentendo questa azienda qua a fronte però di questa operazione che c'è stata io ho detto a questi formattato tutto io non ricordo d'averlo fatto
+è finita così di fatto non c'è stato niente a pordenone e dintorni non c'è stata nessuna evoluzione da parte del degli agenti su nessuna delle biblioteche quella del diciamo del
+dario venire da me né a bibione nel fiume veneto non ci risulta sovra ci sia stata strangolata probabilmente appunto non eravamo nella lista dei numeri di telefono di questi ragazzini e probabilmente perché non c'era niente di interessante sulle nostre bibite
+per londra di devoto loro saluto di vista ovviamente
+ps
+ebbe quindi immaginate perché non mangiatevi l'idea megaride come adesso si fanno intanto si sentono nijmegen ride
+in centinaia di casa la mattina presto di forze dell'ordine che entrano sequestrano tutto è sequestrabile computer
+quello che c'è c'è quindi anche computer appunto usati per continuità aziendale o computer magari usati per la tesi di laurea che ha ed in cui c'era l'unica copia prendono portano via e computer mai forse mai più restituiti e condanne penali ci sia stato niente tutto grillina non sinceramente
+credo che le mancava il reato di certo fatto pagare in qualcunque che ardisca del software pirata magari con le leggi restrittive che c'erano teoria ma che
+il problema è che non ha trovato niente di peggio io sodi
+sicuramente di persone
+conoscenza diretta che hanno avuto
+hanno avuto strascichi anche abbastanza lunghi ma che poi sono anche quelli poi dipende da agnelli da cedric da chi trovi come omaggio da chi si rende conto delle cose il caso end the pende caso mai da un perito d'ufficio che fa la perizia esterna invece il problema
+all'epoca anche qui trovate i diritti l'ufficio perché si parla il problema che in quegli anni la telematica era una zona grigia non c'è normativa non c'era c'è
+e oggi bene o male
+esiste una giurisprudenza informatica abbastanza acclarato ma ci sono voluti quaranta anni all'epoca era tutto un settore codice al totale ignoranza perché era un'attività di nicchia e di grandissima nicchie però abbiamo arricchito la sim su quello che sulla dignità questo caserma
+se ci avessero dato anche alle cose un del back sul protrarsi avremmo fatto grande fortuna
+beh io addirittura già beh uno dei miei verde che aveva allestito una b s per conto suo padrone era vegliata fidonet vero utente però all'interno di una centrale telefonica perché lui era un impiegato della sip
+realizzare la centrale telefonica aveva tirato tutto compiuta l'aveva attaccata una linea telefonica guidata dal forged medioevali migliaia disposizione battiato ha violato il suo controllo b yeats
+allora io non so se fa chi ci segue c'è qualcuno che sta bene a parte giorgio che comunque sotto di esse celano vive e vegete ma qualcuno che è attivo nel mondo fidonet adesso e nel caso faccio un ping in chat facciamo in modo di farci sentire
+di collegarci magari lo facciamo intervenire per raccontarci un pò in tempo reale cosa sta succedendo in fidonet nel presente richiamo
+domanda un po' provocatoria ma assenso a parte la nostalgia ma ha senso adesso usare filone c'è un qualche motivo
+se tecnologico ma beh la vedo dura però ho anche
+tipo di ambiente che magari diverso da quello a cui siamo abituati sui social per cui magari bagnetto interfaccia sia preferibile usare yum
+fidonet comunicato
+umanità rispetto ad altri mezzi
+io mi domando scusa di settecentotré se ha senso usare fidonet oggi domanda brutale un po' provocatoria io io lo sto usando quindi non so sono l'ultimo che può esprimere opinioni però secondo me ha senso si fidano dello stesso per lo stesso motivo per cui esiste il retrocomputing cioè nel senso
+l'ebbrezza di riprovare quello che si trova a quaranta anni fa quando collegare qualcuno diverso da quello che fai adesso che dai per scontato anche perché appunto che appoggiava delle infrastrutture che non erano così performanti
+tieni conto che punto i software erano scritti da persone che erano in fidonet
+le macchine erano assemblate da noi la linea era quella della telefonica adesso come adesso si dà tutto per scontato quindi secondo me provare quell'ebbrezza le
+l'unico motivo serio tecnologicamente quello che si può fare oggi con internet è anni luce ovviamente è anni luce più avanti quindi c'è un motivo pratico al di là del della della nostalgia chiamiamola così per lo meno così io la vedo io non mi collego più da un suo nuovo fedora da quegli anni cioè da quando c'è
+stato il lockdown di tutta la rete però se lo facessi lo farei semplicemente per riprovare l'emozione di quella volta non ho altri motivi lo sono gli altri come la veterano west
+sono d'accordo oggettivamente molto tempo
+però per lo stesso motivo per cui non ha senso che io li metta le mani su west su macchine tipo questo gioco dietro e cerchi di rimettere in funzione di tenerle vive far vedere soprattutto agli altri che non hanno vissuto quest'epoca tipi come si faceva una volta e questo è sempre io lo trovo sempre estremamente interessante prelievo quando fa
+diciamo agli eventi tipo brusaporto ma facciamo anche di altro genere
+vedo che quando racconto le storie che sono dietro a ciascuna delle macchine piuttosto che ciascuno dei software che possiamo far vedere
+trovo comunque anche dei giovani interessati e questa è una cosa che non mi dispiace per niente anzi seconda cosa
+tirate le somme la tecnologia si è cambiata ci permette di fare l'ira di dio di cose però alla base di meccanismi che ci sono non sono cambiate più di tanto e certo è molto più veloce abbiamo a disposizione strumenti infinitamente più potenti
+però insomma alla fine abbiamo un'unità centrale che lavoro abbiamo della ram abbiamo del disco insomma abbiamo sempre più o meno le stesse cose anche un telefonino adolfo sei
+a dopo il falò c'è stato il te' sette
+b come protocollo che ha aperto un mondo praticamente all'universalità cosa che magari questa volta era un settore di nicchia adesso non è più divisa proprio li chiamano dev'essere fatto che c'è stata questa estrema standardizzazione è anche proprio apparsa oliveto si chiamano protocolli no però l'aspetto didattico effettivamente importante siano
+velocità tra considerato ma vedo anche io adesso sto tenendo dei corsi e dei ragazzi che prendono roma sono devono dare l'esame per la patente dell'elevatore no e spesso e volentieri o raccontò quello che era lo stato dell'arte di trenta quaranta anni fa più che altro rivolto al settore radiotecnica perché
+la telematica e vedo che sono molto interessati a capire come alcuni non tutti ma alcuni sono molto interessati a capire come siamo arrivati fin qua che può essere a quest'ora sono stati tasse universitarie sarà permesso di arrivare fino adesso
+miracolo di mandare un messaggino su whatsapp riserva all'altra parte con una foto sembra una cosa quasi scontata quasi banale ma dietro c'è un miracolo tecnologico e c'è gente che è interessata a capire come ci siamo arrivati a ovest si importante magari fatelo vedere vedere sono d'accordo con te sarò stato io credo che ci si
+che ci sia una
+una cosa importante
+che chiaramente elena
+oggi non è una tecnologia da utilizzare normalmente per settimane non ha molto senso anche perché i nodi in circolazione sono i nodi attivi sono ovviamente pochi però io credo che sia importante un proprio punto di vista storico preservare il
+quella che è stata la storia è intestato un pezzo della storia dell'informatica e
+diciamo la preservazione dell'informatica si fa facendola funzionare perché se tu non la fai funzionare è e rimane un qualcosa di assolutamente scollegato
+allora henry
+sergio giustamente prima citava le macchie sullo sfondo di howard mi sembra un programma centouno che sa di dietro che è stato uno dei capi dei capo di
+nelle macchine storie di italiani tra l'altro usata la programma centouno a terzi proprio in quegli anni in quegli anni nei primi anni settanta perché
+aveva un amico egemonizzato ingegnere che aveva preso la macchina e la programma centouno poi c'è affatto altra evoluzione appiglio il novemilacento beach e altre cose allora quel tipo di apparecchiatura turatevi la devi provare perché altrimenti non ti rendi conto che quello era
+macchina è stato
+è stato veramente una macchina fondamentale però oggi sarà la vedi easyjet la usa ci ho chiesto stagna usare questa calcolatrice che però vedi quando la racconti cioè io quando vado agli eventi che rischio il racconto sarebbe meglio ancora che fosse gay storie carriera che è uno di quelli che l'ha progettata ma al di là di questo ma quale
+il racconto in qualche maniera c'è gente che scopre un mondo
+faccio per dire noi abbiamo fatto un evento qualche anno fa a zurigo dove io ho portato noi abbiamo portato una serie di macchine tutte oliveti perché volevo proprio raccontare una certa storia dell'olivetti quindi siamo partiti dalla programma centouno passando dalla sessanta sessanta fino ad arrivare agli emmy ventiquattro che poi ho considerato gli ultimi diciamo prima
+poi vabbè diventasse una cosa diversa dice
+e a zurigo nella biblioteca olivetti e quasi sgombri
+come escono
+belluno
+in italia
+svizzera italiana a parlare
+il resto delle rom in america
+l'ambiente
+però quando io raccontavo tutta la storia oliveti e gli dicevo quando che la programma centouno uno dei primi clienti è stata la nasa ci ha fatto i calcoli per mandarlo degli uomini sulla luna e qui si rimaneva con tanto d'occhi per raccontare la storia anche in questa vodka che in questa maniera effettivamente stimoli un certo interesse è secondo me
+per chi ha voglia di ascoltare diventa una cosa interessante e poi ripeto il problema è che se tu vuoi preservare informatica dev'essere devi poterla usare se non la serve non c'è dubbio e non ti nascondo che rimettere in pace e di rimettere in funzione le versioni svolto nelle prime verso
+piani di faida non è stata un'impresa semplice esame nonostante io faccia a faccia sistemista quindi ci
+dal favore con macchine anche un po' sofisticate mettere in funzione quel rimettere in funzione quella affari io non ti nascondevi xd ma all'epoca fu fatto
+beh ti dirò che guerra che quando io l'anno scorso ho rimesso in piedi clessidra per portarla a brusaporto non ho preso il cabrio tirati su andate da un accidente di niente
+ho dovuto ristudiare tutta la faccenda per capire come diavolo era
+cui sì secondo me ha senso ma ha senso in questa ottica
+inferiori mi sta bollendo il telefono in mano
+sette inglese
+scusa se ti aiuto ogni tanto sennò diventa complicato sentire e vale per tutti non massima a oltranza ma se uno è stanco vuole andar via ho altre cose da fare non c'è problema salutare e dire ci vediamo la prossima volta così come per chi altri che hanno patito in passato se vuoi no adesso entrò
+rare raccontare la loro esperienza con e confido network fidonet giorgio liberi tutti e anche chi magari ha contribuito in chat e vedo che pana fa software francesco reali ma diverse persone se volete mi contattate su linkedin alessandro franceschi e vi do il link
+per reggio in aree qui l'approccio qui è molto freaks via se vogliamo e si entra e si esce come se vai al blog scusa se ogni tanto temuto ma se non è un casino
+averla stasera purtroppo porterebbe così sai perché fosse vestire ascolta da poco io sono così perché osservando il cellulare
+non avevo disponibile la webcam e ho fatto quello che potevo
+mister bolletta telefono in mano e veramente penso che sia il momento di andare all'università di bradley stata un'esperienza notevole perché in realtà tutto sommato non capita spesso
+devi incontrarci e parlare di questo
+probabilmente io adesso farò una capatina sui vari nodi sia giorgio che di sergio
+novembre
+nei prossimi giorni sicuramente mi farò vivo perché mi avete anche riacceso la voglia di decidere ho letto in qualche modo reagire a questa carenza
+tramonto e io devo smettere prima che mise incendi il telefono in mano
+sabato sera
+buona serata
+ciao
+bene dai e allora e scriveva in chat ama fa software che voi non so se conoscete come fa hamas software o qualcun altro sicuramente riconoscete e lui dice la mia esperienza mi spinge a ritenere che può aver senso proporre le ribs nelle scuole sia in ambito informati
+co ma anche come modo letterario di comunicazione ha senso nel senso che comunque anche lì il linguaggio nelle nei messaggi di fidonet che poi è diventato forse si è evoluto nel linguaggio di internet sotto gli aspetti è un modo di comunicare che io
+io volevo avevo una regola all'epoca della pds mia personale non usavo le faccine che già invece all'epoca si cominciava a utilizzare perchè mi ero imposto di cercare di rendere al meglio possibile ciò che volevo dire soltanto con le parole con la punteggiatura le parole quello che cerchi
+quello che dicevo all'inizio circa cioè che ho imparato a scrivere le cose in modo da esprimere quello che volevo dire in modo che da un lato non fosse frainteso dall'altra fosse altrettanto chiaro quello che volevo dire
+allora io che mi sono imposto questa regola
+perché comunque è stato mio mio mio piacere nel cercare di elevare il mio livello diciamo letterario chiamiamolo così non mi permetto di scrivere libri comunque in ogni caso perché non mi ritengo assolutamente all'altezza ma sicuramente questo mi ha aiutato moltissimo a esprimervi in un certo modo questa cosa qui
+secondo me si può fare anche su su su internet su facebook piuttosto che su twitter piuttosto dal primo però oggettivamente effettivamente
+bisognerebbe imporre comunque una regola cioè nel senso appunto vedi caso che mi ero imposto la regola non usate il fucile e se si potesse imporre lo stesso tipo di regola in altri contesti va bene va bene lo stesso cioè non necessariamente deve essere fedele la tecnologia fidonet diciamo che quantomeno primo il carattere
+spaziatura fissa quello che è secondo dedicato magari non imponeva facile o quantomeno ne permette un uso limitato
+terza cosa deve riuscire a condensare ciò che vuoi scrivere perché dedicato impiegherà comunque sia c'era anche il problema che i messaggi non dovrà essere troppo lunghi sennò poi ci impiegava troppo tempo qua e là su giù e quindi di riuscire a essere abbastanza conciso per esprimere un concetto senza bisogno di scrivere dei papiri ecco secondo me già con queste
+regole su rimborso potrebbe aiutare un attimo perché l'inter l'interrelazione tra le persone ai tempi di internet la sintesi
+sai sono d'accordo quello che dice sergio e tra l'altro diciamo che
+però credo che dipenda molto da come dire una sensibilità individuale perché va al all'esempio io sono perfettamente concordo pienamente quando si aggiunge l'importante è farsi capire chi scrive e farsi capire perché spesso e volentieri il problema quando si scrive è che uno scrive caso
+mai di getto però dall'altra parte può essere interpretato in maniera completamente diversa quello che vuoi dire
+che i tempi di fidonet consentivano di essere come dire forse più attendo per chi chiama la comunicazione era più lenta cioè non era immediato era veloce come come oggi però quello dipende molto dalla sensibilità individuale cioè se chi casomai scrive preoccupandosi di essere chiaro però preoccupa
+andos di non costruire le frasi in maniera che possano essere interpretate diversamente perché a volte violenti spesso e volentieri
+anche su facebook nascono nel fm
+molto forti semplicemente perché non ha scritto una cosa chi l'ha letta l'ha interpretato in maniera completamente diversa
+perché purtroppo nella scrittura manca la comunicazione non verbale mentre noi siamo di persona abbiamo la comunicazione non verbale che ci aiuta a come dire a farne a fare scrematura del del del delle delle situazioni dubbie e purtroppo con il testo nulla non c'era terze parti
+interpretato male quindi alla fine non so poi effettivamente l'unico vantaggio è che io vedo e ripeto è che i tempi di vietnam erano dilatati rispetto a quelli di oggi dove tu a fare tre passaggi cinque secondi se state tutti e due in linea
+privata qui sotto e cesoia ci metteva almeno tre quattro giorni a tutto quindi avevi anche la possibilità di rileggere casomai spa forse quello oliveti in un'altra cosa sono i tempi oggettivamente oggi sono decisamente più rapide questo peyote va a scapito della qualità della season decisamente
+flame clamorosa nel mondo fidone italiani c'è stata qualche
+ok
+amministrazione io sinceramente non ne ricordo poi ci saranno anche stato perché ovviamente gli sms
+nonostante fido no no no mi sembra ovvio di flame particolari anche io non mi ricordo strilloni in un'area politica che era stata aperta
+home il politica in cui chiaramente quando ci si confrontava in quell'ambito lì
+i rischi di flame erano praticamente continui anzi c'erano e rimanevano
+tanto è vero che poi va a finire che il moderatore dove imporre delle regole talmente rigide per cui la discussione diventava sterile
+però devo dire che questo è un problema tipica me c'è la mancanza di freeman e la mancanza di flemma serie è stata una cosa tipicamente nazionale perché fidonet all'estero era nota anche come fight one
+certo la rete di pilota sostanzialmente devo dire sia a livello sia sotto sia a livello utente credo che sia
+non vorrei considerare come una grande famiglia cioè come un gruppo di persone che era animata dalla da una serie di come dire di intenti perlomeno simili per cui non ci sono mai stati grandi grandi grandi problemi meno non qualcosa che ricordi a distanza di tempo pari
+la spezia sicuramente ci sarà stato perché è normale nelle le attività umane però ripeto tutto sommato devo dire che questa figura del sito per questo deus ex machina che tutto vede e tutto può e tutto può fare e magari si fosse anche il motivo per cui molte biblioteche sono nate e si sono policy
+dell'economia di interessi sopra anche lui è che è veramente c'era questa figura un po' come dire a voi forse voi lo
+non lo percepiva te in quanto lo eravate però così di entità superiore che controllava e poteva fare diritto limite andrebbe a quattro utente per la verità che degli enti
+oggettivamente fare il sidro così un'odissea ho il potere per certi versi ma aveva un potere ovviamente che è quello della gibbs sua croce
+potere decide di cancellare con ruches e sai che soddisfazione
+aggiungo anche un'altra cosa io sono stato
+da quando è nata fai-da-te finale diciamo ai primi anni novanta marta n nove novanta è stato coordinatore nazionale della rete e io l'ho sempre considerato un discorso a spirito di servizio cioè non sono mai messo il cartellino per intendersi
+ma penso che tutti quanti più o meno ragionassero alla stessa maniera cioè l'attività del sito
+ad angera di deus ex machina ma semplicemente perché voleva fare c'è
+la volontà era quella di far funzionare le cose bene lo scopo era quello non era certo come dire che io sono superiore lassù il video ci mangerei manco per idea
+e poi comunque sia il fatto di inventarsi delle soluzioni per risolvere dei problemi e quindi far funzionare come diceva giorgio le cose
+stimolava comunque è tra sis op comunque ma anche con gli utenti e spesse volte si innescava il discorso di me
+c'è questo problemino che ogni tanto mi capita magari vediamo so come riusciamo a sfruttarlo
+ricordo ancora discussioni che avevo con angelo pisani che il nostro coordinatore regionale
+sul perché resettare la bdc tutte le no e come farlo perché se si piantava chiaramente non doveva succedere insomma fondamentalmente allora la logica era che la rispettiamo tutte le doti così siano sicuri sicuri almeno davvero riparte ecco io spingevo per una soluzione hardware me
+suo bellissimo timer sulla presa di corrente e così risolto il problema alla fonte e invece lui aveva pensato a una soluzione software per guidare watchdog che controllava che tutto funzionasse quindi resettare in caso di necessità ecco era filosofie diverse insomma però ci si confrontava
+e anche con gli utenti capitava di di di di ragionare su cose tipico di questo genere ma in generale i sistemi operativi ma
+un solo pc immagino anche al suo amico giravano su altri sistemi
+il sistema è nato in ambito annessa ross
+tra l'altro detto fra parentesi è nato in ambito ms dos ma il nodo di termogenesi in realtà utilizza un sessantotto mila perché siccome lui si era iscritta e uno è stato uno degli autori de lavora per l'azienda che ha venduto l'ha emessa ed ossa a microsoft quindi lui aveva partizione atomizzata
+compilata e se fosse andata questa ditta così anpas però dicembre è nato originariamente in ambito emesse da sephora la tecnologia si è diciamo sono stati sviluppati software un po' in tutte su tutte le piattaforme non solo sua amica ci sta su linux c'era la sua sedurre georgiana le versioni per tutte le piattaforme
+siamo di grido dell'epoca richiamo emesso dal probabilmente lo faceva un po' da padrone nel senso che era la maggioranza dei nodi però sicuramente c'erano dei nobili su altre piattaforme ma a quel punto diventava indifferente la piattaforma su cui gira e permettetemi di spezzare una lancia su sul discorso
+l'architettura di età podista software punto di vista strutturale
+considerato il fatto che sono software che sono stati sviluppati negli anni ottanta ottantatré ottantaquattro opus che samuel samuel nell'ambito hermes ed ossa all'epoca pirelli fino ai primi anni novanta il prodotto di punta solo software che funzionano tranquillamente nel duemila
+ventitré ma passando allegramente il millenium bug perché la struttura la struttura e la struttura dei messaggi di fidonet qui nella struttura il richiamo nella sua leader soprattutto perché siamo un'organizzazione simile ha ricalcato mostra la logica della dad
+internet nel ramo come siccome ci sono le rfc avevamo avevamo l f s f s c dividono fidonet standard comitiva dei documenti in cui c'era il protocollo c'è stava iscrizione protocollo sua stessa logica di internet la struttura dei messaggi tipo
+posta elettronica scritta da tom jennings per la versione sette e poi otto di fidonet nel millenovecentottantatré e la stessa struttura che
+viene utilizzata tutt'ora oggi con parte quando l'ha scritta lui la rete era un solo livello oggi la rete ha quattro apr un'area pensata all'epoca in maniera tale da essere espansibile quindi essere dinamica risultato e i messaggi fra vito vuoto fido undici opus tutto
+quello che è venuto dopo sono assolutamente interscambiabili dalla serie quanto uno che cosa le progetta bene fabric problemi con alison e ti gira ovviamente lo stesso strutturare il messaggio la stessa organizzazione dire tranquillamente su tutte le piattaforme che sono che si sono
+succedute nel corso degli anni e quando si scrive sui si progetta le cose scrivere software bene riprodotto lo si mantiene oltretutto la compatibilità verso le versioni precedenti inizierà a che non è adesso potreste mandare un messaggio filo netta attualmente formato il protocollo
+è lo stesso del verso assisi
+proprio così in realtà lei sul surf sul mio sul mio sito
+gesù dove ci sono le tre e le tre copie anastatiche quella che è collegata ad internet e la versione e opus però in realtà i messaggi sono in te scambiate fra la la wojtyla undici a opus qui diciamo passano da una parte all'altra senza problemi senza senza traduzione è senz'altro
+tra parentesi in effetti io purtroppo non l'ho mai utilizzato non sono mai riuscito a capire il meccanismo tu giochi magari lo sai c'è stato un momento di interscambio anche tra messaggi di e-mail internet con fidonet giusto sì sì ci sono c'erano legge i tuoi dati
+lapidi tu potevi scrivere un messaggio sulla bibbia esse e arrivava via email del calendario cinese e viceversa
+tieni presente che per esempio siccome il traffico sul di assistenza i miei sistemi non è tardissimo che avrò forse venti visitatori al mese o giù di lì se qualcuno mi lascia un messaggio sulla bibbia mentre michele
+è un'interfaccia che il sottoscritto ovviamente ma all'epoca io nel negli anni i primi anni della bibbia se avevo fatto angoli interfacciamento della del della rete fidonet con rete jacket rete pacchetti radio poi la mai
+gli molto border line per un problema nel fatto di messaggi scritti da una cupola ha abbandonato però già a livello di sperimentazione erano cose che sono state fatte così come credo all'epoca ci fosse anche un bridge fra rete fidonet chip sì credo di sì e lì ci voleva marco says
+lui ha fatto delle cose più più approfondita in questo senso molto bene allora io direi abbiamo fatto una certa e non c'è gente che chi ci raggiunge in vinciate quindi incolla quindi non
+tutti che hanno paura di parlare
+neanche secondo me avrebbero qualcosa da raccontare e il film da noi don roberto not over pioniere
+sono intimoriti le cose dal punto di vista
+secondo me no più di una persona va detto che gli sarebbe piaciuto partecipare però di fronte a tali personaggi si son tirati indietro
+invece simpatiche sarebbe simpatico invece sentire anche tributo qualche utente perché noi utenti dai fan c'è ma a me marco sta lavorando domenico cosimo chi c'è già la cosa può entrare ma ripeto chi ci ha seguito finora se vuole
+al volo collegarsi incolla mi manda un messaggio si mette in contatto su linkedin alessandro franceschi mi trovai faccia questa e vi passo league intanto allora è
+chissà che qualche raduno nazionale a parte le pizzate più o meno informali ma qualcosa di un pochino più strutturato distinse sì ne abbiamo fatti dove assume a torino mi ha fatto una teoria abbiamo fatto l'altra a milano
+ricorda chi è e ci hanno anche discussioni concrete da parte il vedersi perché appunto un
+c'è tutta una comunità intorno ma c'erano anche questioni più tecniche più comuni o dio organizzazione
+diciamo che no ma mentre noi eravamo allora la lettera è organizzata in cinque zone sempre per motivi di tipo geografico quindi ci sarà il nord-est nord-ovest centro sud se non mi ricordo bene come come come l'aveva organizzato cioè esattamente quali sono le regioni e
+tre tre uno tre tre cinque binari l'area tre andate nel ne potevamo la suddivisione quindi trentatré era l'italia ma era solo la parte amministrativa
+uno tre due tre re erano i nodi
+regional coordinator come il coordinatore via di questo passo perché ogni zona era organizzata in un in un net
+per esempio noi eravamo tre tre cinque grammi sud italia praticamente dal dal lazio in giù e spesso e volentieri ci siamo incontrati siamo visti a cassino un paio di volte siamo visti anche altri in altri posti poi abbiamo fatto un po' di incontri nazionali che ovviamente erano abbastanza complessi da organizzare però ne abbiamo
+fatti non mentono hanno partecipati tutti e già quella è stata un'occasione per vedersi ma anche poi per confrontarsi su una serie di cose perché ovviamente
+parlarne dinamismo e un conto è scriverlo è sempre più complicato quindi questa revisione in sottozone italiane è stata fatta dal dall'italia ci hanno ancora una
+fatta io l'ho fatta io quando ho organizzato quando c'è stato il passaggio perché noi un primo momento e la rete è nata come lineare e quando sono entrato io era appena passata a due livelli c'erano le zone e c'erano relazioni dopodiché per gestire il routing gestiva con la condivisione della post
+ta a quel punto era necessario passare a raggruppamenti più piccoli
+proprio punto di vista logistico e per gestire meglio e quindi noi abbiamo fatto questo che poi
+il problema era più che altro alla distribuzione dei nodi cioè avere equilibrio sul numero di nodi perché siamo i primi
+i primi nodi sono nati in ordine assolutamente sparso io quando ho aperto fido potenza
+il nodo più a nord rispetto al nichel in modo che stava più sopra al punto di vista l'altitudine stavo in olanda dopodiché eravamo forse ventina di nodi olanda c'era un po' di nodi nella parte sud dell'inghilterra e poi ho aperto il nodo io poi chiaramente sono e cosa
+partite molto velocemente tra l'altro giusto per fare un commento io quando ho aperto il nodo ero convinto che avrei avuto forse giusto qualche amico a cui avevo detto facciamo qualche prova dopodiché chiudo tutto da chi
+chi si vuole collegare invece stranamente nel giro di forse manca una settimana quando avevo aperto cominciarono a chiamarmi perché l'anodo list quindi la lingua dei nuovi era pubblico non ha pubblicato un'altra settimana e quindi il numero ha cominciato a circolare subito e quindi poiché sono create tutte tutele connessioni
+tutte le
+la distribuzione della notizia qui la notizia si è si e si risiede distribuita molto velocemente fra gli interessati che all'epoca oltretutto non c'erano canali specifici per far circolare questo tipo di informazione e dopodiché quindi siamo passati quando i nodi sono aumentati e sono mandate abbastanza velocemente
+nel giro di un anno eravamo già e qui siamo passati a quest'organizzazione a cinque zone che poi è rimasta anche attuale c'è attualmente una condanna delle cinque zone che avevamo ai primi anni l'olio sto riguardando le do list dell'epoca
+le cinque zone di reggio tre tre uno era la lombardia poi tre tre due invece vedo prato firenze genova e il nord-ovest credo che sia tutto il nord-ovest nord-est il centro e i suoi tre tre tre sicuramente me lo ricordo come nord-est esatto infatti guarda caso
+adolfo melilli per primo e poi tre tre quattro uno tre tre quattro era il piemonte perché c'era franco c arzillo e quindi poi il tre tre cinque centro sud quindi retro e hulu
+il tre tre due in particolare la toscana pratica tra toscana e liguria dice claudia galigani mangini che forse conoscete claudia la croce io lo conosco
+di maio che è
+beh guido olimpio bip ieri con claude
+allora io direi è stata una serata per me amo molto istruttiva è interessantissima e vi ringrazio per questo tuffo
+nei primordi no dei tempi dei veri pionieri delle corti le comunicazioni italiane e c'è qualche ultima osservazione una nota che volete raccontare o qualcosa che volete dire prima di congedarci long life of blood
+sono stata una gran bella esperienza assolutamente sì beh beh io ho imparato un sacco di cose
+credo che chiunque dire che abbia partecipato in qualche maniera sia come senso che l'utente abbia avuto modo di imparare un sacco di cose all'epoca all'epoca se si impara veramente
+ben chiaro che ci vuole volontà di imparare
+e soprattutto
+riprendo il concetto che diceva prima
+è stata una
+una grande esperienza svolta con vista umano abbiamo conosciuto con persone che non avremmo avuto assolutamente modo di conoscere e che alla fine
+hanno contribuito grandemente a la rac è stata un'occasione di crescita è veramente notevole esattamente la stessa la stessa idea di adolf meno ma non ne dubito non ne dubito è convinto che quello che avete detto voi è condiviso da molti altri che ai tempi c'erano e hanno fatto la storia qui
+tanto di cappello grazie ancora di essere stati qui grazie a te per averci scritto le clip potete tornare dai suoi genitori
+potrà essere seguito in chat veramente molto apprezzata
+ma
+ma
+ma
+ma
+ma
+musica

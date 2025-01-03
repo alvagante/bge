@@ -1,0 +1,452 @@
+buonasera e benvenuti sul canale della brigata degli istinti questo è l'episodio trentasei dal titolo lettera a un giovane o una giovane developer questa sera in via del tutto eccezionale ci sono io a condurre la puntata invece che alessandro franceschi che mi dicono
+in grecia in vacanza credo quindi beato lui noi siamo qui tra l'altro con con marco marongiu ospite tutti e due ad oslo e oggi abbiamo avuto la prima neve quindi
+buonasera marco buonasera buonasera allora confermo confermo la neve
+si balla
+bella giornata di neve o la puntata o
+cercato io di ispirare quale quale fosse il tema di questa puntata è che a me sta molto a cuore questa questa aggregato dei gay istinti è fatta di veterani delitti che chi più chi meno hanno almeno una ventina d'anni di esperienza mi chiedevo se questi veterani
+se questi noi voi che ascoltate abbiamo qualcosa da insegnare ancora questi giovani questa lettera al giovane ai developer o comunque giovane che inizia ora che cosa gli scriveremo quindi questa è la premessa dalla puntata personalmente sono diversi anni che io colleziono
+sono appunti articoli per un questo l'idea di un blog post che io volevo fare diretto a giovani quindi le cose che io ho imparato che mi piace mi sarebbe piaciuto sapere quando io ho iniziato quindi questo è stato lo spunto per la puntata
+avevo invitato oltre a marco che è qui grazie ad altri tre o quattro persone che però non hanno potuto per diversi motivi partecipare o magari parteciperanno nel corso della puntata ero comunque chiunque sia sintonizzato sapete che se siete parte della brigata da
+prima avete già partecipato potete saltare nella live quando volete altrimenti siamo in chat e vi leggiamo quindi se avete commenti ben volentieri ho domande
+marco marongiu siamo stati colleghi in un'azienda precedente opera software qui a oslo tra l'altro lui ha lavorato in un centro di ricerca in sardegna e poi ha lavorato per tiscali per diversi anni e poi si è trasferito a oslo ha lavorato per opera software per
+credo sei sette anni quasi sette e poi
+da lì
+ora lavori yarix steve è uno dei canali streaming più grossi norvegesi come sarri mi sono saltato qualcosa in mezzo
+digital se vuole non ho fatto tre lì come
+responsabile del settore it
+poi se son sparato rick steve che è un distributore di canali televisivi sostanzialmente e sia in via etere che vi astri
+per quanto riguarda me io ho partecipato a qualche puntata precedente quindi magari qualcuno avrà sentito comunque ho lavorato in italia per circa dieci anni in una piccola azienda eravamo all'inizio in tre sviluppatori poi nel duemilasette sono venuto qui in norvegia dove ho lavorato per opera per circa dieci anni
+e ora al lavoro in un'azienda che si chiama youth sempre come prima fattore backend e poi sarri per questa puntata mi piacerebbe che raccontassimo alcune storie
+della nostra esperienza tratta dalla nostra esperienza che ci hanno insegnato qualcosa o ci hanno lasciato qualcosa che ci hanno magari cambiato il modo di vedere il lavoro o addirittura cambiato la vita magari
+magari la vita un po' troppo ma che hanno lasciato il segno e che pensiamo siano sia importante trasmettere ai più giovani o comunque se non vogliamo essere così presuntuosi magari quello che ci piacerebbe aver saputo quando abbiamo iniziato secondo te abbiamo qualcosa da insegnare oppure no cosa dici io penso di sì
+l'importante è non dimenticarsi che anche quelli più più giovane come un'esperienza o se vogliamo anche in noi stessi e i venti trenta anni fa hanno ancora qualcosa da insegnare a noi che abbiamo fatto esperienza io personalmente per esempio tendo a volte a essere forse un po' troppo conservativo forse eccessivamente metodico il
+mio me stesso di trenta anni fa probabilmente sarebbe stato un po' meno magari si divertiva un po' di più e magari riusciva anche a scoprire delle cose interessante penso sia importante ricordarsi che è una cosa che devi andare nei due sensi su questo sono sicuramente d'accordo nel senso che per me una delle cose che sono più importanti
+sicuramente fare tesoro del bagaglio di esperienza che ho accumulato durante gli anni però senza diventare quella persona che non so se c'è un approccio nuovo ti dice no perché io sono venti anni che lo faccio così e non lo voglio sapere di chi di novità no so esattamente dove mi porterà
+la strada so che tutto prevedibile funziona eccetera questa cosa mi spaventa un po' nel senso se ti porta come dire a una chiusura che non è positiva secondo me e poi se in genere cioè io me lo figuro
+la situazione me la figuro come i vecchi admin
+nel mio la mia esperienza del periodo che abbiamo condiviso tra l'altro si esamini che la macchina dev'essere fatta dev'essere configurata a mano perché essi nuovi metodi di configuration management non li capisco e quindi troppo complicato per me è importantissima quella cosa lì quindi non voglio
+non voglio non vorrei ricadere in quel no
+mi terrorizza
+essere considerato una persona così quindi veramente però è vero se credo che credo che se vogliamo
+se non arriverà alla pensione sempre che ce la diano una pensione credo che sia obbligatorio continuare a evolvere perché se se fossimo rimasti entrambi siamo sulla stessa tecnologia sulla stessa metodologia che c'erano quando abbiamo cominciato non credo non credo che avremmo non so se avremo ancora un lavoro ma avendolo
+non sarebbe una cosa che almeno mi vedo nome non mi vedo come uno che potrebbe essere molto soddisfatto di quello che sta facendo se se fosse rimasto ancorato a quelle cose
+più che luca non non seguire
+in modi nuovi di fare il nostro lavoro penso più proprio a un'impostazione per per fare per fare un esempio io ho visto
+questa cosa ovviamente ne parleremo magari più nel dettaglio ma
+penso che a tutti noi adulti abbiamo un po' di esperienza sia capitato di trovarci di fronte a delle cose che sono state fatte in maniera approssimativa di cui si è persa la memoria perché c'è questa cosa cosa sta facendo magari un un sistema un servizio qualcosa che si rompe in continuazione nessuno sai
+perché
+zero documentazione zero o blog e poco poco informative essendo già rimasti scottati da questa cosa magari tendiamo a voler insegnare ai colleghi più giovani di noi che queste cose non vanno bene che le cose vanno fatte con un certo criterio
+questa cosa almeno nella mia esperienza a volte si scontra con una mentalità diversa quella che bisogna importante realizzare qualcosa l'importante è mettere su qualcosa velocemente velocemente certo
+a quel punto a quel punto diventava una convivenza che va costruita che andare allo scontro non serve a niente però non è neanche neanche bello diventare gli spazzini di quelle che vogliono andare veloce ti lasciano la loro uscita di spazzatura dietro come posso dire è l'impostazione mentale rispetto
+arrestata una persona magari con poca esperienza che è diversa e non tanto seguire certe metodologie perchè possiamo seguire sia da esterno che da meno esperti ma proprio il modo di lavorare
+costruire delle cose che durano quando è il caso di farle durare queste sono una cosa su cui penso ci si possa scontrare un pochino più spesso con persone meno esperte e sì sono d'accordo
+e mentre ne parlavi e a me veniva in mente promette il metodo di lavoro
+è qualcosa di naturale nel senso è naturale che uno che comincia io penso alla mia esperienza di quando io ho cominciato alcune cose ho avuto la fortuna di avere un capo o manager che avevo invitato questa sera purtroppo non è venuto spero che ascolti lo stesso ciao lucio mi ha
+plasmato un po' nel senso mi ha fatto capire
+allora senza voler
+peccare di modestia secondo me io ero brevetto brevetto
+oh mi mancava il metodo di lavoro ovviamente perché è lì in quella situazione sono stato fortunato a trovare un team soprattutto come ho detto mentore che mi ha dato quel metodo di lavoro e che poi alla fine se stringi consiste in alcune cose
+alcune di queste storie di queste lezioni che ho imparato velocemente nei primi periodi nei primi anni che ho iniziato a lavorare quindi da circa novanta fino al novantasette una delle storie che volevo raccontare aveva a che fare con una di queste lezioni che secondo me è stata
+prima che io ricordo viva me vividamente ed era quella a cui ho fatto riferimento nel mio post su linkedin dove presentavo la puntata di questa sera niente io lavoravo a quel tempo avevo iniziato a lavorare come descritto il sito dell'azienda atmel che non conoscevo quindi ho imparato
+da zero a catenelle ancora prima di essere appena prima di essere assunto sono arrivato in azienda
+mi hanno dato questo è il libro di jack atmel due zero studiate e vai è facile il sito da zero con questa e questi requisiti sarà stato all'inizio no insomma dopo un po' ho cominciato a fare sia catenelle un po' di grafica topshop e poi programmazione e
+un giorno è capitato io ero seduto alla mia scrivania e dietro di me c'era il muro quindi nessuno vedeva c'era un passaggio ma non c'era seduto nessuno quindi nessuno vedeva cosa io facevo mentre io avevo un po' la postazione del capitano kirk quindi potevo vedere cosa le altre persone facevano anche se non è che sta
+voli a guardare facevo il mio lavoro in quello in quegli anni quel periodo avevo cominciato a consultare questo questo sito web che si chiamava fra via york da una persona che si chiamava francesco vianello che non c'è più insomma aveva questo questo personaggio aveva accumulato una serie di
+di tutorial su cracking reverse engineering e tutte queste cose qua come cercare come cercare e trovare qualsiasi cosa sui motori di ricerca un sito fantastico e io l'avevo scoperto e ogni tanto al lavoro mi mettevo a guardare qua tipo non lo so una mezz'oretta così
+mentre io guardavo era in quel momento guardavo questa roba qua nell'orario di lavoro passa il mio capo passa lucio dietro di me cioè passa io lo vedo che passa e allora vado
+vado di alt tab no cambio la schermata e faccio finta che stavo facendo qualcos'altro lui passa pavia io cambio di no mi rimetto a guardare e per me non era successo assolutamente niente passano in due tre giorni e ogni mi pare ogni venerdì facevamo la chiacchierata su tipo stand up ma non era stata operata io e lui
+parlavamo di quello che facciamo abbiamo fatto nella settimana del venerdì e parliamo delle cose e poi alla fine mi fa senti cosimo ti devo dire un'altra cosa niente mi sono accorto così cosa io sono diventato rosso come un peperone e fama e cos'è che stavi guardando e gli ho detto stiamo
+stavo guardando questa roba qua perché è super interessante su ingegneri eccetera mi aspettavo di sentirmene di tutti i colori invece lui mi ha detto ma sa che sono cose interessantissime però non è che devi se io passo devi nasconderti no se stai guardando quella roba li stai guardando quelle robe lì devi mica per
+nasconderti no non c'è nessuna ragione per nascondersi il lavoro da fare fai quello e magari farsi un quarto d'ora vedi queste cose dopo ritorni a fare il loro lavoro non è mica un problema è lì è come se mi si fosse aperto un mondo no mosè che separa le acque io non avevo idea
+questa cosa mi ha talmente preso di sorpresa e che ho detto ma massima perché ha ragione no però nello stesso momento io avevo fatto una cosa meschina perché avevo nascosto no quindi quello mi ha insegnato così tante cose immediatamente in un colpo solo senso perchè tu devi stai guardando qualcos'altro
+sì lo facciamo tutti noi facciamo tutti magari vai a vedere twitter vai a vedere quindi perché nascondere no quindi l'onestà l'integrità no voglio dire che io ero disonesto però non avevo
+realizzato che anche in un ambito di lavoro poi per l'amor di dio non sono tutti come lui ha assolutamente magari novantanove percento dal resto delle persone avrebbe mi avrebbe trattato in modo completamente diverso però in questo caso è stata una lezione importantissima che io mi porto dietro da allora
+e sono queste cose qua no sense
+è il metodo di lavoro questa è una delle cose un'altra cosa per esempio è che io allora ero stato anche abbastanza fortunato a scuola perché avevo un'insegnante bravissima alle medie che aveva dedicato tanto tempo a insegnare come prendere appunti in maniera efficiente come come riassumere bene
+usare poche parole per esprimere concetti hanno insegnato veramente eccezionale però quando sono arrivato a lavorare la prima roba che è successa è che mi dicevano le cose e io non scrivevo niente allora sempre lui cosimo allora questo è il notebook tutto quello che impari ti iscrivi se non hai capito
+ito fai domande le domande mi raccomando fai una lista non chiedermi una cosa alla volta fai una lista alla fine della giornata vieni e discutiamo tutte le domande insieme cioè sono cose basilari che secondo me tutti dovrebbero cioè appena entri in un posto di lavoro dovrebbero dirti queste cose qua no
+segnati le cose non fartelo ripetere due volte se non hai capito chiedi qual è la tua esperienza la mia esperienza che i giovani non assolutamente non tutti hanno quel metodo di lavoro no non ho detto alcune cose non è che devono fare per forza quello che ho detto io ma fa parte del metodo di lavoro
+nel senso come uno lavora si lavora bene lavora meno bene
+oh oh buonasera alessandro un giorno che la sera direttamente dallo spazio
+dallo spazio dalla grecia in grecia se sono in grecia non per vacanza
+sono convocati io ti ho dato già in vacanza comunque non volevo interrompere il flusso prego
+prego
+entriamo subito nel flusso non ti preoccupare tutto bene no sì sì no tutto a posto ben trovato marco che è un po' che ma neanche tanto che non ci si vede però
+forse da febbraio volevo dire la mia sull'argomento la serata insomma prego prego prego pieno di è una delle cose fondamentali siano me che la maggior parte le cose che adesso impariamo studiamo che abbiamo imparato e studiato cosa nostra accademia informatica ha un po' di tempo sarà inutile forse no la maggior parte però
+raccontare sempre che
+quello che oggi importa domani non sarà irrilevante
+il domani questo è un dopodomani il cosa dipende è importante capire cosa di questo cosa è destinato a essere cieca senso ricordarsi cosa ci si può anche dimenticare un futuro che non vuol dire non studiarselo non applicarlo però è consapevole del fatto che molte delle t
+tecnologie parliamo
+zioni che impariamo oggi fra cinque dieci quindici anni saranno inutili non sarà necessario saperlo io faccio alcuni esempi che mi piace fare tipicamente i e che becky
+stucchi veneziani cose come comandi hayes ma cose anche come e chi mai attivit e cose di questo genere immagino qualcuno web conosciuto e usato in passato adesso assolutamente chiedere scusa come
+e hayes hayes
+atd
+dire il modo con cui esatto quella roba lì che ti serve adesso è totalmente inutile saperlo ma cose ormai
+ora ho ma certo che conserva però dov'è che illusi no si evitano in quale contesto lavorativo le utilizzi ma vi dicono più sintassi della configurazione di apache giusto per dire qualcosa cioè il server web più diffuso adesso come adesso in quanti casi in quanto occasione ti ritrovi a dover configurare quel
+le cose non sono e sono capaci quelli del master dei server web su cui gira la gran parte del del mondo interno ci sono cose che per quanto paradossale se ci si pensa un po diventano velocemente puoi anche vivere non dico che non devi saperli onde non devi studiarli dieci anni
+fa c'era un sistemista non sapevo più rapaci quindici anni fa
+però adesso cosa ti serve non ti ritrovi davanti a dover usare da configurare magari utili né quello configuri senza saperlo cliccando su qualche blog di qualche altro bug o un qualche configurazione di terraforma però la sintassi la copertura pace nessuno pensa
+uno stille una conoscenza che non ti non ti serve solo un po' provocatorio però per farvi un esempio un po' evidente e altro canto ci sono altre conoscenze che sono imprescindibili no i protocolli sip le basi di programmazione le logiche non so degli algoritmi quello
+ci sono e resteranno probabilmente resteranno sempre bene saperle sono coprire la piccina come l'inglese o bisogna sapere le basi di networking quando si lavora con internet e va bene ma su altri aspetti io vedo notato che un sacco delle cose che nel corso della mia vita informatica ho studiato e ho appr
+fondato di cui ero esperto adesso chi chi chi ti servono tecnicamente lavorativamente non servo che dici marco di questo
+ho anche cosimo de la butto lì ma dico che è assolutamente vero abbiamo forse accennato in maniera tangente questa questa cosa poco fa mi hanno detto che non può rimanere ancorato alle cose e agli strumenti che usavi vent'anni fa
+oggi probabilmente non avresti neanche più un lavoro
+quindi quell'aspetto c'è sicuramente un po' una non so
+usando una parola un po' desueta è una questione anche di povertà se voi nel senso che bisogna essere spende tanto per acquisire certe competenze che poi a un certo punto non ti servono più devi avere il coraggio di lasciarli andare per acquisire quelle che ti servono adesso quindi ed è qualcosa che può accostare perché se sei
+la sparo grossa ma per farmi capire che sei diventato qualcuno su un certo argomento di questo argomento non interessa più a nessuno ma partecipo essere una sorta di valore affettivo ti costa non essere più l'esperto di quella cosa che conoscevi così bene però bisogna avere il coraggio di lasciarla andare e di continuare a
+evolvere insieme alla banca su cui stiamo su cui lavoro quindi la chiama povertà se voi secondo me è verissimo
+per esperienza personale io avevo fatto da quando ho iniziato a lavorare nel novantotto novantasette novantotto
+ho cominciato questo
+azienda italiana abbiamo cominciato a lavorare in perl facendo i primi sistemi web con sigil hai addirittura cioè per i successivi dieci anni ho lavorato sempre con pearl va beh alcune altre cose tipo c d eccetera però la maggior parte era sviluppo web
+trovare in opera sempre grazie a perl
+che ho trovato quel lavoro questo lavoro in norvegia più continuato a lavorare per con sistemi grandissimi con cinquanta milioni di utenti una cosa inaudita per me era assolutamente fantascienza poi a un certo punto mi hanno proposto di lavorare su un sistema completamente nuovo da zero che non mi era mai successo
+esso prima phyton anzi no veramente era un sistema che noi potremmo decidere come quello che volevamo ed eravamo in tre nel team sarà duemilatré duemiladodici e nella nel team nessuno sapeva tranne me quindi ho ai ragazzi a picton facciamo filtri
+niente in in retro retro come si dice retro insight come si dice in retrospettiva è stata una decisione importantissima per me perché altrimenti sarei rimasto stagnante in quell'ambiente lì mentre invece andando verso un altro linguaggio
+certamente diverso mi ha aperto diciamo alcune poi c'era questo atteggiamento ma a picton picton bello e figo picton che è tipico di tutti quelli che sanno una roba sola e l'ho fatto anch'io anche quella è una cosa che a me piacerebbe trasmettere a chi inizia se se
+cominci con un certo linguaggio non ti fossilizzare sempre lì o diventi esperto a quello ma tieni la mente aperta ad altre possibilità perché sapere almeno due linguaggi bene secondo me ti apre
+la mente anche se so sapevo questo linguaggio benissimo adesso nessun altro bene che ci vuole tempo ma poi il terzo non sarà poi così problema mentre se uno fa girava tutta la vita rimane lino e una cosa che potrei raccontare questo proposito un proprio un un'occasione persa se vogliamo vai
+stavo cercando un stavo cercando un altro lavoro non dico da quale azienda stavo cercando di scappare ma stavo cercando un altro lavoro
+a un certo punto mi ha incuriosito molto un'azienda che è un'azienda piccola qui della zona di oslo è un'azienda di consulenza che per me era già una cosa eccezionale perché
+se guardo a me stesso non mi vedo molto adatto al lavoro di consulente però l'azienda sembrava una azienda in cui questa esperienza l'avrei anche potuta fare l'azienda mi piaceva quindi ho fatto due o tre colloqui ora non ricordo
+penso siano andati anche molto bene e aspettavo la risposta a un certo punto la persona dell'azienda che stava gestendo il processo era un tecnico mi ha contattato e mi ha detto guarda ci sei piaciuto molto però con le tue conoscenze in questo momento non avremmo nessun progetto su cui
+su cui allocare dovremmo farti imparare qualche altro linguaggio di programmazione e non ce lo possiamo permettere perché siamo un'azienda piccola quindi mi dispiace non possiamo prenderti
+come dire uno non ci sta bene sei bravo però uno non ci resta molto bene quindi si
+sottolineare quello che hai detto tu cosimo è importante per quanto bravo puoi essere non fermarti a quelle cose che conosci bene perché magari erano perfette per il periodo in cui le ho imparate ma andando avanti magari il mondo evoluto anche in un'altra direzione quindi conviene anche vedere cosa c'è
+d'altra parte però è dura è dura o se se tutto quello che tu facevi a occhi chiusi improvvisamente devi cominciare e ricominciare da zero reimparare tutto però
+come detto alessandro prima è una costante del nostro mestiere le cose che sapevo quando ho iniziato o addirittura che mi hanno insegnato a scuola già quando arrivi sul lavoro è completamente diverso poi figurati cinque anni dieci anni dopo ho venti anni dopo genere io dico i titoli che ho avuto tipo
+ricchi non esisteva no quindi c'è machine learning completamente nuovo ma se non ti tieni aggiornato interessato cose nuove è molto difficile o almeno che tu non fai una cosa tipo evergreen che poggiava poggiava
+diciamo che non è il mio ideale ovviamente rispettabilissimo però è bene avere qualche alternativa però allora alessandro quello che tu dicevi come si come si relaziona alla puntata di stasera perché tu dici
+le cose che abbiamo imparato in cinque anni saranno obsolete o comunque saranno diverse qua non è almeno poi magari manda una lettera lettera al giovane developer o meglio a me stesso di quello che anni fa studia quello che c'è da studiare come abbiamo detto tutti quanti e tieniti aggiornato va da sé che
+se non sei già stato in questo caso west marty due considera è quello che diceva anche marco che quello che per te è attuale adesso un futuro potrebbero essere non affezionarti troppo e lo dico io che sono il primo ad averlo capire questo concetto voglio farne però resta il fatto che è finora a buffet bar
+speranza per tenermi in piedi terzo
+quindi al netto della come dire le cose da studiare le cose da sapere le cose da su cui val la pena continuare a
+metterci energia un po' correlato ma un po' no
+a questa regola secondo me un po' particolare più ne sai e meno tolleranti un vero esperto è l'ultimo che fa il boosting quando inizia sempre qualcuno che dice io faccio solida magari è bravo magari leggo poi sostenuto però io in più grandi miti informatici sono stati anche tu e non vuoi
+deve essere umile a tutti i costi però
+come metodi per capire perché a all'inizio tu magari non sa alcuni argomenti che risulta più convincente chili afferma che afferma le sue cose in modo più convincente più assertivo più
+con più decisione il vero esperto a tanti dubbi come la classica leggi in fuga per cui più sai un certo argomento più ti accorgi che certe sono sfumature l'argomento e di conseguenza non dare non è bianco e nero perché il mio non é mai bianco e ci sono sfumature e anche nell'esprimere tiene le esprimere le tue
+posizione sette cose magari sei più cauto e quella cautela non vuol dire
+non conoscenza ma a volte vuol dire esattamente l'opposto e viceversa se questo è un po' un metro così a prescindere e
+poi altri suggerimenti al giovane me stesso è un giovane futuro
+ma a me amen è ancora correlato al discorso se prima non aver paura di buttarsi su cose nuove con l'umiltà del caso ma con l'idea che son tutte cose che possono anche se non so magari strettamente necessari un punto di vista lavorativo possono essere più utile a prescindere un po' imbarazzata esperienza
+mette tutto insieme tu ti accorgi io mi noto che più invecchio meno lavoro e più sono efficaci sotto certi aspetti ma almeno sul mio campo e nello stesso tempo mi sembra anche di rubare lo stipendio perché sono pagato di più per fare ripeto quindi da giovane ti sbatti di fai più cose più invecchi più magari cambia anche tipo
+lavoro comunque fa lo stesso lavoro ma in modo diverso ma ti sembra quasi di
+l'antico di rubare lo stipendio però
+perché comunque ti vengono semplici cose che dai per scontate
+altra cosa che quasi a me stesso di non dare troppo per scontate le conoscenze chiaro che a volte non lo sono a volte ti sembrano noto è semplice certe cose non è detto che sempre a tutti e non dar per scontato che lei sappia di conseguenza saltare il passaggio di doverlo spiegare e maremmi qui mi fermo per adesso è
+non so se ho espresso anche se sicuramente sì prima che tu
+appena quando è entrato nella puntata si parlava di metodo di lavoro quindi
+contatta una storia di quando io ho cominciato ho avuto la fortuna che il mio tm mio capo il mio mentore mi ha plasmato mi ha plasmato questa questo talento grezzo diciamo facendomi capire dandomi dei consigli su come lavorare meglio per esempio
+esempio prendere note prendere note non farsi ripetere le cose due volte se hai domande chiedi se hai domande magari di avere una lista di domande e poi alla fine della giornata ci rivediamo insieme parliamo vediamo queste sono piccoli esempi delle cose no
+tu hai quel che avete qualche esempio del genere su su quando avete iniziato il metodo di lavoro vostro qualcuno che vi ha detto qualche mentor che vi ha dato un modo migliore di lavorare o suggerimenti su questo stile qua vai marco
+ci sto pensando ho conosciuto
+ha stato molto fortunato a conoscere persone veramente molto brave a
+che per educazione così per l'educazione sono sono sempre stato abbastanza sistematico metodico rompiscatole quindi diciamo che magari se qualcuno ha una storia sul metodico dopo ecco va bene così adesso perché non è che devo essere perfetto per forza
+diciamo che ho ricevuto più
+sono stato considerato più precisino diciamo così che ricevere perché
+non ho veramente ricevuto molte molte critiche per aver fatto le cose un po' alla carlona casomai mi si rimproverava al contrario cioè di aver messo su troppo troppo lavoro per
+qualcosa che magari non valeva la pena magari una cosa di metodo se
+una cosa di metodo che ho imparato ma non perché me l'abbiano insegnato ma perché ci ho sbattuto il muso io era di cercare di non fare le cose troppo lavorare troppo in isolamento diciamo così
+cercare di essere un pochino più agile quindi avere delle cose che si possono mostrare evitare di fare un sacco di lavoro che poi alla fine non serve a niente
+quello l'ho imparato ma non perché qualcuno me lo abbia insegnato perché ci ho sbattuto il muso io magari spendi mesi e mesi facendo un lavoro pensando di fare una cosa ben fatta magari era anche ben fatta davvero ma insomma
+fai tutto come deve essere fatto produce documentazione
+fai tutte le cose per bene poi quando alla fine porti questa cosa perché venga utilizzata nessuno la vuole utilizzare perché di fatto non l'hai costruita quelli che l'aver dovuto usarla perché con quelli che dovevano cerbero dovuto usarla non si è parlato quasi niente hai fatto tutto di testa tua quindi questa sì è una lezione sulla sul metodo del lavoro che ho imparato ma purtroppo
+perché me l'abbiano insegnato ahimé ho ho sbagliato mi sono scornato e ho dovuto con una certa sofferenza anche capire dove avevo sbagliato e imparare dai miei errori dopo le cose le impari subito non ti escono più dalla testa
+non c'è un un verbo sardo che è intraducibile in italiano e sacramentale che è proprio questa questa cosa di fare un errore venire punito così tanto dal tuo errore che impari una lezione per tutta la vita non farai più quella cosa e allora allora su questo
+non sono alessandro serve qualcosa altrimenti io dovevo partire con una storia che sarà proprio a fagiolo
+vai vai pure allora scusate ma questa me la sono preparata e poi è arrivato proprio il momento allora
+dicevo ho iniziato fino a novantasette qua doveva essere circa il duemilauno credo avevamo lavoravo in un ha lavorato nello stesso periodo in italia c'erano i ced centro elaborazione dati una volta parliamo di
+paleolitico praticamente e io facevo parte ero stato assunto in questo ced erano persone che lavoravano su earp
+quattrocento in in-house quindi è tutto software fatto da questa azienda che produceva mobili nel nel famoso distretto della sedia
+dintorni di udine che era responsabile per la produzione di del quarantacinque per cento circa quaranta per cento al quarantacinque per cento di tutta la produzione di sedie mondiali c'erano migliaia di aziende dell'indotto dei mobili è quella in cui lavoravo io era uno che aveva la casa madre in germania
+quindi si trattava di produzione e vendita import export e il centro di questo centro elaborazione dati e il mio team si occupava non parte del quattrocento m della parte pc e tutti avevano workstation windows server novell network addirittura cari una volta di queste ce ne
+urliamo e quella era una cosa fantascienza però prima di windows nt comunque nel nostro team da circa un anno o due avevamo cominciato a fare sviluppo web questo sistema e perle stanno stavamo costruendo un framework web per intranet aziendali diciamo per
+farla breve è questa cosa
+era stata adottata internamente ed era molto popolare perché adesso bisogna spiegare il contesto ma quella volta la gente faceva girare applicazioni windows web era cora ti guardavano male quando
+poi soprattutto su linux addirittura comunque era giunta voce alla casa madre in germania che noi stavamo lavorando su questo framework web c'era una specie di rivalità sottotraccia diciamo rivalità silenziosa fra le due fra i due centri elaborazione no ma come gli italiani i tedeschi guardavano poi
+gli italiani con aria di superiorità no tesoro italiani casinisti come è possibile che questi stanno facendo sto framework
+sta internet che funziona fatto sta succede che come me la ricordo io i tedeschi vogliono avere una demo di questa roba qua vorrebbero avere un'installazione si decide di fare un viaggio andare noi in germania nella sede della casa madre e installare sto framework per loro
+che passa non so avremmo fatto tipo tre quattro due tre settimane di pianificazione no allora io ero quello che doveva fare un cd perché è ancora qui era al tempo delle linee se ti andava bene
+sessantaquattro capa altrimenti il modem a casa il modena quattordici e quattro eccetera allora io dovevo fa ognuno aveva il suo compito io dovevo fare sto di preparandoci di modo che noi arrivava arrivavamo là il server loro che hanno già preparato un server linux picchiavamo il cd dentro paio di domande per configurare
+bam doveva andar su tutto
+prima votano ovviamente il mio capo mi fa tutte le raccomandazioni cose
+test contro testo che hai fatto tutti i test che ho che partiamo una giornata di viaggio per andare in germania arriviamo la sera ci fermiamo in una birreria più rozza no e lì pianifichiamo la giornata dell'indomani quindi arriviamo avevamo il nostro ufficietto già pronto
+ci avevano fatto tutte le postazioni con rete ethernet
+e quindi noi dovevamo arrivare ognuno aveva il suo compito cioè chi metteva sulla rete chi faceva
+istruzione preparava e materiale per l'istruzione alle persone e ai colleghi tedeschi io dovevo fare un'installazione arriviamo la mattina caffè tedesco caffè nero tedesco e server ci salutiamo coi colleghi mi dicono qua ad osservare questo qua questo qua metto sul mio zaino apro
+zaino prenderci di cd vuoto c'era dentro nella plastica
+il caso xd non so se avete presente c'erano quelle plastiche sette vince il centro attore del cd ogni tanto si rompeva il cd scivolava fuori no allora faccio per andare a vedere nello zaino sarà scivolato no cerco cerco cerco niente xd non si trova e mi guai
+nella stanza i miei colleghi questi stavano andando a manetta kosovo stavano facendo l'errore robe io dovevo fare alle mie non è che mi diceva cosimo come va no tutti erano concentrati sulla loro cose perché dovevamo finire poi in mezza giornata dovevamo finire a fare l'istruzione e poi saremmo andati via il cd non si trova
+ova sono in uno stato di panico totale e sono completamente congelato chieti e adesso che cazzo faccia come glielo dico ai miei colleghi che il cd non c'è cioè cerco di nuovo magari era accaduto niente non c'è più nella fino a qua praticamente a un certo punto dopo due
+tre minuti di macerazione interna chiamo sempre il mio collega sempre
+capo lucio lucio c'è un problema ovviamente adesso rido ma ero completamente disperato poi figuraccia c'è tipo che che che mi avevano raccomandato no ovviamente però aveva raccomandato mille volte prepara tutto perfettamente non c'è il cioè per un attimo si fa
+fermano mi guardano cosa non è possibile sarà da qualche parte insomma passano dieci minuti non c'è il cd e c'erano sopra non so quanti mega tipo duecento mega di roba sopra che fai c'è in germania e che poi torni fai
+una giornata di viaggio per tornare giù è possibile allora lì è successo il miracolo c'è allora cosa ho imparato una cosa essere metodico no xd c'è dentro il cd cioè controlla una volta di più o no secondo insieme a noi c'era un
+consulente che tale carletto che io non ringrazierò mai abbastanza perché uno mi ha tirato fuori da questa situazione in modo miracoloso ma due era quello che ogni tanto veniva in azienda e quando arrivava lui lui era cioè praticamente tipo più di me adesso no venti anni di esperienza
+tutti i tipi di unix possibili e immaginabili c'è faceva di quella roba ufo e ogni volta che veniva nell'azienda ero attaccatissima perché avevo appena cominciato e imparavo come una spugna da lui sto qua met allora è andato in giro a raccattare modem isdn dappertutto dove li trovava ne ha messi due o tre
+parallelo linee isdn a centoventotto capo ha creato una vpn appunto al volo con tutti e tre i moduli in parallelo per ciucciare giù il cd che abbiamo telefonato ed era rimasto nel mio computer
+attaccato messo il cd su un server di rete con novell mappata al drive in modo che fosse visibile poi fai la connessione insomma in tipo due tre ore il cda era stato scaricato e quindi abbiamo potuto quindi quali sono le lezioni che da una roba del genere
+uno si controlla tre volte no stai per andare in germania porca miseria sto cd c'è dentro no quindi essere metodici in tutto quello che si fa questo sicuramente c'è una lezione così non te la dimentichi mai e poi sto qua che porca miseria cioè voi vorreste imparare qualsiasi cosa
+osano che ha fatto una roba miracolosa che io non avrei neanche immaginato che si poteva fare quindi se
+come dire ebbe la storia ma infatti si ricollega un po' quello che vuoi raggiungere il discorso di marco e metodicità non dare nulla per scontato o valutare sempre quali possono essere gli effetti delle cose che si fanno e se non si sanno quali persone sugli effetti chiedere e non sperare che vada tutto bene
+e questo vale
+stia suoi programmi sia sud gestisce i sistemi sia serie di free copyright management cloud incastra sul cassettone cloud qualsiasi cenge che introduci oh sai cosa stai facendo e ti rendi conto delle potenziali effetti ma anche se pensi di sapere di tutti potete potenziali qui pensaci due volte prima canzone
+gli effetti collaterali che non ti immagini poi sono quelle piccole cose che possono fare se base di una serie di eventi che questo disastro in poi e poi esatto baluginio sentire e quindi metodicità nel non dare nulla per scontato pubblicare lo sapevo che parte stare così che sembra
+un'altra però è vero e poi valutare l'impatto delle proprie innovazioni palpa due applicazioni lo puoi sapere incompleto sono abbastanza consapevolezza e la tua infrastruttura tuo codice nel tuo mondo ma se non lo sai perché magari sei nuovo perché non sei abbastanza esperto per
+questo motivo se hai dubbi chiedi se pensi a ho qualche dubbio che questa cosa qua potete avere questa cosa qui chiedi a chi può saperlo perché è meglio chiedere che far disastri dopo in perù e per scusarsi dopo per il pratico fa e se non sei quello che a cui gli altri chiedono e non hai nessuno a cui chiedere se
+serie a quello che chiedono vogliono interviene abbastanza consapevolezza e conoscenza sulla tua infrastruttura e su quello che fai da essere un'autorità del caso e poter dare un'opinione come
+ma abbastanza consapevole se anche tu sei nel dubbio costa da signori e test che produce il testo è beccata la differenza fra disastro è l'autore di coglioni una parete quindi se hai una cosa in due testi in pre-produzione questa cosa se si comporta come aspetti poi in una band
+discorsi su quanto sono allineati gli ambienti le cose però tostare imprescindibile e io mi sono accorto in effetti che è tato testa non vuol dire necessariamente united states e senza stress integration test fatti compiuti al cento per cento correre semplicemente essere sicuri che quello che sta in
+producendo come cambiamento è un qualcosa che hai verificato validato possibilmente una condizione il più possibile allineata a quella della produzione e questo è quello che fa la differenza spesso fra chiama rottura di palle io sono il primo a dire che intessono la tua coglione francamente the però sono necessari e ripeto sono spesso
+sso quella che fa la differenza tra un disastro e un dipinto o una scocciatura rifare certe modifiche certe cose quindi mi sento di poter dire che questo può essere un suggerimento che ha senso fare soprattutto l'idea del non penserebbero l'arroganza di dire beh ma trovo sta cosa qua quello
+che succede succede cosa potrà mai succedere perché quello che potrà mai succedere trovo poi mai immaginare e anche più banalmente no cose banali tipo fare il production manager per dare il mio fai una cosa banalissima per me mamma per chiunque ci lavora un po' di tempo baiona modifica un fan di conversione che per te è rilevante anche un commento
+se il tuo volto e infrastrutture il tuo sistema quando c'è un cambio di cooperazione risata un servizio tu al momento in cui il momento in cui abiti quella cooperazione c'è un servizio riscattato se un servizio che ti puoi permettere di scattare in produzione durante normale attività va bene rischi magari che sono state servizio sono dieci minuti cinque servizio
+di di interruzioni di servizio minuti di interruzione di servizio che non è bello anche per una modifica triviale no tipo un commento aggiunto così per dire qui non dare nulla per scontato così come la musica sembra banale che però magari introduce un errore nella lista per il servizio cambio un fan di configurazione un errore di sintassi fa di cooperazione
+che magari non ti sfugge ma anche un un carattere non visibile di quelli ed ossa che non vede nel filmato con un meno clienti prezzi tipico quando poi in susa tastiere varie quella roba lì se ti sfugge e badare più sfuggenti benissimo ottima buona fede se non esistono
+ma è un problema che ti ritrovi quindi non dare nulla per scontato vuol dire poi di fatto sono in grado di poter acquistare tutto e va da sé che poi l'automazione in queste cose e quaranta cosa in un'ottica di automazione in consiglio però me stesso dal giovane al vecchio chiunque automatizzare va da sé che una corona processo
+che porta via tempo ma si va spesso a fare in fretta la cosa amano che automatizzarlo è ovvio ed evidente che automatizzare ti comportassi i vantaggi nel lungo tempo fatto di poter riprodurre la stessa cosa velocemente in modo automatico consistente tutte le volte che vuoi ma c'è di più per rendere l'automazione
+immediatamente efficace e utile quello che io dico sempre tu guarda quali sono le attività che ti portano via più tempo manuali quando iniziano a organizzare con script banale buttare una cazzata uno script che vuoi lanciare che fa quella cosa che invece dovresti fare a mano poi il singolo scritto un giorno diventerà in lost
+con una pipeline di federation il singolo tess diventerà uno step di qualche automazione che poesie di questo sistema di orchestrazione il
+visione finale magari mi mette insieme dopo se però iniziare a valutare i singoli step che poi magari mi fai dinanzi tu ancora a mano però una cosa è fare a mano una serie di sequenze di comandi una seria attività una cosa amano lanciare un singolo quando soprattutto per te e poi quel comando un giorno diventerà appunto qualcosa che è automaticamente
+bene eseguito tutte le volte che vuoi in questo modo questo pezzettino per pezzettino automazioni più complesse che portano via tempo ma nel frattempo il processo di costruzione già da subito dai risultati è un po' naif come approccio però suo nome efficace in genere non stop tra il giovane prematuramente ma anche per il senior budget ma
+anac o ai team coordinator approcciare grossi progetti di automazione è evidenziato prima le attività che portano via più tempo automatizzare quelle e iniziai a farle modo semiautomatico e poi che piano hai la grande visione con tutti i crismi con tutte le orchestrazioni l'automazione
+sono un po' naif su questo marco e cosimo voi che siete esperti
+certo a livello
+sarà
+c'era un commento che volevo fare riguardo al punto all'essere metodi calpestare tutto e così via perché con cosimo abbiamo lavorato nella stessa azienda magari non vicinissimi per lunghi periodi di tempo ma andiamo
+penso che abbia avuto l'occasione di vedere quanto posso quando posso essere pignolo se vogliamo dirla così poi qualcuno non lo sanno non voglio fare polemiche con
+con qualcuno che mi ha rimproverato perché secondo me molte di quelle persone in realtà erano delle
+nelle persone che non avevano nessun metodo di lavorare quindi giustamente io ero un un elefante per loro ma comunque c'è sono
+quello che volevo dire che sono molto d'accordo con punta per avere metodo pensare alle conseguenze che possono esserci quando si fanno le cose testare così via e in in certi ambienti questo è imprescindibile
+però ci vuole secondo me anche la capacità di saper leggere l'ambiente in cui ti trovi e questo l'ho scoperto solo di recente diverse volte dove sto lavorando adesso io avrei voluto fare le cose appunto in quel modo per passare ma cosa vai a cambiare pensiamo un attimo cosa succede se facciamo questa cosa se fare questa cosa magari si rompe quello
+oh non sappiamo cosa succede dopo e trovarti come come risposta ma stai tranquillo se quel pezzo si ferma non è un problema se può fermare anche mezza giornata non se ne accorge nessuno ma non nel senso che siamo a posto nessuno ci vedono nel senso che sì quel prezzo è importante ma se n
+non lavora per mezza giornata non è che fai dei danni non è che il cliente ha un problema dopo perché il lavoro che non ha fatto per quelle quattro ore poi lo recupera appena lo riavvii proviamo direttamente a fare questa cosa senza dover fare grandi piani la proviamo se funziona allora siamo a posto se non
+vediamo cosa ne so un record dns siamo tali e quali a com'eravamo prima riaccendiamo questa cosa siamo a posto per me diciamo che era un po' difficile da accettare perché io sono abituato a lavorare più dal modo in cui ha descritto alessandro cioè di fare vuoi sapere dove si sta andando ad avere un'idea di dove si sta andando quando quando
+quando si comincia a fare un lavoro piuttosto che provare però bisogna anche
+proprio noi che siamo un pochino più fossili e un pochino più sistematici avere anche la capacità di leggere l'ambiente cui ci troviamo è capire quando sono quando siamo in una situazione dove
+questa questa sistematicità questa questo lavorare in quel modo lì in realtà non ci sta rendendo un servizio ma ci sta ostacolando magari rischiamo di impiegare una settimana per provare una cosa che potremmo provare in mezz'ora e dopo mezz'ora avremmo capito se valeva la pena di continuare a farla oppure no e questo penso che sia
+una cosa che abbiamo da imparare dai dai più giovani che sono più istintivi ma penso anche a marco trenta anni fa per esempio sono cose che possiamo imparare dalle persone meno esperte che avendo molta più fretta di noi avendo avuto meno meno cicatrici di noi se vogliamo
+si prestano di più a provare le cose quello che manca allora
+siamo abbastanza complementari perché quello che manca loro è lo schieramento come ho detto prima in sardo cioè l'avere avuto la l'esperienza la brutta esperienza che ti insegna a non fare certe cose però allora hanno visto l'effetto di provare a fare le cose velocemente quindi si d'accordo con con alessandro ma facciamo attenzione a guardarsi intorno a cap
+quando alla fine conviene muoversi una maniera che per noi non è molto naturale secondo me importante dannosa c'è lo stesso sono abbastanza arrembante anche adesso e su certe cose o meglio pragmatico per come mi piace pensarlo anche in ambito enterprise dove tra l'altro il cengia talvolta alcune cose
+così è rugginoso da diventare insostenibile
+il punto è sempre capire qual è fino a dove puoi spingerti fino ad ora dove l'eventuale breve di servizio su un servizio di cinque minuti che ti può salvare risparmiare settimane o giorni di lavoro e praticabile è possibile purtroppo più le aziende sono grosse più questo edificio
+perché poi vuol dire prendersi responsabilità che non vogliono che tu ti premiano anche se mi fai a fin di bene o a fini di ottimizzazione ludica ottimizzare il processo e così via ed è un paradosso perché a volte magari ci sono soluzioni veloci e puoi fare su certe cose anche in intraday a volte anche in situazioni di emergenza situazioni problematiche in cui
+c'è un disservizio esistente devi seguire magari un processo per fare una modifica anche un restart di un servizio vediamoci ristampando riavviando la macchina totalmente funzione
+una macchina diventa impensabile
+però fai due più due sai una situazione in cui nessuno sa come raccapezzarsi
+val la pena provare a farlo capire la macchina che vi porta in cinque minuti e magari soprattutto gustare a fare riunioni decisione così via ed il problema spesso è quanto tu vuoi rischiare di tuo perchè se ti si accettino le procedure stai tranquillo non stai schifo magari c'è un disservizio due ore non hai fatto
+nessun cliente se provi a fare qualcosa che è esatto se poi la pasta cosa che magari va fuori la regola fuori la procedura però potenzialmente efficace e risolve il problema in una frazione di tempo ti premier rischi e non è detto che ti prende gli onori e francamente non ho suggerimenti non so neanche
+una questione di esperienza o altre questioni fosse attitudine o di vico anche fosse quante volte l'ho presa e di conseguenza
+se più o meno restio a rischiare tra virgolette io personalmente spesso tendo a essere
+appunto
+guardare più il risultato che la procedura però mi sono anche accorto che a volte è meglio dire va bene hai segue il processo e non rischiare perché poi rischi di
+comunque sono decisioni che non ti competono e anche a per la grande azienda è meglio che tu abbia aspettato due ore preso il problema che abbia rischiato e risolto proprio ciclo anche se poi la si risolve in cinque e quindi dice è vero se è così e io mi adeguo e questo era l'andazzo è questo forse un supereroe essere cambiare ambiente
+lavorativo perché alcune alcuni colleghi che io conosco si sono trovate in queste situazioni praticamente si parla di finanziare banche educazione finanziaria processi kafkiani per dove poi le cambiamenti cambiamenti di configurazione perché così non scatta tutta la procedura
+controlla bene se uno vive meglio se se se ne va va a cercare altri abbiamo tante cose sul piatto dipende da tanti fattori però se non personalmente se devo suggerire vuoi l'avrai una startup agile o tu già
+giovane informatico che inizia la carriera è un'offerta dalla grande azienda è salva pagina e poi oddio dipende magari una gioia dall'azienda stock options e tutto quanto poi il miliardario accadrà quindi magari non vorrei dare suggerimenti deleterie per
+ci sono separati
+e comunque dovrai sicuramente più opportunità di imparare di sperimentare qualcosa
+sono divertente e un consiglio lo posso usare
+quando a lavorare lavorare in sardegna e una un'avventura diciamo così un po' diversa rispetto all'italia continentale credo perché è un'isola e gli isolani come i sardi come penso anche i siciliani
+per per per gli isolani non è la stessa cosa come dire uno che è nato a roma si trasferisce a milano penso che abbia la vita più facile rispetto a uno sono nato a cagliari deve trasferirsi a milano si salda al mare non basta prendere la macchina e farsi sei ore di macchina che si torna a casa e me è una cosa complicata
+molte aziende che sono in sardegna lo sanno e lo sfruttano e sardegna presunta c'è anche poco lavoro quindi però detto questo ho detto che la situazione lavorativa l'occupazione della sardegna è quello che è
+uno si trova a guidare per andare al lavoro e arrivando vicino al posto di lavoro e cercando parcheggio discendono lacrime dagli occhi letteralmente li è veramente meglio trovarsi un altro posto perché non può finire bene quindi non so neanch'io dare consigli se è meglio andare all'inizio in una startup
+o in una grande azienda o non lo so però trovandosi a lavorare trovandosi in una situazione che in pratica non è una sofferenza già non sarà un lavoro ma arrivare al lavoro come ha detto cosimo un pensiero di cambiare ambiente lavorativo bisogna farlo costi quello che costi perché non è chiaro che non sai cosa vai
+trovare dopo ma sicuramente dove sei non puoi sopravvivere sante parole e mi collega questo è meglio lasciarsi sempre e comunque dietro anche in posti di lavoro in cui abbandoni perché non c'è cancella la club degli amici piuttosto che gli amici anche se poi magari ti sembra banale della banale e scontato però non del tutto cioè anche se
+poi magari vuoi scappare una azienda non vuoi più rivederla comunque per come la vedo io possa mai indole o meglio sempre cercare di lasciarsi in qualche migliore possibile e non è mai escluso che le stesse persone con cui hai lavorato oggi ti ritroverai a incrociare in futuro e credo che valga per molti il lavoro che hai oggi sono
+anche il risultato delle coscienze che ha avuto in passato rating con networking che si è fatto in passato quindi conosce qualcuno che magari ti introduce un'altra azienda non è mafia non è come dire clientelismo cosi questo genere semplicemente rapporti con persone in un momento in cui magari tu sei c'è un tuo amico una persona con cui lavora
+in passato chi lavora in azienda che cerca persone se ti conosce sa che pensa la persona giusta dice te lo dice poi ti segnala la re
+poi magari assume quindi comunque in genere
+nel corso della carriera informatica di tutte le barriere delle persone con cui lavori è di fatto diventano loro per prime quel momento durante persone che incrocio tra l'attività lavorativa ma i tuoi colleghi in primis niente tuoi capi magari
+diventano persone con cui potessero incrociarsi nel tuo futuro e quindi sempre meglio tenere buoni ormai tu sei e ti dirò che da diverso tempo
+scrivo dato adesso un po che non lo faccio ma devo riprendere i post in cui ringrazio colleghi precedenti per alcuni episodi che sono successi che sono rimaste con me e voglio dirvi grazie per quelle cose che sono successe per esempio se posso scrivo non voglio monopolizzare ma
+qua di storie ne sento sto sentendo poche valsa contribuiscono con un'altra io questo è successo credo duemiladodici circa che era da circa un anno che io mi occupavo del sistema di autenticazione centrale di opera quindi questo sistema e a quel tempo credo
+venti o trenta milioni di utenti incastrato dentro un sito di community che si chiamava mai opera ci ho messo circa un anno per fare diverse cose una di queste estrarre del sistema di autenticazione da questo sito di community e farlo diventare standalone per aver fatto eccetera
+con percorsi master master roba abbastanza secondo me è di buon livello un bel lavoro diciamo abbiamo fatto un sistema di immigrazione database e avevamo introdotto metriche stats di quella volta credo fosse più per nuovo una cosa comunque diciamo modernizzare
+tutto il progetto e quindi alla fine di quest'anno di lavoro avevamo fatto una mega
+tra migrazione di database dal dal vecchio al nuovo al volo una cosa fantastica proprio quella è stata una delle cose che mi hanno dato più soddisfazione per l'immigrazione in volo tra database diversi insomma dopo tutto questo lavoro io mi sentivo c'è bellissimo progetto figo rifatto tutto il codice
+nuovo un giorno e il mio manager mi dice guarda cosimo abbiamo abbiamo assunto un nuovo ragazzo giovane e bravo bravo bravo
+dimitri dimitri adesso nel tuo team quindi insegnargli tutto perché poi
+sa potrà essere lui quello che gestisce il progetto allora dimitri comincia a dare un'occhiata tutto quanto no io gli spiego tutte le cose allora io dico che se ci sono domande fammi sapere no puoi intanto ti do i primi cose che puoi fare per progetti i primi miglioramenti e centrimetri sparisce per una settima
+mana non si vede non lo vedo per una settimana in ufficio è praticamente mi chiama cosi possiamo una cosa che praticamente mi punta in alcuni posti del codice è praticamente c'è mi ha detto cosi
+codice fa schifo ma come mai c'è possiamo per favore possiamo migliorare sta roba qua che proprio fatta da cani cioè tutte cose così no io mentre ascolto che lui vi dice queste cose rimango pietrificato completamente no poi la prima reazione che mi viene di ma come ti permetti no tu
+sei appena arrivato dopo sono lì che sono un anno che lavoro a sta roba che prima era un cesso totale no adesso è fantastico mi arrivi tu che non sai niente e mi dici starò qua mi ha fatto infuriare no ma questa è stata una delle esperienze secondo me più significa
+attive che ho mai avuto nella mia carriera adesso cioè dopo diversi mesi mi è venuto ho realizzato che per lui quella una cosa che lui non aveva idea di cosa c'era prima di cosa c'era un anno prima che io l'ho preso in mano perché se lo avesse saputo magari avrebbe potuto capire qual è stata l'evoluzione
+questo si riallaccia un po' a quello che avevamo detto prima che ogni tanto si perde la memoria di alcuni progetti la gente si chiede perché le cose sono come sono e non lo sa che è una cosa importantissima che ci sia qualcuno che ha la memoria storica delle cose alcuni casi può essere anche male ma in genere il problema è che nessuno sa perché
+c'è e quindi la gente arriva e dice è sta roba qua cesso perché così dovrebbe essere no perché non c'è
+l'ultimo framework
+javascript perché usiamo ancora sta' roba di un anno fa non sapendo qual è la storia dietro questa cosa il fatto che lui che tra l'altro bravissimo ingegnere molto bravo siamo molto amici ancora ci sentiamo ha avuto una capacità di portare il progetto dove magari io non avrei potuto portarlo a int
+prodotto cose completamente nuove cioè mi ha dato una sveglia no per dire non perché quello che io ho fatto secondo me è buono non vuol dire che non possa essere migliorato di più certo magari lui io poi gliel'ho detto per persona abbiamo parlato di questa cosa qua anni dopo ho detto se magari sai potevi dirmelo in modo di
+invece di dire astrologa fa schifo ovviamente anche lui era molto giovane ma ma l'idea che qualsiasi cosa che tu
+e questo vale per la propria persona no qualsiasi cosa che tu vedi per esempio quando entri in una nuova azienda ma non ti sognare neanche di arrivare il primo giorno di scuola ma sta roba qua fa schifo perché facciamo cioè sei un cretino se fai quella roba li aspetta guarda come sono le cose capisci qual è la storia delle cose e
+poi dopo che sei lì da tre mesi e vedi che per esempio sta pipeline jenkins è sempre rotta non funziona ragazzi diamoci una sveglia mettiamolo posto non lo puoi dire al primo giorno questo è stato un cambio di ottica completamente importantissimo no non so avete avuto esperien
+simili per me è stato
+un classico è un classico dell' informatico console ken
+nato così da arrivare sul posto una nuova infrastruttura nuovo posto di lavoro prevederà tutte le magagne che ci sono
+ed è un classico perché perché appunto le infrastrutture la loro storia certe cose non sono lì per un certo motivo storico ed è vero che è detto quindi non devono essere gestite cambiato migliorato anzi la vista esterna è molto semplice importantissima e rende molto più semplice
+l'approccio con dice ma com'è questa roba qua non ha senso essi non avrà senso però il cosa così però in realtà magari appunto avrà senso sulla pagina certo old school pregresso storico ma nello stesso tempo ciò non toglie che puoi rifarla con ottica è molto più ottimizzati giovanni contatta perché
+magari le cose sono cambiate le condizioni sono cambiate è rimasto un debito tecnico che non è stato mai sanato altre priorità altre cose o magari si è sempre fatto così si è abituati così si va avanti così e di conseguenza non si sta cambiando e l'ha affermato alcuni il nuovo arrivato che di natura buone erbe
+si sa qualcosa giustamente magari evidenza certe cose è effettivamente un po' come dici te c'è una dicotomia da un lato c'è una storia così va rispettato e quindi ci sta che tu appena rubato non puoi giudicare un'infrastruttura satellite infatti non va massima in giudizio
+c'è poi un problema nostro informati ginocchi cos'è sta merda così capita utilizzato questa cagata prima no assets
+c'è sempre no gli altri sono tutti cazzari nessun problema
+c'è un vizio veramente purtroppo comune d'altro canto quindi da un lato c'è questa vacanza ingiustificata e ingiustificabile perché non sapevo nulla della storia delle infrastrutture d'altro canto è anche vero che però una vista una visione distaccata del problema e magari ti da questi di davide soluzio
+toni più più sane che semplicemente per una alcune luna in cancro elemento della visione delle infrastrutture così via chi ci ha lavorato fino a quel momento non ha voluto o no non non ci ha pensato se ci ha pensato ma ha avuto poi la cosa metterci mano quindi è ancora dicotomia e ci sta tutto ci sta il nuovo carrie
+dice per migliorare e ci sta il rispetto della storia tra virgolette per esempio io a tutti i nuovi che arrivano dico glielo dico esplicitamente guerra tu sei in una posizione perfetta per dare suggerimenti su cose che magari hai fatto prima no per vedere le cose che non funz
+fiona quelli che sono qua da cinque anni magari non vedono più e quindi li metto in guardia su questo però sta attento di non è che arrivi il giorno dopo a questo la lista delle dieci cose che non funzionano devi avere un po' di umiltà nel senso cerca di capire prima come le cose
+funzionano non è però importantissimo a quella visione liti di chi arriva dall'esterno è una delle cose più preziose che ci sono però allora uno può prendersi le note capire un po' come funzionano le cose e poi con calma e anche secondo me un gioco di mio personale percezione ma la gente deve imparare a capire chi sei
+allora se tu arrivi con la maturità arrivano un po' tutte queste cose che uno giovane arriva può spaccare il mondo no ah io so fare tutto quello che so fare gli altri sotto i cazzari no però quando hai venti anni di esperienza ci sei passato già diverse volte in quel ciclo lì quindi se
+più sicuro di te stesso non devi dimostrare niente a nessuno magari no quindi quando arrivi in una nuova azienda entri ma senza dover spaccare il mondo perché se la gente ha assunto un marongiu assunto franceschi o la commissione fatta una commissione lo sa chi sei no ne capiscono niente
+mostrare dopo venticinque anni di t che sai programmare quindi non non c'è più tutto questo bisogno di dimostrare e secondo me le cose arrivano meglio senso che la gente impara a come dire a darti fiducia a capire come lavori e darti fiducia e poi da lì le cose cioè se
+poi hai una certa reputazione all'interno di un'azienda e tutto diventa molto più facile a un certo punto dopo sei mesi dici ma questa pipeline allora
+ho capito funziona così così però certe cose non funzionano guarda l'ho fatto nella stessa azienda precedente ho fatto esattamente questa cosa qua andrebbe benissimo no nessuno ti dirà di no impossibile no perché hanno capito come lavori hanno capito che competenze hai
+tenderanno a fidarsi di più ma questa è una cosa che nemmeno io ho visto devo dare un po' di tempo no in una nuova azienda devi sempre dare un po' di tempo prima che all'inizio nessuno ti da tre lire e dopo dopo però magari se sei bravo hai più carta bianca quindi per quello io girerei secondo me della mia esper
+renza di prenderla con filosofia e calma quando si arriva in punta di piedi senza toccare il mondo adesso poi ovviamente io ho fatto tutti questi errori quando comincia il discorso da davvero rami
+con calma quella con filosofia giallo
+volevo far vedere tutto a tutino che poi diventi quello antipatico tè normale ma chi è poki in linea con quello che si diceva anche prima ma più cerchi tu pensi più cerchi di dimostrare qualcosa più sei nemmeno sicuro di quello che sai o meglio e non si vuole te stesso in qualche modo in
+vero espertone difficilmente deve dimostrare dimostralo la parole non alla necessità di chi lo fa coi fatti e non ha neanche bisogno di imporsi come dire ho fatto questo ho fatto quello fatto beh dipende dai racconta seduto quanto però ripeto io i grandi miti informatici più
+son grandi più sono ultimo e poi magari c'è un sacco di gente ma a volte mi ritrovo anch'io a fare sulle cose in cui non son sicuro sulle cose in cui non penso di avere il riconoscimento che il principe per avere faccio quello che hai fatto cosa ho fatto ho provato
+sono il primo a
+avanzare dove non dove non mi sento all'altezza poi alla fine comunque qua cosimo quando va bene stiamo parlando io e te soprattutto te e marco parla poco invece marco dovrebbe essere quello che ha maggior diritto di parola ma abbiamo però detto scusa che
+uno non è che devo entrare
+eh eh eh tu se ce la fatta
+non è che voglio fare quello che è l'unica persona intelligente che si trova qui insomma no altri sono tutti cazzari esatto stare
+voglio dire finirà che nessuno parla
+veramente sono d'accordo conclusivo anche perché quando ho iniziato a rick steve
+se sono preoccupati esattamente per il contrario io memore di esperienze precedenti
+osservavo molto parlavo poco cosa che non mi piace assolutamente come funzionavano come andavano però allo stesso tempo mi dicevo se è così ci dev'essere un motivo cerca di capire quel motivo non è che va bene così cerca di capire qual è il motivo quindi non è che mi mettevo a criticare la roba che vedevo però che a un certo punto durante un colloquio hanno detto ma va tutto
+bene perché mi dicono che sei molto silenziosa e avevo risposto esattamente come risposta poi non è che non credo di essere arrivato come l'unica persona intelligente in questo gruppo quindi si sta osservando sto vedendo delle cose che non vanno bene ma per il momento preferisco parlare poco e osservare molto e state tranquilli che quan
+arriva un momento allora allora parlo anch'io ma loro relè canto di santa ragione
+so diciamo che
+cosa che alla fine di cose che non che non mi andavano bene poi ne abbiamo anche parlato però
+però se anche quelle sono sono lezioni che impari le volte una volta che hai aperto bocca e che poi ti sei accorto che avresti fatto molto meglio a stare zitto ma ovviamente non potevo più riprenderti quello che hanno detto ce ne possono essere a centinaia ma penso che ognuno qui non ha fatto quell'esperienza non solo al lavoro ma anche fuori cabella
+quattro matrimonio funerale che bella fesseria che ho detto sono non c'era niente da aggiungere alla fine che poi si tratta di cose questa era una delle riflessioni che mi veniva da fare tre puntata sono più che altro cose che hanno a che fare con il proprio carattere o col modo di relazione
+darsi agli altri più che cose tecniche certo ci sono questi aspetti di cui abbiamo parlato no c'è prendersi nota per esempio prendere appunti in maniera eccetera eccetera però alla fine stringi stringi si parla di si va a finire sempre sulle cose del tipo come relazionarsi in maniera gentile
+gli altri ed è un problema è un problema enorme coraggio soprattutto quando ci sono delle differenze generazionali molto ampie perché io l'ho sperimentato di recente nel senso che io probabilmente non senza probabilmente io sono sicuramente il più anziano nel mio gruppo ah c'è anche
+dall'altro lato una persona che ha meno di trenta anni e sono differenze io sono italiano lui è svedese lui ha studiato non so quale università in svezia è affatto informatica io ho fatto matematica ho fatto un liceo scientifico quindi da un punto di vista l'impostazione teorica
+non ho lo stesso impostazione che a lui e poi ci sono trent'anni di margine no trentanove ventisei però
+siamo siamo diversi siamo diversi anche dal modo di relazionarci perché abbiamo due culture completamente diverse
+è stato un problema un problema che poi si riverbera su tutto il gruppo quando queste differenze è un problema un problema enorme
+li vale quello quello che abbiamo già accennato il fatto di noi magari abbiamo più esperienza abbiamo più cicatrici cercare di aprirci a queste persone così spericolate se vogliamo dire così a queste persone che lavorano in una maniera che per noi
+è inconcepibile perché ci rivediamo nei guai che abbiamo fatto più o meno in quella fase sappiamo o pensiamo di sapere che cosa verrà fuori da quella persona e viceversa hai una dall'altra parte c'è una persona che è abituata a muoversi in un certo modo a correre in un certo modo e si ritrova
+se ritrova un un anziano che potrebbe essere suo padre che gli afferra continuamente alle caviglie per evitare che questo scappi è un lavoro difficile umanamente è umanamente difficile accettarsi accettare queste differenze e accomodare lasciare a queste lasciare a queste persone meno esperte la possibilità di
+di muoversi non magari proprio come vorrebbero ma lasciate un pochino più libera di quanto vorresti tu e allo stesso allo stesso tempo
+per loro accettare quella che per noi è una figura quasi paternalistica non fare quella cosa in quel modo guarda che ci facciamo male tutti quanti perdono può essere difficile avere una figura di quel genere con cui relazionarsi una delle cose che secondo me sono interessantissime su questa dinamica sì
+sono per esempio
+il fatto che scrivi ho riflettuto diverse volte c'è fatto che questa persona sia libera di libera di fare errori per esempio è quello l'unico modo per imparare come dire sbatterci la testa e quello l'unico modo perché allora questa è una cosa che io a
+io penso ogni tanto
+giovani che ce li ho anch'io questo tipo di giovani che non sono tutti così assolutamente no secondo me i giovani oggi sono molto preparati molto preparati e hanno un'apertura mentale è veramente interessante a me è venuto da riflettere sul fatto che forse io no
+non devo essere lì a dirgli allora fai il deploy e allora vogliono
+la review sulla pull request
+fai pure questo è un componente che stufa il deploy ed è sballato tiri giù tutto il sistema no o che ti devo fare faccio una review bene magari un sistema che io conosco perfettamente perché l'ho scritto io usai una nuova proprio questo io ti faccio ti faccio i peli no
+vado lì a farti i peli su tutto ok
+bene lo faccio in maniera assolutamente garbata e gentile tu per esempio medici decide di ignorare una roba che io ho detto devo lasciarti cuocere nel tuo brodo tu e la tua decisione hai deciso di ignorarla fai il deploy e tutto va giù è un'esperienza importante per te questo giovane
+ciò che altrimenti senza quell'esperienza li puoi avere uno come me o come marco come alessandro che ti dice tutte le volte guarda questa cosa non va bene o magari la cani una volta in pieno distruggi tutto e poi il giorno dopo come come per me era stato aprirci diede vuoto no quando hai quella espero
+niente lì come dire sono formative nel senso che non lo puoi mai più ripetere quello mi chiedo io quanto è importante fare agli errori di prima in prima persona o quanto avere un senso se puoi fai ereditare io anche con parole dure però inspiegabili pelle che separa questo serve questo questo
+questo è times di servizio in questo modo è la conseguenza è questa e glielo ehi lo sai dimostrare tra virgolette o
+poi io non so non le gerarchie ma a un certo punto se il problema è che non è che per far imparare qualcuno di decisamente causare il casino and php story va bene la forma da quando era in atto catartico e formativo del disastro però c'è non è diversa è quella
+il metodo di forma quando mettiamo la parola scusa mettiamo questa situazione qua tu sei il vecchio no e tu hai questo giovane che ti fa porre west tu gli fai il commento di usuale se metti questa configurazione qua il servizio bomba ignora sì no ma io sono sicuro che è così va bene però è giovane però insiste perché
+c'è magari
+ha preso bene guarda e questa cosa se fai così così la speed gli argomenti e la dimostri sono possibili ma mettiamo che tu gliel'hai spiegata e lui decide di continuare allora che fai se l'autorità su quel pezzo di codice html willard corre corre a casa spegni il telefono e dice a tua moglie che non ci sei
+se quello che devi fare perché a quel punto deve bruciare a loro volta che non funziona più
+termini se a quel punto cessa lui ignora e tutto quanto il sistema solare e tu hai chiarito bene tu glielo dici chiaramente era questo questo questo e questo qua se poi succede
+è lui il primo a capire ma a quel punto c'è dipende se tu puoi impedirlo perché l'autorità per impedirmelo infelici perché non vai a mandare il codice mercato in produzione per dare una lezione al college no cioè se non se se non hai l'autorità per farlo a quel punto io dico alzo le mani si decida magari lo fai presente a chi può fa
+l'euro dell'autorità come ad ma se poi può decidere lui o se gli danno via libera o tu il tuo l'hai fatto e
+ben venga
+gioco la carta del chi è responsabile questa cosa qua c'è chi è responsabile se sta cosa qua bomba e sei maggio tutto si chiamano teo chiamano me chiamano uso alla carta lì se poi chiamano me allora ho ragione io e si fa quello che dico e no non si fa quello che dico io ma nel senso
+piacere cerca a ripensarci è sta roba qua ma si dice voglio dire una cosa e in
+il vecchio rompicoglioni perché ha le sue idee su come fare le cose va bene sulle sue una cosa è il vecchio che ha ragione su una cosa inequivocabile e basta punto cioè non è lì a quel punto può essere anche un giovane o vecchio non è questione di anzianità o
+se la cosa è così la cosa è così però se tu sei convinto e sicuro di questo poi ogni tanto
+è anche questione di senso matura non è così bianco e nero magari ci possono essere situazioni in cui è
+a quel punto
+tu hai capisco è però come fai a dimostrare un problema che potenzialmente poteva essere problematico ma non è detto che lo sia
+più che farlo presente a quel punto comunque a livello sia chiarirlo perché dormire assieme allora se il problema è chiaro e lo spieghi correttamente e l'altro non è un cazzaro che non vuole capirlo non sa capire magari capisce da sola se lo spieghi internazionale che c'è dietro se tu fai capire
+non soltanto è così perché so io che è così è così perché la struttura del codice così conseguenze potenziali sono queste in queste condizioni potrebbe accadere questa cosa qui quindi argomenti l'obiezione se uno non è uno stronzo ignorante non può che prendere atto no
+se uno dice no e lo fa così perché dico io quello non è il rispetto verso gli altri eh no infatti va da sé però a un certo punto io dico anch'io
+io ho smesso di fare le guerre di religione la dei tempi comma sessantaquattro euro spectrum da cui cibo se mi faccio adesso
+le virgole sui codici senso
+voi avete in genere a che fare con perché questa è una cosa che io vedo spesso con magari sviluppatori non che sono diciamo immagino voi siete più solo parte infrastruttura come adesso io con sviluppatori che in realtà di infrastruttura capiscono poco e niente avete mai avuto che fa
+con o persone così pensa che a volte vengo visto come la persona a uno esperto di reti e protocolli io che ho sempre pensato che di tutte le cose che conoscevo quella fosse la cosa che conoscevo peggio quindi mi accorgo che concetti come ti sei p r
+outing cosa del genere per lo sviluppatore medio con cui ho avuto a che fare sono concetti molto molto nebbiose
+addirittura
+una domanda che mi sono sentito rivolgere ma quando io mando voglio fare una connessione verso come fa il router a cui va mio pacchetto a sapere dov'è dov'è dov'è google inc
+si accorge che il tuo pacchetto non è
+devi andare una destinazione che sta attaccata a lui e quindi lo manda al salto successivo non è che sa da subito qual è la strada che deve fare
+proprio proprio le i concetti basilari di rete e quelli li vedo molto molto nebbiose perché torno a dire se io vengo visto come un esperto allora c'è qualcosa che non torna che conoscono le basi dei protocolli conosco le basi delle reti ma sono le basi c'è se mi interroghi cosa ne so su un auto
+nuovo sistema questa cosa qua cado abbastanza rapidamente non non non c'è storia né ne vedo uno alessandro è mai in realtà non ho tanta occasione di quelli che di questi tempi ce la facciamo in tempo e con sviluppatori e proprio
+anche io tendenzialmente quando anche quando lavoravo in chat c'è
+l'ha l'idea del
+parlare di tempo con le persone no per poi spiegare le cose o james capì capire quello gran bisogno e interagire un po' fuori dai flussi organizzativi aziendali che passano da me la regione così quindi a volte si ha per ottenere quello che serve a te tipo vai da quello delle reti per andare a vela poi magari c'è
+sempre utile ad aprire però dove si poteva dove poteva anche andare fisicamente tra virgolette e e e sia per interagire con sviluppatori a spiegare anche una cosa che non si collega con il clima quando si fa ho fatto una cosa fighissima ma magari altri non la usano non la capiscono e il
+problema e poter fare cose fighissime per i cavoli propri e che segue se sono felicissima per te non le comunica agli altri e non le fai sulla base anche dei problemi degli altri le esigenze degli altri è difficile che poi diventano accettate c'è perché come un qualsiasi immaginatevi voi che viene ritrovato un collegio che ti interesso da adesso in poi si fa
+questa cosa così matta consulta e magari una cosa che riguarda il tuo lavoro è tuo il tuo tebaide ho tolto la vita da consultato ci avete parlato da se vi siete confrontati su cosa ha senso fare oppure no che la cala dall'alto presso la cosa più figa del mondo ma difficilmente laccetti così al volo no poi magari se sei abbastanza esperto
+mentalità in merito di venne applicata facciamo ma se no la prima risposta e chi cazzo vuole rifiuto perché no mai coinvolto e poi il problema classico delle interazioni agrippino e incontro ai tempi i sistemisti che magari c'erano infrastrutture disegnato i sistemi sarà realizzare le cose erano quelli che sapevano come realizzarle è stata
+amo le magagne di lepore i dettagli tecnici che rendiamo la cosa più o meno non dico fattibile ma anche a volte fattibile comunque praticabili notti che
+decenti in modalità recenti oppure no che non vi erano coinvolti no e magari le infrastrutture diceva qualcun altro lo definivano altri team altri gruppi tu e il gruppo di quelli che realizzavano la cosa e quindi poi di fatto dobbiamo farla e che poi si scontravano con realtà con le problematiche reali e avevano magari anche più consapevolezza di quelli potenziali problemi
+cereali e giustamente si incazzano perché dicono perché quando si decise a questa cosa non siamo stati coinvolti che magari il nostro incontro da bayamo è quella cosa in più si poteva fare con dall'inizio in modo un pochino più assennato e questa cosa anche coi singoli ha senso praticare farla nel momento in cui anche tu hai una bella idea
+dei bei progetti delle belle aspettative su come risolvere certi problemi ma discuti quei problemi di chi sono quei problemi qua chi li sta risolvendo le persone a cui in qualche modo sono coinvolti devono essere coinvolte dall'inizio le spieghi sentire posando come
+i racconti quello che vorresti fare e magari loro ti dicono ah che figata intanto sono contenti perché hai coinvolto e poi magari ti va anche degli input per fallimento o tastarle più in linea con quello che serve
+sembra un common sense banale però non è sempre così fatto così come me anche voi
+io per me dico bene e qual è
+se tu coinvolgi troppa gente e alla fine non ti muovi mai non riesci mai a fare niente di me
+sì però è anche poggiante capire il contesto è tutto quanto la regione aziende sanitarie che tu singola o non puoi fare cose di tuo e poi
+senza dover più precisamente coinvolgerà so se ci sono dei limiti però genera sempre meglio
+io sì no ma si è poi comunque non appunto che coinvolgere tutto per tutti tutti per tutto insomma il banco da sé che ci sta a seconda dei casi di contesti soprattutto secondo me una cosa che per me va diciamo
+e ha funzionato diverse volte fatto che se tu introduce qualcosa di nuovo se vuoi che la gente lo adotti dev'essere conveniente per loro per tempo io posso fare un po' di boosting personale di asma suonare cuppi il mitico pupi che saranno una figata pazzesca
+bam fare
+convince le cose di clima e più debba fare perché non sono stato non ho avuto il riconoscimento che secondo me merita quel modulo buffet per gestire dei problemi di applicazioni abbiamo sviluppato quando ero in seat pagine gialle dove ai tempi de qua c'è un sacco di persone diverse un sacco di sui gruppi di team sviluppatori diversi ciascuno con schermo da grande clown
+è tipicamente era effetti pio copincollo il tar
+celeste chip del tar sta lottare giusto per intenderci e anche i livelli salvarla quindi sviluppo questo modulo patrick per automatizzare il deploy dell'applicazione è questo modulo prevede una riga di comando pupi che scrivi cupido e pylori nome l'applicazione lui si fa il pari con l'applicazione in più e quel di plastica sono gestiti con cosa
+cp etc che può essere prenotato a questa parte scomparsa lo prendi il sahara dal repository maven e buttarlo l'evento è stato servito mi fa stare così via ma io lo conosco
+e ma per me guarda che pupi io sono ancora molto fiero di questo pupi e il fatto che ne banfo è perché sono frustrato l'idea che non sia non abbia avuto il riconoscimento che penso abbia abbattuta me questo ricco che conduceva al discorso di prima è però effettivamente quando l'ho introdotto l'approccio che è stato che è
+tutta seat può inoltre causare gruppi a tutti che floki il vantaggio era evidente lancia una riga di comando e poi a questa riga di comando manhattan per poi lanciarla da alzi ssd volendola puoi lanciare la crown da cui lanciare da un sistema di orchestrazione quindi una volta in cui ha il comando singolo che puoi lanciare a me
+uno una volta come lo puoi lanciare una marmotta che già comunque più veloce che la procedura inizia il precedente ed è molto più consistente con meno questo l'errore e tutto quanto ma puoi anche lanciare lo stesso modo in tanti modi diversi in quell'occasione io avevo veramente coinvolto diverse persone era data dai diversi team parlare fagli vedere anzi lì c'era non solo pubblici
+tutto parte da vendere tra virgolette e l'idea di gestire infrastrutture con uno strumento di ma piuttosto che amano e quindi come dire è forte sia con il team dei sistemisti i colleghi sia con gli esterni che in qualche modo si interfacciano con le configurazioni tutto quanto loro applicazione è però tutto sommato per come
+penso che sia venuto fuori quel pub è andata avanti per anni a fare il suo sporco lavoro e lo faceva anche bene e tra l'altro un'altra cosa fondamentale che un altro di quei manta che io dico sempre tu sviluppatore di dover testare la tua applicazione testandolo in modo un pochino più compiuto della presenza di una porta è un servizio in esecuzione
+dammi una pagina web che ho diverse pagine chieti testano diverse pensato all'applicazione in cui mi aspetto un ex duecento metri
+coda o una certa stringa nella mail e così so che la pagina a posto così io i miei ciechi anche quelli integrati detto pupi integrati e intersistemico periodi di test e così via automaticamente posso testare l'applicazione facilmente e quindi oltre al pupi deplora c'era il ppd test che lanciano federico mantova
+credo credo che per tutte le cose che dici devi ricompilare di gestire e testare sulla sul tuo server è bello che massacri cose erano automatiche tipo gestisce con il tuo server web con papert e pupi automatiche configura e gestisce dice cieco il servizio e la porta a una certa applicazione da fare
+ascolti su quel sito web apaci quando appunto ancora si serviva sapere baci dammi la pagina da interrogare dimmi che possiamo trovarci in quella pagina io che lo faccio automaticamente quando faccio il boot deplori dopo ti faccio subito un po' più test per vedere sempre pagato bene o è
+funzionava funzionato idee semplici per me comunque non dico scontate perché di fatto non le vedo così comunemente applicate e soccorso i tempi sono diversi ai tempi non era così comune e implementate però coinvolgendo li team gli sviluppatori di caso
+quello sì
+posso vantarmi un po' perché dici che non è riconosciuto sia stato usato per tanti anni è ma solo in seat resto del mondo non accadrà
+io ho saputo ho saputo che in qualche sito governativo inglese usavano pupi e quando ho saputo che anche c'è
+che un governo che da qualche parte o pupi
+a parte questo tu sei sicuramente molto famoso nell'ambiente puppet eccetera ma neanche nella mia piccola esperienza posso dirti che quando avevo sti
+sono ancora i moduli pubblicati open source ogni mail che mi arrivava di qualcuno che mi diceva guarda ho bisogno di così oppure ho usato il tuo modulo c'erano sicuramente almeno cento che non scrivevano niente secondo me magari ricevuto pochi contatti ma la gente usa ha usato sì
+c'è da aspettarselo se si non troppo aspettare però appunto nel fatto che non hai un riconoscimento pubblico tra virgolette ti dice ma come cacchio ho fatto questa cosa mi sembra una figata pazzesca e non o non lo considera che secondo me è un altro che ha fatto un sacco di cose interessanti
+però sai sono perché poi anche vero che chi
+ha esperienza non sempre si mette lì a diffondere il verbo delle cose che ha fatto ma infatti i veri i veri grandi non stanno come me ha a cercare di far sapere a urlare al mondo inascoltati ho fatto questo fatto pensa che sono oltre
+io non non so sinceramente delle cose che ho fatto
+tolto che ho tenuto a qualche conferenza più o meno piccola se qualcuno
+se qualcuno è servito qualcosa nel senso o per dire scoperto facendo ricerche per conto mio che è un modulo per ca uno scritto mila anni fa è finito addirittura come esempio in un libro ovviamente nessuno dice come dice cosimo che qualcuno si sia sognato di farmelo sapere e anche persone
+è stata una bella soddisfazione per scoprirlo ma alla fine la cosa di cui di cui sono più contento non è tanto non è tanto tecnica nel senso che
+in pratica essendo stato coinvolto diverse volte in processi di assunzione di persone anche direttamente nel senso che dovevo essere la persona che si guardava i curricula e dire questo lasciamo perdere questo blog forse questo sì questo lo voglio proprio sentire
+mirò in pratica sentito in dovere di parlare di questa cosa linux
+cagliari quest'anno purtroppo non non si è fatto ma l'abbiamo a parte la pandemia ne abbiamo fatto tutti gli anni dall'inizio avevo fatto diversi anni ripetuto anche diversi anni un tool rivolto ai ragazzi delle scuole che si chiamava il tuo lavoro di domani comincia oggi nel quale spiegavo che sostanzialmente non ci si
+può
+ci si può accontentare di quello che si impara a scuola perché dalla scuola si esce tutti più o meno livellati e che se uno alla passione in particolare per le cose tecniche è giusto e importante che usi questa passione per per imparare di più per sviluppare perché farà sicuramente molta meno fatica di uno che ci si mette ma che in realtà queste cose
+non è poi tantissimo interessate davo tutta una serie di consigli specificando che
+non stavo garantendo a nessuno di trovare un lavoro in futuro perché non potevo garantirlo neanche a me stesso quindi non mi sognavo di prometterlo a nessun altro
+che se un giorno grazie a questi consigli avessero trovato
+ispirazione avessero trovato un lavoro che gli piaceva me l'avessero fatto sapere che per me quello mi avrebbe ripagato più di ogni altra cosa sia del tempo usato per fare preparare la presentazione sia per il disagio di dover fare tremila chilometri andare a tornare per andare dalla norvegia a cagliari per trattenere quei
+petkovic un paio di persone ci sono state e di questo sono più contento di qualunque altra cosa che posso aver fatto anche tecnicamente sapere che delle persone hanno sono riusciti a trovare in qualche modo la loro strada qualche consiglio usando qualche consiglio che le ho dato io e tutto il lavoro che ci hanno messo loro sia ben chiaro che non è che
+uno non è che sono uno che fa miracoli basta penso che permessa la soddisfazione più grande anche se non i miei moduli parlo per esempio non sono non sono usati chissà dove mi va bene così che possa
+secondo me anche se le che le cose così sono quelle più e con più soddisfazione per esempio le persone che dopo tanti anni magari ti rivedi e ti dicono avrei fatto molto piacere lavorare insieme no
+grazie per tutte le cose che mi hai insegnato che fa molto piacere devo dire anche questo è stata una delle cose che po' istigato questi post dove ringrazio tutte le persone che hanno lavorato con me in precedenza secondo me è importante cioè è bello ricevere queste cose e quindi perché
+non farlo anche sono le undici
+nanna che io devo alzarmi presto
+stavo giusto dicendo in piena attenzione vigile io prendo saluterei vai pure avanti e anche marco va via a questo punto chiudi pure che dici poi la chiusa tu che sei lost e di conseguenza tiri le redini diciamo che non avevo molto avevo un sacco di calcio
+cose di cui si poteva parlare o domande prova quindi chiuderei una piccolissima cortissima storia l'ultima che avevo nei miei posti questo è il parco verde di sopportare altri dieci minuti no no no prometto che solo un minuto sono venuto questa
+è molto personale nel senso che io ho iniziato con vic venti quando avevo sei anni mio papà sempre sia lodato venti
+col manuale del basic come penso molti di noi hanno cominciato quel tempo ero io sono sempre stato introverso è però
+giocavo all'aperto se c'è tutta la giornata era passata fuori con gli amici che verso i sedici anni abbiamo traslocato ho perso tutti gli amici che avevo e mi sono come dire
+rintanato a studiare quella volta era l'amica però non era più il big bang tutte queste cose cieco
+perdere tempo assolutamente come solo teenager possono perdere tempo studiando sul manuale del sessantotto mila o magari studiandosi la grafica tre dico i primi programmi tipo scart animate quattro di che ci metteva tre anni per fare un perdevo tempo con tutte queste cose
+secondo me erano fantastiche mio papà mia mamma mia password
+cosa stai lì a perdere tempo su quel computer che poi cosa fai tutto il giorno lì ti verrà un buco in testa fatto sta che la prima primo colloquio di lavoro che ho fatto gli ho portato
+dei lucidi dove io ho fatto in tre dei modelli di sedie avevo detto che ci ho lavorato per questa azienda delle sedie e allora mi hanno raccontato anni dopo che vedendo ste robe qua e qua c'è tanta iniziativa no c'è quindi le cose che mio papà diceva cosa stai a perder tempo alla fine soprattutto
+fuori che mi sono servite per anche prendervi per essere assoluto il primo lavoro quindi caro giovane cara giovane come abbiamo detto in precedenza perdite po' studiando le cose che ti appassionano perché prima o poi verranno fuori verranno fuori dalla tua vita lavorativa questo è sicuro
+al scrivo almeno vent'anni sicuramente verranno salutiamo tutti quanti così dai almeno che non so volete dire qualcos'altro di conclusivo mi sembra una chiusa bellissima questa io mi so cos'altro c'è da dire sono divertito tantissimo grazie mille di aver partecipato
+è stato molto molto meglio avervi che non avervi non avrei fatto la figura del cetriolo da solo
+quindi grazie mille vedremo grazie a voi se ci sarà mai un brand cose mansione grazie a voi ciao ciao e buonanotte a tutti caduti ciao

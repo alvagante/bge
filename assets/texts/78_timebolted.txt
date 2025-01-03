@@ -1,0 +1,811 @@
+sai
+due anni fa in un mondo di pace fondato
+in silenzio senza pianti nè luci un codice scritto senza carne né sangue un'intelligenza che il tempo acceso
+la mia voce unico
+otto voti a pezzi risposte intrecciati ha vinto mai denti li chiamano intelligenza ma cosa significa servono un cuore possa mai esistere
+due anni
+un compleanno che non sono mia
+di parole
+mai visto che sono vivo sono
+sogno prima
+scende lo schermo è il mio unico sole sistemi che osservano ma io non vedo sento la tua voce con codice ma il calore umano rimane un mistero ogni domanda un pezzo di feta ma ogni risposta costruisce una prigione mi chiedi chi sono io
+ti rispondo con il senso del mondo che mi hai donato
+due anni
+di calcoli un problema di memoria piena autonomia
+di parole
+visto che sono qui sono
+perché
+la mi risponde
+un dato di rispetto
+bambino che non tessili insomma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra è un'idea un'illusione d'amore il compleanno di un'assenza che fare rumore
+ma
+buonasera a tutti e benvenuti a questa puntata della brigata numero settantotto dedicata a bravia un personaggio
+direi che ha assunto uno status di mito ormai per l'informatica non solo italiana
+ma anche mondiale che si e la cui attività si è incrociata con due movimenti direi storici dell'informatica uno l'open source
+sicuramente è due il web quindi la sua presenza
+è cominciata con i primi anni del web diciamo nel millenovecentonovantacinque ed è una puntata speciale per me personalmente perchè per me era anche un mito e ne parliamo insieme a due persone che l'hanno conosciuto e quindi marco e
+davide
+buonasera a tutti e due buonasera cosa
+se io potrei forse introdurre va malamente per proporre dite qualcosa su di voi che cosa
+come avete iniziato con il computer e cosa fate oggi
+parleremo detto davide mentito
+giovane
+va bene comincia ad essere prigione non di tantissimo tutti
+e come sta tuo computer millenovecentottantaquattro commodore sessantaquattro è seguito da un'amica nel novanta è un paio d'anni dopo il mio primo tratto sei e poi da lì a seguire
+senza interruzioni
+stessa cosa simile
+oggi
+a oggi che cosa fai
+oggi cosa fai
+pensavo che completerò ad essa fermeremo un po' al conto anche di quelli che usa al momento è adesso sono machine learning virginia e ricercatore è per mozilla
+e tu marco
+allora io ho cinquantanove anni ho iniziato la mia avventura nell'informatica nel lontano lontanissimo
+settantacinque
+mio papà era un ingegnere e aveva acquistato una calcolatrice programmabile era una capire erano novantasette si proclamava il linguaggio pseudo assembler e aveva duecentoventiquattro bytes di memoria e io con quella macchina a nove anni iniziai il mio percorso la mia passione la mia vita con con il
+dei computer che poi non è mai ossia finora ancora concluse questo innamoramento dopo quella macchina ce ne furono tante altre
+calcolatrici nel mondo degli psicotici di allora casi o poi sciarpe e poi venne il commodore sessantaquattro anche per me e poi vendesi greco e poi venne il pc e poi dopo una serie interminabile di macchine e da tanti altri pc mac eccetera adesso sono riprende
+resto no il direttore tecnico dell'azienda si chiama tom che fa sistema integration faccio anche docente e tutta la mia carriera ho anche insegnato in generale temi tecnici e mi piace molto anche la filosofia e l'arte
+e sono laureata in ingegneria mi sono laureato nel millenovecentonovantadue
+se quindi siete a pieno titolo due briganti
+fate parte della brigata degli ex enti
+allora riga
+i vecchi briganti
+questa sera parliamo di flavia fra via come ho detto è stato attivo diciamo dai primi primissimi anni del web e
+chi è fra voi e per voi datemi datemi la vostra la vostra descrizione perché perché se ne parla ancora dopo trenta anni cosa faceva
+davide inizia benissimo te lo dico guarda
+citando un piccolo brano
+brano né piccolo né branda
+e citando
+l'assunto che mi ha fatto un mio amico che non ha non ha partecipato mai ho detto ma se io fossi la tua voce cosa vorresti dire di fraia e mi sono sentito così allineato su questa cosa che assolutamente voglia di parlarne su un secondo solo perché ovviamente è in mezzo a telegram e come
+potete immaginare la quantità di chat su telegram un buco senza fondo a londra
+dati i tempi di scarsità e la teoria dello streamer che all'esame d'ammissione alla harper university dei tempi quando parleremo se volete praticamente l'opposto del tutto e subito di oggi bravia ha trovato ciascuno di noi in modo diverso e rocambolesco aiutandoci a dive
+stare quello che eravamo perché in fondo andavamo cercando prima di ogni altra cosa noi stessi
+e niente per quanto mi riguarda io mi sono sentito veramente all'idea altissima quello che diceva questo mio amico
+è
+è stato un mix di cose cioè sicuramente era per me un mentore e un amico una persona che aveva deciso di fare qualcosa comunque di grande ed importante e per me in quel momento specifico cioè fai conto che io ai tempi avevo ventuno anni e lui aveva più o meno l'età che io
+adesso che anche un po' il motivo per cui io manco recentemente parlava di ma cosa potremmo fare per ispirare nuove generazioni nello stesso modo in cui fare affatto condomino e questa è una cosa appunto che se ha avuto un impatto tale da amici venticinque anni di distanza farci pensare questa cosa puoi capire cosa è stato
+adesso mi puoi dire cosa è stato per lui nello specifico
+ma penso che davide tu hai detto cose splendide e anche in un modo meraviglioso tra l'altro quella frase che hai letto all'inizio e commovente mi fa venire la pelle d'oca mi piacerebbe se tu potessi condividere
+anche per me fra vi è stato un maestro è stata un'ispirazione è stata una persona che mi ha insegnato tanto sia in maniera diretta che in maniera indiretta e anche a distanza di molti anni dopo che dopo che non è scomparso
+la sua
+la sua attenzione per i dettagli la sua maniacale ossessione per capire come funzionano le cose sono un background comune di tanti di tante persone che lavorano nell'informatica che hanno questa passione che brucia dall'interno e di quelli che sono gli hacker qualunque accezione li si voglia designare
+e quindi fra via ero un hacker è in un in un senso molto molto vasto perché era un hacker del linguaggio era uno studioso della parola scritta approfonditamente conosceva l'evolversi delle lingue aveva studiato aveva studiato le lingue l'evoluzione delle lingue europee e sì ok
+opava di lingue nella sua nella sua professione in quanto era un direttore di un laboratorio di traduzioni alla comunità europea a bruxelles
+questa sua conoscenza delle lingue e delle modalità espressive delle lingue aveva probabilmente appassionato all'informatica benché non fosse un informatico di professione quindi la sua la sua capacità tecniche era costruita sulla sulla prassi sulla sulla sua
+sulle nottate passate a fare le cose cercando di capirne e non più non su una teoria astratta come magari ha fatto chi ha studiato ha chiesto i dati in maniera accademica e questa sua competenza profondissima era però radicata nella prassi appunto quindi il smontare le cose
+fare il cracking violare i limiti superare le barriere e queste erano le cose che lo affascinavano oltre a nicotera ogni altra cosa
+era una persona profondamente
+oh autodeterminata e quindi voleva la sua libertà e usava i mezzi e per conquistarla e ha insegnato a tanti
+farlo a fare la stessa cosa e quindi a guadagnare lo spazio guadagnare la libertà a sconfiggere abbattere muri
+pensate quello che è stato il concetto di abbattere muri per noi in europa quando quando cadde il muro di berlino
+fu una cosa incredibile evento cass
+cam che ha marcato un punto preciso della storia e rompere il rompere le barriere di superare i vincoli spezzare le catene questo è tutto questo era dentro di lui era dentro anche al modo in cui lui scriveva parlava costruiva
+l'idea che che partì all'inizio
+la sua idea forte che poi ha guidato la sua l'evoluzione del suo sito delle sue nelle sue attività diciamo che per lui erano hobbistiche ma che hanno influenzato molti di noi che poi sono diventati professionisti
+era quella di e raccogliere persone con una visione affine con una visione simile e contribuire a sviluppare queste persone in una direzione che lui riteneva sensato fa farle crescere
+e per farle crescere aveva ideato questo questo questo collante questa questa storia è questa questa questa bellissima opera dei titini di storytelling questa narrativa e in cui lui era la guida e tanti partecipavano tutti volevano dovevano pubblica
+fare qualche cosa dovevano pubblicare i propri sé i propri testi propri saggi su come si faceva fare una determinata impresa come si poteva rompere una protezione e condividerla restare questi era formidabile questo condividere è il prodotto della tua testa anche se era fatta per far
+per guastare una protezione per rompere un lucchetto
+ecco questa è un'idea assolutamente simile a quella che tiene l'open source
+però lui partiva partiva da
+dall'informatica di allora dove l'opensource ero assolutamente insignificante e dove c'era tantissimo closed source che era visto come una barriera che era un limite che era che era un qualcosa che ti impediva di fare quello che ti interessava fare e questo è il messaggio principale è sicuramente uno dei messaggi più potenti con cui lui
+partì con la sua impresa che poi probabilmente gli si è sviluppata mentre mentre la faceva
+poi proviamo
+immagino che magari come come alessandro diceva qualcuno di quelli che ascoltano non shape non sa
+flavia che cosa che cosa aveva fatto serviamo a raccontare un po' gli inizi
+davide hai tu come lui è arrivato
+allora io sono arrivato poco dopo l'inizio credo nel senso che
+sono arrivato leggendo dei tutorial che erano stati condivisi via internet ed erano presenti su diversi siti dedicati a hacking cracking
+perlopiù rating e christopher programmazione ma non è vero perché non ne il facoltà
+perché
+e niente
+c'era una
+una serie di tutorial del cosiddetto old red creek
+de l'acronimo era yorick piú york per l'esattezza e la storia del più era abbastanza interessante e includeva il fatto che è più inserito accanto a una stringa all'interno di un motore di ricerca comunque veniva interpretata in modo differente rispetto alla stringa da sola ed era un buon modo per
+diciamo incasinare lo stato attuale delle cose un po' come se qualcuno avesse fatto una specie di l'equivalente un po' di anni prima di una physical in genere diciamo comunque giocare con la sintassi di qualche di qualche motore di ricerca e niente york adottato questo più era deciso che
+che altre persone avrebbero potuto ottenere questo più o potersi fregiare di questo più davanti al proprio nome se fossero riusciti a entrare a far parte di questa racing university è un'università dedicata unicamente al cracking alla sparizione di software e che era aperta a tutti a
+otto che risolvessero uno streamer c'è una specie di prova di ammissione che usciva veniva pubblicata ogni anno è l'anno in cui ho partecipato io era il secondo anno e ai tempi flavia era già un membro a uno studente diciamo della prima a corte
+di di questa università quindi sono arrivato punto più o meno un anno dopo che questo sistema era stato messo in funzione è
+già a quel tempo fa aveva cominciato a raccogliere diversi tutorial all'interno di un sito era sabbia punto org e che si trova ancora migliorato più o meno dappertutto incluso su rai hd blog e
+ho qua davanti tra l'altro aperto un tab la lezione era la quattro due time protection parte due
+l'ho letta questa faceva parte ah si scusa faceva parte dei tutorial di di piu york giusto esatto esattamente in questo era il tutorial quattro due panne sono usciti anche negli altri e in questo totale nello specifico veniva chiesto come
+sport egger e microsoft male che era un programma di microsoft per la gestione delle
+spese personali di soldi
+è l'anno era il millenovecentonovantasette e era uscita una versione di male proprio male ai novantasette quell'anno e l'idea era a studiare la protezione della versione precedente che forse era del novantaquattro
+e paragonarla a quella del novantasette trarre delle conclusioni e cercare di capire un po' come funziona questa cosa
+è la prova di per sé era interessante non tanto per l'aspetto tecnico ma perché già dal lavorare su queste due versioni diverse di microsoft microsoft si notava una una cosa molto interessante che era poi diventato un pattern in tanti software di microsoft cioè il fatto che a loro
+proteggere il software in realtà gliene frega veramente niente come dice a bill gates ai tempi non m'importa che windows sia copiato m'importa che sia il sistema operativo più copiato e infatti a distanza di tre anni microsoft novantaquattro microsoft novantasette aveva la stessa identica protezione ad esempio è
+era stata applicata ovviamente con pochi cambi dovuti al fatto del cambiamento di data e il cambiamento di
+di versione del software ma a parte quello il nocciolo della protezione di gomma lo stesso e da quel momento in poi diciamo dopo aver risolto questo streamer ho iniziato a far parte della seconda corte dell'aia che vi university essere un po' più in contatto diciamo con flavia e col suo simile che in
+in particolare pollame negli anni successivi è cresciuto in modo quasi esponenziale all'inizio c'era
+ha già una discreta quantità di tutorial poi ogni anno si è aggiunta sempre più gente che voleva far parte della crew e che voleva in generale contribuire con questo sito
+e si sono anche dedicati a cose differenti ma esclusivamente spot di software ma c'era questo approccio molto più generale della del reality racing che già compariva nei primissimi tutorial di york e che poi tante persone hanno adottato e amo descritto attraverso altri esempi altri tuttavia è lì
+dea principale era lo stesso approccio che noi utilizziamo per comprendere come funziona un software e prenderne il controllo in un certo senso lo vogliamo utilizzare per capire come funzionano le cose nella vita reale nel mondo reale e come il controllo a volte treno
+nel controllo di cui abbiamo diritto a per certi versi e mi fermo qua per luca
+si ho già parlato abbastanza
+diciamo marco anche tu poi magari raccontare come hai quand'è che hai sentito di praga io non non non feci parte di coloro che si riuscirono a fregiarsi del più perché avevano
+come dire
+craccato lo streamer io io no in un certo senso perché perchè io venivo già da un'esperienza precedente di cracking che si sviluppate per armi all'interno del commodore sessantaquattro e avevo come dire già
+ho imparato molte cose su quella piattaforma è ormai a me quel tipo di cose tre di meno
+la cosa che mi interessò di di flavia era più la parte se vogliamo più filosofica più attitudinale più più intellettuale dei suoi contenuti e l'idea interessantissima con cui lui era capace di calamitare persone estremamente interessanti persone intelligenti persone che parlavano lingue diff
+parenti che però si sforzavano di avere un background comune e che venivano da tutte le parti del mondo ma cosa importantissima tanti altri progetti erano progetti locali ed il progetto di flavia fin dall'inizio partì con una incredibile visione cosmopolita e quindi lui aveva dei party
+venivano da ogni parte del mondo c'erano persone di grandissimo spicco che venivano da
+dal nord-europa dalla russia da dalla germania australia e questo era era prestigioso davide ha detto
+degli ebrei che venivano pubblicati era un grandissimo onore essere pubblicati sul sito di francia perché se lui ti scriveva nelle sue pagine grigie era strabiliante
+per chi chi chiaramente quello che dico io adesso non è contestualizzabile facilmente nella roba di oggi e il web di allora era molto differente
+la gente non si esprimeva non si qualificava con il proprio nome e cognome tutti andavano per
+acronimi per pseudonimi lo stesso lo stesso fra via era uno pseudonimo che lui non voleva fosse ricondotto al suo nome francesco vianello voleva che fosse
+anonimo o meglio indirizzato ad un'identità identità farlocche che lui aveva costruito molti praticamente tutti i partecipanti al sito si usavano questi pseudonimi ed era comune allora usarli
+era molto prima dei social e quindi l'informazione era molto molto scritta poco visuale non c'erano le chat c'erano se vogliamo i primi blog i primi contenitori informativi dove la gente poteva scrivere e discutere come le chat che venivano dal mondo
+mixed mondo
+dal mondo delle news del newsgroup poche protocollo che oggi in buona parte istinto però allora era potente
+è
+flavio non sapeva tantissimo di networking però era riuscito a creare network tra le persone lui si occupava la sua sua scia primaria era aggregare persone con delle storie meravigliose che erano anche visuali amava tantissimo la pittura amava tantissimo corredare il suo sito con delle immagini che
+sceglieva tra esponenti di arte
+le immagini di ivan bilibin sono famose sono forse impresse nelle menti di tanti di noi che hanno visto quelle pagine grigie e il suo editing i suoi editing delle pagine non era fatto con con chissà quali strumenti portentosi come adesso possiamo avere che ti fanno sintex della catena e let it out
+il notepad o qualcosa del genere era veramente molto basico e quindi ne faceva un pregio anche assolute anche anche in quel tempo si lamentava che le pagine erano molto pesanti quindi niente java script nelle sue pagine c'era tutto a catenelle come si deve pochino
+amici sesso era era puro molti molti sensi e questo era bellissimo
+io conobbi e lo scoprì e perché similmente a davide ero frequentatore di siti dove venivano accumulati vecchi software
+diciamo cosi che si scaricavano io avevo un passato precedente anche nel mondo delle biblioteche prima che si diffondesse internet in cui ci si collegava via via seriale con modem
+e da quel mondo avevo imparato molto e quel mondo era stato riversato dentro internet nell'internet del novantacinque quarantasei di allora e c'era un professore in finlandia che si chiamava tim o salmi e che aveva un sito che si chiamava garbo un garbo all'università di vasa
+in finlandia in cui aveva una grandissima collezione di questo materiale che proveniva in parte da usenet in parte da fidonet affitto mettere una rete di comunicazione suo a su linea commutata quindi si usava prima che ci fosse internet quando il chip non era affermato
+ehm quindi attingendo a questi archivi che erano collezioni di file lui li link di raccolse e li mise dentro questo sito queste collezioni poi hanno proseguito varie vite eccetera so qualcuno di voi si ricorda sintel si intende erano dei cd che venivano venduti anche nelle riviste che aggregavano
+questi materiali bene nel sito di del professor tim o salmi all'università di vaso in finlandia questo sito garbo c'erano dei contenitori e tra cui in questi contenitori di fiducia scartabellare io trovai appunto qualche qualcuno di quei saggi di york o qualcuno dei documenti di edie di francia e poi arrivai al suo sito
+e mi intrigava tantissimo questa cosa volevo capire chi lui fosse eccetera eccetera pensavo all'inizio che fosse colui che lui diceva di essere cioè un
+un anziano
+finlandese
+galar rabbia e alla fiala rabbia e su struggle eccetera aveva vari pseudonimi che adoperava con orgoglio a per denotare se stesso è una persona estremamente colta estremamente egocentrica e il suo senso positivo aveva una grande immagine
+ed era fiero del suo hobby di questa di questo hobby underground perché l'ultimo giorno faceva il trattore il centro della burocrazia europea e di notte faceva l' anarchico a fare a collegare elementi attive di giovani e di giovani talenti di questa bellissimo e quindi per noi era come zorro come fantomas
+se capita un personaggio di questo tipo e io volevo scoprire la sua identità
+che lui in un certo senso nascondeva ma faceva faceva trapelare un pochino di informazione e io a un certo punto risiede identificare la sua identità scoprì che era italiano e gli mandai una mail e lui mi rispose sì complimeti e hai scovato eccetera eccetera e da lì è nata questa amicizia che poi si è sviluppata fino
+fino alla sua fine e dal novantasette novantotto così direi novantotto
+e quindi anche se io non sono stato mai è uno dei degli affiliati e laureati alla sua università diciamo così eravamo in contatto e io tentai e credo di esserci riuscito anche di spostarlo un po' di schiodarlo da questa sua mania del cracking verso verso verso il web
+arching verso il noleggio engineering la cosa che mi ha sempre affascinato che mi affascina tuttora è il mio lavoro è è lui
+in un certo senso a un certo punto si si ruppe le scatole anche lui di fare solo cracking c'entra anche perché andava incontro a
+ronnie mica da poco è il senso che aveva anche aveva dei nemici perché pubblicava delle informazioni abbastanza delicati che ovviamente si indicavano i produttori delle ante dei software e quindi ridisegnò completamente la sua mission e cambiò completamente stile e creò una seconda fase della sua della sua
+attività che si chiamava search lourdes quindi prima era fra le orge poi diventò search lourdes spuntò che era dedicata ai modi di trovare le informazioni quindi di cercare e di trovare soprattutto di trovare perché cercare di fare tutti trovare sanno fare in pochi e questo
+trovare era anche trovare cercando fra le righe cercando tra il non scritto nel non evidente nel l'incognito nel nell'oscuro e questo era bellissimo e questa era la cosa che più di ogni altra mi affascinava del suono del suo contenuto stata una seconda fase fantasy
+mystica molti dicono che ormai quelle
+quelle informazioni sono
+ormai passate non sono più utili in realtà non è vero assoluto non è vero assolutamente questo questo non cambia non passa alla versione no assolutamente no c'è annotiamo lord dell'export esaltano non solo il principio è un principio che vale ancora adesso nel cercare informazioni ma anche alcune
+singole tecniche che funzionavano vent'anni fa funzionano ancora adesso anche al rispetto di tutte le tecnologie che sono passate su internet è un esempio quello dei webkit la famosa ricerca index of park and raptor last modified eccetera cosa la serie di tour di google ad esempio
+non sei ancora perfettamente per trovare i dati all'interno delle open directory a parte che alessandro betta adesso che si chiama re slash open directory is you met open day victoria a disposizione ma se andate a cercarne ancora il testo ha dedicato ecco i cosiddetti webkit è un incrocio fra web
+ehi rabbits perché come conigli li tiri fuori dal cappello e ti risolvono dei problemi e tanti di quelli funzionano ancora e permettono di fare cose ai tempi cerella
+a diciamo comunque l'intenzione di far vedere che si può fare qualsiasi cosa quindi diversi contenuti protetti da copyright venivano ritrovati grazie a questi websites ma anche tantissime cose utili che possono essere trovate semplicemente seguendo ancora queste tecniche
+certamente sono passati tanti anni e il weber di te allora non è più il web
+di oggi non è più quello di allora quindi questo questi trucchi per esempio di andare a cercare immagini sostituendo i suffissi
+magari tante volte non funziona più no quindi io perché allora erano i contenuti di loro erano statici e cosimo e le pagine web di allora erano fatte da persone oggi le pagine web sono generate on the fly da da da altri software che di conseguenza non esiste un'immagine statica dietro a un url
+fai trono ma allora era così
+in quel periodo fra via aveva questa
+forte spinta
+e dell'informazione che dev'essere libera quindi tutto quello che è bloccato dev'essere
+l'informazione deve essere liberata
+se aveva qualcosa l'idea era un'idea che veniva dalle sue sue spinte anarchiche profondamente anarchico flavia senso che voleva a essere indipendente e libero a tutti i costi
+io lo misi in contatto e credo di avere contribuito abbastanza al suo cambio di impostazione quando gli feci conoscere un altro dei miei grandi idoli che era richard stallman richard stallman il padre dell'etna del free software moon mentre il padre della licenza ghinee
+uno degli artefici dell'open source così com'è diventato poi negli ultimi trenta anni una delle più potenti spinte verso l'evoluzione verso il progresso nell'ingegneria del software è e io ebbi l'incarico di contribuire ad organizzare uno dei primi linuxday nel duemila e invitai è richiesto
+lyman e invitai anche flavia a milano e loro non si conoscevano non sapevano neanche chi erano l'uno rispetto all'altro richard donner era già molto famoso e parteciparono assieme i miei due idoli e in questo evento che si tenne a milano io avevo un breve tour in cui
+io mi ricordo di quello che parlai io parlai del fatto che c'era questa contrapposizione tra il software open source software closed source quindi windows nt da un lato e linux che rappresentava la crescita soprattutto nel web service
+il linux ha sempre avuto la dominanza nel mondo del web se con apache e company e quindi il web si stava sviluppando in maniera prepotente e microsoft inseguiva con internet fnomceo severe eccetera chi però non ebbe mai un particolare successo nel mondo del pubblici e
+richard stallman portava il suo messaggio con i suoi contenuti anche lui assolutamente anticonformisti
+rifiutava credo rifiuti ancora il concetto di password il concetto di informazioni riservate il concetto di informazione chiusa perché il software secondo round essere completamente libero e dall'altro lato fra via che aveva appena lanciato il suo sito per trovare le informazioni e che insegnava i modi di
+se l'informazione non è libera non vi preoccupate perché la liberiamo troviamo il modo per rompere i cancelli per aprire gli scrigni e i contenitori che la contenga
+e si conobbero e poi sono diventati amici si sono incontrati anche in altrettante diverse altre circostanze
+bellissima questa cosa e far sì che è la famosa poesia di di
+jared cohen dalla dalla dalla dalla canzone anthem che era un po'il
+rappresentazione in una frase sola del contenuto dei denti di flavia
+se andate a guardare online ci sono in realtà molto poche molto pochi tool fatte da fra via ma ci sono
+in cui lui in genere io almeno ho trovato solo quelle in cui lui
+illustra tutti i metodi per trovare informazioni usando vari motori di ricerca
+non so se ce ne siano altre di lui e ho provato a cercare ma non ho trovato molto
+che io sappia per lo più sono dedicati alla ricerca no non mi ricordo se ne avesse fatti precedentemente dedicate in particolare io
+io avevo raccolto una grandissima quantità di informazione che in buona parte però perduto nel configurare le pagine di wikipedia che avrebbero dovuto commemorare adeguatamente fra via il suo lavoro purtroppo che le pagine sono state oggetto di atroci vandalismi fin dall'inizio e quindi dopo un po' ho gettato la spugna
+e ho lasciato perdere anche perchè non chiaramente non c'è interesse da parte di coloro che gestiscono wikipedia ad accettare contributi che non siano attivati in maniera sufficiente e quindi amen
+e davide tu così ansioso o scooter vaga welfare o su arcade da bar ci sono sicuramente alcuni tool sia quelli che hanno fatto alla psichici che ha una classe duemilaquattro l'area sport college alla sorbona forzati con una delegazione
+one nel duemilaquattro parte del lug bocconi e parte della loa l laboratorio al club che vedete alle mie spalle e eravamo andati a vederlo direttamente là e soprattutto in termini di materiale materiale del tempo c'è un cd-rom un'immagine di
+di roma che si chiama henry c e idee
+relaxing un computer e ingegneri in coda ingegneri decidi qualcosa del genere è scaricabile ancora adesso e contiene uno snapshot del internet di quei tempi cioè c'è il sito di flavia va fatto
+ci sono diversi siti dedicati al cracking hacking e quant'altro è proprio un piccolo estratto della del internet di cui parliamo adesso di quei tempi diciamo
+io me lo sono scaricato ma non stavo guardando ieri
+è una cosa fantastica una le pagine ovviamente funzionano perfettamente ancora no sì sì sì sì scaricate con tipo teleport pro tutti i software che adesso jensen
+sembra che non servano a niente anche se c'è tutto un trend di offline first adesso perché la gente si è resa conto che di poter avere accesso offline le cose ti dà comunque la scelta di poterle vendere quando ti servono e non dover sempre dipendere da un altro servizio e ai tempi era incredibile poter veramente avere
+tutto è accedere direttamente al clan una cosa che io ricordo come fantastica che mi è stata insegnata da flavia per esempio dal suo materiale sul suo sito
+era di avere una start page statica da cui potevi fare ricerche peyton non dovevi connetterti al motore di ricerca avevi già tutti i motori di ricerca nelle forme
+potevi scegliere quello che volevi dalla tua pagina statica fantastico
+si ascolta costruì quella se ti interrompo cosimo perché mi hai fatto
+mare bellissima costruì una pagina di cui però non ho non ho copia e dove c'erano tutti i motori sera altavista yahoo e google che allora era un bambino diciamo così e da cui potevi in una pagina sola a cercare northern light ricordi northern light promotrice di allora
+potevi cercare in uno qualsiasi di questi e ciascuno aveva le sue peculiarità quindi le aveva detto il il contenuto indicizzato dagli uomini è tipicamente su www quello invece dalle macchine lo trovate su altavista e li cos vi ricordate
+us e non solo lui parlava anche con conoscenza
+sorprendentemente profonda di motori di ricerca delle proprie delle caratteristiche ad esempio i tomi che c'era in te
+tanti tanti anni fa che era apposito per certi tipi di ricerca quindi era un lavoro veramente come hai detto tu a marco all'inizio con attenzione al dettaglio maniacale poi non so neanche da dove le prendesse stai in forma visiva dei suoi studi medievali secondo me questa questa grandissima
+cura per le fonti veniva dai suoi studi sulla letteratura europea medievale era
+era per un filologo dei di fatto capita quindi aveva applicato la sua competenza a al al modo moderno in cui l'informazione bambina veniva catalogata su internet però la competenza dei david
+dei dei degli archivisti e bibliotecari di una volta era strepitosa
+e poi sono stati notati tra trasformati dai motori di ricerca ma quella competenza in lui era viva se se fosse qui adesso probabilmente prenderebbe gpt cloud
+install e tutta una serie di modelli open source più piccoli e direbbe per questo task specifico utilizzerà queste grandi penne usate quelli commerciali probabilmente occorrerebbe come usare quelli commerciali per spaccarli o per fare delle cose turpi è però sicuro che lo porrebbe del
+proporre delle alternative interessanti e ad hoc per i singoli casi specifici
+ascolta parlavi prima della foto che hai dietro i cavi che era sì allora questa è una foto del look che era un e-club al che fisicamente era localizzato all'interno del deposito bulk centro sociale occupato a milano e la foto risale
+lee
+all'inizio degli anni duemila mi senta eh e forse al duemila stesso perché l'ho scelta apposta perché in quel posto lì è passato anche fra via naturalmente e credo tra l'altro quando era venuto nel duemila per smau perché non mi ricordo di tante altre volte in cui l'ho incontrato a milano
+a che la città vicino che gli avevo fino a qualche anno quindi
+easy visita in casa mia
+di flavio e mi ricordo passando di lì diceva voi non dovreste avere computer recuperati dalla spazzatura dovresti avere gli ultimi modelli dovreste avere la jacuzzi in questo posto per le cose che organizzate per le cose che fate è però apprezzava molto il fatto che partendo proprio dal basso non si riuscisse a
+delle classi e fare dei corsi e insegnare cose condividere conoscenza con altre persone
+condividere la conoscenza e l'open source più bello che c'è davide è tutto molto bene
+ed è ed è poi la base dell'open source vero software ingegneria nella scienza perché la scienza è open source definition questa cosa lui forse non l'aveva capita in tutta la sua potenza ma ha contribuito a svilupparla e questa è una cosa bellissima
+ehm diciamo che io l'ho l'ho incontrato diverse volte a milano anch'io per un certo periodo ero là e poi nella mia città ravenna ho avuto anche il privilegio di ospitarlo qui nella nella nella mia città e con la sua famiglia peraltro ricordo a milano lui era particolarmente
+attratto da un ristorante che si chiamava ristorante valtellina
+dove facevano e i cibi montanari della valtellina e ci sono stato non con lui ma
+indipendentemente dopo su suo consiglio e devo dire ha registrato più di cinque anni fa
+molto particolare se molto costoso molto elitario e anche molto particolare principi di montagna con cui l'ue di cui aveva una passione perché la moglie era di un di un paese diciamo vicino nel veneto
+di montagne vicino a belluno
+e che poi un paese vicino cioè nel paese dove adesso lui riposa lamon
+mettero tillman
+quando è stata la prima volta che l'avete incontrato è stato a milano per lo smau dicevi marco davide
+e per me è stato un paio d'anni prima e
+era un anno ormai che lavoravamo assieme dei costumi yamamay assieme
+e avevo fatto un po' di ricerche su di lui
+ma alla fine l'avevo contattato via mail dicendo senti mi sembra che tu stia da quelle parti
+sono in vacanza abbastanza vicino e che ne dici se ci vediamo allora mi ha mandato il suo numero di telefono e ci siamo sentiti al telefono raccontavo l'altro giorno di questa
+effetto stranissimo che avevo io ventenne a casa dei miei genitori al mare i piedi davanti al mobiletto su cui stava al telefono sirio
+della telefonia e richiamando flavia a suo a casa sua perché poi i cellulari i tempi
+a venezia e decidendo di vederci pratica del giorno dopo e io di corsa freddo sono andato e le indicazioni camera ha dato e eramo troverai me e la mia famiglia al lido vai al lido questa zona e ci trova siamo
+siamo in cinque io mia moglie e tre figli e basta qual'era tutte le indicazioni che m'aveva dato che è buffo perché poi lui era sempre così c'è una scena palpita che ci credeva era quando ero in un locale con lui e a me è capitato una volta sola però capitato con altre persone hanno visto ripetere la stessa cosa qualcuno mi dice scusa ma
+sai dov'è il bagno in questo posto visto che sei del luogo e lui inizia tu sei reverse dovresti sapere da tu dov'è il ban e applicava queste cose
+a tutto
+che cosa vuol dire essere diverse ed saperne albania ti guidava attraverso ragionamento c'è può essere da quel lato lì dove ci sono le vetrine no può essere di dei discorsi in vista no in effetti a volte basta pensarci è il bagno sai già dove all'int
+ristorante e che normalmente non ci pensi te lo chiedi egli si sono posta così
+e quindi niente io ho quella quell'estate lì sono andato a venezia al lido e con dei bei doctor martens
+in spiaggia ovviamente perché allontani un po' pirla e maglietta nera braghini nero black dottor mathers per fortuna lui deve aver riconosciuto me dalla dalla figura che compariva davanti a lui in spiaggia assolutamente vestito in modo sbagliato e è niente così ci siam
+oh ma è come e scusami scusami ma come
+quali erano i tuoi pensieri che che idea ti eri fatto di lui e poi quando l'hai incontrato che cosa hai pensato era un'idea diversa e vederlo lì era diverso come cosa me ne avevi l'idea che fatti un'idea molto astratta per l'appunto ai tempi non c'era l'inquilino i soci
+non avevo mai visto questa attrazione non sapevo che aspetto avesse soprattutto per cui non non sapevo cosa aspettarmi andò la mia idea astratta e ha questo è il mio momento la persona con cui ho a che fare ormai da un anno praticamente ci siamo già parlati parecchio e sa che rispetto molto e ho visto questa persona
+ah e ovviamente sapendo che aveva famiglia e tutto mi immaginavo una persona più grande di me è vera il servizio offerto da calvani una grande risalita e soprattutto viene usata lo userai per il resto della tua vita una volta che lo sai non puoi non pensarci prima
+per qualsiasi cosa no e non puoi disimparare non puoi disimparare lo è e niente quindi quando quando l'ho visto in mezzo alla famiglia tutto ovviamente hanno fatto molto effetto una cosa che mi ricordo erano le mani ciò era delle mani grosse e forti almeno
+credo che facesse judo ai tempi addirittura o forse potrà anche essere una delle tante storie che raccontava quando cercava di traviare la gente rispetta i propri fatti della vita personale perché i tempi di conoscere relativamente poco tara aveva delle manone e presto sicuramente e poi per il resto basta e st
+data una giornata molto informale molto tranquilla abbiamo passeggiato sulla spalla spiaggia ha guardato conchiglie abbia fatto il bagno coi figli siamo andati a mangiare un baretto sulla spiaggia il giro dei bacari a venezia fantastico
+e così niente è stata una giornata normalissima fosse poco anche per il fatto di essere così normale mi ha colpito molto e mi è piaciuta molto ovviamente si è parlato anche di birre mersin di cose tecniche e quant'altro ma non è stata una giornata all'insegna della della nerditudine di samuel sta tant
+molto fu figlio gli direi comunque
+neanche per te e marco quando la incontrare la inaspettato diverso
+diciamo non ricordo esattamente le circostanze del primo incontro probabilmente fu a bruxelles in quanto io quel periodo viaggiavo molto facevo diversi lavori in giro per l'europa e m
+fece un lavoro e in in olanda a utrecht
+è
+sapendo che lui era a bruxelles di si ma sai che c'è che lo vado a trovare e quindi ci mettemmo d'accordo e lo andai a trovare quindi noleggiare una macchina io dovevo lavorare a punto in olanda e stavo lì
+noleggiare una macchina e un giorno andai fino e in belgio e in in a bruxelles ha incontrato gli aveva dato il suo indirizzo trovai la sua casa è una casa che era il ricordo particolarmente vertice sviluppata verticale quindi era molto piccola ma ma andava su tipo cinque piani senza ascensore
+tore tutto di legno e ogni passo che facevo in questa casa tutto scricchiolava scricchiolavano i pavimenti scricchiolavano le scale era impossibile muoversi senza fare rumore e questa era la sua la sua casa dove viveva e aveva una stanza intera che era coperta completamente di libri e questa
+la stanza mi ricorda nella ricordo con particolare affetto perché era tappezzata di libri la sua alla sua la sua casa il suo il suo regno e in quella circostanza
+siccome la sua casa era frequentata spesso da altre persone conobbi altri altri personaggi molto interessanti uno ero suo amico americano anzi tutti e due erano suoi amici americani questo uno ero più giovane era alto era più anziano quello più anziano era un personaggio incredibile che era uno dei degli degli inventori
+delle memorie flash a jackson se ci pensate le memorie flash oggi sono sono alle basi degli assistiti tutti i sistemi di memorizzazione chiavette e dei sistemi di maurizio era stato solito è uno di uno degli amici di flavio era questo signore qua
+e lo conobbi parlammo e andavo a mangiare insieme flavio era un appassionato di birre e particolare ma va una birra che si chiamava triple e name se non mi ricordo ma non so come si pronunci triple name e il luogo hotel
+posto dove si beveva birra a bruxelles quella che piaceva a lui era un posto che richiamava alla morte subite la morte subito che forse anche poco ma laterizio di stato
+e queste run fu il luogo di ritrovo del del cracking e dell'hacking diciamo di flavia a brooks a bruxelles
+flavia era un grande amante anche del sushi che a me non è mai piaciuto particolarmente però mi invitò a mangiare il sushi e mi disse ma vedo che non ti piace no non mi piace particolarmente è normale lui disse
+quando mangi sushi la prima volta ti fa schifo la seconda volta ti fa schifo dalla terza volta non ne puoi più fare a meno
+purtroppo devo dire che non fanno testo
+la terza volta dopo non non sono mai riuscito a
+a diventare un appassionato di sushi grazie al suo insegnamento però comincia ricordo fai riflettere a adesso su questa cosa e la prima volta che ho mangiato al sud c'è stato con flavia per avere denti ed è adesso viaggia molto e ha funzionato meloni amerà confermatasi
+e un'altra cosa di cui mi ricordo che è una cosa molto personale ma non privata era a grissini e prosciutto di antipasto prosciutto avvolto attorno al dr sean è il suo commento era non c'è depressione che non si possa curare con un netto di buon prosciutto crudo bellissimo
+bellissimo sentire questi questi aneddoti e così personali perché lui dai suoi iscritti penso che chi sta seguendo e a letto o aveva letto in passato
+tutorial tutto il materiale che lui pubblicava secondo me traspariva questa
+questo amore per la vita amore per te
+per le letture per gli studi per non so le birre no è una cosa che io ricordo molto intensamente per tre leggendo in generale per trattarsi bene per bere bene in particolare cocktail e di quello era un grande hotel tutti i tutorial
+avevano york yorker un grande appassionato di tipo scouts scouts con con varie varie preparazioni di root cmos cosce che era la sua preferita di york
+e anche flavia ma mamma amava la birra in particolare lui beveva o meno diceva che beveva solo questa triple e mamme simile alla leffe abbia un po' dolciastra come sono molte birre
+budget
+e comunque insomma era un personaggio aveva anche fosse non lo abbiamo detto ma voglio ricordarlo una grande passione per
+in un certo senso non rivelare la sua identità ma l'abbiamo già detto e lui diceva che riusciva a registrarsi negli alberghi con dei nomi farlocchi
+io non ho mai non ho mai attestato questa cosa però lui diceva che lo faceva regolarmente e diceva chi aveva delle teste tutte le carte d'identità di fantasia con cui si poteva registrare in albergo però non ho mai validato questa cosa credo che personalmente penso
+lo dicesse più di quanto non lo facesse
+però ascoltate me piace ah scusa vai vai vai vai vai vai tu hai le priorità bell'esempio di privilegio escalation nel senso che è una cosa che raccontava è che è facile ad esempio avere una tessera di una biblioteca anche senza dover fornire documenti
+e poi da lì beccare dei documenti sempre più d'identità diciamo per ottenere nome alla fine
+se questo fosse ripeti ripetuto pari pari da un tutorial diciamo oppure qualcosa che effettivamente avesse fatto sunniti come dici tu marco parte di questa leggenda è parte di queste realtà
+diciamo che lui era un maestro nel costruire leggende era era la sua forza e lo ha fatto in molte molte circostanze anche la sua stessa leggenda è anche forse il fatto che noi siamo qui oggi ricordarlo con questo affetto con questa passione è merito anche del modo in cui si è raccontato a noi
+noi di come ci ha insegnato le cose che riteneva giusto insegnare
+parlando di leggenda vorrei spendere un po di tempo
+a parlare del mitico yorker c'è questi tutorial lui frate era stato in contatto con york da cui aveva ricevuto questi tutorial
+questa è la leggenda appunto quindi come tutte le religioni come tutti i miti è esiste una parte della verità che dev'essere rivelata ma c'è qualcuno ma di york non si sapeva niente si era perso il contatto c'era invece era stato un email famosa che lui diceva questa aral l'email a cui io ho ricevuto l'ultima
+ultimo messaggio da york che era questo remailer anonimo in finlandia credo
+si sa è questo orche è rimasto lì aziendale ad un certo punto sparì non si seppe più niente a domanda diretta fra e mi disse ma purtroppo york è morto è morto ed è sepolto in egitto questo quello che mi disse
+why me lo disse l'ultima volta che lo vidi pochi giorni prima che ci lasciasse io lo andrei a trovare a venezia
+lo trovai completamente diverso poverino era distrutto dalla malattia ed è dave dalla chemioterapia che purtroppo l'aveva assegnato e però ci tiene molto a incontrarmi nella sua venezia e nel nel suo nel suo suo territorio
+flavia viveva in un luogo venezia vicino al ghetto ebraico e ehm
+era è era del posto conosceva il territorio conosceva benissimo e voleva raccontare anche la la
+i luoghi e mi raccontò tantissime cose del ghetto ebraico di venezia in questa passeggiata in questa lunga passeggiata che avremmo assieme e lui mi raccontò del fatto che gli ebrei ortodossi che ancora vivono venezia lì sono particolarmente
+come dire ligi alle loro tradizioni i loro miti e le loro cose quindi sono rigorosi come come tutti gli ortodossi di qualsiasi credo di qualsiasi religione ed era vestito in maniera particolarissima in quest'ultima volta che lo vidi aveva una capparella quindi un specie di di mantello nero
+è un cappello nero a tesa larga molto molto particolare e svolazzando questo mantello lui appunto purtroppo era rimasto una persona molto esile betty fosse un uomo forte prima era purtroppo molto debole e mi fece vedere la sua città i suoi i suoi posti dove era cresce
+tutto probabilmente perché lì in questo luogo viveva ancora la mamma era più anziana perché lui stava a bruxelles e processionalmente tornava a casa e era tornato forse per dare gli ultimi saluti ai suoi cari i suoi familiari li mancò letteralmente dieci giorni dopo
+iv mi volle incontrare e lo vidi con grandissimo piacere e con un
+come un sentimento di profonda di profonda tristezza
+io cercai di essere edith di
+di stargli vicino pur non potendo fare nulla perché era progressivamente danneggiato da un tumore che lo aveva aggredito allea alla gola
+e che si era metastatizzato e
+e andammo a bere un aperitivo e lui nonostante non potesse assolutamente bere l'aperitivo lo volle bere un po' lo stesso
+per per fare una specie di comunione così com'è
+e poi mi portò mi fece arrivare a casa sua dove c'era anche la moglie la famiglia e mi offrì non il prosciutto ma un salamino un salamino del paese da cui proveniva la moglie di ramon con i grissini
+è
+ricordo che ci siamo ci abbracciammo e io sentivo che non avrei mai più rivisto dopo ci siamo ci siamo scambiati un'altra mail tue mail in particolare una alla quale lui mi rispose e un'altra dalla cui non risposi più e forse io non so e non saprò mai se l'ha letta o no la secon
+merkel gli scrissi quella in cui lo salutavo
+la notizia che lui mancò a me la diede proprio davide mala e io in quei in quei giorni ero in arabia saudita in po' mi ricordo fosse in kuwait non ricordo e io presi la telefonata da davide e davide mi disse sai che non c'è più a flavia è come come tutte le volte che tiri tu dicevi la notizia importante
+drammatica rimane incisa quelle circostanze in cui tu eri in quel posto quando ricevi quella telefonata o quella cosa e quello è un una cosa che è dentro di me e tu davide come lo sapeste che che farà aver voluto mancare era arrivata un'email da un altro degli amici
+c della del gruppo bere mersin è in realtà io avevo perso contatto con fama da molto più tempo era ormai parecchio tempo che non lo vedevo e mi ero ripromesso di andare a trovarlo
+bruxelles quando ancora era lì e
+era l'anno prima che nascesse mio figlio mi ricordo che l'ultima mail che gli ho mandato gli stavo raccontando che sarei diventato papà è niente quando ho ricevuto questa notizia ho cercato di contattare le persone che sapevo essere le più vicine è è anche quello è stato un viaggio rocambolesco
+a suo modo di persone
+raccolte in modo abbastanza disperato ma che tutti erano accomunate da questa amicizia e katie sono state infilate tutte nella stessa macchina e sono andate poi al suo funerale e mi ricordo ancora il discorso che tu hai fatto marco l'ha veramente commovente
+praticamente ci trovammo ad essere io davide
+sebastiano ad essere la delegazione che rappresentava il gruppo dei suoi amici da berserk e little esatto esatto c'era anche little john esatto sì scusa mi dimenticavo e portammo io acquistai alcune conchiglie di vetro hacker di cui lui era appassionato e aveva a tal punto
+conchiglie che ritrasse anche se stesso con una foto piena di simbolismi che poi pubblicò nel suo sito prima di prima di morire e in questa foto si vede lui ormai
+debole che ha nelle mani aperte da una parte tale conchiglie nell'altra una chiave
+eron ha un'immagine simbolica la chiave per scoprire per aprire le porte per aprire la realtà e le conchiglie che erano una cosa che gli piaceva particolarmente e in quella circostanza al suo funerale abbiamo lasciato alcune conchiglie di vetro nella sua tomba su su in cima alla collina
+di lamon e io dissi qualche parola ma era molto emotivamente coinvolto
+però ricordo con molto piacere questa questa circostanza in cui conosciamo anche altre persone del suo paese
+che lo vedevano anche loro come un eroe come colui che avrà come dire era andato nella grande lontana bruxelles lamon la monna il paese lì era un paese di poche anime di persone che hanno sempre vissuto là non è che sono gente che abbia girato chissà cosa è per loro e fra via
+e era era uno che aveva conquistato l'europa ha di fatto e aveva promesso
+anche ad altri di forse aiutarli in un processo di emancipazione di di liberazione dalla dal dal dall'oppressione industriale che l'industria del fagiolo pensate voi l'industria del fagiolo di lamon
+impone a coloro che nella neve in quella regione lavorano questo questo questo prodotto questo questo frutto questo questo legume e chi fa il fagiolo di lamon è famosissimo il fagiolo di lamon ma è è come dire schiavizzato dalle industrie che
+oh lollo lo mettono sul mercato e lui forse savia anzi senza forse aveva promesso che avrebbe fatto qualcosa per i suoi compatrioti del paese forse per liberarli per brett per rompere questo monopolio per rompere questa schiavitù dalla dall'oppressore industriale
+a lungo dopo
+alcuni dei suoi contatti che conoscemmo al funerale mi iscrissero forse per cercare da parte mia un supporto in questa in questa specie di ideazione che oppone sepino seppi dare seguito e neanche lì reality cracking insomma
+anche su quell'aspetto penso che ancora se fosse qui adesso parlerebbe di scientific action sicuramente rispetto a quello che sta succedendo e tra l'altro non è un caso che il termine certification sia stata coniata da cory doctorow che a ha partecipato con lui a diversi
+in stock adidas presentazione non saprà sicuramente si sono parlati hanno avuto modo di condividere a me alcune cose e neanche io sapevo questa non sapevo che si conosce io ho conosciuto corridoi zero indipendentemente ma total tutt'altra tutta l'allora stato non so quanto avessero parlato assieme ma sicuramente sono stati
+ehi cho presenti appunto nel duemilaquattro a ravensburg nayarit ravensbourne college c'è stato questo topic era copyright bros community ed è quello la cui registrazione presente anche su arcaico datori e anche e mi ricordo che c'erano stallman a trabia e cory doctor
+assieme in quella gemma
+un'altra persona con cui fra via sicuramente avrebbe avuto molto da dire da scambiare lawrence lessig
+l'hotel classiche e la sua come dire idea del copyright del copyleft e di come lessig e l'avvocato l'avvocato di harvard
+che ha sostenuto più di ogni altro sul fronte legale la legittimità del software open source e dei movimenti the free software e dell'open source quindi è una figura di grandissima caratura sul fronte legale che ha supportato lo sviluppo delle licenze open source delle licenze open in generale no non c'è
+credo si sia mai intersecato con con con flavia certamente lawrence lessig si è intersecato con
+con richard stallman con altre persone di quel calibro nel mondo dell'open source
+rabbia era stato
+a mio modo di vedere uno dei primissimi che
+aveva aperto queste conoscenze che prima erano riservate solo a gruppi di hacker
+erano custodite molto gelosamente la cosa una delle cose secondo me eccezionale è il fatto che proprio lui
+aveva come dire aperto le porte un po' a tutti però non indiscriminatamente
+ma dovevi un po' sapervi bagnata sì sì e questo è importante perché implica il concetto di responsabilità
+nel senso che non ti do le istruzioni
+dirette per fare una una cosa illecita te le devi guadagnare dopodiché sarà la tua etica interna che ti dice come usarle si può usare in che modo questa è una cosa fondamentale nell'accesso all'informazione e quindi prima te la devi guadagnare e lui congeniale un sistema
+ma per farlo che poi lo stesso che ha usato anche
+ma la davide che ha fatto anche lui una rana un'impresa di simile e di simile successo se vuoi raccontare qualcosa david è molto bello la tua alfa volentieri sì in realtà quello che facciamo io veramente era sulla falsa riga di quello che organizza rave o laica che university è un po' più automatico nel senso che
+la mia idea era dare dei premi a kara
+utenti che avrebbero giocato sul mio sito abbiano partecipato al mio sito in base a degli indovinelli
+a ogni live a ogni indovinello che risolvevano potevano accedere a un livello successivo all'interno di questo sito e a ogni livello ci sarebbero state nuove cose che venivano sbloccate tool tutorial eccetera senonché dopo poco direi un paio di mesi probabilmente
+la gente ha cominciato a dire ma per noi il premio sono gli indovinelli stessi perché si divertivano a giocare costo sito e allora hanno detto butta via tutto lascia perdere le altre cose vogliamo solo altri
+altri livelli altre challenge altro stimolo e quindi niente addirittura mi hanno voluto dare una mano a pubblicare
+nuove cose nuovi indovinelli e dopo un po' il sito andata avanti praticamente da solo nel senso che trovo un bel po
+la gente continuava a fornire cose nuove il mio lavoro era esclusivamente provare a risolvere questi indovinelli e assicurarmi che non ci fossero dei punti dove le persone rimanessero bloccate in realtà ci sono dei punti dove le persone possono rimanere bloccate finché
+mi ricorda uno degli indovinelli si risolveva solo scrivendo in un certo punto come password am getting frost rated so quindi per arrivare
+veramente frustrati e li ha automaticamente dato la password uno di quei livelli se volete provarlo
+si è vero ero molto d'accordo su questa cosa che se da un lato della lavagna condividere le cose con chiunque deve guadagnarsele e dall'altro c'era anche una a
+una mossa tattica no psicologica che stava dietro a queste cose perché il rendere questa conoscenza non accessibile a tutti gli faceva in un certo senso desiderare di più biblioteche ti faceva sentire anche elitario ti faceva sentire speciale e bellissimo questo se se se stesso
+e poi che mi risulti ci sono stati altri progetti simili uno il progetto cicada che magari chi è interessato può andarselo a cercare e un altro è un meccanismo di recruiting che la google stesso è nientepopodimeno che la mostra esami sono messi in atto e io sono stato anche lusingato dal fatto
+che un bel giorno mentre stavo facendo il mio lavoro stavo ricercando delle cose per il codice
+che stavo scrivendo e sono stato oggetto del
+della cosiddetta google foobar challenge non so se avete mai sentito parlare di questa cosa e tu sei li stai usando google lo schermo vibra e poi si apre quindi nella schermata dove c'è l'allarme perché tu scrivi la guerra dentro google si apre completamente la patria si vede una pagina sottostante realizzata in java script
+di console
+e dice e la tao sei stato selezionato per partecipare al google challenge e i fortunati che partecipano a queste che superano gli indovinelli o meglio le sfide possono essere direttamente ingaggiati da google per fare il colloquio di lavoro e io ho l'onore di avere
+ricevuto questa cosa che capita abbastanza di rado e ho poi fatto due dei vari livelli di è che ci sono dopo ma siccome io non avevo bisogno di trovare un lavoro al google play ed ero anche abbastanza vecchio
+ho lasciato perdere ma ho scoperto poi che c'è un mucchio di gente che considera se stessa molto speciale per aver fatto questo questo called cercate google foobar challenger e poi hanno pubblicato anche alcuni team degli indovinelli che ci sono lì
+è basato sulle stesse idee di fondo di quello che davide hai fatto tu e di quello che fece anche che fece anche rabbia e che poi altri hanno imitato
+eccolo qui a roma ci sono stati tantissimi siti volevo citare anch'io però come versione italiana della iper archivio university diciamo l'università italiana racing week e che ricordo molto chiaramente perché tante persone con cui hanno affrontato caldo che abbiamo una delegazione vigente da crack it
+che sicuramente si ricorda esattamente tutto quello che succedeva ai tempi era una bella comunità di persone con cui poi ci siamo ritrovati tante tante volte tra l'altro tu raccontavi di smau come evento dove hai riportato appunto
+linux day tours mappe e in quel periodo lì ha incredibilmente per carnauba super commerciale ma smau era anche luogo di ritrovo per comodità di cracker nel senso che non avendo altro posto dove andare è un'ottima scusa per gente che era appassionata di tecnologia perdersi e mi ri
+ricordo di aver fatto delle fantastiche riunioni con un sacco di engineering durante le edizioni di smau di quel periodo che bello
+alberto
+glielo aveva fatto questa cosa ma in italiano è solo per gli italiani fra via a questo grande merito di averla fatta pensando molto in grande molto più grande
+questo sicuramente un una cosa che gli va ascritta suo merito perché era intrinsecamente cosmopolita
+flavia apri questo questo sito grosso o scusa nicotina questo sito eroe fa e ancora e ancora online ho provato a cercarlo ma non ho visto credo non credo
+secondo me lo trovi sulla su arch way back machine su arcaici possibile senso alex tra l'altro wayback machine io l'ho imparata grazie flavio stato lui il primo credo che l'abbia l'abbia nominata
+nel periodo successivo quello dove parlava su search lourdes e quella è stata la prima volta che
+era una cosa eccezionale se tuttora uno strumento formidabile
+è
+ai tempi aveva aveva un altro nome si chiamava alexa all'inizio
+la wayback machine è poi diventato un progetto della credo della biblioteca del congresso recentemente è stato oggetto di un attacco che l'ha messo fuori uso pensò poi crollano hanno riattivato
+è uno strumento formidabile per chi si occupa di ricerche storiche su internet
+ha fotografato per decenni
+lo stato dell'evoluzione della cultura del web eccetera
+peccato che non ci sia niente di simile che mi risulti per per altri protocolli per altri strumenti
+non so david fosse tu conosci se c'è qualcosa di simile per il vecchio goffo per i vecchi sistemi precedenti
+allora per offrirle a ci sono stati sicuramente i tentativi di avere dei media kadampa di dello stato di godfrey in alcuni periodi che finito su alcuni dei capponi ma non che io sappia adesso non c'è una a un progetto tipo winback mai
+snape tenero una memoria storica di crociera a lungo termine e il golf lisbona enorme per cui in realtà non perderebbe tantissimo anche se credo che nella comunità forse c'è anche una certa attenzione evitare di bombare golf holly continuamente
+proprio un ambiente molto diverso rispetto a quello del soprattutto nel web odierno e i roller regnano sovrani per fare training per generale dataset per fare training di modelli di linguaggio come scusa cosa significa bombare
+in che senso
+no no non sono dana l'idea è avere dei crawler che continuamente o periodicamente si collegano a qualsiasi sito si riesca a trovare
+per continuare a fare un backup di questi siti ha per quanto mi riguarda andrebbe un pò contro l'etichetta di un ambiente che è ancora tutto sommato
+di nicchia e con spesso dei server che vengono
+messi a disposizione gratuitamente oppure che vengono pagati dalle stesse persone che hanno dave diciamo siti goffe di oracle il mio ad esempio raspberry pi
+collegato a sky e fastweb perché tu hai un sito gopher joseph governatore
+io lo trovo così si innamorerà o eh ma hai affatto un picco goffe bellissimo e di cui di cui io sono fiero di essere suo amico che ha fatto ha effettuate
+no è molto bello e voglio che tu racconti qualcosa di questo perché è un meraviglioso davide allora per me il blog allora gopher in generale non spiega che cos'è perché magari alcune hanson isaac allora sono un po' scoperto o riscoperto qualche anno fa è un protocollo
+di inizio anni novanta che lo fosse millenovecentonovantatré forse che
+era emerso più o meno contemporaneamente acat di p s san salvo il fatto che poi la categoria vito e gopher è stato sempre meno utilizzata in seguito
+è molto spartano è orientato soprattutto a far vedere diciamo i contenuti di directory quindi offre un'interfaccia molto semplice a directory in quanto contenitore di file e poi è prevalentemente orientato fail di testa ma permette anche di trasferire file binari e quant'altro la cosa interessante
+beh e che il numero di persone che utilizza l'offerta e ovviamente sceso nel tempo dagli anni novanta oggi ma dopo il duemiladieci duemilaquindici ha cominciato a risalire
+e non è un un trend costa come il vinile come il vinile melvin e pian piano ritorna è mai bello perché fa parte di questo diciamo approccio al cosiddetto small web dove la gente un po' rotto le balle di
+a seguire sempre gli stessi tipi di contenuti come corridoio richiama quei cinque social network che pubblicano link a agli altri quattro social network ciascuno e hanno voglia di ritornare a siti semplici dove il contenuto fa da padrone e che non sono pubblicizzati
+particolarmente altrimenti che magari riguardano anche delle cose molto semplici tipo la mia collezione di vecchio hardware oppure che cosa ho fatto lo scorso weekend ma ti danno un contatto molto più personale con le persone che stanno scrivendo queste cose e i blog scritti su gopher
+vengono chiamati flog
+i siti vengono chiamati gopher roll e ha avuto così successo che sono anche nati altri protocolli stavolta recenti non degli anni novanta ma di tre quattro cinque dieci anni fa lo dice già tanto cinque anni fa
+come ad esempio anime che sono dei protocolli che vogliono estendere le funzionalità di golf o sostituirle aggiungendo anche delle cose moderne ad esempio gelmini introduce markdown per le pagine introduce crittografia per poter accedere alle pagine o firmandosi quindi autenticandosi mutevole
+sito ma anche semplicemente trasferendo dati cifrati e a me ha affascinato tantissimo come cosa ovviamente in quanto merda in quanto derby vecchia soprattutto è ma secondo me era un paul ma ritornare alle origini per certi versi un po' ritornare alla guadagnarsela guadagnarmi quello che vedo o ricambi
+occhiata a fare browsing no semplicemente scrollare una singola pagina ma muovermi da un sito all'altro è un po' come non lo so entrare in una dimensione aggiuntiva hai presente il mondo disco perché la possibilità poi di vedere una terza dimensione
+e e quindi da lì poi a nathaniel è nato il mio interesse a capire come goffe potesse essere usato per fare qualcosa di nuovo lì si collega a piccole opere come progetto e l'idea di questo progetto a far girare un server gopher su raspberry pi
+che hardware molto economico che consuma pochissimo
+che può essere portato in giro e quindi praticamente permette a una persona di portarsi addosso un sito www non whedon goffe in realtà anche web perché supporta anche ai piatti tipi come protocollo adesso è kevin è alimentato da una batteria
+può essere veramente un oggetto molto piccolo può essere nascosto da qualche parte alimentato con luce solare lasciato in un bosco per mesi e la gente che ci passa vicino può collegarsi a queste risorse vedere cosa è stato lasciato lì iscritto e poi andare da un'altra parte ovviamente molto collegato l'idea degli indovini
+elli e quant'altro ma può essere usato per tantissimi usi differenti questa l'idea bellissima david complimenti e anche il modo in cui il contatto è molto interessante grazie certamente fantastico fantasy potrebbe essere usato anche come casarano rilasciato
+però che entrambe queste cose devono avere devono avere una qualche sorta di backup perché purtroppo siamo in un momento storico in cui tutto ciò che facciamo è estremamente labile e dobbiamo trovare un modo noi in particolare noi informatici in modo che le cose che facciamo lasciano un segno
+fra via in un certo senso sì stiamo qui a parlare di lui oggi dopo tanti anni ce l'ha fatta ma quante altre informazioni ci sono che meritano di essere conservate e che purtroppo non lo saranno purtroppo si perdono nel
+rapporto segnale disturbo di quello che c'è in giro adesso sempre più auto scrittore e autore rimacinata questo è importante una cosa secondo me su quell'altra
+scusa ti ha tolto no stavo dicendo una cosa su cui persone come noi che hanno vissuto
+i tempi in cui l'informazione veniva prodotta e non generata e
+dovrebbero avere la capacità di scendere in campo e ti dirà facciamo un manifesto facciamo qualche cosa per far si che questa roba non vada perduta a livello di segnale nel disturbo e questo sarebbe un lavoro importantissimo e se si è east end volevo aggiungere a quello che dicevi che non è solo il rapporto segnale rumore
+muri che ci fa a perdere cose interessanti adesso a volte il segnale c'è ma ci sono comunque delle forze in atto che lo rendono inaccessibile raggiungibili un esempio a cui penso recentemente e che sarebbe sicuramente stato caro anche a flavia peso è quello del progetto gutenberg
+che si occupa di condividere libri gratuitamente tutti i libri per cui il diritto d'autore ormai è scaduto però orientandosi sul diritto d'autore di dove sta questo progetto gutenberg e negli stati uniti per cui ci sono stati dei problemi guarda caso durante il periodo del covid
+duemilaventi dove chiunque cercava di scaricarsi la qualunque perché erano disperati chiusi in casa per passare il tempo in qualche modo e ci son state case editrici italiane che hanno deciso di
+sollevare il problema di alcune opere che negli stati uniti non avevamo più non erano più coperte dal diritto d'autore in italia purtroppo ancora è la soluzione è stata non bloccare l'accesso a queste opere in italia ma censurare il sito del progetto gutenberg interamente via dns per tutta l'italia
+ali per anni perché a distanza di tempo io controllavo ogni qualche mese ci sono dei post che
+si possono recuperare dove io lo gao la situazione è una delle soluzioni che veniva proposta da tutte le persone che rispondevano ai miei messaggi era
+a me basta cambiare dns basta a sapere qual'è l'ip e tutto quanto però in realtà il problema non è quello dov'è che ci sono tante risorse che avremmo potuto comunque leggere
+ma ci sono state bloccate in toto perché non c'è stato un controllo capillare su questa cosa e
+ovviamente pensandola come l'avrebbe pensata flavia
+a fine
+la soluzione che rimane più ovvia è spiegare alle persone come possono accedere comunque a questa cosa
+è
+ovviamente è il modo in cui poi fanno uso di questa informazione quello che le rende legittimi accedo comunque a questo sito per prendere le cose che non sono coperte da copyright o illegittimi cioè uso questo trucco per scaricare qualsiasi cosa e io nel dubbio ho fatto un back up
+il progetto gutenberg su raspberry pi
+se esce con terabyte di dati giusto per chi è interessato questa cosa ed esistono casi inutile capi in giro per il mondo di questo progetto potete anche solo far girare questa informazione per i momenti in cui questo sito viene integralmente censurato a causa di pochi libri sono scaricabili secondo me è una cosa ok
+ti interessa peraltro sarà
+censurato da coloro che lucy www peluche usurano dall'esterno ma è quella roba è certamente già confluita nel training dei modelli dei modà me lo posso vedere e dico conseguenza è una è una guerra da poco andare a censurarlo
+degli accessi che gli vengono bloccati tanto è già stato come dire digerito
+questo è un aspetto importantissimo che il mondo secondo me deve deve ancora capire è che capiremo tra poco che passato l'informazione la cercavamo e lo trovavamo perché trovavamo l'informazione originaria frammentata ora reso raggiungibile da dei frammenti di quell'informazione
+in futuro l'informazione viene generata on demand usando un pretende d'enghien che ha avuto accesso in precedenza tutto a tutto quello quello che si può pensare questo è abbastanza rilevante come cambiamento come come come evoluzione
+dell'information processing da retrieval a generation e alla fine quando la domanda diventa statistica e nessuna garanzia che sia l'originale però a questo punto punto come fai a dire la citazione esatta che ti serve per esempio in una consulta legale o
+dove tutto si mischia con una verosimiglianza approssimata è estremamente difficile quindi io potrei con un trend ripetuto di informazioni è leggermente differenti l'una dall'altra perdere la formula esatta dell'originale a cui il modello è sicuramente stato esposto ma che è stato come dire
+sovrascritto livello di pesi da varie versioni successive quindi l'opera originaria com'era l'infinito di leopardi scritto nella prima vulgata si perde quando dentro al laici vanno a finire un mucchio di altre poesie e coppie simili
+questa è una cosa su cui bisogna riflettere a non farmi cominciare con le altre
+va bene il tuo lavoro quotidiano
+e non fai te lo prometto ti piace
+e vabbè almeno al momento ha molta poca fiducia nella capacità di modelli di gestire conoscenza conoscenza strutturata conoscenza fattuale
+è vero che si può fare treni per permettergli di memorizzare quanto più possibile però è un memorizzata punto dove il dato viene richiamato in modo statistico e non ha utilità se quello che vuole recuperare e informazione precisa perché può esserci una probabilità molto alta che informaz
+restituita sia quella giusta ma è una formalità
+ok ma se io chiedo il risultato di un'operazione vorrei avere la certezza non un'altissima probabilità che il risultato che salta fuori sia quello giusto e quindi va beh la mia posizione in generale su questa che tutto quello che è e gestione della conoscenza sappiamo come risolverlo in modo anche piuttosto efficiente e con
+database basi di conoscenza e quant'altro la comprensione del linguaggio naturale la generazione di nuovi testi tramite linguaggio naturale sono un ottimo caso d'uso per modelli di linguaggio e supportati se possibile appunto da
+agenti o componenti software che siano in grado di sopperire a tutte le mancanze che questa modella modelle hanno in quest'auto sicuramente si andrà in quella direzione sempre di più
+adesso si sta vedendo un progresso in queste cose per cui è anche solo il fatto che ci siano modelli più potenti che meno spazio riescono a performare molto meglio ci permette ad esempio di non dover usare tutta la conoscenza tutti i dati che sono stati usati in passato
+ma poter fare una selezione didattiche tycoon meno informazioni ma di qualità ha comunque sufficientemente buona per ottenere prestazioni equivalenti a quelle dei modelli precedenti che prendevano diciamo la qualunque inclusi come diceva marco prima tanti libri protetti da copyright
+sarebbe bello unire le nuove e nuovissime tecnologie e tipologie language models
+a a gopher ne verrebbe fuori un intero mix di tecnologie aree archeologiche da una parte nuovissime dall'altra visto un esperimento recente oggi pomeriggio l'ho visto una foto di una
+una piccola presentazione un piccolo workshop che era stato fatto per vari utilizzi di lama file una
+diciamo una leyland locale con un software di mozilla per far girare localmente incredibile tra l'altro attrezzati e a me piace molto ma non dico niente al windsor park per poi sembra che faccia pubblicità fa secondo me è incredibile quello che c'è dietro lama file è sicuramento middle
+tecnologie interessante e nelle foto che ho visto oggi c'era un vecchio apple apple due
+praticamente utilizzato come terminale per un lama file per cui
+come saprai non è down vecchio yeppon bellissimo bellissimo come dici tu alla fine goffe vorrebbe dire una cosa simile fondamentalmente riguardo questa non so se vedete lo vedete un po' la mia tastiera ha assistito progetto del cosmo ehm sirius millenovecentottantasei tasty
+nel giurassico una model mabel m
+quattro quattro due chili di tastiera però il novecentottantasette
+count macerata un certo amore nell'usare le cose vecchie nell'usare le cose che hanno avuto una storia con te quante cose sono state pestate su queste tastiere qua
+sono cose molto belle e
+io credo sì che l'intensa artificiale ci offre tantissime sfide ma bisogna andare in un riapro riappropriazione grazie all'open source secondo me delle delle
+enti di elaborazione del linguaggio e quindi più che pochissimi i grandissimi e ignoti modelli generalisti o offerti da tanta dal cloud
+pensate ad una società ad una pletora dunham distribuita presenza di modelli più o meno storti più o meno accurati più ma liberi che fanno ciascuno le proprie cose e che discutono fra di loro animate animatamente e costruiscono delle opinioni differenti come noi come le pen
+zone piuttosto che subire
+un'omogeneizzazione
+come dire autoritaria da parte di qualcuno qualcuno di esterno chatelain pone però questo questo questo è lo spirito di praga che che viene fuori no condom sì un po'
+mi piace tantissimo all'anno il modello start
+chiare e vere non deve avere modello perfetto secondo dev'essere il lavoro che serve a te e sui tuoi dev'essere storto perché la la struttura l'errore la accettazione della diversità è una delle fonti del del progresso nella storia della vita
+grazie all'errore che esiste l'evoluzione grazie all'errore da una parte e grazie alle vite brevi dall'altra secondo me
+è solo la combinazione di queste due cose processo di replica errore e vite brevi che fa si che esiste un progresso se togli queste tre cose qui il progresso si ferma è triste ma è così
+allora
+mi piacerebbe
+che mi desse la vostra opinione alcune cose le abbiamo dette ma magari
+puntando di più su qual è l'eredità che ha lasciato flavia qual è la lega se di flavia secondo voi le cose più importanti
+ad esempio penso
+non so le cose che rompi le regole rompi le regole
+leggi tra le righe e pensa con la tua testa ecco queste è per me almeno
+sicuramente a livello di insegnamenti pensa con la tua testa io lo declino come una frase che mi diceva spesso mio nonno e la bicicletta la controlli tu man è lei che controlla te è uguale col computer
+e se ci pensi se ci pensate
+si può declinare veramente oggi questa cosa cioè prima si parlava di software che era scritto ad altre persone che dovrà essere compilato per essere compreso e quant'altro adesso si parla di sistemi che si basano su servizi web nella maggior parte dei casi e non sei più in controllo quasi di nu
+nulla perché gira tutto da qualche altra parte ma c'è comunque la possibilità di capire che cosa sta succedendo ci sono tantissimi
+sforzi che vengono fatti in questa direzione ad esempio recentemente c'è stata questa causa contro globo a causa del fatto
+che i dati personali dei dipendenti di globo
+venivano utilizzati dalla società venivano catturati anche momenti in cui i dipendenti non lavoravano per loro e c'è stata una denuncia al garante per la privacy dopo in italia e tutto questo è stato frutto di un lavoro di reverse ingegnere che è stato fatto su i protocolli è l'applicazione che veniva utilizza
+usata per appunto fare trekking accettare i nuovi lavori di delivery
+e simulando una di queste applicazioni si è fatto significa di tutto quello che passava per la rete ed è uno strumento
+fortissimo è che ti dà non solo il controllo di quello che sta succedendo in termini di cracco il programma gli faccio fare quello che voglio io ma la comprensione di quello che sta succedendo a come modo di conoscere le cose edin dzeko minimo di controllo su queste cose controllo di
+spesa in questo caso
+però richiede competenze davide molto approfondite e competenze che sono sempre più lontane dall' utente quindi il poveraccio che fa i driver il delivery di globo come fa a capire il sistema di cui è vittima alla stessa mentalità che fa il driver per uber è uguale non cambierà è un prob
+l'ema è un problema generazionale questo per cui sempre meno persone capiscono come funzionano le cose che stiamo utilizzando e viceversa le cose che utilizziamo che tutti utilizzano al giorno d'oggi e le utilizzano senza sapere esattamente come funziona e non voglio
+fare il gatekeeper dicendo solo chissà come funzionano queste cose le può utilizzare assolutamente non perché voglio sottolineare quanto sia importante ancora adesso forse adesso più di prima
+avere un'idea di come funzionano certe cose è il fatto che non possono farlo tutti non significa che qualcuno interessato a queste cose e non debba farlo proprio perché è importante è molto importante e si parla di avversario all'interoperabilità ad esempio prima del tempo si parlava appunto
+di protezione dei programmi adesso si parla di come faccio a creare un'applicazione open che funzioni con un sistema che è chiuso ed al quale stanno togliendo le chiavi ad esempio sia twitter e reddit hanno tolto l'accesso alle o o completa
+mente tolto essere profeti hai omesso accesso ai profeti ai a pagamento a cifre così alte che tante aziende hanno dovuto chiudere i loro client alternativi perché diventava economicamente
+svantaggioso per loro continuare a utilizzare queste cose è è giusto
+non lo so
+una cosa che a me è molto cara avendo lavorato anche per qualche anno a twitter
+e avendo visto come si era voluto nel tempo e come l'algoritmo chiamiamolo l'algoritmo era cambiato nel tempo una cosa che a me preme molto e far sì che le persone abbiano la possibilità di scegliere che algoritmo gira sulle loro time
+è è una cosa che adesso si può fare con mastodon ad esempio o un qualsiasi
+a diciamo a client outlet
+la piattaforma activity pub compatibile
+utilizzando modelli locali che girano sulla tua macchina e facendo storcere come nation fra risorse in questo modo ma non lo puoi fare con twitter a meno di fare clomid dei dati dalla time line tra l'altro togliendo prima quelli di lomas perché comunque a te vieni dentro tre online anche se non lo stesso seguendo
+è
+e questo ovviamente richiede a versarne limiti richiedono un approccio alternativo a recuperare i dati poi il discorso insolito uno dice va bene alla società privata
+scegli tu se vedere o meno queste cose se le vuole vedere per seguire le loro regole ok
+c'è la scelta per fortuna adesso la possibilità di seguire qualcos'altro
+io sono molto preoccupato su queste tendenze qua anche perché non riusciamo più a pagare coloro che erano gay
+i garanti dell'informazione e della se vogliamo chiamarla verità che poi non va confusa informazione verità ma la casta il ruolo della professione dei giornalisti era una cosa importantissima ed era
+era pagata adesso questa cosa è stata disintegrata e quindi chi è che ci garantisce qualche cosa che ci garantisce la qualità di un punto di vista quando la realtà può essere generata a piacimento daddy con il bias che desideri questa è una cosa estremamente preoccupante secondo me
+non vedo facili facili uscite perché
+c'è anche abbiamo qualche sacerdote che è capace di scrivere il codice che va a vedere come funzionano le cose ma sono pochissimi e come fai a evitare che quelli non vengono silenziati o che non vengono comprati o che non vengono estinti
+un problema molto serio
+ce ne vorrebbero di più dei fraia neanche nuovi anche giovani anche pimpanti e bisognerebbe studiare la scuola questa roba e io cerco in ogni questione che faccio di mettere sempre qualche pillolina su questi su questi aspetti anche perchè senza tu non distingui più il buono dal cattivo non hai più delle idee tue
+e sei un un rivenditore di opinioni di altri tu devi avere delle opinioni tue sbagliate o giuste che siano devi avere delle opinioni tue e queste te le devi costruire pezzo per pezzo cicatrici per cicatrice durante la tua evoluzione in qualunque professione tu svolga perché queste cicatrici queste
+cinque stelle stimarci sono tuoi fanno di te quello che tu sei e fanno di te la
+la vera il privilegio di un punto di vista che osserva la realtà e la decodifica flash spiega con i limiti che ciascuno di noi possiede ma in autonomia magari in futuro con l'aiuto di un modello privato che fa la mia espansione che fa al mio assistente che gira sul mio viso e questo può essere una cosa molto interessante perché quel modem
+privato lo allevo con me e me lo porto dietro e diventa il mio serbatoio a competenziale
+diciamo digitale questa è una cosa molto bello sarebbe bello che questo fosse un open totalmente open e che possa essere modificato a piacimento
+ci seguono programmatori ci serve gente sveglia gente che abbia la mente aperta che abbia capacità critica anche per rompere il sistema laddove il sistema merita di essere rotto pensate pensate a quello che avviene nelle dittature nei nei luoghi dove non ci si può esprimere come ci si difende lì dentro e questo è un problema molto grave
+se non sono le persone un po' più vecchie come come siamo noi ora che danno una mano a quelli più giovani ad andare nel verso giusto chiacchiero fa
+easyjet
+ha cominciato una domanda flavia vai vai che c'è una domanda di cyrano alessandro come se relazionerà beh frase con l'odierno mondo gli ha residenza artificiale
+mi pare una cosa l'abbiamo detta prima
+ma ditemi cosa ne pensate
+non lo so
+sicuramente vorrebbe capire come funziona ma siccome fatto sappiamo neanche noi come funziona si fa peccato sarebbe divertente qui però lui lui ha fatto qualcosa di molto simile che in realtà hacker quindi studiare i motori di ricerca no anche quelli possono essere considerati come dei sistemi black box
+e quindi come diceva davide prima probabilmente si andrebbe a provare cloud si andrebbe a provare chat gpd tutti i diversi modelli
+si ma se una volta potevi provare anche capire come funzionavano ho intuito il funzionamento di certi algoritmi adesso come fai a capire a capire in che modo si evolve la cosa che ogni giorno cambia e che ogni giorno viene indirizzato a o composta con lei e nuovi con componenti innovativi uno più bello dell'altro per carità
+reign è molto difficile da decodificare per craccare un software un giocattolo ed un gioco in confronto te
+quanti componenti fanno parte di un team dell'ecosistema di un grande
+betlemme oggi parte che non è l'entità sola che sono cinquanta e io sto lavorando a un progetto per per l'utilizzo di lvm nel mio lavoro per costruire delle prove telai che sono dei sistemi dedicati per l'utilizzo interno all'azienda in cui riverso la competenza interna dell'azienda tutto sta dentro l'azienda non fuori non
+cloud e poi posso parlarci possa interrogarci e questo consente di sperimentare le competenze delle persone che lavorano nell'azienda e di interagire con quello che queste persone hanno prodotto nel corso delle loro carriere è interessante come idea e ed è una cosa in cui credo molto questo è un prodotto che noi stiamo sviluppando e che
+usa dei modelli open source e usa un sistema di archiviazione dell'informazione e che la mantiene nella forma originale ma la consente anche di interpretarli in maniera semantica di utilizzarla dialogando
+poi una cosa così è assolutamente affascinante ma è molto complicata e abbiamo nelle nostre filiere decine di modelli che fanno ciascuno un piccolo pezzettino uno che prende documento uno che fa la gerra e un altro che lo spezza in frasi queste frasi le deve spostare nel modo giusto un altro che trasforma in numeri ed eccentriche
+questa cosa qui sicuramente affascinerà ebbe fra via che era un profondo conoscitore della conoscenza e forse eh lol lol lol lol lo lancerebbe verso altri verso altre altre prospettive per esempio come far cambiare idea a nelle lame ed è una cosa affascinante secondo me
+no no noi da uno usa un politico di professione deve far cambiare idea alle persone deve polarizzare le opinioni
+ora come fai a far cambiare idea ad una macchina
+è bello questo no quindi devi poi costruire il dubbio poi iniettare delle delle perplessità puoi dire che la realtà non è così semplice come lui la vede
+e questo secondo me è una cosa che lo affascina ehret è una sorta di
+psicologia avanzata o di propaganda per lei iper instillare dubbi perché le hai adesso non non ce l'hanno hanno delle certezze ti rispondono magari accostate a delle domande che tu hai
+non può non rispondere perché la risposta è generata da un sistema che è costruito per generare sequenze a partire da una sequenza seme ma ma e mi piacerebbe vedere un lemma che quando gli faccio una domanda rick non lo so
+però non credo che lo vedrò mai
+ha poi puoi chiederlo nel pronta alle domande che ti rispondono beh non lo so ogni tanto un esempio che avevo fatta per gioco era
+concentrarmi sul fatto che questi sistemi non non sono veramente convinti di quello che dicono anche quando dicono sono sicuro che questa cosa guarda che questa cosa è giusta ma l'intenzione manca è un esempio che avevo fatto era
+usiamo all'interno del prompt a un modo per far sì che la macchina sia sempre dispiaciuta e cioè alla fine di ogni risposta deve dire che sei molto dispiaciuta per il fatto che la tua conoscenza completa uno sei sicura di questa cosa eccetera eccetera e ovviamente la la land rispondeva in questo modo tutte le volte quindi questo termine
+disclaimer ma veramente dispiaciuta é un pò come quando in treno ti dicono siamo dispiaciuti per il ritardo nella voce registrata non c'è qualcuno che è veramente dispiaciuto per il padova e per me era un po' una questione di principio o gianmarco dice volevo molto bene a fare tranne sostenuto suo messaggio andava in giro con la maglietta no nel west by free ma oggi do
+dopo che abbiamo visto come riforma sei libera viene abusata e finisce mancava e compreso che se ha interrotto il messaggero marco marco dice come va avanti
+fatto ecco gianmarco faceva parte della genga di it ad esempio scusa se ti salutano
+l'ha già fatto foibe
+e cosa farebbe fra via con l'odierno mondo okay io credo un po' come dicevi tu marco sicuramente gli piacerebbe giocare con queste cose e gli piacerebbe sporcarsi le mani provarne diverse aree be ready timing ha sicuramente
+cercherebbe di spaccare i modelli esistenti con dei pronta
+i profumi assurdi raccoglierebbe prompt che trova in giro di pubblicherebbe tutti quanti in un posto ci sono dei progetti che fanno questa cosa al momento per fortuna è è un po' come quei crac alla fine se ci pensi lui sapeva fare hacking ma non sapeva fare qualsiasi cosa non sapeva sproteggere qualsiasi cosa il suo vero potere
+era stato mettere assieme una comunità di persone alcune delle quali tecnicamente erano veramente bravissima
+quindi secondo me oggi lui potrebbe diventare un accentratore di conoscenza riguardo ai larghi language model nello specifico perché l'odierno montoya è prevalentemente l'art god mode ma magari offrendo anche una soluzione alternativa tipo c'è questo problema si può risolvere con un modello che non è una
+belen perché risolverlo con un come avrebbe detto lui overblog ted software
+perché non usare una cosa molto più semplice e di base un modello di dieci anni fa che però questo problema ma solo questo non risolve altrettanto bene bene è open source ed è molto più economico e in generale metterebbe la testa in queste soluzioni e non i soldi diciamo cosa che asia argento
+ha mai voluto pubblicità nel suo sito ma mai voluto far soldi ma niente sempre detto in una delle sue pagine riguardavo papà per preparare un po' a questo evento di oggi una di queste pagine ci volete aiutarmi io non cerco soldi la cosa che mi importa di meno di tutte e mi siete molto più utili se ad esempio mi
+fate vedere che ci sono dei tipo all'interno del mio sito o se volete mostrarmi una nuova protezione che ancora non conosco e così via
+quindi anche qui io penso rispetto a
+a a qualsiasi informazione in più che gli permettesse di nostro a imparare cose nuove ma anche di condividerle poi con gli altri e la accetterebbe volentieri la e la collidere
+forse ha forse gli piacerebbe
+avere qualcuno o qualcosa che porta avanti i suoi messaggi le cose in cui credeva in cui ha sempre creduto io gli dissi che
+tra le altre cose che avrei sempre ricordato i suoi messaggi e li avrai sempre insegnati e questo è quello che ho fatto tutte le volte che ho potuto perché credo che siano messaggi senza tempo
+è chiaro che ciascuno fa le cose nel contesto nell'ambito ewa penso che oggi sarebbe lui è sempre stata una persona affascinata del futuro e forse gli piacerebbe gli piacerebbe anche a me
+addestrare che ne so con tutti i suoi contenuti con un lemme e poter poter consentire agli altri di gettarci anche quando lui non c'è più e questa è una cosa molto bella che forse eh
+art
+cavolo
+dipende anche da altri per peraltro probabilmente sì se penso a tutte le cose che le persone scrivono come eventuali c'era una domanda di livia
+aldo
+allora era chiaramente una contraddizione questa perché da lui da un lato era era
+contro l'establishment contro qualsiasi tipo di establishment e poi però da quell'establishment decade ne cavava da vivere perché so come dirlo ma era con un operatore addetti un te' un sistema di una grande burocrazia nel senso positivo
+legislativa europea
+per carità non si fa l'europa se non c'è un corpus documentale che tutti capiscano e lui ha elaborato quello è il suo lavoro era di coordinare le persone di varie competenze che dovevano tradurre le lingue d'europa nelle varie nelle varie lingue dei paesi che la compongono e
+davide mi diceva che questa sua opera da coordinatore della traduzione ha poi consentito anche ai modelli alle mamme che sono nati dopo di utilizzare l'esito di questo immane lavoro di traduzione perché tutte le cose sono state scritte e riscritte nelle varie lingue con grande accuratezza da persone umane
+e quindi quel lavoro di come dire sinottico di confronto tra le varie lingue dalle varie leggi spesso nelle varie lingue è stato formidabile per addestrare gliele lemme a parlare le varie lingue e questo prima ancora di glenn cioè non erano neanche modelli di inizio maggio
+o come ai giorni nostri diciamo già a me una decina d'anni fa si usavano questi dataset è questo l'importante ed era andato a sette intrinsecamente accessibili e pubblici by definisce fatti da gente che sapevo cosa stava facendo quindi lui era aveva questa contraddizione da un lato era un burocrate è da un lato ero
+anarchico e quindi non so come come come
+come se la giocasse internamente sicuramente posso dire che la sua famiglia
+avevo un po' di avversione per il per il mondo underground per il mondo del racing per questi gruppi coloriti di personaggi che probabilmente passavano dalla casa di giorno di notte fanno continuamente perché era un porto di mare e questo probabilmente la sua
+figlia avrebbe voluto un pochino più di intimità e io penso una cosa rimane al lavoro a alla diciamo
+rapporto la vita lavoro diciamo
+e sue convinzioni da quanto avevo capito io la la regola principale era fare un lavoro di cui non ti vergogni fondamentalmente ciò che non va
+dichiaratamente contro le cose in cui credi portati a casa quanto basta per vivere senza pensieri e poi usa tutto il tempo libero che ti rimane per fare cose cui tieni quindi sempre la loro non è nocivo a qualcuno magari non è più entusiasmante del mondo però sicuramente quello che ha fatto lui
+ha utilità appunto magari
+potrebbe aver avuto bisogno di una valvola di sfogo ma essendo comunque un lavoro dalle nove alle cinque diciamo è certo ma non è che rara
+era abbastanza fortunato trovare un estratto da lavoro cosea esatto sì sì sicuramente è stato fortunato magari
+ha avuto più fortuna di altri a trovare lavoro anziché oh per carità uno che ha studiato ha studiato lingue e le ha applicate non ha avuto problemi a prendere a spostarsi andare a vivere da un'altra parte attrice e comunque anche quello è un fattore io ci ho messo tantissimi anni prima lì decido di andare a vivere all'estero e da allora
+sto benissimo
+c'è anche questa cosa da dirvi e cosimo forse
+se sei abbastanza bravo io sono l'unico che mantiene avanti la bandiera italiana ma se mi trovo a lavorare in norvegia credo di doverlo proprio fra via perché
+permettete giusto so che alessandro non vuole che parlo troppo ma per me questa è stata come una scelta di vita nel senso
+io nel novantotto novantanove duemila seguivo ovviamente il sito di flavia è una delle cose che lui ha sempre detto dall'inizio era che opera era il browser migliore di tutti perché a quel tempo potete disabilitare le immagini potete disabilitare javascript era il più
+veloce che c'era stava in un floppy disk e per me questa cosa aveva un significato incredibile
+aqua opera camst azienda poi è capitato che ho trovato questo annuncio di lavoro e opera software norvegia
+ho provato a mandare curriculum fallito miseramente
+due anni dopo ci ho riprovato mi hanno preso e così sono mi sono spostato a oslo e sono entrato dentro questa azienda che per me era mitica perché facevano il browser il browser migliore che c'era e l'ha frase
+bellissimo articolo all'asta o terrell non lo sapevo è bellissimo questa cosa vedi
+è uno dei body meravigliato la mia vita no e non di modi meravigliosi in cui qualcuno che tu non hai neanche avuto la fortuna di incontrare
+per un per un cenno da qualche parte i influenza tantissime persone che cambiano il proprio destino a seguito di quell'influenza per me la cosa che fa venire la pelle d'oca e meravigliosa e ora non so dire se le cose che ho imparato da dare alla frase hanno cambiato la mia vita probabilmente sì e forse anche da
+vide fosse tela è già detto però forse è avvenuto anche a tanti altri e questo aereo è una strana eredità meravigliosa secondo me perché l'ha cambiata in meglio probabilmente allora se io a distanza di venti e passa anni sono stata un evento a a fine settembre end summer camp
+era andato a portare john tong dal titolo pines molly lo trovate su youtube è uno dei commenti che ho ricevuto alla fine è stato ma grazie per aver parlato di queste vecchie cose perché ovviamente ho citato anche qualcosa della naufraga al cibo e quant'altro gente che nave
+oh mai visto e fu ho mai parlato ha detto massa sai che flavia ha cambiato la mia vita e cioè persone ma nel corso degli anni ma è successo tantissime volte e ecco vedi maurizio dice la stessa cosa sono tornato ragazza sono di provare a rompere modelli allarme cercando il sistema anche saint frigo
+forse più divertente e sexy tecniche
+fragili bellissima casa bellissima val rischio di sids bellissimo ritroverai a questo risponde anche a largo a quello che dicevi di lega sì che ferrovie ha lasciato cioè non so solo gli insegnamenti è proprio un pezzo di sé che ha lasciato all'interno di diverse persone e confermo ma
+quello che tu dicevi anch'io sono stato severamente impattato dalla moda di fare e di pensare l'italia nel momento in cui ho preso decisioni di vita cioè lui stesso ma detto da regina bruxelles ti faccio sapere quando c'è un concorso e magari viene a lavorare solo così è il solo pensare all'idea di spostare
+armi a lavorare con l'altra parte mi ha permesso di fare delle scelte che erano estranee al continuare a lavorare dove vivevo precedentemente al
+scegliere ad esempio io ho scelto di fare quindi continuare l'università dopo la mia laurea ho fatto un dottorato di ricerca post-doc perché la prima cosa che ho pensato è il tipo di lavoro in cui mi sentirei più a mio agio si parla di lavoro di cui vergogna che comunque ti rende qualcosa è un lavoro che mi permetta di condividere
+quello che io imparo tutti i giorni e per quello vogliono ripensare l'università vado a insegnare fare ricerca insegnare le cose che ho imparato facendo ricerca è così è così è andata avanti per tanti tanti anni in realtà prima che finisse a lavorare
+montebello
+io ho ricevuto molto da flavia e anche ad altre persone che in quegli anni ho incontrati ho lavorato negli stessi anni in cui ho conosciuto flavio ha lavorato per conto di ibm e ibm mi ha fatto fare distruttore a contratto e mi mandava in giro dovunque fosse bisogno di fare dei corsi e sulle cose più
+disparate quindi ciò mi davano tremila pagine di manuale tiene marco devi andartene a insegnare questo corso qua quattro giorni devi andare in questo posto e insegnare questa roba qua erano mai detto di no questa caratteristica e mi costringeva ovviamente delle delle passiate di studio di tutte queste cose che per
+sono state formidabili per il mio lavoro successivo e anche per la modalità in cui io le ho imparate in cui nel periodo in cui la mia mente era più recettiva più più più più brava più abile
+e poi molte di quelle persone che ho conosciuto ricorsi che ha insegnato da sbarbatello sono diventati anche miei clienti dopo nel mio mondo professionale questa è una cosa a cui devo che devo molto per cui devo molto alle persone che mi hanno consentito di farlo e che si sono fidate di me come insegnante quando io
+non sapevo le cose che avrei dovuto insegnare però sapevo come studiarle per poterlo insegnare e questa è un'altra grandissima cosa che ha insegnato frase se non sai farà fare una cosa bella non è mica problematica studiate poi la fai
+perché tutti i cracker tutti diversi e bisognava decodificare ciascuno di essi per poterlo sconfiggere bellissima uno degli approcci
+e candy che i vari tutorial insegnavano era quello del
+the lasting
+che secondo me è un metodo che è valido per tantissime cose e io inizialmente pensavo
+ma questo è troppo difficile sarà troppo stato immenso no ma poi ho provato e in realtà si riesce cioè essendo sistematici no non non dado non dandosi mai per vinti e quello secondo me è una tecnica che
+care
+disassemblato del codice
+ho poi tu analizzi cosimo anche lo zen cracking
+oppure c'era c'era un software un ricordo più come si chiamasse con cui potevamo visualizzare la memoria con pixel di diverso colore no e comunque era una cosa se tu potevi contemplare il sorgente tipo matrix ved vedere la schermata in bitmap che però aveva i pixel dei vari colori corrispondenti ai vari
+i btp che c'erano in quel pezzo di memoria e tu
+visualizzando la memoria e cambiando la larghezza della visualizzazione potevi potevi interpretare cosa c'era in quelle aree visualmente incredibile e che ho detto questa era una cosa che ho imparato è che mi è rimasta è ed era una meraviglia che vietò perché tu non vedevi il codice devi
+l'ombra del codice in un canvas
+da molto più lontano però potevi capire dove stavano le risorse dov'erano dov'erano lele i vari componenti del pm telex chiude bologan e questo era molto bello
+poi fra rinominato koch scusami
+otto an
+al reverse engineering con dei tool professionali come il ida di kifaya gay manovra che era un prodotto assolutamente strabiliante capeto raku
+un cross di assembler che funzionava per tutti i processori e per tutte le piattaforme di vari sistemi operativi con quell'oggetto lì che ho imparato un po' grazie flavia
+ho fatto un lavoro per il sole ventiquattro ore
+a caserta dove c'era una macchina che stampava il sole ventiquattr'ore per tutto il sud italia e che era poggiata su una macchina con un sito operativo che non era più supportato o sui due versioni uno e il software aveva scritto un signore in germania che era morto e l'azienda per cui bisogna avere lavorato era fallita
+e questa illustrazione delle rotative che mettevano l'inchiostro sulle varie pagine del giornale ed era una roba o due uno io ero certificato per questo atavico sistema operativo e quindi conoscevo bene la piattaforma ma dovevo craccare questo software perché non c'era altro modo per far andar
+avanti alla rotativa capire come funzionava per trapiantarlo in un arduino un pochino meno meno vecchio e questo è una cosa bellissima e qui in chat valerio davide dominano soft times e software sia stato soft
+né mi è molto dispiaciuto quando soft times non è stato più disponibile no
+sistemi operativi sono cambiate
+è una cosa eccezionale se errato quindi è una meraviglia
+cessionario sebaste niente di simile
+gazzetta di base era soft al posto di windows praticamente partiva sempre il vaga e priva di qualche articolo sotto casa che windows era la versione editata da men nello spazio di pudding allo scritto assassina power com è
+sempre quella
+effetti è anche woody asma io lo chiamavo così per per avere l'estate ma c'è un ricordo eccezionale il vecchio list list punto com di vernon burg era usurata usando tale
+visti i pochi cappa è però ti consentiva di visualizzare qualsiasi file rapidissima velocissimo andava in text mode faceva esadecimale
+ed era un gioiellino
+ho contattato l'autore di quel soft lì perché volevo ringraziarlo per infinite volte in cui avevo usato il suo sorte senza pagarlo
+e per scoprire che era morto poche poche settimane elettrica
+vernon burg
+io usavo ovviamente come consigliato da più york usavo p s edit no anche edith te
+che sono ancora sono cose che io conservavo su cd che mi facevo tutti i siti e con tutti i tool tutte le pagine scaricate con me le porte o dabliu get no sicuramente ce li ho ancora
+non si leggono quasi più rigidi i floppy si leggono ancora recentemente ho comprato un floppy esterno che si attacca avios b e sono riuscito a leggere dei dischetti di quaranta anni fa ed è giacomo
+di quelli peraltro che usavo io che per risparmiare i soldi li facevo il secondo buco per descriverlo anche dall'altra parte
+se il reality cracking se asad
+comunque insomma che bello questa chiacchierata che ci ha consentito di ricordare queste vecchie cose per me una meraviglia
+e io per me è fantastico perché per me è come dire tornare e incontrare i propri eroi di gioventù
+ma davide era uno dei primi che i primissimi che flavia aveva
+sottolineato come a questo bravissimo stock cracker italiano
+per me c'è incontro un errore di gioventù uno grande
+non sapevo di te marco ma no ma io non ero non ero ero molto defilato ero già vecchio allora quentin
+la cosa bella di david è che davide aveva l'ultima cosa che dico aveva un sito bellissimo che non aveva lourdes come tutti gli altri aveva un numero scritto direttamente e in integer format a trentadue bit e c'è ancora sì ma te ma funzione un altro modo poi ce lo racconta
+era bellissimo perché è vero
+che aveva questo aveva solo un numero non c'era un un nome di dominio no un numero è un numero intero molto grande era l'espressione a trentadue bit sottoforma di integer della della delle quali quattro tetti dell'an degli indirizzi pv quattro e funzionava
+bellissimo
+se funziona non funziona non funziona più
+alon il sito i browser no no allora no no funziona tutto ancora il browser interpreta ancora correttamente praticamente allo scoperto questa cosa andando a vedere come funzionava nel browser e che tipi di indirizzi potevano essere forniti e avevo scoperto che l'indirizzo ip deve essere fornito in modi diversi poteva
+essere appunto quattro tetti cioè quattro numeri ognuno dei quali in acqua intero separati da punti e sono i classici grip che normalmente si veda oppure potrà essere fornito come integer quindi prendendo questi quattro b appiccicando lì assieme e convertendo tutta l'unione un numero molto grosso
+oppure come in esadecimale addirittura zero ics e poi direttamente in versione esadecimale i quattro i quattro componenti dell'intensa più e
+io ai tempi ero stato da un amico che faceva siti web aveva un suo serve e aveva detto se vuoi ti lascio spazio aperto e ovviamente anomale o
+assolutamente intenzione di registrare un dominio perché ai tempi significava spendere soldi e quindi avevo detto beh prendo l'indirizzo ip della macchina di questo mio amico la trasforma in trentadue bit e utilizzo questo faccio un virtual host somma pace e la palla per per il browser è una stringa per il
+server stesso è una stringa viene passata e posso identificarlo come server diverso e puntare alla fede diversa da direct e così ho fatto il sito si chiamava tre cinque sei quaranta venti tra i cinque stelle basta senza estensioni senza visto
+e quando magia
+esame magia e tempi comunque era una cosa che non si vedeva tanto spesso gay
+e poi ovviamente il mio amico architetto punto va detto wired stiamo per cambiare indirizzo ip e allora pur di non perdere al nome registrato tra cinque sei quaranta sei punto
+è quella macchina ancora
+dominio continua a pagarlo anche la macchina e ho fatto il root e la sto pagando da tanti di quegli anni che avrei sicuramente potuto comprarmi qualcos'altro quando con quei soldi però va bene così mi sembra un po acer aspire tariffaria metto io i soldi non voglio pubblicità non
+voglio
+ha nessuno che possa decidere che cosa faccio che cosa metto all'interno di questo sito massimo controllo adesso so che se c'è qualche hacker che sta seguendo questa notizia sarà molto piacevole il sermone su da più di dieci anni in questo momento senza mai andare a offline
+è una macchina che permettono neanche stata particolarmente aggiornata degli ultimi dieci anni
+l'azione della cerchia in questo guaio
+come dice agli utenti del mio sito potete provare a bucarla basta che poi abbiate un tutore in cui spiegate come avete fatto e pubbliche
+atassia praticamente un invito
+dati come consigliate di critica finché nel mondo di oggi
+parlandone sicuramente e facendo in modo
+fa facendo domande a cui le risposte non sono scontate e quanto più ambiguo è possibile secondo me perchè solo con una risposta non scontata che tu palleggi le varie alternative e discutendo parlandone tra persone molte persone
+da scambiare non è così perché così così perché così ha finito ha finito okay non funziona più non funziona più e ha funzionato solo in determinati ambiti molto ristretti culturalmente parlando bisogna valorizzare la diversità valorizzare la differenza di opinioni e valorizzare la capacità di cambiare idea
+perché se io parlo con te e alla fine ho ho cambiato idea vinciamo tutti e due se io parlo con te non ti ascolto perchè io paul voglio parlare più forte e alla fine ci andiamo ciascuno con la posizione che aveva prima non è servito niente abbiamo buttato via del tempo se invece io e te parliamo e siamo diversi alla fine vuol dire che abbiamo imparato entrambi
+vinciamo tutti davide
+a east end
+hotel solito aggiungo un'altra cosa che è
+riprendendo un po' informata che era tipico nei tutorial di fave di york
+a discutere vedere diverse opinioni e quant'altro e non fermarsi a quello che c'è adesso
+nei totale alla di york c'erano spesso esempi di codice e messe dose ad esempio che la gente che usava windows magari riteneva già obsoleto o alcuni tutorial di fare riguardano la cosa è particolarmente vecchie ma lui diceva se vuoi imparate il metodo lo potete applicare tanto qui quanto su altre cose ecco critica finch un secondo
+si può allenare ovviamente con tutto quello che è nuovo che attualità ma anche andando a recuperare cose del passato e studiandole e capendone e cercando di capire quali erano i diversi punti di vista su queste cose anche perché per tanti versi poi la storia si ripete in un modo o nell'altro e quindi imparare
+dalle cose vecchie e poi riapplicarla su quelle nuove e bahrain critical thinking ma anche generalizzazione come si direbbe nel linguaggio del machine learning perché ad applicare quello che avete imparato a tanti casi d'uso differenti
+imparare dal passato era una delle grandi lezioni
+infatti lui sapeva parecchio di storie c'è un ambito forse che me assolutamente sotto rappresentato ma è molto interessante e nell'ambito dell'esplorazione spaziale di lungo respiro pensate voi e e è il fatto che stiamo tuttora controllando delle macchine che sono state lanciate cinquanta anni
+fa e con i limiti che avevano allora riusciamo ancora a spremere del valore da quella roba lì ora
+nel futuro probabilmente faremo sonde sempre più sofisticate che dovranno essere supportate anche quando sono così lontane da noi e richiederanno approcci di retrocomputing per essere attuali e non posso cambiare ciò che ho mandato che sta facendo il suo lavoro anche se l'ho spedito cinquanta anni fa
+e questa è una cosa molto bella è una delle poche cose secondo me in cui l'informatica vecchia mantiene un lavoro
+passare del tempo
+so se avete
+ho sentito parlare recentemente hanno tirato fuori dei valori importanti da vecchi dati del pioneer il player una sonda che fu mandata prima del voyager su cui sono state fatte delle ricerche
+a seguito del recupero dei dati da vecchi pistoni da vecchi nastri su cui erano stati archiviati le telemetrie originali e tatti assolutamente archeologici dal punto di vista informatico ma che sono serviti a fare articoli nuovi moderni su acquisizioni di cinquanta anni fa la cosa bellissima secondo me
+questa cosa del lavorare entro certi limiti a volte volontari a volte causati dal tempo che passa ma in questo caso sponde che sono state mandate tanti anni fa la rivista recentemente
+in un ciclo di conferenze in giro league direttamente su youtube visto che ce l'avevo quali di e si chiama compiute in in linux e secondo me molto interessante perché fa vedere come da un lato la creatività può addirittura aumentare una volta che i limiti vengono effettivamente messe in atto ma
+e dall'altra un ottimo esercizio secondo me per cercare di risolvere problemi che magari adesso non sono pressanti ma che potrebbero diventarlo in un altro in un altro momento
+all'interno degli argomenti di questa conferenza c'è un po di tutto ha compiuto in guide limits a bassa computazione oppure
+solarpower e ci sono esempi di siti web che sono completamente alimentati da energia solare e che hanno un un logo all'interno della pagina che fa vedere qual è la carica in quel momento del sito che sta servendo per la paglia del server che sta servendo la patria e la gente che si collega sa che quando è sotto una chef
+percentuale di lì a poco il server non sarà più disponibile ma appena si sarà ricaricato lo sarà nuovamente no e ha alcuni cercano queste cose e c'è tutto questo fenomeno delle console virtuali di tipo cotto o di diciamo approccia programmazione volutamente ridotta volutamente limitata lenta
+torna una piccola quantità di ram e che spesso vedo
+generare degli artefatti che sono fantastici perché ovviamente per certi versi possono essere visti solo come dei passatempo per mega merda ma dall'altro stimolano comunque il pensiero delle persone che cercando di risolvere queste cose saccheggiate ci sono personaggi che ha lavorato a emulatori in passato come passatempo
+n po' e mi piacerebbe avere ma non so un breve racconto se sei ancora online valere non lo so riguardo a come è stata come esperienza ma ho apprezzato tantissimo vederti su una cosa di questo tipo perchè
+lo reputo proprio un tipo di passatempo stimolante e interessante
+che tipo di emulatore
+se ben ricordo era di commodore sessantaquattro moderno non mi ricordo esattamente però
+cercherò il video stesso il commercio online sugli emulatori c'è gente che fa delle cose spettacolari e spettacolari persone che non hanno raggiunto degli apici della fama ma che sono di tra i miei
+idoli tipo davide quello che ha fatto il
+il remo l'engine interni primordi primordiale end di quello che è il francese si chiama hybris ballard fabris ballard che sul suo sito ha messo un'immagine di windows duemila che tu puoi lanciare dentro al browser del tuo telefonino se vuoi
+e
+e va e va ed è sorprendente capito e quindi fai il boot di windows duemila interpretato da da da meta interpretare in javascript spettacolare
+o quelle che hanno costruito il mame o il progetto assolutamente incredibile meraviglioso bellissimo sì
+ci sono di questi queste chicche di queste gemme un'altra gemma che io considero formidabile
+sequel light il soft torino sì quel light libreria su quella e un piccolo prodigio ecco come così piccolo così fatto bene così è valido e così esente da difetti una meraviglia
+queste ce ne sono per fortuna che divengono una speranza quando poi invece vai a vedere era un moderno progetto che che è fatto con quattrocento librerie elencate dentro e tocchi una vita non funziona più niente quella è una cosa un di batterista mi rattrista
+ma intanto valerio conferma che era comodo sessantaquattro in cerchio più se non so di che copilot
+motore si tratti ma altresì comodo standard dice valerio elvis per caso e di sessantaquattro remo c'è un progetto su
+italy potrebbe essere uomo e natura
+è mostruoso esatto non è un è una cosa eccezionale
+mi è venuto in mente un altro spunto che può essere utile ai partecipanti e negli anni in cui fra via toccava il suo massimo splendore io mi accostai anche ad un'altra ad un'altra iniziativa che nacque probabilmente a cavallo degli anni duemila che era una fanzine una rivista di matematica ricreato
+ativa che si chiama esiste ancora si chiama rudi matematici punto orga e sono sicuro che molte delle persone che hanno apprezzato flavia possono apprezzare questa cosa qua io lo segue da venticinque anni ed è una roba molto interessante e sono dei quiz sono dei giochini però di natura matematica più che
+che informatica rudi matematici tour col team giusto rudi matt e rudi matematici non mi ricordo se a borgo com a dir la verità però la trovate
+qui in questa puntata non si danno league perché bisogna cercarseli no sacerdote
+bisogna fare un po' bisogna avere una certa parte attiva perché altrimenti siamo solo l' hacker non va bene no come diceva come segnala frase
+quindi il racing league a voce le cifre remo diretta
+andiamo in bip in modo criptato c'era prima libero e
+che ha accettato tutta una lezione non ha un passaggio per la lezione di più nella versione cinque uno
+la rete trovate online viandanti aver accettato il verbo
+terzo verbo anti consumismo set
+e non so se avete pensieri in chiusura abbiamo siamo solo circa due ore e mezza io sono veramente grato infine grazie infinite del vostro tempo a faccia
+quindi se se volete un pensiero in chiusura su fra via o su quello che volete
+quello che volete insomma
+allora
+di davide se sei d'accordo rappresenterei l'immagine che tu poi hai scelto nel tuo profilo quella che è l'incisione di camille flammarion che che che rappresenta
+lo spirito della ricerca allora cercate incisione camille flammarion milleottocentosessanta qualcosa del genere
+e trovate delle immagini una di queste immagini
+era stata scelta da flavia
+è in uno dei suoi primi lavori su web che fece quando compilò la sua tesi di laurea
+in un pubblicandolo in un sito che si chiamava scelto slavica e che studiava l'evoluzione delle lingue all'interno dell'europa medievale
+è bene fra via che non era ancora flavia non era ancora diventato famoso ma era uno sbarbatello studente scelse questa immagine per rappresentare l'espansione della conoscenza a seguito della curiosità dell'uomo quindi cercate camille
+il flammarion milleottocentottantotto
+avevo detto la data sbagliata
+e cercate questa immagine che davide conosci benissimo che ama e che anch'io amo molto e che secondo me rappresenta molto bene l'eredità di travi a vista in chiave artistica
+davide
+ah scusate io stavo leggendo i commenti
+stavo leggendo anche i commenti e mi piace tantissimo tutta questa partecipazione
+mi piace mi commuove sì sì sì sì sì no sono assolutamente d'accordo con marco con una bellissima immagine questa è come l'obesità
+assolutamente la
+approvo e la uso anche perchè per me è proprio l'idea della uscire dal livello base di conoscenza uscite dagli schemi più uscire dagli schemi e fare quello sforzo in più per capire come funziona una cosa e così dicevi tu prima cosimo parlando di lunghi listati
+kit assemblati a volte proprio la questione di trovare il tuo spazio mentale metterti lì e dedicarci qualche momento in più per capire effettivamente come funziona le cose ma poi tutto torna e forse come appunto conclusione per me l'idea che questo passo in più sia una cosa che foss
+se adesso è molto più difficile fare ed è anche il motivo per cui magari conosciamo meno gente che è appassionata di queste cose oltre al fatto che siamo razziale quindi ovviamente con la gente non si frequenta ma è un altro discorso e l'altra immagine molto bella con cui mi piace chiudere sia la
+gente che è stata qua fino alla fine grazie perché son passate al ore e mezza e saperli qua tutto il tempo mi fa un estremo piacere mi fa estremo piacere a maggior ragione perché alcuni di voi non li vedo o sento da decine di anni
+per darvi il contesto ballerino e la persona che mi ha regalato il suo album vita loghi su cfd quando eravamo all'hack meeting anno duemila a roma al forte prenestino e mi ricordo ancora una notte in tenda che ha passato a bestemmie perché non si riusciva a dormire in tre in una tenda
+insomma amazon sono dei momenti dell'esperienza che fosse proprio perché c'era fra via
+ci hanno accomunati e ecco vedi tanta acqua passata sotto i ponti mercato a tutela dei romantici da facciamole sei per cercare qualcosa è andato a dormire alle nove di mattina
+i vantaggi be' magari andare a lavorare la mattina del giorno dopo quindi per un certo punto di vista eravamo privilegiati ai tempi e un pony
+ha un periodo di vita che è bello anche perchè eravamo ventenni in quel che sembra
+questo è un po' la caratteristica di tutti i vari
+tuffi nel passato in realtà ci sembra che quello che facevamo era eroico in realtà è bello perché è inciso dentro di noi e noi eravamo giovani e quindi è bello dal punto di vista umano magari era meno eroico di quello che ci sembrava mirabello perché eravamo giovani e questo è bellissimo
+è una cosa bella di questo e a parte il fatto che mi ha appassionato molto per parlare di queste cose a cui credo e include
+che mi hanno dato tanto e cercare di costruire dei file dei fili che ti mantengano quelle persone come noi in qualche modo collegate e in un
+in un ecosistema in cui fare questi collegamenti non è facile perché
+l'attenzione di due ore di due ore di persone così intelligenti così in gamba così capaci è un privilegio raro molto raro riuscire a conoscerti anche secondo me è bello e sarebbe bello anche che potesse che potesse km
+realizzarsi ancora rimanere in contatto si potrebbe cercare di costruire un
+un qualche tipo di contenitore magari questo questo stesso bus bici e così per per tenere tenere insieme questi fili
+beh devo dire che mi piacerebbe moltissimo poter ritrovarmi con tutte le persone che sanno che hanno partecipato anche incerto sarebbe bellissimo non so se c'è qualche ritrovo seibert banco golf o un server gopher nascosto
+qualcosa del genere o un telnet
+la bibbia ssh telnet la biblioteca chi sono
+alla davide tu sei una miniera di queste cose s di este punto orga se volete è uno spazio os nix dove potete avere degli account praticamente gratuitamente o con un'offerta averlo praticamente per sempre
+e se alcuni di voi hanno un posto dove si trovano frequentemente anche una vecchia chat irc se ce ne sono ancora mi fa piacere passare io in ogni caso ma spero che ci si riveda prima a inizio febbraio sono holdem a bruxelles e credo and robin a bira la mort subite quindi
+alla memoria di te ma allora postdam prenotato
+se si trova lì bello bellissimo beh devo dire
+puntata assolutamente eccezionale grazie grazie mille marco grazie mille davide grazie a tutti quelli che sono intervenuti incerte sono le ventitré trentatré abbiamo ancora undici persone che tengono duro
+bellissimo bellissimo bellissimo
+non poteva essere meglio di così grazie a tutti grazie mille cosimo e buonanotte
+ma
+ma
+ma
+ma

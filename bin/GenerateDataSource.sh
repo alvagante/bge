@@ -22,8 +22,8 @@ for FILE in "$DIR"/*.md; do
             # Run the frontmatter generate script
             echo "Generating ia data for episode to $EPISODE"
             cp "${EPISODE}.md" "${EPISODE}_md.txt" 
-        else
-            echo "Skipping, ${EPISODE}_md.txt already exists."
+#        else
+#            echo "Skipping, ${EPISODE}_md.txt already exists."
         fi
     fi
 done

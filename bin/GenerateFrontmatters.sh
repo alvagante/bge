@@ -17,14 +17,15 @@ for FILE in "$SOURCE_DIR"/*_youtube.yaml; do
     if [ -f "$FILE" ]; then
         # Construct the name of the txt file
         EPISODE="${FILE%_youtube.yaml}"
+        EPISODENUMBER=$(basename $EPISODE | grep -oE '[0-9]+')
 
         # Check if the md file already exists
-        if [ ! -e "${DESTINATION_DIR}/${EPISODE}.md" ]; then
+        if [ ! -e "${DESTINATION_DIR}/${EPISODENUMBER}.md" ]; then
             # Run the frontmatter generate script
             echo "Running  $SCRIPT_DIR/GenerateFrontmatter.py $EPISODE $DESTINATION_DIR"
             $SCRIPT_DIR/GenerateFrontmatter.py $EPISODE $DESTINATION_DIR 
-        else
-            echo "Skipping, ${DESTINATION_DIR}/${EPISODE}.md already exists."
+#        else
+#            echo "Skipping, ${DESTINATION_DIR}/${EPISODENUMBER}.md already exists."
         fi
     fi
 done

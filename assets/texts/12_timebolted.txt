@@ -1,0 +1,373 @@
+ed eccoci qui dodicesima puntata della brigata degli estinti ci ritroviamo con marco fuoco fabrizio fortino che già conoscete cosimo strappone che ci raggiungerà a breve parleremo di reverse engineering reverse engineering che vuol dire un po' tutto estinti ecco questo sono io
+secondo fa tutto vuol dire tutto e niente e per cui intanto chiederei delucidazioni chiarimenti marco fabrizio venite in mio aiuto qui siete programmatori cosa intendiamo per versa in genere in campo software soprattutto sabato
+beh reverse engineering si intende partire dal dal prodotto del software elaborare all'indietro per capire cosa fa il software quindi il processo di ingegnerizzazione del software quando lo crei e qui invece parte del prodotto finale e a ritrovare cerchi di capire cosa fa poi la mia esperienza dice quattro
+avete portato alla definizione è bene poi il resto lo vedremo e
+fabrizio e qualcosa raggiungere dio
+io ho dei problemi
+ho parole
+pubblicizzazione del software
+dal punto di vista di esperienza personale mi è successo più volte di fumo
+un progetto un po' di tempo fa
+veniva distribuito
+alla vecchia maniera
+brahms un uomo fisicamente installare sulle macchine niente
+sono preoccupato
+processi di offuscamento o del food in modo da
+chiamo disincentivare
+proteste simile versioni non siamo un hotel per disincentivare appunto scivolo esterno
+mons de della vicino quello che non so quindi stai dalla tua patria barricata insomma ha chiamato seul il peso
+al computer ricevo
+è stato un po' di tempo fa adesso uso
+questi processi di balfour o food
+anche
+oh i tweet in codice dannoso vengono utilizzati dati comunque software intense sentenza
+diciamo ce n'è di meno le esigenze
+è
+che poi se vogliamo software engineering e te
+reverse engineering del software buona pratica che si fa poi magari non a livello di sempre del codice ma anche in genere nelle operations per quando ci troviamo ci si trova a che fare con qualcosa di esistente e giustamente capire come è stato fatto perché è stato fatto un certo modo e
+e di conseguenza poi andare a ritroso e per capirne le cause primordiali e ma nel caso del software voi che siete programmatori
+adesso qua ci vorrebbe anche il buon cosimo che arriverà a breve perché che mentre restano un po' gli strumenti che cosa si usa e quali sono un po' le metodologie che si applicano avete qualche insight loro metodologia dipendono dal prodotto da quello che devi di cui devi fare reverse engineering perché se hai un yes
+guide per windows mac per intenderci fatto con fa splash non proprio deve andare a reverse ingegnerizzare una parola invenzione inventato in questo summit
+è il codice assembly tra quello che è prodotto da un compilatore nativo per quella specifica architettura lei cioè se devi fare reverse engineering di per esempio il dot net oppure ama quello che devi andare a a invertire il processo calendario avvertire il processo di generazione del codice
+it could not net
+si chiama se l'hai oppure quello di ava che la enza varie farmacie a queste due cose da fare sono già tre cose diverse ci sono altri altri sistemi che hanno delle altre macchine virtuali decenni fa alpha stanza era una cosa che sembra code è una cosa molto simile non si usa più quindi finestre di
+guten però ognuno può inventare la sua riforma fine è qui devi cercare di rovesciare di invertire quel processo ho mai parlato di c e di
+è
+dal c ottenere nodo tac ottenere la assemblee ma com'è il processo come che nel caso specifico di un bacio tra l'assemblea il processo di compilazione classe sì no no scusate dalla compilato tenere in senso inverso è un po' un processo strana
+un po'
+word perfect chanel può tirare a indovinare cercare di individuare dà le istruzioni è semplice possono essere anche utilizzate tentare di invertire il processo e capire quali sono le strutture di controllo di autorità ma intanto ovviamente scusami le istruzioni assembly trovi perché le hai in un dump di memoria come
+le strutture serbi sono uno a uno con i codice binario con il linguaggio macchina
+lingua
+l'assemblea in linguaggio macchina non sono sono una forma diversa della stessa cosa nello stesso linguaggio
+mentre c è un linguaggio che dice più ad alto livello jerry e non ha una corrispondenza uno a uno quindi per invertire il processo cioè per passare dall'assemblea bar linguaggio macchina a c devi cercare di capire come le istruzioni assembly mappano a livello superiore e ci provò molto semplici per farlo perché
+cisl portago tu in assemblea e jump è quindi un'opzione è quello di dire beh tutte le cose che fanno pressing
+le faccio con if tutte le focose che fanno salti faccio facilitare co tu e tutte le cose che spostano in memoria dei registri le faccio diventare dell'uguaglianza le somme stazione ecc fai quello che non ottieni un codice q di qualità paragonabile all'originale ottieni una porcheria kill gil quindi in r
+realtà i buoni disassemblato ideco dei compilatori anzi sono quelli che dichiarano del codice un pò più ad alto livello cioè cercano per esempio di capire se nel tuo codice c'è una jump table lamp tipo significa prendi questo valore e poi va in questa tabella e salta nel
+che dice quella tabella questi sono di solito una chiara indicazione per esempio di una struttura di tipo switch non in quel caso il compilatore invece di iscriverti
+salta all'indirizzo di queste della tabella puntata da quello ti dice no passo acer switch dieci zero uno due tre e quattro fai questo questo questo quello bond di aternum un tipo di processo viene fatto da un buon compilatore molto non è l'unico modo per fare reverse engineering okay bene
+la è alzata adesso dobbiamo andare avanti nei dettagli tanto benvenuto cosi modo e come vedi siamo già siamo già andati dritti nel dettaglio se per certi livelli è
+l'abbiamo chiesto e ce l'ha detto marco ma a questo punto visto che tu sei come dire il l'enciclopedia fra di noi lo chiediamo anche te cosa si intende per versa in generic e quali sono le applicazioni magari più comuni
+ora reverse-engineering campo ed anzitutto affascina altissimo per me
+ed è uno dei dei campi diciamo un hotel delle cose più interessanti che ho incontrato nella mia giovinezza quindi
+allora cosa si intende si intende per l'avrete già detto immagino ma secondo me in maniera generale si intende tutti quei processi diciamo di engineering quindi ingegneri e devono ricostruire il funzionamento di un sistema senza averne diciamo da una black box
+senza averne conoscenza vedi tu ma una scatola nera davanti a te devi capire che cosa c'è dentro come funziona poi ovviamente se ci riferiamo al software
+il campo si restringe quindi attraverso genere significa quello che è un presepe per la mia esperienza significa hai un un bytecode ho compilato un exe o un puntocom e devi capire devi ricostruire codice sorgente
+per cosa si usa e questa rara perché mai uno dovrebbe voler fare reverse ingegneri e ci sono ovviamente mille motivi no
+magari e osò se volete posso raccontare per esempio uno dei dei primi
+utilizzi di reverse engineering
+in campo professionale che ho avuto modo di voto la fortuna anche di
+di di lavorare su cui lavorare è stato quando era il millenovecentonovantotto credo
+giù di lì era il mio primo lavoro come keith
+la mia azienda a quel tempo lavorava con novell network era un sistema operativo per chi non lo conosce avanzatissimo per quell'epoca e windows faceva ridere in confronto network era completamente in rete una cosa bellissima per l'epoca
+è nella nostra azienda
+in questa azienda al tempo tutte le workstation erano messe in rete ed erano gestite automaticamente da novell quindi le persone potevano loggarsi col proprio utente dovunque in qualsiasi workstation dell'azienda e questa era una zona con multiple sedi quindi
+che diciamo non locale immediatamente il sistema
+provvedeva a montare la home directory dell'utente dovunque e dovunque esso fosse quella è una cosa abbastanza
+innovativa per l'epoca e il
+la cosa su cui stavamo lavorando era aggiornare tutte le workstation da windows tre uno trapunta undici a windows novantacinque
+e adesso a ridere no allora diciamo con tutta questa struttura messa in piedi software automaticamente configurato per tutti gli utenti l'ostacolo che abbiamo avuto e che rischiava di fermare tutto il progetto e era là il programma di formattazione
+di windows è format puntocom a quell'epoca c'era ancora al dos no e quindi perché fanno un pò perchè noi pensavamo nel weekend quindi dal venerdì alle cinque e mezza che le persone andavano a casa
+lavorare tutto il week-end venerdì sera sabato domenica e lunedì mattina le persone avrebbero trovato il proprio pc aggiornato a windows novantacinque ma per fare questo novello che mettere supportava questo
+lanciare queste applicazioni in automatico su tela workstation ma
+quindi noi avevamo pianificato tutta una procedura di reinstallazione completa di ogni pc potuto il software già preconfigurato il problema è che sul format quindi formattare il disco la macchina si fermava perché windows chiedeva vuoi formattare disco si o no
+allora il mio manager dell'epoca mi disse cosimo
+vedi se puoi blindare forma quinto comma
+e ora recovery ma una cosa è divertentissimo ma quel a quel tempo stress altissimo perché allora come fare allora e io vi sono e compilato forma tipo come fortunatamente il file boot com' erano le più facili da decompilare perché
+formato tuttocome dell'epoca non aveva nessun tipo di diciamo offuscamento o comunque non aveva la struttura degli exe e erano più complicato we found fotocamera perchè avete solo un eder e poi compilato un codice x otto sei e quindi qualsiasi disassemblato ore
+poteva
+oh ricostruire le le istruzioni x otto sei senza difficoltà mettere degli ex e hai tutta una serie una serie di strutture per cui devi stare attento ad una le sezioni di data alle sezioni del codice insomma
+alla fine alla fine dei conti trovato l'istruzione dos che faceva la stampa a video ma qui sarà alle ventuno mi pare un sound niente mentre raptor qualsiasi non mi ricordo il un numero che stampava la richiesta vuoi formattare il disco
+ipsilon nn subito dopo c'era già no per dire
+se vuoi formattare o altri veti aci e quindi semplicemente sostituito a quel gian la costruzione apo un loop open lo faceva niente e quindi semplicemente il programma andava continuava formattando il disco senza la richiesta quindi quello per esempio è stata una apple
+azione nelle vesti di nera che ha avuto un successo enorme che altrimenti avremmo dovuto stoppare tutto il progetto mo dopo l'altro abbastanza credo più di un mese di lavoro per preparare tutta sta roba
+ho quindi rimesso in sbirri e mais
+una cosa potentissima un caso forse uno dei pochi in cui i legali ci hai fatto per scopi illegali non necessariamente per te
+tra le altri
+diciamo le altre casistiche erano ovviamente se si tratta di giochi per esempio fare chez nous da entrare nella memoria darti novantanove vite queste cose qua oppure
+quello che una volta si chiamava craig no quindi protezioni o
+eliminare le protezioni eliminare la protezione da copia o limitazioni di teatro di altri tipi che tra l'altro scusate se mi dilungo su questa cosa ma è un argomento che a me piace molto una volta
+cracker o cracking aveva un'accezione di tipo positivo rispetto a quello che ha adesso mentre hacker era visto come quello negativo quello che faceva da anni no beh cracker invece lo so era quello che era interessato a capire come funzionava il meccanismo di protezione
+comunque come funzionava era quello che cercava i giochi e le protezioni dei giochi quindi non è che quello che trattava i giochi le nell'epoca diciamo commodore sessantaquattro e amiga ma poi soprattutto su pc po' più tardi diciamo era almeno la mia esperienza diciamo di di aver
+vissuto quel periodo erano le persone che erano interessate proprio semplicemente al meccanismo di protezione o di
+sede di capire come funzionavano le cose poi
+c'erano questi famosissimi tutorial no spiegavano come blindare le cose e poi ovviamente ti sì però tu però poi ci compriamo il programma no anche lo sport leggiamo ma non ce ne frega niente sono solo per capire il meccanismo e che poi questa cosa si è completamente rovesciata
+diverso gli hacker sono considerati quelli bravi e crackers quelli
+in di no in realtà tende
+acer è stata una una situazione altalenante sicuramente perché nei primi anni dello sviluppo dell'informatica gli hacker hanno veramente quelli che sapevano come funzionavano le cose c'è stato un periodo effettivamente in cui hackers era sinonimo di di cattivo mai stato un periodo che
+colloqui ti riferisci te e poi è tornato a essere il significato originale quindi in realtà sia stata un po' di confusione sul termine acli sul termine cracker cracking non lo so quindi non non dico preso il termine hacker so che si parlava per esempio la night nei primi anni
+credo fosse gli anni sessanta addirittura di hacker dei giochi cioè quelli o cinquanta sessanta quelli che usavano i primissimi computer per sviluppare dei giochi e che non esistevano allora quindi
+so che anche lei ha avuto appunto questo questo andamento sinusoidale
+questo è vero ha un valore e cracker soprattutto nel periodo a quella riserverà alessandro erano quelli maledetti nobilis
+soprattutto in italia e maledetti ma utili tra virgolette testa atenei atenei le cassettine dedicano ai semi e poi tutta la scena devono come si suol dire no è derivata dal mondo delle delle crack trovo delle intro fatte davanti ai giochi scuotersi e poi tutte le forze che c'è stato e che sarà argomento peraltro
+occasioni e
+però mentre ne siamo un po' in campo nel merito tecnico della cosa al netto del fatto che oggi chi a parte magari di protezione alla protezione che immagino ci sia sempre una scena cracking e tutto il mondo con divani reverse engineering fatta con lo scopo però in genere chi che cosa per che cosa viene usato per quello che sapete voi
+li copi può servire può posso fare una digressione superare la regressione a quello che ha detto cretina del della legalità va va legalità in realtà il reverse engineering è
+illegale in alcuni stati tipo gli stati uniti ma in italia secondo la legislazione italiana non sono un paragone
+mentre un avvocato quindi prendete con letizia quello che sto dicendo però che io sappia il reverse engineering non è illegale nel senso che è possibile fare reverse engineering per fare per cooperare con il sistema con cui stai facendo la sicilia di cui stai facendo verso fine cioè io voglio aggiungere una funzione
+grazie a un software che non tiene ma non voglio rimpiazzare quel software voglio giungere ad una funzionalità allora in questo caso fanno i versi ingegneri in italia sarebbe legale negli stati uniti e io sappia con la legislazione attuale non sarebbe legale era legale nei nei primi anni ottanta e novanta sono
+certo gli ottanta perché c'era una società che ha fatto fortuna aggiungendo mi pare a multiplayer che era lo spread sito di microsoft originale ha fatto fortuna aggiungendo i grafici che non erano proprio che non era possibile l'hanno fatto raccontano la loro storia fun
+video di youtube che però non sono sicuro di poter ritrovare hank hanno fatto facendo reverse engineering del del trofeo originale e andandosi ad attaccare nei punti in cui i dati venivano prelevati e crea questi grafici canyon più belli di quelli che
+multivan a suo tempo poteva creare tant'è che la società è stata acquisita ed è diventata una parte di me
+tra gli altri questo se non ricordo male era microsoft nel senso che la musica né microsoft poteva essere qualcos'altro ma sono quasi sicura che forse potrei sbagliarmi potrebbe essere stata lotus e dei noti sono due tre però non sappiamo molto distante il periodo è quello e quindi negli anni ottanta sicuramente era possibile farlo
+la legislazione americana è cambiata ed è assolutamente assolutamente vietato des hommes in europa quel tipo di lavoro che sarà fatto si può ancora fare poi sono scopi perfettamente legali anche quello di cosimo nel nel nostro caso sarebbe stato legale perché già nati in italia sarebbe stato legale perché comunque non aveva riscritto fo
+ma copiando parti magari protette dai segreti di microsoft era semplicemente detto vi serve una cosa
+che non si fermi ma sposato format semplicemente in modo pepe faenza sotto sotto anton laddove sbaglio
+non solo in tal modo knowledge europea tra cui il reverse engineering è
+si può fare è legato anche ad esempio quando
+trovare dei modi per interagire con un altro programma
+magari non sono esposti pubblicamente fino a quando non c'è la copia del codice praticamente è megan fox negli stati uniti continua
+limitazione o c'è tra l'altro un altro caso di scuola nota scuola di reverse engineering e zampano che è stato fatto da un sussulto ma sul protocollo basandosi su reverse engineering sul protocollo smtp di microsoft per fare una alternativa open source quindi effettivamente dei casi ce ne sono
+sono anche abbastanza sostanziali affairs per esempio anche no e se fosse il modulo su linux giustamente è uno dei casi a cui pensavo
+diciamo in preparazione di questa sera era mamme mamme no questo questo e quello è un esempio secondo me di
+reverse engineering su su larghissima scala plus
+di successo di sempre è un lavoro incredibile veramente lì ci sono anni e anni di studio di capire
+livello nel dettaglio incredibile
+la reverse engineering di arma in questo caso avrà la ricerca e non c'è il bytecode che puoi disassemblare gli sono soltanto dei chip guida e degli ingressi e vedi cosa esce
+e lì hanno replicato non ha più smesso non replicato il software cose incredibili no tutti i bug dhcp cioè perché poi ovviamente le rom è che tutti fanno girare e contengono sfruttano certa caro
+operistica dei chip che
+se tu ti basi soltanto sul suo funzionamento logico
+non potresti far girare il gioco e si basano su bugie su temi particolari e livelli di dettaglio veramente assurdi e tra l'altro nei parchi
+la persona che ha iniziato col progetto se l'italiano anche la memoria ecco coscienze e dal mostro
+se non lo conosco personalmente no neanche io neanche io ma le persone che hanno fatto il callo mantenuto name per un breve periodo intermedio
+non cosa mai abbiamo parlato loro non l'ho mai conosciuto però è lui che ha iniziato tutto perche va l'altro se non so alla scorta ci fosse qualcuno che è interessato a iniziare o magari non ha mai fatto niente se attraverso ingegneri
+secondo me è un esercizio molto molto interessante e prendere una rom presepio di un gioco vecchio degli anni ottanta ad esempio a me piace molto questo gioco chiamato lady bar dell'ottantuno nel gioco di un'azienda giapponese universal
+le rom sono tipo quattro capa tranquilli
+è vero non lo dico e veloce da disassemblare troppo elevate non è niente c'è quindi ci saranno indebitati degli sprite
+quindi metà magari saranno dati grafici e
+mamme a quest mamme a questa funzionalità di questo flag was di page quindi lui pate gioco parte e poi hai di fianco tutto il disassemblato e lui e ti facilita moltissimo il lavoro no quindi ti entra dentro già sui rientri poi tesa
+atti quindi tu vedi dalla prima istruzione che cosa succede e quindi hai la possibilità di capire non so io avevo questo progetto
+ce l'ho ancora nel cassetto diciamo ho scritto un clone di questo gioco qua in un linguaggio moderno a lui a te mi interessava però poi ho detto fa magari potrai studiare anche l'eroe come funzionano e ho cominciato a studiarle con mamme mamme scusate ed è interessantissimo c'è ho capito per la prima vol
+alta per esempio come quei hardware quei giochi gestissero lo scroll scroll verticale no e tra l'altro quel gioco lì non lo ha però l'hardware supporta lo scrolling verticale e quando comincia
+genere di giochi arcade quando cominciavano avevano queste routine di inizializzazione il perù per tre quattro secondi vedevi po' di spazzatura sul video come pac-man proseguì da parte poi il gioco improvvisamente inizia lì in quella parte di inizializzazione di put in bay
+booth hardware diciamo le rom di mamme fanno un test del registro di scroll c'è un particolare registro di queste sì più in questo caso dev'essere un chip video di qualche tipo e come si quando ci si faceva su comodo sessantaquattro non stufa fai poche sono certo saprà indirizzi di memory
+l'idea e di dare un valore del registro si ha tutto il video quindi tu hai otto pixel di movimento completamente il chip video e quindi questo era il modo in cui l'ho capito solo guardando questo questa roba questa roba qua era il modo in cui loro facevano scrolling fluidissimo
+quindi avevi questo movimento di otto pixel verticali in su in giù non mi ricordo e poi riempì e gli inni i prossimi otto pixel nella zona di rame per scrollare quindi crolli poi riempi gli altri otto pixel nacque scroll di nuovo riempite altri otto pixel una cosa secondo me
+re
+bellissima no capire con questo livello di dettaglio qua penso io non ho fatto sta gran cosa ho semplicemente fatto a partire con me ma ho guardato cosa succedeva però capire il sistema in cui i dettagli di
+secondo me è affascinantissimo sono poche cose così divertenti diciamo cose poche cose divertenti come reverse engineering per cosimo effetti secondo me si ha tra l'altro proprio il progetto made mamme come lo vogliamo chiamare ella è
+il reverse dell'hardware di vecchi computer e di vecchie johnson ha portato anche a una delle altre cose molto utili io un po' mi occupo di retrocomputing e stanno uscendo deve uscite di recente una serie di
+una serie di pezzi di ricambio per vecchi computer che altrimenti non sarebbero stati più replicabile perché ovviamente parliamo per esempio del silver gold sessantaquattro il famoso sito è quello che è il chip audio con conversano quattro è stata una sparizione dei seed perché in tanti dai vecchi a vecchi
+sessantaquattro li prelevavano per utilizzarle come ansia
+all'interno di sintetizzatori audio proprio per dare l'effetto fiction dell'epoca e c'era questo apparecchio si chiamava sì stations non mi ricordo male che era un depistatore di modulo medica e un ingresso video uscita audio e tu puoi riutilizzare all'interno due siete quindi
+ci sono in commercio anche tanti come sessantaquattro vecchi e venduti come funzionanti e non funzionanti o funzionanti in parte che non hanno il led all'interno perché è stato prelevato poi ci sono comunque anche tanti chicken che si oppone isee si rompono i a yale
+i componenti parlo sempre di congresso da quattro perché è quello che a tanti di questi componenti rifatti via dna cioè sono tanti componenti che sono stati rifatti proprio grazie alle persone che hanno fatto reverse engineering dei componenti per scopi di emulazione e poi le stesse informazioni sono state ricreate usate
+per ricreare in software chip all'interno magari di professorini che adesso si chiama micro controlla ma che sono centinaia di volte più veloci di quelli che c'erano ecm dei processori che stanno dentro il covo sessantaquattro è quello che fanno è emulare il chip con tutti i timing corretti quindi egli adesso si
+possono trovare tutti questi chip come sessantaquattro con lo stesso formato ma in realtà non sono dei chip veri sono delle basket time sulle quali si è buttato nel presente un'arma basso consumo e km zero quelle quelle famiglie e eseguono un software che fa finta di essere un sito o fa finta di essere al via o f
+finta di essere più belle del concorso
+quindi non fgei al e basta cosa zia
+alcuni sono cose superficiali ma altri sono proprio
+il software delle stesse cose dipende dal gip lei credo che in realtà ne facciano più con delle galle adesso che sono henry mcgee molto stupide diciamo sono le idee il progenitore vertici ma altri componenti come il sid
+sono abbastanza sicuro che è fatto con una km zero almeno una dell'implementazione fatta con nome km zero e petrelli ricordo comunque un'arma della serie basso consumo portobello sto punto
+l'evoluzione software dei vecchi processori ormai è una pratica consolidata e
+è comune direi a questo punto no è
+ci sono anche utilizzi moderni ci sono ancora no anche perché stavo pensando forse un po' è quella diffusero open source c'è anche fosse meno necessità di fare assemblee del kernel compilati perché poi molto già direttamente i sorgenti non tutto va da sé però a me è capitato con dot net
+per esempio
+sistema di home automation che avevo in una casa precedente era fatto con un software scritto da net e a me serviva comunicarci con con la casa con mafia dalle luci spegne alle cifra questo software qua era abbastanza inutilizzabile non estendibile e tutto io devo capire come erano quelli
+librerie semplicemente lì è stato molto molto molto banale per dotnet esiste un compilatore loro non hanno nulla a nessuno offuscamento quindi io ho semplicemente detto che compila che ho capito quali erano le cose da da utilizzare e le utilizzate basta però botnet e come dicevo giava sono molto più semplici
+rispetto a linguaggi compilati da macchine native di gioco è praticamente quasi come con un screenshot senza lode compiti cambiata nell'opposto un punto di vista di
+giava vince da dark lady diana secondo me c'è stata una un picco dei compilatori quando prima dell'esplosione l'open source non useremo librerie magari erano proprietarie a mi è capitato più volte di voler compilare tutto per capire
+so che stanno come facevano alcune cose oppure quando erano poco documentate magari per capire se si potevano fare degli usi diversi passare dei parametri diversi dopodiché visto che giava photon nero open source nathan sawaya
+punto forte di pisa whatsapp web application e dei compilatori sono stati un po'
+non mantenuti riconduce la volkswagen di navalny con jaime era una culla e risolve poi c'è stato un un affondata a adesso c'è
+ci sono più dei compilatori perché perché
+su persone che vogliono compilare elia pick up up and roll per questo diciamo che c'è stato un periodo in cui il compilatori hanno quasi morti lampeggiava adesso con l'applicazione android o muoiono non si può non ce ne sono anche altri che supportano
+suoni più recenti di giava
+ce n'erano abbastanza
+nel elder di incompatibilità con
+robert johnson decompilare app è molto interessante
+si trovano dentro se e tantissime cose qualsiasi
+si chiamano easter eggs chiavi di tutti i tipi no chiave di epi ai file magici diciamo è molto interessante tu tante volte si da per scontato
+oh oh
+qualche volta gli sviluppatori dando per scontato che in pacchetti nell'epica e poi nessuno lo vede ma in realtà molto facile tornare indietro alias elsa e al codice di leo sé il passato
+salmon offuscare alcune parti nell'applicazione che distribuiranno comprende
+fingiamo
+desolante andare a vedere
+il prodotto generato da pescatore
+anche quello è interessante ad esempio
+la cosa che si utilizza la lettura va di andare a distinguere le variabili con qualcosa di non mnemonico anzi nuove variabili erano fatte occupò anderson anderson a hockey anderson anderson anderson ha quindi sembrano tutti uguali quindi non risieda per il problema di giava nella
+se non si riusciva ad offuscare completamente il ponte soprattutto sia il prodotto utilizza poi le fiction ovviamente a navi
+non funzionava più perché reflection si aspetta di trovare le cose scritte così come sono in origine e quindi si doveva fare un po' di tuning su sulle classi sui metodi che si usano offuscare o l'altra cosa che il testatore interessanti che alcuni quelli più smart
+creano delle funzioni che erano errate parlano i nomi molto simili a quelli che venivano invece utilizzate però era un modo per diciamo
+forze aeree ma scusa ma come programmaticamente poi offuscare il codice pod immagino che programmaticamente o poi di frusciare no fra senza neanche chiedere ai vari botta del caso adesso sia quello di volte è più semplice sicuramente ma ricco anche non ci sono strumenti apposta per defunti
+per come fare il contrario dell'offuscamento del codice
+sì penso di sì e se sì i nomi della valdera bigné
+ci devono essere abbastanza smart per creare dei nomi delle variabili
+effettivamente hanno un senso all'interno del con te su tutto sì però alessandro l'hai alzata cioè va lo so adesso fa il post in cui dice che con gadget hai decodificato tuo vecchio codice che nessuno sapeva nasce pasta non l'ho detto
+allora scusa con ciacci pd cosa succede da a prendere del codice e darglielo impasto però offuscando la mano cioè a la statua reale per averla raccontata e a un certo punto ha tirato fuori davvero poterne quindi nomi di variabili tali telefonate ai locali perché di solito
+e quando dio offuscato te se non offuschi il codice comunque hai una perdita il processo di compilazione le variabili locali delle funzioni come non sono simboli che vengono esportati normalmente il compilatore non è in grado di ricostruirne e quello quello è già un vantaggio
+nel codice compilato anche se queste high school rilevati gourmet quello che avevo compilato io era tutto codice con nomi di variabili infettati per le variabili locali però vi erano sensori comunque molto piccole io semplicemente davo dentro che vorrei miei limiti variabili quando dovevo capire una certa funzione essere
+le funzioni non sono troppo grandi è molto semplice rosa assistiti può ricostruire nomi deve anche delle variabili locali guardando il senso come vengono utilizzate che senso hanno e dargli il nome appropriato è imbarazzante come cosa ha che gusto c'è scusa da lì la cosa divertente era stato il mio esperite
+ento era
+fare una decompilazione no non è la compilazione perchè ho dato in pasto del sorgente quindi era un reverse engineering sorgente anzi proprio la premessa che faccio e parla questo qua se n'è andato senza lasciarci niente tralasciato stock codice qua non so come come capire cosa fa questo codice è e da lì è partita la discussione con falsi preti
+alice in cui io dicevo ma questo sembra quest'altro allora lui deduce un altro paio di cose e poi è arrivato ad aprire tutto e sapere non solo dare nomi sensati ma sapere l'algoritmo utilizzato comunque per esempio per tornare magari utilizzi moderni no perché uno potrebbe pensare
+ma questa roba qua non serve serve a chi smanetta con circuiti integrati o robe del paleolitico ma in realtà no perché ad esempio un amico o se ho già citato in una di queste puntate questo amico firma resta che scrive ferma e per
+dispositivi di varia natura ma ha spesso a che fare con te bluetooth radio o
+ovviamente scrivere firmware è una cosa diciamo a livello molto più basso del normale quindi
+diciamo io non sono molto pratico di quell'ambiente lì ma ovviamente hai strumenti di super basso livello roba passa in continuazione
+la chiamo sai lavorando specialmente con bluetooth e radio mi raccontava come spesso e volentieri lui deve fare diciamo del datasheet dei dei protocolli di comunicazione sono documentate ma in realtà le cose non funzionano mai come dovrebbero no e quindi
+deve metterle metterti lì mi raccontava conosci lo scoppio
+con questi strumenti e quindi dare capire o cosa sta bassa quota io mando questo geniale no di da zero a uno alza questo pin cosa succede poi nel chip radio magari tante volte ti aspetti che la radio ma di un pacchetto ma in realtà
+perché perché magari la parte radio andata in power saving hope li trovasse genere moderate quello di cercare allora incubo dovreste avere un comportamento ma non ce l'hai perché quindi come fai a capire l'ora lì secondo me diciamo e si innesta il secondo esempio
+e su cui magari sono un po' più familiare ed è lavorato nel campo e srl o comunque troppo shooting sistemi distribuiti o quando hai un'auto di produzione
+problema riproduzione in genere c'è un momento in cui ho le alert note arrivano nemmeno una segnalazione da sistemi qualcosa non va qualcosa è andato giù lì non hai la situazione non sai che cosa sta succedendo no in genere non lo sai magari in certi casi sì no
+soprattutto quando si tratta di sistemi siamo maturi
+genere quando qualcosa succede vuol dire che c'è un problema da qualche parte che non è un problema di routing e quindi li scatta un meccanismo di o qualcosa non sta andando come dovrebbe e cosa è e cosa è successo allora lì le collezioni una serie di segnali però è come avere a che fare
+una black box no quindi devi cominciare a capire e usare tool magari non lo si lo scoppio ma pagare anticipi dump no oppure altre cose quindi se dal mio punto di vista si tratta della stessa attività vedi tu devi ricostruire da informazione
+che non ti sono date fai ipotesi essi le tue ipotesi
+vedi se sono verificate o no
+se le ipotesi non è verificata genere altra ipotesi cominci a capire cercare di capire no tombare il sistema e cercare di capire che cosa sta succedendo e quindi per chiamò la mia conclusione il reverse engineering inteso in questo senso che magari sono un po' un senso generico è una
+skill fondamentale e un set di skill fondamentale magari accomuna diversi
+sottocampi no come dicevo bluetooth radio firmware oppure s r l
+oppure se i chip hardware eccetera quindi è è molto importante avere quel quel
+quel mindset quella del pollame
+atteggiamento mentale per poter
+indagare e cercare di capire ma che poi va di pari passo con la cultura hacker hanno hacker in senso originario e e nobile del termine no quello di scoprire come funzionano le cose quindi il reverse engineering è un'attività chiave di una mentalità hacker
+ad hacker e e giustamente si applica un sacco di cose diverse quindi efficienti non soltanto il software ha compilato di disassemblare si applica ai protocolli allargherà ai sistemi è ma infatti secondo me e va di pari passo con debating
+cell
+è l'equivalente però quasi la stessa cosa le due attività the walking dead suggerite nelle zone vestignè dipende da come li fai sbagli tu puoi fare guardando il sorgente a disposizione molte cose però se un software non funziona come dovrebbe anche a fronte di un sorgente apparentemente corretto umana
+corretto
+la necessità di andare più in basso livello con the badger che effettua esattamente lo strumento che si usa anche per fare reverse engineering di guardare il codice sorgente mentre si il codice di codice assembler o macchina mentre si esegue il programma fermare il programma in certi punti guardare lo stato
+capire cosa sta succedendo è un'attività assolutamente normale come mi capita tutti i giorni di guardare l'assemblea però
+perde bazinga una volta al mese devo scendere a quel livello mi aiuta a capire almeno se c'è qualche problema se non ho visto dal sorgente trovo che la differenza però è che nella persa ingegnere e c'è quell'aspetto di scatola nera mentre le pagine o cesare il sorgente sono la cosa più facile no
+si affida a un livello diverso sì però ci sono casi in cui per esempio di sì place place mio garibaldi di riferimento
+ci sono casi in cui per esempio il ban si presenta in versione release ma non in versione elevati quindi tu puoi eseguire il debug in the bag e il draghi codice non viene utilizzato è l'errore non si presenta poi robbie ha a e analisi codice viene utilizzato ed è proprio l'ottimizzazione che fa
+venne fuori il problema questo
+giusto per spiegare perché succede perché in six flags ci sono delle aree che sono dichiaratamente grigie cioè volutamente non specificato infatti se si parla di anteprime video e diciamo che esplicitamente lo standard dice che non è definito cosa fa incerto
+dica se tu vai a utilizzare con le cose e i problemi di codice sembra legale sembra corretto se tu i corridoi di questi anni fa il lieve l'ottimizzatore è autorizzato a fare quello che gli pare e tante volte
+questo risulta in eliminazione di cose completamente inatteso il dei passi di corsa intere per esempio action un esempio classico che è la molla la controprova al l'ultimo teorema di fermat praticamente c'è questo codice che crea un loop e testa credo tra variabili fino ad
+mille e e a un certo punto esso si trova una controprova all'ultimo tema di filmati che quello che stalin in zona ne vuole zeta la ne prende maggiore di traino una soluzione di non dovrebbe mai uscire però c'è una regola si fa smash che dice sei un pezzo di codice
+non ha effetti visibili vuoi ignorano cioè non ha nessun effetto visibile sul lato tu puoi ignorarlo in particolare è invece un altro che dice che i lupi infiniti senza vivo effetti sull'esterno possono essere rimossi quindi il compilatore quello che fa e guarda questo vede che sono blu e poi finito oppure puoi uscire dicendo
+so che non c'è che che ha trovato una controprova se io non scrivo qual'è la controprova il compilatore autorizzato a prendere e uscire perché ti scrivessi la controprova farei un'operazione visibile qui dovrebbe effettivamente calcolare quel risultato per poterlo scrivere ma se io glielo faccio scrivere di facile dire soltanto ho trovato una controprova
+roma lui è autorizzata eliminare hector codice prendere quel lupo dire questo look ho finito ho finito e c'è la controprova allora lo elimino e lo sostituisco con una scritta c'è la controprova di questo è l'esempio classico di una cosa che non ho utilizzato lo avresti loop infinito nel momento in cui utilizzi il compilatore zappa via tutto ti cambia
+sono agguati le assemblee non c'è modo di capire cosa stanno facendo quindi avere il sorgente per muovere dire tante volte anche se hai il sorgente non te ne fai molto molto bene molto bene liberi tutti di andare in profondità profondità sempre è sempre relativo e su queste cose e poi di cento cose dette mai
+i venti o trenta
+prendo anch'io e
+voi il cielo e se io volessi facciamo un caso pur piccolo che attraverso un caso reale attuale che cosa potrebbe dar senso provare a decompilare a livello di software che uno trova comunemente in giro e perché dovremmo farlo e che cosa useremmo a quel punto partiamo da soda software per le nostre comuni compiute se vogliamo
+mettiamola così via
+io per windows trovo un
+un
+anche un malware magari e voglio capire come funziona perché sono una una lista di sicurezza e che checché strumento utilizzo per
+disassemblare adesso su windows un binario ho scritto in cipro splash allora se lo spazio c'è un'agenzia americana che ha fatto undici assemblatore e l'ha reso pubblico però non ricordo se l'ha reso pubblico io so che lo ha utilizzato una tizia famosa credo che
+sia d'epoca sia avvenne sei metri esatto sembra essere basato su ghost network non si adotta questo tour che si chiama pietra
+negli ultimi anni diciamo non so quanto vecchio schema sicuramente almeno un paio d'anni e ho visto che è diventato molto popolare
+io avevo dai tempi diciamo di soft times
+i pro che sono samuel
+assisi strumenti per soft times poi non ha più avuto seguito mai di prove rimasto diciamo uno dei tool di riferimento che lisa sembra qualsiasi cosa però recentemente ho ho visto idra che è diventato molto popolare e io non lo conosco bene
+sono però so che è molto potente anche quello ed è moderno diciamo non è non è parte di questi tool
+ormai una storia decennale ma la cosa bella è che pur essendo moderno de compì la cosa molto vecchie re io l'avevo trovato perché stavo cercando un compilatore per sei cinque due calci chiesa dentro di venti e paul due cose da quattro una versione leggermente modificata che si chiama ottantacinque dieci ma in realtà sei
+distruzione lo stesso e quindi atari
+la bici essere vecchia console atari e tante vecchie macchine hanno sei cinque due e idratare sport ecc se senza guida credo di sì io mi ricordo il nome onestamente però al supporto alle sei cinquantadue quello fatto da sé probabilmente perché loro in qualche caso hanno bisogno di compilare anche cose relativamente vecchie
+altra cosa che fece quindi sicuramente useresti probabilmente pietra e vai a fare una cosa del genere possano avere diciamo tu
+scontato nel senso sì più accessibile eco è completamente free
+possiamo affidarci delle annesse a diciamo così ma credo che sia addirittura open source se si sei mesi credo sia trasmesso in genere se dio mi sono meravigliato che proprio dalle sei alle sei
+scritto e pubblicato un software di quel tipo però mi sa che se lo spread sul tab
+ecco secondo me le cose diciamo rispetto a molti anni fa sono diventate poi sempre più complesse spesso semplicemente
+specialmente
+diciamo con l'introduzione adesso
+sarebbe bello avere un esperto qui è un vero esperto esatto non noi climber esperto no
+specialmente con l'introduzione dei cosiddetti voucher acque di questi queste placche queste micro applicazioni che vengono messe prima del dell'eseguibile vero e proprio quindi praticamente ti offuscano tutto il codice presente un exe o google
+damon il compilato lo
+cripta noi in maniera diversa comprare comprimono criptano e poi mettono il tuo eseguire eseguibile diventa questa piccola applicazione che decreta decomprime tutto in memoria non con l'introduzione di questi strumenti qui decompilare ed è diventato sempre più difficile e
+nei miei piccoli tentativi
+vedevo che a questa roba non riescono compilavano purcell e le zie nude compilatore di tipo statico come tanti anni fa era hermon questi usi applicativi
+pippo dabliu di asm trentadue no queste cose ti pigliano qualsiasi cosa la decompilare e vedevi che non aveva nessun senso mo precompilato era tutto pieno di caratteri a caso pur istruzioni e non avevano una struttura tipica vedi un programma compilato e qui
+lì è diventato diciamo più difficile lì la mia conoscenza si è fermata nel senso pagare c'è un esperto ti eravamo vada per fare questo vino un raid è però so che aveva delle diciannove
+teacher la possibilità di
+radio detection di questi
+differenti hacker perché ce ne sono ma non svagata e ht gli diceva a questo eseguibile compresso con questo specifico packer quindi ho in automatico ha tolto quel livello di protezione e poi chissà quant'altro ci sarà
+glass sound nei diversi anni magari sono altri sistemino anche se con l'introduzione della rete si sono mai tante protezioni sono l'esigenza di proteggere le cose è scomparsa no perché tu devi avere un account pagarselo la licenza è tuo programma controlla in rete e
+quella cosa non esiste più uno non ha più senso di esistere soprattutto se se in alcuni casi hai dei servizi che vengono direttamente erogati in rete ed in quel caso se tu puoi avere anche il software locale possono d'altro gratis ma del servizio comunque lo devi pagare
+è difficile che tu riesca a sbloccarlo da remoto
+non non è più e cracking reverse engineering soltanto ma devi fare anche dell'hacking dall'altra parte e quindi
+un'azione di attacco dalla crociata anti-isis quello cattivo ecco secondo me potrebbe essere visto come reverse engineering anche un saio ricordo
+nei primi anni di studio della catena elena novantasei novantasette forse anche prima novantacinque novantasei
+in quegli anni lì mi ricordo che
+studiavo questo fantastica cosa della catena in pelle con un tool che era parte di nascar come niceto netscape il browser ma quella in quel tempo netscape aveva questo modulo chiamato composer non so se qualcuno se lo ricorda ma è stato il modo in cui ho imparato
+la catenella e praticamente tu navigare su qualsiasi sito poi aprire composer e avevi la finestra col codice e la finestra col col risultato visivo del sito e potevi fare modifiche al codice e vedere immediatamente cosa succedeva era una specie di drink
+weaver ante litteram no una cosa molto semplice semplicissima però vedevi la struttura della pagina con le tabelle con format che vedevi qual'era il risultato
+il codice da una parte il risultato dall'altra e quindi quello era una forma una forma di impiego reverse engineering ma diciamo per capire non avere questo quest'idea e per un periodo molto lungo del degli inizi questo è stato sempre vero tu aprendo qualsiasi sito e forse
+otto or buy e dammi il codice sorgente non potevi vedere esattamente quello che succedeva ed è stato bellissimo adesso
+apri adesso il codice ed non capisci niente quindi quello potrebbe essere una forma di reverse engineering in chiave moderna no in chiave moderna nel senso ai giorni nostri prova ad aprire una roba fatta con react è si buona fortuna tra minimizzato
+carica centomila ciance e via di seguito magari well park
+non è facile potrebbe essere per esempio un modo per non so esiste un reverse engineering qualcosa e facendo nascere l'idea di javascript di web moderno non so ma mi hai fatto venire in mente che c'è anche un'altra cosa che è web assemblee bar
+ray script screen che sono programmi scritti in c compilati e poi eseguiti all' compilati in un sotto insieme di javascript e poi eseguiti dalla all'interprete acsi ciclismo assolutamente incomprensibili quindi per capire cosa fanno correre
+un bell'impegno di reverse engineering s antonio sat io ancora non ho capito che cos'è web assembli alla fine queste azioni nello specifico credo records island è per te
+che credo sia un derivato di watteau scritta negli script ne è semplicemente un sottoinsieme di
+di javascript che è noto per essere abbastanza veloce quindi è utile consiste nell'utilizzare tre è un backend di un compilatore tradizionale dell'opera caratteri più comuni come qualunque altro compilatore train una cosa tipo clang clang scripting basato sul clan comunque era cosa ti
+proclami che ha un front end con e nei linguaggi una rappresentazione intermedia e poi kennebec beckham che possono andare sulle varie piattaforme e scrittore semplicemente una di queste piattaforme è scritta nel web assembli ed è da quello capito un javascript scritta ridotto c'è un subset di rapa in cui usi sono cose che sono molto
+veloci light fa un numero di locazioni per esempio all'interno della della virtual machine di script pelle dell'interprete di javascript e sai che quello più per cui viene fatto just in time con peeling è molto ottimizzato e quindi usi tutto tutte le cose più
+inoltre possibili di javascript per generale di congedava script che eseguirà un'applicazione che nativamente a c ed e viene eseguito e sutherland time vi è l'ateo javascript l il codice che viene generato e javascript javascript javascript sotto sottili
+è molto piccolo e quindi può essere lanciato su browser o browser
+i fattori sono passabili però è un container c'è il file wav ma non ha javascript e non so se la so se poi facciamo la discussione no no no va bene a essere zia accadere non so se web assemblea stessa cosa non credo che sia esattamente la stessa cosa ma arriva dai
+risolvere lo stesso problema cioè avere del codice nativo da quello capitolo per breve acquistato due cose quindi due righe magari metto un attimo frase è scritta però questo cioè è prendere del codice nativo e generale del javascript e poi viene eseguita dentro il broccolo record c'è stato un famosissimo
+un esempio di
+linux convertito a conad scritte con clark e scritta e fatto girare il browser no
+l'altro da questo fabris pellame che ho nominato nel due puntate fa altre puntate fa era stato lui a farlo è però web assembli se allora quella web assemblee vuole risolvere lo stesso problema lo sto leggendo è quindi richiesto al p t al test no ho chiesto
+ah signor johann sebastian google
+in persona no è sostanzialmente è un formato binario quindi non è già javascript è un nuovo formato e che però può essere implementato all'interno della trama stetson quindi il metodo di esecuzione di web assemblee può esse
+però in teoria nessuno vieta ai browser ad implementare un modo nativo per interpretare i due assemblee quindi per quasi passatemi
+è tutto tutto molto interessante diciamo così che sto vedendo un attimo però scusami web assemblee di assembly cosa c'è in tutto questo se non fosse stato x è formato binario che hanno inventato bene bene alla fine anche le varie virtual machine of net e java sono degli assembly
+lo ha più o meno alto livello con funzioni di più o meno native ma sono degli assembly sostanzialmente sono delle vie informazioni sui paesi diretti esegue questi questi comandi scritti in questo main language del fuoco o sto pensando sempre in termini di reverse engineering come e quanto si applica
+le reti neurali capire che cosa fu muoia dentro questa festa un bel discorso un po' lungo però un bel discorso apriamolo dai apriamolo e finiamola così allora ci sono due modi per far applicare reverse engineering e le reti neurali faccio due modi sono centomila modi croce
+ce n'è uno che è stato utilizzato quasi subito all'inizio delle aeree dell'epoca delle reti neurali
+che era
+non mi ricordo come si chiamava che lo aveva a che fare con dream qualcosa cavo aveva prodotto google sostanzialmente però l'idea consiste in in questo prendere una rete neurale e dire eh
+invece di darti in pasto un'immagine per esempio e divertiti classificare l'immagine io faccio il contrario cioè classificare weldon prendiamo la retina orale di una black box hotel entrano da un lato tutti i pixel dell'immagine dall'altro lato escono tanti valori quanti sono le classi una di queste avrà un valore
+alto e gli altri vanno tutti valore basso quando la classificazione forte cioè quando sono sicuro di quello che sta avvenendo qui foto del gattino classe gattino uno tutte le altre le atrofie taz è quello che si è scoperto molto brevemente molto dopo la diplomi che si poteva fare era far
+il processo inverso che tra l'altro sfrutta lo stesso meccanismo con cui la rete è addestrata tra quello di dire se io avessi quest'uscita il titolo un'immagine del rumore bianco della puntini a caso ok gli do una passata e poi vi dico modifica l'uscita vuoi voglio capire come modificare l'uscita in
+in modo che questo sia uno tutti gli altri a zero allora quello che fai è lo stesso processo in cui con cui aggiorni i pesi della rete durante l'addestramento che si chiama ben propagata cioè parti dall'uscita dalla differenza tra l'uscita attesa in città reale e vai a propagare all'indietro
+produce dei gradienti di ogni livello so che è un po' tecnica come cosa però sostanzialmente graditi dicono come le cose vanno modificate per avere l'uscita desiderata in training tu vai a farlo nei confronti dei bei a modificare i pesi che stanno all'interno della lettera rete neurale ma in questo processo invece
+dice vai a modificare l'immagine originale base ai cavalli scrivere modificare quell'immagine di rumore bianco e modifichi leggermente il pixel per andare verso la sua sala attesa a questo punto fai un'altra passata in avanti vedi che valore viene e torni indietro di nuovo ripetendo questo passaggio enne volte arriva ad avere luci
+attesa e un ingresso che genera curiosità quindi se io gli chiedo gattini ne ritrovi all'inizio un'immagine che ricorda i gattini non non è un'immagine perfetta e anzi di solito serate a guardare le cose che cose più o meno del duemilaquindici duemilasedici stiamo parlando
+l'ho e adesso correntemente google di dream era uno in particolare sono queste allucinazioni cioè queste cose in quindici cane e ti spuntano coda e faccia di cane i colori attivissimi da tutte le parti
+templi o zenith vedi queste cose con i templi zen a caso sparsi nel nel nell'immagine nella nota interessante questo viene anche utilizzato per parti di reti neurali cioè in alcuni casi si cerca di capire per esempio parlando di quelle reti neurali sempre io mi sto riferendo a hayley
+csvnet è proprio la prima rete di dp c'è quella che ha lanciato la moda dei diplomi per quella rete presenta stati fatti tanti studi per per capire perché e come
+una volta da novella non è ivan boyd allora la moda del deep learning nel senso che
+le reti anche ultile livello erano esistevano anche prima per bologna sito di moda perché so sembra una roba action allora cosa l'introduzione una nuova secondo me c'è una cosa anche di moda perché tanti tanti tanto machine learning è stato ignorato per a favore del diploma
+però va bene no ed è una cosa che risolve tanti problemi ma infatti questo è uno di quelli cioè computer vision classica veniva fatta con cerco di capire quali sono le cose importanti dell'immagine è per esempio riconoscimento di facce si usavano
+featured narrativi per un un una feature che viene utilizzata era quando vedi qualcosa di chiaro scuro chiaro oppure quando vedi
+scuro scuro chiaro chiaro se questo tipo di ufficio venivano fatte a mano
+decisa a tavolino e poi si andava a portarle a darle in pasto a un sistema di esperto di intelligenza artificiale che decideva come usare quelle fiche con alex net è la prima volta in cui questo meccanismo che si chiama pigeon forge non viene lasciato fare alla rete termine
+fatto quanto pare in automatico non c'è stato un processo di reverse engineering per cercare di capire quali ufficio quella rete avesse inventato e facendo questo processo si scopre che ci sono qui scarpe identifica richetti fisso che identificano le linee i vari orientamenti quindi la rete ha fatto qualcosa di molto simile a quello che si
+faceva prima a mano però la derivato dalla grande quantità di dati senza avere nessuna informazione pregressa fu cos'è un'immagine addirittura addirittura diciamo che aveva poca idea di quale fosse la struttura locale sapeva che alcune cose erano vicine altre erano lontane perché
+utilizza quello che si chiama conventional networks quindi sono prendo un pezzettino dell'immagine e lo analizzano però non sapeva in che relazione stessero questi dati tra loro e ha dedotto le relazioni che doveva analizzare soltanto guardando una grande mantello quindi questo è abbastanza impressionante di per sé ed è un'operazione di reverse engineering
+e diventa molto importante in tanti ambiti perché in molti casi ci sta preoccupando di capire quanto una rete può essere stabile quanto
+può essere può avere stati nascosti cioè cose che non sono apparentemente raggiungibili dal dataset ma non sono state addestrate e quindi possono essere completamente imprevedibili perché se una cosa è stata addestrata presso una cosa sono un'area una parte della rete non è stata mai addestrata c'è inizializzazione
+che è praticamente casuale e l'inizializzazione se tre grate in modo opportuno potrebbe avere degli effetti indesiderati questo tra l'altro si vedeva anche su chat gpd che è stata migliorata e non so se voi seguite il canale computer file su computer file c'è una delle persone che
+solitamente parto di reti neurali e robert miles ed è un esperto di sicurezza delle reti neurali e in particolare faceva vedere delle cose del tipo fornendo sequenze apparentemente casuali di caratteri
+tags bit nativa fischi per fiaschi cioè ti dava delle risposte come se avessi scritto tutta
+è
+tra l'altro aveva fatto anche una ricerca quindi anche reverse engineering dei dati che potevano essere stati utilizzati scoprendo che quelle sequenze casuali di caratteri anzi il modo in cui l'ha scoperto è abbastanza interessante perché la l'ha fatto partendo sapendo che avevano utilizzato uno specifico tipo
+di encoding e sapendo e capendo da dove erano arrivati quelli sequenze di caratteri queste sequenze di caratteri arrivano da un canale reddit downtown su reddit in cui la gente semplicemente contava tre e gli avevo dato in pasto tutto questo su reddit in cui
+c'era nome della persona e un numero la rete non ci aveva capito niente di tutto questo e quindi quando vedeva i nomi di queste persone si inventava delle cose asia casa certo senza ma dai dati a cappio a queste povere etico essa iniziare a venir fuori poker e slot però è stato fissato in
+praticamente una settimana perché io l'ho provato dopo una settimana e dopo una settimana non c'era più brulè è un bellissimo video tra l'altro questo quasi compiuta falk chiama glitch token
+se qualcuno vuole andarselo a vedere oltre ottantasei ha visto anche te così essi
+poi mandami tutino cosimo ovviamente se poi ritrovati a molto bravo a nancy locale è suo però è un po' morto purtroppo non
+fa una cosa di svariati mesi bene vedete che ridendo e scherzando anche se non sappiamo bene come dove vado a parare alla fine di reti neurali e scusate di reverse engineering
+sto guardando il video love di reverse engineering s ene
+se n'è parlato prima di chiudere e qualche considerazione varia così sul reverse engineering per quanto generica e banale sia la domanda date qualche risposta che ha più senso che futuro abbiamo la solita domanda su passato presente e futuro qual è il futuro
+del reverse engineering se ha senso fare una domanda simile
+raiders diverse etnie
+santa marta l'alto livello che sarà portata a parte la visibilità sulle reti neurali che magari sono argomenti più tecnici ma anche per l'utente finale che interagisce con le sue hai tutto il prompt engineering in qualche modo può essere considerata una forma di reverse engineering per x
+fatto in un certo contesto e certi scopi eh s eh s
+e che reverse engineering ne sono venute fuori di bellissime nelle ultimi ultimi mesi
+con tutti questi queste persone che hanno provato a
+a far vedere a trasparire la programmazione degli agenti tipo bing e yahoo sono riusciti a estrarre i propri originali quindi secondo me quello che volevo dire era era persa ingegneri e sembra una cosa brown
+diciamo uno stile che che proviene dal passato remoto in realtà è attualissimo e anzi in qualsiasi cosa che si fa più si ha quella determinazione di andare nel dettaglio capire in profondità e in più diciamo il proprio contributo
+ha valore secondo me quindi maschile attualissimo senz'altro non solo ti può dare tanta soddisfazione e gioia no anche se sei interessato ma è anche uno maschile fondamentale man nei lavori sono tipo nostro secondo me
+bloomberg punto strizzo che ci dici hai qualche nota finale da aggiungere di la posa di un nipote del boss modesti io dal mio punto di vista poco mi ha dato
+un po' di vista professionale niente oh oh oh oh a lavorare in un certo modo anche
+nelle esperienze dopo dopo è stato molto utile nel mondo
+in quello che faccio anche tutti i giorni vedere un romanzetto
+etnee nel novese
+sono d'accordo il congelamento degli hawaii
+stava avremmo questo è
+in
+reverse engineering
+ed è molto più potente
+poi il bello che il mo strumento per interagire investigare questi strumenti è la parola stessa e c'è lo strumento con cui gli strumenti poi si esprimono senza neanche il summit usare strumenti dedicati va bè e marco che ci dici ancora the world
+se essere inedite raggiungere non aggiunge ma belliche vi sembra aver detto abbastanza sulla
+sul reverse giovanili del nazionale e come utilizzare le reti neurali per reverse engineering poi riversati in generale ma avevo detto
+non ne so nulla poi mi son reso conto che in realtà abbiamo toccato una serie di zeri di cristo cosina così rilassatevi e aveva pensavo di saperne di ma stranamente bene bene dai allora è una puntata un po' strana questa carta temuta su po è così particolare non sapevo bene di cosa parla
+clarke reverse engineering sembrava una cosa un po generica un po' troppo un po' troppo poco però io ci ho trovato spunti interessanti per cui credo che già questo per quanto mi riguarda la rende
+una puntata degna di essere stata fatta diciamo così bene detto questo ragazzi io direi chiudiamola qui e alla prossima grazie ciao downloads

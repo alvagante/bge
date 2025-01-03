@@ -1,0 +1,709 @@
+bene quindi buonasera a tutti questa è la puntata numero credo sessantadue o sessantatré sessantatré la brigata degli estinti intitolata il fattore umano delitti quindi il fattore u
+con ospite carlo che non so chi sia non si è ancora visto e francesco reale che invece saluto e conosco da una vita siamo amici d'infanzia diciamo buonasera francesco taiwan sarà tutti
+allora prima di saltare a bomba diciamo nell'argomento fattore umano
+che mi sono reso conto è un argomento totalmente intrattabile vista la vastità ma comunque facciamoci una chiacchierata
+siccome oggi è martedì tradizionalmente la brigata va in onda il lunedì ma ieri sera alle ventuno c'era l'italia
+hai visto la partita dell'italia e avrei preferito di no fino al novantesimo
+abbiamo sofferto abbiamo sofferto parente o insieme al collo me la sono neanche sentita di esultare perché ero convinto si rischiassero fallo su chi ha fatto il passaggio che poi scivolando beccato url
+resoconto no
+sarebbe la beffa invece si vede che la confusione ha regnato
+ce c'era da buona ma ci è andata proprio c'è super bene peccato per la croazia perché se se lo meritava e diciamo anche se abbiamo fatto come sempre l'italia
+dopo aver preso un gol subito si sveglia si dà una mossa generale no
+va vabbè comunque storicamente noi abbiamo un rapporto con la fase a gironi che non è proprio
+la nostra eccellenza
+no infatti dalla dal cat sento vedo che tutto era meglio farla ieri
+la live cheese effettivamente ma no dai è stata un po' una sofferenza ma alla fine siamo passati bene quindi
+fattore umano fattore umano
+per fattore umano si possono intendere molte cose io preparandola puntata mi sono preso un po' di appunti su cose di cui potremmo parlare
+però
+nella parte preparatoria diciamo quando ci siamo sentiti con frances beh intanto scusami non ti ho introdotto quindi puoi puoi dire qualcosa su di te per presentarti perché la prima volta che interviene quindi se io in realtà sono
+quasi cinquant'anni
+ingegnere in telecomunicazioni che non ha mai fatto un ingegnere in telecomunicazioni in vita sua
+ho prima lavorato nell'ambito dell'automazione per processi industriali in ambito che in gas poi energia e da qualche anno sei sette anni mi occupo di innovazione innovazione
+per quanto riguarda nel settore energetico fondamentalmente questo è il mio il mio background penisola sono ben poco come dire legato agli ambiti di programmazione anche se cosimo si ricorderà che quando eravamo ragazzi avevamo iniziato o le bds
+avevo uno dei nodi di milano di una delle bds ma certamente sì e la bibbia essa era chiamata universal con flash gration esatto io
+la gration storiche stoici da cui run un su un universo con la gration ventura era
+era la sigla sotto la
+il logo ma io me lo ricordo benissimo perché quelli erano
+erano gli anni noi siamo amici d'infanzia come dicevo quindi
+diciamo siamo cresciuti con quel mondo lì
+con con computer tipo il commodore sessantaquattro l'amiga poi le prime b s e io mi collegavo a universal comprendere con flash gration a milano qui di casa tua
+sì no
+a casa mia sorella ha bestemmiato io non poteva chiamare il muro è usato da udine e la prima il primo mese che di questa attività dopo il primo mese è arrivata la prima bolletta mio papà mi voleva uccidere
+s ma poi c'è un altro aneddoto scusa diciamo mi piace ricordare
+giusto per far capire a chi ascolta che che potere predittivo che ho
+mi piace ricordare la prima volta che io ho visto internet o
+ho capito ho capito non ho capito niente ma ho visto un collegamento internet ed era il primo provider credo in italia ed era a milano ed era galactica te e tu avevi la connessione a galattica un cosmo questa roba qua fichissimo devi vedere e rivedere eccezionale eccezionale internet
+una figata spaziale allora io ho provato insieme a tamir mi ricordo forse eravamo insieme
+nello stesso posto fisico miei mi hai mostrato sta cosa internet io quella volta avevo con lei mi collegavo le biblioteche mi collegavo a fidonet bidone o fao col coach si chiama guardato sta cosa ho detto
+cazzata e qua
+sta roba qua non andrà mai scusa fido è molto meglio
+giusto per capire no da dove da dove arrivavo
+bè comunque
+scusa vai avanti vai avanti
+nulla di più diciamo queste
+sono rimasto un appassionato di come dire di
+di tecnologia adesso vi invidio mi diletto con arduino e con una stampante thread è una cosa che ti assicuro
+perché
+quel rischio il matrimonio a quel punto però
+perché
+diciamo passi i tuoi giorni a stampare come se non ci fosse un domani
+e niente questa è la mia competenza nel per quanto riguarda il fattore umano nell'it ecco io sono forse la parte più umana poco i t
+in realtà in realtà no perché il ricordo che si smanettare sui computer quindi magari negli ultimi anni negli ultimi decenni non hai praticato però comunque capisci cosa significa insomma hai hai hai un
+comprensione dell'ambito it
+comunque fattore umano
+accennavo nella fase preparatoria della puntata
+ci siamo scambiati alcuni messaggi siamo parlati e tu mi dicevi che c'è c'è una cosa che ti sta particolarmente a cuore di
+ha a che fare con questo argomento ti porto un esempio spiego da dove nasceva durante il covid io ho iniziato la stampa thread e mia moglie discutere
+fare deciso di imparare a fare a maglia quindi
+ovviamente l'unica cosa che funzionava amazon quindi o compri gli aghi e il filo e poi cosa fai vai su internet cerchi tutorial vedi ed erano gruppi in cui le persone oh ma guarda devi fare così
+brava però sarebbe meglio facessi cosa
+ma queste scuse questi erano video
+su youtube o live con un di persone che però poi quando vai anche sui gruppi facebook paragoni fare questa cosa ma cosa fa datemi delle dritte mi è venuta da me n'è capitata questa cosa mandi la foto fai vedere no e ti dicono hai fatto questo errore dovresti invece raggiro così c'erano
+roccia estremamente come dire collaborativo e e c'era quasi il piacere che qualcun altro condividesse la passione no
+però non fare la stessa cosa su un gruppo di programmatori ma io lo vedo anche sui gruppi di arduino e di elettronica ti ammazzano dice no vai a fare un'altra cosa questa roba non fa per te
+sarebbe meglio facessi altro nella vita ma bisogna perdere tempo a rispondere a questi messaggi e d'altra parte vorrei dire siamo un gruppo di aiuto magari verrà mica tutti scienziati certo
+questa è una cosa che io noto molto quando si parla di tecnologie tipo
+la programmazione in generale e vedo anche l'elettronica per il pianeta solo due settori dove trovi o persone assolutamente disponibili a condividere il sapere oppure la stragrande maggioranza invece
+preferirebbe rimanere una nicchia chiusa e io mi sono sempre chiesto perche
+prendi la cucina la stessa cosa se tu fai un piatto nessuno ti dice guarda è meglio che vai a adesso
+fare a dipingi perché cucinare proprio migliorano lo fai piuttosto reliquie insegna ti spiega ti da dei consigli nella programmazione io almeno per quel poco che ho visto non c'è questo approccio mi sono sempre chiesto perché
+culturalmente agenzia project e allora partiamo da questa cosa qua
+quindi questa è la tua esperienza no
+io quello quello che ho visto diciamo nella mia
+carriera anche su di me onestamente e che nell'ambito della programmazione del non solo della programmazione ma proprio della conoscenza
+legata ai computer sicuramente anche in altri ambiti
+c'è molto di quello che potrei definire elitismo nel senso questa conoscenza come dire stata guadagnata con sforzo immane e quindi la
+ce ne siamo gelosi non vogliamo che chiunque
+ne venga a conoscenza no per esempio nei tempi ai tempi diciamo del delle demo dei vari commodore sessantaquattro amiga eccetera
+magari mi piacerebbe che qualcuno magari che c'è stato veramente in quei gruppi come dire ne parlasse ma
+era molto difficile trovare informazioni se non eri parte di un gruppo non potevi mai avere accesso a quelle conoscenze lì come fare una demo come fare un certo particolare trucco
+che ne so le immagini plasmano gli effetti plasma o o altre cose
+era a conoscenza
+diciamo molto custodita molto gelosamente io ho letto diversi libri
+l'ultimo in particolare
+che descrive l'ambiente del sistema cleto c'è un sistema delle università americane degli anni sessanta settanta
+e descrive l'ambiente del m t per esempio è lì e era tutto molto
+di nuovo la conoscenza era guardata molto gelosamente quindi tu dovevi esser parte di un gruppo di elite per avere accesso per essere cool e questo secondo me si è riflettuto poi ai giorni
+più recenti danni più recenti per esempio quando io ho iniziato a lavorare negli anni novanta
+nel fatto che quando venivi quando ti veniva fatto un colloquio in genere per programmazione per posizioni di tipo programmazione t
+tipo di domanda che ti veniva chiesto era quello che oggi si definisce litchfield no quindi per esempio qual è il modo più veloce per contare i bit in una parola di trentadue bit no cosa che tu o lo sai e se no se puoi inventarti quello che
+ma
+non arriverai alla soluzione no lo devi sapere quindi era un modo molto elitario di valutare le conoscenze no e anche vabbè adesso si è capito diciamo abbastanza fallace adesso genere non si fanno più quelle quelle quei colloqui li
+quindi sicuramente sì c'è questo atteggiamento secondo me non tutto la eth non tutta la programmazione
+nelle comunità più recenti
+ricordo anche per tutto diciamo tutto un aspetto di cambiamento culturale che c'è stato negli ultimi non so vent'anni dieci anni
+la gente non si pone più in quel modo lì almeno non sempre ecco allora ti dico in effetti se vado a valutare un attimino l'età media di chi a quel tipo di comportamento che stavo stigmatizzando prima in effetti sono più a
+ad avere questo genere di beatitudine ero però mi sono sempre chiesto se si chiamano se questo modo di fare non dipende dal fatto che il tuo lavoro la tua passione luoghi quello che in realtà poi dipende da una macchina
+no ha quindi il tuo approccio e e e e binario non so
+la macchina c'è sempre anche lei difficilmente si ha ragione turno se si sbaglia e perché e perché tu non gliel'hai dato
+gli hai detto cosa doveva fare in maniera corretta
+mountain nessun lavoro con più del programmatore funziona così se ne sei sbagliato quello non fa quello che deve fare quindi avere davanti un altro un'altra persona
+una mia ipotesi
+ripeto non sono un sociologo di soccorso devono avere davanti un altro che in realtà non è binario mi costa molta più fatica perché tu non sai se ha ragione lui o ragionevolmente con la macchina in qualche modo ci ha ragione lei perché è lei che deve
+cosa che di fronte a un'altra persona tu resti fargli fare quello che tu vuoi ma in realtà non sai se poi c'è radio network ci ha ragione lei non so se riesco a passare clic
+questo allora se capisco bene il concetto che stai cercando di passare
+stiamo velatamente
+ammettendo che il programmatore medio e un po
+ha difficoltà a relazionarsi con altre persone che muore ma è voglio dire io che che non sono un programmatore ma che comunque sono un tecnico non mi rendo conto che ho un bias dovuto al fatto che
+io ho fatto l'ingegnere per quindici anni ingegnere quando quando qualcuno viene da me con un'idea io la prima cosa che cerco sono i problemi e mi fanno un mazzo così le carpe che dicono no tu devi essere contento e
+io mica non sono contento io sto semplicemente cercando
+vedere come risolverli mica ho detto che limita gli dico di no semplicemente guardando avanti cercando di capire come risolvere le cose che saltavano fuori dall'altra parte il nostro compito diciamo
+sì no ma ripeto è un bias è una forma mentis e modus agendi è una roba che si è abituato a fare perché l'hai fatto per tanto tempo faccio un esempio se mia moglie viene da me e dice andiamo a fare questo viaggio io sono contento andare a fare quel viaggio ha inizio a pensare dove dormiamo
+con che cosa ci arriviamo quanto costa il caso mi passa la voglia di
+ma in realtà non è che lo dico perchè non ci voglio andare lo dico proprio perchè ci voglio andare e quindi voglio risolvere i problemi che si possono presentare in modo tale da fare quella cosa che voglio fare certo è qui la vive malissimo giustamente no per cui il bias
+per quanto
+diciamo non è che uno non si sarà nazionale e che uno ha un modo di relazione di un certo tipo che è dovuto alla sua esperienza anche al suo carattere ma anche a quello che è abituato a fare beh qui si potrebbe diciamo se avessimo uno psicologo qui magari si potrebbe parlare del fatto che è possibile che le persone che ha
+un atteggiamento di quel tipo si avvicinano più facilmente al computer per quel motivo lì probabilmente è nato prima l'uovo o la gallina
+esatto
+però guarda il punto che tocchi secondo me è importantissimo nel senso un esempio mia moglie viene da me mi dice del viaggio questa situazione si propone in mille ambiti diversi compreso letti la programmazione i progetti ai software eccetera
+ogni giorno
+no secondo allora
+so diciamo sarebbe un pò da affrontare il discorso un po' più ampio ma il modo in cui si dicono le cose il modo in cui
+si dà feedback per esempio
+può fare una differenza enorme è la differenza tra tua moglie che ti manda a cagare
+e invece tua moglie che da adair figata andiamo no redhat e che
+è praticamente centottanta gradi rispetto a una risoluzione rispetto all'altro no voglio dire se non vogliamo parlare dei programmatori che dice sono un disadattato sociale no no
+è approvato avere a che fare con gli avvocati
+no non ho mai provato fortunata allenate orientano secondo
+o in azienda si in una legge se tu vai dall'avvocato e non si può fare niente no
+esatto
+poi alla fine lo fai lo stesso ma lui ha lo stesso approccio non so come mediatrice si è giustificato però credo no o no secondo me è meno efficace è anche giustificato un programmatore o un tecnico che considera voglio dire quelli che possono es
+essere gli eventuali problemi tecnici che si presenteranno no così come ci sono poi i problemi legali
+però la differenza è che magari il tecnico non si stata aggravata invece il avvocato arriva in giacca e cravatta tutti i giorni in ufficio perché l'avvocato anche quello magari cambiano quindi li da un'aurea è diversa e un'aura di autorità un'aurea di neutralità io mi ricordo una volta questo ovviamente tu non c'entra
+c'era avevo un collega ma mai filato poi un giorno sono andato a roma perché devono incontrare i clienti rigettato giacca e cravatta e lui lungo il corridoio battuto un corridoio per venirmi a salutare
+sarà un caso
+sullo stesso
+sinistri numero
+eccolo quel tipo particolare l'idea di situazione non l'ho mai non l'ho mai incontrata diciamo dove l'abito fa il monaco no
+però l'avvocato gli avvocati si ho ho incontrato anche un avvocato
+azienda farà farlo
+che aveva la flessibilità necessaria per relazionarsi con tecnici
+ma allo stesso tempo come dire trasmettere concetti di tipo legale ma sapendo di parlare con un tecnico
+e quella è stata una cosa devo dire molto molto piacevole comparata con un'esperienza normale che no non si può fare niente eccetera
+quindi anche nell'ambito non ti diciamo questa questa capacità di relazionarsi con le persone e di capire anche che il linguaggio parlare no ad esempio un esempio che che ricordo sempre con
+che per me è stato molto
+istruttivo
+è un collega che non lavora più
+nell'azienda adesso dove sono e lui faceva parte del nostro team quindi si occupava di tutta la parte di business intelligence reporting eccetera analitics
+lui aveva questa capacità incredibile dal mio punto di vista perché io sono completamente negato dal punto di vista di parlare con chiunque dal tecnico ai t al l'avvocato anche se io quindi parlando in maniera diversa alle diverse perso
+zone è per esempio
+non avendo diciamo reazioni scomposte se lo so gli arrivavano indicazioni da o che erano completamente contrarie a quello che lui stava proponendo ad esempio no mentre per me è come dire per me tecnico abituato
+oh no
+la soluzione tecnica quella che conta di più
+almeno ero abituato prima volta il
+discussione va affrontata sul piano tecnico se tu sposti la discussione su un piano che non è tecnico ma è
+ma la soluzione tecnica uno è migliore ma noi ce ne sbattiamo le palle perché abbiamo una partnership con quest'altra azienda e quindi compreremo la soluzione dall'azienda ix no per carità legittimo no però quelle situazioni lì per me sono di sofferenza
+tale
+no
+quindi
+e lui aveva questa capacità di assolutamente cioè non farsi influenzare da queste cose qua e quindi se accettare o paypal
+relazionarsi con le varie figure in maniera completamente trasparente quindi diciamo che stiamo arrivando al fatto che probabilmente non è l t
+è proprio il lato lato tecnico che che per sua natura
+a questo genere di diciamo di incapacità
+in qualche modo di relazionarsi con gli altri ma questo questo non non sovrapporre qualche
+poi ovviamente ci sono le mosche bianche no quelli quelli che lo sanno fare però per esempio non c'è stato un periodo della mia vita in cui effettivamente
+prima di entrare dove lavoro adesso dove ho sempre ragionato in questo modo
+quello che dicevi tu prima di tutto viene la parte tecnica non sempre perché facendo ingegneria
+se sei se sei un impianto di qualche centinaia di milioni di euro che non parte perché è sbagliato brunetta la passa proprio benissimo quindi
+forte e funzionale
+è
+invece invece adesso non è più così quindi ho avuto un periodo veramente di sofferenza che non capivo come delle cose potessero essere diciamo accettate
+è il motivo fondamentalmente era perché noi dobbiamo vendere un prodotto quindi non necessariamente dev'essere il prodotto migliore del mondo dev'essere un prodotto che funziona sicuramente
+ma magari ha qualche piccolo difetto che tanto al cliente l'interesse a houston
+accettare questa cosa per un tecnico
+alti la cena un paio di volte organi nigerini carriera
+eh s e di
+secondo me c'è
+lo cito perché ne ho letto ma appunto prima della puntata però un pò preparare un libro che a me è piaciuto moltissimo che questo qua si chiama paul weir
+william de marco lister è un libro un po' vecchio a questo punto ma poi è stato aggiornato con una seconda edizione io lo consiglierei a tutti quanti quelli che lavorano nelle nell'it soprattutto magari chi ha tim
+facciamo l'esempio che mi era venuto in mente è proprio viene affrontato in uno dei capitoli
+che si chiama
+si chiama
+quality time per mets quindi
+la qualità sopra soprattutto però solo se possiamo permettercelo col tempo quindi significa dappertutto si fanno compromessi ovviamente no mentre in genere i tecnici quello che vorrebbero è come dire massima qualità su tutto no quindi è quello
+che motiva avere un sistema a celle costruire un sistema eccellente quello che motiva moderno uno sfogo io voi programmate seriamente io mi faccio i miei programmini perché mi sembra lavorano ma spesso volentieri ci metto più fame il programma che a fare il lavoro perchè il programma non posso fare sempre meglio
+no perché quindi
+allora funziona essi però potevi fare quell'altra è certo utile no perché a un certo punto deve arrivare a un trackball dicendo
+però voglio dire l
+è vero che l'ottimo è nemico del buono però secondo me pochi sono appassionati al proprio lavoro come i tecnici e quindi diciamo la qualità di quello che fai da vuoi sempre al massimo perché è il vero piacere quello ma è il tuo mestiere no non è il tuo destino escono me è il tuo mestiere quello
+ma quel quello per cui sei stato in teoria assunto
+anche però bisogna anche dire che diciamo la visione su questo cambia con l'esperienza secondo me lo cominci hai una certa visione come dicevi tu e poi capisci che in realtà poi ci sono tutta una serie di altri fattori se
+alla fine del mese lo vuoi winston stipendio e allora l'azienda deve guadagnare se l'azienda non vende prodotti non guadagna quindi come dire fa tutto parte di un certo ecosistema se vogliamo ma tu dicevi poi ho cambiato il mio approccio quando ho cominciato che cos'è che ti ha fatto cambiare
+pare che cos'è qual è stata la tua esperienza beh diciamo allora innanzitutto la cosa che è cambiata quando ho iniziato ho fatto ingegneria sono passato più all'innovazione e quando tu vai in ingegneria non prepari presentazione fra i documenti specificano quando poi invece devi andar
+a andare a presentare un prodotto nuovo un'idea nuova e la vai a presentare a uno che non ha idea di che cosa sia un software di programmazione o una struttura dati non gliene frega niente e quindi li devi dare quegli input
+proprio qui tre quattro input che sono assolutamente non tecnici sono o di come dire
+oh riguardano la soddisfazione del cliente è una serie c baiano eccetera eccetera oppure solo economici cosa che tu fino a quando era in ingegneria assolutamente certo non potevi fare i cavi d'oro però
+non era un problema c'è una nuova costava e costa ex punto e basta non spiega e ottimizzare ma non è quello
+invece quando devi andare quando poi man mano vai a presentare le cose è la prima volta che lo fai gli spieghi come è fatta una schedina su cui vai a sviluppare il
+jill è questo dici a me di questa roba buona ne frega niente due secondi e allora capisci che poi vedi altro
+che non hai idea di che cosa sta facendo ma gliel'ha venduta bene e quel progetto va avanti e il tuo onore
+sì no e allora capisci che da quella persona lì non devi più andare con la schedina che sarà scatenata arrivano in faccia non c'è
+la sigla raspberry pi su cui ti faccio girare una road joker che al giorno che aggiorna il mio kit in tempo reale controlla le batterie fa il demand response salute la domanda è quanto più importante ci guadagno
+devi dire quanto ci guadagna e poi forse dice qualcosa affacciandosi proprio facciamolo insieme
+il discorso è quello
+e allora prendendo un po' di diciamo di mazzate in faccia capisci che come dicevi prima
+bisogna da un certo verso qualcuno deve parlare un certo modo verso qualcun altro di imparare un'altra lingua stando attenta a non mischiarle e
+stiamo cercando comunque di far capire a entrambi e che quello che dici lo sai che dichiarano perché un tecnico ti sgama subito se non sai un cazzo da dire ma anche uno shojo ti sgama subito se lo stai prendendo in giro perchè invece un sempre
+allora ho imparato una cosa se non se ne acquista stiamo parlando di gente che sa fare il suo mestiere non è detto che esse non te lo fa notare è perché in quel momento non vuole far tramutare ha certo questo che è pure peggio
+sì perché lo fai notare a qualcuno
+non scopre le sue carte
+esatto per cui diciamo andare
+lo impari poi con l'esperienza però una roba che ho visto è che i giovani di adesso in realtà sono più sgamati di noi e credo sia una questione di formazione
+in che senso più sgamati i più sgamati nel senso che hanno più
+hanno sviluppato la capacità di parlare a differenti livelli di quanto abbia fatto io in quanto se è stato insegnato una volta generò molto
+parla il professore fruttati no ed esporre non parlava con te può ascoltare il professore sono due cose future scelte diverse era la comunicazione era unidirezionale è in realtà alla z in azienda non è mai unidirezionale la comunicazione ma noi non abbiamo sviluppato la parte di r
+risposta perché non ci veniva chiesta anzi era masi ramadi stavamo stare zitte zitte noi siamo entrambi amex diciamo è esatto e invece i giovani di oggi hanno sviluppato questa cosa so io di recente sono andato a fare una stupida presentazione più
+technip di milano e il professore non dico che mangia coi ragazzi ma poco ci manca ma io manco sapevo dove mangiare professionale a portata di click
+se già professore ce ne andavamo
+di cosa si trattava in questa presentazione aereo fatto sempre un progetto di aggregazione di batterie residenziali per fornire servizi e flessibilità la rete era oggetto innovazione la struttura mostrato che riprendendo quindi è una cosa interessante da vedere è certo edith
+tante piccole batterie a sembrare una batteria molto più grosse puoi fornire quando la rete va in in crisi puoi fornire servizi di regolazione manchester
+vi chiederò di che tipo di batteria si tratta residenziali
+batterie tesla come si chiama esatto di sì sette es la più antica sono decine centinaia alta di brandon ma lg huawei
+adesso
+l'area falk peterson
+ce ne sono veramente tante
+comunque al di là di questo è proprio l'approccio è cambiato tantissimo che era quello che io quando avevo fatto l'erasmus in svezia c'è una grande differenza queen amica amica cosa si insegnava cosa si studiava era la possibilità di venire a contatto in maniera pseudo informale con i professori
+questo poi è più simile a quello che viene richiesto in azienda
+mintel io ho notato anche questo
+diciamo muove spostandomi in norvegia lavorando qui ho notato un atteggiamento una differenza di atteggiamento di quel tipo nei confronti dei tuoi superiori dove la gerarchia in genere molto piatta qui
+questa è una differenza che soprattutto nei primi anni è stata veramente
+non dico scioccante ma
+grandissima rispetto all'italia dove tu io non so i primi anni che lavoravo qui
+il
+il sito della mia azienda mi vedeva veniva da me si mangiava allo stesso tavolo mi chiedeva cosa stava facendo sapeva tutto di quello che il nostro team faceva e quindi c'è
+è stata un'esperienza bellissima tra l'altro ma completamente inaspettata
+e diciamo che non faceva parte sicuramente dalla mia esperienza italiana o comunque tutta la parte diciamo scolastica in italia effettivamente questa cosa non esiste
+ma magari adesso diverso non so
+se ti dico sì può capitare però ci sono mosche bianche l'azienda non è questo veramente esiste ecco richiamano chiamano così
+però anch'io mi ricordano io vedevo questi ragazzi giovani no error che non avevano nessun tipo di come dire di timore reverenziale a a a parlare con con persone diciamo a livelli più alti di loro cosa che invece io avevo
+io ho sempre dato del lei al mio superiore è ancora oggi quando incontro qualcuno io da lei
+ma adesso cambiato un po' le cose magari adesso per riapprezzare ma all'epoca no all'epoca sembrava quasi che all'epoca quando sono passato in navi in innovazione non era visto benissimo era quasi un voler mantenere le distanze invece per me è una forma di rispettano tanto per tornare ai diversi livelli
+di che uno ha come come ti insegnano
+così come quando uno viene da te e tu gli proponi problemi invece che la gioia assoluta della sua idea così quando gli dai del lei questo semplice come dare del lei si sente di favara che carina quella del lei ci conosciamo
+ancora oggi io con i con i professori dei dei miei figli io do del lei a noi si incontra un'occasione istituzionale ma solforico hot swap option
+è questione di se è questione di contesto in cui si è cresciuti no l'età accetta privacy
+ti accorgerai
+oggettivamente tutte e due se mia madre o tua madre ci avessero sentito dare del tu a un adulto che non si conosce oppure tuo fratello
+stato esula un pò dal tutto però è sintomatico di un atteggiamento non v'è anche quello fattore umano no l'ha proprio bagaglio
+si aprì a bringing come sei cresciuto alla fine no anche quello e fa parte del tuo modo di relazionarti alle persone sentì parliamo un po di
+diciamo il fattore umano vuol dire mille cose che potremmo parlare di di tutto od diversi spunti diciamo uno di questi
+la cultura aziendale
+come fattore umano
+secondo te
+che cos'è la cultura aziendale
+e da chi viene faccia allora cultura aziendale intendo quello che si chiama
+in inglese si direbbe
+calcio al feed no quando tu assumi uno persona oppure lam come dire all'ambiente che trovi quando ti inserisce in una nuova azienda quella la cultura aziendale
+ed esiste solo grazie alla cultura aziendale non esiste secondo me esistono le persone che fanno la cultura aziendale cosa ne pensi tu oddio questa è una bella domanda è oggettivamente sì sono d'accordo container anche la cultura aziendale
+non esista in assoluto nel senso non esistono una cultura due entrino inizia la cultura aziendale esistono tante culture all'inter poi dipende quanto è grande un'azienda che un'azienda cinque persone sono quelle cinque persone certo è altrettanto vero che secondo me in una grande azienda u m i
+minimo di valori condivisi ci sono un cane
+se poi non ti stanno bene la gente cambia non so come dire che ti stai troppo ma alesse
+non condividi almeno quei valori adesso io io lavoro per una società
+ex monopolista italiana di energia elettrica veniva vero non faccio il nome e di recente abbiamo avuto un grosso incidente cosa che è rarissimo a noi ma noi eravamo scioccati perché quella roba lì da noi non deve succedere
+si fanno un mazzo assurdo su ma giustamente ed è condivisa c'è
+sì abbiamo tantissimi difetti ci mancherebbe altro siamo una grandissima azienda ma sulla sicurezza io ho lavorato in cantiere in giro per il mondo lavorato in germania o in austria ho lavorato nel medio oriente io non ho mai visto un'attenzione così spinta poi nessuno è perfetto e ci mancherebbe
+alta per quello che si dimentica nel mezzo c'è sempre no
+se è per quello fa parte della cultura aziendale cioè il fatto che sia successo quel quell'avvenimento è da nessuna parte io ne ho sentiti tanti di colleghi per poi ex-novo in ex ingegneria questa roba è stata parecchio sentita non c'è nessuno che ha detto
+va ma qui da noi le cose si fanno male o lo si sapeva già
+c'è la consapevolezza che quella roba lì sta dio come cavolo è successo e non doveva succedere e questo soprannome è una roba che dovrò io sono rida dal duemilanove quindi ormai sono quindici anni che sono lì tutti gli anni si è battuto sul tema della sicurezza quando succede
+qualcosa
+è quasi come se ti capitasse in famiglia e siamo un'azienda di isis mentre per trentacinque mila persone
+questo come cultura aziendale molto più delle procedure molto più del come dire
+degli organigrammi che tanto cambia amministratore delegato erica mi cambiano questo dell'amore fa cultura aziendale
+beh sicuramente ammirevole perché non un'azienda così grande non dev'essere facile mantenere
+una cultura del genere vedi l'esempio lampante di questi
+ultimi anni poi per esempio no
+non dev'essere facile no ti dico
+siamo pieni di problemi li avevamo un sacco però su questa cosa può solo sulla questione sicurezza prevenzione infortuni ciao io mi ricordo
+è successo durante la grande crisi come adesso che ho cambiato amministratore delegato world
+una grande crisi anche sindacale no persino i sindacati all'inizio pensavano che
+i sindacati interni hanno detto guardate che è una roba che non c'entra niente con una roba world of art
+non doveva succedere non riusciamo a capire perché sia successa quindi i sindacati che in un momento di debolezza dell'azienda non hanno come dire affondato il colpo perché ci siamo resi così pure loro si sono resi conto che non era lì che devi andare a colpire
+perché quella è una cosa molto radicata all'interno dell'azienda e secondo me questo è stato apprezzato dal lato dell'azienda fatta dai sindacati non abbiano quel momento difficile per tutti
+non abbiano infierito su quel su quel tema non è stata more
+molti edifici però ripeto sono sono venti anni che andiamo e ci stiamo lavorando
+ma secondo te da dove arriva questa diciamo questa dedizione alla sicurezza ci sono i manager più in alto oppure sono tutte le persone a c'è stato c'è stato un periodo in azienda dove
+ripeto siccome noi abbiamo ancora tanto personale che va in campo che è personale nostro
+sono i nostri colleghi e quindi c'è stato proprio un'attenzione da parte del management ed è anche del middle management no al fatto che non è possibile che si torni e che non si torni a casa dal lavoro facciamo un lavoro chi va in campo fa un lavoro fa un lavoro pericoloso perché quando hai a che fare con le infrastrutture
+elettrica l'incidente può un po' capitano
+però mulder è molto sentito da questo punto di vista un management illuminato aiuta
+perché
+fino pò di tempo fa c'era sponsorizzano anche molto il lo stop worf non se vedi qualcosa che non va non lavorare più
+non è che lo devi fare alzi la mano e dice io quella roba lì così in queste condizioni europa
+non è da tutte le aziende ho lavorato in arabia e ti posso dire egli ce lo schiavismo
+vedi delle reti nelle cose è meglio non
+sarebbe meglio non vedere insomma
+mi aspetto che in altri cantieri siano così simili holly
+però se penso che il management in questo abbia un grande
+ho una grande responsabilità
+alcune volte
+diciamo le cose cambiano perchè singoli individui fanno samson si fanno agenti del cambiamento penso un esempio che hai citato mi fa venire in mente
+la storia del della missione
+credo sia apollo uno
+con l'incidente che poi ha causato la morte dei tre credo astronauti il famoso incendio sulla rampa di lancio dove dopo quell'incidente c'è stato questo discorso che è stato ovviamente ripreso i mille in mille modi
+le trasmissioni eccetera di dighe in francia che ha detto
+diciamo che ha istituito come dire le regole
+da quel giorno in poi non ha fatto questo famoso discorso che adesso non ricordo ma
+dove
+la
+chiamò il dettame da lì in poi era siamo tap and competent no siamo duri e competenti e non accetteremo mai più una cosa del genere quindi da quel momento in poi le cose sono cambiate almeno fino poi la lotta
+sei quando c'è stato il disastro del challenger
+e anche lì fattore umano c'è
+cesare ebbe proprio quindi si può essere un diciamo
+arrivare dal management ma può essere anche quando una persona
+scatta e dice basta questa cosa non deve più succedere ovviamente dev'essere una persona che ha e pompa
+no non facile che sia uno uno che dal basso però magari può anche succedere magari in aziende più piccole
+insomma è venerdì
+will cultura aziendale sicuramente dal mio punto di vista sono qui tra i quattro valori condivisi è
+che che permangono e che permea un po' l'ambiente poi c'è una cultura più settoriale del gruppo in cui lavori non sono gruppi
+dove
+paradossale che ci sono all'interno della stessa azienda che sono
+posti dove la gente sta benissimo il posto dove la gente sta malissimo e magari è solo alchimia tra le persone che si viene a creare non c'è nulla di legato a organizzazioni specifiche due persone si stanno antipatiche così a pelle mentre ho la cosa divertente che non necessaria
+mente c'erano i gruppi dove ci sono i migliori perché
+se metti tropicali in un pollaio tutti i prime donne nello stesso punto magari si pestano i piedi
+se invece hai un gruppo con magari capacità medie ma che lavorano bene insieme
+hai fatto l'inter del duemiladieci è
+eh grande fan dell'inter
+questo assolutamente uno dei punti che volevo toccarlo quindi la gestione dei team come i team lavorano insieme assolutamente sì le relazioni tra le persone e poi diciamo la la relazione all'interno di un team senz'altro è uno dei fattori
+più determinanti
+di nuovo un libro che ho citato prima power apre con questo concetto o dove
+dicono
+ogni
+quello che libro dice samuel tu dèi e progetti is feeling
+i progetti ne falliscono tantissimi
+base alla loro le loro ricerche non per questioni tecniche non per questioni tecnologiche ma per questioni sociologiche assolutamente sì secondo nella tua esperienza
+hai avuto qual è stata la tua esperienza diciamo lavorando con colleghi hai trovato colleghi con cui era molto più difficile lavorare o impossibile lavorare era impossibile o a premessa ci sono ambiti diversi per rispondere a questa domanda e cioè
+se all'interno dello stesso gruppo
+o quando ti interfacci tra gruppi diversi casi in due fasi con gruppi diversi ognuno portato al proprio mulino poi quella persona che li avresti tirato un mattone in faccia scopre che lo fa perché aveva bisogno di farlo e quindi quando lavora con te e il collega migliore del mondo ma in quel momento lì che verrebbe voglia di strangolarlo invece quando l'avevo
+dall'altra parte è uno che vorresti sempre avere con te nel team
+impossibile quindi
+ok sicuramente ha incontrato persone della stessa azienda
+magari lavoravamo in ambiti concorrenti concorrenti nel senso c'è un budget a me ne serve un tot atene serve un tot e sì p est ai piedi per portarselo a casa non resta fondamentalmente è un esempio che può capitare no però in quel caso non è
+che brutto lavorarci insieme semplicemente che hai un obiettivo che però si scontra con suo
+chi è più robot verso la casa vincere almeno nel nello stesso team onestamente mi è capitato ma sono mosche bianche se io sono sempre stato fortunato da questo punto di vista e ho sempre trovato gente con la quale
+ho lavorato abbastanza bene
+ormai lavora non mi sono mai trovata in un gruppo dove sarai sparato
+onestamente la mia esperienza è stata molto simile
+diciamo ormai forte dei miei venticinque e più anni di galera
+di lavoro posso dire di sicuramente di aver trovato moltissime persone con cui ho lavorato senza problemi alcuni con cui ho lavorato con molta più gioia diciamo dove si ha se proprio si vedeva in almeno un paio di casi
+incluso tre forse
+incluso il team dove sono ora un atmosfera assolutamente fantastica dove le persone si rispettano uno con l'altro e
+diciamo come dicevi prima
+evidenziare i problemi in un clima di rispetto uno con mutuo rispetto evidenziare i problemi non è un problema perchè è quello che ti aspetti dall'altra persona no
+perché tu la rispetti sai che questa persona ha pensato quello che sta dicendo e rispetta il tuo lavoro anche quindi
+in quell'atmosfera lì
+le cose funzionano in maniera non
+migliore di due volte o tre volte ma dieci o cento volte addirittura è invece d'altra parte ho avuto anche
+un'esperienza rara ma
+un paio di casi in cui mi scontravo con una persona con cui si e si capiva che non eravamo compatibili non per colpa della persona ma magari perchè tutti e due non andavano bene insieme no
+o comunque non c'era rispetto griffon l'altro è lì diciamo
+nel uk
+adesso che sono un po' più cresciuto
+i cerco se mi capitano quei casi lì che però ripeto sono super rari di farmi da parte è semplicemente prendere atto che con questa persona non riesco a parlare quindi non riesco a rapportarmi quindi mi faccio da parte e lascia che qualcun altro fosse la cosa migliore
+scusa interrompo un secondo perché ci sono diversi
+spunti in chat
+volevo capire un po'
+allora leggo
+livio che dice però che sarà riferito a un discorso che abbiamo fatto prima però noi lavoro come lavoratori delitti abbiamo le community che altri lavoratori non hanno
+sì secondo me sì
+però però voglio dire fa parte della stessa come dire
+quasi massone questa cosa
+massoneria della community di te che condivide quel è difficile far entrare uno nuovo in una
+ma
+non so dipende secondo me dipende un po' diciamo le nuove community sono molto più amichevoli verso le persone nuove le persone
+diciamo
+una volta erano tutti
+street with no adesso c'è
+molta più varietà grazie a dio n d t
+ed è molto più
+aperti è un ambiente molto più aperto secondo me sì sicuramente non sanificato al cento per cento ma
+poi altri messaggi che dice dicono rispetto ad anni fa oggi se ne parla molto di più di questi fattori credo si riferisse ai fattori umani o comunque cultura aziendale
+è anche una leva per i recruiter
+questo non so cosa si intenda onestamente livio di nuovo dice vi lancio uno spunto gli ambienti tossici e infatti questo avevo visto questo commento voleva per me ho capito esattamente a cosa si riferisce io
+su su questo su questo aspetto per esempio una cosa che non capisco come si possa pensare che i generi
+che sia produttiva lungo andare ma anche nel breve e quando le persone intolleranti vengono messe in estrema competizione tra di loro all'interno di uno stesso stile ma non può succedere se ci sono team in cui le persone vengono spinte a competere
+di loro e
+le soluzioni soluzioni indipendenti che poi si scegliere quella migliore o è questo tu ne fai un caso nel team io faccio onore posso fare in casa in altri in altri ambiti no che ne so
+gente che si accalca di accaparrarsi il progetto migliore
+oppure ci si ruba i dati sono
+da adesso
+e questo secondo me è controproducente a lungo andare uno perché non crea un clima particolarmente diciamo di fiducia e no e perché perché a quel punto parte della tua produttività è dedicata a combattere gli altri esami
+per proteggerti o attaccare gli altri no quindi in realtà tu non stai facendo un lavoro facendo due o tre no c'è ma questo dovrebbe essere capito da daily management no no nanette orientale volte può cioè incita a essere competitivi con i colleghi questa roba qui non manca più capito io sono competitivo
+per niente sarà che sarà che sono piccolino pesa cinquanta chili quindi è meglio non far incazzare nessuno sarà quello però aldilà di questo
+secondo me windsor della città in cui siamo c'è è stato un momento di profonda condivisione dell'informazione e arrivando da dove arrivava proprio all'inizio in cui c'era quello che si temeva la specifica nel cassetto e la condivideva solo con i pochi addetti che lui riteneva
+degni del sapere e per me è stato un
+una roba interessante
+con la nuova install un'apertura così non solo dell'azienda ma anche verso l'esterno
+lavorando nel settore è in profonda trasformazione presiedette inutile che tra di noi ci mettiamo a farci la guerra quindi proviamo invece a far a a tessere relazioni
+e a fare interesse comune una specie di cerchiamo un win-win per tutti e certo non è facile significa che tre quarti delle cose che fai vengono prese e buttate via
+fu sempre sono non sono efficaci però secondo me a lungo andare danno i loro frutti e anche nei team voglio dire succede questo caso uhm io
+un esempio
+mettere mai in competizione i miei figli tra di loro perché mi con le gru gli conviene è molto più conveniente che lavori insieme oswald che che competere tra di loro c'è qualcuno che può prendere i figli chess league continuamente li paragona uno con l'altro nome hotel
+essi sono
+scelte educative
+diverse
+continua a leggere
+sempre a proposito di livio dice sempre a proposito del fattore umano vedo poche figure che coordinano diversi gruppi e lo vedo come un male
+nel comune di nuovo livio nelle community che frequento c'è accoglienza per i nuovi e questo se anche secondo me nelle nelle nuove community c'è più ha molta più attenzione ed accoglienza verso le persone nuove
+c'è stato proprio un cambiamento di divisione
+diciamo cominciato diversi anni fa
+emblematico l'esempio di distacco overflow no una community molto preziosa secondo me silvio che quando non funziona qualcosa io vado sempre lì e però molte persone su stackoverflow sono
+dire molto acide e abrasive no nei confronti di pagare di persone che non hanno fatto quello sforzo no perché poi c'è anche da dire diciamo rovescio della medaglia è su stackoverflow ci sono tu tutti i fan possono fare domanda e quindi
+il caso e ci sono pagare migliaia di domande ogni giorno che dicono ah ho installato ics non mi funziona qual è il problema no e quindi bisognerà cominciare
+da parte loro
+una volta non vigeva una regola chiara che chiedere è lecito rispondere è cortesia no ora mi sono sempre chiesto ma è necessario rispondere se questa cosa a uno turba per dare una risposta è necessario rispondere per tornare
+no non stai dice se uno dice cerca su google non mi stai dando una risposta piuttosto corrisponde
+certo ma è lì poi sta alla persona
+rispondere in maniera intelligente no però d'altra parte avevo messo da parte questo esempio
+era un tweet di una persona che si chiedeva ma perché gli amministratori sistemisti e amministratori it sono così bastardi tutto sempre così bastardi no
+e la risposta che sapeva laboriosa che hanno lasciato che erano l'amministratrice di dio
+se la risposta arriva da sempre su twitter ovviamente da un sistemista
+che dice
+ho appena guidato per due ore per andare in una sala server dove tre persone diverse ma per per scusa una sala serve per schiacciare il bottone di accensione di una macchina perché tre persone diverse mi avevano assicurato era già accesa quindi si può capire
+capire lo sai a che fare tutti i giorni con questo tipo di cose
+se come se a che fare tutti i giorni magari quello è uno che vuole aiutare su stecco overflow league spende una parte della sua giornata per aiutare gli arrivano dieci domande venticinque domande ogni giorno che dicono ho installato ics e non va o che cosa non va qual è il messaggio
+zero c'è anche le cose basiche come imparare a fare una domandano quindi
+diciamo posso capire lascia la prospettiva pertanto le parti ma tanto adesso diventeremo tutti esperti di promoting no quindi è certa come fare una domanda sarà
+il futuro certo beh fattore umano secondo me chiama un po' al discorso sulle aree dove ebbero infatti cercavo in qualche modo
+chi c'è stato questo famoso esempio adesso saltiamo di palo in frasca ma make-up
+è stato questo famoso esempio di devin no
+aree che dovrebbe sostituire uno sviluppatore junior loro nel loro diciamo nella loro campagna pubblicitaria hanno fatto questo video dove dimostravano come questa può sostituire uno sviluppatore junior e poi c'è stato tutto
+un caso dietro perché nelle loro affermazioni erano parzialmente fasulle
+fabbricate
+però il discorso c'è quindi sarà c magari non ora ma arriverà il momento in cui una potenziale potrà rimpiazzare
+magari programmatore junior o magari anche programmatori più scafati
+potrebbe essere
+io temo che sia molto più vicino di quanto si pensi
+senso ma non sono un programmatore io penso a al legale perché io devo pagare la domanda sarà perchè devo pagare un avvocato per scrivere una lettera quando vado su henson lega al punto
+hai di descrivere il mio caso e questo era nella scheda stessa
+litigo tutti i giorni con mia sorella su sta cosa che
+sarà l'avvocato sinatra avvocato e diciamo che più che fa l'avvocato o gli avvocati sono psicotici non spendono cliente gliene parlano edition mancherebbe tutta quella spettano due sì però poi quando tutti i costi sparo cento e quella che costa dieci vedi che se vuoi ti chiamano
+stesso ma intanto non metterla
+qual è il problema e siamo sicuri che lei dia risposte come dire valide guide hanno avvocato abbia sempre ragione
+forse no però
+il programmatore non sbaglia mai
+al programmatore sbaglia sempre
+giudizio perché la macchina c'è sempre ragione non torniamo però però allora il fattore umano dovrà essere rimpiazziamo con il fattore umano si perde non c'è nessun fattore umano io adesso stiamo parlando di cose assolutamente fuori dal mondo ma credo che
+adesso se non se non decidiamo prima di spararci a vicenda tutti nel mondo proprio più probabile rispetto a quello che sto dicendo
+socialmente ci sarà una trasformazione nei prossimi venti anni a cui non io io credo di non avere idea di che cosa possa succedere più cioè onestamente io penso che
+bisognerà riformulare il
+lo stato sociale perché se non ci sono più lavori che owen del corpo
+catanzaro
+fare
+in realtà
+molti hanno questo tipo di timore non so io non la vedo così nel senso
+sarà uno strumento che però sarà affiancato a una persona certo alcune magari alcune cose saranno rimpiazzate completamente questo e tu e call center
+dire io generalmente ma ma anche quelli che mi chiamano al telefono per vendermi la bolletta del telefono
+i se io li faccio una domanda tecnica non mi sanno rispondere se la fiction isee per me cliente questo è un valore aggiunto da lui per lui operatore perda il posto di lavoro per l'azienda un valore aggiunto perché non paga niente questo lavoro ventiquattro ore su ventiquattro sette su sette
+e a quel punto sarà necessario che chi perde il lavoro
+si organizzi in qualche modo
+voglio dire torniamo al buddhismo
+e oppure a chi perde il lavoro dà comunque la possibilità di fare le stesse cose che facevo quando il lavoro ce l'aveva e non è banale io non vorrei essere un decisore politico infatti fanno tutt'altro in questo momento scuse o darth maul ti riferisci a per esempio
+universal basic income o e dare la possibilità di fare serve dire
+nel momento in cui i soldi me li danno ma io non li guadagno i soldi hanno un valore che valore a chi lo decide e piuttosto è meglio un posto dove i servizi sono gratuiti piuttosto che un posto dove pago per i servizi cloud
+tutta la parte pubblica la sanità la scuola eccetera i live se io non ho un lavoro tra acquistare i libri con i soldi che mi arriva così può andare a prenderli cosa cambia
+per cui me non sto dicendo che sia una cosa facile dicono una cosa estremamente complessa
+in questo momento io non ho letto da nessuna parte qualcuno che abbia che stia anche teorizzando in maniera sistematica cosa potrebbe succedere vedo tanti scenari ma non vedo un'analisi filosofica sociale economica che dica o come questa cosa possa
+posso andare avanti ed è arrivata lei
+forse qualcuno del settore sei sette anni fa sapeva che c'era questa cosa la classe dirigente media non sapeva assolutamente nulla si sono viste arrivare la roba dove gli scrivi le cose questo ti risponde che le parli ti risponde e
+e adesso ne vengono a conoscenza ma adesso è tardi anche la regolamentazione ora egoista cose sulla regolamentazione ci sarebbe da parlare molto perché io personalmente sono contrario ma vabè comunque diciamo che non era proprio il tema di questa sera scusa approfitto per ritornare
+perché c'è alterazione
+se si ha letto male c'è molta molti messaggi siamo rimasti indietro con i messaggi
+m intende lame lame lazza credo paolo credo sia dice intendevo che la cultura aziendale è spesso messa anche negli annunci di lavoro specie se t per attrarre nuovi candidati e qui si potrebbe aprire un una
+voragine su questo perché molte volte soprattutto negli t cultura aziendale significa abbiamo il tavolo da ping pong abbiamo
+pranzo accetta il pranzo gratuito ma quella non è cultura aziendale
+la cultura aziendale è quello di cui abbiamo parlato prima non per esempio il fattore sicurezza
+i valori che anche lì i valori alcune volte aziende come dire fanno un workshop di tre giorni e vengono fuori con ecco questi sono i nostri valori ma non è così
+è così no
+i valori sono arrivano dal basso diciamo sono valori che devono essere vissuti saranno sono valori comunque vabè discorso lunghissimo ma
+livio dice odio la competizione amo la cooperazione e se siamo d'accordo una domanda se gli ambienti tossici purtroppo esistono cosa li alimenta
+secondo me ne abbiamo parlato all'inizio
+almeno di uno dei fattori che questo senso di elitismo no
+questa gelosia verso la conoscenza che non dev'essere condivisa perché è preziosa almeno una delle cose secondo me ma un'altra delle cose che secondo me li alimenta e
+se anche se anche nella vostra azienda si lavora per obiettivi in cui ci sono i veneti che hanno gli obiettivi
+secondo me è lavorare per obiettivi e folle suddividendo gli uliveti obiettivi in che senso cioè fammi un esempio di obiettivo come fare il doppio del margine dell'anno scorso
+obiettivi economici quindi o economici oppure che ne so devi vendere tre volte i contratti che ho venduto l'anno scorso ha due volti contratti che rientrano in sport è spesso l'obiettivo di quello che deve vendere i contratti no
+cozza con l'obiettivo di quello e che ne so deve ottimizzare il sistema di fatturazione invece per un anno questo proprio bisogno che tutto stesse calmo perché ci mette con critici che sta succedendo sparo è un esempio stupido il primo padre venuto in mente è ovvio che questi due sono i primi stressare
+sì tra di loro perché non
+l'obiettivo dell'azienda qual è
+non lo capiscono però sanno che loro devono tendere verso un obiettivo e gold
+e quindi siccome uno è una delle cose che li alimenta e proprio proprio la poca chiarezza dei messaggi che che l'azienda vuole ottenere e spesso la declina anche quando poi il messaggio è corretto poi c'è la declinazione nelle vari settori di come raggiungere quell'obiettivo e li crei
+era come dire contrasti e poi contrasti se gli diciamo si diffondono ad albero
+verso verso le altre funzioni
+bisogna essere
+ci vorrebbe molto più diciamo pragmatismo nel definire gli obiettivi e anche una conoscenza estrema di come fa all'azienda che spesso i manager non hanno perché guardano
+diciamo il macro e sperando che poi quelli che stanno sotto facciano le cose per bene ma in realtà li hai già creato dei contrasti tra di loro per cui le cose per bene lo farà ma sicuramente sì perché non so nell'ambito it se uno si pone l'obiettivo di abbiamo fatturato
+fare doppio dell'anno scorso questo vuol dire racchiudere contratti che quindi il personale delle vendite ovviamente poi
+generale magari il personaggio vendite non a conoscenza di tipo tecnico o comunque generalistico su cosa è possibile si dice in generale calo delle vendite vendono cose che non esistono o no
+e quindi bisogna chiudere ad ogni costo dei contratti e poi si vada la parte ingegneristica oh io ho venduto x max non ce l'abbiamo e no ma allora dobbiamo farlo entro trenta giorni e ti costa tre volte
+classico esempio proprio non è mai successo no
+vediamo altri messaggi
+solo per spezzare una lancia non è semplice jason rowe e no certo che no certo che no certo che no non è semplice no anche anzi quando io non so a pranzo così
+siamo insieme a
+persone che lavorano nelle vendite quasi ogni volta no
+ammetto la mia ammirazione per loro perché io non riuscirei mai a fare il lavoro che fanno per me sarebbe fisicamente impossibile fare quel lavoro quindi rispetto ed ammirazione al cento per cento
+diciamo c'era un altro commento di paolo che diceva riferendosi al universal basic income o soluzioni simili dipende se potrai decidere come puoi spenderli i soldi che ti regalano
+vedi euro digitale non so cosa sia l'euro digitale ma
+wilson watson dell'euro digitale che manca livio dice ragionevole definire obiettivi ragionevoli e folle e definirli irraggiungibili
+quello che dicevo prima
+è che spesso i gruppi lavorano a silos e proprio alcuni obiettivi vanno visti sono visti diversamente nei vari gruppi manca il coordinamento e questo sicuramente sì sicuramente sì questo è questo che adesso giusto per lui è una delle cose che
+ho imparato
+soprattutto quando facendo ingegneria end quando poi mi è capitato di andare in cantiere e che la cosa più difficile non è fare il lavoro sulle interfacce le interfacce sono in assoluto il luogo dove si creano casini
+per interfaccia intendi la collaborazione con gruppi diversi o collaborazione o l
+supponi che tu devi costruire una macchina
+so ti devi fare la ruota e un altro fa l'impianto frenante il tuo impianto frenante sarà fatto benissimo la ruota sarà fatta benissimo se li mette insieme non va perché ognuno si concentra sul proprio è certo e la il coordinamento delle interfacce è in assoluto la cosa più incasinata
+el fare quando tu dici è impossibile che le galleria sia partito padre e se ci sono erano fatte così le gallerie ma perché ognuno pensava al proprio perché ognuno non c'era lavorando e il coordinamento è difficile non in astratto edificio posto una fatica impressionante
+se se c'è un coordinatore terzo ai due elementi nessuno lo ascolta sei dentro no a uno cioè se se ognuno ha un coordinatore che dovrebbe tenere botta anche di quello che fa l'altro e viceversa questo non lo farà mai perché è più importante quello che fa lui che è un lavoro hotel
+ripide gestore la faccia
+io non l'ho imparato ma già incominciato a capirlo
+in arabia facevamo dei turni assurdi e tornavo sempre a casa alla fine io e un altro tizio olandesi con in in se lo skipass distrutto ma mai distrutto
+un pane due giorni non parte compare a mezz'ora di viaggio
+trauma tu di cosa ti occupi di interfaccia così
+naturalmente
+negli anni ogni tanto lo ripenso perché spero abbia cambiato la borsa non si è suicidato perchè poverino era un bordello assurdo
+veramente e non fatico a crederlo non fatica e schifato da tutti perchè sei un rompiscatole se tu sei il terzo ripetono ed organizzazione si è schifato da tutti sia solo un rompiscatole
+è proprio
+un lavoraccio quindi è vero
+si creano i problemi perché manca il coordinamento quel coordinamento da fare
+e questa è una fatica terribile non tutti sono capaci di fare ma infatti diciamo sia nel libro che proponevo prima power ma anche poi
+nel libro si parla di free electron e altri altre fonti diciamo in altri ambiti si parla di questo questi laboratori glu glu wwworkers no questi laboratori colla collante fra i vari gruppi
+sono importantissimi ci sono queste persone che hanno la capacità di proprio agire in questi interstizi fra i vari team che poi è anche tutto
+la base del movimento prima devops negli anni duemila
+e poi altri successivi ma il concetto è proprio quello far lavorare o cercare di promuovere la collaborazione fra team diversi che è sempre un aspetto molto problematico
+e tra l'altro diciamo c'è collegato a questo c'è anche la famosa credo si chiami con winslow che dice che un'azienda
+e strutturerà al proprio software in base a come l'azienda stessa è strutturata così nella mia esperienza è quello che succede purtroppo no ma inevitabile no quindi è inevitabile tu dici
+è inevitabile perché siccome dovrei seguire qualcosa che è diverso da me faccio fatica fatta poi ci sono fattori culturali e o quando ero nella prima di entrare dove lavoro adesso lavoravo per una società che aveva una ditta in una branch in india e in india
+no non che io fossi il suo capo ma ero quello che gli stava chiedendo di fare delle cose in india non ti dicono mai di no proprio per cultura quindi i gli si diceva fai questo veloce
+moriva a niente ma lo sto valigie
+hai fatto quello no lo fai si
+e culturalmente no non te l'avrebbe mai pensato
+no
+ci sono aspetti di quel tipo di cera
+quando poi lavorerò
+perché non è che devi dire come si lavora ma poi devi lavorare tutte queste cose le impari impari col tempo lo devi chiamarlo e dirgli dai lo facciamo e dimmi come lo faresti e allora inizia a scrivere dice lo farei cosi iscriversi sia poi così iniziava a pago poi lo chiama
+altre tre volte perché riprendesse a farlo però era un modo
+non c'era times allora quindi
+ho sentito altre storie diciamo relative alla cina per esempio che sono interessantissime no
+un collega non un collega
+la conoscenza mi ha quindi qui in norvegia italiano
+è un bravissimo ingegnere ha avuto a che fare molti anni con produzione di hardware
+che era fatto in cina e lì mi ha raccontato di quelle cose super interessanti per parlare del fattore umano e quindi la cultura si sicuramente a ha un impatto molto grande la mia esperienza
+basta vedere la differenza che c'è fra l'europa e la silicon valley per esempio gli stati uniti
+le persone ragionano in modo completamente diverso di
+san paolo dice mi riferivo
+alla frase che valore avrà il denaro
+eh io però
+ok capisco però
+van den harrow gran bella domanda
+domanda che qualcuno definirebbe indecidibile ma sono curioso di un'opinione cool come sarebbe il fattore umano senza il denaro
+non so se capisco la domanda fattore umano c'è che che ci sia denaro no sempre no
+le relazioni tra le persone beh però
+adesso
+l'altro giorno ho rivisto il nome della rosa
+non è una delle cose che guardando nome della nonna ti rendi conto anche leggendo un libro che se tu togli
+l'aspetto di dio dal medioevo tu quello che fa quella gente lì non lo capisci io non ricordo il film onestamente l'ho visto troppo tempo fa
+gordo e comunque diciamo nel medioevo l'aspetto divino era importantissimo annoiata
+morì vita per quello certo oggi non è più così oggi ops qual è l'aspetto che se venisse tolto uno che vive tra trecento anni quattrocento anni non non farebbe più capire la realtà di oggi e forse proprio il denaro cioè noi lavoriamo fondamentalmente per il drink
+noi viviamo la nostra società è tutta basata sul jordan
+l'ue negli ultimi soprattutto negli ultimi cinquant'anni perché fino a metà del novecento anche qualche anno in più una persona era quello che diceva quello che faceva oggi una persona è quello che guadagni e non badiamo neanche più tanto come guadagna quei soldi è uno che va
+tag tanto che lo fai su come onlyfans roll o da qualche altra parte non c'è neanche più un giudizio morale no quello che fa la gente lo sto dicendo che sia giusto sia sbagliato dico che è un dato di fatto quindi il fattore umano se togliamo il denaro
+secondo me se togliamo il denaro noi non capiamo la nostra società non siamo più in gara non esiste anche qui il fattore umano perché non siamo in grado di decifrare la società con la società di oggi non so se se se ho reso l'idea non so se fosse questa la provocazione che volevo fare con fare livia
+credo di sì perché ha risposto subito dicendo esatto il peso del denaro nella vita di una persona enorme purtroppo no ma ma per come l'abbiamo costruita noi
+è un fatto
+poi è brutto di eccezioni uno di noi se ognuno di noi venisse chiesto qual è il ruolo del denaro nella tua vita io sono sicuro che risposte sarebbero le diverse la maggior parte sarebbe non conta niente
+ma che non conta niente difficile da sostenere però no però ti dicono che è più importante la salute che è più importante la famiglia eccetera eccetera eccetera dopodiché
+noi siamo
+la nostra società è basata sul sud
+a me piace la domanda se non dovessi più lavorare nella tua vita cosa faresti no nel senso se togliamo quella parte dell'equazione
+lavoreresti lo stesso
+no ecco comunque cosa faresti no no però aperto
+era per fare un'analogia col medioevo no
+nel medioevo c'erano i le arti e i mestieri c'era gente brava a fare quella roba lì che magari c'era proprio il prendevano il cognome che poi uno ha ereditato derivava da da da
+mestiere richard e quello lo definiva no
+non fa niente se si guadagnava tanto si guadagnava poco tanto c'era poco per tutti no eh era quello che faceva che lo identificava purché fosse un buon cristiano cristiano fatto il troppo zelo no neanche neanche seppellito andavano
+oggi non sei più il calzolaio o sei quello che ha tanti soldi o se quello che julia fa schifo va bene però è così
+non so non so non tengo un video non spinto io non sento mai definire la sua vacanza
+quell'idiota di elon musk sentono dire il miliardario sudafricano
+ma forse qui in norvegia c'è una diciamo
+una percezione un po' diversa di questo
+non so non so non sono convintissimo
+da cosa faresti se non dovessi lavorare sicuramente quello che non farei perché è oggettivamente io io non vedo l'ora andare in pensione
+ma non per non lavorare più per lavorare di più facendo
+renazzo ruth facendo quello che ti diverte lo diverte
+nel mio lavoro non mi dispiace anzi io faccio un lavoro anche abbastanza divertente però non tutti gli aspetti del mio lavoro sono sono bellissime cercando vado a parlare coi legali prima il devoto caffè
+magari rimango sveglio anche dopo la seconda ora che mi ripeta la stessa roba che poi magari è colpa mia che non capisco però
+per mi
+mi metterei a a rifare quelle cose che ho fatto male perché dovevo fare gli esami e quindi per rimettere a studiare bene l'elettronica a smanettarci beh già lo fa e comunque sì però tempo fa quindi se non lavorassi fare quello hazard dieci venti fr
+faresti pagare magari se qualcuno della rai fascista roba magari mi faccio anche pagare però una cosa invece mi piacerebbe tanto fare e impararla per insegnare
+adesso ho fatto nulla alle medie di mia figlia c'erano i ragazzini di terza media e ho fatto un un'introduzione ad arduino e con un ragazzo non aveva fatto anche
+la doveva porta alla radio storie robert detto fatto con una radio con arduino dove si scambiavano è codice morse una cazzata magari questo qui si appassiona e io ho trovato uno che non domani scrive sui posti di elettronica che viene cazziato perché non ne avast
+se però mi piace quello mi piacerebbe farlo e mi piacerebbe sul territorio
+organizzare eventi o comunque incontri tra persone che hanno la stessa passione e lo faccio e lo faccio soprattutto per interesse personale così imparo da quelli che ne sanno molto
+se inciampare sul bello bello quindi io da fare ne avrei ne avrei a bizzeffe anzi se se volete se c'è qualcuno qui in zona io sono in zona sud di milano bruzzano coupon code livio intanto dice
+io intanto ho cominciato col fare part time per avere più tempo per me e complimenti questo sicuramente ci vuole ancora se vuoi se puoi perchè no un bel pom belfast bel salto
+e poi dice io sto proprio seguendo la strada dell'insegnamento vedremo se appunto col tempo che mi rimane e riesco a combinare qualcosa
+questo anche diciamo anch'io ho sentito questo
+insomma questa spinta secondo me un pò naturale perché ha esperienza di voler condividere la propria esperienza no
+per motivi diversi magari però è una bella cosa secondo me
+ma acquistiamo se no
+ci sono un paio di canaline o su youtube che fanno divulgazione per me che ho l'elettronica c'è fan sono fantastici e spesso e volentieri non entrano nei dettagli
+però secondo me tanta gente che magari un domani farà qualcosa di buono ho iniziato a guardare quei bei video live
+compenso che diventino ricchi queste persone
+no non presentano con passione quella per mestiere loubet io preferisco pagare in patria napoli league piuttosto che che è che pagare netflix o altro insomma einstein certo
+quindi bravo livio anche lui anche lui
+sto seguendo la strada dell'insegnamento
+io direi
+siamo arrivati circa alle ventidue quarantotto quest'ora a questo punto
+l'argomento potrebbe continuare
+all'infinito direi
+c'erano diversi spunti che mi hanno scritto diverse pagine di note
+su argomenti diciamo che non ci sono mancati argomenti ecco
+ce ne sarebbe ancora molto da discutere per esempio
+sarebbe stato interessante affrontare
+il fattore umano nel lavoro che mi riguarda più da vicino di
+tre biglietti o comunque di operations c'è
+come affrontare
+il fattore umano né incidenti in questo caso nel mio caso si tratta di diciamo
+servizi web tener su tutto in modo che funzionino
+tu hai parlato di incidenti prima in ambito diciamo
+rete elettrica
+chissà se ci sarebbero per esempio un altro argomento che ha a che fare col fattore umano è il posto fisico dove si lavora ma adesso c'è stata la pandemia anni fa due anni fa tre anni fa
+quattro già
+come il posto in cui si lavora influenza
+il lavoro che è un argomento vastissimo anche quello no ad esempio sempre questo libro people wear os
+diciamo excel
+fa emergere la ricerca che loro hanno fatto sul fatto che gli open space
+confrontati con gli uffici fisici dove hai una due tre persone hanno una produttività completamente diversa no
+molto favorevole agli uffici chiusi no
+va bè
+dai ci sarebbero troppe cose magari faremo una puntata numero due o tre
+volevo soltanto
+diciamo poi ti chiedo un'opinione finale
+un argomento molto vasto certo livio dice se sparissero i soldi mi piace pensare che sarebbe un boom di video youtube di disgregazione eh eh chissà magari se un argomento molto vasto si potrebbero creare puntate su argomenti più temi più specifici sono sicuramente d'accordo
+per chi è interessato riprendo e questo è il libro paul where io l'ho trovato veramente eccellente
+come ho detto un po po di anni fa ma la seconda edizione poi è stata aggiornata riveduta
+pubblicato il primo prima volta nell' ottantasette ma ci sono ci sono lezioni qua dentro che sono assolutamente importanti l'altro libro che mi sentirei di consigliare
+diciamo riguardante il fattore umano sempre nella t e famosissimo del mitico man mount di fredric brown x che non ho a portata di mano qui ma anche quello un libro diciamo che viene più citato che letto io me lo sono letto
+e
+una delle lezioni di quel libro senza voler andare troppo
+diciamo troppo in dettaglio ma sono due lezioni principali secondo me una è quella che le cosiddette silver bullets non esistono quindi non c'è la soluzione o il tool o nell'ambito it il linguaggio che se riscrivi il tuo sistema in quest'altro linguaggio
+fantasticamente funziona tutto non esiste
+e l'altra lezione è che nove donne non fanno un
+un bambino un bambino in un mese che è una delle lezioni che ancora non si sono imparate secondo me nell'ambito software domani in generale
+forse generale ed ha a che fare ovviamente con quello tutto quello di cui abbiamo parlato le relazioni tra le persone eccetera eccetera eccetera
+dai dammi un tuo pensiero finale non so magari c'era qualcosa che volevi
+no no io vi amo all inizio ero un po preoccupato perché in realtà io producevano scambiati
+messaggi di testo
+forse su linkedin se sensi
+in realtà è c'è un mondo dietro c'è un mondo dietro tra l'altro
+qui si parlava di timau usiamo fare il fattore umano
+nella vita degli umani e come dire
+n uno specifico settore perché poi alla fine dinamiche sono sempre quelle dinamiche sono quelle e ci sarebbe tantissimo parlare
+sarebbe anche interessante di tutte queste diciamo
+cose che ci siamo detti un vero esercizio di caratterizzazione
+sì in che modo in che modo sarebbe interessante o più efficace farlo però delle piccole pillole che si potrebbe appiccicare sopra al monitor che tanto tutti lavoriamo con ormai e magari essere lì
+tolta quella appunto dei
+io lo sapevo con le due donne in quattro mesi e mezzo non fanno un bambino ma nove mesi abbiano lo stesso se è
+che è abbastanza nota ma tante altre cose invece sono interessanti
+sull'ultima che citavi era che lo studio dice che negli ambienti piccoli si lavora meglio ma noi probabilmente che siamo in italia continuano a fare open space
+ma dappertutto si fanno continuano a fare l'open space perché perché si ottimizzano gli spazi è certo è che questo libro parla esattamente di queste cose qua o al novecentottantasette e quindi per tornare a quello che si era detto prima
+l'ottimo è nemico del buono e poi insomma gli affitti bisogna pagarli e quindi
+selezione
+il mondo è complesso ed esalta le cose diciamo ci sono sempre forze opposte che spingono no
+e comunque e giusto quello che dicevi secondo anch'io ho notato diciamo
+nella mia carriera se mi guardo indietro
+quanto sbagliavo un senso per me la tecnica era era tutto no non c'era nient'altro oltre che la tecnica quello era il mio focus principale ma poi poi impari e cresce anche come persona
+so quanto quanto ti violenti
+perché te ne rendi conto
+quando quando smetti di van allen se si fa così
+si e tutti
+cosa intendi ti spiega cosa intendi nel senso quando
+giustamente no sbagliavo perché per me la tecnica era fondamentale e oggi invece ho smussato gli angoli
+o smussato gli angoli mi rendo conto che ci sono altre cose da guarda però il tecnico recente e li erode continua me ama per esempio una delle cose che mi hanno dato più soddisfazione di tutto di tutta la mia carriera è stata un progetto
+in cui ho lavorato da solo
+e lì ho avuto piena libertà c'è la persona che mi ha affidato questo
+manager che mi ha affidato questo progetto ha detto abbiamo questo l'obiettivo fai quello che vuoi carta bianca e vai
+e lì c'è è lì è stato forse uno credo uno dei pochissimi uno o due progetti
+greenfield che mi sono stati assegnati quindi cominciare da zero libertà totale autonomia totale nessuno che mi rompe le palle quindi ho fatto esattamente quello che volevo io nel modo no come dicevo prima
+puntando alla qualità soprattutto sopra tutte le altre considerazioni stata un godimento assoluto
+progetto che è andato in produzione credo abbiamo trovato un bug fine cioè ho speso praticamente tre quarti del tempo del progetto a scrivere test
+è stata una cosa assolutamente eccezionale
+però
+l'eccezione purtroppo non è tutto così però avuto quella fortuna analisi però gli angoli però valerio
+e rimane sicuramente rimane
+però quando sei da solo come se in un team diverso non sei da solo però puoi permet va bene
+io ti ringrazio moltissimo ringrazio molto tutti quelli che ci hanno seguito nella chat ci sono alcuni ultrà più c'erano alcuni ultras come livio e paolo
+grazie per averci seguito non so se ci sono altre domande domanda in extremis
+per francesco o per me altrimenti io direi vabbè questa puntata è stata molto interessante una discussione molto interessante grazie mille francesco grazie a lui mi sono divertita tantissimo esenzione
+devo dire che anch'io quel quell'esperienza mi diverto moltissimo a fare queste queste discussioni e argomenti vastissimi quindi si potrebbe parlarne per molto ma sono abituata a vederci quindi una volta dentro anche uno psicologo la passione si colgono psicologo del lav
+lavoro magari
+e altre altre figure ma io ci provo a diciamo ci provo a tirar dentro persone
+alessandro è molto più bravo alessandro roster del canale molto più bravo di me a portare dentro più persone di sangue anche anche mia moglie osti ho parlato male di lei no science
+e vedo un messaggio da erica è ricambiato e lei anche che grazie erica del tuo messaggio
+ma i rave francesco e se avete siamo amici da moltissimo tempo e veramente ho molta stima di te the good night only jacobello sai
+se vogliamo molto bene cillo abbiamo leviamoci
+ok
+grazie mille e
+stoppo
+stoppo il lo stream ciao ciao a tutti e buona serata

@@ -1,0 +1,396 @@
+e quindi credevamo di essere in vacanza e di stare allegramente sulla spiaggia in attesa di settembre per tornare live ma gli eventi di venerdì scorso ci hanno chiamato a fare questa puntata straordinaria nella brigata degli istinti la numero sessantaquattro in cui
+cui con domenico martini e altri che dovrebbero collegarsi e andremo a parlare del disastro informatico più grande di tutti i tempi giusto domenico che se da un è più grande però sicuramente ha avuto un impatto decisamente notevole un po'
+su tutti mi ricorda un po' se vuoi come dimensioni quello di facebook quando c'era mezza internet fermo è esatto ma fosse peggio questo è anche sporche facebook è durato di più no
+di più col cavolo perché poi
+il full back
+follow up successivo qui se diciamo comunque sono questi incidenti abbastanza grossi
+non so se facebook l'incidente precedente di facebook ci ha insegnato qualcosa noi che ci stiamo uniti quantomeno e non so se questo quadro è simile a qualcos'altro è esatto allora prima di entrare nel dettaglio e parlarne in modo più o meno diffuso intanto saluto cosimo giorgio livio se volete entrare e partecipare sapete cosa fa
+fare dove andare e
+domenico allora per chi non dovesse sapere esattamente cosa è successo puoi darci qualche dettaglio poi magari integriamo beh allora innanzitutto occorre fare una premessa per chi non sa magari così crowdstrike che se l'è trovato sbattuto in prima pagina news dai che uno dei premi più grossi player nella sicurezza a livello enterprise mondi
+viale
+found software di protezione non entrerò nei dettagli perché sennò poi vi annoio e beh diciamo che è qualcosa di più di un antivirus
+atac e soprattutto perché lavora ed è qua il punto poi fondamentale lavora molto vicino al kernel quindi alla base del sistema operativo della macchina cosa succede cioè questo qui dice questo sistema che diffusissimo c'è davvero ci sono milioni e milioni di computer sai
+perché lo utilizzano
+viene lanciato di venerdì
+e non si installa mai niente di venerdì tu me lo insegni per alessandro
+che alle quattro zero nove greenwich time è spartito l'aggiornamento malevolo e per inciso alle cinque ventisette quindi un ottantenne minuti dopo è partito l'aggiornamento che risolveva il problema a livello di driver però nel frattempo tutti quelli che avevano già installato io credo
+succede praticamente io questo fantastico software che dovrebbe risolvere i problemi mi attacca dall'hacker cattivo dai virus e dai malware ah che bello io io grossa azienda tutto contento firma il contratto pago e dico adesso posso dormire tranquillo perché il mio falco
+si chiama così nello nello specifico il software incriminato di cloud drive e cosa succede viene fatto un aggiornamento aggiornamento automatico che parte alle quattro di mattina come hai detto tu su tutti i computer perché funzioni deve riavviarsi e a questo punto il computer non si riavvia più perché
+c'è un driver
+che viene caricato dal kernel proprio all'inizio della sequenza di boot poiché come detto prima questi software lavorano molto vicino al kernel per evitare per far sì per poter riuscire a intervenire di fronte a uno zero-day un virus o comportamento strano che vada quindi che vanno oltre il solito antivirus e il computer va nel
+famoso blue dream of death quello che prima conoscevamo io e te probabilmente adesso tutto il mondo anche mia figlia sa is louis blues club è quello il problema che finché
+tu hai un problema di questo genere su software che usano dieci persone è irrilevante il problema è che invece questo software era ampiamente distribuito anche su jaeger gesù microsoft stessa lo usava sui suoi server quindi cosa è successo abbiamo avuto un sacco di utenti che avevano il computer che era diventato
+fantastico costosi fermaporta server che erano diventati allo stesso modo dei fermaporta è gente che magari non aveva crowdstrike che non riuscivo a entrare sul suo dominio new age hulk perché c'erano i server di yahoo che non erano raggiungibili da cui il problema
+mah sulle linee aeree gli aerei cancellati perché non riuscivano a fare il check-in quindi i biglietti fatti a mano come i vecchi tempi e tutto quanto
+non ci si aspettava che un una situazione del genere non serve neanche pronti perché poi qua il problema era anche non è un server che va giù o il piano di disaster recovery e business continuity so che fra un'ora lo metto su gli servono parte è totalmente impallato mi da il blue screen
+cosa faccio devo andare a operare a mano e il novanta per cento degli utenti non in grado se poi ci aggiungiamo che giustamente quando non vorrei che venisse presa come un un una cosa negativa visto che giustamente abbiamo tutti i computer criptati se avevi bitlocker avevi
+della chiave per decriptare ma la chiave per decriptare in una qualunque azienda enterprise non c'è la luce è salvata da qualche parte dagli amministratori di sistema quindi tu non potevi intervenire aver bisogno di un amministratore di sistema che arriva a sheldon al tuo pc e facesse qualcosa per farti ripartire quindi
+non era più il server dove prende il peccato dell'altro giorno ho sei ho fatto le cose fatte bene so anche quante ore ci metterò a ritornare operativo dico scusate ragazzi ipad tra due ore tutto di nuovo su in questa situazione invece erano nel nel caos più totale perché non c'era poi
+ha iniziato a venire fuori le varie specie anche di microsoft questa è la chiavetta il tool web che potete dare agli utenti per ripristinare e non sono neanche convinto che siamo che siamo al cento per cento sicuramente tutto quello che vediamo che poteva dare fastidio tipo i biglietti aerei che sono la cosa se vuoi più eclat
+utente ma le banche c'erano in tutto il mondo sportelli bancari bloccati
+fantastica l'immagine e la sfera sahara las vegas con lo schema abusi esatto quello va bene due due cose due dettagli intanto e adesso questo dettaglio non lo so esattamente ma dobbiamo riavviare il computer ho già lo screen of death il blu screen ti compariva perché comunque il driver è attivo e quindi
+conseguenza la fallacia era immediatamente perché non credo che per riavviare il sistema ogni volta che aggiorni no penso che venisse caricato però qua ammetto la mia ignoranza da anche perché se poi per fortuna non sei stato impattato e siamo stati impattato nessuno dei clienti con cui ho a che
+fare è stato impattato sei stato impattato non sulle parti che li segue io quindi ci sarà stato qualcun altro che ha avuto maledetti
+credo che sia successo sui computer accesi c'è chi era acceso mentre era in quella fase aggiornamento sei beccato erano agganciate condizioni perché poi leggevo anzi adesso magari posto un po' di articoli perchè anche sulle cause un pochino più specifiche il dettaglio i null pointer così via c'è un po' di confuso
+ione in giro e io quella che ho visto come analisi tecnica più efficace più interessante non spala di mull bytes incerto presente nel file ai duecento del canale centonovantuno del driver di falcon ma si parla di come dice anche almeno ufficialmente in austria con errore no
+logico nella redazione di un indirizzo di memoria e in cui allocare buffer ripercussione una lettura di una locazione memoria comunque è nulla e questo ha creato cioè non del mercato il gran casino comunque posterei giusto per
+la riferimento un bel articolo che secondo me è il più efficace nel descriverlo è anche più chiaro sotto molti aspetti nel descrivere cosa è successo a livello tecnico poi è interessante anche visto che ci siamo mettiamo
+un po' di league come riferimento i bailey blog di posti microsoft no quando parlavano anche loro
+kaspar è
+sulla ecco è arrivato il buon spagnolo ben trovato spazio andrea molesini londra e dicevo postula il post di microsoft e dove sta l'altro si parla di e l
+una stima di otto cinque milioni di sistemi affetti che bene o male coinciderebbe con l'un per cento della
+peculiare la
+installato windows quindi comunque una minoranza una minoranza ovviamente che poi dobbiamo avere falcon installato e devono essere acceso in quel momento e dei sistemi e vabbè intanto andrea te come come hai vissuto questo venerdì sei stato impattato in qualche modo direttamente o indirettamente o tra seguono uno fortunatamente no perché non era in
+viaggio che sono stato impattato da eventuali ritardi cose di questo tipo ormai non faccio più quel lavoro quindi non sono più quello da chiamare in caso di questo genere di problemi quindi tutto sommato sono stato impattato per il fastidio nel leggere tutte le cose su nigerina
+un paguro che fino a ieri erano esperti di ai a oggi sono diventati esperti di continuo si integration nei kernel sviluppo kernel
+cyber security soprattutto sapersi tipo sono spuntati come funghi però fortunatamente personalmente né a livello professionale a livello personale sono stato importato più di tanto vogliamo parlarne un po' della stampa italiana di come presentare
+la stampa italiana tipo problema windows problema windows esatto tra l'altro notavo in italia problema windows insieme le bcc problema crowdstrike quindi già qua come dire un certo gap poi col tempo si sono affinati titoli e insomma hanno iniziato a dare informazioni precise anche in ita
+talia è la cosa però bello
+notavo anche su twitter i trending le parole trending in italia e sei quando in italia microsoft della quarta e crowdstrike non esisteva in lui sera a causa che prima prima swiss made
+immagino che sia anche figlio della news tra virgolette
+la cosa fantastica che ho notato nei vari gruppi che frequento gli che viene tutto che fino all'altro ieri nessuno conosceva crowdstrike definitivamente ovviamente a meno che tu non fossi un utente tor browser o del settore specifico di un certo tipo di aziende crowdstrike nessuno sapeva chi fossero c'è un antivirus tutto adesso
+crowdstrike è diventata nuovo
+antivirus che ha mandato ha fatto sì che windows vada mandata date che tutto fosse male
+andato in grecia e se la stampa italiana ama ma non solo la stampa generalista come può essere i grandi quotidiani ma anche la stampa più specifica giusto prima di andare in palestra ho letto un articolo di wired che mi sono strappato gli ultimi capelli che ho perché ho visto questo praticamente sta succedendo questo
+sta buttando merda su microsoft come se fosse tutta colpa loro tra chi dice by the way house arc come tradirà uso linux quindi io sono dio mi può succedere nulla se voi usaste tutti i linux questo non succederebbe se tra l'altro se posto però perde un attimo due mesi fa l'austria
+è data in module vi è e pdf del kernel che aveva una spiccata il panico tra l'altro per altre tra l'altro poi c'è la parte marchettaro che ha preso questa occasione per ho visto diversi marketing diversi chi tenta di vendere propria soluzione di scoperte di henry curtis
+butta merda solo per suo stagionale dicendo a noi ci lamentiamo di crowdstrike quando le vostre infrastrutture sono tipo set lego costruite su open source gestito chissà da chi mantenuto trovo chissà dove sito eccetera e anche chi ha utilizzato questo tipo nelle arti riguardante coletto per dire ah se fosse stato un
+open source con la trasparenza questo non sarebbe successo e sono tutte visioni completamente sbagliati quello che è successo perché è successo poteva succedere con qualsiasi sistema operativo è tutto perché alla base il problema è il problema umano del bug che quello non ce ne stamperemo mai è irrisolvibile quattro poi per come funz
+fiona la cybersecurity c'è alla fine qualcosa lato kernel porca pupazza lo dovrai caricare se vuoi gestire determinate cose se vuoi controllare determinate cose sulla macchina ok ci sono diversi layer e vps per esempio nel bellissimo articolo di greg bear down che diceva o non si evita il problema si sposta da un altro dominio ma almeno si susan
+due pdf per questo genere di cose ci sarebbe un certo tipo di sicurezza che a henry zero il kernel rai
+quindi comunque il problema dovresti ma sarebbe spostato solo da qualche altra parte e ludiche gente che state davvero non povero piero di spagna che parla così a esatto comunque ho elencato anche l'articolo di brennan che hai citato e brendan o'brien purché appunto lui però scusa lucci
+di se con il gps questo non sarebbe successo non sarebbe successo perché il danno sarebbe stato più contenuto perché come funzione bip effettua avresti avuto magari sì un kernel panic però non sarebbe stato a livello di tutta la macchina non sarebbe stato solo del patio moto adesso non sono un canone dell'opera delle specifiche prendendole conosco però sarebbe stato un modo anonimo panica
+aree completamente tutta la macchina poi ci possono essere discussioni su come il kernel windows gestisce i problemi in maniera diversa il kernel linux tutta una serie di discussioni poi quando succedono questo genere di cose c'è il punto non è il budget serve che quelli capitano punto è come siamo arrivati a
+fare il deploy in produzione di qualcosa che è palese ma è stato testato anche una volta altre fonti coletto ovviamente sono tutte fonti e poi non ho
+nessuno saprà mai la vera verità su questo tipo di cose altre fonti che ho letto dicono che
+crowdstrike abbia mandato una data senza dire niente a nessuno hai passando tutte le procedure che hanno di loro stile ginga test direttamente in produzione
+se io sono un utente claustrofobico come jobs act potrebbe essere qualsiasi altra cosa e dava una preda produzione non autorizzato dall'azienda stessa che mi manda a puttane tutto possa avere tutti i peccati che vogliono soprattutto di che voglio passare tutto la fede abita che voglio vado giù perché sono quelle situazioni che voi che è homepage e giove
+quali è po' quello che
+con cui ti dicevo prima alessandro se noi oggi soprattutto contro leggiamo ovunque nis due l'iso ventisette mila uno validazione dei fornitori validazione del software anche in produzione però permettiamo che un software del genere c'è problema vostra anche averlo testato
+io gradirei che nella mia azienda ci fosse un un una piccola parte di test tendenzialmente qualche tecnico cosa che peraltro faccio io blocco gli aggiornamenti a tutti quanti anche internamente e dico sai cosa c'è lì con un d qualunque esso sia ti mando l'aggiornamento solamente a quattro
+cinque persone dieci poi dipende dalle dimensioni dell'azienda e vediamo se funziona solamente a quel punto e non mi riempio la bocca di ventisette zero uno per questo perché sensatezza soprattutto in un'azienda in azienda interventi di quelle dimensioni tu non puoi permetterti che arrivi la strage di turno che fa l'errore perché magari
+tu hai un software tuo particolare che carica qualcos'altro e l'aggiornamento del world rugby ti manda tutto a quel paese
+esatto infatti si arriva proprio al discorso che faceva anche decenni fa di avere tutto un premio compresi repository per avere fixed action delle librerie che utilizzi piuttosto che il wushu in ambito windows per avere gli aggiornamenti approvati dal team e quindi poi ovviamente vengono fatti durante il patch day quando hai già testato per esempio
+varato in eni e anni e anni fa come sistemista windows si ho anche di ciclismo
+sto cercando di dimenticare però ho fatto anche questo dove praticamente funzionava che ogni tot mesi passavamo una settimana a installare la tac l'ambiente deve una volta che tutto era verificato tutto funzionante tornerei volentieri cantieri si diceva al peach idee in produzione ma era il sistemista che decideva quando far partire la procedura di tramite bus usb
+quindi le patch venivano scaricati in locale deliberati locale attraverso la cdn in team ci viene tra server windows che erogavano i update è solo un momento in cui il sistemista valutava che l'impatto era zero pressoché nullo o comunque valutava che va bene a seguito di questa tac io devo aggiornare questo rinviare questo
+fare quest'altro allora si porta la riproduzione non esiste con software tra l'altro terze parti fornitore esterno possa così decide di fare upgrade senza che nessuno possa né decidere di fermare da dresda e poter dire che guarda prima lo testo e poi facciamo è questo il corto circuito che dovrei
+beh far pensare non tanto il il disservizio che c'è stato perché quello vale si sa che allora diciamo che in teoria essendo un software sicurezza una delle caratteristiche che deve avere essere anche reattivo e rapido intervenire però immagino alla macchina tra l'altro si io ero anche utenti di
+di falco fino a qualche mese fa per cui l'ho usato però non mi ricordo se c'era un meccanismo per gestire gli aggiornamenti come vuoi te credo di sicuro quello che il pd configurare quindi immagino che di default ti aggiorna quando vuole lui però credo che puoi anche decidere tu quando aggiornare prima di procedere scusami andrea
+prendere un po' di interessanti i messaggi che rimanda alla chiatta allora cosimo scrive che ho letto da quel che ho letto da fonti affidabili i file incriminato si è corrotto dopo il test di valutazione prima del deployment pare per un po' di spazio disco che avevo letto sta cosa dei dei degli
+dei byte sbattuti dentro il file così via in teoria il cosmo questo anche per rispondere senatore ma non puoi in dettaglio ma il primo link che ho messo in chat che dice che in realtà non è così o meglio spalla di errori logico e non di errore di hai e così via
+è questa la voce sul
+che il fatto che non è legata a null bytes presente il file nel fall duecentonovantuno famigerato e non non so non c'entrano queste navy almeno quello che dice crown street nel blog sara avvocato del diavolo ma se fosse una cosa del genere il io mi aspetto che windows per juncker
+modulo del kernel voglio qualcosa certificato firmato se il file fosse stato corrotto in questa maniera in teoria la firmandola sia più valido se infatti per cui adesso io non so quanto poi effettivamente sia utile andare a cercare di capire esattamente cosa è successo nello tecnico nel mondo austriaca anche perché ovviamente non sapremo mai
+c'è stato un un link sul loro analisi tecnica e la loro parola diciamo è la più affidabile sotto certi aspetti ma mentre loro quindi dovrà prenderla in quanto tale interessante anche per spostarci su un aspetto un pochino meno tecnico quello che ci dice francesco reale che chiede ma chi pagherà e
+messo un concesso che qualcuno paghi secondo voi si aprono nuovi scenari si assicurativi beh sugli scenari e assicurativi scusate intanto marber bytes mi dice che c'è un thread sul mio computer esso se non si schioda tutto riguardo abbiamo benissimo
+vabbè questo traguardo dopo per
+per essere in tema di il pop appari e dall'alto sono sbucciata malware bytes rispetto a falcon che usavo prima anche sui quattro computer domestici e d'ufficio perché va un pochino meno però falcon è una potenza è di suo un po' costosetto per l'utente vai a me però faceva il suo dovere
+adesso che otterrà meno tranquillo adesso costerà meno e ti faranno un po' di rimborso senz'altro mi sono arrivate un po' di mail dai vari anche se ho smesso di essere un utente pagante i amavi come rappresentanti di venditori product
+i no insomma i vari personaggi mi sono arrivate un po' di mail da einstein
+spiegando come risolvere che è poco pur udendo sin grandi
+e giustificati scusa insomma
+è
+se dal punto di vista assicurativo se io grossa azienda sono assicurato e non ho certificato una catena di aggiornamento e peraltro oliva senso secondo me in assicurazione probabilmente non sono un legale quindi sparatemi se sbaglio
+ma
+probabilmente riesco a farmi pagare questa la rassicurazione che eventualmente dovrà rifarsi su mostra questo è un pochino la sensazione perché se io ti certifico ne quando tu mi assicuri che ho una catena di deploy e tutto quanto fatto in un certo modo questo me l'ha passata è un tuo problema che
+se a livello psicologico legato
+oh e poi scegli tu mi ha assicurato sarebbe anche interessante vedere il contratto con i clienti perché tu ora vedendo le varie aule di solito ci si pone abbastanza io non mi prendo responsabilità se succede qualcosa poi ovviamente un conto è un bug che sappiamo possiamo recapitare un conto è il dolo
+okay ora fu una upgrade che parte senza aver avvisato se fosse davvero il caso in cui la preda è partito perché una sbagliata e loro ma ho fatto una né
+the floating dovevo fare finita in produzione senza passare mia testa sarebbe andare a capire in tribunale se può essere valutato come dolo e quindi
+anche se lei dice non mi prendo responsabilità comunque class action ti faccio un buco di culo così in tribunale o se rientra sempre nelle clausole del può capitare ma salvo e c'è una singola persona responsabile del più grande disastro in fondo non è mai una singola persona e quando succedono queste cose
+e il tutto e tutto l'apparato sistema l'apparato azienda l'apparato controllo che c'è dietro non è una persona quella che c'è poi fisicamente una persona con la tecnica the flow ma se una persona arriva cliccare il deploy e finisce produzione vuol dire che il suo team leader ho sbagliato il capo del villaggio era sbagliato dopo di di egli ha sbagliato il capo di qua vai
+gato con l'altro sbagliato tra l'altro sbagliato
+e se un'azienda se il novantanove percento di aziende sono state impattate pur avendo magari tu scriva anche loro macchine giù e quell'un percento si vuol dire che con un per cento magari certe cose non le ha fatte proprio oriental perbene gli è sempre andata bene cosa è andata male come dicevi tu prima magari falcon aveva questa opzione perché si date uno km
+rifilato ai striscio perché sei sempre affidato a cinquecento dell'azienda non mi sento di dire non hai completamente nessuna
+responsabilità in quanto sia successo
+mi sentirei propriamente di poterlo dire che puoi se vuoi il problema anche un po' quello che diceva guardie in un articolo dove nonché come me come te non mi trovava totalmente d'accordo lo diceva anche questo spostiamo la responsabilità compro il mio cloud drive sono tutto felice o la fir
+m a ispettori riso piace riduca il costo del d c e dormo tranquillo esatto perché poi tutto questo rientra nel grande calderone del perché l'enterprise utilizza vivendo sistemi decreto soluzioni di questo tipo perchè non vuole avere tutte le competenze interne pagano per la sicurezza
+di avere lo strumento il tool l'asset se ne sbattono le balle di qualsiasi cosa quindi perchè devo metterci io persona uomo o testa per gestire la cybersecurity le diarree il canale sms eccetera eccetera vado pago fior di milioni questa azienda esterna su tutti i cazzi loro
+che questo è uno dei grossi problemi dell'informatica odierna il l'esternalizzazione qualsiasi cosa perché appunto lo diceva domenico informatica viene visto il costo non è una
+non è sviluppo ricerca e sviluppo non è una
+il termine non è un investimento ma è solo una spesa in più la spesa che meno spendo meglio è cosa che poi si vede che avevo appena succede qualcosa ti rendi conto di quanto la hit dovrebbe essere non dico il fulcro dell'agenda perché è una un'agenzia di viaggi o una compagnia aerea non fa della t il proprio core business
+però sono i pilastri su cui si vada tutto bene perché come hai visto attivando i server i maggiori postazioni di lavoro che maggiori terminali dove l'utente finale lavora ebraica in magazzino ai cinquanta terminali per andare a sostituire tempo dieci minuti i cardinali sono andati giù ma ci vuole tempo uomo prezzo finale che poi ripristinare questo problema è facile
+dopo tre rapiti ma in modalità provvisoria modalità provvisoria cancelli modulo va risolve tutto ma quanto tempo ci metti a fare queste operazioni manuali e che non si possono automatizzare fu ogni computer o a spiegarlo alla signal ragazza al check-in che magari in omaggio perché d'estate c'è tanta gente che vola in più con la gente che urla dietro
+esatto perché perché il grosso dei problemi non è stato dato server okay a parte tutti i disastri su asia soprattutto una serie di eventi perché da quello che ho letto crowdstrike con volagratis e persuasivo
+svaso erano stati tagliati fuori perché gli altri di due altre dns windows erano bloccate qui tutta una serie di effetto domino ha fatto sì che fosse tutto bloccato ma quello era almeno il grosso sono le posizioni di lavoro nei vari uffici e rispetto che nei terminali che ne so in stazione il terminal
+del c screen rispetto al terminale del cristiano che ti sta facendo biglietto e via dicendo quali sono stati i grossi disagi a quello che almeno da quello che ho visto e che ho letto e questo è in linea con quello che ci dice il buon giorgio che la jetée legata così profondamente a qualsiasi business e perché è diventata imprescindibile e non possono
+farne a meno che impone anche quest'anno wake-up call se vogliamo no perché ce ne siamo resi conto che molti di noi lo sapevamo già e magari fai gli stessi addetti ai lavori
+pur essendo informatici ci si preoccupava di quanto pervasiva sia
+l'informatica stessa adesso lo sappiano sono un po' tutti e quindi da questa comunione è chiamata questa risveglio traumatico quali lezioni secondo voi l'industria
+prenderai avrà insomma per il futuro se ci pensate giusto per fare una citazione dopo il casino offre che è nulla rispetto a questo e se creato tutto il mondo dello smom ma è tutto quella logica di tracciare il bill of material sito
+quello che è salito del software cioè se creata tutta una branca se vogliamo della sicurezza e della gestione del software non è male è una evoluzione no c'è il casino ci si accorge ops usiamoli baviera di rock tutto il mondo cerchiamo di cattolici dannose ricordi quando lavoravamo tutti e tre assieme
+già a lei che sta parlando di dieci anni fa enti agli answers altri eventi forse
+ventisei anni quindi sono tredici anni fasi degli anni fa se ti ricordi forse ancora non avevo eseguito io che ho iniziato a seguire con gli sviluppatori proprio la questione del security development lessico perché non è qualcosa di nuovo ci chieda sempre se però renzi danny la l'isola di sette uno di cui ormai
+serve che ti dice che se non hai delle procedure delle delle best practice riguardo non c'è nulla non viene certificato per cui
+non lo so sinceramente io sono un po' pessimista ultimamente
+io sono alessandro mi invita perché sa che so essere non politicamente corretto come piace a me non abbiamo imparato un cazzo da niente mai e sono i sani che succedono queste cose ne abbiamo imparato ha citato la forgia perfetto vai a vedere le configurazioni fairway nessuno avrà messo regole per evitare col beach tutto e ti cito subito un'altra cosa che succede
+essa ha recentemente young con kext e non abbiamo imparato un cazzo però
+noi l'abbiamo beccato in tempo come l'abbiamo come l'abbiamo beccato però puro culo e tu la sai la storia di come è stato beccato del nostro tipo italiano è stato allora ma allora praticamente matteo croce mio grande amico ritratto saluto ha fatto una tac di sistemi di persistenti per poter caricare i moduli in maniera dinamica e
+papà e tra questi moduli c'è anche il zeta questa patch senza volerlo bloccava il tutto quello che ti sta facendo con ics beta e quindi ha affrettato lo sviluppo della backdoor aspettando il gruppo dell'apertura evidentemente ha fatto male qualcosa e nel boot c'erano questi due tre millisecondi in più rispetto al solito
+un tizio chiedeva al computer due tre millisecondi più lento ha deciso di indagare il perché fosse più lento ed è così che è venuto fuori il poeta bello e il bello
+quando einstein prego dell'open source quello dell'informatica va con tutta la storia precedente del alla fine zeta venuto fuori per una pezza messa lì per
+ottimizzare i charlie la memoria il caricamento dei moduli più un bambino speciale che ha detto al mio computer e tre millisecondi più lento perché c'è non perché abbiamo imparato dalla forgia abbiamo imparato da ciò che avevo imparato da essa serie blind abbiamo imparato da ultime ix vulnerabilità degli ultimi dieci anni come si fa boom si fa developing
+exactly eccetera eccetera non ha mai parlato per puro culo puro culo va bene vedo che sei un po' pessimista ad altri
+la storia è sceso incendio è la storia che insegna non sono gli altri adottive pessimista sono venti anni di informatica che insegnano sì però attenzione vent'anni informatica ma non so se vi ricordate come deplori dalle nostre parti due anni fa
+il worldcon singolo di spie caricato in etc e invece no nel senso comunque c'è l'evoluzione informatica è cresciuta di pari passo con la sua diffusione e molte pratiche che una volta erano eccezionali adesso sono comuni questa cosa lo smom è vero che esisteva già e quindi sono da
+cordone che l'abbiamo creata dal nulla l'industria però c'è stata una consapevolezza maggiore no in tutto questo sotto questo aspetto che chiamò album che in qualche modo e anche in magari non viene seguita da tutte le aziende e c'erano un sacco di posti in cui ce se ne frega però
+nell'industria come dire chi crea software così via è molto più sentito il problema e quindi anche eseguito io credo spero che da questa
+papocchio intanto magari un meccanismo di gestione e reboot come si diceva prima con domenicano magari con sistemi operativi in zona e ho visto che problema insomma
+dei grossi linux microsoft e mac magari supplemento implementeranno logiche per cui se la macchina cresce al boot il sistema automaticamente riparti dall'ultima versione corretta a livello di kernel anche windows non lo fa sto lavoro molto più o meno lo stesso dopo boot
+quindi seguendo automaticamente in modalità provvisoria esatto però va in maniera provvisoria e invece magari meccanismo per cui ti torna alla ultima modalità corretta c'erano la vecchia fail safe che ci era verde su di me su linux e manuale ancora sempre che non cancelli da kernel rootkit il vecchio felice il mood di un oblò
+una volta dall'alto buon potere king il tuo amato leonard partnering dice che sussiste invece già meccanismo può fare una cosa simile su linux ma nessuno lo sta usando e io non sono qui io non sono uscito trovare i dettagli di questo tweet in cui aveva parlato però leggevo che un suo commento da qualche parte al riguardo swift
+diceva appunto che si estende già un meccanismo suo che permette comuni
+voglio provare puoi sentire né chiese c'è anche su devon sentiamo e dei buonisti
+francesco dice per far polemica abbia noi ci piacciono ma secondo voi cosa devo fa
+il museo capisci di cosa stiamo discutendo lui vuole sapere quanto mi costa sì ma noi noi siamo estinti per cui ci interessa parlare dei coen però però vedi è proprio questo che deve cambiare perché il cielo dovrebbe fidarsi del proprio ciclo il ciclo invece dovrebbe sapere di cosa si parla
+è proprio questo il meccanismo sbagliato che c'è nell'informatica odierna
+non sono l'informatico propone l'industria generale che il ceo walker c'è anticipiamo non singoli cinema anticipa o vogliono essere il capo di tutto e pensano di sapere tutto di tutti e guardano solo il nero danaro in teoria tu hai di tutti i vari c xix dove può servire per essere i capi dei propri dipartimenti quindi il ceo yahoo bravo
+dovrebbe dire di starci ti ho visto che la parte tecnologica e tua che cosa dobbiamo fare altrimenti che la
+un programma cioè nel senso no perché quello è e poi anche il city iodice quanto mi costa perché non sa di cosa parla quello è un altro problema whatsapp
+noi diciamo che dovrebbe esserci appunto la catena di comando per cui tu dici eh ma anche il city io tendenzialmente è uno che magari non tocca più la tastiera come facciamo noi no per da anni però ha le persone sotto con cui collabora
+che gli dicono guarda che questa cosa ci pone questo rischio e poi sarà lui che la deve riportare nel consiglio
+secondo voi al netto di quello che farà l'industria dopo questa lezione se farà qualcosa io credo che qualcosa accadrà e a livello di aziende singole cosa quelli sono avery è un po' logica e buona logica spicciola ma enumeriamo le possibili azioni che uno può fare per evitare simili casini in futuro
+imporre suggerimenti pratici per chi ci sicuramente le aree la l'aggiornamento del
+delle delle applicazioni ti ripeto è una pratica che l'esempio da me è una delle prime cose che abbiamo implementato da che sono arrivato a rompere le balle
+perché gli usa che devo rompere le balle no non sono contento un senso e c'era già nell'aria dietro ho dato peso voi magari l'ho aiutato per cui l'utente non come una giorno più per i fatti suoi c'è un gruppo di test e ibridi chieve gli aggiornamenti un giorno dopo ventiquattro ore perché abbiamo stabilito che l'indicatore tempo
+sufficiente vengono viene lanciato in modo automatico l'aggiornamento e tra l'altro l'utente può tipo rimandarlo una due volte poi voi qualunque cosa facendoti si aggiorna così per quelli di sicurezza
+bonus può fare il natale che dopo che fai l'aggiornamento qualsiasi consentire alcun fatto un aggiornamento
+tempio parlavate ho fatto andare questa scan che ho trovato qualcosa nelle scimmie room e mi ha rivelato croma e quindi l'ho perso e non so se avete visto per andar via oppure no no sei solo sovraffollato elettronico di ebay c'è stato un glitch nella matrice però il problema che è nato via dal lato utenti quindi
+io ci ho aperto youtube in muto e staff siamo in ritardo sì sì no non ti preoccupare ma so che abbiamo trasmesso ho trasmesso di servizio vedi quando si fa l'aggiornamento in diretta
+bene bene bene dimostrazione pratica di come non si deve fare la vittima perché no
+le pec le cose quindi ecco queste apposta per semplificare quando bisogna fare la demo tecnica il poco avremo hotel prevede l'aggiornamento introduce non si facebook è importante far vedere come si lavora bene ma che come non si deve lavorare ma io in questo sono espresso ovviamente
+like the way errore non by example perde
+scusate stavate dicendo mentre io sfarfalla star stavo dicendo che visto che ormai qualsiasi soluzione on-prem virtuale cloud pubblico privato ti permette di farle snapshot una buona pratica sarebbe prima di far partire tutta la pesci e farne uno snapshot della macchina natale
+che qualsiasi cosa dovesse succedere non riparti dalla golden age due magari devi rifare mezza figuraccia di tutto per quanto tu possa avere a shipley puppet ti agevola la natura delle cose comuni
+per quanto ti possa agevolare la vita su queste cose ma fare uno snapshot potrebbe salvarti la vita ma diverse diverse ore di lavoro bello ovviamente questa cosa non si può fare con il computer del terminale della segretaria che ti sta stampando il biglietto purtroppo un caso come questo in cui
+casi o a in magazzino trenta computer da poter dare a tutte le persone che nell'ufficio se no a un caso del genere si ritorna a quel che diceva domenico avere un più stretto controllo degli update che da ikea le tue postazioni di lavoro
+e magari gestirei ardita con a b testing nacque a metà tra le ali a giovani metano
+quando sarebbe veliero a giorni alterni così al limite e rompi metà della fase due ma alla fine questo lavoro c'è nel senso il gruppo week il gruppo test dovrebbe fare questo lavoro se non è il calderone delle cose che dovrebbe fare il sistemista o chi fa produzione o altro scalo beh sono proprio un gruppo dedicato a fare solo quello
+soggiorno ora un tipico avere il gruppo di tracy detection
+without che ti vanno a fare da contesto è tutto il pollo abla ha un minimo di persone che stanno tutto il giorno a fare il test vedere da great vedere le nuove versioni da poter aiutare poi il gruppo the box from tim
+o comunque tu lo voglia chiamare per gestire questo genere di creta perché in teoria siamo tutti sulla stessa barca alla fine c'è se l'azienda va giù per andrea come giustamente scrive anche george inn chat c'è un sacco di posti in cui non ci sono competenze le aziende anche che non sono specializzati e quindi magari chi ti fa supporto tecnico per ripetermi
+molto alto che a b testing e così via magari no e odio magari l'errore che in realtà cela l'idea di appoggiare tornato il primo la prima cosa che ho detto andrea c'è lipitor non è un costo che si sicuramente costa ma è la spina dorsale della tua azienda
+oggi qualunque cosa tu faccia
+quindi ti devi appoggiare a aziende ed i consulenti che siano serie e che ti guidino che non è che ti devono dire ah si aspetta puoi spendere poco allora ti do lo scacciacani che fare con slot guarda che per avere quello che vuoi questo e come lo fa chi ci vuole serietà ci vuole
+l'aiuto competente poiché ciò molte aziende dopo lo sappiamo sul mercato che non hanno queste competenze neanche loro e ci vogliono aziende serie che
+aiutino poi dove mancano le competenze e dando davvero un valore aggiunto se poi tra l'altro come dice anche il buon osman ma anche con le competenze magari un caso simile nessuno avrebbe intercettato prima
+problema nel blu scrittura in questo caso la competenza sia mai stato nel prevenire la possibilità che ci fosse stato un wesen su tre macchine e quindi magari maschile maslov la struttura della vita magari su scusa vai vai scusatemi come vuoi magari avresti avuto due le dieci cinquanta macchine di test gli avresti detto fermi tutti usato o
+oppure per dirla anche più grossa infrastruttura di backup come dire che comunica una infrastruttura latente che usi nel momento in cui si spiega tutta l'altra però anche lì son grossi costi e grossi problemi tecnici da gestire in qualche modo anche perché come voi mi insegnate non esiste l'app tag cento per cento e non esiste l'assicuro
+rezza totale esiste sempre quella via di mezzo per la tua sicurezza era da rompere a costare così tanto l'essere attaccato che non conviene attaccarmi e l'atto sicure e lato invece infrastruttura e alta affidabilità e cercare di minimizzare il più possibile i disagi e il servizio per resistere nel sito procedendo parte del
+all'altra quindi una buona azienda è buona e t ti può aiutare a minimizzare il più possibile i problemi ma no non li potrai mai evitare perché l'uomo è sempre geniale inventarsi nuovi modi per mettersi nella merda tu da solo quindi l'errore è sempre dietro l'angolo puoi avere
+il processo più bello del mondo puoi avere tutto perfetto puoi avere tutte le autorizzazioni autenticazioni tutto ah perfetto responsabilità corrisposto vede tutto ma finché c'è l'uomo in mezzo alla catena l'errore l'errore umano può esserci sempre così ci aggiungiamo anche una procedura di backup manuale
+le analogico è testata e possibilmente il più possibile ottimizzata soprattutto in certi contesti dove si può fare e si deve fare notti negli aeroporti negli ospedali sai che questo potrebbe appartiene alla discussione sull'educazione mancante informatica nel senso che chi utilizza il computer che non è del settore
+gli manca tutta una serie di competenze che si potranno dire non voglio dire la patente informatica tipo ecdl ma comunque quella sensibile sensibilizzazione informatica che manca più la password uno due tre quattro rispetto a mettere il post-it con la tua password rispetto a usare il cestino come si trova
+aggiuntivo per i tuoi file questo genere di cose perché la gente mi manca proprio l'abc della formazione cromatica di come utilizzare perbene il tool che il tuo computer se ci fosse più anche di questo tipo di educazione secondo me la gente
+sarebbe anche un po' più
+non anonimo scusa sarebbe un po' più autonoma nel farsi anche da sola è proprio the cup cosa che praticamente nessuno invece fashion agenti di solito cosa fa si basa sulla cloud a new life non lo fa in automatico ami o google lo fa in automatico ma nessuno ci mette attivamente la testa per capire uno dove finiscono i propri dati
+due se i propri dati cisco da qualche parte in cui sono affidabili
+per esempio gli indie world ci sono un sacco di corsi interni su come utilizzare quando driver gli strumenti interni per fare il backup dei dati aziendali in maniera tale che se succede qualcosa al tuo computer dati persi se tutte le aziende avessero questi piccoli corte dei conti che è una roba di mezz'ora quaranta minuti per insegnare ed educare un po' hai proprio perso
+zone anche questo aiuterebbe e non dico eccolo lo vedi in azienda è un pò grandi strutturate quelle un pochino più eroico
+di paul
+sì però c'è anche da dire che ci sono anche tante aziende che fanno che propongono dei decorsi comunque accessibili sì sì no ma che ci siano le possibilità e che siano necessarie siamo tutti d'accordo che venga fatto ovviamente
+come sempre difende la maison
+volevo stare in chat ma non ci riesco
+sai che io faccio anche i corsi di warnings non a tempo perso volevo mettere in chat ma non me lo fa fare perché mandamelo un'immagine che uso spesso dei corsi
+manda me io ci posso credere
+sì però non so come mandarti un ex ospedale lasciata qua nella cat woman e dice il buon gianluca cometa non vorrei essere stato sistemista windows con il blu predetta su vecchie istallazioni vi è
+sì tra l'altro sotto certi aspetti fosse beh vabbè uno che ha il locale era abbastanza semplice sismico inferiore risolvere il problema no
+sempre se bitlocker non era attivo e
+rimuovere il file via in cloud la procedura manuale un pochino più laboriosa no togli il volume mentre un'altra parte poi ho visto che bene o male tutti vendor hanno trovato hanno fornito loro meccanismo più o meno automatico e se vogliamo anche lì l'industria si è mossa anche abbastanza in fretta e per solo che ormai il problema era
+alcuni era scoppiato quindi non abbastanza comunque mai troppo in fretta però insomma poteva andare peggio poteva andar peggio poteva piovere e poi non so dove ho letto di quella azienda di
+una south
+una
+kat west skill che aveva indosso tre punto uno quindi salva
+sistemi operativi troppo vecchi
+beh anche questo fa parte del
+aveva guidato il futuro se non ricordo male non avere anche internet
+network distribuito uno se si era uscito la connettività qualcosa del genere è outlet
+su tre era il tre undici che ti permetteva di installare il trump e windsor usato che aveva era windows tre undici kenneth t mentre la versione prima non viene anche da parte delle tv niente network che era solo locale basket e tabù quanto siamo vecchi dio
+pensa queste aziende in questa compagnia aerea che ancora sistemi simili in giro
+io però avrei paura per altre cose
+sapendo questo
+sì esatto appunto
+è
+ok mi hai mandato un bell è ma cosa faccio ce n'è un link dove
+no perché l'ho preso dalla mia presentazione ho fatto cosa ne facciamo di questa cosa sono continua
+è
+no se lo metti da qualche parte su una sella su e la condividi e poi mettiamo il link è
+diceva il buon giorgio di sistemi antichi né sa perché lui c'era e c'era prima di tutti in italia con le telecomunicazioni in realtà interessi installare anche su ms-dos questo non lo sapevo ottimo
+fiamma trumpet windsor su windows
+ho qualcosa undici ping pong o giorgio se vuoi collegarti e illustrare quanto a condividere e noi siamo qui e
+zibaldone di cork
+henares non ho pensato paghiamo sola il medico l'archeologia informatica osaka whatsapp torniamo al pezzo sul suo nome crowdstrike come azienda cosa come ne uscirà da questa amministrazione lavora ancora al team figurati se crab shack naturali lavorare
+cosa vi ricordate sì
+era un pochino più grave quello quella storia quindi
+che siamo bravi a dimenticare sangue per indicare me però questi comuni l'impatto di cachet non era un nome così sparato sì fra gli addetti ai lavori forse ma non così pubblicamente
+va bè dubbio posso dire che venerdì d'australia perso il sessantuno per cento oggi ha perso un'ulteriore quarantuno per cento a sei così tanto fammi vedere
+qui il sessanta per cento e guarda guardiamo guardiamo il sì sicuramente la
+è da tre novantadue passato due sessantatré perché il ragionamento che faccio io al netto del mercato azionario
+l'after
+quelli del fallout che sto seguendo è un discorso puramente pragmatico di costi e di beneficio tecnico ha lo spartito su questo prodotto alla flotta di server su questo prodotto tutta una serie di
+procedure
+adesso parla di procedure beccato ripristino sicurezza vado a far ridere però comunque tutta una serie di procedure d'asilo di protocolli tutta la serie di anche economicamente parlando una serie di contratti con questa azienda un'azienda enterprise a migliaia migliaia migliaia tra workstation server può cambiare dall'oggi al domani fornitore così sì però se ci pensi questo è un software più facilmente
+no perché comunque fa la sua funzione che magari la famiglia di altri quando funziona e non ti blocca tutto però e ci sono altri competitor che fa la stessa cosa ed è un agente che installi disinstalli alla fine tecnicamente sì però tutto l'iter per arrivare a toccare questo genere di software ti porta a lunghezze bur
+crasso più enterprise l'azienda il che vuol dire più ci sono persone nella catena di comando sarà un casino anche solo buttare dentro l'ideale ma se usassi blog
+sì no e non dico che sia una cosa però se ci pensi rispetto ad altri tipi di software quando si è più facilmente sostituibile poi rispettati
+software sono business coach ti servono per fare il tuo business è effettivamente sì che questo potrebbe essere bellamente place rinunciamo reinstallo anche perchè poi dal tunnel dal lato di abbastanza staccato c'è tutto loro a kallithea senso mentre skyler
+la tua reportistica interfaccia web di tutte le cose ecco la cosa bella e se portassi un po' di consapevolezza queste aziende grandi di internalizzare sì questo genere di bruciature di software e di controllo è solo che li vorrebbe spendere un sacco di soldi sulla sicurezza che se già non vogliono spendere soldi sono in forma
+etica sulla in generale la sicurezza ancora meno è proprio una di quelle cose dove ma si dà a tony wild vuoi che mi succeda qualcosa del cieco com'è che poi per inciso devi fidarti molto di un'azienda come crowdstrike quando installi la gente suo appartamento è questo vedi tutto nel tuo sistema
+scende come se fosse una backdoor
+ma quello che davvero è una backdoor
+quindi c'è il fatto che poi è centralizzato sono solo se la velocità non credo di avere come dire la on-premise accentratore delle informazioni è tutto sul cloud non conosco così non lo so erano per non strumentalizzare dan brown ad oggi
+loro esperienza diretta io non l'ho mai usato però avendo usato parecchi continua usare anche i concorrenti al massimo ai il proxi che aggrega e manda poi nel cloud i dati invece che farli mandare singolarmente al al client però tendenzialmente tutto
+lauda anche per una questione che ti dicono o che dicono oggi quasi tutti questi
+vendor ed è in parte reale peraltro che avendo tutti questi big data perché non si limitano ai tuoi vedono i comportamenti in correlazione a macchine simili a situazioni analoghe per l'analisi dei big data a quel pochino di più il tuo pc ma è il big data è aggregato perché sia effettivo
+ivo
+l'utilizzo senza andare su quelli che ti dicono che hanno l'intelligenza artificiale più globalmente perché sia effettivo il dato è l'analisi hanno bisogno di averli tutti questi dati si sprecano questo meccanismo che tu dici i dati li prendo da internet e tutto quanto però il tuo sistema tua
+i sistemi dove tu mandi tutti i tuoi dati i tuoi che poi vengono analizzati secondo magari euristiche che arrivano dall'esterno e il male e promosso assicurare altrimenti quanto riguarda questa cosa potrebbe essere uno dei motivi per il quale in italia per esempio non ha fatto molto siamo stati portati tramite pos
+proprio perché in italia e questa cosa l'ho vissuta in prima persona con un sacco di aziende c'è questo problema del devono sapere dove vanno i dati per questo il flauto viene usato poiché nulla per esempio banche assicurazioni non essere sicure che il dato sia in dataset d'italia e solo adesso e di tablet sky vedi google stanno creando i nuovi deprime
+jazz in italia fino a che non si può non c'erano queste zie era praticamente impossibile avere dati su cloud perché è per l'appunto alle disposizioni italiane e adesso so se c'è dentro anche dal ripiano oppure no vogliono che dato rimanga in devi essere sicuro che dato animali territorio italiano si chiama adesso rigidi pepe aggiustare c'è già
+state delle evoluzioni per cui o è è stato che fosse solo nella comunità europea poi adesso se ci sono delle garanzie degli trattati se lo stato in cui va a finire il dato garantisce l'accuratezza per esempio del dato personale per ipad bisogna sempre fare questo distinguo sul luogo
+più di un dipendente che banalmente
+carica e scarica il magazzino non ha dati personali possono metterli dove mi pare dal punto di vista di birra
+ma al di là di questa cosa diciamo che adesso è diventato leggermente più light nel senso che ha detto sono resi conto che sì va bene tutto bello però la gente che neanche elaborare il lutto e poi dipende anche sempre dal singolo gruppo di sicurezza perché ovunque avuto a che fare con gruppi di sicurezza che per loro al cloud proprio una x rossa solo
+oprah non voglio che i dati escono dal mio datacenter a prescindere che dato sia
+gente ho conosciuto ho parlato con persone per i quali anche un ip era vicino malissimo ad una lan interna ed è un dato privato che non dev'essere reso pubblico quindi comunque dalla cronaca crowdstrike solo cloud-based roccia i server anche in europa infatti amico mi collegavo avessero europei per
+è però tutta la tua fuffa la mandi su cento falcon perché poi si parla di crowdstrike in azienda no no lo ripeto ho parlato con piaghe italiane dove per esempio non hanno voluto soluzioni come wild front similari proprio perché avrei potuto mandare tutti i dati sul cloud su due piani ai sas di wi-fi
+fronte piuttosto che roba come team si va adesso roba partì specie il cavia in guerre che non hanno voluto questi prodotti proprio perché non si possono mettere nuovo ai tempi un premier e quindi non vogliono averlo end point sas a cui mandare i dati che fosse anche solo lake placid della macchina che comunica con le piaghe per istruì
+rai radio kids come configurare la macchina non lo volevano che passasse su internet quindi sì oppure ho visto aziende che usano o magari dei sistemi di collaboration che ampliabile
+è fantastico lo slack e il male allora aspetta uso mirò piuttosto che altri software perché mi garantiscono che sta in europa
+a me è capitato anche questo ma anch'esso descrive la documentazione sull'architettura kubernetes che sto facendo a questo cliente però allo stesso tempo mi dicevano si provano puoi mettere i piedi i disegni di come abbiamo sempre detto ho detto scusate ma come faccio scrivevi la documentazione sulla mia macchina che non posso mettere questi dati e cosa voglio fare le figurine tipo sei
+we're closed età e che senso ha
+erano tesi l'ha poi sono gli eccessi dall'altro lato quello che sappiamo un po' di equilibrio anche queste cose perché ripeto alla sicurezza alla fine solo trovare l'equilibrio di quanto uno si rompe le balle non essere educativo la distanza niente quindi
+poiché un anno lavora anche la gente perché se poi tieni fuori anche i tuoi
+leggevo che uno dev'essere consapevole dei rischi poi troviamo il giusto compromesso come ho scritto prima parlavi delle persone
+ed era per quello che mi è venuta quell'immagine che poi vediamo chi condividere nonché l'immagine che faccio quando faccio il corso edward zwick medico
+che l'azienda deve riuscire ad avere le persone che si rendono conto del problema della sicurezza in prima persona e se mi insiemi prendo il malware blocco l'azienda sblocco l'azienda e io non lavoro alla fine di stamane sono anch'io perché il mio lavoro magari lo devo fare nel weekend
+perché un'azienda bloccata per continuare a dar da mangiare alla mia famiglia scusa un attimo fuori tema però è lì in poi alla fine sempre lì
+clomid deve cadere dall'alto devono essere parte del gioco e il buon vecchio thread mode liguria
+ogni antico come si fa il modeling sul i pericoli che ci sono ogni ufficio e ad ras
+resta qui tutti noi irresponsabili per fare tali modelli di cose che potrebbe capitarti in ufficio scivolare cade una tegola e scivolo in bagno qualsiasi cosa la stessa cosa debba esserci un informatico se specialista in sicurezza ancora meglio a fare il thread modeling di cosa potrebbe capitare in un nuovo tag cosa potrebbe capitare se ti va giù
+tutto il sistema se ti va giù il tuo business se ti va giù pdl
+delle postazioni tipi di biglietti così di amburgo
+solo che racconto sempre predisposti di prima latino è un costo non è un investimento chi se ne frega della tv cerchiamo di spendere il meno possibile poi la gente quando succedono queste cose si sveglia è però il problema non è che tu sotto fie la tua azienda o paghi poco dai titoli a me crowdstrike microsoft sentite visto che astrae
+tutti ne parlano ma pochi lo usano vi va di farvi vedere l'interfaccia che ho a cui riesco ancora ad accedere anche se nuovo host gestiti anche perché sandor tanti cavoli miei
+sono quello che faccio anche per esempio che credo possa essere interessante e
+allora e questa è tanto come vedete ma non lo vedete forse comunque vediamo tuo schermo non no vedete la url comunque sta su falcon voto eur zero uno quindi è junior segue
+europeo poi c'è un bordello di interfacce sotto interfaccia e tu paghi secondo c'è un livello di pagamento progressivo per cui comunque minimo cinque aosta e poi su questi cinque agosto puoi pagare più o meno servizi a seconda di quante cose
+attivi e poi in realtà c'è un macello di roba chiaramente i quarti fa
+devi scaricarti il tuo sensore che la gente che installi su mac linux e windows
+e una volta che lo installi poi c'è una chiave con cui lo attivi diciamo e questa chiave poi è quella che lo permette iniziare a mandare cose dritte su impiantato questo mi fa pensare come usarla qua possa funzionare o non funzionare in ambiente aghape no senza accesso a internet non sono così rari in ambiente enterprise poi una
+cosa simpatico che hanno loro hanno tutto loro team di detection o tre gb tre tre analisi per cui poi anche qui report che promette non vedo più su
+su quello che sono i vari quello che succede nel mondo a livello di attacchi a livello di agenti e così via
+e poi a me come vedete c'è un sacco di roba veramente tanta cosa il dettaglio che potevi vedere dalla a me per dirmi mi faccia partire fifa perché pensava che ci fosse un un qualche
+software che ti andava in profondità far cose navy fosse qualche anticipato qualcosa però da qui puoi anche disattivare ovviamente i falsi positivi e c'è un sacco di foglie io francamente l'ho ottenuto per un anno è però mi sono accorto che lo usavo poco
+e quindi l'ho smesso di firewalling ovviamente anche questa cosa interessante è proprio l'azienda è nuova la gestione di will smith proprietà che la gente metta copia file su fb e poi sposti e poi ovviamente questo vede tutti i processi che fai vede tutto quello che fai
+praticamente i cavoli tuoi on sale
+sapevate che ci sono anche loro anche loro bel story
+sia di app
+loro di terzi quindi comunque sintesi con un botto di altra roba sono ma non sono gli ultimi arrivati come ben sappiamo ehm ehm e poi announcement ovviamente qua parleranno di no e infatti proprio il fatto che non solo gli ultimi arrivati fa ancora più e ancora più strano è usato fa fa ancora più rumore
+la notizia perché proprio perché sei l'ultimo arrivato son sicuro che abbiano un loro sistema di publisher delle tech controllato fatto una certa maniera quindi io credo veramente che sia stato un errore umano con qualcuno veramente mandato quota di produzione senza aver fatto le giuste procedure ma sono non voglio
+asili ma perché ora non penso che sia stato fatto con dolo perché sottomettono a nome di postepay cosa siccome è stato un banale errore una forzatura umana ma se c'è stata una frana con la persona è stata massacrata e matteo salvini e gitlab qualche tempo fa che si segue
+playstation database remover è il primo dato per sbaglio era sul dato della produzione l'avanzato via il programma in quel caso valeva stato era fatto una politica di autorizzazioni tale per cui chi non doveva essere dotata per riproduzione era sul database puzzole e ho potuto fare il troppo magari è successo a un poco di simile chi non doveva poter
+fare un publici in produzione ha potuto farlo perché magari mancava la flag nell'autenticazione le autorizzazioni eccetera eccetera
+qualcosa perché non ci credo che un'azienda cosi utilizzata anche da topo e-government statunitense blabla non abbia un lexicon di sviluppo tale per cui rigoroso una cosa come quella che poi non è che è un bug che va a prendere lo zero virgola zero zero zero zero percento di configurazioni
+particolari con ardor particolari stalla maglia singola esatto dovrebbe dire qualcosa facile da trovare in teoria lo installi su un computer windows vede che vai bechstein of duty due domande fai
+sì comunque se vogliamo partecipare alla falcon
+scheda ci sarebbe interessante vedere cosa dicono in questa conferenza
+preoccupati per las vegas interessante
+va bene va e questo comunque falcon per chi non lo sapesse è almeno una palla interfaccia web cloud-based e va smetto pure di condividere ecco questi sono i topi agli agenti fu rilasciato il dodici vedi alcuni di questo calcolo fa il lato ancora no beh questo è l'agente però
+lo fai il lato l'aggiornamento dentro quindi comunque questo è la versione agente stesso una ragione non sempre quello che appunto sono i file di definizione diciamo
+delle cose supporto un po' per tutto mac windows e poi bart linux c'è anche dawn of seno
+cattedra altro a proposito di linux e sistemi di booking blog
+non fosse già stato marchiato in maine ma adesso anche systemd avrà destiny of death quindi anche linux se avremo club soda anche su linux usato
+uno
+standard tiziano le cose visto che questo è l'anno di linux su desktop adesso anche in the time of day si sente la verità il libro comunque adesso finalmente abbiamo blu screen of death
+oh son soddisfazioni
+anche se alessandro preferirebbe il guru meditation
+ragioni storiche un problema ormai allora allora vediamo un po' in chat riprendiamo un po' il filo del discorso ci sono un po' persi fra interfacce di falcon
+e via beri livio che sottolinea che le azioni sono crollate effettivamente per la cronaca son passate downs il sedici
+quand'è che è successo il casino in diciannove no
+già sceso un po' e dei giorni precedenti però poi sostanzialmente il diciannove sono erano intorno ai trecentocinquanta sono duecentosessantadue dollari
+sì nei giorni prima proprio l'america che sta facendo sui suoi occhioni e-mail nel caso poi con biden compagnia a però questo bel precedente e si ebbe attentati va e va bè e hanno preso una bella botta sicuramente chissà se si riprenderanno beh comunque l'azienda tanto per
+market cap sessantaquattro adesso sessantaquattro billions quindi
+fondina per niente
+che fa facta il sito di cyrus drake che lo stesso zio di mary
+nel duemila e qualcosa quando nel duemiladodici mi pare che ci è passato dal duemiladieci al duemilatredici nel duemilaundici e duemiladodici c'era stato il tutto il casino come caffè che aveva causato cosa di simile
+cito questi giorni è stato divertentissimo leggere internet con tutti questi fan fiction notizie
+no gente esperta in qualsiasi scibile dell'informatica piva linux abbasso windows eccetera eccetera eccetera nel paese potendo sinora come dicevamo ehm farma fatto specie la stampa è questo microsoft down dappertutto ma se è la mappa in realtà è stata l'unica
+quello che ho fatto o meno ci siamo abituati alla crema trovato esatto ma scusate a questo proposito secondo voi microsoft in se ha qualche responsabilità al netto del fatto che sappiamo che non c'entra niente con la giovane tutto quanto ma c'è c'è qualche cosa che possiamo dire su windows microsoft in tutto questo
+ma secondo me non c'è più non più di quanto già diciamo contro microsoft office of souls chi no comunque c'è il sistema operativo è costruito in quel modo quindi i driver sony driver si sa che la maggior parte dei business jet sono driver difettosi
+per questo non dovrebbe mai essere americano già fatto ma lontano ma lo stanno facendo comunque ci sto lavorando ed a tal proposito perché ci sto pensando anche io qualcosa del genere e
+parlando poi creme parlato con i miei amici
+mi son detto ma secondo voi c'è in windows se tu vuoi avere un quadro di threat protection così come può essere sviluppato ad oggi ha fatte di cose verso il modulo del kernel che deve girare un certo spazio prenderebbe poter leggere tutto nel computer leggendo sempre il post di gregge in futuro anche windows si aprirà e b
+bike e ebook pdf quindi potrebbe essere quello con lo step successivo che gli permetterà a windows di
+cambiare un pochino la sua architettura la sua infrastruttura in maniera tale da poter evitare polemiche perché perché come diceva giustamente domenico windos si costruito così il kernel è quello come interagire col kernel è quello henan falcon non è né il primo né l'ultimo driver kernel creerà problemi a windows questo è stato particolarmente cattivo
+cosa il mandato però è abbastanza all'ordine del giorno avere questo genere di problemi per un driver feed al lato passa alla stampante che può essere qualsiasi cosa è migliorato negli anni ancora assolutamente migliorabile non sono un kernel deve quindi non saprei dire esattamente le differenze di gestione memoria una cosa che però potrebbe migliorare questo
+a livello non solo windows ma veloce enrico e magari inizia a utilizzare anche linguaggi di programmazione un po' più serie e da quel punto di vista ora a me non piace rusty particolarmente però sento tutti dire ho soprasseduto prospettive cicliche blabla tutta una serie di sicurezze caso specifico poi mount point
+exact e section si sarebbe evitato quindi più va avanti l'informatica più si evolvono anche linguaggi programmazione per dare un po' più di sicurezza lo sviluppatore per non fare questo genere di errori e a prescindere da os x windows store gli ipocriti sicuramente aiuterà
+quindici se ne verremo fuori migliori o peggiori episodi si vedrà fino a nuovo al postman disastro che sarà basato su nuove cause che saranno da sua volta da
+il problema si sposta ottundono snodi lo sposti solo chiedono il cambio dal punto di vista cambia solo la superficie d'attacco il problema si sposta e quattro fortuna se non avremo un lavoro tra l'altro quindi meno male che è così se no è come si diceva è la società è così troppo dipendente dal computer e da internet che l'idea che
+che possano non funzionare in scala
+io ho sempre queste ottica della sola flair this persa tutto di manning t brucia e che i processori tutto quanto è lì blu e mamma mai fatti un po' filosofia del galdo il internet con quella rete è nata per essere decentralizzata proprio
+fini militari natale che se ti bombardano un unico posto da non perdere l'unica traiettoria e con tutto il resto negli anni si è andato completamente contro lo scopo con cui i granata infatti adesso senza andare troppo lontano e interpellare sulla fleres tutto se andaste giù ed a bioest mezza internet morirà zod
+ed è successo qualche anno fa per altri dall'euro c'è l'idea di pensare alle guerre nucleari con la bomba atomica è tutto basterebbe un impulso sono i valori si chiamano hotel mary barra basterebbe uno di quegli impulsi che booth che frigge tutti i circuiti di tutta roba elettroniche si torna a essere semmai sono mille paranoie accennavo una tempesta
+esatto quindi non è così scontata e dev'essere con i reindirizzata bene a puntarci bene potente abbastanza non è una cosa per niente scontata però non è tecnicamente proprio centro come primo lancio anatomica fauna di lanciano
+fa un campo elettromagnetico come diceva andrea che utilizza qualunque cosa ti frigge qualunque cosa le parole localizzata diciamo e localizzarci poi sarebbe divertente leggere costi la gente su liquidi ma purtroppo non si sa mai puniti
+e quindi a quel punto allora intanto il buon gary dice che c'è sul tab pdf per windows anche il
+così che ho postato il link effettivamente e talaltro tutto open source perché ormai con nadia satel microsoft fa tutto open source e microsoft windows linux linux linux esatto una bomba emp esatto anche quella può essere deleteria è assai e quindi cosa facciamo
+remediation abbiamo detto piano di aggiornamento differenziato per evitare di aggiornare tutto insieme abbiamo detto procedure manuali il più possibili e questa secondo una la cosa sempre più difficile e forse neanche impensabile da manuale
+arrivare fino a un certo punto non è che puoi istituisci manualmente il sevizio internet
+beh dipende cosa ci fa insomma una educazione base all'informatica per guidare abbiamo una patente giusto durante il corso di patente abbiamo imparato a fare quelle piccole cose che servono per deva idee o usa la macchina volante non siamo in grado di cambiare l'olio da soli ma sappiamo che ogni tanto devi fare quello che va giù una ruota teoricamente
+dove casistiche ricambiarla teoricamente dovremmo essere tutti in grado di mettere la benzina da soli senza queste piccole cose che sono l'educazione civica impasto e per un tè per l'utente ma comunque non è che ti risolve un problema come colui che risolve il problema pero' almeno minimizzi dove puoi minimizzare perché per l'appunto visto che è un problema del genere non lo risolvi al massimo facilità e minimi
+zare se l'utente anche già da solo e tu fai il doc
+mettersi sulla tua pennino seguire trovati sul tuo google drive aziendale o altro mi chiedesse qualcosa del genere ho il tempo di ripristino fisico al computer ma non perdonassi tuoi dati alla fine del tempo di ripristino dell'hardware è un conto il dato eventualmente perso un altro centro che poi bisognerebbe anche fare tutto questo discorso di quello che vai a perdere
+il lardo era quindi hai la macchina giù non puoi lavorare e lì il tipo di ripristinare mi ridai la macchina possa ricominciare a lavorare se invece perdi tre settimane di excel su cui avevi tutti i dati che ne so delle vendite piuttosto che i dati di qualsiasi cosa tu abbia lavorato quelle tre settimane sono stivali come un terzo che magari non puoi neanche più recuperare
+perché quei dati non ce più volete un fan fiction c'era l'amministratore del mio condominio l'amministratrice che aveva tutto sul suo computer e se kyoto suo computer ha perso tutti i dati del condominio
+per tre anni non ho pagato spese condominiali perché e mi domandavo perché non hanno più sentire
+seguono corsi vedi una cosa del genere con un po' di educazione informatica anche solo a mandarti una mail a te stesso con la lega con in allegato l'ex cielo luogo qualsiasi cosa utilizzasse faceva sì che una volta che ripristini il tuo computer il tuo gmail con il tuo file o tube cup
+cioè queste piccole cose che possono aiutare anche in casi come outsider
+sono cavolate però salvo che il fatto incombere in parallelo che noi diamo per scontato che tutto quello che su claude al sicuro quando in realtà anche per contratto è tutta roba che potrebbe sparire l'aggiornamento del brand e quindi beccata del cloud delle nostre mail ai nostri file così via nata nicole
+cose cui dovremmo preoccuparci è mai facile noi del settore abbiamo almeno tre chapter uno in casa un premio e un altro fighter tedesco da un claudio è nato of sight almeno più o meno come cieco di gestire le code dietro c'è questo scambio
+and ernaux esatto e s è
+va bene allora qui però stiamo un po' girando intorno quindi se qualcuno in chat vuole collegarsi per dire la sua prima richiudere entrate perché se non ci continua a raccontare le stesse cose vogliamo gente fresca e idee nuove e anche magari qualcuno che c'è troppa fiducia la tecnologia dice
+giorgio è vero dobbiamo abituarci a diffidare di più di questi computer poi io mi domando ma quando inizieranno ad esserci se non ci son già no e le regole dei endpoint detection system fat dell'aja delle ia ehi hai perché so già social ci sono già yes
+esatto quindi
+l'aggiornamento e la manda al boh a me poi magari hotmail e confonde la regola l'hai serve perché diciamo avendo dei modelli lavorando sui big data come dicevo prima dieci aprile a rilevare o dovrebbero si debba finisco il discorso magari
+non ti manda e il driver sminamento con il nul point
+non accetterò che sembra muoia ma ti manda per questo e anche se parlava nessuna named pipe no andava ti manda un aggiornamento sui fitzwilliam app che magari va filtra una nave app di sistema usata comunemente da qualche software ti serve quindi magari non ti inchioda al computer o magari sì
+ma non te lo inchioda perché stai allocando una posizione nulla
+e della memoria ma te lo inchioda perché ti blocca una app interna valida e lì oppure come no come quando si fanno con i sistemi di fare walling come crowdstrike enorme
+cloud
+chiamata anche quello che non austriaca punto ma vabbe' i sistemi di volontà fail thuban distribuiti
+li se uno riesce a iniettare una ip valido di auto blocchi fuori un ip valido e quindi per quello ci ha pensato lo stato italiano facendo il
+sistema di otto
+useremo l'hai tirato fuori il problema che vai a pescare pilota afferma carino lo più o meno spetta
+da che poi ogni volta che sento queste cose a me viene sempre in mente i filtri paesani della spuma di tipo venta venti e più anni fa perché ogni volta che si parla di email di questo tipo amico supplementare quei ventisette milioni di fan i dati elsa è tutto perché alla fine
+non so ci sono così tante buzzword di queste cose ne sentivo parlare del con prima del barcellona prima della pandemia che c'erano tutte le rivoluzioni machine learning di network xix l'ultima bla sentito parlare adesso c'è incipit eccetera eccetera ci sono troppe buzzword che alla fine della fiera
+c'è un imbecille programma di hailie sarà invece gli atenei quindi non ci salveremo wifi
+eh non lo so io sono cioè metterci il futuro piace l'idea del futuro sono mi piace l'informatica da morire quindi secondo me sicuramente ci saranno evoluzioni tutto ma vedo anche tanta de evoluzione non solo evoluzione perché veramente ci sono di quelle buzzword dove il novantanove per cento delle aziende startup di ai
+alla fine sono query elf warren intendersi
+pontefice a gpt
+esatto quindi test si magari con un particolare
+ottimizzazione o mi ricordo come si chiamano anchein intorno lady with the rain particolari giusto per se muoio son così fiatato già quello adesso stiamo divagando anche su quello visto che gli investimenti delle ventuno aprile liste su tutto quello
+che mondo sto già riducendo esserlo sennò iniziano già nuovamente far selezione su cosa cose fuffa e cose cosi sostanza la siepe che è diventato un po' le aree diventato il nuovo trend pena
+è la scusa per avere tutto centralizzato nell'azienda che fai perché ovviamente la capacità computazionale per l'analisi dei big data non c'era poi avere un premio ce l'ha e big data center dell'azienda cloud probabilmente tutti i dati dicevo prima domenica arriverà a loro altrimenti perchè per poi poter analizzare
+vari tre tre analisi di eccetera di avere tanti dati altrimenti machine learning non serve a niente se non hai dati
+motor show
+anche e forse pensi che ha fatto l'annuncio che il nuovo sistema operativo c'è la beta che già funziona grecia calais anatoliche chiaramente del modello che possono funzionare locale però per tante cose li manda nè claude po' la massima che l'aat gti e il co-pilot integrato con viso
+studio chissà da quanti anni stanno facendo training sui vari repository github pubblici c'è il segreto di pulcinella questo che stiamo dicendo cose che nessuno sa o che ce lo nascondono ce lo dicono non averli basta avere dieci di qua sapere come funzionano informatica sapere qualcosa dal machine learning per sapere queste cose quindi
+un sistema di tre canali sky deve essere trainato deve avere dei dati per poter essere trainato quindi quei dati non essere centralizzati la capacità computazionale per gestire e analizzare questi dati non la può avere l'assicurazione che non essendo l'informatica suo cor business non ti va a comprare il duecento mila
+di core con ventisette terabyte di ram per gestire istituto machine learning non puoi avere la botte botte piena moglie ubriaca sempre solita questione
+ma siamo scivolate sulle aree come pure com'è tradizione e design di questi tempi certo vale a dire c'è da dire che alla fine
+se ci pensate gran parte dei problemi informatici sono legati alla prevenzione ma neanche nel poema vita se vogliamo alla prevenzione dai dai abusino dalla gente da chi fa opera con intenti maligni e i malevoli e quindi c'è tutto un industria anche un
+grosso e forte per per difendersi potrebbe essere quello perché l'essere umano fa schifo in fondo
+siamo così maltempo a dio
+non mi stancherò mai di dire l'essere umano fa schifo dove ti ritiri facciamo schifo quindi io in primis non è che adesso lo dico sono gli altri pro è bello vedere che passa il tempo ma andrea rimane sempre lo stesso è vero se ne la consapevolezza che facciamo cipro
+prima era solo un'idea nella fatto quella cosa precoce
+va bè direi che su queste basi con queste parole
+scusa un attimo alessandro grandis domenica ma mai dato un assist perché la gente quando parlo in skate tutto non ci crede che io dal vivo sono veramente così per fortuna che ci siete voi due che avete che avete lavorato a stretto contatto con me quindi potete affermare che sono esattamente così anche dal vivo no in realtà invecchiando sei peggiorato perché una persona a persona ma una volta eri più
+profilo basso no dice io resources ne sai di più ti sbilanci di più e quindi era consapevole la consapevolezza che quello che ti rende
+e dato il periodo storico perfetto per essere costruite con queste cose visto che appena dieci e mezza cosa ti arrivano tanti verdoni altre parti
+va bene dai allora io ringrazio voi per aver partecipato e avete salvato la serata possiamo esserci di più però chi pompone anche per l'altro diverse persone hanno potuto partecipare ringrazio tutti quelli che hanno contribuito in chat
+direi molto attivamente e se ha i soliti noti che nuovi nomi ben benvenuti bentrovati io spero di non dover più fare una puntata della brigata fino a settembre perchè l'idea di restare fermi per due mesi però ci fanno o ci casca il mondo cosa la fase ancora
+zitti e subire no a me non ne parliamo
+alla prossima a settembre per la prossima veglia alla prossima

@@ -1,0 +1,553 @@
+e quindi siamo arrivati alla puntata trentanove applicate degli istinti che la dedichiamo al cloud ehi mitica conferenza tenuta lunedì scorso di cui abbiamo qua e l'organizzatore principe e poi i partecipanti chi ha partecipato in vario
+modo
+in diverse modalità partiamo subito con le presentazioni in ordine di come mi vedo io sullo schermo quindi andrea vai anche se ci si conosce ci siamo già visti in questi giorni mi capisci io sono andrea saltarello
+amo tanto il cloud mi piace o no
+un sostenitore del cloud per vari motivi tra i quali quello del
+magari sbaglierò ma secondo me si può ridurre l'impatto ambientale concentrando il computer in centri che possono efficientare il l'utilizzo dell'energia e mi da molto fastidio vedere il cloud usato come hosting e basta e quindi
+di qualche anno addietro mi sono inventato questa roba per iniziativa chiamata clown champions quella caporalato al podcast a clown dei perché l'idea è cercare di dimostrare che cloud-computing non è ostile due zero ed eccoci qua quindi a chiacchierarci dai forse l'abbiamo capito
+dopo tutto questo tempo che non sento punto sempre almeno multilan torniamo a me ovviamente ma poi magari capitava di parlarne sto provando un'iniziativa imprenditoriale che prova a essere anche a sostegno dell'attività community italiane che praticamente dietro il
+ruby ma ne parleremo ne parleremo francesco e ciao a tutti grazie per l'invito anche se io sono abbastanza inutile qui dentro probabilmente
+vengo vengo molto volentieri a parlare con persone interessanti io in questo momento sono faccio parte di asi cloud sono nella divisione commerciale come it solution architect e mi sono specializzato in tecnologie cloud microsoft quindi parliamo di heather mi piace molto mi è piaciuto
+moltissimo l'iniziativa di andrea io seguo queste cose se da un po' però stavolta ho avuto la fortuna di partecipare in presenza e devo dire che per me è stata una figata non so si può dire figata però a me è piaciuto tantissimo diciamo quindi sono qui come entusiasti di shanghai lascia la parola e la pace ala marco mit
+dico marco d'angelo mitigato che marco d'angelo segue il cloud da un po' di tempo sono stato in microsoft fino a giugno di quest'anno quando sono uscito dall'azienda per venti anni e spicci e ho fatto diverse cose ho avuto diversi meno geologia con un po' di country po' di country tendenza
+realmente seguo e tour da quando si chiamava red dog
+gc duemilaotto e da quando in italia aveva un budget che i miei colleghi dicevano non lo faremo mai vendere cinquanta cappa di questa roba in un giallo che si chiama isola impossibile che tendenzialmente ci sono rimasto attaccato in quella che era ad oggi si chiama sennò
+zone di sales and operations quando ho lasciato la radice di ameno a marketing and operations e prima ancora si chiamava est vi serve rent your business eccetera eccetera quindi tendenzialmente ho un po' di storia di quelle che sono le cose da dietro c'era
+così nel backstage di che cosa è stato il cloud per microsoft negli ultimi negli ultimi venti anni cioè da quando lo sono inventato copiato portato alla ribalta insomma delle loro
+loro offerta molto bene molto interessante avremo modo di approfondire e quindi partiamo dal cloud dei questa conferenza che è veramente speciale come conferenza come tante in italia però anche questa ha il suo bel perché andrea visto che tu sei il deus ex machina chi l'ha concepita la sala gestisce tutto quanto
+aspettiamo che arriviamo eccoli sono entrati anche toni emanuele a questo punto stiamo
+aveva appena finito la introduzione a questo punto tocca a voi la parola che abbiamo il bello diventa complicato con toni diventa complicato
+bene specificare cominciamo
+altro d'utilizzo io allora io sono il bello di magnetico visto che mi state prendendo in giro me e neanche abbiamo iniziato mi occupo di un po' di tutto quello che c'è da fare in azienda
+ufficialmente sarebbe un solution architect ma faccio tante altre cose che mi piacciono ultimamente sono molto più dedicato al machine learning è una vecchia passione che ho avuto la fortuna di riprendere qualche tempo fa spero di poter continuare su questa su questa strada anche in questa avventura con il mio carissimo amico a cui lascio lavorare altrimenti io finisco la voce perché
+risentire sono un po' influenzata io sarò rapido insomma
+piacere sono il figlio di magnetico per quel che può essere insomma la dimensione di magnetico e mi diletto a parte benessere o da tutte le altre firme possibile che ci possono essere su linkedin e mi piace il mondo dei legumi punitivo sempre qualcosa ne sa più
+arthur mi piace bazzicare vari comuni community di aiutare quella insomma dare il mio supporto alla divulgazione molto bene allora stiamo abbiamo iniziato quindi fit presentazioni palla al centro cloud dei duemilaventitre come è stato andrea intanto dacci un po' di numeri magari partecipa
+anti tutto quello che allora prima però parto da una parto da una cosa visto che ci hanno raggiunto e mai tony perché ma ha invece che goderselo e claudya a
+ha fatto da regista in track due quindi ho passato la giornata a permettere che l'evento ti facesse e che si era pagato il biglietto però il giorno prima e la sera stessa ha aiutato montando e poi
+la sera l'evento smontando facendo anche altre cose vi proponiamo è quello atteso più di fatica montando e smontando assieme a tutti noi altri
+ebay compreso i budget degli degli sponsor quindi la prima cosa è che un evento community si fa perché esiste una community è una comunità fatta di persone che fanno ciò che possono per per qualcosa di di comune che
+sentono quindi calda inizia
+la mia la mia persona chiacchierata su claude inizia con un grazie va a tutta la community partendo da mattoni che
+io ti ringrazio andrea anche perché così ho colto l'occasione di fare un po' di ginnastica perché agli eventi come si sa si mangia si sta con gli amici si fanno aperitivi e quindi io sto molto attento quindi detto approfittato del tuo invito a dargli una mano volentieri perché tu sai che attività ai comuni djinn
+rappresenta da diversi anni e a tutti i livelli è una cosa che ho fatto molto volentieri anche perché io e te ci conosciamo veramente da tanti tanti tanti anni e ricordo ancora qualche serata a tardi a chiederti resetti la password dell'account dottrina perché me la sono dimenticata e andrea saltarello alle ventiquattro e trenta anche l'una di notte che mi presenta la vasca di un articolo
+pure magari solo commentando questa è la dimensione che mi piace della della comunione di community e quindi è la cosa che faccio molto molto molto volentieri grazie comunque del riscontro di sangue fa sempre piacere allora anche a nome di chi non c'è anche l'unica tuoi amici
+huawei ha fatto
+duecentottantanove partecipanti in presenza attenzione quando dico partecipanti non c'erano più di duecentottantanove persone perché c'entra staff e speaker una quarantina di persone c'erano persone degli sponsor è qui
+quindi calcolando anche queste andiamo sulle trecentotrenta trecentoquaranta se invece ragioniamo sul partecipante partecipante il numero e duecentottantanove più
+cinquecentoquarantasette unici online quindi ottocentotrentasei partecipanti persone hanno partecipato all'evento che per essere una cosa un evento dedicato a un argomento piccola ininfluente da un punto di vista
+ta del riscontro mainstream cioè
+fai qualcosa di cucina oggi fai dei numeri enormi fai anche anche qualcosa prettamente dev pali numeri più grandi per essere una nicchia è un bel numero non ben numero tra l'altro con un drop rate molto basso che partecipa
+fazione in presenza perché è stato del tredici e qualcosa per cento che chiunque organizzi eventi pur a pagamento e poi potremo parlare del fatto che claude tecnicamente sia a pagamento hanno un punto di vista economico è in perdita sul costo del
+biglietto e lo ha involontariamente perché vuole rimanere accessibile in termini economici
+ho tre tracce in presenza una totalmente online perché in questo modo però che marca di inclusione perché sono speaker che non possono venire in italia abbiamo provato fino all'ultimo e non è stato il caso ma intra uno avrebbe dovuto esserci uno speaker
+hacker israeliano capitale di israele non ha potuto venire non è potuto venire troppi motivi e abbiamo provato a capire se potesse erogarlo online non ci sono non c'è stata la possibilità però senza parlare di guerre ma un luca mezzalira di hawkes che
+vive a londra in questo periodo tra due settimane hanno a west suo grande evento worldwide l'equivalente per chi segue il mondo microsoft di boulder e dabliu e reinventa las vegas e luca mezzalira e speaker storici e dabliu e arrembante non sarebbe mai riuscito a venire in italia
+mentre una trasferta ma un top da remoto si può fare quindi una track era totalmente remota è anche un modo per permettere a chi ha da condividere di condividere anche se in quel momento non non potrebbe quindi io dico sempre che claude sia un evento
+in cloud sul cloud cioè che riguarda il cloud per il cloud sta cercando di divulgare il cloud in questo gioco di parole in cloud sul cloud per il cloud e abbiamo avuto poi un sacco di cose interessanti delle quali sono contentissimo perché abbiamo avuto un panel
+a sala strapiena chiamato i t ed il g è l'acronimo di un mental sostenibilit end
+governance dove abbiamo avuto la managing director di ac il presidente di
+accessibile daniel co-founder di serenità
+perché il nostro mestiere mette la testa a dura prova e il lead developer di green greentube che l'operatore per
+ovviamente per misurare stimare la produzione di cibo equivalente no e quindi abbiamo avuto contenuti che sono andati anche al di là del tecnicismo puro quindi il feedback che ho prima ancora di quello che penso io è che è stato
+l'evento utile ecco utile quello che mi viene da dire però c'eravate tutti di tanto lavoro è più importante la vostra opinione della mia francesco io se volete per un po' prova a rompere il ghiaccio
+semplicemente a parte che mi sono piaciute tendenzialmente credo tutte le cose cui ho partecipato perché non ho cambiato stanza che una volta cosa che invece ad altri eventi mi è capitato quindi evidentemente la qualità viene da dire che era alta e mi è piaciuto molto anche quello di cui ho appena parlato quindi i t e t di un table però
+la cosa che a me è piaciuta di più anche se era un pochino meno da darby è stato un table sul cloud market perché secondo me era era molto interessante sentire quelle persone in quel contesto e mezzo così tanti che rappresentano anche il clown
+che comunque c'erano i principali cloud public cloud e io gli ho letti tutti e tre insomma e non solo comunque c'era tanta gente che fa tutta roba legata al cloud eccetera eccetera quindi non era un ambiente interessante io me lo sono goduto molto per il pane è stato molto bello moderarlo tra l'altro cioè
+perché stefano olimpia e luca nello specifico luca annunziata santa italia olimpia merlo e dabliu
+e secondo mainetti osservatorio clou del politecnico di milano l'idea lì nella mia testa era quella di avere il gioco di ruolo no se non una barzelletta ci sono un giornalista un cloud vendor un accademico italiano un tedesco un francese l'idea era proprio quella di mettere allo stesso tavolo
+il cloud lo fa quindi un vendor ed a lewes chi lo osserva analiticamente quindi osservatorio cloud del politecnico di milano e chi invece ne parla brody la la stampa quindi comunica e
+e sì secondo me ne è venuto fuori un uno uno ma neanche uno spaccato una chiacchierata su qual è il mercato cloud italiano che ha potuto giovare di numeri i patti che arrivavano da angoli differenti e tutti
+fondamentali in termini di sistema cioè voglio dire quello che sta avvenendo a oppenheim cos'è sono dei modelli addestrati che tu consumi il cloud perché vedi come servizio ok
+quello che sta avvenendo l'ho lo stiamo lo stadio terminando un provider perché di sicuro microsoft sta facendo delle pressioni anche solo perché ha investito qualcosa come dieci miliardi di dollari dieci uno è però noi lo veniamo a sapere da quello che sappiamo lo stiamo capendo da twitter e dalla stampa e poi a freddo
+oh che lo racconteranno gli osservatori gli analisti come l'osservatorio club no da twitter se vogliamo perché poi la stampa guarda twitter per sapere cosa succede alla fine nemmeno le ultime notizie flash
+dunque non volevo volte no figurati altre pressioni sulla
+sulla conferenza marco toni emanuele faraco che ancora non mai parlato
+parlato prima che entrasse quindi
+è interessante interessante conferenza non è la prima nel mio
+mcpherson dio della pioggia che
+partecipa a un è uno degli ultimi paesi dice andrea ha avuto e avevo avuto il piacere di ospitarlo in sede microsoft è tendenzialmente la cosa interessante per me decade di questo claude sono sempre la grande variabilità degli speaker che andrea porta al tavolo qui
+indi alcune conferenze in italia hanno l'allergia le tracce in inglese andrea non ha di questi diciamo così di queste difficoltà quindi è molto buono riuscire a vedere una prospettiva che non è mediata dalla cultura italiana in molti casi avere speaker che estero viene dall'estero a un altro tipo di apertura sempre
+impatto poi a volte l'ospite all'estero te lo ritrovi essere davide maurice e comunque è più italiana delle aree sottoscritto però va bene va bene uguale
+rivista ho avuto l'opportunità di rivedere tanti tanti amici tanta tanta gente devo dire che benché cadesse in una settimana un pelino diciamo così affollata di eventi
+sono tolto lo sfizio di andare tipo a cinque conferenze gremita settimana scorsa sono offeso che non hanno mai invitato non erano proprio quella
+è però il la cosa che contraddistingue il diciamo la crudele che ad esempio benché tutte quante le sessioni sono state fatte prima parlando di quegli ambiti che hanno toccato ad esempio tecnologie legate al mondo microsoft per così dire arrivate prima the night erano assolutamente spot-on con quello che poi sarà
+beh stato il tema trattato nella conferenza di microsoft o che comunque era il perfetto complemento lasciami dire di tutta una serie di problemi di tutta la serie di tematiche che cominciamo prima andrea non trovi nelle conferenze più verticali e questa cosa guarda poi modo a chi va a claude di dire o che scelgo di
+di che cosa voglia scelgo tra cui tra due o mi metto in cuffia mi seguono tra quattro che è una cosa che tutto sommato non hai come opportunità quando vai a una conferenza più a definire lasciami dire più legata al alla parte deve o alla parte dati o alla parte singoli vendor sempre appr
+stabile è un piacere insomma seguire quello che andrea organizza quando quando a questo tipo di eventi qua almeno per quanto mi riguarda trovo male meno male alessandro tu tommy tu sei navigato e quindi apprezzo lo spirito però quasi intimo di certe conferenze
+henze in questa casa non è neanche tanto intimo perché comunque di persone ce n'erano in abbondanza
+però conferma anche il fatto che quelle che ho visto di presentazioni sono state interessanti e questo non mi capita spesso non perchè sappia chissà che cosa però di solito succede che quando conosci già gli argomenti
+magari non ti interessa troppo se sono argomenti troppo lontani da quella che la tua sensibilità non ti interessa troppo nel mio caso mi sono ritrovato bene è interessato a diversi spunti per cui
+dico bene dico molto bene e poi c'è il fatto che appunto è bello e l'intimità le conferenze piccole e bello anche il casino conferenza grandi qua c'è un ben buona via di mezzo perché comunque non è né piccolo né grande come volumi e poi ripeto sempre le stesse persone io qua ci sono
+la faccia che vedo sono le conferenze o comunque non sapevo vedevo conosciuta conferenze e spero di vedere in futuro non c'è mancato poco ma è fatto di radiazione conferenza che sei una delle cose che fa più piacere no
+per un paio d'anni ho avuto il piacere di aiutando andrea di stare un po' un posto strategico riconoscere di vedere per fortuna tanti amici tante persone che non vedevamo più da tempo magari è quindi ma io quello che posso dire per esempio di questa claude ovviamente sono stato impegnato su altri fronti parte della mattinata
+interesse perché la cosa bella non è che lo dico io ma tutte le conferenze organizzate da andrea e sulle sessioni si va nello specifico si va a raccontare qualcosa che non è mai banale lo dico perché presenta sulla parte di ripensamenti mi interesso l'intelligenza artificiale sulle tre sessioni dedicate a questo non sapevo cosa c'è
+scegliere fra valentina avrà christian e soprattutto orafo chiaramente che è stata una delle ultime che ho visto anzi l'ultimo ed è stata veramente veramente molto interessante e illuminante che ho scritto anche perché voglio fa non ha bisogno di presentazioni chi lavora a chi vive in ambito microsoft da anni da sempre nel mio specifico mi perdoneranno gli altri sì magari
+fasano
+della mia stessa idea ma alcuni personaggi sono le quelle quelle guide che tu segui sempre e comunque perché sono i lumi questi lo sono sono stati ovviamente su queste due presentazioni a cui ho potuto partecipare e ne ho parlato poi mi sembra tavolo anche con con marco alla cena proprio evento
+indi abbiamo disquisito su vari argomenti tra questi proprio nel fatto che a questi eventi si va anche e soprattutto per vedere quel quid in più quel qualcosa che dice okay sì l'ho visto ma questo questa persona mi sta facendo vedere qualcosa che va al di là roba va a interessare qualcosa che va a stuzzicare il mio interesse
+ancora più rispetto a quella materia dove pensi magari di saperne tanto realtà non è male ma è ovvio che quando segui irap e quel qualcosa ce l'hai due volte eh sì perché è così ragazzo so dopo magari se possa sembrare molto molto di parte ma è così ho seguito ovviamente da e ripeto su concerti con certe figure vai un sicuro questa la
+garanzia che ti da andrea e il fatto che comunque chiunque scelga chiunque presenti una sessione a questa garanzia non ha pagato andrea era nel senso questa è una cosa che posso dire un paio di cose eh
+la prima è sul tema e hai questa cosa la pubblico realtà domani mattina sul canale telegram di prua ed è che abbiamo non ha annunciato abbiamo aperto oggi le iscrizioni e pubblicata
+foto l'evento un evento di un giorno su kai il trenta gennaio duemilaventiquattro sia in presenza sia streaming tra gli speaker
+è lesbica già confermati confermate abbiamo
+carlotta orsenigo che co-direttrice del dell'international master in big data è indice analitico
+al politecnico di milano e francesco di jackson che al momento dai raptor in insight però è un ex microsoft excel double wash molto focalizzato sulla parte dati molto molto bravo valentina
+a alto perché data scientist microsoft che porta l'angolo angolo su open ehi hai qui
+questi sono le prime due ed il piccolo speaker abbiamo annunciato morto calma ma vogliamo come riprendiamo l'anno prossimo organizzare la colf dopo due anni di pausa duemiladiciannove duemilaventi duemilaventuno abbiamo pensato
+usato di avere un evento più piccolo di mezzo che ci porti poi a lake home
+di
+di giugno e quindi questo in tema di e quindi www o anche senza www e punto e ai comfort punto il t mentre la seconda cosa era potuto no
+per ricollegarmi cosa che tu tony è un boh diciamo un'informazione di content strategy no hanno quando si fanno gli eventi quando si pensano gli eventi una le cose che io cerco sempre di fare ed è un esempio il top di luxottica che abbiamo
+avuto sulla tele optometria a claude ma torniamo indietro al web day potrai dirmi la stessa cosa dei tour de il giornale è fantacalcio io cerco sempre di avere un mix di tokyo dei vendor perché il vendor così ti spiega la veglia prop joe
+action la propria meglio proposition dal proprio punto di vista poi tocca e dalla community preda qualcuno che ti parla di un argomento o qualunque database vettoriali quando tu inizi a hotel e poi anche dei tool che invece
+c'è solo topic delle aziende che ti vengono a raccontare come usando la tecnologia che è argomento dell'evento quindi se guarda è uno sketch web cloud e cloud come hanno affrontato e risolto un problema vero
+hero è quello che fanno un tour di scenario perché credo che siamo tutti angoli il vendor il tecnico che viene e ti parla dell'argomento tecnico o della metodologia o della best practice e va bene quindi monica che ti parla
+mi agito senso l'anno scorso
+pamela che ti parla di firefox però che ti parlano di un argomento tecnico tecnologico focalizzandosi sull'argomento e poi invece l'azienda che ti porta un caso reale che non vuol dire che quella cosa ti fa così perché sappiamo che le cose si possono fare
+stesso problema si può risolvere in maniere differenti pur rispettando tutti i requisiti però quando hai un il giornale che ti viene a far vedere come
+riesce a gestire un casinò online da un miliardo e mezzo di peso più hanno o il giornale o un fantacalcio come fai ad avere una media di seicentocinquanta mila giocatori attivi al giorno con picchi di uno
+nel mezzo o la luxottica di turno che ti viene a a far vedere come
+nel rispetto dei regolamenti perché stiamo parlando di cartelle mediche tu usi cloud per
+e optometria visite diagnosi a distanza ecco sono tutti scenari che non tutti abbiamo la fortuna come tecnici di incontrare e allora qualcuno ti da un punto di vista che per noi è preziosissimo perché probabilmente è difficile
+mente raggiungibile replicabile e quindi questo significa trovano proprio sopraffare il i vendor i tecnici le aziende con i loro scenari e spero di zecca e poi era un tablet perché solo perché li permettono di fare di creare contesti di ragionamento con
+diviso e diffuso questo il mix che fare con lui c'è c'è una ricetta non so se sia una ricetta ma se penso ai golf club dei
+e world day adesso dovrei dirvi anche la doppia comfort tra due settimane questa è la cosa più simile alla ricetta
+non fatemi dire un'altra volta content strategy perché mi sembra darmi una dignità fin troppo alma fatto il mio il mio era un feedback più che positivo pensano
+punto di vista dal
+so che fruisce di questi contenuti il feedback che per me più che positivo nel senso riesco a trovare tutte indicazioni valide sotto tutti i punti di vista da diversi punti di vista in cui la tecnologia dovrebbe essere riesci almeno per me riesce a dare questa questa indicazione anomale volevo aggiungere solo una cosa che passa sia nella cosa che abbiamo detto è organizzato
+aidea golf insomma la banalità tra virgolette con cui si riesce ad avere quote rosa all'interno del kernel nel tabellone degli questa è una cosa che devo sottolineare perché andrea ci tiene tanto secondo me su questo aspetto è che non si vede a tutte le conferenze spesso c'è tanta presenza maschile sul palco il fatto di riuscire a coinvol
+volgere negli speaker molto competente credo che sia un una nota di merito da non perdere da non far passare in sordina e aerei hai già confermato due speaker donne
+chiedimi del la cosa di cui fui più contento della prima edizione delle idee delle golf nel duemiladiciannove tu abbia fatto fare un tour dedicato alle urla immersi rider è un servizio per
+creare applicazione che supporta diciamo la realizzazione di applicazioni
+destinate per esempio ad un'udienza cui dislessici perché feature per esempio che permettono di associare significato significante e quant'altro aver fatto fare questo tocca a lo dico per una definizione tecnica e non vuole essere eh
+a un balbuziente e nessuno magari solo perché sono antipatico che mi chiama mai venuto a dire che
+un touch pubblico dovrebbe essere fatto da qualcuno fluente bla bla bla bla bla bla bla bla perché perché è un tema al quale provo a
+attento i miracoli non si possono fare miracoli capitano molto raramente murini e il triplete martin gore silence però c'è re che però si è qualcosa che prova a fare e sono con te
+sento che se si nota quantomeno l'impegno e l'impegno l'impegno c'è anche se poi giustamente come facevano notare non è non è semplice perché stiamo dentro microsoft purtroppo il mondo del delitti il mondo del coding a in italia soprattutto storica
+mente radici culturali che portano i maschietti o metterci che dir si voglia a prendere un percorso è un percorso step è questa roba qua è un problema nel senso che poi te ne accorgi quando hai la fortuna di lavorare con colleghi e con colleghe che si occupano in teoria e a chiacchiere delle stesse tecnologie
+mike poi vedi che comunque c'è una prospettiva diversa abbiamo citato prima il tema della prospettiva del chi non ha cultura italiana ma le colleghe che si occupa di tecnologia comunque hanno una a una difesa in molti casi una differente visualizzazione del di determinati determinati ambiti quindi avere la capacità di coinvolgere un partner a molti
+culturale sia per quanto riguarda la parte diciamo così di partecipanti ma soprattutto per gli speaker è sicuramente un plus di questa roba in italia diciamo che ce n'è un discreto discreto bisogno che ci sono altre associazioni che ci guardano dentro poi ogni tanto guardo anche gli eventi diciamo così organizzati
+tempi della azienda per cui lavoravo non era semplice non è che anzi l'interesse c'era ma non era semplice riuscire a individuare poi quelle diciamo così quelle figure che avessero questa cristo ha scelto da giovani di imbarcarsi in un'attività che quella del lavorare con codice o architetture o attività insomma
+purtroppo ancora in italia sono percepite un po' troppo appannaggio della compagine maschile certo però vedi marco proprio tu tu sei una persona che frequenta in tap
+nelle community e quelli serali infrasettimanali e per un punto di partenza per provare ad aumentare la presenza di un voglio chiamarle conterò di speaker femminili andare iscriversi agli eventi tech
+dare agli eventi hi-tech non conoscendo nessuno le prime volte non essere filati di pezza detto che questa è una cosa della quale io ho parlato apertamente con pamela figlia chiara e nel tempo costruirsi u
+un rapporto permette di provare a proporre qualche cosa cioè
+al netto di sono poche rispetto agli uomini le donne nel settore steam però c'è anche un tema di accreditamento com'è normale nella vita e tra l'altro cioè io
+ananas amante
+californiana e nanna childe danese hanno applicato loro e tu le ha accettate
+e cambiarle
+oltre ad esempio ovviamente
+mi sono documentato perché ho cercato online per vedere se avessero già tentò di tokyo ho cercato di capire e quant'altro perché non sarebbe corretto mettere in agenda una donna taranto donna o un disabile in quanto disabile è un altro
+errore ok
+io ho fatto il mio lavoro da editor dell'agenda autore dell'agenda guarda a documentandomi e quant'altro però è vero che sia nell'ottica di relatori latrici
+che applicano dall'estero
+di relatrici in generale c'è proprio un lavoro di accreditamento con le frequentazioni i rapporti poi negli anni cioè quest'anno noi abbiamo avuto la circa un quaranta ma come il quaranta per cento di speaker donna si fa cambiamo il nume
+ero di speaker uomo-donna non non ho contezza di speaker non binari ma perché non ho da chiedere nel senso che bo che opera a parlare che fare una domanda è qualcosa che mi può interessare chiedo che musica ascolti o come dite
+c'è la pizza no
+diventerebbe content strategy quel ponte
+però c'è proprio un lavoro progressivo dove negli anni speaker internazionali e donne guardando l'agenda dell'anno precedente vedono una propria rappresentazione centouno l'evento come più sicuro
+potenzialmente anche autorevole d'accordo perché guardi brand
+i nomi e quant'altro però anche più
+un posto sicuro per il tipo di
+individuo che lo rappresentano e quindi sanno che potranno venire atene loro top in inglese e non passare una giornata ad essere l'unica persona che parla inglese ma da tutti che parlano italiano e perché noi non te la fa vivere bene quindi è un lavoro
+loro ocra fatto negli anni è anche attivamente ripeto andando nel caso di citytech agli eventi e facendosi vedere un osceno facendo networking non avviene overnight scusate non mi viene italiano
+oggi al domani dall'oggi al domani grazie marco
+dopo sei mesi che sono uscito sto iniziando anch'io a smettere di parlare per acronimi gente che ti chiede
+che cosa significa b c d doppia voucher insegnante
+spaventando fluente nel tradurre dal mio vecchio modo di parlare all'uomo se posso poi mi taccio cosa sottoscrivo quello che dice andrea
+quando dicevo che è un po di tempo che bazzico microsoft che bazzico il cloud e ho iniziato a bazzicare le community molto
+recente duemiladiciassette prima microsoft aveva una divisione che lo faceva per mestiere e quindi non era necessario poi in genere quando se nel vendo rai sempre mille cose da fare tendi a lavori a lavorare un po di più essere convinto che il tuo lavoro sia indispensabile per salvare il mondo non si sa cosa e quindi ho cominciato tendenzialmente
+sei anni fa a frequentare assiduamente metà per conferenze la quantità di conoscenze che fai di persone interessanti che incontri con cui puoi parlare di robe che non sono sempre solo tech perché alla fine le persone interessanti le persone tech hanno due caratteristiche mio punto di vista o sono mediamente complessi
+e quindi è simpatico parlarci o a un certo punto devono trovarsi un'altra come dire ossessione per riuscire a gestire come dire lo stress deriva dal ko la madonna è come dire è cambiato tutto e devo ripartire respirare eccetera e quindi sono interessanti perché johson dei fan del gruppo musicale ix bronzea
+si seguono tutti i concerti in giro per l'europa oppure madonna cucinano da dio perché si rilassano in quella maniera quindi
+uno e due e quindi tendenzialmente il messaggio che posso passare io ma se avete e anche se non ce l'avete il tempo a andatevi a seguire il tap non solo quelli degli amici quelli degli altri quelli che perché imparano quelle cose si conoscono quelle persone che davvero hanno voglia perché quando fai
+un meetup tutte le settimane tutti i mesi ho tutte quante quando capita quando con la cadenza classica fino a tarda sera a parlare di cose ancora più articolata ancora più complicate di quelle che tratteresti una religione in ufficio e sicuramente o mi ripeto incontri persone interessanti o vivi cose io o sms
+omesso di doverlo fare inizialmente microsoft mi aveva dato questo task seguire in parte le community creare parte del team assumere altri colleghi matti in giro per l'europa per fare robe che avessero a che fare con la parte sails è la parte di contatto
+l'acqua è finita un po' di tempo fa ma ci sono rimasto attaccato non per business ma per piacere ma vado io mi ricollego a quello che hai appena detto perché ma come posso dire la mia mi ha colpito in pieno nel senso che
+io alla fine se oggi
+diciamo lavoro dove lavoro che comunque io sono diciamo sono contento quindi
+è anche grazie alle community diciamo no allora il mio primo di quello di cui avete parlato prima cioè il primo tool che mi ha fatto sentire veramente ignorante a dei livelli incredibili più di quanto non ne avessero già fatto sentire ignorante all'università
+è stato un tour di raf al dabliu pc quindi si può dire
+è lì proprio mi ha mi ha lasciato un senso di non sapere veramente niente che mi ha fatto pensare che probabilmente non stavo studiando abbastanza forse oppure se anche stavo studiando forse non era la direzione è una questione invece così interessante
+mi stava mostrando quella roba lì non è che l'ho trovata su un libro effettivamente l'ho trovata ad un evento no quindi dove gente interessante ci mette anche come posso dire un certo entusiasmo che ti trasmette che per lui o per lei sei del valore
+cosa che invece quando l'ha magari la trovi online perché veramente ti arriva un link o la trovi a caso magari non ti arriva direttamente quindi effettivamente mi ha trasmesso mi ha dato un qualcosa e quindi effettivamente io ci ho provato tanto tanto valore è un'altra cosa che posso dire è che poi questo quell'evento in primis poi dopo c'è stato il covid su
+tra le tante cose perché era nel duemiladiciannove
+poi ho ascoltato anche emanuele tra l'altro tablet pc non mi ricordo se nel duemiladiciannove dopo è però da lì ho iniziato a seguire molto di più le varie community ed è così che anche trovato andrea su youtube e altri anche se naturalmente trovato prima agente americana però poi ho scoperto che anche in italia c'è gente brava
+fino a prova contraria e che si fanno cose molto belle e alla fine io lavoro in un qualcosa che è un'azienda che si chiama heydrich cloud perché ne ho sentito parlare nelle community è perché avevo dei pain su un lavoro che facevo prima e ho scoperto che non ero l'unico nel mondo ad avere e che magari c'era chi
+si stava adoperando per risolvere anche in modo differente poi mi sono scontrato con la cultura devops eravamo con alessandro
+visti per la prima volta a al devops rosa parma fa ma a me dato tantissimo questo mondo infatti mi sento quasi in colpa che ancora io non ho fatto un tool che hanno fatto niente sono consumate basta capita almeno dono su patreon a outdoor ne è una delle poche cose che faccio posso darti un consiglio francesco possiamo richiesto è uno sport
+che c'è una persona che molti di noi conoscono e lorenzo barbieri lorenzo barbieri ha lavorato tantissimo in microsoft pino ha recentemente fino al trentuno ancora lavora il micro
+software
+ricordavo male e gas per la correzione e
+e quando ancora non sto parlando del due mila sei o giù di lì lorenzo alla fine di un evento yu gi oh beth venne da me e mi disse testuali parole io voglio fare e tocca a questi eventi
+ti risposi ok mandami un po' di articoli è http news da pubblicare sul sito e gli dissi perché se non riesci a concepire una storia sufficientemente ingaggiante quando hai tutto il tempo che vuoi per scriverla
+e non hai la pressione degli occhi che ti guardano e non ti può inceppare cose del genere se non ci riesci in quelle condizioni figurati te succede se ti metto davanti a cento duecento trecento e via così occhi comincia sciogli ti tr
+trova i tuoi schemi narrativi perché gli studi ti inventi quello che è e man mano poi andremo anche in
+in quella direzione è stato veramente molto molto bravo
+perché oltre al talento attitudine che molto probabilmente ha non dico ah perché non sta me dirlo però quello che io posso notare che sicuramente ci ha messo del suo e applicato sia interessato poi anche tutti i temi di public speaking e di comunicazione
+bene tant'è vero che oggi è sicuramente uno degli speaker più efficaci che io abbia avuto modo di conoscere quindi se tu senti di voler fare questo tipo di condivisione comincia da un surplace
+casa tua e lascia che sia solo l'inizio bene faccio una domanda tutti quanti a giro e
+booking può entrare nel merito tecnico e vi da didascalico se vogliamo mica argomento di torca cui avete assistito che vi ha particolarmente colpito e che ci potete riassumere a beneficio di chi non c'era o chi non ha visto quello specifico tour qualche cosa avete citato nome avete citato argomenti però entriamo nel
+merito qualcosa che val la pena condividere e raccontare di quello che avete visto io per ultimo ho detto prima che purtroppo per fortuna o purtroppo ho seguito bene quella di raf perché l'ultima perché per una serie di brutti diciamo di necessità
+o aiutare un po' tutto il gran corda ci vuole chiaramente che è stata molto bella dal mio punto di vista perché praticamente riassunto in breve durata della sessione ha raccontato perfettamente un percorso che ho seguito non abbia un progetto che dura un paio dedicato completamente al machine learning intelligenza artificiale ma era costui
+cito dal basso dove non c'era cloud non c'era la possibilità di utilizzare favore scelta la scelta del progetto non si poteva utilizzare modelli già pre trainati da costruire tutto da zero quindi tutta la fase di costruzione del processo di creazione del modello fino a a partire dalla mostra vignette
+comunque la raccolta dei dati fino alla loro lavorazione ed organizzazione ricerca del modello re e non eravamo soli che mettere un team di una decina di persone tra cui david e quindi da lì
+raffy ha in poco tempo usato termini è spiegato concetti impiegato due anni banalmente per mettere su tirarli giù perché ovviamente c'erano delle necessità specifiche anche a livello architetturale quindi diciamo che parlando di algoritmi di utilizzo di meccanismi di database vettoriali di cose che oggettiva
+solo utenti nello specifico riesce a capire ha parlato di utilizzo di librerie piuttosto che di remore eccetera c'è tutto condensato e ha avuto la capacità di far capire che si poteva costruire un modello improprio tra virgolette rendendo il meno possibile per poter prima di dare in pasto alla creazione del modello un qualcosa che fosse
+già ripulito passatemi il termine da concetti che magari non rientravano in quella casistica specifica che qui quelle di questa cosa e io ancora adesso ogni tanto cerco di riprendermi un po' perché
+fai mente locale no di quello che hai fatto in quel periodo di tempo è stata molto interessante perché ho utilizzato il la libreria piuttosto che l'altra perchè ha utilizzato banalmente si ricostruì doveva parola vorrà ovviamente la sessione
+ha aiutato
+cose che sono già pronte nelle varie librerie di python scritta in python per cui hai generato modelli hai fatto tuning in un certo modo mi sono iscritto competente tutto nel mio linguaggio ovviamente è è detto arresto e dico io ma il codice non non ha senso mettere a disposizione perché preso
+così è uno non capisce qual è il concetto di base che sono i dati quelli che che che che bisogna su cui bisogna lavorare
+è quello che serve di tirar fuori daniele dice l'idea chiara e quindi capire cosa sta cercando e pulire il dataset in modo tale che hai oggettivamente un modello trainato con tu e soprattutto passato più volte al setaccio e far sì che il numero di token che escano fuori da questo da questa interrogazione che fai solo bene
+ai suoi slovenia
+vi faccia spendere il meno possibile e abbia il maggior risultato il miglior risultato positivo questa è stata la cosa che in quel pezzettino che ho detto in più a cui banalmente in quel progetto ovviamente parliamo di tre anni fa e non era pronunciato annualmente quindi il fatto di usare lama per salvarsi le esecuzioni dei vari
+dei vari algoritmi passati per le dirò ciao applicando un coefficiente zero nove piuttosto che zero novantacinque e più prossimo all'uno quindi il valore percentuale cosa la cosa migliore da fare mi prendo mi salvo questi queste esecuzioni per poter poi arrivare veramente alla richiesta spesso operai e generarne un modello adatto per le mie
+specifiche esigenze ecco quella cosa lì è stata illuminante è stata una cosa che dico perfetto
+summer messo nella parte ovest presentato non dicono né un recente conferenza c'era anche marco e c è chiaramente non teorico un viatico ne ha ne ha neanche riconosciuto ovviamente li stavo insieme a una mia carissima collega arrivo abbiamo presentato un po' questo lavoro con po' di ritardo vi avevano completato e rigore
+correndo un po ovviamente applicato a tutto ciò che è esploso da un anno a questa parte io amo diciamo messo insieme un pò diversi e ovviamente la nostra esperienza anche a livello architetturale che abbiamo parlato due cose marco lo so mi sono dilungato troppo eccetera eccetera
+e feedback l'ho raccolto che erano troppi troppi argomenti tutti insieme però diciamo ritornando al rap quella cosa è stata quella la cosa interessante è mancata quella è rat-man è riuscito a farmi capire che tu se puoi lavorare
+maniera
+modo migliore quel punto lì lo devi conoscere bene non so se era marco con cui parlavo a tavola certo punto abbiamo detto che è inutile dire al ragazzo in genere che se puoi fare machine learning e la matematica non è necessario non è vero la matematica di conoscere non c'è poco da fare
+nel senso alcune cose non te le porti da casa si può trovare l'algoritmo puoi trovare chi l'ha fatto puoi trovare milioni di articoli che ti dicono usa questo piuttosto che quest'altro ma con le prove solamente senza aver capito effettivamente cosa contiene ha parlato di gaussiane per cercare il modello migliore per te
+non conosci le funzioni matematiche se non conosce alcune alcune basi meccanismo per cui dovresti poter scegliere un modello piuttosto che l'altro e ripeto io ho impiegato diverso tempo e ne parlavo col mio carissimo collega mi piacerebbe poter comunque continuare in quell'ambito opas dedicato a un diverso
+lo dimostra il fatto che ho fatto e volevo comunque continuare un po' sul su quella per dire per dare conforto a quello che ha detto ma non sai mai fosse bisogno quello che ha detto andrea da francesco e ovviamente la strada migliore quella che ha indicato lui io se posso dirti ho cominciato piano piano e non sono assolutamente
+la vas la persona più adatta per dare consigli per fare sessioni però è nel momento in cui hai qualcosa da raccontare e che abbia un senso che abbiamo è impegnato del tempo ti senti di condividerla prova a farlo prova a impegnarti su questo perché comunque hai un ritorno che è benefico e aiuta sempre a andare un pezzo aaaa
+senti un po' più avanti ti dico questo perchè ho fatto forse la mia prima sessione anche se ho fatto qualche tappa l'altr'anno a un evento a roma e li causato la prima volta open-air appena uscito dalla cosa divertente è a bordo rifarla viviamo dopo un pò di fatto padova stampa e sicuramente anche il prossimo e trapassato però diciamo il il ritorno che ne ho avuto personalmente
+vado veramente benefico e non avrei proprio l'età giusta per poter pensare ancora lieve i ragazzi conoscono vi conosco non so ma non sono di primissimo pelo però io dico sempre che non è mai troppo tardi e ben vengano nuove leve che rischiano non so l'età onestamente di alessandro non glielo chiede
+blair non voglio rimane male però il suo talk del devoto rosa era quello che mi era piaciuto di più benefico eh
+per dire
+ios ho conosciuto alessandro ovviamente al debbo piero io ero al cloud come depennato torre all'ingresso dovevo essere assolutamente certo che la personalizzazione del detto non fai passare nessuno o lude penne era l'ho riconosciuto voleva passare in sordina che tu devi avere il biglietto sennò non ti faccio
+quindi chiesto ovviamente ci siamo conosciuti al devops silos scambiato due chiacchiere insomma che permette ripeto l'altro evento arm e perché avevo qualcosa avevamo qualcosa da raccontare volevamo dire la nostra su cui
+lutto per la cronaca visto che qua fra raffaele di utilizzo delle basi materiali in kayak per precisare queste immagini questo è il tool domanda andrai a questi tool sono video disponibili sono persi per sempre nel sesso c'è ci sono ci saranno così da ripulirla l'anno
+in teoria entro fine di questa settimana metteremo un link che ovviamente tu quello che va fatto tenendo conto che siamo noi a fare il taglio chiamiamola la post produzione ah per inciso per esempio il mio podcast cloud champion
+la post produzione fa emanuele
+e questo in casa
+quindi
+non potete vederlo ma abbiamo tirato su tutta la quasi tutta l'armamento che usa emanuele per la regia
+siamo a casa o quattro tavoli impegnati
+cioè c'è di tutto qui non non non so non mi tocca niente di serio solo un pezzetto si vede solo un pezzetto ma vi assicuro che dietro le quinte telecamera flash cose qua di qua uno studio fotografico e dobbiamo migliorare sulle luci da o l'evasione lui sì però non perché è mio amico e altro
+emanuele è veramente molto molto pignolo su queste cose ne sa
+emanuele tu che segui le tracce intere quella che hai seguito tu nella tua stanza che cosa ci fa cosa raccontare qual in seguito a parte che in preascolto l'effettivo tutte perché avevo bisogno di capire cosa cosa stava andando online con l'audio perché all'inizio ho avuto un problema con la scheda audio quindi da quel momento in poi audio continua nelle cuffie
+smettere cosa stava succedendo e ti dico che della mia traccia in realtà mi sono piaciute due sequenze particolari di sessioni tecniche quattro uno dopo l'altro la parte sul green quindi come il cloud per me diciamo di essere un po' più green o come ottimizzare i costi nel cloud
+per essere allo stesso tempo green nello specifico parliamo di anna e renato è ciò che un argomento penso abbastanza sentito no in questo in questo periodo se consideriamo che a novembre io fino a ieri stavo a mezza manica oggi fa un po' più freschetto il cambiamento climatico lo sentiamo un po' tutti vini l'essere un po'
+green probabilmente è qualcosa all'ordine del giorno dovrebbe all'ordine del giorno per tu per tutti ma in realtà è come dire qualcosa che spesso ci dimentichiamo nel west end cloud non ci interessa saint cloud se c'erano costi a vuoto sto facendo qualcosa che non va bene questo era parte anche nella sessione di renato che
+devo dire che mi è piaciuto insomma poi quando ci sarà tutto il montaggio dei video saranno tutti disponibili invito ad via da seguire perché la che quella di nana sono state molto interessanti e poi avendole sentite un po' tutte le realtà io non posso fare una preferenza era la regia
+istituita tutta la track perché se sembra brutto preferisce uno spiegherà la
+però l'altra sequenza che poi si vede purtroppo l'arte e non purtroppo si vede l'arte della creazione dell'azienda nell'aver messo monica e pamela una dopo l'altra che parla l'architetto partito e kebab e nell'aver messo due sessioni su gift box mettiamola così una dopo l'altra per
+dare continuità o di argomenti e devo dire che anche lì che è sentita insomma era uno dei motivi per cui all'inizio mi è piaciuto sottolineare il fatto che andrea vista
+a coinvolgere degli speaker on e non perché sono speaker bond perché sono delle persone tecnicamente valide che hanno qualcosa da dire e creando l'ambiente puoi dire se tra virgolette vengono riescono ad esprimere tutto il loro potenziale questo è sicuramente notevole dal mio punto di vista mi sono piaciute entrambe devo
+dire la verità
+qualcuno è incentrata più sul processo era quella di monica chiappara po' più sul processo verbale o più sul prodotto mi sono piaciute entrambe è quello che mi ha colpito però è l'ultima sessione di michel murabito perché è riuscito a fare un'intera sessione tu
+qualcosa che fa in azienda da lui senza mai citare il nome della sua azienda che è il senso del genere capito insomma che che possa possa sfuggire no faccio quello di mestiere venerdì dire lo faccio nella mia azienda che fa questo invece è stato molto bravo ad esporre tutto l'argomento senza mai o
+piccolo momento alla fine va beh però farsi sfuggire il nome dell'azienda e quello è notevole ovviamente mi sono piaciute comunque tutte le sessioni anche quella di michele la parte di introduzione alla riduzione dei costi quindi come qual è il processo continuo che c'è dietro la riduzione dei costi atto michele
+oh avevamo anche olimpia merlo all'inizio ci saltato il suo punto di vista sul suo tavolo dal punto di vista didattico essere quale dev'essere evoluzione del cloud dal punto di vista della west e quello puramente stato come dire è come se fosse il cofano se all'inizio della traccia
+allo stare che ci sia il vendor in quel momento e il kick-off della track ti introduce a quello che è l'argomento e poi via via c'è tutto questo crescendo di tecnicismi e mi sfugge il nome dell'ultimo spiga della mia traccia e questo mi dispiace che invece era parlato di cloud diciamo di di metodologia
+vie di migrazione al cloud e anche lì sa se vista la qualità
+anna esatto mi perdonerà se se ci sta ascoltando perché non è una bella figuratevi
+e però ciò che mi è piaciuto lì l'approccio teorico ma con come dire come come se facendo capire che lì quella roba l'ha fatta non è una cosa di cui gli va di parlare sa di cosa sta parlando perché lo fanno questo fa la differenza perché questo legarci a un discorso con francesco di prima
+tanta gente che va lì parla ma a cui pensa aver toccato realmente con mano non li da andrea in giro senza aver toccato con mano quello che stanno dicendo avendolo trattato e invece se si è sentito se sentito che seppur si parlava di temi architetturali
+quindi un po' più di alto livello come visione però c'era un jenson importa un aspetto anche pratico legato a quella a quella sessione a quel periodo
+kate tutte credo di non averne di mantenendone sia stata una
+si parte per un po' si possono fare preferenze e google non mi dovevi vendere niente io personalmente per tutte perché appunto potevo trovarvi solo in una stanza alla volta le discuterò anche perché come dice aggiusto io penso che il fatto ad andrea anche quello di di di andare in crescita sulle varie sessioni man mano che vai avanti perché
+vedendo un po'
+la sequenza io ripeto ha potuto vedere l'ultima ma in realtà prima c'era cristian e c'era valentina che trattavano con l'argomento e argomenti partendo è come come quando fai un assaggio di vini vai da quello non più scarso ma se vai su va sempre più in accrescere e ti preparano un po' no
+okay al finale col botto e che poi mi dispiace e recupererò e di valentine di crisi bene vedo che anche carlos a chi condivide lavorare nel giudizio su un massimo africana e sfocia sessione molto chiara e interessante marco francesco vostri input qualcosa da portare a casa e come
+condividere io
+se vuoi francesco poiché lasciano una parola io vado in continuità con quello che ho detto finora ma io ha un po' perché le sessioni dei miei ex colleghi microsoft le le conosco le ho viste e un po' perché ho antonio ognuno sviluppa le sue passioni le sue anche non avendone titolo me
+mi sono appassionato ai tempi di serverless per mille motivazioni per cui c'è tutta la domotica di casa che gira su lampada ma questo non lo dicevo prima e adesso
+adesso un paesino che sud sta ci sta
+ditemi di progetti open source quello quello sanno ma anche funchal al suo passo falso sporco mestiere da questo punto di vista se lo vuoi ma se lo guadagna kamikaze
+sono andato a seguirmi compiacere la sessione di un amico e poi quella di luca bianchi
+legata appunto al tema lo stato di server e si intitolerà più o meno tipo che cosa serve nel duemilaventitre per i motivi che dicevano primato emanuele e cioè allora se segui il vendor lo speaker del vendor ha due grossi vantaggi ma anche una sfiga
+quando si tratta di fare lo switch i vantaggi sono ai contenuti prima degli altri quindi può vedere alle slide strafighe ai contatti diretti con può accettare su scegli tu il la piattaforma che world team o altro con chi l'ha scritto quel pezzo di codice o senti che io un paio di volte con marco usino
+ciò con gente ancora più vecchia che ormai in pensione la accertata la sua fatta per fare determinate cose quindi si può fare quello uno dei vantaggi secondo vantaggio è che magari ti pagano per fare quello cioè ti pagano per studiarti quella roba che non ha ancora usato nessuno per raccontarlo in maniera tale che qualcuno la usi questa parola è la più grande sfiga e la terza anche ad un altro vantaggio
+che si laurea nel vendere probabilmente lavori con clienti che hanno esigenze complicate perché quella caratteristica devi vendere al cliente che paga di più e quindi non a quello che paga di più come preziosissima quello che si fa un cluster kubernetes magari ci mette sotto tre quattro cinque e seicento pod e quindi ti va di lusso come dire poter raccontare quella roba lo svantaggio è che non la vedi tu
+cioè l'architettura il progetto soprattutto l'esercizio dall'inizio alla fine non la fa la persona del vendor microsoft quando aveva la consulting carlo settanta cappa solo per fare un vision scopo indipendentemente da tutto poi fatto quello era e non poteva essere altrimenti attenzione era tutto time material per cui vai là fai le tue cose
+se fai ceselli quella roba che ti han detto e poi la big picture se la deve sborsare qualcun altro il cliente magari in qualche altra nazione che unity ipertrofico e cercare persone giuste in italia con tutta probabilità a botta di come dire contracting
+contratti application mente eccetera eccetera poi arrivi e va in quello che il prodotto non solo deve usare ma lo deve usare per fare robe che servono in contesti complicati e in questo caso luca bianchi ha attirato occorre una sessione in cui diceva che nel duemilaquindici noi società anche menzionava ma
+poi lasciami dire poi alcuni sono anche debra nelle proprie società luca è come un fan della sua società quindi la racconta per spiegare perché cos'è che fa di preciso anche se una società che vende hadith dice anno duemilaquindici noi facciamo così e così era come dire tutto un single point of eli ora era tutto come dire si incrocia via dicendo
+otto anni dopo è tutta l'altra roba che ho lo stesso problema affrontato in altra maniera ha fondato con otto anni di distanza è tuttora tuo tema e da lì entrare a spiegare il perché delle cose quindi questo flag va messo così di default non c'è non ce l'hanno messo ma va fatto in questa maniera perché ti risolve tutta quanta questa casistica di problematiche
+e tutta la sessione di chi fa uso di queste cose è proprio un noi si fa così perché l'abbiamo fatta così e funziona ma poi abbiamo anche chiesto a quelli del vendor e hanno dovuto dire sì purtroppo va fatta così nicola è stato estremamente interessante per me che ho visto l'evoluzione la crescita di fanon come rincorsa verso l
+landa con l'introduzione poi delle durable che in maniera o nell'altra hanno dato una botta di vita alla altra serve anche su piattaforma ios e quindi quello mi ha divertito parecchio e mi ha dato parecchio in termini di ritorno del del vantaggio e questo poi aveva ragione emanuele quando dice che molti
+casi purtroppo ma è anche il bello della diretta tu hai degli amici della gente che si mette alla prova e invece che andare a raccontare la roba che sa fare molto bene perché fa dalla sera alla mattina non si rende conto di questo racconta ho visto questa roba qua microsoft huawei google ha annunciato
+questa roba fighissima ve la racconto però poi la racconti e dall'altra parte
+beh bello e simpatico graf o robe che questa è una cosa che do come suggerimento alle persone parlate non solo di quello che sapete parlate di quello che avete fatto che quello è il valore assoluto migliore che potrei queste conferenze perché alla conferenza del vendor ti porti a casa la figaggine
+novità c'è questa roba la guardo ma attivissimo
+salvaguardare era fabric ah bello bello non era esattamente roba roba mia famiglia ero un po' quanto costa asti capperi
+interessante potrebbe arrivare con duemilaquarantotto bit uso uno duecentocinquanta tappa al mese da spendere ok ma siamo sicuri che avete usato cosa quindi quello è il è il tema di fondo parlare delle cose che possono sembrare anche banali ma che sono legate per esempio al tema inox fare
+la quotazione senza rientrare nella
+a fare la quotazione di un progetto cloud non è una cosa che fanno tutti dalla mattina alla sera valutare quanto costa anche solo fare un lifting fare un back up quanto vi costa di archiviazione di storage account ma le transazioni si contano senza arrivare alle di tv database o left you
+del appunto di di fabbrica è una roba che non te la può dire il vendor perché le variabili sono tantissime ci arriva un signore che ti dice lei ho fatto questo a grandezze e mi è costato questo o agente quello se lo scrive come dire recall sangue sulle mani perché è l'esempio che ti può dare davvero il vantaggio quando puoi
+mi diceva prima francesco vado a lavorare e il mio lavoro e puoi farle quelle robe quindi sentirmi raccontare che esiste prodotto figo got no lo sento per la prima volta poi vado allo studio ma lo smalto eccetera il mio raccontare che ho fatto questo è costato così poi per minimo di spolli cemento per come
+inferenza o per quello che vuoi ci costruisco sopra la stima ed è come dire se sono uno che si occupa come microsoft di quotazioni numeri eccetera della parte tecnologica good lavoro in meno insomma quello che fa i progetti o fa peggio ancora firma i contratti ciò che questa terra faccio per i c s e
+caravaggio obelix tremare i polsi se non l'hai fatta mai alla conferenza ascolti qualcuno che ti dice l'ho fatta così e si fa così ed è tutta esperienza è la cosa migliore che posso portarvi a casa quando ci vado almeno io personalmente quindi
+ci ha dato due o tre a causa delle delle delle sirene che ho seguito però dicevamo in generale se nessuno
+fatta da qualcuno che racconta la sua esperienza e ci mette dentro un fracco di dati che possono essere un farmaco di codice o un fracco di numerica a quel punto era soddisfatto dalla sessione qualunque stagione
+bianchi anche per me è stata interessante perché ci hai messo la sua esperienza e i suoi insight che non è soltanto raccontare qualcosa di tecnico ma raccontare come le tue esperienze su cui francesco e andrea vai vado vado io che andrea ha detto che andava per ultimo
+allora amen
+dennett che come dicevo prima mi sono piaciute diverse sicuramente mi è piaciuto molto destiny production d'italia sì però credo mi abbia emozionato diciamo di più molte di quelle di cui avete parlato purtroppo ne sono perse un punto di dover recuperare però
+almeno mi è sembrato di essere partiti con il botto quando ho ascoltato mite a che sicuramente pronunciato malissimo
+web assemblee bund browser perché mi è piaciuto un sacco come dire proprio io vengo da un background grounded quindi al netto che adesso mi sto scontrando con tutto il mondo architetturale eccetera perché volevo espandermi in direzioni che non conoscevo e quindi sto sto cercando di farlo sempre
+più però
+non andate da leggere vi prego a mia tesi bruttissima della triennale che ci ho messo sette anni per finire perché nel frattempo lavoravo ed è stato veramente la morte era su blazer e in particolare sui vari modelli di blazer eccetera uno dei modelli era proprio web assemblea quindi mi ero un po' scontrato con
+questa cosa strana avevo fatto un po' di esperimenti insomma un po' di cose e mi sono scontrato con questa cosa strana che mi incuriosiva partendo da blazer per riutilizzare insomma remix hill hill nel weekend anche nel front-end e quindi qui quando alle tue bussandri sono voluto andare ad ascoltare
+particolare perché qui si invertiva il il paradigma nel senso che utilizzare web assemblea all'interno del browser e quindi diciamo in ambito client è una cosa diciamo comprovata mentre iniziare ad utilizzarla per roma server con tutti i vantaggi che poi ci sarebbero nel farlo
+una cosa che stanno sperimentando sempre di più e che sta andando avanti no ken su cui microsoft sembra che stia fingendo anche abbastanza direi vedendo anche tutto quello che hanno presentato dalla direzione in cui stanno andando e in particolare sto studente mi è piaciuto tanto perché poi non ha parlato solo di web assemblee lato diciamo serve
+joker ma toccava diciamo iniziava a parlare anche di architettura micro servizi per i vantaggi che vengono insomma abilitati dal nuovo paradigma diciamo web assemblee
+ha parlato anche del fatto che essendo fortemente acerbo
+si può utilizzare web assemblee non al posto di come in tanti ne parlano docker ma magari per ora almeno finché è ancora così in neanche beta direi quasi alfa
+in con junction con con dockery e dei vantaggi in particolare come dicevate voi prima comunque portava del valore perché ha fatto diverse demo e quindi faceva proprio vedere del codice in vari linguaggi perché se non sbaglio ha toccato thea rust e dotnet ho visto anche sito networks del codice
+e quindi insomma era molto interessante iper all'avanguardia è figo anche perché appunto era una roba molto più davy in una giornata dove si parla di cloud dove è chiaro che alla fine si fa girare del codice però
+ma ho sentito anche tanti parlare di viemmeoe di cluster o di qualsiasi cosa tu voglia qui si parlava di roba da davy quindi mi è piaciuto molto trovare qualcosa che mi avvicinasse anche no e allora a in ordine rigorosamente sparso la prima è luca bianchi
+luca bianchi due
+sul sito di impruneta abbiamo il suo corso serverless sue davis west e magari a qualcuno che ci sta qualcuno che ci sta ascoltando può essere di interesse perché una delle idee alla base di
+in pruno quella di prendere dylan la definiamo trasformiamo l'esperienza in risorsa condivisa per prendere qualcuno o qualcuna è una persona che ha acquisito un'esperienza significativa e comprovata su un tema e trovare un modo per
+democratizzare parolona il la fruibilità e nel senso senza cattiveria che in questo momento qualcuno potrebbe andare sul sito di improv per prenotarsi un amento city con davide mauri principal product manager di un sequel a redmond o
+alex casalboni e da bluesky che un principal technical in youth league uno di quelli che prepara i inout che tra due settimane il cti o di dabliu s terrà a reinventa così ci capiamo e va sul sito
+chi acquista il corso si prenota la mentorship che è una cosa che tipicamente a basso budget non potrebbe fare perché non so quanto debba pagare un cliente di mancano software per avere un supporto di qualunque tipo di u
+un principal manager di tim redmond quindi la prima cosa che dicono il caso specifico luca ho sentito nominare enne volte c'è a centoventi euro in sconto poi le
+nei prossimi giorni mettiamo tutti i corsi al cinquanta per cento di sconto per il discorso
+black week in realtà noi stiamo puntando a farlo settimana prossima che c'è il super monday perché va bene che io sono dark gotico di estrazione quindi per me black vince su tutto
+ciò che loren qui che mi è testimone però il cyber monday cyber ci piace di più e quindi quell'idea farlo cyber week e quindi nessuno compri adesso perché aspetta qualche giorno e risparmio circonda perché non lo ha già fatto
+ha già fatto nel qual caso parliamone
+e io non ho visto alcun tour perché son stato pier lato tutto il
+è il giorno
+pirlare girare come la trappola però posso dire una cosa che un applauso come quello che ho sentito dopo il tour d'italia anas io l'ho sentito molto raramente ad una conferenza cioè io tavo sal
+salendo dal dal piano di sotto dove c'erano le altre due età ero accanto e ho sentito un'esplosione che chi ha voluto anche riportare a talia
+l'attuale io due cose ti dico
+touch me lo voglio sicuramente vedere appena ho le registrazioni due tu l'anno prossimo se qua
+che ieri sera non sai neanche venuta a mangiarti la cotoletta risotto il brasato al suo buco e cose del genere che vieni a fare a milano
+dalla california per dare un tocco all'evento grazie o viene a mangiare che più interessante e quindi il mio consiglio non può che essere guardato un doc che ha avuto un applauso
+ho così esplosivo alla fine non può che
+un buon touch quindi ha senso guardarlo una cosa l'ho già detta prima ma l'ha vissuta in prima persona avendola moderata la round table
+old market perché secondo me è stato veramente un notebook interessante lì potrei dirvi che ho mandato a loro tre le domande che avrei posto che le avrei posto all' uno quattordici
+ici del della notte del mattino precedente in modo che non potessero prepararsi le risposte
+se volessi con dirvela la realtà è che organizzare un evento di quel tipo richiede una tale quantità di attività che davvero quelle domande le ho scritte d'impeto è tornato a casa dalla cena con sub speaker dopo aver fatto varie altre cose allude
+mi son detto forse il caso che almeno un'idea di quali saranno gli argomenti che vorrei toccare è alle quattordici l'orario lo so non perché io me lo ricordi ma perché mi è stato fatto notare da loro la mattina dopo
+che per una roba delle dieci quarantacinque aver mandato all'una quattordici non era stato aiutarli ehi ho detto che così potevano essere spontanei e poi volevo collegarmi a un cadetto emanuele fabio torniamo al tema della content strategy ho già detto che io provo
+ad avere un mix di vendor tecnici aziende round table un'altra cosa che provo a fare la la
+l'hanno colta hackathon emanuele io considero ogni track indipendente dalle altre tono eventi distinti non non faccio collegamenti tra una traccia e l'altra e quindi non mi pongo il tema di in due track cioè simultaneamente un top molto interessante
+perché se hai questo problema uno dei due telo guardie registrato ma nel considerare ogni traccia un evento distinto io considero ogni blocco è compreso tra due pause diciamo all'inizio dell'evento l'eventuale coffee break del mattino o la pausa pranzo a pausa pre
+hanzo fino al coffee break del pomeriggio poi fino alla fine li considero a loro volta degli eventi indipendenti l'uno dall'altro e ognuno di quelli deve essere in qualche modo coeso a livello di argomenti quindi per esempio tra due ultimo blocco pamela monica
+mitchell quella è la parte platform engineering in tutte le sue declinazioni devops agito x e quant'altro ok quindi io ti do un motivo per fare di quel blocco perché ti sto creando un tutorial questo aiuta
+sotto vari fronti per esempio ad abate ad abbassare il drop on line perché chi ti segue online si allontana una volta che si allontana non sai se ritorna allora piuttosto dagli modo per quelle due ore e mezza tre ore di ferie e poi smette fa quello che gli pare punto uno punto due se io riesco a mantenere
+un po' di persone lì dentro limita i movimenti tra le sale che sono una tematica logistica che complicare le cose c'è tantissimo lavoro che se anche hai frequentato tanti eventi ma non ti sei occupato di realizzarli non puoi
+cogliere perchè io questa cosa l'ho capita e ho iniziato a fare due forse tre anni fa e vi dirò che lo stimolo è stato l'arrivo della pandemia l'arrivo dei degli eventi online e quindi mi sono chiesto ma se lo sport di google e farti vedere un video in più come faccio io a farti
+un tocco in più mi sono posta il problema è quello che vi ho appena detto è la mia personale risposta quindi c'è c'è proprio tanto tanto tanto lavoro nel cercare di fare un evento che che
+funzioni ti piaccia che sia utile come
+poi c'è come dire in teoria farebbe parte di una delle mie mentors a sud ruba ma chi se ne frega
+la condivisione condivisione molto bene molto saggio può un vecchio saggio saltarello l'età c'è d'altronde ogni età e pubblica perché io il mio compleanno è stato il giorno del
+cloudya e attenzione per caso e perché quando io a aprile ho chiamato talent garden per prenotare il tredici novembre era il primo giorno partendo da ottobre nel quale la struttura era disponibile e dopo si andrà
+papà a dicembre non assume clown david io lo faccio a fine ottobre ho detto va bè da fine ottobre andiamo a metà novembre d'accordo ma oltre no e allora ho accettato però spoiler ho avuto oggi il primo draft e il video commemorativo del video emozionale dovremmo dire
+quel domani che non andava bene ho chiesto dei worker è ma forse domani arriverà corretto e loon e lo pubblicheremo e lì si vedrà chiaramente la mia età perché nel pomeriggio
+qualcuna nello specifico credo che la colpevole sia stata un'amica che mara marzocchi co-founder di action che era presente all'evento
+in teoria come moderatrice del panel
+i i t e g ma sarebbe venuta comunque perché a bodega marzo è venuta indipendentemente dal non aveva alcun ruolo mai venuta ugualmente quindi credo che sia stata lei a far recapitare questa torta con sopra il numero quindi non la dico
+perché ovviamente quando non è bassa come ci
+però però c'è spoiler
+l'agenzia che il videomaker che ha fatto il video ha deciso che quello era un momento da mettere allora mi alzi la
+la palla per chiedere a voi vecchie volpi del cloud vecchie vuoi dire e come ti dice adesso facciamo un altro chiediamo un attimo discorso dei parzialmente e parliamo di cloud in generale però crowder si può parlare per giorni e quello che vorrei chiedere a voi e
+come avete visto le foto nel cloud dagli arbori adesso e cosa vedrete in futuro cosa prevedete che accadrà in futuro molto ad ampio spettro se vogliamo perché artù io che dico non l'ho vista e tu non l'hai vista ai tempi in cui si parlava di un'auto di due tre saremmo tutti sul club ma si capiva bene che cosa era
+te la sei scampata e
+gli altri che qualche anno in più ce l'hanno beh marco inizia tu che cosi parti da red dog eh
+ho anche fatto un colloquio di lavoro non richiesto con
+papà che aveva dato il nome red dog quando è andato in oracle ha allora è ma
+distinguiamo listing perché poi di nuovo qua ha senso magari avere aver trascorso un po' di tempo nel dentro un vendor come si diceva prima era aver visto
+e le aspirazioni le aspettative i target che vengono settati anche sui vari segmenti di clienti mi spiego la percezione del moriremo tutti di cloud e poi no il cloud non funziona l'azienda x torna indietro e risparmio a moat
+di soldi e via dicendo dipende dipende da chi è l'azienda e da chi era e quali sono le aziende dovrebbero andare ci sono
+diciamo veterani e non del mondo del cloud però è oggettivo che se la azienda come dire sam by small business viene convinta da qualcuno dover andare sul cloud e attenzione è come dire competitor di quello che la vuole convince
+cere che deve spendere cento duecento cappa di ferro perché è importante avere il ferro fresco per far girare i propri workshop applicativi
+valori del ferro fresco al mattino
+quello è un problema nel senso che la lo spostamento sul cloud ha sempre ha sempre avuto come vincolo lo stack applicativo tu sposti sul cloud non ha il pezzo di ferro tu sposti sul cloud l'applicazione certo che se nel mondo e sam b l'applicazione svilu
+pata dal qualsiasi vendor di erp che te la fa in maniera tale da essere in grado di girare monolitica monolitica ha dentro una virtual machine che un container manco sanno quelli che hanno sviluppato un applicativo che roba è figuriamoci pensare di arrivare
+al paradigma cloud native serve essere via dicendo sono realtà destinate
+abito e andreassi devi andare ovunque per chiunque tranquilli qua si entra e si esce quando si vuole un saluto via chat va bene se non volete interrompere però tranquilli nessun limite liberi tutti di entrare ed uscire il secondo gruppo che se vuoi andare tu andrea
+mancherebbe
+ho visto un messaggio con cui il messaggio la mia seconda domanda la sveglia alle sei un quarto a qui ma una ventina di minuti mezz'ora penso che andrò a dormire tutto qua troviamo con riscosso su cloud e chissà
+chiacchierone sono già pentito aver interrotto marco che vai avanti
+quindi diciamo che il tema è quello nella nel segmento small cloud è complicato è oggettivamente complicato perché i budget sono quelli che sono i vincoli sono quelli che sono e anche purtroppo pa spiace dirlo la competenza di quelle realtà che possono poi posizionarsi com
+il come dire il one stop shop facciamo tutto noi per voi piccola azienda eccola che è quindi se sono una società che dà la soluzione chiavi in mano attenzione per la piccola atene non sto parlando de lo studio del commercialista che anche se quel signore andrà su acri tre sei cinque o sulla piattaforma lasciatemi dire di
+collaborazione che vuole cloud-based è un pezzo di claudio se lo porta a casa e a tutti i vantaggi del mondo oggi nessuno penserebbe più di rifare come dire una infrastruttura collaborazione mettendo in casa se parliamo di casa microsoft un exchange o un link server poi for business o quello che volete
+e sulla parte di applicazioni e infrastrutture tempo è un po' diverso quindi le assemblee complesso a piacere per esempio parlo io mi faccio come dire se sono tarato con la persona mia microsoft alle assemblee quella che una volta che aveva massimo trecento cinquecento pc la guardate più o meno legata sul taglio di quelle che poi sono le pacchettizzato delle robe
+beh che si vedono ancora a fitz tipo microsoft se ci spostiamo nel mercato corpo nel mercato enterprise inizia a vedere che ci sono realtà che non possono fare a meno del cloud nel senso che ci sono delle tipologie di aziende che per la disponibilità economiche che hanno ma per l'esigenza che hanno
+non posso materialmente pensare di dire oh raga cioè domani facciamo il click day de metteteci quello che volete e quindi click day tempo di un po' di numeri che di dietrologia ce l'ho ma quello purtroppo è meglio che non vedere che faccia valere il menù di andie che ciò
+tendenzialmente sono delle delle cose dove non riesce più a farle senza cloud non scali pensando di portare bancali di roba che siano a storage server lo storage in casa costa ancora di meno dello storage in cloud ma lo storage in casa lo
+iv in casa per motivi erano sotto la scrivania lo devi far arrivare e dall'altro lato in termini di come dire tutte le inefficienze che vogliamo nell'utilizzo dei profili cloud c'è della roba che letteralmente puoi pensare di fare solamente nel cloud poi una volta che hai finito la fase di storming la fase del non sappiamo
+fare da grande per macrotemi di business adesso funziona a quel punto fu un pezzo dell'ottimizzazione che ha portato sul cloud può anche arrivarti a far dire a me e tutto sommato l'ho capita adesso me la riporto in casa spendo di meno e chi s'è visto s'è visto il riporto in casa ha molto senso
+fase di ottimizzazione molto in là per quanto riguarda le aziende enterprise che davvero hanno fatto come dire thor ming hanno fatto dell'europa ho fatto un mash l'app è uno scherzo il tale per cui come dire budget infiniti risorse infinite non possiamo permetterci di poi quando ottimizzi ottimizzi porti i porti via ti ripeto sulla parte
+più piccolina del mercato in italia in italia perché c'è meno dei nordic dove era già tutto a outsourcing era già tutto hosting giocando qua noi stiamo preoccupandoci dell'hosting duepuntozero il cloud in in norvegia in svezia dove c'è altra cultura altre tipologie di
+di di di di di modelli di business stanno brano già sbarcata e dove sviluppo dei videogiochi dove c'era la rovio o dove c'è acqua c'è appunto
+chi sviluppava and crafter quelle sono tipologie di walcott ad esempio che alcuni scenari non potrebbero prescindere dal router per cui quello che ho visto io stando appunto questi anni in microsoft è stata un forte pugile da parte dei vendor per avere
+tutto ciò è un martello si chiama cloud tutto il resto devono essere chiodi perché ho quello devo vendere e ci sta i tassi di crescita sono stati impressionanti ma
+non sono tornati indietro quindi è chiuso è anche vero che qualcuno ha detto andremo tutti sul cloud e poi non ci siamo
+andati tutti sul cloud siete
+re che utilizzato da parte di e il numero di data center che stampa con gli amici di microsoft o gli amici ex colleghi dovunque quindi fondamentalmente di google devo essere né stampano di meno la strada dell' andare a fare efficienza spostando workflow è quella quando parliamo purtroppo di picc
+le aziende io cioè se vedo gente che mi dice eh no però avere l'applicativo gira così mai provato your race mai provato a farlo girare senza un istanze di database installata in locale sulla stessa macchina che dev'essere un windows con queste caratteristiche e poi dio ce ne scampi aver toccato è quello
+il mare il mare non è la stringa il male non è il male l'applicativo scritto pensando di conoscere il contesto e dando per scontato che il concetto governi contesto dove l'applicativo deve girare questa quindici anni di cloud in pdc duemilaotto a l'altro ieri
+chiusi in cinque minuti di hacker ha tenuto tutti comunque la fluidità con cui sta risposta andrea prima rilasciarci dici qualcosa tu che anche io comunque ne dite io ricordo parlando di eur s due mila otto forse
+nel nota
+oddio mi sfugge
+il nome questo momento di un software architect è molto noto internazionalmente straniero americano adesso non la biopsia si ha avuto si va a prua e comunque era appena uscito e ancora soltanto i web vuole
+warner roll e disse che probabilmente questa cosa non riguardava i partecipanti in sala perché sarebbe stata per fare il nuovo facebook e e oggi invece
+cloud ricordiamoci che dawes anche antecedente rispetto ad henry
+cloud non è per chi deve fare il nuovo facebook ma è diventato veramente per
+per tutti c'è da questo punto di vista proprio elisir con le webapp business plan cambiato drasticamente il
+il mercato perché ha davvero per la prima volta dato una pass che fosse facilmente utilizzabile
+ed ampia fino all'altro ieri con aprender
+non aveva qualche cosa di realmente paragonabili perché anche bean stock
+era uno prato sopra e due niente da dire sul due due come se come virtual machine cloud azzate è sempre stato il gold standard
+è però da quel punto di vista webapp ricordo gabriele castellani di microsoft una volta mi dice che nell'ottica di vendere e re
+le webapp gli avevano salvato la vita lavorativa e ovviamente è detto questo secondo me è la è la grande promessa è quella che finalmente prima si è toccato l'argomento è che prima o poi arriverà un sms
+les paul il resto buddy cioè perché la grande promessa è quella di poter arrivare ad interessarsi davvero da quanto arduo per pre provvisionato riservato ato perché la pas e comunque quanto muscolo vuoi
+poi e ti viene riservato con un po' di elasticità sopra certo wow ma che siano tra tutte le forme di orchestratori per questo sono alla fin fine orchestratore a differenti livelli di astrazione quanto lo voglio farti vedere che sotto c'è kubernetes
+nel caso degli yacht service for windows service fabric orchestratore nativo di microsoft nel caso dieci esce esse cioè lo stato relativo di tablets no no no non parlo di gesip perché non non avendolo mai utilizzato su un progetto vero io per sé
+scelta non parlo di cose che non ho usato non ne parlano più a nessun titolo neanche ho letto quell'articolo ho fatto quella prova che non ho una roba in produzione non ha voce in capitolo perché non mi sono se non provi dolore
+non impari e mi chiedo che oppure auspico che arriveremo davvero aumento nel quale
+cloud sarà in grado di darci mi serve sangue sul fronte di computer senza i fenomeni di cold start
+oppure su sway ora si cela function che sam volesse però la metti dentro non è world che di fatto alla fin fine passa perché ti devi devi dire che taglio vuoi perché la metti dentro uno stadio quest'anno e for
+se un giorno arriveremo ad avere quello che è la vera promessa è la terra promessa se vogliamo chiamarla così perché sarà il momento nel quale davvero avremo il win-win totale perché win per noi niente risorse che paghiamo quando non usiamo il cloud
+ma win anche per il vendor che potrà finalmente
+far sì che si incastrino e nel discorso dei picchi di quel wall cloud lì e gli scarichi di quell'altro le raffiche di
+quella quella era la sfida grossa secondo me da da risolvere perché calare da zero a cento in nulla la natura viene istantaneamente eppure noi vorremmo che serve a nessuno facesse la fusione se posso una fusione
+di quelli che sono un po' di paradigmi che vanno un po' in giro un server che somiglia a una logica che inizia però ad astratte a quel punto non solo la parte la parte che c'è sotto ma con la promessa poi di tutto ciò che copilot
+tutto il resto inizia la strada è anche un po' la parte di codice che ci scrivi sopra e quando ero piccolo ma piccolo piccolo c'era un applicativo che si chiamava the last one per commodore sessantaquattro era un cash for girl che girava in quattro cappa non in quattro
+quattro mega e marco cosa me
+problemi di denaro ed era l'ultimo programma sulla faccia della terra quello che scriverai il plasma per gli altri o ai tempi era come dire una cosa che non abbiano stare in piedi
+né cielo né in terra che adesso ah lascia perdere appunto come guardi quello che c'è nei weekend che vendor mettono a disposizione e c'è tantissima roba che puoi astrarre e poi iniziare a vedere che le cose si fanno quasi da soli in alcuni contesto emanuele vi prendo come entità unica ma in realtà ciascuno
+io
+sto cercando disperatamente di riuscire a tenermi sopravvivere sopravvivere
+mi lascia un attimo a quello che diceva prima marco discorso assemblee susseguente san di mai se vogliamo ma devo dirti che almeno quello che è punto di vista consulenziale quest'altro lato quello che vediamo e ti posso dire che l paul discende che porta il cloud e che non hanno all'inter
+ma soprattutto le piccole e medie iniziano ad avezzano se non hanno internamente delle competenze sistemistiche importanti e townley aiuta tanto mi aiuta veramente per carità devono sapere il minimo indispensabile alcune volte però mettere in sicurezza ne parlavamo alla cena con lorenzo mettere in sicurezza un navy seal
+ho una contiene l'app che è sicuramente più facile e banale passano il termine rispetto a mettere in sicurezza un castello e taranto essere quello che vogliamo c'è qualsiasi cosa che richieda altre operazioni per poter fare tardi
+ed è tanto nelle aziende che non hanno una forte componente ops sistemistica possiamo edulcorare il termine in tutti i modi che vogliamo quello farà la grossa differenza almeno quello che abbiamo notato in giro poi la ragione che da enterprise in alcuni casi non può prescindere anche da nessun cloud
+provider alcune volte c'è sono in italia realtà importanti tra le più importanti non faremo nomi non faccio nomi però che usano i tre principali trovare termini sono tutti e tre nonostante abbiano accordi stretti con ognuno di loro per scontistica per tutto quello che vogliamo e i cloud provider usano tutti e tre
+hanno necessità di a parte calare nel museo
+ad usare il servizio giusto dal provider giusto ok e in alcuni casi hanno anche semplicemente necessità di assicurarsi che un eventuale auto di un certo a provare li salvi dall'altro lato c'è tra il dire e fare certe volte non
+come dire non c'è di mezzo il mare c'è di mezzo un furbo o c'è di mezzo una che esce o c'è di mezzo quello che ti pare che fa cadere tutto è però è il cloud sulla piccola media impresa almeno per quello che ho potuto vedere pontevico dati alla mano proprio cliente alla mano è che invece li aiuta aiuta tablet
+sono dal punto di vista di non necessariamente avere tutte quelle competenze che richiede il fare eseguire di rendere disponibile un'applicazione non non non non sottovaluterei come puoi dire come valore aggiunto su quel settore non non vado no
+non volevo sottovalutarti lo era purtroppo la guardando quanta roba quanta roba viene comprata e venduta dalla distribuzione agli stessi clienti di licenze barra ferro e dall'altro lato consumo di dieci uno di uno hotel una delle cose che
+rimpiangerò dell'essere immagino esempio microsoft che io avevo quella che si chiama perspective worldwide ereditata portata avanti perché ci ho passato una volta me l'ha mandata me lo tengo e quindi potevo sapere letteralmente perché poi così che funziona a quanto consuma di ogni singolo servizio in ogni dato istante ogni singolo cliente world
+wide è quella roba aveva avessi te ti dava la possibilità di vedere non c'è nessuno che ce l'abbia lasciata per tutti e tre i cloud provider più alibaba piuttosto però già se sei dentro a un cloud provider e vedi una di quelle robe laici ma ti rendi conto di dove stanno i numeri di dov
+stanno e i billion che vengono consumati poi li scendi ti togli lo sfizio di vedere cosa è in italia c'è ancora una quantità impressionante di chemio collega ex capo amico ribelli continua tu dica a tutte le opportunità che in italia si vendono letteralmente ogni anno
+pillon di sakhir per soldo cioè miliardi di euro di controvalore vedi di seguito sete e quelli qualcuno li compra e molte in massima parte ti assicuro che è dato un quale il cliente qualunque di quelli anche piccoli quelli un cluster di server dello app
+con sopra un sax verso le più o meno si commettono con sopra un vi è una vim per fare il backup non admin
+celano è quella roba lì che potrebbe essere ibridata portata stracciata come cluster e via dicendo è quella che un po' mi lascia preoccupato perché quando interviene magnet gold è già intervenuto un tizio o due tizi o un'azienda che ha scritto del codice che a quel punto
+si gira dove decidi tu il mio punto è purtroppo che quando quelli comprano il gestionale si di produzione mr phil mer più distinta base chi più ne ha più ne metta ringrazia dio che non è più su mpc iris cercherei più funeste quattrocento ma molto vicina
+era la logica quello è la roba che tu la guardia ci va bene ma questa roba qual è che la lituania amo via ma non perché sia un fan della come dire fare le cose per portare il cloud è perché effettivamente ricevi pensa nella piccola impresa quanto può essere complicato gestire un come dire la sicurezza azioni di un cluster kubernetes paese magari
+se già non è più lì sotto perché l'ha sotto il cluster kubernetes di microsoft si chiama just jack jack jack che costa una fucilata pure quello dell'impresa un po' più grandicella picchiava openshift che gira su reilly che costa il giusto posto giusto perché è un prodotto a
+però sì quella è la complessità di lusso cioè sei sei là non stai già più parlando di macchina virtuale o stai parlando del back up della macchina virtuale del resto la macchina virtuale dello snapshot della macchina virtuale java virtuale e il male necessario più scendi sotto è però quello
+la toglierla dal miur per la mia esperienza e quando tutti svilupperanno applicativi gestionali in italia che di gestionali e stampiamo caterve da torino non so anche che sarebbe più serio ad aosta fino a catania e a quel punto forse saremmo riusciti a togliere un po' di quella roba incomprimibili
+cile il codice è tosto che risolve il problema tosto lo sviluppi tu perfetto quello che compra scaffale è una scatola e una scala e una scatola e un container su un software in scatola che gira dentro un container marrakech ne ho visti tanti sviluppati in italia quello che il dottore disse
+è il mio lavoro marx che faccia infectious management classico su macchine virtuali o fisiche e agli scherzi a parte se vuoi qualcosa lo dicono nel mio piccolo io
+non sapevo praticamente nulla in confronto a voi che avete già parlato però nel mio piccolo le cose che ho visto più che altro senza parlare troppo della mia ultima esperienza e quindi anche dei clienti che ho visto e specialmente sono quelli che voi definite small
+quindi
+qualcosina diciamo che l'ho vista io concordo pienamente con emanuele che dice che hanno fortemente aiutati da
+certi paradigmi e certi servizi del cloud di quasi costringono a fare bene
+se adotti certi strumenti continuerà l'hai detto prima è vero che comunque si dà per scontato che all'interno del tuo team ci debba essere qualcuno che quando dici container oltre alla parola container abbia idea di cosa si tratta e non solo container che non risolve il problema il container lo devi sposare però
+comunque titi abilitano un botto di cose non dico gratis perché non è vero però che aiutano tantissimo
+ad utilizzare paradigmi anche moderni no io però nel mio piccolo uno dei motivi per cui mi sono voluto puoi confrontare con il cloud e studiarlo di più e approfondirlo è stato proprio perché in esperienze precedenti
+ho visto da vicino il pain
+del prendi
+tutto quando si parla di vuemme della fortissima divisione che si crea e da lì mi sono avvicinata anche al team devops da dave e do perché nel momento in cui tu ragioni a gran numeri di vuemme possibilmente tutto mescolato quindi non ci sono divisioni chiare tra quale apply
+locazione gira dove e ai noisy neighbor ed esplode l'applicazione non sai neanche perchè viene fuori che era un'altra applicazione materia sullo stesso server o peggio ancora casi in cui magari provi a postarti in casa un pc e poi dopo ti accorgi che però uno sla del novantanove per cento non è proprio così
+facile da ottenere no magari era era più facile andare su qualcuno che te lo costa nel cloud con tutte le paure del caso però scariche anche su di loro tutti i temi di problematiche di cripto in corretta della password sette reserve cup eccetera eccetera noce sono piccole cose tutti anche i temi di identità eccetera che però polo
+quando arrivi a farti veramente malissimo allora capisci che magari il cloud non è poi così male anche se puoi averne paura anche se puoi anche parlare di vendor lock-in ma a volte io credo veramente che in casi specialmente piccoli è così male candy senso che lo devi evitare però qual è l'alternativa vera cioè ti sei confrontato con la tua alternativa area
+reale di fare anche un po' di lock-in e una volta che te lo prendi in casa e vuoi iniziare a parlare di a domani cambio cloud ma sei conscio di cosa vuol dire cambiare il tuo cloud dove gira la tua roba veramente l'hai testata quella strategia monotematiche secondo me è che specialmente in aziende piccole e medie meglio evitare completamente
+sfruttare l'elasticità pagare per quello che ti serve e delegare quanto più possibile concentrandoti magari
+su quello che è il tuo business e basta nient'altro veramente perché già sarà troppo delle lettere in
+i trigger dentro qualcosa mettiamola così
+nel senso che il vendor lock-in soprattutto legato al tema del cloud è qualcosa che tutti i santi giorni senti dire più io non ci credo più di tanto c'è quello che ha detto una cosa sacrosanta cam quanto quanto spesso ricambi e degli rai fino ad oggi lo stato cioè da brest domani di punto in bianco vai su
+magari capita capita perché l'altro vendor ti farà della scontistica migliore di fatto un'offerta fantastica si via le tue cose devi spostare dall'altra parte se sono tante non è banale e quindi poi c'è né ci sono aziende che va bene questo questo ci può anche stare a casa ed è arrivato l'altro venderti ti fa la
+proposta più conveniente allora un certo punto i figli quello che non trovo secondo me poi puoi dire
+unione abbastanza forte da questo punto di vista però non lo trovo tanto corretto scegliere a priori di dire voglio essere astratto rispetto al vendor che ciò che ho so perché spesso e volentieri ti perdi alcune delle peculiarità di questo provider in nome del non voglio venderlo non è una cosa dal mio punto di vista è immensamente
+vita pesante e magari complicando tela acquisto cioè perdi dei soldi che magari non vedi nell'immediato però che poi dovrai dare ai tuoi tecnici che comunque c'è un discorso di schilling che non è indifferente se tu emanuele hai fatto un tool bello assieme a mauro bonanni io mi sono goduto terraforma verso il basket una delle cose che
+proprio ma ti serve terraforma veramente sei sicuro che ti serva terra forme perché magari sì però io la utilizzo da forte amatore e utilizzatore di basket ti posso dire che mi sembra oltre che più semplice fu infinitamente su più efficiente in caso di azienda attiva per sistemare tutta l'india è un esempio stupido però sono tanti piccoli pezzi
+rino poi li sommi tutti e ti accorgi che magari potevi spendere un minimo in più in infrastruttura e pagare di meno tutto il tuo reparto it che intanto stanca impazzendo allora gioventù scusate prima di chiudere io vorrei approfittare la presenza di marco per avere alcune informazioni e per quello che puoi dire a livello di
+di e numeri e di utilizzo di diversi servizi cloud microsoft percentualmente a livello cioè quali sono quelli più utilizzati adesso va meglio quando c'eri tu e poi quelli che hai visto una certa tendenza negli ultimi anni è abbastanza
+significativa insomma
+c'è questo forte impatto
+i numeri sono importanti e non non posso dirvi qual è il fatturato
+tendenzialmente uno deve
+microsoft ha sempre raccontato della strategia dei tre cloud lo è chiaro che quando ho inziato a raccontarla c'era il cloud di office sui cinque che la faceva da padrona poi c'era c'era già e poi tracce di dinamiche
+adesso diciamo che il cloud che la fa ancora da padrona ma per poco e ancora spesso cinque crollo derivi anche dalla diciamo così dalle trimestrali pubblicate tendenzialmente quando anche approcceremo
+una casella di exchange al mio gatto saremo arrivati e quindi il plato l'avremmo fatto eur una volta che sorpassa continua ad andare quindi il cloud inteso come il cloud infrastrutturale applicativo non ha un limite definito tanto quanto la vendita a sciogliere per casella questo significa che
+la crescita di yahoo considerate che se guardate gli annunci pubblici solo quest'anno in corso microsoft ha detto che non pagherà il culo che si chiama meriti in crisi le persone un po' l'incazzatura dicendo sapete che ogni anno vi facciamo un piccolo aumento di stipendio no scusateci quest'anno no perché le cose vanno così bene che se avete lazio
+ok blablabla
+ma intanto su giù vi chiediamo di fare tipo un più quaranta per cento o più quaranta per cento cioè è una roba che neanche ai tempi in cui la stampa vi ci dicono office ma non ho visto sei cinque office duemila
+facevi margini di questi di crescere questo tipo di servizi che vanno poi si gireranno sono purtroppo devo legati alla pmi verso la grande impresa perché se la grande impresa decide di prendere un datacenter messo dalle parti che sono pianura padana una grande realtà che non ha problemi con energia elettrica
+se lo prendiamo e lo mettiamo da
+su aur e la cappa esse che si impenna come però capa esse si impenna cresce cresce tanto ma up service fa ancora da padrone quindi ma questo di nuovo informazioni che le persone che sono ancora in microsoft dicono senza problemi non dato per morto ap service perché ab service è quello che fa girare il
+ecco e
+la cosa che mi ha sempre fatto morire era a vedere il consumo di ip gateway
+che c'è su aur e tu dirai ma quanta aziende useranno e gateway bastano poche aziende che usano le pieghe gateway se c'è un'azienda che produce una roba che già erano quattro ruote o altra roba cioè se qualcosa di connesso che si stampa tanto non se ne fanno tante
+e le chiamate pietro tante sarà che calzava saltava all'occhio perché un meeting in fila in un palazzo venezia dei servizi di yahoo parte quindi diciamo che i servizi infrastrutturali sono quelli che finora hanno consumato tanto perché inefficienti e tutto quanto quello che volete a un certo punto sono iniziate ad arrivare anche là
+grande onda dei servizi lasciatemi dire applicativi inteso come quelli che fanno girare applicazioni dei pm stanno sempre ancora la luce che ci raccontiamo quella inefficienze e consumi tutto è il famoso lift che poi ci sono altri fattori lo shift ctrl shift left
+lasciamolo questa è l'altro aspetto è giustamente la componente dati e tu pensi a che cosa significa oggi fare se andate sul sito internet di microsoft il lago dei dati che è questa cosa fantastica per tradurre da talee se quando inizia a dire metto una
+non più il database non più il the tower house non più il natale che ometto laqualunque tu puoi efficientare quanto ti pare puoi dire che come dire il park che come formato per fare che porti dentro riduce del settantacinque per cento e un boato di roma quella roba là
+erbe per chi fa roba lasciatemi dire complessa che muove tanti dati ma è tutta roba che ha un suo un suo grosso peso quindi tendenzialmente c'è una crescita sicuramente non lineare
+dei vari servizi sono dei servizi che sta crescendo tantissimo una botta della madonna viene data sempre stata una persona macchine virtuali ad esempio
+battaglia gigantesca sempre comunque è stata data dal mondo linux tue macchine virtuali linux hanno superato windows da ti sono tra gli sponsor del cloud e dei grandissimi consumatori di macchine virtuali linux su e giù che potrebbero essere di nei top tre del mondo quindi diciamo che ce ne sono di robe davvero interessante
+vi ripeto la percezione del i clienti enterprise sono quelli che poi una volta che adottano la tecnologia in su base country in una country possono spostare l'ago della bilancia però quella è una roba che sia a livello mondiale che a livello di singola country e non ci sono non ci sono santi cioè non se ne vede la fine
+ci sono poi quelle robe
+carinissime che
+non solo risolvono problemi come diranno un riscontro di funzionalità non badare ma al vendor possono pure poco e costando poco tu consumi tanto perché questo è l'altro aspetto quando lo guardi da dentro non tutti i servizi cloud sono uguali quando li usi e quindi
+a serverless o cluster di paese piuttosto che macchine virtuali e cercare dio non voglia dark metal vi ricordo che su ios si vendono le macchine e le macchine zeta cioè quante cover vuoi
+ti porto nel data center questo reich gli faccio la foto quello è il tuo ex vuole macchine fisiche esiste ancora quella roba lì ed esistere ancora per tanto tempo e
+isap spettatore attraverso il vabbè ma sono considerazioni diciamo così di di capacity esiste anche la vista dentro al vendor cioè che cos'è che devo venderti perché mi fa estremamente più efficienza nei fatti costa di più ma è
+servizi tipo eur bastion bellissimi fichissimi servono a proteggere la tua infrastruttura backend di macchine virtuali che utilizzerai per pubblicare desktop eccetera quattro fanciulle apre la porta entri e a quel punto ha risolto letteralmente quattro action per rifare il servizio che fa quella roba là ma costa il giusto e quindi
+vedi quei servizi sono poi tutti quanti quelli che sono imprescindibili sono necessari nella costruzione di un'architettura non puoi farne a meno di tutto ciò che sarà legata alla parte di esposizione al virtual network cioè la quantità adesso di roba che c'è
+implementabile su un servizio come parodia di per andrea perché quello in termini di quotazioni viste
+ne ho viste tante
+quello e quindi non c'è qualcosa che tira di più o di meno in tira di più o di meno è legato alla prossima generazione di come i vendor faranno i soldi e al solito con il calare avete visto la come dire il grosso annuncio che c'è stato che poi ha portato in parte poi perché la dietrologia su quello non mi piace non siamo
+la festa di sam altman
+lunedì avvisati hanno portato poi ad avere un po' di casino cioè il marketplace ventilato di soluzioni
+di subasio midnight fa casino perché oggi il market place considerata la gallina dalle uova d'oro se parlate con qualsiasi partner ma sia di microsoft che devo essere diranno oggi stanno rompendo le scatole dobbiamo mettere la roba marketplace dobbiamo mettere le nostre sul marciapiede del vendo perché perché i paesi dell'ue
+vendere quella roba che magari gira su e giù a west magari consuma quando gira e gira west e magari la pubblico io in italia e la comprano da qualunque parte del mondo quindi il putsch forsennato sarà quello dell'avere sempre di più delle soluzioni
+che sono presenti sul marketplace ad esempio dieci o uguale identico di hawkes che verranno utilizzate per vendere con il modello marketplace vende tu compri direttamente da microsoft traduzione che costa anche un boato microsoft se si prende il tre per cento di chi e poi ribalta tutto quanto al a chi ha realizzato la soluzione ma è tendenzialmente
+quella roba che tu prima dovevi poter decidere se comprare e mettertela in casa adesso se non è un sas perché comunque prevede che ci sia un'installazione fatta quindi il marketplace un fantastico form click contattami e poi ci parliamo e ti faccio il prezzo tuo e magari dò una mano a metterlo in piedi non è proprio così
+ma che comunque scala i consumi in maniera impressionante e risolve ancora di più il problema del cliente c'è costringe la usb il software house pacchettizzare il prodotto ma c'erano già e la costringe a cedere la proprietà della fatturazione in nome del team
+un mercato worldwide cliente fattura microsoft il cliente e di microsoft tu sei il fornitore della tecnologia microsoft o il cliente fattura west di hawkes ma quella roba rabbia o ad esempio anche in italia di società gigantesche che fan da
+estremamente interessanti che il soldo lo fanno vendendo sul marketplace del
+vendere quella roba là signoria cloud quello e consumo di risorse cloud che viene comprato sempre da più persone sempre più aziende e ancora di più dal mondo delle aziende esempi perché sassi stalla a ciò che funziona e per i vendor e un'efficienza mostruosa e in massima parte convincere via fare va il prodotto saas
+che ti vendo io che ti odi quando funziona che poteva all'incentivo ai miei commerciali affinché lo vedo al mio canale affinché lo vendono quella roba là è la gallina dalle uova d'oro per vendere quindi avete un hockey stick quando ce la fanno perché ce la faranno per cui si compra si va così ecco
+translate questo è più mezzo chilo di copilot e tutto il resto sul mondo dello sviluppo e vedete dove saremo tra tra un po' di tempo quindi
+il cloud che risolve i problemi al
+beh giustissimo chiediti quando ci sono troppi cloud che riservano troppi problemi kelsen b dove saranno quelli che gli artigiani della qualità del software non delle poltrone però è roba che se ne parla da vent'anni erano tutti in pensione guerra
+la retorica sicuramente
+sesso
+francesco ancora si lavorerà da vent'anni news of the world
+pensa alla pensione settantacinque leggevo oggi sul
+western allora beh abbiamo raggiunto anche due eventi credo di aver abusato la vostra pazienza fin troppo prima di chiudere un rapido giro se volete dire qualcosa che vi sarebbe piaciuto raccontare dire non avete avuto l'opportunità di farlo stasera essere uno strumento qualsiasi cosa attinente volevo nominare
+una saldati perché non non voglio prendere posto assolutamente di andrea da te
+la conoscevo su così sui vari canali di conseguire il proposito di donne
+si buttano si partecipano a queste cose esistono fervente partecipanti insomma di questi dolci li fanno mica stesso l'ho seguita diverse volte anche in roma e trovarla lì tra gli organizzatori dello staff insieme a me
+aree il palchetto lo spinse la mattina dopo rally
+mattina presto avevo appuntamento con andrea e salvare sammezzano alle
+sette meno venti meno venti quindi gli di
+ho fatto un'ottima impressione la conoscevo ripeto non
+diviso e quindi mi ha fatto visita è una cosa che volevo dire prima ne è passato di mente perché tra ovviamente una delle due persone nello staff c'è anche lei oltretutto oltre che come spiega neanche attiva da parte dello staff e quindi volevo dare un piccolo obolo ma mai così ulteriormente questa ragazza fantastica insomma
+mi ha colpito veramente anche dal punto di vista proprio così
+come persona come capacità già le conoscevo la seguo da tempo quindi ho seguito diversi isles beach però diciamo ha completato questo e per dare un po'
+ce ne fosse bisogno il fatto che comunque quando fa i comuni di conosci le persone anche in un contesto differente popolo reale è è quello che serve per chiudere il giro no una persona conosce bene questi in questo ambito e ti fa piacere la cosa che volevo aggiungere chiusura del della mia presenza qui stasera ti ringrazio perché
+io sarei stato io sarei molto bias nel
+nel parlare di una quindi ringrazio te per averlo fatto ripetono un dato un'ottima impressione e mi sembrava così un modo carino per poter o della nomina citare ecco hai fatto bene qualche altra last minute word o vuoi andare a dormire che
+no io aggiungo una cosa al volo ma molto pratica
+ed e siccome ancora oggi ho risposto a una persona che mi chiedeva dei biglietti per download conference il quattro di dicembre fossero davvero esauriti e ho dovuto rispondere che sì non era eventbrite
+un malfunzionamento ma fortunatamente gli eventi che organizziamo gwangju sono andato sold-out club l'anno scorso andò soldato web di quest'anno è andato sold out a caldei sanno è andata sold out
+lady omsa che abbiamo da due settimane a quella è andata sold-out qui neanche in dieci giorni il mio è un consiglio pratico e cioè di sottoscrivere il canale telegram di improv allora è ovvio che se sei stato
+circolo di dotnet gli eventi di dotnet li saprai subito
+ho la newsletter girò e se sottoscrivi quello è il canale telegramma o lettera di fra champions saranno quelli di chow champions adesso stiamo facendo ripartire
+l'eternità milano e quindi ci sarà un globale tour ad aprile a milano il mio consiglio è così ci risparmiamo tutti un po' di email sul canale telegram in prov li mettiamo tutti ne può essere un
+concentratore un unico punto
+magari non aspettate l'ultimo mese per iscrivervi perché la storia ci dice che nell'ultimo mese sono già sold-out e così heights
+ci si risparmia un po' tutti il dispiacere di non trovare biglietti per chi non li trova è mio nostro nel rispondere che si sono esauriti e oltre un tot di overbooking
+non si può fare quindi per chi fosse interessato il sovrano nautica della presenza fisica e perché la partecipazione online ovviamente è molto più rilassata
+iscrivi anche all'ultimo sulla presenza fisica che ha un valore perché passare del tempo insieme a un valore bensì caffè le chiacchiere che fai durante il coffee break
+hanno tanto valore lì semplicemente il mio consiglio e sottoscrivete il canale accentratore quando vedono una notifica chiedetevi mi interessa ed interessa meglio iscriversi prima che dopo tranne in questa settimana specifica perché questi
+zona specifica si aspetta che arrivino i codici promozionali ma in generale
+consigli consiglio quello bene andrea vale per te vale per tutti tutte le lingue cosa anche vostra e promozionali attività insomma che volete segnalare mandate mail che poi li mettevano le iscrizioni per quel poco che può valere altre last minute worf beh mi sento di dirvi grazie dato che sono sicuramente quello che c'è
+guadagnato di più belli fragranti
+senza terra bene dai allora io ringrazio voi è stato un piacere alla prossima
+a presto grazie alessandro organi no grazie richard brooks

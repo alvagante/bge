@@ -1,0 +1,10 @@
+- Intelligenza Artificiale e Codifica: Discussione sull'uso dell'IA nella codifica e le sue implicazioni sul lavoro dei programmatori, con focus sulla facilità e sulla superficialità delle pratiche attuali.
+- Microservizi vs. Monoliti: Dibattito tra le due architetture, evidenziando i pregi e i difetti di ciascun approccio, con riferimento a come le aziende stiano adottando sempre più microservizi.
+- Cloud e Infrastrutture: Riflessione sull'evoluzione delle infrastrutture IT con l'uso del cloud, e su come i sistemisti stiano adattando le loro competenze per gestire ambienti cloud nativi.
+- Esperienze di Lavoro nel settore IT: Le sfide quotidiane degli sviluppatori e dei sistemisti, inclusi problemi di comunicazione e di gestione delle aspettative all'interno delle aziende.
+- Monitoraggio e Logging: Discussione sull'importanza di strumenti di monitoraggio e logging efficaci, con riferimenti a tecnologie moderne come Prometheus e Grafana.
+- Evoluzione delle Competenze IT: Riflessione su come le nuove tecnologie stiano cambiando le competenze richieste nel settore IT, e l'importanza di avere una solida base di conoscenze.
+- Cultura Aziendale nel settore IT: Analisi di come la cultura aziendale influisca sulle pratiche di lavoro, in particolare in relazione all'adozione di nuove tecnologie e metodologie.
+- Progetti di Sviluppo: Discussione su come i progetti di sviluppo software siano influenzati dalla pressione per il rilascio rapido e dalla qualità del codice.
+- Importanza delle Retrospettive: Sottolineatura del valore delle retrospettive post-mortem nella gestione degli errori e nel miglioramento continuo delle pratiche lavorative.
+- Strumenti e Tecnologie: Riflessioni su vari strumenti e tecnologie utilizzate nel lavoro quotidiano, dalle distribuzioni Linux ai tool per il monitoraggio e la gestione delle infrastrutture IT.

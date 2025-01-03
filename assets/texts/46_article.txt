@@ -1,0 +1,11 @@
+**BGE 46 - Lo tsunami Broadcom nel mondo VMware: Navigare tra le onde della trasformazione**
+
+Nel vasto oceano delle tecnologie di virtualizzazione, un'onda anomala si è sollevata: l'acquisizione di VMware da parte di Broadcom. In questo episodio di La Brigata dei Geek Estinti, un panel d'eccezione composto da Piergiorgio Spagnolatti, Lino Telera e Giulio Covacci si immerge in questa profonda trasformazione, esplorando le ripercussioni di questo cambiamento epocale. 
+
+L'integrazione di VMware in un colosso come Broadcom rappresenta, non solo una ristrutturazione organizzativa, ma un potenziale tsunami di cambiamenti per utenti, partner e sviluppatori. La transizione da un leader indipendente a una divisione di un conglomerato più grande solleva interrogativi sulla direzione futura della virtualizzazione e sull'integrità della sua innovazione. Le promesse di continuità in ricerca e sviluppo possono apparire come un faro in mezzo alla tempesta, ma l'ombra delle preoccupazioni sulle licenze e sul supporto aleggia inquieta.
+
+La comunità VMware, un ecosistema ricco di talenti e idee, si trova ora a fare i conti con la realtà di un nuovo paradigma. L'episodio discute l'importanza cruciale di mantenere l'innovazione e la qualità del supporto, in un contesto dove le scelte di licensing potrebbero alterare radicalmente il panorama. E mentre Broadcom promette stabilità, il futuro della virtualizzazione si intreccia con quello di Kubernetes e delle soluzioni cloud-native, dove il confine tra on-premise e cloud diventa sempre più sottile.
+
+Il dialogo si fa incisivo, tracciando le sfide e le opportunità che Broadcom dovrà affrontare per garantire che VMware rimanga un faro nel mare tempestoso dell'infrastruttura IT. La riflessione si sposta su come l'approccio alla virtualizzazione come servizio potrà plasmare le future strategie aziendali, in un'epoca dove l'ibridazione e il multicloud sono l'ordine del giorno.
+
+In questo turbinio di idee e previsioni, emerge un concetto chiave: il futuro non è mai scritto, ma piuttosto plasmato dalle scelte di oggi. La trasformazione di VMware è solo l'inizio di una nuova era, e la comunità geek è chiamata a rimanere vigile. Le onde si stanno alzando, ma chi avrà il coraggio di cavalcarle?

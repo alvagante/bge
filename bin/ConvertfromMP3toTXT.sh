@@ -20,8 +20,8 @@ for FILE in $( ls "$DIR"/*.mp3 | grep -v timebolted ) ; do
         if [ ! -e "$TXT_FILE" ]; then
             # Execute the vosk-transcriber command to generate the txt file
             vosk-transcriber -i "$FILE" -o "$TXT_FILE"  --lang it --model-name vosk-model-it-0.22
-        else
-            echo "Skipping, $TXT_FILE already exists."
+#        else
+#            echo "Skipping, $TXT_FILE already exists."
         fi
     fi
 done

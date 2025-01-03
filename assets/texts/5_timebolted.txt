@@ -1,0 +1,402 @@
+sento un rumore di sottofondo da elia comunque
+senti
+grazie
+muso
+meno
+salve
+quinto episodio della brigata degli estinti siamo tornati lunedì con persone nuove persone vecchie o meglio non vecchia ma anche a
+a nostro modo e
+per cui diamo il benvenuto a gianluca nuova entrata oltre ovviamente a elia e piergiorgio e iniziamo subito con le presentazioni vai gianluca io mi chiamo luca mi occupo di purezza problematica perché si chiamano così quando ho iniziato io
+dovrebbe dire ancora una parola che non esisteva effettivamente mi occupo di sicurezza offensiva in questo momento e gestisco un'azienda è una somma di tutto quello che ho
+vediamo
+bene bene io direi presentazione tra gli altri ormai non le facciamo più perché gli diamo per conosciuto voti
+per cui io direi partiamo subito con un po' l'argomento di riferimento con me
+di base è che desse cox quindi o meglio sicurezza orientata all'uso aziendale e direi soprattutto in ambito comunitario in un'ottica di automazione innovazione rispetto alle policy di approccio alla sicurezza possono avere e gianluca tu che nel campo direi che ce la facciamo più adeguata per introdurci a largo
+omento l'onere e l'onore di chiedere
+ora si
+invitatemi o che comunque quelli dire
+il sì che parlando con te su un gruppo di cui siamo insieme membri che unisce i bambini
+qua siamo tutti membri
+tutti dico che e parlando proprio di questo aspetto mi ricordo che proprio tu mi avevi dato
+interessante no perché fondamentalmente vengo sia una cura testo di esercizi ben conosciuti come i penetration test e assessment e comunque sono attività spesso non vengono fatte sempre su richiesta del cliente quando
+esigenza è successo io
+e gli atti dei social network che collega niente più purtroppo e mi stavo avvicinando queste cose però sempre un po' ti posso dire
+scetticismo
+è dovuto all'ignoranza e parlando con te tu mi dici guarda che se è vero quello che dico qui test
+gli animali è un lavoro quasi artigianale
+magari prova a guardare qui
+automatizzare quello che riesce grazie mi si è aperto un mondo quando folgorato sulla strada per damasco e pubblico
+scoperto l'esistenza perché da un po' che l'ignoranza mi portava a demonizzare cerchiamo sono cavolate pen test devono essere fatte in un certo modo quelli non c'entrano niente proprio la sicurezza come la intendo io invece sto veramente interessante questi aspetti e ho capito una cosa che poi magari sentire dire cupola
+stiamo parlando è
+ho risolto perché avevo anche io che pensavo che il devops vado completamente terze cose che fossero delle figure fossero delle persone vuoi anche per e nelle gli annunci di lavoro spesso riflettiamo the box perché ha messo un po'
+come sia veramente illuminata la lampadina a capire che invece non
+roxy al tema della sicurezza del codice in quel caso ma qui questo secondo me mi ha portato molto a rivedere e finisco a rivedere me stesso era il mio approccio alla sicurezza informatica per dire appunto sicuri di non può avvenire appunto come il pen test deve stare all'inizio dei processi qui
+si apre un discorso ma ne parleremo
+esatto grazie ancora alessandro
+in realtà poi come in tutte le cose va dato atto che ti sei ricreduto su certe cose e ti sei messa a studiare come vedo che quando ti metti sotto a leggere libri e telecom
+e quindi tanto di cappello su questa perché poi di fatto è che si trova
+cresce soltanto imparando dagli altri che poi è quello che cercherò di farlo in questi casi quando coinvolgo gente su argomenti specialistici argomenti perché ne voglio sapere di più e per cui disclaimer a tutto questo si fa perché io voglio fare maschi
+in realtà è anche ai non morti ma allora mettiamola così giusto per andare un attimo e calare sul concreto perché sai come in tutte le cose si parla di devsecops di termini poi però in pratica come si può coniugare un approccio verso oxa in un'azienda come
+moderna avete qualche input magari anche
+giorgio
+ti posso dire per quanto riguarda adesso chiaramente christian sempre il discorso che non entriamo poi nel dettaglio però io dicevo dico che anche solo introdurre devops proprio dal punto di vista organizzativo potrebbe essere molto semplice una azienda piccola caserma in una startup
+è un'azienda dicevamo grande medio grandi medie dimensioni italiana quanto quantomeno so mai più tradizionalista può essere difficile nonché non viene fatto nel pd il sol de box perché lucas e strutture no lo sappiamo tutti no
+verticali specializzate gli specialisti che ho ruoli e fare dei team in cui lavorare già tim non è una cosa così diffusa almeno nelle aziende italiane e immagino poi delle banche tutte le banche non sia così per niente diffusa perché storicamente sono strutture vertici
+turistiche piramidali per quanto si voglia è molto efficace ed efficienti però certamente fu così fluide con un approccio yachting week end the boxer chiedere devsecops ancora di più secondo me e quindi ci sono dei discorsi organizzativi che ti possono vedere di affrontare ma richiedono periodi lunghi
+però mi piacerebbe anche sentire l'opinione di pier giorgio
+io sono d'accordissimo sul punto vista organizzativo nella mia esperienza sa perché
+ho visto la maggior parte delle persone manco ci prova a riorganizzare le funzioni del devops ll devsecops l'organizzazione di team gli uffici però quello che poi ho visto emergere che nonostante non ci siano delle organizzazioni formali quindi lo programmo rimane uguale il derby da una parte o dall'altra si
+tutti da un altro network ancora una tropea
+da una proposta ancora in realtà poi ho visto emergere il valore del devops no dal punto di vista dell'automazione della scalabilità della qualità per cui in barba l'organizzazione la mia esperienza diretta è stata per esempio che per quello che riguarda la security nello specifico ma vale anche per opere risorse per sviluppo in prosa
+urti quello che ho avuto la maggiore accelerazione prima del the box è sempre stata vista come ci sono quelli che lavorano per costruire poi c'è la security che rompe le scatole che mette i paletti mette le regole e le policy che quindi limita la velocità di operazione invio
+il fatto di
+approcciare il devops infilarci il sec per cui introdurre nelle nelle catene delle pipeline di contenuti interessanti contenuti liberi i quality gate e ti consentono di mettere nel colosseo questo l'approccio del mettiamolo prima possibile dei punti di controllo sulla qualità per esempio i noti in ambito di
+sicurezza che vanno dall'analisi statica dinamica del codice alla ricerca delle vulnerabilità l'analisi delle dipendenze vi dicendo è stata dapprima recepita come una cosa quasi per chi no stiamo stiamo esagerando stiamo facendo troppo o in realtà corpo col fatto che il costo integrazione e marginalmente sempre più basso adesso diventato il default
+per cui in realtà viene visto come una cosa ottima perché
+il costo di correzione di rettifica di quelle narrato da quelli da quei punti di consiglio di consistenza era è più che sostenibile e la qualità e aumenta per tutti quindi anche per quelli che vedevano prima le polis come un vincolo un paletto un fastidio adesso invece una normale uno fa parte del normale flusso nella gestione del sic
+quello del software il pd ripeto concordo con te sull'organizzazione molto difficile da fare però poi i valori emergono emergono in larga parte grazie alla tecnologia che aiuta in questo senso a renderle più fruibili strade io avrei solo un punto su quello che dice che è poi la qualità poi porta naturalmente a una scelta
+esempio di introdurre unti i nodi con la qualità noi dei pupi di qualità all'interno della catena no di ciclidi è già mezza e dei tool di analisi statica del codice sicuramente una cosa ottima sicuramente bene di importanti progetti open source da cui insomma un pochino partecipo
+però nel questo funziona nelle aziende laddove hai uno sviluppo molto interno perché quello esterno dovresti quotarla io non so quanta oggi con le gare al ribasso che arrivano programmatori che non dico già bravi ma che addirittura siano esperti di secure coding per cui puoi
+uno strumento di analisi statica del codice devi saperlo anche interpretare non è una cosa che viene così che ti dice che abbia questo con questo ecosistema potrebbe esserci anche un falso positivo ma non è una cosa così banale e scontato banale non lo è proprio qua ti riporto la mia esperienza è che
+rispetto a di nuovo al passato dove le analisi sicurezza i recapiti e gli stili di abiti poi portavano a delle fonti di fruizione poiché tu arrivi a cose fatte no all'applicazione testate in esercizio in produzione e devi e aggiunge un altro problema da risolvere un saggio di risolvere gli incidenti
+per esempio e quindi dall'altra parte in effetti puoi trovare parecchie l'esistenza perché il problema non è che il contratto magari il fatto che ti devo fare le peggio che devo sviluppare in maniera sicura però ti ripeto anche in questo caso il fatto di oggettivizzare la problematica quindi la scarsa qualità del codice
+debito tecnico ma anche e soprattutto le tematiche legate alla security diventa non è un tema di discussione cioè se siamo d'accordo che
+lo scopo oltre al quale vai sulla bunker sulle vulnerabilità che puoi avere nelle librerie che utilizzi oltre una certa soglia che abbiamo condiviso non stiamo neanche discutere seduto sbagliato ci mettiamo a lavorare anche con fornitori esterni molto molto spesso nel nostro caso proprio per dire che abbiamo stabilito che c'è un problema dell'isola
+cerchiamo di capire qual è l'approccio più efficiente per risolverlo adesso e mantenerlo risolvibile nel tempo non vedi come cambiano le modalità di integrazione soprattutto non è non è una passeggiata però ti ripeto noi siamo arrivati a una massa critica di progetti che usano questa metodologia e usano questi strumenti è decisamente cambiata la velocità di
+di adozione di questo tipo di metodologie di strumenti quindi
+sta funzionando nella mia impressione che sta funzionando molto meglio di quello che era prima con le attività artigianali di cui parlava prima gianluca note belle utili e quant'altro però poi in realtà è la percezione che c'è qualcosa che non si concluse chiuso il cerchio johnson questo proposito chiedo a gianluca tu cosa felicità automatizzare
+quello che prima facie chiamano diciamo veramente
+magari tutto quello che si poteva chiamano in questo modo è abbastanza stupida come risposta ma in realtà è stato capolino scorso principale insomma di andare rendere questi chiamiamoli comunque festeggiamo
+posso dire non se stesso
+viene un termine specifico che spero bene però insomma test e in generale che facciamo prima e renderli il più possibile in qualche modo indolori sempre punto di vista come diceva e piergiorgio si discutano i nomi ancora devo impararli petrolio perché effettivamente quando fai una attività di tipo conquista anche lunghe e pesanti dipende
+test e poi a discutere tra noi dicevamo può creare dei problemi cercavo in qualche modo di rendere quei test e abu mazen e caitlin ma allo stesso tempo di non vedermi solo come un qualcosa che fosse bloccante e per il team perché c'è anche questo io per notte veniamo visti come quelli che rompono le scatole po' perché spesso
+volentieri bethlehem non è quell'approccio che diceva elia che magari un'azienda che è più complessa e mi fa piacere che pertanto sia che hanno raggiunto questo livello di maturità e non è da poco componenti in una startup sembra che è più facile e lo è effettivamente perché hai più possibilità d'intervenire quindi come ho detto di automatizza
+ore quello che prima faceva in maniera manuale però è stato steso tempo anche una sfida interessante e perché non volevo appunto che è
+ho visto come colui che rompe le scatole ma ot ma volevo portare i programmatori poi ho capito che questa figura che sta all'interno dei team america ma da in gergo i e
+giuridici champions quindi avere un sensore di centoventotto o più sicuri di sé all'interno del team in modo che tutti fossero coinvolti e che non vedessero la sicurezza un qualcosa che sta di lato quando c'è un incidente o quando dobbiamo fare ma ne parliamo
+quando c'è bisogno di no di progettare è una feature o di pensare appunto problema ma l'ho fatto in questo modo dico delle banalità no però vi racconto la mia esperienza sembrano cavolate ma sono invece è stata interessante innanzitutto che quando io dovevo automatizzare dei processi magari anche il supporto di qualche derby e sc
+gettare esprimere determinate cose e neilson e sicurezza passavano e davanti insieme a quelli degli sviluppi non erano all'america gli sviluppatori devono passare della va a pezzettoni quindi è sentivano e sicurezza cioè sembra una banalità ma è importante anche questa cosa di farle vedere
+bere altra cosa per esempio avevamo fatto delle dashboard per monitorare e vedere anche gli incidenti di sicurezza eloquio di un web application firewall e quelle da ashford erano visibili a tutta quindi non era la e
+sicurezza che vedeva solo quelli quelle critiche weiwei
+i valori a cui potevano accedervi tonio era niente veramente degli schermi award siamo arrivati che purtroppo fallita prima della stampa però l'idea che erano di condividere queste cose quindi quando mi sono messa al rogo e domanda e automatizzare ho cercato di capire effettivamente quello che si poteva automatizzare e renderlo
+e turisti all'interno della kaitlin quindi si incastri e tipica via giorgio jan a punto di alcuni test che maniera e dinamica ma soprattutto era è era proprio secondo me è appunto quel quel senso che vi dicevo prima quindi non voglio dire che la e test automatici non sono importanti importantissimi ma spesso e volentieri si fa l'errore di
+pare che desse gotze sono solo test invece ampliate aspetto ha avuto poi ne parliamo un'altra cosa bella che facevamo con le card in pieno stile e devops agile se vogliamo praticamente eravamo dei jet e scenari di attacco e chiamate questi momenti insieme di condividere le tesi boom per te
+baby tv per tutto il team camicia ne parliamo di purezza ti dirò una gatta e un attaccante è riuscito a rubare l'account di un credere e banalmente questo presto armi che ha portato a disegnare un tre nove battle mode è venuto da sorti con le metodologie che poi possiamo anche parlare che nuovo
+era nata dal brainstorming per epatite c m brainstorming con persone non che non necessariamente si occupano di ruolo di security nonché però diciamo con la loro cultura potevano entrare e ragionare nel discorso senza entrare in un dettaglio verticale in cui
+è chiaro che c'è una specializzazione no e ti accorgi poi finisco che hai vinto tra virgolette quando io vedevo gli sviluppatori e quando è un dubbio di come passare un po genio e mi interpella mi chiedevano del luogo ma secondo te questa cosa è fatta bene così l'idea che sta lavorando bene che la sicurezza entra in discorsi
+quindi viene visto come alzo un po' di livello qui forse per giorgio di hogan
+un assist di fornisco che è quello che la sicurezza viene vista come abilitante per il business non deve essere vista come un qualcosa che intralcia o che crea costi e problemi
+assolutamente no ma è quello che succede io io non l'ho visto succedere a te
+intero perché occupato anche della parte security
+sui anni novanta fino arrivare all'avvento del dempsey cops in effetti è sempre stata una prova insolentissima non fu qualsiasi tipo di iniziativa pro security perché come dicevamo prima non era vista proprio come eccoli arrivati a rompere le scatole sta cambiando sarebbe no la consapevolezza
+è verissimo competizioni che comunque anche le molle giovani leve che no che saprò solo uno sviluppo che magari hanno sono addestrati a essere molto rapidi nello sviluppo di funzionalità nello sviluppo delle hawaii o anche da pisa svolge poi il tema della security alla montagnola da scalare per cui il fatto di
+avere la possibilità di effettuare con inserito gianluca condivisione continua ti porta proprio in un mondo dove non hanno consapevolezza ma li rende consapevoli ma anche abbastanza rapidamente perché non è necessario andare troppo a fondo però devi avere delle
+nozioni di che cosa vuol dire a portare un servizio internet e avere la consapevolezza dei rischi che puoi correre le cose più macroscopiche che devi sicuramente arginare le fasi di design altrimenti son dolori puoi mettere la pensano
+credo ben vengano anche le e-mail i tipi incontri no insomma e tela aida in cui magari io stesso e volevo parlare di un effetto è tempo di mettere in sicurezza le vie di terze parti ma su questa cosa farci con una brown bag fare tutti insieme e poi andiamo a pranzo in cui io in venti minuti spiegavo questo concerto quindi per me ripeto
+che venivo ecco da quel mondo alessandro hanno sempre valore di
+sinonimi posso dire perché non voglio essere volgare ma inizia con jenna e finisce con lama io la pensavo in quel modo creativo
+la verità è che era dovuta all'ignoranza quello che leggo in fin dei conti poi dico che in poi questo può fare teatro oggi forse volendo fare un parallelo qualche generazione di terminologie no fosse il devops finalmente ammettendo quello che raid
+la sicurezza è un processo poi alla fine no perché ma esso il processo reale perché c'è un'organizzazione a essere chiavi devops di queste cose
+design sono che un tempo c'era una forte differenziazione ai nostri percepivano le minacce è chiaro che l'ambiente bancario è sempre scusate se torno lì ma è sempre stato abbastanza sensibile unicamente perché gestiva dei denari
+rispetto alle telco piuttosto che ad altre aziende all'energia rispetto ad oggi è evidente poi senza contare la globalizzazione le guerre ormai vernet ice che mi piacerebbe conoscere di più però penso che sposo
+alcuni tavoli si conoscono queste cose davvero no io almeno io certamente non le conosco e quindi il mondo veramente cambiato da quel punto di vista poi un punto che potremmo
+che sempre parlando di automatizzazione posso dare come tema un tema specialistico poi vedi te se vale la pena
+affrontarlo è che non tutti i test si possono per definizione automatizzare chi prova a farlo perché si affida ciecamente a un tool a dei risultati che potrebbero essere non ottimali no parliamo di web e penetration test posare soltanto un tool è la cosa più
+più inefficiente che puoi fare ti può dare dei falsi negativi perché ogni applicazione può essere a sé e non tutte si fa vi fanno dei framework noti per cui quello strumento va alla ricerca ecco questo però è un aspetto quindi diciamo certe cose diciamo che non chiamava artigianale
+ali ma sarebbe più giusto chiamare creative che nascono dalla coscienza applicata come può fare un uomo non una macchina hanno un loro senso e sono assolutamente necessarie o che perciò sono andato un po' old and re re io per la mia esperienza poi dopo che giorgio magari
+anche tu un'esperienza che ti posso dire sì provato a far avanzare il più possibile questo non significa che prendo un pool e lo lancio è quello che viene fuori non ha cacciato di casa quasi niente o comunque meno che non siano errori enormi poi dopo che nei fatti quattro cinque sei per i pixel siano arrivati quindi non provi tante cose anomale che sia
+minimo di ewing e di messa a punto dello strumento e se non esiste però devi anche scrivere ecco perché io su indeed che erano con me hanno aiutato a scrivere degli strumenti ascritta magari no quindi ecco perché non puoi affidarti a un pool è solo il problema poi diventa avete accennato prima quando puoi
+bisogna andare a interpretare quindi io credo sia fondamentale il monitoring e come tenerli sotto controllo è un problema che ho avuto è stato quello degli artefatti no a una chat line i tuoi test però mi ritrovavo lecce no avevo generato magari pdf
+qualcuno deve andare lì lett stesso panico
+allora ho iniziato a pensare come poter visualizzare no quindi avere delle dashboard dove vederli farmi aiutare a scrivere dei thunder per fare ingestione dei risultati delle daspo quelle da scommettersi degli altri una volta che poi sappiamo che arriva quell'aria vulnerabilità come come la interpretiamo
+che dicevamo prima no come faccio poi a darla può creare un problema è questo allora va fatto il triage di questa vuole un altro ambiente che magari non ti piacciono e pertanto è hanno i test e production garantiranno un altro ambiente perso per fare questi esami e test può vedere se effettivamente il pacco
+quindi vedete che è vero che il processo è lungo e sicuramente fate quella giusta però questo può sicuramente occorre rallentare se mi capita spesso di dire che questa dipendenza e vulnerabilità merrick psi cosa si mannoia non ci siamo perché non ci fate vedere il processo che ci vuole tempo
+e per gestirlo fratellino però bisogna prendere quella strada e piano piano
+pompe film estivo il problema non è che possiamo dire occhei poche c'è questa vulnerabilità elastici quindi io stesso ho dovuto fare anche questo aspetto di come gestire le vulnerabilità a volte erano state trovate a voi che esperienze avete avuto questo punto di batman è facile al termine ha tutto non è l'origine ecco però c'è da capire no
+magari noi ormai programma motivo in note prende meglio di meghan pm enti a pistone c'è quel famoso come me quelle galline che arrivano in mezzo alla piatta
+magari chieda una vulnerabilità magari coppie non usi però ridono pelham della libreria
+quindi c'è da capire quanto pare questo devi fare il triage perché vuole tempo fare questa cosa a te interessante e parlando di proprio di sviluppo no questo può essere interessante come tema no io penso che un po' tutti no usiamo ormai un po' tutti diciamo come cliente o come sviluppato
+ok usiamo pletora di libreria di natura open source
+spesso i sorgenti ce ne mettiamo uno mirror interno o che cosa lo scriviamo anche noi basato su quelle librerie
+come christian le vulnerabilità di questi software dubito che internamente cest non potrai che hai di fronte a te su una macchina interna o comunque in un cloud protetto e internet nove farne due dell'epidemia nelle pmi install da rapporti dopo li poi bisogna vedere non esiste perdendo
+strumentari che ti controllano il codice per le vulnerabilità per esempio questo episodio all'esterno acquistarlo ma internamente le organizzazioni poche agosto github è nato morningstar stan qualcosa su tela ab così via però bisogna internamente viene usato questo training e l'applicazione anche
+casomai proprietaria privata chiamano proprietà privata dell'organizzazione usa delle librerie open source che hanno delle vulnerabilità e come farla individuare che ti analizzano questa cosa a questo è
+dopo il disastro gay credo che questo questo aspetto si sono fatti parecchi passi avanti noto la software basta
+con diverse definizioni con finiani di fibre bisogna vedere poi attivamente che si è fatto perché sono investimenti ci vuole un'organizzazione c'è qualcuno che li segue
+non è mai lo strumento da solo giornale testo non è l'argomento ma è importante la consapevolezza il fatto che si sono mossi per risolvere il problema adesso vuoi ne saprà sicuramente più di me so che ci sono almeno un paio di formati no per definire la lista di dipendenze di un software liberi da cui dipende e poi son
+tu sappia che stanno venendo al riguardo non so se potete darmi qualche dettaglio rispetto vostra fumose considerazioni
+un bel po' di roba sono tanti strumenti come una piuma ci trovammo
+genericamente gli strumenti di analisi statica del codice picard si applicano a tutto ciò che il codice per questo ci sono anche un libro terze parti open source qui per fortuna ci sono i sorgenti
+si può entrare nel merito e trattare alla stessa stregua del codice interno per cui è amica della droga come lo paghi e poi ti metti a partecipare all'open source sarebbe una notizia annulla ma aspetta no non è attenzione non è necessariamente allora sarebbe bello arrivare a dire che faccio il dvd ti aprono su effettua la segue con quello però se tu tuoi
+hai definito delle regole e di nuovo oggi ottimizzate su quello che è il livello qualitativo che sia in grado di sopportare e i sorgenti della disposizione tu puoi semplicemente arrivare a dire che quella cosa non passa il controllo e allora quella libreria non viene più promossa o non viene accettata e quarti quanto prima lo fai quanto prima o poi agire per scegliere delle alternative
+esempio è chiaro che sarei fatto dopo tre anni che sei in esercizio e l'applicazione stato approvato su quel framework buona fortuna no metterci le mani o questo è un pezzetto io poi quello che ho visto molto utilizzarono suo interno
+parlavo prima dell'analisi in pipeline delle dipendenze applicativi o per cui l'identificazione della vulnerabilità viene automaticamente alimentata da fonti pubbliche su dove ci sono i civili swiss pubblicati o ancora per esempio l'analisi dei registri per i
+repository di magie di container proprietà a un'atra no per cui le fonti che portano artefatti all'interno di una infrastruttura architettura e ht siccome siamo già a un livello buono di maturazione sui controlli che ci puoi mettere il tema è comunque quello di cui stavamo parlando prima cioè come riesco a farlo in maniera c
+labile perché è chiaro che se metto lì il cinesino che deve aprirsi ogni singolo pacchetto al terzo giorno rinuncio e con un approccio più niente cui quanto più si riesce a inserire nella catena di montaggio o in ogni caso rendere automatizzato la scalabilità a quel punto teoricamente peso gestirla a quel punto il governo è
+ok adesso l'ho identificata e cosa faccio blocco suggerisco di fare delle correzioni me la tengo buono e ci mette un paletto in produzione perché ciò il web application firewall che vi farà andato tappo non c'è una risposta unica perché dipende molto da noi si giocò la candela e tre doppie devi in qualche modo
+definire stavano facendo rispetto al tema stai trattando con look for lì era corriamo ai ripari se c'è da chiudere si chiude e poi dopo ci pensiamo come andare a ripulirono però non è sempre così oggettivamente il suono dei livelli di vulnerabilità che non non espongono di problemi veri e propri uno specifico
+vuol dire che l'opera sapere l'ordine interno quindi ai diversi livelli di urgenza diverse metodologie
+però e piedi conto che poi sai e alessandro che puoi puoi avere anche delle realtà in cui sai dei software che sono anche fuori supporto ok ma è l'hashtag che non è una cosa io immagino che non sia poco diffusa no è diffusa questa cosa la persona che puoi avere
+che puoi avere e alle volte è il fatto se non che sono schizzato e ci mancherebbe la prova è una fortuna che se queste piattaforme policy opposto si basano su open source perché con un po' di competenze e caso mai qualche vecchio post di patch si può ancora fare
+pare che questa
+oh devi sempre mettere le mani se ammettere sole ma la plebaglia il codice dà pace non è che è una cosa che un pochino di competenze qualche cosa dovresti avere jenson non è una cosa trivial andare a mettere le mani sul codice posso io di stampace fare un back porch di una pezza che è una cosa che fanno molti vendor open source
+lo fanno bene perché ci hanno degli ingegneri specificatamente per queste cose che hanno delle strutture di tool ed eroico che quello è un tema che se uno se li vedi un po' come si fa e affrontabili in modo automatizzato quando li è importante avere il testo automatici automatici non regressione ad esempio sarebbe
+molto utile soprattutto per le web application soprattutto quando andiamo a giornali web application firewall no e cose del genere che potremmo avere no quello cioè le due cose è una web application farmaco web application test automatici con le cose che con l'aggiornamento di uno e tre non solo perché quei falsi positivi e negativi
+ii per quanto
+è una cosa molto interessante
+un argomento la butto l'acqua magari ne parliamo tedesco dell'infrastruttura di tod's no code l'importatore e quindi
+applicate un ruolo anche lì non c'è più bisogno di e persino manualmente sia scrivere le regole
+taxi porn saint cloud e quindi detto anche questo mentre i test che devono essere poi bisogna controllare che effettivamente è un
+whatsapp di un gioco per esempio è provato in maniera corretta
+quando lo facciamo tac prima delle regole e dopo per vedere se effettivamente successore è andato tutto liscio
+a me hanno chiesto di mettere una regola parola for gay e tanto
+sono un vecchio strumentario da zero perché ero rimasto veramente l'estinto ancora che sapeva mettere le mani sulla roba di allora magari riesumato di eutelia e di attese formati su un ho fatto pure credito mastercard l'ho buttata lì giusto per introdurre
+no certo che ho detto anche io
+gli abitanti dei limiti aprea soprattutto testualmente io mi chiamano un pochettino wolfe me spesso capita che sono nostri ma è utilissimo e tutto però pensano stiamo vulnerabilità a casa banalissima su un gatto magari così lamezia e la nappa crowne è e rimane sotto uno significa che se tu hai who devi cacciare
+urla poi dato il codice va beh quello lo posso dirti per darti il tempo di carità al piemonte
+joseph danno a ogni tanto ci sentiamo a perdere la voce speciale ma non poté diventa
+nel senso generale
+mi aggancio a quello che dice gianluigi dove puoi dire qualcosa di interessante dopo aver parlato gianluca è veramente impossibile
+studiando le cose da nerd stavo stavo rivedendo il sagan santo cinque sessanta in cui dice l'approccio oggi dovrebbe essere che io ero contrario un tempo mi dicevo adesso che tu fai quando fai il pen test sta in fase di post exploitation cioè nel senso che sta in una fase in cui non è l'antivirus cat b
+rocca perché potrebbe rompersi da antivirus disattivato oppure il firewall che blocca perché potrebbero starci ma dovresti vedere lo spray beach e praticamente quello che stavi dicendo è un approccio abbia adesso se per una cosa che a un certo posto qui diciamo diciamo un suo valore ecco che come approccio che vuole dare alle persone che lo seguono
+so resina vorrebbe dire che comunque la cosa primaria e il codice center e baker agosta che da noi quando facciamo anche eco anche attività di tempeste o web application penetration test praticamente è gravida che diciamo qual è quello che abbiamo trovato quella vulnerabilità e magari se come dicevo prima
+un appello che abbiamo utilizzato e mi è capitato che pacchia non pagando solo il match con quel pelo
+trova il pap test dopo che shelby
+sai cosa dice la gente scappa proprio in maniera corretta
+perchè manca questo punto credo che quindi anche lì un altro tema importante è quello della formazione noi io stesso dico e programmazione è sicura non dovrebbe esistere perché cadore peste e cura di per sé però è capitato spesso anche adesso noi anche come
+è il lavoro facciamo dei corsi di yoga e di sicurezza del codice sembra ancora è triste dirlo nel duemilaventitre e parli di cose da marziani che non hanno mai è verissimo
+se avessimo fatto questo torniamo a curavano il cerchio su quello che dicevo prima cioè è un po' l'evoluzione almeno io l'ho registrata così in termine comunque positivi no la sua sicurezza era un tema prettamente infrastrutturale al problema mettici il firewall è un problema pubbliche insomma etici wafer metterci la pezza da qualche parte
+nello spostare giustamente no all'interno della vera sullo sviluppo del codice chi sviluppa
+la differenza tra un panino e un bufalo profondo una vera e propria corsa però perché altrimenti
+qualunque nostro accordo ma parliamo veramente delle diciotto la di owasp luogo delle regole base quali sono riescono action come fai a gestirle che una volta prese poi non è fantascienza no nel senso che sono delle regole delle buone pratiche tanto quanto la gestione memoria dello le performance quindi dovrebbero far parte del bagaglio standard
+lo sviluppatore probabilmente però l'avviso grazie alle operation
+ha fatto un po di daniele
+poi c'è da guardare che abbiamo tanti strumenti automatici noto molte e che poi ne possiamo parlare
+simulatore di codice bisogna vedere che c'è dentro se si capisce che non è che open air e cose del genere aiutano tanto poi alla fine fare una cosa che neanche dove il pacchetto dentro così come guidi che c'è una probabilità ma c'è un grafico chiedo allora chi era travolta di bitetto
+l'altra volta che aspettare
+rinnovare oggi sia giorgio
+orecchio western e il problema della collina e saper programmare in modo sicuro è un problema perché ogni programmatore in parte ma sarà solo tra il colombaio diletta nella sua carriera al programmatore è come dire sicilia
+sbattere il naso sbattere il naso e quindi va da sé che arriverà a sbatterci la prima volta che magari capiterà di avere il codice che poi però essendo occupa i nuovi ce ne sono sempre e bene e ci sta è un problema che sarà costante quindi credo che cercare soluzioni a monte se posse
+ibis ove possibile e sempre
+è opportuno diciamo per cui ci sta tutto ma appaiono anche gli strumenti che stavate citando che mi sono persa sotto certi aspetti sotto certi contesti ma nello stesso tempo una macchina si può aspettare che il programmatore nasca imparato scattato in termini di sicurezza ip e mai capire voi che me
+è tutta una certa età voi è come se i casi online
+allora si diceva si parlava amico in sicurezza già iniziata la bacon internet ecc
+siamo sempre lì alla fine
+zero
+il packing
+software non sicuro è tutto qua anzi fosse né cosa sia la complessità del software ti sentirai così cresciuta che possono crescere opportunità di
+a questo proposito chiederei un po' a gianluca visto che comunque tu hai capito benissimo tutto il mondo devops molto meglio di molte altre creature che hanno parlato di automation automation e condivisione di informazioni e sharing della visibilità sulla sua longa e le metriche è un alla
+amy comunica la sicurezza che non è vista come ah che palle c'è la sicurezza che ci che ci rende i processi più più più più farraginosi perché la sicurezza ma in realtà è a supporto del business anche qualche altra perla in termini di des corps quelli più specifici di asp
+sperienze di sì esatto ed ira come i rapaci alla gestione sicurezza che siano in linea coi tempi alla mente aneddoti ce ne sarebbero a iosa dirà poiché non via la connessione non ci sarebbero a iosa che potrei raccontare che mi hanno portato ovunque questa informazione
+sicuramente tutti gli aspetti che abbiamo detto se ne accorgono che appare poi
+piuttosto gravi quindi è inutile che quello che siamo come dei pezzettini non adesso
+est su questo contest delle infrastrutture
+su daugherty è fondamentale poi arriviamo ai interpellare e equipment
+il punto di controllo insomma di chi può parlare wikipedia io a un certo punto quello che posso dirti è sviluppato anche un passaggio indietro no ma mi sentite bene vorrei che avesse urbani di yen fai come commessa come il cellulare sotto la galleria
+che cos'è
+la rete di catania sposatevi becco vincevo quello che ho capito è era eroe western alla fine non non non servite queste cose servivano per mia moto epoque quell'approccio che vi dicevo prima e quindi è per me è fondamentale anche in quell'ottica che dicono adesso di formazione continua i figli e crescere
+olio ovest perché non a caso lo devo prendere i principi o per centrale poi nel codice potranno essere quelli indietro da quelli i calarli in una azienda di sviluppatori nome era trovato in una maniera corretta è veramente tanta roba perché a parte che noi abbiamo subito emesso un video e a
+aziendali io sono un fan dei video aziendali
+non è fondamentale documentare tutto il più possibile e scrivere appunto per te le regole di programmazione e sicura delle best practices banalissime anche questo e aiuto perché i programmatori insomma qualcuno con cui hai a che fare io devo ragionare in
+data insolita che vogliamo per la programmazione cui siamo abituati che non era pensare e se effettivamente funzionasse perché le finestre fossero vorrete poco a te e ripetete che ci fosse un problema di e
+sicurezza io io li facevo partire dal presupposto che potevano essere buca che comunque ci sarà eccessi ci poteva essere al contrario
+i gatti cantavano e
+fatti per sé e non è è è sicuro se un test è fallito perché ti amo significa che è etichettato un un problema enorme di esperienza sicurezza e che quindi l'applicativo te lo bucano e rispondono è tutto no dev'essere visto come in qualche modo un normale
+bud perchè l'applicativo tornava a uno stato precedente per esempio che sei e quello che chinò gospel viene chiamato che il fail-safe quindi farli ragionare in quest'ottica esplode scopo un pò contorto magari per spiegarla è però tu parti dal presupposto che stai pagabile a me è importante dal punto di vista dell'approccio alla
+promozione e di
+perché ti chiedi tu quote
+mi chiederesti prima se pensi solo a patto che funzioni e faccia quello che deve fare che riguarda il perché sono stati tranquilli e quindi io ho notato questa differenza insomma quando un ragazzo con cui programmavo si chiedevano umano che mi bucano qui che succede controllato questo è poco questo fette di quel re ti accorgi che un'induzione gay
+quando sono loro stessi a chiedersi e chiederci queste cose non so se gli altri avere avuto esperienze di quel tipo lì ma tra di loro nell'ambito open source questa cosa è molto è molto diffusa si stanno sempre più introducendo anche in ambiti di programmazione se vogliamo più tradizionale
+o si stanno introducendo di
+delle delle dei tool di metodologie di food styling
+insomma una certa raffinatezza che poi alla fine dice portano o meno comunque ha un problema portano meno a una vulnerabilità a bolzano o meno casa vai semplicemente un errore che puoi puoi e poi può essere poi no lui ha designano di
+vulnerabilità no quindi noi abbiamo un blog open source molti stanno introducendo anche a livello diciamo grandi grandi tremonti di google news fas fedora in cui i progetti iper blasonati come tipo url or high water motivi storici che un progetto tradizionalisti
+mo che fai in giro da venticinque anni così via peraltro si molto sviluppato grazie al suo mantainer e che si introduce addirittura su piattaforme tipo walk o piuttosto che partecipa volgersi jazz o stress pazzo cioè c'è tutta un insieme
+utilizza tutto questo framework gratuito per migliorare la qualità del codice quindi nonostante ciò il cartone così diffusi che sembra si trova e nonostante ciò e questo anche detto nonostante tutti gli sforzi che uno possa anche far comunque automatizzazione
+pinot fino a un certo punto perché il difensore l'attaccante modo di approccio recensore deve può difendersi da tante cose attaccante deve trovare soltanto una piccola debolezza
+sette yantra e mantra no
+basta che una cosetta piccola potrebbe diventare grande mentre noi dobbiamo cercare di difenderci un po' da tutto però è esposti cosa e ogni età da già d'accordo gianluca insomma sono una piccola cosa come dico spesso e tornasse indietro andare a lavorare in netflix fare quelli che si chiamano
+le cause mountain
+di persone pagate per introdurre
+l'elenco del mio obiettivo è quello l'obiettivo ultimo gianluca e sopratutto che
+le cose kering alla religione allora poi dopo posso anche andare in pensione ci vorrà ancora un po'
+non autorizziamo fate bene i conti col timer e a ocean netflix non è una banca dai facciamolo a casa con palla passa flag no no no no no bisogna fare
+badare alla loro nave va detto che comunque sono anche nuove istituzioni si stanno aggravando dei punti di contatto anche con me almeno nell'ambito italiano con l'agenzia della sicurezza verso gli ultimi nuove ma sono cose di rilievo sono collaborazioni o comunque persone
+molto competente penso che pian piano piano anche negli ambiti più tradizionalisti per esempio questa cosa che dire piergiorgio potrebbe essere vista come una proposta di sviluppo interessante da fare bisogna portarlo dei tavoli anche trustee bisogna essere anche manager in questo no
+piergiorgio perché puoi vai da parte essere un grande grande esperto aiuta e quello certamente perché sei competente sulla tua materia deve avere anche delle qualità perché di andare in tavola con persone che casomai non sono costi verticali ma neanche un nome ampiamente indubbiamente però io parto dal presupposto che kathryn
+se giri per me
+punto d'arrivo perché se ce lo racconti che vai a dire a un manager di una banca silvio di una banca di wall da vogliamo voglio scatenare le scimmie è in produzione a vedere se riescono a buttar giù ex ributtano giù i servizi vediamo se siamo capaci di ripristinarle in quanto tempo sei fuori dalla porta in tre secondi e mezzo
+e non ti lasciano più rientrare no ma è anche giusto così ormai però poi l'esigenza esatto in realtà stai mettendo sul tavolo il tema vero e proprio della resilienza cioè ok che non sarà netflix non ha alcuna necessità però sta in qualche modo nascondendo lo sporco sotto lo zerbino perché sai di non essere marie per nulla leslie
+ente la stessa cosa è trasferibile anche al tema della cybersecurity no per cui speriamo di non essere attaccati non è una strategia ed è per quello che poi ci metti in un sacco di soldi e tempo a mettere difese a creare cultura fare lo chef dartford axe cops non tanto perché fa figo e fa innovazione no mai perché diventa una necessità
+o per esempio visto che anche qua per riportare una ventata di ottimismo negli ultimi anni cose che non sono mai successo per decenni per esempio la volontà del management ma anche degli attori sicurezza in senso stretto ne sanno poco di inserire clausole contrattuali con fornitori con super source nel software house
+rispetto al presidio della sicurezza o delle vulnerabilità o dell'obsolescenza del software qui non è più se hai voglia se sei bravo me lo gestisci oppure ti pago un extra se lo fai no no no quello fa parte dell'ufficio base che tu mi devi garantire se trovo una vulnerabilità come risolvi punto parte del nostro rapporto e quindi metterlo nero su bianco
+cho lo fa diventare una veramente un elemento portante no nel ciclo di vita del software in questo senso sono ottimista che le cose succederanno anche per la residenza e miseria vedere quanto questo approccio di piergiorgio è diffusa in altre industrie no gianluca dogane pezzo nel senso che l'ottimismo serve io sono
+non sono di quelli che sono pessimista che anche lo dico sempre che quando andiamo a parlare di sicuri di no facciamo terrorismo era cosa sbagliata che c'è se serve un po' di paura serve perché bisogna anche dare un po' di ottimismo dalle risoluzioni e da quando che una strada intrapresa ed è lì a parlarvi della mio esempio
+mi ero avvicinato la sicurezza del codice se ti chini generale dei mi ricordo che anche quello che condivisa una foto che avevo che mi ero praticamente preso tutti i volumi che di agid e scaricate miller ho letti tutti ovviamente che stanno proprio sulle linee guida per lo sviluppo oggi si sono fatti veramente bene invito tutti a
+a leggervele è che sono un compendio certo non c'è tipo di provenienza mi vedete anche nella piazza sono dei segnali di ottimismo impresa di digitalizzarla e britannica lo sappiamo tu non è che si parli un giorno però stanno battendo in maniera corretta anche la
+intorno a me come ben come fare il pessimista in questa ondata di ottimismo
+dialettico madre
+queste belle cose com'è che le compariamo di fonte poi ai casi recenti di hostess si è esposti internet non picchiati perché poi alla fine mi sembra di capire che la realtà è variopinta e variegata e in molte le cose che sembrano scontate
+poi però non lo sono così tanti ben capito però andare a esporre delle console web weir ho capito che stiamo parlando del
+beh che dire vabbè ho capito e babette ebay con l'isola ce li ho e proprio non è male neanche un approccio essere lì non inqualificabile statuto e in qualifica expo esporre una console liberamente dai ho fatto ho fatto una wiki
+su censis usciremo più di tremilaseicento in cui la la pagina
+sei opera era stata cambiata nel milleseicento host diceva bene rispetto a milioni di miliardi non sono ne parrà che uno mette una console web wireless possa avere
+ah scusami degli errori siano sempre quelli come diceva alessandro questo che ci fa un pò tristezza no ne parliamo sembra quasi che sia felice e flatus vocis quello che diciamo
+di che parliamo nel deserto in realtà dove si puote ce la prendiamo sempre con gli utonti con le persone però io dico sempre che la colpa forse anche un po' noi che non riusciamo a comunicarlo in maniera corretta e spesso e volentieri si piace parlare di tecnicismi e di goderne
+fase principale che li insistiamo tutti quanti mi vogliono bene veramente è appunto quello dell'awareness non è una protesta che li cultura va fatta bisogna parlarne ma non basta solo andare in televisione mi faccio intervistare a un giornalista e quindi io parlo di quelle cose secondo me bisogna cominciare molto prima qua
+che dalle scuole direi cominciare a fare quel tipo di cultura ecco perché non è più ammissibile come dici tu però ci sono anche oggi vengono dalla gestione di un missile response che ancora trovare degli arredi pc cam sempre non hanno più e però c'è stato il lockdown come sapete aziende in difficoltà non erano pronte aperto al mondo
+parimenti a ripercorrere anche scordati veramente mi è successo e non si ricordavano di avere quello più esposto
+la quell'indirizzo ip e quindi perché vengono fatti questi errori ma solo perché sono perché sono incapaci o invece forse qualcuno non gliel'ha detto in maniera corretta questo messaggio credo neanche io voglio essere ottimista possiamo fare di più anche no anche noi facciamo sicurezza ottimismo sempre però corrispondere come dice alessandro secondo me qui
+bisogna sempre puoi misurare non c'è e ottimismo consistenza senza controllare a che punto siamo e sicuramente c'è ancora un io meno lo registro e lo combatto tutti i giorni io sono patologicamente
+postato sul pc a tutti i costi scopo no però
+non faccio testo e di non fare testo però a me non sta bene anche l'opposto uno che è la squadra che vince non si cambia funzionano tocchiamo niente funzionano continua ma non toccare niente e nel giro di pochissimo tempo ti ritrovi con una cosa in sé anche se a capo coda o altro e quella è per me la giustificazione cioè
+sono sicuro che nessuno volontariamente ammesso esposto la console web slip di sexy però i vantaggi ci faccio una leggerezza oggi non faccio una domani perché l'obiettivo è erogare il servizio non rompere le scatole non cede la finestra di manutenzione non spegnere i servizi in realtà non l'ha quel tipo di
+comunicazione e mi ritrovo con gianluca gestita correttamente adesso soprattutto quando vendi il pacchetto per esempio in questo caso le selezioni infrastrutture non puoi dire ok l'ho installato ci ci rivediamo fra cinque anni se non chiudi la frase con dovremmo pianificare gli orari di manutenzione
+non fare il pacing dovremmo tenerci di riserva poco tempo e risorse per fare l'operatività di manutenzione ordinaria
+roma list la stai proprio scavalcando non è problema di consegna e in parte di consapevolezza ma è proprio qui fuori di comunicazione o dai per scontato poi non capita mai e vabbè tanto non capiterà mai ma quando capita poi come nel caso specifico hanno gonfiato in maniera vergognosa perché sembrava che il pianeta terra era accaduto sotto
+visualizzato nella comunicazione ai nati in realtà ho letto un giornale estero che stiamo parlando della stessa cosa no sta varando cosa recente no when where poi incidentalmente sto discorso harold lloyd dall'attacco tutto il mondo sia stato in concomitanza di un guasto della rete tim nel tempo in realtà
+sante ed è interessante che ho trovato su una rivista straniera le facemmo un po' di ricerche in cui raccontava di harlan iniziando parlando di questo problema su scala mondiale e poi diceva in italia è stato particolarmente sentito perché c'è stato un problema anche alla rete concomitante
+no aspetta mica finita perché fin qui ci stanno i liquidi ha interrotto la visione di una partita e quindi per che sacro cioè no no ma il bello che lo dichiarerà che era un po' tragica comico c'è come dicevo in italia si è avuto il problema mentre quell'altra partita poi si è visto bene allora
+in italia da negoziata che hanno spedita la partita e che la cosa no mai detto dalla stampa estera però dicevo poi in modo asettico ma di ma lo sappiamo che è così da lì cioè
+temo che anche informali capitale del cielo diceva proprio in modo serio come gpt che ti dicevo che stupidaggine in modo fermo ma ti sei vedi anche sul forum hacker e gli attaccanti che condividevano e ci hanno che urlavano quando hanno ingigantito la cosa che diane dedicate anche al cacciatore modo non abbiamo fatto una bella figura neanche
+attaccato il pacco però la propria idea di quello che dicono loro va comunque alla fine dei goti
+le iperboli sui sui telegiornali sul tema reclamo rischio di catastrofe o meglio un po' di più che un po' di meno perché io poi il giorno dopo di telefonate che ho ricevuto tante alla quale io mi sono preso il tempo di rispondere a dire stiamo posto virgola però per fortuna mi hai chiesto no quindi ti sei posto il problema c'è qualcosa che posso
+cedere e quindi che non è solo pensateci voi quando avete tempo no no no è questa cosa qua si arriva alla ribalta dei giornali qualche aiutino continuano da poi però bisogna esagerare altrimenti si passa
+erotiche del terrore non funziona e di fatto viene posta che erano attacchi hacker gli hacker avevano fra i programmatori loro insomma vuoi vendere della casa
+adesso adesso il fenomeno più insomma che sempre più a rischio di telegiornale stavamo prima di iniziare la diretta anche il tema del ransomware note e nessuno vuole vuole diventare famoso al telegiornale per quelle cose lì però il fatto che le notizie presenti grossi e meno grossa compagnia bella
+soprattutto al clima dal palco a force allora può succedere davvero anche a me perché perché non dovrebbe succedere e a quel punto di nuovo la consapevolezza viene un po' alla volta viene costruita anche a martellate perché la parte tecnica non può arrivare fino lì fino al dirigente no quindi deve arrivare per forza al telegiornale o dalla rivista di gossip
+beh cosa mi sembra giusto interrompono quello che non dico che che la tecnica non risolva il problema però sicuramente non può essere la soluzione altrimenti l'avremmo ho già approvata e suscitare
+qualcun altro che aveva detto che non possiamo risolvere un problema con lo stesso non penso il problema non sta bene concetti che non voglio finire questo lo vedo quindi avremo prima e tecnico con la tecnica è solo si può fare bus è sempre hanno bisogno soprattutto in questo caso parliamo di un fattore umano che sappiamo
+bellissime
+inevitabilmente ci sarà la proposta gianluca quanto fatto a mano influisce veramente sulle intrusioni reali ma che poi molto spesso nella modalità da pensare ma magari come dire la
+social engineering che ti fa entrare vinto ma fai qualche idea di quanto frequentemente questo accade oppure no
+dati alla mano che non ne ho veramente ce ne sono troppe rubrica di aziende molto interessanti soprattutto i ransomware la diffusione come dicevamo un argomento abbastanza diciamo sempre che sulla cresta dell'onda non sono anni che se ne sentiva parlare
+ancora se ne parla anzi sono aumentati per tanti versi questi attacchi puramente questi attacchi si possono dire in tanti modi quello che io sto vedendo ultimamente proprio recentemente in questo incidente responso che vi dicevo che uno ci mette tantissimo tempo no alla ricerca di arte parti di capire come sono entrambi se hanno bucato un servizio esterno quindi riescono
+delle vulnerabilità può invece appunto come dice tu scusa se ne stesse sto rispondendo a perché
+domanda i dati precisi e gli però è un magari pensi che hanno cliccato sulla mail quindi su un allegato di e-mail note e seguendo qualcosa o dando ingresso qualche modo degli attaccanti poi vai a scoprire che in realtà è quella threat intelligence che questi si erano comprati
+realizziamo camini fai dopo un lavoro di ricerca di vulnerabilità no di capire di provare belle le vetrate nemmeno e poi prendo il papa bene per scoprii che c'erano dei e di quella azienda magari su twitter
+eccome no dico ma è così ma no niente questa cosa mi fa sempre pensare no quando sento queste cose che diciamo non è che te
+fermezza da un punto di vista di un attaccante no cioè voglio dire non è che l'attaccante se va contro
+la porta blindata con la testa no temo che noi compriamo la porta blindata le nove mila euro in grado di
+affrontare la bomba nucleare manager subire attacchi la porta a porta in strada dei dalek coppia laterali insomma poi la terza porta blindata cade giù come se non ci fosse e quindi rimane discorso almeno cercare di penetrare la parte più debole non è che deve andare necessariamente una cosa iper sofisticata perché uno e poi portò
+a pensare di super sofisticazioni zero-day ma come l'esempio che ho fatto gianluca è dirimente perché il paralume più semplice insomma a coinvolgere credenziali contrario penso che ha sentito no perché stiamo anche parlando se ti ricordi e e e e
+iper e what love hewitt quelli di quest'anno metodologia che abbiamo poi tappa obbligatoria per tanti versi oggi è inevitabile che secondo me anche di poco offensiva come di cui mi occupo io inevitabilmente devi lavorare con vicino un inetto tre david e non può più pensare di fare il pen test vecchio tifosi anche quello
+i valori di cercare
+una vulnerabilità se c'è un problema devi comunque innalzarlo di pochettino e arrivare il più vicino possibile alla realtà comunque quelle attaccanti come dicevamo usando le password italiano quindi neanche perdute aree gli esplode a provare anch'io un nuovo numero alessandro però la mia percezione del quadro
+cosa può lavare in bocca però che il social engineering negli ultimi anni è diventato livelli sopraffini di sofisticazione e poi dice ma come un pezzo le porte blindate recinzioni però veramente studiati in maniera eccellente però se fai l'analisi costi benefici
+effettivamente se l'obiettivo è entrare dentro rimane ancora oggi nonostante tutto la werner le campagne di influencer
+eppure contiene
+beh sai proprio non sparendo dal mondo ragazze che tu no raga ragazzi un tubo da voi ma più esperti fabbro secondo me c'è tutta una grande differenza fra un attacco in grande stile che quindi diciamo che va solo quantità e quindi casomai in queste quantità trovi anche su un round
+zoey trovi qualcuno che poi colpisce dei dati importanti è disposto quindi a pagare delle cifre
+a fronte di un rapimento perché i ramsonware la forma di zavorra rapimento premettono ho quindi con quel discorso del rapimento non fa il backup mentre ramsey per potreste rubrica oppure un attacco mirato quello è quello è un altro discorso un attacco mirato è un qualcosa che
+ma bisogna vedere di peggio che proprio a mira o almeno stai mirando la persona e quindi vai a fare cioè molto più simile a un pezzo specifico konrad di mappe esilio però fabi dall'ottica di un attaccante quindi uno che dice che ti offre ti ho preso di mira perché
+penso che un certo tipo di attacco che può essere pure so che da lì possa avere delle informazioni molto importanti oppure un danno d'immagine rilevante che ti butta fuori dal mercato e rispetto a una concorrenza che mi paga lì diciamo che è ben diverso
+anche come forma di difesa no perché la ragione recitava è una specificità e non so come dirlo meno elfo gianluca scusa a questo proposito armata proprio dal mercato del pesce massacrò a fonti un attacco mirato alla gente intelligente che sa suo lavoro se ne esce oppure no essere trattati la macchina
+di fare un penetration anticipato che la stavo quasi per dire elia quando parlò di acquisti king the walking animati con questi temi
+è stato proprio al bersaglio che mostrano ah sì leve per lo meno io sfido chiunque a resistere a grado dove qualcuno magari ha carpito la fiducia in qualche modo è entrato in contatto è riuscito a partecipare l'area è normale che il livello di attenzione deve essere sempre a noi magari siamo più parlano si unisca al nostro lavoro bravo di me
+computer solo per andare long playing
+per proprio poco che lo spegnere non lo uso più però per dire tutti questi livelli di paranoia così però credo che sia molto difficile veramente resistere quando passi il livello di attenzione che è una idea anzi penso so se avete visto anche recentemente l'autore degli attacchi prova degli esperti vi e sicurezza i primi che magia
+scaricano dei cookie
+poi ho placati o muffe
+presi chissà dove c'erano dentro degli ipod stile fatti apposta proprio per gli esperti di sicurezza che sapevano che accettare quel punto li ora anche attrice e con le zanne per fare della grecia un test per esempio penso che debba steichen post tantissimo tanti che scaricano così l'inter spera
+ando che lo fa benissimo e poi vieni qui quindi vedete come è difficile non caderci e in questo caso siamo a nonno e nei nostri artisti inganna qualcosa di più generico indietro ma tu alessandro ti riferivi al come come non entrarci come uscirne comunale
+come difendersi da eventuali attacco mirato
+che poi io credo che il mio dubbio era una una volta che ci sei cascato dentro perché mettete toccato ai fatti di progettualità anni e compagnia bella ma poi il fatto che tu riesca a uscire a ixelles poiché una volta che sei stato violentato rimane nel segno eh
+è meglio rimane a livello chiaramente di culture quello poi quella parte positivo ma a livello it qual è l'estensione del dell'attacco c'è poi come fai a proteggerti una volta che lo vedi già però quando poi hai la conferma di tempo violato son dolori quelle sono proprio dolori suo nome
+l'installer non capivo per cui d'attacco ea sport
+no del tutto
+quello delle credenziali le credenziali rubate dell'esame deve aver rubato già amministratore o è stato sufficiente con quelle previdenziali fare un movimento laterale puoi fare un'escalation quindi perché sei riuscito com con quale previdenziale a bypassare le difese che tu dai per scontato
+toh ci fossero e quindi allora state certi certi tipi di approccio a pen test che si fanno in presenza di tutte le difese hanno significato forse non lo hanno di me e jenson l'automatizzazione l'automatizzazione anche no parliamo una cosa che possiamo fare di automatizzare il vostro debito però
+mi era venuto in mente prima caso mai ne parliamo in un viaggio di scorta e della piaga delle slot e la tac simulation pure quella è una tecnica per red team che una coda di l'automatizzazione degli attacchi per verificare come risponde l'azienda
+assolombarda undici
+borghi putridi andiamo verso il parco timmy è più che altro applicato anche dal punto di vista di chi difende deve deve lavorare di più rispetto a un pen test classico no c'è magari chi dipende a volte neanche si accorge di niente quindi rimango
+fatto una scansione punti quattro in sein che si vedeva tutto voi non avete winston
+abbiamo visto in dyneema sta parlando
+alessandro globalizzata queste cose
+a nessuno dicevo
+ah si scherza lì a lavorare in pappa il team è molto più oneroso per ben prepararsi per gestire una vpn per questo motivo io ne ho visti veramente pochi noi dobbiamo farti veramente dire purtroppo secondo me il futuro sarà lavorare un po' come dicevi tu avversaria
+quindi difesa e attacco che collaborano insieme e disegnano degli scenari che avvicinano per la realtà spera pagato minimo di freno a mano a me manca ransomware ricco pur con tutte le possibilità di automatizzazione di tante cose non somalo slot bonus piuttosto che
+voglio dire noi abbiamo anche adesso sa che sta addirittura succede
+gli automatico e l'automatizzazione sta andando verso tecniche di intelligenza artificiale o machine learning non scherziamo un monaco e l'analisi dei log e non so ma voglio dire che se no è il famoso blog buttati lì che poi nessuno guarda perché sono tonnellate
+quindi farà avere successo anche recentemente ma dover dire che mi hanno chiesto proprio di provare un pool di questi codici fanno penetration test automatici che dice che simulano ambiente artificiale comportamento di una tacca kernel malware ma l'attaccante che fa tutte le varie azioni la granby ovunque
+tutte le cose chiaramente all'interno della rete mi hanno chiesto johnson anche messo a ridere poi del mio paese questo personaggio che vi dirò feed di fare una competizione con questa macchina non ripeterete l'uomo riusciva a fare meglio della macchia e nel mio paese c'erano un personaggio che si chiama l'uomo e cavallo che è quello che è riuscito col cavallo a superare il premio
+famosissimo che quando ci rivedremo erano scettici questo dimostrò più lui superava tre mi hanno chiesto che riuscivo a battere una macchina che va un pò stupida come cosa quindi anche lì come è per i test e ghost aperto alle innovazioni della macchina ragiona bene va bene che siano l'erede diciamo che io io io mi mi
+guarderei bene da certi amici ecco trama sono io forse perché ma no so e ho capito perché insomma sai cosa così un conto è vedere se funzionano mettersi in competizione
+una barbona
+ricordiamo che il luogo diceva a avere solo lo dico a un uomo di grande cultura che off road che l'uomo è il fine non è il mezzo ecco quindi
+regola otto due di frode bowers un'altra finita la lettura di freud finita sotto ispirazione cosa quando gli altro tempo di galimberti quattro e così via per per perdono vocazioni e gianluca andiamo di strumenti rai che a me piace la cosa volevo terra
+ma
+a livello di valore
+inkscape della sicurezza sia nato attaccante creato difendenti diciamo quali sono gli strumenti più utilizzati nomi e cognomi
+grande anzitutto che tipo di attività che sta pagando ad esempio
+a analisi dei log quindi essere intelligence sui loghi immagini di plan e affini ma c'è qualcosa di più specifico avanzato ma aveva chiuso
+ti dirò una banalità se torniamo al discorso come prima anche delle piattaforme per noi
+questo libro secondo me
+nello stick terze perché credo sia veramente elastica proprio dei passi da gigante nel senso che la parte agent interessantissima che può andare quasi a sostituire un'idea drastica agente brody e sono tanti strumenti da proporre nomi commerciali da e farli fan più ampio periferie da love
+come falli falli pure gli enormi per esempio ugualmente un'antologia a voi ospiti quindi è stata dog era quello insomma criticamente perché stiamo valore però poi sono accorto che tanti di questi strumenti in realtà non sono quasi dei giocattoli lego non è stato quindi prendili monti di molti ma rimane sempre dentro
+non rispondevano esattamente quello che voglio voglio quindi abbiamo preferito proprio twitter un calo e così
+una dashboard lavoro a lavorarci sopra vogliamo è svolta basata su plastica con base aeronautica di tempo racconta anche un aneddoto che carino che parlavamo prima no i dati di paul per esempio era abbastanza maniaco queste cose sappiamo bene
+sono d'accordo che quando clifford segnala nulla e che va tutto bene meno male
+no c'è qualcosa che viene dal rinvio a giudizio per l'ex destre l'altro non va facciamo un test di stress vediamo se è vero a volte succedeva che magari una sonda o male ben preciso che non arrivava dovete comunque oggi the hai dei servizi esposti solo con le botnet che ci sono qualcosa prima sempre addosso ha voglia
+re max
+se la poesia quando ma nella cassetta degli attrezzi da basket
+timer cosa cosa tieni però vi difendete quando facciamo timing di fibromi timing com colle ne sono tantissimi uno denominato prima che può bastare anche il più famoso appunto per gestire le comunicazioni consensi e poi perché rimane non proverete più costoso abbiamo pollo e normalissimi penso che si conoscono woody allen il metasploit
+io a rispondere a molti e e e e tre tre leve fare miei attacchi però è per tanti versi come gli attaccanti e reali e proviamo ad abusare i colleghi e che ti temano musiche dolphins l'album zenit open e ti apre un'altra finestra scusate se lo dico oliver esempio
+uno
+pensi male e appena per salmone totalmente tricipiti in ambito windows diciamo che i fan marvel ti può attaccare città tra popoli e da tutto bello e pronto per fare queste attività basta solo darne a master pupille o altri diritti che comunque possono essere vietate per fare cose cattive mettiamola così diciamo che ti fa thinking
+mira anche ad essere il più sottile possibile perché spesso e volentieri nelle regole di ingaggio da uno due tre persone sanno perchè quell'attività che ti fai scoprire una brutta cosa che può succedere puoi prendere la mano lanci mimica patrono viale
+un periodo
+come no dico la bernina beh stanno valide a prendere la maca museo no nobel ma è chiaro lì parliamo di di cioè non è che puoi prendere che regga di fronte a te c'è il metasploit keibler senza ma cioè delle macchine e sensori devi anche capire
+so che deve vedere anche cosa fa poi l'azienda quando si allerta o qualcosa perché poi dietro ci stanno dei costi qualcuno analizza le cose dev'essere in grado anche di capirla e quello è un altro problema fu poi sai avere un software di persone che vedono solo della luce si accende poi vanno in panico perché non provi
+dicono neanche che sta succedendo riso e quello è un altro discorso e troviamo poi capire dove in quelle attività più spinte ad esempio il tessuto dalle regole di ingaggio come sempre
+diciamo che hai molta più libertà rispetto alle vendite se volete i giovani amo per l'azienda viene presentato come consulente e trovi letteralmente le penalità
+tre cose che ti fanno le persone di guai
+il post iva per ogni tanto errore tavolo della connessione vivo in una zona di periferia magari erano belli d'italia digital divide ora c'è a parte questo dicevo quindi
+facciamo anche attività più fisiche se vogliamo che gli parli con le persone e sembra triste dirlo ma se sai parlare dell'ultimo nuovo pesano le credenziali anche gli possono dare wiring è sovrano ingegneri vedono anche lì posso raccontarne di pianetto insomma che abbiamo fatto con il badge altre cose insomma che quando stai lì la fantasia
+a gaza è vero e lo si potrebbe automatizzare no andare a vedere quanto diciamo l'awareness louvre di abu bar parlo a livello di aziende noti popola di carlo giorgio caproni finché rimaniamo lì icecat mai imposto la possibilità però potreste promuovere delle campagne interne per vedere quanto all'ambiente
+ci caffè dentro al phishing padova ho detto un qualcosa di terrificante no ma dopo mozart già fatto
+è tardi
+credo che un teatro su soggetti con sospetto non sospetti perché quelli che ti aspetti che avrebbero era un pochino più di consapevolezza per il mestiere che fanno e noi a noi
+ho beccato se andiamo a pensare che abbia avuto scandali di grandi personaggi e usavo il telefono c'è il telefono dopo averlo visto quello per la cornetta se hai capito che dicevi che magari davvero per dirti cosa insomma che farebbero tremare i polsi dico vabbè sta intercettati ma la lega hanno usato sacchetti
+che ho capito logopedia ovest acre sapore delle olive ed analisi il senso di impunità e-mail e ho capito è quella cosa lì e poi comunque queste cose no
+sempre double face no perché ecobnb una piccola telecamera poi spendere qualcosa lo puoi fare anche per copie dei decreti che queste cose hanno sempre un duo anche l'automazione ha un ruolo unico notevole se a vedere come tutti i tool che possono asd di analisi di un problema potrebbero es
+essere anche tu del pacco no vuol dire prendiamo lo sniffer di rete è una cosa che serve per diagnosticare i problemi però poi dovrebbero essere anche degli strumenti utilizzati per compiti delle credenziali o per il personale
+zambrini di anni fa quando in germania che proibirono di ogni strumento di anticipo
+norme sarebbe una delle domande della ciber lode tecniche and light vanta ti giuro a gesù cristo e infatti mi ricordo ancora che spera il distruttore che diceva questi questo non era e non può credere ai tedeschi che nell'aula di duecento persone eravamo italiani chissà perchè tutti
+lavoro io
+costo solo di seminare discriminare
+diciamo fece osservava come questa più bello ma non è che non sono sicuro che è cambiata in germania completamente questa fiber loa dovrei sarebbe andare a vedere mi ricordo all'epoca
+se ne vanno nel luogo westwood no ma pure il discorso anche tu per fare certe cose john peter sloan testo attraversi una razione e perché diceva ve lo faccio in remoto se ho capito bene remoto proprio attraversando diciamo delle telecomunicazioni della nazione vorrebbe anche lei essere inserito
+boulding aghi mentre che certe cose le puoi fare non puoi fare è non è non è vero abbiamo ci sta tutto ma adesso però un tema a latere che tutto vada sua lega alla abbastanza pesante soprattutto tucano suoi lavori si smacchiano ci perde anche restando per cento del tuo tempo perché io io non direttamente
+però i legali si c'è da dire che anche li apriamo un altro spaccato twilight che non sempre trova in liga cessati
+beh certo ma mentre bandiera
+aree di potere
+e playout fenotipo sai che manlevato questa attività è che tranne in caso di
+di un dolo uno mi ha fatto mettere una collega ha voluto mettere questa devi dire come fai a dimostrare che uno lo fa perdono
+era contento uno che lo emette questo cavillo li ha certo certo puoi farlo solo se c'è c'è non è nacque una manleva mi vedono vip è protetto da windows capito famiglie bene perché comunque sono persone non abituate a questo tipo di attività piano piano li fa piacere che si trovano persone invece competente mi è successo
+assicurazione senza fare nomi che praticamente del web è il bilancio di halcyon liga e mi ha chiesto una domanda alessandro i bull utilizza i gatti e mi chiede quali google news da roma perché ne fossero
+bene allora abbiamo raggiunto una storia immensa che diciamo il nostro anno di riferimento pensato si può anche andare oltre secondo quello che ci è passata mezzanotte stiamo e passa in fretta se in migliaia dobbiamo rifare un'altra versione alfa ma torneremo a parlare di
+sicurezza con gianluca sicuramente altri non no no però toscana
+omni presente ormai siete in due i conduttori
+no io guarda sono saltato qualche volta e non è molto grande e comunque no allora due cose intanto magari
+tutti se avete qualche link da condividere informazioni campa di quello di cui avete parlato sarete dei da condivide mandateli via mail puoi raggiungerlo alla descrizione del video e poi io direi di fare un giro di chiusura
+orientata un approccio molto pratico e pragmatico del senso la bici adesso una bici però un po' pregno di contenuti su cosa fare e quali sono le raccomandazioni base in un'azienda per provare a difendersi il più possibile da
+intrusioni o comunque minacce interne di sicurezza a diversi livelli che come chiedere la luna
+però dai facciamo un sunto e partirai da te gianluca e poi chiunque altro che riprendere un quello che si è detto è detto in altre parole però io dico sempre di non denunci da sempre
+pd e sinistra questo punto di vista uno dei miei dati da voi hulk e del profano ai ruoli delle difese gaio devi sempre chiederti qualcosa potrebbe andare storto visto che un artista dietro quindi quando tu hai questo dubbio in testa ma in qualche modo può aiutarti a difenderti in maniera più corretta secondo me questo
+dubbiosi se non sembra non sembra una cosa non pratica ma in realtà io spesso quando faccio ecco perché parlo con le persone
+difendersi gli chiedo sempre se mai pensato no come dicevo prima come poteva essere applicati secondo me è un mindset motoblog stand di pensare di poter essere interessante mettere tutto in discussione continuamente anche darsi ma è una cosa che dico io per esempio vediamo un pò poi che pensa anche piergiorgio che penso è giusto
+hotel presente anche lui non non dare per scontato l' hardening sussistenza di un sistema sia equivalente alla compliance un insieme di liu glo che sono due cose diverse e tu apri chiede di u hai degli strumenti di tale verificano ma non è detto
+che sta facendo veramente arvedi come stai applicando delle url base e dovrebbero sicuramente salvaguardarsi da cose banali ma certamente non non comprendono un hardening che invece richiede che potrebbe essere intrusivo che richiede dell'economia sofferenze perché poi ogni cosa che
+vista dal
+al comportamento standard del sistema me lo chiede non è previsto da chi l'ha creato in vari ambienti e poi con i propi insomma potrebbe dare dei problemi e poi la compliance non esaurisce l' hardening inteso comunemente come mai prima non c'era si parlava solo di hardening
+esso è quindi un pò lasciato alle best pratice adesso stanno proprio degli standard di compliance uno dei più o meno famosa nell'ambito poi federale americano di un certo tipo di suono strumenti di automazione però non esaurisce
+le tecniche di alberi che sistemi operativi dei web server che vanno più o meno attivati più attraente di brescia ospita ho detto ha detto qui non è capace
+titolo
+la prossima live stressante ed economia ovviamente sono d'accordo ce ne sarebbero un milione ma io cerco sempre la mia di default di predica che cipro a tutti i costi perché oltre a ridurre la finestra di tempo che vai dall'altra parte ammesso che sia sfruttabile qualche cosa ti costringe a orient
+parti al testing la resilienza perché quello che tocchi ti può rompere e quindi devi attrezzarti affinché non si può poi finì incidentalmente provvedimenti anche più bravo a creare robustezza anche sul fronte della sicurezza inizio tal tali vanamente poteva insistere su pc nome
+world sempre comunque basato tremilaseicentocinquanta volta all'anno come assolutamente il minimo minima base base
+bene molto interessanti sulla coca se effettivamente chi
+come qualcosa che riguarda soltanto come irene infrastrutture e non i processi stessi con cui si gestiscono e vanessa sono limitati è bene dai allora
+grazie a tutti e anche questa è fatta
+alla prossima ciao ragazze ciao galatea appropriare

@@ -1,0 +1,15 @@
+**BGE 58: L'Evoluzione della Figura del Backend Engineer: Dalle Origini ad Oggi**
+
+Nel vasto e intricato universo dell'informatica, il ruolo dello sviluppatore backend è emerso da un'ombra indistinta per diventare una figura cruciale nel panorama digitale contemporaneo. In questo episodio della Brigata dei Geek Estinti, Cosimo Streppone, insieme agli esperti Marco Marongiu e Luca Venturi, traccia un arco narrativo che va dalle origini del calcolo ai meandri del cloud computing e dei microservizi, esplorando le metamorfosi di una professione in continua evoluzione.
+
+L’analisi inizia con una retrospettiva storica, evidenziando come le interfacce, una volta prevalentemente testuali, abbiano ceduto il passo a quelle grafiche, modellando le interazioni umane con la tecnologia. Da un lato, il passaggio ai sistemi client-server ha segnato un confine netto tra frontend e backend, dall’altro ha reso evidente la necessità di competenze sempre più specializzate.
+
+Con l’avvento del cloud e della microservizialità, il panorama architetturale ha subito una radicale trasformazione. L’adozione di questi paradigmi ha non solo semplificato la scalabilità delle applicazioni, ma ha anche complicato la vita degli sviluppatori, costretti a destreggiarsi tra una crescente complessità gestionale e una varietà di strumenti e linguaggi. Dalla storica robustezza di Visual Basic alla flessibilità di JavaScript e TypeScript, la conversazione si snoda attraverso una galleria di linguaggi che hanno accompagnato l’evoluzione del web.
+
+Ma non è solo una questione di codice. L’episodio affronta anche le pressanti sfide poste dall'intelligenza artificiale e dal machine learning, due aree che non sono più opzionali, ma imprescindibili per chi aspira a rimanere competitivo. Le competenze richieste si espandono, e la formazione continua diventa un imperativo categorico per i professionisti del settore.
+
+In un’epoca in cui il deployment e la gestione delle versioni sono più critici che mai, il concetto di DevOps emerge come soluzione per abbattere i silos e migliorare l’efficienza. La collaborazione tra team diventa la chiave per garantire qualità e stabilità nel codice rilasciato, mentre il futuro dello sviluppo backend si preannuncia costellato di sfide e opportunità legate alle tecnologie emergenti.
+
+Con uno sguardo attento al futuro, i partecipanti non si limitano a descrivere il presente, ma cercano di anticipare come le forze disgregatrici e innovative continueranno a ridefinire le competenze e i paradigmi di sviluppo. La figura dello sviluppatore backend, da semplice esecutore di codici a architetto di sistemi complessi, è il riflesso di un mondo in perpetua trasformazione, dove l'unica costante è il cambiamento stesso.
+
+In questa era di ristrutturazione digitale, l’unica certezza è che il viaggio dello sviluppatore backend è solo all'inizio. Chi sarà in grado di cavalcare l’onda delle innovazioni, sarà il vero protagonista del domani.
