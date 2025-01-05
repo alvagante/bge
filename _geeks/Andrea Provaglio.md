@@ -1,3 +1,6 @@
-name: Andrea Provaglio
-episodes:
+---
+nome: Andrea Provaglio
+layout: 'geek'
+episodi:
   - 55
+---

@@ -1,3 +1,6 @@
-name: Maurizio Siracusa
-episodes:
+---
+nome: Maurizio Siracusa
+layout: 'geek'
+episodi:
   - 76
+---

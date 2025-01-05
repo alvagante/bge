@@ -1,3 +1,6 @@
-name: Andrea Contato
-episodes:
+---
+nome: Andrea Contato
+layout: 'geek'
+episodi:
   - 42
+---

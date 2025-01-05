@@ -1,3 +1,6 @@
-name: Luca Sambucci
-episodes:
+---
+nome: Luca Sambucci
+layout: 'geek'
+episodi:
   - 52
+---

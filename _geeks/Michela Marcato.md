@@ -1,3 +1,6 @@
-name: Michela Marcato
-episodes:
+---
+nome: Michela Marcato
+layout: 'geek'
+episodi:
   - 29
+---

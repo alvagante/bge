@@ -1,3 +1,6 @@
-name: Davide Imola
-episodes:
+---
+nome: Davide Imola
+layout: 'geek'
+episodi:
   - 41
+---

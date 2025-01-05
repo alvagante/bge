@@ -1,3 +1,6 @@
-name: Piergiorgio Spagnolatti
-episodes:
+---
+nome: Piergiorgio Spagnolatti
+layout: 'geek'
+episodi:
   - 46
+---

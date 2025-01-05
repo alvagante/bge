@@ -1,4 +1,7 @@
-name: Matteo Valentini
-episodes:
+---
+nome: Matteo Valentini
+layout: 'geek'
+episodi:
   - 43
   - 4
+---

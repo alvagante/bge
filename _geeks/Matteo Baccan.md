@@ -1,4 +1,7 @@
-name: Matteo Baccan
-episodes:
+---
+nome: Matteo Baccan
+layout: 'geek'
+episodi:
   - 32
   - 37
+---

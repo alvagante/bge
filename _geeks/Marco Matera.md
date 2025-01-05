@@ -1,3 +1,6 @@
-name: Marco Matera
-episodes:
+---
+nome: Marco Matera
+layout: 'geek'
+episodi:
   - 55
+---

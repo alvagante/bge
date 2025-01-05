@@ -1,3 +1,6 @@
-name: Francesco Dominidiato
-episodes:
+---
+nome: Francesco Dominidiato
+layout: 'geek'
+episodi:
   - 38
+---

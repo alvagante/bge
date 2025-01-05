@@ -1,3 +1,6 @@
-name: Jacopo Nardiello
-episodes:
+---
+nome: Jacopo Nardiello
+layout: 'geek'
+episodi:
   - 9
+---

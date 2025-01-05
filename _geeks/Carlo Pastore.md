@@ -1,4 +1,7 @@
-name: Carlo Pastore
-episodes:
+---
+nome: Carlo Pastore
+layout: 'geek'
+episodi:
   - 31
   - 73
+---

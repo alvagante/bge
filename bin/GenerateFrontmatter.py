@@ -70,7 +70,7 @@ keys_list = {
     'description': youtube_data.get('description', 'NA'),
     'duration': youtube_data.get('duration', 'NA'),
     'youtube': youtube_data.get('youtube_id', 'NA'),
-    'tags': [tag for tag in read_file(file_number + "_hashtags.txt").split("#") if tag],
+    'tags': [tag.strip() for tag in read_file(file_number + "_hashtags.txt").split("#") if tag.strip()],
     'date': youtube_data.get('date', '1970-06-06'),
     'summary': summary_data,
     'guests': manual_data.get('guests', 'NA'),

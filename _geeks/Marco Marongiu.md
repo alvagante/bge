@@ -1,4 +1,7 @@
-name: Marco Marongiu
-episodes:
+---
+nome: Marco Marongiu
+layout: 'geek'
+episodi:
   - 36
   - 58
+---

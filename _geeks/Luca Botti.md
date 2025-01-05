@@ -1,4 +1,7 @@
-name: Luca Botti
-episodes:
+---
+nome: Luca Botti
+layout: 'geek'
+episodi:
   - 68
   - 79
+---

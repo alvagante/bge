@@ -18,7 +18,7 @@ completion = client.chat.completions.create(
 #  model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct-Q4_K_M.gguf", 
   model="gpt-4o-mini",
   messages=[
-    {"role": "system", "content": "Fai un elenco di hashtag, separati da uno spazio, basati sul testo fornito"},
+    {"role": "system", "content": "Fai un elenco di 12 hashtag, separati da uno spazio, basati sul testo fornito"},
     {"role": "user", "content": content}
   ],
   temperature=0.7,

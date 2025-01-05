@@ -1,3 +1,6 @@
-name: Marco Bini
-episodes:
+---
+nome: Marco Bini
+layout: 'geek'
+episodi:
   - 16
+---

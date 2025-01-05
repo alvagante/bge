@@ -1,3 +1,6 @@
-name: Matteo Bianchi
-episodes:
+---
+nome: Matteo Bianchi
+layout: 'geek'
+episodi:
   - 59
+---

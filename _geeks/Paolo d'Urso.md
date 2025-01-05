@@ -1,3 +1,6 @@
-name: Paolo D'Urso
-episodes:
+---
+nome: Paolo D'Urso
+layout: 'geek'
+episodi:
   - 15
+---

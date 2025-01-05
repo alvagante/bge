@@ -1,3 +1,6 @@
-name: Marco Bernardi
-episodes:
+---
+nome: Marco Bernardi
+layout: 'geek'
+episodi:
   - 35
+---

@@ -1,3 +1,6 @@
-name: Federico Feroldi
-episodes:
+---
+nome: Federico Feroldi
+layout: 'geek'
+episodi:
   - 38
+---

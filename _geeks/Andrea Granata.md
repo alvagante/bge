@@ -1,3 +1,6 @@
-name: Andrea Granata
-episodes:
+---
+nome: Andrea Granata
+layout: 'geek'
+episodi:
   - 4
+---

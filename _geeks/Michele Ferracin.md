@@ -1,3 +1,6 @@
-name: Michele Ferracin
-episodes:
+---
+nome: Michele Ferracin
+layout: 'geek'
+episodi:
   - 35
+---

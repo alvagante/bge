@@ -1,3 +1,6 @@
-name: Danilo Pala
-episodes:
+---
+nome: Danilo Pala
+layout: 'geek'
+episodi:
   - 40
+---

@@ -1,4 +1,7 @@
-name: Simone Vigevano
-episodes:
+---
+nome: Simone Vigevano
+layout: 'geek'
+episodi:
   - 29
   - 52
+---

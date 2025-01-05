@@ -1,3 +1,6 @@
-name: Francesco Grotta
-episodes:
+---
+nome: Francesco Grotta
+layout: 'geek'
+episodi:
   - 75
+---

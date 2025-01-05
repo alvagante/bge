@@ -1,0 +1,20 @@
+<section id="geeks">
+  <div>
+    <div class="container">
+      <div class="row">
+        <h1>{{ page.nome }}</h1>
+        <div>
+          <div class="col-lg-7">
+          <a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ geek.name }}</a></h3>
+          </div>
+          <div class="col-lg-5">
+            {% for ep in page.episodi %}
+            {% assign episode = site.episodes | where: "number", ep | first %}
+            <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.title }}</a></h5>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

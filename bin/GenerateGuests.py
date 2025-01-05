@@ -36,8 +36,10 @@ for file in files:
 for guest in guests:
     guest_file = os.path.join(dest_dir, guest + ".md")
     with open(guest_file, "w") as f:
-        f.write(f"name: {guest}\n")
-        f.write("episodes:\n")
+        f.write(f"---\n")
+        f.write(f"nome: {guest}\n")
+        f.write(f"layout: 'geek'\n")
+        f.write("episodi:\n")
         for file in files:
             if file.endswith("_manual.yaml"):
                 with open(os.path.join(src_dir, file)) as f2:
@@ -45,5 +47,6 @@ for guest in guests:
                     if guest in manual_data["guests"]:
                         episode_number = re.search(r'(\d+)_manual.yaml', file).group(1)
                         f.write(f"  - {episode_number}\n")
+        f.write(f"---\n")
 
 print(f"Guest files created in {dest_dir}")

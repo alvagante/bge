@@ -1,3 +1,6 @@
-name: Francesco Lerro
-episodes:
+---
+nome: Francesco Lerro
+layout: 'geek'
+episodi:
   - 37
+---

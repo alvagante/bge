@@ -1,3 +1,6 @@
-name: Antonio Zucchini
-episodes:
+---
+nome: Antonio Zucchini
+layout: 'geek'
+episodi:
   - 26
+---

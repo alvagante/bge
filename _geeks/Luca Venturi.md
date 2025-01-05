@@ -1,3 +1,6 @@
-name: Luca Venturi
-episodes:
+---
+nome: Luca Venturi
+layout: 'geek'
+episodi:
   - 58
+---

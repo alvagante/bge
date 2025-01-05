@@ -1,5 +1,7 @@
-name: Marco Foco
-episodes:
+---
+nome: Marco Foco
+layout: 'geek'
+episodi:
   - 3
   - 67
   - 6
@@ -13,3 +15,4 @@ episodes:
   - 32
   - 1
   - 15
+---

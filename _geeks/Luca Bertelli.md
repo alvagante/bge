@@ -1,3 +1,6 @@
-name: Luca Bertelli
-episodes:
+---
+nome: Luca Bertelli
+layout: 'geek'
+episodi:
   - 70
+---

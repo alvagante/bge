@@ -1,3 +1,6 @@
-name: Kris Buytaert
-episodes:
+---
+nome: Kris Buytaert
+layout: 'geek'
+episodi:
   - 48
+---

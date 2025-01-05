@@ -1,3 +1,6 @@
-name: Michel Murabito
-episodes:
+---
+nome: Michel Murabito
+layout: 'geek'
+episodi:
   - 22
+---

@@ -1,5 +1,7 @@
-name: Domenico Martini
-episodes:
+---
+nome: Domenico Martini
+layout: 'geek'
+episodi:
   - 40
   - 74
   - 64
@@ -8,3 +10,4 @@ episodes:
   - 10
   - 69
   - 19
+---

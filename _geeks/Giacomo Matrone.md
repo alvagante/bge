@@ -1,3 +1,6 @@
-name: Giacomo Matrone
-episodes:
+---
+nome: Giacomo Matrone
+layout: 'geek'
+episodi:
   - 26
+---

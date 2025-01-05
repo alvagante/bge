@@ -1,3 +1,6 @@
-name: Francesco Reale
-episodes:
+---
+nome: Francesco Reale
+layout: 'geek'
+episodi:
   - 63
+---

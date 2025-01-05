@@ -10,7 +10,10 @@
         </div>
         <div class="col-lg-2">
           <h2>BGE {{ page.number }} con:</h2>
-          <div class="tags">{% for guest in page.guests %}{{ guest }}</br>{% endfor %}</div>
+          <div class="tags">{% for guest in page.guests %}
+          {% assign geek = site.geeks | where: "nome", guest | first %}
+          <a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ guest }}</a></br>
+          {% endfor %}</div>
         </div>
       </div>
       <div class="row">

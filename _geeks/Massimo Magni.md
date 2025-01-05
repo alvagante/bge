@@ -1,3 +1,6 @@
-name: Massimo Magni
-episodes:
+---
+nome: Massimo Magni
+layout: 'geek'
+episodi:
   - 29
+---

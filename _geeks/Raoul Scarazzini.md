@@ -1,3 +1,6 @@
-name: Raoul Scarazzini
-episodes:
+---
+nome: Raoul Scarazzini
+layout: 'geek'
+episodi:
   - 17
+---

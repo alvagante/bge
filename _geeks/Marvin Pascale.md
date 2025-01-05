@@ -1,4 +1,7 @@
-name: Marvin Pascale
-episodes:
+---
+nome: Marvin Pascale
+layout: 'geek'
+episodi:
   - 17
   - 21
+---

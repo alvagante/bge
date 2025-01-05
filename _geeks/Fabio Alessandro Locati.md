@@ -1,3 +1,6 @@
-name: Fabio Alessandro Locati
-episodes:
+---
+nome: Fabio Alessandro Locati
+layout: 'geek'
+episodi:
   - 50
+---

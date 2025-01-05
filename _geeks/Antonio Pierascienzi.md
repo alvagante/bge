@@ -1,3 +1,6 @@
-name: Antonio Pierascienzi
-episodes:
+---
+nome: Antonio Pierascienzi
+layout: 'geek'
+episodi:
   - 39
+---

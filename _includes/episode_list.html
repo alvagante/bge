@@ -1,23 +1,26 @@
 <section id="episodes">
-  <div class="content-section-a">
+  <div>
     <div class="container">
-      <div class="row">
+      <div>
         <h1>Briganti in azione</h1>
         
         {% assign sorted_episodes = site.episodes | sort: "episode" | reverse %}
         {% for episode in sorted_episodes %}
-        <div class="row adi-list">
+        <div class="row episode">
           <div class="col-lg-3">
-            <a href="{{ site.url }}{{ episode.url }}" target="_parent"><img class="img-fluid" src="{{ site.url }}/assets/covers/BGE {{ episode.number }}.png" alt="BGE {{ episode.number }} - {{ episode.guest }}: {{ episode.title }}"></a>
+            <a href="{{ site.url }}{{ episode.url }}" target="_parent"><img class="img-fluid" src="{{ site.url }}/assets/covers/BGE {{ episode.number }}.png" alt="BGE {{ episode.number }} - {{ episode.date }}: {{ episode.title }}"></a>
           </div>
           <div class="col-lg-7">
-          <a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.title }}</a></h3>
+          <h4><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.title }}</a></h4>
+          <h6>Live: {{ episode.date | date: "%-d %b %Y"  }}</h6>
           <div class="tags">{% for tag in episode.tags %}#{{ tag }} {% endfor %}</div>
           </div>
           <div class="col-lg-2">
             {% for guest in episode.guests %}{{ guest }}</br>{% endfor %}
+            {{ episode.host }} (host)</br>
           </div>
         </div>
+        <hr>
         {% endfor %}
       </div>
     </div>

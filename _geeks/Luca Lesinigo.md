@@ -1,3 +1,6 @@
-name: Luca Lesinigo
-episodes:
+---
+nome: Luca Lesinigo
+layout: 'geek'
+episodi:
   - 23
+---

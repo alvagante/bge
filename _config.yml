@@ -20,7 +20,7 @@ collections:
     permalink: /ep/:title/
   geeks:
     output: true
-    permalink: /geek/:title/
+    permalink: /geek/:name/
     
 
 # Defaults

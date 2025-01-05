@@ -1,3 +1,6 @@
-name: Emanuele Garofalo
-episodes:
+---
+nome: Emanuele Garofalo
+layout: 'geek'
+episodi:
   - 39
+---

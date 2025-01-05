@@ -1,3 +1,6 @@
-name: Valentino Uberti
-episodes:
+---
+nome: Valentino Uberti
+layout: 'geek'
+episodi:
   - 53
+---

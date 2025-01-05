@@ -1,3 +1,6 @@
-name: James Shubin
-episodes:
+---
+nome: James Shubin
+layout: 'geek'
+episodi:
   - 48
+---

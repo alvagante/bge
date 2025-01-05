@@ -1,3 +1,6 @@
-name: Gabriele Geza Gobbo
-episodes:
+---
+nome: Gabriele Geza Gobbo
+layout: 'geek'
+episodi:
   - 11
+---

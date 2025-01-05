@@ -1,3 +1,6 @@
-name: Manuel Coppotelli
-episodes:
+---
+nome: Manuel Coppotelli
+layout: 'geek'
+episodi:
   - 9
+---

@@ -1,5 +1,7 @@
-name: Andrea Spagnolo
-episodes:
+---
+nome: Andrea Spagnolo
+layout: 'geek'
+episodi:
   - 72
   - 30
   - 25
@@ -7,3 +9,4 @@ episodes:
   - 64
   - 13
   - 79
+---

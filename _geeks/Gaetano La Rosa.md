@@ -1,3 +1,6 @@
-name: Gaetano La Rosa
-episodes:
+---
+nome: Gaetano La Rosa
+layout: 'geek'
+episodi:
   - 17
+---

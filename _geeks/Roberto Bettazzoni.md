@@ -1,3 +1,6 @@
-name: Roberto Bettazzoni
-episodes:
+---
+nome: Roberto Bettazzoni
+layout: 'geek'
+episodi:
   - 55
+---

@@ -1,3 +1,6 @@
-name: Joshua Dimaunahan
-episodes:
+---
+nome: Joshua Dimaunahan
+layout: 'geek'
+episodi:
   - 75
+---

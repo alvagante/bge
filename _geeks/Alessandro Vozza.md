@@ -1,4 +1,7 @@
-name: Alessandro Vozza
-episodes:
+---
+nome: Alessandro Vozza
+layout: 'geek'
+episodi:
   - 53
   - 14
+---

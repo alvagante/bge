@@ -1,3 +1,6 @@
-name: Romolo Velati
-episodes:
+---
+nome: Romolo Velati
+layout: 'geek'
+episodi:
   - 38
+---

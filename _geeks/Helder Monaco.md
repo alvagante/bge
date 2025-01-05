@@ -1,3 +1,6 @@
-name: Helder Monaco
-episodes:
+---
+nome: Helder Monaco
+layout: 'geek'
+episodi:
   - 28
+---

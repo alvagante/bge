@@ -1,5 +1,7 @@
-name: Cosimo Streppone
-episodes:
+---
+nome: Cosimo Streppone
+layout: 'geek'
+episodi:
   - 72
   - 3
   - 67
@@ -12,3 +14,4 @@ episodes:
   - 24
   - 73
   - 8
+---

@@ -1,3 +1,6 @@
-name: Cesare Castiglia
-episodes:
+---
+nome: Cesare Castiglia
+layout: 'geek'
+episodi:
   - 15
+---

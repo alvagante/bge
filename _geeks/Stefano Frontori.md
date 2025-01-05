@@ -1,3 +1,6 @@
-name: Stefano Frontori
-episodes:
+---
+nome: Stefano Frontori
+layout: 'geek'
+episodi:
   - 72
+---

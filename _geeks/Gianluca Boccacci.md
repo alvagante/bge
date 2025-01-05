@@ -1,4 +1,7 @@
-name: Gianluca Boccacci
-episodes:
+---
+nome: Gianluca Boccacci
+layout: 'geek'
+episodi:
   - 40
   - 5
+---

@@ -1,3 +1,6 @@
-name: Alvio Costantini
-episodes:
+---
+nome: Alvio Costantini
+layout: 'geek'
+episodi:
   - 1
+---
