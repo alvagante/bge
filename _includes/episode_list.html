@@ -16,8 +16,11 @@
           <div class="tags">{% for tag in episode.tags %}#{{ tag }} {% endfor %}</div>
           </div>
           <div class="col-lg-3">
-            {% for guest in episode.guests %}{{ guest }}</br>{% endfor %}
-            {{ episode.host }} (host)</br>
+            {% for guest in episode.guests %}
+            {% assign geek = site.geeks | where: "nome", guest | first %}
+            <a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ guest }}</a></br>{% endfor %}
+            {% assign h = site.geeks | where: "nome", episode.host | first %}
+            <a href="{{ site.url }}{{ h.url }}" target="_parent">{{ episode.host }}</a> (host)</br>
           </div>
         </div>
         <hr>
