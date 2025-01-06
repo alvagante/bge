@@ -1,0 +1,11 @@
+Nel silenzio digitale del nostro tempo, dove i linguaggi di programmazione nascono e tramontano come stelle cadenti nel firmamento tecnologico, Java persiste come una presenza costante, un monolite del codice che rifiuta di piegarsi alle mode effimere della Silicon Valley.
+
+L'episodio 68 della Brigata dei Geek Estinti si addentra nelle profondità dell'ecosistema Java, un viaggio attraverso le ere della programmazione guidato dalle voci esperte di Luciano Flandesio, Marco Foco e Luca Botti. Come archeologi del codice, i nostri host dissezionano l'evoluzione di questo linguaggio nato negli anni '90, che come un vampiro tecnologico ha saputo reinventarsi e sopravvivere attraverso le ere digitali.
+
+La discussione orbita attorno all'apparente paradosso di Java: un linguaggio che, pur non essendo più il protagonista delle conference hipster o dei meetup alla moda, continua a essere il backbone silenzioso di innumerevoli sistemi enterprise. Dal garbage collector alle espressioni lambda, dalla governance Oracle alle sfide dell'AI, l'episodio traccia una mappa dettagliata del territorio Java contemporaneo.
+
+Particolarmente interessante è l'analisi dell'ecosistema che circonda il linguaggio: framework come Spring e Hibernate vengono descritti non come semplici strumenti, ma come estensioni evolutive di un organismo tecnologico in costante adattamento. La discussione sulla formazione e il mentoring rivela come la trasmissione della conoscenza Java sia più simile a un'arte marziale che a un semplice trasferimento di competenze tecniche.
+
+In un'era dove il "nuovo" è spesso confuso con il "migliore", questo episodio si erge come un manifesto della resilienza tecnologica, dimostrando come la vera innovazione non sia sempre nella rottura col passato, ma nella capacità di evolvere mantenendo le proprie radici. Come un mainframe che continua a processare transazioni mentre il mondo discute di blockchain, Java rimane - imperterrito e immutabile nella sua mutevolezza.
+
+"Write once, run anywhere" non è più solo uno slogan, ma una profezia che si autorealizza nell'era del cloud computing e dei microservizi. Il futuro di Java, come suggeriscono i nostri host, non è scritto nelle stelle del trend tecnologico, ma nel DNA di un linguaggio che ha fatto della propria adaptability la chiave della sopravvivenza digitale.

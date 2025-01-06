@@ -1,0 +1,11 @@
+Nel caleidoscopio dell'evoluzione tecnologica, l'Infrastructure as Code (IaC) emerge come una metamorfosi quasi darwiniana del ruolo del sistemista. Un tempo custodi di server fisici e configurazioni manuali, oggi ci troviamo immersi in un oceano di codice che plasma l'infrastruttura stessa.
+
+In questo episodio della Brigata dei Geek Estinti, quattro veterani del settore - Ruggiero Tonelli, Antonio Masucci, Lino Telera e Andrea Spagnolo - dissezionano questa trasformazione epocale. Dal DNA di Terraform alla filosofia di Kubernetes, emerge un quadro dove la distinzione tra sviluppatore e sistemista sfuma in un continuum di competenze fluide.
+
+La discussione orbita attorno all'automazione come nuovo mantra dell'IT contemporaneo, dove ogni aspetto dell'infrastruttura viene codificato, versionato e replicato con la precisione di un algoritmo. Un universo dove la Promise Theory di Mark Burgess dialoga con le moderne pratiche DevOps, e dove System Initiative di Adam Jacob rappresenta l'ultima frontiera dell'Infrastructure as Model.
+
+Come in un racconto di Gibson, i confini tra il tangibile e il virtuale si dissolvono: l'infrastruttura diventa codice, il codice plasma la realtà, e il sistemista si reinventa come architetto di questo nuovo ordine digitale. Non più guardiani di macchine fisiche, ma orchestratori di sistemi complessi che si auto-configurano e si auto-guariscono.
+
+Tra le righe di YAML e le promesse di Puppet, emerge una verità fondamentale: l'Infrastructure as Code non è solo una metodologia, è una rivoluzione filosofica che ridefinisce il rapporto tra umano e macchina nell'era del cloud computing.
+
+"Il codice è diventato la lingua franca dell'infrastruttura, e noi siamo i suoi poeti maledetti."

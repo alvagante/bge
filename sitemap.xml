@@ -1,0 +1,39 @@
+---
+layout: null
+---
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>{{ site.url }}</loc>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ site.url }}/episodi/</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>{{ site.url }}/geeks/</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>{{ site.url }}/wtf/</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>{{ site.url }}/media/</loc>
+<priority>0.7</priority>
+</url>
+{% for episode in site.episodes %}
+<url>
+<loc>{{ site.url }}{{ episode.url }}</loc>
+<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+<priority>0.6</priority>
+</url>
+{% endfor %}
+{% for geek in site.geeks %}
+<url>
+<loc>{{ site.url }}{{ geek.url }}</loc>
+<lastmod>{{ geek.date | date_to_xmlschema }}</lastmod>
+<priority>0.6</priority>
+</url>
+{% endfor %}
+</urlset>

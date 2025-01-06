@@ -1,4 +1,6 @@
 User-agent: *
-Disallow: /
+Disallow: /bin/
+Disallow: /assets/
+Allow: /
 
 Sitemap: https://labrigatadeigeekestinti.com/sitemap.xml

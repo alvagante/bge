@@ -5,33 +5,51 @@
         <div class="col-lg-2">
           <a href="{{ site.url }}/episodi/"><img class="img-fluid" src="{{ site.url }}/assets/images/logo.png" alt="La Brigata dei Geek Estinti"></a>
         </div>
-        <div class="col-lg-8">
-        <h1>{{ page.title }}</h1>
+        <div class="col-lg-2 big">
+          <h1><div class="bigger">{{ page.number }}</div></h1>
         </div>
-        <div class="col-lg-2">
-          <h2>BGE {{ page.number }} con:</h2>
-          <div class="tags">{% for guest in page.guests %}
-          {% assign geek = site.geeks | where: "nome", guest | first %}
-          <a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ guest }}</a></br>
-          {% endfor %}</div>
+        <div class="col-lg-8">
+        <h1>{{ page.titolo }}</h1>
         </div>
       </div>
+
       <div class="row">
-        <div class="col-lg-5">
-          <img class="img-fluid float-image" src="{{ site.url }}/assets/covers/BGE {{ page.number }}.png" alt="BGE {{ page.number }} - {{ page.guest }}: {{ page.title }}">
-          {{ content }}
-          <div class="tags">{% for tag in page.tags %}#{{ tag }} {% endfor %}</div>
-        </div>
-        <div class="col-lg-7">
+        <div class="col-lg-12">
           <div class="video-container">
-          <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></br>
-          Live del {{ page.date | date: "%Y-%m-%d" }}
+            <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="quote">
+            {{ page.quote }}
+          </div>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="col-lg-8">
           <h3>Argomenti trattati</h3>
           <ul>
             {% for topic in page.summary %}
             <li>{{ topic }}</li>
             {% endfor %}
           </ul>
+        </div>
+        <div class="col-lg-4">
+          <h4>Live del {{ page.date | date: "%Y-%m-%d" }}</h4>
+          <h3>Partecipanti</h3>
+          {% for guest in page.guests %}
+          {% assign geek = site.geeks | where: "nome", guest | first %}
+          <h6><a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ guest }}</a></h6>
+          {% endfor %}
+          <h3>Host</h3>
+          {% assign h = site.geeks | where: "nome", page.host | first %}
+          <h6><a href="{{ site.url }}/{{ h.url }}" target="_parent">{{ page.host }}</a></h6>
+          <h3>Tag</h3>
+          <div class="tags">{% for tag in page.tags %}#{{ tag }} {% endfor %}</div>
           {% if page.links != 'NA' %}
           <h3>Link</h3>
           <ul>
@@ -40,7 +58,36 @@
             {% endfor %}
           </ul>
           {% endif %}
+        </div>
       </div>
+
+      <div class="container p-5 border border-dark bg-light">
+        <div class="row">
+          <div class="col-lg-3">
+            <img class="img-fluid" src="{{ site.url }}/assets/covers/BGE {{ page.number }}.png" alt="BGE {{ page.number }} - {{ page.guest }}: {{ page.titolo }}">
+          </div>
+          <div class="col-lg-9">
+            <h3 class="pb-3">I commenti delle IA</h3>
+            <a href="#geekestinto"><h4>Geek Estinto (OpenAI)</h4></a>
+            <a href="#briganteclaudio"><h4>Brigante Claudio (Claude)</h4></a>
+          </div>
+        </div>
+        <div class="row py-5" id="geekestinto">
+          <div class="col-lg-3">
+            <h3 class="pb-3">Geek Estinto</h3>
+          </div>
+          <div class="col-lg-9">
+            {{ content  }}
+          </div>
+        </div> 
+        <div class="row" id="briganteclaudio">
+          <div class="col-lg-3">
+            <h3 class="pb-3">Brigante Claudio</h3>
+          </div>
+          <div class="col-lg-9">
+            {{ page.claude_article | newline_to_br }}
+          </div>
+        </div> 
       </div>
     </div>
   </div>  

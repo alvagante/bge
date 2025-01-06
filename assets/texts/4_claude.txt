@@ -1,0 +1,11 @@
+Nel cuore dell'inverno digitale, quando il codice si cristallizza in pattern sempre più complessi, il FOSDEM e il Configuration Management Camp emergono come fari di innovazione nel panorama IT. Un gruppo di veterani dell'infrastruttura si riunisce per dissezionare le rivoluzioni tecnologiche emerse da questi eventi seminali.
+
+L'Infrastructure as Model si staglia all'orizzonte come un paradigma che promette di trascendere i limiti dell'Infrastructure as Code. Non più semplici configurazioni statiche, ma un ecosistema dinamico dove le entità danzano in un balletto di interdipendenze. Come nel mito platonico della caverna, ci si chiede se stiamo finalmente vedendo la realtà dell'infrastruttura o solo le sue ombre proiettate sul muro del DevOps.
+
+Il dibattito si snoda attraverso territori familiari - Puppet, che come un vecchio saggio stoico mantiene la sua rilevanza - fino a esplorare le terre selvagge di Kubernetes, dove le API regnano supreme. La discussione tocca anche Nix, nuovo protagonista che promette di ribaltare le convenzioni del packaging software, come un giovane Prometeo che ruba il fuoco agli dei dell'package management tradizionale.
+
+Ma oltre la tecnologia, emerge prepotente il valore dell'interconnessione umana. In un'epoca di comunicazioni digitali, il networking fisico si rivela ancora insostituibile, come un ritual tribale che rafforza i legami della comunità tech. Le conferenze diventano agorà moderne dove si forgiano idee e si plasmano visioni del futuro.
+
+L'episodio cattura un momento cruciale nell'evoluzione dell'IT, dove le certezze del passato si confrontano con le promesse del futuro. Come osservatori del cambiamento, i partecipanti navigano tra criticità e innovazioni, mantenendo quello sguardo cinico ma costruttivo che caratterizza i veri architetti del domani digitale.
+
+"Nel codice come nella vita, l'unica costante è il cambiamento - e forse un buon sistema di configuration management."

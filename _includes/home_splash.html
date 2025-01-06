@@ -1,2 +1,42 @@
-la brigata sta arrivando
-aa
+<section id="home">
+  <div class="home-header">
+    <div class="container">
+      <div class="row align-middle">
+        <div class="col-lg-12 hometitle">
+          <h1 class="hometitle">La Brigata dei Geek Estinti<h1>
+          <div class="homesubtitle">
+            <a href="https://youtube.com/@LaBrigatadeiGeekEstinti" target="_blank" class="homesubtitle">
+            <img class="img-fluid float-left pb-2" src="{{ site.url }}/assets/images/youtube.png" alt="youtube.com/@LaBrigatadeiGeekEstinti"></a>
+            <h3>Subscribe? Non Per Tutti</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div id="carouselExample" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/BfVoU2hftv8" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+    </div>
+    <div class="carousel-item">
+      {% assign last_episode = site.episodes | sort: "episode" | reverse  %}
+      {% for episode in last_episode | limit: 1 %}
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>

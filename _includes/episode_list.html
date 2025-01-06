@@ -8,14 +8,14 @@
         {% for episode in sorted_episodes %}
         <div class="row episode">
           <div class="col-lg-3">
-            <a href="{{ site.url }}{{ episode.url }}" target="_parent"><img class="img-fluid" src="{{ site.url }}/assets/covers/BGE {{ episode.number }}.png" alt="BGE {{ episode.number }} - {{ episode.date }}: {{ episode.title }}"></a>
+            <a href="{{ site.url }}{{ episode.url }}" target="_parent"><img class="img-fluid" src="{{ site.url }}/assets/covers/BGE {{ episode.number }}.png" alt="BGE {{ episode.number }} - {{ episode.date }}: {{ episode.titolo }}"></a>
           </div>
-          <div class="col-lg-7">
-          <h4><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.title }}</a></h4>
+          <div class="col-lg-6">
+          <h4><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h4>
           <h6>Live: {{ episode.date | date: "%-d %b %Y"  }}</h6>
           <div class="tags">{% for tag in episode.tags %}#{{ tag }} {% endfor %}</div>
           </div>
-          <div class="col-lg-2">
+          <div class="col-lg-3">
             {% for guest in episode.guests %}{{ guest }}</br>{% endfor %}
             {{ episode.host }} (host)</br>
           </div>

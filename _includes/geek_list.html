@@ -6,16 +6,17 @@
         
         {% for geek in site.geeks %}
         <div class="row geek">
-          <div class="col-lg-7">
+          <div class="col-lg-4">
           <h3><a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ geek.nome }}</a></h3>
           </div>
-          <div class="col-lg-5">
+          <div class="col-lg-8">
             {% for ep_id in geek.episodi %}
               {% assign episode = site.episodes | where: "number", ep_id | first %}
-              <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.title }}</a></h5>
+              <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h5>
             {% endfor %}
           </div>
         </div>
+        <hr>
         {% endfor %}
       </div>
     </div>

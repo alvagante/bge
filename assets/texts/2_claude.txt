@@ -1,0 +1,13 @@
+Nel secondo episodio della Brigata dei Geek Estinti, un gruppetto di veterani dell'IT si addentra nelle profondità del settore finanziario, dove mainframe e blockchain danzano un valzer tecnologico tanto improbabile quanto affascinante.
+
+L'evoluzione dell'IT nel mondo bancario emerge come un caso studio di darwinismo digitale: dal monolitico mainframe alle architetture distribuite, passando per l'integrazione di CDC Kafka - un viaggio che ricorda come le risorse computazionali abbiano plasmato non solo i sistemi, ma anche le menti di chi li governa.
+
+La compliance bancaria, spesso dipinta come un Cerbero burocratico, viene sorprendentemente rivisitata come catalizzatore dell'innovazione. Un paradosso degno di Zenone, dove le restrizioni normative diventano enabler del cambiamento tecnologico.
+
+Il dibattito si espande verso territori inesplorati - dal metaverso a Neuralink - prima di atterrare nuovamente sulla terra ferma del cloud pubblico e delle applicazioni SaaS nel contesto bancario. Come Icaro, l'IT finanziario cerca il giusto equilibrio tra l'ardore dell'innovazione e la prudenza della sicurezza.
+
+La discussione culmina nell'ecosistema DevOps, dove la continuous compliance si intreccia con le metriche dei change, mentre il platform engineering ridefinisce lo stato dell'arte delle infrastrutture. Un dialogo che oscilla tra il pragmatismo dell'automazione e la filosofia dell'immutabilità infrastrutturale.
+
+Puppet e Ansible vengono evocati come antichi dei dell'automazione, in un'anticipazione di quello che si preannuncia come uno scontro tra titani del configuration management. Nel frattempo, il futuro bussa alle porte delle sale macchine, ricordandoci che nella guerra tra stabilità e innovazione, l'unica costante è il cambiamento.
+
+"In un mondo dove il codice è legge e l'infrastruttura è poesia, solo i geek più audaci osano danzare sul filo del rasoio tra caos e controllo."

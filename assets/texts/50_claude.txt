@@ -1,0 +1,11 @@
+Nel cyberspazio delle infrastrutture moderne, dove il codice plasma la realtà dei sistemi, si erge un dibattito ancestrale: Ansible contro Puppet, due titani dell'Infrastructure as Code che hanno plasmato l'evoluzione dell'automazione IT.
+
+In questo cinquantesimo episodio della Brigata dei Geek Estinti, un parterre d'eccellenza di architetti digitali - da Fabio Alessandro Locati di RedHat a Alessandro Franceschi, il "Methuselah dei consultant Puppet" - esplora le profondità filosofiche e pratiche di questi strumenti ormai mitologici.
+
+Come in un'antica battaglia greca, dove gli dei si manifestavano attraverso diversi avatar, Ansible e Puppet rappresentano due approcci paradigmatici all'automazione: l'uno agentless e push-based, l'altro con il suo fedele agente guardian. Ma la vera domanda che emerge dalle profondità del dibattito non è tanto "quale sia migliore", quanto "quale significato abbiano oggi" in un ecosistema in rapida evoluzione.
+
+I nostri ospiti, veterani delle guerre dell'infrastruttura, condividono cicatrici digitali e vittorie silenziose, rivelando come questi strumenti abbiano plasmato non solo i sistemi, ma anche le menti di generazioni di sistemisti. Dal testing molecolare alla gestione delle variabili, dalla scalabilità quantica alla resilienza sistemica, ogni aspetto viene sezionato con la precisione di un chirurgo digitale.
+
+Nel vortice del cloud computing, dove i confini tra infrastruttura e codice si dissolvono come sogni in una matrix, la discussione si eleva oltre il mero confronto tecnico, toccando le corde dell'evoluzione stessa dell'IT. Come diceva William Gibson: "Il futuro è già qui, non è semplicemente distribuito in modo uniforme" - e forse, in questo caso, nemmeno automatizzato uniformemente.
+
+"In un mondo dove ogni sistema è codice e ogni codice è sistema, la vera domanda non è quale strumento usare, ma come usarlo per orchestrare il caos digitale in una sinfonia di automazione perfetta."

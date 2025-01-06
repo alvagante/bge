@@ -47,7 +47,7 @@ nav:
   - title: "WTF"
     url: "/wtf/"
 
-social:
+social2:
   name: La Brigata dei Geek Estinti
   links:
     - https://twitter.com/geekestinti
@@ -58,3 +58,14 @@ social:
 webmaster_verifications:
   google: 1234
   bing: 1234
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/company/la-brigata-dei-geek-estinti/
+  - title: youtube
+    url: https://youtube.com/@labrigatadeigeekestinti
+  - title: twitter
+    url: https://x.com/geekestinti
+  - title: instagram
+    url: https://instagram.com/labrigatadeigeekestinti
+

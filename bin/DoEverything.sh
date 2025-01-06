@@ -27,8 +27,14 @@ $SCRIPT_DIR/GenerateSummaries.sh "${GIT_DIR}/assets/texts"
 bold "Extracting hashtags from summary TXT files in ${GIT_DIR}/assets/texts"
 $SCRIPT_DIR/GenerateHashtags.sh "${GIT_DIR}/assets/texts"
 
-bold "Generating articles in $GIT_DIR/assets/texts/"
-$SCRIPT_DIR/GenerateArticles.sh "$GIT_DIR/assets/texts"
+bold "Generating OpenAI articles in $GIT_DIR/assets/texts/"
+$SCRIPT_DIR/GenerateArticlesOpenAI.sh "$GIT_DIR/assets/texts"
+
+bold "Generating Claude articles in $GIT_DIR/assets/texts/"
+$SCRIPT_DIR/GenerateArticlesClaude.sh "$GIT_DIR/assets/texts"
+
+bold "Generating quotes in $GIT_DIR/assets/texts/"
+$SCRIPT_DIR/GenerateQuotes.sh "$GIT_DIR/assets/texts"
 
 bold "Generating frontmatters in $EPISODES_DIR"
 $SCRIPT_DIR/GenerateFrontmatters.sh "$GIT_DIR/assets/texts" "$GIT_DIR/_episodes"

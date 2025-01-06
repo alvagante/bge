@@ -1,0 +1,11 @@
+Nel cuore pulsante dell'economia digitale, dove ogni byte ha il suo prezzo, emerge una disciplina tanto necessaria quanto sottovalutata: il FinOps. L'episodio 49 della Brigata dei Geek Estinti, con Francesco Cambiaso e Ervis Jace, si addentra nelle profondità di questa pratica, dove l'arte del risparmio incontra la complessità del cloud computing.
+
+In un'era dove AWS può trasformarsi in un buco nero finanziario, il FinOps si erge come un faro di razionalità economica. Non si tratta semplicemente di tagliare costi, ma di orchestrare un'elegante danza tra efficienza e funzionalità, dove ogni risorsa viene ottimizzata con la precisione di un orologiaio svizzero.
+
+La discussione si snoda attraverso un labirinto di strategie: dalla gestione delle riserve cloud alla containerizzazione con Kubernetes, dalla migrazione strategica alla colocation. Particolarmente illuminante è l'approccio di Docebo, dove la frugalità si sposa con l'innovazione in un matrimonio di convenienza digitale.
+
+Gli ospiti condividono un arsenale di strumenti pratici - Vendr, Vertice, Infracost - ciascuno progettato per domare la bestia dei costi cloud. Ma oltre agli strumenti, emerge un messaggio più profondo: il FinOps è una mentalità, una filosofia che deve permeare ogni livello dell'organizzazione.
+
+Come un maestro zen del cloud computing, il vero praticante del FinOps sa quando spendere e quando risparmiare, quando scalare e quando consolidare. In un mondo dove il digitale divora budget come un Pac-Man impazzito, questa saggezza economica diventa non solo utile, ma essenziale per la sopravvivenza aziendale.
+
+Nell'universo binario del cloud, dove ogni decisione ha un impatto sul bilancio, il FinOps si rivela essere l'arte marziale finanziaria del XXI secolo: precisione, disciplina e consapevolezza unite in un'unica pratica. Come diceva Sun Tzu: "La suprema arte della guerra è sottomettere il nemico senza combattere" - nel nostro caso, il nemico è lo spreco di risorse cloud.

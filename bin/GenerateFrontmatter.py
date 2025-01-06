@@ -66,7 +66,7 @@ else:
 keys_list = {
     'number': number,
     'layout': 'episode',
-    'title': re.sub(r'BGE \d+ - ', '', youtube_data.get('title', 'NA')),
+    'titolo': re.sub(r'BGE \d+ - ', '', youtube_data.get('title', 'NA')),
     'description': youtube_data.get('description', 'NA'),
     'duration': youtube_data.get('duration', 'NA'),
     'youtube': youtube_data.get('youtube_id', 'NA'),
@@ -76,6 +76,8 @@ keys_list = {
     'guests': manual_data.get('guests', 'NA'),
     'host': manual_data.get('host', 'Alessandro Franceschi'),
     'links': manual_data.get('links', 'NA'),
+    'quote': read_file(file_number + "_quote.txt"),
+    'claude_article': read_file(file_number + "_claude.txt"),
 }
 
 # Debugging

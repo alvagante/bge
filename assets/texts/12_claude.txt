@@ -1,0 +1,13 @@
+Il Codice Disassemblato: Un Viaggio nella Mente della Macchina
+
+Nel profondo dell'universo digitale, dove il codice binario danza il suo waltz matematico, tre esploratori - Cosimo Streppone, Marco Foco e Fabrizio Fortino - si avventurano nel territorio affascinante del reverse engineering. Come archeologi del futuro, dissezionano l'arte di decostruire il software per comprenderne l'essenza più intima.
+
+Dal C al Java, dalla decompilazione al prompt engineering, il viaggio attraversa le ere dell'informatica moderna. La discussione si snoda attraverso le complessità legali e tecniche, illuminando successi storici come MAME, che ha preservato l'eredità videoludica attraverso l'ingegneria inversa.
+
+L'evoluzione degli strumenti, da Ghidra a WebAssembly, rivela come questa disciplina sia un prisma attraverso cui si rifrange l'intero spettro dell'informatica moderna. Il reverse engineering emerge non solo come tecnica, ma come mindset: un modo di pensare che permette di svelare i misteri nascosti nel silicio.
+
+Particolarmente intrigante è l'esplorazione delle applicazioni moderne, dalle reti neurali al prompt engineering, dove l'arte della decostruzione si fonde con l'intelligenza artificiale, creando nuovi paradigmi di comprensione e innovazione.
+
+Come un Prometeo digitale che ruba i segreti agli dei della tecnologia, il reverse engineer moderno non si limita a osservare il codice, ma ne svela l'anima nascosta, trasformando l'incomprensibile in comprensibile, l'oscuro in luminoso.
+
+"Nel codice, come nella vita, non esistono scatole nere - solo temporanee lacune nella nostra comprensione."

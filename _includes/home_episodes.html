@@ -1,19 +1,17 @@
 <div class="album py-5 bg-light">
   <div class="container">
     <div class="row">
-      {% assign sorted_episodes = site.episodes | sort: "episode" | reverse | limit: 10%}
-      {% for episode in sorted_episodes %}
-      <div class="col-md-4">
-        <div class="card mb-4 box-shadow">
-          <a href="{{ site.url }}{{ episode.url }}" target="_parent"><img class="img-fluid" src="{{ site.url }}/assets/covers/BGE {{ episode.number }}.png" alt="BGE {{ episode.number }} - {{ episode.date }}: {{ episode.title }}"></a>
+      <h2>Ultimi episodi</h2>
+      {% assign sorted_episodes = site.episodes | sort: "episode" | limit: 10 | reverse  %}
+      {% for episode in sorted_episodes | limit: 12 %}
+      <div class="col-md-3">
+        <div class="card mb-3 box-shadow text-center">
+          <a href="{{ site.url }}{{ episode.url }}" target="_parent"><img class="img-fluid pt-1" src="{{ site.url }}/assets/covers/BGE {{ episode.number }}.png" alt="BGE {{ episode.number }} - {{ episode.date }}: {{ episode.titolo }}"></a>
           <div class="card-body">
             <p class="card-text">
               <a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.title }}</a>
             </p>
               <div class="d-flex justify-content-between align-items-center">
-              <div class="btn-group">
-                <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-              </div>
               <small class="text-muted">{{ episode.date | date: "%-d %b %Y"  }}</small>
             </div>
           </div>
