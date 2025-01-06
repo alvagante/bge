@@ -7,9 +7,12 @@
           <h3>Guest</h3>
         </div>
         <div class="col-lg-9">
-          {% for ep in page.episodi %}
-          {% assign episode = site.episodes | where: "number", ep | first %}
-          <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h5>
+          {% assign sorted_episodes = page.episodi | sort | reverse %}
+          {% for ep in sorted_episodes %}
+            {% assign episode = site.episodes | where: "number", ep | first %}
+            {% if episode %}
+              <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h5>
+            {% endif %}
           {% endfor %}
         </div>
       </div>

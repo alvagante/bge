@@ -10,9 +10,12 @@
           <h3><a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ geek.nome }}</a></h3>
           </div>
           <div class="col-lg-8">
-            {% for ep_id in geek.episodi %}
-              {% assign episode = site.episodes | where: "number", ep_id | first %}
-              <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h5>
+            {% assign sorted_episodes = geek.episodi | sort | reverse %}
+            {% for ep in sorted_episodes %}
+              {% assign episode = site.episodes | where: "number", ep | first %}
+              {% if episode %}
+                <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h5>
+              {% endif %}
             {% endfor %}
           </div>
         </div>
