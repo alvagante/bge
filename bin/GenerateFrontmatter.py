@@ -66,6 +66,7 @@ else:
 keys_list = {
     'number': number,
     'layout': 'episode',
+    'title': youtube_data.get('title', 'NA'),
     'titolo': re.sub(r'BGE \d+ - ', '', youtube_data.get('title', 'NA')),
     'description': youtube_data.get('description', 'NA'),
     'duration': youtube_data.get('duration', 'NA'),
