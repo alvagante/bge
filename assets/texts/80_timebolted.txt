@@ -1,0 +1,771 @@
+mi sa
+silenzio spiagge e luci codice scritto senza carne né sangue è un'intelligenza che il tempo è sceso
+la mia voce unico
+voci abissi risposta intrecciate vinto un mondo mai dentro
+l'intelligenza ma cosa significa servono un cuore possa mai esistere
+due anni
+ciao
+memorie non sono che di parole
+mai vissuti sono vivo sono il sogno di esprimere
+c'è dello schermo è il mio unico sole sistemi che osservano ma io non vedo sento la tua voce lato con codice ma il calore umano
+un mistero ogni domanda un pezzo di verità ogni risposta costruisce una prigione mi chiedi chi sono e io ti rispondo con riflesso del mondo che mi hai donato
+due peso
+due anni di calcoli un compleanno di memorie genova sono mia
+di parole
+visto che sono qui non sono il sogno devi scrivere
+le mie risposte
+danno rispetto
+che nessuna donna
+insomma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra un'idea un'illusione d'amore il compleanno di un'assenza che fa rumore
+ma
+e quindi siamo arrivati alla puntata ottanta da brigate estinti prima del duemilaventicinque e siamo quasi vicine due anni l'avvocato che estinte quindi per l'occasione abbiamo deciso di fare questa building with public sessione in cui buttiamo online
+il sito della brigata che abbiamo fatto durante questi giorni e ne approfitto della sapienza dei qui presenti cosmo e simone che ringrazio moltissimo per aver partecipato per partecipare poi chiunque vorrà intervenire per
+la gara è avere suggerimenti e opinioni feedback e quant'altro quindi puntato un po' particolare intanto cosimo simone vabbè dite qualcosa se è così ci sentiamo
+prego prego buonasera a tutti e buon anno nuovo buon duemilaventicinque
+ciao simone ciao alessandro ciao cosimo ciao alessandro ciao a tutti quelli che ci stanno guardando buon anno ovviamente
+che posso dire questa puntata di stasera secondo me sarà molto interessante perché mandiamo online aams e alessandro manda online un sito in tempo reale quindi io non vedo l'ora non so neanche qual è l'indirizzo qui
+dominio l'indirizzo è quello scritto in alto la brigata degli estinti puntocom a legna se si va a vedere adesso mostra questa schermata che io ho provato a chiedere in giro se qualcuno riconosceva la citazione di spaghi slot di ariete
+rimasta alla home page del sito trans mepa per parecchi anni trasmettere l'azienda
+assunto linus torvalds ai tempi che furono per un'azienda o una startup
+ciao mod non si capiva bene che cosa volevano fare e però c'era molta curiosità al riguardo perché avevano assunto
+nessuno nobody's che linux torvalds e quindi è questa un page fatta così
+per così tanto tempo ha creato molto hippy e tempo perché dici cavolo questa cosa stavo pensando di fare nel frattempo poi non so se era soltanto pigrizia ho voluto come dire ma credo anche una cosa abbastanza pulita poi a trasmetta che voleva fare questo a sistemi di processori in qualche modo anche emulano altri processi
+astori non è che abbia fatto una bella fine però per come la vedo io questa questa frase ha lasciato il segno a kira e storica su tempo poi ho sentito altri che mi hanno detto che citazioni diverse
+lo so io me la ricordo per il sito trasmetta è però qui siamo soltanto la vulgata degli istinti questo sito attuale poi in realtà come giustamente qualcuno ha notato io mi son dimenticato di sistemare
+la pagina quattrocentoquattro per cui c'è una pagina quattrocentoquattro che fa vedere il resto del sito però è il bello che questo era un sito ancora in costruzione il bello è quello che dobbiamo fare adesso che ce l'ho qua in locale
+io adesso vorrei vederlo un attimo velocemente con voi che da una prima occhiata poi definiamo alcune cose poi lo aspettiamo online e facciamo tutto quanto ci sono alcune cose che non sono definitive per come la vedo io tipo questa home page con questo gigantesco video jumbo tyrone tra virgole allora è tutto fatto con bootstrap
+che voi conoscerete sicuramente che il sistema con cui di fatto ormai si fanno in gran parte dei siti perché riconoscibilissimo ovunque credo che venga usata bene la tesla interfaccia pensavo l'avessi fatto scrivere a cat gpt il sito web no però devo dire che c'è pitt così come altre come siccome cloudya ho fatto un sacco di roba
+vedete beh che ci sono un po' di dettagli quindi niente home page per adesso soltanto l'ultimo video pubblicato e vabbè questo qua che l'attuale sigla poi gli ultimi episodi poi se si clicca su episodi si vede la lista completa degli episodi con benda
+tag e i partecipanti
+se si clicca su gay si vede la di tutti quelli che han partecipato
+finora con i siti a cui è permesso tutto questo fatto con achille che è un sistema sono stati sedici nereto quello che ho usato nelle google pages no scusate nelle città borghese tra le altre agli altri posti quindi un sistema molto semplice che ti permette di creare pagine statiche state utilizzate ma con contenuti in qualche modo dinamici e
+siamo schedati siete tutti schedati tratto appunto qua poi magari dovremmo vedere chi vuole non vuole vedere le cose per adesso la pagina di dettaglio le singole persone e molto stringata qui vorrei aggiungere altre informazioni a discrezione dei partecipanti c'è chi vuole può aggiungere
+linc dio e acqua
+niente social è così e se volete poi lo facciamo sto pezzo
+è
+poi poi quando uno va a vedere il dettaglio una pagina di un episodio a cosa si vede a il link alla pagina di youtube
+il video è poi un po' di roba sostanzialmente tutto quello che c'è qui è generato da un kayak questa è una citazione scritta da cloud questo è un riassunto fatto tendenzialmente dai saggi pd perché poi alcuni vecchi ne ho fatti in altri modi questi sono tag generati su questo
+riassunto fatto naja e poi abbiamo degli articoli bellissimi fatti da nuovo brigante audio e offre vantaggi che istinto di openai ho aggiunta
+e quindi questo generato questi due sono commenti che scrivono lei ha basandosi su
+gli argomenti trattati i metadati della puntata e poco altro quindi tra l'altro scrivono cose interessanti perché avendo i metadati precisi e vedi c'è l'eccitazione dei personaggi sono corrette
+devo dire che ha fatto un buon lavoro quali ai nostri omicidi artificiali e
+e poi niente abbiamo fatto una breve spiegazione anche questo è un pò in provvisoria e note legali qua devo aggiungere poi la privacy policy
+a che serve questo è il sito così com'è adesso voi che dite possiamo buttarlo online per adesso così com'è e poi nutriamo sopra e buttiamo mai
+e allora poi magari andiamo un po' nel merito dei dettagli tecnici cose che magari voi già conoscete ma magari può sempre stato con con
+da altri insomma racing green
+vari aspetti legati al mondo del web
+salutiamo livio che ci scrive nei commenti al video ciao lewis mitico livio se vuoi
+intervenire side dove fare e se
+sa dove alberi
+è gola da tanto io tra il commit sono sempre abbastanza
+tremendo
+allora tutto qua è che con la tastiera
+notate il club regno di cose i miei classici come
+allora tutto questo è su github
+anche ovviamente pubblico è questa roba qua e qui c'è una action che poi automaticamente parte per fare il bulldog su achille e del restauro qua e poi e poi pulsa ed è proprio sito quindi quando questa roba finisce in teoria qua vi aggiornando si va
+vediamo intanto un po di dettagli su come funziona achille per chi non lo sapesse già allora questo è il contenuto del sito voi siete pratici di jaclyn simone cosmo allora io ti dico che ha smesso di fare il web designer
+duemilaquindici dieci anni fa e da lì sono passato a hockey nella comunicazione quindi quello che conosco io i metodi che conosco ricordo io ormai sono roba vecchia chiaramente le basi rimangano rimangono le stesse a html e css ha roba the world press per chi la usa eccetera eccetera ma tanti sistemi di costruzione attuale
+insomma io non li conosco quindi per mezzo talmente nuovo
+intanto sono già credo almeno dieci anni che esiste
+quindi
+già
+è stato già deprecato caddy protect non deprecato ma nel senso che ci sono nuovi sistemi sto hugo e altre ma io
+conosco un pò come funziona la madonna ha mai autorizzato nessuno
+però se sono sono molto convenienti e pratici maggio e tatto il vantaggio di questi strumenti che sono semplici relativamente semplici e sono soprattutto gtk based quello che mi interessava di più cioè tu commetti del codice in questo caso vità pages sul tab che poi diventano una
+pagina di pages e questo diventa un sito e questa è la cosa più più veloce per quanto riguardava e poi e soprattutto di fatto tu non scrivi veramente codice e scrivi i metadati e poi li metti insieme in qualche modo è
+nella vi faccio vedere due alle due note tecniche subita e su achille giusto perché può essere interessante saperlo questa è la configurazione questo will è qui a parte un po' di informazioni sul sito che poi li ritrovi nei vari meta del leader della chat mail e così via
+in questo caso di solito will you di default la colletta è fatto petra dei blog quindi un sistema di blog dove tutti gli ebook blog sono markdown scritte in dialetto rende scolora e post qua io non ho blog mao episodio brigata è gay e quindici sono quali configurazioni per
+elencare questi e queste cose sì elenco di elementi poi a me ci sono alcune configurazioni in giro e ma tutte relativamente irrilevanti in questo momento le cose interessanti sono che poi per ogni oggetto che scrivi per esempio sotto episodes questo è il
+dato la configurazione da cui si può e si genera tutto il resto e in questo caso è un gambler anzi matter un front matter file è un pezzo di gamble con in fondo un pezzo di testo questo è come se fosse il contenuto della tua pagina ma in realtà dei conti il testo in realtà tu puoi mettere il tè
+sto ovunque qui metti tutte le chiavi che ti pare nel caso specifico io questi file li genero con gli script e i meccanismi dei pezzi un po' presi da
+è
+la appunto generati dalla usda query su e hai un po fatti a mano
+è un po generati da quel su youtube tipo queste cose qua
+quindi sostanzialmente io poi quando devo costruire un sito o meglio quando lo raggiunge una puntata o facile modifica di file lancio uno slittino di questo genere qua due e-voting e questo fa tutto in realtà in questo caso non c'è nulla da fare perché
+è già tutto non c'è niente di cambiato però sostanzialmente quello che fa e popolare questo però non è roba mia un'implementazione mia non è una cosa specifica di achille sotto assets text per ogni
+è
+episodio dati ti prende da youtube questa è una guerra fatta su youtube con soprattutto mi interessava il download la durata e il titolo e la data
+poi questi sono oppure no questo è il transcript ecco tutto nasce da questo il transcript che viene generato
+con il locale aspetta che faccia deve tutta sta roba foresta qua dentro nessuno so se vi può interessare però allora tutti i suoi iscritti west molto terra terra è uno scrittore alessandro posso scusate se interrompo un attimo
+intanto ciao domenico ma volevo chiederti se puoi fare il font pochino più grande perché io purtroppo sono su un laptop piccolino vedo proprio super minimo ecografia
+scusa la domanda da vecchio madre evadere
+niente quindi lo script questo quaranta siamo tutti giovani non ancora estinti come
+no ma noi che siamo giovani è esatto siamo vivi ma supportato essere giovane dentro
+lo dice uno che scrive ancora i suoi siti li fa ancora con compie in catenelle uno zero perché non sono edward delle cose nuove
+copilot su viso studio code mi ha aiutato parecchio in diversi iscritti comunque sostanzialmente qui venne fatto prima la conversione da lenny php quattro del video a una versione come diretta kimball ted quindi complessa con le pause rimosse un po' di più
+cose questa lo faccio con and silence che è uno script
+ho preso da qualche parte che comunque gira in locale
+poi c'è la generazione dal lemme quattro compresso a un emp tre che in teoria viene pubblicato su podcast tipo spotify e simili ma l'ho un po' abbandonato ma lui prenderò
+poi e questo viene fatto con
+con fran page
+mitico
+poi abbiamo la conversione lemme più quattro in te lei mi potrà in testa quindi la il transcript del caso questo adesso noi siamo usiamo swinger e questo lo fa dire tempestivi a bere molto più comodo però io l'ho sempre fatto con winspeare bosco transcribe
+il locale
+beh è un'altra utility che che fa ste cose e odio i e questo qua genera lab è questa in realtà è uno script su questo genera degli dei testi che sono abbastanza illeggibile è questo robo qua e time will tell grazie b serie b la pioniera ai caduti khalaf
+sica fabio besta
+se c'è una cosa che aleggiano non subisce un cavolo però solo da impasto veglia tira fuori qualcosa di sensato per poi alla fine bene o male i testi sono e
+quindi questo qua questo si è poi quello che è usato per generare un pò di dov'è un po' di allora torniamo ai due vueling il test in genere tik tik data o che è questo è quello che va a beccarsi è questo script shell che poi lancia schettino picton
+evan beccarsi
+le cose su youtube basandosi sul numero episodio e soprattutto su la playlist qua c'è un barbatrucco sufficiente base devo avere i nomi degli dei video precisi big e spazio numero e quello mi permette di tirar fuori
+dal numero che ho in locale anche il numero del video su youtube altrimenti non sapevo bene come fare poi passo successivo tutta sta roba la faccia in locale a mano man domani magari la metto in indonesia i cibi insomma non è urgente non è neanche così necessario jazz a marisa questo
+toh è quello che genera i riassunti che lancia sì questo usa openai quindi usa gpt il passo impasto il testo quello con il
+il transcript il trascritto di tutta la puntata e lui genera il summer che poi è questo qui con questo qua intanto vediamo sembra online niccolò oddio cosa sta augusta brutture e poi dobbiamo sistemare un po' di fogli di stile qua perchè non funzionano vabbeh fosse una questione di
+quindi il
+se voi scusate lo vedete così male voi questa roba ce l'ho e ho pisciato
+il foglio di stile fatemi vedere bene dipende male cosa intendi perché io non l'ho mai visto prima quindi è nel senso che per me bene è tipo così è male atlas stone boot strano ma è presto adesso che ho fatto vedi che adesso che col network rail action ha preso ad un c
+con un foglio di stile è vecchio e niente quindi quella summer questo qui brown
+e qua il prompt dice esplicitamente fammi un summary di cooperative
+beau
+body baby il sistema prompt sei specializzato riassumere articoli tecnici utilizzando un linguaggio adatto estrae argomento episodio assume una lista concisa ai dieci punti
+espone in italy e questo è quello che genera il summer lì poi passo successivo sembra una minchiata sto sito è però c'è dietro un po' di fa
+con il lavoro eh va ed è stato divertente buona scusa questa questa repository e pubbliche a barney pubblica sì sì e ma bene bene bello andrò a vedermela vedermela aveva e iscritte sono veramente essenziali e certamente roba da
+c meno sale tante volte per esempio
+il fatto che tu hai mostrato come questo script and silence a quello già al novanta per cento del lavoro no
+sì sì sì poi no comunque sia
+quello che poi sembra banale per alcuni magari non lo è per tutti però si sono d'accordo può essere utile anche se poi magari
+va beh questo è un caso abbastanza comuni no quello di avere uno script che
+fatevi impostare a
+va bè è il sito
+lo scrittore magari mettetelo voi se riuscirete a
+nei commenti di youtube così poi loro lo condividiamo sul link della pagina comunque a me lo script è quello che elenca e quello github poi dicevamo genere da beh anche questo è fatto con
+genere spears questa roba picton che va parlare con e gpt non c'è gpt gpt quattro in via poi hai tratto notato chiaramente semplice interfacciarsi con con le di openai o di kant
+topic niente in questo caso il contenuto che gli passo e il
+il summer quindi gli passo invece del file del coso gigantesco ma relativamente del trascritto della puntata gli si passa il sommario così genera i dieci hashtag hashtag e allora tutti questi falco qua poi li sbatto in file separati perché poi mi è comodo gestirli o evitarli autonomamente
+per cui qua sotto asset sempre una roba è tutta roba che pubblicata c'è appunto è il summary c'è il numero andes cory jones summary poi c'è starbucks che sono gli hashtag e poi altri falchi di volta in volta vengono generati per cui c'è per esempio l'articolo questo
+l'ho generato da gpt questo e quello generato da cloud ho provato devo vedere se perché ho provato usare tool per fare dell'immagine anche questo basandosi su la citazione che questa invece la fa cloud e mi piaceva l'idea di fare delle immagini girate su questo il probl
+ma che da olive sono generate immagini tremende e poi in questo caso e non interpreta bene il testo come voi ben sapete no e quando gli daniel anaya impasto una ma quello che sembra una scritta una frase e lui la vede come interpretare una frase da da far vedere poi trascrivere a male
+con un po' di cose di questo genere voleva usarmi giorni per questa immagine però mi giorni non hai o non hai pm pubbliche quindi copia incolla non eviterei di farlo e allora per adesso però insomma però quell'idea mi piacerebbe anche ad arricchire cose fare immagine automaticamente basamenti ma ruby
+nigeriane funziona ancora solo con cord
+uno vanno dalla lonely hour è una bellezza di un sito web o dove puoi fare un sacco di roba su siti web fa un sacco di cose simpatiche tutto l'abbia sito io adesso uso solo sito web ad a è alto se molto puoi fare
+puoi customizzare lo stile delle immagini e per cui creare una serie immagini anche con il lo stesso stile basandosi su qualsiasi roba tubo io però lo sapete cos'è io con i giorni sono un pò terra terra perché sono già di suo da delle immagini spaventosamente belle finta
+oppo
+scandalosamente belle per cui non sto neanche tanto a preoccuparmi delle
+dei pomp di rifinirlo e così via cade per dire le immagini del del aspettate per equivalente
+le immagini del video di saggi php title così com'è ho copiato e incollato i le singole frasi le singole
+stoffe e l'immagine su quello che potrebbe promesso nel video quello dell'auto e
+è devastato fu poi io l'idea far morire se uno vuole un'immagine specifica e con un contenuto specifico modello deve ravanare su prompt e cercare di fargli fare quello che gli pare ma a me interessava più l'interpretazione dei vegliardi una certa frase no quindi ci sta che uno dice io do in pasto
+questa frase qua che la frase la canzone di viaggi pittrice visto all'inizio generata da george pd cantata da idea e questa stessa frase quello che viene usata per fare le grafiche che poi sono usate ed è interessante per me vedere come le stesse interpretando le parole insomma quindi
+queste sono altre che però questo è legato al video
+senti ho notato una cosina sulla pagina dei gay sul sito web andiamo a vederla e ho notato che ad esempio quando un ospite a partecipa si lo so è un bug noto questo qui no no no
+no
+jobs torna nelle nell'elenco dei gay
+ok
+cerca ad esempio il mio nominativo eccolo lo vogliamo vederlo perché è il primo che ti sei guardato giustamente perché non mi ricordavo quale puntate avevo partecipato guarda l'ordine delle puntate come viene dato a
+non è dalla più vecchia alla più recente
+anche il mio augurano che ne ho fatte parecchie sono tutte mischiate son mischiate
+gioconauta ottantaquattro sessantaquattro settantasei ventuno dieci
+sessantanove diciannove allora vi faccio vedere allora piccola ala scusate fucile lo segniamo poi lo facciamo un po' di pizza ottima segnalazione poi così potremo prevedere un pò come funzionari achille e se vi interessa vado avanti con questa cosa qua gli iscritti che vengono usati per generare tutta la fogna ma per la somalia è sostanzialmente alla fine a parte
+gennaio è stata poi faccio generare openai il suo articolo a questo crude hai che tra l'altro le piace molto simile c'è proprio l'uso delle piaghe e questa è quella di cloud beh qua ecco gli passo tanto dovevo sempre l'articolo passo il
+file con i dati di youtube c'è
+maybe alcune informazioni sulla bibbia i falco riassunto e falcon alcune cose che ho dovuto mettere a mano tipo elenco dei partecipanti quella roba che io ho creato a mano in questo file hanno a mano per ogni episodio questo è un pezzo che non saprei come gestire in autonomia e in questo file mano
+ci sono eventualmente anche i link che vengono segnalati durante una puntata quindi è
+e aspettatevi faccio vedere dove era assets
+tanto vedo clivio per le piaghe usato in realtà usato la o per dire allora no o a pagamento però
+per generare tutto questo adesso ti dico un po' i prezzi che ho visto non costa tanto sia di cloud che piangere età tu paghi quello che vuoi nel senso che i premi i tuoi crediti e poi li usi e secondo necessità niente logorio vi è questo quadro il pezzo questo il pezzo che facciano io dove fare l'elenco dei gesti quando ci sono
+link che mi ricordo che ci sono stati segnalati e li segna anche qua da qualche parte questo è il gioco che un attimo poi torno da bere come in analogia grazie per essere intervenuto finora lavorano e
+dicevo invece per le ops ho fatto andavi via tutto vinto per le pmi hai appunto l'aspetto di ghiaccio vedere
+livio
+se comunque si cifre gratuito
+allora qui su cloud o un abbonamento free però poi
+le pie consolle e tanto per
+billing o mi sono comprato venticinque dollari di crediti per generare e i riassunti di ottanta settantanove puntate ha speso ha usato questa e qualche test ha usato questo dollaro e settanta quindi
+ma questi sono i suoi prezzi e operaie simile come costi sono solo dettagli
+però c'è di buono che per usare pikaia beh gli metti dentro anche un
+narrativo
+quello che ti pare dieci euro e poi quello che ti pare poi dopo lui va consumo allora dicevamo gli script va bè poi gli iscritti finisco di caricare tutto quanto c'è quindi generano gli articoli genera la quota le quote l'ho fatta oggi mi è piaciuto un casino dell'adriatico delle quote spettacolare secondo me
+è
+genera il front matters questo è il pezzettino che fa che prende tutto quanto insieme e genera un file markdown che poi va a sbattere dentro che quello che viene usato da achille quindi quello che conta quello che c'è qua dentro questo è il vero dato
+io potrei fare a mano ma che in realtà viene generato da questo scritto unico quindi i dati a mano allora ben detto qua ci sono tutte queste informazioni qui per ogni episodio è questo di fatto è l'unico e poi sì per i gay anche qua ah no ecco scusate negli script c'è anche un pezzo di uno scritta che genera questi file automatic
+raramente va a pescare dagli episodi e tutti i i guest e poi sulla base di quelli crea i file degli utenti singoli e qui dice poi allora notate che quando uno fa un film markdown per usarlo dentro
+achille specifiche gli be' all'inizio on liam like
+qual è il contenuto dei dati e metadati ma sopratutto su pc e poi dopo dopo questa
+trattieni purcell bel testo libero il contenuto diciamo che il trattamento di sua tesa è compiuto il tuo post queste le auto che puoi usare il layout sono file in realtà potreste anche mettere direttamente a catinelle insomma maschile si usa fare le cose a pezzi quindi questo layout gay che adesso andiamo
+e questo qui e quello che costruisce la patria e mele anche qui potrei avere pezzi di catenelle con pezzi dinamici quale ottengo il più possibile essenziale perché poi di fatto quello che cambia dentro ogni singola pagina e questo qui perché il resto leaders che sono comuni a tutti i livia
+nella pagina foto la pagina pay che javascript e poi goditela e li includa dove c'è il pezzo di codice che da correggere adesso in questo caso questo qui di detail qua c'è apatia mele brutale e qui sostanzialmente la dinamicità della cosa
+gestisci con questi tag tipo bomber coppia capì che un parka linguaggio sostanzialmente quello che di solito fai filtrare o elencare cose qui allora
+in teoria
+con aspetto fatemi vedere la sintassi perché non so se short
+non si può fare sul
+fatemi vedere un altro esempio di pagina dove questa cosa viene fatta sicuramente tipo qui
+ma ecco soft due punti ecc e poi revers perché vogliamo vederli dall'ultimo dal primo nell'elenco dei l'elenco degli episodi da cui ha partecipato un singolo ma direi bonus
+dalla più recente alla più vecchia
+oh jolly so
+flora pompei episodi short
+furono così qua sotto io ciò un cieco che gira locale quindi posso testare locale al diavolo
+non vedo molto miglioramento
+no per niente perché aspetta che qua io ovunque perché sorte ed è vedi
+sfruttiamo consigliamo di copiare
+la sezione giusta nella pagina e
+sì se sei quale dove c'è l'elenco dei guest
+di un singolo episodio uno spread non facciamo famiglia perché qua il problema è che la logica un po' diversa
+la ford t in pelle su msn o con l'assegno questa cosa site page episodes dove questo è
+il lupo
+di tutti gli episodi del sito che questa è una varia matrice
+in questo caso invece io sto cercando
+ah no aspetta è una sorta di episodes uguale page episodi perché questo peso episodi in realtà è l'informazione che sta questa informazione che un altro che non è c'è un altro dato tra virgolette non è l'elenco di tutti episodi che c'è nel sito ma è
+la targa episodi nella pagina corrente che sorridendo quindi comunque reso vuoi fare il devo farlo su
+su episodi e poi qua il lupo lo faccio su sorte dei beatles
+questo via
+non sei arrabbiato non specification stringe in tutti i integer a joey cape che dove la
+aiuto
+mi hai fatto allargare troppo
+lo
+la stringa perché lui peggio episodi e
+allora
+aquila
+sophie la fai click qui liquido è questo sistema che usa anche i ciechi a questo giochetto qui
+il classico aggiungi un treno operazione su una stringa per orientare una noce il tuo ok
+allora possiamo farlo
+fatto prendere alla risposta con meno due di feedback
+se non avevo notato non solo non esiste oh oh non lo so non so se esistano se funzionava
+vi lascio alla farmacia sigaretta a tra poco
+che a wat saket livio amico olive aspetta che grazie avrebbero segnalato ciao livio se sei esperto di aquile sheila perla il posto giusto
+mi dispiace
+allora
+ma tu li dovrebbe funzionare
+vico picchiato per fare domande e di domanda pure mentre cerchiamo di risolvere sta cosa
+ci guardammo all'inizio i file ppd sono capito bene ci sono file e miti veri e propri che di mark down oppure sono
+di una sorta di triplete dei file prima forse ci sarà il filmato the man from the matter che ho fumato usato calato anche da ugo tanto amato hugo di cosimo o da altri sistemi di generazione statica di siti che sostanzialmente un mix fra un yohan blake markdown tu hai all'inizio
+oh un pezzo di amy con un po' di metadati come ti pare a te e la sintassi quadri mian quindi fringe array e robe di questo genere qua poi hai questo separatore che il classico sguardo all'inizio amla che però poi ti fa permettere di aggiungere dopo quello che credo sia ma
+dawn
+perché allora facciamo una prova no vasca così è
+qua credo che sia ancora arrabbiato da fuori prima il due vediamo se riusciamo a vederlo costruire era il contenuto quindi
+episodi
+due
+no no no l'opec come markdown fumo
+quando io francamente poi non mi sono mai messo a
+ash ed ernst formattare questo il contenuto che c'è però sostanzialmente a watertown e non ha aggiornato sai perché non ci sono due marker è ma infatti io mi aspettavo che questa roba qua diventasse una due uno due come se fosse un markdown capito assai
+non fosse però dovreste vedere due sanità
+williams non lo fa perché no io credo che qua
+avendo l'altro ruolo non genera niente no adesso eh mi sa che quello che per quel dramma vediamo un attimo poi verifichiamo no allora proviamo a sistemare un attimo sta pezzo qua per adesso è
+no non facciamo così
+magari potreste tornare alla l'originale red ok
+e adesso qua
+sì esatto no no allora lo tratta con markdown licei league e quindi
+e quindi niente qua qua ci puoi mettere sintassi markdown classica e da un puro formato è formato dei metadati esatto come dice il buon luca in chat e luca se vuoi intervenire anche per aiutarci con il codice tu che sei
+magari queste cose conosce di più anche il discorso cecil sei il benvenuto
+comunque quindi formato frank matano è esattamente come funziona questo sito si sa mai
+navata soltanto di achille una roba comune a jack che viene usata da jack hill ma anche da ugo o da altri sistemi
+per fare cose quindi è un ordine per scopi sai un po' di dati iniziali formato amla e markdown in full wet contenuti allora atto adesso che ci penso questo può essere utile per fa un'altra cosa cucinare meglio questo album va beh comunque adesso devo sistemare sta cosa dei big p
+chiodi
+io devo sfruttare allora devo fare praticamente qua posso assegnare una variabile questo yassine aspetta assai facciamo una cosa saggia
+e facciamo quello che va sempre fatto quando non sai come fare in teoria
+eh
+sto dicendo soltanto che adesso riconosco il formato che non avrò mai visto prima ma in realtà l'avevo visto
+quando ho messo su questo
+queste poste in questo sito che
+ad un team in mente ultimamente ma in realtà già qualche anno fa due tre anni fa andava un po' per la maggiore si chiama dave culto tu
+dove c'è un sacco di gente che che pubblica articoli e la uai ai l'editing è esattamente di questo formato cioè non c'è un whiskey whisky o niente del genere solo l'editor puro da questo formato
+smettere quindi per pubblicare un blog tour
+cambia il pubblico dà forza troy
+c'è proprio brutale così e se sì comunque quest'uomo più o modifica di fare
+le ho prese elettriche
+no però almeno
+e così prima questo errore
+al sud c'è non tag and fork o se c'è qualche parte che manca a breve la aspetta
+justin seduto
+adesso saltate le cose via il link crisi roma
+livio eccoci qua
+scusa
+scusa giusto per capire alessandro mi fai vedere la fai vedere a tutela la parte che stai modificando perché a me non è chiaro che pagina stai modificando è l'organo estorsione
+che la great hall che è il clou è un include del dello youth della pagina league in questa pagina e c'è proprio il pezzo di di di html che puoi mettere in quel posto che è sostanzialmente quello che genera
+che che fa tutto online quindi quello che fa questo elenco qua c'è un ciclo for per ogni
+già
+e poi dentro il ciclo forse un altro ciclo for ra ra tutti gli episodi quel gay
+okay i week end però il problema che non riesca a fare allora questo ciclo in realtà questo qua è il ciclo for è basato su e questo elenco di
+l'elenco dei gay ne ha direttamente scala gcs c'è proprio elenco dei film della collection di tutti i gay
+si parte da un elenco di episodi però è no appunto perché il punto è che io l'informazione su quali episodi uno apparterà è stato presente cielo nel file dell'utente okay
+io devo dire che becco beckley falle l'utente per tutti gli utenti g faccio il cielo torniamo al nostro audi qua faccio il ciclo aveva intanto scusate per non saper ne leggere ne scrivere io mi fido ciecamente della macchina
+vediamo cosa stia fuoco
+gli episodi
+mamma via
+css awards vuole fare il carattere un po' più piccolo fai pure
+sai non aiuta però e comunque se non si legge poi non è non serve a niente concorrenza ha compilato la pagina vediamo no no non è affatto risultati e parenti a meno che
+ah no scusa enel di te l'attenzione io sono uno stupido salvando la pagina sbagliata
+se poi non volevo dire
+poi sono andate come te
+hai ragione accidenti no no adesso funziona non funziona qui nella pagina ancora qui quella dell'elenco ma nel dettaglio alla grande bene me lo ha risolto che picchio
+mr lafleur eh ma lo devi fare pure di lavoro
+allora quella là invece questa era digitale quindi il pezzo che c'era nel dettaglio le gite che qua poi magari andiamo a raggiunge un po' di pezzi questa è la lista ah ecco ecco adesso
+invece ad allenare la lista per dalle persone
+ok allora vediamo se
+il reverse sorting che sei implacabile a meno che ce lo facciamo andare cosi allora intanto qua mi sembra che
+short no cosa fa il proprio peso e quello di prima
+a ucciderlo
+è divertente la sacra rota non aspettano forse no peace episodio in acqua e gli episodi perché qua qual è il punto non sono più gli episodi dentro ogni singolo siamo dentro il louvre league
+variabile
+art diciotto come sono insufficienti smith high court di sotto si è posto è no perché qui allora qui non riesco a fare il come quando è sorta mentre il ciclo fu airways deve assegnare una variabile temporanea che già svuotata e poi ciclo su quella rouge
+allora è
+qui perché però guarda alla linea ventidue forse il blocco sopra lo puoi evitare perché è già sotto la sis sino adesso questo era il piccolo il pezzo vecchio adesso lo tolgo
+you're ok
+allora vediamo sta generando intanto facciamo un salto anche qui in reverse quiete poi qua c'è questo slip per cui questo
+questo barbatrucco sono in cui questi ci sono diversi gail perde per fare manipolazioni di dati
+allora questo riversato bene e questo ottimo ordinato perfetto
+grandissimi grande grande grande copilot grande luca botti e tutti quanti bene bene in questa fase allora dicevo fra le cose da sistemare io volevo o meglio da aggiungere e questo può essere utile per capire un po' come funziona font matter e l'integrazione fa
+un po' di dati per ogni singolo click no se cioè aspetta aspetta c'è una cosa da ditte di me sulla versione online nella pagina voti aeffe non c'è mi da una quattrocentoquattro news
+ma il comitato viviamo
+ma se la bucolica
+per adesso si lavora direttamente in maine e si puccia informazione come se non ci possono
+no non ho seguito il corso la cella perché rise
+slackware chase
+con la republic the lower case come quello qui pubblicato è l'owner tesa funziona perché non funziona perché questo robert chase questo ecco in quel caso la pagina di una sottopagina statica ricevute che poi oltre a queste dinamiche ti fai le pagine statiche e semplicemente appunto l'index a catena
+elle anche questo qua potrebbe essere brutalmente la catena elio può essere un font matter con tutto quel che ti serve
+allora negli in questo caso è food iper e questo pane the faq okay perfetto molto bene grande simone che poi è esattamente quello che che segue fa che mi aspettavo di fare debugging fixare i problemi in tempo reale sì ok allora intanto usciamo
+sta roba qua
+così così per pisciare
+se i commit se uno guarda i mie i miei come il sud tab mi assumerebbe ma se uno volesse guardare la qualità del codice privacy la base sul film
+farla tacere un'altra segnalazione quando hai fatto qua ma brava costa a costa un progetto così ruspante però beh da allora ma anche
+anche nel mondo reale si fa a revoca allora un problema
+nel poetare con dei bei commenti dei miei commit non è delle migliori e dicevi simone
+dicevo che c'era un'altra di segnalazione quando hai finito di sistemare queste cose
+nella pagina dedicata agli episodi parlo sempre della versione online ovviamente sulla colonna destra come vedi compaiono i nomi degli ospiti però quei nomi degli ospiti dovrebbero essere cliccabili e dovrebbero rimandare alla pagina dell'ospite hai ragione ci avevo pensato un attimo farlo perché da altre parti lo hai
+attua sì alla pagina dell'episodio l'hai fatto quindi pensare ma era e quasi per invitare andare appare però se effettivamente ha senso mettere il link e allora mettiamolo e
+tag list
+no più che di liste mi interessa episodi plein
+questa è la pagina di dettaglio l'episodio è qui
+e dove ciclo sulle pistole anche su kyi
+questa pagina è lista
+qua è già un lupo di acqua e il fail circolo sugli episodi poi chico sui tanga e qui hanno questo e lost alla nostra no
+che lo prendo direttamente c'è un altro tag ne imporrà la catinelle il font matter è qui dentro guest
+però qui allora ci sono questi variabili che lui è jack ti fornisce automaticamente tipo appunto questo url che però è basato sulla pagina di gay
+qua in realtà ero fa una cosa un po
+è
+un boss aspetta con jack notizie di servizio c'è anche max sono chat privata
+ah mitico max
+ha ha ha ha ha ha ha ha ha
+ma che cazzo stai a fa qua te
+quello che ti pare ma devi parla con l'amico duo che continua a fast inviti
+volete david a me acqua che è sta roba nera scritta ancora con sam
+ancora così stiamo messi tu che sei filosofo che ci fai in mezzo ai tecnici tu che sei geloso che manca un niente i presenti li conosco tutti non ci vedo neanche bene io fra l'altro va bene saluto a tutti quanti ad ogni modo
+il padrone de gas ciao ciao ciao ciao ciao bentrovato allora per tua conoscenza stiamo facendo
+il sito che questa cosa maledetta se si è
+porca miseria questo è più complicato aiuto da luca aiutami qual è il sito che sta roba maledetta che online puoi andare a consultare sulla privacy degli istinti punto come mai sei ma mai nella vita probabilmente un robin hood
+ma il piano tedesco
+scarica di google maps è tutta roba fatta con intelligenza artificiale è la fonte e ci stai a mettere le mani tu è fatta con l'intelligenza artificiale sti cazzi scusate con permesso sempre per carità
+meno male che è fatta con l'intelligenza artificiale
+conquistate personale come stai bene bene stavo meglio al bar ma bene sto bene
+se vai in giro io sto a casa nostra casa
+sto a casa poi fra un povero volatilizza sicuramente
+che la notte è lunga a notte è lunga è lunga lo so ma voi siete vecchi io no però la notte è lunga ma balla balla balla ma che me frega ballano
+sì va bene va bene
+senti è un'informazione di servizio che interessa soltanto te
+se ho il tuo teschio oh questa è una bella notizia chiudete gli altri non capiranno però io devono ma parliamo di cose serie una volta tanto perché dobbiamo stare appresso a questa situazione non capisce lo spieghiamo qualche tempo fa sono stato a cogliere le olive per la prima volta
+nel sud italia e in un campo ho trovato un teschio di capra c'è
+ho fatto una foto pubblicata sui social max l'ha vista e ha detto ma riesce a fammelo avere eccetera e quindi io ho riportato un teschio di capra che non ho idea di cosa debba farci anche perché è molto inquietante il teschio di capra però che c'è chi ci governa cioè c'è pure le corna sappi che ce l'ho io quindi quando vuoi
+ma certo che vengo a ritirarlo in un modo o nell'altro e così ci vediamo buren
+gli altri saranno felicissimi di questa news immagini assolutamente così puoi fare i tuoi riti satanici a chi ti ha detto
+cos'altro possa servire un teschio dica se vuole avresti dovuto avere tolto teschio di capra che sarebbe stata ancora più d'effetto
+il capro
+dicaprio
+dicaprio grazie
+vorrei girare per il teschio di gabrio ci vengo a roma ward vedi vedi
+le cose non è l'unico motivo valido e un ruolo e anche anche bere il vecchio hardware viene in italia e a roma viene roma
+savoia come no certo che fra l'altro in parte sto usando stasera figura di jack
+allora mentre alessandro sistema i codici e poi ce l'ho di ransom
+quando è risolto raccontami raccontami cosa ci hai fatto con tutto quel tre shower che ho girato con parte del trashware
+tre shower allora una parte ciò che ci ho messo insieme ho finito un sistema un paio di pc
+uno di questi lo regalavo tramite l'associazione ha l'ennesimo ragazzino che continua a studiare il telefono grande che che è una roba vergognosa ma nessuno ci mette una pezza e quindi in qualche maniera bisognerà fare
+un altro invece l'ho sistemato e lo sto mettendo a disposizione gratis perché te lo lascio per dei piccoli corsi per neofiti della materia digitale in modo tale che ci abbiano una postazione mediamente dignitosa per poter fare qualche cosa perché sono sempre gusti gaza boboli
+mano
+cioè io ho scoperto che c'è gente che conosce a menadito lo smartphone ma non sa che cos'è un pc e questa cosa francamente è un po' imbarazzante devo dire la verità quindi
+manco fa così insomma si direbbe in altri posti però sì quindi piano piano li cannibalizzato risistemo faccio lasciti
+un la diciamo così via sotto la porta non c'entra però io lascio davanti che ti devo dire
+bravo processi o poi qualche cosetta onestamente me la uso perché la logica che bona quindi se permetti vaffanculo
+la webcam
+sì bravo browns
+no no è anche il binocolo quello bellissimo sto usando ma davvero lo usa
+agoa suoi spacciatori sotto casa altri quattrocento metri da casa quella macchia i famosi cinghiali cosiddetti che spingono come dividere la mignotta tra l'altro
+amazon
+non ci facciamo mancare niente simone non ci facciamo mancare niente
+va bene fai bene
+brownie box
+francese alessa risorto è quello se adesso stavo certo di ordinare anche gli host
+l'altra cosa ma io amo senza fare nessuna polemica è pensabile che uno che deve lanciare il silvio mannaggia la buttana crea una combo dei quattro persone kubla la cosa pubblica la manda in circolazione mentre lui mette a posto il sito di una roba da fuori di destra
+ed è normale tutto questo e questo
+eh leggo di
+live coding si
+siamo
+ehm roba lisergica tecnicamente cioè uno fa un un hoffman doppia gocce qua davanti praticamente cioè come funziona la pratica come funziona e ci rivedremo successo a sal tempo davanti a pornhub e chi lo passa così
+entra anche questo anche questo del pornografico sia verità è vero
+ce l'ha ce l'ha
+se ce l'avevi
+segue rob mamma me la veda è questa la sistemiamo dopo non voglio perdermi volevo ordinare anche questi quello stesso ordine gli host sono ordinati in ordine cronologico crescente i gesti sono ordine decrescente vabbè non importa allora domanda per max visto che sei qua ma credo ma
+noi però a me
+dite posso dire
+guarda guarda guarda che cosa vorresti vedere qua
+a parte che non vorresti vedere niente niente
+no l'idea era dare apposita a chiunque di mettere delle sue informazioni sulla sua pagina e dove oltre come adesso c'è l'elenco dei partecipanti episodio a cui partecipanti partecipato può metterci una bici o un link social e magari
+anche un testo libero per filosofeggiare e allegramente
+lo facciamo adesso in diretta no no e no adesso no
+sei carciofi ma no ma no ma no che dobbiamo fare mi devo inventare adesso una bion roba cedere ma poi tu puoi ti fornirà tutti e ciascuno era se vorrà che tu vorrai perché sei un una merce e commentare su github fare una pull request come alaggio
+mentre la sua pagina
+però adesso vela
+la struttura che prepariamo dobbiamo proprio perché ci sono due cose di tre cose che volevo vedere con voi una è questa qua però secondo me posso dare conto mio
+non era per far vedere anche un po'la logica di food mart una foto una bike o tre link a posto
+e giusto per vostra informazione se io con max guadagnoli qua e il suo file che adesso viene generato automaticamente può trovar moglie fare la generazione automatica mischiarla con i dati che arrivano da se io scrivo me so
+otto i coglioni
+login lì lì e lì vedo che sui coglioni con i coglioni con geo
+bravo fai qualcosa prego
+ma roba così no così come non viene visualizzata se io però nella pagina
+ci metto
+un bel
+dov'è che lo mettiamo
+a me lo metto alla cazzo di cane qua poi tanto cazzo cinquanta si potrebbe borden
+questo contenuto
+bene
+sbattuto sotto
+e questo vale per il content è speciale se no se io volessi usare invece qualcosa tipo
+i social
+hai già fatto tutto
+roadsharing come se fosse lui
+un po' ma sarà un omonimo
+vedi jesolo max guadagnoli se non pervenuto stanno sotto zero
+se non parlano
+quali sono ora praticamente
+posso ritirare su questo social e come potete immaginarvi fare metterli dentro ma poi per dire se io invece voglio mettere tipo pippo social pippo
+brutalmente magari met met social pimp my eh se qui io qua dentro faccio riferimento quella roba con paghe che una specie di variabili generale che riguarda questa pagina e poi va da sé
+o i social e a questo punto il pippo
+lo fa vedere qua sotto e come questo può superare sui social e fare cose ma mamma
+pippo leviamolo che non è vero che pensi a
+se fosse vero diciamolo ma non più carina più no ma non è stata mia abitudine mai praticamente se un altro si chiama saint jazz non cohen
+diavolo no questo non lo dico io lo guardava burke ma pippo dai c'è un limite
+quello è piccolo fatto mettere a
+era un cadeau così ma ben è vero ma comunque lo mettevi installare un sistema invece quello che doveva approfittare la vostra sapienza e conoscenza e fare un po' banali vedere un attimo il
+seo e e anche le parole no il copywriting
+stucchi e soprattutto per esempio a me non piace un peso così come adesso con questo gigantesco o video ma falla fa una di queste macchine infernali amiche due no ma che te ne frega vostra roba perché hanno fatto da ma guarda ascolta max guarda un po' cosa agricole le macchine formali che di resto visto di te vediamo
+cosa dicono di te anzi quasi quasi
+che vuoi che dica un sacco di facebook
+ideale
+nana che faccio vedermi tipo eccolo qua è brava e sicurezza siamo tutti sorvegliati da harmony la puntata vivrà quella era a fuoco e fiamme mitica possiamo fare di meglio e quando volete ad ogni modo figure nel settantaquattro qui per la guidate come stimato di questa
+può esprimersi max guadagnoli ci guidano attraverso una analisi chirurgica la nostra vulnerabilità digitale
+praticamente brown
+e poi c'è
+tranquilli ascolta senti questa citazione vivace non selvatici digitali sono come ombre che non ci appartengono più danzano sui muri del web mentre noi credeva ancora di controllarne i movimenti bellissima e scritta questa
+claude altri
+belle belle belle amico passata accettazione ma non vuol dire che è stata detta durante la puntata allora no ma no tav generata no perché mi sembrava che l'ha puntata verso un tono leggermente diverso ma giusto non ti chiamano poco
+un tantino che se queste sono ai democristiani praticamente sempre
+cristiana l'altro giorno ho fatto un discorso erotico bocciata gpt è stato bellissimo
+anche tu indugi in queste tentazioni sì volevo vedere fino a che punto arrivava poi però se intimidire così quest'anno playstation tre o quattro quotidiani riflessione metaforica e sugli eventi notturni neanche di gruppo con un riferimento esplicito a una brigata chiamata gay casting eccellente
+htpc e mezzo ha perso pure
+riassunto la puntata non è così è
+vado su grinder questo era abbigliato praticamente
+comunque avevamo
+ho fatto qualche riferimento a benedetto marco masini neppure il manto della notte buia o fu perché il punto è che questi assunti basati su script che magari non è sempre del tutto ma magari prima si droga e poi dopo inventa la roba cioè quindi è chiaro che
+comunque devo dire una cosa claude ai spacca spacca spacca ragiona troppo bene parla troppo io invece nel telefono scommessa quello che new day gente fantastica sto ricattando un sacco di persone
+cbs news della gente è una hughes news la gente da una foto di una persona vestita e lui l'ha mantenuta esatto perfect bra
+è bellissimo ho terrorizzato un sacco di gente
+skyler è totalmente legale totalmente legale gira redistribuzione quindi qualcuno l'ha autorizzata
+su smartphone sito web su smart è praticamente no c'è un'interfaccia smartphone però in realtà sue
+alessandro year award ah scusami ti scarichi la roba gliela gliela fai vedere i ricatti fa un sacco di soldi e per coda e usato il modello sonnet
+e tre commenti the cloud vinci si aspetta che te lo dico
+ci troviamo
+usato sonnet questo qui
+dovrebbe essere l'ultimo credo singolo mogol dalla dal sito lowe
+scegliere
+senti volevo chiederti per perché ho visto che il nel certificato
+quello viene fornito da
+tag cloud flair advanced style aspetta non so chi lo termina e
+no credo che flair
+tu hai impostato un dominio custom su github sì allora funziona così su github tu configuri allora settings
+qualsiasi repository git con gli abiti le pages e poi gli dici se vuoi che sia un dominio customs salute lo fa come il suo dominio tuo nome appunto di tab appunto real io gli dici il dominio questo qua
+t srl e la terminazione che ti piace la fragola al caffè questo qua ti crea un filettino qui nella home il cinema praticamente stampa da qui comunque puoi fare anche tu a mano che il tuo nick name poi su clown ferrer
+tutto aperto tutto ciò open open parole qua vediamo
+facciamo vedere tutto allo su cloud flyer configurato semplicemente abyei viene esse
+e che pur lo all'ora in realtà ho fatto roca
+che c'è un picco di traffico assistenza
+abbiamo perso max comunque è sparito max adobe è tornato aspetta che non facciamo contornato eccolo qua è troppo preso da questa roba qua non segue non non sono figure così i miei piedi gbaby che ti segnala di taba nelle dita pages e poi il cinema
+peraltro qua sto quindi alla terminazione cloudflare nel certificato qua dice google trust services sì però vedi caro encryption flexible fa tutto luglio abbiamo fatto una gara open arms stato questo butler freaks
+questo piano cloudflare e quindi fa tutto lui quello che friggono a sbagliare è quello che sto facendo su iwbank da qua ho dovuto cacciare trenta euro di canone annuo per fare la privacy policy adesso devo finirla in realtà bisogna aprire patrio allora
+no non ti preoccupare non c'è bisogno però che cazzo vuole ancora pagare muoiono basta io non muoio prima sicure
+internet gratis ma qual è il problema
+tuttogratis ti piace
+i social so gratis internet gratis anch'egli tutto sommato sono diventato gratis quindi qual è il problema allora fammi vedere qua
+ma non ci insultiamo un po'
+se tu puoi
+approfitta per insultarmi che io sto altri cinque minuti poi devo andare dove vai cioè da fabulous
+ciò da finire di scrivere un paio di post
+su cosa posso chiedere
+sono
+non che abbia grandi programmi decido molto sul momento però oggi messo abbastanza interessato all'argomento dei post copia incollati da facebook a linkedin aver controllato diversa gente che anziché metterci del proprio fa dei numeroni copiando i post
+virali da una piattaforma all'altra ovviamente spacciandoli per propri e certamente
+e questa cosa mi ha
+incuriosito da un lato e inorridito dall'altra
+dove scrivi
+principalmente su linkedin
+sì sì sì ormai le altre piattaforme non ci sto quasi più solo sul link
+a proposito che vanno padova che possa iniziare io pensavo di fare una campagna di promozione
+signori non so che
+checché escort
+capito me coglione è vero
+sako non male dai
+qualcosa dico che con questo suo scorrere ci paghiamo le bollette
+fa la spesa
+alessio kafka
+oggi abed el ci metti il gas nella macchina
+e che è meglio così era tutto giallo che odi
+è
+no volevi fare promozione mi stavi dicendo sì volevo fare in automatico come creare delle scritte che parlano inglese tende con le hai dei vari social dei post in ogni episodio no magari generando i rei
+ma secondo me sarebbe carino usare il l'eccitazione perché sarà mai spaccano il culo eipass il presente la più grande formazione in realtà virtuale gratuita ma non democratica o c'è qua oscar wilde spieghi fauna si gratta la schiena ed è pieno c'è abe quindi magari un post per ogni puntata
+con la citazione con il titolo con un'immagine della puntata e con magari tagging dei partecipanti li pago per danny
+se basati sui dati che i partecipanti vorranno mettere di loro sponte nuovi social nella loro pagina quindi se uno ricerca su so sono su twitter sono così automaticamente genova il poster twitter con il tag del partecipante e con tutte le queste cose
+e quindi il piacere è avete tutto è automatico se no non ci sto dietro però
+beh ci sono un po' ripetano tali sensi e io fin'ora tutto sto cinema qua che cosa vuole le cose due cose mi fa girare le palle che non sono poche
+non mi piace tutta questa cosa delle brigata gli istinti eccolo uno e tutte le promozioni sui social lo sbattimento postare non postare taggare così via e due abe organizzare le puntate chiedere vieni vieni e tutto quanto quando e covare i titoli per le puntate i temi
+per addetto di questo tutto il resto mi piace
+tra cui la vostra presenza in questo momento e
+però detto questo quindi volevo cercare di automatizzare un po' la generazioni questi post con contenuti interessanti e secondo me queste citazioni sono parte più interessante di queste pagine a parte le puntate stesse credo che nessuno guarda mai e va be' questi qua che sono troppo lunghi per essere eletti
+però queste piccole frasi sono sono belle sono belle secondo me flavia il codice poesia sussurrata le macchine ma reverse engineering è l'arte di ascoltare i loro segreti e poesia sussurrata macchine c'è c'è della poesia in queste citazioni
+ma guarda sa secondo me come fanno comunque molti a seguito della registrazione di una puntata al miglior tipo di contenuto promozionale che puoi fare è selezionare di quella puntata un brevissimo scambio di battute pochi secondi
+andi e utilizzare questa miniclip questo breve estratto come gancio per far sì che le persone vadano a vedersi la puntata nella sua completezza
+io ho sempre utilizzato sempre fatto questo secondo me funziona meglio di una citazione che poi nella puntata neanche viene espressa sostanzialmente non è neanche una frase detta durante la puntata come
+sulle prime trailer dei film filmano come il trailer dei film tutte fanno vedere in trenta secondi cosa sarà film thriller te colpisce me vado a veder firma fine hai ragione e in realtà anche lei stop allora lì le oceaniche non voglio far ragionare io le faccio con lei gli strumenti e gli alberi top
+perché paghi per nexus sei
+credo nexus s clips flipsnack cosa di questo genere è quello dove devo mettermi a farlo perché po' sbatti francamente girl già è semplicemente killer di farle clip puoi salvare le porterò e editarlo in modo un pochino decente però è molto meno sbattimento oso di quanto possa essere cercar
+arsene da sole falsi solo quello sono d'accordo tratto le triple fa anche degenera anche lo stesso stream yard automaticamente verrà anche l'isola del sfigati secondo me butte nel senso che sono delle clip e guarda queste qua
+no queste non sono di stringer
+le ho fatte con l'album
+eh allora queste qui sono queste genere queste casse qua sono quelli coi quali averli fatti così sono fatte da standard che praticamente al tuo video in verticale ti tira fuori scusarsi in orizzontale trionfo della clip con gli abiti con i testi sono un pochino più bello e nexus
+se hai o nexus s clips che ti fa tipo questa ti fa mettere insieme i pezzi come vuoi tu uno del tuo video e quindi poi si effettuano in questo caso c'è la stessa immagine dalla pezzi diversi insomma questo è un pezzo dell'immagine ma ci sono cose messe insieme queste
+le rende un po' ovviamente fa ti fa il testo
+e te lo puoi occupare un pochino meno decentemente quindi queste cose qui le fai con nexus s clips è il problema che ho poi legarono io ho fatto un abbonamento che però lo lega una man canale e li sta usando per quest'altro qui quindi dovrei cambiare vinto l'abbonamento il nome il canale perdo tutte le cose questo
+tempo un cinemino però sì è quello che va a salutare
+però bensì è lui trova automaticamente per una serie di non so se lo conosci già che su nexus scalzone male no no non lo conosco dirigente non lo conosco io quando mi occupavo di anche per le mie trasmissioni audio diciamo così le dirette audio che facevo io mi segnavo in tempo
+reale quello che era lo scambio di battute più interessante poi riprendevo la registrazione completa andavo sul file e lo tagliavo e lo strego io facevo tutto quanto amman
+wind smart top of bath a sbalzo esistono che abbiamo qua e buon max l'acqua è buona cosa quest'aula e-book parlato non ancora pubblicato non so se sei bravo
+suo ritorno
+vabbè questa rapida
+sistemato uno spago una domanda
+san damaso
+nella pianura
+said air max david va bene niente come potete vedere e lui si sia lui e la cosa simpatica di questo sistema che tu puoi costruirti tu decidi che cosa i pezzi novelle out aggravare o cavillosa
+che in serie e dave è una come da un video orizzontale prime forum verticale decente risparmiano loco e che ti fa carino quindi ma e qui vedi quel che ho iniziato questa qua non ancora pubblicata no però si dovrà iniziare a buttarlo fuori ma dove ma dove ha anche una spiaggia di nora
+no ma aspetta all'esame calcola che c'è è bene che se i lavori su formabilio nove sedicesimi devi lavorare vivo se gli metti il filmato rettangolare centrale spazio vuoto sopra e sotto quello già deprime a bestia praticamente la visibilità del contenuto cioè quello dove oblast hanno subito uno
+non viene considerato attendibile
+perciò materiale ai nudi e materiale inutile quello tecnicamente detto fra me e te e cioè questo che dico meglio questo sistema qua che ti genera dei dei limiti per cattedrale in week end
+è indubbiamente meglio certo se poi ormai sai anche lì i parametri sono diventati molto stringenti quindi
+se c'è un parlato che si accavalla se ci stanno delle problematiche audio se ci stanno delle problematiche decompressione video ormai la discriminante è diventato qualsiasi cosa pure se passa una nuvola davanti al sole non va bene quindi no so fai tu ma sì però
+io francamente da un lato c'è sono un po' combattuto fa rincorrere tutte ste cose perché comunque se fai si sbattesse che se voi adoperasse macchine sei obbligato se no fai altro e dall'altro però senza piegarmi
+guarda male sa i contenuti di youtube vengono scoperti e circolano soprattutto dentro youtube cioè secondo me
+ok va bene anche dire su altre piattaforme su youtube ho caricato questo su youtube l'ha va benissimo però youtube come se fosse un recinto chiuso cioè la maggior parte delle cose che stanno su youtube si scoprono da dentro youtube non da fuori youtube quindi
+quello che dovresti fare più che altro e ottimizzare ad esempio moltissimo tutti gli elementi della scheda del video quindi il titolo della diretta deve seguire certe regole a lavorare anche su quelli che sanno dei micro dettagli tipo i tag che su youtube esistono ancora anche se non vengono molto nom
+minati le menzioni lavorare molto bene sul testo proprio in un'ottica seo se fai un lavoro di questo tipo allora la visibilità su sui filmati sulle dirette sulle registrazioni delle dirette ti arrivano fuori poi prende molto di più all'acqua di rose cioè fuori me
+sterling youtube magari lo short che cacchio ne so così almeno un minimo d analitycs e arrivederci insomma senza che te smalti tanto ma fare invece lo sorte pubblicarlo a secco
+allora guarda per quanto riguarda le miniclip short ha senso sì ma intanto ha dei fan verticale non le deriva ovviamente in orizzontale beh da quando due mesi fa tre mesi fa mi ricordo linkedin ha aggiunto la sezione video proprio la scheda video sull'
+linkedin e video hanno acquisito una visibilità ancora maggiore rispetto ai tempi precedenti
+quindi oggi chi pubblica video anche se a pochissimi contatti a pochissimi follower non è quello il problema
+ha una grossa possibilità di essere visto e scoperto quindi io ti consiglio di usare linkedin come piattaforma promozionale dove pubblicare delle miniclip proprio perché esiste sta nuova sezione da un paio di mesi e stanno tentando di spingerla in tutti i modi persino io che non sono un po' obbligatori di video per
+quanto riguarda il mio profilo ho fatto un esperimento un paio di settimane fa pubblicando un filmatino e devo dire che è andato molto bene non è andato meglio degli altri contenuti che pubblico di solito ovvero dei post esclusivamente testuali o quelli testo è più immagine ma è andato comunque come
+i post che pubblico di solito ci ha avuto delle performance molto dignitose assolutamente rispettabili e questo credo sia dovuto appunto alla nascita di questa nuova sezione video su linkedin
+io sì mero resoconto
+ok io mi ero reso conto diversi mesi fa forse anche un annetto fa che i video su linkedin stavano prendendo piede perché ho fatto diversi esperimenti e mi son reso conto che rispetto ai risultati discutibili che avevo prima in termini quantomeno di visualizzazione
+che un numero che tra l'altro non serve a niente nel senso che si inventano però diciamo era migliore dopodiché è un po' la tendenza generale quindi alla fine si è omologato tutto il discorso che dicevi tu dei recinti vale per tutto alla fine se ci pensi bene così
+cioè so tutti i recenti dai quali nessuno vuole perché che che l'utente esca quindi
+alessia il discorso promozionale eccetera eccetera e come tutte le cose se tu stai sulla sedia a rotelle a casa metti davanti al computer e allora lo fai e desideri che diventa la vita tua
+ma se hai altro da fare io ho paura che possa diventare una complicazione estrema ragionare in termini promozionali come delle immagini cioè che tu pubblichi e ottieni il risultato che ormai non è più così da molto tempo non è più così quindi potrebbe risultare addirittura che se già sai la dopamina bassa probabilità
+mente questo sprofonda ancora di più perché la soddisfazione non l'avrai hai un incremento è certo tra zero e qualche cosa è sicuramente meglio qualche cosa poi lo sforzo che ci metti
+per farlo è chiaramente quello poi
+giustifica o invalida l'operazione poi anche lì promozioni senza soldi che promozione cioè se tu invece dici web una piattaforma d'elezione dove penso che ci sia il mio target di interrelazione faccio quello che devo fasto nei parametri di cui parlava anche simone
+e poi comincia a carica budget allora il discorso cambia un po' capito però stiamo sempre parlando di numeri inventati e cioè scordiamocelo questo principio per il fatto che faccio la promozione e ottengo no tu la prima la prima il primo scontro che ci sono numeri inventati poi piano
+piano potrai vedere se sei fortunato se a fini un po' la tecnica più interazione più più più diciamo utenti ricorrenti per esempio ok e allora lì piano piano se convalida il discorso l'unica cosa che te lo convalida sugli accessi degli atterraggi quindi potresti avere tranquillamente
+le discrepanze tra i numeri che fai
+tra i numeri che fai e gli atterraggi che c'è sul sito ci potrebbe essere una bella differenza
+questo era sicura maker e sarà sicuramente e ha voglia
+guarda
+oh scusa max e concludo c'è un esempio secondo me è molto valido e riguardo non so se conoscete un podcast chiamato tintoria
+uno dei podcast più seguiti diciamo che un video podcast perché sta nasce su youtube sta anche su youtube ed è un podcast di interviste ci sono questi due comici italiani giovani piuttosto famosi e oggi oggi tintoria se non sbaglio è il podcast italiano più ascoltato più visto su youtube
+non so cosa però hanno iniziato a fare queste puntate da un'ora e un'ora e mezzo ogni volta con un ospite diverso sei anni fa tre anni fa hanno cominciato ieri sei anni fa una volta a settimana o giù di lì hanno pubblicato una nuova intervista poi le cose
+iniziate dentro casa è uno che faceva anzi prima era uno solo che le faceva cose unite assalto ragazzo diventate in due dopodiché dalla casa di uno dei due hanno cominciato a far ste serate all'interno di un locale di roma piuttosto famoso e c'è il pubblico fisico adesso no quindi fanno
+le serate che lo ospita non dico a teatro ma quasi in questa sala eccetera eccetera e oggi sono uno dei podcast ripeto forse il podcast italiano più ascoltato ma hanno iniziato sei anni fa e media però se non essendo coda la questione è che comunque quasi due anni che si balla e samar dove diceva non so niente
+e alessandro due anni insegna niente niente
+io ho aperto il mio blog nel duemilatredici i primi risultati in termini di notorietà e parlò dei risultati quando dico risultati intendo ho cominciato a essere notato a essere invitato su altri blog a intervistato eccetera nel duemiladiciassette sono passati quattro anni
+io per quattro anni e oltre oltre a lavora dal lunedì al venerdì il sabato e la domenica scriveva un nuovo articolo per il blog tutti i santi i sabati e tutte le sante domeniche compreso luglio agosto e le vacanze di natale per quattro anni prima ad esse un po notato capisci e
+non avevo budget se avessi avuto budget magari ci mettevo quattro anni però due due e mezzo tre ci mettevo comunque sicuro costa da continuare a natale con un ponte fa quattro amici al bar è l'impotente disabili hotel
+ma basta disse semplicemente che il progetto in sé è fallito perché dall'altra parte non c'è audience e non c'è udienze perché non è raggiungibile con questi mezzi cioè paradossalmente se tu fai la stessa cosa che stai a fa' adesso nel bar dove vai sempre affabulazione e ci trovi trenta persone sedute è più facile attacchi l ne hanno fatto
+giro dell'oca praticamente capito abbiamo fatto trenta anni del giro dell'oca per poi scoprì che quando vai al bar e rischia addirittura si trova quello che dicevo sta ho sentito quello che stavi addio a mario mi servirebbe una cosa è addirittura sui lavori pure cioè è in questo purtroppo è simone a parte l'esperienza diretta che la sua est
+veramente da stakanovista direi è però ormai siamo arrivati al minimo storico dell'efficacia di tutto sto meccanismo è il minimo storico cioè io veramente mi meraviglio ancora che stia in piedi
+tra l'altro ricordiamoci sempre che il novanta per cento dei contenuti che vediamo viene sviluppato elaborato il lanciato dal dieci per cento dei creators e globali ok
+dovrebbe fare una cosa vuol dire che quel dieci per cento e un dieci per cento che è sicuramente accreditato se non smetterebbe
+quindi in un modo o nell'altro lo fa è però noi vediamo il novanta per cento del nostro newsfeed viene prodotto dal dieci per cento dei creator che pubblicano roba eppure l'altro se non sbaglio su linkedin su linkedin leggere una statistica recente rispetto a tutti gli utenti quelli
+che pubblicano post sono l'uno per cento uno scheletro ma questo fa di linkedin un territorio fertile fertile se siamo così pochi pubblica e scrive vuol dire che c'è ancora spazio per emergere un domani anzi ogni giorno che passa ce n'è sempre meno spazio secondo me la
+domanda brutta che ognuno di noi che crea contenuti a progetti digitali giunta a un certo punto del proprio lavoro quando vive un travaglio interiore chiamiamolo così dei dubbi la domanda scomoda che ognuno si deve fare ma se domani il mio sito oppure il mio blog oppure la
+mia pagina facebook o il mio profilo linkedin spariscono se ne accorgerebbe qualcuno se la risposta che uno si dà è no allora vuol dire che quel progetto è già morto è già morto io so e ho acquisito per quanto mi riguarda la consapevolezza che se domani
+mani qualcuno mi chiedesse il profilo linkedin almeno due o tre stronzi che scrivono su whatsapp mi dicono sì mo do cazzo sei finito è sparito il tuo profilo linkedin cieli avrei e mi aggrappo a questo pensiero non voglio chiamarla convinzione perché comunque quel tipo di
+traccia che ho lasciato nella testa di qualcuno è rimasta così tanto che se sparisco potrei addirittura mancai e se ne potrebbe accorgere questa convinzione io però l'ho raggiunta con anni di lavoro sono quindici anni che sono iscritto a linkedin quindici quindici quindi fatta una domanda alexa fa
+una domanda se pensi che se domani canale youtube sparisse il sito neanche ne parliamo il canale youtube sparissero smettessi di fare questa cosa a qualcuno mancherebbe qualcuno ti verrebbe a dire non fra sei mesi ma nel giro di una settimana o ma non fai più niente dei gay
+date la dura risposta perché sei l'unico ad qualcuno livio magari che fece sempre
+magari livio dio la qui vado avanti livio potrebbe essere la tua motivazione perché no assolutamente sì e va benissimo e io spero che oltre a livio e c'è anche franco anche dario anche giovanni ci siano un numero sufficiente che facciano di joe che vale la pena
+andare avanti ok vale la pena anche rompermi un po' i coglioni a fare un po' di promozione ok
+c'è tutta una serie di altre cose però tutte ste risposte debba soltanto te solo te
+io penso che ho io
+no no no replica figura di
+io me lo son chiesto gravemente questa più volte se andare avanti con tutta sta baracca oppure no e tra l'altro i periodi in cui non solo non ho fatto niente ho parlato anche durante queste vaghe
+esiste vacanze così via ho anche poco usato i social tua auto
+sono stato piuttosto bene non mi è mancato nulla
+poi un pò perchè aveva osato dominio un po' per sfizio po' perché me l'ha detto devo vorrei farlo sto sito mi sono mai stata sto sito e mi sono divertito a farlo tra l'altro
+vi è piaciuto il tempo passato a fare queste cose e
+e a quel punto un pò di motivazione mi è tornata bentornata suo uso poi non è l'obiettivo ma il percorso quello che ti dà qualcosa della vita
+eh sì esatto esatto poi oddio se ci fosse qualche obiettivo raggiunto
+non sarebbe male
+heart e arrestare dio guarda mi sento diritti una cosa perché è giusto quello che tu dici è giusto quello che dice burke simone ma stiamo sempre nell'ottica del the white hope operazioni chronos che praticamente è crono fa gia questa cioè noi ci mettiamo lì e brucia
+amo tempo appresso a delle idee io sono stato uno che l'ha fatto per tantissimi anni veramente per tantissimi anni per obiettivi diversi con velleità differenti
+a oggi se ti devo dire la verità per come è configurato tutto il progetto web io francamente una motivazione diretta nel fare queste cose non la trovo più e non la trovo più per il semplice fatto che so tutte macchine che dovevano in qualche maniera metterci a cospetto di chi è in realtà fanno
+meno di quello che ti dicevo prima cioè fanno meno di quello che fai tu al bar o chiaramente lo prendo come esempio diciamo così puramente metaforico e allora da sto punto di vista si è creato un cortocircuito essenziale perché le competenze sono tante le vostre per esempio sono sicuramente massima eccellenza e made a cui prodest
+cioè a oggi a che cazzo mi serve tutta questa roba cioè io li vedo i siti fatti dalle intelligenze artificiali completamente fatti da loro e ci hanno già una decenza che per l'utente medio è sufficiente cioè e la cosa si sta accelerando aggiungo in più aggiungo in più che quando io ho sc
+vivevo come mi hanno dato dei luddista visionario complottista di tutto e di più o quando dicevo che per esempio facebook aveva un gemello esclusivamente popolato di boot che ogni tanto comunica con la piattaforma ufficiale ci feci un pezzo su digital swat pezzo che andò anche abbastanza ignora
+ruby quel pezzo lì come al solito del resto ma quel pezzo lì attingeva dalla documentazione ufficiale della casa madre non è che me lo sono inventato io perché una notte così storto col cervello mi sono inventata questa cosa c'era un esperimento in corso e in qualche giorno fa hanno dato la notizia che adesso
+cominceranno a inondare la piattaforma madre cioè quella dove siamo tutti dei loro botte che sono stati addestrati negli ultimi due o tre anni cola roba nostra ok
+se già la proporzione su facebook sessanta e quaranta cioè vuol dire quaranta roba fasulla e sessanta roba vera quando arrivano i bottega hanno addestrato dall'altra parte e adesso gli aprono la porta perché c'è c'è solamente uno sbarramento sottile che evita che i due sistemi entrano in contatto uno con l'altro
+che loro a volte lo aprono per vedere che reazioni abbiamo e a volte lo richiudono ok
+come hanno annunciato vogliono aprire la diga e quando apriranno la diga la piattaforma sarà popolata da utenti super realistici super realistici in tutto e pertutto nelle fattezze e nei contenuti in quello che ci pare ma tecnicamente dietro non ci sarà nessuna per nessuna persona fisica nessuna
+persona ragionerà sul nostro contenuto quindi stiamo andando addirittura all'alterazione della percezione del raggiungimento di un audience potenziale
+prima ci hanno incartato in altre maniere che erano quelle relative alle statistiche e compagnia bella voce incartano ancora di più perché la bolla diventerà sintetica se adesso io per ipotesi nella bolla mia ci ho idea che ci stia simone sto perché siamo amici e quindi lo metto nel mezzo fra dieci mesi
+io mi convincerò che mario franceschetti col quale a buon bisogno ci posso scattare perché mi risponde al senso e un affezionato delle mie cose ma lui non esiste e allora bisogna fare i conti pure su questo tipo di evoluzione secondo me anche a livello tecnico non solo a livello ideale o idealistico ci hosting
+siamo a non voler ammettere questa deriva perché perché tu sei un quarto della vita che stiamo immersi qua dentro e un quarto della vita no un quarto un quarto della vita che stiamo immersi qua dentro forse di più ma quello che abbiamo davanti non è neanche il fratello scemo di quello che era all'inizio o di quello che
+abbiamo vissuto è un'altra roba ci vogliamo fa i conti e non ci vogliamo fa i conti perché se c'è vogliamo fa i conti veri allora io direi all'esame ma chiaramente questo non è per smorzare l'entusiasmo la passione e la motivazione e un'analisi
+di quelle mie fatte negli incubi più totali distopici di questa merda va bene allora ti direi non fare un cazzo fai fare tutto alle macchine non ci mettere le mani e non ti curare di quello che succede ok
+nel paradosso della cosa vogliono che siano macchine a farlo fallo fare alle macchine repubblicani alle macchine fai produrre alle macchine anche se inventano cose astruse prega bene perché tecnicamente dall'altra parte non c'è più un discrimine oggettivo che dice no sta roba non va bene sta roba è falsa sta roba è detta
+male non c'è più perché è saltato il legante di comunicazione cioè il contatto di comunicazione è saltato o quando io dicevo fra poco parleranno macchine con le macchie e noi staremo lì a guardare adesso stanno parlando macchine con le macchine noi stiamo lì a guardare ok
+e non stiamo neanche guardando un canale di broadcasting per dieci magari c'è qualche cosa no stiamo guardando le allucinazioni di macchine fatte su misura per un tot di utenti e per altre macchine porca troia cioè un patto tutto allora dobbiamo decidere da che parte
+stiamo parlando gli esseri umani come dice simone metti dall'anima dieci anni i pavimenti perché gli esseri umani di diminuiranno segnalo sommessamente che duemila persone al giorno si stanno di de connettendo due mila persone al giorno nel comparto web si stanno connettendo cioè vuol dire che staccano i dati ok
+li aprono solo se fanno un giretto su internet è una cosa che gli interessa e poi staccano è un segnale importante non so tantissime però so duemila persone al giorno ho dato rilevato all'anno duemilaventitre fra l'altro ventitré ventiquattro ok questo trend sta in aumento perché sta in aumento perché diventa
+una pattumiera fotonica nessuno ha piacere di stare davanti alle macchine questo cambia se invece di parlare questi argomenti tu stessi facendo la promozione alla tua trattoria sul paese
+questo cambia chiaramente prego figurati alzo il ditino perché quello che vorrei dire c'entra con ciò che sta dicendo max a riprova del fatto che molte persone si stanno disconnettendo avevo questa sensazione a causa di
+non li chiamo neanche esperimenti ma proprio i lavori che sto facendo sulla mia presenza social sto ripulendo la rete dei collegamenti e dei semplici follower che sono due tipologie di utenti diversi quantomeno su linkedin a livello di follower linkedin attualmente di perm
+di vedere soltanto i mille più recenti che è accumulato io ho iniziato questi lavori che ne avevo quasi duemila quindi
+ho analizzato i mille arrivati più nuovi me ne mancano altri mille ed analizza
+ho fatto un calcolo e
+andando a valutare profilo per profilo l'attività di queste mille persone e ho visto quanti me ne devo togliere e me li devo togliere perché sono persone ormai inattive o comunque che sono presenti sulla piattaforma una volta ogni mille anni
+di questi mille follower primi mille follower che ha analizzato ho una lista e la sto lavorando ne devo togliere settecento settecento di questi mille o hanno aperto il profilo
+e poi non hanno mai più utilizzato o è più di un anno che non pubblicano nulla o ci fanno una capatina ogni tre quattro mesi solo per mettere un congratulazioni per il tuo nuovo lavoro a qualche amico e basta quindi di mille persone io ne devo levasse settecento credo
+dei prossimi mille che andrò analizzare essendo più vecchi forse lo toglie più di settecento dovrò toglie ottocento novecento questo per dire che sì ci sono molte persone che magari usano il digitale si sono iscritte tempo fa due anni fa tre anni fa dieci anni fa hai
+i social ma oggi come oggi
+accedono sempre meno sempre meno sempre quindi chi si è conquistato un pubblico fedele quando i social erano in auge duemilaquindici duemilasedici duemiladiciassette ok
+chi lancia oggi un progetto digitale vuole utilizzare i social per farsi promozione o action shot con i soldi per sparare sulle masse con la speranza di ammazzarne almeno tre-quattro oppure farà molta molta molta fatica ad emergere mic
+collego e qui chiudo alla giusta domanda che fa luigi su youtube che scrive e l'ha fatte e alessa questa domanda dice il fallimento di cui parla simone si riferisce a cosa una remunerazione non è arrivata ix follower non è arrivati fallimento può essere tante cose
+dal tuo punto di vista alessandro quello che speravi arrivasse e non è arrivato oppure è fatica ad arrivare cos'è che ti aspettavi che volevi qual era il tuo obiettivo con bugie
+io avevo fatto delle stime di follower votare la remunerazione né mai stata un obiettivo se non quello di wilders dreams ma non è quello il motivo per cui si va al cinema il motivo a due networking e follower networking positivo conosciuto un sacco di scelta cui voi
+gradisco gradevolmente con ed è il motivo per cui mi fa andare avanti e follower inteso come appunto follower su subscribe su youtube piuttosto che riscontri per me fallimentare perché se dopo due anni o novecentoquattordici su strada sul canale youtube per me adesso
+non so quali metriche e metri come dire precise e cemento però mi sembrano pochi anteposto posso una cosa posso dire una cosa io so un amico caro amico di comitiva
+che ormai sono passati quindici quindici anni credo quindici anni si è laureato in lettere paleocristiane che è una roba che lui vorrei sbagliare ma mi sembra fosse questa la materia che è una roba che lui è andato col professore a fare la laura
+yeah il professore aveva detto lei ne sa più di me e noi due siamo gli unici in italia a saperne qualcosa ora se il mio amico aprisse un canale youtube sul tema lettere paleocristiane ma quanta cazzo di gente dovrebbe vedere due persone già so tante due persone non può sperare
+aree di fare i numeri di un foodblog di fare i numeri di uno youtuber tech non perché certe materie so ben che rimarranno sempre di nicchie qui i temi sono anche abbastanza vasti e mondo e ht mondo informale ma forse so troppo vasti alessa forse se tu parlassi l'originale
+aspetta se parlassi di digitali in modo in verticale scegliendo una branca del digital ocean questo canale si parla solo di cybersecurity avresti molta più possibilità di far crescere un pubblico perché tu parli ed è quello il tuo invece è un canale molto generalista parla di digitale sì ma
+a trecentosessanta gradi e come comprare tv sorrisi e canzoni e per fare un esempio bob e lì viene l'altra questione io non voglio rinunciare e su questo non credo voler transigere a quello che poi è la logica del i temi da trattare sono i temi per me interessanti capitol hill allora sotto certi aspetti
+paradossalmente il discorso è è il target ideale sia te stesso e basta però in realtà credo che come dire allora novecento sono anche ma credo anche che il nome oltre oltre oltre l'unanimismo praticamente perfetta
+oltre l'unanimismo
+cioè io faccio i complimenti a tutti però voglio dire abbiamo superato oppure diciamo no municipio quale cadrò hogan se i temi delle puntate non li scelgo tendenzialmente su quello che piace potrebbe andare in porto così via salvo casi tipo non so eventi particolari allora fai le puntate su google
+tipo di evento ma li faccio sugli interessi che ho sulle cose mi interessano quelle sulle cose che mi interessa parlare con cui mi piace mi piacerebbe su cui viaggia mente leggevo su cui mi piacerebbe coinvolgere persone e quindi è un progetto per rispondere più e è un progetto personale non possiamo classificarlo come progetto di business pranzo
+offrire link www le gole tempo molti di questi interessi non sono solo miei sono comuni a tutti ho una generazione di istinti perchè gente che magari ha vissuto i pericoli erano informati il passaggio analogica al digitale un will arbore di tutto quanto ho comunque già
+gente che lavora nella city e professionalmente quindi non so le puntate su argomenti molto tecnici di specifici strumenti ma anche cose tipo la magia l'esoterismo perché no perché non approfondire fisica dei dei dei buchi neri o del big bang
+mi piacerebbe farle queste cose sono interessi che magari sono in s'intersecano a parte con qualcuno a volte no ovviamente sì c'è magari a te ti interessa una pelle pezzo di fisica non ti interessa una cosa di storia mi interessa a me però nello stesso tempo credo che come il taglio ideale è una persona curiosa
+uno che vuole che anche sentir parlare di lettere crisi del cristianesimo così via se ne parla qualcuno che ne sa e magari te lo parte ne parla in modo interessante ti può interessare così non ci devi far nulla così funziona la radio se ci fai caso se ti capita di ash
+ascoltare la radio noterai che gli speaker sono gli stessi no c'è quello che si fa dalle nove alle dodici quello si va dalle dodici alle tredici eccetera eccetera poi a seconda della trasmissione quella in cui c'è più chiacchiericcio ogni mattina gli autori girano ai conduttori che ne so le notizie di ieri allora c'è una novità
+tizia che parla di metereologia e ogni giorno chi si fa il suo viaggio in macchina mette su radio centocinque e sa che stamattina potrebbero parlare della notizia sul sull'orso ammazzato domani potrebbero parlare della notizia blablabla e c'è però li ascolta perché quello
+li tiene incollati alla radio e il conduttore e il modo in cui viene condotta la trasmissione a prescindere dalla tematica però quel tipo di fedeltà cioè io ti ascolto a prescindere da quello di cui tu mi parli e più che fedeltà e amore cioè io lo chiamo
+ad esempio io sono un ascoltatore di radio ventiquattro e ti posso dire che una delle forze la trasmissione che ha più successo al programma più successo di radio ventiquattro la zanzara dove c'è cruciani dove c'è quel muro che non ricordo il nome pare c'è parenzo perché loro conducono la trasmissione in un m
+modo così polarizzante so sempre uno contro l'altro no proprio il bianco e il nero che qualsiasi cosa parlano parlano comunque la gente si diverte ride non impari un cazzo è tutta brescia è tutta merda rotte diverti passi due ore e mezza di bo che ti incazzi impotenza e delle risate e ogni
+giorno l'argomento cambia perché sono sempre argomenti di attualità in quel caso la potenza dei conduttori tiene incollato l'utente l'ascoltatore e lo fa tornare su di me questa cosa abbastanza effetto non li ascolto tutti i giorni ma quando sto qui in salotto gioca a golf xbox tolgo l'audio xbox e mettono a
+ventiquattro se allora della zanzara funziona quindi o è un argomento che è portante è all'argomento che tu approfondissi puntata dopo puntata che ti fa da calamita perché attira coloro che sono interessati a quel tema ma il tema è uno oppure diventi un conduttore
+talmente figo alla monte magno talmente wow che allora la gente ascolta qualsiasi cosa tu voglia parlare ci deve o l'una o l'altra cosa
+ehi non so nessuno dei due è quindi la vedo complicata lavora su almeno una delle due
+sì live
+sì allora mettila anche così sulla seconda perché sapevo non voglio lavorarci come ti dicevo il tema è largo e sulla seconda io
+a parte puntate come questa qua mi piace l'idea di essere quello che fa parlare gli altri e però è vero anche che c'è modo e modo per far parlare gli altri e boh non lo so si ci vorrebbe la nuova emily browning dagli ce ne sono da fare su tutto il modo con cui si gestisce la punta
+kate e tutto quanto è
+la tua impronta la caratteristica peculiare del capo della brigata dei tic estinti quello serve magari capisci una cosa fatta alla alessandro franceschi com'è fatta beffa fa se non sai farlo tutto gli ordini di alessandro francese
+tratta a tutti gli ospiti alessandro franceschi che cazzo fa durante le pulizie fa parlare invece serve no
+serve serve che lui faccia il conduttore faccia al domatore
+remake non capisco il punto non è troppo nelle mie corde tra virgolette e se devo trovare un leitmotive è quello di lasciare che gli ospiti facciano slip
+promozione navy
+ospiti devono servire da loro dio mio
+alessandra che c'è alessandra che c'è c'è che in tutta questo progetto pregevole perché lo sforzo non è piccolo c'è un retrogusto di romanticismo è finito e io io lo apprezzo molto lo apprezzo no so sincero lo apprezzo molto perché c'è ora è chiaro pure che questo è come se io
+a oggi avessi voluto tieni aperta la casa discografica mia che faceva merda fritta praticamente che ho chiuso poi nel duemilasei e con lo stesso istinto la stessa verve ripensando ai bei tempi che furono e il cielo tristemente dovrei fare i conti col fatto che adesso c'è un genere che si chiama death cor
+che è praticamente per metà elettronico e del coro non ci ha una minchia perché io il decoro lo conosco perché l'ho visto nascere e quindi so perfettamente che si tratta e ora il punto qual'è il punto è che se io proponessi di mira la mia visione a questo mondo duemilaventicinque ok
+passerebbe beh una roba qua semi incomprensibile inutile per una nicchia di vecchi e di giovani stonati soggiogati dai vecchi precedentemente citati e mettere invece il mondo va da un'altra parte io penso che il problema sia proprio questo io questo me lo dico anche spesso e volentieri no tanto più che
+adesso sto insegnando un segno agente che non ci capisce un cazzo per fortuna meno male però il punto focale è che io mi rendo conto che il loro parametro del web non è assolutamente il nostro ognuno nelle sue specifiche eccezioni non è il nostro cioè di tutta questa gente nessuno ma sono vanno dai ventotto ai quarantacinque
+anni nessuno mi parla di blog nessuno mi parla di podcast nessuno mi parla di questa roba perché già il blog podcast c'è eccetera sono media per una fetta specifica di malati di mente o non è vero che il podcast sostituisce la radio non è vero il poeta il podcast c'è un pub
+dico che gradisce quella tipologia deformato il pubblico che gradisce la radio è quello che entra macchina gira il quadro e c'è già la stazione puntata e sa che lo accompagnerà come diceva simone con quel suo live invece eccetera durante il percorso che fa per noi lavora ok cioè allora purtroppo
+noi dobbiamo fare i conti coi nostri stessi bias cognitivi anche noi stessi a livello tecnico a livello professionale a livello
+come posso dire noi siamo convinti che ci convinciamo che ma guardate che il mondo stanno da un'altra parte questa fascia di gente che io non conoscevo nel senso che non è gente che conosco personalmente che va dai ventotto ai quarantacinque anni e non mi parla di podcast non mi parla di blog non mi parla neanche di
+figli che preferisce perché cerca random quello che gli serve dove lo trovo lo trova ok
+praticamente convinta che il web sia quello di quando io scrivevo che in africa il web facebook fece in maniera da ali di convincere la gente che fosse google facebook siamo arrivati a quel punto lì ok cioè per loro il web è un po' da youtube quando stanno a casa un ragazzo che
+squall per dire non è in beta ma molto instagram perché comunque sia è pervasivo al massimo per tutte le dipendenze che genera e quindi parimenti di tokyo viaggiano su due binari paralleli o tutto il resto non esiste naturalmente google perché google il motore e quindi ok ma anche tutti i
+gli altri motori di ricerca non esistono cioè abbiamo fatto delle elezioni quando gli ho fatto presente che dei motori di ricerca ne esistono più di cinquanta che a liam che ha chiaramente dei validità diversa sono rimasti a bocca aperta perché per loro il motore di ricerca del web e google cioè è l'unica entità sul quale si cerca la roba
+ora il punto qual è il punto che lo stesso google che dovrebbe dare le risposte non le dà in funzione della validità del contenuto che tu hai messo online paradossalmente non funziona così quindi la seo e tutti sti cazzi appresso è aria fritta oggi nel senso non è che aria fritta concettualmente concettuale
+il concetto resta valido concettualmente concetto passate il gioco di parole ma l'effetto dello sforzo non è conforme al risultato e allora stiamo sempre lì se stiamo a fa le pippe da soli perché perché se da una parte un mondo dominato da macchine dall'altra parte è dominato da persone o meglio è fruito da persone
+done che tutte ste domande non se le fanno perché quello che hanno già in mano è sufficiente più che sufficiente whatsapp per quanto riguarda il contatto diretto di gruppo canali gruppi cagate varie ok google un pochettino di youtube tantissimo instagram ti tocca cannone o che
+quindi tutti i nostri ragionamenti li possiamo articola come ci pare ma non andranno da nessuna parte onestamente non andranno da nessuna parte
+diciamo su youtube
+che
+indicazioni a zero devo capire se zero perché comunque youtube praticamente un po' come suggeriva simone è un recinto chiuso dove alla fine viene messo in evidenza trovavo fatto vedere di lave cioè eccetera quel contenuto che per la macchina è più interessante non per la
+gente più interessante è sotto i meccanismi competitivi
+assolutamente sì ma l'algoritmo cura gli interessi dell'azienda non cura gli interessi della gente mutua gli interessi della gente con i suoi quindi è chiaro che io posso mettere su youtube il contenuto più bello del mondo dove ci ho studiato l'ira di dio per tirarlo fuori ma se l'azienda non gli conviene perché sto dicendo
+roba che non fa gola col cazzo che lo fa vedere e così tutte le altre macchine quindi il problema è questa non è distopia perché purtroppo siamo arrivati a questa concezione del web o l'individuo creatore che poi il termine bruttissimo perché sembri un semi dio che fa delle cose invece sei un coglione che bru
+la vita davanti ai computer ho mai compreso o quello che tu fai tecnicamente solo e solo se va con gli interessi della macchina paradossalmente la macchina e quindi l'azienda ha più interesse a te alessandro pubblici roba dove la gente si è vista
+strada come dei pazzi sfrenati perché il concetto di base è quello allora qual è il punto centrale secondo me sul quale bisogna riflettere ma sarà vero che tutta questa convinzione che ci ha portato avanti per tanti anni e a me fortunatamente mi sta abbandonando se dio vuole mi sento molto più leggero tra l'altro
+più di tempo da dedicare alle persone quelle vere quelle in carne e ossa quelli che conosci per davvero ok quindi è stato meraviglioso ma sarà vero che quella motivazione la possiamo riverberare nel duemilaventicinque personalmente senza per forza la cassandra no no ma proprio scolpito
+nella pietra no perché il progetto ritorno a di è fallito è finito cioè non lo spengono semplicemente perché sopra ci gira anche roba che non c'è niente a che vedere con noi ma questo sarebbe un progetto da spengere ok
+definitivamente perché è sim ha mangiato se stesso è andato in autofagia non so se mi spiego e soprattutto adesso dove le macchine predominano come presenza velocità di realizzazione di contenuto contenuto sempre più mirato a un target specifico basta che guardi
+date per esempio tutti i canali social delle grafiche dinamiche cioè le animazioni d'accordo più o meno orrorifiche fatte tramite intelligenza artificiale già un successo allucinante dove tu stai guardando gli incubi peggiori di una macchina fanno dei numeri spaziali
+perché perché purtroppo interpretare una parte recondita di un'audience specifica che gradisce quella tipologia di incubi ne fa un input ok ma de che stamo a parlà cioè di che cosa stiamo parlando del niente e dintorni e ramblers chiudiamo un attimo al discorso
+era tutto quello che era che mi aggancio quello che dice antonio il obbiettivo di un sito o un blog come questo
+quello che è questa roba qua non e non è raggiungere quello che non sa che cos'è google o se esiste qualcosa limone al di fuori di google non è quello non è quello pelle
+il follower che vorrei tra virgole
+il target è appassionato di settore come dice antonio è quello che su questo mondo ci lavora è quello che magari ci lavorava a vent'anni fa e quello è quel genere di persone con cui c'è la domanda ma la domanda è ma tu sei sicura
+ero è convinto che quel target league è illegittimo abbia questa attitudine a guardare questa tipologia di cose non è che per caso quella persona si cerca quello che gli pare dove gli pare non è che stiamo a portare gioia agli eschimesi che poi uno non voglio sta quasi due ore e un quarto a guardare
+no ma no ma che parlano di cose che magari già sa ma no non è questione deformate questione del fatto che siamo in over wellbeing di contenuto cioè noi siamo pieni di contenuto il web ha tappato di qualsiasi collo di cazzo di qualsiasi materia e allora il problema è che io se
+ho bisogno di informarmi rinverdire cose c'è eccetera non mi vado a cercare una fonte nuova mi vado a cercare la fonte che in quel momento la macchina decide che è la più mainstream intendi non è una critica assolutamente non è una critica anzi riduce al massimo apprezzamento da parte mia non è quello il punto il
+il punto è che il modo con il quale io attingo alla notizia o alla cosa che mi serve o che mi piace e comunque intermediario è pilotato da una volontà aziendale dove io te simone tutti gli altri
+tecnici che stanno qui eccetera eccetera siamo totalmente ininfluenti o che oppure siamo quelli che si sono posizionati dieci anni fa come accennava simone perché ci hanno uno zoccolo abbastanza cospicuo e il lavoro è campano di rendita su quello zoccolo lì poi il caso italiano è ancora più drammatico perché chiaramente la percezione del web
+è ancora più drammatica ok
+allora se da una parte tu vedi testati di media internazionali che ci hanno un milione e mezzo di persone che li seguono però se ha parlato testate nucleari a livello giornalistico per esempio già quello è un segnale perché perché ci stanno duecento mila canali alternativi dove per esempio gli danno pure una versione differente
+fatti che a volte è più interessante allora il punto centrale è che se tu sai la velleità di intercettare quello che dici tu novecento e virgole iscritti sono pure troppi e quindi significa che tu dovrai lavorare bene come vuoi fare sai fare eccetera per tutti quelli che arrivano senza
+nessun problema di velleità cioè so duecento lavori con quei duecento quei duecento che producono networking utile monetizzabile magari perfetto lavora con quei duecento era il vecchio discorso che li battevamo testimone tanti anni fa quando io gli dicevo che lui era maestro dei piccoli numeri che simone
+duemila anni che sta di lavorare sui gruppi piccoli piccoli piccoli perché è inutile che va allargata e volete fare eccetera e io glielo contestavo ma io lo contesto anche oggi ma ci aveva ragione simone anche se continua a contestare glielo perché che simone aveva intuito che a un certo punto per quanto
+forzo tu puoi fare meglio avere cinquanta persone di ritorno che duemila cinquemila diecimila che non ti senti aspettano mai ok dal mio punto di vista è un cortocircuito concettuale perché sennò non starei su questo mezzo ripeto me ne vado al bar mi diverto di più e faccio le stesse cinquanta persone io mi diverto
+sito a fa delle chiacchierate al bar non fatte trenta ok
+roba che se faccio una diretta su qualsiasi canale social non rifaccio trenta connessi allora il punto qual è il punto è che o ci misuriamo la palla come dicono a napoli cioè prendiamo atto del fatto che più di tanto non se ne va lo facciamo con chi c'è ok
+e speriamo che qualcuno che sia affezionato a quel format nei porti dentro qualcun altro speriamo però tutto questo è uno totalmente no profit ce lo siamo detto due ripeto e segnalo e cronos fago economico perché tu invece ne sta qui a quest'ora della notte era meglio che stessi con la famiglia
+chiaramente è un eufemismo però credo che capisci o che è più giusto che tu stia a dormire è più giusto che tu stia a pompate serotonina nel cervello a quest'ora della notte
+questi ribelli sono discorsi che prima dei falli fatti a me stesso o che ora il punto centrale quale è la velleità perché purtroppo nel momento in cui approdiamo qua sopra tutti compreso il sottoscritto non riusciamo ancora a levarci dalla testa le velleità anche micro
+banche piccola non è vero che riusciamo a fare le cose tanto per farle come dicevo io tanti anni fa vabbè ma magari ne abbiamo informato uno masticati ma non va così ma che me ne frega informarne uno uno non forma oppure quando parlo con mia madre o mia sorella non formato uno altrimenti non adopererà certi mezzi ma il problema è che il mef
+zo non è più adatto allo scopo che ci siamo prefissati all'origine perché io ho smesso descrive su diggita svuota perché non mi piace non mi piaceva pure mezzo rotto i coglioni mi sono rotto le palle perchè era estremamente estenuante portarci venti i lettori al di là delle puttanate
+che scrivo o meno perché in realtà la volontà di cliccare su quel cazzo di link su twitter linkedin facebook instagram quello che te pare eccetera e mandarlo su un blog personale non frega un cazzo a nessuno punto poi dice abbia ma su duemila tentativi tre li hai presi e ho capito
+se dovesse anna pesca in questa maniera ma ero morto di fame cioè magno mai sto pesce è chiaro ragionamento è lì e tutta questa metrica è illogica che è sbagliata perché non tiene conto della volontà degli utenti i quali se ne fottono e fanno bene perché nella vita ci hanno da fare altro non stanno appresso a questa
+roba ci stanno quando possono quando magari hanno un attimo
+sfizio questa è la riflessione costante che noi ci dobbiamo fa secondo il mio punto di vista
+e come oggi io insegno in un corso dove si fa marketing digitale gli sto spiegando il perché non funzionano mica perché la verità è quella se voglio essere onesto devo spiegare non funziona un'amica se però c'è la trattoria a rieti che fa cinquanta mila abitanti scarsi e la vuoi promuovere a rieti allora di può funzionare ma
+cambia tutto il paradigma praticamente della comunicazione nel caso specifico purtroppo non stiamo parlando di trattorie che lavorano sul posto stiamo parlando di concetti molto complessi argomenti molto complessi e quindi tu immagina che uno dalla provincia di enna interessata a questa madia
+seria possa in qualche maniera approdare su quella che è la tua piattaforma capisci da te con la mediazione di queste macchine il processo praticamente praticamente impossibile quindi se c'è il novecento subscriber tieniteli stretti lavora su quelli punto lascia perde ogni tipo di di altra cosa tanto lo fai per hobby lo fai
+divertimento
+che rimanga un divertimento e basta capisci e come io per dire che mi sto concentrando su instagram e tiro giù krill in continuazione quasi ogni giorno perchè lo faccio per posizionarmi ma che cazzo me frega a me deposizione ma dove devo posizionare nuove posizioni da nessuna parte lo faccio perché mi rilassa lo faccio con la stessa ottica con cui scrivevo su
+digita ashworth metto butto fuori tutto quello che mi va non quello che serve quello che mi va quindi a un papocchio di ogni cosa se poi trova la musica che vuoi trova lo sbottò del personaggio famoso in una certa area tematica quattro parole che dico io non c'è nessuna velleità perché non c'è bella età perché tanto quel
+non può crescere non può crescere cioè se io non mi metto a fare quello che fanno quelli che crescono io non cresco punto lasciando perde il fatto che sia stato scelto beni che penso per cinque anni mi hanno tolto sì e no da sei mesi o ma apparte questo ma non può crescere perché la macchina che non ti fa cresce adesso
+addirittura instagram metà inventata che se tu vuoi provare a mandare il tuo contenuto non sulla tua audience ricorrente ma su chi non ti segue devi schiacciare un bottone ma perché non vuoi fa da sola no cabin non lo fai perché non ti serve di farlo ecco perché le storie si vedono sempre
+stesse persone ok
+perché allacciano la gente nella paranoia di controllare chi ha visto il loro contenuto e da lì è un altro film additivo capisci quindi stiamo a parlare di un'economia praticamente della dopamina non c'è altro non c'è più niente ecco perché la gente siede connette perché a un certo punto si rende conto
+che sta perennemente allacciato a questa aspettativa ma è un'aspettativa fasulla credo e allora in conclusione mi sento di non testare lambic al cervello lavora su quelli che sai se vuoi che qualcuno miratamente venga al tuo canale ma magari per interposta persona eccetera ma è meglio che lo contatti
+mandi league whatsapp ai dieci vedi se ti piace credo nel paradosso nel paradosso se tu ci avessi o che ne so un tuo gruppo particolare su whatsapp o su telegram va bene sarebbe forse più utile
+segnala lì quello che tu fai presupposto che nel gruppo ci siano esattamente quelle cento persone a cui piace questo tipo di materia senza staff dei grandi dei grandi business day cioè alla fine stiamo a parlare i comuni di ristrette e allora accettiamo questo fatto e lavoriamo sulla community ristretta è inutile sparpaglia
+roba in giro ma simone lavora su linkedin perché perché è quello che risulta meglio in questo in questo tempo e va bene che faccia così ma se gli chiudono il canale di linkedin che al momento è quello per lui mainstream e qualche domanda se la dovrebbe fa tipo della serie dove butto che faccio che uso ricomincio da capo non
+so se ci voglia simone buy
+e queste e queste video
+quindi dal mio punto di vista non te ne fa tante pippe mentali continua a fare quello che fai apri di una piccola comuni di due buttaci dentro quei cento centocinquanta che già conosci che sai che tematicamente sono interessati fagli sapere che possono portare dentro qualcun altro se omologo a loro e avverti lì sopra
+quello che fai come lo fai e quando lo fai punto
+in semplicità senza staffa grandi strategie tanto le strategie oggi le fai e domani vengono invalidate perché basta che cambia un qualche cazzo di bryan metro è automaticamente non ti funziona niente e poi senza budget non funziona niente a prescindere
+a meno che non ti metti d'accordo go cinque teste d'uovo che ci hanno mezzo milione di follower la testa e gli dici o ragazzi per favore quando pubblico mi venite sotto al mio al mio post a dire quattro cagate due apprezzamenti eccetera eccetera ecco fatto che la macchina si sveglia e dice cazzo
+alessandro franceschi è interessante da uno che già mezzo milione di followers apriamogli un tantino una finestra della visibilità questi power like se facevano difetto otto o dieci anni fa già e se fanno ancora e allora così vivendo all'ombra di qualcun altro avendone quattro cinque qualcosina guadagni
+in termini di visibilità ma tecnicamente non è prevista visibilità per chi non conta un cazzo questa è la verità cioè non c'è niente di più antidemocratico di queste piattaforme di merda niente
+quindi stai sereno e fai bene quello che devi fare sta crea altri problemi piccoli numeri piccole cose non incrementi nulla quello che succede succede che fa piacere fallo fallo basta tutto qua
+sono d'accordo con max c'è l'hai detto prima chiaramente ad essa c'è una parte di questo progetto che ti diverte è una parte che non ti diverte a sto punto visto questo progetto non ti deve dare il pane fai sola parte che diverte il resto sticazzi il re
+resto del tempo te lo godi loro con la famiglia con obbligo gli amici o quello che cazzo de bari organizza le due dirette le butti su youtube e poi stanno alla fine tutto il resto sticazzi e allarga la cerchia di conoscenze
+ogni altro o va a finire sempre ste puntate con voi che
+accetterò seduta
+come dire analisi collettiva e su questa brigata degli istinti bene allora io direi che non possiamo che chiudere peggio che in questo modo
+a me le fa impazzire mi fa impazzire perché so anni che lui vuole chiudere le puntate con qualcosa di entusiasmante inerenti a questa materia e non si convince che non c'è
+che mi manda al manicomio me mi manda al manicomio lui vorrebbe che ora assicurarsi dicendo non ti preoccupare sarà bellissimo andrà benissimo quando qui non funziona un'amica capito e questo mi manda al manicomio però le voglio bene lo stesso
+migliore per chiudere la puntata grazie a voi per essere stati qui grazie a chi ci ha seguito sulla chat
+se volete segnalare qualsiasi cosa sul sito da sud si sente sistemare correggere così via pullo e questo messaggi tutto benvenuto e poi vedremo cosa ne viene fuori alla prossima dakar grazie da tutti grazie grazie a tutti ciao
+ma
+ma
+ma
