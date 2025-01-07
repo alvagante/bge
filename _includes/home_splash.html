@@ -17,12 +17,12 @@
 
 <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <div class="video-container">
         <iframe src="https://www.youtube.com/embed/BfVoU2hftv8" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item active">
       {% assign last_episode = site.episodes | sort: "episode" | reverse  %}
       {% for episode in last_episode | limit: 1 %}
       <div class="video-container">
