@@ -1,0 +1,11 @@
+---
+guests:
+  - Massimo Bozza
+  - Maurizio Siracusa
+  - Romolo Velati
+
+links:
+  'AI Vulnerability Database': ​​https://avidml.org/
+  'Garak: LLM Vulnerability scanner': https://github.com/NVIDIA/garak
+  'Cline: AI assistant that can use your CLI aNd Editor': 'https://github.com/cline/cline'
+  'Continue: Open-source AI code assistant': https://github.com/continuedev/continue

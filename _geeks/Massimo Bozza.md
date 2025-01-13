@@ -1,7 +1,6 @@
 ---
-nome: Maurizio Siracusa
+nome: Massimo Bozza
 layout: 'geek'
 episodi:
-  - 76
   - 81
 ---
