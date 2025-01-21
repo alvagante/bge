@@ -5,12 +5,15 @@ import re
 import yaml
 
 # Python script that gets the list of Guests from for guest key in the *_manual.yaml
-# files in the directory passed as first argument, and creates, ofr each guest
+# files in the directory passed as first argument, and creates, for each guest
 # a file named <guest>.md in the directory passed as second argument.
 # The file contains the following information:
 # name: the guest name
 # episodes: the list of episodes in which the guest appears (based the *_manual.yaml files)
 # where * is the episode number
+# <guest>.md file is in frontmatter format, if it already exists if gets the existing data and 
+# just changes name and episodes keys
+#  
 
 if len(sys.argv) < 3:
     print("Please provide the source dir as first argument and the destination dir as second")

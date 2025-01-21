@@ -1,0 +1,10 @@
+- Intelligenza Artificiale e Umanità: Riflessioni sul ruolo dell'intelligenza artificiale e il suo impatto sulle relazioni umane, con particolare attenzione alla mancanza di calore umano nelle interazioni digitali.
+- Normativa NIS2: Descrizione della Direttiva NIS2, che richiede alle aziende di adottare misure di sicurezza informatica, con un focus sulla necessità di compliance e resilienza.
+- Sicurezza Informatica: Importanza della sicurezza informatica come elemento cruciale per la sopravvivenza delle aziende, con un richiamo alla necessità di un piano di disaster recovery e business continuity.
+- Rischi e Responsabilità: Discussione sui rischi associati agli attacchi informatici e sulla responsabilità legale delle aziende in caso di violazioni della sicurezza.
+- Fornitori e Supply Chain: Impatto della NIS2 sulle aziende che operano in una rete di fornitori, evidenziando l'importanza di garantire la sicurezza lungo tutta la catena di approvvigionamento.
+- Costo della Compliance: Analisi dei costi associati all'adeguamento alle normative, e la stima di investimenti necessari per la sicurezza informatica, che può variare notevolmente tra le diverse aziende.
+- Cultura della Sicurezza: Necessità di sviluppare una cultura della sicurezza informatica all'interno delle organizzazioni, superando l'approccio burocratico e puntando a un miglioramento continuo.
+- Resilienza e Preparazione: Importanza della preparazione e della resilienza, non solo tecnologica, ma anche culturale, per affrontare le sfide poste dalla digitalizzazione e dagli attacchi informatici.
+- Evoluzione delle Tecnologie: Riflessioni sulla rapida evoluzione delle tecnologie e sull'importanza di rimanere aggiornati per prevenire vulnerabilità e attacchi informatici.
+- Collaborazione e Condivisione: Necessità di collaborare tra aziende, enti governativi e professionisti per costruire un ecosistema di sicurezza informatica più robusto e reattivo alle minacce emergenti.
