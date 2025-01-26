@@ -4,12 +4,12 @@ episodi:
 - 37
 layout: geek
 nome: Matteo Baccan
-social:
+links:
   GitHub: https://github.com/matteobaccan
   LinkedIn: https://www.linkedin.com/in/matteobaccan/
   Twitter: https://twitter.com/matteobaccan
 ---
-# Biografia
+## Biografia
 
 Matteo Baccan è un ingegnere del software e formatore professionista con oltre 30 anni di esperienza nel settore IT.
 

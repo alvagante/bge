@@ -3,10 +3,10 @@
     <div class="container">
       <div class="row">
         <h1>{{ page.nome }}</h1>
-        <div class="col-lg-3">
-          <h3>Guest</h3>
+        <div class="col-lg-2">
+          <h3>Presente in </h3>
         </div>
-        <div class="col-lg-9">
+        <div class="col-lg-10">
           {% assign sorted_episodes = page.episodi | sort | reverse %}
           {% for ep in sorted_episodes %}
             {% assign episode = site.episodes | where: "number", ep | first %}
@@ -16,16 +16,40 @@
           {% endfor %}
         </div>
       </div>
+      {% for episode in site.episodes %}
+      {% if episode.host == page.nome %}
+      {% assign host = true %}
+      {% endif %}
+      {% endfor %}
+      {% if host %}
       <div class="row">
-        <div class="col-lg-3">
-          <h3>Host</h3>
+        <div class="col-lg-2">
+          <h3>Host in</h3>
         </div>
-        <div class="col-lg-9">
+        <div class="col-lg-10">
           {% for episode in site.episodes %}
           {% if episode.host == page.nome %}
           <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h5>
           {% endif %}
           {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+      {% if page.links %}
+      <div class="row">
+        <div class="col-lg-2">
+          <h3>Link</h3>
+        </div>
+        <div class="col-lg-10">
+          {% for link in page.links %}
+          <h5><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></h5>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+      <div class="row">
+        <div class="col-lg-12">
+          {{ content }}
         </div>
       </div>
     </div>
