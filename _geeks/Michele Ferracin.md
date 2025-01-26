@@ -1,6 +1,7 @@
 ---
-nome: Michele Ferracin
-layout: 'geek'
 episodi:
-  - 35
+- 35
+layout: geek
+nome: Michele Ferracin
 ---
+

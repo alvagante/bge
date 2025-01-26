@@ -1,9 +1,10 @@
 ---
-nome: Andrea Saltarello
-layout: 'geek'
 episodi:
-  - 39
-  - 23
-  - 71
-  - 75
+- 23
+- 39
+- 71
+- 75
+layout: geek
+nome: Andrea Saltarello
 ---
+

@@ -1,6 +1,7 @@
 ---
-nome: Daniele Felicetta
-layout: 'geek'
 episodi:
-  - 32
+- 32
+layout: geek
+nome: Daniele Felicetta
 ---
+

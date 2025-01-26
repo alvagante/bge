@@ -1,6 +1,7 @@
 ---
-nome: Massimo Magni
-layout: 'geek'
 episodi:
-  - 29
+- 29
+layout: geek
+nome: Massimo Magni
 ---
+

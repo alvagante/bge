@@ -1,8 +1,9 @@
 ---
-nome: Livio Francisconi
-layout: 'geek'
 episodi:
-  - 72
-  - 61
-  - 80
+- 61
+- 72
+- 80
+layout: geek
+nome: Livio Francisconi
 ---
+

@@ -1,7 +1,8 @@
 ---
-nome: Alessandro Palumbo
-layout: 'geek'
 episodi:
-  - 61
-  - 37
+- 37
+- 61
+layout: geek
+nome: Alessandro Palumbo
 ---
+

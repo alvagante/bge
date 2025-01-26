@@ -1,6 +1,7 @@
 ---
-nome: Federico Salerno
-layout: 'geek'
 episodi:
-  - 20
+- 20
+layout: geek
+nome: Federico Salerno
 ---
+

@@ -1,6 +1,7 @@
 ---
-nome: Marco D'Angelo
-layout: 'geek'
 episodi:
-  - 39
+- 39
+layout: geek
+nome: Marco D'Angelo
 ---
+

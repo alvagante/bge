@@ -1,6 +1,7 @@
 ---
-nome: Stefano Frontori
-layout: 'geek'
 episodi:
-  - 72
+- 72
+layout: geek
+nome: Stefano Frontori
 ---
+

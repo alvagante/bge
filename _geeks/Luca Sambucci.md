@@ -1,6 +1,7 @@
 ---
-nome: Luca Sambucci
-layout: 'geek'
 episodi:
-  - 52
+- 52
+layout: geek
+nome: Luca Sambucci
 ---
+

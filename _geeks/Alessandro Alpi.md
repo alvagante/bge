@@ -1,6 +1,7 @@
 ---
-nome: Alessandro Alpi
-layout: 'geek'
 episodi:
-  - 35
+- 35
+layout: geek
+nome: Alessandro Alpi
 ---
+

@@ -1,7 +1,8 @@
 ---
-nome: Martino Fornasa
-layout: 'geek'
 episodi:
-  - 70
-  - 22
+- 22
+- 70
+layout: geek
+nome: Martino Fornasa
 ---
+

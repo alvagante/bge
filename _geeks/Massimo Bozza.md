@@ -1,6 +1,7 @@
 ---
-nome: Massimo Bozza
-layout: 'geek'
 episodi:
-  - 81
+- 81
+layout: geek
+nome: Massimo Bozza
 ---
+

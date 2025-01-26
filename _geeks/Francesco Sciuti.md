@@ -1,6 +1,7 @@
 ---
-nome: Francesco Sciuti
-layout: 'geek'
 episodi:
-  - 56
+- 56
+layout: geek
+nome: Francesco Sciuti
 ---
+

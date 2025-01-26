@@ -1,9 +1,10 @@
 ---
-nome: Ervis Jace
-layout: 'geek'
 episodi:
-  - 49
-  - 2
-  - 32
-  - 1
+- 1
+- 2
+- 32
+- 49
+layout: geek
+nome: Ervis Jace
 ---
+

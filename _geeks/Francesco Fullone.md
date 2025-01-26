@@ -1,6 +1,7 @@
 ---
-nome: Francesco Fullone
-layout: 'geek'
 episodi:
-  - 9
+- 9
+layout: geek
+nome: Francesco Fullone
 ---
+

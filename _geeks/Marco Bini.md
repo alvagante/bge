@@ -1,6 +1,7 @@
 ---
-nome: Marco Bini
-layout: 'geek'
 episodi:
-  - 16
+- 16
+layout: geek
+nome: Marco Bini
 ---
+

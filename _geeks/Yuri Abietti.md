@@ -1,8 +1,9 @@
 ---
-nome: Yuri Abietti
-layout: 'geek'
 episodi:
-  - 62
-  - 73
-  - 60
+- 60
+- 62
+- 73
+layout: geek
+nome: Yuri Abietti
 ---
+

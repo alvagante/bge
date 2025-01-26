@@ -1,6 +1,7 @@
 ---
-nome: Maurizio Mangione
-layout: 'geek'
 episodi:
-  - 75
+- 75
+layout: geek
+nome: Maurizio Mangione
 ---
+

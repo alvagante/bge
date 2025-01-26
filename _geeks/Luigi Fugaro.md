@@ -1,6 +1,7 @@
 ---
-nome: Luigi Fugaro
-layout: 'geek'
 episodi:
-  - 70
+- 70
+layout: geek
+nome: Luigi Fugaro
 ---
+

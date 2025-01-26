@@ -1,6 +1,7 @@
 ---
-nome: Alessandro Franceschi
-layout: 'geek'
 episodi:
-  - 36
+- 36
+layout: geek
+nome: Alessandro Franceschi
 ---
+

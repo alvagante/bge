@@ -1,8 +1,9 @@
 ---
-nome: Stefania Calcagno
-layout: 'geek'
 episodi:
-  - 24
-  - 69
-  - 19
+- 19
+- 24
+- 69
+layout: geek
+nome: Stefania Calcagno
 ---
+

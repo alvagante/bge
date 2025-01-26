@@ -1,6 +1,7 @@
 ---
-nome: Tony Zucchini
-layout: 'geek'
 episodi:
-  - 13
+- 13
+layout: geek
+nome: Tony Zucchini
 ---
+

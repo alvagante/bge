@@ -1,6 +1,7 @@
 ---
-nome: Mike Battilana
-layout: 'geek'
 episodi:
-  - 31
+- 31
+layout: geek
+nome: Mike Battilana
 ---
+

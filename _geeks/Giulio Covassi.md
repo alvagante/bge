@@ -1,6 +1,7 @@
 ---
-nome: Giulio Covassi
-layout: 'geek'
 episodi:
-  - 46
+- 46
+layout: geek
+nome: Giulio Covassi
 ---
+

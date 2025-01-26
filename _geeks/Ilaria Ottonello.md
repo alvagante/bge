@@ -1,6 +1,7 @@
 ---
-nome: Ilaria Ottonello
-layout: 'geek'
 episodi:
-  - 35
+- 35
+layout: geek
+nome: Ilaria Ottonello
 ---
+

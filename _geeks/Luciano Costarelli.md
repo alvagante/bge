@@ -1,8 +1,9 @@
 ---
-nome: Luciano Costarelli
-layout: 'geek'
 episodi:
-  - 73
-  - 42
-  - 57
+- 42
+- 57
+- 73
+layout: geek
+nome: Luciano Costarelli
 ---
+

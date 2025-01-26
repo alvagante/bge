@@ -1,6 +1,7 @@
 ---
-nome: Pietro Messineo
-layout: 'geek'
 episodi:
-  - 66
+- 66
+layout: geek
+nome: Pietro Messineo
 ---
+

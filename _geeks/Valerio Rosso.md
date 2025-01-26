@@ -1,10 +1,11 @@
 ---
-nome: Valerio Rosso
-layout: 'geek'
 episodi:
-  - 62
-  - 51
-  - 73
-  - 57
-  - 79
+- 51
+- 57
+- 62
+- 73
+- 79
+layout: geek
+nome: Valerio Rosso
 ---
+

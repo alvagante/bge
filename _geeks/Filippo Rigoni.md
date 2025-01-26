@@ -1,6 +1,7 @@
 ---
-nome: Filippo Rigoni
-layout: 'geek'
 episodi:
-  - 44
+- 44
+layout: geek
+nome: Filippo Rigoni
 ---
+

@@ -1,6 +1,7 @@
 ---
-nome: Adolfo Melilli
-layout: 'geek'
 episodi:
-  - 33
+- 33
+layout: geek
+nome: Adolfo Melilli
 ---
+

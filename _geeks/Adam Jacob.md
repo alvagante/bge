@@ -1,6 +1,7 @@
 ---
-nome: Adam Jacob
-layout: 'geek'
 episodi:
-  - 48
+- 48
+layout: geek
+nome: Adam Jacob
 ---
+

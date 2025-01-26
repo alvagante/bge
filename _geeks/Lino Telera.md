@@ -1,8 +1,9 @@
 ---
-nome: Lino Telera
-layout: 'geek'
 episodi:
-  - 25
-  - 46
-  - 9
+- 9
+- 25
+- 46
+layout: geek
+nome: Lino Telera
 ---
+

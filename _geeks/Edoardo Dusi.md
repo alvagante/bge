@@ -1,6 +1,7 @@
 ---
-nome: Edoardo Dusi
-layout: 'geek'
 episodi:
-  - 41
+- 41
+layout: geek
+nome: Edoardo Dusi
 ---
+

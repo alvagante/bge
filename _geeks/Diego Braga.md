@@ -1,6 +1,7 @@
 ---
-nome: Diego Braga
-layout: 'geek'
 episodi:
-  - 70
+- 70
+layout: geek
+nome: Diego Braga
 ---
+

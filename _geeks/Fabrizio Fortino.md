@@ -1,7 +1,8 @@
 ---
-nome: Fabrizio Fortino
-layout: 'geek'
 episodi:
-  - 12
-  - 8
+- 8
+- 12
+layout: geek
+nome: Fabrizio Fortino
 ---
+

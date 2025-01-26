@@ -1,7 +1,8 @@
 ---
-nome: Giorgio Fochesato
-layout: 'geek'
 episodi:
-  - 34
-  - 41
+- 34
+- 41
+layout: geek
+nome: Giorgio Fochesato
 ---
+

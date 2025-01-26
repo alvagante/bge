@@ -1,7 +1,8 @@
 ---
-nome: Christian Nastasi
-layout: 'geek'
 episodi:
-  - 71
-  - 75
+- 71
+- 75
+layout: geek
+nome: Christian Nastasi
 ---
+

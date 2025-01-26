@@ -1,6 +1,7 @@
 ---
-nome: Fabio Massa
-layout: 'geek'
 episodi:
-  - 20
+- 20
+layout: geek
+nome: Fabio Massa
 ---
+

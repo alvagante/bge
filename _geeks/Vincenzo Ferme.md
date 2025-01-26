@@ -1,6 +1,7 @@
 ---
-nome: Vincenzo Ferme
-layout: 'geek'
 episodi:
-  - 38
+- 38
+layout: geek
+nome: Vincenzo Ferme
 ---
+

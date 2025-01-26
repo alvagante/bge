@@ -1,7 +1,8 @@
 ---
-nome: Sergio Gervasini
-layout: 'geek'
 episodi:
-  - 33
-  - 19
+- 19
+- 33
+layout: geek
+nome: Sergio Gervasini
 ---
+

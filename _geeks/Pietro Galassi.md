@@ -1,6 +1,7 @@
 ---
-nome: Pietro Galassi
-layout: 'geek'
 episodi:
-  - 24
+- 24
+layout: geek
+nome: Pietro Galassi
 ---
+

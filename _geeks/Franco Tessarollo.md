@@ -1,6 +1,7 @@
 ---
-nome: Franco Tessarollo
-layout: 'geek'
 episodi:
-  - 76
+- 76
+layout: geek
+nome: Franco Tessarollo
 ---
+

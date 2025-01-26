@@ -1,6 +1,7 @@
 ---
-nome: Giacomo De Benedetto
-layout: 'geek'
 episodi:
-  - 52
+- 52
+layout: geek
+nome: Giacomo De Benedetto
 ---
+

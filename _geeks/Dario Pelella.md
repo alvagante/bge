@@ -1,7 +1,8 @@
 ---
-nome: Dario Pelella
-layout: 'geek'
 episodi:
-  - 31
-  - 15
+- 15
+- 31
+layout: geek
+nome: Dario Pelella
 ---
+

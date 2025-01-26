@@ -1,6 +1,7 @@
 ---
-nome: Angelo Gagliardi
-layout: 'geek'
 episodi:
-  - 35
+- 35
+layout: geek
+nome: Angelo Gagliardi
 ---
+

@@ -1,6 +1,7 @@
 ---
-nome: Marcherita Zanin
-layout: 'geek'
 episodi:
-  - 73
+- 73
+layout: geek
+nome: Marcherita Zanin
 ---
+

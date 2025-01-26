@@ -1,7 +1,8 @@
 ---
-nome: Marco Marongiu
-layout: 'geek'
 episodi:
-  - 36
-  - 58
+- 36
+- 58
+layout: geek
+nome: Marco Marongiu
 ---
+

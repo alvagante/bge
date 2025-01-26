@@ -1,7 +1,8 @@
 ---
-nome: Marco Guardigli
-layout: 'geek'
 episodi:
-  - 78
-  - 79
+- 78
+- 79
+layout: geek
+nome: Marco Guardigli
 ---
+

@@ -1,8 +1,9 @@
 ---
-nome: Francesco Belacca
-layout: 'geek'
 episodi:
-  - 39
-  - 35
-  - 44
+- 35
+- 39
+- 44
+layout: geek
+nome: Francesco Belacca
 ---
+

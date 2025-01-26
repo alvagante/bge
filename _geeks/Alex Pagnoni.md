@@ -1,6 +1,7 @@
 ---
-nome: Alex Pagnoni
-layout: 'geek'
 episodi:
-  - 38
+- 38
+layout: geek
+nome: Alex Pagnoni
 ---
+

@@ -1,6 +1,7 @@
 ---
-nome: Pietro Suffritti
-layout: 'geek'
 episodi:
-  - 82
+- 82
+layout: geek
+nome: Pietro Suffritti
 ---
+

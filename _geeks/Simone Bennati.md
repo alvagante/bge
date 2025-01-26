@@ -1,10 +1,11 @@
 ---
-nome: Simone Bennati
-layout: 'geek'
 episodi:
-  - 11
-  - 80
-  - 28
-  - 54
-  - 47
+- 11
+- 28
+- 47
+- 54
+- 80
+layout: geek
+nome: Simone Bennati
 ---
+

@@ -1,8 +1,9 @@
 ---
-nome: Dario Tranchitella
-layout: 'geek'
 episodi:
-  - 14
-  - 43
-  - 41
+- 14
+- 41
+- 43
+layout: geek
+nome: Dario Tranchitella
 ---
+

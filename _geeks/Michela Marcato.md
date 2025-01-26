@@ -1,6 +1,7 @@
 ---
-nome: Michela Marcato
-layout: 'geek'
 episodi:
-  - 29
+- 29
+layout: geek
+nome: Michela Marcato
 ---
+

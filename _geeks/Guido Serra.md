@@ -1,7 +1,8 @@
 ---
-nome: Guido Serra
-layout: 'geek'
 episodi:
-  - 59
-  - 23
+- 23
+- 59
+layout: geek
+nome: Guido Serra
 ---
+

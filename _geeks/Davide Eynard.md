@@ -1,6 +1,7 @@
 ---
-nome: Davide Eynard
-layout: 'geek'
 episodi:
-  - 78
+- 78
+layout: geek
+nome: Davide Eynard
 ---
+

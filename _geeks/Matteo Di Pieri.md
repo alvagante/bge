@@ -1,6 +1,7 @@
 ---
-nome: Matteo Di Pieri
-layout: 'geek'
 episodi:
-  - 15
+- 15
+layout: geek
+nome: Matteo Di Pieri
 ---
+

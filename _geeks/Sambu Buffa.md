@@ -1,6 +1,7 @@
 ---
-nome: Sambu Buffa
-layout: 'geek'
 episodi:
-  - 52
+- 52
+layout: geek
+nome: Sambu Buffa
 ---
+

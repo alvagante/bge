@@ -1,7 +1,8 @@
 ---
-nome: Roberto Fumagalli
-layout: 'geek'
 episodi:
-  - 20
-  - 16
+- 16
+- 20
+layout: geek
+nome: Roberto Fumagalli
 ---
+

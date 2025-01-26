@@ -1,7 +1,8 @@
 ---
-nome: Carlo Pastore
-layout: 'geek'
 episodi:
-  - 31
-  - 73
+- 31
+- 73
+layout: geek
+nome: Carlo Pastore
 ---
+

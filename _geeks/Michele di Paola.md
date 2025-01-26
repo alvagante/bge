@@ -1,9 +1,10 @@
 ---
-nome: Michele di Paola
-layout: 'geek'
 episodi:
-  - 45
-  - 51
-  - 79
-  - 60
+- 45
+- 51
+- 60
+- 79
+layout: geek
+nome: Michele di Paola
 ---
+

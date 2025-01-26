@@ -1,7 +1,8 @@
 ---
-nome: Michaela Odderoli
-layout: 'geek'
 episodi:
-  - 40
-  - 69
+- 40
+- 69
+layout: geek
+nome: Michaela Odderoli
 ---
+

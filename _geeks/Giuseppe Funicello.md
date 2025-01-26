@@ -1,6 +1,7 @@
 ---
-nome: Giuseppe Funicello
-layout: 'geek'
 episodi:
-  - 32
+- 32
+layout: geek
+nome: Giuseppe Funicello
 ---
+

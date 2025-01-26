@@ -1,6 +1,7 @@
 ---
-nome: Davide Piccinini
-layout: 'geek'
 episodi:
-  - 35
+- 35
+layout: geek
+nome: Davide Piccinini
 ---
+

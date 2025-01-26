@@ -1,7 +1,8 @@
 ---
-nome: Simone Torrisi
-layout: 'geek'
 episodi:
-  - 56
-  - 75
+- 56
+- 75
+layout: geek
+nome: Simone Torrisi
 ---
+

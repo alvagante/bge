@@ -1,6 +1,7 @@
 ---
-nome: Giacomo Tanzi
-layout: 'geek'
 episodi:
-  - 35
+- 35
+layout: geek
+nome: Giacomo Tanzi
 ---
+

@@ -1,8 +1,9 @@
 ---
-nome: Gabriele Santomaggio
-layout: 'geek'
 episodi:
-  - 53
-  - 71
-  - 34
+- 34
+- 53
+- 71
+layout: geek
+nome: Gabriele Santomaggio
 ---
+

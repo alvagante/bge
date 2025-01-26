@@ -1,6 +1,7 @@
 ---
-nome: Dino Baldi
-layout: 'geek'
 episodi:
-  - 45
+- 45
+layout: geek
+nome: Dino Baldi
 ---
+

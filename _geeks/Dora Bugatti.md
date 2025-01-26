@@ -1,7 +1,8 @@
 ---
-nome: Dora Bugatti
-layout: 'geek'
 episodi:
-  - 52
-  - 60
+- 52
+- 60
+layout: geek
+nome: Dora Bugatti
 ---
+

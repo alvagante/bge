@@ -1,7 +1,8 @@
 ---
-nome: Alessandro Vozza
-layout: 'geek'
 episodi:
-  - 53
-  - 14
+- 14
+- 53
+layout: geek
+nome: Alessandro Vozza
 ---
+

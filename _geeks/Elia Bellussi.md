@@ -1,6 +1,7 @@
 ---
-nome: Elia Bellussi
-layout: 'geek'
 episodi:
-  - 19
+- 19
+layout: geek
+nome: Elia Bellussi
 ---
+

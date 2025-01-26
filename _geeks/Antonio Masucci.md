@@ -1,7 +1,8 @@
 ---
-nome: Antonio Masucci
-layout: 'geek'
 episodi:
-  - 25
-  - 17
+- 17
+- 25
+layout: geek
+nome: Antonio Masucci
 ---
+

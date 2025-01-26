@@ -1,6 +1,7 @@
 ---
-nome: Guido Penta
-layout: 'geek'
 episodi:
-  - 30
+- 30
+layout: geek
+nome: Guido Penta
 ---
+

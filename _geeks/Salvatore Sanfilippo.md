@@ -1,6 +1,7 @@
 ---
-nome: Salvatore Sanfilippo
-layout: 'geek'
 episodi:
-  - 18
+- 18
+layout: geek
+nome: Salvatore Sanfilippo
 ---
+

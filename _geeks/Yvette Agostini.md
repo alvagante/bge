@@ -1,6 +1,7 @@
 ---
-nome: Yvette Agostini
-layout: 'geek'
 episodi:
-  - 10
+- 10
+layout: geek
+nome: Yvette Agostini
 ---
+

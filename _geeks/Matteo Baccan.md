@@ -1,13 +1,13 @@
 ---
-nome: Matteo Baccan
-layout: 'geek'
 episodi:
-  - 32
-  - 37
+- 32
+- 37
+layout: geek
+nome: Matteo Baccan
 social:
-  LinkedIn: 'https://www.linkedin.com/in/matteobaccan/'
-  GitHub: 'https://github.com/matteobaccan'
-  Twitter: 'https://twitter.com/matteobaccan'
+  GitHub: https://github.com/matteobaccan
+  LinkedIn: https://www.linkedin.com/in/matteobaccan/
+  Twitter: https://twitter.com/matteobaccan
 ---
 # Biografia
 

@@ -1,7 +1,8 @@
 ---
-nome: Romolo Velati
-layout: 'geek'
 episodi:
-  - 38
-  - 81
+- 38
+- 81
+layout: geek
+nome: Romolo Velati
 ---
+

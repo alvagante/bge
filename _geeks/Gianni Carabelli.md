@@ -1,8 +1,9 @@
 ---
-nome: Gianni Carabelli
-layout: 'geek'
 episodi:
-  - 18
-  - 7
-  - 4
+- 4
+- 7
+- 18
+layout: geek
+nome: Gianni Carabelli
 ---
+

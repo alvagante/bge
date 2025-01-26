@@ -1,7 +1,8 @@
 ---
-nome: Carlo Sacchi
-layout: 'geek'
 episodi:
-  - 72
-  - 77
+- 72
+- 77
+layout: geek
+nome: Carlo Sacchi
 ---
+

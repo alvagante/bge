@@ -1,6 +1,7 @@
 ---
-nome: Bruno Salmistrari
-layout: 'geek'
 episodi:
-  - 65
+- 65
+layout: geek
+nome: Bruno Salmistrari
 ---
+

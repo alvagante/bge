@@ -1,8 +1,9 @@
 ---
-nome: Giovanni Toraldo
-layout: 'geek'
 episodi:
-  - 50
-  - 43
-  - 34
+- 34
+- 43
+- 50
+layout: geek
+nome: Giovanni Toraldo
 ---
+

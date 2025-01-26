@@ -1,6 +1,7 @@
 ---
-nome: Toshaan Bharvani
-layout: 'geek'
 episodi:
-  - 48
+- 48
+layout: geek
+nome: Toshaan Bharvani
 ---
+

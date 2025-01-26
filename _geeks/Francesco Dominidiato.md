@@ -1,6 +1,7 @@
 ---
-nome: Francesco Dominidiato
-layout: 'geek'
 episodi:
-  - 38
+- 38
+layout: geek
+nome: Francesco Dominidiato
 ---
+

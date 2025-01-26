@@ -1,8 +1,9 @@
 ---
-nome: Luciano Flandesio
-layout: 'geek'
 episodi:
-  - 30
-  - 59
-  - 68
+- 30
+- 59
+- 68
+layout: geek
+nome: Luciano Flandesio
 ---
+

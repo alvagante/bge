@@ -1,7 +1,8 @@
 ---
-nome: Mario Anglani
-layout: 'geek'
 episodi:
-  - 76
-  - 21
+- 21
+- 76
+layout: geek
+nome: Mario Anglani
 ---
+

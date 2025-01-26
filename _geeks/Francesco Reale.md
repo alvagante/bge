@@ -1,6 +1,7 @@
 ---
-nome: Francesco Reale
-layout: 'geek'
 episodi:
-  - 63
+- 63
+layout: geek
+nome: Francesco Reale
 ---
+

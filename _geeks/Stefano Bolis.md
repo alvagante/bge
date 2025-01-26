@@ -1,6 +1,7 @@
 ---
-nome: Stefano Bolis
-layout: 'geek'
 episodi:
-  - 65
+- 65
+layout: geek
+nome: Stefano Bolis
 ---
+

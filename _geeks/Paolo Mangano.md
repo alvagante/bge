@@ -1,7 +1,8 @@
 ---
-nome: Paolo Mangano
-layout: 'geek'
 episodi:
-  - 55
-  - 61
+- 55
+- 61
+layout: geek
+nome: Paolo Mangano
 ---
+

@@ -1,6 +1,7 @@
 ---
-nome: Mauro Corbetta
-layout: 'geek'
 episodi:
-  - 20
+- 20
+layout: geek
+nome: Mauro Corbetta
 ---
+

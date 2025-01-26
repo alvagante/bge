@@ -1,6 +1,7 @@
 ---
-nome: Massimiliano Naccarato
-layout: 'geek'
 episodi:
-  - 29
+- 29
+layout: geek
+nome: Massimiliano Naccarato
 ---
+

@@ -1,6 +1,7 @@
 ---
-nome: Serena Sensini
-layout: 'geek'
 episodi:
-  - 56
+- 56
+layout: geek
+nome: Serena Sensini
 ---
+

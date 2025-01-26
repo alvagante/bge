@@ -1,8 +1,9 @@
 ---
-nome: Ruggero Tonelli
-layout: 'geek'
 episodi:
-  - 25
-  - 59
-  - 7
+- 7
+- 25
+- 59
+layout: geek
+nome: Ruggero Tonelli
 ---
+

@@ -1,7 +1,8 @@
 ---
-nome: Gianluca Boccacci
-layout: 'geek'
 episodi:
-  - 40
-  - 5
+- 5
+- 40
+layout: geek
+nome: Gianluca Boccacci
 ---
+

@@ -1,6 +1,7 @@
 ---
-nome: Francesco Cambiaso
-layout: 'geek'
 episodi:
-  - 49
+- 49
+layout: geek
+nome: Francesco Cambiaso
 ---
+

@@ -1,6 +1,7 @@
 ---
-nome: Andrea Urbani
-layout: 'geek'
 episodi:
-  - 76
+- 76
+layout: geek
+nome: Andrea Urbani
 ---
+

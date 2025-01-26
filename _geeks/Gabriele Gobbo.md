@@ -1,10 +1,11 @@
 ---
-nome: Gabriele Gobbo
-layout: 'geek'
 episodi:
-  - 11
-  - 28
-  - 82
-  - 66
-  - 47
+- 11
+- 28
+- 47
+- 66
+- 82
+layout: geek
+nome: Gabriele Gobbo
 ---
+

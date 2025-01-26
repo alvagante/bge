@@ -1,9 +1,10 @@
 ---
-nome: Elia Pinto
-layout: 'geek'
 episodi:
-  - 5
-  - 2
-  - 1
-  - 10
+- 1
+- 2
+- 5
+- 10
+layout: geek
+nome: Elia Pinto
 ---
+
