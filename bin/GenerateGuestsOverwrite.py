@@ -3,8 +3,6 @@ import sys
 import os
 import re
 import yaml
-import frontmatter
-from frontmatter.default_handlers import YAMLHandler
 
 # Python script that gets the list of Guests from for guest key in the *_manual.yaml
 # files in the directory passed as first argument, and creates, for each guest
@@ -13,6 +11,9 @@ from frontmatter.default_handlers import YAMLHandler
 # name: the guest name
 # episodes: the list of episodes in which the guest appears (based the *_manual.yaml files)
 # where * is the episode number
+# <guest>.md file is in frontmatter format, if it already exists if gets the existing data and 
+# just changes name and episodes keys
+#  
 
 if len(sys.argv) < 3:
     print("Please provide the source dir as first argument and the destination dir as second")
@@ -37,29 +38,18 @@ for file in files:
 # Create the guest files
 for guest in guests:
     guest_file = os.path.join(dest_dir, guest + ".md")
-    
-    # Read existing data if the file exists
-    if os.path.exists(guest_file):
-        with open(guest_file, "r") as f:
-            existing_data = frontmatter.loads(f)
-    else:
-        existing_data = {}
-
-    # Update the relevant keys
-    existing_data['nome'] = guest
-    existing_data['layout'] = 'geek'
-    existing_data['episodi'] = []
-
-    for file in files:
-        if file.endswith("_manual.yaml"):
-            with open(os.path.join(src_dir, file)) as f2:
-                manual_data = yaml.safe_load(f2)
-                if guest in manual_data["guests"]:
-                    episode_number = re.search(r'(\d+)_manual.yaml', file).group(1)
-                    existing_data['episodi'].append(int(episode_number))
-
-    # Write the updated data back to the file
     with open(guest_file, "w") as f:
-        frontmatter.dump(existing_data, f, default_flow_style=False)
+        f.write(f"---\n")
+        f.write(f"nome: {guest}\n")
+        f.write(f"layout: 'geek'\n")
+        f.write("episodi:\n")
+        for file in files:
+            if file.endswith("_manual.yaml"):
+                with open(os.path.join(src_dir, file)) as f2:
+                    manual_data = yaml.safe_load(f2)
+                    if guest in manual_data["guests"]:
+                        episode_number = re.search(r'(\d+)_manual.yaml', file).group(1)
+                        f.write(f"  - {episode_number}\n")
+        f.write(f"---\n")
 
 print(f"Guest files created in {dest_dir}")
