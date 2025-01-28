@@ -10,10 +10,10 @@ episodi:
 - 76
 - 80
 layout: geek
-nome: Domenico Martini
 links:
   Linkedin: https://it.linkedin.com/in/martinidomenico
   Twitter: https://x.com/donbrewerone
+nome: Domenico Martini
 ---
 ## Biografia
 Domenico “Brewer” Martini, classe 1973.

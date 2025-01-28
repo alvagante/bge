@@ -2,12 +2,13 @@
 episodi:
 - 78
 - 79
+- 83
 layout: geek
-nome: Marco Guardigli
 links:
   GitHub: https://github.com/mgua
   LinkedIn: https://www.linkedin.com/in/marcoguardigli/
   X: https://x.com/mgua
+nome: Marco Guardigli
 ---
 ## Biografia
 

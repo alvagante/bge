@@ -3,11 +3,11 @@ episodi:
 - 14
 - 53
 layout: geek
-nome: Alessandro Vozza
 links:
+  BlueSky: https://bsky.app/profile/ams0.bsky.social
   GitHub: https://github.com/ams0
   LinkedIn: https://www.linkedin.com/in/alessandrovozza
-  BlueSky: https://bsky.app/profile/ams0.bsky.social
+nome: Alessandro Vozza
 ---
 ## Biografia
 

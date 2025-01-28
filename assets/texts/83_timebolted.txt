@@ -1,0 +1,792 @@
+ma la creazione di connessioni quindi quanti atomi rivelati si ritrovano antichi
+dei tic estinti bruciati la pensionata
+dopodichè tempo
+ubicato
+è importante
+bene
+enti
+ma
+bando
+una conversione
+come costruire la prima uno sport molto semplice
+andiamo un po' più avanti
+dopo di noi
+prati
+occhio però
+costruire casa sua
+ci sto
+uomo moda
+cinque dante
+poi imprenditore
+infine
+chiama il nostro futuro
+io mi ricordo chi diceva che se
+l'immagine
+è il modo in cui noi corriamo lo spazio comando la musica il modo in cui decoriamo
+sogni spezzati ogni un indirizzo di powder è una storia da raccontare
+mi
+perché
+i circuiti che
+bene
+vedi
+telegram
+quella cattedrale
+chiamano
+mandello un matera
+quello che doveva essere l'alternativa
+maggiorenne bestie memorie andare
+ricordiamo il passato prevediamo il futuro artefice schiavi dell'algoritmo del tempo
+codice binario tracciamo sentieri
+i mondi virtuali e reali l'anno stalle principalmente di noi non deve mai fare niente
+impedendo di beni digitali
+visto
+mai davvero scomparsi
+ma
+propria realtà vera la verità vera è che so due ore e mezza che parliamo parla modena cosa e najem risorto un cazzo
+però questa sia proprio adesso e qui
+e quindi e quindi e quindi
+e quindi siamo arrivati alla puntata ottantatré degli istinti e
+dove una persona un po' speciale
+c'è anche marco e livia collegati e una puntata comunque a microfono aperto nel senso chiunque può collegarsi all'indirizzo che è scritto lì e condividere uno strumento stufo molly vogliamo condividere gli strumenti interessanti che conosciamo e a questo punto in attesa
+qualcuno si colleghi e livio luciano ma di domenico antonio e anche marco giustamente e che però vedo non collegato e inizio io così do il buon esempio vi faccio vedere un po' quale potrebbe essere l'approccio schermo condiviso
+qualcosa del suo computer illustrare uno strumento e dire come può essere e chi può essere utile e parto io con il bellissimo yacht club yacht club è un progetto di una persona che conosco un mio amico sudafricano in australia
+e che praticamente un ambiente ma grande che permette di testare velocemente e tutta la suite di prodotti asics ma anche altri software
+ed è proprio un modo piuttosto smart per cui
+che adesso mi manca vedere e di fatto fa girare tutto dentro un container consiste lì dentro il quale poi può girarci tutti questi sorte può anche gerarchi mini miniclub è anche fruibile via dei containers per cui il repository e questo per iniziare a usarlo uno può semplicemente forca
+carlo il bello di tutta sta roba che si può anche fare direttamente io ce l'ho già
+facciamola da queste parti direttamente online quindi senza neanche avere un computer senza neanche avere
+qualche dispositivo in cui fare è far girare poterci installare e testare i vari prodotti si può utilizzarlo adesso io mi sono fatto un fork locale giusto per te ti faccio vedere come utilizzare su questo cor
+direttamente da the hub ripeto questo di fatto una barman può fare anche da locale si può installare su qualsiasi macchina linux con una distanza sul cloud e farla andare però io lo faccio della tab perché ancora più interessante quindi con spese su master io
+crea un space che utilizzerà le configurazioni che sono configurate nel dettaglio nel container di questa di questo repository del container per chi non sapesse è una soluzione credo implementato inizialmente subito e studio code ma poi anche adottata da altri
+editor che permette di
+di sviluppare direttamente dentro un container la propria applicazione proprio progetto e quel continuo ovviamente può avere già tutto quello che serve lo stacco è necessario è il vantaggio che non contenere quindi usabile assise come si vuole in questo caso questo contiene utilizza il doc compose che c'è
+direttore principale fa un po' di barba e la cosa interessante di questo composto macchine ad hoc che sta creando adesso qua dentro è qua dentro su i specie di github per chi non sapesse niente è una istanza di studio code direttamente online su questo
+bellissimo container il buon amico ryan ha fatto praticamente installato parte da un
+una sua immagine basata su ubuntu in cui di fatto ci sono c'è il contenuto di questo repository o meglio tenersi può lavorare su questo deposito è
+bè è un'istanza hadoop con tanto di systemd per chi queste cose non le vuole vedere sappiate che in un caso come questo un conte-ter consistenti in una macchina virtuale in un contesto come questo dove lo scopo è permettere agli utenti di testare
+applicazioni questo è uno strumento per imparare per imparare in questo caso specifico soprattutto lo stack e yacht corpo ma in realtà
+anche altri strumenti di fatto questi sono tutti gli strumenti che sono utili
+e facilmente eseguibili su
+su questo yacht club quindi che di fatto appunto un ambiente vagrant con dentro un container per cui vediamolo da qua perché la cosa può essere interessante quello perché direttamente ecco il nostro contenere partito adesso terminale qua dentro che è praticamente dentro il container io
+non puoi estendere un po' ho praticamente quello che siamo una macchina virtuale a tutti gli effetti
+qui dentro posso lanciare tutto quello che
+isee per cui per esempio biblioteche stare
+uno qualsiasi johnson
+con
+o come va
+nasce poi ci sono le istruzioni per fare le cose come sono con tutti i crismi
+oh che consul console seat e questo va ad installare su questo contiene io sto visualizzando da browser consoli la cosa interessante è che
+titolo mappatura delle porte per cui io posso già vedere
+le porte res appena sarà tirata in piedi ancora più interessante è che queste e porte che vengono create sono anche condivisibile su internet cioè schierabili non soltanto da me ma anche da chiunque possa vederla dall'esterno per cui l'istanza consu che sta creando adesso
+questo continuo che sta tirando su github e teoricamente poi condivisibile è utilizzabile da altre persone allora ci sono un sacco di cose che si possono fare qua dentro ma c'è abbondante documentazione spiegazioni su cosa fare come fare e così via
+interessante secondo me intanto è l'utilizzo è abbastanza come dire estremo dei container per fare queste cose ma che permette però di fare queste magie tipo un def container che uno lancia da interfaccia web e
+e poter con cui può interagire fare cose testare prodotti e così via quindi console ben detto ecco questo è per esempio quello che si deve fare se uno vuole invece era proprio repository clonato in locale e farselo no senza
+usare del container bat paziente usare l'ambiente vagrant con un vago po' si specifica quali tipo di stoffa si vuole installare e poi di fatto tiranti la stessa cosa e allora io volevo però vedere vi è un attimo seduto fai qualcosa
+equa per ottocento mila forte
+un po' quale può essere quella più giusta c'era un ritmo iniziale che forse ha senso vedere
+e cosa ho fatto con giusto o
+va bè è
+se mi è piaciuto rivedere il redmi meeks ha visto l'inizio famiglia ramsey allora torniamo a noi
+ma qua terminal uno che è partito has air phones localhost millecinquecento ottomilacinquecento e questa distanza consul ma messa in piedi fatta e finita con cui uno può iniziare a giochicchiare cosa interessante è che questa istanza adesso io non so se
+voi potete già vederla io ve la butto lì direttamente su
+sulla carta quella interna aspetta un attimo che qua e un po' fatemi sapere se l'outlet da quella su su wikipedia
+perché se non si potesse vedere c'è comunque la possibilità di renderlo pubblico con questo barbatrucco lo ha fornito online sto un po' perdendo fa questo fosse sarebbe meglio ports ottomilacinquecento
+nel collegio privato ovviamente poi un'uscita in cui faccio pubblico questa porta e dovrebbe essere raggiungibile da quattrocentoquattro con ancora viale luciano e vedi se adesso funziona e notate la cosa simpatica che io sto usando un browser tutto sta girando su github e sta girando sui tab su un conte nerone
+allora giusto per darvi un'idea col specie se ho questo container qua si possono anche configurare e le risorse questo è un due cor otto giga si può anche aumentare però il concetto è che tranquillamente senza avere nessun basta un account tab
+free for all e posso fare queste cose e
+e niente e questo è yacht club questo tool questo ambiente di dispersa di
+di sperimentazione e sviluppo che secondo me interessante soprattutto per chi la fa con gli strumenti di asti coppia vuole mettere in piedi velocemente pestarli fare e lavorarci un pò ovviamente non è fatto per ambienti di produzione però per imparare praticare e approfondire è
+decisamente molto comodo perché bastone browser e si può testare un proprio ambiente così com'è e poi è giusto per chiudere la quantità di robe che ci possano essere sopra sono interessati fa le cose una cosa che non conoscevo la butto lì ma lo stacco magari qualcuno di voi già conosce
+questo è un progetto che permette al paziente di fare un mock della duna classico ambiente cloud in locale quindi permette di interfacciarsi utile per esempio per lui lavorare con terraforma quando volevano protestare creare e distruggere le cose senza però fare nulla veramente su ed dhabi
+vuoi essere se non so quali e cloud supporta però di fatto permette di lavorarci come se fosse un cloud venne completamente foto locale non succede niente però è interessante quindi questo è un altro dei software che si possono installare qua dentro così come
+abitanti da mini cube e quindi quasi un bellissimo doc e docg e con cui si possono creare container joypad dentro il nostro instant resta un nostro container docker è tutto tranquillamente eseguibile da locale quindi adesso come ho fatto questa cosa facciamo anche magari ti amo
+cina
+un attimo di
+ma partiamo anche con me richiudere se non so quando e quanto reggerà questo contiene però questo è marco livio che ne dite
+e dico che sembra una figata
+avevamo mai visto questo
+è infatti questo ci tenevo a farlo gustare sia perché conosco il tipo che l'ha fatto è mio caro amico diciamo è un ex collega con cui ho lavorato in passato questo gioco particolare sia perché trovo interessante quindi come strumento da condividere
+di quelli non particolarmente noti e credo che possa fare la suora molto rigido che luciano dice de funzioni questo potete immagino avrebbe visto qualcosa di simile e alessandro
+fatto con collabs
+sulla piattaforma di google colab tyson anche lì c'è gente che ha fatto delle cose
+di magia nera e si riesce a fare un mucchio di roba anche con la piattaforma colap sa che pur essendo transiente come il resto ritengo che sia questa qui su github
+finché vive ecc le sulle meraviglie dei tempi moderni in cui questi strati di virtualizzazione permettono cose impensabili fino a qualche tempo fa o per imbroglioni quindi con questo se ho capito bene con il modulo consulta si fa
+un po' quello che si fa con kenny grock cioè si esporta su un url pubblico l'accesso ad una porta interna dell'attuale del tour noto convinzione qualcuno a console in particolare questo lo fa c'è consulenza uno che ho lanciato a volo come dei tanti programmi che ci sono qua dentro consul di fatto
+fascia business school notte però quello che permette di esportare la porta è una funzionalità di
+the container mixato con queste ampiamente di def contiene credo però mixato con su github cioè tu hai queste porte e di scusa deve contenere e viso studio code e hai queste porte qui che son tutte le porte che vengono aperte dal tuo
+e dall'applicazione che lanci lui automaticamente tele mappa e adesso vediamo che cosa viene fuori e quando verrà fuori poi è possibile queste porte che sono state create intorno contiene esportate evento visibili al nostro
+visual studio code qui su github poi c'è questa funzionalità che credo sia una roba dignità può non so se anche una cosa di pisa studio code comunque di rendere la porta pubblica e quindi questa cosa questo questo questo servizio di esposizione di una porta privata sull'esterno e
+il mestiere di un altro tool che si chiama negro e né con la cappa è negro che può essere estremamente utile per chi si occupa di development dall'interno della rete privata per far vedere il suo lavoro sulla sulla internet pubblica su un indirizzo che è raggiungibile rotabile
+è però un tool che come tutti i tool potente ha una doppia una doppia faccia potenzialmente pericolosa perché è costruito per bucare i firewall e per fare del reverse connection è di è vietato plastica tunnel
+ottimo per fare un tunnel ecc si usa un reverse clavis connection tecnico e nella cosa carina è che lavora in chat tips e che di conseguenza
+difficile da far volare se non in maniera esplicita ecco quindi
+dall'interno delle reti di molte aziende è consentito per ignoranza
+eh sì esatto anche perché come vedete anche quali porte interne è esportata poi in realtà sono sua chat piace normale nel nostro name c'è l'indirizzo l'indicazione sulla terra vengono scritte così proprio così reverse proxy il reverse proxy le deve reindirizzare laddove laddove sono servite sono
+di nano escludo che usino nel rock anche qui e fai questo per me è negro che un prodotto è un prodotto che nella versione gratuita ti consente solo poche connessioni poi devi pagare sono guai in maniera più strutturata però è comunque uno strumento potente e potenzialmente pericoloso
+bene vai questo è bloch non è partito nostro sta partendo una cosa ti chiedo alessandro tu qui stai usando e via s code dentro il browser se si ha questa funzionalità di github i cosiddetti cookies peaches touch su questo
+repository pubblico può aprire un cod space che praticamente è un'istanza di studio code e dentro il browser poi appunto c'è musei di pezzettini noi con cospes di github che poi è e c'è la componente del container che questa feature se vogliamo divisa
+ma anche di altri editor che permette di avere il tuo repository git montato dentro un container e su quale puoi testare deve temere il tuo codice e quindi tu puoi avere è la possibilità di sviluppare il tuo codice dentro paziente un continuo e viso tua coda poi la possibilità l'inter
+grazione per è appunto montarti dal medico squadra repository git pari pari questo repository git e le suo nuovo terminale
+a parte aprire il terminale dentro il container ma è quello che c'è qua dentro è quello che è montato a direttori vagrant
+sul container qui contiene dentro avira configurato ci monti dentro
+o meglio sì ma mai ci si monta dentro il repository git su cui stai lavorando quel repository dunque il codice e puoi facile così evidente che contenga puoi compilarlo visualizzare esattamente se codice interpretato con tutto l'ambiente che di sera quindi diciamo che qui c'è una serie di tecnologie messe in
+insieme e tutte molto belle e interessanti free space di itab che permettono di eseguire visual studio code da browse sostanzialmente e visual studio code con dei container che permette di lavorare dentro il tuo repository git dentro un container su cui puoi avere tutto lo stack applicativo che ti serve e poi questo
+barbatrucco di di questo progetto specifico che ha praticamente un ambiente vagrant questo
+di default usa doohan in realtà può anche usare altri provider tipo inizialmente questo aveva fatto su
+virtual box in questo caso un conta nerone perché ovviamente è più comodo anche per usarlo su diverse piattaforme e su questo container container poi lui ci fa un po' di simpatiche a parte tutti questi port forwarding ci fa tutto quello che
+serve per farci tanta anche cose non del tutto banalissime non è soltanto installarvi e di
+ha fatto qualche cosa particolare per gestire sv patente fare poter lanciare container dentro il container e avere una questa macchina come questo contiene come se sam sembra come se fosse una macchina virtuale perché se guardate poi qui e pdl uno init
+extend quindi questa è una macchina a tutti gli effetti apparentemente indistinguibili fra da un container no sembra una macchina virtuale in realtà è un container con tutto quello che permette si stende gli è necessario per poter installare potuto quest'altra spiegazioni quindi le altre applicazioni che sta girando qua dentro poi si
+sono
+e qui quindi sedute sotto trovi il modo di dargli dello storage se tu trovi il modo di dargli dello storage lui può pranzare su uno storage che tu gli hai montato e anche quando lui dovesse morire il suo il suo prodotto e salvo sullo store smontato se si è
+tra l'altro di fatto l'assessore oppositori che di fatto è in locale cinese su tutto lo sliding che il locale questa stessa cosa sta avvenendo adesso d'abito studio code suo browser si può fare direttamente il locale e ovviamente il repository locale e sul tuo fasciste il tuo computer diciamo che poi viene montato sul container però appunto
+beh sono solo locale
+eh che ne dite un buon inizio per questo tour fra molla decisamente interessante alessandra grazie a un commento però io non sono un utente deve il suo studio code che non conosco mi fa un pò paura visual studio code perché è irto di potentissimi plugin che fa
+hanno delle cose parlando con il cloud non si sa bene con chi e come è
+la mia sensazione è che il tuo codice dal momento che lo scrivi sul viso studio code non sia più solo il tuo
+e anche le sue funzioni di mirroring delle configurazioni cross
+cross-device ciao apro un account chiuso studio
+un account in cui
+scarico le configurazioni di via s code vado in un'altra macchina login no e trovo tutte le mie configurazioni compreso gli accessi ai miei
+miei team di preferiti questa è una cosa che mi preoccupa un pò tu che cosa come me la community succede normalmente con tutti i browser ad esempio nel momento in cui tu hai parlo del prodotto non del browser del prodotto vi sistina vi dico però questo fatto di condividere cose perché salva qualcosa su
+tuo account centralizzato che ti permette di usare le stesse configurazioni da diversi computer quello che magari si fa week end con crom al momento in cui si ci siamo si usa autenticato no c'è classico compromesso fra funzionalità e guarire privacy o riservatezza
+pizza o sicurezza se vogliamo e poi è vero c'è questa miriade di plug-in tutto codice javascript che viene eseguito in locale cosa fa cosa non fa e
+dipende la versione cor comunque abbastanza puoi anche fare senza particolari plugin
+hai già quello che dovrebbe fare editing e i poi gli abeti è questione di scelte io credo che ormai non c'è software che non parli con internet è di fatto quasi nel nostro mondo no poi che cosa si dica cosa scambia cosa condivisa cosa esfiltrare
+elwood ricky filosa cinese su chi lo sa magari c'è modo di saperlo comunque questo frutto pensose in un ambiente mi chiedo se in un ambiente con strand
+sia sia lecito sean
+sì è sensato adoperare un tool così dichiaratamente
+come dire aperto le comunicazioni anche quando tu installi o le componenti di editing remoto c'è lui
+travasa una parte di se stesso su un target a cavallo di una sessione se si ha che si esegue in parte di là e questo è interessante potentissimo bello però insomma un pò intrusivo ma ti dirò io trovo lo uso lo uso e l'ho usato ed è usato era dotato anche in aziende
+basta uno e count dal punto di vista la sicurezza quindi è
+diciamo è anche questo automaticamente vuol dire che va tutto bene però diciamo che c'è un senso e un editor di neil
+mite e censis come ce ne sono altri più funzionalità voi al vero e puoi metterci più
+come dire cose deve permettergli devi permettergli di fare poi che queste cose ti piacciono no state sceglierlo e
+personalmente io ormai uso solo obese studio code e con merito di esultare perché mi trovo bene fa questa maniera i plugin e poi beh qualche magari
+variazioni sul tema no ai progetti derivati tipo
+e che si chiama quell'uomo
+a me ci sono circa uno famoso basato sulla cursor che è pertinente un avviso studio code con un po' di a di contorno
+va bene comunque uso in da windows alessandro
+da windows lo permette dominus
+o anche da linux se devo usare linux no beh su questo si presta bene roba microsoft ha comunque fatta bene tutto sommato è open source ciò assolutamente chic come anche qui magari tolgo prendono spunto il
+microsoft terminal windos termine anche che magari non so non tutti conoscono che è un prodotto che
+a mio avviso è discretamente ben fatto molto a west odium suo insieme un pò come chromium e chrome grazie antonio per la segnalazione
+e sì dai comunque io direi contingenti amo le presentazioni io non so se livio marco avete qualcosa adam da mostrare e quantunque la cosa vale anche per quelli che ci seguono e carlo francesco antonio stefano luciano
+uso se volete collegatevi
+e e fateci vedere qualche strumento interessante e che comunque lo scopo di questa di queste larghe proprio questo e non volevo spendere più di un quarto d'ora su cui sul mio
+a sul mio tel taxi uber e airbnb è interessante allora avete qualcosa da
+la condivisione livio marco
+non ho preparato non ho preparato niente però qualche o qualche spunto che magari è noto già allora stavo dicendo
+microsoft terminal il tool di esse search client che possiamo adoperare da da microsoft dal dell'ambiente windows che trovo discretamente buono interessante e versatile ben ben in grado di supportare anche
+mons funzioni avanzate di determina le ria testuale remota e anche umana di marco visto che determina lo conosciamo in vari però se vuoi dimostrare un po di cose interessanti su terminal qualche pernice tutto la logica di sete in stato è molto simile a quella del mio studio code
+condividi se hai qualche utilizza un pochino fuori dal solito fawkes selle e cose varie e se benvenuta intanto bentrovato carlo
+non ho niente di poter condivisibile posso dirvi che buonasera
+dias cel microsoft terminal lo trovo ben supportato in ambienti
+verso sistemi eterogenei è anche in grado di di ben trasportare
+funzioni avanzate tipo zollo lo sketch quindi logici cinquantadue che è una capacità di fare copia incolla a cavallo di sessioni asse sacra nelle due direzioni anche con diverse sessioni una dentro l'altra questa è una funzione che mi piace e che è supportata da microsoft
+terminal ma che per esempio non è supportata da putti del vecchio il vecchio caro putin e quindi quando le devi usare a cavallo di un magari una una configurazione multi coppe questa ti può essere d'aiuto quando devi fare un copia incolla di cose più grandi di uno schermo dalla dalla dalla postazione remota verso la tua postazione locale
+questa è una funzione che richiede un'emulazione che si chiama watch cinquantadue
+che è supportata da microsoft boeing si
+se posso aggiungere perché non lo abeba name allora rispetto a putti siamo veramente un'altra categoria no come se un po' tutti abituati a putti però effettivamente è no ho trovato molto bello anche tutto il discorso le integrazioni con due stelle e i profili sono
+creare e queste cose qua poi si è anche amy
+anche sotto la curva il cofano ci sono cose interessanti bene e
+una domanda dai
+su windows si possono usare ip etc i file piace uno quelli di powershell sapete qualcosa
+certo c'è la perdere la sua poesia e la gente se puoi se ti puoi usare gli piace uno
+interessante
+vediamo se c'è qualcosa di dimostrabile sì no nel senso che
+c'è su powershell posso suggerirvi una cosa per chi non la conoscesse che omai posso ho mai poscia che è un tool di un programmatore olandese che ha sviluppato
+amo in un ambiente multipla forma sia sotto windows che sotto non windows quindi mac e linux non so se riesco a condividerlo
+scusami per far vedere un attimo ah sì ce l'hai è utile anche tulum posto
+no no ma homepage no ma poi ascelle la cosa interessante è che appunto tu poi avverte che di default swap mason ascelle ma può aprire anche le tue tutte le checche trovai locale tutti due stelle che trova il locale e poi però anche cose tipo integrazioni varie perché con sel
+bici o non so quanto semplici fosse carne sa molto più di me su questo aspetto che puoi anche aprire una bella istanza sul tuo una clausola e le sue cure e di questo genere quindi ce ne sono di cose interessanti che puoi fare con visa sui golden
+è il terminal di windows e poi bere a questa logica di settings in cui confido un po' di cose quindi sì grande grande cosa ma raccomandatissimo scuri aperti con my porsche
+dicevo mai posa e il
+ricordate il prompt il prompt command che c'era negli ambienti linux e anche nell'ambiente ed ossa portato a delle versioni più avanzate e con con tante funzioni a livello cromatico a livello d'integrazione con il kit a livello di integrazione con altri applicativi per esempio il controllo della batteria sul tuo
+laptop se vuoi lavorare sempre in modalità console ti puoi mettere in screen la consolle e nella riga di stato ti puoi mettere tanti widget e questa è una delle funzioni di dio mai post
+a me lo uso particolarmente lavorando molto in python contanti diversi environment mi posso portare nella riga di stato anche la versione del piston è il le cartelle dove ciò l'inverno mentre la cartella dove invece sto lavorando è un tool sviluppato da uno sviluppatore olandese che si chiama the job
+larry
+è
+se se lo apri alessandro mi fa piacere non riesco a non posso condividere la mia postazione purtroppo per motivi di azienda ma
+questo tool è sito lo scrivo
+scoprite l'atmosfera
+ok allora come te
+allora tanto poi faremo sul sito metteremo
+bravo carlo
+è
+viveva troppe cose mi sembra una semplificazione di quello che si può fare su etc
+colorante è qualcosa che puoi colorare farti dire dove sei magari più semplice questo no ma io lo trovo interessante ed è multi cell nel senso che lo puoi configurare sulle varie scelte che tu hai
+multi platform gira su windows su mac su un su linux e a questi cromatismi che possono essere un pochino accattivanti in più puoi personalizzare il tema che ce ne sono cinquecento e
+io lo trovo comodo perchè mi fa vedere l'environment l'environment picton e questa è una funzione che appresso ecco però si può si possono mettere tantissime altre
+tantissimi altri widget diciamo così è supportato ed integrato anche dentro team ucsa è dentro a se usi team e usi anche il
+new window e non non dà fastidio non si non si usi intriga con questi ecco quindi dal mio punto di vista è un prodotto interessante
+è frequentemente aggiornato il che potrebbe essere sia un bene che un male però è molto ben mantenuto ma a pagamento vedo cina online
+poichè puoi donare se vuoi come come in molti casi ma non è a pagamento
+il programmatore già interagito diverse volte per suggerire qualche probabilmente è una persona molto seria e molto disponibile e gentilissimo mantenere
+va bene dai grazie per la dritta alla fine un prompt editor
+stanze
+è
+livio carne avete qualcosa da farci vedere interessante ma io sono su mac quindi non ho la mia postazione lavoro tra uso due tool nella mia vita mobic stern visto che siamo agiate ma terminali eccetera
+e grieg sottoporre serie per fare screenshot evoluti super rapida eccetera
+qui dice diciamo western caso non non posso farvi vedere ma penso sia abbastanza famoso eh
+hoepli è un putt elevato un po' la potenza per quanto riguarda me e ultrà c'è tutta l'organizzazione delle cartelle di tutto di più è quello che io sono un po' maniaco mi voglio loggare tutte le sessioni con dei nomi eccetera eccetera ogni sessione il nome diverso eccetera questo lo fa put rianimata animata creare l'assessore nuova cosi passerò fa
+in automatico se aerea per l'assessore nuova riparte un nuovo file eccetera
+è tutto e logga qualsiasi cosa ti metti a scrivere solo voi che nessuna sessione stesse aaaa terminal west kyle di tutto e di più ovviamente anche qui con poi personalizzati ma ovviamente sono cose di base arch e le colorazioni e questo è lo strumento che
+uso da dal duemiladiciassette tutti i santi giorni
+l'ho pagato palombara se non lo pago perché erano sto utilizzando perché sono quaranta cinquanta euro all'anno
+per avere più sessioni e qualche funzione in più che non mi ricordo una roba di decathlon araba persone una personalizzazione puoi farlo partire col tuo brand ma cos'è cose strane
+ma nel sempre la versione free è limitata a venti sessioni con memorizzate quindi io ne ho tre o quattro che usano giornalmente altre sono più crea e distrugge veneto
+allora se un pò limitato ma se tante macchine sas heather questione connettere penso sia super organizzato e tutto è tuo
+è bello per quanto riguarda me e poi puntò tutta la parte di login che ho cercato veramente negli anni passati un qualcosa di simile era un no non un bene come lo volevo io e quindi alla fine sono rimasto su questa soluzione e poi
+fa anche altre cose può fare se a te steffens effetti di server di acqua server quindi se vuoi mettere suonare diventare di jack piede serve lo puoi fare tra vari casini ma ogni tanto mi è servito anche per grammi un effetto più server sul mio computer familiari dei file così
+cose passate adesso non serve più fare queste nostre cose però
+e altro cosi poi c'è anche dai client per amazon quindi puoi collegarti a bucetas tre di amazon sa qualcosa anche oltre
+che non ho utilizzato spessissimo sinceramente apache plugin interessante che anche lì non ho utilizzato spesso e l'uso nella sua forma principale va applicato appunto per login che l'organizzazione sua ormai chiaramente uno solo comodo su questo
+è abbastanza aggiornato ogni tot due o tre mesi lo maggiora nuove funzionalità bug fix eccetera e questo questo è il copia incolla ti funziona bene carlo anche questo funziona bene e fai copia incolla puoi fare anche la gloria il download dei file dalla sessione e soprattutto sui social software pellet
+che mette in parallelo a una stazione
+tipo wine recepiva una cosa così qui di fianco è proprio la lista dei file della cartella dove sei comunque puoi navigare su e giù in tutto il server e quindi fare copia incolla dei file
+permessi permettendo quindi segue la logica linux su se stessa e aqa san remo desktop di windows volendo c c anche con sia remote desktop classico più classici supporta le chiavi e soprannomi sembra che io devo vendere troppo attendono devo avere proprio no no no no
+supporta le chiavi di tutto di più puoi anche personalizzare de de de dei dei comandi da fare tu fai la login ripaga in automatico dei comandi o delle macro che vuoi fare è attivare su quella sessione per lo so fare in automatico su dosso fare in automatico un a fare in automatico qualcosa
+lo puoi configurare e via
+su mac royal ts eat è vero ce l'ho ma non solo su mac lo uso esattamente per lo stesso identico motivo login
+ma non lo sono
+aggiornato da un nano e basta su windows
+una versione nuova su merkel no
+e anche su
+su windows lo ielts roadies è infatti del più aggiornato di me non ha una versione aggiornata su windows su mac
+vai nella sezione desktop hai una versione ebook sette otto subito sulla versione sei fermato perché un anno un anno un anno e mezzo fa circa e stesso identico motivo hai tante cose
+la sea kayak puoi collegarti e sofia http winners cup
+remo desktop
+stesso identico motivo
+però
+non lo stanno aggiornando però su mac lo so perché quando sono su michael quello
+ecco sottovento su un prodotto simile con cui mi sono trovato discretamente bene e
+mr mutt n g e remote n g che supporta l'emulazione di terminale ordinaria integrando putti
+supporta il voynich supporta
+microsoft terminal server client quindi lo portano
+porta tre tre otto nove
+camere remote mg questo è un prodotto valido sia per quello l'avevo visto
+è stato eccetera poi per amor di rimango di latte però è vero
+ecco questo alla sfiga che non può fare copincolla importanti in modalità di reverse connection questo ehm
+dal di là verso di te da te verso in là non è un problema dal verso di te è un problema mi piacerebbe
+remotamente fare questo tipo di cose come si faceva una volta una volta per i vecchi vecchi che si ricordano usate usando resetta esegeta che faceva la trasmissione con il protocollo zitta modem sullo stesso canale in cui faceva l'emulazione di terminale però non mi risulta che qui p swift
+i protocolli siano più disponibili
+per la gestione di sessioni multiple su linux vi suggerisco c m
+annie c m che è un un multi console client per linux
+ed e g m e n c m c
+frenata roba subito all'inizio che non è qui
+e sicuramente poco noto ma è veramente un prodotto valido
+adesso vi trovo l'url un san trovaso
+è in corso corsa seac connection manager quello bravo quello lì è questo e questo sì kenneth arrow si è un prodotto molto valido che ha una configurazione molto semplice e tutte lo configuri tipicamente sul bridge host cioè sulla macchina dalla quale devi andare in altre macchine e ht gesti
+esce in una in una configurazione di file aml tutte le le i parametri di sessione verso le macchine target poi ti da questo piccolo menu win in urss è molto facile da usare e molto valido e stabile
+non supporta le password quindi non puoi metterci al passo dentro per motivi di sicurezza però puoi usarli chiavi
+bene se fate il giro di remota connection bulls
+varie salse interessante e
+poi cadaveri accennato un'altra invece cosa per fare e
+e screenshot e come sean anderson si chiama great scott
+green verde so che non è aggiornato dal duemiladiciassette ma l'ho visto installato anche in ambienti enterprise con mia somma orgoglio green south brooklyn
+allora anche qui stile venditore
+a parte le sneakers dipinto di microsoft carino e tutto il resto questo ha la particolarità che con una combinazione di tasti che può essere contro al print screen controlla end solo stampe configurabile puoi fare screenshot a raffica lui in automatico te li salva dove vuoi te con il nome che ethernet
+organizzazione che vuoi te e in più l'ultimo tiene negli appunti quindi si deve fare copia incolla veloce su capsule chat e nei documenti queste cose è praticamente un un'arma
+automatica
+mitragliatore automatico degli screenshot se ne volete uno più recente cass green car serie x stesso identico motivo stessa identica cosa fa la stessa identica cosa ma quantomeno un po' più aggiornato però se volete utili se volete essere un po' più agili con gli screenshot pio vi con
+vi suggerisco questi due tool anche qui destinazione in automatico
+dell'immagine presa ovviamente sto parlando anche di regione finestra intero a schermo intero
+quello che volete c'è quello che si vuole nel particolare il solito faccio una finestra quindi c'è combinazione ti la sigla la freccetta del mouse che diventa una specie di crocetta selezioni l'area e ti prende lo so fritz e ti prende lo strisciato dell'area che vuoi è scusate a questo punto visto che siamo in modalità
+snapshot tools e ho visto che viso studio code ha mostrato automaticamente costruzioni butto lì dentro e mi sostiene scrivendo delle note per il sito dove mettevo tutti i libri tutto quanto perché sentirete un po' naif nave carlo
+hai un suggerimento per una cosa del genere che funzioni a cross anche mobile device no copiare da telefonino e incollare nel computer o viceversa quello no quello no vive la sua età ciò stesso per telefonino effettivamente poi me lo mando via whatsapp l'unica cosa che forse però è una pipa
+telepatia chi ha il mac può farlo direttamente da davanzale
+the make my maps
+per il cross passeggiano genoa
+quello no questo non verrà servito adesso che me l'hai perso e cercherò
+perchè le cose le trovi quando ti seguono
+bene allora zampate il giro degli strumenti di screenshot king e non è male e
+ce ne sono diversi effettivamente poi ci sono anche tutta la cattedra di quelli che tanto a cui questi che fanno anche video screencasting se vuoi vero vero quello
+ma quando la allora quello di possedere schumacher lo fai con
+il suo player normale va benissimo
+si chiamano einstein lo fai tranquillamente anche su windows va un suo schema anche su windows ce l'ha
+delle tre modalità che venga una roba simile però lo fa discretamente per quello che ti serve audio video e butta dentro tutto
+se sei in effetti
+è bene dai allora overview degli strumenti di sniping e ve ne do un altro simile setup può essere utile allora io ho un ipad o un telefono o un computer con windows
+quando lavoro in giro spesso in borsa ciò sia l'ipad che il computer e mi farebbe comodo avere il dual screen e allora c'è un tool che si chiama duet che però si acquista quindi io pago e e puoi avere l'ipad che utilizzi come secondo monitor del pc e lo trovo molto comodo
+soprattutto a un elfo kerr
+questa proprietà è nativa la puoi fare direttamente con apple aggiornati se hai uno studio un macbook se sei un macbook mai pc windows script a colpi apre con windows
+ricevi windows e ho un ipad e un collego col filo con alcool wireless non va nonostante quello che dicono col filo attacco il mio west della dell'ipad nel nell'ue web del computer e poi posso attivare il doppio screen e lo schermo dell'ipad viene visto come un
+secondo schermo del computer peraltro tace quindi è interessante
+bene molto bene
+e allora deacon questo no maurizio canon connect nodi ho fame cosa si riferisca a jenner
+accoppiare laptop e mobile fonit cetra cina ho visto sul
+e passa communication between the old world was made for people light show e ancora vogliamo
+cambiare argomento e passare ad altri strumenti ma un pochino più
+no non un pochino più osman
+più geek
+è tipo i vari qui stanno proliferando gli strumenti per usare i modelli e le lame locale e lemme studio mista e o lama e quant'altri vogliamo parlarne visto che sono molto secondo me interessanti io
+io
+ne approfitto allora per me fatemi scrivere che ove sono cinquantacinque venticinque parliamo l'intelligenza artificiale finalmente
+possiamo parlare di intelligenza
+allora è
+aspettate fatemi fare una cosa e
+uno allora ho sempre utilizzato fino a l'altro ieri lo studio che questo molto bello dixie ovviamente lei visto che siamo in argomento fresco di giornata dei psic che ammazza tutto
+questo è uno dei vari strumenti fu uno dei più bellini dopo che ho scoperto quell'altro che faccio vedere dopo per scaricasse i locali modelli open source la perizia però quello che inizia però no quello che lama lama s erasmo obama esistenziale e files
+www
+come eco fra warwick helen studio tu puoi caricare un modello fa quelli che ti sei scaricato è
+e poi su quello prendiamo il nostro buon the search
+cosa ho fatto perché qua ho fatto una cosa ieri poi ho importato i modelli di cavo scaricato su questo scoop
+su news e uguale per tutti ok
+è il modello nuovo chat puoi mettere il sistema project che vuoi puoi scrivergli cose
+tell me about the best
+shopping tour sara non credo che sia molto aggiornato e molto più veloce questo è un nome essenziale è questo un uno un macbook quindi va abbastanza il momento in cui senza osare modelli un pochino più pesanti e va da sé che essa superi più questo è bello
+lo studio è perché fra le altre cose a parte della sessione le card multi sessione permette di avere un server locale che con cui puoi interagire via appia usando i sessi bianchi e gli stessi librerie che si usano easycoop ne hai quindi
+il codice uno può scrivere per interfacciarsi con apnea e gpt li può lo può usare il locale con
+con lilly server che uno può far partire il locale quindi tutto molto semplice plug and play clic fai cose però severi locali può fare inferenze locale e e far cose ascolta ci ho visto che ho visto maurizio tu hai chiesto in giro la link per la chat e sms
+sempre per rientrare e pubblico per tutti ed è quello che vedi beetle big tales from all quindi è liam studio molto bello fantastico fa un sacco di cose poi però ho scoperto quest'altro che si fanno ancora più bello di misti
+misti cos'ha di bello rispettarle studio a parte che è
+ti puoi collegare sia a
+modelli locali che a quelli remoti con le hai di quelli remoti ma con quelli locali qui puoi scegliere se dei locali il defunto usa quel suo lama però li puoi anche importare da i righi cui siamo oggi tufo e uno buono in g u
+gufo esatto ma scusate l'ignoranza estreme oppure puoi scaricare così come anche le mie studio direttamente da harding place e ti scegli i tuoi bellissimi modelli quantizzati ovviamente perché se non spesso sarà un sacco troppo grossi e questo è un
+una cosa bella che ho visto di questo
+misti che non ho visto su sull'altro è invece la posta di crearti i tuoi ambienti i tuoi workspace che come ti pare e poi dentro questi workspace tu puoi fare ryan
+ci metti dentro i documenti che ti pare e se allora vediamo un po'
+no le star si richiama in realtà tu puoi creare diversi non è stata tu qua dentro puoi metterci quello che ti pare
+ti dice anche come l' embed e usa su e poi butti dentro i tuoi file ed una fila o anche il link credo anche link al video
+youtube per le trascrizioni quindi il libro youtube trascrizione di video youtube no cartelle intere piuttosto che a vario anche volto di obsidian per la gioia di cosimo che non vedo fra di noi ma so che usa obsidian e tu li metti dentro
+lui poi su tutto questa documentazione agli usa come radio quindi come documentazione che è su cui puoi fare domande e interagire quindi molto bellino questo misti perché perché queste persone in più e poi c'è anche questa simpatica pat smear che di fatto uccide la carriera di tutti
+humpty engineer la carriera molto breve credo e perché di fatto prevede una serie di prompt predefiniti per un sacco di utilizzi comuni quindi quelli classici nota ai quali ci sono corsi manuali e auto e tu su come puoi
+identificarti e impostare sia il sistema pompe e poi obesi con tutti i tag del caso quindi niente questo herat misti poi va bè va da sé c'è il buon vecchio lama e
+che simile a questo c'è anche open web uai che ho provato e che molto bello però adesso a oggi hanno la peggio under construction open week bui puntocom
+vi raccomando anche lui ha delle funzioni rugby il problema che la valorizzazione locale chiaramente è appoggiata a un db campo tavolino
+però nelle diverse
+è quello che si può fare localmente
+in quanto strumenti per
+lavorare locale con
+e hai avete qualche altro appunto beh allora aspetta io però dovete scriverli queste cose spinge questo lo scrivo nella chat
+sono non purtroppo da youtube non si può non si possono mettere allora lo metto nella chat di whatsapp no nella chat interna privata di steam garda
+okay okay
+hanno acqua e data sette km un po' custode per tutte le mamme
+sto perdendo fra cento finestre
+credo credo ecco tra l'altro una cosa interessante che
+che si può fare con questi strumenti dove magari ti carica un bel modello sullo sviluppo e puoi integrarli con
+allora forse me aveva segnalato il buon marketing siracusa
+da fare con
+video studio code e puoi usare questo plugin che si chiama continue e questo plugin tu lo puoi usare per collegarti a modelli locali oltre che modelli pubblici e questo poeta file
+il copilot del caso però la simpatica appunto che scegli tu su animo e liu jo harlow lui o lei layer free di prova per quelli pubblici poi ovviamente si paga per usarli oppure fosse ovvio fornisci il tuo dell'attentato a chiave magari non paga e poi puoi anche usare i modelli locali
+e quindi tu puoi fai una cena a pagamento questo punto perché lavoro missionario aveva provato un avuto abbandonare per
+c'è un inizio ne so da quello che ho visto tu tiri allora quando lo usano o pubblicamente fosse anche non pubblicamente ti chiede di registrarti di fauna login nel tempo quella c'è un'inizio di crediti a consumo di
+l'avevo visto poi mi ero fermato per ragioni di portafoglio
+sinodo della fioritura fare quello che vuoi esatto la cosa interessante qui secondo me inizia a poter diventare adesso poi se ci pensate per adesso è ancora magari hai bisogno una macchina un pochino carrozzerie tutto quanto però quando veramente l'influenza locali sarà all'ordine del giorno e vi si potrà fare
+facilmente sembri più facilmente e diventato interessante si sposi perché a quel punto abate che ebbe anche copilot ogm free e per tutti no e accoppare o tessuti tab e
+è disponibile per te will sarà appunto se uno ha dei concerne su il mio codice buttato su cloud codice riservato e così via e fare tutto questo il locale diventa interessante no
+allora intanto ne approfitto per probabilmente usa il protocollo l'sdp che è un protocollo di microsoft con cui visual studio code e anche altri editor interagiscono con un servizio tramite un codice in java script node
+che fa l autocomplete sion e fa la forecast di quello che stai per scrivere tramite funzioni di the proprio sé se come penso questo d'opera le seppie molto interessante perché un protocollo standard che assistant trasversali stando su tantissimi editor ah bello com'è che si chiama
+il protocollo smtp language serve program quindi un protocollo specifico per la gestione della the forecast della sintassi e della semantica di tantissimi linguaggi di programmazione questo protocollo che è stato inventato da microsoft credo proprio assieme a via
+second è stato poi adottato anche da altri editor in particolare la famiglia degli editor basati su wiki che non lo utilizzano
+io ciò integrato con questo e le seppie le funzioni di su neowin neo vim è un editor derivato da voi e che ha dei plugin che possono che possono utilizzarlo e che ti consente di sapere dove va quando fa
+forecast di che cosa ti deve suggerire non necessariamente deve andare in internet ecc
+io sono molto consenta sulle parti di privacy quando scrivi codice capisco bene molto bene interessante me lo segno anche questo
+glenwood serve program
+se vorrò townsend
+allora misti holy name già che ci siamo fatti mettere nel mio studio
+che bella intelligenza artificiale quantita tutto da solo
+poi una volta non sai più neanche chi ti sta scrivendo se e quale okay modello si sta facendo e lemmy studio punto de martino risponde ma ha sparato male
+antoine
+ah
+quando
+sperano grave allora è bene allora
+sto ponendo appunto non vedete su ivy league così intimo tutti sul sito
+altri interessanti strumenti e modelli aspetta né token io non riesco a seguire tutto quanto è né tu né hastings e non so neanche cosa sia vediamo un po'
+neon tekken
+sicura e certificata cos'è e zayn collega che spiega ci dai devono dimostrarci qualcosa se no qua parliamo senza cognizione di causa ripeto tutti possono collegarsi e il link per collegarsi e
+quello che ho messo in chat
+intanto se vi interessa vi posso far vedere il software è certo faccio vedere tutto quello che vuoi e inaspettate mi tolgo
+aiuto sto troppi computer doppie finestre aperte
+e condividi allora
+viviamo un pò condividi schermo diviso
+non ho ancora esattamente capito questo kernel otto enna e cosa fare workflow automation platfond po' technical team sky it offset cops e booth a tante cose allora vai livio allora
+il tool molto semplice tra l'altro io ho anche una combinazione di tasti e che col gol contro l'altro e lo apro e non so se sapete in windows c'è la possibilità di assegnare dei
+le risorse chat ed è piuttosto semplice lo faccio vedere magari alcuni lo conoscono altri no
+e in pratica con questo
+con questo link
+basta andare nelle proprietà e qua nel tasti di scelta rapida è possibile selezionare la propria combinazione che vi interessa io lavoro abbastanza con gli shortcut perché vi trovo bene
+i velocisti abbastanza e questo è molto semplice non so se avete mai provato a lavorare con il cerca
+in risorse del computer che è piuttosto lento invece questo qui è molto veloce
+addirittura in tempo reale se io cerco qualsiasi cosa prova per dire
+mi trova subito i file e
+e in pratica allora premetto che sto
+sto improvvisando e quindi
+faccio una cosa molto isi diciamo così è
+dicevo che praticamente lui e memorizza tutti i suoi percorsi dei file all'interno di un database che indicizza all'inizio dopodiché
+quando si fa la ricerca si ricerca direttamente in questo file di questo nuovo database e può cercare oltre che stringe normali anche attraverso una sua sintassi se per esempio cerco the modi
+posso cercare i file dll del primo di gennaio so che scrivo meglio
+a mò di fiera
+re
+comunque la sintassi è qua in pratica attraverso
+qui si possono addirittura utilizzare le espressioni regolari si possono utilizzare sempre per ricercare
+l'espresso e sintassi di ricerca chi c'era detmold modificare che adesso me lo ricopio così dovrebbe funzionare
+uno uno duemilaventi cinque perché non mi trova niente
+esempio qui
+ti fa vedere tutti i file del due di gennaio duemilaventi cinque infine è possibile anche vedere
+i file attraverso
+gruppi di file quindi posso vedere gli audio fosse vedere i
+gli eseguibili posso vedere i video somma possono vedere tutto una serie di gruppi di file prima infatti non li trovavo perché quando stavo facendo delle prove è effettivamente non era selezionato tutto
+è il sito e questo è un programma freeware non open source purtroppo gli manca quella chicca libro sarebbe stato bello se fosse stato di turno open source ma purtroppo non è open source però è gratuito è possibile donare io per esempio ho ritenuto fare quadrato
+qualcosa perché secondo me è un tool che merita
+ma c'è qualcosa di simile open che si chiama effetto età aeffe se lo conoscete ed è da riga di comando ed è spettacolare velocissimo
+e senza tasche
+tmnews tra l'altro mi trovo molto bene
+è anche possibile sono dimenticato di far vedere che è anche possibile farlo diventare un server fatti qui è possibile collegarsi a un server e edp e poi è possibile creare un server ftp e ed è possibile collegarsi
+mettendo l'indirizzo ip anche sul server remoto
+ok interessante
+scrittore è giusto che l'indirizzo commesso sulla chat e marco
+aspetta scusa non segue una chat comunque accusato giorni con te questo è un prodotto lo potete installare in tre secondi e si paga dopo i primi tre minuti di utilizzo è gratis emeryville
+integrato a e esiste per windows per linux per mac os x
+ed è è alto in altri strumenti di ricerca o affini che così ha un grip grip e wind sicuramente è bravo e alla fine
+great firewall sempre bene ritz storie famose di power towers di windows che fanno altre cose e sono gratuiti ma rip rip rip grappa anche quello è utile
+come segnalato la lega e fdi a e poi questa
+fed wind surf school
+se aeffe questi sono il povero tulsa anche se i mitici power power house robert wise ti amo nuoto si chiamano power tools però vengano rinominati a belfast
+va tutti li conoscono e vi interna di justin john rich sense
+hanno fatto la gioia di tantissime persone io rari esempi di software miss minimali essenziali piccolissimi efficientissimi uso per esempio molti tipi più perché effettivamente quando tipo di utilizzo dei bonus e ogni tanto non pago
+arte perché a prendere una porta che gli e che già occupate e l'utilizzo per cercare qual è il programma che sta occupando per buttarlo giù ovviamente se non è un software importante
+vi suggerisco una cosa sul process explorer die di rossino watch
+quando lo avete un menu di opzioni potete configurare una cosa che si chiama difference air flight duration che è estremamente utile e puoi portarla fino a nove secondi di default mi sembra che sia un secondo e questa ti dice per nove secondi dopo
+chiuso rimane evidenziato il processo che ha subito la variazione di stato o dalla inesistenza l'esistenza o dalla esistenza alla non esistenza estremamente una funzione estremamente utile difference light duration all'interno di process explorer
+bello allora questo abbiamo aperto il capitolo power tools oh yes we interna altre di questi switch to buy cammini che fanno quelle piccole cose che ti controllano di aver hanno un po di tutto noi vi interna permettono di andare ad indagare in autobus auto rance di si sente
+ad una sensazionale
+anas e poi io tempo fa ho scoperto anche un insieme di tools fatto da un certo nick sofer il sito nirsoft
+se vuoi provare a nirsoft
+c'è un sacco di tool io per esempio utilizzo
+per vedere le attività che fai il computer ti dice anche minuti secondi oppure anche
+i link che hai visitato tra l'altro puoi anche esportare il database in esse fu per esempio sai
+me lo ricordo questo sito ma era quello che aveva anche la track famosa da windows xp ai tempi una roba che riusciva a trovarne patrono era quello di chimica che riesce anche a trovare trovarle passo si sedeva sopra dei vecchi answers
+script e will scosso recovery tour sarà lui sta male vero
+e ancora aggiornato e sembra vecchissimo come estetica amata ancora l'impostazione atmel
+era probabilmente sarà un vecchio come noi era come me che mantiene
+bello bello anche questo sera e mi piace doccia
+c'è stato in
+su youtube
+sim su youtube a novi fanno vedere il nome non permettono link aspetta il metoo e c'è soltanto l'amministratore può non li ha sbagliato produce e fa vedere il prodotto a vedere city dice hoffman e microsoft su windows exchange
+quanti ricordi esatto
+altri strumenti o c-suite di questo genere molto interessanti
+dunque per chi si ricorda chi sono i vecchi che chi si ricorda come carlo che ricordi i vecchi tempi ricordate il becco rifai il culto of the dead cow parliamo dei primi anni duemila con flashback e quel gruppo di personaggi leader nativi sulle
+mohsin eccetera hanno lanciato da poco un progetto per un
+un tour di comunicazione protetto e cifrato che è una sorta di whatsapp per per esperti e si chiama the lead lead
+ehm come ci ho dato un'occhiata molto di corsa ma è un prodotto che potenzialmente interessante veil cola e
+and we liked cos'è è un prodotto che secondo me dovremmo controllare no a led con la vekic led veil e id stop cutter se sei di puntocom jason toccarlo quello questo è interessante e promettente
+secondo me anche se ancora immaturo è una una chat fatta da esperti di sicurezza
+orientata alla ram
+all'assoluta sicurezza quindi una specie di pcp se vogliamo però più più social
+big player il prete good privacy di
+philip zimmermann e company
+quindi questa è una cosa interessante su cui si svilupperà
+sulla stessa falsariga quindi prodotti di sicurezza per archiviare informazioni cifrate locale beh sicuramente vale la pena citare tre cripte truecrypt
+è il suo eponimo vera cripta
+tre cripte non credo si trovi più ma è un software che
+diciamo è stato tolto dalla circolazione non perché non fosse buono ma perché era troppo buono
+truecrypt è è stato sostituito da un prodotto un po' più moderno e un po' meno buono che si chiama veer cripta
+carlos hudson reed lo scopo esatto lo scopo di questi è di consentirti di fare un repository ad alta sicurezza alta sul serio nel tuo nel topici o in un dispositivo
+in cui diciamo puoi stare sicuro della sua della sua qualità vera e tu cripta è il più vecchio è probabilmente il più sicuro
+della cripta il suo il suo successore e truecrypt è dichiarato insicuro ma è stato dichiarato insicuro da coloro che lo volevano eliminare o comunque togliere dai piedi ma in realtà è un ho sentito dire che si tratta di una una falsa affermazione
+in realtà dovevano sostituirlo con qualcosa che fosse meno sicuro e per come dire togliere reputazione al prodotto precedente hanno dichiarato che non era sicuro ma soprattutto molto network stars forge di progetto sarà quello ufficiale di dietro cripta c'era il comp
+fletto codice sorgente e ha subito anche un auditing forense
+di estrema accuratezza che lo aveva dichiarato molto valida quando diciamo la community
+di coloro insomma
+hanno deciso di far uscire un prodotto che lo sostituisse e che fosse più moderno
+ma chi avesse una sicurezza diciamo
+un pochino meno solida se uno doveva davvero a decifrarlo e quindi è stato sostituito il prodotto però la versione vecchia a quanto ne dicono alcuni esperti che conosco è molto più sicura della versione nuova
+every cripta
+ci trovi il codice sorgente anche del vecchio lavori ma io utilizzavo box cripto cresciuti da anche sul
+su cellulare però da quel che ho capito è stato venduto e quindi adesso che il dossier sono a pagamento
+per le password c'è il prodotto di
+di bruce sneaker che non mi ricordo come si chiama sneaker è un famoso esperto di crittografia che ha sviluppato un suo prodotto è che è open source bruce sneaker
+si chiama password safe
+adesso
+nello scivolo e una ciotola
+su weston
+esatto questo è un prodotto probabilmente ancora trentadue bit
+però è scritto da uno dei degli esperti uno dei più grandi e rinomati e rispettati esperti di crittografia
+va bè
+oh earl fatima insegnare tutto quanto con
+i poi nel sito vero alessandro se
+è ingiusto neanche segnarli
+allora beh puoi avere tutto il mondo delle idee password manager poi più o meno bucati educabile box cripto aspetta un attimo che mi son perso un po' ricette conferma la serie tv clip che è ganesh maurizio entra maurizio ci aspettiamo adesso che si mettono presto di chiudere
+fosse stato comprato da dropbox per l'onerosità box cripto è stata comprata da box che maurizio tu che sei anche esperto al riguardo quale password manager suggerisci
+che non si fa ancora bucato fatecelo sapere anche voi anche tu magari marcos
+allora io utilizzo un prodotto che però non è un prodotto da installare un prodotto online scritto da un programmatore e crittografo che conosco personalmente e questo prodotto si chiama
+clippers
+clippers è un prodotto online ed è un'applicazione java script che ha un motore di encryption interno vedo scrivo
+leonard ma tu non ti fidi a mettere il tuo codice su e poi ci mettere password online no no non è un non lo metto in download non è un lager tu scaringi da
+dal server il codice il codice a un repository tu lo puoi salvare all'interno di un file locale anche a catinelle e e contiene le tue password lo stesso sviluppatore e il codice è aperto quindi lo puoi osservare non ha accesso ai contenuti cifrati del tuo
+del tuo del tuo volta diciamo
+anche il password manager con l'emoticon spesso una cosa nuova addirittura
+quale
+peppers c'è password manager e ci mette pure le emoticon
+puoi scegliere
+a come password clicca sulla sinistra un'opera che sei adesso hamas su un altro sito parte strada il passo step mi sento di caldeggiare perché ho descritto dalla persona di altissima reputazione clippers lo uso da tanti anni come me lo usano altre persone e questo
+tengo sia un prodotto valido anche questo
+peggy decidono di non fidarsi di loro comunque
+robecchi dei nuovi dati e t di sottoporre il codice al tuo auditing però biochimico con gioia do not trust asino no non fidarti di noi
+o sbaglio
+la notte tra stage e dice noi non devi leggere tutta la storia la proprietà a ocean si è spiegata molto bene ma comunque la persona che lo ha scritto che è una persona che conosco si chiama giulio cesare solaroli è una è una persona esperta di crittografia e che ha messo
+oh dieci anni di lavoro in questo prodotto e per il bene dell'open source che non non non lo fa a scopo di lucro
+a spiegare a un gioco u s e senso united states o forse ho visto anche una lettura simile
+di quella frase
+no no no no non credo lui lavorano camera non dice no non fidarti di quello che ti dico fidati del mio codice che puoi osservare perché è liberamente disponibile quindi lo puoi osservare e poi questo codice che ragionevolmente stabile nel senso che modificano pochissimo
+è considerato sicuro e da molti e da molti che si occupa di sicurezza ecco quello prima ho visto passare un commento rapidissimo ma purtroppo è passato in fretta di qualcuno degli dei partecipanti che
+diceva qualcosa su tre cripte vera cripta e io non vedo le conferma maurizio è una storia a maurizio ha confermato la perfetto
+da una carina pagina
+scusami se c'è tu
+dice online volte passo manager fino a broadway è nata ma perche tu se ti registri in
+outlet tutto l'algoritmo che fa la cifratura è scritto in java script e gira dentro al tuo browser sostanzialmente quello che viene
+passato al server non me ne intendo non ho studiato il codice ma credo che sia una specie di
+cookie che contiene tutto quanto e tu hai alcuni megabyte di spazio e il server non ha le chiavi per decifrare il tuo il tuo volto
+le chiavi sono scritte da te nel browser quando apri la finestra e quando il browser scarica dopo che ha inserito al passo scarica questo tuo volta e la decifrazione avviene localmente lo puoi anche salvare il il volta nel tuo disco facendo file salva e
+e in questo caso puoi aprirlo fuorilinea senza interagire con il server
+è molto interessante e si basa su principi di zero trust criptografia molto bene
+questo gesù si erano fatti in italia e i due autori sono giulio cesare solaroli e
+marco barozzi e sono qui vicini di casa a bagnacavallo
+molto bene bene bene interessa era carina vostro generoso che trovi sulla destra puoi mettere anche le emoticon non sempre elemosine che le emoticons
+beh sapete che è uscito un linguaggio di programmazione che ha l'estensione che è un'emoticon so se ne avete sentito parlare si chiama mogio m o g o ed è un superset di python specifico per per l'intelligenza artificiale
+ehm ok ok
+ed è un
+ed è un nuovo linguaggio di programmazione che promette di scardinare alcune delle dei principi di impiego del kgb più
+portando moltissimi delle ottimizzazioni a livello di compilazione
+è capace di girare su
+su architetture di processore che non sono le solite note ci piogge più
+va be continued
+parentesi linguaggio di programmazione più o meno esotici e si può parlare di arbitri che è
+oddio
+quello su cloud quello che ti permette di preti sviluppi
+formazione per il cloud direttamente e z
+non lo so
+google no no no no no no no swing swing swing
+se dietro praticamente
+nel suo ciad
+facciamo così male tanto questo tipo qua è israeliano e l'ho ha nascosto con project management camp e mario se ancora in giro e va bene niente questo wing
+infrastruttura in realtà in odin langue gene blu developer su sei pazienti sweeper
+fare infrastructure as cloud cloud oriented seguiamo la metà così è ok
+ah non è un tipo poloni c'è
+primi e più più cloud phi phi linguaggio più linguaggio clown oceano no più tipo in web link volumi abe multilingue genoa è a suo modo e
+lui hai risposto attore ryan phan coding language può segue quello che vuol dire tutto e niente
+ryanair ecco tipo che stanno a cuore
+candy è proprio un tipster praticamente nel linguaggio fase delle primitive per
+tu magari programmi e applicazioni che direttamente usano risorse
+claude samuel esecutivi
+sta roba qua insomma ve la butto lì allora allora scusatemi segno un linguaggio di programmazione eh
+morrow
+booking
+avete qualche altro linguaggio interessante o qualche new kids on the blog che poi è on the block che possa essere interessante per te ho visto questo sabato redazione court
+scarpa
+linguaggio di programmazione per
+quantum computing veneto su weschool i programmi cose per simboli quantum computing o
+un cancelletto e si quello di m carlo non lo so mi coglie impreparati mai visto così eccomi club
+ankara microsoft
+quando scrivi direttamente su west gode copilot ti suggerisce le cose simboli scoop it
+loretta malissimo qualcuno qualche fisico e morte questo momento proprio da quello che ho visto era carina è morto o non è morto a seconda del stato
+è una jones
+è questo queste interessanti anche questa roba qua
+è veramente allora cosa ho fatto niente direttamente parlato spesso di saluti alessandro gassman nel porto i suoi saluti la sua sta vedendo acqua aspetta che intanto scusate io mi son perso cosa ben trovato maurizio e mi sono quello audio video si sente buona
+sea harvester se si in stasera va va al primo colpo ho imparato clippers alcol in questione e ve ne state raccontate un po' ne
+passati qua la programmazione comunque
+comunque sì marco quella di vetro cripta è stato un colpo duro anche per me io ci vivevo avevo tutto girato sul web script che tiravano su volumi
+è trascritta aveva una cosa bellissima che tu potevi avere anche la password fake si seccherà esausti uno dentro l'altro sotto tortura potevi anche far nulla potevi far aprire ai fichi
+ma poi è il prodotto è rimasto ed è ancora accessibile e i buoni lo usano ancora
+questo questo volevo dire
+insomma che l'ennesima ha fatto un po' di pressione pochino pokémon go
+ho mandato il link ed ebbe carlo del prodotto simile a quello che hai segnalato tu di dì cous scarpa di microsoft del corrispondente ambito di ibm che secondo me è uscito prima già da un paio d'anni ed è un ex di kappa dove tu puoi
+dal dal cloud di ibm accedere ai loro impianti di quantum computing e disporre anche di
+accesso al loro team building
+is it or is it se messe buco con iscritto mi sembra uguale all'altro quindi probabilmente saprà se secondo me la microsoft ha copiato da ibm chi viene ragazzi di trovare questo programma qua mi ero iscritto anch'io io ero iscritto già da due anni a questo e non ho poi avuto modo di
+rimarrà ma questo è youtube da un bel pò
+se si vuole ricordare e avevo cominciato a fare reverse engineering
+chiedi alle logiche di acat stavo cercando di capire come applicarle con l'alcol il mondo della quantistica affiliati a certi file remote bollo su esami
+outlet
+sarà il prossimo passaggio
+cracker istantaneo instagram istantanea se distante era proprio tutto quindi ciao
+e infatti discorso di passo ripe dicevo in realtà mi sono sempre trovato benissimo con chi passa per una questione che sono sempre portato ovunque comunque mai stato bucato e funziona bene
+ultimamente ho affiancato
+pass volte che la versione open source di bitwarden
+ovviamente richiede un server the lost in locale ma è totalmente open source totalmente criptato cifratura
+fatta molto bene e l'unica l'unica cosa che ti devi mettere sul server
+sennò ti danno loro la versione cloud
+e poi lo fruisce anche da telefonino
+chi c'è il client suo da cellulare che poi comunque puoi averlo a disposizione cellulare quindi tutti i browser cathleen comodissimo e
+quindi questo funziona molto bene tutto open source solito un po' di codice mi piace la sua logica
+si stanno abbastanza facilmente
+sennò la sua controparte diciamo closed source perché comunque il progetto di password ma poi
+rigirato e bitwarden
+ehi loro ti danno anche gratuito un hosting c'erano poi metterle
+siamo alle tue cose senza pagare la versione gratuita o la versione enterprise
+diciamo che vestito
+diventa comodo soprattutto se c'è da fare passo sharing
+senso se sia di kim delle persone con cui passarsi delle password o anche in famiglia ce ne sarebbe buona cosa che uno ha inizio dalla password manager
+estremismo di da rosewood password e compagnia bella
+tv
+si prega dunque tutti e due ci arrivano comunque da un progetto open source soprattutto va bene password bitwarden e una sua derivazione però comunque come livello di sicurezza e di apertura trattasi di trasparenza perché poi ci hanno tutti e due la community dietro
+sicuramente meglio ok
+anche perché hanno prodotto gratuito quindi per l'utente domestico
+pete può lavare anche riducendone per uno ospite alessandro non mi ricordo chi quando salve pawnee sicurezza ama un paio di mesetti fa un avvocato e non c'era michela e se forse west ma
+non finirà a sentire le non ce n'era uno che si salvava e o quasi ma credo che anche questo mi hanno insegnato come educato e ora vari non l'aveva aveva detto che era per capire se qualcosa era bucata non mi ricordo non peccare con la parola la new age
+blake tipo ma no quello lì era il era il passa la terra bim powered by impone jones giusto per sapere se ci sono due lati in giro e bitcoin però sì no ma quello a trovarla
+non vorrei questa cavolata ma trovava se c'era le messe c qualcosa riusciva a capire se se tramite jacques hamel file qualcosa era bucato sull'amore andare a beccare la palla live è il momento in cui lo dice
+però a un fa un lavoro su su file su su sulle firme mi ricorda succede tornare a trovare nel controllo di coerenza dei file e mi a saint john's
+un controllo di ecstasy si può fare anche su
+su
+total
+si chiama virustotal virustotal dove c'è una una banca degli asa dei dei malware ecco quindi questo si può fare però non è la stessa cosa c'entra niente
+questo è kevin paul dice solo se una certa stringa era presente all'interno di un league che c'è stato solo qualche pastebin da qualche parte nella stola
+quantomeno per sapere se la tua mail in giro se c'è la password o altri dati se la mail aumenti becchi lo spam se la passo la cambi
+io quest'anno i corsi lo faccio prevedere dall'utente l'utente l'utonto base e quasi si illuminano d'immenso e capiscono il mondo dei data breach che cosa vuol dire da vicino quando iniziano a vedere il rosso
+sai cos'è che morisse molto bello adesso non ricordo il nome del progetto ma c'è un progetto italiano
+chi c'è
+che fa vedere i bridger in sostanziale diretta ed è sviluppato da un gruppo di roma adesso se mi date qualche minuto lo trovo
+comunque ci sono i bricchi aggiornati ad adesso così come sono stati vantati dai vari gruppi nel dark web dov'è dove si possono monitorare dei loro dei loro blog page
+lo conosci maurizio
+aspetta sto pensando sorge tra poco mi viene in mente il nome che sono vecchi entrò
+adesso lo trovo nello spettatore non succede magari beh cappato era qualche bookmaker poi si perdono
+no non è qua no non lo trova salterà fuori
+francamente è collegato questo di solito l'altro consiglio e terminò hotmail punto net a quella che durante che dura dieci minuti
+che quindi consiglio e ti devi registrare usi questo servizio che ti permette dieci minuti netti dieci minuti mail punto net proprio scritto in numero
+creazione
+ebay punto net
+sul punto net per chiunque sia auto traduce e quant'altro com
+genera una mail temporanea per dieci minuti dove puoi ricevere email ovviamente tracciano però la cosa comoda è che mi devo registrare un sito non voglio lasciare il mio alla mia mail qua che arriva la mail puoi confermare che sei reale
+realtà non è che dopo dieci minuti sparisce se poi servizio ti interessa che i registi con la tua mail vero altrimento non non lascia in giro briciole o mail che poi magari bucano il sito tra due anni e ti su airbnb pound ti ricordi neanche come
+maurizio e ransom feed puntoit ah ecco jamie ci avevo in mente ransomware light ma la ratio myriad jason gideon io conosco alcuni di quelli che lolo lo portano avanti molto ben fatto ed è tutto un progetto italiano
+ransom fed punto litri e infatti credo che ci sia paolo rientrano anche claudio sono sicuramente che è uno di quelli che lo che lo portano avanti poi c'è una signora che non ricordo il nome però anche lei motown molto sulla divulgazione sylber sulle conc
+carne secca e toccare credo che questo siccome questo è un bellissimo progetto se chi di voi è interessato sebacee ed eque ed è aggiornato in real quindi puoi andare a cercare alessandro se vai qui italia e vedi
+vedi ieri che hanno bucato e e e dove ha capito e poi nel dire che aiuta a mediare nanopress
+questo volendosi ben altro discorso ma si può fare se vuoi vedere perché è dunque tracy tu e nemmeno credi aggiornata oggi quindi qui se cerchi sull'italia e ci sono anche quelli di delitti l'italia tra cui l'italia con due clienti
+uno su due sto facendo l'analisi post incidente a chi stai lavorando le proprie difficoltà vanno alla lista non ai quali
+come vedi se siamo aggiornati qui il tema da sé si si proprio molti temporale tra l'altro c'è in giro quello di carrefour ma non trovo informazioni so che
+william imbucati
+sarà un altro giro un'altra sei puntate dei geek hacker a caccia di rick
+si adattò lecce se vuoi gestire i francesi
+ocean mi sempre che era stato educato a qualche tempo fa e adesso antica fork quindi se io ancona anche
+ha fatto il giro avranno anche pagato
+abbigliamento in realtà non è con un problema al pagare
+vedremo se nel regno unito prelevare ristorante nel secondo me sta succedendo una cosa meno la mia sensazione è questa
+in passato ti bucavano e ti chiedevano il riscatto per darti la chiave per decifrare i file che ti avevano cifrato e se tu non pagavi non avevi la chiave sta lì serve fast fashion fase due t rubavano tutti ci provano i file e te li rubavano anche e quindi tu vada
+due scatti uno per redarguire chiave l'altro per ehm
+non divulgato i dati pubblicati adesso in molti casi ti rubano file e non triciclo neanche perché tanto erbe capo essi li rivendono e tu non te ne accorgi neanche e questa la fase fase attuale che si devono solo gli ultimi l'ultimo caso proprio in questo caso fleshlight il senso che io andiamo via di una ciurma spiaggia due di questi
+tu non te ne accorgi e ti truffano i dati perché tanto adesso le fibre vanno a missile e i dati si rivendono nel dark web sol su chi deve addestrare delle ai che ormai hanno addestrato tutto con quello che c'era disponibile seguono i dati cominciano a prender league esatto piace
+se questa è una tendenza estremamente interessante nel settore nostro ecco quindi
+è da tener presente
+molto bene anch'io ho notato queste due stranezze ma non sono stranezze due più due sono già quattro
+è
+ti amo
+allora no allora quindi di piace a cosa mi sa che qualche allora io direi una puntata a tema che fosse meglio non fare i temi specifici per tema sicurezza tutto il mondo dei siti e programmi java bavaria facebook spostare
+è
+poi
+sì
+anche perché può essere utile soprattutto per molte aziende anche in vista del disturbo e siccome devono avere delle fonti pubbliche dove potersi aggiornare avere dati o capire dove quel
+dove girano i tacchi perché poi alla fine sono quelle quattro cinque anche a livello mondiale è un po'come come le notizie di cyber
+tutte arrivano fanno capo a uno o due siti
+ecco possiamo segnalare il tool torre se se non l'avete già considerato questo un tool molto interessante per fare le le sigle tour
+oh che vita c'era analizzare le sig torre dei dei delle tracce dei software malevoli che possono aver girato sul vostro computer
+tora della legionella next ron howard
+torre della onion no no no no non è la vorrei usare torrent the onion router e dei software di editing navigazione sul dark web io parlo di t a c o r della
+next ron che è un software che se uno vuole lo può pagare ma esiste anche una versione free è che o software eccellente terra
+identificare sul suo computer sunset sull'impianto le eventuali tracce di
+tipi di compromissione lasciate da the compromissioni
+e questo si beve si beve le le le sid natura che sono codificate secondo
+lo standard gara che è uno standard assolutamente internazionale
+fai un tour a pagamento no questo è gratuito esiste la versione a pagamento ed esiste anche la versione gratuita che si può utilizzare
+amo senza pagare anche in ambienti industriali
+che
+diciamo quello che non paghi effettuare la scansione è un report non necessariamente richiede l'acquisto della licenza
+ecco
+bene bene bene comunque punto magari un bella puntatina dedicata ci sta dai werner liceo nel mondo allora chiudiamo invece con un tema non ne non nerd tipo software di editing video o forse avete parlato prima
+software di editing video o dai facciamo il giro perché io giusto oggi per fare video di introduzione south county
+non è esatto filmora wonder serra no
+io ho dovuto pagarlo perché ho perso un po' di tempo a farlo sto cacchio di virus
+linee e poi ho scoperto che quando puoi fare l'export e ti lascia mai la welter del water marrakech
+parcheggio a nuova vita ma poi hai glielo fai togliere vai su lee e gli fai togliere edwards
+no perché in realtà io ho provato anche
+da vinci però non mi trovo io ne voglio uno screening poi una stupida è il
+usavo quando ero tanti tanti danni tiene fa su windows pinna col una versione dodici studiano lo bacerà gratuita andava benissimo poi negli anni di me che con conai muri andava benissimo perché per far le robe proprie cotte mangiate era super comodo
+è tuttora producono anche un mac quindi la tengo anche per quello e alcuni tool che non riesco a staccarmi tipo di calendario e quant'altro economia proprio i calendari
+mi sto avvicinando da vinci però da vinci è molto più professionale quant'altro io in passato ho lavorato con fca anche con haftar ente afferente
+è super complesso mi ci trovo bene diciamo che prepara le cose veloci diffusi forse fin troppo e fin troppo
+però è anche bello che c'è questo prodotto che comunque non è open source ma c'è la versione gratuita perché comunque è bello e beh allora mettiamo anche se non è propriamente soltanto tre di video editing più alto tre blend blender the blind è imprescindibile
+anche questo però un pochino troppo complicato per i miei gusti da niubbo e cazz avendo utilizzato molto e sia windows che mac leicester scusa sala al club chat chat chat chat chat
+sì
+quello che ti ha preso anche da cellulare
+white dance e se
+fan kirill
+ed è gratuito è quello di quello di tic toc proprio se serve
+caracas è lo stesso suolo mobile anche penny
+basata così esatto che è gratuito e anche cose che fa adesso anche la parte di video che fa la molta grafica gamba a becky cooper
+vogliamo la parte video
+e allora io pedro e due
+un ritaglio che più attuali nel club e screen
+stavo dicendo va però richiede che tu salvi dividi tutto nel cloud questa rottura
+però fatto notare
+c'è anche un trick per riuscire a usare gamba gratuito per la prova
+scusate ma c'è anche il software in locale tipo installare
+prima carica come salva tutto nel cloud ha detto su io per eliminarle editing vettoriale localmente uso inkscape che è molto valido anche se non semplicissimo e salva in un purissimo e sfuggì
+quindi è eccellente da questo no inc scarpe i jeans amico che però non è un editor video non è un editor vettoriale vettoriali a che non non ci ci andiamo sono qua già mi ci perdo
+ehi io con il ha programmato una macchina da cucire
+ed è ed è uno spettacolo tetti di puoi disegnare i punti di una ricamatrice è una meraviglia
+il video non era male anche se è
+microsoft
+quello era murri quella che c'era su windows phone hanno rifatto anche con il cspi movie maker stava la quale
+e anche questa cosa qui e mezza free mezzana molto semplice e proprio roba da te
+punto anche movie maker dovrebbe essere rimasto di microsoft credo non so perché ormai abbandonato la finestra era un po
+ma puoi metter c'era c'era venti anni fa si dichiarava il tipo venti anni fa poi era sparito ma mi è sembrato che dal windows dieci in poi l'hanno ritirato fuori boliviano rifatto paint
+possiamo permettere
+che ormai file vettoriale quindi
+movimenti maker
+se questo però un pochino troppo essenziale no
+beh se devi fare sistemare due robe fare due titoli o aggiungere farina due pezzi metterli assieme
+se io suggerisco shotcut molto semplice open e
+che lavora localmente shotcut
+ama e di filmare questo ha è diventato firmare questo
+e li ha in aula la longa sei questo questo qui
+ahimè
+a memoria ma che cazzo ho comprato dei software appare
+non volevo questo in questo mi sono trovato molto bene ed è facile da usare e alessandro
+si muove
+sicché tra l'altro anche lì ho scoperto una serie di asset che puoi pagare in più oltre a comparti l'attuale ma questo ti garantisco non si paga niente ed è completamente open deputati non hanno mai preso umane comprato ambrato rave e
+tra l'altro tutti questi appartamenti tutti stanno su queste script sono ormai quasi tutti i software
+ormai certo che se sai vendere la cosa una volta e peloso che venirci una volta all'anno e le due più due ma per esempio questo film ora che è bellino e francamente molto semplice molto e due c'è si era poi ricompare lab quell'oro perpetual però solo con
+la versione lee duemilaquattordici qualsiasi sia oppure ti compri tifo tifare abbonamento e ai ragionamenti fino a quando l'abbonamento
+la società
+shotcut hacker va bè amen poi va bè ovviamente i vari premier fa nakata e compagnia bella in tutto il mondo ad oggi conta una mano piattaforma non ci piacciono i topi
+allora è qua vedo un po' mi son perso un po di messaggi o mail
+sì
+quest'opera servizio fax e-mail tipo protonmail questo è riferito al discorso della mellin clima vabbè dai
+apple ti fornisce anche nel caso non fa la registrazione tramite folk
+una fake mail così verranno tua leggo direttamente solo che nessuno vuole usare anche una cosa già direttamente le sto chiedendo per tornare un attimo beijing times esistono ancora malware bytes pc cleaner qualcuno lo usa ancora le cose là
+e bloccavano qualsiasi cosa non lo so avevano uno scopo avevano so perché tempo fa poi bam bam bam è tanta roba ai tempi di adesso non sono più alti ma antimalware bytes sto parlando no
+oroscopo e ripeti ma ehm bam o anche malware bytes come si chiamava ma lo fanno tuttora di eccellenza
+no no non ho mai chiamato mibact
+sì lui ma anche ciclina all'inizio faceva il suo lavoro e prima che gli buttassero dentro tutta una serie di edifici hours tour ma inutile ma purtroppo è successo al sisi clinker che è diventato la cosa più sconsigliata al mondo è più
+perché
+tutto era ormai sono kernel
+ormai qualsiasi cosa vuoi fare delle cose che erano utili devi pagare
+è quindi giusto adesso pulire credo la history della cronologia e il cestino ti fa fare
+bene dai io direi mi sono sognato tutto o quasi e vediamo che cos'hai lì fuori da questo elenco gigantesco e
+verrà preparata prima domanda faccio una domanda provocatoria ah scusa carl la navata caitlin
+faccio una domanda provocatoria finale ai devops avete mai montato un kubernetes dentro la wurstel
+ecco questa aeffe
+no
+cerco perché nell'ultima è l'ultima
+nel tool di di di di jensen wang al
+al sesso sia essa ha sostanzialmente ha lucidato un po' il wesley come ambiente di legambiente d'integrazione ios alcune installazioni di produzione dove sto usandolo due shelley di cui sono molto soddisfatto e però c'è un meccanismo di network che è un po' complicato e mi chiedevo se qualcuno di voi aveva mai
+ha giocato ho integrato kubernetes cappotto dentro wesel
+mi sono fermato alla parentesi non si apre il mondo virtualizzazione
+non siamo partiti con quello perché alessandro è partito case della carità se se andate alla nostra arrivato tardi
+la gola si è ripresa con me questo appuntamento dei link che oltre quello che sa scritti di lainate potrebbe diventare quasi non uno fisso ogni due mesi
+perché ce n'è talmente tante e talmente che poi te ne vengono in mente anche stasera niente spolverato
+portata l'animale alcuni passaggi
+tipo beh qualifiche ed eccoli falso rivisto la mia infanzia
+lo usiamo come riempitivo quando non si trova un argomento buttiamo at houston volo e ci si mette di tutto
+bene dai ragazzi io staccherei qua e
+anche perche domani anch'io mi devo svegliare presto per una volta e grazie per la partecipazione per l' elenco gigantesco di d-link
+e niente alla prossima
+ciao a tutti
+ciao nat
+ma
+mattino
+ma
+ma

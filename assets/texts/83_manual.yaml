@@ -1,0 +1,67 @@
+---
+guests:
+  - Marco Guardigli
+  - Livio Francisconi
+  - Carlo Sacchi
+  - Maurizio Siracusa
+
+links:
+  Hashiqube: https://hashiqube.com/
+  Windows Terminal: https://github.com/microsoft/terminal
+  OhMyPosh: https://ohmyposh.dev/
+  MobaXterm: https://mobaxterm.mobatek.net/
+  RoyalTS: https://www.royalapps.com/
+  MRemoteNG: https://mremoteng.org/
+  NCCM: https://github.com/flyingrhinonz/nccm
+  Greenshot: https://getgreenshot.org/
+  ShareX: https://getsharex.com/
+  Snagit: https://www.techsmith.com/screen-capture.html
+  Snipping Tool: https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b
+  Snipaste: https://www.snipaste.com/
+  Duet Display: https://www.duetdisplay.com/
+  Msty: https://msty.com/
+  Ollama: https://ollama.com/
+  LMStudio: https://lmstudio.ai/
+  LLM Datasette: https://llm.datasette.io/
+  LSP Language Server Protocol: https://microsoft.github.io/language-server-protocol/
+  N8N: https://n8n.io/
+  Everything: https://www.voidtools.com/
+  FZF: https://github.com/junegunn/fzf
+  Ripgrep: https://github.com/BurntSushi/ripgrep
+  Winternals: https://learn.microsoft.com/en-us/sysinternals/
+  PowerToys:  https://github.com/microsoft/PowerToys
+  Nirsoft: https://www.nirsoft.net/
+  Veilid: https://veilid.com/
+  VeraCrypt: https://www.veracrypt.fr/
+  TrueCrypt: https://www.truecrypt71a.com/
+  PasswordSafe: https://pwsafe.org/
+  Clipperz: https://clipperz.is/
+  Passbolt: https://www.passbolt.com/
+  Bitwarden: https://bitwarden.com/
+  Have I been pwned?: https://haveibeenpwned.com/
+  10 Minute Mail: https://10minutemail.net/
+  RansonFeed: https://ransomfeed.it/
+  Thor: https://www.nextron-systems.com/thor/
+  Mojo: https://www.modular.com/mojo
+  Wing: https://www.winglang.io/
+  QSharp: https://docs.microsoft.com/en-us/quantum/language/
+  Qiskit: https://www.ibm.com/quantum/qiskit/
+  Cirq: https://quantumai.google/cirq
+  DaVinci Resolve: https://www.blackmagicdesign.com/products/davinciresolve/
+  Blender: https://www.blender.org/
+  WonderShare Filmora: https://filmora.wondershare.com/
+  CapCut: https://www.capcut.com/
+  ClipChamp: https://www.clipchamp.com/
+  ShotCut: https://www.shotcut.org/
+  
+timeline:
+  - 0:03:00: Hashiqube
+  - 0:30:00: Terminal e remote connection tools
+  - 0:49:23: Screenshot tools
+  - 0:55:25: Local LLM tools
+  - 1:12:00: Ricerca su file
+  - 1:18:00: Winternals e powertools
+  - 1:25:00: Strumenti di criptazione
+  - 1:35:00: Linguaggi di programmazione
+  - 1:55:00: Video Editing
+

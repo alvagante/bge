@@ -3,11 +3,11 @@ episodi:
 - 32
 - 37
 layout: geek
-nome: Matteo Baccan
 links:
   GitHub: https://github.com/matteobaccan
   LinkedIn: https://www.linkedin.com/in/matteobaccan/
   Twitter: https://twitter.com/matteobaccan
+nome: Matteo Baccan
 ---
 ## Biografia
 
