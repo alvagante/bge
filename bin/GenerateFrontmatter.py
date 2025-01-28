@@ -77,7 +77,8 @@ keys_list = {
     'guests': manual_data.get('guests', 'NA'),
     'host': manual_data.get('host', 'Alessandro Franceschi'),
     'links': manual_data.get('links', 'NA'),
-    'quote': read_file(file_number + "_quote.txt"),
+    'quote_claude': read_file(file_number + "_quote_claude.txt"),
+    'quote_openai': read_file(file_number + "_quote_openai.txt"),
     'claude_article': read_file(file_number + "_claude.txt"),
 }
 

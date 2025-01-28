@@ -22,7 +22,7 @@ for FILE in "$DIR"/*_points.txt; do
         if [ ! -e "$TXT_FILE" ]; then
             # Run the summarise script
             echo "Writing article for episode $EPISODE to $TXT_FILE"
-            $SCRIPT_DIR/GenerateArticle.py "$DIR" "$EPISODE" > "$TXT_FILE"
+            $SCRIPT_DIR/GenerateArticleOpenAI.py "$DIR" "$EPISODE" > "$TXT_FILE"
 #        else
 #            echo "Skipping, $TXT_FILE already exists."
         fi
