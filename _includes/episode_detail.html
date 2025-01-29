@@ -33,7 +33,7 @@
           </div>
         </div>
       </div>
-      
+
       <div class="row">
         <div class="col-lg-8">
           <h3>Argomenti trattati</h3>
@@ -68,31 +68,49 @@
 
       <div class="container p-5 border border-dark bg-light">
         <div class="row">
+          <div class="col-lg-12">
+            <h2 class="pb-3">I commenti delle IA</h2>
+          </div>
+        </div>
+        <div class="row">
           <div class="col-lg-3">
             <img class="img-fluid" src="{{ site.url }}/assets/covers/BGE {{ page.number }}.png" alt="BGE {{ page.number }} - {{ page.guest }}: {{ page.titolo }}">
           </div>
           <div class="col-lg-9">
-            <h3 class="pb-3">I commenti delle IA</h3>
-            <a href="#geekestinto"><h4>Geek Estinto (OpenAI)</h4></a>
-            <a href="#briganteclaudio"><h4>Brigante Claudio (Claude)</h4></a>
+            <a href="#geekestinto"><h4>L'editoriale di Geek Estinto</h4></a>
+            <a href="#briganteclaudio"><h4>L'editoriale di Brigante Claudio</h4></a>
+            <a href="#deepgeek"><h4>La citazione, con ragionamento, di Deep Geek</h4></a>
           </div>
         </div>
         <div class="row py-5" id="geekestinto">
           <div class="col-lg-3">
             <h3 class="pb-3">Geek Estinto</h3>
+            <h5>Modello gpt-4o-mini di OpenAI</h5>
           </div>
           <div class="col-lg-9">
             {{ content  }}
           </div>
         </div> 
-        <div class="row" id="briganteclaudio">
+        <div class="row py-5" id="briganteclaudio">
           <div class="col-lg-3">
             <h3 class="pb-3">Brigante Claudio</h3>
+            <h5>Modello claude-3-5-sonnet di Anthropic</h5>
           </div>
           <div class="col-lg-9">
             {{ page.claude_article | newline_to_br }}
           </div>
-        </div> 
+        </div>
+        <div class="row py-5" id="deepgeek">
+          <div class="col-lg-3">
+            <h3 class="pb-3">Deep Geek</h3>
+            <h5>Modello DeepSeek-R1-Distill-Llama-8B di DeepSeek<br>Inferenziato localmente.</h5>
+          </div>
+          <div class="col-lg-9">
+            <h4 py-3>{{ page.quote_deepseek }}</h4>
+            <h5>Ragionamento</h5>
+            {{ page.quote_deepseek_reasoning | newline_to_br }}
+          </div>
+        </div>  
       </div>
     </div>
   </div>  

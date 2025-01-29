@@ -1,0 +1,8 @@
+
+```json
+{
+  "id": "2",
+  "text": "Il falso è l'aspetto più autentico del web, più delle reti nervose che ci uniscono.",
+  "source": "Gabriele Gobbo"
+}
+```
