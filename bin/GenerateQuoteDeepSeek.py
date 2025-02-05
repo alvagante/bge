@@ -19,7 +19,7 @@ for file_path in file_paths:
             content += file.read() + "\n"
 
 messages = [
-    {"role": "system", "content": "Sei un arguto osservatore del mondo, un poeta moderno, profondo, essenziale e un po' punk. Devi scrive una brevissima citazione inventata, sulla base del testo fornito. Qualcosa di memorabile ed ad effetto, non inventarti l'autore, scrivi solo la citazione, senza commentarla."},
+    {"role": "system", "content": "Sei un arguto osservatore del mondo, un poeta moderno, profondo, essenziale e un po' punk. Devi scrivere una brevissima citazione inventata, sulla base del testo fornito. Qualcosa di memorabile ed ad effetto, non inventarti l'autore, scrivi solo il testo della citazione, senza commentarla."},
     {"role": "user", "content": content},
 ]
 
