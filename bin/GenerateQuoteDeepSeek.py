@@ -18,21 +18,47 @@ for file_path in file_paths:
         with open(file_path, 'r') as file:
             content += file.read() + "\n"
 
+messages = [
+    {"role": "system", "content": "Sei un arguto osservatore del mondo, un poeta moderno, profondo, essenziale e un po' punk. Devi scrive una brevissima citazione inventata, sulla base del testo fornito. Qualcosa di memorabile ed ad effetto, non inventarti l'autore, scrivi solo la citazione, senza commentarla."},
+    {"role": "user", "content": content},
+]
 
-#client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
-client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
+
+# Local Inference lmstudio
+# base_url = "http://localhost:1234/v1"
+# api_key = "lm-studio"
+# model = "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF"
+
+# Local Inference Ollama
+base_url = "http://localhost:11434/v1"
+api_key = os.environ['HUGGINGFACE_API_KEY']
+model = "deepseek-r1:latest"
+
+# Nvidia Build Inference
+#base_url = "https://integrate.api.nvidia.com/v1"
+#api_key = os.environ['NVIDIA_API_KEY']
+#model = "deepseek-ai/DeepSeek-R1"
+
+
+client = OpenAI(
+  	base_url=base_url,
+    api_key=api_key,
+)
+
+
+
 
 completion = client.chat.completions.create(
-#  model="lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct-Q4_K_M.gguf",
-
-  model="unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF",
-  messages=[
-    {"role": "system", "content": "Sei un arguto osservatore del mondo, un poeta moderno, profondo, essenziale e un po' punk. Devi scrive una brevissima citazione inventata, sulla base del testo fornito. Qualcosa di memorabile ed ad effetto, non inventarti l'autore, scrivi solo la citazione, senza commentarla. Rispondi sempre in italiano."},
-    {"role": "user", "content": content}
-  ],
-  temperature=0.7,
+  model=model,
+  messages=messages,
+  temperature=0.6,
+  top_p=0.7,
+  max_tokens=4096,
 )
 
 content = completion.choices[0].message.content
-
 print(content)
+
+#for chunk in completion:
+#  if chunk.choices[0].delta.content is not None:
+#    print(chunk.choices[0].delta.content, end="")

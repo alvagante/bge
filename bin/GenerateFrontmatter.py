@@ -80,6 +80,7 @@ keys_list = {
     'quote_claude': read_file(file_number + "_quote_claude.txt"),
     'quote_openai': read_file(file_number + "_quote_openai.txt"),
     'quote_deepseek': read_file(file_number + "_quote_deepseek.txt"),
+    'quote_llama': read_file(file_number + "_quote_llama.txt"),
     'quote_deepseek_reasoning': read_file(file_number + "_quote_deepseek_reasoning.txt"),
     'claude_article': read_file(file_number + "_claude.txt"),
 }

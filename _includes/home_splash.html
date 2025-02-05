@@ -28,6 +28,31 @@
       <div class="video-container">
         <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="quote">
+            {{ episode.quote_openai }} (Geek Estinto)
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="quote">
+            {{ episode.quote_claude }} (Brigante Claudio)
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="quote">
+            {{ episode.quote_deepseek }} (Deep Geek)
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="quote">
+            {{ episode.quote_llama }} (Metante)
+          </div>
+        </div>
+      </div>
       {% endfor %}
     </div>
   </div>

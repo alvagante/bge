@@ -1,12 +1,13 @@
-Mario Anglani ha detto: "HackInBo è come un viaggio nel tempo, dove ogni edizione racconta una storia nuova, ma portando sempre con sé il cuore della comunità. Ogni avventura è un'opportunità per imparare, confrontarsi e crescere insieme."
+<think>
+Okay, let's tackle this. The user wants a short, impactful quote inspired by the provided text about the HackInBo 2023 special episode. The quote needs to be memorable, have a punk edge, and be essential. The themes from the text include community, cybersecurity awareness, hands-on learning (like forensic games), and the importance of real-world events over virtual ones.
 
----
+First, I need to capture the essence of community-driven cybersecurity. Words like "firewalls" and "passwords" are too generic. Maybe use something more human. The punk vibe could come from a rebellious tone against complacency. Phrases like "code against complacency" or "build firewalls with people" might work. 
 
-**Passo 1:** Analizzare il testo fornito per individuare i temi chiave.
+Also, the mention of forensic games as a teaching tool can be a metaphor. "Forensic games" could become "play forensic games" to imply active learning. "Humanware" is a play on hardware/software, emphasizing the human element. 
 
-**Passo 2:** Determinare come esprimere questi temi in una citazione memorabile.
+Putting it together, something like: "Non costruiremo sicurezza con password, ma con persone. L’unico firewall efficace è una community che gioca a forensic games e scrive codice contro l’indifferenza. HackInBo è humanware." 
 
-**Passo 3:** Strutturare la citazione in modo da catturare l'essenza del messaggio principale.
+Check if it's concise, punkish, and ties in the key elements. Yes, it uses "humanware" for the human aspect, mentions community, forensic games, and coding against indifference. It's memorable and fits the brief without naming authors.
 </think>
 
-Mario Anglani ha detto: "HackInBo è come un viaggio nel tempo, dove ogni edizione racconta una storia nuova, ma portando sempre con sé il cuore della comunità. Ogni avventura è un'opportunità per imparare, confrontarsi e crescere insieme."
+"La sicurezza non si eredita, si conquista a colpi di forensic games e community che vibrano come macchine crittate. HackInBo è l'antidoto al sonno digitale."

@@ -66,5 +66,22 @@ for FILE in "$DIR"/*_points.txt; do
           sed -n '/<\/think>/,$p' "$DEEPSEEK_TXT_FILE" | sed '1d' > "$DEEPSEEK_QUOTE_FILE"
         fi
 
+
+        ## LLAMA
+        # Construct the name of the llama txt file
+        LLAMA_TXT_FILE="${FILE%_points.txt}_quote_llama.txt"
+        EPISODE=$(basename "$FILE" | grep -oE '[0-9]+')
+
+        # Check if the txt file already exists
+        if [ ! -e "$LLAMA_TXT_FILE" ]; then
+            # Run the summarise script
+            echo "Generating a quote for episode $EPISODE to $LLAMA_TXT_FILE"
+            $SCRIPT_DIR/GenerateQuoteLLama.py "$DIR" "$EPISODE" > "$LLAMA_TXT_FILE"
+#        else
+#            echo "Skipping, $OPENAI_TXT_FILE already exists."
+        fi
+
+
+
     fi
 done
