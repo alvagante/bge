@@ -30,9 +30,9 @@ messages = [
 # model = "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF"
 
 # Local Inference Ollama
-#base_url = "http://localhost:11434/v1"
-#api_key = os.environ['HUGGINGFACE_API_KEY']
-#model = "deepseek-r1:latest"
+base_url = "http://localhost:11434/v1"
+api_key = os.environ['HUGGINGFACE_API_KEY']
+model = "deepseek-r1:latest"
 
 # Nvidia Build Inference
 #base_url = "https://integrate.api.nvidia.com/v1"
@@ -40,9 +40,9 @@ messages = [
 #model = "deepseek-ai/DeepSeek-R1"
 
 # HuggingFace Inference
-base_url = "https://huggingface.co/api/inference-proxy/together"
-api_key = os.environ['HUGGINGFACE_API_KEY']
-model = "deepseek-ai/DeepSeek-R1"
+#base_url = "https://huggingface.co/api/inference-proxy/together"
+#api_key = os.environ['HUGGINGFACE_API_KEY']
+#model = "deepseek-ai/DeepSeek-R1"
 
 client = OpenAI(
   	base_url=base_url,
