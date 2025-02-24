@@ -5,6 +5,7 @@ episodi:
 - 83
 - 85
 - 86
+- 87
 layout: geek
 links:
   GitHub: https://github.com/mgua
