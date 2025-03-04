@@ -1,0 +1,11 @@
+L'accessibilità digitale si erge come nuovo paradigma della civiltà tecnologica, non più optional ma necessità imprescindibile. Nel podcast "BGE 88 - European Accessibility Act: Siamo Pronti?", la Brigata dei Geek Estinti esplora le profonde implicazioni dell'European Accessibility Act, normativa che dal 28 giugno 2025 ridisegnerà il panorama digitale italiano.
+
+Con la lucidità di chi naviga nelle acque profonde dell'innovazione, Sara Sangalli, Andrea Saltarello ed Emiliano Pisu dissezionano la complessità dell'accessibilità digitale, trasformandola da mero obbligo normativo a opportunità di evoluzione sociale e tecnologica. La discussione si snoda attraverso un labirinto di considerazioni tecniche e umane, dove il codice incontra l'empatia.
+
+Il dibattito tocca nodi cruciali: dall'implementazione pratica delle linee guida WCAG alla responsabilità etica degli sviluppatori, dalla tipografia accessibile all'importanza del design inclusivo. Emerge chiaro come l'accessibilità non sia solo una questione di conformità tecnica, ma di progettazione universale che abbraccia l'intera esperienza utente.
+
+Particolarmente illuminante è l'analisi degli strumenti di verifica dell'accessibilità, da Lighthouse a WAVE, accompagnata da casi studio concreti che dimostrano come l'accessibilità possa essere integrata organicamente nel processo di sviluppo. La condivisione di esperienze personali arricchisce il discorso di una dimensione pratica invaluabile.
+
+Il podcast si distingue per la capacità di trasformare un tema apparentemente arido in una narrativa avvincente sulla democratizzazione del digitale. Come un ponte tra presente e futuro, l'European Accessibility Act viene presentato non come un ostacolo ma come catalizzatore di un web più inclusivo, dove la tecnologia diventa finalmente strumento di vera equità sociale.
+
+Nel cyberspazio del domani, l'accessibilità non sarà più un'appendice ma il cuore pulsante di ogni interfaccia digitale. Come sosteneva Marshall McLuhan, "Il medium è il messaggio" - e il messaggio dell'EAA è chiaro: il futuro digitale o sarà accessibile, o non sarà.

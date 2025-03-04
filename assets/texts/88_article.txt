@@ -1,0 +1,13 @@
+Nel 2025, l'Europa non si limita a cavalcare l'onda dell'innovazione; la plasma. Il 28 Giugno segnerà una data cruciale per l'Italia: l'adeguamento all'European Accessibility Act (EAA) non è solo una questione di compliance, ma un invito a rifondare il concetto stesso di accessibilità digitale. 
+
+In questo episodio della Brigata dei Geek Estinti, intitolato "BGE 88 - European Accessibility Act: Siamo Pronti?", i partecipanti si tuffano in un mare di riflessioni, esplorando il ruolo che le normative possono giocare nel ridefinire l'interfaccia tra tecnologia e umanità. Sara Sangalli, Andrea Saltarello ed Emiliano Pisu non sono solo esperti, ma pionieri in un campo in cui il design inclusivo diventa un imperativo etico, non un mero optional. 
+
+La discussione si snoda attorno alle linee guida dell'EAA, chiarendo cosa significhi veramente per le aziende e gli sviluppatori, ma anche per gli utenti. La parola chiave qui è "opportunità": l'accessibilità non è solo un obbligo legale; è una strategia vincente in un mercato sempre più focalizzato sull'inclusività. La questione si complica quando si affrontano le differenze tra accessibilità e usabilità; entrambe sono pilastri fondamentali di un'esperienza utente positiva, ma spesso vengono confuse. 
+
+Gli ospiti propongono strumenti pratici per valutare l'accessibilità, come Lighthouse e WAVE, sottolineando che un design iterativo è essenziale per perfezionare l'esperienza utente. La tipografia non è solo un aspetto estetico; è un ponte tra il contenuto e la sua fruibilità. E chi meglio di un designer per ricordarci che anche i caratteri tipografici possono essere inclusivi?
+
+Ma l'argomento più scottante rimane l'educazione. Sensibilizzare i team di sviluppo e design sull'accessibilità è cruciale per evitare errori comuni e migliorare le competenze. La responsabilità legale è un'ombra che incombe su chi ignora queste nuove regole, e i rischi sono reali e tangibili.
+
+In un'epoca in cui il web è la nuova piazza, l'EAA non è solo una normativa, ma un manifesto per il futuro. Il cambiamento non è mai stato così tangibile, e la domanda sorge spontanea: siamo davvero pronti ad affrontarlo? 
+
+La risposta, come un codice sorgente ben scritto, potrebbe trovarsi nel nostro approccio stesso alla tecnologia.

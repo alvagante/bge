@@ -1,0 +1,10 @@
+- Accessibilità e normativa: Discussione sull'importanza della normativa europea sull'accessibilità, in particolare sulla scadenza di attuazione e le implicazioni per aziende di diverse dimensioni.
+- Il ruolo degli esperti: Riflessioni sull'importanza di avere figure professionali qualificate nel campo dell'accessibilità per garantire che i prodotti e servizi siano conformi agli standard.
+- Design inclusivo: Necessità di un design che tenga conto delle esigenze di tutti gli utenti, comprese le persone con disabilità, e l'importanza di integrare l'accessibilità fin dalle prime fasi di sviluppo.
+- Usabilità e accessibilità: Differenze tra accessibilità e usabilità, e come entrambe siano fondamentali per creare esperienze utente positive.
+- Strumenti di verifica: Discussione su strumenti e tecniche per valutare l'accessibilità dei siti web, come Lighthouse e WAVE, e l'importanza di testare le interfacce con lettori di schermo.
+- Educazione e sensibilizzazione: Importanza di informare e formare i team di sviluppo e design sull'accessibilità, per evitare errori comuni e migliorare le competenze.
+- Aspetti legali e responsabilità: Riflessioni sulla responsabilità delle aziende nel garantire l'accessibilità e le possibili conseguenze legali in caso di non conformità.
+- Font e tipografia: Il ruolo della tipografia nella leggibilità e nell'accessibilità, e la scelta di font appropriati per diversi tipi di contenuto.
+- Progettazione iterativa: La necessità di un approccio iterativo nella progettazione di interfacce accessibili, testando e migliorando continuamente in base al feedback degli utenti.
+- Esperienze personali e casi studio: Condivisione di esperienze pratiche e casi studio su progetti di accessibilità, evidenziando successi e sfide incontrate lungo il percorso.

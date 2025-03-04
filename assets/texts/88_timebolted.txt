@@ -1,0 +1,1044 @@
+mamma ragioni di connessione in fin dei conti congelati si ritrovano antichi
+la festa dei tic chip bruciati la pensionata
+dopodichè temperati
+perché
+importante
+bene
+enti
+ma diventando veri
+una conversione
+ho fatto scrivere uno sport molto semplice
+andiamo un po' più avanti la brigata del gruppo
+il codice imparati
+la faccio breve
+costruire chiaro
+ci sto
+uomo moda
+conosciamoci volante
+imprenditore
+infine raccontiamo il nostro sussurro non mi ricordo chi diceva che se
+l'immagine
+è il modo in cui decoriamo lo spazio comando la musica il modo in cui decoriamo
+sogni spezzati ogni pagano invece di vaud è una storia da raccontare
+mi
+perché
+circuiti
+anche centro
+bene
+venti
+telegram
+quella cattedrale
+chiamano mantello
+il ma quello che doveva essere l'alternativa
+diventato maggiorenne di memoria andati
+viviamo il presente ricordiamo il passato prevediamo il futuro anche dei cristiani dell'algoritmo del tempo
+villa codice binario tracciamo sentieri sogni
+i mondi virtuali e reali l'anno stalle simile principalmente di noi in ogni device
+voci ma niente
+di beni gestiti
+mattinata
+lontani ma mai davvero scomparsi
+ma
+propria realtà vera la verità vera è che sto otto ore e mezza che parla modena cosa e risorto un cazzo
+proprio adesso
+e quindi e quindi e quindi
+e quindi
+è la prima volta che vede la sigla e-mail
+e beh bentrovati
+come dire la la la conclusione in dialetto romano
+valga anche per stasera
+andiamo
+puntata ottantotto della brigata degli estinti parliamo di accessibilità e in particolare della european accessibility che sta per entrare in vigore lo facciamo con grandi esperti in materia a cui chiedo subito allora ecco
+lascia stare
+sa chi chi sei perché sei qui
+allora io sono un user experience designer
+vengo da una formazione
+di design però lato moda quindi ho fatto design della moda dopodiché mi sono interessata più che altro alla comunicazione per una decina di anni e
+durante il covid siccome faccio anche volontariato in un'associazione qui vicino per persone con disabilità mi sono interessata in generale poi all'accesso a lato accessibilità ovviamente lato design usabilità soprattutto perché poi
+come abbiamo potuto dirci prima
+il codice un aspetto dopodiché bisognerà anche vedere la frustrazione o meno dell'utente quando si usa quel codice sostanzialmente quindi questo quello di cui mi occupo principalmente e dal duemilaventidue sono
+cofondatrice di una società benefit che ha l'ardire di voler mettere insieme
+il concetto che
+l'accessibilità alle persone con disabilità non sono soltanto persone che vanno aiutate perché è giusto così ma sono anche
+acquirenti quindi è una fetta di mercato che ci stiamo lasciando indietro sostanzialmente e chiudo
+grande sara
+emiliano
+allora io sono stato ormai parlo al passato un consulente informatico per ventisette anni
+ho cominciato nel novantasette
+è
+dopo essere passato dal backend frontend
+quindi negli ultimi diciassette anni più o meno sviluppare solamente in tecnologia front-end a un certo punto sono incappato negli ex sensibili di daesh
+e
+ho visto la conferenza nel duemiladiciannove se non vado errato da remoto e da lì ho capito per quanti anni ero stato come dire arrogante nel non considerare quella fetta di persone mi sono reso conto di quanto volessi
+aver ignorato questa questa tematica e da quel giorno ne ho fatto un po la mia ragione di vita diciamo ecco ho cominciato a documentarmi sempre di più e ho cominciato anche a fare delle battaglie in aziende per
+diciamo lavorare con l'accessibilità by design quindi ecco negli ultimi sei anni è questo quello di cui mi occupo grandissimo andrea che non ha bisogno di presentazioni ma chiediamo comunque di presentarsi io sono uno sviluppatore software
+diventato imprenditore nel tempo libero di secondo lavoro insegno per la school of management del politecnico di milano
+è relativamente all'argomento di questa sera sono che poi è il motivo per il quale siamo entrati in contatto io ed emiliano sono uno dei sette fondatori di accessibility days aps che l'associazione che organizza lo
+omonimo evento quindi assieme a sakura cesare in rigoroso ordine alfabetico
+cesaretti stefano ottaviani francesca bianchi michele landolfo fabrizio cabello e roberto scano e solo chi sono figlio di uno degli acquirenti cui faceva riferimento sarà perché mio padre era assurdo totale per
+chirurgica di cui ama e lo staff ad entrambe le orecchie e quindi potevamo parlare per gli occhiali a conduzione ossea che amplifon era ben contenta di produrre e vendere perché è un mercato estremamente cui sara e infine sono uno dei
+una dozzina del genere membri etnici politici dell'intergruppo parlamentare per l'accessibilità digitale che un team
+di ibrido politica tecnici per
+rispondere a delle domande che l'esecutivo dà in termini di approccio al
+paese italia
+come dirlo al all'olio pieni una sensibilità che fortunatamente sta per diventare efficaci
+bene bene come vedete gente sul pezzo decisamente allora io vorrei che alla fine in questa puntata chi assiste abbia uno idea è chiara di cos'è la sensibilità act due a chi si rivolge tre che cosa riguarda e quattro se possibile e se uno sviluppa ora comunque qualcun
+che ha che fare con sviluppo di siti web e così via
+dove partire cosa fare per rendere il proprio sito questo è il piano è l'obiettivo della serata poi tutto quello che viene in più è benvenuto e chi vuole iniziare a spiegare un attimo di cosa si intende per i a a di coppia in assisi mi piace e quindi che cosa è che cosa comporta quando entra in vigore in realtà
+esordisco io rompo il ghiaccio
+dicendo che innanzitutto l'ordine
+una suite e tecnicamente già in vigore semplicemente non è
+le violazioni non sono ancora sanzionabili quindi quello che avviene il ventotto giugno di quest'anno e l'inizio della sanzionabilità un po' come fu per il giri pia esisteva già era in vigore ma c'è un tempo di chiamiamolo armonizzazione nel quale chi ne sarebbe
+è stato soggetto
+aveva tempo per attuare ciò che serve per arrivare pronto al momento dopo è diventato come importante momento in cui stanno arrivando alla scadenza del latte quindi diciamo che dal classico dal venticinque giugno da ventotto giugno di quest'anno
+tutte le aziende
+con almeno due milioni di euro di fatturato annuo o nove collaboratori dieci non adesso fino fino a dieci da edith eddie nell'auto
+dovranno rendere accessibile e tu accessibili i propri prodotti e servizi digitali pena una multa che non è scritta nella accessibility act non è esplicitata ma poiché il latte dice
+c'è che è lasciata ai singoli stati il compito di sceglierla e in questo momento la legge stanca quella in vigore parla di cinque per cento del fatturato è lecito pensare che per violazioni questa percentuale sarà quella usata dallo stato italy
+piano sì
+aggiungo allora non ricorda esattamente il decreto però sono stati delineati come minimo mi sembra su due cinquecento euro è il minimo praticamente che se poi c'è tutto il processo di adeguamento per cui
+agi ti dice guarda non sei accessibile sistema
+hai sistemato sì no guarda non sarà accessibile sistema fino a un po' come pregi di arpa e alla fine più o meno faccia tutto il percorso che essi mi sembra che sia dai due cinquecento minimo per dovrà andare a rivedere esattamente fino a cinque percento del fatturato è stato però ovviamente gli enti di grandi dimensioni perché poi dipende
+onde anche da il fatturato dell'organizzazione e in quanto è inaccessibile poi effettivamente prodotto e in che modo colpisce le persone che non possono usufruirne sostanzialmente quindi è tutto modulare alla fine si puoi fare anche una sorta di punire crash
+un ebook approccio alla mia sinistra
+verità quindi messe sono anche secchi si pretende la luna out of nothing è poi così allora prima di procedere qualcuno vuole risponde alla provocazione di cosimo
+saranno presto disponibili
+saranno accessibili si spera che uno con la tastiera posso uscirne
+simo guarda ti faccio uno spoiler clamoroso se usi bootstrap italia che forche di bootstrap e curato proprio da agid ce l'hai già ed è accessibile quindi sorry mi dispiace sarà per un'altra volta perché quelli là
+gorgoglione di questa cosa qua sarà più comodo uscire da tastiera magari
+fatti una domanda interessante sarebbe questa no bello tutto però come come la gestiamo la questione del sito dell'inps
+nel senso voglio dire no cioè ci sono poi delle realtà all'interno delle piattaforme del governo che comunque hanno dei seri problemi di accessibilità poi ovviamente tutto il lavoro che viene fatto da
+dal gruppo che sta dietro a d del gruppo di persone che poi porta avanti agid è tutto è tutto ciò che ne consegue quindi busta pedali a design sistemi vitali eccetera
+stanno facendo un lavoro fantastico io ogni tanto vado a controllare sto vedendo che comunque c'è
+quantomeno c'è un approccio nel cercare di rimettere le cose al loro posto ecco mettiamola così però è chiaro che poi da lì a trasportare quel design system quelle regole quelle idee dentro a tutti i servizi dello stato non è un'operazione così semplice quindi mi rendo anche conto della difficoltà che tecnica
+e organizzativa insomma esattamente dal punto sono siti che garrison alcuni questo particolarmente utili per questo tipo di utenti per cui è
+dovrebbero essere i primi a essere accessibili ma come si suol dire lo stato pretende molto ai cittadini ma non troppo da se stesso no
+animale
+le pubbliche amministrazioni hanno poi una loro come si dice una loro normativa parte tra virgolette nel senso che
+c'era poi tutto il discorso anche di dichiarare gli obiettivi per cui è sempre alla fine un processo un percorso quindi devo segnalarti cosa c'è di inaccessibile fino a questo momento quali sono i miei obiettivi e in che tempi prevedo di realizzarli
+quindi sì certo c'è un grosso problema chris louie come giustamente avevo letto un commento
+perfino anche chi non ha alcuna disabilità ha difficoltà spesso ad utilizzarli quindi
+l'accessibilità del
+della pubblica amministrazione è un argomento tosto è anche difficile è così intanto iniziamo a fare qualcosa magari si che è giustamente come stanno facendo infatti un lavorone
+veramente interessante e importante prima domanda che faccio ma questa logica di coniglio e eviterei obiettivo abbia una certa flessibilità per cui magari cioè si ribalta e può essere anche applicata al privato nel senso magari si può dire all'azienda tu non sia accessibile io qui per darti la multa ti avverto ai sei mesi per sistemare la cosa
+c'è una logica in questo genere prevista nella normativa oppure in teoria dal ventotto chi non è a norma che non è accessibile secondo i criteri in aula subito multa e via da andrea z correggimi se sbaglio perché poi ripeto non sono esperta legale quindi magari di gamba
+un programma lodi ma se c'è un accompagnamento tra virgolette nel senso che ti notifico appunti o agid ti notifico quello che ho rilevato e ti do delle tempistiche umane tutto sommato per cui puoi metterti a posto dopodiché decidi in malafede o meno
+non farlo si provvede sostanzialmente però no hai voglia c'è
+modi di culto di maria eh si infatti è tutto finalizzato almeno nella mia ottica per quello che ho potuto capire okay è tutto finalizzato a volergliene far fare poi queste cose c'è l'obiettivo è che finalmente le cose diventano accessibili quindi cercano anche di renderlo access
+simile dall'altro lato nel senso non è che siamo qui a prende a prendervi ammazzate perché non accessibile ma cerchiamo di aiutare
+a risolvere il problema perfetto non esiste altra domanda classica e si parla di prodotti digitali quindi in senso lato né soltanto un sito web no ma youtube
+app software audiolibri libri pdf
+totem tesoro il totem bancomat e
+ma anche un banalissimo documento pdf un file word devono essere costruiti in modo da essere accessibili io questo l'ho imparato seguendo gli accessibility days quindi probabilmente andrea ci sa dare tutta una serie di di indicazione in più però è proprio un modo per costruire i documenti che sia
+sempre accessibili non posso mandarti una scansione di un documento io ti devo mandare un documento dove il testo è selezionabile in modo tale che lo screen reader sia in grado di interpretarlo per esempio
+per favore dimmi se sbaglio andrea no no ma infatti per esempio
+una un'azienda che conosco direttamente che uno dei grandi produttori di software per la parte page in in italia già da un anno da più di un anno ha iniziato a lavorare sul rendere le buste paga acceso
+sibili lo so perché proprio me ne parlavo con loro ci ti o appropria wednesday dell'anno scorso che è stato il venti e qualcosa e quindi
+c'è fortunatamente qualcosa si sta si sta muovendo in tal senso anche per polvere esperienza personale perchè lo vedo e lo abbiamo tante cose per scontate
+però leggere una busta paga per intenderci fino a poco tempo fa forse due la mia commercialista
+ma nadal le buste paga il pdf e e manon ma erano delle scansioni e quindi tutto il fatto che pdf è sostanzialmente postscript quindi dentro e testo sono tre semplificando contiene delle informazioni
+che sarebbero
+hotel accessibili nonostante lo dirà accessibili nel senso dell'accessibilità ma accessibili a un lettore o un rider si vanno perse vanno perse se tu usi la capacità di un pdf di contenere immagini e la busta paga è qualcosa che a tutti noi
+quotidiana sì chiediamo un finanziamento un mutuo e prima di portarla a fatica orrendo che qualcuno debba leggere qualcosa per per per noi non so se mi spiego cioè proprio un minare alla base l'indipendenza delle
+delle persone infatti secondo me hai non voglio far deragliare il discorso ma dobbiamo capire che egli l'idea non è quello di far sopravvivere meglio alcune funzioni niente ha senso permettere alle persone di di di di di vivere una vita normale dove per normale intendo la cuddy
+vista statistico cioè quello che il grosso delle persone può fare e da e per il lisboa accessibile dell'aids ops
+la vita è anche poter videogiocare e se poi ingiustamente
+devon
+anche per legge devono comunque poter rendere le persone
+devo metterli in grado di poter partecipare pienamente attivamente alla vita sociale se alla base minola loro capacità di potersi informare autonomamente oppure di poter
+portare a termine delle operazioni come appunto
+buste paga eccetera comunque
+anche banalmente diventa una questione di privacy voglio dire devo davvero farmi leggere da qualcuno qualcosa che riguarda
+un'informazione così sensibile capiamo subito che non sto rendendo possibile la piena partecipazione
+come si dovrebbe fare di questa persona alla società e
+e per cui già lì vediamo che stiamo stiamo sbagliando sostanzialmente assolutamente
+in questo caso posso aggiungere una cosa parlando dei numeri
+io l'ultimo report letto della world health organization che mi sembra fosse del duemilaventuno se non vado errato segnalava il quindici per cento della popolazione mondiale e quindi un miliardo e trecento milioni di persone
+che hanno delle disabilità permanenti e mi sembra che lo studio aggiungesse un cinque per cento per poi le persone che hanno una disabilità temporanea perché comunque da considerare che il concetto di disabilità
+non riguarda solamente la disabilità permanente ma anche una donna incinta che però ha dei problemi in gravidanza e non si può muovere dal letto dovrebbe poter usare un computer raccomandandolo con la voce senza problemi per esempio così come una persona che magari ha riportato una frattura e non può usare le mani o qualche tipo di trauma del gene
+rey e gli impedisce l'utilizzo in qualcosa e se un software è semplicemente realizzato con attenzione e con cura a partire dal design
+si tratta di appunto includere tutti rendere agibile per tutti anche la capacità di essere produttivi perché molte persone vengono escluse dalla produttività per questo e non è non c'è
+a livello anche medico non è non è accettabile al giorno d'oggi ma qui è merito a questo tema c'è una considerazione interessante di
+stefano belisari elio delle storie tese
+che quando parla di suo figlio che una persona con autismo autistica che lavora da
+pizzaut dice che ci sono due temi quello della dignità della persona innanzitutto ovviamente ma anche il tema di rendere una persona invece che un peso economico per lo stato un contribuente attivo quindi c'è
+vinciamo tutti o vinciamo tutti e anche peter mi permetto di fare un inciso perché anche poi si pensa spesso a persone con disabilità
+come se non fossero non potessero essere produttivi quando di fatto le persone con disabilità che vengono che sono considerate produttive perché hanno avuto tutti
+tutte le carte in regola per poter lavorare di fatto
+hanno appunto l'opportunità di essere degli elementi della società che giustamente pagano le tasse e togliamo invece una contesa economico della pensione che riceverebbero perché appunto diventano produttivi e sono persone che dal medico del lavoro sono st
+state individuate come persone che possono lavorare ricordiamoci che possono lavorare non non sono appunto persone che dobbiamo mettere in azienda per fare la carità sono persone che possono lavorare che hanno delle capacità produttive o lavorative residue comunque di qualche tipo e quindi giustamente diventano contribuenti
+nti e togliamo un peso economico dall'altro lato quindi appunto una situazione e vinciamo tutti
+se poi appunto anche sul fatto che si pensa e quantum buoni qualcun altro pene per chi non dovesse essere disabile moda made permanente però come giustamente ha detto emiliano e una chela è una condizione premesse tranne temporanea per tutti noi per ciascuno di noi ma
+io non sto indossando gli occhiali perché in questo momento non devo leggere al cookie
+però è grazie agli strumenti di accessibilità di fatto del mio telefono che io ho potuto ingrandire il carattere e alcuni gadget e delle aree interfacce utente si regolano di conseguenza no quindi
+sì a primarie giuliano emiliano faceva riferimento alle disabilità temporanee ma di fatto
+crescendo diventiamo tutti un po' miopi presbiti c'è il nostro
+non so come dire per perché chiunque in qualunque modo lo dica suona male il decadimento si e diciamo esatto tu quindi
+oppure il questo noi non sapremo mai se sia vero o meno però
+la la feature di rimozione del background in sky nasce questo mi hanno detto persone di microsoft nasce perché
+è stata portata all'attenzione del team il fatto che persone con neuro divergenza le persone di microsoft o internamente facevano fatica a seguire i
+i meeting perché le i movimenti dietro delle delle persone in un ufficio rendevano impossibile a queste persone e riuscire a rimanere focalizzate sul meeting in in sé e allora segnalandolo avendo le controparti
+che usavano il background e che mettevano il background che impediva di vedere dietro toglievano questa condizione di fatto disagio avrei a dei colleghi no quindi e adesso grazie a una coda di questo tipo che nasce per
+di fatto accessibilità sara ed emiliano possono omettere il
+il background che preferiscono
+io devo confessare che me lo son trovata
+a roma
+julia li cambia
+account
+sneakers promotion
+comunque se no poi soprattutto esatto c'è anche un aspetto di rendere i luoghi di lavoro accessibili e anche perché ci dimentichiamo spesso che banalmente ci sono anche delle
+esigenze più che
+disabilità che
+possono aiutare chiunque sostanzialmente anche a concentrarsi e a lavorare meglio quindi delle features che appunto sono state pensate magari per evitare le distrazioni per persone con neurodiversità eccetera alla fine rito
+tornano
+dalla finestra rechiamo per aiutare anche in un altro senso quindi
+avere
+mente che l'accessibilità sia un peso un qualcosa da aggiungere dopo oppure perché burocraticamente o perché ce lo impongono e brutti e cattivi dell'unione europea che vogliono farci fare le cose con pesantezza burocratica e
+ci dimentichiamo che poi ne beneficiamo tutti alla fine perché poi io quando vedrò sempre meno sentirò sempre meno oppure mi distrarrà di più perché invecchierò e posso comunque essere pienamente produttiva e
+partecipare alla società grazie a queste cose e ricordiamoci che comunque lolo la popolazione invecchierà sempre di più
+banalmente poi c'è anche un altro aspetto secondo me perché
+diciamo quando si ragiona sull'accessibilità si pensa sempre alla disabilità che non è necessariamente la stessa cosa se sarà rendere una una struttura un edificio accessibile
+può anche significare che per una persona anziana o bronson giovane che ha difficoltà a deambulare tu gli fai un ascensore o una pedana per consentirli no con l'accesso la stessa cosa vale se tu fai per esempio responsive design molto spesso si confonde il responsive design con la capacità di
+interfaccia grafica alla larghezza dello schermo la larghezza del weworld alla larghezza del device però ci sono situazioni tante situazioni dove magari la risoluzione dello schermo è molto grande e tu vuoi prendere una finestra ridurla in una un quarto di schermo o metà schermo anche in altezza o
+anche di adattare la risoluzione diciamo la resa grafica anche a risoluzioni molto alte perché si sta visualizzando un sito internet con il browser del televisore perché non vedo vedo poco e se ciò è magari il mio mega televisore da cinquanta pollici dicono il browser col telecomando mi trovo meglio o padre hamel
+oppure anche la scelta del tema grafico cioè il tema dark il tema light è un'impostazione che l'utente imposta appunto per poter avere una maggiore
+diciamo diamo
+connessione visiva con il device io per esempio utilizzo sempre il tema dark dovunque posso perchè mi trovo meglio io ovviamente poi dipende dalle persone questo però è una preferenza delle persone che si pone una serie di sistemi operativi e su tutti i sistemi dei device mobile ora non andare a gestire questa cosa per esemp
+otto ai dieci tab di chrome comincia a sfrecciare da un tab all'altro un certo punto ti arriva con la tranvata di di luce bianca no oppure la stessa cosa all'opposto di luce scura quando sei abituato a vedere magari i testi neri e gli sfondi bianchi e tu ti ritrovi con dei prodotti che non rispettano queste impostazioni quindi anche qui
+a rendere un prodotto accessibile cioè rispettare l'utente assolutamente anche perché l'impostazione dark mode è utile anche a persone che hanno magari
+anno di glenn quando guardano non so cristallino hanno qualche problema il cristallino oppure cataratta cosa del genere che la luminosità eccessiva effettivamente va a interferire con la loro visione quindi il tema scuro lo preferiscono perché è meno forte diciamo da
+dà meno fastidio sostanzialmente e banalmente questo tema se tu sei fuori al sole eccetera o comunque puoi gestire le impostazioni e rispettano quello che stai facendo perché quel problema anche io magari possa anche gestire le impostazioni ma poi
+non funzionano e vedi vedi anche tu che hai magari il sole diretto sullo schermo comunque e riesce ad utilizzare anche situazioni perché ci dimentichiamo che appunto l'utilizzo
+dei dei device comunque di prodotti digitali può avvenire anche in situazioni che non sono quelle standard quindi appunto lo voglio utilizzare in un ambiente rumoroso
+un po' è come se avesse un'esigenza di una persona sorda sostanzialmente quindi che cosa mi può servire in un ambiente rumoroso per poter utilizzare
+allo stesso modo quel prodotto correggimi andrea giuste se dico qualche cavolata e stessa cosa
+se
+sono in un ambiente eccessivamente luminoso come come posso gestire
+il device modo che riesca comunque ad utilizzarlo e ci dimentichiamo che non si tratta solo di appuntò disabilità ma di usabilità delle cose che aiutano tutti anche in situazioni che non sono standard la l'accessibilità da tastiera con la possibilità di comandare con la voce se io
+un bimbo piccolo lo sto tenendo in braccio nel frattempo sto facendo anche qualcos'altro magari riesco utilizzare il telefono comunque senza dover
+e sono tra virgolette la stessa esigenza di una persona con una disabilità motoria o con capacità motorie ridotte banalmente o anche non fa una persona anziana che ha dei tremori alle mani stevia più facilità ad utilizzare la tastiera oppure la voce perché no dico io lo dice
+di separare i due concetti la sua accessibilità e disabilità
+proprio per questo quando si preleva gesuita
+quali sono i macro area visiva immagino auditiva accesso modi nuovi di auto
+re sensoriali sostanzialmente poi disabilità intellettive relazionali quindi tutto quello che ha a che fare con la comprensione sostanzialmente è appunto motoria se si dovrebbe essere tutto questo dovrebbero essere le aree principali della gamma delle varie neuro divergenze che comunque rientrano
+in quella
+comunque relazionale alla fine no
+sì perché
+magari ci dimentichiamo anche banalmente una persona dislessica
+beneficia tantissimo di certi accorgimenti tipografici o comunque appunto
+di
+poche distrazioni
+sullo schermo e non è
+in ambito lavorativo non è una disabilità sostanzialmente
+dislessici quindi le cose sono sono assolutamente separate come anche a volte non pensiamo per esempio che possa essere un un un impedimento
+la lettonia daltonismo che tra l'altro ha una certa velocità se non mi ricordo forse il dodici per cento della popolazione maschile a è daltonica una roba del genere se adesso devo verificare i dati però non sostanzialmente e quindi se noi utili facciamo un'interfaccia di un prodotto
+che l'unico modo per cui
+per cui riesce a capire un'informazione al colore giustamente questa persona ha dei problemi e non è una persona con disabilità
+quindi o almeno con una disabilità riconosciuta a livello legislativo sostanzialmente che beneficia poi di
+tutte una serie di normative eccetera quindi
+dobbiamo separare il concetto di appunto disabilità con
+se rendiamo le cose accessibili
+ne beneficiamo tutti non solo quella piccola percentuale tra virgolette che piccola non è comunque anche perchè poi le persone che sono riconosciute
+con una certificazione sono una piccolissima percentuale anche perchè processo poi è complicato quindi ciechi e peraltro magari ci sono anche delle delle disabilità che migliorano delle disabilità che peggiorano quindi è è un'evoluzione è una condizione sostanzialmente che può cambiare per cui avere
+asti compartimenti stagni e inefficace
+finora bene bellissimo sanguigni cose vengono fuori adesso facciamo un po' di informazione specifica per ipad con te per l'alzheimer e così via
+è quindi un vademecum per chi lavora nel campo e magia parliamo di siti web perché la cosa più esprime più comuni c'è un però diciamo che quegli stessi principi penso che si possono applicare ad applicazioni piuttosto che altro
+un po' di informazioni utili e pratiche per chi si trova a sviluppare siti web deve adattare un sito web ha le logiche che richiede la legge abbiamo qualche km
+elenchiamo daesh ma sia strumenti disponibili stia accorgimenti da fare cosa in pratica si tratta di dove si interviene e così via partiamo dal design
+vuoi essere di molti spingono si a rilievo e tu ponga rapidamente è indubbiamente amburgo più sensato partire dal design perché ovviamente
+magari ce lo spiega sara molto meglio di quanto posso fare io ma concepire l'accessibilità dal design è qualcosa che poi aiuta l'intera filiera di sviluppo assolutamente allora per quanto riguarda a
+tendenzialmente
+quello che io mi sento di suggerire di fare e siccome comunque si tratta di prodotti che sono sul mercato quindi non è che puoi andare
+come dire a gamba tesa a distruggere tutto quello che hanno fatto fino a quel momento giustamente ci sono dei tool e a livello che automaticamente intanto iniziano a darti una mano perlomeno per quello che riguarda il codice e altre altri suggerimenti e che si basa
+uno sulle voci aghi sulle web content accessibility guide
+quindi già intanto iniziare a
+rendersi conto personalmente delle inaccessibilità e
+come dire delle criticità che ci sono sui propri prodotti è un tool automatico tendenzialmente sono anche gratuiti se non già almeno
+arran alcuni
+io mi trovo abbastanza bene con quello di ibm
+perché fa dei report poi ci sono dei link che ti portano proprio le linee guida dove ci sono anche dei suggerimenti in cui puoi
+muoverti per vedere come come sistemare e
+te rimette anche in ordine di tra virgolette perché poi
+di
+urgenza ok quindi cosa cosa è più importante fare perché poi
+si tratta anche di livelli perché la la la conformità si basa
+su
+dipende insomma da che cosa stai facendo o
+intanto partire da lì e vedere rendersi conto in prima persona di quali sono le questioni da risolvere dopodiché una volta che si inizia a fare la la base perché sostanzialmente quello alla base perché altrimenti non ci fosse magari non ti funziona proprio ti rendi conto che non ti funziona accessibilità da tastiera è quello
+un problema grave quindi risolve quello intanto no scusa sarah se ti interrompo e parli dell'equa la sesta e twitter ibm sì sì sì sì nicholas scrittore di pickering
+così è nato un attimo di lilin riferimenti o che spaccherà
+poi c'è anche su chrome lighthouse mi sembra che sia però io quello non lo uso tanto e altri plugin che privare il browser women's league magari confermi se quello così
+la novella questo a
+giusto per dare informazione che poi ci rimangono anche come un riferimento
+e dopodiché avendo dato una lettura e capendo quali sono le urgenze perché poi
+giustamente ci sono delle
+le indicazioni dell'accessibilità per esempio non so si parla magari del l'alt text il testo alternativo per le immagini è indicato ovviamente come un criterio di successo averlo eccetera però il design bisogna vedere anche perché cosa stai usando quell'immagine non sono immagini puramente decorative
+fai benissimo a non metterla farlo saltare e devi verificare che effettivamente il lettore di schermo lo salti quel quella con le maggiori quello e si è sempre considerato un criterio di successo per l'accessibilità però
+ce n'è un'altra pagina mi ritrovo che magari non ho la possibilità di concludere un acquisto perché il processo di checkout del mio e-commerce non è accessibile e ti dico senti ascolta lascia stare un attimo le text vai
+vai a sistemare il
+processo di checkout prima dopodiché se per esempio non lo so c'è invece un'immagine un a parte che già dare un'informazione importante in un'immagine non è esattamente il massimo però mettiamo che per un qualunque motivo tu debba dare un'informazione molto importante che può essere non lo so
+degli orari oppure anche gli allergeni o cose del genere e lo metti in un'immagine
+allora ok fai in modo che il lettore di schermo quella la legga per il testo alternativo oppure trovi un modo di fornire quell'informazione in modo comprensibile
+in un altro modo sostanzialmente quindi dipende giustamente da che prodotto hai che cosa devi comunicare e quali sono le priorità secondo me
+dopo la anche perché ripeto appunto la la conformità diciamo che è un processo e non non credo sia
+importante al momento
+diventare dei paladini del conforme al cento per cento che non credo neanche sia possibile
+subito iniziamo a far capire che
+è utile e
+fai del bene anche a te stesso sostanzialmente sereni di questi prodotti accessibili e e fa in modo che possano essere utilizzati e che
+i tuoi acquirenti non non si frustrano quando utilizzano i tuoi prodotti
+ok
+è
+emiliano ha mai insegnato anche lighthouse che tutti i siti ho mandato dei link di alcuni tool che sono gratuiti e viene una chat di caprifoglio voce cam live pericope haven lighthouse credo lo conoscono tutti bebè velo per lighthouse spesso ad aderire funzionalità e nel male qualcuno
+vuole il convivio lo schermo e far vedere con leith house dove si va dove si guarda per usarlo per amy così diamo un attimo un taglio pratico alla cosa
+mammolo memoria anche
+colora lilla aspetta che provo ad immolarmi vediamo se ci riesco mai
+sai annusò siamo un esempio vado su un sito internet qualunque
+repubblica punto it url fai una cosa vai su una brigata degli istinti puntocom vediamo un attimo cosa facciamo un po' di auto jocuri ca correzione in ottica di dividere tutto quello che ci darà anche perché ricordiamoci non è un una vergogna bene neanche uno
+fabbricata eccolo
+scusami ecco tv quello lì è esatto la serie riesce a uscirne utilizzando la tastiera guestbook mappa quello che devi ubeda e non scusarti se lo fai tu prenda io non tema ma allora e si può anche scrivere al
+ha fornito quel prodotto dicendo guarda che non è accessibile io l'ho fatto molteplici volte e sono stata anche ascoltata quindi non non fermiamoci
+ok allora vediamo un po' di fixare questo cosa ho fatto malamente di arrow vescovi mi posiziona così ma tanto verde si riesce a leggere qui il codice sms o o
+qui su chrome ecc c'è un proprio un tab lighthouse dove ovviamente si può decidere
+una serie di impostazioni di controlli da fare è un diciamo device di riferimento quindi
+una volta stabilite quali sono le cose che si vogliono controllare si può far partire diciamo l'analisi e come vedete il browser in automatico ricarica anche più volte e fa raccoglie informazioni sull'accessibilità e direi che comunque come risultato ci siamo abbastanza buono direi direi più che
+buono dopodiché all'interno del tab sensibilità come all'interno anche della degli altri
+ci sono tutte quante informazioni su dove intervenire è come andare a migliorare alcune componenti che non hanno superato i test diciamo
+e a
+vediamoli un po' questi quadri sentiamo magari spieghiamoci un po' i vari
+stiamo quelli passati che egregiamente ho impostato su il sito ma anche quelli che non sono passati insomma quindi mi sembra visto fai all'inizio ci vuole una il titolo light frame qua c'è la fama della pagina si
+vede il web
+riescono a descrivere i contenuti della iframe se comunque gli viene specificato un titolo visualizzino e in teoria ci sarebbe quello spazio vuoto e noia non lo visualizzo perciò ho questo programmino qui cmq a week end blocchi si integra tutte quante le pubblicità e portoghese e quello e youtube diciamo il link
+renzi torna ad ariel
+live free magari fiume reso assise da youtube come dire condividi con iframe è quindi luogo insomma
+interviene non è che mi sono inventato come fare l'embedding del video di youtube no ma solamente gay quindi colpa di youtube
+e comunque qua ci vuole una bella meta è un bel titolo poi e le mense notte in sequenza decennio ingordo che quindi i vari elementi a ca uno due a tre dovrebbero essere avere una gerarchia rispettare la gerarchia con cui vengono utili allora se del fatto che qui ci sono due a uno e in teoria su una pagina ci dovrebbe stare un solo account in tutta una va
+pagina catenelle
+qui è tendenzialmente
+un un'acca innanzitutto non dovrebbe mai stare dentro un altro aa e aaa vanno rappresentate in maniera sequenziale quindi se c'è un accadrà anche diciamo anche ipotizzando che questo accadrà lo prendo lo sposto lo metto fuori dall'acqua uno fra i due ci dovrebbe stare un'acca duemiladue fantastico bello e buono
+vai avanti così che quello che mi interessa sapere in genere credo che possano fare e di dire una cosa che ci stavamo dicendo tali noi anche prima di iniziare a live che dal punto di vista del dello sviluppatore di front-end secondo me la prima cosa da fare
+sarebbe rispettare il valore semantico di catenelle cerca un boomerang ricordare che ognuno di quegli elementi aoun ha un significato non è fatto per far apparire la pagina come home interessate anche perché
+te la butto lì che strong significa grassetto non non l'ha detto nessuno sia soprattutto non lo dicono una specifica chat ml strong e evidenzia il contenuto di questo elemento rispetto alle a quanto appare intorno poi
+poi i browser di fatto scelgono tutti di fare così ma dire che è quello che avverrà è sbagliato strong ha un valore semantico quindi il punto di partenza sarebbe rispettare c html ma anche le varie i vantaggi
+section a side
+a side per dire questo il contenuto di cbd vale meno è un elemento collaterale del documento
+pancia browser in quel momento quindi secondo me già già già
+già questo è un buon punto di partenza
+soprattutto non utilizzare appunto solo come stile
+questi elementi qua perché per esempio vogliamo che quel pezzo sia grosso come cioè sia evidente quindi gli mettiamo una caduta due uno uno quando di fatto poi a livello logico non lo è e quindi una cosa
+perché tra l'altro una delle cose che viene evidenziata sempre da sempre viene evidenziata da aghi e che molto spesso i gli errori principali che riscontrano sull'accessibilità dei siti che verificano sono sostanzialmente semantica quindi che c'è la pagina non è impostata correttamente per que
+oh che sta dicendo ok
+per semplificare estremamente e poi per esempio se tu mi metti uno tre uno quattro dopo una due non credo che se la prenda
+l'importante è che non lacca quattro non sia prima della tre ok
+certo se poi va notata una cosa in questo caso la il grosso l'ha fatto mostra perché questo è usato su bootstrap e quindi tutte quelle cose che seguono tutto a posto ma in realtà è perché bush ha semplicemente usato come secondo elogio di bootstrap al netto degli hack magari messi male il resto ovviamente
+lo fa lui e scusa questa parola il fatto per lampade mi guardi un'altra pagina giusto per
+sì su gay
+ecco qua per esempio già mi sa che la vedo più complicata va beh vediamo un attimo bene questa analisi è una lista prodi non son sicuro degli hacker se c'è stato qualche abuso di jack se qui il nome era vuota album senza che facciamo anche la verifica con con lighthouse intanto ti potrei dire qualcosa per esempio
+cioè io qui sto notando che è il dummy è realizzato diciamo in maniera corretta affinché si arriva sul leader dopodiché c'è una section
+che diciamo potrebbe anche essere corretto che sia una section così come il footer sicuramente edere food sono corretti
+però diciamo che a livello di semantica qualcosa che andrebbe diciamo sempre fatto considerate che questo costruisce in automatico tutta la parte di atmel no
+tutto quello che c'è dentro quindi il classico elemento ed è
+è il classico elemento body considerate che quello che c'è qui su golden questa struttura ce la fornisce già nativamente e di fatto scrivere a catinelle qui dentro significa scriverlo dentro un body per capirci
+però diciamo che ce la mettiamo lo stesso per questioni visive
+sicuramente una struttura semantica deve avere questo elemento il maine perché identifica quello che poi è il contenuto primario della pagina
+leader e comunque il menu di navigazione il logo il menu dell'utente il footer menù che comunque alla fine sempre un menu e contiene dei link le informazioni sul copyright ma il vero contenuto della pagina e nell'elemento main anche vargas llosa se navighi la tastiera quello lo puoi puoi andare direttamente a contenuto prince
+epale zombie lo l'ideale no no no bisogna comunque fare il link e se niente ha il focus e vogliamo mandare il focus sul contenuto principale appare un bottone solo se cominciano a bere da tastiera ovviamente ti porta lì però semanticamente e lo scrive
+header comunque lo identifica come il contenuto principale quindi scusa emiliano brutalmente in quella pagina lì come tutte le altre dove mettere
+drink food dove mettere un main e basta quello non è che esageri anche un apice al netto di dieci fogli distribuiti poi all'interno all'interno ovviamente il tutto si può suddividere in sections
+e in articles ora è una errata convinzione pensare che articolo sia qualcosa relativo semplicemente alle notizie perché il nome magari può essere fuorviante però le specifiche
+a capannelle votata
+incolla sempre io l'avessi scritto bene
+accessibility guidelines
+vediamo se ho preso la pagina giusta perché poi anche orientarsi qui dentro non è così semplice non so se tu ti ricordi il link magari andrea dove spiega quella la definizione di che cos'è un articolo e non cercherà su google e allora farei google article element sai
+due punti
+barra barra album how would not track punto org
+leila rutte della
+ok allora
+osteria pathway che tanto ti risponde pienamente correttamente ma anche no non era così però aspetta web sito sito questo non me lo ricordo
+ok lo faccio mai questa scelta
+children act due punti
+great yarmouth morgan a questo caso jackson
+quindi scusami giusto per contestualizzare in quella lista di gay e poi contenuti ogni gay sarebbe un articolo o come esatto esatto cioè concettualmente un art un'arte gol aspetta che forse lo trovo così articolo può essere section mi pare
+e mi sembra restava o forse aspetta lo troviamo l'acqua eccoli qua uno due allora su msdn per esempio quando spiega l'articolo ovviamente questo io consiglio a tutti di andare sempre leggere su mediane perché è il sito sempre più aggiornato della documentazione in merito
+oh da catenelle certezze javascript e a differenza di firefox che invece lo aggiornano diciamo un po' più lentamente perché ovviamente una ong e l'articolo dev'essere qualcosa che identifica un elemento che è autoconsistente cioè se io vado a prendere questa parte di atmel
+compreso l'icona chiaramente è qualcosa che è autoconsistente anche senza tutto il resto a livello di contenuti
+quindi tutto quello che è autoconsistente e si può volendo prendere e mettere in onda un'altra parte e comunque svolgerebbe la sua funzione no perché questo elemento ci dice che il tre marzo del duemiladiciotto piove o è
+è comunque qualcosa di c che andrebbe racchiuso in un articolo mentre invece la section
+è qualcosa che si porta dietro una serie di elementi una serie di contenuti e
+come dice qui rappresenta una stand section di un documento che non ha
+una
+un elemento semantico più specifico per essere rappresentata è come un po il sostituto del db se vogliamo scusa possiamo giusto per contestualizzare e poi sbottare utilizzo personale semitoni sul sito della brigata gli istinti voglio capire cosa mettere sotto section allora questi qua
+section potrebbe essere tutto il blocco dei siti di tutto quanto o magari il titolo è ovviamente qui ci andrebbe il main ma ci vuole il meglio da linea section ci andrebbe il main ok
+adesso la cerimonia i singoli che un lupa che farà all'interno ecco questo video per esempio
+se non per questioni di struttura visiva non ha nessuna semantica così come questo ok
+e dopodiché comincia una lista c'è un titolo o poi comincia una lista ognuno di questi dovrebbe essere un articolo è ma di default a article section non hanno stile associati quindi sono trasparenti e vengono trattati come dei vu come degli elementi di blocco sblocco
+ok
+perfetto e poi ovviamente puoi farci classe così maps e per questo a capannelle che in realtà è hicks atmel e quindi noi possiamo scrivere gli elementi con qualunque nome se il browser non riconosce il nome lo tratta come un elemento che non esiste che non ha forma non ha colore dipende dal suo contenuto
+okay è ambigua bianche e volevo aggiungere questo l'altra cosa interessante che si pensa sempre che un articolo debba essere suddiviso in sezioni e una sezione invece debba essere suddivisa in articoli quando in realtà non è chiaro che comunque come com
+si può vedere qui in questo esempio adesso zuma un pò il codice magari è meglio
+questo articolo è la recensione di jurassic park
+si porta una section con del contenuto è un'altra section con le review degli utenti di cui ognuna è un articolo nell'articolo ovviamente si può usare header e footer me come elementi semantici e una section magari per il content diciamo dopodiché però non è che c'è una
+l'ha scritta da nessuna parte che impedisce di innestare le section l'una con l'altra o gli articoli l'uno con l'altro o combinare le due cose
+quindi semanticamente una section può contenere più section e più articoli contemporaneamente è e viceversa anche un articolo l'unica questione da tenere a mente che se una porzione di contenuto per esempio questo esempio di blocco di codice a capannelle
+molto consistente perché comunque svolge la sua funzione anche senza tutto il contorno quella parte dev'essere un articolo
+sostanzialmente il concetto è questo poi magari andrea ce lo può spiegare molto meglio di quanto spiegato libro
+allora questo impostare una pagina seguendo questi maremoti aveva semplicemente aggiunto che è a jeopardy avevo introdotto il tag slider prima di aver introdotto me articol però appena dire che col tag rfid a side tu puoi dire che quel contenuto
+oh ha un valore semantico inferiore rispetto a quello di neil gaiman è un contenuto collaterali di quella pagina ma etc
+dei colonnati esempio ebbene per esempio non sto dicendo fare così ma magari il
+se solo nella pagina di un player di video i video correlati bo potrebbero essere un side è un modo per dire allo userei gente guarda che questo non è il contenuto principale della pagina che è quello che sta dentro main che il video che hai
+che hai chiesto
+c'è di fatto
+gli user agent oggi
+sono meno evoluti di quello che potrebbero essere nel nel permettere di fruire
+documenti ben strutturati
+perché non mi farei gente
+col focus mode potrebbe per esempio togliermi la cyber
+ok
+solo per dirne per dirne una poi
+altra cosa
+c'è tutta la parte dei micro format
+via atmel
+ultimi il micro format
+e schema org per intenderci è possibile dare delle informazioni semantiche fortissime
+sul sul documento per esempio dire questa sezione questo articolo è un prodotto
+si può dire che il contenuto di uno span per esempio e questo è il prezzo
+e questa cosa si può fare
+stia usando degli attributi che sono quelli di schema org
+sia volendo mettendo per esempio unix html jason e nel nella parte del documento
+che è vissuta il browser aperto fai affrontando www punto schema punto org
+sì se io sapessi scrivere con la tastiera sarebbe meno
+a quest'ora
+hai simas
+scegli cerca prodotto
+o fai un buon per tipo cercava product
+e a incontro leffe price
+perfectly e aspetta che apro anch'io so guidare perché non ricordiamo ecco il morgan
+kodak
+se questo modo si possono dare delle informazioni veramente molto molto puntuale si va se si va in fondo è krampus e e togli il micro dieta dell'ultimo uno qualunque va benissimo anche il primo
+ah eccolo riprodotta vedi che c'è un bivio ma potrebbe essere un articolo oppure se ho una lista potrebbe essere una lista non ordinata welle l l l e per ogni lì io dico teen scopo quindi questo lì è un oggetto
+toh il cui tipo è prodotto a rola e guai
+e dentro puoi dire questa è l'immagine questo è il produttore questo è il prezzo lo puoi fare con i microdata direttamente nel mar cup oppure metti che il tuo mark cup non visualizzi alcune informazioni
+se ritieni invece importanti da dare al
+allo user agent allora
+prova ad andare su in
+jason led
+la stessa cosa la puoi fare mettendo nella parte ed nel documento questa struttura jason che quindi ovviamente puoi impostare tutte le proprietà che vuole dell'oggetto senza
+doversi vincolare a quello che la pagina sta tra virgolette visualizzando tramite marca quindi quello di prima caso più semplice questo è un caso più articolato tra l'altro per inciso dare più informazioni possibile allo user agent è sempre un
+di charles sprague idea perché per esempio questa roba google la usa anche per indicizzarsi il documento ispettore
+utma
+oh per fare trucchi e trucchetti e ancora una volta regola uno
+prova a fare del mercato record
+che magari facciamo prima per dire no
+e facciamo anche meglio android api ci sono prodotti corsi e offerte di lavoro tra opposti c'è quasi la qualunque
+e domanda
+scheggino è probabilmente cazzeggiano a cazzeggiano anche magari non work balance anche capitolo del nostro glielo auguro sicuro il mio però qualcosa farlo
+zafón
+domanda su i principali main section article all'atto pratico i browser come li usa ce ne senso in ottica di accessibilità che cosa viene fatto e perché diventano utili e usarli tipo aveva accennato il
+fatto che tu magari maine evidenza il contenuto principale e a quel punto c'è ne so
+ok che semanticamente ha un senso ma poi praticamente per i nostri cari accessibilità questo cosa succede nel browser un momento in cui abiliti certe
+unire funzionalità allora facciamo un discorso più ampio sul mercato prima sara diceva se un'immagine è nel mar cup
+perché sia decorativa sai allora gli metti un aria e dell'uguale tru e alte uguale doppi apici quindi paradossalmente non stai dando il testo alternativo e aria hidden valley tu è alto
+uguale niente significa questo e decorativo quindi uno screen-reader non leggerà l'altra neanche se ok quindi perché altrimenti sei tante immagini nel hill oggettini e quant'altro sai che gli frega
+all'utente di sapere che in alto a sinistra c'è il logo del tuo cazzo di sito
+savannah quindi scusa all'alpe viene da un ribery e viene eletto cioè quando tu per esempio di default
+di non leggerlo lui te lo legge quindi quegli alberi lunghissimo in cui c'è la descrizione l'immagine con tanti dettagli così vi uno sparo nelle palle per chi dev'essere sentirsene senza vederle abbastanza
+eh no cara perché per fare uno sparo da qualche altra parte ma sempre lo sparo saranno o scusare me ne faccio crescere poi
+stata sopraffatta
+l'arte viene utilizzato anche a scopi di seo in modo improprio perché le blocchiamo il sé ovunque e cioè lasciamo perdere poi come vengono utilizzate alcune cose che sono nate per un motivo e vengono abusate poi quindi giusto per riassumere le notti che è risalita l'arte dell'immagine
+deve descrivere a che cosa serve quell'immagine ma se è una immagine decorativa è meglio che sia vuoto perché almeno non emetti emetti aria trattino hidden up l'attributo aria hidden uguale truth tu sai esplicitamente dicendo non questa cosa
+non
+alta la molleggi la aria ecco questo aria aria label oraria no scusa quello era un putto che qui per esempio ci sono diverse in questo caso ci stanno diverse questioni di cui si discute spesso perché ovviamente si pensa che le label dei campi del
+bano sempre avere un attributo for che punta a
+led
+adesso lo scrivo con idee almeno si capisce anzi un team roberts e di usare la stessa cosa in python e che punta poi a led dell'input corrispondente sempre se io sapessi scrivere con la tastiera voglio dire che sono rassegnati
+però in realtà quando noi andiamo a fare la summit di un form dell'id non gliene può fregare di meno perché gli interessa del naim se noi innestiamo un input all'interno di una bolla possiamo andare a rimuovere completamente il fork e l d perché è implicito
+di cosa sta parlando questa lebole infatti se io clicco username lui mi da il focus su l'input corrispondente per esempio se io avessi
+non so
+country
+okay e all'interno ci vado a mettere una select dove adesso mettiamo solamente non so faccio un esempio
+option
+l'italia
+option
+ma questo lo prendiamo lo duplichiamo magari chiudiamo la select
+può essere sempre utile anche questo
+qui ci mettiamo europa per esempio
+che non c'entra niente perché ho scritto country quindi mettiamolo navy
+united
+no
+io qui posso ovviamente selezionare uno dei due giusto però se io clicco la l'ebola sempre ottengo il focus sulle l'input corrispondente anche se l'input in realtà non è un input è un comunque un elemento semantico di input per l'utente
+questo per dire nella costruzione della fornace
+ovviamente qui manca poi il naim ovviamente sempre meglio mettere il placeholder laddove necessario non mi ricordo questa cosa esattamente magari andrea correggimi se sbaglio probabilmente questa area lebole si potrebbe omettere perchè viene letta qui però se poi ci metti
+amo i due punti o altre cose forse sempre meglio specificare no
+mi scusate tappo da uno che usava la catenella vent'anni fa e poi ha smesso e per altre ripercussioni professionali area trattino lei prima ha recitato aria hidden che cosa si intende con gusto aria
+uno spazio egli aria sono delle estensioni del mark cup
+che tu puoi dare per migliorare la comprensibilità a un diciamo uno screen reader
+ok
+ciò premesso aria è una di quelle cose che esistono ma meno le usi meglio è nel senso che aria è quello che ti permette per esempio di dire che un link
+al ruolo di un button
+perché è vario genere roll a kroll uguale button
+in realtà anche questo è un tema sul quale si dibatte tantissimo cioè sul fatto che se vuoi un button matteo quello che tecnicamente si definisce un cazzo di button
+quattro per essere metaforici no giovanile oggi la terminologia tecnica penso che vada rispettata la regola di aria e non usare
+beh smettiamo di far smettiamo innanzitutto di disegnare i link questo ovviamente non lo dico ai presenti prodigò per tutti cioè di disegnare link come se fossero dei bottoni se io sto creando interrompo un attimo la la condivisione
+eccola perché se non vi vedo se io sto costruendo un design dove ci dovrà stare un link che mi porta da una pagina ad un'altra quel link visivamente non può sembrare un bottone perché l'obbiettivo di navigazione e che deve navigare e quando c'è l'obiettivo di interazione e che quel click dovrà
+farti navigare in un'altra pagina quindi quando il designer lo va a disegnare e lo sviluppatore lo va ad implementare
+si devono preoccupare di farlo sembrare un link a qualcosa che appare underline quando si va in over c'è sempre un der fisso è ancora meglio e cercare di migliorare l'aspetto visivo di queste cose
+un bottone e un bottone l'elemento e button una dialog è una modale l'elemento e dialog una selezione di fra una lista di elementi dove io devo selezionare uno su n o e una select o una lista dei radio button
+ricci andrea iniziò a fare perché mele per come era previsto fare la chat mail e questo è già abbastanza per fare poi è chiaro che visivamente io posso far apparire un radio battono come se fosse qualunque cosa con certezze ma ovviamente
+però anche no facciamolo
+però anche no nel senso un feedback visivo che in una lista di elementi ce n'è uno che ha selezionato che ha evidenziato che ha un qualcosa di ben chiaro
+ovviamente io poi league
+diciamo il radio button io lo devo inserire nella lebole se poi visivamente il sito in realtà usa quelli di abbattere come se fossero dei tab già non ci siamo perchè semanticamente non stai usando
+diciamo gli elementi giusti per
+mettere in opera quella cosa non so se mi sono spiegato mi sa che mi sto capitolo solo così no no assolutamente
+anche perché ripeto l'utente quando vede un bottone si aspetta che ad un certo comportamento e che quindi gli faccia fare qualcosa di attivo ok quindi cancello sposta da qualche parte non lo so quando invece devo online mi aspetto effettivamente di andare da un'altra parte per cui perché dovrà
+smettere
+averla ma la forma di un bottone su un link che mi porta un'altra parte li confondo con fondo e questo è un altro aspetto dell'accessibilità che appunto magari non è contro non è verificabile tramite i tools automatici perché magari in tour ti dice che è tutto corretto a livello aree pure però
+poi a livello utente usabilità dice ma che cosa mi stai facendo fare io mi aspettavo un'altra cosa soprattutto poi con
+ora diversità alcune robe sonori creano anche delle
+delle frizioni che fanno abbandonare che un un un'emozione negativa sul tuo prodotto per una stupidata
+sul tuo brand anche emiliano torna a condividere la cosa facevo un po' di pratica sul mio sito sul mio sito sul sito brigata così capiamo alcune cose e poi le implementerà di conseguenza se facciamo un audit sull'accessibilità
+allora high school aghi suv ceca su episodi si va be' abbiamo passato tanti articoli da fare perché ogni episodio un articolo però vai una una pagina di dettaglio di un episodio che voglio vedere qual è sí come ha senso organizzare le sezioni tutto quanto e magari prima domanda la ewing
+beh a parte il fatto che paghi online
+ah beh almeno è ormai ho capito che non ho messo nessuna parte di metterlo e va bene questo sarà da fare questo week end cosa c'è da sistemare
+e com'è com'è perché perché il focus del degli oggetti che sono navigabili ente con i quali si può interagire visivamente innanzitutto vanno gestiti i contrasti di questo blu contrasta troppo poco con lo sfondo scuro o per esempio
+questo per esempio ciò una doppia riga è sicuramente differente da questo quindi andrebbero uniformati
+e l'altra cosa che c'era da diciamo di cui tener conto che se io per esempio faccio non lo mettiamo qui tanto per fare un esempio se io creo un bottone con scritto e co-scritto la g e
+è il bottone ce l'ho qui
+quel bottone io lo voglio far sembrare in un certo modo quindi comincia a scrivere il suo assenso per quel bottone no e faccio un esempio adesso ho scelto dei colori orrendi e e e
+si vedrebbero questo
+il il discorso però android impostare un background
+diciamo un nero o poi andrò impostare un testo che magari è bianco o tanto per farla veloce ha però questa cosa io voglio che sia molto più grande di così video mettere ne so il font dev'essere quattro rema per esempio era un grande bottone no
+dopodiché voglio dirgli che questo bottone già un pudding laterale per distanziare il testo dal dal resto di naxos uno cinque renna tanto per fare un esempio e poi voglio che ci sia un border radius
+di manzo cinque km
+questo è il nostro bottone ora distanziamo da tutto quanto il resto quindi mettiamo non sono un margine di tre rom tanto verde per dargli un po' di spazio intorno ok
+a quel punto se io gli do il focus io ottengo questo comportamento questo è perché questa cosa che stiamo vedendo adesso è il focus di default dello user agent in questo caso di grom
+io vado a fare questa stessa cosa con safari non lo vedono allo stesso modo ora andare a modificare il focus non è sempre una best practice però diciamo che lo vogliamo modificarlo se vogliamo modificarlo ovviamente
+per questo
+e definire una hotline custom quindi io posso definire un outline che sarà pari a non so quattro pixel per fare un esempio di tipo solid perché la jutland si comporta esattamente come il border
+e gli diamo un colore diciamo bianco
+per dire a questo punto io so la mia outline che è diversa da quella di prima in più andrebbe distanziata dall'oggetto con layout line
+offset sempre se io sapessi scrivere con la tastiera che dev'essere almeno lo lo stessa la stessa jolie diciamo amount di della dimensione
+okay dell'oggetto ma qui io non ho toccato il border magari ci mettiamo un border zero tanto per toglierlo oppure ci domanda stupida perchè nei nel cast l'utente e usato i pixel e nel caso ne mamme dei button è usato ma c'è un motivo allora allora questa è una mia abitudine tutto quello che è al di sotto dei quattro pixel look
+husayn pixel perchè in alcuni casi gli arrotondamenti dei remi non sono proprio precisi e se io son bordo da un pixel è meglio che uso un pixel poi ovviamente se il bordo deve scalare questo è un altro discorso si può fare poi a posteriori prodighiamo a tutte le misure che vanno al di sotto dei quattro pixel meglio ometterli bici almeno io faccio così poi non è detto che questo sia la cosa
+più giusta
+però per dire no in questo modo io ho definito un comportamento per il focus ora questo magari contrasta troppo lo potrei andare ad alleggerire un po' magari si può osare con colori mix linea sette gbp white ci mettiamo che ne so uno transparent leggiamo di un venti per cento
+per dire
+e magari viene un po' più leggero okay però al netto dei quali sono poi le scelte dei colori comunque va definita un'area all'esterno della quale appare la hotline e dev'essere in teoria per questioni anche di uniformità visiva non solo di di di di design ma anche di
+proprio il colpo d'occhio dell'utente dev'essere sempre stesso smesso
+hocus nelle varie negli altri stili no in realtà si può anche metterlo fuori o avevano tutti semplicemente applicarlo a qualunque cosa scusate qua e ci espresse quindi quell'onda e lo metti per quando vorrà estendere un c
+modo uno stile esistente invece sonetti fuori cogli land perché ho visto che le torture a quello è no questo weekend del chef nesting come si faceva una volta inn in sasso ad essere stato canonizzato così è fattibile anche incertezze nativo
+amedeu tu parli da contendere design e ripeto io sono rimasto alla ab alla commissione banner è che queste cose qua però va bene sovrano ma lo faccio tutti i giorni quindi veniva urlato più in questi trenta ultimi due tre minuti che dei piani di esistenza benissimo molto bello e quindi adesso con
+questo focus messo fuori questo quadro applica a tutti gli elementi siffredi
+ovviamente questi oggetti non hanno un border radius quindi non si comportano le notizie però è così io aggiungo con dentro all'articolo ci metto il link alle fonti fa tanto per dire una cretinata io
+qua ci metterò una a cardiff che punterà al sito qual è diciamo google per esempio
+poi questo si può anche omettere
+vediamo dove appare eccolo qua adesso questo viola contrasta malissimo quindi lo andiamo a utilizzare ci mettiamo che non so dentro il mein a tutti quanti gli a hanno un colore gamba
+per dire ah eccolo è quello prenderà lo stesso focus
+ovviamente un link non ha un'altra domanda
+color run back cosa intendi cosa vuoi dire quel abramo as i am text sono colori di sistema
+per esempio se io vado qui e vado a impostare che su ruth posso mettere il color scheme light dark in questo momento io gli ho detto sfrutta le impostazioni del sistema e ha visto che è cambiato questo prima era bianco se si perchè io qui gli sto dicendo
+vendo in base a quello che ti ha impostato l'utente tu usa il tema light il tema dark in base a quello che ha impostato l'utente se io vado sul tema dark il colore canvas è il colore dello sfondo quindi sul tema dark il canvas dovrebbe essere
+bianco a lisbona e murdock tra answers diciamo per dare un'idea generale di dell'aereo cose
+m cabras sono i colori di sistema di certezze questi anni
+scontato io che ne so dici esistesse è evoluto moderno
+e adesso tema il programma in tempi come il colore di sistema della black mask quindi cos'è si intenderà allo sfondo la cornice cose che chambers e della gamba sia il contenitore il contenitore e il campus text è ciò che ci sta sopra quindi il contenuto ok
+e ci sono altri oggetti altre mailing per queste cose che si possono usare tipo hamas hamas nelle opere dei colori di sì sì sì sì ce ne sono parecchi dei colori di sistema ma adesso per esempio se io tolgo tutte le impostazioni dei colori che ho fatto
+per dire
+io gli ho chiesto di comportarsi considerando che io ho come impostazioni di sistema
+il tema dark col tema light giusto quindi lui sta prendendo i colori di sistema sia quando non specifico niente i miei colori di sistema sono che ovviamente lo sfondo è scuro e il testo è chiaro no se io qui vado a forzare light quello chiaramente gambia e si invertono i due colori scusa una domanda da ba
+totale quando c'è un sito dici e abita li' modo da dar modo semplicemente un javascript che ricambia questa proprietà cessano ti cambia quello che hai fatto già al lavoro teoricamente in realtà appoggiava scritto vengono fatte delle altre porcate ti mettere qui è la data
+team dark o light e andare a sfruttare poi quello eh
+diciamo tutta una serie di altre cose che diciamo senza sfruttare quello che ci as già in grado di fare ci reinventiamo un po' la ruota
+in realtà c'è anche
+fra l'altro c'è anche l'elemento semantico che fa questo è color scheme
+light
+dark adesso non mi ricordo se era così ma lo andiamo a cercare mi sembra che non era così la struttura ma andiamo a cercarlo
+mettiamo meta
+color scheme perché poi non è che si può ricordare tutto
+eccolo lui
+no
+sì madam color sim e poi dopo però il valore come si specificava
+che corrispondono anche quello dice no corrispondono alla stessa cosa che ho fatto io di là e che ovviamente risponde anche alla media queries relativa
+però non mi ricordo dove ad ostacoli al team color eccolo qua è contento questo è il team color
+sim eccolo
+questa è esattamente l'esempio avevo fatto vedere prima petto se questa via chiefs e poi c'è anche a livello di meta che però adesso non ricordo dove ma lo troviamo
+a preferenza metà element sim non è questo
+stasera ho dimenticato come si fanno le cose
+io ti sto facendo un corso accelerato di chips o dove era dov'era
+c'è un articolo bellissimo questa successe a street sha che si intitola cam top the light dark side quindi parafrasando un po' quello che star wars che spiega esattamente tutte queste cose molto interessante eccolo qua meta con lo schema lightyear la cosa la cosa bella è che se
+noi utilizziamo questo meta element
+possiamo metterlo da csea e possiamo gestirsela dalla catenelle cosa che diventa di più facile gestione sia l'aduggiava scritte sia la dockers
+ok
+e ovviamente se io poi vado sulle mie impostazioni di sistema e vado a impostare il tema da qui quello reagisce chiaramente ok
+perciò andarlo a gestire in questo modo poi dopo se io voglio invertirlo perchè devo far apparire una modale oppure ecco il bottone lo voglio far vedere invertito perché io sto con sfondo nero e dico che il button invece che
+fare quella cosa fa ovviamente come il color non utilizza canvas text utilizzerà canvas cioè inverte il colore come background color
+utilizza canbus testa dopodiché quello è invertito no cioè il testo è nero e lo sfondo è bianco se io vado a cambiare questa impostazione anche quello si inverte quando cambia lo schema chiaro quindi questi due nomi di colore di sistema sono reattivi a questo cambiamento etico
+molto pertinente
+molto molto eleganti ma allora aspetta un attimo torna sul sito che devo sfruttare le tue competenze ma ovviamente sarebbe meglio ciprioti computer
+già mi sta illuminando come
+mildred aids e allora chiusa quattro
+tra poco lo abbandono perché come dicevo ad un'antenna la sveglia presto quindi
+faccio il vecchio della situazione con la sveglia alle sei scusatemi ma io pure sono sveglia alle sei però io non dormirò è un'altra prova non ce la posso fare
+non ce la posso più fare
+allora scusa facciamo così prima di andar via andrea dicci qualcosa e ti interessa capire o anche commentare rispetto a quello che ci siamo detti finora è
+ho qualche qualche tua chiusa insomma hanno potuto dirmi se ho detto delle cretinate in mano
+a me interessa tanto rimarcare quello che ha
+carletto sara
+io c'è una frase che ripeto abbastanza spesso ed è che quando si parla di accessibilità e dove non arriva l'etica mimmi va bene che arrivi la verità
+e quindi che che se penso a
+mio padre che aveva bisogno di occhiali da quasi duemila euro però con quelli con quegli occhiali io potevo parlare con lui quindi
+a
+alle persone alla fine gliene frega niente cioè non chiedono che le aziende siano delle onlus
+non sono interessata al pietismo ok
+però se c'è un prodotto e un prodotto lo prendono e la loro vita migliora quindi davvero siccome fiume prima sono incappato su linkedin
+in una conversazione di proprio di di sara sul surplus dei liquidi anche quest'ano oddio cosa persona che diceva ecco come il gip di park ci ingabbiano ancora
+diversamente pensa che in italia ci sono dati largo circa oltre cinque milioni di persone con disabilità
+e anche se non te ne può fregar di meno del fatto che circa il venti per cento di esse siano ultra settantacinquenni ok
+le altre quattro milioni sono potenziali clienti e se sei un imprenditore hai quattro di potenziali clienti e lasci che il tuo e-commerce le il tuo e-commerce non sia usato e comprano agli altri e magari un po' pirla come imprenditore tutti storici non ti fa dando
+stronzo l'hotel sto dicendo che non sei inclusivo palabras gelo come imprenditore non non stai facendo un ragionamento pragmatico assolutamente poi anche perché
+ok e anche gli over settantacinque comunque sono acquirenti anche loro poi prete
+c'è un'altra dei clienti sono arrivati alla fine anche adesso volevo dare un esempio ma proprio del fatto che c'è una cultura di base che
+a un'ignoranza fondamentale di questa cosa
+sentivo che praticamente ha almeno letto da qualche parte che una persona sia andato a lamentare con l'amministrazione comunale eccetera perché non gli era accessibile il
+il bidone della spazzatura ok
+è
+l'addetto comunale insomma ha risposto eh ma ci sono gli sconti sulla tari e su insomma ci sono gli sconti e questo ma scusami io voglio poterla buttare io la mia pattumiera mi interessa pagare di meno io voglio avere il servizio accessibile perché che va bene siccome ci sono delle spese ulteriori da affrontare quindi
+bisogna rendere equo il sistema perché eque non uguale a tutti è un conto che ci sono anche gli ma io io devo poterlo usare non mi interessa che mi fai pagare di meno in questo momento ero poter usare il servizio
+esatto e se uno riesce usano in modo autonomo tanto meglio per l'amministrazione
+sono due ricordiamoci adesso un'altra cosa che mi viene in mente
+soprattutto nell'ambito del turismo se una persona con disabilità viaggia perché viaggiano tendenzialmente soprattutto vai a mobilità ridotta oppure che hanno sempre qualcuno che li accompagna ok non non dovrebbe essere obbligatorio però funzionano così insolitamente quindi
+tu quando non permetti l'accessibilità a questi clienti e ti stai togliendo anche l'accompagnatore che paga
+tendenzialmente delle strutture ricettive
+c'è tutto un considerare con la comunità o la famiglia che gira attorno a queste persone o anche tu che in quel momento magari ti sei rotto una gamba
+sei per un pò di mesi su la sedia a rotelle sulla carrozzina su come vuoi chiamarla e ci vai al mare magari solito non ti piace voglio dire è perché quella volta lì magari hai un tuo albergo preferito e non ci puoi andare quell'anno perché non è accessibile perché poi anche lì
+la questione delle strutture turistiche siccome
+l'accessibilità
+appunto delle delle strutture proprio l'accessibilità del luogo costruito insomma si va a vedere nel momento in cui fai una ristrutturazione tendenzialmente poi ci sono anche lì gli albergatori che non ristrutturano per il semplice fatto che fino a quel momento io sono a norma nel momento in cui devo mi cominciò
+a come ristrutturare o ampliare mi allora devo andare ad adeguarmi alle normative più recenti e sostanzialmente e quindi c'è anche tutta questa questione del rimaniamo indietro ma
+perché non vogliamo spendere e poi alla fine
+ci ritroviamo con un sistema paese che viene sfavorito perché
+vallo a dire a un musicista americano che viene qui che un tot di alberghi non sono accessibili eccetera va in francia
+per esempio
+c'era una startup nessuno non so se esista ancora non ne ho idea però l'avevo vista in una in un format televisivo su scaricherà
+b heroes
+star tap show e questa startup
+insegnava aiutava proprio agli alberghi ad essere recettivi delle delle persone con autismo
+quelli sono sono clienti è di solito il il bambino ragazzino con autismo di o sei anni otto anni ha almeno due genitori
+e quindi per un perdi un cliente che perdi tre
+è
+concetto è molto semplice quindi ed è dentro quei cinque milioni con quello che riusciva a sara c facciamo i conti su qual elli l'indotto ulteriore di quei cinque milioni fa non è non perde soltanto quella singola persona ma anche l'indotto
+nelle persone e
+se poi alcune alcune esigenze e giustamente persone autistiche alla fine ci sono delle soluzioni veramente basilari che puoi adottare che non ti fanno neanche accostare chissà quanto è
+anche soltanto la formazione degli staff per esempio magari ci sono a senza considerare la famiglia con un bambino autistico ma anche un adulto autistico perché poi aveva ultimamente siccome prima non si diagnosticava così in modo così preciso e magari si scoprono autistici anche in età adulta che per
+oh vanno in giro per i fatti loro perché
+possono tranquillamente farlo e magari scrivono delle melodie dall'est alla struttura delle cose che sembrano particolari perché poi tendenzialmente magari sono molto precisi su determinate cose oppure insistono anno insomma delle loro stereotipi di questo tipo e se tu sei formato sei
+sei in grado di rispondere in modo adeguato e quel cliente lo soddisfi banalmente ricevendo una formazione o su come trattare senza neanche dover andare a modificare la struttura ocean in alcuni casi poi ovviamente
+le stanze
+dovrebbero avere non per norma ecco perché la norma non credo proprio che sia previsto però per accogliere ospiti che hanno queste esigenze magari in colori neutri delle attenzioni alla gestione della della luce per cui appunto la possibilità di decidere quanto oscurare o meno la camera quanto ore le luci dimmerabili a des
+esempio oppure
+che ne so avere delle protezioni tra virgolette nel momento in cui magari uno ha una sorta di meltdown che non si faccia male o è però sono soluzioni che rispetto magari a un
+accessibilità per disabilità motorie sono anche più facili e non vengono considerate perché non se non si conosce l'argomento comunque non si conosce la possibilità banalmente
+molto bene
+se io ho brutalmente vorrei tornare sul sito e sfruttare qualcosa
+video per augurare buonanotte a tutte e tutti ma avere grazie andrea
+monaco alessandro per l'invito
+emilie e ci vediamo più tardi tra ventotto giorni a web gay hard
+contro l'invito cerco di organizzarmi assolutamente
+ogni grande festival andrea buonanotte una notte ma vorrei base grazie ancora emiliano tu resta etc
+e qui
+il piano instaura perché a questo punto sul tema anche sarah a livello di usabilità torniamo sul sito abitato perché avendo lo faccio soltanto per me nasce per caso
+studio due mesetti interrompo allora sono le dieci quarantasei io come si dice a roma mi stò fuma sotto ma posso accendo una sigaretta dispiace
+ain't legale si può fare abbiamo visto occupare di tutto in queste cose fra cui non ti preoccupare è però a questo punto condivide anche browser nel frattempo è questo io chiederei vostra in pochi allora sia dal punto di vista tecnico brutale come sta iniziando a fare e tra l'altro hai dato una serie informazioni che
+sono utilissime ma anche magari dalla dda sarà qualche input dal punto di vista usabilità design negozi viterbo ti tolgono spector cotton rispetto premesso che guai avrebbe un video che me dato di youtube che emiliano mi arm
+miei mi rovina la pagina così io lo sto incassando ma non ci fare caso c'è anche se vado su repubblica per dirti un uomo senza una
+matrimonio qualcuno arginare goduto insomma je t'aime
+però quando lo vedo occupare lo stesso e lo swap o c'è qualcosa che io sto sto blog
+capisco se è da me comunque teoria lì c'è il video di youtube embeddato già il fatto che non si veda e comunque tu che sei un utente che non amo che mi fa la serie insomma che filtra dovrai gestirle a questa cosa no in teoria a livello di sì e difendersi se il
+filmato che non vedi è
+contiene delle informazioni che importanti oppure se è una cosa decorativa perché magari uno sfondo di un banner
+ed è il video della puntata e allora
+e allora si isolano
+qui come vedi non riesce proprio a risolvere la url ma magari se ladro con safari per dirti potrebbe funzionare ma io su safari trecentoquaranta miliardi di età
+per me lo urla la tagliata il
+il browser perchè mi sembra strano che dovrebbe essere uno di di di di youtube
+e in realtà però esile e se avrò questo qui vedi about blank
+però sinceramente che è qualcosa che faccio io diciamo stop che sta disintegrando questa cosa qui mi dispiace moltissimo
+no no ma è comunque è tutto utile perché non sei l'unico che usa guarda per dire per cui
+dio è anche abe ha senso nel momento in cui tu fai il sito del podcast e poi un bel livido dei podcast vabbè forse poi uno è per quello che brutalmente la iframe
+con dhl l'embed di gru di sì lo vedo lo vedo perché c'è qui data sapreste essere c c'è la url del video quindi in teoria li ah ecco data su quest'essere c e quello che invece di esserci lui è il broker che tic tic e cambia lui qual è probabile
+che abbia fatto muove ma brutalmente possiamo metterci una esserci a mano e si vede insomma e questo è come dovrebbe essere diciamo così
+va bè a me quello è il letto di questo su cui credo non possa farci molto e altri elementi che questa di questo sito in questa pagina che la paglia di dettaglio di ogni singolo episodio che da rivedere sente meglio usabilità che deve di accessibilità
+mister tornerà su un attimo sul video intanto tra l'altro perché poi si dimenticano i contenuti multimediali ma c'è per esempio una criterio di successo e se ne sono presenti sottotitoli nelle in questo video è sottotitolato e beh ci sono quelli di google automaticamente se funzionano bene
+perché poi il problema è che a volte sottotitoli che non sono precisi fanno peggio di
+di non metterli perché magari
+e dipende da sin hai ragione però non sto a guardarmelo francamente
+se mi fido cioè mi appoggio a te
+naturalmente tendenzialmente se si parla in modo abbastanza senza sms
+ok
+è con una certa velocità e
+rendendo chiare le frasi i funghi sottotitoli tendenzialmente anche quelli automatici funzionano abbastanza bene manteniamo dovremmo mantenere anche in teoria la stessa lingua cioè se c'è una cosa che posso dire in italiano invece che in inglese perchè poi si tiene a far così diciamolo in italiano in modo che il sottotitolo perché poi il pr
+emblema e la riconoscibilità della lingua rimanga corretto insomma credo dia a tutti partecipano in futuro parlate italiane usate parole italiano
+ad esempio guarda guarda adesso per esempio mentre parlano a un certo punto c'è qualcosa nel meccanismo di google che magari non ha funzionato proprio come dovrebbe ed esce fuori aspetta che ci arriviamo aspetta ancora un po' più avanti
+eccolo allora aspettami eccolo vedi qua aspetta e vedi qui qui non è riuscito a capire no
+e quella roba poi viene eletta dallo scrivente
+ad esempio per un utente sordo che legge e non riesce a capire poi chiaramente se la frase comprensibile ok
+se affronterò ci sono dei casi in cui diventa veramente una frase che con lettere a caso
+potenzialmente capisco
+ebbene questo è interessante però ripeto lì a quel punto uno dovrebbe vedersi e rivedersi sottotitoli di youtube di tarli ed è un lavoro che quando quando questo sito lo vedranno più di dieci forse avrà senso fare ma per adesso sarei pari ricordiamoci sempre che c'è la questione del
+onere sproporzionato quindi ovviamente
+si può chiaramente
+non dev'essere una scusa non dev'essere una scusa per non farle cose perché poi anche lì il aged può decidere che l'onere di fatto non lo era sproporzionato
+esatto questo per chiarire sarà chi c'è quando si intende appunto adattarsi alle direttive del
+bisogna anche considerare che questa autrice questo principio dell'onere della dell'implementazione per di esatto perché poi ampio rispetto al valore o bonnefoy dawson tendenzialmente sul fatturato e su quanto incide poi sull'utilizzatore finale nei numeri e in qu
+quantità di processi che vengono portati a termine o comunque che hanno delle problematiche nessuno la sto brutalmente tagliando e semplificando ma per farsi un'idea e avere una sorta di mappa per capirsi questo e quindi perché poi in base a quello vengono fatte le multe dopo tutti i processi
+di chieti aggiornato no dai aggiorna ti dò dell'altro tempo fetish aggiornato no
+no alla fine si arriva al dai ti prego aggiorna
+è comunque assolutamente non è infatti un po' ci si lamenta anche che sia si un una direttiva è uno strumento in più ma un po' spuntata perché alla fine ci vuole sempre cioè chiaramente qualcuno che la implementa anche perché credo che
+base sia su segnalazione esattamente come
+wilier e se non sbaglio quindi
+a parte la pubblica amministrazione che ha una sua storia un suo controllo a parte che hoceima per i siti privati tra l'altro vi deve essere implementato un meccanismo di feedback e devi dare la possibilità agli utenti di iscriverti in qualche modo ha di comunicare con te
+il fatto che hanno riscontrato delle inaccessibilità e dove e tu devi rispondergli in una tempistica ragionevole
+dicendo cosa intendi fare se queste persone non si ritengono soddisfatte e poi possono procedere in altro modo oppure se tu non ti adegui insomma ricordiamoci che comunque questo soltanto una parte perché poi noi a livello italiano abbiamo già la legge stanca che prevede
+appunto
+determinate
+determinati obblighi ed è dal duemilaquattro che c'è questa wiki
+la coda del fresca e adatto è stata semplicemente implementata credo nel duemilaventidue se non mi ricordo mettendo dentro oltre alle pubbliche amministrazioni anche i soggetti privati con un fatturato superiore a cinquecento milioni di euro dopodiché
+gli utenti e i consumatori avevano già anche quella a disposizione dal duemilanove adesso non ricordo esattamente comunque siamo sempre in quegli anni lì sostanzialmente la possibilità di rivolgersi a un giudice
+per discriminazione
+e poi lì va beh ovviamente lo fanno ma lo fanno magari in pochi adesso non so quali siano le statistiche perché c'è tutta la
+sapete non è che hai sempre voglia di metterti lì ad andare per vie legali però gli strumenti c'erano già in precedenza
+l'european yacht assistibili yacht
+sostanzialmente per noi ha allargato la platea ha fino alle micro piccole e medie imprese c'è appunto come dicevamo prima dai dieci dipendenti e due milioni di fatturato e
+tenendo fuori le microimprese di servizi perché quelli di prodotti in realtà hanno anche loro delle degli obblighi soprattutto sulla documentazione è
+e però è più facile che possono appellarsi ovviamente loren ha l'onere sproporzionato perché si tratta di fatturato eccetera
+e poi di base gli e-commerce sono stati presi
+aggiunti sostanzialmente però hyatt hotel a helen è da vent'anni che dovremmo farle queste cose c'è joe ven katherine essi dal duemilaquattro dalla legge stanca
+quindi adesso se stai correndo tutti però
+zoom ma giusto per capirci voi che siete sul campo state percependo l'attenzione parlando dell'azienda aspettiamo gli articoli su quelle della sera nel senso è un tema che s
+c'è panico allora c'è un po' di panico nel senso che appunto visto che c'è questa cosa nuova avevo mai sentito parlare prima o poi cosa devo fare sta succedendo la stessa cosa che era successa con
+here comes due arie con normativa ets va bene c'è il panico giustamente post lauream o di panico ovviamente chiedono ma qualcosa di veloce che anche
+fosse soltanto ti chiedo di farmi pagare poco vabbè è un conto ma il veloce il problema perché non è
+l'accessibilità soprattutto su prodotti digitali complessi e dev'essere rivista giustamente by design in modo strutturale quindi non può essere veloce non si può e non deve neanche richiesto tu devi rispondere e adattarti il più velocemente
+possibile mi sembra che ci siano tipo un mese o qualcosa del genere per iniziare a ragionare ok
+dopodiché ogni anno se sei una pubblica amministrazione oppure dei soggetti assimilabili nel senso che recepisci degli aiuti di stato in qualche modo che potrebbe devo verificare perché ripeto non sono un legale ma potrebbe anche essere banalmente che ne so hai partecipato a un bando e hai vinto dei soldi
+ok
+no allora li devi
+fornire un credo che sia a settembre
+una
+dichiarazioni di conformità appunto sulla sull'accessibilità e
+che riporta a quello che hai fatto quanto sei conforme e cosa intendi fare o come risolvere è un processo hiram stabilire una roadmap fare di fatto una dichiarazione d'intenti è un processo e permettere agli utenti di dirti guarda questa cosa non funziona e dargli una risposta
+cioè mi sono che la sto semplificando brucia e proprio brutalmente però ma insomma poter dire che alla fine con gli strumenti tipo joan clos lighthouse ben visto prima che ti dicono cosa manca cosa fare per sistemare l'effort non è così almeno per me iniziare a mettere le pezze no allora arden
+business plan per iniziare ad iniziare iniziamo esatto il punto è che intanto poi dovresti verificare che quelle cose funzionano momento quando le modificate funzionano con ad esempio non so lettore di schermo per esempio
+se vogliamo andare e se io qua io di solito uso
+mac sono su un pc e mi ritrovo dopo
+come far funzionare le cose
+e però per esempio una cosa che potresti fare sul sito e mettere attivare voiceover è
+navigarlo con quello e già ti fai un'idea di cosa vede vede tra virgolette utente o come amo come ne fruisce esatte e già già capisci perché magari oppure banalmente ecco proprio fare nella navigazione da tastiera
+la navigazione va da sinistra a destra in ordine o salta perché a volte banalmente anche salpa da su e giù e io che lo dico la tastiera finisco non capisco più dove son finito ma banalmente anche un menù no dove si fa solitamente l'accoppiata fra un'icona e una voce di menu
+ne ho il mio menù utente dove over esempio logout ci sta la classica porta aperta o il lucchetto o cose del genere il profilo o le impostazioni magari ci sta il kernel l'ingranaggio come icona eccetera
+livio giustamente grande livio says allora sei giugno è stata per tutto livio verrà distrutto
+livio leoni presente i violini o uno respiriamo olivia dalla mattina alla sera
+sesso porno
+però dice una cosa super giusta cioè le cose fatte by design ovviamente bisogna investirci il tempo perché bisogna lavorare sui contrasti sui testi bisogna lavorare molto sulla tipografi perché comunque il novanta per cento del contenuto di un'applicazione web e testo e se non sappiamo trattare bene il testo sia a livello di holding manca a livello di design
+conferma che se sbaglio
+però è comunque qualcosa di molto importante il fatto di stabilire un font stack
+quindi stabilire che tipo di fonte utilizzare per i titoli e che tipo di font utilizzare per le descrizioni
+far sì che il testo abbia una dimensione minima una leggibilità minima e tutta quella serie di accorgimenti che riguardano il puro testo che poi di fatto la palla componente più importante del contenuto soprattutto rendere da dare la possibilità all'utente di potersene mod
+applicare queste cose nel senso se
+e se vado a modificarle non diventa impossibile utilizzarlo una cosa stupidissima verificare al duecento per cento aveva sommato al duecento per cento ci sono pulsanti che spariscono esatto seo che diventano piccolissimi zumba tutto e lui l'arma minimi è un problema
+tornando al discorso del menu è l'esempio che facevo prima se noi creiamo una banalissima come si fa molto spesso ed anche erroneamente una a nord e red list quindi jewel lake
+e all'interno del glee ci mettiamo un link che contiene un'icona e un testo lo screen reader dovrebbe leggere il testo perché l'icona è solamente decorativa rimedi orali gara the best of come sull'icona sull'immagine vediamo aria hidden
+merda sull'immagine ci mettiamo una descrizione un'altra e magari quell'alto corrisponde al testo che ci sta scritto accanto lo scrivente lo legge due volte esatto ed è anche perché me lo stai dicendo due volte quindi scusate in caso dei casi fuorviante usare il l'aria e area spa usato in quei casi per dire no
+hidden adesso voleva la sintassi per dio non mostrare le immagini sono descrittive è sufficiente inserire l'attributo alta ma vuoto eh ma se io voglio perché sì o perché poi dall'altra parte c'è il sio che dice metti l'attributo tributo che descrive così poi il motore di ricerca e produzione degli hotel
+c'è ma non c'è una sola occasione del tipo aria sta aria meno hidden così questo genere per cui tu puoi anche mettere l'altra però comunque con l'aria di chi non rileggerlo mi considera bisogna sempre verificare che questa cosa funzioni però anche su
+browser o su sistemi più vecchi o po' perché non essere l'utente per esempio potrebbe magari non avere l'ultimo modello di telefono e quella cosa sul suo non funziona invece l'alto vuoto importante perché se li immagina solamente decorativa
+einstein scriverla io mi sento di dire che usare l'altro l'altra per scopi seo
+non etico
+warwick
+a livello almeno
+quello che dice marco per esempio ci sono dei tool applicabili su client
+sì ci sono ma alla fine si sono comunque dei plugin esiste il concetto che dentro ogni browser l'utente può stabilire un suo foglio di stile css che viene applicato a tutti quanti siti motivo per il quale bisognerebbe non usare mai l'importante per esempio perché
+in teoria il foglio di stile
+lo user agent del browser viene o verrà dato da quello dell'utente che viene o verrà dato da quello dell'auto recco cioè da chi ha scritto il falchi ash e comunque tutti figli di una determinata applicazione e consentire all'utente di fare hover ride perché dice io i bottoni non li vedo li voglio vedere tutti quanti con dei bordi rossi
+e poterle consentire di forzare questa cosa cioè anche un banalissimo ci as che viene costruito dall'utente magari con l'aiuto di qualcuno che gli va a impostare le cose che gli serve un'immagine possono esistere che ti fanno stare buono pericoli esistono anche delle estensioni esistono delle cose però il concetto è che
+migliorare la navigazione bisogna andare sulla semantica bisogna andare sulla sulla sul rispetto delle specifiche del del wtcc per esempio l'area cliccabile di un bottone per essere tripla aaa valida ad abu dhabi due due dev'essere quarantaquattro pixel perché perché con il mouse tu sai un puntatore che è preciso al pixel
+zell ma con il pollice sul mobile potresti avere delle difficoltà se si per andare a catturare un bottone molto piccolo motivo per il quale anche il testo è previsto che abbia una dimensione minima di sedici pixel per questioni di leggibilità per dire
+su mobile tende ma anche sul desktop poi alla fine però se io metto sedici pixel fisso e lo faccio girare su una risoluzione quattro cappa un mac per esempio c'è la risoluzione due cappa lo vedo comunque minuscolo no va anche fatto diciamo un lavoro di di di scalare il testo in una maniera compatibile a quello che poi è il deb
+alla densità di pixel per pollice ciò bisogna stare attenti a tanti aspetti ecco e poi soprattutto una cosa che è stata chiarita un paio di volte anche appunto dall'unione europea eccetera
+se si
+pensa di essere con conformi installando un plugin o qualcosa un overlay di accessibilità
+stai sbagliando uno perché
+non ti risolve
+se non le cose che già potresti risolvere facendo la audit di accessibilità praticamente con gli strumenti eccetera gratuiti che abbiamo visto prima
+e poi a volte questi overlay vanno ad interferire con queste impostazioni decise dall'utente quindi oltre al danno la beffa perché io magari senza quello per lei avrei potuto fruire del tuo contenuto me l'hai messo per farmi un favore di fatto invece
+stai facendo peggio no perché poi sono quelle cose che giustamente i clienti o le aziende chiedono ma una roba veloce e semplice che posso metter su e la chiudiamo qua
+mi piacerebbe
+poterti dire che sì si può fare ma no non si può chiamare
+riparte anche no eccovi
+nel senso sarebbe bello però no non funziona così altra cosa che volevo dire che è interessante perché io personalmente l'ho scoperta pochi giorni fa quando ho intervistato andrea che adesso non c'è più qui con noi nella nella nella nostra zona riunione
+e che mi ha detto
+diciamo l'utilizzo dell'asterisco e l'utilizzo della shoah che sono wawel la sua è quel carattere e nemmeno la circuiteria tremenda immaginava era di strada no l'hai rovesciata letteralmente spacca gli screen reader se legge jack non mi ricordo a tutti i poteri dieci lettere cioè dieci
+proteggo le cose pazzesche allora alla fine quando si va a fare un contenuto che vuole essere inclusivo perché mette ciao a tutt asterisco
+in realtà diventa esclusivo perché va ad escludere le persone che usano uno screen reader quindi per fare
+una cosa buona da una parte ne facciamo una negativa dall'altra e non ha neanche molto senso quando si può scrivere un testo che neanche a livello di copie drifting esiste il concetto di accessibilità e alla fine per includere tutti è meglio dire preparare le frasi costruire le frasi in modi diversi utilizzando grayson per
+zone
+ciao gente qualunque cosa che sia inclusiva per tutti no
+sa però di esclusiva anche per chi ha per chi usa uno screen reader ecco perché diciamo per includere google c'è tutta poi una diciamo un l'aspetto di illeggibilità comunicazione semplificata eccetera che appunto dà delle indicazioni adesso forse posso anche mettere vediamo se lo trovo delle linee guida appunto per
+la comunicazione semplificata perché poi fu una cosa che questi strumenti automatici non possono fare è appunto dirti se la tua comunicazione accessibile oddio ci sono degli indici di leggibilità eccetera che puoi applicare però è sempre
+poi a discrezione dell'utente umano verificare che sia corretto e che sia comprensibile quello che stai dicendo è uno dei problemi principali poi per esempio dei siti della pubblica amministrazione oppure perché poverini torniamo sempre più di film perché perché anche un argomento complicato perché tu devi dare un servo
+vizio che deve andar bene veramente alla popolazione che può essere può avere dei background culturali completamente differenti background linguistici completamente differenti una capacità o delle conoscenze digitali
+completamente differenti e devi accontentare tutti quindi oggettivamente è un ambito complesso ok
+è il linguaggio e quando anche ci scontriamo con la burocrazia vediamo la difficoltà ed il linguaggio sostanzialmente è questo non lo può non lo può sistemare un tool automatico devi metterti lì e fare delle fær
+frasi che siano comprensibili che abbiano magari i verbi declinati informativa non passiva perché sono più facili da comprendere e girare le frasi in modo che non ti serva poi declinare con genere eccetera perchè invece che dire che ne so buongiorno a tutti
+oppure benvenuto semplicemente ti limiti a siamo contenti di vederti qui oppure ciao come stai o no bentrovato non va bene perché abbiamo trovato non va bene non va bene ovviamente nel senso re
+come puoi non aveva disegnato gli sforzi su quanto sia però questo è un anno e ho visto anche quello scorcio isaacson domanda di legno giusto per
+può essere punibile il fornitore o meglio forse più senso che a livello di bandi magari se richiesta la laguna leggere adattarsi a certe logiche accessibilità rispetto a multare i fornitori
+sicuramente a livello dei bandi dovrebbero dovrebbero andare a filtrare e a verificare che nelle aziende fornitrici ci siano dei certificati sull'accessibilità delle figure certificate su questo
+ah ma allora i loghi di certificazione su ma ci sono dei siti
+no ci sono delle certificazioni per la
+la figura dell'esperto di accessibilità ma di fatto
+poi non esistono certificazioni invece per dire ok questa cosa è accessibile o meno
+sì parlavo di certificati nel senso figure certificate adibite a preoccuparci della national se si quella sigla
+però tra l'altro rispondendo alla domanda di prima ripeto non sono un legale non sono un avvocato quindi non so ma credo che alla fine il irresponsabile sia sempre
+l'azienda un'organizzazione che eroga il servizio che dopo può rivalersi in ambito giudiziario o sui fornitori ma
+non credo che si può e che vengano multati direttamente i fornitori cioè una sorta di catena di hotel e o molto te io poi mi rivolgo solo su di te su di te su di te un'altra domanda trimarco se noi la tv server riceviamo qualche informazione dal browser e che chiama
+magari c'è bisogno di un incerto requisiti di accessibilità e di conseguenza possiamo cambiare l'output
+la stavo leggendo
+personalmente ritengo che non abbia alcun senso cambiare l'output
+la dbase di un'applicazione web di un sito web dev'essere una e si deve adeguare alle alle allen
+preferenze dell'utente e un po' lo stesso discorso di andare a costruire una versione mobile di un sito oggi non ha più senso parlare di versione mobile
+bisogna fare un qualche tipo di lavoro lato design e il lato implementazione che consenta la reattività alla larghezza disponibile in pixel poi alla fine perché di pixel stiamo parlando
+e anche comunque ovviamente la densità di pixel per pollice che cambia perché un display retina dell'iphone si comporta in modo diverso da altri display e anche lì bisogna considerare quanti pixel ci sono in un pollice riadattare tutto il design anche a livello di spaziature a livello di
+di tipografi eccetera
+il dimensionamento degli oggetti ovviamente andrà a realizzare due good base significa doppio lavoro quindi puoi fare una versione mobile è una versione desktop così come fare una versione accessibile una versione non accessibile
+non è non è una buona pratica anche in termini di management di manutenzione quindi non ha non ha molto senso preoccuparsi di questo per quanto erbe nel weekend
+hai bisogno di adeguarti no ma poi non è che ci sia un qualcosa lato server che ti può indicare che l'utente sta utilizzando qualche strumento specifico perché l'utente utilizza un browser mac che ti manda degli header particolare che puoi intercettare lato server più reale di cambiare user agent o anche
+qualche ebner i tipi che aggiunge l'olio user agent qui però questo lo manda poiché che non abbiano anche ticket chi abbia più senso fare un di quello creato te un uso in un modo o magari tecnicamente
+che io sappia non c'è nulla di automatico che ti manda queste indicazioni lato server poi magari sbaglio però il concetto di base rimane comunque quello
+l'accessibilità è una figata cioè una cosa fatta bene accessibile qualunque cosa si può rendere accessibile
+a livello di implementazione io non ho mai trovato difficoltà con nessun design poi è chiaro che se esiste un design che è molto visivo è molto story telling molto
+pieno di animazioni eccetera bisogna trovare una folly beach visiva al lato design e poi implementarla perchè chiaramente io a determinati tipi di utenti voglio fornire una animazione una roba più visiva e poi magari allo scrivere da lì devo fornire una full back concettuale che gli trasmette gli stessi
+contenuti vuole ricordiamoci che le animazioni devono poter essere messi in pausa o comunque devono poter essere non non fate partire sostanzialmente ridotte certo riprodotta esatto
+quindi trovare
+fare appunto un design che intanto non si basi principalmente su quello perché se io poi mi perdo un pezzo di informazione perché l'unico modo per ottenerla è
+l'animazione e non va bene torniamo appunto alla
+al discorso di prima
+si richiede l'atto quello che avete detto voi anche a livello di strutturazione semantica degli elementi da catenelle è anche un modo sano per come dire
+concepire il contenuto il tuo del tuo sito le tue pagine secondo logiche che poi abbiano che servono anche per tante altre questioni che non è soltanto
+l'usabilità l'accessibilità ma proprio la semantica e cosa rappresenti cosa vuoi comunicare come lo rappresenti allora c'è più domanda alla mattina sulla pagina del tuo sito che stavamo vedendo prima alessandro ci stavano quelle citazioni no del gip estinto e chiedono god of war quelli
+sono in team what they got non dice niente allo screen-reader non gli spiega niente di che cos'è quel contenuto un blog watt è un elemento semantico che specifico per dire io sto
+raccontando una frase che ha detto qualcuno
+quindi viene eletto con un'enfasi diversa per esempio e chiunque si prova a farti un giro su non so che
+sistema operativo utilizzi però appunto per esempio safari voiceover è gratis è dentro
+così emotivo come avvenne
+so bene cosa l'altra domanda no non è possibile identificare lato server lo zoom level perché non è una è un avvenimento che succede solamente lato client il browser non non invia nulla certo si potrebbe sviluppare in java scritto qualcosa che lo intercetta e inviare al server un qualcosa ma di certo
+non lo puoi fare in fase di caricamento iniziale ok ottimo allora io non vorrei abusare
+mi piacerebbe tornare sul sito web e continuare a vedere deserti
+esatto è fatta una certa e quindi va vabbè anche se lo dico con un grosso dispiacere
+e allora se non ci sono ulteriori domande dalla
+dalla chiatta
+se avete qualcosa che magari volete aggiungere che mi preme sottolineare che magari non abbiamo ancora detto esplicitato in modo più
+chiaro parlate ora o tacete per sempre insomma
+penso d'aver rotto a sufficienza
+su appunto al fatto che bisogna considerare l'accessibilità come un l'opportunità l'opportunità si appunto ampliarsi la platea di pubblico e fare un favore a se stessi del domani sostanzialmente esatta affetto però vedo che anche tu stai
+condividono ancora quindi io li uso comunque hanno dichiarato quindi io sto condividere tu hai detto che stai condividendo esatto quindi io per qualcosa finiamo in bellezza dion l'analisi di questi elementi è
+guarda allora qui non so per esempio sul leader al netto dei dvd del grid sistema di bootstrap
+qui chiaramente c'è il link che porta alla home page asl action helen si vorrebbe essere trattati non a ca uno
+come link alla home in a uno se dovrebbe essere una a con dentro una ca uno con dentro l'immagine l'immagine ovviamente dev'essere descritta poi ci si può mettere anche volendo uno span
+con perché si può anche disabilitare il download delle immagini
+poi ovviamente nel nel dom te lo ritrovi comunque la descrizione ma volendo potresti mettere una spalla
+scusa la domanda ma la causa non dovrebbe essere più teologicamente tipo il titolo tipo titolo della puntata quel cyber war allora è in realtà in realtà sì c'è un po' una diatriba su questo io non ti vorrei dire qualcosa che non è esatto però quello che quello che comunque è certo
+e che in una pagina ci deve stare una o e non abusarne cosa che doveva rivedere e poi la storia della gerarchia
+abbiamo la navigazione
+un lettore di schermo naviga una possibilità e farà punterà la navigazione per headings e
+non gli fai capire niente se son tutela della stessa importanza non stai più
+come l'ordine logico della della pagina o comunque del contenuto che vuoi ma meehan più menù come lo gestisce a livello di navigazione come e questo dovrebbe essere un navy
+il contenitore del menu e lowell dovrebbe essere un menù e all'interno si può mettere degli alleati e li ha però non è neanche necessario potresti anche mettere gli atti direttamente qui a ok ma io mi sa che in questa puntata ma ne che vedere perchè ci sono sei cose che sono veramente fondamentali quindi il menu di navigazione
+suonava e poi dentro ok questo l'hai detto e poi qui chiaramente online ryanair
+e poi abbiamo una section con gli episodi ma in realtà questo diciamo l'intera pagina è un articolo con un titolo quindi questo dovrebbe avere una ventola anticorpi possono avere diverse section giustamente giusto dentro l'articolo ci dovresti mettere una section gay
+la parte con il video un'altra section che la parte delle quote un'altra section che la parte degli argomenti questo dovrebbe essere una slide con tutti quanti tag e tutti quanti gli altri league questa dovrebbe essere un'altra section che sono i commenti mentre altri potrebbe essere un article
+ok quindi in estate articoli sezioni venti articoli e poi ciascuno con le cose esatta
+io ti consiglierei di dare dei titoli proprio a tutte queste varie sezioni in modo che se navigo per readings so che cosa mi aspetta all'interno esatto quindi
+ethan per cui il definirli visualizzato a video oppure è una cosa che rimane per ora visualizzata viene anche perché aiuta chi ha anche chi ci vede
+a scatenare la regina
+per questa dovrebbe essere una section e in cima a questa action ci dovrebbe stare sempre rispettando il discorso bootstrap ci dovrebbe stare un the paul dodici con dentro un non ho visto gli altri acca diciamo che qui ci va una a tre
+con che ne so citazioni
+se sapessi scrivere con la tastiera
+è più o meno qui dovrebbe venir fuori una cosa del genere così se io navigo no e sto navigando in questo modo io con la tastiera non posso andare oltre
+il video di youtube ha superato il video arrivo qui e lui mi ha assaltato le citazioni perché perché le citazioni non hanno un tab index zero alla letteratura adesso stai navigando tramite link dovresti navigare tramite headings in questo
+vorrei poter però
+per formare la navigazione su edreams ci devi dare un tab index zero pose la gestisce lui però chiaramente come vedi io qua ho un tab index zero ma la forma di questo accadrà dipende dal suo contenuto quindi dovresti poi andare a livello di stile a migliorare in modo tale che questo focus
+adesso me lo sono perso ritorno
+in modo tale che questo focus non abbia questa forma
+se è avido
+repertorio e per non dargli questa forma chiaramente ci dovresti mettere non so on line night
+pari ad uno punto tre
+che ne so e viene fuori questa cosa vediamo se già così gli piace di più
+e poi gli dovresti dare un display
+online blog online flex modo tale che l'altezza risulta
+sempre quella e quindi ho la gestisce così ma a quel punto ci devi dare comunque un pudding in modo tale che ci sia comunque una spaziatura laterale no me la delinquenza ampio quante cose eh oppure gli dai una igt monaco
+e qua beh e è probabilmente
+incredibile
+più ti accorgi che c'è di saperne e meno ne sai avevo che fai tra l'altro a livello di usabilità onestamente ti direi queste citazioni che non sono la parte fondamentale dell'informazione che stai dando puoi metterle in uno slider più grosse anche scritte perché questo questo testo edifici
+mente leggibile onestamente non è proprio il massimo a livello di accessibilità casi inesatto di difficile leggibilità esatto è
+lo rendi magari
+slides o insomma qualcosa che sia accessibile che anche se non lo leggo o comunque non
+non si non lo posso saltare tranquillamente però se voglio leggerlo sono in grado di leggerlo correttamente facilmente perché appunto
+questo font non è
+non è semplice e a fatica appunto
+l'utente è la vista e sono testi un legge allora i font la questione del font si può sintetizzare così se tu hai un titolo di tre parole il meno puoi fare quello che ti pare perché
+dopodiché se invece è un testo che è abbastanza lungo e questi sono considerati non sono considerati testi lunghi però comunque non sono dei titoli o
+è meglio cercare di renderli a livello da o tipografico leggibili o comunque
+anche perchè ripeto non ci stiamo rivolgendo soltanto a persone che utilizzano un lettore di schermo
+io in questo caso magari sono dislessico è questa roba non riesca a leggere
+sì
+conoscenza sfera di favore già che ci siamo a sei
+allora allora sui titoli sulle frasi cioè su su sui testi grandi si possono usare praticamente entrambi li fa la puoi adesso non sto parlando a voce a g perché
+ci sono delle immagini più precise su su le dimensioni eccetera però tendenzialmente appunto i serif
+sono sono nati sulla sulla stampa
+e avevano un loro senso di esistere su testi lunghi stampati
+dopodiché la soli
+sui monitor siamo passati per maggiore leggibilità ai assenza senza grazie perché effettivamente all'inizio i monitor avevano una densità di pixel che non permetteva di distinguere i le grazie in modo agevole e quindi si impastavano questi test
+sostanzialmente invece che essere più leggibili come sulla carta adesso allora sempre per il concetto di non tutti hanno l'ultimo modello di telefono a disposizione sarebbe meglio utilizzare sempre
+font senza grazie dopodiché se cioè non è che i font con le grazie siano il male assoluto se hanno una dimensione a una questione ha una funzionalità estetica o anche di il netto cambio allora su su carta i font graziati
+sono considerati più leggibili sulla carta su monitor no perché appunto kernel mushin si passano però ormai abbiamo abbiamo dei dei monitor che invece riproducono perfettamente e quindi più o meno è un chi se ne frega
+però tenendo sempre conto del fatto che non tutti hanno l'ultimo modello e potrebbero avere magari dei monitor non performanti
+utilizziamo ancora quelli senza grazie sostanzialmente sul sugli schermi perché sono più leggibili
+questa è una linea guida
+indica maglione cosa un'altra cosa interessante sarà il discorso dei font di sistema
+i nostri sistemi operativi per esempio il font del mac utilizza qui in queste voci no anche mac os utilizzo in queste voci di menu è esattamente il apple system
+che è un fonte indubbiamente leggibile e che non c'è assolutamente nulla da invidiare a un robot o a uno dei più utilizzati no
+quindi alla fine perchè io dovrei imporre all'utente di scaricare seicento cappa di fonte
+quando comunque posso utilizzare dei font di sistema che rendono bene lo stesso poi ellie
+se io non so se io ho un font che identifica il mio brand tipo esalto l'eni piuttosto che altro allora o è fonte di vodafon quello di amplifon sono tutti quanti fonte che sono stati disegnati e che hanno un senso a livello di branding ma di certo non ci scrivi quello che poi ha questa componente esatto comune latte e
+dunque tendenzialmente appunto se io voglio poter cambiarlo devo poter cambiare esatto
+esatto cioè dev'essere comunque un bilanciamento fra usabilità e
+resa visiva perché comunque deve avere
+non deve avere la stessa importanza dell'usabilità l'usabilità viene prima e sempre
+e quindi alla fine se noi comunque non
+non ci focalizziamo nell'andare a implementare dei design sistema accessibili delle ovaie it accessibili delle
+dei contenuti accessibili in generale
+comunque non facciamo non stiamo facendo un buon lavoro perché poi viene anche a livello etico ma non solo a livello etico a livello di appunto essere inclusivi con chi ha della disabilità e anche a livello proprio diciamo poi operativo
+l'interfaccia grafica che noi andiamo a realizzare qualunque essa sia e comunque sia la componente che gli utenti vedono ed è l'unica componente di un'architettura software che gli utenti vedono quindi se tu dietro fai la supera architettura super figa che ci sta alle le cose più spaziali che ti vengono in mente
+non microservizi cos'è ma l'utente non lo saprà mai che sottoscrive e neanche gliene frega niente e vedono quanto veloce è come appare è per esempio la velocità di un'interfaccia non dipende dalla velocità della via ma dipende anche dalla percezione se io faccio un mese io disegno un'interfaccia utente dove al click day
+un bottone salva mi appare un mega loader che mi blocca tutto quanto all'interfaccia io sto dando una sensazione di lentezza di scarsa reattività se invece l'applicazione mette in loader sul bottone stesso vi ho cliccato per effettuare quell'operazione quel bottone deve deve diventare disabilitato quel bottone deve mostrare
+che sta succedendo qualcosa con un loader ma il resto dell'interfaccia deve reagire è la percezione dell'utente gambia capitò si
+gli sembra di stare davanti a un'interfaccia che è più reattiva e non bloccante e poi soprattutto all'utente interessa portare a termine quello che doveva fare
+esatto
+quindi se
+quanta saggezza nelle vostre parole quanta saggezza io perché quel ritmo al bar
+senza esagerare
+piano laroma
+vi dico è una puntate per personalmente che ho trovato più interessanti più istruttive fa quello che ho fatto finora perché ci montiamo la testa poi piangere segue il tuo podcast da un lato ci volevo credere immigrati monaco e a chiedermi di fare e di contribuire in qualche puntata a tema usabilità tema fogli di stile
+ma cosa è un pochino più specifica e mi piacerebbe farla perché è fantastico c'è un sacco di cose unica per me utilissimi personalmente berkel per me che non sono web designer o quant'altro però insomma qualche sitarello mi tocca farlo ogni tanto
+l'ho messo qua anche gli e-book che avete segnato su questo collo conta l'iter credo sia molto utile anche noi ce ne sono c'è ce ne sono a dozzine nel senso basta anche solo
+io ho i miei perché ormai mi sono abituata mi son fatta le librerie per esempio eccetera però poi di fatto ce n'è anche all'interno che ne sa di fig ma così ci sono dei plugin che puoi utilizzare per l'accessibilità aiutare o comunque a tenere sotto controllo quello che stai facendo poi non so a livello so
+sviluppo se esiste qualcosa di simile però sì assolutamente
+franklin
+bene rispose bellissime e utili the flash dicevi tu l'ho fatto anche per gli sviluppatori quindi comunque quello che poi fa il designer te lo ritrovi anche lato sviluppo il suo nome però diciamo che il mestiere del designer è qualcosa che saper fare il designer veramente per te
+fare applicazioni non è lo stesso lavoro che creare la grafica dei manifesti o le brochure delle banche voglio dire c'è un altro mestiere e nello sviluppo front-end c'è la stessa suddivisione cioè chi è veramente abile nell'andare strutturare
+un progetto quindi a livello architetturale lato front-end intendo quindi è tutto quello che c'è dietro
+è un mestiere e l'ingegnerizzazione del design quindi il design engineer è tutt'altro mestiere e dovrebbero viaggiare in parallelo sono due figure specializzate in un modo diverso ed entrambe hanno la stessa importanza così come è ovviamente tutto ciò che poi c'è ancora più dietro nello strato di back end of the day
+e noi dovremmo incominciare a ragionare che la filiera è un unicum che viaggia insieme nel nel presentare qualcosa agli occhi dell'utente o perché è quello che succede l'utente vede il tuo report fatto con i bordi gialli se tu gli dai po' se
+tu gli dai uno sfondo giallo e un bottone se mette uno sfondo giallo il testo bianco cioè ed efficiente tu come designer sei efficiente come sviluppatore che non lo devi fare una roba del genere cercavi per dire no appare sempre tornando alla sensibilità
+stai fallendo un criterio di successo sicuramente quello che tinge giallo a perde un pezzo della conformità e hai un punto in meno in sostanza bisogna studiare bisogna studiare c'è poco da fare bisogna mettersi lì e leggersi tutta la documentazione e non c'è un'altra strada
+purtroppo però è un'operazione che va fatta perché sennò non sai neanche cosa devi fare è questo il punto e comunque per rispondere alla domanda siamo pronti
+ma fate presto
+aveva fame infatti prestano ad un senso di urgenza che poi effettivamente non è non è così necessario nel senso che c'è c'è modo di adeguarsi poi soprattutto
+a per esempio le mappe oppure dei documenti caricati prima del ventotto giugno del duemilaventicinque non sono considerati certo se fai un aggiornamento importante sì e hai tutto adesso le mie cose forse cinque dieci anni adesso per alcuni per alcuni prodotti e arriviamo fino al duemilaquarantacinque tipo appunto
+tipo adeguare quindi davvero cioè
+non è neanche così da averne paura perché dà e hai tutto il tempo tutto tutto la possibilità di di adeguarti senza e conformarti senza temere ecco perché è importante muoversi l'importante sì quello sì iniziare a
+okay okay qualcosa devo fare è darmi un piano e soprattutto dipende poi da
+risorse che si possono mettere in campo sostanzialmente ma vanno considerate ormai l'accessibilità deve diventare un qualcosa da vendere del budget sì sì sì esatto una cosa che sta budget pensa che io sara una volta sono stato redarguito perché ho implementato l'accessibilità di default in un progetto che stavo
+facendo in un'azienda sono stati erogati voi che volevano venderla come servizio aggiuntivo questa
+come posso aver reagito secondo te è un brutto cattivone brutto cattivo e brutto antipatico no ecco purtroppo purtroppo bisogna confrontarsi anche con queste mentalità perciò il problema è che tutti noi dobbiamo sensibilizzarci su questo tema
+ripeto le statistiche sono abbastanza forti parliamo del venti per cento delle persone è una persona su cinque perchè io con il mio lavoro dovrei escludere una persona su cinque che domani potrei essere io per qualunque motivo una cosa molto bella che aveva fatto credo microsoft possono andarlo a cercare
+è praticamente un
+un esercizio in cui siccome di solito non si pensa a la disabilità a cui come a qualcosa che ci riguarda
+ryan praticamente c'è questo schema in cui tu ti immagini il tuo prodotto il tuo servizio il tuo processo la tua struttura e vai ad analizzare anche le situazioni come ad esempio oh oh
+sono nella disabilità motorie ad esempio è ok
+permanente temporanea oppure situazionale quindi per esempio nel caso di
+che ne so
+adesso mi viene in mente un esempio su sensoriale per esempio c'era
+suo sensoriale quindi
+permanente o che sono sordo e a vari livelli facciamo sordo completo sorda profonda
+so invece a livello
+temporaneo temporaneo si temporaneo che magari
+mi sto inventando in
+ho notizie in quel periodo e non da un orecchio non ci sento bene situazionale come dicevo prima mi trovo in un ambiente rumoroso ok e quindi ho difficoltà a percepire appunto parlato comunque quindi in queste casistiche
+che io cosa posso fare per rendere accessibile è quello che sto proponendo cioè per permettere a queste a questi utenti in queste situazioni di comunque usufruire del mio prodotto servizio
+esercito adesso vado a cercarlo credo che fosse microsoft aveva fatto un attimo mi sa che siamo andati un po' lunghi alessandro se
+sì allora il record è tre ove rotti però non voglio farglielo fare stasera
+fra questi
+logan e avesse le recuperi al volo riescono lo stesso orlando ad essa
+dunque egualmente intime e teniamoci pronti perché anche il buon marco e livia hanno suggerito appunto future puntate su front-end sui font c'è tutto un mondo che effettivamente affascinante e poi mai magari qualche esperto calligrafo comunque che qualcuno però anche richie vuoi solamente check urne
+sapete parecchio
+e usabilità che che che cose fantastiche su cui si potrebbe discutere a lungo e su cui discuteremo
+e monti e siamo qua come dire siete
+ecco beh se vogliamo inglese fantasma
+e hai trovato la cosa sarà che la sto cercando ma non riesco perché stanno su un altro computer
+si trova un ateo
+comunque se dovrebbe essere di windows allora
+è che non voglio tenerli qua vediamo se con le immagini non riesco a trovare che è più facile magari
+diamo i eccola
+okay sino a che volevo cercare proprio il
+l'originale ma ho trovato un blog che ne parla ma max
+progettare per l'inclusione veniamo
+ti ho detto tutto a un tratto il dottor ecc inclusi il design di microsoft che però adesso ho incluso
+oh eccolo qua se microsoft microsoft così design scusate lo trova
+ti passo il link nel frattempo
+questo posto il vincolo rimetto festival allora
+povero lupo ah eccolo ah sì esatto quello li ha
+pupillo
+allora league poi metteremo nella nella fase di questa puntata e metteremo e tutti sti ricca principato
+guarda c'è questo acquisto online che secondo me è fondamentale da mettere a parte il discorso delle inclusi il design di microsoft edge
+sono molto curioso di andarmi a vedere perché è la prima volta che lo sento e quindi è sicuramente interessante
+e infatti adesso lo vado a guardare però non vorrei andare troppo insomma romperò sia inferiore a te qualche link indispensabile mettiamolo questo qui secondo me è indispensabile questo eterno andare adesso
+che sono i pattern bug delle guide linee guida la mente
+a sinistra
+all'ordine
+beh perché lo mettiamo giù
+trenta asti e quindi questo qua i famosi area design che non ho capito quanto bisogna usarli oppure o non usarli però è e io vado a fare un tour al web dal proprio su questo al trentuno marzo da andrea ok ottimo a whitney
+è un sacco di roba interessante quindi non è soltanto i kit agar c'è tanta roba qua che ebbe web
+allora chiesa
+sì no per quanto riguarda un un inizio per la comunicazione semplificata ad es ecco cosa ho fatto cosa ho copiato segno aspetta un attimo
+allora i condivide faccio così eccolo qua
+questo link
+perché mi ha copiato un attimo scusate allora come aspetto e negli ampi hardware
+direttamente via sms
+se sei qui allora postiamo il pdf questo pdf cos'è che è esattamene unica zona e semplificata delle linee guida per iniziare a
+appunto comunicare in modo più semplice quindi tutta quella parte che eran
+i tools non al momento perlomeno non sono in grado di sistemare quindi io che come ide line del sito dico non per tutti visto la camera
+ave etico e volutamente criptico
+non inclusivo
+va poi ovviamente ripeto c'è bisogna anche capire fino a che punto spingersi e quali sono le richieste sostanzialmente perché
+arrivare al cento per cento non è possibile non è neanche consigliabile in alcuni casi quindi bisogna studiare al secolo sicuro
+tanto anzi ci vuole più tempo tre asiatiche a implementare l'accessibilità ma penso anche a disegnarla sam
+e c'è molta più teoria che pratica
+in molti casi sì ok
+caffè andrà ovviamente quella pratica senza quella teoria non la fai proprio qui il depliant inculate film
+aloha vi invece vi segnalo io ho una chicca che me l'ha segnalata e copilot mentre il tavolo la cosa butto lì così vediamo se la conoscete già
+è questo all anno aspetto dovrà a se stesse
+val la pena vale la pena segnalarlo alle proprie richieste assolutamente senza senso o che cos'è esattamente
+diciamo neppure quello è
+un raccoglitore di informazioni che ti spiega anche la parte semantica della anche la parte etimologica di alli nocelle helen la tecnica del numero anonimo cioè il fatto di prendere la prima e l'ultima lettera e sostituire tutto il contenuto con il numero di lettere rimosse per quello che hallie a uno uno
+ipsilon no
+a due ipsilon allora se vogliamo metterla alla kubernetes no
+sì ho prese vogliamo affrontarlo come come se fosse codice binario outlet
+però
+però ecco anche qui c'è un insieme di risorse di documenti da leggere di cose da studiare che comunque va un po' a riassumere anche tutto quello che possono le specifiche del wttc che sono indubbiamente meno leggibili di come impostato questo sito diciamo perché sono un po' ostiche le specifiche
+ci vuole tanta pazienza per leggere l'amica
+bene direi che con questa raffica di link che troveremo prontamente sulla pagina di questa puntata
+cercherò di metterli con giusto una giusta section e
+direi che per stasera abbia dato e secondo me anche abbia andato bene io vi ringrazio decisamente per il vostro contributo ringraziamo
+buon andrea che ci ha sarà lasciato qui ma è ovviamente tutti quelli che in chiatta hanno contribuito marco livio e cosimo carlo e quant'altri gran bella puntata grandissimi io e voglio che vedevo il più presto possibile ovviamente
+floreale
+contenta di aver qualcosa no
+di aver mandato qualche messaggio utile da diciamo che mi hai dato del lavoro da fare emiliano a cuccia due critiche su piazza
+se poi gradite
+grazie a un super piacere conoscerti sara anche per me assolutamente
+beh poi l'incredibile per i contatti se quello che volete insomma alla prossima alla prossima ciao a tutti
+ma
+ma
+ma
+ma

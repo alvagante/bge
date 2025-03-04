@@ -1,7 +1,6 @@
 ---
 episodi:
-- 87
+- 88
 layout: geek
-nome: Alex Orlowski
+nome: Sara Sangalli
 ---
-
