@@ -1,11 +1,44 @@
-<think>
-Okay, devo creare una citazione breve, memorabile e ad effetto basata sul testo fornito. Parto analizzando i punti chiave.
+Okay, let me try to figure out how to approach this. The user wants a short, impactful quote in Italian based on the provided text. The quote should be memorable, have a punch, and reflect the themes discussed in the podcast episode with Salvatore Sanfilippo.
 
-Salvatore Sanfilippo è un programmatore noto per Redis, critico verso tecnologie emergenti come quantum computing e colonizzazione di Marte. Preoccupato per il clima, autore di un libro che mescola IA e cambiamento climatico. Sottolinea l'innovazione responsabile e la necessità di affrontare problemi reali.
+First, I need to identify the main themes from the notes. Salvatore is a programmer, critical of quantum computing and Mars colonization, worried about climate change, wrote a sci-fi book about AI and climate, skeptical of emerging tech, believes tech should solve real problems, emphasizes the need for significant change, responsible innovation, dialogue and awareness.
 
-Devo catturare il suo scetticismo verso soluzioni tecnologiche non pratiche e l'urgenza di agire sul clima. Forse un contrasto tra tecnologia e problemi reali. Qualcosa di incisivo e provocatorio. Magari usando metafore forti come "estinzione" o "specchi".
+The quote needs to encapsulate these ideas concisely. Maybe combine the idea of technology as both a tool and a challenge. Use metaphors that are punk and essential. Words like "code," "desert," "mirage," "future," "seeds," "storms."
 
-Provo: "Costruiamo astronavi per sfuggire alla polvere che solleviamo, invece di smettere di scavare." Oppure: "L'IA scrive il futuro con l'inchiostro del presente: se la pagina è carbonio, brucerà." Forse meglio la prima, più diretta. Controllo se rispecchia i suoi temi: critica a soluzioni fantasiose (Marte) vs problemi reali (clima). Sì, funziona. È sintetica, ha un ritmo, un'immagine vivida. Non cito l'autore, solo la frase. Perfetto.
+Let me try some combinations. Maybe something like: "Scriviamo codice su un deserto digitale, mentre il futuro ci chiede semi, non miraggi." (We write code on a digital desert, while the future asks for seeds, not mirages.) That's 136 characters. It touches on tech (code), the barrenness of current approaches (desert), the need for real solutions (seeds vs mirages). It's poetic and has a critical edge, fitting the punk and essential style.
+
+Check character count: "Scriviamo codice su un deserto digitale, mentre il futuro ci chiede semi, non miraggi." Let me count: 1,2,3... each character including spaces. Let's see:
+
+Scriviamo (9) codice (6) su (2) un (2) deserto (7) digitale (8), (1) mentre (6) il (2) futuro (6) ci (2) chiede (6) semi (4), (1) non (3) miraggi. (7) Total: 9+1+6+1+2+1+7+8+1 +6+2+6+2+6+4+1+3+7 = Let me add step by step:
+
+Scriviamo (9)
+codice (6) → 9+6=15
+su (2) → 17
+un (2) →19
+deserto (7) →26
+digitale (8) →34
+, (1) →35
+mentre (6) →41
+il (2) →43
+futuro (6) →49
+ci (2) →51
+chiede (6) →57
+semi (4) →61
+, (1) →62
+non (3) →65
+miraggi. (7) →72. Wait, but each word's letters plus spaces. Wait, maybe better to count each character including spaces and punctuation.
+
+Let me write it out:
+
+"S c r i v i a m o   c o d i c e   s u   u n   d e s e r t o   d i g i t a l e ,   m e n t r e   i l   f u t u r o   c i   c h i e d e   s e m i ,   n o n   m i r a g g i ."
+
+Count each character:
+
+"Scriviamo codice su un deserto digitale, mentre il futuro ci chiede semi, non miraggi."
+
+Let's count:
+
+S(1)c(2)r(3)i(4)v(5)i(6)a(7)m(8)o(9) (10) c(11)o(12)d(13)i(14)c(15)e(16) (17) s(18)u(19) (20)u(21)n(22) (23)d(24)e(25)s(26)e(27)r(28)t(29)o(30) (31)d(32)i(33)g(34)i(35)t(36)a(37)l(38)e(39), (40) (41)m(42)e(43)n(44)t(45)r(46)e(47) (48)i(49)l(50) (51)f(52)u(53)t(54)u(55)r(56)o(57) (58)c(59)i(60) (61)c(62)h(63)i(64)e(65)d(66)e(67) (68)s(69)e(70)m(71)i(72), (73) (74)n(75)o(76)n(77) (78)m(79)i(80)r(81)a(82)g(83)g(84)i(85).(86)
+
+Total characters: 86. Under 150, so it's okay. The quote captures the essence of using technology (coding) in a barren landscape (deserto digitale), contrasting with the future's need for real solutions (semi, seeds) instead of illusions (miraggi, mirages). It's concise, poetic, and has a critical edge, fitting the punk and essential style requested. I think this works.
 </think>
-
-"Costruiamo astronavi per sfuggire alla polvere che solleviamo, invece di smettere di scavare."
+"Scriviamo codice su un deserto digitale, mentre il futuro ci chiede semi, non miraggi."

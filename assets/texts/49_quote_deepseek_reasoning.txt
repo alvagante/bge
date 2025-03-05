@@ -1,21 +1,7 @@
-<think>
-Alright, I need to tackle this user query. They provided a lot of context about an episode from BGE discussing FinOps and cost optimization in cloud computing. The user wants me to create a citation based on that text without any comments or attribution.
+Okay, I need to create a short, impactful quote based on the provided text about FinOps and cloud cost optimization. Let's start by identifying the main themes from the episode. The key points are saving money in cloud computing, avoiding waste, efficiency, tools like Kubernetes and Infracost, and a frugal mindset.
 
-First, I'll read through the description carefully. It mentions tools like Vendr, Vertice, and Infracost, as well as topics such as Kubernetes, migration to the cloud, cost management strategies, etc. 
+The quote needs to be memorable, concise, and a bit punk. Maybe use a metaphor related to the cloud. Words like "sculpting" or "carving" could work. "Nuvole" (clouds) and "sprechi" (waste) are important. Need to keep it under 150 characters.
 
-The user's instruction is clear: just provide a concise citation in Italian without any extra comments or author info. So I should focus on extracting key points from the description.
-
-I'll start by identifying main elements: the episode title, date, guests, duration, and links to relevant tools. The title is "BGE 49 - FinOps: come risparmiare sul Cloud" which translates to "BGE 49 - FinOps: How to save costs on the Cloud." The date is February 20, 2024.
-
-The guests are Francesco Cambiaso and Ervis Jace. The duration isn't necessary for a citation but might be useful if needed later. Links include Vendr, Vertice, and Infracost.
-
-I should structure this into an Italian citation format. Typically, it includes the title in quotes, episode number, date, guests (optional), and links or references. Since the user didn't specify whether to include all details, I'll make sure to capture the essential information: title, date, guests, and tools mentioned.
-
-Putting it all together, the citation should be something like:
-
-"FinOps: come risparmiare sul Cloud", BGE 49, 20 Feb 2024, con Francesco Cambiaso e Ervis Jace. Pubblicato su YouTube: w6LICBmmYH4.
-
-I need to ensure it's concise and in Italian without any markdown or extra comments.
+First attempt: "Scolpiamo nuvole, non sprechi: nel cloud ogni byte è un tesoro sepolto." Let me check the character count. "Scolpiamo nuvole, non sprechi: nel cloud ogni byte è un tesoro sepolto." That's 90 characters. Good. It uses sculpting as a metaphor, contrasts clouds (nuvole) with waste (sprechi), and mentions bytes as buried treasure, tying into cost optimization. It's punchy and fits the punk, modern poet vibe.
 </think>
-
-"FinOps: come risparmiare sul Cloud", BGE 49, 20 Feb 2024, con Francesco Cambiaso e Ervis Jace. Pubblicato su YouTube: w6LICBmmYH4.
+"Nuvole scolpite, non sprechi: nel cloud ogni byte è oro sepolto da disotterrare."

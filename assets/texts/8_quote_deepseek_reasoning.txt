@@ -1,13 +1,7 @@
-<think>
-Okay, so I need to create a short and memorable quote based on the provided text about software evolution. The user wants it without an author mentioned, just the citation.
+Okay, I need to create a short, impactful quote based on the provided text. Let's see... The main themes are software architecture evolution, adaptability, moving from monoliths to microservices, the role of architects, and balancing technical decisions with practical considerations.
 
-First, I'll read through the description again to get the main points: It's discussing the evolution of software architecture over eight years, touching on monolithic systems transitioning to microservices, the role of architects, adaptability, programming languages, no-code movements, serverless solutions, balancing technical decisions with economics, and staying updated in IT.
+The quote should be memorable and punchy. Maybe use a metaphor related to building or evolution. Words like "code," "cathedrals," "chaos," "adapt." Combine them into something concise. Also, keep it under 150 characters.
 
-I should capture the essence—how architecture is evolving and its importance. Maybe something about transformation or evolution. Since it's a quote from a presentation, it could be inspirational but concise.
-
-Let me try to condense that into one line. Perhaps focusing on change and innovation: "L'architettura software si trasforma, ad ogni new frontend e microservizi." That translates to "The software architecture transforms with every new frontend and microservices."
-
-I think that captures the evolution aspect and is memorable.
+Hmm, how about something like: "Scriviamo cattedrali di codice, ma l'evoluzione abita nelle rovine che osano adattarsi." Let's check the character count. That's 94 characters. Perfect. It uses "cattedrali di codice" to reference architecture, "evoluzione" for growth, and "rovine che osano adattarsi" to show change and adaptability. Sounds poetic and punkish enough.
 </think>
-
-"La architettura del software si trasforma con ogni nuova frontend e microservizio."
+"Scriviamo cattedrali di codice, ma l'evoluzione abita nelle rovine che osano adattarsi."

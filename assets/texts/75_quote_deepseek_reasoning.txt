@@ -1,17 +1,5 @@
-<think>
-Okay, so I need to come up with a short citation based on the provided text. The user wants something memorable and impactful without any comments—just the quote.
+Okay, devo creare una citazione breve e memorabile basata sul testo fornito. Il tema è la formazione informatica, i vari percorsi come bootcamp, università, autodidatta. Elementi chiave: passione, esperienza pratica, formazione continua, mentorship, scelta del percorso giusto, impatto della tecnologia, preparazione per il lavoro, barriere d'ingresso, autonomia.
 
-First, let me read through the description again to get the main points. It's about a discussion at a school or event discussing IT education, including various pathways like bootcamps, universities, and self-study. They talk about passion, experience, continuous learning, mentorship, networking, choosing the right path, tech impact on education, job market preparation, barriers, and autonomy in learning.
-
-Hmm, so it's about the importance of different aspects of IT education and how they contribute to becoming a successful IT professional. I need to capture that essence concisely.
-
-Maybe start with something like "In the realm of IT education..." or "The journey into the world of..." Then include elements like diverse pathways, passion, experience, continuous learning, mentorship, networking, and personal growth.
-
-I should also mention how these factors contribute to success. Maybe end with a call to action or an encouraging statement about the right path leading to professional success.
-
-Putting it all together: "In the realm of IT education, the discussion highlighted the importance of diverse pathways such as bootcamps, universities, and self-study. Passion for the field, practical experience, continuous learning, mentorship, networking, and the choice of the right educational path are crucial for success in the ever-evolving tech industry."
-
-That seems to cover all the main points concisely.
+Devo sintetizzare tutto in una frase ad effetto, massimo 150 caratteri. Devo usare un tono poetico, essenziale, un po' punk. Forse un'immagine forte che unisca elementi contrastanti come teoria e pratica, caos e struttura. Forse qualcosa sul codice come arte o ribellione. Magari usare metafore come "silenzi" che bruciano, "codice" che è vivo, "errori" come maestri. Deve essere incisivo, non banale. Controllo i caratteri per stare dentro il limite.
 </think>
-
-"In the realm of IT education, the discussion highlighted the importance of diverse pathways such as bootcamps, universities, and self-study. Passion for the field, practical experience, continuous learning, mentorship, networking, and the choice of the right educational path are crucial for success in the ever-evolving tech industry."
+"Codice è carne viva: si impara sanguinando debug, non pregando manuali. Ribellatevi ai silenzi delle macchine."

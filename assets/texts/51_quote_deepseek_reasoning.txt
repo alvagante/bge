@@ -1,19 +1,11 @@
-<think>
-Okay, so I'm trying to figure out how to respond to this query. The user provided a lot of context about an episode discussing the impact of social media on mental health. They want me to create a citation based on that content. 
+Okay, I need to create a short, impactful quote based on the provided text about how social media affects our daily lives, behaviors, and minds. The user wants something memorable and effective, in the style of a modern, essential, and slightly punk poet. Let me break down the key points from the text to capture the essence.
 
-First, I need to understand what exactly they're asking for. They mentioned being a modern poet, deep and essential with a punk edge. So the citation should be memorable and impactful, not just a simple quote.
+The main themes are the negative impact on mental health, especially among youth; the role of education and parents; the gap between perception and scientific data; the complexity of human behavior; superficial relationships and social isolation; the need for critical awareness; and the potential for positive use if managed well.
 
-Looking at the episode details, it's titled "BGE 51 - Social e Psiche con Valerio Rosso e Michele di Paola" which translates to "Social and Psychiatry with Valerio Rosso and Michele di Paola." The duration is given as 9671, but I'm not sure what that stands for—it might be a timestamp or something else. The date is March 5, 2024.
+I need to condense these ideas into a concise quote. The punk element suggests a raw, edgy tone. Maybe use metaphors related to technology or the internet. Words like "binary", "soul", "scrolling", "algorithms" could work. Contrast the digital with the human aspect. Keep it under 150 characters.
 
-The description talks about how social media affects our daily lives, behaviors, and mental health, especially among young people. It mentions educators and geeks discussing the impact of social media on mental health. There's also talk about the difference between perceived effects and scientific evidence, the need for more long-term studies, and the complexity of human behavior.
+Let me brainstorm some lines. "Scorriamo anime in codice binario" (We scroll souls in binary code) – captures the digital consumption of human essence. "Frammenti di vita che non ci appartengono" (Fragments of life that don't belong to us) – speaks to superficial interactions. "La connessione è un fantasma che ci disconnette" (Connection is a ghost that disconnects us) – paradox of online vs real connections. "Likes" as bandaids for loneliness. Maybe combine these elements.
 
-So, I need to capture these elements in a concise yet meaningful quote. The user wants it without an author, just the citation. It should encapsulate the main points: social media's impact on mental health, the distinction between personal perception and scientific data, the lack of long-term studies, and the complexity of human behavior.
-
-I should aim for something that flows well, maybe starting with a statement about social media's influence, then touching on the balance between personal feelings and objective data. Mentioning the need for deeper research would add depth without being too technical.
-
-Putting it all together, I'll draft something like: "Social media reshape la vita moderna, offrendo un'opportunità ma con implicazioni profonde sulle nostre percezioni e le prove scientifiche. Nonostante i vantaggi, il futuro rimane incerto e coinvolge nuove sfide." 
-
-I think this hits all the key points: social media's influence, the balance between perception and data, and the uncertainty of the future with new challenges.
+Check character count: "Scorriamo anime in codice binario, la connessione è un fantasma che ci disconnette." That's 87 characters in Italian. Add something about likes and loneliness. "I like sono cerotti su ferite di solitudine." Total around 150. Let me check exact count. Yes, it fits. It combines the digital (binary code, connection as a ghost) with the emotional impact (loneliness, disconnection). The metaphor of likes as bandaids is punchy and memorable. The structure is poetic, with a punk edge in the critique of superficial digital interactions. This should work.
 </think>
-
-"Social media reshape la vita moderna, offrendo un'opportunità ma con implicazioni profonde sulle nostre percezioni e le prove scientifiche. Nonostante i vantaggi, il futuro rimane incerto e coinvolge nuove sfide."
+"Scorriamo anime in codice binario, la connessione è un fantasma che ci disconnette. I like sono cerotti su ferite di solitudine."

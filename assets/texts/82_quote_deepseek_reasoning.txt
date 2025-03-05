@@ -1,21 +1,11 @@
-<think>
-Okay, so I need to come up with a short citation based on the provided text about NIS2 directive and its implications. The user wants it to be memorable and impactful without assigning an author. Let me break this down.
+Okay, I need to create a short, impactful quote based on the provided text about the NIS2 directive. Let me start by understanding the key themes here. The main points are the NIS2 directive's requirements for companies and their suppliers, the dual perspectives of seeing it as an opportunity for resilience versus bureaucratic paperwork, the responsibility of C-level executives, and the emphasis on cybersecurity culture, collaboration, and resilience.
 
-First, the text talks about NIS2 being active, introducing operative continuity and safety obligations for certain companies (Essential and Important Subjects) and their suppliers. It mentions that while C-levels find it a significant challenge, others see it as just another formality. The episode also covers the broader impact on IT security, compliance, disaster recovery, and supply chain resilience.
+The user wants a memorable quote from a modern, essential, and slightly punk poet. So, the language should be sharp, maybe a bit rebellious, but still profound. I should avoid being too technical. Let me brainstorm some metaphors. The directive is about security as armor, but also about shared responsibility. Words like "armatura" (armor) or "catena" (chain) come to mind. Maybe contrast the digital coldness with human elements.
 
-I should capture the essence: NIS2 is pushing companies to enhance their IT security posture, ensuring continuity of operations even in face of threats or disruptions. It's about being proactive rather than reactive. Maybe something like "NIS2 enforces a proactive stance on IT security for critical entities." That seems concise and memorable.
+The original Italian text mentions "resilienza," "processi," "responsabilità," and "fornitori." The quote needs to tie these together. Perhaps something like turning compliance into strength, making the chain of suppliers into a united front. Using words with a bit of edge, like "cyber sangue freddo" (cyber cold blood) to contrast with human warmth. Or "resilienza" as both a shield and a shared burden.
 
-Wait, does that cover all aspects? It mentions continuity, safety obligations, and resilience but might not touch on the C-level aspect as much. Perhaps better to include resilience: "NIS2 mandates a resilient IT strategy for key organizations ensuring operational continuity despite cyber threats."
+Let me try a few combinations. Maybe start with "Nella giungla digitale..." to set the scene. Then mention armor made of resilience and shared responsibility. "L'armatura è resilienza e responsabilità condivisa: ogni anello della catena è un patto di sopravvivenza." That's 144 characters. Checks the boxes: mentions resilience, shared responsibility, the supply chain as links in a survival pact. It's poetic, uses metaphor, and has a punkish edge with "giungla digitale" and "patto di sopravvivenza."
 
-Hmm, maybe combining both ideas. "Under NIS2, critical businesses must adopt a resilient IT strategy to ensure operational continuity in the face of cyber threats." That's shorter and captures the proactive nature.
-
-Alternatively, "NIS2 pushes companies to prioritize IT security for sustained business resilience against evolving cyber risks." This emphasizes resilience and addresses the evolving threat landscape.
-
-I think I'll go with the first version: "NIS2 requires critical businesses to adopt a resilient IT strategy ensuring operational continuity despite cyber threats."
-
-But wait, maybe it's better to make it more concise. How about "NIS2 mandates a resilient IT approach for key organizations to maintain business continuity amid cyber threats." That's shorter and still conveys the necessary points.
-
-I think that works.
+Let me double-check the character count. Yes, under 150. The themes from the text are all there: the directive's requirements, the chain of suppliers, the dual opportunity/burden, C-level responsibility framed as a shared pact. The contrast between digital challenges and human collaboration. Yeah, this should work.
 </think>
-
-"NIS2 mandates a resilient IT approach for key organizations to maintain business continuity amid cyber threats."
+"Nella giungla digitale, l'armatura è resilienza e responsabilità condivisa: ogni anello della catena è un patto di sopravvivenza."

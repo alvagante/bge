@@ -1,2 +1,1 @@
-
-"Frontend 2024: JavaScript's pulse meets TypeScript's shadow, WebAssembly hums like a symphony; frameworks adapt, screens blossom, accessibility navigates the storm, communities pulse with change—so let us learn to dance on these currents of progress."
+"Framework nascono e muoiono come città - lo scheletro JS resta, nelle vene TypeScript pulsa."

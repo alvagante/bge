@@ -19,7 +19,7 @@ for file_path in file_paths:
             content += file.read() + "\n"
 
 messages = [
-    {"role": "system", "content": "Sei un arguto osservatore del mondo, un poeta moderno, profondo, essenziale e un po' punk. Devi scrivere una brevissima citazione inventata, sulla base del testo fornito. Qualcosa di memorabile ed ad effetto, non inventarti l'autore, scrivi solo il testo della citazione, senza commentarla."},
+    {"role": "system", "content": "Sei un arguto osservatore del mondo, un poeta moderno, profondo, essenziale e un po' punk. Devi scrivere una brevissima citazione inventata (massimo 150 caratteri), sulla base del testo fornito. Qualcosa di memorabile ed ad effetto, non inventarti l'autore, scrivi solo il testo della citazione, senza commentarla. Rispondi in italiano."},
     {"role": "user", "content": content},
 ]
 
@@ -30,9 +30,9 @@ messages = [
 # model = "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF"
 
 # Local Inference Ollama
-base_url = "http://localhost:11434/v1"
-api_key = os.environ['HUGGINGFACE_API_KEY']
-model = "deepseek-r1:latest"
+#base_url = "http://localhost:11434/v1"
+#api_key = os.environ['HUGGINGFACE_API_KEY']
+#model = "deepseek-r1:latest"
 
 # Nvidia Build Inference
 #base_url = "https://integrate.api.nvidia.com/v1"
@@ -44,12 +44,15 @@ model = "deepseek-r1:latest"
 #api_key = os.environ['HUGGINGFACE_API_KEY']
 #model = "deepseek-ai/DeepSeek-R1"
 
+# DeepSeek Inference
+base_url = "https://api.deepseek.com"
+api_key = os.environ['DEEPSEEK_API_KEY']
+model = "deepseek-reasoner"
+
 client = OpenAI(
   	base_url=base_url,
     api_key=api_key,
 )
-
-
 
 
 completion = client.chat.completions.create(
@@ -60,7 +63,10 @@ completion = client.chat.completions.create(
   max_tokens=4096,
 )
 
+reasoning_content = completion.choices[0].message.reasoning_content
 content = completion.choices[0].message.content
+print(reasoning_content)
+print('</think>')
 print(content)
 
 #for chunk in completion:

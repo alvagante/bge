@@ -1,3 +1,1 @@
-
-**Fabio Alessandro Locati**:  
-"Ansible è il colpo grosso, Puppet è il colpo finale. Ansible gestisce everything, ma Puppet ti fa sentire un re che regna su un impero."
+"Tools rust, code remains. Automate the revolution."

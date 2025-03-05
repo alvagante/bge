@@ -1,10 +1,1 @@
-
-**Alessandro Palumbo**: "Ogni architetura serverless è un'opportunità per ridurre l'ecologia digitale di un'applicazione. meno server, più risorse efficienti."
-
-**Francesco Lerro**: "Il serverless è come una musica che fa riecheggiare dentro di te: ogni piccolo suono diventa un canto, e le nuvole si riorganizzano in base a quelle vibrazioni."
-
-**Matteo Baccan**: "Quando parliamo di architetture serverless, stiamo parlando di una rivoluzione che ridefinisce il significato stesso di scalabilità. Ogni funzione è un servizio autonomo e scalabile, pronto per essere utilizzato ovunque."
-
-**Alessandro Palumbo**: "Infatti, il serverless non è solo un'architettura; è un approccio culturale che incentiva la collaborazione e la innovazione all'interno dei team di sviluppo."
-
-**Francesco Lerro**: "Ecco perché il serverless è un po' punk: because it fosters collaboration e encourages developers to think outside the box."
+"Codice senza catene, server fantasmi nel vento."

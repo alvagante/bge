@@ -1,24 +1,5 @@
-<think>
-Okay, I need to create a memorable, impactful quote based on the provided transcript from the second episode of the Brigata dei geek estinti. The quote should reflect the themes discussed, such as IT in the financial sector, DevOps, automation, compliance, cloud technologies, and the balance between control and agility.
+Okay, I need to create a short, impactful quote based on the provided text. Let me start by understanding the main themes from the episode. The topics discussed include automation in IT, tools like Puppet and Ansible, immutable infrastructure, challenges in banking compliance, balancing control and agility, cloud-native architectures, and the future of IT practices.
 
-First, I'll review the key points from the transcript. The discussion covers the evolution of IT in finance, challenges with mainframe offloading using Kafka, regulatory compliance from institutions like Banca d'Italia and ECB, the shift towards public cloud and SaaS in banking, DevOps practices, continuous compliance, platform engineering, and configuration management tools like Puppet vs Ansible. There's also talk about future trends, workforce skills, and the impact of cloud-native architectures.
-
-The quote needs to encapsulate some of these elements in a concise and catchy way. It should resonate with IT professionals, especially those in finance or dealing with DevOps and automation. Words like "automation," "compliance," "evolution," "balance," "infrastructure," and "future" might be relevant.
-
-Let me consider combining the struggle between traditional infrastructure and modern practices. Maybe something about how automation bridges old and new. Or the necessity of compliance in driving innovation. Alternatively, the idea that infrastructure is becoming code, immutable and scalable.
-
-Trying a few drafts:
-
-1. "In the dance of code and compliance, automation leads the rhythm of innovation."
-2. "Where mainframes meet cloud, automation weaves the future of finance."
-3. "Immutable infrastructure isn't just code—it's the unyielding foundation of tomorrow's finance."
-4. "In the tension between control and agility, DevOps is the silent revolution of IT."
-
-Hmm. The fourth one touches on the balance discussed, mentions DevOps, and hints at a transformative process. It's concise and has a poetic touch. Let me refine it a bit more for impact. Maybe:
-
-"DevOps: the silent revolution where control and agility converge, scripting the future one immutable line at a time."
-
-That includes DevOps, the balance (control vs agility), immutable infrastructure, and the idea of scripting the future. It's catchy and ties together several themes from the episode.
+The quote should be memorable and punk-ish, reflecting the tension between traditional systems and modern tech. Words like "code," "compliance," "automation," "cloud," and "resilience" come to mind. Maybe contrast old and new. How about something like "Code cracks compliance, cloud ignites rebellion—automation is our silent revolution." That's 108 characters. Let me check if it captures the essence: compliance being addressed by code (automation), cloud as a rebellious force against old systems, and automation as the ongoing revolution. Yeah, that fits. Needs to be in Italian though. Let me translate that idea. "Il codice sfida la compliance, il cloud accende la rivolta—l'automazione è la nostra rivoluzione muta." Let me check the character count. It's 114 characters. Maybe shorten "automazione" to "automazione" is already correct. Wait, "automazione" is correct. Alternatively, "automazione silenziosa" but that's longer. The original Italian version is within the limit. Let me count again: "Il codice sfida la compliance, il cloud accende la rivolta—l'automazione è la nostra rivoluzione muta." Let's see: "Il codice sfida la compliance, il cloud accende la rivolta—l'automazione è la nostra rivoluzione muta." That's 114 characters. The limit is 150, so it's okay. It captures the key elements: code vs compliance, cloud as rebellion, automation as a silent revolution. Sounds punk and modern. Good.
 </think>
-
-"DevOps: la rivoluzione silenziosa dove controllo e agilità si fondono, scrivendo il futuro riga dopo riga in codice immutabile."
+"Il codice sfida la compliance, il cloud accende la rivolta—l'automazione è la nostra rivoluzione muta."
