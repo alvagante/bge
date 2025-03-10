@@ -9,6 +9,11 @@
 }
 
 @font-face {
+  font-family: "IndieFlower";
+  src: url("/assets/fonts/IndieFlower-regular.ttf") format("truetype");
+}
+
+@font-face {
   font-family: 'OpenDyslexic';
   src: url('/assets/fonts/OpenDyslexic-Regular.woff2') format('woff2'),
       url('/assets/fonts/OpenDyslexic-Regular.woff') format('woff');
@@ -73,7 +78,7 @@ h6 {
 }
 
 blockquote {
-  font-family: "OpenDyslexic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "IndieFlower", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 2vw;
   text-align: left;
   padding-top: 0.5rem;
