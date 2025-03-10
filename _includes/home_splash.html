@@ -1,16 +1,12 @@
 <section id="home">
-  <div class="home-header">
-    <div class="container">
-      <div class="row align-middle">
-        <div class="col-lg-12 hometitle">
-          <h1 class="hometitle">La Brigata dei Geek Estinti<h1>
-          <div class="homesubtitle">
-            <a href="https://youtube.com/@LaBrigatadeiGeekEstinti" target="_blank" class="homesubtitle">
-            <img class="img-fluid float-left pb-2" src="{{ site.url }}/assets/images/youtube.png" alt="youtube.com/@LaBrigatadeiGeekEstinti"></a>
-            <h3>Subscribe? Non Per Tutti</h3>
-          </div>
-        </div>
-      </div>
+  <div class="container hometitle">
+    <h1>BGE<small>La Brigata dei Geek Estinti</small></h1>
+    <div>
+      <a href="https://youtube.com/@LaBrigatadeiGeekEstinti" target="_blank">
+        <img class="img-fluid float-left pb-2" src="/assets/images/youtube.png"
+          alt="youtube.com/@LaBrigatadeiGeekEstinti" />
+      </a>
+      <h2>Subscribe? Non Per Tutti</h2>
     </div>
   </div>
 </section>
@@ -19,38 +15,40 @@
   <div class="carousel-inner">
     <div class="carousel-item">
       <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/BfVoU2hftv8" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/BfVoU2hftv8" class="video" frameborder="0"
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
     </div>
     <div class="carousel-item active">
-      {% assign last_episode = site.episodes | sort: "episode" | reverse  %}
+      {% assign last_episode = site.episodes | sort: "episode" | reverse %}
       {% for episode in last_episode | limit: 1 %}
       <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0"
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
       <div class="row">
         <div class="col-lg-6">
-          <div class="quote">
+          <blockquote>
             {{ episode.quote_openai }} (Geek Estinto)
-          </div>
+          </blockquote>
         </div>
         <div class="col-lg-6">
-          <div class="quote">
+          <blockquote>
             {{ episode.quote_claude }} (Brigante Claudio)
-          </div>
+          </blockquote>
         </div>
       </div>
 
       <div class="row">
         <div class="col-lg-6">
-          <div class="quote">
+          <blockquote>
             {{ episode.quote_deepseek }} (Deep Geek)
-          </div>
+          </blockquote>
         </div>
         <div class="col-lg-6">
-          <div class="quote">
+          <blockquote>
             {{ episode.quote_llama }} (Metante)
-          </div>
+          </blockquote>
         </div>
       </div>
       {% endfor %}
