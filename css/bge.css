@@ -9,12 +9,50 @@
 }
 
 @font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/assets/fonts/OpenDyslexic-Regular.woff2') format('woff2'),
+      url('/assets/fonts/OpenDyslexic-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/assets/fonts/OpenDyslexic-Bold.woff2') format('woff2'),
+      url('/assets/fonts/OpenDyslexic-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/assets/fonts/OpenDyslexic-BoldItalic.woff2') format('woff2'),
+      url('/assets/fonts/OpenDyslexic-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/assets/fonts/OpenDyslexic-Italic.woff2') format('woff2'),
+      url('/assets/fonts/OpenDyslexic-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+
+@font-face {
   font-family: "Kanit";
   src: url("/assets/fonts/Kanit-Regular.ttf") format("truetype");
 }
 
 h1 {
-  font-family: "Peace Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Peace Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center;
   padding-top: 2rem;
   padding-bottom: 1rem;
@@ -27,31 +65,22 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Kanit","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Kanit", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .bigger {
-    font-size: 7rem;
-}
-.hometitle {
-    font-size: 4rem;
-    background-color: #050505;
-    opacity: 0.7;
-}
-.homesubtitle {
-  font-size: 1rem;
-  background-color: #050505;
-  opacity: 0.9;
+  font-size: 7rem;
 }
 
-.quote {
-  font-family: "Caveat","Helvetica Neue",Helvetica,Arial,sans-serif;
+blockquote {
+  font-family: "OpenDyslexic", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 2vw;
   text-align: left;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   vertical-align: middle;
 }
+
 html {
   width: 100%;
   height: 100%;
@@ -90,10 +119,59 @@ a {
 }
 
 .home-header {
-  padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+  padding-top: 50px;
+  /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
   padding-bottom: 50px;
+
   text-align: center;
   color: #f8f8f8;
   background: url(/assets/images/banner.png) no-repeat center center;
   background-size: cover;
+}
+
+#home {
+  padding-block: 3rem;
+  /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+
+  color: #f8f8f8;
+  background: url(/assets/images/banner.png) no-repeat center center;
+  background-size: cover;
+
+  text-align: center;
+
+  .hometitle {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 3rem;
+
+    padding-block: 2rem;
+
+    background-color: #050505b3;
+  }
+
+  h1 {
+    display: flex;
+    flex-flow: column nowrap;
+
+    padding: 0;
+    margin: 0;
+
+    font-size: 5rem;
+    opacity: 1;
+
+    small {
+      font-family: Kanit, sans-serif;
+      font-size: .6em;
+    }
+  }
+
+  > div {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 1.5rem;
+  }
+
+  a {
+    display: inline-flex;
+  }
 }
