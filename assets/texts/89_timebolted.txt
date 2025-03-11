@@ -1,0 +1,1234 @@
+la di connessioni sente fin dei conti atomi rivelati si ritrovano anticipo
+per voi
+cinque stelle
+la pensionata
+dopodichè e
+ubicato polvere
+di corsa anche
+bene
+venti
+ma utilizzando l'aereo
+una conversione
+compatto scrivere uno sport molto semplice
+serpent
+troppo fare
+andiamo un po' più avanti
+dopo di filmati
+codici temporanei
+dovrei cambiare
+costruire casa
+sto
+uomo moda
+cinque
+imprenditore
+infine raccontiamo il nostro sussurro
+mi ricordo che diceva che se
+l'immagine
+è il modo in cui decoriamo lo spazio la musica il modo in cui curiamo
+sogni spezzati con i pagani di bowden è una storia da raccontare
+mi
+perché
+in cui
+che
+bene
+siti
+telegram
+quella cattedrale inoltre
+un diventato una
+quello che doveva essere l'alternativa
+diventato maggiorenne
+memoria
+viviamo il presente ricordiamo il passato prevediamo il futuro artefice schiavi dell'algoritmo del tempo
+il codice pin
+sentieri sogni di mondi virtuali e reali l'anno stalle principalmente di noi non ogni device
+fai niente
+rinnovo
+belli d'italia passata visto
+se mai davvero scomparsi
+ma
+la propria realtà vera la verità vera è che sto otto ore e mezza che parla modena cosa e najem risorto un cazzo
+però questa sia proprio adesso e qui
+e quindi e quindi e quindi
+e quindi puntato ottantanove navigate chi gli estinti è una di quelle puntate cosiddette building with fabric perché si lavora su progetti legati alla brigata in pubblico col pubblico e lo facciamo oggi con sara emilia
+un libro e chi verrà poi eventualmente aggiungerci per mettere un po' le pezze al sito lavorativi distinti in cui la volta scorsa del bed with fabric ha messo online un po' raffazzonato oggi cerchiamo di dargli un po' una forma e un'usabilità e un'accessibilità un po'
+chino migliori anche sulla luce è alla base di quello che ci siamo detti la volta scorsa proprio cosa ed emiliano sull'accessibilità quindi sarà emiliano video siete pronti per aiutare
+buonasera buonasera a tutti o fuori e leo opinioni
+scusa leggo bene
+è
+allora e niente diritti sul pezzo siamo una sessione di studio code con laser quindi sia il dubbio ed emiliano collegati questa è giusto per far capire a voi e anche eventualmente a chi segue come funziona la cosa beh questa è l'occasione in cui tutta la roba
+la via degli istinti biglietti tab io son le pagine di brigata degli istinti com il sito web sono usiamo in per fare un sito web statico webb wilder che poi è quello che viene usato dalle città pages
+di fatto c'è il in questo momento questo sito deve contenere sta girando e testarlo butta tutto online su adesso il mio localhost
+è
+quindi l'obiettivo di oggi è dare un'occhiata a questo sito in ottica e dagli un po' di sistemazione fatica appunto di smart
+perché ho scoperto volta scorsa che è ci sono un sacco di cose che
+che vanno messe in un certo modo per dare struttura semantica le pagine di un sito che poi aiutano anche in ottica di usabilità e tutto quanto
+è
+allora giusto per farvi avere un'idea anche a voi le pagine le singole puntate sono questi file markdown che vengono generate degli istinti che mutano
+dentro alcune informazioni statiche fornite manualmente e poi soprattutto e dei testi generati da raccontare su avrai quindi le varie citazioni ad esempio che si vedono qui sono appunto citazioni basate
+fatele da lei a
+sulla base del riassunto fatto sulla base del transcript della di ogni singola puntata che è fatto da una
+però alla fine fonte a noi umani quello che ci diciamo oggi in puntata di fatto verrà trascritto e sam meritato e poi insonorizzato con elenco dei partecipanti con i
+i tag qualche altra informazione da asso in mano a punto altri prompt che generano le varie citazioni e poi questi testi più lunghi questi articoli queste cose che ti raccontano punta quindi questo è il giochino e allora
+appunto ci sono film markdown generato per ogni episodio ogni singolo episodio qua vedete mi fa mandavano il layout e il nome dell'auto viene utilizzato questo è appunto insieme formate in realtà questo formato che markdown con alla fine una specie di misto fra gambler questo o il markdown che quello alla fine
+è qui che dovreste avere il testo di un post bene la parte sopra transmitter comunque come si
+floyd mayweather qui dicevamo
+vai di libri di iban
+volevo inserire un attimo prima di partire col codice
+inizio subito a rompere le scatole l'audio della sigla ci sono dei pezzi parlati ok
+bisogna verificare che il fondo musicale non sia troppo alto e troppo vicino allo stesso audio devono essere tipo
+un pò di decibel di distanza per essere comprensibile quindi
+iniziò dapprima ancora appello limitatamente ti consumano che ha generato la sigla
+ma ti dico anche il criterio di successo uno quattro sette
+e cos'è questo
+sonoro basso non presente il sottofondo sonoro deve essere inferiore di almeno venti decibel rispetto al parlato in primo piano
+quando quando vai ad abbassare il volume della musica per far sentire il parlato degli estratti dei vari video la distanza in decibel deve rispettare una determinata quantità hanson ah no
+quel pezzo non l'ho fatto io l'ho fatto ma era troppo bar alto volume della musica rispetto al parlato di te quando bisogna verificare perché mi sembrava ma è una mia sensazione poi bisognerebbe verifica
+sì no può darsi ma bebè possono assegnare al meglio ma ci mettiamo sarah smith sarà che dice sta cosa
+utilizzare correttamente
+va bene bene bene vi voglio bene in forma e tutto quanto
+sarà lui lascia perdere
+no vabbè ma poi mi ammazzate con questi orari io sono sveglia dalle cinque del mattino quindi vedo cosa riesco a fare altro
+guarda io stamattina alle sei stato mio figlio a scuola quindi figure
+noi vediamo vediamo cosa riusciamo a fare
+vediamo allora giusto per andare a continuare un po' per capire la struttura perché poi si fosse privi anche più facile poter intervenire gli si diceva ogni forma per un suo layout episode quello che è nelle auto dei singoli episodi questi layout stanno in queste pagine the house
+e qui è di fatto la chat ml normale dove ci sono poi le include di blocchi di codice che sono presi da questa directory include quindi semplicemente leader league di questa pagina è costruito con questi tre include poi c'è il leader della bodhi il main che appunto raggiunto la volta scorsa sulla base
+poi il footer il footer e liver questi due pezzi quando già allora fosse per meglio anche riccardo più così
+food rider e episode quindi ideano gialla la sezione header indicate fu della nazione il footer poi appunto il me l'ho messo qui perchè ognuno cento i posti diversi e figli prima domanda è prima questione e mi avete detto è giusto e come piombo
+è giusto tutto la pagina con i body con hitler mein e footer questi sono i tre macro
+blocchi giunsero qualora ci fosse come diceva andrea saltarello un'altra volta qualora ci fosse una informazione laterale
+per esempio lo scroll che ti fa vedere le varie sezioni dove sei arrivato e si evidenzia quello si dovrebbe essere allo stesso livello di hitler mein fuhrer dovrebbe essere la slide la side o che quella si usa un po' per informazioni di contorno alla legalità nel sì della pagina e cose di questo genere sì anche anche
+poi magari mi dite in quali pagine potrebbe aver senso metterla a questo punto allora io direi partiamo dal leader che è comune a tutte le pagine e sicuramente mi avresti già fatto notare che c'erano delle cose da sistemare perché questo è quello che poi il menu attendi il menù che si vede qua questa roba
+quindi questo iter è uguale a tutte le pagine in nero o bianco su nero che famo qua e m'avete già accennato il fatto che non sarebbe farewell lì ma navy giusto come che si lavora a wall
+menu
+allora suona e emiliano libero di intervenire brutale sul codice il suo codice a questo punto
+ti lascio carta bianca tanto poi si commetta eventualmente mimetiche selezione il testo sé e mi fa scrivere sei buche
+ma allora
+anzitutto io vedo che qua c'è un container e se vado aspetta un attimo perchè io purtroppo non lo sto facendo girare in locale quindi devo andare sul sito la brigata degli estinti luna se io vada a ispezionare quello che vedo sul sito
+il container a quel distanziamento laterale posso condividere lo schermo musici analizziamo un attimo quello che c'è prima di vergine era perfetta che mettevi non spettava a ciò schermo schermo intero
+rilievi allora qui dovreste vedere visual studio
+beh allora debuttò nel video
+wi-fi
+allora questo acquisto lo mandiamo qui allora vedi qui c'è il body con leader piaccia un pudding red
+questo pitrè se poi c'è il container che però aggiunge un'ulteriore pudding è un margine perché il container varia di larghezza degli scatti di responsible ci sono jason la larghezza
+cambia seconda la larghezza del viewport cambia la larghezza del container lo vedi da qui da weston max width attualmente io sono una risoluzione di
+mi sembra uno nove venti no millequattro quattro novantasei nicchia di soluzione ciò una cosa agghiacciante va bè è okay will dal contenitore a milletré venti poi scendendo diventa millecentoquaranta poi scendendo scatta di nuovo diventa novecentosessanta vedi
+allora questo contenitore qui che già aggiunge dei margini eccetera dovremmo andare a capire aspetta che lo sposto su un altro desktop adorò eccolo dovremmo andare a capire che tipo di comportamento gli vogliamo dare quando arriviamo a risoluzioni più basse perché il disco
+l'orso è sempre per quanto riguarda il discorso di responsive e partire sempre dal basso questa cosa per esempio che sta succedendo adesso a trecentoventi pixel di larghezza x e la risoluzione del mio iphone per esempio l'iphone see e non in teoria alle voci di menu non dovrebbero andare a cavallo
+anzi dovrà bastare un altro tipo di menù dovrebbe essere un altro tipo di menù però è vero pure che se noi troviamo il modo di renderlo leggibile perché comunque le voci di menu sono piccole sono quattro potremmo anche riuscire a a a evitare di dover fare un di dover cambiare questo comportamento in un altro menù
+per esempio
+oh però per poterlo fare comunque il discorso è quello che facevo l'altra volta cioè la l'accessibilità come concetto va separato dalla disabilità perché l'accessibilità su situazionale di una risoluzione troppo bassa di una connessione troppo bassa di un
+come dire
+scarsità di risorse della macchina che fa girare il sito sono tutte accorgimenti ai quali bisogna prestare attenzione mentre si fa questo tipo di implementazione quindi anche capire come vogliamo farlo comportare questo pudding per esempio una volta che c'è il container non ci ha molto senso
+per dire
+questa quest'altro comportamento che sta qui con il flex lo sa che va a finire che ti faccio togliere mostra però
+no no per favore l'unico che conosco che mi ispira centralizzata
+allora per esempio due cucchiai due comportamenti distinti no uno e per la risoluzione larga e una per la risoluzione standard diciamo che questa qua no ora già per esempio cambiando questo ammettendo che ne sono sei qui e anzi no n dodici qui è un dodici sopra
+noi stiamo dicendo che quando arriva all'altra risoluzione comporta in quel modo e qui va a kabul intero menù presentano poi arriva un certo punto e in orizzontale
+per per esempio un'altra cosa interessante potrebbe essere centrare questo logo questo qui perché comunque il link e largo adesso
+quant'è duecentosessantaquattro cinquanta no
+di altezza e larghezza duecentosessantaquattro volendo questo potrebbe avere un alla center sposami suggestiva e golden shepherd aspetta ma solamente alla risoluzione e al kg questo non lo prende porcelain aiden sa io purtroppo con questa roba cioè
+da dove orchestrazione lo scrivo da solo purtroppo ci faccia un po' a cazzotti ma adesso lo troviamo la soluzione andiamo sulla documentazione di bootstrap
+gat bootstrap
+scusa domanda da profano du du strap non ti piace ma perché sa già fare tutto il resto c'è qualche motivo tecnico no io non uso nessuna libreria per quanto riguarda chissà perché appunto me lo scrivo da solo quindi non è una nave una volta utilizzavo bootstrap diciamo prima di studiarmi cess così
+lo stesso discorso vale per te il weekend senso sono tutte quante cose che si possono fare anche senza
+la necessità di smith e carlos una libreria e ovviamente a livello di accessibilità questo è importante perché
+per dirti se io vado qui andiamo a vedere ecco il bootstrap bundle bisognerebbe anche capire che cosa ci viene fatto con questo bus strappandolo perché molto spesso i componenti neanche vengono utilizzati
+di bootstrap e questo ovviamente non lo so opera dovremmo vedere
+quanto occupa questo caso mariana
+allora mostra abbandono noi ci stiamo portando dietro ventidue cappa di dipendenza e ventitré ventisette cappa di kick-ass di dipendenza per dire mi sembra più che lì è più che dignitoso rubare ben spesi riaprire per quanto mi riguarda per carità però ecco io per esempio non
+qui ovviamente non devi considerare solo quelli perché devi considerare ogni carattere di ogni classe di busta paga utilizzi che ognuno di questi ambiti ho capito basta un'immagine fuori scala che ti smic che basta quella per vabbè tu dici non dovresti fare no dai non sono d'accordo sulla l'attenzione al dettaglio all'ottimizzazione anche della band
+nda perché arrivo da periodi in cui lei aveva poco tempo si è sempre in ottica di accessibilità intendo eh sì sì sì sì sì sì però allora partiamo presupposto che bootstrap per quanto mi riguarda insostituibile per il mio punto di vista in questo contesto però diciamo degrado di questo usare adam center amman
+diciamo che questo a
+aspetta allora
+stefan
+self
+straccia
+nulla ah e se questo lo facciamo diventare un dodici e questo lo facciamo diventare un dodici questo qui non si stretch avrò
+cerchiamola purtroppo questa roba non me la ricordo gli step
+self esiste come helper
+the flex vedi qui ci stanno tutte quante le impostazioni di flex anche basate sulla media guerri
+è lo stesso discorso vale per tutto quanto anche per aline self per esempio ecco forse questo alain self
+no non c'è non c'è helper per gesti fai self ok
+veniamo qua qui la soluzione potrebbe essere questa ovviamente qui non le puoi far scattare a leggere si farle scattare di point s m probabilmente certo questo potrebbe diventare assai km stando così anno
+vuoi provare a emiliano a dare un po' di contesto anche per chi non sa di bootstrap cosa si intende per sé m cibo ipod perché sennò sia giusto allora bootstrap come tantissimi altri meccanismi che hanno sotto il cofano on grid sistema adesso lo cerco e grid system cast night layout black points
+hanno una serie diciamo a sono basati sul concetto di avere una serie di break point ha eguali ivan viene dato un nome e che corrispondono a una larghezza del viewport quindi dell'area a disposizione per il render della vagina che in questo caso è trecentoventi pixel di larghezza per quattro zero quanti sono perché conviene
+qui c'è tutto un puttano dov'è scrolla
+e quindi a partire da una determinata risoluzione scatta una media queries scatta un cambio di container e delle relative
+appunto
+classiche n che ne sono connesse l'abbiamo visto prima gon nel container quando noi stiamo qui e andiamo a vedere la larghezza del container dove stai container che sono nei media where dove stanno le maglie where
+ce ne siamo perse le media queries stavano prima
+allora
+questo oppure c'è un altro container però non lo fa vedere
+aspetta lo richiudo
+lo riapro magari gli piace di più ma non credo ma come se fosse sparito lo ricarichiamo
+vedi quali sono i black point che vanno ad associare una larghezza di viewport a un determinato nome in questo caso che ne so dai millequattrocento pixel in poi di xix elle tutta questa roba è connessa con il grip sistema di bootstrap strappo che va a gestire quanto sono larghe le tabelle quanto sono larghe alex
+usa delle colonne come si comportano a determinate risoluzioni per esempio qui c'è una legge quindi se andiamo a ricontrollare da qua dove eravamo prima
+amo eccoli
+leggi corrisponde al novecentonovantadue pixel attualmente questa cinquecentosessantacinque quindi portiamolo a novecentonovantadue diciamo che qui siamo settecentosei dice andiamo un po' più avanti ecco novecentoquarantasette ancora più avanti novecentonovantasei allora qui
+queste colonne leggi stanno dentro una media guerin che dice che da novecentonovantadue in poi scatta questo comportamento piuttosto che il comportamento standard come vedete qua questo container dovrebbe eccolo qui l'abbiamo beccato questo container come vedete quando quando arriviamo a quella determinata risoluzione viene indica
+da una larghezza di riferimento del container che appunto è questo che vedete qui evidenziato non il contenitore del leader ma tutto quanto questo e se noi andiamo qui a vedere i container esattamente c'è scritto che a novecentonovantadue il container largo novecentosessanta esattamente il numero che stiamo vedendo qui
+se io scendo al di sotto di questo numero arrivò settecentosessantotto il container va settecentoventi bus strappa questo lo fa per garantire comunque uno spazio laterale al contenuto diciamo e infatti eccolo quà settecentoventi e così via basandosi su questo ragionamento quindi sapendo che
+ci sono delle medie aguer che vanno a fare tutto questo lavoro con questi container nominali lo stesso succede per le colonne infatti io posso specificare le colonne in maniera generica cioè questa specifica vale per tutte le risoluzioni oppure posso andare a specificare le colonne verso lo troviamo
+questo sempre generico eccolo qua a partire da una determinata risoluzione in poi quindi per esempio per risolvere il problema di questo menu che adesso sa praticamente questa classe pelle e due sta replicando quello che è con due quindi volendo potrebbe anche essere omessa questa clip
+esse perché non non apporta nessun cambiamento in termini di organizzazione del layout però diciamo che è al di sotto di una certa risoluzione invece abbiamo bisogno che il menù vada a cavo per evitare questo allora mandiamo a casa così menu di pasta diventa da dodici perché la griglia è organizzata su dodici colonne
+anche questa diventata dodici e intanto visivamente questo problema l'abbiamo risolto poi è chiaro che quando arriviamo diciamo a questa larghezza qui anche già questa larghezza dove siamo qui quattro cinquanta a quattro cinquanta ritorniamo sul container high point sappiamo che lui
+da hera al di sotto dei cinquantasei ex quindi diciamo da da esse emme in poi cioè da da cinque sette sei in poi lo facciamo diventare un coll due pellicole
+xml sei e qua scuola e fiamme due nonché netto e quattro jolly s m
+dieci è totale ovviamente fa dodici è chiaro che sia qui metto dodici dodici vanno a cavo superava quella risoluzione il menù si comporterà così invece che andare a capo come faceva prima
+ora rimane di centrare questo logo per esempio se ho sempre se vogliamo centrarlo chiaramente quindi su questa larghezza questo logo sta dentro un contenitore che ci ha display flex vediamo se ciò display flex display block quindi se questo già display block con flex non ci facciamo assolutamente no
+niente quindi dobbiamo strappare questo in un contenitore flex oppure dobbiamo dire a questo di che la sua larghezza al cento per cento e centrare l'immagine al suo interno ma non è una cosa corretta perché league è il contenitore che deve essere centrato non può esserci un link al cento per cento di larghezza x
+usa che attualmente sta facendo come vedete
+okay perché perché se io poi ci vado a navigare con la tastiera ma come faccio a disabili storiche gallo maledetto e
+se io ci vado a navigare con la tastiera qui su questa risoluzione qui
+io devo vedere questa cosa anche alla risoluzione più bassa che adesso l'abbiamo smontata
+l'area cliccabile de fuori jordan kara è il principio mi sembra che per farla tripla debba essere quarantaquattro x quarantaquattro però sommo bar sarebbe meglio quarantotto quindi io di solito utilizzo quarantotto per andare più sicuro
+quindi quindi con la dimensione del logo ci siamo perché luogo adesso qui e quarantaquattro ma se noi questo movimento della terra dodici è questa dodici e questo invece sam
+questo è diventato da cinquanta quindi va bene
+sì io onestamente a far andare diciamo tutta capua sostanzialmente anche se poi bisogna capire come far leggere il titolo del video
+perché su mobile ha almeno anche non sono utente cieco per dire che deve provare a deve trovare lo spazio dove cliccare sostanzialmente se gli si dà un pochino più di respiro e quindi appunto matt in fila episodi costa toglie un attimo che non leggo i titoli a episodi ecco episodi
+gig media e boyd
+showing uno in cima all'altro a allineati a sinistra e gli si dà quarantotto pixel tre quarantotto appunto di dimensione per io farei impietosi verticale ecc se non anche perché sono pochi e sono piccoli quindi se ci potrebbe stare se non si usa un menu appunto hamburger o cosa del genere
+nere se vogliamo tenere questa cosa forse che poi diventano un burger tanto andando pure a vedere quello che fa bootstrap almeno hamburger sarebbe poi questo comportamento qui a un off-screen canvas di fatto se e poi verificare a duecento a uno zoom del duecento percento cosa viene fuori
+se si rompe qualcosa
+e lì dipende pure come sono state usate le unità di misura cioè se io sto così vado area
+il menu sta reggendo abbastanza bene per quanto vede che oscilla tra posta perché chiaramente il container di fasto già detto qui
+purtroppo però diciamo che comunque così mi sembra che stiamo uno zoom del
+bastano
+dimensioni reali
+possibile su safari non c'è la possibilità di avere quanto lo zoom mi sembra nathan
+ci sarà forse dagli spector
+livio aiutaci anche due non ci lasciare da soli
+enrico
+non sono esperto esperto
+allora io ascolto estasiato e
+sen o ho qualche conoscenza e il bello è che quelli che a capire quello che dite ed è per questo che la cosa mi affascina
+in modo particolare perché poi tutto il resto e cioè il fatto strano il fatto strano è che qui c'è un container con un qualcosa che non è una riga e due colonne e io se non vado errato almeno che mostra strappo non sia cambiato cosa probabile è fermato joint
+aree perché ho fatto un
+ma allora sistemiamo la
+solo con la possibilità di modificarlo questo è il problema che vedo
+allora sto ragionando quindi noi vogliamo abbiamo detto vogliamo mandare questo qua in verticale quando stiamo su mobile eh sì però capire se possiamo fare un hamburger menu a questo punto quando veniamo un attimo negli esempi
+dove stavano gli esempi eccolo qua nodale
+eder forse questo
+no perché vedi qua lo fanno questo lavoro è will l'ho copiato dalla guerra
+è vero pure che è una roba enorme questo è un confronto se ne dovremmo ingrandire il font probabilmente altrimenti tra l'altro esalta la dimensione del font con te è la dimensione del font qua
+se la dimensione di questo font qui
+attualmente è font size
+br comunque omesso mostra tutto ti prego non vuol dire che c'è un mostro nella santa chiesa non approva io sono una band intanto per vedere una cosa allora il font size qua e sedici pixel quindi con le specifiche dovrai acquistare perché il minnesota
+però per esempio questo non è semantico
+questo dovrebbe essere un menu o un navy
+allora facciamo una cosa iniziamo a implementare semantic tappo nel campo del tag e quelle cose sulla iss che son d'accordo a farlo minimo responsivo e sulle basse risoluzioni
+cioè volendo qui il discorso è che togliendo tutto il comportamento di bootstrap eliminando tutte queste glass week questo concessi al se fa in tre secondi capito qual'è il problema però fanno rolex world youth cup che questo è anche un tutor opera la bussola vediamola così e per me è che uso mostrato come l'ora
+considerando questo tu qui sicuramente questo a caraffa dovrebbe essere una autonoma con dentro la anzi qua dentro ci dovrebbe stare
+perché la maggior parte emmett
+allora qui ci dovrebbe stare un'arca uno
+no scusami la uno deve stare fuori dalla hall del picchio sempre con questa cosa quindi il contenitore del logo dovrebbe essere una ca uno se non vado errato ma correggimi non sahara se sto dicendo delle cretinate cosa molto probabile
+salve stagione coca uno nella pagina che abbia finito
+asaps quello che ho lo facciamo così perché altrimenti qui il logo
+non ci dice niente c'è chi ce lo dice solamente l'alta se non è una cosa proprio corretta perché no quello è la bella no banalmente tra l'altro l'alto del logo dovrebbe essere a indicare dove va quella cliccandoci sopra perchè non ha un un un test
+un testo di contesto di fianco e quindi della dia di roma bugie qualcosa di questo si è rotto quindi questo volendo l'aria label di questo link
+potrebbe essere
+vai alla home di bugie è una cosa del genere ma anche basta solo omma vigilia si rinnova questo sogno basta a te
+home by b
+ce l'abbiamo lo è lo schema infatti metterò teatro
+e a sto punto l'altra è solo descrittivo si può mettere cioè si può svuotare
+nel frattempo c'è solo un'immagine ma quello che conta è il focus sulla ah allora
+ha tendenzialmente si preferisce per quanto ripeto io di codice sono meno sono meno ferrata ma credo che sia consigliabile
+su questa tipologia di immagine inserire
+direttamente nell'alta sì dove si va sentono senza utilizzare l'aria se possibile ucraine
+e tra l'altro a questo punto sarebbe da fare una prova con voi souvenir giusto perché se su mac e vedere che cosa succede e come lo legge ove solo che ovviamente è adesso questo non lo posso commentare
+quello che facciamo lo facciamo dopo da dove venne girato ti amo libera i tuoi segni queste due cose vedi come reagisce eventualmente il se abbiamo questo qua ci mettiamo un commento
+jody scheckter
+over
+e dopodiché questo qui abbiamo detto lo facciamo partire da s m
+sm qui per esempio è inutile mettere col dodici non c'è senso perché questo è già al cento per cento però in realtà il menu di navigazione
+navy
+symantec
+fiammelle menu
+arctic cat mammelle
+allora qua per fare queste cose bisogna sempre andare a leggersi la documentazione io stessa
+giorni perché perchè non un cristiano non si può ricordare tu no man's holding quindi per esempio qui semanticamente lui dice che la navy rappresenta una sezione di una pagina il cui presupposto il cui obiettivo è quello di consentire di
+rendere disponibili dei link di navigazione
+anche all'interno dello stesso documento o fuori dall'osteria da quel documento e verso altri documenti
+per esempio un un caso comune è la breadcrumb
+un altro un caso comune è il menù e la table of contents sono gli l'index
+quindi qua ovviamente lui qui va a fare questa cosa o un'altra cosa che nella navigazione per esempio non saranno meno peggio okay qui questo volendo è un altro menu di fatto secondo lui vediamo cosa si sta facendo sia un intero navy
+descrittivo con elenca diversi posti prevede che quindi come navy sim non è necessariamente il menu elenco di voci menu ma questa è una cosa più c'è lei la cosa importante quello che c'è dentro informazioni su come muoversi navigare esatto basta metterci il nave intorno a quella
+l a sostituire basta sostituire
+il lowell con navy lei li togliamo e lasciamo solo gli ah no no però scusa sotto c'è un altro esempio con nave welle sopra qua con lei questo qua sì ma non è necessario will eisner deve renderizzare un elenco puntato tu non hai bisogno di un elenco ponzi no però voglio dire visto che
+ci son già visto che sono già con i fogli teoricamente buoni aggiungiamo un navy e finiamola lì c'è però solo anello non è il top della semantica e no ma scusa anche qua la segue la logica c'è il navy che insistono a salvaguardare dal codice per carità ma lui lo sta indirizzando così è e non lo indirizziamo qui
+stili san loro reindirizzi è però il discorso è se i loro indirizzi con lowell tu devi scrivere del css per far sparire il pallino e mandarle in orizzontale e c'è già il colonialismo connelly un assenso esista quel chips è questo il punto
+risparmi
+a quanto ho capito però se tu devi mettere poi dei singoli voci dei menu separati devi comunque avere degli elementi che sembrano fuori luogo no ma questo cifra ovviamente così guarda questo film qua io per dire semplice vip class met navy non va bene allora
+tendenzialmente ma questo non è una cosa per la semantica o per ho peraltro ma è per bootstrap
+iv che sono container rock e colonne vanno lasciati per i cavoli loro e all'interno poi ci metti quello che ti serve ma tendenzialmente perché andare a usare altri elementi semantici
+per fare quella cosa va benissimo puoi anche fare le section che sono dell'eroe non c'è nessun problema però indubbiamente
+la
+e diciamo è meglio lasciar fare a bootstrap quello che fa bootstrap e poi casomai organizzarsi con il resto questo diventa così ed è sul nav che gli vai a dare una serie di informazioni
+per reindirizzare questi in quel modo perché non ha senso che tu vai a ripulire questa vuelle dal suo comportamento naturale e che è mandare le cose in verticale con un pallino per poi mandarli lo annuncia proprio una logica perché poi lo schermo o giocare lì furono ramadan
+sociale salve io son sicuro che mi smentirà tutto la leader deve esistere per almeno avevano finito però
+sì ma io non ho finito però si regalano
+qui tu hai per esempio gli ha stanno prendendo stanno mettendo da loro stessi il tutto quanto il comportamento di spaziatura vedi
+questa vuelle questa vuelle sostanzialmente sta lì boh non si capisce perché aspettare fammi fare questa cosa vediamo qui allora se io adesso faccio un
+menu escluso un navy
+e all'interno ci vado a mettere tutti questi
+lo faccio doppio no tolgo a lei
+vedi che visivamente elenco si stanno comportando esattamente come questo o a livello a livello di font
+sì sì sì sì di brian nell'app è un contenitore che anche lui esattamente come il well come la vuelle manda tutte quante le cose in verticale
+ok
+ora però questo sidney jordan
+torna ai display n bluth sbaglio se si sia un helvetica al foglio di stile dello user agent mette tutti questi elementi compreso il navy con display block quindi sono elementi di blocco e quindi vanno capo e quindi vanno a cabo ora però questi elementi qui sono elementi inline le
+ah e se andiamo a vedere sul foglio di stile dello user agent
+che non è questa parte perché questo anilina
+dove sta eccolo non hanno di fatto un display il display di questi attualmente e blog ma non dovrebbe perché di base là a ciò display inline c'è qualcosa che la storia ridando ma non è questo il problema perché tanto noi la sistemiamo un flex non ce ne frega niente sotto un certo punto di vista no
+beh allora sosteniamola po' come come strade dal momento che bootstrap già ce l'ha lei sui suoi helper se poi ci mettiamo on di flex quelli vanno in orizzontale chiudiamo
+slim è quello che muove grazie
+quello che manca e questo pudding qui c'è un b x due che è questo pudding qua e soprattutto cinque rem left right ma il padding superiore chi glielo sta dando lo andiamo a vedere da qui padding bottom top se clicchiamo qua lo sta prendendo dalla classe enabling
+ok è la classe navy league è basata su queste due variabili qui dove qui c'è mezzo rem e qui c'è un remmy ok
+e in teoria questi dovrebbero prenderla ma in realtà la glassa enabling come vedi qui le variabili non sono definite perché se io clicco qua queste variabili dove sono definite ciclico ci vado stanno definite dentro il nav che è questo qui quindi ometto metto la glassa navy qui eccoli
+i suoi denti ginocchio torna
+alla grande
+museo butto questo siamo d'accordo ciò stesso menu vai vai vai butta bocca tutto giusto quindi ve lo copio faccio molti improvvisano maestro in teoria dovresti avere lo stesso menù in teoria puoi provare a pubblicarlo vediamo che succede
+salva pure me lo vedo il locale e non mi può salvare in realtà
+eppure salvò però poi c'è una
+uno un pezzo prima del logo è fatto lasciato un pezzo di qualcosa forse no in realtà no e pulita lo aspetta sono io
+roxanne in chat da provare no anno nonché incerto abbiamo visto studio aspetta che devo aggiornare rispetto snake eyes non salva non ho tranquillo stesso io ce l'ho avuto saber è solo visto le modifiche hai fatto te fammi vedere l'effetto va bene così
+e è svolto che esce ricarico dovrei vedere quella cosa dice no lo ha sepolto un individuo localhost perché non so se riesco a condividere
+ma no ma non è
+non è importante va bene così non c'è problema l'importante che ce l'hai e l'ha salvato quindi dovresti avere anche questi due sì no ma sai cosa potremmo fare a questo punto facciamo l'editing e suscitava direttamente così deve contenere delle gambe lo vediamo tutti e va bene burgos non è un problema onsen
+però non ho capito perché io alla fine no ma adesso capisco condivido pensavo fosse molto più mai per sembrare sempre stato impossibile complicato riprodurre l'elenco dei lo stesso stile cool così così va benissimo cancella pure commenti sotto via tutta la fuffa beach
+perché alla fine hai visto quanto quanti bit abbiamo risparmiato questa cretinata ora le ire iscritto il sesso che fa questa roba queste classi non esisterebbero perché questi sono dei link che stanno dentro un navy con classe navy quindi io non non qui non ci avrei messo classi avrei semplicemente definito il comportamento delle api all'interno del nav perché
+perché un selettore basato sull'elemento c'è una specificità più bassa e quindi è più facile fare l'override poi si é necessario
+è sempre meglio scrivere i selettori con la specificità più bassa possibile
+munafò feste se vuoi faccio un ottimo un'introduzione di che cos'è la specificità però il nome e i suoi si possa intuire e
+facciamo una cosa e
+diciamo che così in teoria dovrebbe essere un po' più semantico per quanto quando andiamo qui voiceover dovrebbe leggere l'elenco episodi lenca geek league media eccetera oceani e quindi cerchiamo un'area no no no nucleare se va bene che venga letto questo va beh
+bene così
+a me è giusto uno che gli alien episodi si in teoria si se se vogliamo fargli dire qualcosa di più descrittivo per un non vedente di tipo
+clicca qui per andare agli episodi alla lista degli episodi li dipende poi un discorso anche di authoring sì no ma in questo caso sono abbastanza auto-esplicativo nel senso si può evitare di aggiungere ulteriori informazioni che a dre risultano poi ripetitive quindi si
+verificando poi con voi so perche legga quello che ha detto emiliano league episodio va bene lo fanno online online quindi sai cosa standard primario clicca qui va abolito
+no no non sempre in questo caso dipende da me non piace l'idea del gallo lo vedo scritto jerome da un appunto clicca non sai se uno sta cliccando sta navigando da tastiera quindi via è meglio
+per essere più inclusivi di ciò quindi
+a livello di linguaggio broadcaster
+fuori allora se io mi copio questo capannelle come adesso e lo metto sulla versione che vedo io adesso del sito o gli faccio modifica chat e ci metto questo
+ok
+che cosa ho rotto parte le banchine
+e ha giustamente torna indietro reinterpretato
+se ce l'hai un beccata alessandro vero non pagati
+stage sarà gitano
+e allora siamo tranquilli a volte modifica on giuseppe che in questo culto a fare una cosa
+commetto push su branche e poi lavoriamo divertente su quel brand online che mi sembra enti una cosa più intelligente da fare così la modifica dei ruoli in tempo reale come vuoi
+ecco per dirti qua adesso ci ritroviamo in giro a fare musicare ti conviene provarli te e provare localhost non è toscano
+se non commetti c'è lei la copia locale con quella linea e la briga di samar
+modifiche sono a posto lo so ma il punto è che è una cosa ancora più figa che vogliamo fare noi possiamo usare e posare su un branch di tab su github lavorare tutti quanti insieme creano ci la funzionante con i fan il focus sono solitario con
+il viso studio code su github che si può anche esportare la porta su cui stanno ascolto locale e sputarla pubblica quindi tutti possono vedere quello che sta facendo in tempo reale
+fatemi sistemare lo ha detto emiliano cortesemente smettere di impasto segnare sul mio food blog non sta attaccando proprio
+ok
+già che è quindi quello che hai fatto lo commetto quello metto su un braccio e poi guidali tu vai oppure fare due cose nessuno sorge
+non è che sto cercando di capire come funziona sto coso ma giustamente se la colonna display block non c'è la beffa
+bisogna metterci un altro dubbio qui
+per centrarlo bisogna mettere un altro diva in realtà
+ok lo facciamo dopo
+allora permettimi di condividere lo schermo così vediamo se riusciamo a fare quello che volevo e aspetto e ti tolgo un attimo al look ho comitato pisciato su questo branson adesso
+sono fede github
+ne viene fuori un bagaglio che questa secondo me è riqualificare dignità che non tutti conoscono che hanno loro struttura che sei lì ecco aiuto o che github bugie
+è nel luogo dove hair gold code spaces
+creiamo rock your space
+bene quindi paziente questa distanza diviso studio cloud su web napoli poi la punti sul branch e poi hai diritto a me poi sporto l'apporto delle aree container pubblica e qua c'è una figata pazzesca guelfa con kelly kelly kelly
+è la ciliegina sulla torta però vediamo se chi ci sta mettendo un po' perché sta creando un container su cui sta facendo girare improvviso studio code e
+uno due c'è
+sta cosa qua di dividerle
+the code spaces di tabarka è una figata
+adesso comunque william
+è
+tra l'altro si possono creare questa faceva il suo corso
+senza addurre motivazioni plausibili okay
+alla situazione di allora storie tese
+sta canzone che ne ricordo
+eh aspetta che te lo dico perchè neanche io me la ricordo
+era era cara ti amo
+sì è cara diamo gran pezzo a
+s
+soprattutto il finale di howard
+ciao grande eh sì se tanta roba
+la una delle più belle secondo me specialmente per il nostro mondo diciamo e gargarozzo perché a un certo punto della canzone dice questa frase che secondo me è perfetta in ogni senso no dice col motore di ricerca puoi arrivare dappertutto anche dove non volevi
+la denuncia
+stephen è una delle cose più geniali che sto mai state scritte in una canzone secondo
+s ok allora adesso sta facendo patire achille sul container per farmi passare nulla oddio so che bridget catherine lui io torno subito sono qui vi ascolto devo fare un attimo di manutenzione arrivo subito
+ha proprio fatto il brand dan
+da sbagliato qui non devo fare il broncio d'acqua
+c'è la hot space di farlo dal medico
+beh altro con spaces altra istanza di liam fosse un problema più veloce diviso studio code comunque la cosa spettacolare poi è questa che qua la porta che c'è qui si può io può sapere in browser però questo è un indirizzo mio privato
+credo parte ve la butto dove l'acqua cominciato fatemi sapere se per caso vedete ma non credo perché devo renderla pubblica
+se non si vede non si vede allora però se faccio cosi quattro zero quattro
+provate adesso
+c a posto se vi rendete conto che che che roba è sta cosa qui
+e beh detto e niente quello che c'è dentro il container i tre porta per vender contiene possono essere esposte possono essere rese pubbliche adesso facciamo così e
+io intanto sto vedendo chat amen
+c'è tutta ah no scusate non non vedevo come te sono una tonnellata e come ti acchiappi youtube non stavo seguendo ciao a tutti marco maurizio carlo andrea
+sempre
+e a questo punto di vista anche voi il link per vedere sta roba qua però un pezzo alla volta vogliamo aprire il container giusto e su brancher
+quello di lavoro e
+sta adesso facendo partire il tempo andrea andrea saltarello sta citando e parafrasando la canzone come le storie tese nella esatta sei un mito di allora
+e con emery okah e dentro gamba tu praticamente puoi avere il tuo container e puoi avere un bel ode computing free a e perché il code spaces e adesso lo vedete sono e
+intanto si possono fare
+di diverse dimensioni io queste due qua questa qua su meno non lo chiuderei se non facciamo confusione e stop your space
+rimane kevin storie hanno un container che gira su github e dentro il container gira in alto contiene anche quello di credo che del container c'è c'è l'istanza di visual studio code dentro la quale c'è nel container dove gira quello che hai comprato il container che nel caso specifico è
+questo achille
+e quindi poi far partire il quindici adesso fatemi fare due cosette questo dovrei averlo questo è il building pubblico questo ovviamente però per esempio l'immagine del logo sta puntando alla balaustra quattromilauno invece che al container e quindi io per dirti non la vedo
+so o che si instaura un problema questo è un problema però possono anche qua fare però un po' un casino si può fare con busta con pò di cose basate su variabili e
+adesso vediamo un po' come vendere stava baciando possibile allora intanto fatemi condividere questa roba qua vediamo a tutti quanti allora aiuto dintorni due
+allora arrivano consigli dalla chiatta intanto
+con uno staff temporaneo
+e si allora culo cui crediamo perché effettivamente sta roba qui la gestiamo allora beh adesso tu potete tutti lavorare su un
+il container non so se possono gesù io a questo punto è una cosa che potete
+mi sa che forse contiene home accesso condiviso ma no però ce l'hai serrano e se ce l'hai sempre in teoria ma tu la dichiara l'hai spostato sull'altro brené brown in realtà la sesta devo aggiungerlo qua ma non so se posso
+perché sta dentro il posto dove gira al codice o rosa
+com'è nato non è legato al brand è legato alla
+ma dove sta il codice allora sean sean
+red light
+in questo elenco se questo vogliamo aprirla tutto il mondo a ciò che a david parli facciamolo come si deve
+commissione oddio vabbe tanto un bacio bene tutti e adatto a tutti chi vuole entrare entri che tanto qua erano tutti senza rete
+matteo persino della vigilia
+beh credo di avere ancora il potere di approcci no lavoriamo su brancher emerge non è prevista credo avrei comunque mi fido dei presenti e di quelli che sono collegati in cina e video l'ho postato su youtube permette un tracciato qua quindi in teoria dovreste poter entrare tutti
+guanti
+che ho robin
+io quando vedo ste cose non mi fanno impazzire
+e allora torniamo a noi intanto
+basica riaprendola air
+si apre subito in studio
+leader era questo come prima
+allora questo sei tu urla in realtà questa è una variabile che prende da
+da qui
+c'è un config davy che questo
+e io questo potrei cambiarlo con liam se lo fece momentaneamente con la url nella collettiva adesso troppe cose ha aperto un club qualsiasi link relativi atti
+e ma no è utile anche ma quello che qui è saturo ce lo da da tante parti diverse quindi è meglio usarlo luglio
+spetta però config deve come facciamo a sapere se usando questo
+non si devi rimandare e il cozy place location che stava su main
+a ovest c'è marco grande marco no aspetta coi spesso l'ho messo su hulk sulla chat di whatsapp se si supera un tema che solitamente eccola eccola eccola
+sì ho capito e ricreativi però c'è un buon
+c'è un buon modo per chè c'è un modo più elegante per quello statuto comunque
+mike utile
+night the world
+nel frattempo sara sta che dice obama questi non avendoci multimediali
+i creativi sono utili quando si no perché sebbene nel menu per esempio che chi ha paura di dirgli le cose sul mobile a questo punto mi sono sentita un paio di robe vasto a patrick
+al terrore ora poverino
+in quest'epoca perché non l'ha presa lan
+numero preso in cam
+vabbè intanto allora intanto che io guardo le mie cose emiliano vuoi continuare a fare un po di lavoro sulla linea loreto
+in realtà sto cercando di caricare su safari
+quella ah la quale sono vedo ok
+ok allora io vado un attimo avanti sul leader se tu lavora sul web vuoi che condividono vuoi capire cerco di sistemare la cosa e hailing vuoi condividere
+towns rivede schermo schermo intero van le vele e cesar
+eccolo allora dicevo questo allora il db con le colonne ciò display blocco non possiamo andarci a mettere flex qui volendo potremmo anche metterci uno però se noi andiamo a vedere qui sulla documentazione di bootstrap e cerchiamo di trattino flexa
+già dalla documentazione me non mi sembra ci siano delle limitazioni se metterlo o meno dentro a una colonna però io tendenzialmente eviterei magari aggiungere un altro debba solo che già ci saranno abbastanza di voi quindi non so magari provare a mettere un di flex led potrebbe essere utile
+vediamo se ci riusciamo a sé rompe le scatole allora qui a fianco di flaps
+che non vorrei che il the flex rompe le colonne infatti rompe le colonne ma poi è pieno di importante io mi sento male a vedere questa roba io don rodrigo bootstrap di goya che appieno important diffusa sono importanti
+si lavori per dare priorità massima c
+sì diciamo di sì a quello specifico lettore il problema è che usare important prodotti po' tipo l'antimateria per quanto mi riguarda will
+sono quelle robe che io metto quando non so come far comparire le cose che voglio
+total orange la guerra diciamo che se ci si ritrova a usare important può dire che sia sbagliato qualcosa nello scrivere certezze prima assolutamente gay perché chiaramente tornando al discorso che facevo prima dell abbassare la specificità dei selettori
+cercare di basare il tutto
+sugli elementi piuttosto che sulle classi è sicuramente meglio proprio perché ti evita di dover andare a usare important per rafforzare la specificità e scusate per forzare un selettore che non ne vuole sapere di rispondere ma perché appunto sono questioni di specificità cioè bisognerebbe conoscere come funziona poi
+sotto il cofano l'algoritmo della della cascade di ash che se volete lo vediamo non è così complesso e complicato da capire anzi secondo me aiuterebbe un po' tutti
+vediamolo un momento allora cascade
+e poi
+sì
+se magari mettiamo in media ne facciamo prima
+eccolo qua allora la specificità di un selettore basata su poche regole sono quasi quattro cose proprio
+vediamo se c'è una cosa grafica che ce lo fa capire meglio sto cercando se non c'è la la troviamo noi
+oh eight
+allora di base noi abbiamo il concetto di selettore css quindi e che ne so questo fa parte viola e il selettore tutti gli oggetti e gli elementi che rispondono a questo selettore quindi tutte le cose che hanno un attributo tipo password in questo caso oppure gli input che stanno nello stato
+di focus oppure un input che ha uno stato required all'interno di un contenitore con kidd make-up
+vengono catturati come dico sempre io da questo selettore e per ognuno di quelli viene specificato che il colore del testo sarà blu e questo è il concetto di base proprio dei selettori kick-ass ora come vedete tutti questi bei numerini che stanno qui si sta parlando di specificità cioè
+un una serie di valori che vengono calcolati in base a attributi e aumenta il numero qui centrale elementi e aumentò il numero qui sulla destra
+pseudo classi ed aumenta il numero centrale esattamente come gli attributi esattamente come le classi yiddish ed aumenta il primo numero quindi questo elemento c'è una specificità più alta di questo che a sua volta ha una specificità più alta più alta di questo chiudiamo sì funziona come le versioni dei
+software in pratica più o meno
+la cascade ovviamente quando va a calcolare la specificità per tutti quanti questi selettori lì ordine in ordine decrescente quindi quelli che hanno una specificità
+più alta vengono messi gli viene data una priorità a quelli che hanno una specificità più bassa e ovviamente gli venne da meno priorità e quindi se io pretendo che questo selettore abbia un colore blu quando su questo selettore che allo stesso input magari
+gli do un colore viola vincerà sempre comunque questo a meno che su questo non a metterci l'importante ok
+in questo caso per esempio abbiamo una specifica di zero quattro zero perché perché ci stanno una dopo e tre classi è un attributo e quindi la specificità viene fuori questo numero
+è proprio quaranta questo è proprio cento perché c'è un led quindi è chiaro che a ecco in questo caso vince questo perché c'è un eddie e c'è un attributo e quindi centodieci a un numero maggiore di cento
+ok
+questo è come ragiona la specificità quindi è chiaro che in questo caso quindi a parità di specificità vince l'ultimo che è stato definito quindi laddove la specificità e pari vince l'ultimo in ordine di definizione
+quindi questo isbn vince su questo per questo last of the penne più due
+vincerà su questo e così via qui a parità di questi vince questo per esempio questo è come funziona la specificità questa cosa viene applicata all'algoritmo della cascade ora qui c'era un grafico se non vado errato
+no beh più o meno questo diciamo c'era una cosa un po' più visiva che era meglio se c'era una roba un po' più visiva mi ricordo
+no
+però potremmo ragionare su questo allora che succede che
+viene una volta calcola già diciamo prima di calcolare la specificità viene calcolata l'ordine della precedenza come vedete qui ha specificato look user agent aspetto togliamo i layer perché no c'è troppa carne al fuoco
+ah ma qual era quella più semplificata dove sta eccola
+prima ci sono i fogli di stile dello user agent cioè quello che il browser ti mette a disposizione senza scrivere chissà se oggi non ci sono i fogli di stile dell'utente e poi quelli dell'autore quelli dell'autore sono quelli che scriviamo noi dopodiché lei era riservato alle tre many nations dopodiché come vedete questi tre con tanto di
+important qui vanno a ritroso rispetto a questi tre perché le important solo user agent dovrebbe essere più importante appunto di un eventuale important che mettiamo noi sullo stile
+dell'autore
+diciamo che questa parte della cascade andrebbe completamente evitata cioè non ci dovrebbero stare mai importante tant'è che sei un browser mette in porta ant dentro al suo foglio di stile nativo accetti sta creando un bel problema insomma e quindi sarebbe sempre meglio evitare le importano
+perché perché il foglio di stile dell'utente che bojinov raid di questo dovrebbe poter specificare che io sono un dente che ho difficoltà a divisione voglio che tutti quanti bottoni tutti i link che abbiano un bordo rosso da quattro vincerla lei lo voglio far fare in automatico a prescindere dal sito lo voglio forzare io
+e se noi mettiamo l'utente in una condizione di dover usare per forza
+l'importante o perchè comunque
+quello che lui si va a scrivere nel suo foglio di stile che viene elaborato a livello di priorità prima di quello dell'autore o se noi cominciamo a mettere importante sui fogli di stile dell'autore impediamo all'utente di usare important e forzare quello di cui ha bisogno e ci sono dei criteri di successo esatta che
+appunto dicono che non si non si fa esatto cioè tipo illegale dovrebbe essere capito
+l'utente deve potersi scegliere alla fine anche il font volendo design esatto motivo per il quale usare important a questo livello qui è sempre una cosa sbagliata cosa che bootstrap fa nativamente display flex important estiva esentano important no buono direi
+quindi e quindi ecco adesso per esempio però abbiamo scoperto che mettendo questo di flex già stivale contact center sulla colonna ci abbiamo il nuovo centrato quindi diciamolo manteniamo così e siamo contenti
+sire
+emiliano se non sbaglio andrea l'altra volta mi ha detto che c'era un bootstrap implementato per l'accessibilità allora
+sì in realtà mi aspetto che forse quell'importo non ci siano evidentemente se hanno ereditato da mostra più io credo che se lo si hanno portato appresso però legnano fedele
+era bootstrap italia servita agli esotici
+il problema di bootstrap italia e che lorna allora innanzitutto si basano su cinque tre due e qui la versione ultima quale sarebbe un po'
+cinque tre quindi dovrebbe essere abbastanza allineato però dovremmo vedere
+la loro versione se c'è un deposito registrerà il link al repository rieccolo qui
+loro hanno la dipendenza da bootstrap e non hanno verrai dato quella cosa solo che fare o verrai più di qualcosa con important è anche abbastanza difficile
+vediamo se c'è una dipendenza dipendenza essa deve the band incise non ci interessano de wenden sesso allora si stanno portando i tipi di bootstrap avrà in realtà qui io non vedo dipendenza da bootstrap proprio ci sono le dipendenze dalle librerie che usa bootstrap quindi progress barra nelle anime
+gaines popper essere fare il posizionamento ma non vedo dipendenza la busta prove di questo look io la prima volta che lo guardo perché appunto non lo uso busta però credo sia più un fork
+e andiamo a vedere che lavoro hanno fatto qui sui sorgenti ass per esempio andiamo a vedere i suoi componenti no andiamo a vedere su base
+dove c'è containers per esempio
+oppure facciamo una cosa ancora più brutale cerchiamo la parola punto esclamativo important qua dentro
+giusto e vediamo quanti ne trova
+per esempio ne vedo qui per esempio ne vedo quasi ai margini mi si è perso qualcosa ricominciamo
+allora questo è mark down march down ci frega niente questo qua invece
+per esempio il border radius delle forma del form controlla quindi di un input a zero important per dire
+ma comunque non ce ne sono molti alla fine
+solo che adesso andare a cambiare la brigata degli estinti con bus tra pedali diventa un lavoraccio
+capitò finiamo domattina è però sicuramente sicuramente anche questo giustifica i want and center important qui non c'è altrimenti sarebbe uscito fuori e non c'è
+quindi evidentemente hanno riscritto parte del coro di bootstrap po'diciamo e hanno tolto un pò di roba però qualche importante cioè se se facessimo lo stesso
+la stessa ricerca su mostra app probabilmente ne vedremo molti di più vediamola quindi gatto bootstrap diamo soggetta a b cerchiamo punto esclamativo important e non è tanto distante però la scrollbar da ottantanove risultati forse lì
+costruiscono un altro modo
+vediamo un po' come fanno le prove per dirti che ne so il grid system cioè io me li scrivo da solo cavedon
+uhm non uso proprio illustrato per per per perché alla fine quando scopri che comunque riesce a farti magari con cinquanta righe cento richiede de sass odyssey grid sistema da solo dice perché mi portò appresso ma la dipendenza infinita quando fonte l'olio usa i bottoni non li uso mi iscrivo le già capito non ha molto
+senso però capisco che ci sono cose che ho fatto anch'io in passato quindi capisco la la la cosa di dire non me ne voglia zyban nome sbatte cercato hai capito come fare questa cosa preferisco
+magari af
+gestire tempo nel fare dell'altro e quindi risparmiare un po' di tempo su quello e e quindi lo capisco solo che poi alla fine può fare un po' di manutenzione in realtà il tempo non lo risparmi e ti perdi e ti perdi nei suoi meccanismi perché ecco come come diciamo sempre io e il mio amico davide di pumpo
+dare a usare una libreria iwc è stata progettata per fare altro tipo mostrato è stato fatto per twitter
+per dire è un furto di design nel senso che sì nel senso che tu vai a usare un design system che è stato progettato per fare altre cose e cerchi fra l'altro di riadattarlo al tuo design insiste molto design pagando qualcosa che è completamente assurdo io prendo
+una libreria che fa ah e la devo modificare per fargli fare b ma nel frattempo mi porto dietro trecento cappa di dipendenza gordon non napa valley alloggi non ci ha molto senso però ovviamente poi questo dipende pure da che scilla uno oav nel senso che comunque se io sono forte a usare react e mi chiedono di lavorare con angular è chiaro che
+c'è un po' più di difficoltà perché conosco meglio react no c'è lo stesso discorso voglio dire quindi ci sta che possono fa delle scelte tecniche
+di questo genere perché appunto non non non hai bisogno canon non hai nemmeno il tempo noda da dedicare a quella cosa perché devi fare altro ci sta però comunque torniamo a noi
+allora qua questo lo risolviamo così e anche va messo sulla child è quindi senso sul menu perché va centrato pure quello altrimenti succede questa cosa brutta un attimo adesso ci ritorno
+qui eccolo là io adesso l'ho aggiunto anche qua vedete perché almeno mentre io vado a ingrandire puoi bottoni stanno ha sempre posizionati bene fino a che non scavalla ora però se io tolgo questo anche da sotto
+succede questa cosa rendano che si muove solo il logo perché solo il logo centrato è abbastanza orrendo quindi
+diciamo che forse così potrebbe avere un senso ma se questi qui a questa risoluzione dobbiamo mandarli in verticale e sicuramente ha senso che siano centrati a quel punto marco pannella lasciamoli così questi a questa risoluzione ma non perdiamoci troppo in dettagli e io sono di bocca buona
+virgolette suonare
+meglio essere di bocca buona che di bocca asciutta giusta vedi
+raynard waits ad emblema l'unica cosa verificare come si comporta uno duecento per cento un attimo e capire se funzionano comunque bene facciamo hanno fatto questa cosa e comunque vanno a cavo
+cape town daugherty appunto vanno a cavo che per carità non vuol dire che non siano fruibili sicuramente una cosa che va fatta però è questa e che quando stiamo qui questa distanza non può essere zero no perché nel momento in cui io vado con il tab
+okay questa parte che il focus è un altro discorso dobbiamo fare perché qui è poco visibile però nel momento in cui io vado con il tab
+qui ci rendiamo conto che innanzitutto l'area cliccabile quaranta è troppo piccola quindi dovremmo andare a gestire questo mix due di voi sempre perché stiamo usando bootstrap poi c'è questo discorso perché altrimenti sarebbe indifferente anche molto più rapida però il discorso delle spaziature droga che jason stanno qua
+spacing spacing mamma mia che roba complicata west c'è uno diceva uno scotch no cioè io so fare margin top zero ma perché mi devo ricordare schifezza film c'è bonus
+annullate quelle fibre
+allora queste spaziature qui che fanno parte del grid system comunque di bootstrap dovrebbero essere
+legate anche alla media boeri se non sono legate alla media guerri dobbiamo inventarci qualcosa per farglielo fare cioè
+se io qui ho una spaziatura margine pudding no ok
+tutto ciò che margine e emme trattino qualcosa tutto ciò che pudding peter tino qualcosa tutto quello che è top e c agli emmy trattino di trattino e poi ci sono le varie dimensioni quindi ammette zero e margine top zero emmett uno e margine top uno il che equivale a questa variabile moltiplica
+dalle zero venticinque
+cioè so tutte che sta esattamente qui ora il problema però è che queste non sono legate alla media week quindi non posso fargli fare una spaziatura diversa a seconda del del newport
+quindi a seconda del black point chiaro qual è il problema è chiaro ma sei sicuro che non puoi farlo
+a giudicare dalla documentazione non sembra che sia legato alle medie aguer vediamo se c'è magari mescolano c'è il brick point eccolo qua
+ok quindi in teoria dovrei poter fare tipo vediamo un po' se accese voi george esempio fosse in giro per tokyo pio ix due vuol dire che io sto facendo un peso l'asse x pari a due ma lo voglio fare solo per la risoluzione di
+base e quindi poi dopo deve diventare zero e un patch non ricavano ok proviamo a fare così quindi se se io voglio fare un pudding ma ci voglio anche aggiungere un margine dovrei fare un m m x trattino due ok
+ci mette un margine però io questo lo voglio fare che da esse amen poi quindi m c s martino e s m trattino diventa zero quindi se io arrivo al punto in cui lui scavalla adesso questo sal margine quando lui scavalla non dovrebbe avere più il margine perfetto funziona
+credi che bello bootstrap no wendy te lo dico ci vogliono io ti voglio molto bene ma è veramente orrendo
+allora quindi qua in teoria io dovrei fare questo e poi dovrei fare questo praticamente per raggiungere a margine laterale su ognuno di loro perchè ti dico che è orrendo guarda quanti byte sono questi
+sa ascolta nostro loro
+sette otto nove dieci undici dodici tredici byte in più moltiplicato per ama ero molto attenta a queste cose nel novantacinque quando sessantaquattro kilobit di bada questi imbecilli milioni di lire adesso i budget degli sfoghi david trip e basta un mezza canzone in streaming dieci sec
+di voi street svago giallo capisco però è proprio una questione di approccio kendama vada d'accordo sono d'accordo però è anche una questione di mezzo io devo ripetere quattro volte la stessa cosa su quattro alien diversi per fargli fare la stessa cosa
+randy perché questo si può centralizzare tu non hai modo di mettere questi elementi dentro di noi dei fogli stile direttamente puoi scrivere soltanto un foglio di stile unico che usi per tutti questi cosi ma quello lo puoi fare con te il wind ma se a quel punto devo fare questa cosa mi scrive cassese da sola no se n'è accorta anche queste
+le classiche sette quando sono classiche proprio riutilizzare dentro i fogli di stile no non è no no soltanto durante un trail wing lo puoi fare con play non credo che ci sia una cosa di of life bootstrap ma mostrata chiocciola up like like c'è qualcosa tipo
+a quella della carlton
+no
+ma jared
+immagino
+però allora quindi questa cosa diciamola anthony ci abbiamo messo al margine e l'abbiamo risolta però sto punto io non farei un margine solo qui perché io vorrei dare un po' più di margine in generale quindi toglierei la l'aids
+relax e un margine generico
+ma tu guarda se io alle dieci di sera il storia buffa
+sai poi puoi salvare pubblica
+hai appena risparmiato tra l'altro voglio dire esatto esatto ma io purtroppo a vedere queste cose abbiate pazienza mi viene proprio l'orticaria ci fosse neanche dirlo però ha comunque la questione anche di considerare e che magari ci sono delle zone in cui la ricezione ballerina e
+devi tener considerazione anche quello anche perché la prima cosa che viene scaricata prima ancora del css del javascript il dom e sheldon ma è pieno di sta roba te e poi e poi il discorso oppure dodici okay io mi mi sto facendo un sito da solo va benissimo ma se lavori in team e tutti conoscono bootstrap beh
+bellissimo il giorno che ti arriva qualcuno che non conosce bootstrap glielo devi far studiare altrimenti non può mettere le mani successe a meno che non si mette a mettere pure lui tutti importa ante in giro
+no per dire un'altra cosa e un domani cosa che non succederà mai ma un domani muore bootstrap esposito non funziona più rimane obsoleto poi dedicatevi comunque riscrive tutto motivo per il quale discuterà cosa io nella vita faccio il sistemista mettiamola così capita
+new orleans attenzione le terapie la firma era legata era finito a il qui vi sarebbe più adatta per di una cultura è vero quello che faccio questo te lo devo dire nozze log mi inviti a fare qui sono visto però ognuno il suo strumento anch'io quando uno vede l'uso derisorio
+comunque in moto non non vedo segni condividiamo buone pratiche giustamente anche perché magari ci vedono altri sviluppatori
+è quello il patto già capito comunque io non riesco a studiare sempre perché rimane come una busta blusa in mezzo mondo socialismo capisco perché non vedo le truppe istanze di resia giusto per amministratore
+se non sei d'accordo allora perché ma tu su quale area sei scusami dove l'hai salvata stroma io sposo l'ultimo link che hai mandato della dad ma non la sto salvando non riesco a salvarla è ma io non riesco a
+copyright testo di questa cosa quello che ce lo perdiamo è perchè non ti non vedo queste modifiche accidenti allora aspetto famose e faccio la copia tutto questo avviene anche quello più inaspettato esco proprio team
+caricando allora aspetta qui sono le mie mail tutte le cose che giustamente le mandiamo in streaming ci sta tutta
+in
+allora aspetta questo lo mettiamo un attimo da dove lo mettiamo qui tony lo appoggiamo questa parte
+nuovo file di te incolla intanto questo ce l'abbiamo messo da parte poi ci copriamo questo elenco va bene questo link
+e ma è con league questo ultimo grammo andate da propria parte li levano in realtà adesso mi sa che si è aperta un'altra sessione è
+il link al solito nessuno dentro la mia sessione del mondo non capisco
+colpiscono è un po' quello e provate questa parte uguale o diverso non sta mandando qua allora andiamo qua
+quindi così
+i commenti direttamente dice non è meglio facciamo prima e forse
+e io volevo fare sta cosa e la schierare direttamente online perfettamente c'è più ulivi come dichiarati quasi quasi la colonia amo allora questo non l'ho fatto adesso l'ha salvato dai dai che ci siamo
+da esattore successivo
+allora dai il
+allora leader l'abbiamo sistemato appare
+ovviamente ho qua dovrei rivederlo adesso è esatto quindi adesso questi diciannove di un margine più grande intorno così che c'è meno rischio che l'utente vada a cliccare una parte e non che non deve mentre cerca di cliccare con il pollice da mobile no anche qualche
+uno di questi link il margine potrebbe anche non essere la soluzione più adatta perché qui abbiamo vede un ventiquattro pixel più otto più otto per un totale di quaranta prima sara si diceva che forse era meglio un sessanta a partire da quarantotto quaranta e quindi
+quindi volendo potremmo mettere invece che farlo così potremmo mettere un pin tre qua e dovremmo arrivare a quarantotto solo che se ammettiamo un pitrè e basta a quel punto noi dobbiamo fare quest'altro lavoro qua parliamo un po' se ci lasciamo museum
+allora
+pix e il pudding laterale quindi noi in realtà ci abbiamo bisogno di un pudding generale
+facendo il pd three però dopo a s m deve diventare un paes quindi
+potremmo dire che a s m p x due e un ypsilon zero in teoria dovremmo farcela
+adriana epsilon zero
+se lo muoviamo poi mettiamo che ne so uno due tre
+il testo è sbagliato chiamare quattro incolla salva quindi mi sta dicendo viva da qui salmo che già non mi fa salvare più
+ma perchè non mi fa salvare jackson è stato sganciato finestra mi è un po' sensibile
+va bene
+vedi adesso gian pudding più
+grande però se andiamo avanti dovrebbe tornare è esatto però c'è comunque un epsilon zero quindi a sto punto non ha senso fare questo è sufficiente un pc due dopo e questo lo togliamo quindi facciamo un edit multilinea uno due tre quattro selezione nuova e se ho sbagliato di nuovo
+uno due tre quattro cursori questi li leviamo salviamo e andiamo qua e ci abbiamo il nostro padding com'era prima che un po' più piccolo qua e un po' più grande qui siamo contenti
+ascolta una cosa prova allargare un po' questa
+ho tanto sas chiamata perché mi piace come vengono orientate allineati una volta allargata alla fine soltanto cosa non ti piace ah già sono imbecille io perchè qui ci ho messo estiva golden center ma questa cosa dev'essere start a partire da esse emme quindi questo va pre
+giò uno e quest'altro lo copiamo anzi lo duplichiamo e qua ci mettiamo
+sean start salva giustamente eccolo lì bene
+molto meglio molto meglio
+mo' che se li osserviamo contenti mamme mamme devi far litigare con mostra a quest'ora
+ritorna alla tua età in tour agoda considera il mio tipo penso l'ultima volta cosa to buy strappo sarà stato quasi dieci anni fa non c'era eh
+le versioni oh questa è un'altra cosa che ti dico dimostra poiché molto spesso viene fatta che non ha senso e cioè questa section home andiamolo a cercare qualche donna glass omg del diploma probabilmente vado così la troviamo eccolo qui allora questione
+se tu qui hai un oggetto al quale hai dato una classe specifica e al quale gli hai dato una dimensione specifica delle impostazioni specifiche o perché andare a mettere tre div per avere una colonna allarga al cento per cento di questo
+non entrerò per cento di quello però è e si guarda eh no questo al cento per cento ma c'è solo un pudding più e lacey parti ma ce lo puoi mettere anche diciamo che il container volendolo puoi anche lasciare ma il container lo puoi anche mettere qui nessuno te lo vieta però tu dici ho qui ciò limmat
+l'immagine sotto va bene ma l'immagine la può mettere qua
+noi mettiamo no fai quello che devi fare io
+però però be' allora qui abbiamo il nostro cammino va benissimo qui c'è un'altra uno non va benissimo
+ok allora sistema questa e la wilson guasto del testo sopra
+come erreà qui perché secondo me si legge un po' male cioè si confonde con l'immagine sotto quindi o si scurisce un attimino
+quel rettangolo nero oppure a diventare a pieno il bianco del sito es like forse è meglio far diventare vino il bianco perché se ci pensi qui l'idea visiva è quella di far vedere open facciamo
+e quindi alla fine qui ci ha molto più senso che questo regime by quattro otto ma questo c'è un'opacità ah eccolo qui o basiche quindi qui c'è un background color per questo che fra l'altro come vedi è ripetuto su quest'altro ca uno qua
+quindi in teoria questo background color e questo background color pozione poteva mettere uno qui che infatti c'è però questo vedi title qui è john titor qui di questa qua in teoria questa classe john titor non ci dovrebbe stare però nella galassia john titor c'è anche il discorso del font size
+se lo porta dietro quindi in realtà lo sfondo andava messo qui e là caoda ha messo là però poi noi possiamo intervenire perché lontani dove dovrebbe sta qui dentro se non lo troviamo lo andiamo a cercare il punto com italy
+ok quindi se noi consideriamo che l'on tidal e
+dove stai adesso lo prendiamo e allora
+sposò lo prendiamo questo qui quindi qui ci abbiamo la section home dove in teoria dovremmo spostare il background dell'immagine ma va bene per farlo proprio fatto bene questa immagine di belgrado dove sta
+unsplash un trattino eder esatto questa immagine di background qui andrebbe messa sulle dion in teoria
+e ovviamente mettendola così è la section che dovrebbe avere queste impostazioni qui
+è il background size povero ovviamente va l'acqua
+poi qui in realtà bisognerebbe riordinare sue proprietà in questo modo per rendere proprio illeggibili perché bisognava ogni led o la classe e macelli blu qui c'è le devi
+clorofilla e poi c'è un edera questo ci consentirebbe di buttare questa roba praticamente ehm buttiamolo e dopodiché touchwiz sai però un link con un due però me la cosa che mi risulta strana è che qui ci siano due a
+uno come esce fuori questa cosa qui non c'è l' account on the year
+è
+e te lo dico io lo vuoi sapere perché
+guarda guarda che bello questo non è
+ebook pezza beh quello è un tipi si sentono in verità il problema è che a catinelle si pensa che all'apertura di un altro account per quello che l'ha fatto così infatti will leave on the job title sta dentro la nave di s quindi praticamente questo qui che di fatto è un a
+che non ha chiusura anno eccola qui la chiusura
+quindi è una che c'è una chiusura di
+mannaggia questa tastiera oggi ci sto litigando broadway
+la storia è sempre quella se solo io sapessi scrivere
+sei quindi in teoria noi dovremmo poter dire io sulla eddie ma ci vado a mettere queste impostazioni qui questo qui ormai è un po' obsoleto come maniera si potrebbe fare un pudding blocca e va a coprire top e bottom contemporaneamente
+e anche qua fading blog ma quindi tu qui stai modificando come si comportano le roof fra l'altro qui poi manca uno spazio
+e questi sono diversi non ha lo stesso valore ucraine
+ok
+ok quindi in teoria questo si vota beh
+si può buttare e se noi buttiamo quello però ci serve poi il container a quel punto perché la larghezza di questo corrisponde alla larghezza di questo
+tra l'altro quello folla del duecento si sparisce quindi non non viene visto
+fa arriva fino a briga e eastin e non si non si vede il resto della frase per cui bisognerebbe controllare anche quella nona stagione
+non lo vediamo però sicuramente questo punto lui qui sta facendo questa cosa jamal
+e spetta e torniamo indietro un attimo onorario home proprio questo
+lo rimetto com'era
+e ce ne metto un'altra sotto o sovra
+e diciamo è quella nuova poi qui pure micov west anzi vale solo weston e torniamo così lo possiamo comparare perché sennò ci perdiamo per strada
+a di ohm non c'era niente prima ho quindi questa qua è ok ma questa qua è un menù poi dopo la rinomini amo quindi abbiamo detto su home news ci mettiamo questa roba quale c'era prima
+tu non lo usi brett terra
+no no newsletter in iowa
+brighter forse no
+ok adesso lo lo lo aggiungo se non ti dispiace che così riescono a brendola ambientale il codice
+allora spartan
+nardò me lo prendo da qui
+allora a prendere ruggine code fast co a ok
+in teoria dovrebbe andargli bene se lo metto qui e poi quasi atmel per esempio successe
+è un format j'adore però ma scusate ma non si può lavori di cui schema è
+ok ok
+allora detto questo
+qua suomy freddi possiamo possiamo cercare di di fatto di buttare tutta questa roba sul lavoro area boot boot
+potremmo fare questo no
+per dire anche qui configuriamo sarà perfetto quindi se noi dobbiamo replicare con questa struttura catenelle questa cosa che c'è sopra sistemando il discorso accaduto perché questo prima era una cadrega
+dobbiamo fare in modo che
+la parte sovra che adesso ci dovrebbe stare quella è successo che non gli piace più home
+nessuno l'ha toccata
+questa è quella originale qui ciò non accadrà al massimo
+sì ho aggiunto ho sistemato il link del leader delle immagini youtube quello fatto io che sarebbe
+l'ho fatto gol
+slot lascia lascia non è quello il problema se avete il resto del nome offerta spagnola vedere l'originale aspettando allora
+la brigada
+ah beh non è molto diverso però spetta e o aicel il discorso del degli sfondi ma non è molto diversa allora uruguay un gay bs oramai ci vuole per fare quell'evento come elemento quadrate quel quel blocco di scuro e un unico blocco in teoria sì
+ma lo sfondo da dove arriva non e questo questo sfondo nero non arriva neanche d'acqua è proprio un timido venezuelani sono portati alla bocca
+giustamente noi non abbiamo più un contenitore o un titolo che adesso ce lo dobbiamo mettere no quindi facciamo gli attuali
+eh sì
+john idol
+e dentro ci mettiamo l'account senza glassa che non c'è bisogno
+per questa roba ce la mettiamo dentro così
+si in teoria
+ci siamo un po di più sulla parte sotto però ovviamente non c'è il container quindi questo sarà il nostro container
+ecc abbiamo già il container questa ok
+dopodiché però ci serve che questo spazio sia differente da com'era prima perché prima lui prendeva la riga il cal dodici però lo spazio da dove lo prendeva da un tidal
+questo spazio qua allora noi abbiamo questo qui ce l'abbiamo
+eccolo là ci corrisponde questo sotto già una rock senza spazio una gold senza spazio loft tidal ah ecco perchè il
+e questo your needs
+la dimensione della ca uno che però può in teoria ci dovrebbe stare infatti però il font che è diverso perché tu giustamente prima ce l'aveva su con tidal
+perché non mi ricordo dov'è eccolo qua quindi questo font size quattro remmy ci manca a noi lo andiamo a mettere
+nella uno per cento addentra salva
+beh ce l'abbiamo adesso lo stesso font poi dobbiamo sistemare l'opacità perché ovviamente quelle ciao baci da uno cosa che lui in realtà sta prendendo da un timido alla mano non ce lo dovrebbe avere quindi quello vasche da uno e adesso se dovrebbe veder bene no
+cosa vuol dire pochi trasparenza se sarà ve permette lascerei bisognerebbe fare controlla con lo strumento della
+e l'opacità di tutto mentre invece ho allora se tu vuoi mettere questa trasparenza qua te la devi giocare sul colore no allora sella se la galassia on tidal e sta dentro a home news innanzitutto la mettiamo qua
+okay e poi il background di un titolo che sarebbe questo non ce lo troviamo e lo andiamo a mettere qui
+e questo background deve diventare trasparente quindi noi lo trasformiamo in regime bevere esempio ma neanche serve guarda lo lasciamo in caselle è esclusa min in esadecimale e gli diamo la trasparenza da fabbriche oggi anche gli esadecimali possono averla trasparenza poi però lo spostiamo un attimo nel r
+gibby in modo tale che gli diamo la quantità di trasparenza desiderata e poi lo trasformiamo in
+esadecimale quindi questa opacità si può levare e adesso è lo sfondo
+è vago
+in pratica viamichelin
+usare la esatto
+gli davo dato che adesso questo giallo title con questa trasparenza questa qua la possiamo togliere lui rimane trasparente il testo diventa visibile ma dobbiamo togliere questo da joe sab subtitle perché non ci ha più senso adesso
+okay quindi qual è il tuo tour ho sfruttato non serve neanche più tanto noi mettiamo
+osserviamo ananas whatsappdown perché in realtà on sab tidal fa mette giusto font size down rem no e allora mettiamo nel
+noi possiamo dire che questo è questo qui scusami se questo qui jean tirole questo no qui c'è un deb ma in realtà è il font size
+lo possiamo togliere completamente questa classe
+e anche da qua è l'unica cosa di cui ci dobbiamo assicurare è che la due questo abbia un font size da due rem da un remmy come c'era scritto lì quindi qualche nostro tra due e il nostro font size da un ramo
+a questo punto la classe john timido leone sab dll se brian jones kurt ho qui tutto suo di un vecchio borbotta
+booth
+fatto questo dovrebbe presentarsi in una maniera abbastanza decente manca un po' di spazio esatto se stava facendo gli spazi tra le lettere vanno tra l'album della wos shell uno emma è troppo piccolo per quella relativa a lui e questo era un acca uno per quello che ti era rimasto allo spazio uguale
+ah ecco allora facciano più grosso comunque e quindi se questo qui sotto ciò sedici pixel di padding e otto di margine totale ventiquattro se non vado errato con la matematica aiutatemi
+sam è morta la maestra di matematica non è indispensabile rifarlo come prima basta che sia esente anche case se la metti così allora vado abbraccio raymond se la metti così vado abbraccio quindi sicuramente noi abbiamo due oggetti
+no che stanno distanziati fra di loro di un tot perché qui noi abbiamo il primo questo qui è il contenitore no e poi abbiamo lacca uno è il libro giusto
+mobili siano sul contenitore ci mettiamo la spaziatura giusta ma lo faccio dal dagli spector direttamente
+vado qui
+come vedi la spaziatura verticale questa è la stessa identica vedi che si suicidò beh in teoria non si muovono guarda vedi
+europei
+c'è un po' di problema col posizionamento del bar grande poi lo rivediamo però in realtà va aggiunto questo che non so perché sta prendendo il font da un remmy quando in realtà andava bene già quello che c'era naturalmente esatto esatto ok e ci dovrò mettere a spaziatura quindi in realtà qui
+si può fare molto semplice senza usare mostra però se questo contenitore fosse un display sleeps con flags of law colon nav raptor e con un gap di quaranta pixel per quanto non è indicato usare pixel mai fatti fossero un altro eh si questa
+tutto un altro discorso da affrontare
+che magari manco bastano diciamo quattro remmy vediamo che esce fuori
+presi quattro remmy non è sempre uguale non la presi per niente a foot
+perché dopo la messa il flex ha l'ho messo su home new and shoot efficiente quindi questo qua aglio questo vaso in tirol
+okay magari quattro remmy sono un po' troppi
+diciamo che questo potrebbe essere un tre rems ma pure così
+quest'altro poi dopo ci abbiamo la nostra spazzatura questo in realtà manco li avrebbe bisogno del margine sotto però sicuramente questo non va bene
+perché l'immagine all'inps
+lemmy l'immagine più grande del n c vedi le linee dell'area cliccabile e dell'area cliccabile e venticinque ma questa è una cretinata perché questo si fa direttamente con un display blocco sulla sulla a ed eccolo lì solo che display e blocca ovviamente div
+senta enorme perché questo live va al cento per cento e lui si porta dietro tutta questa cosa quindi cellula emette un flex von
+sam terra allora vediamo un attimo sì perché poi deve considerare che devi mettere una distanza a questi due grande ma non dev'essere eccessiva perché altrimenti dai delle altre problematiche sempre per l'utilizzo esatto di la a ci vuole bilanciamento commettiamo un display
+l'ha inline blockchain a kamakura line flex perché in teoria gonnelline flexa dovrebbe
+mantenere esatto così è perfetta questo qui è un acca due quindi va bene che sia grande al cento per cento perciò manca solamente che questo gap diventa tre re che andava più che bene e questo invece che avere un pudding blog
+così che se queste onde sam pudding ma questo non è un pudding e non andiamo da nessuna parte quindi volendo potremmo fa così per essere più precisi
+potremmo dare un margine zero all'acqua e anche all'accademia
+questo lo vediamo dopo però poi il margin zero viene fuori questa cosa vediamo se l'ha preso allora margine zero c'è la c'è il pudding e potremmo togliere e cosicché sopra e sotto possiamo dargli lo stesso pudding quindi facciamo questa cosa
+perciò se questo ciao
+pudding zero marketing zero
+dopodiché c'è un dvd
+è un direct child di cui la arendt descendants di quello e a quel divano gli diamo anche a lui display flex
+amami e flex floor colon no draft lunga di uno cinque km poi lo vediamo
+dopodiché manca il pudding blog che se adesso questo wedding blog è pari a cinquanta e quindi viene fuori cinquantasei ci mette un grammy con te un remo a sedici un po' diciamo un terreno va bene
+tre rank salva eccoci qua
+allora ci manca però il padding blocca messo qui
+app che magari
+potrebbe essere un due remo diciamo
+se eccola siamo contenti perfetto perfetto cambia omnium perché costruì e-mail e o enclave bullismo e la distanza tra le lettere di quel titolo questo
+esatto è modificabile perché secondo me troppo te sono troppo attaccate visivamente ma sicuramente modificabile vediamo come è messa adesso
+adesso non l'ha toccata nessuno quindi potremmo metterci un letter spacing da onde pixel e poi gestisce tre dice che almeno zero punto dodici volte la dimensione del carattere quindi bisogna vedere quanto il carattere allora come adesso sessantaquattro pixel quindi dobbiamo prendere la nostra ricchissima calcolo
+tricia
+si è svolta quattro zero dodici sette sei per come sei veramente cioè così salvo no no no no no t uno o due rai perché quelli sono anche il font del logo
+e allora in realtà io vi dico una cosa che so io ma sulla tipografi non è un discorso di accessibilità è sempre meglio non toccare letters spacing a generale quindi casomai ci si ritrova con un fontane che non va bene per quello che poi alla percezione è probabilmente meglio cambiare font
+volendo questo è un titolo magari lettere packing da due
+aosta come la risolverai anch'io perché lo rende un pochino più semplice andando a capo con la brigata a capo dei g estinti e risulta un pochino più leggibile
+sì lo so perché con quel nome yellow si sta in una riga sola visto che ci sta dove a capo quando deve andare a capo quando stringi no sì però wendy anche forza glielo solo che il problema è che se non gli diamo on line su zoom qui dobbiamo poi centrarlo anche così
+in realtà questo diventa margin zero auto e a quel punto qui non possiamo usare l'unità di misura a carattere giacca
+modo tale che lui quando quando usi e l'unità di misura giacca lui presidente si basa sulla dimensione in larghezza del carattere zero di quel font lee quindi uno giacca è uguale a quanto sarebbe largo lo zero in questo vota per dire
+perciò sulla base del numero dei caratteri e tu sai che la brigata dei
+la brigata dei sono uno due tre quattro cinque sei sette otto nove dieci undici dodici tredici quattordici
+in teoria quad con quattordici dovrebbe rimanere in quella posizione con quindici sedici diciassette diciotto diciannove dovrebbe andare dovrebbe andare sopra invece non ci sta andando ma non si sta muovendo proprio di di striscia quindi
+diamogli succede in corso se la memorizzo e infatti vedi undici dodici tredici eccolo lì a tredici sta qui quattordici mag quindi volendo si potrebbe fare così però queste pornostar anche di design alla fine sennò dovrebbe andare con te è più che altro che questo fan tra l'altro è bello cicciottello
+risulta un pochino più complicato da leggere
+adesso vi sto dicendo una cosa brutta ma secondo me andrebbe proprio si è cambiato il font è probabilmente sia l'eroe del rogo di tipografi sì anche perché è proprio lo spazio che c'è nei rilievi
+che è troppo stretta però e rivedo eppure pure un discorso di design l'importante è che poi
+sì
+comunque questo testo viene letto dallo screen reader
+il discorso per chi ha magari ipovedente o cose del genere che magari non si può non si riuscirebbe a distinguere bene la forma di queste app anche dislessia uno potrai avere una chioma di a ma altrimenti riproporre via
+bignè e poi sotto scritto alla brigata le estinti istinti più in piccolo ha però sono proprio come si risolve la causeway
+a quel punto ma noi di poter stipare potresti fare così vedete niente quello che ho conosciuto designando rocco
+l'uomo grazie alla lunga completa e tutto quello che devi fare così questa cosa che dici potresti fare questo per stivare big e small poi da jess lo small gli gambe i font
+a e ci metti che viene tomo si emettono cavolo è ah sé giusto per vedere l'effetto che fa montevergine e poi ovviamente li dobbiamo dire che questo splendore
+oppure la causa couples volume è uguale
+sì ciao emiliano radar sono anche le undici dieci
+si vorrebbe fare una cosa del genere sicuramente posting poi inizia a piacermi di più però dev'essere bugie più grande perché è abituato agli istinti un font più baseball non è un problema
+e la brigade che si trovi un piccolo nao font diverso un font diverso motore più piccolo perché residente enorme diciamo che questo quadro essere un punto settantacinque km rispetto al padre
+sean è anche un punto cinquanta se però il padre veniva effettuata ancora tanto sono solo tre lettere dev'essere pulsante poi dopo quello che ci mettiamo però di fronte ci mettiamo un sans serif prosecco e brutale se prove factor
+no troppo orrendo
+né troppo ravvicinato pure
+zienda dean di windows ma se c'è la versione non cicciona di quella del font usato dalla bce quello di questo
+di fronte a questo qua considerare che per quel fantastico ti consiglierei di riutilizzarlo poi per i titoli un po' ovunque nel sito quindi sceglilo esatto che sia
+you hotel nulla viene fuori un elvetico neue che è un font di sistema che sarebbe questo il fullback
+non uso il pc non c'è una versione non un grosso sia soltanto quella
+vediamolo
+ciò non accettare queste cose le fanno sempre più piccoli si capisce niente
+ma
+e che questo brano è proprio il font che ti identifica capita un peccato brown infatti non è cambiato per per la sigla no chiaramente
+ah ma questo varia leggila bene insieme e va out fu proprio il verdana si stava meglio alle apparenze si può fare una
+da una ricerca più approfondita sempre volendo anche così e-cell canzone di tanto
+ma più che altro perché frontiere riutilizzare questo font per i titoli perché almeno si mantiene una certa pratica della magia è fatta una certa consistenza esatta a cui però a detti intendi questo senso egli per l
+l'estensione la brigata dei cicli estinti quindi di cose stupì sns non dispiace affatto non capisco il discorso sulla leggibilità però non mi sembra così è tutto o'neal aspetti no che sono troppo attaccate vedi lee
+il
+diciamo la codina che si attacca al
+alla easy al pezzo sopra e lo rende illeggibile si può confondere con una o con un uno zero con un
+maddalena la fontanella angela e si può confondere con lift anche la ah se lo accompagnerà e l'altro wojtyla opera omaha è fin sinagoga ampia visibilità e questo lo studio da fare ho capito io vorrei anche o minori estetica simili
+member no mafia il discorso identità grafica però il discorso è che forse questo punto è troppo pesante il problema è che vedendolo così è proprio lui che così è no in realtà no a parte queste sono molto più distanziate
+questo è molto più ravvicinate venne probabilmente qua ci potremmo mettere lettere spending durante la tre pixel poiché si avvale della distanza qui
+tanta
+a parte questo neanche testo quindi gustosi del fatto malissimo questa è un'immagine
+però va non lo so ma per ora potremmo anche lasciarci questa
+ok dopo magari ad effettuare un deposito semplice
+già così comunque non so se col font watt forse riusciamo alleggerirlo un pò sempre che il fantasia e realtà nato se prova x zero uno
+è proprio fatto è proprio così vedi non cambia assolutamente niente cambia solo da da cinquecento a seicento e basta il quattrocento cinquecento venne proprio ed è un problema anche quello perché se uno prova a cambiare con il suo appunto esame metteva sulle sue impostazioni
+jane non glielo stai permettendo più praticamente
+infatti in questo caso è sempre meglio usare ultimamente c'è questa cosa molto bella del vaccino del vaiolo esempio repulsive variable font questo le corse design questo font che vedi qui che hanno fatto sta figata in trend molto valida e questo fonte in realtà è un variable font il che significa che oltre a cambiare chiaramente la dimens
+zione puoi cambiare una serie di assi e all'ecologia stesse se gestiscono in questo modo ma puoi tranquillamente farlo anche su apposito
+un film per esempio e poi andare a gestire
+se il font si deve comportare come un mono space oppure no se il font deve avere una forma casual oppure no come vedi si modificano proprie glifi
+oppure andare a gestire il peso e questa è un'altra cosa cioè il font e una larghezza il che significa che se tu fai una
+se tu fai un menu come questo no è la voce di menu lo vuoi far diventare in grassetto non hai quello spostamento perché il fonte non si ingrandisce in larghezza si ingrandisce solo lo stroke del del grifo capito quindi diventa più gestibile con questi tre quattro assi ci puoi fare praticamente qualunque font
+con un unico file che vuoi scaricare quindi volendo tour l'intero font stack dell'ovo andare a costruire con variable font facendo impostazioni differenti e magari ti deve fornire il designer riesce a farci sessanta mila combinazioni differenti per fare cose differenti non con lo stesso fai lo gestisce concesse e brutali che sto
+sì assolutamente ma chissà se questo codice che vedi ecstasy ma in quanti font di questo genere ci sono in giro ho una marea c'è un sito che si chiama buffon ance obama maniera spettacolare dove ci stanno tutti i font varia bolla ma in realtà se vai a vedere anche su google fonts ma dopo vediamo su bofonchia remo
+però su google fonts per esempio per esempio il classico robot si tratta stavo pensando a una versione robot flex fu mai un robot flex al tester è fatto flex proprio e varia bol ponte con la differenza che però vedi e gratitudine si
+ingrandiscono quindi non hanno quel comportamento da un with font
+però ha e cosa così per esempio ed ecco questo già così con il grady lo puoi andare a gestire quella cosa che diciamo si mantiene no la ghiera qualcuno di legno pantano l'inclinazione la larghezza aspetta che il crollo perché hanno fatto male sto sito vedi qualche bello se io scrollo e qui ciò egli non posso
+ficcarci in realtà non fumo ma non si possa applicare perché c'è un gradiente gavetta
+ok però vedi è un unico font che tu ti scarichi e che quindi non devi portarti dietro tre quattro font family diverse e può andare a impostare in maniere differenti da s per fargli fare cose diverse
+le platee ma è una roba abbastanza se esiste almeno da quattro anni più o meno sarò comunque per dirti quasi variable font poi vanno a dei livelli ulteriori perché ovviamente qui lo baciai tutte le classiche cose però c'è anche sui tag per esempio ci stanno quelli che fanno le anime action
+guarda che bella cosa loro mettono come come caratteri i glifi e disegni e andare a gestire la animation proprio ci fai le animazioni con un fante variabile
+cioè capito è follia follia totale ovviamente poi gli altri assi lavorano solo due caratterino però se vai sull'anima action va a gestire i diversi frame dell'animazione quindi tu tramite una variabile sia s può andare fa animazioni su delle icone che sono integrate nel tuo font c'è una genialata totale school
+la moglie guarda qui guarda il suo viso studio code
+che c'è una pagina e aspetta non erano cellule locali cielo western
+se l'ho fatto non nascondono fatto un costume natura
+e ti metto qui
+aces aiuto vedi tu qua stai portando giù tre font face e questi font face stanno nella cartella assets e ponza mosè da qua faccio
+a questi non ce l'ho al locale quindi non posso sapere mit me mi diresti quanto pesano questi tre fonte a livello di byte
+è già un variable font quello che stai usando il caveat qui vedi variable font anno e a jackman e sia doloroso che ti metto europa prima cosa il league che esso indicato volevo farti rimettere in un faentino che quello che sto per fare adesso
+questo per dirti il primo che ci ha fatto vedere open source considera che ci fa nei sorgenti su github per bill dare il font
+si ma molto figo
+bell'hotel li definisce il termine qua gli devi dare forma the boat variations e poi li puoi dare già le impostazioni cioè il font with varia da trecento a mille per dire
+scusa guarda quel font variabile che emesso dove viene usato da quel punto lo temerai usare un pochino più spesso un po' dappertutto da te
+in realtà viene usato solo nelle quote e quello lì nacque la nobiltà
+ovunque dovevamo cambiare perché no a che non è destinata totalmente sarebbe questo roba sarebbe questo punto
+a me fa effetto world no al massimo puoi usarlo non so per ma ha un cuore che non legge nessuno sa nessuno cosa difficile da leggere
+a questo dramma un sistema emette esprime le proprie opinioni siete troppo bravi su queste cose e
+allora intanto scusami sono grandi maggiore è chiamato dan
+emiliano guarda un attimo la pagina ottantanove manual
+c'è neanche la tab aperta se è questa qua perché ella è il testo che io aereo con le cose manuali che aggiungo io i guest o feeling mettici i link che aveva indicato li ul washington
+e possiamo anche togliere questi due scelta
+aspetta un altro mi ricordo come si chiamava il sito ma proprio bofonchia
+variable fans
+fosse così potremmo mettere varia bollywood fonts nessun col tag quello con tag animation è molto carino
+che vuoi di questi ce ne stanno tanti e tanti diversi
+mettere anche magari qualche altro si trova visto oggi che ho fatto anche a colori guarda
+per questo
+un bellissimo bellezza
+spettacolo
+c'è tanta roba settantanove ottantanove all'ananas jesse royal royal
+stiamo dieci minuti a muovere le cose
+vi è poi la questione qual è che nel momento in cui tu sei un designer che di fatto un glifo è un assaggino quindi ventidue ti può fare tutte quante le
+i glifi di ogni singola icona animata con i vari frame e lì puoi andare a incapsulare mi sembra anche con illustrator si può fare questa roba
+e a generarci un ponte momento in cui due ha generato un variable font codice a quartu guarda per esempio questo ti capita che devi fare delle fasi lunari fai starò bene seppur gigio presentano peso niente
+eh c'è pure un discorso di
+di anche di qualità perché ovviamente un bug essendo vettoriale scala e non perde mai la qualità è quella discorso non esiste che segue non può diventare rosa pixelata
+fra l'altro quasi google fonts si potrebbe anche andare a filtrare ehi google fonts per quelli che suonano flexa come cacchio si facevano me lo ricordo ma adesso lo tiriamo
+a approva stessa a number of time and technologies
+non è in tecnologia variable color
+forse sai
+the roll filtri variable però ah sì robot variable montserrat trovare a boyle eccetera se vediamo se se l'è portata dietro sul lavoro stringa l'informazione si woolrich
+che fra l'altro esistono anche volta a colori c'è il senso qua non ci stanno però li troviamo allora intanto qua mettiamo google whatsapp
+varie bolle
+eccole qua categorie filter technology tecnologie varie molly perfetto
+e poi esistono e il color watson che hanno
+per esempio questi sono font colorati e si portano dentro il font la possibilità di modificare i colori ma ovviamente questa roba molto grafica è a zero accessibilità però
+si può fare anche questa roba è un'ospite se se serve fare una cosa decorativa da qualche parte che esala di informazione non dà niente si usano anche volendo non è esatto esatto
+però per dirti che so un fonte di questo tipo immagino dell'oceano
+fatto con delle righe al centro se tu lo vuoi fare colorato e fare in modo che
+donna questi cosi quanto mi hanno stufato ma è così cattiva perché ho disattivato questo cavedon fare impresa
+e allora torniamo a noi allora questo fatto qua che ci vogliamo fare l allora ditemi voi io vivo a questo punto mi alzo le mani deve sembrare una citazione poi capisco il disco sull'agilità sono d'accordo va bene cambiarlo
+quindi tu vuoi of art and writing eh
+hanno magari avuto skansen filtriamo filtriamo per il front end bridging tanto per cominciare ne cerchiamo uno po' più decente and brittany ok
+allora per dirti questo so tutte attaccate non si ammalano per mai questo è quello causato tu
+read
+ora accorgiamo cosa del genere fu po' più leggibile dai magari riesce a tenere un po' più spaziate le lettere questo è ponderabile zone nuovamente quello sicuramente si può fare però perline giapponesi o sarebbe più leggibile
+e non ha l'inclinazione implicita perché s'è dritto
+esatto sembra scritto a mano anche questo però è un po' troppo vedi nove questo qua là che si può confondere facilmente con o con esatto esatto perché vedi la o la guarda logo la ehm vicino quanto è uguale alla
+ed eccoci al volo e peppe
+pescara enterprise bene
+vedi qui
+allora io questo figlio ti logori diamond flower secondo me ci sta con un po' di lettere spacing se ci potrebbe stare
+suo fratello se fai dai testi brevi se l'eccitazione sono brevi riesce a farle stare sui settantacinque caratteri
+e a quello di andarvene sul caso d'uso perché qua non so quanti caratteri sonoma ma in realtà gliele posso dire perché sono tutti prompt quelli posso farle rigenerare tutte però sono abbastanza soddisfatti dimensioni sotto recitazione volendolo potremmo mettevo requiem
+dai no non proviamo
+io li come o magari se lo usi per la per l'eccitazione punto
+lo usi per l'accettazione
+comunque mi piacerebbe usa un unico font variabili un po' come fonte a parte quello è un po' dappertutto con variazioni sul tema però questo lo vediamo magari è un'altra occasione outdoor dopo dai sistemiamo il fonte della citazione e i
+e che probabilmente meglio questo però gridò
+però questo qua è inclinato e anche lì sempre la difficile
+facilmente si confonde un pochino
+presto ma non troppo scusa ma stai pensando nel font del titolo e della recitazione o della citazione e quello non c'è
+l'ha detto adorno web cam
+mason picchiato morire allora
+okay cambiamo un attimo il testo no diciamo che questo è
+questa è la citazione
+sandra da uno degli ospiti
+beh ma scusa prende proprio una di quelle che si può copiare ma sono immagini scusa mi sono persa questo pezzo non che cosa le citazioni si possono copiare testo e no non si può copiare si può pagare è tipo quella più lunga esatto beh forse la più lunga no questa quale dell'opera house la cena
+arca miseriaccia
+a sparire
+purché stanco lo zoom skype
+spada che esce di gariga togli questo caso siamo qua ecco anche il fatto che qui vedi
+questo già indicativo vedi che c'è qualcosa di virtù cioè se io voglio andare a selezionare questo testo arrivo a un punto in cui tac c'è qualcosa vedi www selezionare tutto il testo per dire e questo qualcosa è quello che quando voi lo blocchi di roccia qua
+si salvò raramente c'è qualcosa che lo fa cliccare e lo fa andare dove da una parte
+a queste sempre lo yogurt ebook non lo so comunque il testo l'ho copiata da lo scriviamo qui dentro dopodiché andiamo qui e ci abbiamo
+questo secondo me se legge bene se essere sempre rende floxin tra tutti alex vada vada con willie flower
+ok allora si occupava robert plant
+aspetta c'è un pò di altri ponta pensiero però lo yuan interviene ampia e rimane questo
+possiamo fare una serie di cose per fare il discorso fonte e cioè
+ah qui mi è morto la serpe sherbrooke
+l'hai rimandata e riuscirà sempre a rockland
+sì una prova a riaprire l'ultima
+l'orecchio mi sta uccidendo
+se lo fa comunque lascerò funzionari di diciamocela tutta per sé ma in realtà le prime volte che l'ho usato andava la bomba voi effettivamente morassut shampoo effettuato
+ti sembra di sì
+allora se adesso io vado qua tu cosa stai facendo in realtà non tosa variando questo ma io chiudo tutto questo ad un collasso dotto e vado su asset font tu c'hai i tre oggetti font anche anti-theft file dopodiché all'interno del tuo sky
+ciao tony face definiti
+no
+sei adesso però tu vai qua su google quando gli fai l'embed lui chiaramente di d-link per fare il pregò connect caricare il gioco di abusarne la sydney o non volendo sala danno giustamente lo dicevo per scaricare veniva in download e a quel punto però io
+non so se posso copiarti questo della non vediamo che cosa sta facendo lei flowers
+out of hell jack walker a slogan eine la licenza in teoria questo ce la dovremmo portar dietro il mio vedo se me la fa incollare qui lo fa fare me l'ha fatto fare ok quindi sappiamo in dai flower regular eccetera però sempre su google
+dove stai ma non era questo gatto embed import comunque l'acqua non si porta dietro niente solo regular cioè non non c'è neanche un grassetto qui a
+se solo il regular stadi
+vabbè allora facciamo così
+allora camusi neocon questo lo togliamo questo lo chiamiamo inn dai
+bauer e questo ci troviamo il nome del file lo mettiamo qua ne siano contenti dopodiché
+dopodiché
+questo diventa il male bauer
+in teoria dovremmo avere
+il ponte nuovo
+non gli piace
+sicuro sbagliando io qualcosa
+allora qual è il font family c'è però il font face non l'ha scaricato secondo me c'è un errore non nella poco ok qui amo ma qui non ci ho mai provato
+aspetta
+a c'erano claustro dove ne
+nel summit di sviluppo
+questo è il localhost si schierò tra questi non ci sta il punto è proprio ciò non ha provato a scaricarlo
+apro la sfiga eh già
+e se io vado quasi sorgenti font an old wild flower l'ha scaricato
+in realtà aspetta che fonts che fa dwight hanno questi cosi fan the weight quattrocento quello che il quattrocento venne in teoria dovrebbe essere giusto
+vedi qua ci sta un carosello qui sedi e quello che stava bloccando la selezione vedi questi sono il premio next del carousel dell'arrivo estivo a navigare da un da una notizia all'altra no per switch player video per passare da un video
+l'altro ok
+però in realtà possa ha senso possano da un video all'altro
+allora oltre che secondo me possiamo anche toglierle ma athos carousel seppur non possiamo lasciare hell on page soltanto il video dell'ultimo tanto poi sotto degli altri alla realtà il font ci ha provato a scaricarlo
+solo che non mi sembra essere proprio quel fronte a me
+conosco
+solo che il chelsea sky invasion wrestling
+il foglio di stile
+cellfood face ci sta
+sette due il font l'ho scaricato
+a me sembra un po' strano tutto ciò ma forse è una questione di gas carbone lo so bryan non sto scaricando proprio vogliamo un attimo
+google fonts
+comincia la sua stanchino
+pur ti capisco ti capisco
+anna walker torto c'è anche un'altra fonte se vuoi provare che
+c'è chi dice che l'olio che viene aiutato a altre che non trovano giovamento però che si chiama open disk less is lexie e potrebbe essere utilizzato magari siccome ha un buon carattere che sembra quasi scritto a mano tra virgolette non è precisamente scritto a mano ma esatto per le
+magari per le recitazioni se può piacere in alternativa e vedere come reagisce
+ci sembrò lì il problema non credo che sia non credo che dipenda dal dal font infatti volevo fausta prova ma poi casomai vediamo anche questo perché effettivamente questo fatto non sapevo neanche esistesse un open dislessica fissa
+c'è chi trova aggiornamento e chi no
+quindi tendenzialmente si suggerisce di usare dei font magari più semplice eccetera comunque a prescindere piuttosto che rivolgersi a uno che sembra fatto apposta per e però non ha proprio evidenze su tutta la popolazione
+con grande sia ecco quindi però c'è chi c'è chi dice che aiuta parecchio
+mi sono perso parole ah eccole
+quindi diciamo che io volessi mettere questo pasqua
+e poi non so neanche se ho detto una cosa in italiano corrente johnson
+sì sto gran campione di italiansubs a tratta
+e allora così lo prende quindi c'è qualcosa che abbiamo evidentemente sbagliato noi però se io lasciassi questo qui adesso se io lasciassi degli altri può vedere arabi mi piaceva più quello di prima e vorrei avere almeno un regime non c'è confuta non è sicuramente più leggibile questo il punto
+punto ombra è quello che avrei non so l'open business
+non è così vero e proprio molto molto dritto e
+diciamo richiama un pò però mantiene la sua integrità leggibilità quest'uomo poi questo c'entri scarica direttamente li' tieffe
+c'è anche il mono space essere differenti però come facciamo a distinguere i colori viaggio ma io di solito non lo so che esiste ma non è che l'abbia mai utilizzato perché non riesco ad aiutarti molto su questa cosa
+moon space alla rovescia diciamo questo qua
+trama weston nell'amore sociale
+il problema che non so se il fatto che io ho trasferito il font manualmente qui dentro e io lo vedo nell'elenco dei anzi vedrai che non so se vi è piaciuta questa cosa cavedon vorrei avere una pistola questo discorso parliamo un po' allora vedi questo qui c'è così
+adesso usiamo un po' un sito molto carino che si chiama trans fon ter
+dove noi ci aggiungiamo i font di questo e lui facciamo fixo vertical matrix ci facciamo creare il boffo che è più compatibile
+gli diciamo che questo va bene così font su otto va bene
+okay diciamo converta lui ci creano zip pettenon non già il font face dentro
+dai che ce la fai
+coppa
+ok quindi lui ha creato diversi formati perché per esempio questo formato boff è il più compatibile di tutti con tutti i device object un po' obsoleto
+quindi volendo permette questo vediamo se lo carica
+operò modi
+e poi ci sta weston stai avendo adesso lo appoggiamo qui o lo vedi lui va a definire le folly beach di tutti quanti formati con lo stesso nome ma definendo fantasy sta diversi off on the weight diversi a seconda della situazione vedi
+cosicché tu ogni volta che usi questo e gli dai le impostazioni font style with lui va a caricare il font corrispondente se in regola non bold pollock per dire noi potremmo copiarci tutti quanti questi qui spostarli di qua
+sperando questa cosa gli piace whoa
+poi chiaramente dobbiamo metterci questa cosa qua
+oh e potremmo pro vasto open di sec che dovremmo metterlo fuori
+book
+ma se questi font lui li va a caricare
+vediamo se questa cosa le piace
+per lui
+secondo me non legare lascia qualcosa che non va sotto il lago infatti c'è qualcosa che non gli piace quando noi andiamo a mente il font e locale forse se lo facessi tu dalla tua macchina funzionerebbe meglio armato
+eh sì però devo approvarlo da perché anch'io sono ad esso collegato su quel brand slogan
+vedi lui fonte li sta scaricando
+però non sembrano essere quelli perché vedi se io carico peace sansa e ce l'ha la forma giusta unita regular ce l'ha la forma giusta questi sembrano tutti lo stesso vedi l'ha fatto anche prima con quell'altro qui c'è qualcosa che non torna l'addome o probabilmente qualche codifica di qualcosa qui dentro
+andando ad apportare vanno lo so che non gli è piaciuta probabilità mandamelo zeppa di questi qua
+aspetta
+come te lo mando su whatsapp
+no no
+una messa in memoria
+no non faccio rinnova pecore di arte cielo
+come
+tuo padre hamal
+a cristiano siete ancora correrà ancora adesso
+vieni
+un uomo adesso viene christian dice ma che avete chiesto la regola trentatré del doge of fermo
+è perfetta
+guarda come a finire allora stiamo aspettando
+ed ellen di grom
+cosa possono avere in diretta dall'isola diretta
+come gli sto dando il link di streaming dvd switching a logan
+altre revolver roger
+allora
+il cornetto studi
+braico morale della favola comunque c'è come vedi è già solo per sistemare un po' di robottina tempo se ne va perché perché non è una questione di codice la questione di ragionamenti di dove si vuole andare e di dove si vuole arrivare a fare cose attratta un'altra cosa che mi è venuta in mente adesso
+se possibile per risolvere
+un pochino la questione sempre queste citazioni si può inserire un un audio appunto che che l'elenco non so sto pensando così perché magari una persona dislessica non va a utilizzare il lettore di schermo con sempre perché lo
+fanno lo usano anche loro però
+ah magari può aiutare un attimino la l'esperienza utente avere l'audio che non lo so sto sto ipotizzando per aiutarli a non vennero quelle sono tutte inventate
+sono citazioni delle iadi e una tv
+per cui non è che c'è un audio dal video da area tira fuori non nel senso di creare una outlet audio e bo
+magari un po' più carina come
+beh quello si può anche pensare di farlo però se in realtà io vo'
+perché ti vedo soffrire su questa cosa
+la perché volevo fare per quelle citazioni delle immagini automaticamente generate tipo da condividere in post gara
+presentare le puntate perché son fatto dichiarazioni sul contenuto puntata sono citazioni inventate dalle diverse okay ma interessanti secondo me qui ci sta insomma è
+ora come ora però sto pensando no dovreste no no diventa un casino perché poi dovresti rendere accessibile per i sordi lo stesso contenuto quindi no alla fine ci ritroviamo sempre
+a rincorrere center coi niente no mi sa che devi farti una ragione del font in qualche modo
+si svolge dopo aver provato però
+mi piace questo approccio metaforico
+e demografico soprattutto
+guarda livio come se la ride ward
+c s
+momo
+grande livio ma ma dove divido dove ci incontriamo lì inviò quale conferenze varie nelle prossime buddha
+ah perfetto perfetto così ci conosciamo conosciamoli certo volentieri
+e vogliamo poi corriamo insomma voglio dire a sto punto presentiamo beviamoci una birra facciamo qualcosa di più che volentieri
+io mi sono perso lanciare di nuovo ma prova a rientrare ma
+il road si diciamo che perde la connessione da von trotta
+prima cosa anch'io stacco dal browser e allora uso
+tu le hai tolte da da lì giusto no no io li ho lasciati ma casomai non fecero neppure che nel connettere una dice che no non mi riesco a connettere a lost inverso ovvero specialmente in quel processo
+allora aspetta
+sky
+ecco adesso si sta approvando il cancello eur se no volevo fare un'altra modifica sul cash
+a l'avevo fatta l'ha neanche presa però anche no
+non c'è
+ah no eccola vedi ci ho messo lo stesso fonte di subscribe non per tutti qui
+ma quello è quello variabile no no questo è il eat a quell'altro fonte che che c'era sotto di qua ancora non l'ha preso walt
+allora adesso sto facendo
+sto svenendo zidane
+season prova
+aveva arrivato sto sveglio da quanto è sano tredici ore
+nel faccio la hogan world
+io le ho messe su main hanno visto firebase da al cody space non riesco a passare dallo switch all'altro da un brand all'altro quindi e quindi commettiamo sta roba qua meglio finito cominciamo qualcosa di presentabile però è
+è questo il punto che se non riesco a fargli carica il font è un po' rognosa da abe il font al limite poi si però già che ci siamo
+facciamo wilson education team flash vuota che non è minimamente semantico che lo trasformiamo e non è così esprimiamo una volta per tutte blog watt quindi questo diventa così questa diventa così
+e fai uno fai una giungla una sostituzione urbana in realtà sia il problema è che poi ci perdiamo jedi dove stanno
+maria soledad operiamo da fa diciamo così
+uno due tre e qui mi sembra non ce ne sono altre per le sue quattro si muove su quattro solo un po' ciambella virgoletta ed è carino guarda guarda guarda come sempre caldo louie stavolta
+marta marta ha fatto fare un casino che paura
+ho fatto fare un disastro non fischiati miei hanno anche sopra box world class
+lo recuperiamo la fotostoria fatto opere toto
+no no no eccolo qua
+food questi stanno apposta questi no
+mcgee e poi magari lady è arrivata questa schifezza qui
+la sistemiamo senza
+dopodiché però c'hai il punto otto
+che sta qui che diventa blocca volta sostituisci
+ok e quindi che modifiche abbiamo fatto abbiamo il config derby con quella roba il premier retrò aggiunto questi che sono diventati dei block quota
+oswald che abbiamo chiaramente le varie modifiche di eddy quali sono app store connect tre devo togliere più l'ambientazione
+qui ci sono modifiche di bootstrap
+con il nad
+mitch evans molle il container con tidal e vedi che prima erano sedici dice quattro righe della catenella blondet
+qui ti lasciamo stupenda flower che faccio l'ho referto che non ti piace
+max non ci piace questo qui poi in mano a cosa abbiamo esso elenca e poi abbiamo questi open dislessica che li lasciano il xke ma poi va simile però già bruciati però il caveat a questo punto lasciamolo dentro come folly back nel caso i fae disastri con
+i open e xbox
+ogni opzione del pontaccio che non piace a nessuno è diventato blog quota john titor sparito giustamente cui abbiamo arriva tutto quel pezzo qui ok ok vedi qua per esempio
+io ho utilizzato
+il cnsas nesting e ormai è nativo no quindi il fatto che io posso innestare un selettore dentro l'altro certo come era da solo in sasso prima ma adesso il nativo di gibbs kevin e quello che ricevevo prendermi in braccio ethereum questo punto
+loom quindi faremo mai a creare alcune opinioni eh
+per me puoi fare il merge
+si aspetta che l'rt
+home news le giacomelli lo faccio io
+e anzi fammi controllare se esiste il concetto di wyatt fatto con un dildo su wall street perché no questa cosa non l'abbiamo controllata
+no vedi mostra posa blocco vuoto quindi questa cosa vuota era proprio gaston del del sito web
+allora comment on si si
+oltre a due venti sporco focus che va winston
+ok facciamo un bel gioco e io sono molto troppo sorpresi tournée
+coda abbastanza woolrich west
+a
+un'altra cosa a livello di contenuto non so sara se d'accordo ma penso di
+questo video gay non dovrebbe essere al cento per cento della larghezza del viewport perché a parte il fatto va beh acquicella il loro origine
+ok
+ma al netto della questione carosella il discorso è che se il video è grande come il cento per cento dello schermo e subito sopra c'è un'altra immagine come cento per cento dello schermo del viewport e tu chiaramente qui c'è uno stacco di qualcosa che non si capisce nemmeno che un video per youtube
+non lo vedo il player non vedo nemmeno il play a quest'altezza sei prese in del dovrebbe essere inscatolato dentro un trainer e dovrebbe avere una sorta di
+background simile a questo diciamo qualcosa che lo renda
+più ridotto tanto una volta che tu fai partire il player comunque sia è il discorso che team prema
+hogan
+parte i danni vengono fatti evacuare due
+a cosa serviva e leela però non benedisse non si capisce neanche che c'è un carosello c'è una freccina vedi sì ma se vedono poco è anche quella è poco contrastata converrebbe fare cioè renderla più visibile fare magari un lucy
+cerchio con un colore a contrasto in foto ma andrebbe mentre in realtà fuori dal dal video perché poi il discorso è anche questo se io sto qui faccio partire questo video non posso modulo
+nasce verranno distrutti su questa freccia
+ti faccio presente che quello era il copia incolla dell'esempio del carousel di bootstrap oh sì sì sì sì per carità certo
+c'è però il discorso guarda si vada a ispezionare questo io vedo che il carousel è il contenitore dell'intero video dentro il carousel inn nera ci sta due video per esempio adesso no in realtà poi non sono due però ce n'è uno attivo con dentro il video container e poi dell'europa
+le quote
+è il discorso che le quote sono legate al video quindi in teoria quando tu vai a fare
+vai a cambiare qui c'è solo video container però non ci sono le quote dell'altro video
+cake and eat
+e il fatto che tu non puoi nemmeno neanche mettere pausa da qui o dalla o gestirne il volume perché sovra in over lei a questa cosa guarda lo vedi questo carousel jenner non guarda dove sta la freccia vedi c'è l'intera area di questo bottone questo è un button l'intera area di questo bottone tutta un'area gl
+cabine e racchiude tutto il carosello guarda fino a dove arriva vedi
+sia un papocchio tony cavolo lo faccio come compito a casa non ho l'acqua in realtà è sufficiente dare al video la stessa dimensione del container e lasciare le frecce del carousel fuori ma io lo farei tra l'altro anche più piccolo magari su due colonne dove c'è la
+l'immagine a sinistra grande poi il titolo ripetuto in modo che sia anche quello a più leggibile eccetera a destra e poi le quote sotto riferite adesso si e magari sceglierne solo un paio
+già le citazioni ma sheraton mette in difficoltà devo scegliere la b la lega lia che che fa le quote non possono discriminare
+è un
+no perché mi piaceva l'idea un giorno di fare un confronto fra chi genera quote migliori ai vari modelli usati comunque e facciamo così io faccio emergere questo
+c'è c'è e chi non c'è vediamo cosa salta fuori
+sappiamo che dio vediamo che botto
+crediamo che è successo ha il
+questo è già e puntocom no questo è a
+vai a poki b gmail punto com nella categoria estivi puntocom voglio vederlo direttamente dal tuo box rafting e io poi c'è sempre quel discorso di google ranking
+maledetto free invece il locale no sto bene è proprio questo assisi
+sta caricando però le quote fa quelle realtà
+aspetta forse sta ancora bill dando esiste nessun action aspettare la nostra ancora pulsando sacro abilitando non covid nick
+va bene dare comunque direi che per stasera abbiamo dato abbastanza io l'avevo fatta semplice da dan brown boveri esperto del sangue beta in tre ore e due ore si fa tutto si rifà al sito in ottica accessibilità e heather non ci abbia messo
+sarà perché lì il discorso è sempre il ragionamento di che cosa uno vuole fare gridò se è una questione che richiede tempo e purtroppo
+diciamo jan koum quando ci si comincia a occupare di queste tematiche devi tenere in considerazione talmente tante variabili che non è e non ci puoi prevedere un tempo poi è chiaro che c'è pure da dire un discorso noi adesso stiamo facendo dei fix è chiaro che simili malattie uomo il sito a partire dalla
+flessibilità tante problematiche non uscivano fuori ma venivano fuori asat perché erano già previste da design no quindi sarebbe stata un approccio totalmente diverso da qui c'è una cosa che è
+rotta diciamo sotto un certo punto di vista e la dobbiamo aggiustare il punto di vista chiaramente quello dell'accessibilità perciò per farla per ripararla ecco devi andare a vedere che qui c'è un accadrà e che invece dev'essere un'acca due
+devi andare a vedere che qui tu hai bisogno di sfruttare la responsività in un certo modo che queste due colonne di fatto si comportavano comunque nello stesso modo a tutte le risoluzioni perché questo era sempre col due è sempre quel dieci
+vedi anche come vogliamo gestirla tre
+non so se adesso ha finito di di ricaricare mamme mi sembra che abbia fatto qualcosa ma non mi sembra che sia andata molto bene però emerge perché vedi il colore qua non è neanche quello atteso e come se non ci fosse il cas l'abbiamo rotto
+abbiamo fatto qualche parte c'è scritto si vuole portare però la catenella arrivato giusta vedi adesso c'è l'acqua due qua le idee con le gonne sono giusti il comportamento del leader è quello che abbiamo implementato però questo non sta caricando in maniera corretta e soprattutto l'immagine che ci
+dovrebbe essere qui sotto non la sta caricando
+allora io ho fatto il classico modifica all'ultimo momento però non credo che ho cambiato home news nome sia nel leader del iv che nel cts nonché ha bisogno
+ma torniamo anche io la doccia se esse non lo vedo ombre denuncia prova il selettore
+come se non ci fosse ma allora e allora aspetta aspetta provo a mettere johnny
+no non c'è neanche quello
+amy e
+un clown era stato salvato un mosfet
+l'abbiamo rotto
+outlook
+sì ci sono i font face no un ciccione full face allora aspetta con lennart
+ma io non riesco a vedere un c'è tutto il lembo di hai fatto non ci credo
+e non c'è prova nel chiefs quello fatto se avevano smesso di accesso
+certo non è il finale
+giusto però
+questo è il vecchio ash questo è il vecchio e che fine ha fatto quello europee
+no ciclabile aspetta un attimo non ci posso credere io però ce l'ho ancora qui e ce l'hai no mosè
+una copia subito va incontro al ciclo do lago dolce
+banca mps ehi aspetta un attimo presente quasi splatter intanto te lo mando
+no aspetta non fosse cell io che sto facendo un po' di casini che frank
+e intanto della mandata
+git status no il nuovo chissà se c'è fosse e nella cdm cacciato a potrebbe essere questo sì
+fame però è lukaku però io qua posso
+oh lato server invalidi la grecia oppure qua la domina posto giusto svuotare la cache ma
+non penso che che si è accasciato la dose dna c'è poco da fare
+neal caso e questo effettivamente a me mi arriva il vecchio cessasse qui
+questo per esempio questa cosa per risolverla
+quando si fa quando si fa questa roba bisognerebbe mettere sempre la versione del padre jason nella query string della dei falchi si aspettava scritta in modo tale che ogni volta che tu ne pubblica una nuova quando quello ricarica si candidò e completo ma guarda mi sa che metterò
+oh la della jerry brown persona lifting digitale dei qui sono serie assomigliano a mano facciamo lo vediamo intanto subito fammi vedere un attimo
+san michele
+sta' cosa ed è usato come www blue blue hour tutto pulito
+allora è un po'
+e ciò qualche tab aperto
+eccolo qua eccolo qua molto meglio
+scendi giù da un font week end non l'ha caricata quindi c'è qualcosa che non va in quel font perché qui è il nome del font c'è se vado sui sorgenti ah no aspetta questo dato quattrocentoquattro non è riuscito a scaricarli fanta
+hai messo in foto e sbagliati magari
+realtà no e assets font venne classic regular da sorgenti sono quelle assets fans io non lo vedo cartella lavata magari sta caricando però success
+sono messo al posto suo se di prima questo e quello ancora col brand c'è non ho pisciato su questo bilancio e controlla però se nella cartella fonts ci stanno questi file etc ci sono si e allora potrebbe essere che ha potrebbe essere una questione di tip forse si vede qua
+tre gemelle
+vuol dire che sul server deve configurare il film the b of due
+essi mostrarono open bar github pages lo vedeva come si fa a fare un raid ma se ti manda it è normale non poteva museo area sia a startup
+siccome però questo o quello rattan
+owen è
+l'ateneo giusto
+si può fare
+elizabeth ma a questo punto riproviamo sono a quell'altro che avevamo selezionato prima che non gli piaceva tantissimo ma magari funziona meglio
+analisi indi qualcosa come si chiamava è una questione di maine tipa anche questi video panda dislessico prima io lavorassi erano ottime jeff e quindi comunque non l'avrebbe presi
+esperta vi fossero questo olimpico per cui inizialmente quello che abbiamo iniziato causato da e sai non ti piace quello che hai usato il primo
+qual'era alien flower and flower indi indi
+flower se può essere in the flower
+sei un diploma warrior in the flower asad ma potreste anche metterla sydney sennò bisognerebbe riscaricare questo modulo basso
+a sono più butto su henry flower
+allora questo dello stop stato whatsapp nel file etc
+però poi dopo bisogna farle fan page
+e lo puoi ricavare dal caveat volendo species
+ho fatto una ruota spunto
+elise evans ha
+ovviamente poi sul blocco vuoto ce rimette in the flower dopo che hai fatto ai fan fiction una nuova
+però smonto condivido così sisifo s e condividi allora era battuta diretta alleviò
+si o la prossima che facciamo zoom sul the dawson dall'idea al prodotto portiamo avanti lo sviluppo del sito di del del doge che dobbiamo ancora finirlo
+vieni ci facciamo due risate racconti un po' di cosettina
+quando noi dobbiamo ancora pianificare così broadway
+alla come ci viene
+the flower c'erano dei da fare sì ci sono
+bene bene no a me mi piace questa cosa bianca dove stai andando sulla formazione perché io sono lo sto facendo da poco e mi piace tanto e quindi condivido perfettamente ha portato league dici i ti ringrazio
+davvero sei molto preso molto chiaro spiegare
+hai molto
+su tiktok e che va analizzato quindici
+the crown ti ringrazio ti ringrazio molto
+per me è una bella conferma perché a me piace proprio tanto insegnare quindi
+isabella si è bellissimo bellissimo molto più bello questo che fare progetti onestamente plastici
+concordo si arriva ad un punto in cui non ero più in grado provvede a sostenere quei ritmi nodi di progetto consegna è la consegna per ieri e ti cambia la specifica sotto il culo gli ultimi cinque minuti e tutte quelle dinamiche solidi che alla fine fanno parte un po di tutte le aziende no
+io sono arrivato a un filtro sulle poche mi devo sganciare da questa roba perché sono io che non ce la faccio sono ventisette anni che lo faccio e basta
+cambiamo un po' e niente comincia a sparire queste diciamo queste lezioni e mi è capitata una classe fantastica di tredici alunni e alunne
+tramite insomma un corso regionale una quindicina di giorni ma una cosa bellissima cervello de tokyo ho fatto bene a scegliere di fare questa roba perché usano avevo trovato benissimo
+cose che gli insegni ma ha fondamenti di sviluppo web responsive design di accessibilità di giava scritta di base tutto ciò che viene prima o poi della della studio dei vari framework libreria che ovviamente poi servono perché comunque si ottiene allora loro rangers di base diciamo è è
+charles city
+sì trailer
+la mitica triade esatto la mitica triade che poi è quello che è comunque un browser in grado di far girare no quindi
+anche per quello che mi sono innamorato di di queste tecnologie perché comunque eccole funziona quindi c'è un problema di vari tipo da risolvere ale
+perché alla fine sono tecnologie che prendi scrivi le metti dentro un browser funzionano subito capito non devi fare niente di particolare e ci fai tanta roba perché il punto sulla fabbricazione interno e quindi
+diciamo sono diventati molto brevemente la mia passione io prima ho fatto una decina d'anni di sviluppo client server backend hans arp poi poi ho conosciuto javascript finita lì
+ne
+abbiamo ancora un sito
+badanti
+direi che è stata una bella e istruttiva serata per quanto mi riguarda non so per voi
+ho abusato della sua esperienza
+io credo che mi devono fare altri corsi via chat mail per riposare perché ti piace x
+ma guarda alcuni voglio dire alla fine discorso per per concludere il discorso sulla catena mele chess è comunque qualcosa che va studiato costantemente perché è maurizio mai fox siragusa a mezzanotte dice per l'uso dell'importante perdona l'ipnosi
+sanno quello che fanno
+l'album ti rivolgi a venezia
+sì no il discorso che ha uno studio continuo io quando ho cominciato ad approfondire pesantemente catenelle chiefs perché comunque sai
+e poi
+del discorso è che c'è sempre no quello come dice come dice ok scomoda è uno dei più grandi speaker successi ha sede nel mondo secondo me
+lui dice bene avete presente che nelle aziende c'è sempre il css inoltre il tizio a cui tu gli chiedi la soluzione chissà perché nessuno lo sa no
+grande maurizio emiliano e il chelsea show made batte vostra app grazie
+il discorso è che appunto andare a studiare quello che ci as è in grado di fare quello che accade fiammelle è in grado di fare cioè oggi per dirti se vuoi fare un accordion tu usi l'elemento di davidson e news n elementi di tails se a tutti quanti gli dai lo stesso naim
+c'è già una accordion zero javascript quindi l'unica cosa che devi fare è utilizzarlo no e magari tanta tanta gente queste cose non le va a vedere perché diceva bene antonio ciò la mia libreria che mi fa l'accordo con busta piuttosto che tale wind piuttosto che chad c m come si chiama www no eccetera tutte quante le librerie che usiamo solitamente quando alla fine crearono
+accordi hanno veramente sono quattro bordi due spaziature sono niente di complesso no è sapere che comunque lo puoi fare senza usare già scritto ma soprattutto senza una dipendenza di terze parti e abbattendo quello che è il debito tecnico secondo me è sempre una buona pratica no andare a studiare qui e questi dettagli perché comunque ti mette in una
+audizione anche di sapere di più che cosa vuoi vedere nel browser come il discorso di studiare a fondo javascript no cioè offset ai suoi comportamenti react per esempio fa la virtual dj home dopodiché faldone di ping quando ha finito di fare il don diving comunque fa don manipulation sotto il cofano
+alla fine sapere che la donna nivolet ikon è qualcosa di altamente performante al giorno d'oggi specialmente a fare cose molto leggere chiaro che se tu devi andare a gestire milioni di utenze come fa facebook ti serve un visto al dom perché altrimenti rischi di andare oltre i limiti no delle performance che ti servono però se devi fare un sito
+home questo ho un sito come quello del cardoso o un sito vetrina ma anche un e-commerce e comunque lo puoi fare tranquillamente con i custom elemento al giorno d'oggi no quindi andare a sapere cosa a catinelle si festeggiava script sono in grado di fare da soli è comunque qualcosa che ha anche se poi magari sul lavoro non lo utilizzi perché
+si trova in un team di trenta persone che comunque tutti usano react ti serve usare le actop oppure angola o vinum però in realtà a sapere cosa vuoi vedere nel browser ti mette da un punto di vista differente quando vuoi a fare l'implementazione no cioè tutti ciò nel browser io voglio questo ho bisogno di questo elemento
+atmel ho bisogno che il cts faccia questo e dopo mi preoccupo di come tradurre quella roba in react o angola o un'altra cosa per quello che io personalmente non vado mai a studiare troppo a fondo nessuno dei framework perché tanto me lo guardo nel momento in cui mi serve non non ho bisogno di andare a
+a rinunciare ma dicesse tu ti sai anche bene orientare ho visto sì c'è quello il discorso perchè ci devi sperimentare preso a buttare l'anima come elton john eh sì quando mi sono messa spinge forte su lega aston robert seiler ho fatto della roba e l'ho veramente ho messo il motore di diciassette stessi
+sotto stress ma apposta perché volevo vedere quali erano i tuoi limiti no quindi ho messo insieme che ne so sette ottomila variabili diverse attivarlo di sette ottomila decine e decine di lei e per andare a vedere appunto dove arrivava
+effettivamente si può fare tantissimo anche solo con quello per quello che poi monopoly dipendenze perché è comunque addebito tecnico il debito tecnico a batterlo sempre una buona scelta secondo me
+ciao maurizio che danza da casa però
+se se comunque mi piace più a fondo prima adesso perché
+quel ucciso alle spalle
+va bene comunque vedrei dell'accessibilità e costi eccessivi paolo ma adesso abbiamo fatto in alla fine gli studi lo studio del font può portarvi anche quello un sacco di tempo c'è sicuramente se trova qualcosa che ti piace che sia anche accessibile non ti
+occupati a lentini ma ci devi dedicare una puntata sulla sbarra tipografi dovresti fare secondo me
+sai il testo e il novanta per cento dei lowell con il quale noi interagiamo e quindi è la parte più importante avere un un lavoro lato design fatto bene sulla tipografia è fondamentale per poter poi portare avanti
+dunque prodotto digitale sacrosanta verità e
+bene maurizio non sa ancora fare noi sappi che settimana prossima ti vogliamo sola puntata soul washington
+open source intelligence
+è
+i link nella sala sono mai usciti aver poi vedremo cos'avrà e allora direi
+per oggi ne abbiamo abbastanza perché avevano abusato della loro sessualità fino a mezzanotte e mezzo con cautela
+adolfo fuori controllo e guardati
+è risultato aver raggiunto io vi ringrazio con il cuore credo sia stato molto interessante utile e grazie a tutti quelli che ci hanno seguito in chat
+che abbiamo un po' ignorato e devo dire farmaco di un almanacco che siamo ancora ripresi
+l'architettura molte elucubrazioni
+bene che dire alla prossima e grazie ancora
+alla prossima buonanotte
+buonanotte e alla prossima
+apotheke
+ma
+ma
+ma
+ma

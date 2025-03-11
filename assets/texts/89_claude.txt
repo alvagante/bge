@@ -1,0 +1,11 @@
+Nel cyberspazio dell'accessibilità digitale, dove il codice incontra l'etica e la tecnologia abbraccia l'inclusione, la Brigata dei Geek Estinti si immerge in un'avventura pratica di ri-engineering semantico. Questo episodio, seguito naturale della discussione sull'European Accessibility Act, trasforma la teoria in pratica attraverso un laboratorio live sul sito labrigatadeigeekestinti.com.
+
+Come un gruppo di archeologi digitali del futuro, i partecipanti - accompagnati da esperti del settore - dissezionano il DNA del sito per ristrutturarlo secondo i principi dell'accessibilità. La sessione si evolve in un'esplorazione multidimensionale dove HTML semantico e CSS si intrecciano in una danza di funzionalità e forma, mentre i font variabili emergono come protagonisti di una nuova era tipografica.
+
+Il workshop diventa un microcosmo di design inclusivo, dove ogni linea di codice è pensata per abbattere barriere invisibili. La gestione dei font, la struttura responsive, l'ottimizzazione delle performance: ogni elemento viene riconsiderato attraverso la lente dell'accessibilità universale.
+
+Particolarmente illuminante è l'approccio alla collaborazione e al versionamento, dove Git diventa non solo strumento tecnico ma metafora di una progettazione democratica e condivisa. La prototipazione agile e il feedback continuo emergono come pilastri di un processo iterativo che mira all'eccellenza attraverso il miglioramento continuo.
+
+Questo episodio rappresenta un manifesto pratico per un web più inclusivo, dove la tecnologia si piega alle esigenze umane e non viceversa. Come direbbe Marshall McLuhan in un universo parallelo: "Non stiamo solo costruendo siti web, stiamo plasmando estensioni della coscienza umana, accessibili a tutti."
+
+Nel codice risiede la poesia dell'accessibilità, e ogni tag semantico è un verso di questa composizione universale.

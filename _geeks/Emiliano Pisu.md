@@ -1,7 +1,8 @@
 ---
 episodi:
 - 88
-nome: Emiliano Pisu
+- 89
 layout: geek
+nome: Emiliano Pisu
 ---
 
