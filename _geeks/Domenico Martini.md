@@ -9,6 +9,7 @@ episodi:
 - 74
 - 76
 - 80
+- 90
 layout: geek
 links:
   Linkedin: https://it.linkedin.com/in/martinidomenico

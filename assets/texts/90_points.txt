@@ -1,0 +1,10 @@
+- Open Source Intelligence (OSINT): Definizione e ambiti di applicazione, con focus sulla capacità di raccogliere informazioni da fonti pubbliche e l'importanza della metodologia nell'analisi delle informazioni raccolte.
+- Rischi e responsabilità legati alla raccolta di dati: Discussione sui limiti legali nell'uso di OSINT, sottolineando l'importanza di operare nel rispetto delle normative vigenti per evitare problematiche legali.
+- Strumenti e tecniche OSINT: Panoramica sugli strumenti disponibili per l'analisi delle informazioni, evidenziando la necessità di avere un mindset critico e la capacità di adattarsi al variegato panorama tecnologico.
+- Sicurezza delle informazioni: Analisi delle implicazioni di sicurezza legate all'uso di dispositivi e reti, con attenzione particolare alla protezione dei propri dati e alla consapevolezza dei rischi associati.
+- Impatto delle tecnologie emergenti: Discussione sugli strumenti hardware, come il Flipper Zero, e il loro potenziale uso sia legittimo che illecito, evidenziando la responsabilità dell'utente.
+- Consapevolezza digitale: Importanza della formazione e della sensibilizzazione sulla sicurezza digitale, per prevenire abusi e garantire una navigazione sicura nel web.
+- Riconoscere e prevenire le truffe: Tecniche per identificare tentativi di phishing e truffe online, sottolineando la necessità di una cultura della sicurezza tra gli utenti.
+- Privacy e protezione dei dati: Riflessione sull'importanza di gestire la propria privacy online, considerando la proliferazione di dati personali su piattaforme digitali.
+- Collaborazione e networking: Importanza di fare rete tra professionisti dell'OSINT e della sicurezza informatica per condividere conoscenze e best practices.
+- Educazione e formazione continua: Necessità di aggiornamenti costanti nel campo della sicurezza informatica e dell'OSINT, per rimanere al passo con le nuove minacce e tecnologie.

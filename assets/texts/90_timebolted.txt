@@ -1,0 +1,881 @@
+bmw r milleduecento connessioni quindi quanti atomi rivelati si richiamano antichi
+la festa dei tic tic bruciati la venti minuti dopodichè in tempo
+musica
+importante
+va bene
+venti
+ma diventando veri
+una conversione
+fatto scrivere uno sport molto semplice
+troppo fare
+dopo un po' più avanti
+dopo il sisma
+codice prati
+dovrei arrivare
+costruire casa sua
+ci sto
+uomo moda
+mettiamoci cinque
+imprenditore
+tempi di attesa infine raccontiamo il nostro sussurro
+io mi ricordo chi è che diceva che se
+l'immagine
+è il modo in cui corriamo lo spazio la musica il modo in cui decoriamo il libro dei sogni spezzati ogni pacco a un indirizzo di powder è una storia da raccontare
+perché
+impegnato con circuiti
+anche io
+bene
+siti
+telegram
+quella cattedrale
+chiamano
+del danno ma quello che doveva essere l'alternativa
+diventato maggiorenne di memoria andati
+viviamo il presente ricordiamo il passato prevediamo il futuro artefice schiavi dell'algoritmo del tempo
+villa codice pin
+sentieri sogni di mondi virtuali e reali l'anno stalle che sia principalmente di noi non ogni device
+digitale tifosi ma niente
+di
+italia
+visto
+scomparsi
+come
+la propria realtà vera la verità vera è che so due ore e mezza che parla modena cosa e najem risorto un cazzo
+però questa sia proprio adesso e qui
+e quindi e quindi e quindi e quindi siamo arrivati alla puntata novanta da brigate degli estinti si parla di open source intelligence con nientemeno che mirco api e maurizio siracusa e mi chiedo subito di introdurvi così
+andiamo dritti al sodo
+ciao alessandro ciao maurizio
+che dire
+sono mi occupo
+duemilaventi di open source intelligence
+sicurezza delle informazioni in particolare pensiero critico applicato ai processi decisionali dal duemilaventi perché perché prima è
+applicata nelle forze armate ha trascorso circa ventisette anni nella mia vita e puntuale
+forze armate italiane
+paracadutisti e poi nell'ambito dell'intelligence militare del duemilaventi ho deciso di
+di cambiare professione
+cercare insomma nuovi nuovi stimoli e va da sé che insomma
+mi sono mi sono
+agganciava quello che un pochino
+la gestione l'analisi e la comprensione
+i processi informativi e ovviamente in tutto ciò che poteva essere open source per cui da lì io son partito
+sviluppare prevalentemente formazione negli ultimi anni della mia vita professionale mi ero specializzato in particolare in quel settore
+e poi da cosa nasce cosa insomma son venute insomma tutta un'altra serie di situazioni tra cui in italia dall'associazione di promozione sociale
+piacere di presiedere
+la fondazione di utilizzare arch
+susy intelligence finalità prevalentemente sociali e sociali solidali e concludo dicendo che in qualche modo sono un po' un intruso
+ovviamente non non non nascono l'ambito l'ambito di chi è
+le mani sia da studiare un cugino ma non ho assolutamente la presunzione di poter dire di potermi considerare è esperto in questo ambito ho però la fortuna di avere a disposizione un network importante di professionisti e quindi sapere dove puoi andare a rivolgere e
+le domande e sapere dove andare a rintracciare le risposte
+benissimo allora io sento un qualche bocchino di fondo non so se questo come al solito che fa casino o oh
+permise al mese
+adesso
+ancora se
+ci vivo e in ottica open source e comuni l'intelligence comunque lavorando in campo la sicurezza è sicuramente pratichi costantemente no
+quando
+il esatto quando comunque quando quando capita quando serve prediligo usare questa questa modalità appunto da sempre tutto ciò che è open source aiuta e quindi può essere una strada da usare io a differenza di mirco sono venti anni che scappa dalle forze dell'ordine
+invece invece
+sarò anche grazie a losing no comunque è sempre stato un modo per collaborare per averlo in qualche modo tenere viva anche questa branca diciamo di open source
+secondo me è importante cioè come qualsiasi aspetto dell'informatica nei vari campi nei vari anni quindi punto si comincia non è il mio focus principale lo faccio soprattutto per passione proprio per la per tenersi aggiornati e per tenersi anche informati e comunque poter avere
+a disposizione una serie di informazioni che da un lato sono anche utili a volte collaborando quando ci sono casi poco poco simpatici e dall'altro anche perché serve anche e soprattutto magari con il discorso del bullismo e dell'associazione comunque per dimostrare ma anche alle persone nell'azienda molte
+alte
+l'approccio che devono avere per esempio ho cambiato molto il mio stesso corso che faccio nelle aziende ed è molto incentrato leggero sul discorso di osint ma in realtà del fatto che volenti o nolenti lasci briciole in giro e queste briciole comunque dicono molto più di te di quello che tu pensi che non è e poi ne
+parliamo scusa se ti interrompo maurizio alza un po' il volume del microfono tenerlo più vicino perchè si sente un po' bassino il tuo quindi non soltanto paesino quando gli altri parlano ma si sente anche il basso quando ho abbassato perché non ci fosse casino
+microfono va bene adesso si sente
+e allora da quasi profano esattamente per open source intelligence cosa s'intende per questo open source si riferisce a fonti disponibili liberamente o a metodologie open per la gestione per l'indagine delle informazioni abbiamo
+a dare qualche definizione un pochino più sexy e comincia io se vuoi maurizio
+e sia cerchiamo magari di contestualizzare un attimino proprio la disciplina perché poi parliamo di una vera e propria disciplina trae origine chiaramente dall'intelligence tradizionale che quindi viene in qualche modo praticata prevalentemente da quando l'uomo esiste sostanzialmente l'uomo ha la necessità non di dicono
+nascere quello che accade intorno a lui e per potersi evolvere a livello individuale a livello chiaramente sociali e organizzativi è chiaro che e si sviluppa poi prevalentemente nell'ambito militare le istituzioni e l'open source intelligence in particolare
+sebbene possiamo rintracciarne chiaramente dal punto di vista proprio e storico e episodi e molto lontani nel tempo diciamo che si struttura all'indomani della seconda guerra mondiale dove parliamo sostanzialmente in prevalenza di quella che viene considerata letter
+natura grigia quindi l'open source intelligence erano le riviste piuttosto che pubblicazioni letterarie piuttosto che accademia piuttosto che radio e televisione è chiaro che poi l'avvento di internet in qualche modo accelerato è creata una situazione completamente è differente nella
+ciao andrea
+buonasera buonasera briganti era arrivato
+di differente nella quale sostanzialmente abbiamo assistito a che cosa una trasformazione importante no perché perché quello che è fino a a qualche fino al primo punto dello sviluppo della delle delle tecnologie così come le conosciamo oggi era appannaggio
+è di pochi quindi di coloro che in qualche modo appunto praticavano questa disciplina prevalentemente in ambito ripeto istituzionale ma anche ma anche aziendale no basti pensare che un'azienda nel momento in cui decide di andare a delocalizzare le proprie attività e investire in qualsiasi posto nel mondo alla necessità di conoscere e
+quindi anche lì l'osint sicuramente diventa uno stime diventa sempre stato uno strumento importante però l'accelerazione vendi nella capacità la possibilità che tutti poi potessero però accedere a queste informazioni liberamente disponibili e accessibili ha determinato l'esplosione
+di più
+dell' osint così come lo vediamo oggi con proiezioni di mercato che parlano e più ce ne sono diverse insomma di stime però mediamente al duemilatrenta circa un mercato che è origine ci dovrebbero vigilare circa tre sessantacinque miliardi di donne a livello di realtà chi
+che fanno finta a livello aziendale per supportare i processi decisionali e c'è però da dire che quello che osservo io in maniera significativa e che c'è ci sono ancora moltissimi fraintendimenti e scusami tipo miei ci vuole tanto la tua voce va e viene
+citroën pochissimi che sono moltissimi fraintendimenti rispetto a fraintendimenti fraintendimenti rispetto al senti non sta la lagonegro smantellare la tua voce che un po traballante intanto si sente bene intanto sembra come se fosse un contatto sul filo del microfono che
+non del tutto o quasi successo ma quello era un'impressione intanto andrea mentre mirco si sistema che ci fai qui tu come cosa c'entri con l'open source intelligence francesco io come sai in realtà mi occupo di osint e in particolar modo sono in realtà mi occupo molto odiosi
+in ambito di anche di criptovalute
+ok e come tutti noi sappiamo sono anonime ma poi non troppo
+quindi per capire osint applicate le criptovalute e cercherà di capire chi hai portafogli a chi appartengono e city e allora diciamo io per il mio lavoro insieme anche a maurizio ci occupiamo di osint
+il classico osint a trecentosessanta gradi diverso per esempio dal c'è più legato a la parte di cyber sec come i servizi che vengono dati le aziende no e non tanto nelle investigazioni civili o penali
+è una parte di cui mi occupo invece io vengo da molti un po di anni diciamo in profondità nel mondo delle criptovalute è anche quella di fare osi interne il mondo delle criptovalute e quindi capire tramite le transazioni che sono avvenute qui dirà forensics delle cripto ma
+la blockchain è è open source
+è un'informazione persona
+e quindi diciamo l'osint nel mondo delle cripto che una cosa è molto sfiziosa molto
+è divertente da fare ecco
+scuola abbiamo piccola parentesi quanti sul portafoglio riconducibili a e il il fondatore ignoto a taksim e allora no ce ne sono ce ne sono alcuni non sono molti non sono molti ci sono alcuni che sono certa mente di lì
+satoshi sia esso una persona vera un collettivo di persone no hace anche questa ipotesi sì sì sì è molto forte in realtà quest'ipotesi chiamata satoshi nakamoto sia non sia una persona ma sia un insieme di persone ma il fatto che non si smuovono questi portafogli
+un sacco di tempo non possiedono grandi
+slogan è una grande domanda anche questi adattate in realtà il perchè non si muovono perché si situazione ha chiamato non esiste più perché le chiavi sono state perdute perché sono state distrutte volontariamente non lo sappiamo
+quando la vedo come ambiziosa e fantasiosa forse come sono andati distrutti volontariamente a kiryat e gustare un concept principale di di quello che ha sempre scritto nel forum sottolinea moto di come ha creato bticino cioè il fatto che in realtà la mancanza siano risata
+valore cioè oggi come oggi se ne andiamo a fare osint su i bitcoin
+ci rendiamo conto che in realtà non sono più quel totale che si trascina chamot avevo immaginato ma tantissimi bitch non esistono più c'è nel senso sono bruciati che non c'è più possibilità di averne talent non recuperare le chiavi per i portafogli ma una presunzione molto più alta di quella che chiudiamo
+percentualmente quanti sono i bitcoin apparentemente perduti rispetto al quantitativo giovane allora e non c'è un dato rispetto al generale in realtà perché stanno ancora ce si stanno ancora costruendo no comunque si parlava un po di tempo fa un po' di tempo fa e scozia
+è peggiorata fra il sette e il dieci per cento numero per età è chiusa parentesi criptovalute giusto per evan no no no ti ho chiesto io per voi ci sta benissimo e allora osint e all'atto pratico quando uno deve cercare allora poi maggio dipende da
+che tipo di informazioni deve cercare e
+e quindi a seconda il tipo di informazioni poi insomma ci sono diversi punti riferimento e diversi tipi di indagine che si fanno ma parliamo di persone mettiamo che io abbia bisogno voglia di te
+istigare intanto cosa c'è su me stesso online oppure su una persona perchè sono faccio un pen testa allora cerco di capire da soli l'amministratore di un'azienda che cosa che cos'ha fatto i esamina soprattutto questa serie di informazioni che uno può cercare che cosa faccio dove cerco è come quella
+approccio metodologico alla ricerca di informazioni
+alessandra rimettiamo premettiamo che non ci siamo messi d'accordo però nove e prima e quindi la domanda però arriva arriva precisa e che è intanto possiamo non possiamo farlo questa è la prima cosa che ci troviamo a giusto possiamo non possiamo farlo perché
+che quando utilizziamo il termine investigare le parole hanno un senso sempre questo dobbiamo ricordarcelo così come tutte le azioni che mai e poi andiamo andiamo a compiere e in italia noi abbiamo l'articolo centotrentaquattro del testo unico di pubblica sicurezza tulps che è molto chiave
+dice che può svolgere attività di ricerca informativa qui dipende appunto andare a fare questo tipo di attività e per conto terzi esclusivamente chi è provvisto che è a sè visto rilasciare la l'autorizzazione del prefetto mi ha è munito di licenza per le investigazioni private
+o per le investigazioni commerciali quindi è però dico che è oltretutto stanno stanno rilasciando sempre meno unico caso che viola queste situazioni ma lo dico solo per per fare il polemico correggimi aeree dove si defila sciocchezze e nell'ambito delle investigazioni difensive sì ma anche l
+anche lì e nell'ambito delle investigazioni difensive
+l'avvocato può svolgere le potrebbe svolgere autonomamente o che ho può avvalersi comunque sia di e di soggetti che hanno e le opportune competenze ma per svolgere però l'attività di investigazioni dovrebbe sempre rivolgere
+rivolgersi comunque sia all'investigatore privato e questo è un aspetto molto importante innanzitutto perché come dici tu
+jubilee e carne stanno rilasciando sempre meno io questo non lo so non ho ai dati però posso dire sicuramente che il parliamo di norme che che ormai possiamo considerare su cui bisognerebbe ritornare per un aggiornamento perché perché è fotografano una
+situazione che è diversa da quella attuale è una situazione né diversa dell'attuale vuol dire che oggi chiunque può appunto aprire il proprio computer e decidere autonomamente di andare a investigare su quello che è perché perché google vi dà la possibilità inizialmente di avviare questo tipo di ricerca
+se inizio a smanettare un po' di più tutta una serie di strumenti che mi consentono di ottenere anche risultati performanti ma non posso farlo io proprio recentemente ho scritto un articolo su questo e in riferimento all'open source intelligence legato alla legge due due uno quindi la responsabilità delle delle az
+aziende e le attività investigative per cercare di di di di avviare anche una riflessione in questo senso cioè non lo possiamo fare se io non posso svegliarmi domani mattina e decidere di andare a ricercare informazioni su alessandro su maurizio o su pepe semplicemente perché mi va che conobbi l'abbiamo fatto
+è chiaramente eravamo d'accordo quindi lui era d'accordo già autorizzato e perché perché ci abbiamo fatto una una una piccola challenge una siti aeffe insomma per cercare di andare a rintracciare informazioni su un personaggio misterioso e noi lo facciamo anche all'interno di osint italia
+svolgiamo questo tipo di attività per sensibilizzare rispetto alla protezione delle proprie informazioni ai nostri associati cioè quante informazioni come diceva maurizio prima no quante informazioni briciole di informazioni rilasciare online e quanto poi quindi queste informazioni possono essere acquisite da
+a chiunque decida di di aggredirci però muoversi autonomamente non è possibile lo stesso investigatore privato nel momento in cui ha un codice deontologico a cui deve fare riferimento decreto è oltre al tulps chiaramente allah allah e all'articolo centotrentaquattro
+decreto ministeriale ministero dell'interno due sei nove a will che che che indica comunque tratteggia e tutta una serie di comportamenti e di attenzione che devono essere utilizzate e non puoi investigare su chiunque se io e sono sposato ma se convive essi e mi chiedessi
+la lapide segretario privato per dirgli che deve andare a raccogliere informazioni forma la mia convivente se per per per sto stressando il ragionamento non potrebbe neanche fare perchè non c'è un vincolo giuridico quindi capite quanto poi quelli là la mancata conoscenza di questa enorme ci esponga al rischio di commettere reati
+è anche importante allora giusto per capire i singoli casi io su me stesso posso investigare immagino il permesso di magia e quello lo posso fare io su andrea o chiunque altro chi mi dà esplicitamente il permesso posso farlo anche se non sono un business
+ovviamente di olio manlevati esatto io julio manlevati completamente nei confronti rischiando in proprio richiamo nei confronti di qualsiasi cosa potesse essere uscita durante questa citylife e però e io gli ho detto andate tranquilli
+nonostante tranquillo in maniera scritta andate tranquilli operate sereni e fate quello che dovete fare se no poi stirate andiamo avanti con i casi io che voi indica a indagare su maurizio maurizio nominato il permesso ma io per sfizio lo faccio non si può assolutamente
+immagino poi bisogna capire quanto è il livello di indagare perché insomma cercare se già a cercare su google maurizio siracusa è un una forma d'indagine hai voglia sabor no no no è oggi
+night stalking
+che in quello comunque venezuela sono esclamazioni che tendenzialmente sono pubbliche se io so che sono pubbliche e mi sta bene che sono pubbliche come diceva prima andrea c'è lui sapeva nel contesto quello che c'era come io so quello che c'è e quindi so che se esce potenzialmente quelle sono informazioni se però inizia a fare correlazione da un numero di telefono da
+nick da una mela vedere cosa esce allora esistono due principi ci salva i principi che io cerco di trasmettere sempre il fatto che le informazioni siano accessibili il primo e non significa che siano acquisibili questo è il primo aspetto quello secondo aspetto è che il fine
+beh non giustifica mai i mezzi cioè non è che se io son mosso a maurizio si occupa di cyber bullismo anche noi con centinaia cerchiamo di sensibilizzare re che se io voglio in qualche modo contrastare il male sono autorizzato a fare qualsiasi cosa che devo sempre muovermi all'interno delle
+enorme che purtroppo l'enorme molto spesso pongono più divieti non pongono più divieti pongono dei divieti che che che che non conosciamo in questo momento in cui ci muoviamo all'interno di questo ambito
+venendo più al vostro mondo di quel posto di merda io mi sento permettermi virgo su
+una precisazione per chi ci ascolta che in realtà se qualora io mi volesse assumere la responsabilità di fare questa operazione sapendo che vi è un reato perseguibile d'ufficio lo posso fare se vuoi sì su chiunque se pensi che qualcuno possa che ne sai se un pedofilo dici io
+analogamente rischio però ammetto a rischio ma mette a rischio me stesso e cioè è una tua scelta
+c'è quindi
+hai scelto un reato perseguibile d'ufficio prevede che il cittadino possa intervenire qualora avvenga in qualsiasi cittadino senza alcun permesso cioè tu vedi la vecchina che viene scippata tu puoi intervenire sotto la tua responsabilità cioè fai male allo scippatore
+e viene arrestato a causa di questo hotel e nei suoi seguiti fa causa tu risponderai nelle sedi competenti ma il reato è perseguibile d'ufficio di conseguenza io sono essendo in fragranza essendo presente sono tenuto a intervenire
+accesso per la valentina non l'opposto decidere di intervenire hai fatto
+bell'esempio
+su cui possiamo ragionare perché è proprio nel concetto di fragranza lo mettiamo che io io io vivo in un quartiere ora sono in un posto nel mondo e vivo in un quartiere in cui c'è vero ho percepito un alto tasso di criminalità perché la notte insomma ci sono tutta una serie di furti e
+decido autonomamente quindi di andare a improvvisare delle ronde o piuttosto di andare a verifica di andare a verificare no di andare a verificare le vulnerabilità delle case degli appartamenti e quindi prova ad introdurmi per vedere se
+gli appartamenti sono più o meno sicuri ovviamente ovviamente questo non questo non lo posso non lo posso fare no se lo caliamo nel digitale il concetto di fragranza è molto più complesso perché sono lino io non posso entrare in una chat perchè so e so sapendo che magari quella
+cathy è una chiatta all'interno della quale ci sono è estremizzata no no un posto che qualsiasi altro tipo di rimaniamo sulla pedopornografia che è l'esempio più calzante perché è un piccolo fabio aliese cioè non ci posso andare
+per questo amico è irrequieto parallelamente no cioè volevo dire cioè volevo arrivare a questo amico è un posto esempi di nancy tecnico cioè i ragazzi che subiscono questo tipo di adescamento e accompagnati da un adulto nel momento in cui tutto ciò sta bene
+nintendo vi è diciamo
+nessun tipo di problema nel fare delle analisi osint per cercare di capire chi in quel momento ed in fragranza di reato che non vuol dire sto cercano di capire se le case sono educabili cioè se possa entrare nella casa di uno o fatto organizzate delle ronde contro dei potenziali dei potenziali ladri ma è la fra
+vacanza di reato mi permette a goku attenzione lo dico per chi ci ascolta mi permette come cittadino
+con commisurato effort di svolgere delle attività che vuol dire che ovviamente non è che il fermo il rapinatore per il ad esempio perché è più semplice secondo me no del rapinatore con la vecchietta è che la la vecchietta io me la borsetta e gli spara due colpi di pistola e
+ho fatto bene lo posso fermare mettere in sicurezza la vecchietta chiamare le forze dell'ordine e bloccato la stessa cosa la possiamo trasporre al mondo digitale fortunatamente secondo me
+ma altro esempio di scenario l'azienda di andrea mi mi ingaggia per fare il pen test
+e fra i dipendenti azienda c'è maurizio e io da bravo pen tester so che maurizio gestisce i sistemi questa azienda e quindi indago posso anche se non sono iscritto all'albo degli investigatori molto edward l'anima
+dipende dipende cosa c'è scritto sulla manleva perché tecnicamente se tu scrivi io tutte vale perché io devo fare uno scenario reale quindi mi devo mettere nel
+nella posizione in cui un attaccante di studio i tuoi elementi chiave e in qualche modo sfrutta le debolezze ma glielo scrive nero su bianco la malleva la scrive andrea per controllo perché poi si eredita ce nessuno poi maurizio mi farà causa e a ushuaia
+io andrò da lui in qualità di
+titolare dico perche i tuoi permesso sta roba e allora poi lo dice
+ci sono stata sei finalità in realtà è tutta una ereditarietà no perché comunque immagino che attività di intelligence e su qualsiasi attività di testing è una cosa così facile è la base la base di eroina
+lavoro però anche il datore di lavoro ha dei vincoli sui dipendenti quindi non può fare tutto c'è intanto lo statuto dei lavoratori per cui non porge ad esempio
+acquisire determinate tipologie di informazioni che riguardano le opinioni la religione le opinioni politiche non sono un artigiano tuttofare nella fila di tegole nella posizione no nell'acquisizione no però tu puoi tu nei momenti fa in attività di p t puoi entrare in contatto con informazioni e protette
+agi di pierre
+riguardo il lavoratore ad esempio mi è capitato tante volte di finire in
+oggi mi permettevano di leggere le cartelle cliniche del personale emma finisce lì c'è comunque sono dati che non riporti non li ha origine la biologia e la bollita lo segnalo la proprietà di leggere i trovarti in un luogo in cui c'erano le cartelle cliniche esatto non legge n
+vi sono solo manlevato se mai il mio report che dice sono entrato nelle cartelle cliniche e note sebbene un lavoratore questo lavoratore volesse farmi causa io tiro fuori la di gioco il jolly della manleva e sarà problemi del datore di lavoro se gestirà lui la causa col suo dipendente non io
+è bene allora abbiamo ripetuto nella tua area le informazioni unicamente rispetto a quello che che che
+che che allo scopo chiaramente no anche nell'ambito proprio il garante si è espresso proprio l'anno scorso anche per quanto riguarda i processi di assunzione del personale perché chiaramente tuttavia nel mondo svolgono anche questo tipo odia gli avidi verifica di e dei curricula
+ai candidati è chiara niente anche dei profili social
+un conto è un profilo social professionale come linkedin quindi l'acquisizione di informazioni che riguardano esclusivamente il il profilo professionale altro è andare a appunto indagare alla serie di situazioni che riguardano e la vita privata del soggetto
+che bisogna assumere o del dipendente mi rivedo yoga mirco visto tanti a jerry che si avvalgono di investigatori privati con licenza
+non c'è un feeling scopare vincolo giuridico che sia libero zen poi è chiaro che un altro discorso io parlavo delle assunzioni no altro discorso e la fedeltà o l'infedeltà del dipendente tutta un'altra serie di e di fattispecie no che non possiamo chiaramente analizzare qui per ragioni di tempo però il messaggio è
+bisogna muoversi con con le dovute conoscenze con la dovuta attenzione perché è un campo estremamente minato io ne vedo tantissimi tantissimi tantissime persone che che si muovono in maniera estremamente bridge
+spregiudicata noe e non si può fare io non ero perplesso li ci sono breach me li vado ad acquisire me porto in house poi magari decido anche di andare a di di trarne magari anche un tornaconto economico perché troppe persone e anche professioni troppe persone e anche
+i professionisti ci fosse il ragazzino forse il ragazzino che si avvicina a questo mondo no diceva vero e ti tirano le orecchie per la prima volta e vedrai che la prossima volta non lo fai più e un po' di curiosità e va bene e poi un'altra precisazione importante non confondere c'è l'open source intelligence
+z con attività che per loro stessa natura sono illegali non hanno nulla a che vedere con loghi ed è chiaro che è
+ci sono ci sono confini sicuramente molto sottili però poi nella nella narrativa no che magari esce
+visto che ho tutto viene considerato osint c'è anche questo misunderstanding e non dev'essere deve essere chiaramente evitato quando parliamo di oggi parliamo di informazioni che sono pubblicamente accessibili seppur chiaramente con differenti tipologie di accesso perché io non parliamo di fonti esclusivamente grado
+white ad esempio potrei dover pagare un abbonamento una tantum annuale per accedere a una banca dati o potrei dover utilizzare un protocollo differente da quello tradizionale se devo accedere al dark web ad esempio sicuramente non facciamo riferimento a nessun tipo di informazione che è protetta da classifiche
+di sicurezza quindi è quello che per convenzione vengono definite e riservato riservatissimo segreto e via discorrendo è piuttosto che acquisire in maniera illegale e clandestina occulte quindi
+e quando parlo di metodologia parlo di un processo che dev'essere posso posso in essere per svolgere questa attività nel migliore dei modi essi mi permette di dire diciamo che l'ottanta per cento di queste fonti di informazioni che si pagano sono perché sono degli aggregatori che hanno indicizzato molto bene delle informazioni che potresti trovare in altro modo
+poi vi è una piccola parte invece che si paga per accedere alle informazioni a cui non potresti facilmente accedere e tu stai pagando delle persone che sono riuscite a correlare in maniera efficace queste informazioni la dati in un database non lo dico
+è la stessa cosa che dite tu e però tradizione hai fatto benissimo perché poi ho molto spesso c'è anche quando magari mi capita di james bond e insegnare all'università questa disciplina e ai ragazzi spiego intanto i in imparate realmente gli operatori di ricerca avanzata che vi offrono quelli un vantaggio
+gio competitivo importante poi dopo nel momento in cui imparerete ulteriormente ha dato a automatizzarli sarà ancora sarà ancora meglio però gli aggregatori parzialmente poi poi fanno fanno questo effettivamente problema principale che noi importiamo questa l'osint in particolare lo dia
+a livello a livello sa perché
+può essere declinato in molteplici dimensioni no quindi ormai lo usano un po' è appannaggio un pò di tutti o che
+però lo portiamo al livello di sicurezza informatica anche a livello cyber principalmente dal mondo anglosassone è una precisazione ulteriore che va fatta è che un mondo parallelo un mondo parallelo perché a loro piace sostanzialmente dico a loro cioè leggi di kara ha un peso sicuramente diverso se noi dobbiamo
+andare a educare un soggetto una persona o negli stati uniti le possibilità di acquisire informazioni sono esponenzialmente molto maggiori rispetto a quelle che possiamo avere e se dobbiamo ricercare informazioni su un soggetto europeo nonché un frigo classe a dio
+anche se mi permetto e c'è questa magica cosa io vengo ultimamente lavoro molto ultimamente quello po' di anni lavorato molto nel mondo della finanza no se questa magica cosa che si chiama email c'è l'anti manuela working che dove fondamentalmente con
+enrico il circolo l'unica cosa bella è che faremo noi ai centododici ragazzacci può
+non amano ed gpl volga
+oggetti che un cazzo di pierre noi si va avanti tranquilli senza nessun problema c'è l'email è una delle poche cose in europa brillanti man l'handling dell'antiriciclaggio che può violare inviare senza nessun problema non sta violando la legge e tu quando fai un'operazione e lo dicevo tornando su disco
+orso delle criptovalute di cui parlavamo prima quando invase le operazioni di osint in ambito di criptovalute io posso violare qualsiasi c'è non c'è nessun problema sul fatto che uno stia violando il dpcm poiché terribile rugby rho e per chi fa questo mestiere terribile
+alla eagle
+al liceo un concetto che è quello del legittimo interesse non è rivelata esattamente aderire a zanolin scatenanti abolisca mi resta prevalente però anche lì bisogna comunque poi muoversi con attenzione perché non è propriamente così
+è vero quello è vero quello che dici ma perché poi è quasi fisiologico perché nel momento in cui ricadono in capo a determinati soggetti tutta una serie di responsabilità e ne hai parlato della man va a fare lo stesso con con con l'antiriciclaggio chiaramente e evidente
+è evidente no che che c'è la necessità comunque sia di riuscire a svolgere quel tipo di di attività e suoi confini ripeto estremamente sottili e per questo è fondamentale che poi che tutti i processi all'interno di un'azienda siano in grado di parlarsi dialogare
+ma soprattutto di conoscere no queste queste queste situazioni e il file letterario garantito l'esca infatti
+nel frattempo non so se mi sentite meglio o no bene bene abbastanza bene ti vediamo penso ma ci sentiamo meglio ma io mi vedo bene qui non lo so come mai mano è un po'
+va e viene con noi
+propizia loso ma ti simpatizza lo sì adesso sì allora è
+un po' di domande allora questa cosa degli
+the permesso di poter accedere ai dati delle persone ma neanche per aziende o dati di altra natura che non sono legati specificatamente a persone o entità oppure su quello non c'è il problema di investigatore e permessi tutte questi vincoli legali diciamo
+non so alessandro venne esempio perché non non so voglio indagare è un'azienda vale quanto ci siamo detti per le persone oppure no
+ala
+in quel caso come dicevo come ti dicevo prima c'è
+son due tipi di autorizzazioni noi abbiamo in italia quindi c'è poi la licenza per le investigazioni private
+beh scusa la licenza delle investigazioni private e poi la licenza per le informazioni commerciali nonché che più orientata chiaramente alla valutazione del rischio di natura creditizia nonché i altro aspetto è tutto quello che riguarda il concetto di giù di jazz quindi di analisi
+devono svolgere per la verifica ad esempio delle controparti no è chiaro quindi c'è una responsabilità che cade in capo all'azienda e che quindi ha la necessità di conoscere
+per cui li il discorso è completamente a mio avviso poi ripeto è per quella che è la mia opinione è completamente differente no e diciamo che i vincoli principali derivano
+per quella che è la mia la mia opinione dai vincoli che son posti dal in parte perché perché è chiaro che quando pensiamo al loft quando parliamo di informazioni reperibili da fonti aperte è il problema principale sono le informazioni che che le persone si lasciano rilasciano spesso
+anche in maniera inconsapevole
+in rete è alla mercé di chiunque e quindi è evidente che è lì che bisogna porre la massima attenzione e de ligt si rischia di cadere in errore perché perché se io apro ho un profilo facebook
+e sul mio profilo facebook che è anche aperto e decido di postare tutta una serie di informazioni che questo non autorizza ripeto chiunque poi a poterle in qualche modo raccogliere ed è una cosa estremamente semplice perché per chiunque quindi è li il problema probabilmente principali per quanto
+le aziende ripeto c'è la necessità le aziende hanno necessità di conoscere e le loro controparti tutti gli stakeholders chi opera all'interno delle proprie supply chain hanno anche delle responsabilità e in questo senso e quindi l'attività probabilmente si presta meno alla possibile commissione
+di di reati che ripeto sono svariati e dall'esercizio abusivo della professione di investigatore privato piuttosto di accesso abusivo a sistema informatico piuttosto che è violazione appunto del del kgb tipi are ricettazione e sostituzione di persona e ce ne sono diversi e quando parlo di sostituzione di persona
+faccio riferimento al fatto che nel momento in cui facciamo oggi integralmente innanzitutto come tutte le cose orribili la folla la nostra preoccupazione principale deve essere la nostra sicurezza come se andassimo se fossimo nel nel mondo fisico nostra sicurezza vuol dire e creare tutto un ecosistema che ci consente di operare
+meglio e soprattutto di andare poi a rendere quanto più possibile oggettiva la nostra attività di ricerca e formativa nella misura in cui è chiaro che tutto quello che facciamo lascia delle tracce quindi contaminano in qualche modo il nostro processo informativo will la necessità è quella di renderlo quanto più
+possibili asettico e per ogni per ogni attività che andiamo che andiamo che andiamo a svolgere e anche lì poi si pongono tutta un'altra serie di problematiche nella creazione per esempio dei profili nonché nel fatto che non dobbiamo interagire fare osint open source intelligence
+vuol dire svolgere attività di ricerca esclusivamente passiva
+diverso è avere poi tutta una serie di autorizzazioni che quindi mi consentono di interagire un'interazione che cos'è un contesto di fishing è che io mando una mail sto interagendo e perché perché richiedono costi eh sì cioè io interagiscono immaginato
+se invece parliamo di ambiente facciamo esclusivamente riferimento alla ricerca di natura passiva che vuol dire commettere neanche un like the rubare loro
+provate i dati di accesso che uno dei corleone le cose ho trovato queste credenziali viviamo se sono ancora valide perché io se posso permettermi mirror
+volevo aggiungere alcuna cosa no per chi
+faq attività
+e poiché è molto affascinante non è facile lui molto spesso i ragazzi ci si avvicinano facilmente i ragazzi e passatemi il termine
+non è nu
+vuole essere e in poi junior si lanciano slogan perché è bello dà grandi soddisfazioni grandi gradi e di raccolta di informazioni vere per poter dare al cliente eccetera eccetera ecco una cosa che secondo me è fondamentale anche se uno fa filmare buona manleva avere una buona
+ripetono e commerciale la mia cosa ma avere una buona assicurazione professionale cioè non operate mai mai sotto al milione di euro di assicurazione professionale in alcuni casi è meglio milione e mezzo due perché non sai mai cosa comunque
+anche manlevati quindi grande attenzione c'è neanche
+non mi permetto perché è
+io vedo tante molti corsi che arrivano qui in italia arrivano dagli stati uniti e virgo
+analogica logica loro che puoi e porte aperte alla of art
+walk of fame che dobbiamo fare è non c'è problema sembra una buona assicurazione se volete farlo di mestiere sempre una buona assicurazione professionale o appunto
+affidatevi erano fatte per conto di chi ha la licenza almeno sei tutela se vuoi fare proprio quello antico musica alla radio di qualcuno
+so che qui qui qui qui c'è un altro tema che poi invece riguarda proprio le aziende no perché è anche responsabilità delle aziende nel momento in cui non si affidano ad esempio anche se si affidano al consulente no ma nel momento in cui poi magari hanno dei team interni comunque è responsabilità dell'azienda che il team sappia come
+deve operare o che è quindi quando parlavo quando dicevo quando dico il fine non giustifica i mezzi io lo so che poi magari impopolare però mi riferisco al fatto che non è che perchè io devo difendere l'azienda sono autorizzato a ad andare magari a ricercare ovunque da
+tabriz che guardano orari ma anche altri importare i dati
+aggiunto budget per ricercare per andare a ricercare ci sono tutta una serie di situazioni che posso anche fare ma il suggerimento è quello di parlare quantomeno con la parte legale
+è
+è un attimo perché da lì al dossieraggio un attimo perché nacque perché i ragazzi dobbiamo ricordarci che la maggior parte delle volte in un'azienda e l'amministratore delegato che arriva diritti di farfa roba qui tu che sei il povero e chi è o burro devilman dell'azienda e di chip nella detta misure legate
+tonia che lo faccio con estrema attenzione e io tiravo fuori la questione dell'assicurazione puoi per dire che è e possono capitare addosso grandi danni grandi rogne la grande attenzione
+fu l'ho già detto un'altra cosa sacrosanta ma diviene l'amministratore delegato è qui e io dico sempre però che è giusto che lo dica l'amministratore delegato ma in che senso non voglio essere frainteso amministratore delegato e un generalista ok
+se noi siamo se noi cioè è il tecnico che deve fare metering no è il tecnico deve far presente quali sono i limiti e in questo caso lo può fare il tecnico cahill una persona competente nell'ambito e i t ma lo deve sapere anche lo devono sapere anche gli altri processi
+quali sono i sintomi e le altre funzioni le altre funzioni fondamentali dell'azienda però sempre viene questo e c'è nel senso alle volte un tecnico it si mette in pericolo per quello il discorso dell'assicurazione gesuiti il pericolo non sapendo che si sta mettendo in pericolo e questo è
+un'astrazione perché poi c'è dalla parte dall'altra parte dell'amministratore delegato che gli va beh ma tanto li trovi su internet è il primo che non si rende conto di questa cosa il tecnico it di turno dice ma ha dato un ordine del capo e in settimana scorsa settimana scorsa io ho litigato con un cliente multinazionale di fare ovviamente non potrà
+il nome perché l'amministratore delegato cioè voleva premi fedeltà aziendale capire se vi erano gli estremi o meno senza farmi dare un mandato da un avvocato per indagini interne live
+da sempre almeno indagini preventive cioè voleva andare sul ceppo potenzialmente stavano sul penale almeno dammi dammi indagini preventive e fanno notare l'avvocato vi ho fatto quello che vuoi
+però per dirvi uno chef e io ci ho messo un mese e mezzo prima di fare un acquisizione perché c'è l'amministratore delegato a testa bassa insomma io ti pago quello te ne frega fai prendi questi dati e portamelo
+e pure esterno cioè tu immagine su immagine dipendenti chi no interno che subisce una pressione del genere
+possiamo dire che intanto è bene è bene che se ne parli
+bene parlarne parlare
+e sì sicuramente perché appunto dicevamo prima diceva che ubi i ragazzi si lanciano addosso poi ci sono decine di tucker qualsiasi distro si lanciano ormai c'è la voce quindi iniziano a lanciare il tool di turno raccolgono dati su robe
+di questa cosa ovviamente facilita certo ma anche un liceo pensavo anche tutta la parte di google
+giusto per fare un gesto per fare un po' di tecnicismi che magari ci sta perché si ascoltano si fa sembrava troppo progressista c'è anche fare un dns transfer senza autorizzazione può essere un problema io conosco gente che si è messa nei casini
+qui
+a farsi farsi passare tutte le zone tramite diverse viennese transfer che uno dice ma me utilizzato tue fredde settanta settantenne senso ed è lasciato aperto tutti i diritti nei casini
+era la più distante dal mondo
+semplificando per esatta
+semplifichiamo per capire se tipo usare che ne so nis dns di turno per dire te lo metto lì perché almeno poi se ci sono problemi lo controllo perché holden è successo capitato che qualcuno dice ho dei problemi sul cellulare di ciò che una cosa è
+vediamo cosa succede i diritti su magari benessere
+dedicato in questo o in quel passaggio lì in realtà è sono informazioni sono informazioni profilazione e quindi è come estremamente borderline avevano poi usciremo dal seminato vi chiedo scusa un altro candidato magari anche per arrestarlo
+noi l'abbiamo spuntata una cosa che doveva essere fichissima in realtà è diventata subito però c'è anche margine bagan aeffe
+perché c'è un mondo insomma c'è un mondo dietro le minore i figli e al netto di tutte queste giuste precisazioni su chi può far cosa che diciamo che fino alle nove facciamo quelli legali poi dopo e poi
+il mondo è pieno di gente cattiva e la gente cattiva che se ne frega di tutte queste regole
+e dove attinge dove va che cosa fa e soprattutto quali sono le tracce come possiamo lasciare briciole che diceva prima maurizio chi possiamo lasciare in giro che possono essere mangiate seguite da questi malintenzionati beh poi è quello il problema vero o no e non le informazioni
+si può partire partiamo penso per gli utenti uno su tutti secondo me è un buon punto di partenza può essere sicuramente erwin pound perché comunque quello che dà quantomeno un'idea c'è non ti dice perché non da dati ma ti dà un'idea di quello che fanno in giro con una tua mail dove sono i tuoi account se ci sono se ci
+sono le passo quali informazioni sono e ovviamente lì non tiri fuori i dati di persone sai che ci sono è lei che ci fermiamo in modo del tutto del tutto legale sulla propria ricerca personale anche perché io su me stesso l'abbiamo letto
+google stesso realtà ti mette a disposizione un sito dove lui ti dice che cosa so di te cosa che cosa come ti ho profilato quali sono le tue abitudini tutto quello che ho costruito e chi sei tu per me senza che me l'hai detto
+quindi ma è quello del data breach med e condividi il link giusto per dire ci credo sembra che sia meads punto wall puntocom mai scusa mai ads google home è stata che verifico un attimo
+se non ricordo male perché lo trova
+perché c'è il servizio di data si chiama
+scaricati tutti i tuoi dati che google realtà questo vale anche per me up l'hotel maid eccolo qua ma eric interpreta ignoto zoom meet you gay quello management
+esatto lo metto nella chat
+allora è così condividiamo metti pure league e quello hanno trovato l'ho recuperato l'altro per recuperare i dati si chiama take out google com puntocom esami outing bravo
+quindi mai ad center cosa vogliamo condividerlo
+cose troppo private no no ce l'ho fatta io jean paul mynè offerta che prende il mio profilo che ci tutti
+allora li
+si usavano i miei gemelli health system
+sì allora questa è una cosa interessante perché è nata intanto che si apre è data da una spinta dell'unione europea che ha detto caro google car on metal cari tutti volete fare soldi volete guadagnare sulla profilazione degli utenti va bene ormai è un dato di fatto ma quantomeno
+meno data all'utente la possibilità di sapere che cosa voi sapete su di loro e che cosa usate per per profilarli per guadagnarli dando all'utente la possibilità di scegliere se essere profilati in un determinato campo o meno così che meno siamo tutti pari hanno fatto questo bellissimo sito non è grande
+sbuchiamo
+dette quattro venti però questo sito nasce proprio per quello tu dentro entri e shepard tuo si che poi il classico caso prevedere propri interessi sulla base o meno in teoria quello che sono i propri interessi sulla base dei quali ti mando negli anni questo è specifico per gli ads di google immagini
+ma questo prende tutto perché prende anche tutti i pixel di tracciamento tutti i cookies anche quelli di facebook e agli altri e nel senso dove vengono utilizzate comunque
+parte di google col tuo col tuo google drive come come tracciamento no però la cosa che le sterili e google
+esatto se tu vai nella gestione cipro perché però si sta e vuoi condividere lo schermo magari oh eccolo qua si arrivò
+condividiamo la scelta
+ce l'abbiamo fatta no non ce ne dovremmo anche qui vero che si suo paese né in basso
+rowan coi suoi tempi ok
+vedo bianco di un po' di vita il governo a lecce
+ah eccolo
+chiaramente qual di una parte di scelta degli annunci cioè tu dici voglio essere profilato per una determinata tipologia vittorio brand di tendenza e ti puoi fare la tua casa limitazione perché giustamente vi capita che ci sono utenti che dicono bebè ma sai che c'è mi fa anche cretino non piace mai comodo sapere che mi arrivano
+le coree che mi re start acea club the road facciamoci decorare
+raiplay paul la cosa interessante nella gestione della privacy qui dentro tu ovviamente questo è un account che non uso finto però lui comunque sa che sono un uomo la fascia di età greca le lingue che parlo ma se sei un utilizzatore abbastanza
+frequente di google tutti questi campi vengono alimentati malati e popolati
+beh quindi in qualche modo lui rosà la cosa bella è che vogliono essere tracciato posso spegnere
+riceverò pubblicità ma classica pubblicità generica quindi lo posso farti qualche parte quello che possiamo consigliare di fare ogni volta che si crea un account uber partenza
+esatto annunci personalizzati off quindi da qua se gli spegni
+kafka e puoi andare su android e dirgli di cambiare il codice randomico di tutti
+didi l'indicizzazione utente così a quel punto la denti
+tanto ben ritroveranno domani ciao domenico monaco domenicale ho aspettato alle ventidue
+a pretendere queste cose brutte figure dei grandi
+alessandro tornando alla tua domanda e quindi mettendosi dalla parte dei cattivi è chiaro che c'è una simmetria è che voi conoscete benissimo impressionante e le modalità per acquisire informazioni al netto di quello che abbiamo detto prima dieta
+bisogna prestare la massima attenzione non si può fare ma si scontrano tutti quei discorsi con la quantità infinita di strumenti che ci sono disponibili che invece consentono di acquisire ogni tipo di informazione inoltre allora chi se ne frega se ne può fare a meno che
+perché comunque le notifiche virgolette non hanno visto questo staremo ancora la rigorosa poniamo comunque sono comunque sono lì e comunque non siamo predisposti dico non siamo mi ci metto ovviamente anch'io e proprio per per per affrontare il periodo dal punto di vista biologico proprio il periodo in cui viviamo
+e siamo sovraccarichi di informazioni e abbiamo sempre meno tempo e facciamo tantissimi errori mediamente più tutti e quindi andiamo a rilasciare no comunque informazioni che poi possono essere sicuramente sicuramente utilizzate e kebab pound e se io vado vedo che il mio la mia
+mail eh eh è stata in qualche modo oggetto di un data-breach se lo monitora costantemente perché sono sensibili rispetto a questi temi magari cambia la password magari anche una doppia autenticazione quindi sto a posto se non lo faccio dall'altra parte la mentalità qual è se
+è stato oggetto di quel breach io sicuramente posso andare a cercare il data breach ma a prescindere dal data breach intanto vado sulla piattaforma perché magari anche sulla piattaforma trovo qualcosa di interessante e poi da quella mail e vado a scomporre la mail e magari o strumenti di bnl world mine mappa ma ce ne sono molti a
+altri che mi consentono di andare a ricercare lo user name con la scritta ne abbiamo
+di di di ancora ancora di più quindi le possibilità sono veramente infinite di acquisire di acquisire svezia proposito sciolse per dire bel cazzo gay è una delle no-profit delle organizzazioni insomma che a livello mondiale utilizza maggiormente l'open source intelligence più per tematiche
+due e firmate da missionari come lo skibus io mi ergo ti vedo bloccato e ti sento male però non so se gli altri conferma post work tabella abbiamo visto bloccata vi sentivamo un po' frammentato ci capiva però quello che dicevi un po' un po' frammentato e donatevi che non lo sentono la connessione viene
+che will open source
+open source
+loving memory attrice tutto più o meno vecchio nuovo sappiamo che li cataloga anello open source of the free world of work sicuramente prima che alessandro dal league
+il beh in un certo luogo l'incrocio perché stasera arriva all-in intanto una nota interna vi ho mandato su lasciate una una ricerca che ho fatto sul nome e cognome di alessandro mirco sulla chat di whatsapp mirco dagli un occhio anche ubi ce la possiamo
+usare lo guardo io volevo chiedere alessandro sì è possibile ma non lo so se è possibile tecnicamente edwin ti chiedo è possibile mettere un video di facebook censura pd
+uber
+dice a condividere eh no non condividere ma da far vedere perché c'è questo video che è vecchio di una persona che abbiamo conosciuto a degli hacker camp in europa al suicidio
+cosa c o a e al jacket large quindi sto parlando di quello di david
+sì è e lui l'abbiamo conosciuto al governo
+sono più amici cinque
+g wells c'è se se cerchi belgium
+magari perché ce lo spiega youtube e quello è stato commesso commissionato quel video da una banca belga no non dalla banca
+quello che ho fatto sono a blackwood dallo stato quello lì era pubblicità progresso ritrovati in quello del tendone
+cinque marzo ad oggi se vomito per togliere il video che lo una a e mostra il video e vediamo cosa salta fuori
+tantomeno utilizziamo almeno league così non se lo vuole se lo becca quello che mostra ormai ciao giovanni proprio lavoro dell'housing carinissimo lui lui poi è una persona simpaticissima anche il team di ragazzi più grandi di lui
+in gambissima
+maurizio buttano il fucile sottotitolato in italiano mi pareva proprio marcianò io sul mio canale youtube si mamma quanto dura ci mettiamo qua a fare
+due minuti due minuti e sarà due nudi rifiuti proprio lui di bue valore leggendo se non ricordo male io lo uso sempre sean sean anderson fatto security awareness e-mail
+curo la parte ingegneria sociale che per harvey ed è bellissimo e sono d'accordo web è bellissimo e lui è proprio set fatto un video di fatto bellissima beh se vogliamo condividiamolo se non parliamo di cosa stavo qui a commentare il video di terzi
+my open source in the edge
+allora intanto giusto robert ti dicevo di bellingcat è una
+una delle delle organizzazioni e per farvi capire perfino per far capire a voi già lo sapete ma far capire a chi ci segue e anche meno meno competenze rispetto questo appunto è la pagina con il nuovo tool kit che hanno predisposto e qui sostanze
+almente poi veniamo suddivisi per categorie
+le guide mappe e geolocalizzazione immagini social media persone e ognuna di queste questa tassonomia chiaramente si va qui è la prima con questo tool kit è un tour italy all'interno del quale fa fanno partecipare consentono la partecipazione
+zone e degli utenti quindi sono aggiornati e c'è una descrizione chiara completa e vedete che c'è una quantità di di di di strumenti già testati quindi chiaramente a disposizione che è impressionante per ricercare informazioni appunto qui sulle persone chi può ricercare
+queste informazioni perché poi è molto dettagliato paura ve lo prometto te lo metto in chat
+e questa è una delle possibilità di poter acquisire strumenti però come dico sempre io è nell'ambito dell'open source intelligence prioritario il mindset per gli strumenti vanno e vengono è uno strumento come quello che ho mostrato ora è disperso
+sivo perché non andremo mai a utilizzare tutti gli strumenti quindi quando parlo di mindset e soprattutto il processo metodologico intendo dire che a monte c'è il lavoro più oneroso cioè quello di andare a selezionare gli strumenti due tre massimo strumenti che consentono per ogni
+categoria di poter ottenere i risultati più i risultati più performanti ma quella la valutazione iniziale è quella che poi richiede maggior maggior te
+vengono scritte
+bene e allora messo il link twitter e
+domenico è
+emiliano cosa aggiungete alla parliamo di briciole che lascia in giro abbiamo detto a parte tutto quello che può venir fuori dai data league
+e vi siti bucati inquirenti sono i nostri dati quindi forse qualsiasi sito in cui mettiamo i nostri dati potenzialmente un sì sono informazioni che potrebbero essere in qualche modo rese disponibili in giro ma tu che anche scritto libri su come difendersi ah
+poi aggiunge qualche altro elemento per me
+innanzitutto
+il più grande pericolo siamo noi stessi
+c'è una cosa che io dico sempre quando faccio le conferenze di awareness dico che mi un vecchio saggio mi raccontò di un tempo in cui era possibile andare al ristorante mangiare senza fare la foto del cibo e postarla sui social che
+ebbene il paradosso in cui si amano per cui ci riempiamo la bocca di privacy facciamo attenzione dei nostri dati poi nessuno va a controllare le impostazioni di facebook su quello che rubi quindi poi
+tulip come questo ma
+chi parli io dieci anni fa
+usavo altri di tokyo smalti go per dire piuttosto che è comunque trovavi di tutto la decima come fai a scoprire queste cose prima mi è saltata la linea ma penso che parlasse di quel famoso video dove intervistavano le persone dicevano questa tua carta di credito questi sono i tuoi dati lesbo
+movimento sociale
+e è nessuno purché anche da quello
+ma perché non lo siamo noi che ci mettiamo in pericolo no
+ma lo facciamo sul web ma lo facciamo nella vita di tutti i giorni che pensa gli adesivi sulle macchine con tutti i nomi dei membri della famiglia
+tu hai idea di che cosa stai facendo vuol dire che io domani vado all'asilo prendo tua figlia ormai grande l'attuale sandro ma nel senso che mi dico guarda
+non ti conosco guarda che papà alessandro col cane pippo e misteri artista spot ci sta aspettando con la mamma
+si chiama antonio adesso mi avvicinato moglie scusa alessandro
+no è un po' dirtelo online davanti a tutta la diocesi operai capitolo voglio dire uno facendolo pensi che me lo ricordi davvero
+la edison
+e ti racconto una bella storia e ti capisco il figlio adesso sto chiaramente facendo un caso limite ma successo attualmente successo successo al limite
+per cui tutte quelle realtà che noi siamo qua parliamo cerchiamo di spiegare alle persone i pericoli ma forse dobbiamo partire dall'inizio cioè nel senso non è tanto che il mondo è pieno ci sono i league siamo noi che ci mettiamo un alano la berlina se vuoi no
+nel senso siamo noi che diamo tutti questi dati per cui poi si tratta solamente di avere tempo e voglia di cercarli in tanti casi però è chiaro che se vado a cercare
+fox trovo semplicemente i suoi tool sul contro il bullismo nel senso però non troverò cose particolari perché un intero arezzo
+si spera una carriera da pornoattore kennedy
+va bene chiama ora
+stavo caricando un'immagine si chiedono perché questo è di ieri
+allora eccola qua è un'immagine di un centro commerciale di ieri che mi lascia mi ha lasciato abbastanza allibito su questa cosa qui proprio perché parliamo dell'anno coerenza e della non capire eccola qua passarmela cappelli e connect
+riusciamo a condividerla sì ma prima provavo condividere ma non so se il video usciva a appunto si vedevano scrive che non ho condiviso perché sa parlare domenico
+la tessera da farli lavorare sotto il fuoco era era in sottofondo per lui
+allora ecco
+severa quest'immagine qua
+non so se ci fate caso quasi un simpatico
+bucare l'allarme un pochino a
+qui c'è un bellissimo provala gratis se questo è un distributore che ogni quindici giorni più o meno chamber orchestra in questo centro commerciale dove gratuitamente gratuitamente nel nostro nel loro concetto di gratuito tu colga non si vede qui va la gente in fila col proprio cellulare
+lui spara afflosciare un quercode e a una bottiglia in questo caso di te alla frutta artistico
+wow
+questa era la coda davanti alla macchinetta una volta ci sono questi una volta ti regalano patatine e una volta ti regalano c'è è sempre così questo è l'emblema come dicevi anche tu alessandro qui e anzi
+domenico è l'emblema è proprio questo perché magari la gente ti dice ah io non ti do la mia carta di credito e lo sappiamo perché sono roba non uso la mia carta però se ti devo dare cellulare email nome cognome e cap cosa vuoi che succeda guarda sport ma ad una lana ladd beige non uso
+il mio telefono per le mappe ha tra l'altro è vero
+non ti do il mio cellulare perché mi vuoi controllare qui vuoi controllare e allora però se mi dai una bottiglietta di te forse dovremmo dire di quello nelle aziende
+mettete dispenser libri di te' freddo usato
+se non paghi la merce se tu lo sappiamo tutti
+ma non ancora veramente la consapevolezza non esce e io lo vedo nel senso quando faccio i corsi in azienda e bim pound spiazzale per soci c'è proprio un cambio totale ed è emesso in un certo punto del corso perché da quel punto lì in poi le persone cambiano completamente capiscono che
+non stiamo parlando del regolamento del fatto che devi cambiarla password di tot se capiscono che sono merce e allora iniziano problemi
+se mi intrometto a gamba tesa vai
+io più che altro sono qui con delle domande percy jackson sono completamente all'oscuro della tematica
+per quello che cerco di di fare insomma nel mio ovviamente
+a tutto ciò che possono tutte quelle comunicazioni essere messe o telegram o whatsapp che non sono conosciute e comunque provengono da fonti sconosciute se ci sono dei link che ovviamente non cliccare mai insomma quello che sembra il minimo sindacale
+però mi chiedevo ogni volta che per esempio
+facciamo la login su un servizio qualunque tipo anche non so su film per esempio ed entriamo attraverso il nostro account google che rischi ci sono ovunque in quel caso per esempio tue autorizzare applicazioni esterne
+beh a al analytics diviene oggetto
+lì ti viene chiesto quali i dati vengono condivisi in quel caso lì in realtà quantomeno l'unica cosa che può al massimo andare in giro la tua mail perché comunque non sta impostando passo viene creata una sessione di autorizzazione quantomeno se non sei l'utente che usa la stessa password per tutti i siti se poi ti vanno a bucare quel sitarello di tokyo
+torno al massimo hanno non token che ha una durata o che tu puoi in qualsiasi momento far cadere perché il tuo profilo google sai quali sono i siti a cui autorizzato vai dentro gli oceani che sessione toglie l'autorizzazione previa autorizzazione il problema semmai che l'ha un account google
+questa è un ottima questa è un'ottima osservazione
+però ovviamente per quello che poi sono le comunicazioni enzo insomma più importanti uso la vecchia sono insolitamente
+e ovviamente laddove richiesta chiaramente però ecco per tutte le cose diciamo di uso quotidiano utilizzo l'account gmail insomma penso che poi
+è la domanda scusami emiliano
+esco un attimo dal danny losito ma fino a un certo punto hai mai letto l'eula di google news licence della tua auto
+gmail hai ragione è questo infatti era l'altra domanda
+capita troppo spesso di dire se io non accetto queste condizioni comunque il servizio non me lo fanno utilizzare e questo capita su molti servizi online quindi la la domanda è anche questo c'è molto spesso ci si ritrova non leggerli affatto esatto per esempio google nel particolare tu gli stai dando
+la licenza universale su tutto quello che transita ed è abbastanza divertente perché chi l'ha fatto è davvero un genio c'è tutta la mia stima perché un genio del male così è difficile trovarlo perchè lui dice che tutto quello che transita su google google può usare gli stai dando la licenza universale
+utilizzarlo quindi può farci quello che gli pare e loro dicono tendenzialmente lo faremo per migliorare google che vuol dire tutto in ordine niente ma serve springs
+esatto ma aggiunge
+che tu devi essere david deve far transitare solo cose di cui tu sei proprietario e quindi si è autorizzato a daniele licenza quindi fra l'altro se tu
+che ne so tu prendi il riesci a trovare il killer world del mio ultimo libro lo passi lo mandi a qualcuno via email google lo usano repubblica senza pagarmi le i quattro soldi che mi da casa editrice e io faccio causa a google google si rifà suite
+capisci che
+ok quindi mi devo riaprire l'account andrò da gmail de jean
+potrebbe essere una buona me la rambla walden
+oppure visto che siamo smanettoni nel senso che questa aveva condiviso tom tom one
+non uso google salvo proprio per le cose minimali ma ho esempi
+per tutto il resto il mio di ci sono cose di cinque anni fa l'ultimo deserto da qui
+io che ancora pubblicità di myspace mi escono it
+però visto che siamo postman lettoni vi condivido mio modo che odi di lavorare che per esempio ho un dominio a io tutta la mia posta ce l'ho sul mio mail server dal novantaquattro e è notte più attesa
+e come giochi amavi rousseff porcate varie che tanto probabilmente sembrerà sembrerà strano ma spamassassin tirato ha tirato fa il suo
+la mia mail personale che è ovunque mai foschia mai uno spot jorge che è aperta dal novantadue io ricevo quattro cinque metri spazio ed è ovunque c'erano problemi contabili filtri antivirus cosa usi il plasma va
+amadeus reclama
+una serie di passaggi e una serie di cose ma volta il grillo duemila
+fino al duemila e fino al duemila avevo le aree che qualsiasi messaggio che pesava più di cinquanta capo viene droppato quando non avevamo quando eravamo ancora col xd
+e poi perché adesso cosa faccio o una call su un altro dominio e a seconda di dove mi registro uso che ne so mi devo registrare su
+che ne so su su github farò la mail github chiocciola dominio ed è poi tutto gestito da lì perché poi una serie di regole e quant'altro stessa cosa almeno piace correre e privato sempre almeno privato
+nonché una bellissima macchina su via
+una bellissima che per tanti anni mi sono sempre fatto dormi un po' a mano adesso uso in realtà i red mail che una distro che c'è anche la versione community dove ti istallano già c'è su tutta la parte di posta spam e quant'altro
+l'interfaccia web di animale se vuoi se non ti fai tutte le configurazioni ma la macchina il suo fiacca anche da tanti anni satana ma tenete solo essere fatto ancora a mano ma perché sono pigro per rifare tutto
+no io è stato un momento in cui ho dovuto abbandonare centosette
+e allora nel rifarla ho detto va bè scusate la norma della cella l nell'ecosistema apple il premio tre lei è affidabile oppure l'intero ecosistema apple non è affidabile e basta
+ma loro tengono la tua privacy
+corfù fino a prova contraria hanno dimostrato più di una volta di non cedere salvo il casino della gran bretagna di adesso che di anno e gli hanno intimato di togliere la cifratura per il resto eppure abbiamo avuto casi specifici anche di omicidi in cui non non hanno mai molly
+naturium di un centimetro
+infatti l'eula che chiaramente ha eletto a parte che ti dice che non puoi farlo non puoi usare i suoi parati per le bombe atomiche per le armi chimiche
+non sto scherzando
+riscritto così che l'aula però in effetti ti dice che non utilizzerai che si impegnano ad usare i tuoi dati a lasciarti la privacy
+questo lo dice chiaramente
+fatima po' stranito siamo stati sempre comunque da ogni situazione delle banche contestualizzata e cosa devo fare e quindi c'è posso utilizzare un account google se devo fare osint ad esempio io spesso di sì assolutamente sì ne creo un
+ad hoc per svolgere appunto questo tipo di attività perché nel momento in cui lo creo magari questo mi consente di stabilire un trust maggiore con tutte le piattaforme e quindi di andare a creare anche degli account di lavoro sempre per un'attività esclusivamente passiva che
+siano considerati affidabili no da lì dalle piattaforme di social network per esempio e quindi questo solo per dire che
+dipende dalla tipologia di attività che di volta in volta bisogna svolgere
+scusate la domanda tecnica quando un'email viene inviata è un qualcosa che comunque rimane nei server mentre l'email viene consegnata ai vari indirizzi email destinatarie giusto
+quello che noi inviamo compresi gli allegati
+rimangono sui server cioè
+meglio alcuni probabilmente vengono cancellati perché magari hanno uno dei programmi che giriamo da fa il gioco che ogni tot di ore di transito nei campus di assegnazione in teoria sì sì
+allora quando transita alla se tu gli dici di salvare la mail chiaramente rimarrà nei duecento quando transita chiaramente sta nella coda quindi twain
+nello spool della mail c'è quando raggiunge il destinatario la pena anche se c'è l'anima ormai si usano tutti lì ma ma rimane sul server di destinazione o se c'è il oct tre cancella e calma io ipotizzo che emiliano dica giustamente c'è il suo dubbio sia
+ah sta utilizzando un servizio di antispam in cloud quindi la mia mela arriva loro e loro leggono decidono che è pulita e mi arriva me giusto emiliano peso peso uno dei design più era questo e l'altro era uso tre che cancella c'è quindi il mio protocollo con tre che dovrebbe cancellare dal tuo server di terze parti
+la mail ma poi in realtà
+e rimane l'attenzione cioè nel senso io tolgo questa feature e quindi rimane anche sul mio server ci posso fare quello che voglio
+sicuramente tutta una serie di sistemi antispam
+virtù che ripuliscono anche l'email hanno la necessità di mantenerli questi messaggi per un tot anche
+poi sia ai dieci giorni come vuole il garante o poi se sono fuori dall'italia l'ho fatto per più tempo ma questo è un dettaglio ma serve anche perché banalmente il sistemista che magari deve fare un debug e deve capire quella mail andava bloccato non andava bloccata deve poter vederla
+chiaro che non deve essere triste parlano di cose che non puoi non vengono fatte in modo arbitrario non dovrebbero essere fatte in modo che no sì però secondo me per rispondere emiliano dobbiamo dirgli che secondo me si si esige il servizio antispam in cloud e poi c'è il tuo server di posta personale la tua mail
+può essere letta da chi ti sta dando quei servizi servizio di staff novanta percento delle volte perché comunque la devono aprire devono organizzarla magari ci sono anche servizi che ti fanno pulizia la mandano pulita e ci tengono l'originale in alcolismo nessuno e diciamo
+tecnicamente può fermarli e a conservarla per sempre a prescindere dallo us terms of service
+buenos aires e mezzo poi c'è un re lei tutti quelli che fanno tutti i servizi che fanno sistema direi che ti tengono le borse e quant'altro quelli quindi jacuzzi
+alla tua domanda che scriverò io credo forse questa sì in realtà proprio in mezzo ma può rimanere tutto ser era in parte anche questo ma in parte anche a un altro diciamo ragionamento io mi preparo la mia email con il mio allegato che in teoria
+è una comunicazione riservata ucraine
+e se comunque io voglio mandare una comunicazione riservata che che abbia una sorta di certificazione in italia utilizziamo la pec e va bene che poi sarebbe anche da capire quanti ha senso questa cosa ma no no no aspetta aspetta l'articolo non va riservata di pace
+caratteristiche e contenuto non sia alterato ma non è cifrato contenuto in playing in transito è chiaro appunto quindi voglio dire non non c'è non c'è molto spesso le persone ma io lo dico facendo l'avvocato del diavolo perché magari alcune di queste cose le so altre di queste cose le chiedo per curiosità mia però in generale e
+molti confondono la pec con sicurezza quando non è questo il concetto la tour eiffel e questo è un primo discorso ma l'altro discorso e anche se comunque io non sono a conoscenza che i miei messaggi transitano in chiaro su tutte le email di questo mondo perché l'email transitano in chiaro a meno che non ci metti tu
+qualcosa dentro tim
+il discorso è
+se io faccio tutto il lavoro del mondo per mettermi in sicurezza il mio server mail la mia mail privata con il mio dominio e tutto quanto e poi i miei destinatari hanno un indirizzo email che cosa ho risolto
+anche gmail dalla possibilità di tip-tap libro
+tieni però
+a parte i principi base di gmail aggiungo anche che gmail cioè nel senso ora onestamente io sia gmail drive diecimila pagamento i toast sono molto diversi fra di loro
+certo l'olio dal demone e il suo il suo ruolo di demone però sono due cose completamente diverse e poi ce la prendiamo tanto con gmail ma ricordiamoci che microsoft non è così tanto santarellina anticipo
+shakira invasiva
+sorelline microsoft o nell'altro censurati e ci stanno
+e però è pratico di che nessuno è mai stato licenziato per aver comprato microsoft però
+al di là di questo e se voi guardate per esempio secondo me un protocollo che era nato in maniera magnifica che è il di kim
+no quante volte oggi ricevete mail call him e andate a leggere leader e mi dice fai clic del corpo della mail non è rispettato perché perché gli stronzi di antispam sotto ci mettono e questo messaggio è stato utile
+giusy zia gladys anti-spam e si possono dire queste parole e alessandro ferma anti-spam lo puoi più
+anche michael flynn
+admin di sparano laser di like i'm no e qui ti arriva e non sei più quindi però a quel punto giace hai già buttato nel cesso e di jim buttato nel cesso perché non sai più sei stato vietato alec the selection è corrotto perché è stata aggiunta quella stringa o perché è stato raggiunto una stringa ed è anche stata modificata altre
+nova
+e questo è un comportamento che per esempio fanno tutti i domini che sono su register
+perché ho diversi clienti che sono nate pacifico slayer e illustrator loro ci dicono email che non l'accetta e signori siete voi che lo modificate dovete dirmi dove
+molto grave è molto grave perché allora un protocollo che tutto sommato non era scemo come di jim e fa il suo come va andrà alla firma e tv va annullarti va a annullare il suo effetto
+trieste italy
+comunque per tornare al discorso di emiliano anche sul discorso mail anche se magari vi proteggo tanto e poi chi riceve se ne frega
+vale anche per arricchire un po' restare online assolutamente ma ha un numero di telefono e quel numero telefono va nelle rubriche dei suoi amici e con le rubriche sono dappertutto ausili non ci si scappa anche chi vuole a totale come dire io conosco gente che non hanno presenza sui social media non hanno cioè lì
+taci perché hanno il numero di telefono che però il braccio ma come telefono in rubrica mira è la mia rubrica i sacchi lo condivise ma tornando al osint alessandro tornando alla washington il data-breach di facebook di un po' di anni fa penso che sia l'esempio più lampante c'è la grande repubblica it
+esatto tentata di facebook associato un nome che non corrispondeva al mio c'era il mio numero di telefono perché perché lo sconto scusate fa parola
+di turno mi aveva nei suoi contatti ha schierato i suoi contatti colpì con facebook ed è uscito un eroe greco grande data breach quindi io sono noi siamo vittima anche dell'inconsapevolezza degli altri e da questo come ci si difende
+se poi il truck gallery i colleghi di turno che dice atavica tutta la tua rubrica di contatti online cosi nostri clienti c'è e stava a data breach di facebook che peraltro fino a qualche tempo fa era disponibile a chiunque nel senso era nel
+il dark web ma è insito arafat facebook e savannah era nell'aria era aperto e quindi chiunque poteva andarci ed acquisire quei dati ora mi sembra che non sia disponibile da da da un po' di tempo però quella è un caso studio particole interessante a mio avviso perché
+che lì è quello riguarda tutto il mondo e non riguarda solo ora al netto della password di da da da che nella pasqua di zuckenberg insomma
+quindi questo da la misura questo dà la misura di
+nella situazione la paura della penetrazione può essere
+è un caso studio emblematico no perché lì andando ad inserire poi anche semplicemente nella nella voce hobby qualsiasi tipo di occupazione potevamo mappare gran parte delle organizzazioni private piuttosto che istituzionali nel mondo e questi dati erano
+disponibili in pochino un pochino ovunque poi ci sono che cosa tutta un'altra serie di applicazioni che proprio con i numeri di telefono consentono magari andando ad inserire il numero di andare a trovare il soggetto ma perchè non perché quel soggetto ha esposto il suo numero perché appunto come diceva alessandro quel numero rappresenta all'interno di una rubrica
+ecco è chiaro che dal punto di vista investigativo o dei malintenzionati questo passaggio presenta tutta una serie di implicazioni perché poi dipende come come è stato memorizzato in rubrica hub andrea urbani oppure
+muscat
+sì di erbetta piuttosto che qualsiasi altra cosa che può andare a
+a a identificare comunque sia un pattern un comportamento un'azione qualsiasi di qualsiasi di qualsiasi natura in questi strumenti sono disponibili prese io mi loggo acquisti se io effettua il login e la registrazione a questi strumenti di cosa si cibano poi
+della mia rubrica ma anche lì bisogna muoversi con attenzione per lui andare sempre a operare con con
+punk the wise
+domanda questi siti che come il servizio ti vendono informazioni correlate anche basate su data-breach link quindi in teoria su fonti non legali possono farlo e no
+non sono i file
+esther nipoti quelli oleosi
+lo raccontano fa emma ti rispondono come ha risposto di sì ma lei siamo in cina effettuate
+la legislazione noi non potremmo confrontarli cioè nel senso duro possono pubblicarli online hanno tutto il diritto di farlo io ho un caro amico che scriveva virus e viveva in nuova zelanda e lui lo faceva di mestiere scriveva virus e lì non era illegale e all'epoca in cui lo faceva
+sue
+e si lo possono fare e sei tu che non puoi concessi tu credi la consapevolezza di non poterlo confrontare non possono farlo se hanno i loro sistemi in italia per esempio beh certo c'era no
+un dato sicuramente fuori dall'europa ma ma io sono arrivo
+ma vediamo in paradiso informatico william lo possiamo nominare intanto il più famoso scandalo o a scanso di equivoci c'è se la domanda che alessandro hai fatto
+no no capita correttamente si vendono dati provenienti dai data breach la risposta non è
+zippo no no si chiama
+no sono contrario questa cosa e se il mio narrazioni
+la spiego la terapia con almeno in italia no poi è chiaro che se la norma ed è qui che sulla casa purtroppo la problematica
+suicidi sapendo se tu la acquisti sapendo che quel i dati soffre
+sono attività e di gaza ma sei tu che di non essere responsabile di questa cosa non loro
+si chiama chiunque trae profitto acquista riceve o occulta articolo sei quattro otto del codice penale cioè non vale niente che non vale niente se io sono in burkina faso
+con i miei serve una cucina quasi il pubblico su internet se un cittadino italiano che devi sapere
+aree
+cioè senza andare tanto lontano cioè non è che prendiamo in the helix loro sono repubblica ceca si felice io prelevato blog
+le trame banchina faso
+se il discorso della dimensione geografica poi vale per tutto però allora c'è e come intervenire se un reato viene commesso
+voglio farti un esempio
+piano di una piattaforma social la nuova f-pace
+voglio fare un esempio una modificherà una xbox
+per farci girare i giochi che non sono certificati da microsoft
+e che però sono dell'angelo a casa
+no fatelo tranquillamente perché non è illegale in italia che sono degli andrew che ho scritto io gratis che rilascio con licenza open scusa in italia è legale negli stati uniti no perché non posso perché il tipo di contratto che ho prevede che io non posso modificare quel lardo
+che ho acquistato negli stati uniti cristo come se un reato nella modifica non il fatto di girare roba pirata quindi ogni stato e paese no è lo stesso all'informazione e trasposta internet e questa cosa è ancora più potente perché quella informazione è importante e questo è importante sensibilizzarlo nelle persone no non è illegale
+ale è assolutamente legale che ci siano data breach in giro scaricabili da tutti è illegale sede nel tuo stato di appartenenza e noi siamo italiani da lui è illegale lo fai è rimasto incollato adesso e va benone pound del buon the road e in australia
+e qui master
+non è la tua password ce lo chiedono a paso cominciato lui ci è stato dato presente e quale tipologia di dato ma non ti dà dati extra-ue
+gruppo religioso problema di utilizzare dei servizi a pagamento di osint non citerò ma ce ne sono parecchi in giro qual è il problema
+ti dico io dove lavoravo prima lo volevamo avevamo pensato proviamo a farlo abbia parlato con un legale dice sì fantastico se tu fai la ricerca e la ricerca perché ubi ti paga ti film da una malleva ti permette di fare mobbing
+usato puoi farlo non puoi tenerti league e quant'altro perché per il fiero di farlo
+basta quindi i fatti dove sono quelli diciamo quelli illegali famosi che poi la gente compra le aziende comprano sono magari in israele sono i posti dove gli è permesso farlo il che non permette a me e che non permette a me di di di leggere quel dato c'è
+questa è la cosa fondamentale no
+che poi quello che succede no perché comunque in assoluto se io vado a cercare i dati della mia azienda deve avere un regolamento che dice che posso farlo ma banalmente che quando fai senza andare su internet e poi quando succedono ci sono le cause sul lavoro se non c'è questo regolamento ho fatto come dio comanda non puoi neanche una f
+orense per vedere se hanno fatto qualcosa di illegale c'è chi ci odia
+stiamo prendendo solo quando entri nel mandato per indagini penali si suol penali però sai se uno dice mi hai rubato dei dati non posso farlo me lo chiedo no
+che a preventivo penale già tutto ciò che comporta e allora lo posso fare o se vi dico bravi un turco mi è capitato di molte aziende che arrivano all'azienda ci sono i tuoi dati online me li fai vedere e non posso per privacy però se compri tu te li faccio vedere
+ecco che
+è chiaro che se se se acquistiamo questi queste piattaforme
+stiamo in italia utilizzarle in cui stiamo in europa in generale per utilizzarle in europa
+burkina faso
+quindi magari
+entra più diverrà bello grande che ovunque no cioè
+stiamo sempre li acquistiamo qui
+e saprai a qualsiasi conferenza negli stati uniti sul login
+che dimostrano non impossibile poiché ce ne sono di tutti i tipi per qualsiasi tipo di attività analoghe lo sapete telefono
+a me è capitato una volta
+la domanda che faceva ma oggi ti piace compliance
+dove arrivano però strati e l'azienda non può non porsi questa domanda perchè se quei dati derivano da acquisizioni fraudolente di data breach o comunque da acquisizioni non legali lo deve sapere perché altrimenti si espone
+comunque sia a rischio di
+commettere dei reati di certo nemmeno che riguardano sicuramente il trattamento dei dati personali ma anche il fatto che quei dati sono stati acquisiti in maniera non lecita ma infatti è quello che ti dico con la consapevolezza deve venire da te dev'essere in neil yusuf
+vittore si
+dato l'argomento è autorizzato a farlo da dove proviene quel dato
+perché tanto o il racconto l'ha comprato lui comunque era in qualche tempo valutando in angola legge sei tu che riscrivere la legge accedendo a quel dato dentro di noi quello l'abbia comprato in un foro romano
+inside out rapidi
+e questo è chiaro
+da questo punto di vista no sì no per noi sì ma dico è importante che le persone che ti ascoltino considerano questo aspetto perché se no c'è l'azienda di turno che dice va beh ma io compongo faccio l'accesso perché voglio monitorare i miei dati uno potrebbe dire lo posso fare io azienda ma oltretutto l'ho trovato online pago e me lo danno
+quindi è legale no
+noi lo abbiamo avviato la consapevolezza per quello di oggi vagoni su un punto no
+ma scusate anche servizi di
+e coli
+per le aziende per indagare per sapere di altre aziende se sono a parte tutte le visure camerali credit check varie criticità tecniche e sente autorizzato ad alcuni limiti perché sono informazioni del credito e quindi io se devo interagire con te rigorosa
+come posso saperlo altre cose tipo world-check che forse avrete sentito nominare new world franchetti accaduto ciò che allora tutti ti ricordi che prima parlavo di email cioè e laundering
+océ che esiste anche i test anche in italia e che viola il dpcm cioè nel senso sopra di pierre
+lì è il cesso tutta un'altra serie di informazioni enormi navi ecc si parla però soltanto le aziende in ambito finanziario
+e lì sei autorizzato a farlo perché il gip di pierre non vale più cioè uno che se tu all'interazione con me e io sono responsabile mail l'attenzione poi sono degli uffici ad hoc fatto una persona che esterne all'ente finanziario
+che devono dire l'ente finanziario solo sì o no
+genesi non devono dare altre informazioni si o no allora queste realtà accedono a tutta una serie di database legittimamente in italia per far capire chris di turno cioè il cris di turno che quando fai richiesta successiva ma loro hanno molti più dati rispetto a quello che dura non dicono dalla banca no perché perché maurizio siracusa
+usa tre anni fa non ha pagato una rata perché se n'è dimenticato di fare il bollettino pagato un mese dopo dice no non può dice non può dare informazioni dice no o dice sì
+posso fare una domanda che non centra con questo ma è sempre legata all'assedio
+anzi due una cosa è una cosa secondo me
+strano non lo so se è vera ve lo chiedo a voi più che altro che sicuramente ci capite più di me
+ho visto più di una volta in giro qualche notizia che parlava di queste fantomatiche pennette usb attaccate ai muri in giro per le città bellissima
+capolavori sanno quanto è vera quella cosa resterà una domanda e l'altra domanda che volevo fare
+in che senso quanto era scusami ma è vero
+non vera
+provincia and roll era un sistema di sharing sharing offline che poi qualche simpaticone ha pensato bene di fretta sebbene nato con i buoni propositi poi lavoro proposito era un boom boom boom crossing digitale l'idea era quella di fare drop off line group abbiamo dato la bomba atomica le scimmie
+cosa potrebbe mai andare storto
+ma è l'altra domanda e strumenti hardware come per esempio flipper zero quando sono pericolosi e lascio parlare il collega marco
+infatti io posso
+io vado più tranquilli
+due il cavo un attimo aspettate che chiama un attimo i due avvocati
+ghiaccio nel senso
+voglio dire ma queste cose si possono tranquillamente fare anche con un arduino con un raspberry no cioè guarda come se lo accarezza
+no però la domanda e strumenti hardware di questo genere per la sicurezza personale quindi parlo non so carte di credito piuttosto che altri strumenti e fc
+tecnologie di questo genere quanto sono realmente pericolosi a parte che ti possono infiltrare la vuoi vai di casa e cose del genere ma lì una donna ma non uso il flip prendere a casa eh
+non usi il flipper house altre cose per la fibra per dire se si possono comunque anche fare strumenti in casa anche con un raspberry per fare cose di questo lo dicono qualsiasi scatola shimmer uno scrivere
+si vede poco si vede questo è il pane gogh
+si prodigò la gente normale che di queste cose neanche ne conosce l'esistenza come fa a proteggersi da ormai più di come fa proteggersi io partirei anche un altro presupposto a me che è molto vicino al picking
+c'è innanzitutto poniamoci una domanda se autorizzato o meno questa cosa
+legalmente
+a questo io non lo so un e un po' pretenzioso sappiamo quanto è antico però secondo me bisognerebbe partire a rino è un qualcosa di più strutturato
+utilizzati ed è un principio dell'anno impropria cioè tu puoi andare in giro con un martello esatto ma perché sei un carpentiere e devi andare a battere i chiodi
+l'art due metri uno peeling piace che maurizo l'acquisizione del sole dottore generale di
+sfoggiando cose food agro
+il posto intorno nell'altro
+nella complessa riescono allora
+il processo legale e il porto che va giustificare il porto è fatto nel senso perché il mio successo più meno vago le aree in ombra riemergo rivolge a tutte le leggi dell'ottica eticamente
+se tu sei in giro col ciclo pin e non sai anno per lavoro come e non stai spiegando perché ce l'hai il problema nasce lì il reato precedente
+come il porto d'armi
+cuore porto d'armi per uso sportivo esatto io lo dico lo dico lo dico proprio per questo è rapportiamo esattamente prima ti ho parlato di porto proprio non facendo riferimento al porto d'armi no cioè
+nello stesso modo tu puoi avere tu puoi essere un titolo al picking di un flipper zero di un
+di un qualsiasi strumento atto
+no a offendere in questo caso matto a svolgere delle attività che potenzialmente potrebbero essere riconosciute come legali in taxi o con picnic tipi faccio loop sulla mia porta perché mi sono chiuso fuori
+sarò
+certo dio non ci sarebbe
+apriamo e chiudiamo la parentesi ma ci sarebbe stato il camp di due anni fa senza highlands
+esattamente
+io e c'è il problema nasce il problema nasce quando tu stai trasportando questo tipo di materiale o lo stai utilizzando in un contesto dove non hai l'autorizzazione per farlo o lo stai trasportando senza motivare perché lo stai trasportando
+cioè altri arnesi da scasso e il flipper zero si configura come un arnese da scasso informatico e ce l'hai addosso lo stai trasportando io a prescindere dal fatto che il novantacinque per cento sono capiti bene del utilizzati potrebbero fermarsi non se ne rendono conto ma non l'ho capito la domanda infatti
+sei sfigato e capiti male io lo sto trasportando ti vedo che ce cioè
+andando a fare un phd da un cliente e questo è il mio contratto questa è la mia manleva e quindi mi serve per andare a fare colazione e per iniziare va benissimo però sappiamo che questi strumenti non li usano solo dei professionisti che lo fanno per aiutare magari un'azienda che ha avuto un problema allora sì se ti fermano potresti avere dei problemi potenziali
+però però tendenzialmente è difficile che un carabiniere un poliziotto sia in grado di riconoscere un flipper zero e si può scambiare con un portachiavi se non sai cos'è allora e allora ti dico sì certo noi chiediamo maurizio su cui stiamo parlando
+questa rischia non possiamo giocare nessun rischio che questo sito riesca il problema lì è dato il rischio dell'ignoranza o meno della programma gli è dato dall'ignoranza nel senso che per ignoranza perché magari vanno su google lo vedono un video ti dicono ma tu hai uno strumento atto a bloccare le comunicazioni a clonare le carte di
+credito perché uno va a vedere un video su flipper puoi aprire i cancelli cloni la carta di credito no se non laconia prendi dei dati senza esperienza reale cioè nel senso che per ignoranza mi mi sono visto passare
+davanti tutto perché pensavano l'hanno visto uno strumento detto guardate che non fa questo però ovviamente altrui
+i carabinieri la polizia ultimamente quando vede qualcosa che non capisce lo cerca sempre un link per cercare di capire che cos'è utilizzando anche molto spesso google foto ci sono stati abbastanza destra però il problema grosso è anche attenzione flipper zero
+tutti ormai adesso sì sì negli ultimi mesi il suo io prima
+ho fatto intravedere un orologio che fa cose era molto peggio del flipper ma come fa rima un naso aereo a un cavo che sembra un cavo d'alimentazione non è esattamente un cavo d'alimentazione
+film con una foto ma con una foto diciamo sono in grado di ottenere informazioni ma anche se non fossero in grado perché qui secondo me dobbiamo sempre dare un messaggio alle persone che ti ascolta come era quello fondamentale con me il se ti beccano si incula non sei fregato e se non ti beccano non sei fregato cioè il messaggio
+tutto bene cioè il messaggio che se vuoi rispettare la legge tutto bene si può giustificare perché hai questa cosa del fertilizzante eula e un altro messaggio web e io un paio di persone che ha anche un proprio pil per zero in giro mi hanno visto il pan ago ci sono sono fatti
+non sono giocattoli cioè non è che sei figo perché
+un flipper zero va in giro e magari rendi dei mattoni per un po' i cellulari di tante persone non è non sei figo
+voleva fare trapuntata per dare un po' di strumenti o stiamo soltanto facendo puntate per dire non fate queste cose no
+sicurezza iniziale però ascoltate un aereo ma altrettanti strumenti open source
+sai alessandro c'erano tanti sogni
+usiamo un po' si tira l'osint siamo
+però scusatemi torno alla domanda di prima perdonatemi
+la mia domanda è una persona normale come può essere non so mia madre per dire no che non ha idea di che cosa stiamo parlando e non ha idea che esistono o che possano esistere strumenti del genere che possono appunto riuscire a entrare nella wi-fi di casa o più oppure riuscire a entrare nel telefono eccetera come
+fanno a proteggersi da persone che invece hanno intenzioni malevole e che quindi con le forze dell'ordine ovviamente se la rischia no voglio dire e comunque come vanno a proteggersi cioè nel senso esiste una maniera oppure l'unica maniera è disattivare tutto e stare offline bagno-doccia trentatré dieci no la mag
+nel senso che
+prima prima me lo tengo stretto il mio trentatré dieci cons nessuno
+quello guai a spaccherà e anche i cocci quindi
+non spetta a me non spetta a me sia ben inteso però secondo me è molto bella questa cosa delle gemme che si deve fare una puntata come difendiamo mia nonna che non ce l'ho più ma ho capito come si deve difendere mia nonna o mia madre
+però è
+secondo me sì secondo me dedichiamoci alla puntata
+ad hoc e concentriamoci su l'osint ch'era i forse si la
+perché c'è stato il transfer ormai emiliano è diventato lost quindi a presto
+incorniciata perché mi ritrovo davanti con qualsiasi domanda
+molto bello e sicuramente questo sicuramente funziona concordo anch'io mi meritavo anche tantissimo da dire su sta roba perché c'è veramente un mondo di sono gli strumenti su come difendersi sceso come accorgersi di cosa sta succedendo c'è un mondo mondo enorme e rischiamo di dare di esort
+dargli nello spazio così limitato che poi alessandro poi tu ovviamente allora no
+puntata lunedì prossimo emiliano host andrea maurizio chi vuole e domenico come proteggiamo a mia nonna da hacker è bellissimo proprio nome email
+beh tu pensi ma chi il titolo ideale e io guardo finalmente l'educazione come per esempio comunque
+zambia il tar io ho scritto il mio il mio libro l'ultimo libro sul sulla awareness lo facevo leggere mia madre esatto
+di materie alla direzione giusta perché se lo devo scrivere ubi a parte che non gli serve però nel senso non
+un linguaggio che capiamo lui
+ma oltre raccolta
+qua
+einstein e anche asimov asimov e anche einstein asimov nella sua
+tutta la saggistica di asimov lui diceva io sto scrivendo e quando mia madre capisce quello che ho scritto i soldi soprattutto il mio risultato nella saggistica scientifica allora scusate so che mirco ad alzarsi presto e non sta troppo al centro per cena
+siamo arrivati ormai ormai ma guarda che qua non è che si firma ci si ferma e si rischia si parlava d'altro
+chiedo però prima o poi libero quando ti pare ma vorrei chiederti due cose uno una missione di jose in italia a parte la werner che mi sembra di capire che fosse il punto più importante far capire che cosa
+e si può fare e cosa non si può fare quali sono anche gli altri punti fondamentali dell'associazione
+il più importante è indiscutibilmente la guerra perché
+al termine si sta svalutando perché parliamo ormai di werner di consapevolezza come se fosse qualcosa dato per scontato in realtà non è così perché purtroppo
+e aumentano chiaramente oltre a questo noi svolgiamo molte attività è rivolta ai soci perché la natura in un'associazione di promozione sociale principalmente quella quindi abbiamo dei format in cui ospitiamo di volta in volta nelle persone che in qualche modo parlano di tematiche differenti abby
+abbiamo sviluppato di neurologia stiamo sviluppando progetti
+per
+su su quattro filoni sostanzialmente over sessanta quindici rientrano sicuramente
+no quello che tocca la puntata su come proteggiamo la donna
+tipi di te perché poi utilizzano comunque sia anche i social e quindi rilasciano in maniera inconsapevole qualsiasi tipo di qualsiasi tipo di informazione venire posso essere sensibile proteggere me stesso ma se poi nella prossimità nella densità del mio network comunque sia non ho quel
+tipo di sensibilità va da secche insomma non riesco a rendere il perimetro sufficientemente è sufficientemente sicuro comunque e poi altri alle altre dimensioni sono quelle scolastiche quindi istruzioni per scuola primaria secondaria di primo e secondo e secondo livello e violenza di
+genere con un progetto la libera e senza chiaramente distinzioni di genere finalizzato principalmente a a a cercare di trovare gli strumenti per contrastare il fenomeno dello staff dello sporting online e dei deep fake in particolare in particolare di
+di pepe
+deepfake pornografici non so se avete sentito anche recentemente non c'è stata la notizia di questi minorenni che hanno diffuso hanno creato ad arte e tutan oltre duecento mi sembra di fake e pornografici ormai questo tipo di situazioni e sembra che siano
+iniziano emas degenererà situazione indiscutibilmente perché e ci sono tecnologie di ogni tipo che consentono di andare a a a a creare questo tipo di contenuti con risorse irrisorie sostanzialmente a costo zero e pochissimo e in pochissimo
+tempo quindi la mission di osho in italia è chiaramente fare network che fare soprattutto per sviluppare sensibilizzazione noi nasciamo e
+attraverso la partecipazione di capture the flag per la ricerca di persone scomparse non nascono vengono all'interno di un format creato da un'altra organizzazione no profit canadese tra islam e quando parlo di prestare attenzione a questo tipo di attività che cosa sign
+epica che in italia
+è difficile anche svolgere questo tipo di attività cioè se noi volessimo
+ad esempio fare osi e per favorire la ricerca delle persone scomparse troviamo tutta una serie di ostacoli di natura normativa che ci sono quindi non è questione di dire sì o no perché perché
+bisin te tizio banalmente le persone scompaiono anche perchè vogliono scomparire che inciso in tutta la serie di casistiche particolari legate sempre chiaramente alla e trattamento dei dati personali algidi bianchi bisogna tenere in considerazione quindi svolgere questo tipo di attività dal punto di vista pratico operativo
+è complesso l'abbiamo fatto in parte per quanto riguarda per esempio il contrasto alla disinformazione digitale all'inizio del conflitto dell'invasione russia in ucraina però anche lì il fact checking qualcosa che non ha senso perché c'è uno tsunami da contrastare no
+è più utile andare a fare quelle attività di formazione e quindi di costruzioni di awareness per far capire come leggere notizie come pensare il login da questo punto di vista è estremamente utile perché è un approccio metodologico che crea mai zeppe e se fatto bene e consente di porsi dom
+domande anziché andare esclusivamente alla ricerca di risposte chiudo alessandro con questo esempio io faccio ogni volta che faccio degli interventi formativi inizio con un esercizio estremamente semplice che è una banalissima ricerca su google è strutturata in un certo modo e con una casistica ormai più
+meno vicina al novanta per cento indipendentemente da chi ci sta di fronte
+vuol dire anche ingegneri il risultato è che una ricerca su google quindi questo significa che costruì il mais è importante costruire awareness è importante è il valore di questa parola lo dobbiamo secondo me in qualche modo recuperare e perché ripeto è
+è fondamentale hermitage ho parlato pure troppo va bene vai molto bene
+allora ah scusa ho visto maurizio maurizio
+è morto tanto il mond
+arriva qualcuno col flipper zero e la biglietteria
+che si dalla rete allora
+un big mac
+allora adesso approfittando della stanchezza di mirco e facciamo vedere qualcosa di cattivo non scherzo perché le risorse online chat sono tutte suo open source in opensource lì c'è il sito granducato su osint e proprio anche l'amico di di risorse e è
+posti dove la open door quello a quello di bellingcat l'ha già li trovate tantissimo ma poi è estremamente semplice ripeto fa the night due volte lo faccio da qui guarda ora faccio anche questo l'ho scritto pure sul nostro esempio l'ho messo pure sul vedere a schermo intero
+la parte di google vi vedete il mio browser giusto
+scarica eccoti qua ok e se faccio così giusto se vogliamo dar najat faccia questo start punto mi sta tuttavia la piattaforma che che sostanzialmente consente di creare pagine personalizzate ora io non ho la mia non me lo perdo tempo a effettuare il login nella pagina personalizzata
+molte persone magari mettono anche a disposizione poi quindi rendono visibili io nella mia cena cenno a parte alcune l'evento con password le do disponibili a soggetti diversificati in funzione di quello che faccio le mie personali però facendo qui con questo comando chiaramente voi lo sapete benissimo dico di andy
+dare a cercare esattamente dentro start mio viso e metto osint poi faccio questo cerchiamo qui la prima per farvi capire quanto sia semplice trovare gli strumenti nonché quindi qui sono dentro le ultime cose collection qui ho news e blog i principali e
+esperti della materia tool quindi tutta una serie di collection cioè materiale
+una quantità di materiale sostanzialmente infinito con altre pagine poi dedicate un pò su tutto quindi vedete qui per esempio troviamo caratteri cinesi no se io metto faccio la stessa ricerca in questo modo piuttosto geloso intrometto
+sapersi
+sì è qui
+ho più o meno tutto lo scibile disponibile sulla cybersecurity che tutti i link che rimandano a tutta una serie di
+piattaforme che sostanzialmente e fanno informazione svolgono attività in questo in questo ambito potrà emettere roper cina se volessi andare a svolgere attività di ricerca e in cina piuttosto che qualsiasi altro tipo di di jesi più quindi gli strumenti ecco chi sono
+sono l'ultimo dei problemi il problema è districarsi all'interno di questo ecosistema che è particolarmente complesso ed estremamente fin troppo è fin troppo sovraccarico e non so se
+beh ossessivo vado avanti strumento più alessandro episodiche vi erano pochi però jackson michael emerson
+le possibilità sono pressoché infinite punto è che poi rischiamo di andare e in un loop da cui non riusciamo ad uscire io dico sempre e rischiamo di allontanarci troppo da riva e non riuscire più a tornare indietro ecco fare jogging significa anche questo perché l'open source intelligence significa quel processo
+quindi metodologico capire qual è l'esigenza informativa andare a ricercare e sapere dove andare a ricercare ricercare le informazioni analizzarle riescono però principalmente un processo di problem solving che è tipico poi dell'attività della cybersecurity dice c'è un'esigenza informativa e deve essere soddisfatta però prima devo capire quale delle esigenze formative ecc
+di complicato in squadra
+bene vogliamo aggiunge qualcos'altro come richiudere beh possiamo fare una cena waite ha diciamo e osint è più
+siamo sulla persona ma magari un po' più sugli oggetti sulle wifi questa domenico che ne so widow wildlife presepe
+uno strumento che viene utilizzato tranquillamente in italia però anche lì fa e mappatura abbastanza pesante tipicamente
+will serve praticamente è un wireless network mapping e lo slogan delle wireless
+qui marco no no
+lo conosco solo i nomi i nomi e dove prendono però capisci che se cerchi casa di qualcuno trovi il suo dispositivo poi vai a vedere il nome della sua wi-fi perché hai la wifi telecom col codice univoco e poi vai a vedere dove quella wifi sai dove abita quella persona si sente
+mentre neanche famiglie bozzi famiglie a volte
+su pozzi perché mi sta simpatico dove c'è quindi anche quello è molto buona scusa una cosa è giusto per il trovare do allora se sei già in prossimità di dove ricevono segnali pwm hai già quello che è e questo è un database mondiale e chiunque statista
+gli sta la brava prova ad aprirlo che così lo vedi bene che fanno vedere e vedere cosa
+ok per abusi
+è
+allora
+immagino mai legato anche quella polemica sul google car ne va in giro a fare il mappatore per villa
+è la stessa logica solo che questa ovviamente fatta da privati perché tu ti installi l'app so se poi parte da vecchio world driving che si faceva da giovani feci il buon vecchio woody driving però la questione e guarda qua tu e ho giocato io qualcosa da tirar fuori per vedere se riuscivo a
+ma che tipo di informazioni riservate puoi ottenere scrivevo libretto verde per tutto il mondo però supererai pervenuto il mondo sempre e comunque chi la mappatura
+informazioni una persona
+fai di quella persona se il nome di quella persona pensiamo all'hotspot di una persona col suo nome del cellulare fai dov'era quella persona dove andava perché magari abbiamo guerra in giro è stato mappato da qualcuno nel processo di mappatura è semplice tu ti installi l'app sul cellulare la lascio accesa lui era
+coglie i dati e li spara
+proprio immediato
+quale può essere l'utilizzo cattivo di questa cosa qui
+gliela raccontiamo domenico e viva utilizza capitolo di questa cosa qui è che tu per esempio in accoppiata con uno strumento come una pineapple una
+questa qui
+tu vai in una zona di uffici
+le due quella più grande
+world cup e puoi caricarci l'elenco delle wifi
+allora piccolo piccola digressione cosa succede qualsiasi dispositivo per sapere se c'erano wi-fi che conosce ogni notte manda fuori l'elenco delle wi-fi che lui conosce per le quali ha una password
+se io so qual è la tua wifi e so che la tua wifi di casa brambilla vengo da te o sei a in ufficio dove sei un bacio collegare il tuo cellulare alla wi-fi brambilla perché te la storia implicando e so che tu sei in quel posto in automatico ti sto già prendendo artist
+portando sulla mia rete poi tutto il resto va da sé ma tutto ciò se una persona va in giro con il wifi spento non succede gatto motivo per cui wi-fi va sempre tenuto spento succede quante volte vi ricordate e quante volte vi ricordate di spegnere fai del cellulare ad esempio specialmente quelle cellulare te lo ricordi
+mai cioè esce di casa che se la vede attivo e cuore e va in giro che rimane attivo
+anche perché quelle persone nuove tipo anche android cosa fare film per lo spegne ma in realtà non è spento lui sotto sta lì ogni notte rilancia dici ci sei allora il mio cane non è fisicamente sperma scusatemi un attimo
+tant'è che per esempio ufficio ce l'ho sempre spento arriva a casa
+eh si vede che c'è la cache la rete di casa e si riaccende e si farà ti dico tanto per dire dio mi escono mai io stesso che sono a tempo quindi immaginiamo la nonna la vostra nonna
+di non capire al pubblico in bottiglia io stesso esco e non è che c'è alle volte i capelli dire oh cazzo mi sono dimenticato che il sospetto e lo devo spegnere ma scusate la domanda ma quindi
+ebay emilia emiliano fai tua domanda poi james uno strumento hardware tipo firewall a quanto senso ha
+è il vostro silenzio ma insufficiente non lo conoscono non sanno
+non lo conosco quindi
+è uno strumento hardware dove sostanzialmente fa erta di man in the middle sulla sulla tua rete e si mette a filtrare tutto quello che entra esce e tu hai un app dove puoi controllare qualunque cosa bloccare domini per device fare un sacco di belle cose diciamo diciamo
+è un paywall
+con un altro nome con gli steroidi possiamo dire su disegno di capire sostanzialmente saint mars
+un firewall hardware che però dentro che io sappia ha una distribuzione linux lo puoi ci può entrare con al calo di uno che ha detto adesso il grande paul ci mettono due modifiche lo chiamerò e ios la nuova wally
+anche se potrebbe essere
+non c'è esiste si basa sulle cose di bakewell un buon sistema è carino pensiamo bene ok
+allora canadese ha senso puntone preferito per i fan walking ma non lo disprezzo c'è disprezzo disprezzo cuneo ne ho altri che disprezzo di club meeting
+sì
+noi invece la mia domanda e scusate per cottura per voi fagliela hacking di un'ossessione diciamo così e cioè se voi sapete una rete wi-fi che io koh-i-noor e quindi come diceva maurizio a questo punto uguali sul sito scopri google basta chat on quell'affare lì che expo
+speed con lo stesso nome e basta quello che il mio cellulare il primo pirla che un grosso sono meno vennero qui
+in questo affare
+maria ascolta impara e vede che c'è la ue che c'è la rete franceschi francesco ok ma perché il tuo cellulare mi stai dicendo che c'è francesco ohm o che lui la impari in automatico e inizia lui a trasmettere francis william lasciando perdere che può fare anche il deja-vu a prenderti poi feci de gauche weekend è out
+e vennero allora ancora out lo puoi farcela quello è già un passo successivo però scusami di cosa lui vedremo che la tua rete o
+perché tu me lo stai dicendo o clark salva e inizia a trasmettere a fare lui broadcast delle sue sedi ok
+mario cellulari okinawa un un ssd con lo stesso nome di chi ha salvato precedentemente così senza giudicare meccanico e menate di questo genere certo fusi amico amico gli basta quello ma ti conosco ti conosco io cosa gli faccio tu dice questi approdati guarda che qualunque password metal è valida su
+poi metti pure la tua password fornendo
+molto rassicurante
+ho fatto meglio in giro allora a bucare c'è né sessuale purtroppo si ma e poi pensa tutto questo attaccato a un drone basta mi fermo bene
+bravo
+si va
+esattamente così
+scusate ma chi la mia perplessità
+chi sviluppa il paletto colli di sichuan weiwei fai
+art up filmato bellissimo
+si può parlare il programma non è che il mio falegname con trenta mila lire lo faceva meglio è
+pienone non risiede lì risiede che tutta questa tecnologia è un po' comitato sei cioè è una tecnologia vecchia su cui stanno continuando a costruire e implementare nuovi subset di cose
+nasce da libera non dal fatto che le tecnologie di per sé sia scema no capito però la questione è di notti in un mondo sempre più attento alla sicurezza io mi aspetterei che il join a una rete wi-fi
+con lo stesso nome magari lo ammazzano
+grande michele tutti siano più tardi il match e roaming up scusa
+a casa o quattro o quattro wifi mesh in quattro api matching su tutti vale che siano documenti
+comunque io mi aspetterei che magari il meccanismo di matching si scambia anche informazioni token su su come dire su qualche qualche logica di petroglifi in qualche modo mandarmelo firmato battiato potrebbe funzionare ma non è stato implementato al momento questo protocollo tre al massimo e
+cosa incarico la tua app c'è l'app che può sapere tu sei un client perché ti conosco perché ho quel mercato e se eccetera sì mamma di gaia e non lo può magalhaes richiede una alunni si ferma in strada
+eliminato un protocollo più evoluto hai ragione alessandro andava e andrebbe implementato un protocollo più evoluto al momento non c'è perché al momento è implementare protocolli più evoluti scambio di chiavi sia nella fase di e cioè se lo fai nella fase di sei
+proteggi in qualche modo nel sangue secco e il discorso e la gente vuole a velocità mentre prolungata di sicurezza andiamo veloci
+scarica
+la vittima
+da wikizionario da me l'hardware non gli sta dietro oggi come oggi allora qualcuno dirà
+azienda nel un'azienda e delle soluzioni enterprise con lo scambio di chiavi tutto quanto è certo carter chiaro poi magari però uno sport che da sola mi costa duemila euro nel duemilanove mille sicura per tornare alla quanto è facile cosa tu con quello senza neanche guardare il sito bellissimo di maurizio con le mappe
+con quell'affare lì tu hai detto che va in giro di me ti senti senti ci sei vicino a me e al parco il mio cellulare il wifi acceso quindi inizia a fare il broker ha automaticamente fare di fatto fa aggiornare il tuo il mio cellulare farelli incontrare claro che sì clark filmato the box
+sei ancora il pesce povera mamma basta comunale
+peggio ancora il peggio del peggio del peggio è che io non solo ti faccio genere quello a quella della rete pubblica cittadina ti apro non ho capito che i giorni marius la mia vita privata e laureati
+caso no
+più facile it da una rete aperta cittadina che faccio loggare col tuo google account e il tuo token
+però quello è dice
+l'auto join del tuo cellulare e
+se tu e la tua rete di casa la rete
+la rete cittadina che dici io sul mio cellulare l'auto online senza stare con lei della rete soggiorno allegando ti faccio un esempio padova si è collegato a padova wi-fi una volta nella vita o la propria
+noi lo rigenera perché la conosce gli si riapre il che ti porta sul credito che ti porta questa volta ci sono io esatto freeware fai mcdonald mcdonald wi-fi chi non si è mai sentita sta cosa va fatta no no no non è mai successo non riparte non riflettono la casa
+statistiche
+no diciamo questo è il disclaimer perché ogni volta che ordinate una rete dovreste puoi andare dentro e dirgli dimentica esatto non tenervi le duecento reti wi-fi che avete visto in giro ma la mia rete locale a questo punto secondo me domenico col suo castello che mi beccai broadcast che faccio io me ne rammarico
+no semplicemente non hai scampo se dovresti verificare che il meccano spegnere wifi e è
+pino è il tuo usato non è temi dunque appunto ma questo non si fa quindi c'è quindi sostanzialmente me
+e quindi non hai scampo non hai il hai stampo appunto con il cellulare acceso mai fai acceso tu ovunque sei se a rischio e sarà un caso che i miei computer di casa usando l'ethernet ma
+esticazzi si
+su twitter emiliano che dici
+ma guarda allora io ho ristrutturato casa recentemente ho fatto cablare tutto bravo vi ho messo un po' di domotica emiliano un po' un pochino di medicina dentro ce l'abbiamo messa per sicurezza
+no io tutto analogico a casa a farlo domotica su buffy tranquillo
+scivolo ma alla fine voglio dire io comunque l'unico l'unica roba che sta a rischio a causa mia e del mio computer che sta sempre con me quindi alla fine sto antonio dire però
+c'è per esempio non mi connetto mai a nessuna wi-fi pubblica utilizzo sempre al massimo il mio telefono in quattro kg dove c'è connessione se no non mi connetto proprio
+e perché comunque per sicurezza cioè tipo non mi metterò mai alla regina al bar di un albergo di un aeroporto capito cioè non esiste proprio
+però per esempio colf
+lo strumento come appunto questi firewall hardware che è uno a casa ma anche un banale raspberry per farsi una vpn privata potrebbe aiutare ma io io mi connetto in giro per il mondo tranquillamente letto anch'io solo che è ah ho la consapevolezza di cosa sto facendo e mi ha
+ho subito una vpn e i tunnel tutto il traffico sul tunnel
+comunque quello è comunque un aiuto poi io non è che mancano opere vorrebbero stai ci hai sbagliato l'approccio ti spiego tu anche prendervi un oggetto come questo che mi avevano prestato il fringe freezer poesia vangelo fantastico se io sulla tua rete mi inserisco qualcosa
+strano lui se ne accorge ma io qua non sto entrando dentro casa sto facendo uscire te stesso certo è diverso ho capito io sto dicendo il tuo computer barry il tuo cellulare si attacca al mio oggettino e quindi poi io mi metto in mezzo faccio
+man in the middle fu come dice andrew però quello che intendo dire è che se tu se tu sei cioè se tu sei consapevole di questo rischio ok
+e tutto il traffico che i veicoli non fugge fuori da un tunnel c'è anche
+sì sì sì c'è anche per il bluetooth vive sono pericoli diversi di livio però si dice anche ripetute e si
+se subito cioè se tu eri tutto il traffico su un host trusted e ti assicuri che la chiave che stai scambiando sia quello che ti aspetti che stai scambiando esatto sei sufficientemente tutelato
+sufficientemente che non vuole dire sono il top del top del top però mi sento discretamente serie
+allora facciamo una cosa scusate io non voglio però
+pam e poi questi sono argomenti totalmente diversi che meritano decisamente approfondimenti per cui io vedo almeno due puntate interessanti
+proteggiamo la laurea
+symantec la casalinga di voghera quella casalinga di voghera grandissimo livio sono d'accordo i bignè gradini ah io già quello era il titolo quello è il titolo della puntata abbiamo già partecipanti osta quando volete la faccia la fa la fate
+e segue
+un'altra magari lo farei
+se un pochino più tecnica
+su
+diversi di questi aspetti riguardanti la sicurezza e
+dove magari si può la versione pro della sicurezza informatica per casalinga di voghera quindi possiamo fare la sicurezza informatica per il caso il dettagli
+facciamo la versione soft di monza
+esatto è già consapevole mettiamola così consapevole quindi se magari come facciamo normalmente è qua sarà emiliano ha già tirare le fila per evitare che la gente vada emiliano ormai non era ah a ah della sicurezza della della casalinga di voghera io devo dare in mano a m
+mia madre e mia zia e devono vederla e capire qualcosa capire
+le host fai fare d'aosta tua madre tua zia
+ecco domande altro bookmaker e farle e fan collega e che crystal
+il
+no però gli passò di lì posso decisamente dire di partecipare e di guardare perché
+perché sicuramente ha senso però quella che resta una puntata veramente senza sgravi come facciamo normalmente cioè una di quelle che il target è la casalinga di voghera dall'inizio alla fine e iniziamo a fare tecnicismi a parlare di
+noi siamo tanto bravi carini e coccolosi e maderno
+d il colore del marchio emiliano tenervi a tenervi in riga per evitare che i pinguini di madagascar no tu non esisti
+specie un pochino faremo anche una scaletta dal tesoriere ma anche di più francamente perché quando spari in sequenza immagino si inizia e non si finisce più però sono argomenti me fondamentalmente imprescindibili e molto interessanti venduta va bene emiliano
+sei lunedì prossimo ios sei seicentotré ci potrei essere lunedì prossimo sessano a faith lost psichici chalet tipi ti condivido ti faccio vedere tutto quanto io diciamo che faccio vi faccio compagnia diciamo dai no tu fai lost
+quando guidatore
+mature e poi andrea e domenico arezzo se vuoi anche tu mio adorato mirco non sei un vero espulsi cure però come vuoi perché sparare alla casalinga di voghera chiunque per la casalinga di voghera ancora ancora insomma nasce la faccia ma però è quasi tutto però veramente parliamo
+la facciamo questa cosa può darci ci organizziamo su come però facciamolo in modo tale che veramente all'inizio alla fine si ha qualcosa che
+che la casalinga di voghera possa capire
+stare a casa gran cosa da siccome venere tratti di debolezza e prezioso nessuno dice casini dove eravate anche tanti ragazzi giovani l
+sì no per dire si parte dalle basi ma base che siano complessi biliardo veramente a tutti poi se mia zia capisce bene se no pazienza se la casalinga di voghera capisce tutto e tra basi basi assolutamente mi piace va bene da e venduta
+e abbiamo team al festival volta che ne lasciato non avremo duecento messaggi chat per stabilire il dito
+visto visto che parlava parlava di dios nelle cose ovviamente snowden non poteva mancare
+abe abe era fa
+lode se volete andare a ritirare qualche bitcoin c'è anche una mappa insomma vi segnalo agli atti e
+è più divertente lo shodan credo che lo conoscono in tanti aspetti allo scritto dalla parte sbagliata
+però questo è abe è più per la versione la sicurezza
+era aver hai parlato di un login
+going merry gara atletica una dimostrazione di kde del mondo che poi penso essi
+parlava prima di all'inizio di bitcoin e di criptovalute va bene bene volevo chiedere alessandro possiamo far lasciare a mirco un messaggio per chi ci sta ascoltando e per chi ci ascolterà magari una registrazione su il fatto che essere responsabile dell'informazione che lascia in giro da
+una perla un una birra a est
+è una vera nanan e ogni cosa che mettiamo in rete è definitivamente persa smette di appartenerci e rimane disponibile a chiunque quindi il discorso è sempre lo stesso così come non lasceremo mai la porta di casa aperta dobbiamo pensare che ovviamente è il web e la finestra
+nella nostra casa sulla suzuki
+sul mondo e quindi anche quella che dobbiamo cercare di di preservarla insomma cercando di pensare sempre che tutto quello che lasciamo è online puoi può essere può essere acquisibile è ormai c'è tutto online è quello che rimarrà per sempre l'anima ubi se vogliamo la dimostrazione quando abbiamo fatto
+proprio da invocano ed utilizzati sul palco tu stesso di francesi e gesti ci eravamo tutti credono una cosa non mi ricordavo ne derivino che c'era assisi e gli ho detto anzi questa cera ma non mi ricordavo ci fosse
+non mi ricordavo più che c'è perché chiaramente ormai siamo tutti online quindi
+dobbiamo pensare che dall'altra parte ci sono professionisti che vi possiamo che alle aziende del crimine che ovvio
+e pensiamo che noi siamo vecchi i giovani sono nati dentro a questo ecosistema il dolore c'è ancora più roba dentro
+si ma non hanno gli manca quel pezzo di sono meno consapevoli
+nativi digitali
+ma non sanno noi abbiamo visto la transizione sappiamo un passaggio loro sfidano ciecamente respirava dentro
+il problema poi è quello che purtroppo vanno in giro
+considerando alcune cose come normali quando sono estremamente rischiosa
+c'è anche il fatto di dire connetto i miei airpods sul telefono di un'altra persona
+comunque è un problema e viceversa ovviamente
+però scambiano le banche fanno di tutto si si io ragazzi guardate che fare anziché alessandro guarda che alessandro ci sta per cacciare via e
+io no io sto seguendo io vi devo salutare però perché veramente
+no ma chiudiamo chiudiamo pure la puntata adesso da e poi volete restare collegati dopo la sigla arrestate ma ovunque la produzione della casalinga di voghera la faccio vedere a mio figlio in realtà io a mia mamma a madrid tutti quanti
+all'idea grazie ad esempio un fantastico ospite
+lo farà molto meglio e molto molto più efficace ne sono sicuro e per cui lavorate tutti e alla prossima grazie
+noi reale con voi amici
+ciao
+mikey
+ma
+ma
+ma
