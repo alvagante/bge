@@ -79,7 +79,7 @@ h6 {
 
 blockquote {
   font-family: "Caveat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 2vw;
+  font-size: 2rem;
   text-align: left;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -178,5 +178,24 @@ a {
 
   a {
     display: inline-flex;
+  }
+}
+
+#last_episode {
+  padding-block: 3rem;
+
+  color: #f8f8f8;
+  background: url(/assets/images/wtf1.jpg) no-repeat center center;
+  background-size: cover;
+
+  text-align: center;
+  .hometitle {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 3rem;
+
+    padding-block: 2rem;
+
+    background-color: #050505b3;
   }
 }

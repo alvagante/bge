@@ -1,7 +1,7 @@
 <div class="album py-5 bg-light">
   <div class="container">
     <div class="row">
-      <h2>Ultimi episodi</h2>
+      <h3>Ultimi episodi</h3>
       {% assign sorted_episodes = site.episodes | sort: "episode" | limit: 10 | reverse  %}
       {% for episode in sorted_episodes | limit: 12 %}
       <div class="col-md-3">
@@ -19,5 +19,6 @@
       </div>
       {% endfor %}
     </div>
+    <a href="{{ site.url }}/episodi" class="hometitle">Tutti gli episodi</a>
   </div>
 </div>

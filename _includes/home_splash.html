@@ -11,55 +11,40 @@
   </div>
 </section>
 
-<div id="carouselExample" class="carousel slide">
-  <div class="carousel-inner">
-    <div class="carousel-item">
-      <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/BfVoU2hftv8" class="video" frameborder="0"
-          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<section id="last_episode">
+  <div class="container hometitle">
+    {% assign last_episode = site.episodes | sort: "episode" | reverse %}
+    {% for episode in last_episode | limit: 1 %}
+    <h2>{{ episode.title }}</h2>
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0"
+        allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div class="row">
+      <div class="col-lg-6">
+        <blockquote>
+          {{ episode.quote_openai }} (Geek Estinto)
+        </blockquote>
+      </div>
+      <div class="col-lg-6">
+        <blockquote>
+          {{ episode.quote_claude }} (Brigante Claudio)
+        </blockquote>
       </div>
     </div>
-    <div class="carousel-item active">
-      {% assign last_episode = site.episodes | sort: "episode" | reverse %}
-      {% for episode in last_episode | limit: 1 %}
-      <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0"
-          allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <blockquote>
-            {{ episode.quote_openai }} (Geek Estinto)
-          </blockquote>
-        </div>
-        <div class="col-lg-6">
-          <blockquote>
-            {{ episode.quote_claude }} (Brigante Claudio)
-          </blockquote>
-        </div>
-      </div>
 
-      <div class="row">
-        <div class="col-lg-6">
-          <blockquote>
-            {{ episode.quote_deepseek }} (Deep Geek)
-          </blockquote>
-        </div>
-        <div class="col-lg-6">
-          <blockquote>
-            {{ episode.quote_llama }} (Metante)
-          </blockquote>
-        </div>
+    <div class="row">
+      <div class="col-lg-6">
+        <blockquote>
+          {{ episode.quote_deepseek }} (Deep Geek)
+        </blockquote>
       </div>
-      {% endfor %}
+      <div class="col-lg-6">
+        <blockquote>
+          {{ episode.quote_llama }} (Metante)
+        </blockquote>
+      </div>
     </div>
+    {% endfor %}
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
+</section>
