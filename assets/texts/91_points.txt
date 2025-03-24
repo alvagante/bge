@@ -1,0 +1,10 @@
+- Sicurezza Informatica: Importanza della sicurezza informatica, in particolare per utenti non esperti, come la "casalinga di Voghera", per proteggere dati e privacy.
+- Wi-Fi Pubblico e Vulnerabilità: Rischi associati all'uso di Wi-Fi pubblici, inclusa la possibilità di collegarsi a reti malevole che possono rubare dati sensibili.
+- Password Manager: Utilizzo di password manager per generare e gestire password complesse e uniche per ogni servizio, aumentando la sicurezza degli account.
+- Autenticazione a Due Fattori (2FA): Importanza di implementare 2FA per proteggere gli account, richiedendo un secondo livello di verifica oltre alla password.
+- Ransomware e Backup: Rischi legati ai ransomware e necessità di avere backup regolari e sicuri dei dati per prevenire la perdita di informazioni.
+- Phishing e Truffe Online: Strategie per riconoscere tentativi di phishing e truffe online, compresi segnali di allerta come errori grammaticali e richieste di informazioni sensibili.
+- Privacy dei Minori: Discussioni sulla condivisione di foto e informazioni dei minori online, evidenziando l'importanza di responsabilizzare i figli nelle scelte di privacy.
+- Crittografia e Sicurezza dei Dati: Ruolo della crittografia nella protezione dei dati e importanza di utilizzare strumenti che garantiscano la sicurezza delle informazioni sensibili.
+- Consapevolezza Digitale: Necessità di educare gli utenti sulla sicurezza informatica e sulla gestione dei dati personali per prevenire rischi e attacchi.
+- Strumenti e Risorse: Suggerimenti su strumenti e risorse per migliorare la sicurezza informatica, inclusi VPN, software di backup e applicazioni per la gestione delle password.
