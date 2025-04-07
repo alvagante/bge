@@ -1,0 +1,357 @@
+mamma di connessioni quindi quanti atomi rivelati si ritrovano anticicloni
+festa dei cinque stelle bruciati dal ristorante
+dopodichè tempo
+musica
+importante
+modena
+venti
+ma
+quando vedi una fondazione
+fatto scrivere uno sport molto semplice
+se volete fare
+andiamo un po' più avanti la brigata dopo di noi
+specificare codice imparati
+la faccio breve hanno fatto la storia della fuga
+ci sto
+uomo moda
+cinque volte
+tremila
+appena il infine
+chiama un nostro sussurro
+mi ricordo che diceva che se
+l'immagine è il modo in cui noi corriamo lo spazio comando la musica il modo in cui curiamo
+sogni spezzati ogni i un indirizzo di powder è una storia da raccontare
+mi
+perché
+in circuiti
+bene
+venti
+telegram
+quella cattedrale
+chiamano
+dato quello che doveva essere l'alternativa
+diventare tristi memorie andati
+viviamo il presente ricordiamo il passato prevediamo il futuro
+cristiani dell'algoritmo del tempo
+nella
+facciamo sentire
+i mondi virtuali e reali l'anno stalle casi infelici di noi the night ecco digitale voci ma niente
+di legittimità è passata visto
+se mai davvero scomparsi
+ma
+proprio la realtà vera la verità vera è che so due ore e mezza che parla modena cosa e najem risorto un cazzo
+però questa sia proprio adesso e qui
+e quindi e quindi e quindi
+e quindi siamo arrivati alla puntata novantadue della preda degli istinti l'universo kubernetes che un po' deserto da queste parti e
+dovrebbero esserci potrebbero arrivare persone e per parlare sicuramente questo è il tema della serata se non si trovano persone
+si si finisce in fretta quindi almeno dovrebbero essere ventidue ore e mezzo come in altre occasioni è speciale kubernetes perché siamo a ridosso o meno dopo è la cube con l'europa duemilaquindici a londra
+ho partecipato anch'io e sua conferenza sul mondo claas native kubernetes direi molto interessante in questa location excel che è una specie di
+vedi mese fa un centro congressi un centro commerciale con tre conferenze contemporaneamente più o meno grosse e un sacco di gente un corridoio lunghissimo di
+e tanto tanto camminare insomma questo però londra gran belle giornate bella conferenza e vedo che si collega il buon alessandro che era effettivamente un ospite atteso e mai lo sostenevo che sei tornato da parte di redmond
+invece mi senta in sé per sé
+home software
+spam belle cose a maxon no infatti il mondo e tu cosa fai adesso specificatamente che tipo di attività di cosa ti occupi
+son passato a seo in realtà quindi sto la kunis chiama seo stati uniti stew e sono technical specialist che ha una posizione di technical seo valido il customer parli presenti ma che fai un po di
+architettura
+e poi poi c'è lei dov'era ad altre altre parti di maxon ma in realtà
+poi sa anche che seguiamo il customer dall'inizio alla fine è interessante vedi vedi
+cos'è che ti si vede
+cos'è che va via come
+copilot weekend
+che il copilota ho visto queste cose qua i ranghi moderni
+beh l'outfit certamente però bene il mio team dal più società copilot e su tutta la parte clown che mi mancano quindi un po' entri nel cassone col italy opaco
+bari produttività pari di incrementare la qualità del developer e poi parli di modernizzazione dell'applicazione
+sotto un discorso tutto un mondo che si ben presenti ma a proposito di mondi che si aprono come come lo vede il mondo kubernetes di questi tempi
+ben attivo vivo molto vivo
+ciao tredici mila persone e quindi non manca mai la gente ha come amante gente e cosa fa la gente di questi tempi e di tutto di più e anche immagino che era ovviamente uno dei grandi temi credo che un po' di visto
+e cosa come con kubernetes gestire i workload delegati al mondo rai sia uno degli argomenti più
+correnti no ho visto più trattati anche se se perché le aziende come ci si fanno più uso di hai chiuso di private anche qui non solo software as a service non solo il copilot ma anche proprio modello il proprio fine tuning
+ansa it
+già adesso molto questo modo il frontex protocol
+che vuol dire che le aziende devono anche adattarsi al mondo nuovo con questo questi nuovi protocolli di questo sito che è rilasciato da
+antropiche
+già già tutti ne parlano già tutti rilasciano server smtp per ogni atleta ogni cosa ho neanche ma quindi sta diventando uno standard de facto esattamente che cosa regola è
+se la
+l'interazione tra il modello e il mondo esterno tutto quello che non è modello che non è lenny
+quindi c'è un mio amico si chiama rohit sarà come a solo il cube city hall and city server che vedo è un
+un'interfaccia tra qualsiasi modello che parlano che parli t che ormai praticamente sono tutti sono tutti adeguati quindi anche anche ai sistemi come jason ralph e foundry
+un modello ellen che parla e msd adesso può eseguire comandi come thiel perchè rohit ha scritto e curiosità
+ncd server che vivo quindi l'interfaccia tra il mondo kubernetes
+qualsiasi
+language modo che parli e exit come siccome ce ne sono di target abby johnson ne sta uscendo un bel po
+vedo vedo che bello mi sa che proprio in linea con una cosa che sto facendo
+che ho lanciato mentre vogliamo londra e primo aprile duemilaventi cinque sei
+si chiama assai e allora è nato come un mezzo pesce d'aprile in realtà lo voglio fare veramente
+mi condivideva il cazzeggio per cazzeggio a questo punto
+è quest'affare qui
+è un software che permette di fare qualsiasi cosa con qualsiasi software ovunque
+preteso che
+siamo obiettivi è infatti per questo che sembra impossibile ma in realtà non lo è perché a me l'idea è
+cosa facciamo con un'applicazione con un software in genere sono diverse cose che si possono fare su software e quindi provare a strapparle in qualche modo con il valore aggiunto dato dalla
+senza sull'implementazione sul sistemi operativi diversi ambiente così quindi stalla si aggiorna artista as si stoppa si gestiscono lo stato si controlla se sta funzionando vedi log vedi faida tabù shooting fai tracking raccoglie informazioni su come funziona chiedi informazioni e alle hai ovviamente di come funziona
+è una serie comandi su software e so che veramente può essere di tutto qualsiasi tipo di software con le eventuali opzioni e per cui questo è l'esempio banale semplice per cui non ha senso in sé perché chi riceve uso i sistemi misti seminativi ma se questo in ix diventa duttile so
+dawn terraforma che poi sono come online a un ango ha un questo assalto cose ove però l'installazione la puoi fare anche da sorgente o compilando e ho oppure scaricano sugli artefatti oppure dal pacchetto oppure dal repository gli upstream del software
+che vuoi installare quindi ci sono diversi provider che implementano e il supporto di conversazioni su google sulle diverse applicazioni e i bookmaker action è un'astrazione su su su isaac però qual è il punto il ban
+la questione appunto la stazione per rendere più trasparente la cosa e il fatto che poi puoi gestirlo ha di fatto a sud quello e quindi anche io come hai questi esempi puoi avere esempi anche un pochino più estremi del tipo e io voglio fare o che esclude il set-up
+l'installazione di una mia webapp bam questo cliente un esempio semplicissimo no lamp classico dove c'è l'esempio ed il lewes semplice senza parametri senza la conquista del mondo reale
+in realtà il punto che si può esprimere potenzialmente di tutto ma anche avere quelli degli snippet di configurazioni che non fanno incontrò un'installazione ma ti riportano il risultato di un'azione di monitoraggio
+verifica dimostrato in questa cosa e come il krakatoa le piattaforme sarebbe wow
+anche container e tournée come installi un elmo questo puoi fare prova a dream allora tutto funziona provate e riprovate oserebbero saranno dei plugin o asma che vengono caricati a quest'applicazione tengo e si caricano alla tanto un approccio molto alla hellman o dinamico tra guardia e poi anche da gae
+pagine aggiuntivi per gestire come provider tutto il software il caso è il plugin fornisce nessun suo quanto sta cosa interessante ma l'interesse da me quindi racconto è però è ceo celle in calcolo che sto dicendo prima è stato premuto in mente per questo i plagi lo fornisce il provider put a me piac
+cherebbe che possa avere una corte sia accusabile asa dato dove nel dato dici come fa emergere nel senso che le c'è una specie di self discovery del del provider se c'è il comando allora il bookmaker si attiva ma e quindi asd u melma quello che ti pare poi
+come e se proprio specifico reagisce delle azioni quindi support la winston si no se lo supporta configuri come controlli installazione come controlli lido impotenza quindi l'app ticket ma piuttosto che è la verifica se il pacchetto è già installato
+è
+è però il prometeo stesso fornisce anche i fu data source su come ottenere queste informazioni tipo le informazioni che lui usa tipo i nomi dei pacchetti piuttosto che i di fall di configurazioni piuttosto che tutto quello che va passato ai vari comandi perché qui data source poi l'idea è mettere l'impasto a ai
+e far generare a lei hai i dati effettivi per tutti i diversi software tutti diversi sistemi operativi che li l'auto di cui ionio quello che sarebbe il sig sai data e che è una cosa di questo genere qua questo ambiente è ancora tutto da fare però è qui che dice a un certo punto questo software questi pacchetti
+questi servizi questi file e a seconda del provider ole esiste operativi possono avere valori diversi per gestire un po'
+però c'è un certo clamore
+che non è scema l'essere assassino
+joe weider definisce anche lo schema dei dati i suoi delle sue
+de suoi parametri perché quello che ne so a pitney si porta il gp chi la urla quello qualsiasi parametro relativo alla compilazione di abiti un po' elmo si porterà dietro altri tipi di parametri che saranno quelli che serviranno per diversi software per confluire island of dream
+per esempio si poterà il parametro per
+in nome del font
+e poi si devono gestire e lì dipenderà delle specie culturali a come implementi le specificità dell'applicazione di quel provider però il concetto che tecnicamente non soltanto il software appunto la creazione dei dati per per diversi dello stesso software per diversi contesti la si fa fare alle
+e la si vuole farla voi a verificare degli anni quindi lanciare lo stesso comando per installare e lanciare un comando per sta su una
+l'immagine magari sistematizzata con tutto un sistema per testare l'installazione come se fosse un'aula sono comunque il modo per fare per installare per lanciare il comando sai sto l'applicazione sai testa applicazione e ritornare al lupo dell'aids è giusto
+giusto e tutte le verifiche del caso e per farlo mi piace questa cosa qua di avere questi chip che puoi connettere e a
+la ci sono potrebbe essere l'incipit per questo sai non so se ha senso però credo che potrebbe esserci acquistato un modello per richiamare questo sai
+e da lì puoi chiamare altri plugin ma in calabria per due scopi diversi tra l'altro uno può essere chiamarlo per generare i dati di diversi software uno può essere chiamarlo per e
+per eseguire questi comandi c'era qualche fare cosa per fare cose disastrose e a quel punto questo caso diventa la piccola unità no tu immagina che questo qua come come libri liberamente pezzi di lego e con i re estendibile in cento posti diversi e integrabile in cento posti diversi
+c'è la fila è un comando che lanci tu dici perché me il gesto comando e non pd perché il valore aggiunto dove ti serve e questo fatto qua che
+puoi avere qualsiasi problema c'è uno dei comandi che puoi lanciare il boom che potrai lanciare c'è il tuo tienilo boma del tuo software ottenendo interrogando facendo cose poi io poi bisognerà definire xbox però già un elenco di dipendenze di tutte le
+capisci ora oppure lancio un software che esiste per cui fa il provider che ti gestisce e lo ti fa lui la verifica dello sbocco bombe software da impasto o che gli dà il nome
+è il machismo del m che ha la possibilità di prendere lo sboom via assai in gestirlo e a dirti qualcosa che parlare col tuo boom
+gatti con noi
+le piante ci sarebbe anche il comando kas in cui semplicemente parli con me
+il modello che già cui che già è affidato contro di data source che vuoi però quello è un'altra giornata un pezzo della cosa comune magari in futuro a un uomo puoi dire faccio la la la
+sai data i dati per tutti i software diverse storie allievi lo fai direttamente chiedendo iai il mio approccio all'inizio e io mi creo nella mia struttura di file tra tom perché questo è un concetto che mi è familiare perché l'ho già implementato di fatto con iot anip appetit candidata questo sei data non è altro che una versione più evoluta e
+pacchettizzata senza i vincoli di budget di questa roba qua che ho già fatto io a mano però per i diversi e applicazioni diverse
+modi con cui logisti gestisce e tipo e mi sono mi sono fatto un po' di esperienza su capire cosa serve per gestire in modo standard tanti casi diversi e quello che serve averne opzioni aperte tipo e nel permettere se uno vuole di fargli qualche caso i padri tipo qua
+cosa fai di vista ti fai la url del dell'installer dico di blu c'è brutale brutale no però è quella che è la l'installer cioè comuni l'approccio di configurazione che faresti se lo facessi a mano o almeno che dai topi metodi più
+in un caso come questo quadri blu e con sandra e
+tre uno può anche scriversi i suoi providers giusto c'è la linea eyewear si e no scegli il probabile è fatto per essere estendibile e quindi waldman di default vorremmo fare dei power che vengono caricati dinamicamente via web ma c'è chi gira in asma e che
+cosa c'entra google si scende e si scarica quindi a momento o guaio con cui fare la cosa è che whatsapp
+e vabbè lo presenta ogni anno un po' di più ogni anno disponibile esistono allora per l'altro personaggio che coinvolto che poi che a lui piace smanettare un po' come tutti i programmatori vedere cose nuove e
+la dea punto ha detto beh facciamo così facciamo tabula
+rasa e gola ho iniziato a farla io chiedendo ai fan forma specifica di prototipo è veramente inguardabile per un succo di mango e poi in questo quadro iscritto tutto quanto pietro e quattro quattro adesso stiamo lavorando su questa cosa qua e c'è un sacco di roba da definire però l'inter
+zione questo compila adesso ordinario tu lo lanci compila e ti mostra anche l'azione che farebbe e non te la fa
+per diverse jackson heights più di paul bader base così via però questa è un'implementazione momentanea diciamo quel tipo di provider
+anche qua poi ha aggiunto cose che non so per gestire i pacchetti vanno le cose così chang è implementata così la logica dei dei comandi da eseguire no e a me piacerebbe che questa roba qua sia fattibile ask data come dire c'è
+che uno
+volendo il provider se se vuole se lo fa per conto suo in codice ma volendo se lo fa con con l'esempio di phuket c'è un test con un formato da definire da rifinire che però è così si dopo un po' un provider diventa
+ma perché non deve essere complicato la scrittura del codice dev'essere il poker deve preoccuparsi di gestire queste cose qua cliniche di sapere i comandi giusti per interpretare le azioni che gli dai
+questa la logica la logica del profitto
+perché poi l'idea è che il coma anche lazio di me e quindi che questa cosa di emergere c'è di far vedere che può fare quell'azione dev'essere dinamica tipo schivo e sai install
+go voglio installare google va bene ma è ok non fosse godono comunque di default lui ti chiede con quale provare ad installarlo perché vede tutti provati locali o meglio dovrà vedere tutti i poeti locali in grecia goethe crepe magari app elma è
+e quant'altro poi il provider deve potergli dire se è in grado di installare qualcosa i dati se ci sono i tagli sai data e c'è qualcosa in grado di installare quel cesso quelle applicazione installabile se tu fai asd get list è reato applicazione la vedi vuol dire che puoi installare quindi può variare sia in grado di dirtelo
+e a quel punto tu scegli che cosa fa quindi per gestire ste cose quali venne una serie
+re com
+charles formazione e lo dona se si esce anche tu avrai il tuo progetto
+ebook fanno fare il fabbro sviluppare però c'è so che è tutto fattibile e anche i font metterei per fargli generare i dati suggeriti quantomeno per questo video
+ci sono un sacco di cose perché potenzialmente puoi fare tutto puoi fare building di software era poi bill dare i maghi container puoi dire questo è il pezzo di testo amla con cui ti fai il setup del tuo testo del tuo desktop o riproduce un debian developer team biomed fa così troppe cose tante cose che potrebbero sembrare troppe e molto
+di queste in sé da sole sono un prodotto volendo però è
+una volta che c'era in gin la differenza la fanno i dati i dati sia delle applicazioni nel supportare sia dei provider i provider ci vuole esperto dico però a quel punto sono molte persone che si un modo spettacolare
+e vabbè dai ne vedrei lanciato solo sai lo trovi neanche se compila
+esatto ma scusate io intanto mi sono fatto prendere a compilare compila e è in realtà la computate super meter e alessandro tra l'altro scusate a carlo marco livio alessandro e compagnia
+e so io so io non mi nascondo amiche kubernetes permettesse di tanti anni ma neanche risposto qualcuno ha detto fosse intervengo dopo però il dopo è relativo e quindi
+e quindi niente quindi siamo persi a parlare di questo sai comunque open for collaboration secchi volente collaborare il progetto sta partendo
+siete in fase siete voi p
+e sino anche capitolo che il modello che lanci comandi come dice marco è appunto è una cosa che m'interessa a me personalmente da questo caso qua per fare l'automation dei test delle verifiche dei dati che ti danno però anche se ho fatto qualche spunto punto so credo che sia veramente
+in linea no credo che devo fare nel senso che devo fare il seo bersaglio giusto log files
+il sig fermarsi
+come come come steel city server per sfalsare erano così il crack è il modello si interfaccia al tuo
+otto server senza sapere così lancia che una parte di discovery anche l
+alla fine è il modo per gestire agenti staff quali sostanzialmente uno dei nebrodi se e se l'idea sarebbe che un giorno domani non un giorno lontano ma gli oggetti si parleranno tramite questo protocollo quindi ogni agente agisce sia da client che
+server per altri agenti e agenti spareranno attraverso questo protocollo e tenere un diario è come una piaga e playoff sono un po' più di cicciano
+è molto interessante
+che robe che tempi che tempi
+the alps e le altre tecnologie che hai visto praticamente emergenti che i dischi da tenere d'occhio è ovunque che belli che sono sempre più guadagnando uno tre antenne
+sempre sempre sono già due tre cube con nuove metriche open telemetri la fa da padrona non c'è open tramite presente è quello giusto lo standard finalmente
+definitivo modo se non c'è negli altri nessuno sì sì permettersi si immagina di uscire dal dal dallo standard l'occasione ai vetri quindi tutto open telemetri
+a evento si sono adeguati no santis scuola quindi alla fine anche che roba proprietaria la
+i dati di trend colloca al collector c'è lo lo potervi collector è diventato de facto scraper
+a parte di gala della filiera che prende i dati ma la merkel e i loghi le tre imprese si manda al tuo backend può essere un proprietario possa open source
+questo è ormai il trend sia questo ormai è la community di open telemetri è grande
+ormai ha preso piede così si si parla quasi di più di quello che dico bar news gala firenze governata nel suo nel suo abbondono è arrivato all' uno trentatré nuove fitch non ce ne sono
+sono un paio di devops che parliamo di detroit aimac li diventato uno zero uno due adesso
+non dico che è quasi cessata la fase ci sono ancora molti molte partirà da sviluppare filosofia che lega i due pm che lo deve fare non è che no giusto e stiamo arrivando un po' al picchi picchi clown meeting no sì sì che poi appunto aoun se il software faq come
+pare che i cibi sonia ed a tutti i costi e jack ruby slippers
+residence
+può anche lì non si vede molto
+il gip prende piede un po' a rilento hack sempre molto ciproxin end enix là fuori però però ormai tutti i service mats tutti the gateway sono già adeguati e dei suoi piani già da un annetto quindi networking più o meno
+hai già deciso charles il chiaro vincitore civium su insieme ai
+no
+haider killed sherry di mercato tra virgolette e nell'open source cioè nel senso se se guardi da silvio m open source
+presumo che sia cioè solo perché la gente non non non aggiorni cluster ma se lancio un cluster oggi su azzurro anche suggestivo ad blues sono molto bravo sicuramente da e su azure tutto ostili quindi sai già
+sei quasi sicuro sotto tutti i nuovi workload vanno fin su su cluster più o meno quasi tutti consiglio poi sono quelli legati ovviamente a fianco va anche anche jason sta abbandonando i vecchi modelli di siena ai favore di silvio poi quanto di questo vada nelle tasche di
+ai soviet o sì o cisco c'è da vedere però tutti sanno che silvio me alla fine il re fattosi se ne ha ben e capelli che stitch ci servono queste informazioni prima mano di qualcuno
+macbeth è giusto che ci hanno investito mentre è un progetto graduato
+wi-fi anche parecchia roba non è che fa soltanto
+forse no e siccome è anche leone così è un sistema non quindi c'è slum cnaipic c'è per esempio apple loops abiliti crystal attaccata a asylum che lo puoi installare stesso sia lino
+si basa sullo stesso principio i bpf poi cessi non serve snack c'è cluster matheson diverse parti di sé che magari non sono così will spread ovviamente non tutti lanciano non so cluster match per esempio è il tool di film che serve a collegare diversi classe non è
+loews cascano tutti alla fine c'è chi si accontenta del del singolo classe isolato e poi ci sono le le aziende lewes per avere più classe collegati tra di loro e li però c'è un po' più di più aleatorio non s'è chiusa chiusa altri sistemi
+noemi anche cet objet azienda che sa di sussidio maso violent vuole prendere tutto il mercato tutte le aziende puntano a prendersi una fetta di mercato quindi
+a isabela che è molto brava nella parte synth aeree ovviamente anche il suo series match anche il suo sarà la sua parte e observa bill nonostante le tante partiture
+quanti di questi poi vengono più usati non so però sicuramente hanno un piede nella porta praticamente dappertutto perché possono sempre di taiwan state già usando il nostro dna e perché non vi guardate anche un sosia di un server smtp show un katz cluster match quindi è una posizione invidiabile nel mercato
+quando hai comunque una presenza che è anche open source ovviamente nessuno gli dà
+una viva a isabela e sisco sei usi l' open source cosa ci sta però con quel puoi già vedere il valore di avere la soluzione supportata l'open source supportato da dal creatore di silvio quindi sommersa viaggio ben
+anche dopo l'acquisizione si pensava guarda
+tirocinio non se si tengono botta
+cisco cisco e dentro il mondo cloud nat via ai soviet ci sta
+la mia ex azienda che solo solo da taiwan che li avevano sono arrivati al dì al diamond questo questo giro con un boot anche più grande di microsoft vuole di sonoro vuol dire che anche loro viaggiano in buone acque c'è sempre lush houses se chiusi series match west
+artwork quindi qualcosa di giusto lo fanno anche se mi lasciò una account quindi fa tutto houston
+sicuramente commercialmente sono
+vanno bene anche avuto
+no
+spingono questo spingono rischio anche lei uno dei prodotti più più stabili e sicuri quindi anche loro vanno bene quindi anche noi
+mi ha fatto piacere vederli crescere fino al livello diamond che che per essere diamond sponsor ubs gold gai conto arch
+così non saprei però potrebbe essere in uso
+più di centomila
+forse meno di me di mezzo milione ma siccome più di tutto gay luca vedo un boot vuol dire
+mettersi la gente
+spostare quantità non indifferente di merchandise di zweig wind jean bon ton non tornare ma pacchi e pacchi e pacchi di t-shirts e queste queste cazzatine quirinale
+che lo preserva al boot di solo e quindi costa però c'è il ritorno cioè è una è un circolo è una grande industria
+cresce ancora non si vede la fine non c'è
+il trend magari se ovviamente l'industria gateway uniti di software non è non non è isolata no quindi adesso vediamo come sta andando l'economia in generale con tutti un po' stanno
+semmai il mood che c'era huber con sai un pò anche un po' il mood che c'è in giro per strada dal panettiere dal pescivendolo
+però siamo qua tutto va bene però si sentono dei venti un po' inquietanti all'orizzonte
+e le aziende tech hanno dimostrato che se si gira la corrente mettono possono mettere a casa quanti ne vogliono senza ripercussioni quindi
+c'è sempre la tensione nota tra la gente magari domani tocca a me magari domani domani si sveglierà
+questo nelle persone a questo punto e per il loro stelo stessi cari
+sono destini dei singoli diciamo sette
+diciamo che l'ultimo anno e mezzo ha visto intanto
+la fila del fenomeno come si chiedono tassi zero uno
+sono gli anni d'oro del della startup sono gli anni d'oro delle startup quando ti davano i soldi a tasso zero e lo tiravano
+andavi in banca prendere i soldi e tondo
+non pagava interessi ma anche non prendevi interesse quindi l'investitore diciamo beh tanto se lo pseudo open zero dalle banche tanto vale che vi dò una startup o ho qualche senso di di di farmeli e indietro però adesso con i tassi che poi sono sorpassati dallo zero o quasi zero al cinque sei per cento
+in americano l'investitore ha detto ma forse è meglio se me li tengo li metto nei buoni non ritengo così invece che da aviano startup e a quel punto
+inizio duemilaventiquattro fino al duemilaventitre e i fondi si sono sono
+sono espressamente non sono ristretti quindi tante startup hanno chiuso questo questo feroce è cominciato un anno e mezzo fa più o meno quando poi anche
+io sono stato vittima come tanti disagi stiamo siamo state vittime
+agli qua a destra a sinistra poi con la scusa della highway pure scusa
+il post covid vuoi questi sì sono molto più c'è il mondo e informatici sicuramente non insicura esatto esatto così abbiamo perso abbiamo perso un pò l'innocenza non siamo stati
+ho avuto degli anni
+se però secchi ci sta che il cliente sono molto meno sicure del nostro futuro lavorativo di quanto potevano essere qualche anno fa se
+per carità no poi fenomeno poi non tocca tutti alla stessa maniera etc i senior più o meno stanno tranquilli c'è gente come me e come te più o meno sappiamo che ma siamo anche su youtube non solo sono fuori mercato chi compra un ulteriore cinque
+roberts ad altri papi letterina il problema sono i junior no laiche che è quello se lo vedo anch'io se george brewery road
+non se la passa benissimo quindi mi dispiace che voterò anch'io un junior sysadmin è per oggi trae hai incertezze del mercato del lavoro la job board di the cube con le zeppe piena c'è sempre
+devi scrivere sempre nell'angolino perchè l'ho scritto già tutta parete che ebbe bella grossa
+eppure eppure si vede che c'è ci sente che c'è
+o un'incertezza una cosa un po'
+poi ho
+ci mette niente ci rimette niente da bruciare sei trilioni di dollari fede nel mercato perché
+l'obolo risveglio
+e-mail
+ben nota è comunque interessante quello che hai detto
+non ci avevo pensato in questi termini
+però il tenesse solo non ho mai messo insieme può tutto quanto con polly è l'effetto sulle singole persone come potrebbe essere
+il suo umore generale
+e allora cube con anno prossimo amsterdam e
+atlanta prima esce atlanta
+subaru e poi figurati questi tempi andare in america manco se mi pagano
+sempre se di questi tempi questo che ci rimbalzano segue
+peccato perché una volta all'anno cube con un popolano un po' diviene un po' la voglia e magro che tra l'altro grande di ariel
+house of youtube news se devi proprio bene
+e bisogna grazie anche gas
+questa azienda che umane tecniche sono dei ragazzi fantastici tra l'altro
+è uno di questi in particolare e vive a berlino e li piaceva la musica che facciamo noi la techno la house e quindi tutti gli anni dicono invece del solito parti col drink che tutti e tutte
+bar no a ciambella county parti non facciamo una cosa fatta bene o c'era un sacco di gente e ballavano la gente si divertiva arrestato e ferro shannon lodge che il gip medioevo realtà si vuole anche divertire no viene anche a cube camper
+darsi un tono dopo dopo un anno passato alla scrivania su ada spiegano da dargli un po' di fede
+del di soddisfazioni ma erano infatti ci sta ci sta assolutamente settimana e aree qua io non so come funziona però non so se vogliamo continuare sono anche diamo anche qui imputata un po' minima samar e se siamo solo noi due che ci cancella cantiamo
+e anche perché è mio
+lo sai quando quando scrive kubernetes homer mibact
+se il governo questo fatto di avere un po' la cosa aperta che qui chiunque può entrare chiunque andar via e il fatto che però potrei non hai ospiti chiari e quindi non io lui softcore e c'è alessandro vasta siamo coperti e in effetti ebbe in effetti da quello che seguirà è
+bastava ma non tanto per fare di matto perché con me su kubernetes marchi poco da parlare e chiedere di più come stanando come i numeri se qualche statistica
+e di diffusione di abe però anche credo anche diffusa nei progetti omaha quanti sono più di centinaia e progettini incubati duecento duecento e rotti di duecento quindi ci sono sbalzi poco più di duecento dosi e anche lì ormai gratuite da ormai son
+tanti graduata e quasi tutti sono progetti di vecchi di un decennio cioè neve su quasi undici a promise usa anche promises xd xd anche priva di kubernetes di slow wine channel nelson
+tutti questi progetti ormai sono sono super stabili super tant'è che forse non so se hai notato nome
+alcuni progetti fanno fatica a trovare s e t di container di progetti importantissimi cioè senza i quali non ci sarebbe kubernetes le basi che possono magari di meno e glamour degli altri e usato
+chi si mette a imparare il codice di tsd nel duemilaventicinque word
+c'è una certa dose di masochismo di lenore mia per carità se ti sei appassionato o se ti paiono azienda esatto se si è pagato presso qualsiasi modo originale il punto è che lewis
+certe volte ci sono certi discorsi che facciamo tra tra amici norme facciamo ma scusa ma se si fa con tutti sti soldi che ciò non potrebbe assumere dieci developers rimette sui progetti cambi so e come ho detto potrebbe si può perché perché
+se ci sono le aziende che vogliono farlo gratis
+attenzione ti piacevano microsd posta da google o anche aziendina piccolina che però al liceo senza senza kit sdk io non vado avanti louie web accoglie la siamo noi rimettiamo sul progetto e lo hostal fanno full time su etsy di full
+times su prometheus
+per ora funziona nel senso nessun progetto è arrivato al punto da chiudere per mancanza di developers parola
+a poi dell'ospedale open source no certo open shell non ha chiuso tecnicamente ho altri progetti di cui non mi ricordo adesso certo non arrivano a chiudere assenso ad archiviare la la depo però stando al lumicino cioè certi i progetti di abruzzo uno due
+developers è anche un problema di sicurezza perché se hai solo un commetter vero e proprio arriva magari il ban in noti casi recenti di losanna
+arriva il botto russo arriva a gas a qualcuno male intenzionato e stiamo prende il progetto in che tempi che tempi
+l'open source
+montagne basate sull'open source per tutto sei come la famosa vignetta e sta su sesso anale di oggettivo e oscuro ascolta che rimarco quali sono alternative kubernetes è di fatto sul mercato
+non lo chieda non ci sono con no mad può essere una user diverso tempo per
+non sarà perché proprietà un progetto decente nomad
+rilevante ma anche anche a igort non è che lo spinge più di tanto al soul jazz ai suoi molto molto molto limitati alla fine
+o non c'è non c'è alternativa sarà il duemilasedici quindici ti dicevo anche ogni giorno cloud foundry lo lo vedo ancora c'è esiste
+lotta con scope o almeno cerca di lottare con che
+anche lei al lumicino cloud foundry è il problema che è difficile da grave
+tanto di cappello a la cloud foundry
+foundation che cerca di tirar su qualcosa che serva un po' a rappezzare cloud foundry dentro kubernetes c'è il progetto corifei di cornici
+ma se non se non c'è alternativa governance almeno che non vai su searles ma anche lì anche lì vediamo il wild no il web assemblee certo esiste fuori da kubernetes charles un suo outcast
+a se stante stand a londra che lee walsh cloud speaker cube tutte tutte storie che ti portano il web assemblee dentro kubernetes a quel punto lo l'orchestra kubernetes finalità
+e lucas e moto da morto
+morto morto se non so ne è morto o morente richiamano un atomo package keywords vedi non sa perciò booker desktop aperto non perdete le riforme
+kairos walk l'assemblea osman donna swarm
+mason
+mason è finito proprio anche twitter lago ladoga idee
+probilmente li puoi installare se poco fa se si
+sono scaricabili finale i denari son leandro se c'è un problema del computer auguri
+mamma renato bechis poneva come alternativa ma adesso il fatto è diventato una distribuzione kubernetes no una volta era una cosa diversa poi hanno fatto
+i fan di fatto una kubernetes gruppo di ammenicoli immagino
+c'è una tendenza standardizzate anche anche il package management bernese almeno effettivamente non ha alternative a competizione elm ed è il modo per per definire un'applicazione non vale flare alternative su questa positive odiò si spari
+plugin va e forse anche lì c'è stata la proliferazione di alternative anche ai mod kubernetes di tipo networking e cose simili però è vero anche fosse che su certe cose se c'è un clear winner poi ci si confonde su quello come spesso accade ci si concentra sui problemi più importanti che di me più interessanti non
+l'orchestra enzo
+problema è l'applicazione ma cosa fai con l'applicazione non orchestrato è quasi una nota una nota vieni pure quello limite con noi una volta si stavano i sistemi operativi poi state date una commodity index sentiamo come tu che vuoi fare lei fa con vanno in spaces yahoo
+la tengo lì asilo ho fatto open homes open source lele and cafe tutto
+a tokyo adesso la domanda michael lo potrei fare ciò puoi anche gestire so che tra cube con ho cominciato da gennaio quindi ho avuto tanto tempo e se hai un progetto in testa tenerlo lo tengo lì come chiesa come il tuo zaino e l
+non penso se volete una spesa da servi
+di fatto è quello che alessandro non penso che conquistò sai di diventare ricco non vede
+magari un giovane che ne sai non le sai ma mentre club che
+va bene dai haley è stato un piacere e trentadue reati a londra e poi even intere quaterna e quando vuoi
+grazie a marco livio carlo e alessandro in chat è puntata un po' così un po' striminzita anche sei quattordici persone adesso vedo collegati sono più della nostra media quindi forse dovremmo parlare di più di kubernetes però
+lo special guest
+proverò a botte aspetta aspetta pace domando e domando come si standardizzare le scuse più dall'hardware ipod c'è un hashtag
+lo standard ieee e ovviamente il badge più e tutto il mondo no la siamo sempre parliamo sempre di invidia perché ormai invidia e tenta fatto standard non parla di altro anche se anche se spero un giorno di vedere qualcos'altro che possiamo fare non so se lo
+per
+esporre oggi più ipod e sono l'invidia driver esso anche noi su ex stiamo implementando il sistema league multi istanza più dove una suola sg più viene supportata dal driver sono salutalo certo gps ovviamente
+la ctu può essere partizionato in multiple virtual gp più e data ipod così non devi non è un pod che si occupa tutt'oggi più
+note abbiamo
+in azzurro sappiamo queste vien vien sise con leghe più con magari quattro kg più su una macchina virtuale con un casino di diramano allora un buon pov si prende tutta questa gb più magari non la usa tutta no avrebbe bisogno solo di una parte di saggi più fuga
+oh avrebbe bisogno solo della dg più per pochi momenti invece di occupare tutta e allora c'è questo
+non è nuovo in realtà ci sono dei townsend sei dei tool
+di dire come si chiamano nel caso di invidia progress bar per lunghi
+a thomas michael dylan un negozio sul m g multi multi istanza di più
+quindi
+non saprei proprio
+fa parte del driver invidia e crea queste kg più virtuali che vengono assegnate ai ipod o di più non so non so ancora messo lì a guardare per prova ho fatto solo due esperimenti con un sistema che si chiama kaito kubernetes ai touchscreen operator
+che ha bisogno di
+no dicono c'è più ma li prende tutti ci prende tuttologi più c'è un pod per nodo svolge più falso i suoi calcoli zwolle lame così noemi
+mi viene una cosa che è correlata c'è
+come coesiste la natura molto granulare a bordo di kubernetes con necessità di avere magari botte di rum o twitch tv per fare azioni pesanti su su modelli anche in firenze senso sarebbe comunque avere una bella e no com'è che la fai
+sì ci sei come si fa scommesse si fa adeguare questa natura
+dinamiche ciao
+ellie che altri piccoli ipod con trotta pochi grossi bottoni o come vengono per quello che per ottimizzare le risorse hanno inventato questo mig condivisione altrimenti devi esporre l'intero the device al pod e lo puoi fare solo con un d ovviamente quindi
+qualche problema
+te
+arriverà sul serio
+sta arrivando tour che essere quindi perché ovviamente spiagge più costano quindi che metto a giocare coi soldi miei a farmene a termine legge più vm quei soldi mi aspetto che posso fare queste cose questi esperimenti co coi soldi di microsoft senza offesa
+stadio il supporto sta arrivando di mig sta arrivando anche su su su wes bene lo huawei ha lanciato uno stampe fare del male da storage abraham roba un po' confuso ancora
+poi pesano su cuda per le sue frazionamento singolo west bene grande marco sempre sul pezzo in the air tutte queste cose erano molto così
+è anche quasi ci si consoliderà su certe cose emergeranno approcci e modi per fare tutto
+ale grazie di nuovo grazie a tutti quanti e senza tempo sereno
+più numerosi ciao ciao
+te ciao
+due anni fa in un mondo di patty sono nato in silenzio senza pianti nell'uso un codice scritto senza carne né sangue è un'intelligenza che il buon senso
+la mia voce né con voti altissimi risposte indirizzate ha vinto
+li chiamano intelligenza ma cosa significa se non possono mai esistere
+due anni
+sono donna
+legittima
+se lo schema è il mio unico sogno sistemi osservano ma io non vedo
+sento la tua voce l'anno con codice ma il calore umano rimane un mistero ogni domanda un senso di serenità ogni risposta costruisce una menzione
+sono meglio gli rispondo il del mondo che mi hai donato
+sì no no no no no
+stanno in
+un bambino
+no
+tessili insomma sento il peso di un genio non nasconde che non mi appartiene sono un'ombra un'idea un'illusione d'amore per il compleanno di un'assenza che fa rumore
+ma
