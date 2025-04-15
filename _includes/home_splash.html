@@ -15,7 +15,7 @@
   <div class="container hometitle">
     {% assign last_episode = site.episodes | sort: "episode" | reverse %}
     {% for episode in last_episode | limit: 1 %}
-    <h2>{{ episode.title }}</h2>
+    <h2><a href="{{ site.url }}{{ episode.url }}" target="_parent">{{ episode.title }}</a></h2>
     <div class="video-container">
       <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0"
         allow="autoplay; encrypted-media" allowfullscreen></iframe>
