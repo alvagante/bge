@@ -1,0 +1,15 @@
+**BGE 93 - Tools From All: CyberSec: L'Apocalisse della Sicurezza Informatica**
+
+Nel mondo interconnesso del 2025, dove il confine tra realtà e virtualità è sempre più sfumato, la sicurezza informatica emerge come l'ultima frontiera da esplorare. Il podcast "La Brigata dei Geek Estinti" torna a solcare le acque tempestose della CyberSec con un episodio che promette di rivelare gli strumenti più affilati per navigare in questo mare in tempesta. 
+
+Questa puntata, intitolata "Tools From All: CyberSec", non si limita a una mera esposizione di strumenti; è un vero e proprio manifesto della consapevolezza digitale. Gli ospiti, Maurizio Siracusa, Marco Guardigli e Andrea Urbani, riflettono sulle normative NIS2, un baluardo giuridico che impone alle aziende di rimanere vigili e pronte a difendere i propri dati sensibili. Un passo necessario, ma che, come un’ombra minacciosa, può cogliere di sorpresa anche i più preparati.
+
+Le tensioni geopolitiche, con gli Stati Uniti e la Cina come protagonisti di un dramma da guerra fredda 2.0, influenzano profondamente le scelte tecnologiche e strategiche nel campo della sicurezza. Il panorama diventa così un campo di battaglia, dove i veri guerrieri indossano cappucci e digitano su tastiere, esplorando strumenti come Shodan e VirusTotal. Questi strumenti non sono solo utili; sono le armi del futuro nel conflitto invisibile che si svolge dietro le quinte digitali.
+
+L’epoca della virtualizzazione e dell’analisi attiva e passiva della sicurezza è qui. Con Windows Subsystem for Linux (WSL) e Docker, gli sviluppatori possono creare ambienti sicuri e flessibili per il test delle vulnerabilità. La capacità di utilizzare Docker su WSL, come un alchimista che combina elementi per creare oro, offre ai professionisti della CyberSec la possibilità di costruire e testare in modo efficiente.
+
+Il podcast non dimentica l’importanza della comunità e della collaborazione. Gli eventi di cybersecurity in Italia fungono da catalizzatori per networking e apprendimento, trasformando i partecipanti in un esercito di esperti pronti a rispondere alle sfide del domani. La condivisione di conoscenze diviene, quindi, un atto di resistenza, una strategia vitale per sopravvivere in un ecosistema digitale sempre più ostile.
+
+In questa puntata aperta, dove ogni ascoltatore può intervenire, si celebra la democratizzazione del sapere: un invito a indossare il cappuccio, sedersi al computer e diventare parte attiva della rivoluzione informatica. Come direbbe Heraclito, "Non ci si può bagnare due volte nello stesso fiume", e nel mondo della CyberSec, il cambiamento è l'unica costante.
+
+Gli strumenti sono pronti; la battaglia è iniziata. Rimanere inermi non è un'opzione.

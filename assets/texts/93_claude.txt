@@ -1,0 +1,11 @@
+Nel cyberspazio dove la paranoia è una virtù e la sicurezza un'illusione necessaria, la Brigata dei Geek Estinti si immerge nell'oscuro regno della cybersecurity con un episodio che è tanto illuminante quanto inquietante.
+
+Come un hacker che scandaglia i porti aperti di un sistema, questa puntata "Tools From All" esplora metodicamente l'arsenale digitale dei moderni guerrieri della sicurezza informatica. Dal NIS2, che si staglia come un monolito normativo nel panorama aziendale, fino alle sottili tensioni geopolitiche che trasformano ogni bit in potenziale campo di battaglia tra Est e Ovest.
+
+L'episodio naviga attraverso un oceano di strumenti: Shodan, il motore di ricerca che vede l'invisibile; VirusTotal, l'oracolo digitale dei malware; e il WSL, ponte tra i mondi paralleli di Windows e Linux. Come in un romanzo di Gibson, ogni tool raccontato è un personaggio con una propria storia e un proprio ruolo nel grande gioco della sicurezza informatica.
+
+La discussione si evolve organicamente, passando dall'analisi passiva - l'arte di osservare senza essere visti - all'analisi attiva, dove gli strumenti diventano sonde che tastano i confini dei sistemi. Docker emerge come un demiurgo digitale, creando e distruggendo universi virtualizzati a comando.
+
+Ma oltre la tecnologia, emerge il fattore umano: la community, le conferenze, il networking. Come in un romanzo cyberpunk, sono le connessioni tra le persone, non solo tra le macchine, a formare la vera rete di sicurezza.
+
+Nel buio del cyberspazio, questi tools sono le stelle che guidano i navigatori digitali. Ma come sussurrava Gibson: "Il futuro è già qui, solo che non è distribuito uniformemente." E in questo episodio, la Brigata cerca di renderlo un po' più equamente distribuito.

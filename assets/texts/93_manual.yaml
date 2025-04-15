@@ -1,0 +1,17 @@
+---
+guests:
+  - Maurizio Siracusa
+  - Marco Guardigli
+  - Andrea Urbani
+links:
+  Shodan: https://shodan.io/
+  BuiltWith: https://builtwith.com/
+  WeBHackersWeapons: https://github.com/hahwul/WebHackersWeapons
+  Nikto: https://cirt.net/Nikto2
+  RedTeamTools: https://github.com/A-poc/RedTeam-Tools
+  BlueTeamTools: https://github.com/A-poc/BlueTeam-Tools
+  TPot Honeypot: https://github.com/telekom-security/tpotce
+  Wazuh: https://wazuh.com/
+  RedSift Certificares Life: https://redsift.com/pulse-platform/certificates-lite
+  hackthebox: https://www.hackthebox.com/
+  TryHackMe: https://tryhackme.com/

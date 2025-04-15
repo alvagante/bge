@@ -1,0 +1,10 @@
+- Sicurezza Informatica: Discussione sulle attuali misure di sicurezza informatica e normative come il NIS2, che impongono alle aziende di adeguarsi a requisiti di sicurezza per proteggere i dati sensibili.
+- Normative NIS2: Riflessione sulle implicazioni della normativa NIS2 per le aziende, con particolare attenzione alla classificazione e ai requisiti di sicurezza che potrebbero cogliere alcune aziende di sorpresa.
+- Geopolitica e Sicurezza: Analisi di come le tensioni geopolitiche, in particolare tra Stati Uniti e Cina, influenzano le decisioni aziendali e le scelte tecnologiche nel settore della sicurezza informatica.
+- Strumenti di Sicurezza: Discussione su vari strumenti informatici e musicali che possono essere utilizzati per migliorare la sicurezza, inclusi strumenti di command line su Windows e Linux.
+- Windows Subsystem for Linux (WSL): Approfondimento sulle funzionalità di WSL e suggerimenti pratici per l’installazione e l’uso di distribuzioni Linux su Windows, inclusa la gestione dei file.
+- Docker e Virtualizzazione: Utilizzo di Docker all'interno di WSL per gestire ambienti di sviluppo e test, con suggerimenti su come configurare e utilizzare Docker in modo efficiente.
+- Analisi Passiva e Attiva: Spiegazione delle differenze tra analisi passiva e attiva nella sicurezza informatica, includendo strumenti utili per ciascun tipo di analisi.
+- Strumenti di Vulnerabilità: Discussione di strumenti come Shodan e VirusTotal per analizzare la sicurezza e le vulnerabilità delle reti e dei dispositivi.
+- Cybersecurity Events: Riflessioni sull'importanza di eventi di cybersecurity in Italia e l'opportunità di networking e apprendimento che offrono ai professionisti del settore.
+- Community e Collaborazione: Importanza di community e gruppi di lavoro nella condivisione di conoscenze e strumenti, evidenziando l'importanza di una rete di supporto tra professionisti della sicurezza informatica.
