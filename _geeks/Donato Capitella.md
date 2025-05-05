@@ -1,7 +1,7 @@
 ---
 episodi:
-- 94
+- 95
 layout: geek
-nome: "Igor Falcomat\xE0"
+nome: Donato Capitella
 ---
 

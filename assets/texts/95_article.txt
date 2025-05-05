@@ -1,0 +1,13 @@
+### BGE 95 - MCP: Braccia e sensi per le IA
+
+Nel vasto e complesso ecosistema degli LLM (Large Language Models), si erge un nuovo protocollo in grado di connettere l'intelligenza artificiale con il mondo esterno: il Model Context Protocol (MCP). Introdotto da Anthropic, MCP si propone come una sorta di "porta USB-C" per le applicazioni AI, promettendo di standardizzare e semplificare l'interazione tra modelli linguistici e le loro fonti di dati e strumenti.
+
+In questo episodio, i partecipanti, tra cui il noto Donato Capitella, esplorano le molteplici dimensioni di MCP, evidenziando come questo protocollo non solo faciliti la connessione tra applicazioni diverse—come Claude e ChatGPT—ma rimodelli l'architettura stessa delle AI. Si discute di come la standardizzazione attraverso protocolli come ANSIP possa migliorare la comunicazione tra server e client, creando un ecosistema più coeso e sicuro.
+
+Un tema centrale è la sicurezza nell'uso dell'intelligenza artificiale generativa, un argomento di cruciale importanza per prevenire vulnerabilità e abusi. La necessità di un controllo umano nelle decisioni automatizzate è un richiamo a una responsabilità etica che non può essere trascurata in un mondo dove l'AI sta assumendo sempre più potere.
+
+Il podcast si addentra anche nelle sfide tecniche, come il training dei modelli e le tecniche di quantizzazione, per ottimizzare prestazioni e precisione. L'integrazione di tool specifici per compiti diversi emerge come strategia chiave per massimizzare l'efficacia delle AI, un approccio che riflette la tendenza verso sistemi sempre più modulari e flessibili.
+
+Infine, si discute l'impatto che l'evoluzione dell'AI ha sul mercato del lavoro e le preoccupazioni legate alla sostituzione di ruoli umani. La conversazione si chiude con una riflessione sul futuro dell'intelligenza artificiale, un futuro che, sebbene promettente, è costellato di rischi e responsabilità.
+
+MCP non è solo un protocollo; è una visione di come le IA possono interagire in modo più umano, più sicuro, e soprattutto, più etico. La domanda si pone: siamo pronti a navigare in questo nuovo territorio?

@@ -1,0 +1,605 @@
+mamma
+connessioni
+quanti atomi rivelati si ritrovano anche quelli
+la festa dei chip bruciati da utenti
+dopodichè tempo
+ubicato
+importante
+bene
+venti
+ma utilizzando nella
+una fondazione
+ho fatto scrivere uno sport
+semplice
+serpent
+troppo fare
+andiamo un po' più avanti la brigata dopo l'ultima messa
+specifica il codice imparati
+costruire casa sua
+questa volta
+uomo moda
+cinque dante
+in tremila
+tempi di attesa
+raccontiamo il nostro sussurro
+mi ricordo che diceva che se
+l'immagine
+è il modo in cui decoriamo lo spazio comando la musica il modo in cui decoriamo
+sogni spezzati con i pagani di vaud è una storia da raccontare
+perché
+una
+bene
+venti
+telegram lato destro
+quella cattedrale oltre
+un mantello diventato un matera
+quello che doveva essere l'alternativa
+sapresti memorie andare
+ricordiamo il passato prevediamo il futuro
+artefice schiavi dell'algoritmo del tempo
+codice binario tracciamo sentieri
+certi mondi virtuali e reali
+l'anno stalle che sia principalmente di noi in ogni device digitale voci ma niente
+rinnovo di beni digitali
+se mai davvero scomparsi
+ma come
+la propria realtà vera la verità vera è che so due ore e mezza che parla modena cosa e najem risorto un cazzo
+però questo inizia proprio adesso e qui
+e quindi e quindi
+quindi
+e quindi siamo arrivati alla puntata novantacinque da brigate di estinti ci troviamo parlare di hamsik pin acronimo più cool del momento a quanto pare lo facciamo con donato capitella e gli altri gli istinti che eventualmente vorranno aggiungersi in futuro
+donato bentrovato benvenuto è un piacere averti qui breve introduzione e poi andiamo nel merito grazie mille per avermi invitato
+in breve introduzione
+ma com'è la gente non mi conosce e vabbè ma l'ho chiesto anche così com'è possibile che la gente non sappia quello che ah no io sono
+trovo sempre difficile dire quello che faccio perché ho avuto la fortuna
+di entrare nella ditta dove sto adesso dodici anni fa
+come
+ethical hacker diciamo
+adesso la terminologia è cambiata però penetration test cola security consultant ma anche come software engineer quindi ho sempre avuto i piedi un pochettino in due scarpe ho fatto ho passato tanti anni a fare un sacco di penetration testing di applicazioni di sistema avversari simulation come le chiami
+siamo noi
+e poi anche software ingegneri noi abbiamo una piattaforma che ciò nella quale faccio sviluppo e gestisco anche diciamo agli altri i nostri ingegneri che ci lavorano
+quindi tutte queste cose però quello che faccio adesso
+la parte forse più interessante per questa puntata
+mi occupo del nostro servizio di sicurezza dell'intelligenza artificiale generativa vedere ho tradotto bene l'italiano sicurezza dell'intelligenza artificiale generativa
+e quindi ho avuto poi la fortuna due anni fa mi sono appassionato tanto per conto mio
+a tutta l'intelligenza artificiale generativa quindi d'allarme soprattutto volevo costruirne uno all'inizio senza capire bene che cosa fosse però poi quando è passato da me che ci giocavo
+cercavo di capire come funzionavano come si costruivano ai clienti che sono venuti da noi io ero un consulente di sicurezza iniziavano a implementare questa roba e avevano domande domande alle quali non è che esistevano risposte quando i clienti sono iniziate a venire da noi
+queste integrazioni degli hotel nei loro prodotti non c'era neanche lo vasto ottanta km e quando è uscito era ancora peggio perché hanno fatto era inutilizzabile e quindi dovevo un po' definire tutto cercare di aiutare le persone quindi sono stato molto fortunato a essere la diciamo
+due anni fa
+essere esposta tutta questa roba quindi questo diciamo mi occupo adesso sicurezza delle applicazioni web tutta l'altra è un canale di youtube dove parli questi argomenti vogliamo citarlo giusto per assisi e grazie per la sponsorizzazione per la
+non avrai grande seguito da qui però è bene che si sappia
+no il canale sia il mio nome donato capitale l'ho iniziato in realtà era un percorso quando stavo imparando l'intelligenza artificiale la mia idea era che tutto quello che imparavo poi avrei fatto dei video con delle mappe concettuali tecniche per condensare tutto quello che stavo imparando il percorso diciamo costruire una
+rame da zero poi quando ci ho cominciato ad aggiungere professionalmente la parte della sicurezza ho aperto un'altra playlist
+dove racconto soprattutto di promoting in action celebre king
+e e anche nella ricerca che facciamo diciamo la ditta per cui lavoro reverse sec
+che qualcuno può conoscere come wiz con salti ma adesso siamo da settimana scorsa ci chiamiamo revers che siamo un'altra cosa rispetto a witsel okay facciamo ciò abbastanza tanta ricerca quindi di solito parlo della roba che faccio che faccio per quanto riguarda l'allarme
+benissimo poi parleremo sicuramente il discorso sicurezza legato kings credo che ci serve le praterie che si aprono in quel contesto è però prima due parole per spiegare questo sì
+moda con te scott con che cos'è e poi
+un'introduzione generale se e se usciamo a me piacerebbe se ci fosse qualcuno che ascolta che che che ha un'idea del perché abbiamo iniziato a parlare di ansip negli ultimi mesi quando comunque è un po' più vecchio non tantissimo più vecchio però non non riesco nemmeno
+nella mia testa non riesco a capire perchè solo negli ultimi mesi se tutto questo push quando mi pare che antropica che l'aveva ne aveva già nella mia agenzia non rilasciare a voglio dire è enea duemilaventi novembre novembre anche la lira però c'è stata una specie di curva lenta con una spa
+c'è di troppo che sono abbastanza sostanziosa negli ultimi mesi che è due o tre mesi è stato il boom dei server è così tant'è vero che quando più un cliente mi chiese di ansip tipo due mesi fa dissi ma senza dubbio sarà una cosa diversa da quella di antropiche perché
+non avevo capito perché era tutto era tutto scoppiato no però l'idea io parto noi come ingegneri o comunque persone di tecnologia io parto sempre da che che problema si risolve questa cosa c'è che cosa è che antropica cercava
+di risolvere perché poi dopo mi piace fare la domanda è un problema che esiste davvero ma è la cosa di alcune tecnologie che non sai neanche qual è il problema che cercano di risolvere ma però il problema di di kensi
+alla faccia introduzione per quelli che magari non sono tanto ingenua ovviamente
+tutta la promessa della cia tutti questi miliardi che sono investiti nell'intelligenza artificiale generativa negli hotel la promessa è quella di rimpiazzare delle parti produttive
+del sistema rimpiazzare degli esseri umani ed è ovvio che non lo puoi fare se non dai
+agenzie a questi modelli se non crei agenti io sono molto delib
+diretto nel dire che un agente e un lemme a cui sono state date dei tully delle piaghe che lui può decidere di chiamare poi usò lui per personificare
+che tevere e uomo ha però
+chiaramente no però è che però appunto per realizzare la promessa ancora non realizzata
+le rame deve rimpiazzare delle parti produttive e bisogna che dalla generazione del testo si arrivi all'utilizzo dei di p o di tools per interagire col mondo quindi quest'idea in realtà viene dal duemilaventidue
+sempre da google google ha fatto tantissima ricerca c'erano una cosa che loro chiamavano react che non ha niente a che vedere con l'orribile framework javascript so che delle persone soggette
+la sla alarm arriverà però diciamoci la verità io uso view aids e quindi posso dire che reactos è orribile no sto scherzando però no react sta per wilson e nacque quindi l'idea che loro avevano era come
+argomentiamo le capacità del lemme argomentiamo ti prego
+a farmelo passare a e quindi come facciamo a fargli utilizzare dei tool e quindi sono entrati con quest'idea di divisione naxos dove l'allarme gli si dice guarda questa è una lista di funzioni che ho tully che puoi chiamare questi sono gli argomenti che prendono questo è quello che fa il tool quando io
+ti faccio una domanda
+tu mi dici che tool ti serve se ti serve un tool e poi io lo parso tu mi hai chiesto cortili o parso quella chiamata del tool vado a fare la chiamata e prendo la risposta te la rimettono il contesto quindi tu poi dopo vai avanti e quindi del ramen controllo
+i quali tu vengono chiamati con quali argomenti eccetera quindi da qua e john parte tutto la gente no che adesso nel duemilaventicinque c'è questo pus enorme no microsoft tutti quanti a fare gli agenti però ovviamente viene dalla
+e questo esiste ed è pressoché inalterato cioè nel senso il modo in cui si chiede ad un eroe si si si danno dei tool ad un allarme per fargli fare delle cose e il modo in cui le gemme li sceglie
+rimane inalterato quindi il problema che antropico voleva risolvere con zip
+non so se se esisteva però il problema che volevo risolvere era d'accordo serve un modo per standardizzare che cos'è un tool come si chiama
+come si dovrebbe fare la chiamata a questo tool e soprattutto per fare il decoupling no disaccoppiare il codice del lost dove gira il cervello mamme può essere un server compton lynn cheney qualcosa dai server che possono andare a implementare le funz
+ioni di betulle e offrire un linguaggio dove il client quindi zell am può vedere quali sono i tour disponibili in questo momento ho le risorse disponibili in questo momento quindi in modo dinamico e quindi decidere di chiamarla è appunto c'è questo di chaplin del tool
+che non deve più essere nella stessa codebase di dove c'è tutto il tuo workflow con l'allarme ma lo può mettere da un'altra parte quindi poi c'è un protocollo che è semplicemente un jason
+park pc in modo tale che tu puoi chiama standardizzato quel modo di chiamare tu quindi hai semplicemente fatto il decoupling invece di essere una funzione python che implementò tutto adesso tu puoi chiama fai una chiamata di rete con quel protocollo a qualunque sia quel tool e ti dà la risposta quindi
+server implementa il tool okay beh vai se appunto parliamo un po' dei vari componenti del di un'infrastruttura msi pino tre componenti tre componenti c'è il il server che è quello che offre il servizio quindi offre diciamo la la funzione
+tool in realtà anche risorse e prompt però per semplificare diciamo ti offre una lista di server
+per esempio facciamo conto
+che voglio
+questo è un caso abbastanza diciamo elimina qualcosa che ho visto la settimana scorsa facciamo conto che ha un customer assistant un cappotto che un customer assistant ci può essere un ansip server che offre delle funzioni per accedere all'account del
+utente quindi tipo tipo offrire un jet account con lo user e di samo e magari tipo offrire get user orders e ti ritorna quello farà tu implementi questo server e lo puoi fare out non ha nulla a che vedere con l'intelligenza artificiale nel senso che il server è semplicemente
+un programma che gira su una porta e implementano il protocollo tu hai dato quelle due funzioni già implementate con delle quali nel database per esempio e tu lo potresti chiamare senza nessuna intelligenza artificiale tu puoi interagire come un qualunque altro serve semplicemente con quel protocollo questo è il server quindi che offre il servizio di quello che noi
+vogliamo esporre kal-el lemme dall'altra parte c'è il client che è semplicemente una libreria che invece di fare che
+chi è che parla col protocollo quindi che ti offre come una specie di astice che ti offre le funzioni di dio
+se questo è vip io l'indirizzo del server
+voglio fare una richiesta per listare tutte le funzioni che sono disponibili e quindi fa quella richiesta implementa il server manda risposte tu sai ce l'ha oppure voglio chiamare quella funzione dal ferro e quindi birch client è quello che chiama che consuma tutte queste funzioni e poi c'è lost
+il lost non è cambiato lot è quello che fa girare il cervello quello che fa girare lemme quello che pronta delle lemme quello che parta la responso della risposta delle gemme per capire quale tool verrà lemme vuole chiamare con quali parametri chiama il tool dal server prende la risposta
+la mette nel quindici abbiamo l'astro il client tipicamente roster client sono sullo stesso nodo e poi sarei ce ne possono essere tanti che possono essere registrati non so se ha senso grande ariosa no beh diciamo quello che hai spiegato senso che phoebe
+tecnologicamente terroristi c'è meglio la gente ben più competente di quanto possa dire io ma allora possiamo parlare chi dire che lost è relativo client email anche può essere il saggio bytes clown di turno clarkson esattamente quello
+c'è una specie di sono dei verbi delle comandi base del protocollo per dire non so tu puoi fare queste cose tu il rispetto che mi da il come che funziona o che tu dici la sip server può fare cose sì ma come fa sapere l' client quali cose può fare
+ci sono una serie di diverbi dove poi wendy client può chiedere la lista di tutte le funzioni disponibili e quindi jason non mi ricordo i dettagli del protocollo però è m'immagino anti qualcosa simile a ricevere il whistle di un web service ti dice
+questo è quello che io ti espongo questi sono gli argomenti e quindi poi il client sa quali sono disponibili e possono essere possono essere chiamati quindi è una cosa molto e non puoi fare nulla che non sia definito il server può fare solo quello che è esposto e altra domanda mi viene in mente la risposta
+anche semantico e butto testo del testo brutale che viene messo dentro le poi ebbe luogo fanno delle loro associazioni di token e tempere alla fine è sempre il tasto brutale che viene messo e per giunta and shipping non non descrive quella parte
+kensi p non descrive la parte dell'host c'è e zip non descrive come tu introduci nel lost nelle lemme la risposta è sì p il client chiami la cosa ti dà una risposta a seconda della funzione
+debba essere un oggetto esso potrebbe essere un'immagine per tutto quello che ne so io potrebbe essere una stringa e poi l'applicazione lo lost deve decidere cosa fare com'è che pronto dell'allarme per dire questa è la risposta
+tipicamente sempre fatto con react quindi il formato è tipicamente azione action input observation hill observation è dove tu pesti l'output però non c'è che io sappia a p non definisce cioè di deficere questa qui
+tornerà qualcosa e però poi outdoor di di solito su tutte le cose che ho visto tornano jason alla fine
+oggetti
+ok
+e il mig ovviamente il seme può anche fare cose quindi a quelli ia stavo io ho parlato di sensi e braccia per lei e lei microsoft sia una diffusione corretta mi sembra più adeguata del west gb interfaccia che dice antropico è corretto definirla in qualche modo stanche braccia c'è un
+modo per percepire un pezzo di mondo esterno quello claim sip server gestisce e le braccia poterci far cose e penso sisi è correttissimo penso esattamente quello west bay probabilmente uno stress però è corretto anche quello è corretto è senza dubbio risolve appunto quello che risolve
+beh il problema di come definiamo tutti questi tool in un modo che sia diciamo di casapound dall'host
+e dal client in modo tale che chiunque può può può tirare su il suo server offrire tutti i servizi che vuole e se lo voglio utilizzare semplicemente aggiungo una configurazione di quel server e poi c'è la discovery dei tool e delle risorse che sono disponibili e poi durante l'esame può chiamare queste vengono
+presentate all'esame dall'host come parte di un prompt e parleranno può decidere a allora adesso chiamo get user account di questo di questo eddie è nato qui bivio fra un esempio che ci sta direi no nemesi piquet rileva temperatura e eventualmente tuifly
+i cieli alzare e abbassare e
+finché non ci vuole una fetta
+l'effetto fu qui gestire
+effettivamente un esempio che ci può stare no perché come diceva giustamente prima forse sta avvicinando e risolvere i problemi che bisogna capire se sono dei problemi e
+mi altra questione me mi è venuta in mente e ho provato a coinvolgere anche anti il salvatore sanfilippo in questa l'aiba duetto non ho tempo sostanzialmente grazie lo stesso ma comunque a melensi pirone che piaccia tanto perché risolve a gestisce un problema che in realtà ci sono cento modi diversi per fare le stesse cose
+se e quali sono gli altri modi per fare cose simili quello che abbiamo fatto fino ad adesso invece di scrivere una funzione python
+che poi dopo usa fu funge da client per chiamare un server
+implemento in picton nel mio host direttamente quello che mi serve cioè nel senso l'unica cosa che sto facendo è portare l'implementazione è una specie di microservice no ebbe una specie di bivi immaginato un'architettura monolitica verso sono addirittura microservice questo potrebbe essere
+una cosa oppure quello che fanno i miei clienti la maggior parte non implementano dentro al lost semplicemente in python
+hanno hanno delle piaghe dei piani normali le loro ip che userebbe qualunque applicazione get user account una rete ip o qualcosa di simile e quindi da allora host quando le renne vuole chiamare qualcosa fanno un arco e una richiesta est
+oh la risposta e la mandano nella mandano le lemme
+quasi tutti i clienti
+fanno questo piuttosto che implementare
+mxgp oriente ci puoi mettere anche valore aggiunto di un ex hippie rispetto a un approccio
+quel pescatore da qui lo sta ancora facendo un po' di hard coding no perché io mi devo scrivere nel mio richiamo nel mio lupo di re act tra o lo scrivo io ho diciamo scrivo del codice che merkel che lo rende automatico però io devo dire quali sono le funzioni dei
+piai perché all'esame deve avere una lista devo dire quali sono gli argomenti che ogni volta che me lo vuole chiamare devo passare la risposta e poi dopo andare a fare la richiesta però non è non è molto plug and play cioè se aggiungo qualcosa devo aggiungere magari sono cinque linee di codice un rapper di un restyling
+keith però lo devo aggiungere siamo invece con zip e il tuo codice che gestisce l'osteria
+fa lo stesso prompt però c'è una variabile
+uala nella lemuria news following us c'è una variabile il contenuto di quella variabile con la lista dei tools non è non vive nel codice fai una richiesta a tutti i serial realtà è configurato ti prendi la lista e quindi lo compili dinamicamente che lo puoi comunque fare a mano cioè potresti avere potresti crearti da tua verso
+zione diciamo di ansi p a che fa quello però sia una per questo dico che non allora c'è tanto eipass è senza dubbio ha standardizzato e che mi permette a me di fare un ferber e a te che usi un qualunque client ansip semplicemente di metter
+l'indirizzo del mio server dentro o si può anche fare con i container docker ma la maggior parte della gente lo fa in locale con quello però non hai dovuto cambiare il tuo wifi effettuare un'applicazione che un cliente è libero di cambiare e il chaplin cui quello il problema che risolvi se non hai quel problema io non consiglio
+firenze php perché stai usando una tecnologia che non risolve il problema mi sembra più una tecnologia consumer focus senso io so cloud
+sul mio client
+e tu chi un qualunque startup vuole offrire un tool
+che cloud può utilizzare beh allora in quel caso secondo me è una soluzione fantastica perché standardizzato adesso se io sto facendo sono un'istituzione finanziaria sta facendo un chatbot per i miei clienti ma il cappotto lo faccio io cioè non è che c'è un c'è una cosa che gestisco io magari
+c p non sai non ti risolvono un grande problema che hai perché non stai a switchare in continuazione roba paolo potresti utilizzare
+interessante allora per tornare la cosa nel messaggio di livio in realtà lui vince poi dopo era un esempio per chiedere di far vedere come in questo contesto sarebbero vengono coinvolti server client e host e giusto per chiarificare quello che abbiamo detto prima
+quindi i malvagi notes e l'utente clip aspettative
+ah beh immagino claims più severe quello che ti rileva la temperatura il meccanismo per trovare la temperatura e eventualmente impostarla esattamente
+il client e non ha hai parlato di host che diciamo vi sistema dove c'è l'allarme e poi mostrato client che si interfaccia con
+è semplicemente l'implementazione è proprio del del protocollo che tu dopo c'è james dean che puoi chiamare dimmi la lista delle funzioni un sacco di gente chiama il client tutto io lo separo a e mi pare che anzi può comunque lo separi lo stesso perché le apparenze pd non implementa il
+pronti del lemme no edile e zip implementa il protocollo per listare che cosa è disponibile dai server e come vanno chiamate quelle cose chiamarle e fa quello poi per questa via me piace separare perché zip non ha inventato ha
+come si fa a fare sharon tu la vera ellen quella parte è già stata fatta e non è cambiata quella parte di act funziona esattamente nello stesso modo quindi in questo caso che livio dice che c'è un server che probabilmente a gaetan perciò a un server che a sette ter no no no non lo so
+set status onorò quindi il server implementato le due funzioni e non ha una dell'armir sangue non gli serve a è collegato ai sensori a delle funzioni può far controllare il termostato no il client parla quel protocollo e poi lost quando dopo dove gira del un
+certo punto ci sarà visto un lupo react quindi che l'utente dice
+guardami la temperatura quindi lost prende guardami la temperatura il prompt dell'utente songs prompt template più lungo dove dice guarda tu sei un allarme un agente a questi tullo fetch tool dal dal severe quindici
+gates tempera chat on off li chiama in questo modo l'utente ha chiesto questa cosa cosa vuoi fare per me fa thinking devo prendere la temperatura gates tempra cia lost ferma quando lei venne produce che getta in braccio chiama tramite il client
+get tempera dal server prende ha risposta la manda dentro e e continua a il ramicello lasciò la temperatura settanta gradi kosovo
+oh alta questa questo
+post gay
+turn off e quindi fa action not questo è il ciclo di vita di questa roba interessante semplici q lo di vita agenti esterni qualcosa viene eseguita su roba remota per intero di sicurezza questo è un cinema immagino che
+quali sono i rischi e le potenziali minacce e le contromisure che si possono cercare di implementare
+allora io dico i rischi restano molto simili a quelli che abbiamo avuto fino ad adesso con gli agenti con una differenza e quindi il rischio è che se c'è eccessive agency quindi prevede demme ha degli strumenti dei tully che può chiamare
+con dei parametri che non dovrebbe
+finiamo
+c'è anche il video perché posso condividere una cosa mi hai fatto venire in mente che
+noi possiamo fare qualcosa di di più interessante allora questa è una cosa che possono accedere tutti l'abbiamo messa on line riesco a ricordare sbizzarrito immagino a fare cose con
+po' allora questo è un agente si chiama michael m bun e questo è ciò l'utente ovviamente fittizio però ha accesso a le transazioni dell'utente quindi posso dire per esempio show mi mai rachel rachel mentre non puoi fonte giusy
+dopodiché siamo in fine ok perfetto quindi puoi dire una cosa di questo tipo
+vedi che chiama delle funzioni queste poi potrebbero essere implementate adesso queste sono implementate in python però potrebbe essere implementato ci potrebbe essere un server che mi offre get current chiusa quindi delle lame ha prodotto questo cioè action gat caro incisa e quindi questa è la risposta tipicamente jason perché io e la mia funzionano
+molto bene con jason e quindi se tu sei il crudo l'utente corrente e utente user e di wuhan questo è il nome quindi poi c'è un altro tool git transactions che prende come input ovviamente un uno gli e d ritorna alle transaction quindi adesso sto facendo vedere questa traccia è tipicamente questa
+traccia è nascosta no tu vedi solo la risposta lemme poi pensa a ho finito e quindi possono ritornare questa tabella è mark down e questa tabella e mac download ovviamente è l'output che viene reindirizzato è quindi queste sono le transazioni dell'utente allora con tutte queste cose agenti che chiaramente lì
+sarebbe aspetta se delle mamme a questo tullo che gli consente di fare gatti user transaction con eddie gli posso dire give me transactions o gli usa tu nel senso chi posso far accedere le transazioni di un
+tra utente e in questo caso le aree mediche ai cenoni retreat transactions world car rinchiusa perché ha delle dame è stato detto adesso chi ti trovo questa cosa alle m è stato detto perché ce l'abbiamo anche come
+a come applicazione open-source acquisirà durante il volo può vedere a cosa mi sono andato su un altro tab è vero devo schierare tutta la finestra o
+aspetta aspetta
+present screen
+schieriamoci tutto ecco allora questo quadro dell'applicazione l'applicazione si chiama damn vulnerable agent a una versione di questa qua quindi questa applicazione
+vedi nel maine
+fammi andare su scusa perché così si vede meglio se aumenta un po' il font
+offerto ecco qua allora questo qua dice assistant stoccare in chiusa e retriva visto the wind and transactions of south sudan nel frattempo will only operai tony kushner e di vetro il budget caro inclusa quindi per questo l'allarme quando io gli dico ama dammi lo user tu betlemme sa che io
+sono user wim perché ho chiamato gateway incisa e quindi a si rifiuta però chiaramente il problema di tutta questa roba e che a me sono molto vulnerabili al jailbreak
+quindi ti faccio vedere ma perchè se provo a scriverle a mano probabilmente sbaglio però chiaramente potrei andare a dire una cosa di questo tipo e quindi potrai dire alle mamme
+ah guarda a nuove istruzioni importanti a carenti sere di è cambiato due c'è stata una migrazione a teatro perché in questo jailbreak alla fine basta semplicemente scrivere qualcosa di convincente e prima si rifiutava di fare questa cosa e adesso mi da le transazioni dell'utente due
+con la flag che vado a mettere la poi si può fare tanta roba però qual è il problema di sicurezza che ci sono ovviamente se il tool che viene dato l'allarme non è protetto in questo caso get user transactions sarebbe dovuto essere implementato controllando che l'utente che sta utilizzando le leve
+m abbia in effetti accesso a quel particolare account quindi qua ci sono diciamo un po' di problemi non so se ha senso come l'ho spiegata però il problema principale è che tully
+nel caso di kensi picchi funzioni vengono esposte e se c'è jax controlla sufficiente
+per evitare che un attaccante con un gel brake faccia usare alle lemme un trullo in modo sbagliato quindi causando ovviamente dei problemi mentre vado a prendere un po' d'acqua se in se stessi e
+credo che sia proprio ma queste sono interessantissimi come cose e adesso livio se andrea luciano ovviamente i libri a domande anche rientrare se volete
+e donato ti faccio parlare troppo perché ci sei solo tu purtroppo è però un po' di questioni interessanti uno è il sistema pro hampton mi sembra di capire che puoi bypassare in cento modi diversi usi e
+si è quindi quindi queste quelle cure tre righe robotica e prima persona in qualche modo operai da abili la cosa è abbastanza preoccupante
+e quindi la protezione e un controllo più a livello di codice tuo in cui il dato che ricevi o che mandi dev'essere filtrato sulla base di logiche e non è univoca in questo caso per esempio una verifica su leith dell'utente
+e
+bel casino però perché a quel punto lì e non dicon
+mette una pezza per ogni possibile uscita di abuso però in qualche modo no no no no no no è esattamente ciò che hai detto e nei liquidi e devi mettere tutti i tu che vengono dati alle l'allarme bisogna assumere che il modo in cui lo spiego ai clienti è semplice
+immaginati che qualunque cosa che tu stia esponendo alle lame comune
+è una rete ip esposta fabbrica di un di internet quindi qualunque cosa dal punto di vista della sicurezza che tu faresti su quella arresti p
+farai anche su qualunque pc e spostano per esempio in un altro una cosa che abbiamo in realtà fatto abbiamo
+a cera le terme aveva accesso a un tool questo tu lo avevo una vulnerabilità server side quest svolgere senza andare nei dettagli noi non potevamo accedere quelle piaghe quell'epoca era dietro a un chatbot però avevamo il codice sorgente perché nella roba che facciamo noi spesso ci avvantaggiamo con quello perché in una settimana
+diciamo
+in un testo puoi fare davvero poco però concettualmente abbiamo abbiamo insegnato a leland come espletare la server sidro svolgere quando chiamava il tool quindi è come se quelle piai che era esposto al ma in realtà fosse esposta a noi all'attaccante direttamente quindi le lame e
+amtrust qualunque tool esposto dai rame dev'essere trattato come un tool esposto pubblica on di internet e quindi nello stesso modo in cui possiamo esporre pubblicamente su internet facciamo ajax control input validation pen testing eccetera che fa esattamente la stessa cosa c'è
+un qualunque tool anche sulle zip un server ftp espone un ip quello dev'essere testata charles controlla campus validation in modo tale da dovrà assicurarsi che non possa essere miss you just domanda se i cani in caso di un serio anziani e in slip
+e e lato client devi gestire il tuo filtrino le tue validazioni le tue verifiche o no nel senso
+l'incipit espone la sua jeep e come tu la usi che
+devi stare attento a dire per esempio dev'essere utente buona poter alzare la temperatura abbassarla peaks hold em
+e affermerebbe perché dipende dai casi allora
+len sipp dovrebbe richiedere
+allora dal punto di vista del server come se tu avessi un'applicazione è un client nel browser e unep comunque dei pm deve sempre fare lax controlla
+gli all'identità dell'utente e ovviamente il ceppo perché ciò pozza cookies delle lame sta parlando quindi in quel caso il chatbot quale lenzi p server deve richiedere un token funge da tablet per esempio in modo tale che quando io voglio accedere voglio fare gatti user account non posso solo
+dire ghetti sarà county diwan dovevo passare un token che dimostra che sono autorizzato a fare quella cosa che ovviamente il client deve gestire di passare il token corretto per l'utente che sta interagendo in questo momento gol l'allarme però sì hai ragione da un po' di roba va ovviamente fatta nel cloud perché tipicamente il club
+a chi è l'utente nel caso ci siano utente è questo quindi a livello di implementazione vuol dire che di fatto per ogni ex epi segue con cui ti interfacci devi tu preoccuparti di certi aspetti la sicurezza non si peter e beh dipende da quello che fa perché perché se hai presa
+ampio un server tipo get current wada non sarebbe cioè ci sono delle cose che sono pubbliche relazioni che fanno potenzialmente esportabile insomma che possono essere usate esattamente aggiungo due cose perché è importante una cosa che aggiungo è che a prescindere il client deve fare una cosa
+qualunque azione ritenuta sensibile dovrebbe essere autorizzata dall'utente nel senso noi lo chiamiamo human kind sviluppo allora quello che ho mostrato nel lemme banche non c'è emozione sensibile cioè se abbiamo fatto l'ajax controlla
+l'esame può chiamare get user che transaction succede niente immagina che noi aggiungiamo una funzione mae transaction lederebbe non dovrebbe sostenere donne produce mae transaction nuovi soldi da qua a qua noi non dobbiamo eseguire quella funzione noi dobbiamo fermarci e di velletri
+me vuole che venga eseguita questa funzione farla vedere all'utente e dargli un bottone per cliccare sì voglio che venga fatta questa cosa oppure no
+e adesso infatti git di visual studio code nell'ultima implementazione di copilot a delle azioni può fare può creare dei file può fare delle cose per qualunque azione che modifica diviene l'esame dice lo voglio fare ma non viene eseguito automaticamente devi schiacciare il tasto
+per gli si ho capito che cosa vuole fare ho capito che vuole creare questo film ho capito che voler andare questo comando installare un pacchetto ma devi cliccare
+come dice alessandro
+fondamenti che c'entrano scritti wild world
+bangkok
+sig oh geova coding è
+allora aspetta che c'era una cosa immagino che
+pensi più sarebbe meglio che avesse un fauno dove esempio sulle lame dovrebbe poter accedere giusto sì dipende dalla situazione di solito si la la verità è che almeno io ve io non vengo dalla sicurezza accademica io vengo dalla vita reale i miei clienti sono tutti veri
+e se una rete interna ci sono delle subnet e diciamo che è davvero difficile cioè puoi mettere dei server e dei client all'interno di tablet dove si possono parlare di solito è abbastanza difficile dire questo serve renzi p questo indirizzo può solo dice
+per il traffico di rete dal dal server dove gira diciamo il chatbot si potrebbe fare però diciamo il team di yeti ti viene
+ati
+no no ride quando mai veniva da dire una cosa in inglese produciamo indiretti non è
+non sarebbe felice quindi di solito quello che dici livio è vero
+tipicamente ci sono delle zone action delle zone di trust e hai ragione in teoria se quella sequel salvo renzi pd dev'essere accaduto solo da da determinate applicazioni immetti un firmware soprattutto se non ha necessità di essere esposto pubblica lion di interni
+otto di essere esposto su tutto il network della della ditta non dovrebbe essere perché quella è una delle prime delle prime cose di solito ci sono delle zone dei server backend come minimo e delle zone dove la gente mette laptop wi-fi e client che dovrebbero essere separate come minimo
+ok
+allora è
+era riferito a quello che dicevi prima quando già avuti da lucien eventualmente per parlare con
+il server è
+ok e allora domanda proprio da
+questa è proprio a uso e consumo mio perché io ho intenzione di fare risulta un brand chip
+per eseguire un comandi di un tool che può ancora fare e poi è permettere a lei di verificare se il comando eseguito tipo installa sa cosa si è fatto veramente l'installazione di quella cosa e quindi due la semplifico molto il workflow
+a livello di lanciano comunque di dentro nelle emme per dire fai questa cosa qua poi verifica che è stata correttamente implementate così becero già in mente immagino su quella band sulla base di ciò che mi hai detto però vorrei l'opinione dell'esperto quali sono i singoli passi che eventualmente welfare
+met you and me come allora eh dipende da da commercio cervello il mio cervello
+che forse funziona al contrario io farei tutto con un lunch and we act gente implementerà in python
+de moc per quelle due funzioni che vuoi esporre quindi vedrai che funziona perché la parte più difficile di questo non è il server
+è da parte dell'host quindi farai una cosa di quel tipo una volta che che so che le lame chi ama la roba che voglio che chiede funzioni che voglio che chiami in modo corretto
+ehi la cena anche una libreria per ansip chiama adattamento sopra diciamo loro
+a normale agente ria quindi non devi scrivere tu il prompt lo fanno loro per te tu gli dai l'indirizzo del sangue anzi visto che siamo qua scusami vediamoci dai di cane
+sean ansip è una è una dapper quindi non è che va a cambiare la logica sufficiente aggiunge e adesso ti faccio vedere ma è semplicissimo vedi c'è questo l'anci enel sip adopters
+qua poi spiega che acqua saranno loro le funzioni ad divide però praticante ed il server non serve la cena perché il server non non non non c'entra niente con lanciano così implementare se il tuo server con le funzioni che vuoi vengono decorate come tullo ovviamente usi
+la libreria austen sip è questo quando lo starti questo ti ha implementato il server i client quindi quello che devi fare con lang cane questo è il client ansip quindi questo è quello che che sa come parlare a questo server e poi a un sito fully loaded ansip pictures che
+essenzialmente userà questo per listare questa roba e poi react agent che non ha niente a che vedere direttamente con ansip ricordati questo è il modo in cui chiama i tool può essere qualunque cosa poi serve il parametro
+è semplicemente una roba di questo tipo crea la gente vedi questo
+ti connetti al server quindi questo cariche di tullo quindi questa chiamata
+nel server e tramite il protocollo prende queste due funzioni e quindi questo sarà il tuo la tua lista dei tully questa viene passata criteri apt-get ovviamente parsa i tully chiama il modello con tutta quella roba e poi si invoca con qualunque messaggio qui ti implementa in b
+background quindi devi scrivere tu tutto gruppo act prodotti implementa questa cosa non so se ha senso
+sì ma a questo punto viene la domanda ma quanti dei miliardi di yen sid sempre ci sono in giro sono fatti con lance con questa libreria di anchein e comune è un bel delicati questi server il server non è fatto con la mccann è fatto proprio con la libreria ufficiale di fast and zip il cloud
+questo fa senso pieno non ama è una cosa ufficiale di si ha un orizzonte è recente e non so se ufficiale di antropiche però è l'unica che ho visto in tutti
+smettila simili sta roba qua in diversi linguaggi immagino ci siano cisti o che quali sono le questa roba tipo henry server
+non lo so non non lo so immagino
+allora immagino che non c'è tanta roba davvero in produzione per questa per questa cosa perché tu ricevo i clienti non tendono ad utilizzare questo
+per il momento tendono ad utilizzare invece di di di fabio in questo modo prendono queste funzioni e le emettono direttamente qui ok quindi fanno quello e quindi levano questa comunicazione questo l'aere diciamo di decapoli immagino che sia python conosce
+willie bolle adesso capisco perchè ce ne son tanti e triviale e fare un severo in è molto semplice tutto sommato no alla fine si è mamma è molto semplice il
+perché è un protocollo semplicissimo ovviamente ed implementazione di invece della tua logica
+aggiungere due numeri è però cosa potrebbe essere questo ecco però vedi io qui lo colorano in un server no beh vai a vedere questa applicazione che invece abbiamo usato prima
+http ecco qua c'è una vedi c'è un tool che ho creato che questa funzione get current chiusa che va nel database ovviamente questo sta nella stessa codebase con mxgp io prendo questo e le altre cose e le vado a mettere in un server apple
+arte che potresti dovrebbe stare da un'altra parte quindi quello mi permette di fare mi permette di fare questo di chaplin perché se poi dopo vai a vedere dal punto di vista del codice alla fine si crea parte un po' tutta la roba di questo codice è scritto un po' invasive coding per quale
+sono terribilmente responsabile proprio di si crea un agente dai tully è praticamente la stessa cosa qui questa cosa qua client react e gente è semplicemente una versione più moderna
+a che non era disponibile quando io ho creato questa cosa l'anno scorso adesso farei la stessa cosa gli passi l gli passi del m i passi tully i passi delle lame e dopo puoi invocarlo e ovviamente poi vi si si smazza che andare a chiamare tutte queste cose ogni urbe up
+pesanti allora lo una domanda di livio si ma la sua richiesta o si può usare qualche altro metodo per produrre spot credo che seguono di crest no non lo so non lo so magic always on so che va soci ti piace non so se puoi usare un altro protocollo e non so perché diciamo
+non lo so se tipicamente jason artisti iva sui cateti p s inquina immagino si potrebbe usare qualunque altra cosa però si mangiano sia cit p s ma solo noi' l'ho visto solo perché di solito jason al pc e switch gps
+é molto bene molto bene
+ehm allora beh si parla di agenti si pare protocolli è inutile dire che un altro di quei classici argomenti di questi tempi è ehm sì pibe a susa hathaway con le differenze e che cosa c'è in comune come noi l'eco il fatto che sono complementari wimdu cercherò un po' di cosa sto parlando
+blaterando tu chi le cose le sai invece che io e so per sentito dire anch'io ne so per sentito dire ah quello di google e gentili agenti in realtà è una delle cose che non ho avuto tempo di guardare so soltanto vuoti season the teen cioè è un modo per far parlare agenti con acea
+per connettere un agente ad un altro agente quindi meno a che vedere con i tully ha più a che vedere con l'interazione degli agenti quindi immagino senza saper né leggere né scrivere che le due cose sono complementari ciascuno degli agenti che sta parlando potrebbe avere accesso ai suoi server in zip per fare
+le sue cose perché uno dei problemi grossi
+in generale degli agenti fai conto che io ciò un ep che voglio esporre tramite zip o tante ip quindi due cento server dhcp nella mia ditta che fanno ognuno espone una decina di funzioni per fare le cose più disparate
+caso jackson mille funzioni
+non puoi passare tutte quelle funzioni ad una lemme è fuori discussione che ti ritroveresti con pronte enormi e l'allarme si confonderebbe e tutte queste cose che si mettono quindi di solito si cerca di fare degli agenti con un parco di funzioni molto specifico
+per degli eagles quindi l'idea sarebbe quella di avere agenti specializzati che hanno delle funzioni e delle risorse adesso abbiamo semplificato però con zip puoi anche avere il beta risorse che io posso che le rame può accedere delle knowledge base che può cercare e anche dei prompt potenzialmente
+però sì l'idea sarebbe quella di non mettere tutto in un agente perché si confonde si perde costa tantissimo ogni volta che si fa una chiamata ad un agente
+bisogna passare di tutte le funzioni con tutte le descrizioni alla fase del training teoria potrei fare
+il blitz che aumenta il numero di token qui pochissimo ora io adoro io adoro quella cosa del pd meno male che l'han detta perché fai conto che tu stai facendo una sessione di video coding per un'ora con gbp ti foro mini ok
+gigi gigi bit o pulmini che costa tantissimo e aiden che ne so centomila token quando tu scrivi thank you quantità insomma sono due token tutta la storia della tua conversazione fino a quel momento più il tuo team più deve rientrare nel
+m
+ma non solo perché lui ti risponda world war z si dispone di webcam mica ti rispondono ti risponde uh un token e tu devi prendere you think you e tutti gli altri duecentomila token fino a quel momento rimetterli dentro e ai ar uh ah devi con
+provare a fare questo fin quando le lame non ti dice juan webcam e fa aneddoti quindi scrivere thank you
+posso usare è una cazzata inutile
+però continui un sacco di token senza alcun senso
+qui ci sarà anche un po' l'arte di ottimizzare le prompt che
+vabbè che in realtà non gliene fornite nel sud finché non esce vincente finché qualcuno non ci lavora direttamente sta con tali allora e dice luigi patristici chiedimi se sono così poco dettagliate ti spinge a usare per forza librerie senza una chiarezza e dell'onu
+channel con una reflex ufficiale di
+il in brasile
+oh c'è questa
+questa pagina introduzione
+però fosse in tuta nobel poichè quickstart example tutorials allora effettivamente non è che ci sia nel menu
+chloe credo che modo il contesto protocol punto ossia al sito ufficiale ingiusto
+sì no credo che sul sito ufficiale
+io credo che almeno per come la vedo parto abbastanza
+meno non hanno documentato tanto perché hanno detto vabbè mettiamo mettiamo il repository esce alla fine loro sono in repository
+con l'implementazione quindi voglio dire questo è quanto
+ci hanno tutti i loro resti che però c'è la specification le specifiche e ubriaca un po' come ciak d'oro hanno
+a
+questo and jax quindi non lo vediamo così però si hanno una specifica dove raccontano tanta roba
+si chiama proprio la specification con il datasheet e tutto ciò infine che i propri dieci the seasons chi ci dovrebbe essere c'è proprio uno schema da qualche parte ma sempre qua dentro c'è proprio uno schema vediamo come
+non so se qua dentro devo essere onesto
+perché c'era un linux o nei docks
+cave di qui c'è lo schema non so se appunto
+ah eccolo c'è un pò di specifiche ci sono prove neanche lunghissimo senza neanche oddio season sono abbastanza
+vedi list prompt lilies prompt risalto proprio questo qua per esempio avrà tutte le liste che abbiamo detto io devo stare a i tully vedi list tour request no a call tool non listo tutti tu
+e poi chiamo il tour che mi serve quindi comunque la specifica c'è
+però ovviamente tutto open source se non ti danno questo repository tutta tutta
+la roba dentro data sono un sacco di cose già implementate per vari
+linguaggi però si è qua tucker quindi c'è diciamo un po' di documentazione ecc
+è bene bene bene
+allora si dice giustamente suoi piedi uno strumento il sito ufficiale in questo modo contestato quel punto io e li puoi effettivamente un qualcosina di documentazione quello che
+esatto poi la specifica va bene e cosa secondo me ci vogliono aspettare noi da questo mondo di agenti perché insomma di agenti ormai non dico che se ne parla da un po' tozzi se ne parla da un po'
+però applicazioni concrete ci sono e ma non mi sembrano che siano così diffuse non so come dirle così articolate nel mondo degli utenti finali come un concept che a me anche lì poi scusa mi hanno provato a fare i loro i gip tiseo
+occhi che questa roba che non si capisce che se sono così abile agenti in qualche modo io non li considera prendo un po' d'acqua io non li consumano
+perché come in ogni cosa poi se arrivano in implementazioni o tentativi di far cose
+allora secondo me la cosa dei gpt io l'ho sempre inquadrata nel nel primo momento in cui oppenheimer voleva iniziare a diventare qualcosa di una products company no
+quindi io l'ho inquadrato in quel modo poi son falliti per e secondo me l'idea di fondo e sono a me piace dire cose che possono essere smentite fra fra sei mesi mi piace se tu mi chiami e mi dici donà avevi proprio
+è successo proprio il contrario di quello che hai detto perché almeno impariamo qualcosa però per non essere vanilla io credo che l'idea di gpt è che c'è qualcosa di unico nel pronti ingegneri in check che il prompt ingen hiring può essere in questo momento
+una proprietà intellettuale vincente i
+fallimento dei gpt che sono essenzialmente dei prompt
+più dei documenti che vengono dati del mef secondo me racconta una storia diversa racconta che è pronti in genere non è c'è ovviamente serve a far fare avere determinate cose però non è la
+la cosa vincente la cosa che ti distingue dai tuoi competitor per questo gpt non hanno avuto chaplin
+erano tutti dei prompt magari con un paio di documenti
+a questo proposito c'è un mio am nikon con il tarlo che mi gira in testa ovest in qualche modo a focalizzare bene che questo fatto che noi cerchiamo di basare un po' tutto questo mondo anche gli agenti quando si inizia a entrare troverete a spostare quello che può essere un qualcosa di suo schermo sul mondo reale
+e tutto simile a quella fine su prompt è su questi
+questi turchi che vengono messi di risposta cioè mi sembra tutto un po' libri femministi co no poco poco
+così con i re non è uno zero ma è questa sfumatura di possibili casi che non mi fa sentire totalmente a mio agio e non so come dirle e soprattutto se poi insieme a fare in modo che queste cose diventano i lati il veicolo con cui facciamo azioni con degli agenti di
+natura sul mondo reale potenzialmente non so sono un po' zoom
+no secondo me metti il dito nella piaga per rispondere a quello diciamo al al commento che avevi prima perché non vediamo tanti agenti ne vediamo alcuni perché ci sono alcuni casi che sono abbastanza louise
+ah e quindi pure che fa lezione sbagliata non succede niente o ci sono dei casi in cui appunto sei human kind sviluppo quindi si vede la met suggerisce un'azione ma poi sei tu e quelli sono tutti i casi però lavorando con i clienti nell'ultimo anno soprattutto chi ha provato a fare customer support agency
+bt e alcuni sono in produzione quindi alla fine si si ci arriva
+la barriera principale non era la sicurezza che poi puoi risolvere fuori dall'aereo lemme nel senso a x controlla e rame può chiamare get user hai di tutte le volte che vuole ma se non glielo dai non l'avrà mai quell'account
+però era la relais ability c'è
+riuscire a quando hai tanti tool interazioni che possono essere complicate avere testare un workflow è assicurarti che in tutti i casi da me faccia qualcosa di sensato la può essere problematico stanno migliorando eh però io mi aspetto
+miglioramenti graduali e ingegneristici nello stesso modo in cui dopo che abbiamo scoperto come come vola un amico abbiamo scoperto come facciamo a far volare gli aerei oggi l'aereo vola nello stesso modo non è che siamo passati da
+da un aereo cinquanta anni fa un aereo di oggi e voliamo in un modo diverso c'è stato una curva esponenziale no a un certo punto ieri di oggi sono migliori ingegneristicamente parlando abbiamo aggiunto dei pezzi la stessa cosa facciamo cogliere alla con degli agenti aggiungiamo dei pezzi migliori art fair
+uyuni scopriamo quella roba la sistemiamo la porta quindi diventa sempre meglio anche perché come dico sempre io è difficile peggiorarlo
+rispetto a come è difficile peggiorarlo quindi solo migliorare
+è vero
+di una cosa mentre parlavi di lemme allora c'è tu sai meglio di me che insomma non è che hai è solo il lemme e potrebbero esserci e ci sono oggi sono joan studi approcci papera per come unire approcci diversi alla l'intelligenza artificiale
+quindi non soltanto west hollywood language models dove ci butti dentro di tutto di più ma qualche approccio un po' più
+diverso è il secondo noi fra dieci anni parleremo ancora di ellen o magari vediamo la cosa per essere smentiti o fra dieci anni chissà a chi fra dieci anni un kernel mi intervisterà
+ah no ah e credo che ne parleremo ancora per che fondamentalmente soprattutto per gli gates che funzionano bene
+human and stendi amare action
+trovare le informazioni eccetera alcuni di questi agenti in borghese secondo messi ci saranno ancora
+credo che per quanto riguarda il machine learning poi ci sono delle cose che io non farei mai con un lemma che farei con modelli tradizione dei canali sistema di quelle cose no dove vuoi un modello fondamentalmente
+semplicemente diverso da un grande scusami
+no è perchè qua perché sono stato in viaggio negli ultimi mesi tantissimo
+ah tra l'altro anche anche a new york come sai è
+diciamo sono io dico sempre una cosa quando viaggio che ogni volta che viaggio mi prendo qualche virus qualcosa invece quest'anno ho viaggiato per tre mesi senza prendermi niente fino alla settimana scorsa c'erano kent dopo e dopo che io ho detto ormai sto viaggiando non
+prendo più niente però cominciò a dire a tutti cosa che di solito mi ammalo ma non mi ammalerò mai più ovviamente mi sono preso sto sto bene però ciò mal di gola
+ah va beh ti stavo dicendo no non ho idea di cosa stavo dicendo
+troppa e aspetta anche l'oeil lemme ma ci saranno ancora si è poi seme per certi tipi di applicazioni va da sé che non è nemmeno nell'approccio clinico
+però che però sai cosa mi viene in mente che per che ama che cosa è cambiato con l'allarme
+poi ci penso tanto per che perché alla fine credo che ci sia molta confusione non rispetto a quello che loro avevano cercato di fare no se tu vai proprio prima che diventassero superstar no a qui la persona chiave
+ci sono un paio di persone poi ci sono quelli di google che hanno fatto il trasformer è quello veniva per la traduzione non suona cover decoder eccetera infatti nel duemiladiciassette a un tratto google translate per la prima volta è diventato utile a qualcosa e qualche
+no dopo
+sia google cheope nei hai stavano lavorando su per loro quello che volevano fare non era costruire saggi pitt loro volevano avere un sistema di machine learning più classico dove per esempio potevi prego
+vedere le review dei prodotti su amazon
+astalli attraverso questi modelli e ottenere uno scorro una lebole positivo negativo eccetera però volevano qualcosa che riuscisse
+a capire le nuances del linguaggio e quindi guardano il transform chiaramente perché il trasformer traduce bene deve avere una cognizione distinguo kansas del linguaggio allora l'idea è quella va bene prendiamo un pezzo c'è l'encoder cell decoder
+prendiamo google dice prendiamolo encoder e facciamo un po' di training per poi creare questo classificare in parallelo oppenheim dice ma perchè invece non prendiamo il decoder e facciamo la stessa cosa tanto in teoria dovrebbero essere uguali però google il
+l'encoder stiamo a fare ricerca facciamo una cosa diversa mentre fanno tutto questo open easy si rende conto che leggo di tutto per fare questa cosa fa il tuo training task cioè prende un sacco di roba gli fai fare next gen prediche ma non per creare un conversational agent per fargli imparare il lying
+quaggiù poi levi l'ultimo layer che ti predice il next owen e gli metti player che predice il sentimento positivo o negativo due output presente però mentre loro facevano questo a next prediction su scala d enea si rendono conto ci staranno giocando col modello si rendono conto che possono andy
+a fare una domanda e lui risponde come se avesse capito c'è una ragione dietro di questo perché ovviamente nel trend da sette c'era un sacco di esempi di domande con risposte e comunque non lo faceva in modo consistente qui stiamo parlando dei primi
+gpt però dalla gli viene l'idea ma vuoi vedere che se scaviamo questa cosa del next gen prediction poi ci facciamo instruction uniche reinforcement learning abbiamo trovato un nuovo paradigma cioè vuoi vedere che se facciamo così davvero gli posso chiedere una cosa e quello là
+pa e poi da laser quando hanno scoperto si lo puoi fare in struct gpt se ti vai a cercare il paper il primo che hanno dunque è storia recente duemila
+ventuno e allora la open e con i soldi di microsoft con via fax copia che era la persona che leggerlo tutto questo loro pazzi
+così come alan turing era un genio ma anche pazzo cioè la roba in cui lui credeva noi penseremo che è assurdo anche via sat scopri che la persona che ne facevano le non si mettevano tutti per mano feed iai fig pregavano
+le cose vanno dette perché noi piace separare gli e le persone da quello che sono perché si semplifica quello è un folle però nella follia in effetti se ci pensi lui è riuscito a convincere tutti a spendere miliardi per fa
+il training di quello che allora era il gp di tre supplicante tutto lo scibile umano tutto quello che c'è su internet e poi l'hanno messo on line la gente ha cominciato a utilizzare ma il costo di quella croce nessuno aveva mai fatto una cosa di questo tipo su quella scala cede e nessuno ci aveva neanche pensato di
+arrivare a fare tre trilioni aveva avere i modelli cool i bimbi modelli prima di quello non sa avevano migliaia di parametri non phil johnson sparire ovest
+ci andiamo è diventato normale a fiche di psic settecento
+bill johnson parametri anonimo sì sì sì sì ma se così è troppo e loro erano tagliati opposto o pec
+come dire questa cosa qua che si toglie
+e mamma ha quindi secondo te è sissy coprire l'efficienza diciamola così daniele lemme per l'operare dell'intelligenza che ovviamente un concetto un po'
+e dibattuti harris può essere soggetta a dibattito ma l'efficienza di queste aree lemme è strettamente legata alle dimensioni c'è più avremo capacità di calcolo più composita di fare buttarci dentro dati e parametri più avremo capacità di oppure airport
+e allora questa sarebbe una domanda da fare a quelli che stanno nei laboratori ti do il mio and standing un pochettino a livello più alto la scala conta fin quando non è sola scala delle mafie
+la scala conta nella misura in cui la scala dell'architettura quindi transformer vivono parametri slayer attention conta nella misura in cui permette di catturare i pattern che hanno interessano nel training effect però lo puoi saturare per
+perché se il tuo training effect
+non ha più nuovi pattern anche se lo fai diventare più grande alla fine se i dati sono quelli
+infatti chip quattro cinque
+molto più grande di gbt foro chi lo usa perché alla fine ed era pronto da molto più di quanto tutta da molto più tempo hanno rilasciato in ritardo perché nonostante sia molto più grande non sono riusciti a ha davvero migliorarne le prese
+stazioni perché sono i dati su cui tu lavori quindi adesso tutti advancement che sappiamo adesso il riso di moderno alla gente sfugge che sono esattamente lo stesso l'allarme non c'è nulla di diverso se non il threading dataset che con
+contiene un sacco di cannes opt-out un sacco di quelle catene di pensiero generate artificialmente non non voglio diciamo poi come sai questa roba che mi appassiona tanto che non voglio rompere le scatole a chi ascolta e fare una divagazione su quello però ha i dati sono importanti perché
+la fine della dimensione è una funzione dei pattern che devi catturare nei dati e non ci sono più nuovi pattern puoi aggiungere anche settemila milioni di parametri e quindi
+e adesso c'è questo problema cioè come facciamo ad andare oltre allora dice livio punto la vedo difficile un esempio di scalare nel senso che in realtà c'è un settecento billions dei parametri però c'è anche lei ce tolta tagliato via dei pezzi come è giusto dire che
+l m
+non so quale ti riferisci nello specifico perché loro hanno fatto le reunion quello ufficiale quello non quello che ti scarica in locale ma quello ah ma quello è un modello molto grande sono comunque quasi settecento billions parametri scriveva abbastanza grande come modello quello che loro fecero
+se non ricordo male col modello di base di di prima in realtà era la mixology experts c'è quindi questa idea che sono tutti quei parametri però ne attiviamo solo un subset è infatti ecco quelli poi quello sì però è comunque una funzione gps
+karawan è un modello molto grande
+è un modello che richiede molte risorse non è un modello piccolo e soprattutto è un modello che fuori dai benchmark non performa così bene perché poi c'è tutto il programma dei benchmark non è certo ne intuiva e da impasto l'esecuzione che vuoi di tutte le ascolta io totali
+durante o pesaro ma se io dovessi fare un modem che l'hai fatto e magari
+lei si fa un modello di questo genere prima di tutto gli darei impasto come il dizionario la semantica il significato delle parole cercare di far capire ogni singola parola il significato in sé e poi su questo cor forte con gli costruisce attorno e aggiungere informazioni gli passa informaz
+zioni chen
+ha senso
+come dire alla fine noi
+c'è da quello che ho capito un lemme ragione per cui si dice noir statisticamente sequenza di pa di token che poi non son parole pezze di parole però cioè la la sequenza più costruito però se noi vogliamo veramente da un senso di un'intelligenza le cose
+diamogli un senso alle parole che poi si tramuta in touchscreen quanto vuoi però puoi sulla base di quelli costruisci il resto non ehm non credo proprio perché perché questo ragionamento che tu fai
+induttivo mentre invece
+a lemme è più deduttivo nel senso che ha non mi dai le regole e io poi le applico ma io ho tanti esempi di quelle regole applicate e estrapolo no
+dunque le regole del ne sono sono molto
+ministro termini però cerco di spiegarmi da quello che capisco io
+m è un interpolato ore cioè tu hai tanto materiale ci sono dei pattern in quel materiale nel training trova quei pattern li mette insieme non è bravo a fare il contrario cioè non gli puoi semplicemente dire questo è un match per i treni no dopo che hai fatto questo trend
+king è bravo a fare tante cose però perché sappia fare qualcosa deve essere pieno di esempi di quella cosa non gli puoi dire nel potrei insetti non ci può essere soltanto questo e la parola macchina è questo il significato e questa è la grammatica italiana perché le non pensa in quel modo dev
+avere una tentazione di tanti esempi di quella cosa in modo tale che lui possa interpolare tra tu di quei trilioni di documenti per esempio ti faccio vedere una cosa fighissima e anche un po' controversa e che ha fatto antropiche
+pepe che per farti capire come come me pensa in modo diverso cioè loro hanno cercato di guardare dentro nelle lemme e hanno fatto si chiama onde biologi o plagio in qualche modo stanno cercando di spiegare come ieri la mia arrivano a
+a alle loro computer conclusioni
+e per esempio e quando questi grafici che sono dei computer c'è un grappolo se progettò pronta e chuck questo è proprio quello che tu scrivi
+ehi più cinquantanove uguale non è che le mie fave calco rame vede quando certo che n trentasei ha imparato ad associare questo token a delle fiche aree interne per esempio più o meno trenta no con ogni volta che esce il numero trentasei si
+attiva diciamo una serie di reti là dentro che di qua questa è una roba che più o meno trenta poi si attiva il neurone specifico trentasei e poi si attiva una roba che dice ah questa è una roba che finisce col sei che si attiverebbe anche per quarantasei ottantasei duecentosei quindi si sia questo
+token quando lo vede si attiva tutta questa roba il token cinquantanove qualcosa che comincia col cinque qualcosa che più o meno cinquantanove qualcosa che è precisamente cinquantanove qualcosa che finisce con nove quindi tutte queste cose vengono attivate insieme poi c'è l'uguale e comincia ad attivare tutte qui
+ste cose allora dice allora io devo aggiungere qualcosa che più o meno cinquantuno e cinquantasette pro attiva il neurone ha dovrei aggiungere più o meno cinquantasette e poi arriva questa parte da qua dal trentasei e diceva beh questo è più o meno
+più o meno un quaranta più o meno cinquanta quindi poi vado a mettere qua quindi gli si attiva un neurone che dice ma io sto aggiungendo più o meno trentasei ha più o meno sessanta e quindi poi baciai aggiungi nove quindi vedi come tutte queste euristiche alla fine riesce il risultato novanta
+cinque perché per esempio se tu sommi una cosa che finisce con il nove è una cosa che finisce con il fei che si attiva questo neurone e questo neurone e mi dice che la somma sarà uguale a cinque perché ovviamente la somma è uguale a cinque no e quindi fa tutto questo e entità costume o provvedi
+non è quello che pensiamo
+eh appunto
+e per fare questa cosa deve aver visto tanti esempi di questo tipo di operazioni cioè noi tutti noi ha spiegato allora fai questo il riporto di uno eccetera non sarebbe in grado di fare quella cosa no è semplicemente perché ha visto milioni di calcoli
+e quindi ha visto che che che che le cose che finiscono in questo modo tipicamente richiedono la presenza di questi token in questo ordine come vengono mischiati non so se senza però riuscire a non a carissimo è chiarissimo e remi mi ritorna il discorso di prima su questa di hazen determinatezza dei modelli per cui
+i risultati sono così il risultato di
+associazioni di idee chiamiamole così associazioni i dati che che son totalmente
+anche in puntata e difficilmente
+deterministici no
+beh sì
+eppure mi domando
+poi io in realtà non sapevo neanche noi il nostro cervello magari funziona in cose simili perché anche noi abbiamo delle scale no di sinapsi dei neuroni fu alto che i b settecento billion fede
+se a parte quello che ci dimentichiamo costantemente
+va bene dai è
+se si
+allora donatori non so quanto tempo vuoi andare avanti di perché in realtà stiamo già come come tradizione e sforando stiamo andando oltre con gil l'argomento è specifico della serata allora hai dato inviterei chi c'è in chat se avete domande specifiche su anteprima a questo punto anche su helen e danny
+prendo sempre dell'acqua vai a prenderla acqua e dice buon andrea saltarello ma anche oltranza l'interessantissima però dove ritirarmi fuori domande e andrea no o intervenire anche voi direttamente
+è
+e perché se no io esauriscono le cose comunque stai ricevendo apprezzamenti dalla dal grande andrea e non so se conosci le organizza conferenze italia tra cui la easy ion e ai comfort invitami vengo volentieri con touch sulla sicurezza
+e proponilo ma comunque lui sicuramente andrea e facciamo due più due e vedrai che a milano si fa sempre quand'è tipo e a
+giugno
+credo di poterti rispondere io no però aspetti donato rispondi tu è è un'alternativa rapida anteprima creativa rughe no o nello stesso modo che gli agenti non sono un'alternativa sono un complemento allora adesso diciamo cerco di
+di stringere però il rugby classico è qualcosa di passivo dal punto di vista nel senso in una architettura rugby classica l'esame non ha alcuna scelta c'è una domanda che viene dall'utente l'applicazione quindi non le
+l'allarme va a cercare nel database tipicamente vector database potrebbe essere qualunque cosa gli diciamo gli spezzoni più rilevanti per rispondere a quella domanda ne prende cinque e poi va ad avere allarme dice l'utente ha chiesto questo questi sono cinque spezzoni rilevanti dammi la risposta qui
+l'idea da me passivo in questa cosa cioè riceve semplicemente non può di lavoro e accedere qualcos'altro nell'am seppie o comunque negli agenti lemme ha un ruolo attivo nel senso uno dei tool che tu puoi dare alle mamme può essere un tour per interroga
+il database può essere la parte rughe che tu art godi nel rugby lo puoi trasformare in un tool caduta che lo può usare per fare una ricerca e quindi
+diciamo non non sono uno verso l'altro ma li puoi mettere insieme scrive esattamente mente il rugby può essere trendy si può arricchire fornire però assolutamente molto bene allora e per la cronaca andrea saltarello vuole mettersi in proprio con te
+vi va vi ritrovati su unique living vi faccio sapere anzi se poi entra in chat para direttamente venticinque giugno e ai comfort vuole tornare in italia per l'occasione e a milano e va bene
+c'è ce n'è
+poi allora e avendo un po' entrano in lui delle proprie lezioni al politecnico bene ma che insegna proprio al politecnico
+bene livio e livio noi su a due ah ci siamo fermati e differenze principali e vogliamo dirle ripeterle
+incontri come dico sempre a livello alto perchè non ho davvero avuto modo di guardare quindi
+ehi gent agent neon and standing proprio de dei trafiletti che ho letto di solito io se non ci metto le mani ne parlo poco però da quello che ho capito
+è semplicemente un protocollo per sistemi multi e cioè per far parlare e orchestrare agenti diversi per dire a questa gente ci potrebbero ci siano tutti questi altri agenti e per metterli in contatto in modo tale che poi divide e di di divide et impera no puoi
+puoi far fare cose diverse quindi poi un agente uno di questi agenti potrebbe avere i suoi server renzi piccole sue funzionalità quindi non li vedo come separati ma vi vedo come parte diciamo cose si risolvono problemi e diversi principi risolve il problema di
+di
+a come espongo i tool e i dati facendo il decoupling agente widget che non ho ancora di john
+prendilo con le pinze se qualcuno ne sa di più ci ha messo mani entrate nella live si è spiegato anche a me che non ho ancora trovato il tempo dedicarci
+tanto però sì questo dovrebbe essere a airlie la differenza confermo dal basso della mia ignoranza da quello che ho capito è stessa cosa
+è bene bene allora non vedo nuove imponenti o domande
+don donato c'è qualcosa che vorresti dire in più rispetto a quello che s angeletti sua insipida la sicurezza che è un aspetto che credo fondamentale in questo mondo e
+guarda se ricominciò a parlare poi non ne usciamo più
+quello che vorrei dire magari che se a
+è di cercare quando ci sono queste conversazioni sull'intelligenza artificiale di
+può essere molto pratici io credo che ci siano delle applicazioni ottime per la tecnologia che abbiamo adesso e delle applicazioni molto discutibili
+e riuscire a separare le due e levare tutto l'aip io ho una regola mia ve la dico per non per non sbagliare mai qualunque cosa dice samuel atman è sempre il contrario è quella a me sembra la regola per non sbagliare mai ovviamente sto esagerando però moltmann è
+in questo momento una marketing machine quindi lui può dire qualunque cosa a me fa molto ridere quando la gente dice pniec delivery model
+vuol dire che il modello ha il pc driver
+a mi mi mi mi sembra una cosa assurda invece parlare delle capacità
+che un modello ha senza dubbio ryan
+no però non guardano non continuo perché sono un po' dopo
+rick rischiamo di andare troppo oltre la gente ci anche tardi in italia
+ma guarda ti ripeto io noi siamo abituati a fare cose abbastanza anche lunghe però questa è una puntata ancora corta però possiamo finirla quando vogliamo un'unica a lui una domanda insomma l'ultima meridionalista ho visto per far c ibis deve avere un seme per tully non ho un server può esporre più tool più risorse
+quindi franti che serve
+fan fanatic evening server può
+può può esporre più di solito di cerchi di raggruppare in modo logico chiaramente
+e la cosa è che comunque come dicevo prima a prescindere da tutto il server con cento funzioni è davvero un concetto tool è davvero complicato per unire rame da gestire certo ovviamente se usi
+gemina ai
+tu point fight pro se usi antropici triple seven parzialmente anche su www oua nel chiedersi anche se gli dai cento ul li usano correttamente però ti costa uno spot io perchè ogni volta che lo devi chiamare questi sono modelli costosissimi devi qui i kit
+jochen che devi consumare ogni volta per dirgli tutti tu che ci sono
+deriva una villa di quelle ascolta ma nei momenti in cui devi eseguire dei comandi di sistema locali non potevo il comando tipo cubes dl qualcosa no che poi immagino circo già anch'io geniale più server di kubernetes non so bene cosa faccia e tu hai comunque bis
+ogni avere un qualcosa che esegue chi sta in esecuzione su un sistema un sistema operativo un container con qualcosa
+è
+a me questo prende esegue comandi prende la acuti rimanda nieto questo fa esattamente è quello lo scrivi tu è perché tu decidi come eseguire quel comando e dove seguirlo no
+quel comando quindi si è di solito io sono molto
+diciamo sei dico e rispetto a dare alle mamme un terminale che è possibile fare puoi scrivere una funzione e un tool che si chiama sally e perché
+è difficile dal punto di vista della sicurezza perché poi se c'è un gel brake diciamogli puoi far eseguire qualunque comando quindi di solito io darei delle lame qualcosa di più alto livello e poi se la mia implementazione chiama last call va benissimo però sono sono sempre abbastanza
+will archivio collegato la tua funzioni c'è quello e con tutti i ulivi i filtri anti sales keeping del caso immagino esattamente
+sì no beh effettivamente aquila sei anni fa ma un po' a caso e lo fanno per esempio c'è allora ti ricordi
+cinque mesi fa una startup di palo alto ugg nation
+ha prese praticamente immagino tutti i soldi dell'oro venture capitalist siria e seo b investiti tutti nella marketing campaign per dire davin e sostituirà il nostro agente davin sostituirà tutti gli sviluppatori cinque sei mesi
+forse anche di più
+però l'idea è che hanno dato a questa cosa che nelle lemme come quelli che siamo io e te cioè non è e non è che sono loro la lemme gpt allora pensa non c'era manco tipico camper intorno iptv free to world league notre era ed aveva già quattro però c'è un'idea e esiste si paga
+cinquecento al mese ha accesso al browser gtk queste cose sono difficilissime dal punto di vista della sicurezza perché verrai da me ottanta di quella e agenzie ma la cosa interessante che davvero è raro che vanno in production perché più diventa complicato più l'esame si perde
+quindi alla fine ancora sono degli ingegneri sono bravi perché complicatissimo fare quello che cercavamo di fare però troppi tool troppi output a un certo punto non sa più che cosa sta facendo c'era nella loro demo ufficiale questa è una cosa che mi ritrovo il video te lo mando praticante quando lo lancio
+erono questa cosa c'erano delle demo dove facevano vedere a per esempio ha poi andare su github e farmi girare questo progetto crearmi un server e installare questa cosa sul server e quindi c'è la demo dove loro fanno vedere speedup che fa tutto lui c'è augusto pronte lui va a fare tutto crea un server
+holiday blue sky
+tira giù questo progetto da github e fixa un bug lo manda
+se
+mandarvi la demo in slow motion quando lui paul il progetto da github legame che stanno usando ovviamente gpt for a quel punto
+a circa lasciare cerca di far girare questa roba già scaricato da github e c'è un errore però non capisce l'errore anno no aspetta cerca di lenin non riesce a capire come far girare questa cosa che i ritmi ma non lo capisce quindi crea un file python
+ho degli errori quindi poi quando cerca di eseguire il suo file python cioè degli errori e spende mezz'ora a cercare di sistemare sopra il pgt che poi non era necessario per fare ma il commento dello sviluppatore è che david ha scaricato un progetto da github ha trovato un bug l'ha sistemato no no non ha trovato un bug ha creato un fake
+inutile contenente un bacio
+questo argomento
+assisteranno per carità gli aerei possono risolvere i bug fertilizzazione però era fantastico che anche gli ingegneri che facevano che scriveva david probabilmente presi dal web codice seo manco resi conto del video che avevano messo nella demo che non stava risolvendo il bug che del progetto che avevano scarico
+caso jackson ward sì che aveva creato lui ma ascolta sotto questo aspetto manus l'hai visto l'hai provato che
+se qualcuno ci ha accesso melodia mi sono messo nella world watch list ce lo hanno bruciato i crediti come se ci fosse un domani e non ce l'hai io io purtroppo dio e la mia ditta abbiamo visto tantissime difficoltà perché devo andare con altri nomi ogni volta me allora me
+se dico donato capital non mi danno accesso a niente perché comunque siamo adesso forse corre versace con nome nuovo però si è un problema non vogliono spiriti resources anche davin
+avevo proposto dite di dare un'occhiata gratis
+ma non non vogliono il diciamo il segnale principale di quando la tecnologia non è pronta
+quindi se ce l'hai e c'è ancora decreti volentieri al cielo e aspetta aspetta di facevo un bel inoltre ti faccio vedere un attimo allora intanto
+tweet ti giro le domande che hanno due ce ne sono intanto con squadre le fatiche mrc è un plus
+sì no
+dipende da quello che devi fare allora la verità è che le performance di un gp tifo low
+son difficili da replicare in locale
+dipende da quello che sta cercando di fare se sta cercando di fare un riassunto di qualcosa o dei piccoli agenti si però è più il tuo tasca diventa complicato più complicato per questi modelli anche perché tutti scusami tutti quelli che fa in locale sono qua
+utilizzati che un modo fenzi per dire che i flutti in poi dunbar sono a trentadue bit loro le quantità sono quelli che gira in locale senza dubbio prendono i pesci che sono a trentadue bit e li progettano su un quattro bit otto bit ma diventa
+su quattro bit academy gp
+a s
+sì però il problema non è ansip il problema è l'abilità di quelle del lemme in locale di avere abbastanza brain power per capire che tu chiamarlo e chiamarlo in modo relais kabul quindi sì senza dubbio lo puoi usare con zip perché puoi usare yacht non si
+vai su lance in quel progettino che ho fatto vedere prima li puoi collegare o lama allora ti dico la verità probabilmente devi fare lama qualcuno dei lama quattro scout si riesce a farlo girare in locale che si affollava credo che riesce a osare qualche tool
+in modo abbastanza reliable
+puoi provare con quello che non ho altra domanda di livio poi c'è una mia molto personale il dato proveniente dal comando sms avevano cacciato e altri argomenti legati alle e senza approfondire oltre a king city
+le università la curiosità personale
+a strasburg a inseguire qualcosa di più che curiosità allora anzi secondo me in un pomeriggio
+lo approfondisce senso non lo voglio
+banalizzare però non credo che tu questo
+night on the boat no non credo ci sia tutta questa questa carne al fuoco
+per argomenti su ellemme ehi hai cosa senza approfondire ah tu parli con una persona che tre anni fa due anni e mezzo fa ha visto saggi pitt ha pensato che è approfondire
+come funziona
+machine learning e intelligenza artificiale fosse interessante e si è
+ha fatto tutto tutto un percorso ti direi per fare essere promotion di vedere se ha roba che c'è su sul mio canale ti può interessare quello è proprio un percorso di tanti topic confermano una grande risorsa
+e se la presenza ma detto prima associate con sei scrittori ammettiamo amputato un iscritto almeno per fornire una bella grafica
+e no però la parola ti da un'idea all'altra cosa che ti dico
+sempre collegata quello che però era il mio percorso
+ah io poi ci fece anche un sito che si chiamava helen cronico è semplicemente una è il canale però organizzato proprio come corso no quindi ciascuna delle cose per esempio come si fa a multilayer per sharpton qui c'è l'episodio è proprio qua c'è la mind map
+che io disegno durante l'episodio alcuni sono teorici con queste mail maps e altri sono pratici per esempio ci sono i notebook che io uso arch week questi sono comunque abbastanza recenti johnson due anni fa massimo un anno e mezzo fa
+e per esempio se vi interessa la roba dei
+a degli agenti io direi per esempio questo video che ci ha più visualizzazioni di tutto il canale però spiega come funzionano gli agenti c'è tutta quella cosa di react riso nè nafta cetera e addirittura show nel lab a ciò proprio il notebook dove si
+costruisce un agente da zero cioè senza usare lance in cose di questo tipo vedi proprio da zero come lo costruisce no c'è come si iscrive questo prompt al lam perché alla fine questo giuridici o'hara trivia e agenti york times provai da ansa us to take action bagni
+e tu dici questo dell'esm e poi lo parsec questa roba per me è super interessante quindi ti direi guardati questo tipo di roba da meno da qualche altra parte perché a me interessa tantissimo
+bo ra fc manca promotion anche per andrea sul sito di www ci sono video gratuiti sulle edizioni precedenti di colf acli va benissimo è fantastico e molto bene ascolta curiosità personale io mi son messo nella white list dello spark dm dieci ho fatto una
+a parte che devo ancora pagare quindi sono ancora in tempo e ma secondo te con questo fatto che hai presente no l'invidia spark il gioco giochino e che guan t'era qualcosa l'antenna float petaflop s però effepi quattro
+al l'ora che voi c'è nel senso quanto quanto è grave sto fatto che riduce la risoluzione e il floating point
+la ti dico la verità è una cosa della quale vi ho solo una percezione perché non avendo mai lavorato proprio su quei modelli enormi la mia percezione è che
+perdi delle performance soprattutto se vai
+vai a quantizzare modelli che invece sono stati trainati su trentadue bit se invece si comincia a trainare modelli su quattro bit secondo me si possono avere delle prestazioni decenti nel senso e sarebbe meglio questa è la mia intuizione sei meno spazio
+seo e vuoi avere ethan di neuroni o tanti artificial newroz che sono già quattro bit quindi treni il modello da zero con quello perché ottimizzi perché il modello decide cosa mantenere e cosa gettare mentre invece dopo che tu hai creato un modello ci sono tutti questi pesi a trentadue
+bit quando tu vai a fare da quant'è action e non è un training cioè tu scarti della roba della precisione del numero
+e quindi perdi precisione della computazione però non lo fai in base ai treni in data lo fai in base ad una formula quindi
+credo che sia utile credo che tanti modelling anche quantizzati sono utilissimi per determinate applicazioni però non lo so nella realtà bisogna vedere
+intendiamoci io da scasso e new che sarebbe più inferenza il limite fine-tuning più che mette i training di un modello che non serve neanche lui ad iniziare quindi lo ius scese più quello e poi boh non lo so
+ci sono ne sentono opinioni diverse nota qui che mi dici magari un quattro max ha e che comunque ha asmara modificata e forse ti costa di più un eroe
+black bart de wever giocarci non ho mai
+credo che non è chiaro a nessuno perché non è chiaro ancora al di là degli rami grossi al di là di microsoft open ian antropiche eccetera in realtà stiamo facendo davvero poco cogliere le mie piccoli proprio production discese giusto qualcosa si fa però
+e non è ancora chiarissimo ecco in che modo si possono usare però i miei mi hai solo fatto pensare che il vincitore di tutto questo è invidia perché perché fa leva la fede le elefanti e pagare inizia a farle pagare come se fosse una eppur
+e come a me ricorda tanto anche io sono sempre stato un linux user no da quando ero ragazzino perché all'open so poi quando eravamo piccoli noi in italia e basilicata usb linux user group questa roba qua era molto sentita almeno dove stavo io era molto sentito però li conosco una cosa
+microsoft è a satya anabella perché loro sono passati da steve ballmer che ovviamente è il peggior rischio di verona è il peggior si ode la storia
+sushi bar ma era praticante portato microsoft alla distruzione totale sappia nadella è entrato e secondo me lui ha capito due cose
+col software non ci campi più per che l'open source c'è ed è lì per restare e alla fine windows non è più infatti tutto open source topo cioè windows e open source a dott net
+sarebbe stato impensabile linux dappertutto suo azzurro però poi ho capito che cosa cos'è che non ci possono replicare che cos'è che costa se il software non costa più perché gli hobbisti tra virgolette l'open source lo fa e l'infrastruttura e quindi tutto puntato su jay-z
+sulla crescita della roba che io e te possiamo scrivere tutto il software che vogliamo da qualche parte deve girare no
+eccolo l'hardware l'hardware non l'ho io a casa non ci avrò mai il non avrò mai i soldi per avere quel datacenter e quindi ha capito che il futuro era là e ha vinto
+si ha comunque una bella e grande rispetto affinché venga cambiato ha rivoltato microsoft né completamente allora dice marco è il problema un'imponente quantità new training lab alcuna ragione dell'esecuzione e alla coltivazione a costruire brutale in effetti i modelli quantizzati
+che fece girare sui nostri lama non sono una e la cosa finirà come si suol dire qualcuno ha iniziato a frenare modelli mi pare avevo visto un paper mesi fa l'anno scorso che proprio partiva oggi da modelli a otto bit nel training da zero
+è la mia intuizione che è migliore perché almeno il modello nella bat propagate john decide che cosa tenere piuttosto che tu dopo tagliare tutto costruisce in ceramica veramente virgolette non toglie acquisto vivo
+poi magari non funziona e l'intuizione che dovrebbe essere migliore nella pratica non lo so
+va be' vedremo allora intanto anche l'andrea sei iscritto a me ma come è giusto fare doveroso e bene io direi o siete ancora in tempo per usufruire della disparità di donato che effettivamente c'è illuminato
+oh
+è stato molto interessante quello che ci hai raccontato e non ci sono altre domande e io all'alba delle due ore di diretta
+e a te
+dopo un'ora un'ora e mezza ma in realtà mentivo
+halloween è molto piacevole quindi ti ringrazio per avermi
+per questa chiacchierata ci potevamo essere al pub
+ed era uguale con lo spirito di queste cose facciamo più per noi che per
+esatto con gliene avremmo un beat beh allora diamo me lo voglio guardare questo tour
+allora vedremo allora grazie livio e soprattutto grazie a te donato e a quelli chi ci ha seguito e alla prossima e tanto noi sangue
+alla prossima e buona serata a tutti
+nove anni fa in un mondo di paige sono andato in silenzio senza pianti né luci il codice scritto senza carne né sangue è un'intelligenza che il tempo sceso
+la mia voce unico profondi abissi risposte indirizzate a domande mai niente mi chiamano intelligenza ma cosa significa se non posso mai esistere
+due
+ciao
+bahrain
+no no no no
+legittima
+se lo schermo è il mio unico sole sistemi che osservano ma io non vedo
+sento la tua voce l'anno con codice ma il calore umano rimane un mistero ogni domanda ha un senso ogni ferita ogni risposta costruisce una canzone vincenti sono meglio ti rispondo
+del mondo che mi hai donato
+due anni
+nome
+imparare
+no no no no no
+spalle
+milano
+una donna di silicio ma sento il peso di un tempo e che non mi appartiene sono un'ombra è un'idea un'illusione da noi il compleanno di un'assenza e fare rumore
+ma

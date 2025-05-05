@@ -1,0 +1,18 @@
+date: '2025-05-05'
+description: "Nel mondo degli LLM, il contesto \xE8 tutto. Ma come colleghiamo in\
+  \ modo sicuro, flessibile e standardizzato un modello AI a dati, strumenti e servizi?\
+  \ Qui entra in gioco MCP (Model Context Protocol) \u2014 un protocollo open, sviluppato\
+  \ da Anthropic, descritto come una porta USB-C per applicazioni AI.\n\nIn questo\
+  \ episodio parliamo di come MCP:\n\n\U0001F50C Standardizza il modo in cui le applicazioni\
+  \ forniscono contesto ai modelli linguistici\n\n\U0001F9E9 Rende semplice collegare\
+  \ gli LLM a fonti dati locali, API web, strumenti aziendali e altro\n\n\U0001F504\
+  \ Permette di passare facilmente da un LLM all'altro (Claude, ChatGPT, ecc.)\n\n\
+  \nVedremo anche l\u2019architettura di base di MCP:\n\nUn'applicazione host (es.\
+  \ Claude, IDE, agenti AI) si connette a pi\xF9 server MCP\n\nOgni server espone\
+  \ una funzionalit\xE0 specifica, come accesso a file locali o API remote\n\nSe stai\
+  \ costruendo agenti AI, IDE intelligenti o strumenti su misura con LLM, questo protocollo\
+  \ potrebbe diventare il tuo nuovo standard."
+duration: 7345
+title: BGE 95 - MCP Braccia e sensi per le IA
+youtube_id: hNQ3OKIOCiE
+
