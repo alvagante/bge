@@ -1,0 +1,10 @@
+- Connessioni e circuiti: Analisi delle interconnessioni tra i vari componenti hardware, evidenziando l'importanza dei circuiti nel funzionamento dei sistemi.
+- Chip e obsolescenza: Discussione sui chip obsoleti e i problemi legati ai pensionamenti, che comportano la necessità di gestire l'hardware in modo efficiente.
+- Codice e ubicazione: Esplorazione del codice sorgente e della sua posizione all'interno dei sistemi, sottolineando l'importanza della sua organizzazione per il funzionamento del software.
+- Design e architettura: Riflessioni sul design degli spazi digitali e fisici, inclusa l'importanza dell'estetica e della funzionalità nell'architettura informatica.
+- Algoritmi e schiavitù digitale: Critica dell'uso eccessivo degli algoritmi nella vita quotidiana, evidenziando come possano condizionare le scelte e la percezione del tempo.
+- Realtà virtuale vs reale: Analisi delle interazioni tra mondi virtuali e reali, discutendo le implicazioni per l'utente e le esperienze immersive.
+- Memoria e futuro: Riflessione sull'importanza della memoria storica per la previsione e la pianificazione del futuro nel contesto tecnologico.
+- Innovazione imprenditoriale: Discussione sull'importanza dell'innovazione nel mondo imprenditoriale, in particolare nel settore IT, e sui nuovi modelli di business emergenti.
+- Estetica e tecnologia: Esame del ruolo della bellezza e del design nell'interazione con la tecnologia e come questi elementi influenzano l'esperienza utente.
+- Sostenibilità e rinascita: Riflessione su come la tecnologia possa contribuire alla sostenibilità e alla rinascita di settori in crisi, con un focus sulle opportunità future.
