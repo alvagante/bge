@@ -1,7 +1,7 @@
 ---
 episodi:
-- 96
+- 97
 layout: geek
-nome: Carmine della Sala
+nome: Gianluca Varisco
 ---
 
