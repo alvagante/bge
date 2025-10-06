@@ -15,7 +15,7 @@
   - Create dataclasses for ImageSettings, SocialMediaSettings, and QuoteSettings
   - _Requirements: 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7_
 
-- [ ] 3. Implement quote extraction module
+- [x] 3. Implement quote extraction module
   - Create EpisodeQuote dataclass in src/extractors/base.py with all episode metadata fields
   - Implement QuoteExtractor class in src/extractors/quote_extractor.py
   - Add method to parse YAML frontmatter from episode markdown files using python-frontmatter
