@@ -8,6 +8,8 @@ tenacity>=8.2.0             # Retry logic
 # Social media APIs
 tweepy>=4.14.0              # Twitter API
 instagrapi>=2.0.0           # Instagram API
+facebook-sdk>=3.1.0         # Facebook API
+requests>=2.31.0            # HTTP requests (for LinkedIn API)
 
 # Development dependencies
 pytest>=7.4.0

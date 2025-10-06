@@ -50,7 +50,7 @@
   - Implement retry logic with exponential backoff using tenacity
   - _Requirements: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8_
 
-- [ ] 6. Implement additional social media publishers
+- [x] 6. Implement additional social media publishers
   - Implement InstagramPublisher class using instagrapi library
   - Add Instagram authentication and photo upload with caption
   - Implement FacebookPublisher class using facebook-sdk library
