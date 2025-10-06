@@ -102,10 +102,19 @@ flake8 src/ tests/
 
 **Important**: Never commit API credentials or `.env` files to version control. The `.gitignore` file is configured to exclude these files, but always verify before committing.
 
+### Best Practices:
 - Store all API keys and secrets in the `.env` file
 - Use environment-specific `.env` files for different deployments
 - Rotate credentials regularly
 - Use read-only or limited-scope API tokens when possible
+- **Instagram Warning**: Instagram requires username/password authentication, which is less secure than OAuth. Consider:
+  - Using a dedicated account with limited permissions
+  - Enabling 2FA and handling it appropriately
+  - Being aware of Instagram's rate limits and terms of service
+
+### Path Security:
+- All configured paths are validated to prevent directory traversal attacks
+- Absolute paths and `..` patterns are not allowed in configuration
 
 ## License
 

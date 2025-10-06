@@ -48,7 +48,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "bge-quote-gen=src.main:main",
+            "bge-quote-gen=main:main",
         ],
     },
 )
