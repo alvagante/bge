@@ -1,12 +1,3 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-Gemfile.lock
-DS_Store
-**/.DS_Store
-output/
 # Environment variables
 .env
 .env.local

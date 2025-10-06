@@ -1,0 +1,20 @@
+# Core dependencies
+Pillow>=10.0.0              # Image manipulation
+PyYAML>=6.0                 # Configuration parsing
+python-frontmatter>=1.0.0   # YAML frontmatter parsing
+python-dotenv>=1.0.0        # Environment variable management
+tenacity>=8.2.0             # Retry logic
+
+# Social media APIs
+tweepy>=4.14.0              # Twitter API
+instagrapi>=2.0.0           # Instagram API
+
+# Development dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
+black>=23.7.0
+flake8>=6.1.0
+mypy>=1.5.0
+types-PyYAML>=6.0.0        # Type stubs for PyYAML
+types-Pillow>=10.0.0       # Type stubs for Pillow
