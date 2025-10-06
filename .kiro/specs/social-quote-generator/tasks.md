@@ -25,7 +25,7 @@
   - Add methods to extract single episode or all episodes
   - _Requirements: 1.1, 1.2, 1.3, 1.4, 1.5, 1.6_
 
-- [ ] 4. Implement image generation module
+- [x] 4. Implement image generation module
   - Create GeneratedImage dataclass in src/generators/base.py
   - Implement ImageGenerator class in src/generators/image_generator.py using Pillow
   - Add method to load or create background templates for different platforms
