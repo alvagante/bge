@@ -145,7 +145,7 @@
   - Test configuration override via CLI arguments
   - _Requirements: 6.3_
 
-- [ ] 15. Final integration and polish
+- [x] 15. Final integration and polish
   - Test complete workflow: extract → generate → publish for sample episode
   - Verify all CLI arguments work correctly
   - Test with actual BGE episode data

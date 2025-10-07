@@ -1,16 +1,17 @@
-# BGE Social Quote Generator Configuration
+# BGE Social Quote Generator Test Configuration
+# This config is designed to work with actual BGE data from parent directory
 
 # General settings
 general:
-  episodes_dir: "../_episodes"
-  texts_dir: "../assets/texts"
+  episodes_dir: "_episodes"  # Will be overridden via CLI
+  texts_dir: "assets/texts"  # Will be overridden via CLI
   output_dir: "output/images"
   log_dir: "output/logs"
-  log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  log_level: "DEBUG"  # DEBUG for testing
 
 # Quote extraction settings
 quotes:
-  preferred_source: "claude"  # claude, openai, deepseek, llama, random
+  preferred_source: "claude"
   fallback_sources: ["openai", "deepseek", "llama"]
   max_length: 280
 
@@ -37,8 +38,8 @@ images:
   
   # Branding settings
   branding:
-    logo_path: "../assets/images/logo white.png"
-    logo_position: "top-right"  # top-left, top-right, bottom-left, bottom-right
+    logo_path: "assets/images/logo white.png"  # Will be overridden
+    logo_position: "top-right"
     logo_size: [100, 100]
     primary_color: "#FFFFFF"
     secondary_color: "#000000"
@@ -54,34 +55,34 @@ images:
 
 # Social media platform settings
 social_media:
-  enabled_platforms: ["twitter"]  # twitter, instagram, facebook, linkedin
+  enabled_platforms: []  # Disabled for testing
   
   twitter:
-    enabled: true
-    api_key: "${TWITTER_API_KEY}"
-    api_secret: "${TWITTER_API_SECRET}"
-    access_token: "${TWITTER_ACCESS_TOKEN}"
-    access_token_secret: "${TWITTER_ACCESS_TOKEN_SECRET}"
+    enabled: false
+    api_key: "test_key"
+    api_secret: "test_secret"
+    access_token: "test_token"
+    access_token_secret: "test_token_secret"
     caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}\n\n🔗 {youtube_url}"
     hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
   
   instagram:
     enabled: false
-    username: "${INSTAGRAM_USERNAME}"
-    password: "${INSTAGRAM_PASSWORD}"
+    username: "test_user"
+    password: "test_pass"
     caption_template: "🎙️ BGE Episodio {episode_number}\n\n{quote}\n\n{hashtags}"
     hashtags: ["#BGE", "#DevOps", "#IT", "#Tech", "#Podcast"]
   
   facebook:
     enabled: false
-    access_token: "${FACEBOOK_ACCESS_TOKEN}"
-    page_id: "${FACEBOOK_PAGE_ID}"
+    access_token: "test_token"
+    page_id: "test_page"
     caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}"
     hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
   
   linkedin:
     enabled: false
-    access_token: "${LINKEDIN_ACCESS_TOKEN}"
-    person_urn: "${LINKEDIN_PERSON_URN}"
+    access_token: "test_token"
+    person_urn: "test_urn"
     caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}"
     hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
