@@ -98,7 +98,7 @@
   - Implement results display with summary statistics
   - _Requirements: 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 5.9, 5.10_
 
-- [ ] 10. Create default templates and assets
+- [x] 10. Create default templates and assets
   - Create default square template (1080x1080) for Instagram in templates/default_square.png
   - Create default landscape template (1200x675) for Twitter in templates/default_landscape.png
   - Download and include Open Sans font or similar open-source font in templates/fonts/
