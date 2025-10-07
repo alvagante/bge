@@ -11,6 +11,8 @@ from typing import Any, Dict, List, Optional, Tuple
 import yaml
 from dotenv import load_dotenv
 
+from .utils.validators import ConfigValidator, PathValidator, CredentialValidator
+
 
 @dataclass
 class ImageSettings:
@@ -247,13 +249,11 @@ class Config:
         Raises:
             ConfigurationError: If path contains directory traversal attempts
         """
-        # Check for obvious directory traversal patterns
-        if ".." in path or path.startswith("/"):
-            raise ConfigurationError(
-                f"Invalid {description}: {path} (absolute paths and '..' not allowed)"
-            )
-        
-        return path
+        try:
+            PathValidator.validate_path(path, description)
+            return path
+        except Exception as e:
+            raise ConfigurationError(str(e))
     
     def _parse_general_settings(self) -> None:
         """Parse general settings."""
@@ -411,21 +411,27 @@ class Config:
             errors.append("No image platforms configured")
         
         for platform, settings in self.image_settings.platforms.items():
+            # Validate platform name
+            try:
+                ConfigValidator.validate_platform(platform)
+            except Exception as e:
+                errors.append(str(e))
+            
             if "dimensions" not in settings:
                 errors.append(f"Platform {platform} missing dimensions")
             else:
                 dims = settings["dimensions"]
-                if not isinstance(dims, list) or len(dims) != 2:
-                    errors.append(f"Platform {platform} dimensions must be [width, height]")
-                elif dims[0] <= 0 or dims[1] <= 0:
-                    errors.append(f"Platform {platform} dimensions must be positive")
+                try:
+                    ConfigValidator.validate_dimensions(tuple(dims), f"Platform {platform} dimensions")
+                except Exception as e:
+                    errors.append(str(e))
         
         # Validate logo position
         valid_positions = ["top-left", "top-right", "bottom-left", "bottom-right"]
         if self.image_settings.logo_position not in valid_positions:
             errors.append(f"Invalid logo_position: {self.image_settings.logo_position}")
         
-        # Validate colors (basic hex color check)
+        # Validate colors
         color_pattern = re.compile(r'^#[0-9A-Fa-f]{6}$')
         colors_to_check = [
             ("primary_color", self.image_settings.primary_color),
@@ -436,14 +442,21 @@ class Config:
         ]
         
         for color_name, color_value in colors_to_check:
-            if not color_pattern.match(color_value):
-                errors.append(f"Invalid {color_name}: {color_value}. Must be hex color (e.g., #FFFFFF)")
+            try:
+                ConfigValidator.validate_color(color_value, color_name)
+            except Exception as e:
+                errors.append(str(e))
         
-        # Validate font sizes
-        if self.image_settings.quote_font_size <= 0:
-            errors.append("quote_font_size must be positive")
-        if self.image_settings.metadata_font_size <= 0:
-            errors.append("metadata_font_size must be positive")
+        # Validate font sizes using ConfigValidator
+        try:
+            ConfigValidator.validate_font_size(self.image_settings.quote_font_size, "quote_font_size")
+        except Exception as e:
+            errors.append(str(e))
+        
+        try:
+            ConfigValidator.validate_font_size(self.image_settings.metadata_font_size, "metadata_font_size")
+        except Exception as e:
+            errors.append(str(e))
         
         # Validate social media settings
         for platform in self.social_media_settings.enabled_platforms:
@@ -466,8 +479,10 @@ class Config:
     
     def override_quote_source(self, source: str) -> None:
         """Override preferred quote source from CLI argument."""
-        if not self.quote_settings.validate_source(source):
-            raise ConfigurationError(f"Invalid quote source: {source}")
+        try:
+            ConfigValidator.validate_quote_source(source)
+        except Exception as e:
+            raise ConfigurationError(str(e))
         self._quote_settings.preferred_source = source
     
     def validate_credentials(self) -> List[str]:
@@ -482,11 +497,12 @@ class Config:
         for platform in self.social_media_settings.enabled_platforms:
             settings = self.social_media_settings.get_platform(platform)
             if settings and settings.enabled:
+                # Validate credentials using CredentialValidator
                 for key, value in settings.credentials.items():
-                    # Check if credential is missing or still a placeholder
-                    if not value or value.startswith("${") or value.startswith("your_"):
-                        warnings.append(
-                            f"⚠️  {platform}.{key} is not configured (still contains placeholder)"
-                        )
+                    try:
+                        # Try to validate (allow empty for optional credentials)
+                        CredentialValidator.validate_credential(value, f"{platform}.{key}", allow_empty=True)
+                    except Exception as e:
+                        warnings.append(f"⚠️  {platform}.{key}: {e}")
         
         return warnings

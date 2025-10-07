@@ -12,7 +12,7 @@ from pathlib import Path
 from .logger import get_logger
 from .error_handler import ErrorHandler, ErrorSeverity
 from .summary_reporter import SummaryReporter, EpisodeResult
-from .validators import Validator, ValidationError
+from .validators import ValidationError
 
 
 def setup_pipeline_utilities(
@@ -20,12 +20,12 @@ def setup_pipeline_utilities(
     log_level: str = "INFO",
     console_output: bool = True,
     file_output: bool = True
-) -> Tuple[logging.Logger, ErrorHandler, SummaryReporter, Validator]:
+) -> Tuple[logging.Logger, ErrorHandler, SummaryReporter]:
     """
     Set up all pipeline utilities in one call.
     
     This convenience function initializes logger, error handler,
-    summary reporter, and validator with consistent configuration.
+    and summary reporter with consistent configuration.
     
     Args:
         log_dir: Directory for log files
@@ -34,7 +34,7 @@ def setup_pipeline_utilities(
         file_output: Enable file logging
         
     Returns:
-        Tuple of (logger, error_handler, summary_reporter, validator)
+        Tuple of (logger, error_handler, summary_reporter)
     """
     # Set up logger
     logger = get_logger(
@@ -47,24 +47,42 @@ def setup_pipeline_utilities(
     # Initialize other utilities with the logger
     error_handler = ErrorHandler(logger)
     summary_reporter = SummaryReporter(logger)
-    validator = Validator(logger)
     
     logger.info("Pipeline utilities initialized")
     
-    return logger, error_handler, summary_reporter, validator
+    return logger, error_handler, summary_reporter
 
 
 def validate_configuration(
     config: Dict[str, Any],
-    validator: Validator,
     error_handler: ErrorHandler
 ) -> bool:
     """
     Validate configuration with comprehensive error reporting.
     
+    Note: This function is deprecated. Use Config.validate() instead.
+    
     Args:
         config: Configuration dictionary to validate
-        validator: Validator instance
+        error_handler: Error handler instance
+        
+    Returns:
+        True if configuration is valid, False otherwise
+    """
+    # This function is now deprecated as validation is handled by Config class
+    # Keeping it for backward compatibility
+    return True
+
+
+def _deprecated_validate_configuration(
+    config: Dict[str, Any],
+    error_handler: ErrorHandler
+) -> bool:
+    """
+    Legacy validation function (deprecated).
+    
+    Args:
+        config: Configuration dictionary to validate
         error_handler: Error handler instance
         
     Returns:
@@ -81,10 +99,8 @@ def validate_configuration(
             for dir_key in ['episodes_dir', 'texts_dir', 'output_dir', 'log_dir']:
                 if dir_key in general:
                     try:
-                        validator.validate_directory_path(
-                            general[dir_key],
-                            create_if_missing=(dir_key in ['output_dir', 'log_dir'])
-                        )
+                        from .validators import PathValidator
+                        PathValidator.validate_directory_path(general[dir_key], dir_key)
                     except ValidationError as e:
                         error_handler.handle_configuration_error(
                             f"Invalid {dir_key}: {e}",
@@ -96,7 +112,9 @@ def validate_configuration(
             # Validate log level
             if 'log_level' in general:
                 try:
-                    validator.validate_log_level(general['log_level'])
+                    valid_levels = ["DEBUG", "INFO", "WARNING", "ERROR"]
+                    if general['log_level'] not in valid_levels:
+                        raise ValidationError(f"Invalid log level: {general['log_level']}")
                 except ValidationError as e:
                     error_handler.handle_configuration_error(
                         f"Invalid log level: {e}",
@@ -153,31 +171,51 @@ def validate_configuration(
 def validate_platform_credentials(
     platform: str,
     config: Dict[str, Any],
-    validator: Validator,
     error_handler: ErrorHandler
 ) -> bool:
     """
     Validate API credentials for a specific platform.
     
+    Note: This function is deprecated. Use CredentialValidator directly.
+    
     Args:
         platform: Platform name (twitter, instagram, facebook, linkedin)
         config: Platform configuration dictionary
-        validator: Validator instance
         error_handler: Error handler instance
         
     Returns:
         True if credentials are valid, False otherwise
     """
-    is_valid, error_message = validator.validate_api_credentials(platform, config)
+    from .validators import CredentialValidator
     
-    if not is_valid:
+    try:
+        # Validate based on platform
+        if platform == "twitter":
+            CredentialValidator.validate_twitter_credentials(
+                config.get("api_key", ""),
+                config.get("api_secret", ""),
+                config.get("access_token", ""),
+                config.get("access_token_secret", "")
+            )
+        elif platform == "instagram":
+            CredentialValidator.validate_instagram_credentials(
+                config.get("username", ""),
+                config.get("password", "")
+            )
+        else:
+            # For other platforms, just check if credentials exist
+            for key, value in config.items():
+                CredentialValidator.validate_credential(value, f"{platform}.{key}")
+        
+        return True
+        
+    except ValidationError as e:
         error_handler.handle_authentication_error(
             platform=platform,
-            message=error_message or f"Invalid credentials for {platform}",
+            message=str(e),
             context={'config_keys': list(config.keys())}
         )
-    
-    return is_valid
+        return False
 
 
 def create_episode_result(

@@ -14,6 +14,7 @@ from typing import List, Optional
 
 from .config import Config, ConfigurationError
 from .orchestrator import PipelineOrchestrator
+from .utils.validators import EpisodeValidator, ConfigValidator, PathValidator, ValidationError
 
 
 # Version information
@@ -59,9 +60,12 @@ def parse_episode_list(episodes_arg: str) -> List[str]:
         ep = ep.strip()
         if not ep:
             continue
-        if not ep.isdigit():
-            raise ValueError(f"Invalid episode number: {ep}")
-        episodes.append(ep)
+        try:
+            # Use EpisodeValidator to validate each episode number
+            validated_ep = EpisodeValidator.validate_episode_number(ep)
+            episodes.append(validated_ep)
+        except ValidationError as e:
+            raise ValueError(str(e))
     
     if not episodes:
         raise ValueError("No valid episode numbers provided")
@@ -82,16 +86,10 @@ def validate_platform(platform: str) -> str:
     Raises:
         ValueError: If platform is not supported
     """
-    valid_platforms = ["instagram", "twitter", "facebook", "linkedin"]
-    platform_lower = platform.lower()
-    
-    if platform_lower not in valid_platforms:
-        raise ValueError(
-            f"Invalid platform: {platform}. "
-            f"Valid options: {', '.join(valid_platforms)}"
-        )
-    
-    return platform_lower
+    try:
+        return ConfigValidator.validate_platform(platform)
+    except ValidationError as e:
+        raise ValueError(str(e))
 
 
 def validate_quote_source(source: str) -> str:
@@ -107,16 +105,10 @@ def validate_quote_source(source: str) -> str:
     Raises:
         ValueError: If source is not supported
     """
-    valid_sources = ["claude", "openai", "deepseek", "llama", "random"]
-    source_lower = source.lower()
-    
-    if source_lower not in valid_sources:
-        raise ValueError(
-            f"Invalid quote source: {source}. "
-            f"Valid options: {', '.join(valid_sources)}"
-        )
-    
-    return source_lower
+    try:
+        return ConfigValidator.validate_quote_source(source)
+    except ValidationError as e:
+        raise ValueError(str(e))
 
 
 def create_parser() -> argparse.ArgumentParser:
@@ -244,12 +236,14 @@ def main() -> int:
         episode_numbers: Optional[List[str]] = None
         
         if args.episode:
-            # Single episode
-            if not args.episode.isdigit():
-                logger.error(f"Invalid episode number: {args.episode}")
+            # Single episode - validate using EpisodeValidator
+            try:
+                validated_episode = EpisodeValidator.validate_episode_number(args.episode)
+                episode_numbers = [validated_episode]
+                logger.info(f"Processing episode: {validated_episode}")
+            except ValidationError as e:
+                logger.error(f"Invalid episode number: {e}")
                 return 1
-            episode_numbers = [args.episode]
-            logger.info(f"Processing episode: {args.episode}")
             
         elif args.episodes:
             # Multiple episodes
@@ -307,12 +301,22 @@ def main() -> int:
         
         # Apply command-line overrides to configuration
         if args.output_dir:
-            logger.info(f"Overriding output directory: {args.output_dir}")
-            config.general_settings['output_dir'] = args.output_dir
+            # Validate output directory path
+            try:
+                PathValidator.validate_directory_path(args.output_dir, "output directory")
+                logger.info(f"Overriding output directory: {args.output_dir}")
+                config.override_output_dir(args.output_dir)
+            except ValidationError as e:
+                logger.error(f"Invalid output directory: {e}")
+                return 1
         
         if args.quote_source:
-            logger.info(f"Overriding quote source: {args.quote_source}")
-            config.quote_settings.preferred_source = args.quote_source
+            try:
+                logger.info(f"Overriding quote source: {args.quote_source}")
+                config.override_quote_source(args.quote_source)
+            except ConfigurationError as e:
+                logger.error(f"Invalid quote source: {e}")
+                return 1
         
         # Initialize orchestrator
         logger.info("Initializing pipeline orchestrator...")

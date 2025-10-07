@@ -8,6 +8,7 @@ from typing import Dict, List, Optional, Tuple
 import frontmatter
 
 from ..config import Config
+from ..utils.validators import EpisodeValidator, TextValidator
 from .base import EpisodeQuote
 
 
@@ -57,6 +58,13 @@ class QuoteExtractor:
         Returns:
             EpisodeQuote object if successful, None if episode not found or extraction fails
         """
+        # Validate episode number
+        try:
+            episode_number = EpisodeValidator.validate_episode_number(episode_number)
+        except Exception as e:
+            logger.error(f"Invalid episode number: {e}")
+            return None
+        
         episode_file = self.episodes_dir / f"{episode_number}.md"
         
         if not episode_file.exists():
@@ -229,11 +237,16 @@ class QuoteExtractor:
         quote = episode_data.get(frontmatter_key)
         
         if quote and isinstance(quote, str) and quote.strip():
-            # Clean up quote (remove extra whitespace and quotes)
+            # Clean up and sanitize quote
             quote = quote.strip().strip('"').strip("'").strip()
             if quote:
-                logger.debug(f"Found quote from frontmatter: {frontmatter_key}")
-                return quote
+                # Sanitize the quote text
+                try:
+                    quote = TextValidator.sanitize_text(quote, max_length=1000)
+                    logger.debug(f"Found quote from frontmatter: {frontmatter_key}")
+                    return quote
+                except Exception as e:
+                    logger.warning(f"Quote validation failed for {frontmatter_key}: {e}")
         
         # Fall back to separate text file
         quote = self._load_quote_from_file(episode_number, source)
@@ -265,7 +278,13 @@ class QuoteExtractor:
             with open(quote_file, 'r', encoding='utf-8') as f:
                 quote = f.read().strip().strip('"').strip("'").strip()
                 if quote:
-                    return quote
+                    # Sanitize the quote text
+                    try:
+                        quote = TextValidator.sanitize_text(quote, max_length=1000)
+                        return quote
+                    except Exception as e:
+                        logger.warning(f"Quote validation failed for {quote_file}: {e}")
+                        return None
         except Exception as e:
             logger.warning(f"Failed to read quote file {quote_file}: {e}")
         

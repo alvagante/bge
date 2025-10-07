@@ -1,390 +1,717 @@
-"""
-Input validation and credential verification utilities.
-
-This module provides validation functions for configuration values,
-API credentials, file paths, and other inputs to catch errors early.
-"""
+"""Input validation and security utilities for BGE Social Quote Generator."""
 
 import os
 import re
 from pathlib import Path
-from typing import Optional, Tuple, List, Dict, Any
-import logging
+from typing import List, Optional, Tuple
+
+import html
 
 
 class ValidationError(Exception):
-    """Custom exception for validation errors."""
+    """Raised when validation fails."""
     pass
 
 
-class Validator:
-    """
-    Validate inputs and configuration values.
+class EpisodeValidator:
+    """Validates episode numbers and episode-related inputs."""
     
-    Provides early validation to catch configuration and input errors
-    before pipeline execution begins.
-    """
-    
-    def __init__(self, logger: Optional[logging.Logger] = None):
+    @staticmethod
+    def validate_episode_number(episode_number: str) -> str:
         """
-        Initialize validator.
-        
-        Args:
-            logger: Logger instance for validation messages
-        """
-        self.logger = logger or logging.getLogger(__name__)
-    
-    def validate_episode_number(self, episode_number: str) -> bool:
-        """
-        Validate episode number format.
+        Validate episode number format and value.
         
         Args:
             episode_number: Episode number to validate
             
         Returns:
-            True if valid
+            Validated episode number as string
             
         Raises:
             ValidationError: If episode number is invalid
         """
-        if not episode_number:
+        # Check if empty
+        if not episode_number or not episode_number.strip():
             raise ValidationError("Episode number cannot be empty")
         
+        episode_number = episode_number.strip()
+        
+        # Check if numeric
         if not episode_number.isdigit():
-            raise ValidationError(f"Episode number must be numeric: {episode_number}")
+            raise ValidationError(
+                f"Episode number must be numeric, got: {episode_number}"
+            )
         
+        # Convert to int to check range
         episode_int = int(episode_number)
+        
+        # Check if positive
         if episode_int <= 0:
-            raise ValidationError(f"Episode number must be positive: {episode_number}")
+            raise ValidationError(
+                f"Episode number must be positive, got: {episode_int}"
+            )
         
-        if episode_int > 10000:  # Reasonable upper limit
-            raise ValidationError(f"Episode number seems unreasonably large: {episode_number}")
+        # Check reasonable upper bound (prevent DoS with huge numbers)
+        if episode_int > 10000:
+            raise ValidationError(
+                f"Episode number too large (max 10000), got: {episode_int}"
+            )
         
-        return True
+        return episode_number
     
-    def validate_file_path(self, file_path: str, must_exist: bool = False) -> bool:
+    @staticmethod
+    def validate_episode_list(episode_numbers: List[str]) -> List[str]:
         """
-        Validate file path and check for directory traversal.
+        Validate a list of episode numbers.
         
         Args:
-            file_path: File path to validate
-            must_exist: Whether file must exist
+            episode_numbers: List of episode numbers to validate
             
         Returns:
-            True if valid
+            List of validated episode numbers
             
         Raises:
-            ValidationError: If path is invalid or unsafe
+            ValidationError: If any episode number is invalid
         """
-        if not file_path:
-            raise ValidationError("File path cannot be empty")
+        if not episode_numbers:
+            raise ValidationError("Episode list cannot be empty")
         
-        path = Path(file_path)
+        validated = []
+        for episode_num in episode_numbers:
+            validated.append(EpisodeValidator.validate_episode_number(episode_num))
         
-        # Check for directory traversal attempts
-        try:
-            path.resolve()
-        except (ValueError, OSError) as e:
-            raise ValidationError(f"Invalid file path: {file_path} - {e}")
-        
-        # Check if path contains suspicious patterns
-        suspicious_patterns = ['..', '~', '$']
-        path_str = str(path)
-        for pattern in suspicious_patterns:
-            if pattern in path_str and pattern != path_str:  # Allow ~ as root
-                self.logger.warning(f"File path contains suspicious pattern '{pattern}': {file_path}")
-        
-        # Check existence if required
-        if must_exist and not path.exists():
-            raise ValidationError(f"File does not exist: {file_path}")
-        
-        return True
+        return validated
     
-    def validate_directory_path(self, dir_path: str, create_if_missing: bool = False) -> bool:
+    @staticmethod
+    def check_episode_exists(episode_number: str, episodes_dir: str) -> bool:
         """
-        Validate directory path.
+        Check if an episode file exists.
         
         Args:
-            dir_path: Directory path to validate
-            create_if_missing: Whether to create directory if it doesn't exist
+            episode_number: Episode number to check
+            episodes_dir: Directory containing episode files
             
         Returns:
-            True if valid
+            True if episode file exists, False otherwise
+        """
+        # Validate episode number first
+        episode_number = EpisodeValidator.validate_episode_number(episode_number)
+        
+        # Validate directory path
+        episodes_path = PathValidator.validate_directory_path(episodes_dir)
+        
+        # Check if episode file exists
+        episode_file = episodes_path / f"{episode_number}.md"
+        return episode_file.exists()
+
+
+class PathValidator:
+    """Validates file and directory paths to prevent security issues."""
+    
+    @staticmethod
+    def validate_path(path: str, description: str = "path") -> Path:
+        """
+        Validate a file or directory path to prevent directory traversal attacks.
+        
+        Args:
+            path: Path to validate
+            description: Description of the path for error messages
+            
+        Returns:
+            Validated Path object
+            
+        Raises:
+            ValidationError: If path is invalid or contains security issues
+        """
+        if not path or not path.strip():
+            raise ValidationError(f"{description} cannot be empty")
+        
+        path = path.strip()
+        
+        # Check for directory traversal attempts
+        if ".." in path:
+            raise ValidationError(
+                f"Invalid {description}: {path} (contains '..' - directory traversal not allowed)"
+            )
+        
+        # Check for absolute paths (we want relative paths only)
+        if os.path.isabs(path):
+            raise ValidationError(
+                f"Invalid {description}: {path} (absolute paths not allowed, use relative paths)"
+            )
+        
+        # Check for null bytes (security issue)
+        if "\x00" in path:
+            raise ValidationError(
+                f"Invalid {description}: path contains null bytes"
+            )
+        
+        # Check for suspicious patterns
+        suspicious_patterns = [
+            r"\.\.[\\/]",  # ../ or ..\
+            r"[\\/]\.\.[\\/]",  # /../ or \..\
+            r"[\\/]\.\.$",  # /.. or \..
+            r"^\.\.[\\/]",  # ../ or ..\ at start
+        ]
+        
+        for pattern in suspicious_patterns:
+            if re.search(pattern, path):
+                raise ValidationError(
+                    f"Invalid {description}: {path} (suspicious path pattern detected)"
+                )
+        
+        # Convert to Path object
+        try:
+            path_obj = Path(path)
+        except Exception as e:
+            raise ValidationError(f"Invalid {description}: {path} ({e})")
+        
+        # Resolve to absolute path and check it's within allowed boundaries
+        # This prevents symlink attacks
+        try:
+            resolved = path_obj.resolve()
+            cwd = Path.cwd().resolve()
+            
+            # Check if resolved path is within current working directory
+            try:
+                resolved.relative_to(cwd)
+            except ValueError:
+                raise ValidationError(
+                    f"Invalid {description}: {path} (resolves outside working directory)"
+                )
+        except Exception as e:
+            # If we can't resolve, that's okay - file might not exist yet
+            pass
+        
+        return path_obj
+    
+    @staticmethod
+    def validate_file_path(path: str, description: str = "file") -> Path:
+        """
+        Validate a file path.
+        
+        Args:
+            path: File path to validate
+            description: Description of the file for error messages
+            
+        Returns:
+            Validated Path object
             
         Raises:
             ValidationError: If path is invalid
         """
-        if not dir_path:
-            raise ValidationError("Directory path cannot be empty")
+        path_obj = PathValidator.validate_path(path, description)
         
-        path = Path(dir_path)
+        # Additional file-specific validation
+        if path_obj.exists() and not path_obj.is_file():
+            raise ValidationError(
+                f"Invalid {description}: {path} (exists but is not a file)"
+            )
         
-        if path.exists() and not path.is_dir():
-            raise ValidationError(f"Path exists but is not a directory: {dir_path}")
-        
-        if not path.exists():
-            if create_if_missing:
-                try:
-                    path.mkdir(parents=True, exist_ok=True)
-                    self.logger.info(f"Created directory: {dir_path}")
-                except OSError as e:
-                    raise ValidationError(f"Failed to create directory {dir_path}: {e}")
-            else:
-                raise ValidationError(f"Directory does not exist: {dir_path}")
-        
-        return True
+        return path_obj
     
-    def validate_image_dimensions(self, width: int, height: int) -> bool:
+    @staticmethod
+    def validate_directory_path(path: str, description: str = "directory") -> Path:
+        """
+        Validate a directory path.
+        
+        Args:
+            path: Directory path to validate
+            description: Description of the directory for error messages
+            
+        Returns:
+            Validated Path object
+            
+        Raises:
+            ValidationError: If path is invalid
+        """
+        path_obj = PathValidator.validate_path(path, description)
+        
+        # Additional directory-specific validation
+        if path_obj.exists() and not path_obj.is_dir():
+            raise ValidationError(
+                f"Invalid {description}: {path} (exists but is not a directory)"
+            )
+        
+        return path_obj
+    
+    @staticmethod
+    def validate_output_path(path: str, description: str = "output file") -> Path:
+        """
+        Validate an output file path (file that will be created).
+        
+        Args:
+            path: Output file path to validate
+            description: Description of the output file for error messages
+            
+        Returns:
+            Validated Path object
+            
+        Raises:
+            ValidationError: If path is invalid
+        """
+        path_obj = PathValidator.validate_path(path, description)
+        
+        # Check parent directory exists or can be created
+        parent = path_obj.parent
+        if not parent.exists():
+            try:
+                parent.mkdir(parents=True, exist_ok=True)
+            except Exception as e:
+                raise ValidationError(
+                    f"Cannot create parent directory for {description}: {parent} ({e})"
+                )
+        
+        return path_obj
+
+
+class ConfigValidator:
+    """Validates configuration values."""
+    
+    @staticmethod
+    def validate_dimensions(dimensions: Tuple[int, int], description: str = "dimensions") -> Tuple[int, int]:
         """
         Validate image dimensions.
         
         Args:
-            width: Image width in pixels
-            height: Image height in pixels
+            dimensions: Tuple of (width, height)
+            description: Description for error messages
             
         Returns:
-            True if valid
+            Validated dimensions tuple
             
         Raises:
             ValidationError: If dimensions are invalid
         """
+        if not isinstance(dimensions, (tuple, list)) or len(dimensions) != 2:
+            raise ValidationError(
+                f"Invalid {description}: must be a tuple/list of [width, height]"
+            )
+        
+        width, height = dimensions
+        
+        # Check if numeric
+        if not isinstance(width, int) or not isinstance(height, int):
+            raise ValidationError(
+                f"Invalid {description}: width and height must be integers"
+            )
+        
+        # Check if positive
         if width <= 0 or height <= 0:
-            raise ValidationError(f"Image dimensions must be positive: {width}x{height}")
-        
-        if width > 10000 or height > 10000:
-            raise ValidationError(f"Image dimensions too large: {width}x{height}")
-        
-        if width < 100 or height < 100:
-            self.logger.warning(f"Image dimensions seem small: {width}x{height}")
-        
-        return True
-    
-    def validate_color(self, color: str) -> bool:
-        """
-        Validate color format (hex color code).
-        
-        Args:
-            color: Color string to validate
-            
-        Returns:
-            True if valid
-            
-        Raises:
-            ValidationError: If color format is invalid
-        """
-        if not color:
-            raise ValidationError("Color cannot be empty")
-        
-        # Check hex color format (#RGB or #RRGGBB)
-        hex_pattern = r'^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$'
-        if not re.match(hex_pattern, color):
-            raise ValidationError(f"Invalid color format (expected #RGB or #RRGGBB): {color}")
-        
-        return True
-    
-    def validate_platform(self, platform: str, supported_platforms: List[str]) -> bool:
-        """
-        Validate platform name.
-        
-        Args:
-            platform: Platform name to validate
-            supported_platforms: List of supported platform names
-            
-        Returns:
-            True if valid
-            
-        Raises:
-            ValidationError: If platform is not supported
-        """
-        if not platform:
-            raise ValidationError("Platform cannot be empty")
-        
-        if platform not in supported_platforms:
             raise ValidationError(
-                f"Unsupported platform: {platform}. "
-                f"Supported platforms: {', '.join(supported_platforms)}"
+                f"Invalid {description}: width and height must be positive"
             )
         
-        return True
-    
-    def validate_log_level(self, log_level: str) -> bool:
-        """
-        Validate log level.
-        
-        Args:
-            log_level: Log level to validate
-            
-        Returns:
-            True if valid
-            
-        Raises:
-            ValidationError: If log level is invalid
-        """
-        valid_levels = ['DEBUG', 'INFO', 'WARNING', 'ERROR', 'CRITICAL']
-        
-        if not log_level:
-            raise ValidationError("Log level cannot be empty")
-        
-        if log_level.upper() not in valid_levels:
+        # Check reasonable bounds (prevent memory exhaustion)
+        max_dimension = 10000
+        if width > max_dimension or height > max_dimension:
             raise ValidationError(
-                f"Invalid log level: {log_level}. "
-                f"Valid levels: {', '.join(valid_levels)}"
+                f"Invalid {description}: dimensions too large (max {max_dimension}x{max_dimension})"
             )
         
-        return True
+        # Check minimum size
+        min_dimension = 100
+        if width < min_dimension or height < min_dimension:
+            raise ValidationError(
+                f"Invalid {description}: dimensions too small (min {min_dimension}x{min_dimension})"
+            )
+        
+        return (width, height)
     
-    def validate_twitter_credentials(self, config: Dict[str, Any]) -> Tuple[bool, Optional[str]]:
+    @staticmethod
+    def validate_color(color: str, description: str = "color") -> str:
+        """
+        Validate hex color code.
+        
+        Args:
+            color: Hex color code (e.g., #FFFFFF)
+            description: Description for error messages
+            
+        Returns:
+            Validated color string
+            
+        Raises:
+            ValidationError: If color is invalid
+        """
+        if not color or not isinstance(color, str):
+            raise ValidationError(f"Invalid {description}: must be a non-empty string")
+        
+        color = color.strip()
+        
+        # Check hex color format
+        hex_pattern = re.compile(r'^#[0-9A-Fa-f]{6}$')
+        if not hex_pattern.match(color):
+            raise ValidationError(
+                f"Invalid {description}: {color} (must be hex color like #FFFFFF)"
+            )
+        
+        return color
+    
+    @staticmethod
+    def validate_font_size(size: int, description: str = "font size") -> int:
+        """
+        Validate font size.
+        
+        Args:
+            size: Font size in points
+            description: Description for error messages
+            
+        Returns:
+            Validated font size
+            
+        Raises:
+            ValidationError: If font size is invalid
+        """
+        if not isinstance(size, int):
+            raise ValidationError(f"Invalid {description}: must be an integer")
+        
+        if size <= 0:
+            raise ValidationError(f"Invalid {description}: must be positive")
+        
+        # Check reasonable bounds
+        if size > 500:
+            raise ValidationError(
+                f"Invalid {description}: too large (max 500)"
+            )
+        
+        if size < 8:
+            raise ValidationError(
+                f"Invalid {description}: too small (min 8)"
+            )
+        
+        return size
+    
+    @staticmethod
+    def validate_platform(platform: str) -> str:
+        """
+        Validate social media platform name.
+        
+        Args:
+            platform: Platform name
+            
+        Returns:
+            Validated platform name
+            
+        Raises:
+            ValidationError: If platform is invalid
+        """
+        if not platform or not isinstance(platform, str):
+            raise ValidationError("Platform name must be a non-empty string")
+        
+        platform = platform.strip().lower()
+        
+        valid_platforms = ["twitter", "instagram", "facebook", "linkedin"]
+        if platform not in valid_platforms:
+            raise ValidationError(
+                f"Invalid platform: {platform}. Must be one of: {', '.join(valid_platforms)}"
+            )
+        
+        return platform
+    
+    @staticmethod
+    def validate_quote_source(source: str) -> str:
+        """
+        Validate quote source name.
+        
+        Args:
+            source: Quote source name
+            
+        Returns:
+            Validated source name
+            
+        Raises:
+            ValidationError: If source is invalid
+        """
+        if not source or not isinstance(source, str):
+            raise ValidationError("Quote source must be a non-empty string")
+        
+        source = source.strip().lower()
+        
+        valid_sources = ["claude", "openai", "deepseek", "llama", "random"]
+        if source not in valid_sources:
+            raise ValidationError(
+                f"Invalid quote source: {source}. Must be one of: {', '.join(valid_sources)}"
+            )
+        
+        return source
+
+
+class TextValidator:
+    """Validates and sanitizes text content."""
+    
+    @staticmethod
+    def sanitize_text(text: str, max_length: Optional[int] = None) -> str:
+        """
+        Sanitize text for safe rendering.
+        
+        Removes potentially dangerous characters and HTML entities.
+        
+        Args:
+            text: Text to sanitize
+            max_length: Maximum allowed length (None = no limit)
+            
+        Returns:
+            Sanitized text
+            
+        Raises:
+            ValidationError: If text is invalid
+        """
+        if not isinstance(text, str):
+            raise ValidationError("Text must be a string")
+        
+        # Remove null bytes
+        text = text.replace("\x00", "")
+        
+        # Escape HTML entities to prevent injection
+        text = html.escape(text)
+        
+        # Remove control characters except newlines and tabs
+        text = "".join(
+            char for char in text 
+            if char == "\n" or char == "\t" or (ord(char) >= 32 and ord(char) != 127)
+        )
+        
+        # Normalize whitespace
+        text = " ".join(text.split())
+        
+        # Check length
+        if max_length and len(text) > max_length:
+            raise ValidationError(
+                f"Text too long: {len(text)} characters (max {max_length})"
+            )
+        
+        return text
+    
+    @staticmethod
+    def validate_quote(quote: str, max_length: int = 500) -> str:
+        """
+        Validate and sanitize a quote.
+        
+        Args:
+            quote: Quote text to validate
+            max_length: Maximum allowed length
+            
+        Returns:
+            Validated and sanitized quote
+            
+        Raises:
+            ValidationError: If quote is invalid
+        """
+        if not quote or not quote.strip():
+            raise ValidationError("Quote cannot be empty")
+        
+        # Sanitize
+        quote = TextValidator.sanitize_text(quote, max_length)
+        
+        # Check minimum length
+        if len(quote) < 10:
+            raise ValidationError("Quote too short (minimum 10 characters)")
+        
+        return quote
+    
+    @staticmethod
+    def validate_caption(caption: str, max_length: int = 2200) -> str:
+        """
+        Validate and sanitize a social media caption.
+        
+        Args:
+            caption: Caption text to validate
+            max_length: Maximum allowed length (Twitter: 280, Instagram: 2200)
+            
+        Returns:
+            Validated and sanitized caption
+            
+        Raises:
+            ValidationError: If caption is invalid
+        """
+        if not caption or not caption.strip():
+            raise ValidationError("Caption cannot be empty")
+        
+        # Sanitize (but preserve newlines for formatting)
+        caption = caption.strip()
+        
+        # Remove null bytes
+        caption = caption.replace("\x00", "")
+        
+        # Check length
+        if len(caption) > max_length:
+            raise ValidationError(
+                f"Caption too long: {len(caption)} characters (max {max_length})"
+            )
+        
+        return caption
+
+
+class CredentialValidator:
+    """Validates API credentials."""
+    
+    @staticmethod
+    def validate_credential(
+        credential: str, 
+        name: str, 
+        allow_empty: bool = False
+    ) -> Optional[str]:
+        """
+        Validate an API credential.
+        
+        Args:
+            credential: Credential value
+            name: Credential name for error messages
+            allow_empty: Whether empty credentials are allowed
+            
+        Returns:
+            Validated credential or None if empty and allowed
+            
+        Raises:
+            ValidationError: If credential is invalid
+        """
+        if not credential or not credential.strip():
+            if allow_empty:
+                return None
+            raise ValidationError(f"{name} cannot be empty")
+        
+        credential = credential.strip()
+        
+        # Check for placeholder values
+        placeholder_patterns = [
+            r'^\$\{.*\}$',  # ${VAR_NAME}
+            r'^your_',  # your_api_key
+            r'^<.*>$',  # <your_key>
+            r'^\[.*\]$',  # [your_key]
+            r'^xxx',  # xxx...
+            r'^placeholder',  # placeholder
+            r'^example',  # example
+        ]
+        
+        for pattern in placeholder_patterns:
+            if re.match(pattern, credential, re.IGNORECASE):
+                raise ValidationError(
+                    f"{name} appears to be a placeholder: {credential}"
+                )
+        
+        # Check for suspicious characters
+        if "\x00" in credential:
+            raise ValidationError(f"{name} contains null bytes")
+        
+        # Check minimum length (most API keys are at least 10 chars)
+        if len(credential) < 10:
+            raise ValidationError(
+                f"{name} too short (minimum 10 characters)"
+            )
+        
+        return credential
+    
+    @staticmethod
+    def validate_twitter_credentials(
+        api_key: str,
+        api_secret: str,
+        access_token: str,
+        access_token_secret: str
+    ) -> Tuple[str, str, str, str]:
         """
         Validate Twitter API credentials.
         
         Args:
-            config: Configuration dictionary with Twitter credentials
+            api_key: Twitter API key
+            api_secret: Twitter API secret
+            access_token: Twitter access token
+            access_token_secret: Twitter access token secret
             
         Returns:
-            Tuple of (is_valid, error_message)
+            Tuple of validated credentials
+            
+        Raises:
+            ValidationError: If any credential is invalid
         """
-        required_fields = [
-            'api_key',
-            'api_secret',
-            'access_token',
-            'access_token_secret'
-        ]
-        
-        missing_fields = []
-        for field in required_fields:
-            value = config.get(field, '').strip()
-            if not value or value.startswith('${'):
-                missing_fields.append(field)
-        
-        if missing_fields:
-            error_msg = (
-                f"Missing or invalid Twitter credentials: {', '.join(missing_fields)}. "
-                "Please set the following environment variables: "
-                f"{', '.join([f'TWITTER_{f.upper()}' for f in missing_fields])}"
-            )
-            return False, error_msg
-        
-        return True, None
+        return (
+            CredentialValidator.validate_credential(api_key, "Twitter API key"),
+            CredentialValidator.validate_credential(api_secret, "Twitter API secret"),
+            CredentialValidator.validate_credential(access_token, "Twitter access token"),
+            CredentialValidator.validate_credential(access_token_secret, "Twitter access token secret")
+        )
     
-    def validate_instagram_credentials(self, config: Dict[str, Any]) -> Tuple[bool, Optional[str]]:
+    @staticmethod
+    def validate_instagram_credentials(
+        username: str,
+        password: str
+    ) -> Tuple[str, str]:
         """
         Validate Instagram credentials.
         
         Args:
-            config: Configuration dictionary with Instagram credentials
+            username: Instagram username
+            password: Instagram password
             
         Returns:
-            Tuple of (is_valid, error_message)
-        """
-        required_fields = ['username', 'password']
-        
-        missing_fields = []
-        for field in required_fields:
-            value = config.get(field, '').strip()
-            if not value or value.startswith('${'):
-                missing_fields.append(field)
-        
-        if missing_fields:
-            error_msg = (
-                f"Missing or invalid Instagram credentials: {', '.join(missing_fields)}. "
-                "Please set the following environment variables: "
-                f"{', '.join([f'INSTAGRAM_{f.upper()}' for f in missing_fields])}"
-            )
-            return False, error_msg
-        
-        return True, None
-    
-    def validate_facebook_credentials(self, config: Dict[str, Any]) -> Tuple[bool, Optional[str]]:
-        """
-        Validate Facebook credentials.
-        
-        Args:
-            config: Configuration dictionary with Facebook credentials
-            
-        Returns:
-            Tuple of (is_valid, error_message)
-        """
-        required_fields = ['access_token']
-        
-        missing_fields = []
-        for field in required_fields:
-            value = config.get(field, '').strip()
-            if not value or value.startswith('${'):
-                missing_fields.append(field)
-        
-        if missing_fields:
-            error_msg = (
-                f"Missing or invalid Facebook credentials: {', '.join(missing_fields)}. "
-                "Please set FACEBOOK_ACCESS_TOKEN environment variable"
-            )
-            return False, error_msg
-        
-        return True, None
-    
-    def validate_api_credentials(
-        self,
-        platform: str,
-        config: Dict[str, Any]
-    ) -> Tuple[bool, Optional[str]]:
-        """
-        Validate API credentials for a specific platform.
-        
-        Args:
-            platform: Platform name (twitter, instagram, facebook, linkedin)
-            config: Configuration dictionary with credentials
-            
-        Returns:
-            Tuple of (is_valid, error_message)
-        """
-        validators = {
-            'twitter': self.validate_twitter_credentials,
-            'instagram': self.validate_instagram_credentials,
-            'facebook': self.validate_facebook_credentials,
-        }
-        
-        validator_func = validators.get(platform)
-        if not validator_func:
-            return True, None  # No validator for this platform
-        
-        return validator_func(config)
-    
-    def validate_text_length(self, text: str, max_length: int, field_name: str = "text") -> bool:
-        """
-        Validate text length.
-        
-        Args:
-            text: Text to validate
-            max_length: Maximum allowed length
-            field_name: Name of field for error messages
-            
-        Returns:
-            True if valid
+            Tuple of validated credentials
             
         Raises:
-            ValidationError: If text is too long
+            ValidationError: If any credential is invalid
         """
-        if len(text) > max_length:
+        if not username or not username.strip():
+            raise ValidationError("Instagram username cannot be empty")
+        
+        username = username.strip()
+        
+        # Basic username validation
+        if not re.match(r'^[a-zA-Z0-9._]+$', username):
             raise ValidationError(
-                f"{field_name} exceeds maximum length of {max_length} characters "
-                f"(current: {len(text)})"
+                "Instagram username can only contain letters, numbers, dots, and underscores"
             )
         
-        return True
+        if len(username) > 30:
+            raise ValidationError("Instagram username too long (max 30 characters)")
+        
+        password = CredentialValidator.validate_credential(password, "Instagram password")
+        
+        return (username, password)
+
+
+class RateLimitValidator:
+    """Validates rate limiting constraints."""
     
-    def sanitize_text(self, text: str) -> str:
+    @staticmethod
+    def check_rate_limit(
+        platform: str,
+        posts_count: int,
+        time_window_hours: int = 24
+    ) -> Tuple[bool, Optional[str]]:
         """
-        Sanitize text for safe rendering.
+        Check if posting would exceed platform rate limits.
         
         Args:
-            text: Text to sanitize
+            platform: Platform name
+            posts_count: Number of posts in the time window
+            time_window_hours: Time window in hours
             
         Returns:
-            Sanitized text
+            Tuple of (is_allowed, warning_message)
         """
-        # Remove control characters except newlines and tabs
-        sanitized = ''.join(char for char in text if char.isprintable() or char in '\n\t')
+        # Platform-specific rate limits (conservative estimates)
+        rate_limits = {
+            "twitter": 300,  # 300 tweets per 3 hours
+            "instagram": 100,  # ~100 posts per day
+            "facebook": 200,  # 200 posts per day
+            "linkedin": 100,  # 100 posts per day
+        }
         
-        # Normalize whitespace
-        sanitized = ' '.join(sanitized.split())
+        limit = rate_limits.get(platform, 100)
         
-        return sanitized
+        # Adjust limit based on time window
+        if time_window_hours != 24:
+            limit = int(limit * (time_window_hours / 24))
+        
+        if posts_count >= limit:
+            return (
+                False,
+                f"Rate limit exceeded for {platform}: {posts_count}/{limit} posts in {time_window_hours}h"
+            )
+        
+        # Warn if approaching limit (80%)
+        if posts_count >= limit * 0.8:
+            return (
+                True,
+                f"Approaching rate limit for {platform}: {posts_count}/{limit} posts in {time_window_hours}h"
+            )
+        
+        return (True, None)
