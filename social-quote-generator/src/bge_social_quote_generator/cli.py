@@ -254,6 +254,73 @@ def create_parser() -> argparse.ArgumentParser:
         help='Enable verbose logging (DEBUG level)'
     )
     
+    # Queue management options
+    parser.add_argument(
+        '--queue',
+        action='store_true',
+        help='Add generated images to publishing queue instead of publishing immediately'
+    )
+    
+    parser.add_argument(
+        '--schedule',
+        type=str,
+        metavar='DATETIME',
+        help='Schedule time for queue (e.g., "2025-10-13 09:00", "+2d", "tomorrow 9am")'
+    )
+    
+    parser.add_argument(
+        '--stagger',
+        type=str,
+        metavar='INTERVAL',
+        help='Stagger posts across platforms (e.g., "6h", "30m", "1d")'
+    )
+    
+    parser.add_argument(
+        '--queue-list',
+        action='store_true',
+        help='List all pending items in queue'
+    )
+    
+    parser.add_argument(
+        '--queue-history',
+        action='store_true',
+        help='Show published items history'
+    )
+    
+    parser.add_argument(
+        '--queue-failed',
+        action='store_true',
+        help='Show failed items'
+    )
+    
+    parser.add_argument(
+        '--queue-remove',
+        type=str,
+        metavar='ID',
+        help='Remove item from queue by ID'
+    )
+    
+    parser.add_argument(
+        '--queue-publish',
+        action='store_true',
+        help='Publish pending items from queue (for cron jobs)'
+    )
+    
+    parser.add_argument(
+        '--queue-publish-now',
+        type=str,
+        metavar='ID',
+        help='Publish specific queue item immediately'
+    )
+    
+    parser.add_argument(
+        '--history-limit',
+        type=int,
+        default=10,
+        metavar='N',
+        help='Number of history items to show (default: 10)'
+    )
+    
     return parser
 
 
@@ -273,6 +340,47 @@ def main() -> int:
     logger = logging.getLogger(__name__)
     
     try:
+        # Handle queue management commands first (they don't need episode selection)
+        if args.queue_list or args.queue_history or args.queue_failed or args.queue_remove or args.queue_publish or args.queue_publish_now:
+            # Load configuration
+            try:
+                config_path = find_config_file(args.config)
+                logger.info(f"Loading configuration from: {config_path}")
+                config = Config(config_path)
+            except FileNotFoundError as e:
+                logger.error(str(e))
+                return 1
+            except ConfigurationError as e:
+                logger.error(f"Configuration error: {e}")
+                return 1
+            
+            # Import queue commands
+            from .queue.cli_commands import QueueCommands
+            queue_commands = QueueCommands(config)
+            
+            # Execute queue command
+            if args.queue_list:
+                queue_commands.list_queue()
+                return 0
+            elif args.queue_history:
+                queue_commands.list_history(args.history_limit)
+                return 0
+            elif args.queue_failed:
+                queue_commands.list_failed()
+                return 0
+            elif args.queue_remove:
+                return 0 if queue_commands.remove_from_queue(args.queue_remove) else 1
+            elif args.queue_publish:
+                results = queue_commands.publish_queue(args.dry_run)
+                return 0 if results["published"] > 0 or results["total"] == 0 else 1
+            elif args.queue_publish_now:
+                return 0 if queue_commands.publish_now(args.queue_publish_now, args.dry_run) else 1
+        
+        # Regular episode processing requires episode selection
+        if not (args.episode or args.episodes or args.all):
+            logger.error("Episode selection required (use --episode, --episodes, or --all)")
+            parser.print_help()
+            return 1
         # Display banner
         logger.info("=" * 60)
         logger.info("BGE Social Quote Generator v%s", __version__)
@@ -367,6 +475,31 @@ def main() -> int:
                 logger.error(f"Invalid quote source: {e}")
                 return 1
         
+        # Check if we should add to queue instead of publishing
+        if args.queue:
+            # Queue mode - generate images and add to queue
+            from .queue.cli_commands import QueueCommands
+            queue_commands = QueueCommands(config)
+            
+            # Process each episode
+            success_count = 0
+            for episode_num in episode_numbers or []:
+                if queue_commands.add_to_queue(
+                    episode_num,
+                    platforms,
+                    args.schedule,
+                    args.stagger
+                ):
+                    success_count += 1
+            
+            if success_count > 0:
+                logger.info(f"\n✓ Successfully added {success_count} episode(s) to queue")
+                return 0
+            else:
+                logger.error("\n✗ Failed to add episodes to queue")
+                return 1
+        
+        # Regular mode - generate and optionally publish immediately
         # Initialize orchestrator
         logger.info("Initializing pipeline orchestrator...")
         orchestrator = PipelineOrchestrator(config)

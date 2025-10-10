@@ -4,6 +4,7 @@ PyYAML>=6.0                 # Configuration parsing
 python-frontmatter>=1.0.0   # YAML frontmatter parsing
 python-dotenv>=1.0.0        # Environment variable management
 tenacity>=8.2.0             # Retry logic
+filelock>=3.12.0            # File locking for queue management
 
 # Social media APIs
 tweepy>=4.14.0              # Twitter API

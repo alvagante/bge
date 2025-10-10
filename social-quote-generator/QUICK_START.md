@@ -104,7 +104,30 @@ Examples:
 | Facebook  | 1200x630    | 1.91:1       |
 | LinkedIn  | 1200x627    | 1.91:1       |
 
-## Publishing to Social Media
+## Queue-Based Publishing (Recommended)
+
+Schedule posts for automated publishing:
+
+```bash
+# Add to queue with default schedule
+bge-quote-gen --episode 1 --queue
+
+# Add with custom schedule
+bge-quote-gen --episode 1 --queue --schedule "2025-10-13 09:00"
+
+# Add with staggered schedule (6 hours between platforms)
+bge-quote-gen --episode 1 --queue --stagger "6h"
+
+# List pending items
+bge-quote-gen --queue-list
+
+# Publish from queue (for cron jobs)
+bge-quote-gen --queue-publish
+```
+
+**See `QUEUE_GUIDE.md` for complete queue system documentation.**
+
+## Direct Publishing to Social Media
 
 ⚠️ **Important:** Publishing requires API credentials configured in `.env` file
 

@@ -105,3 +105,43 @@ social_media:
     person_urn: "${LINKEDIN_PERSON_URN}"
     caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}"
     hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
+
+# Queue management settings
+queue:
+  queue_file: "social-quote-generator/output/publish_queue.json"
+  history_file: "social-quote-generator/output/published_history.json"
+  lock_file: "social-quote-generator/output/.publish.lock"
+  
+  # Default scheduling
+  default_schedule:
+    twitter: "09:00"      # 9 AM
+    instagram: "15:00"    # 3 PM
+    linkedin: "10:00"     # 10 AM
+    facebook: "12:00"     # 12 PM
+  
+  # Stagger settings (when using --stagger)
+  stagger_interval: "6h"  # Hours between platforms
+  stagger_order: ["twitter", "instagram", "linkedin", "facebook"]
+  
+  # Publishing behavior
+  max_retries: 3
+  retry_delay: 3600  # 1 hour in seconds
+  look_ahead_minutes: 5  # Publish if within 5 minutes of scheduled time
+  
+  # Text generation templates
+  text_templates:
+    twitter:
+      caption: "🎙️ BGE Episodio {episode_number}: {title}\n\n\"{quote}\"\n\n{hashtags}\n\n🔗 {link}"
+      hook: "Nuovo episodio disponibile!"
+    instagram:
+      caption: "🎙️ BGE Episodio {episode_number}\n\n\"{quote}\"\n\nLink in bio per l'episodio completo!\n\n{hashtags}"
+      hook: "Nuovo episodio del podcast!"
+    linkedin:
+      caption: "🎙️ BGE Episodio {episode_number}: {title}\n\n\"{quote}\"\n\nCon {guests} parliamo di {topics}\n\n🔗 {link}\n\n{hashtags}"
+      hook: "Nuovo episodio del podcast BGE"
+    facebook:
+      caption: "🎙️ BGE Episodio {episode_number}: {title}\n\n\"{quote}\"\n\n🔗 {link}\n\n{hashtags}"
+      hook: "Ascolta il nuovo episodio!"
+  
+  # Episode URL template
+  episode_url_template: "https://labrigatadeigeekestinti.com/ep/{episode_number}/"
