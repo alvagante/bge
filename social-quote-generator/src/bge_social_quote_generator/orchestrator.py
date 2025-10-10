@@ -394,7 +394,7 @@ class PipelineOrchestrator:
         Process a single episode through the pipeline.
         
         Args:
-            quote_data: Episode quote data
+            quote_data: Episode quote data (can be a single quote or first of multiple)
             platforms: List of platforms to generate images for
             publish: Whether to publish to social media
             dry_run: If True, generate images but don't publish
@@ -411,47 +411,59 @@ class PipelineOrchestrator:
             success=True
         )
         
-        # Generate images for each platform
-        for platform in platforms:
-            try:
-                logger.info(f"Generating image for {platform}...")
-                generated_image = self.generator.generate(quote_data, platform)
-                result.generated_images.append(generated_image)
-                logger.info(f"✓ Generated {platform} image: {generated_image.file_path}")
-                
-                # Publish if enabled
-                if publish:
-                    if dry_run:
-                        logger.info(f"[DRY RUN] Would publish to {platform}")
-                        # Create a mock publish result for dry run
-                        publish_result = PublishResult(
-                            success=True,
-                            platform=platform,
-                            post_url=f"[DRY RUN] {platform} post"
-                        )
-                        result.publish_results.append(publish_result)
-                    else:
-                        # Actually publish
-                        publish_result = self._publish_image(
-                            platform,
-                            generated_image.file_path,
-                            quote_data
-                        )
-                        result.publish_results.append(publish_result)
-                        
-                        if publish_result.success:
-                            logger.info(f"✓ {publish_result}")
-                        else:
-                            logger.error(f"✗ {publish_result}")
-                            result.errors.append(
-                                f"Failed to publish to {platform}: {publish_result.error}"
+        # Extract all quotes for this episode (all 4 sources)
+        all_quotes = self.extractor.extract_all_quotes_for_episode(quote_data.episode_number)
+        
+        if not all_quotes:
+            logger.warning(f"No quotes found for episode {quote_data.episode_number}")
+            result.success = False
+            result.errors.append("No quotes found for episode")
+            return result
+        
+        logger.info(f"Found {len(all_quotes)} quotes for episode {quote_data.episode_number}")
+        
+        # Generate images for each quote × each platform
+        for quote in all_quotes:
+            for platform in platforms:
+                try:
+                    logger.info(f"Generating {quote.quote_source} image for {platform}...")
+                    generated_image = self.generator.generate(quote, platform)
+                    result.generated_images.append(generated_image)
+                    logger.info(f"✓ Generated {quote.quote_source}/{platform} image: {generated_image.file_path}")
+                    
+                    # Publish if enabled
+                    if publish:
+                        if dry_run:
+                            logger.info(f"[DRY RUN] Would publish {quote.quote_source} to {platform}")
+                            # Create a mock publish result for dry run
+                            publish_result = PublishResult(
+                                success=True,
+                                platform=platform,
+                                post_url=f"[DRY RUN] {platform} post"
                             )
-                
-            except Exception as e:
-                error_msg = f"Failed to generate {platform} image: {e}"
-                logger.error(error_msg, exc_info=True)
-                result.errors.append(error_msg)
-                result.success = False
+                            result.publish_results.append(publish_result)
+                        else:
+                            # Actually publish
+                            publish_result = self._publish_image(
+                                platform,
+                                generated_image.file_path,
+                                quote
+                            )
+                            result.publish_results.append(publish_result)
+                            
+                            if publish_result.success:
+                                logger.info(f"✓ {publish_result}")
+                            else:
+                                logger.error(f"✗ {publish_result}")
+                                result.errors.append(
+                                    f"Failed to publish {quote.quote_source} to {platform}: {publish_result.error}"
+                                )
+                    
+                except Exception as e:
+                    error_msg = f"Failed to generate {quote.quote_source}/{platform} image: {e}"
+                    logger.error(error_msg, exc_info=True)
+                    result.errors.append(error_msg)
+                    result.success = False
         
         # Overall success if at least one image was generated
         if not result.generated_images:

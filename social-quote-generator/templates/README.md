@@ -4,17 +4,48 @@ This directory contains default templates and assets for generating social media
 
 ## Template Images
 
-### default_square.png (1080x1080)
+### Default Templates
+
+#### default_square.png (1080x1080)
 - **Platform**: Instagram
 - **Dimensions**: 1080x1080 pixels (1:1 aspect ratio)
 - **Description**: Default square template with a subtle dark gradient background
 - **Usage**: Used as the base image for Instagram posts
 
-### default_landscape.png (1200x675)
+#### default_landscape.png (1200x675)
 - **Platform**: Twitter/X, Facebook, LinkedIn
 - **Dimensions**: 1200x675 pixels (16:9 aspect ratio)
 - **Description**: Default landscape template with a subtle dark gradient background
 - **Usage**: Used as the base image for Twitter, Facebook, and LinkedIn posts
+
+### Author-Specific Templates (Optional)
+
+You can create different background images for each quote author by adding files with this naming pattern:
+
+**Naming Convention**: `{author}_{layout}.png`
+
+Where:
+- `{author}` = claude, openai, llama, or deepseek
+- `{layout}` = landscape or square
+
+**Examples**:
+- `claude_landscape.png` - Used for Claude quotes on Twitter/Facebook/LinkedIn
+- `claude_square.png` - Used for Claude quotes on Instagram
+- `openai_landscape.png` - Used for OpenAI quotes on Twitter/Facebook/LinkedIn
+- `openai_square.png` - Used for OpenAI quotes on Instagram
+- `llama_landscape.png` - Used for Llama quotes on landscape platforms
+- `deepseek_landscape.png` - Used for DeepSeek quotes on landscape platforms
+
+**Fallback Behavior**:
+1. First tries author-specific template (e.g., `claude_landscape.png`)
+2. Falls back to default template (e.g., `default_landscape.png`)
+3. Falls back to solid color background if no templates exist
+
+**Author Mapping**:
+- `claude` → Brigante Claudio
+- `openai` → Geek Estinto
+- `llama` → Metante
+- `deepseek` → Deep Geek
 
 ## Fonts
 

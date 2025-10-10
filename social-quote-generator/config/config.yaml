@@ -21,6 +21,9 @@ images:
   default_font: "OpenSans-Regular.ttf"
   
   # Platform-specific settings
+  # Note: Author-specific templates can be added as {author}_{layout}.png
+  # e.g., claude_landscape.png, openai_square.png, deepseek_landscape.png
+  # These will be used instead of default templates when available
   platforms:
     instagram:
       dimensions: [1080, 1080]
@@ -43,6 +46,12 @@ images:
     primary_color: "#FFFFFF"
     secondary_color: "#000000"
     background_color: "#1a1a1a"
+    # Author-specific background colors (for landscape layout)
+    author_backgrounds:
+      claude: "#1a2332"      # Dark blue-grey for Brigante Claudio
+      openai: "#2d1a2e"      # Dark purple for Geek Estinto
+      llama: "#1a2e1a"       # Dark green for Metante
+      deepseek: "#2e1a1a"    # Dark red for Deep Geek
   
   # Episode cover settings
   cover:
@@ -60,6 +69,14 @@ images:
     quote_max_width: 900
     metadata_font_size: 24
     metadata_color: "#CCCCCC"
+    # Title settings
+    title_font: "Kanit-Bold.ttf"
+    title_font_size: 36
+    title_color: "#FFFFFF"
+    # Guests settings
+    guests_font: "Kanit-Regular.ttf"
+    guests_font_size: 28
+    guests_color: "#CCCCCC"
     # Text box background settings
     box_enabled: true
     box_color: "#000000"

@@ -179,7 +179,8 @@ def create_parser() -> argparse.ArgumentParser:
     )
     
     # Episode selection (mutually exclusive group)
-    episode_group = parser.add_mutually_exclusive_group(required=True)
+    # Not required because queue commands don't need episode selection
+    episode_group = parser.add_mutually_exclusive_group(required=False)
     
     episode_group.add_argument(
         '--episode', '-e',

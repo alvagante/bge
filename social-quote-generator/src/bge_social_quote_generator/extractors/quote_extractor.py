@@ -88,6 +88,56 @@ class QuoteExtractor:
             logger.error(f"Failed to extract episode {episode_number}: {e}", exc_info=True)
             return None
     
+    def extract_all_quotes_for_episode(self, episode_number: str) -> List[EpisodeQuote]:
+        """
+        Extract all available quotes for a specific episode (all 4 sources).
+        
+        Args:
+            episode_number: Episode number to extract
+            
+        Returns:
+            List of EpisodeQuote objects (one per available quote source)
+        """
+        # Validate episode number
+        try:
+            episode_number = EpisodeValidator.validate_episode_number(episode_number)
+        except Exception as e:
+            logger.error(f"Invalid episode number: {e}")
+            return []
+        
+        episode_file = self.episodes_dir / f"{episode_number}.md"
+        
+        if not episode_file.exists():
+            logger.error(f"Episode file not found: {episode_file}")
+            return []
+        
+        try:
+            episode_data = self._parse_episode_file(episode_file)
+            
+            # Extract quotes from all sources
+            quote_sources = ["claude", "openai", "deepseek", "llama"]
+            episode_quotes = []
+            
+            for source in quote_sources:
+                quote = self._get_quote_from_source(episode_number, episode_data, source)
+                if quote:
+                    episode_quote = self._build_episode_quote(episode_number, episode_data, quote, source)
+                    episode_quotes.append(episode_quote)
+                    logger.debug(f"Extracted {source} quote for episode {episode_number}")
+                else:
+                    logger.warning(f"No {source} quote found for episode {episode_number}")
+            
+            if not episode_quotes:
+                logger.error(f"No quotes found for episode {episode_number} from any source")
+            else:
+                logger.info(f"Extracted {len(episode_quotes)} quotes for episode {episode_number}")
+            
+            return episode_quotes
+            
+        except Exception as e:
+            logger.error(f"Failed to extract quotes for episode {episode_number}: {e}", exc_info=True)
+            return []
+    
     def extract_all_episodes(self) -> List[EpisodeQuote]:
         """
         Extract quote data for all available episodes.
