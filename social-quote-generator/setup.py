@@ -13,6 +13,10 @@ setup(
     url="https://github.com/yourusername/bge-social-quote-generator",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
+    include_package_data=True,
+    package_data={
+        "": ["config/*.yaml", "templates/*"],
+    },
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
@@ -48,7 +52,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "bge-quote-gen=src.main:main",
+            "bge-quote-gen=bge_social_quote_generator.cli:main",
         ],
     },
 )

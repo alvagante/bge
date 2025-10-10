@@ -2,10 +2,10 @@
 
 # General settings
 general:
-  episodes_dir: "../_episodes"
-  texts_dir: "../assets/texts"
-  output_dir: "output/images"
-  log_dir: "output/logs"
+  episodes_dir: "_episodes"
+  texts_dir: "assets/texts"
+  output_dir: "social-quote-generator/output/images"
+  log_dir: "social-quote-generator/output/logs"
   log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
 
 # Quote extraction settings
@@ -16,8 +16,8 @@ quotes:
 
 # Image generation settings
 images:
-  templates_dir: "templates"
-  fonts_dir: "templates/fonts"
+  templates_dir: "social-quote-generator/templates"
+  fonts_dir: "assets/fonts"
   default_font: "OpenSans-Regular.ttf"
   
   # Platform-specific settings
@@ -37,20 +37,40 @@ images:
   
   # Branding settings
   branding:
-    logo_path: "../assets/images/logo white.png"
-    logo_position: "top-right"  # top-left, top-right, bottom-left, bottom-right
+    logo_path: "assets/images/logo white.png"
+    logo_position: "top-left"  # top-left, top-right, bottom-left, bottom-right
     logo_size: [100, 100]
     primary_color: "#FFFFFF"
     secondary_color: "#000000"
     background_color: "#1a1a1a"
   
+  # Episode cover settings
+  cover:
+    enabled: true
+    covers_dir: "assets/covers"
+    position: "bottom-left"  # top-left, top-right, bottom-left, bottom-right, center-left, center-right
+    size: [249, 140]  # Width, height in pixels
+    padding: 20  # Padding from edges
+  
   # Text rendering settings
   text:
-    quote_font_size: 48
+    quote_font: "Caveat-VariableFont_wght.ttf"  # Font for quote text
+    quote_font_size: 52
     quote_color: "#FFFFFF"
     quote_max_width: 900
     metadata_font_size: 24
     metadata_color: "#CCCCCC"
+    # Text box background settings
+    box_enabled: true
+    box_color: "#000000"
+    box_opacity: 180  # 0-255, where 0 is transparent and 255 is opaque
+    box_padding: 40  # Padding around text in pixels
+    box_corner_radius: 20  # Corner radius in pixels (0 for sharp corners)
+    # Quote author attribution
+    author_enabled: true
+    author_font_size: 32
+    author_color: "#CCCCCC"
+    author_prefix: ""  # Prefix before author name
 
 # Social media platform settings
 social_media:

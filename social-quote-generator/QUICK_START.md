@@ -9,48 +9,50 @@ cd /path/to/bge.github.io
 # Install the package in development mode
 pip install -e social-quote-generator/
 
-# Install additional dependencies if needed
-pip install facebook-sdk
+# Verify installation
+bge-quote-gen --version
 ```
 
 ## Basic Usage
+
+After installation, you can use the `bge-quote-gen` command from anywhere:
 
 ### Generate Images for a Single Episode
 
 ```bash
 # Generate images for all platforms (dry-run mode)
-python -m social-quote-generator.src.main --episode 1 --dry-run
+bge-quote-gen --episode 1 --dry-run
 
 # Generate image for specific platform
-python -m social-quote-generator.src.main --episode 1 --platform instagram --dry-run
+bge-quote-gen --episode 1 --platform instagram --dry-run
 ```
 
 ### Generate Images for Multiple Episodes
 
 ```bash
 # Process multiple episodes
-python -m social-quote-generator.src.main --episodes 1,5,10 --platform twitter --dry-run
+bge-quote-gen --episodes 1,5,10 --platform twitter --dry-run
 
 # Process all episodes (use with caution!)
-python -m social-quote-generator.src.main --all --platform instagram --dry-run
+bge-quote-gen --all --platform instagram --dry-run
 ```
 
 ### Choose Quote Source
 
 ```bash
 # Use specific AI quote source
-python -m social-quote-generator.src.main --episode 1 --quote-source claude --dry-run
-python -m social-quote-generator.src.main --episode 1 --quote-source openai --dry-run
-python -m social-quote-generator.src.main --episode 1 --quote-source deepseek --dry-run
-python -m social-quote-generator.src.main --episode 1 --quote-source llama --dry-run
-python -m social-quote-generator.src.main --episode 1 --quote-source random --dry-run
+bge-quote-gen --episode 1 --quote-source claude --dry-run
+bge-quote-gen --episode 1 --quote-source openai --dry-run
+bge-quote-gen --episode 1 --quote-source deepseek --dry-run
+bge-quote-gen --episode 1 --quote-source llama --dry-run
+bge-quote-gen --episode 1 --quote-source random --dry-run
 ```
 
 ### Verbose Output
 
 ```bash
 # Enable detailed logging
-python -m social-quote-generator.src.main --episode 1 --dry-run --verbose
+bge-quote-gen --episode 1 --dry-run --verbose
 ```
 
 ## Configuration
@@ -58,13 +60,21 @@ python -m social-quote-generator.src.main --episode 1 --dry-run --verbose
 ### Using Custom Configuration
 
 ```bash
-# Specify custom config file
-python -m social-quote-generator.src.main --episode 1 --config path/to/config.yaml --dry-run
+# Specify custom config file (absolute or relative path)
+bge-quote-gen --episode 1 --config /absolute/path/to/config.yaml --dry-run
+
+# Or use relative path (searches multiple locations automatically)
+bge-quote-gen --episode 1 --config config/config.yaml --dry-run
 ```
 
 ### Configuration File Location
 
-Default: `social-quote-generator/config/config.yaml`
+The tool automatically searches for config files in multiple locations:
+1. Relative to current working directory
+2. In `social-quote-generator/config/config.yaml` (project structure)
+3. Relative to package installation directory
+
+Default: `config/config.yaml` (searches automatically)
 
 Key settings:
 - `general.episodes_dir`: Path to episode markdown files
@@ -100,10 +110,10 @@ Examples:
 
 ```bash
 # Publish to configured platforms (removes --dry-run flag)
-python -m social-quote-generator.src.main --episode 1 --publish
+bge-quote-gen --episode 1 --publish
 
 # Publish to specific platform
-python -m social-quote-generator.src.main --episode 1 --platform twitter --publish
+bge-quote-gen --episode 1 --platform twitter --publish
 ```
 
 ### Setting Up API Credentials
@@ -157,10 +167,10 @@ ERROR - Invalid episodes_dir: ../_episodes (contains '..' - directory traversal 
 
 ```bash
 # Display all available options
-python -m social-quote-generator.src.main --help
+bge-quote-gen --help
 
 # Display version
-python -m social-quote-generator.src.main --version
+bge-quote-gen --version
 ```
 
 ## Examples
@@ -168,30 +178,38 @@ python -m social-quote-generator.src.main --version
 ### Example 1: Generate Instagram Post for Latest Episode
 
 ```bash
-python -m social-quote-generator.src.main --episode 98 --platform instagram --dry-run
+bge-quote-gen --episode 98 --platform instagram --dry-run
 ```
 
 ### Example 2: Generate Twitter Images for Multiple Episodes
 
 ```bash
-python -m social-quote-generator.src.main --episodes 95,96,97,98 --platform twitter --dry-run
+bge-quote-gen --episodes 95,96,97,98 --platform twitter --dry-run
 ```
 
 ### Example 3: Test Different Quote Sources
 
 ```bash
 # Generate 4 versions of the same episode with different AI quotes
-python -m social-quote-generator.src.main --episode 1 --quote-source claude --platform instagram --dry-run
-python -m social-quote-generator.src.main --episode 1 --quote-source openai --platform instagram --dry-run
-python -m social-quote-generator.src.main --episode 1 --quote-source deepseek --platform instagram --dry-run
-python -m social-quote-generator.src.main --episode 1 --quote-source llama --platform instagram --dry-run
+bge-quote-gen --episode 1 --quote-source claude --platform instagram --dry-run
+bge-quote-gen --episode 1 --quote-source openai --platform instagram --dry-run
+bge-quote-gen --episode 1 --quote-source deepseek --platform instagram --dry-run
+bge-quote-gen --episode 1 --quote-source llama --platform instagram --dry-run
 ```
 
 ### Example 4: Batch Generate for All Platforms
 
 ```bash
 # Generate images for all platforms for a specific episode
-python -m social-quote-generator.src.main --episode 50 --dry-run
+bge-quote-gen --episode 50 --dry-run
+```
+
+### Example 5: Run from Any Directory
+
+```bash
+# The command works from anywhere after installation
+cd /tmp
+bge-quote-gen --episode 1 --platform instagram --dry-run
 ```
 
 ## Tips
