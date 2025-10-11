@@ -70,13 +70,13 @@ images:
     metadata_font_size: 24
     metadata_color: "#CCCCCC"
     # Title settings
-    title_font: "Kanit-Bold.ttf"
-    title_font_size: 36
+    title_font: "Peace Sans Webfont.ttf"
+    title_font_size: 42
     title_color: "#FFFFFF"
     # Guests settings
     guests_font: "Kanit-Regular.ttf"
-    guests_font_size: 28
-    guests_color: "#CCCCCC"
+    guests_font_size: 24
+    guests_color: "#EEEEEE"
     # Text box background settings
     box_enabled: true
     box_color: "#000000"
@@ -91,7 +91,7 @@ images:
 
 # Social media platform settings
 social_media:
-  enabled_platforms: ["twitter"]  # twitter, instagram, facebook, linkedin
+  enabled_platforms: ["twitter", "instagram", "facebook", "linkedin"]  # twitter, instagram, facebook, linkedin
   
   twitter:
     enabled: true
@@ -99,14 +99,14 @@ social_media:
     api_secret: "${TWITTER_API_SECRET}"
     access_token: "${TWITTER_ACCESS_TOKEN}"
     access_token_secret: "${TWITTER_ACCESS_TOKEN_SECRET}"
-    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}\n\n🔗 {youtube_url}"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}\n\n🔗 https://labrigatadeigeekestinti.com/ep/{episode_number}/"
     hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
   
   instagram:
     enabled: false
     username: "${INSTAGRAM_USERNAME}"
     password: "${INSTAGRAM_PASSWORD}"
-    caption_template: "🎙️ BGE Episodio {episode_number}\n\n{quote}\n\n{hashtags}"
+    caption_template: "🎙️ BGE Episodio {episode_number}\n\n{title}\n\n{hashtags}"
     hashtags: ["#BGE", "#DevOps", "#IT", "#Tech", "#Podcast"]
   
   facebook:

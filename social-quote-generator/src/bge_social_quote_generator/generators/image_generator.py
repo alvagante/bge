@@ -76,16 +76,17 @@ class ImageGenerator:
             # Load or create background template with author-specific color
             image = self._load_template(platform, dimensions, quote_data.quote_source)
             
-            # Check if landscape layout (width > height)
+            # Check if landscape layout (width > height) or square
             is_landscape = dimensions[0] > dimensions[1]
-            logger.debug(f"Is landscape: {is_landscape} (width={dimensions[0]}, height={dimensions[1]})")
+            is_square = dimensions[0] == dimensions[1]
+            logger.debug(f"Is landscape: {is_landscape}, Is square: {is_square} (width={dimensions[0]}, height={dimensions[1]})")
             
-            if is_landscape:
-                # Use new 3-column layout for landscape
-                logger.info(f"Using new 3-column landscape layout for {platform}")
+            if is_landscape or is_square:
+                # Use new 3-column layout for landscape and square
+                logger.info(f"Using new 3-column layout for {platform}")
                 image = self._render_landscape_layout(image, quote_data, dimensions)
             else:
-                # Use original layout for square/portrait
+                # Use original layout for portrait only
                 # Add episode cover
                 image = self._add_episode_cover(image, quote_data.episode_number, dimensions)
                 
@@ -265,10 +266,11 @@ class ImageGenerator:
         right_cols_width = width - left_col_width
         
         padding = 30
+        top_padding = 10  # Reduced padding for logo at top
         
         # === LEFT COLUMN ===
         left_x = padding
-        current_y = padding
+        current_y = top_padding
         
         # 1. Add logo at top (preserve aspect ratio)
         logo_path = self.image_settings.logo_path
@@ -291,7 +293,7 @@ class ImageGenerator:
                 image.paste(logo, (left_x, current_y), logo)
                 image = image.convert("RGB")
                 
-                current_y += logo_height + padding
+                current_y += logo_height + 15  # Reduced spacing after logo
             except Exception as e:
                 logger.warning(f"Failed to add logo: {e}")
         
@@ -300,9 +302,10 @@ class ImageGenerator:
         
         # 2. Add guests with bigger font
         if quote_data.formatted_guests:
-            guests_font_size = 32
-            guests_font = self._load_font(self.image_settings.default_font, guests_font_size)
-            guests_color = self._hex_to_rgb("#FFFFFF")
+            guests_font_size = self.image_settings.text.get('guests_font_size', 32)
+            guests_font_name = self.image_settings.text.get('guests_font', self.image_settings.default_font)
+            guests_font = self._load_font(guests_font_name, guests_font_size)
+            guests_color = self._hex_to_rgb(self.image_settings.text.get('guests_color', '#FFFFFF'))
             
             # Wrap guests text to fit left column
             guests_text = f"con {quote_data.formatted_guests}"
@@ -349,9 +352,10 @@ class ImageGenerator:
         right_width = right_cols_width - padding * 2
         
         # 1. Episode title and number at top
-        title_font_size = 48
-        title_font = self._load_font(self.image_settings.default_font, title_font_size)
-        title_color = self._hex_to_rgb("#FFFFFF")
+        title_font_size = self.image_settings.text.get('title_font_size', 48)
+        title_font_name = self.image_settings.text.get('title_font', self.image_settings.default_font)
+        title_font = self._load_font(title_font_name, title_font_size)
+        title_color = self._hex_to_rgb(self.image_settings.text.get('title_color', '#FFFFFF'))
         
         title_text = f"BGE {quote_data.episode_number}: {quote_data.titolo}"
         title_lines = self._wrap_text_to_width(title_text, title_font, right_width, draw)
