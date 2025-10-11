@@ -1,0 +1,164 @@
+# BGE Social Quote Generator Configuration
+
+# General settings
+general:
+  episodes_dir: "_episodes"
+  texts_dir: "assets/texts"
+  output_dir: "social-quote-generator/output/images"
+  log_dir: "social-quote-generator/output/logs"
+  log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+
+# Quote extraction settings
+quotes:
+  preferred_source: "claude"  # claude, openai, deepseek, llama, random
+  fallback_sources: ["openai", "deepseek", "llama"]
+  max_length: 280
+
+# Image generation settings
+images:
+  templates_dir: "social-quote-generator/templates"
+  fonts_dir: "assets/fonts"
+  default_font: "OpenSans-Regular.ttf"
+  
+  # Platform-specific settings
+  # Note: Author-specific templates can be added as {author}_{layout}.png
+  # e.g., claude_landscape.png, openai_square.png, deepseek_landscape.png
+  # These will be used instead of default templates when available
+  platforms:
+    instagram:
+      dimensions: [1080, 1080]
+      template: "default_square.png"
+    twitter:
+      dimensions: [1200, 675]
+      template: "default_landscape.png"
+    facebook:
+      dimensions: [1200, 630]
+      template: "default_landscape.png"
+    linkedin:
+      dimensions: [1200, 627]
+      template: "default_landscape.png"
+  
+  # Branding settings
+  branding:
+    logo_path: "assets/images/logo white.png"
+    logo_position: "top-left"  # top-left, top-right, bottom-left, bottom-right
+    logo_size: [100, 100]
+    primary_color: "#FFFFFF"
+    secondary_color: "#000000"
+    background_color: "#1a1a1a"
+    # Author-specific background colors (for landscape layout)
+    author_backgrounds:
+      claude: "#1a2332"      # Dark blue-grey for Brigante Claudio
+      openai: "#2d1a2e"      # Dark purple for Geek Estinto
+      llama: "#1a2e1a"       # Dark green for Metante
+      deepseek: "#2e1a1a"    # Dark red for Deep Geek
+  
+  # Episode cover settings
+  cover:
+    enabled: true
+    covers_dir: "assets/covers"
+    position: "bottom-left"  # top-left, top-right, bottom-left, bottom-right, center-left, center-right
+    size: [249, 140]  # Width, height in pixels
+    padding: 20  # Padding from edges
+  
+  # Text rendering settings
+  text:
+    quote_font: "Caveat-VariableFont_wght.ttf"  # Font for quote text
+    quote_font_size: 52
+    quote_color: "#FFFFFF"
+    quote_max_width: 900
+    metadata_font_size: 24
+    metadata_color: "#CCCCCC"
+    # Title settings
+    title_font: "Peace Sans Webfont.ttf"
+    title_font_size: 42
+    title_color: "#FFFFFF"
+    # Guests settings
+    guests_font: "Kanit-Regular.ttf"
+    guests_font_size: 24
+    guests_color: "#EEEEEE"
+    # Text box background settings
+    box_enabled: true
+    box_color: "#000000"
+    box_opacity: 180  # 0-255, where 0 is transparent and 255 is opaque
+    box_padding: 40  # Padding around text in pixels
+    box_corner_radius: 20  # Corner radius in pixels (0 for sharp corners)
+    # Quote author attribution
+    author_enabled: true
+    author_font_size: 32
+    author_color: "#CCCCCC"
+    author_prefix: ""  # Prefix before author name
+
+# Social media platform settings
+social_media:
+  enabled_platforms: ["twitter", "instagram", "facebook", "linkedin"]  # twitter, instagram, facebook, linkedin
+  
+  twitter:
+    enabled: true
+    api_key: "${TWITTER_API_KEY}"
+    api_secret: "${TWITTER_API_SECRET}"
+    access_token: "${TWITTER_ACCESS_TOKEN}"
+    access_token_secret: "${TWITTER_ACCESS_TOKEN_SECRET}"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}\n\n🔗 https://labrigatadeigeekestinti.com/ep/{episode_number}/"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
+  
+  instagram:
+    enabled: false
+    username: "${INSTAGRAM_USERNAME}"
+    password: "${INSTAGRAM_PASSWORD}"
+    caption_template: "🎙️ BGE Episodio {episode_number}\n\n{title}\n\n{hashtags}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech", "#Podcast"]
+  
+  facebook:
+    enabled: false
+    access_token: "${FACEBOOK_ACCESS_TOKEN}"
+    page_id: "${FACEBOOK_PAGE_ID}"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
+  
+  linkedin:
+    enabled: false
+    access_token: "${LINKEDIN_ACCESS_TOKEN}"
+    person_urn: "${LINKEDIN_PERSON_URN}"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
+
+# Queue management settings
+queue:
+  queue_file: "social-quote-generator/output/publish_queue.json"
+  history_file: "social-quote-generator/output/published_history.json"
+  lock_file: "social-quote-generator/output/.publish.lock"
+  
+  # Default scheduling
+  default_schedule:
+    twitter: "09:00"      # 9 AM
+    instagram: "15:00"    # 3 PM
+    linkedin: "10:00"     # 10 AM
+    facebook: "12:00"     # 12 PM
+  
+  # Stagger settings (when using --stagger)
+  stagger_interval: "6h"  # Hours between platforms
+  stagger_order: ["twitter", "instagram", "linkedin", "facebook"]
+  
+  # Publishing behavior
+  max_retries: 3
+  retry_delay: 3600  # 1 hour in seconds
+  look_ahead_minutes: 5  # Publish if within 5 minutes of scheduled time
+  
+  # Text generation templates
+  text_templates:
+    twitter:
+      caption: "🎙️ BGE Episodio {episode_number}: {title}\n\n\"{quote}\"\n\n{hashtags}\n\n🔗 {link}"
+      hook: "Nuovo episodio disponibile!"
+    instagram:
+      caption: "🎙️ BGE Episodio {episode_number}\n\n\"{quote}\"\n\nLink in bio per l'episodio completo!\n\n{hashtags}"
+      hook: "Nuovo episodio del podcast!"
+    linkedin:
+      caption: "🎙️ BGE Episodio {episode_number}: {title}\n\n\"{quote}\"\n\nCon {guests} parliamo di {topics}\n\n🔗 {link}\n\n{hashtags}"
+      hook: "Nuovo episodio del podcast BGE"
+    facebook:
+      caption: "🎙️ BGE Episodio {episode_number}: {title}\n\n\"{quote}\"\n\n🔗 {link}\n\n{hashtags}"
+      hook: "Ascolta il nuovo episodio!"
+  
+  # Episode URL template
+  episode_url_template: "https://labrigatadeigeekestinti.com/ep/{episode_number}/"

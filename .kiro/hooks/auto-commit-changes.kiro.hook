@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "name": "Auto-commit with consistent naming",
+  "description": "Automatically commits pending changes using a commit message that follows the naming convention of previous commits in the repository",
+  "version": "1",
+  "when": {
+    "type": "userTriggered",
+    "patterns": [
+      "**/*"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "Analyze the git commit history to understand the commit message naming conventions used in this repository. Then check for any pending changes (staged or unstaged) and commit them with a message that follows the same naming pattern and style as previous commits. The commit message should be descriptive of the changes made while maintaining consistency with the repository's commit history."
+  }
+}

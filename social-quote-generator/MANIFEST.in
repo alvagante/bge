@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+recursive-include config *.yaml
+recursive-include templates *.png *.jpg *.ttf *.woff *.woff2

@@ -1,0 +1,87 @@
+# BGE Social Quote Generator Configuration
+
+# General settings
+general:
+  episodes_dir: "_episodes"
+  texts_dir: "assets/texts"
+  output_dir: "output/images"
+  log_dir: "output/logs"
+  log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+
+# Quote extraction settings
+quotes:
+  preferred_source: "claude"  # claude, openai, deepseek, llama, random
+  fallback_sources: ["openai", "deepseek", "llama"]
+  max_length: 280
+
+# Image generation settings
+images:
+  templates_dir: "templates"
+  fonts_dir: "templates/fonts"
+  default_font: "OpenSans-Regular.ttf"
+  
+  # Platform-specific settings
+  platforms:
+    instagram:
+      dimensions: [1080, 1080]
+      template: "default_square.png"
+    twitter:
+      dimensions: [1200, 675]
+      template: "default_landscape.png"
+    facebook:
+      dimensions: [1200, 630]
+      template: "default_landscape.png"
+    linkedin:
+      dimensions: [1200, 627]
+      template: "default_landscape.png"
+  
+  # Branding settings
+  branding:
+    logo_path: "assets/images/logo white.png"
+    logo_position: "top-right"  # top-left, top-right, bottom-left, bottom-right
+    logo_size: [100, 100]
+    primary_color: "#FFFFFF"
+    secondary_color: "#000000"
+    background_color: "#1a1a1a"
+  
+  # Text rendering settings
+  text:
+    quote_font_size: 48
+    quote_color: "#FFFFFF"
+    quote_max_width: 900
+    metadata_font_size: 24
+    metadata_color: "#CCCCCC"
+
+# Social media platform settings
+social_media:
+  enabled_platforms: ["twitter"]  # twitter, instagram, facebook, linkedin
+  
+  twitter:
+    enabled: true
+    api_key: "${TWITTER_API_KEY}"
+    api_secret: "${TWITTER_API_SECRET}"
+    access_token: "${TWITTER_ACCESS_TOKEN}"
+    access_token_secret: "${TWITTER_ACCESS_TOKEN_SECRET}"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}\n\n🔗 {youtube_url}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
+  
+  instagram:
+    enabled: false
+    username: "${INSTAGRAM_USERNAME}"
+    password: "${INSTAGRAM_PASSWORD}"
+    caption_template: "🎙️ BGE Episodio {episode_number}\n\n{quote}\n\n{hashtags}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech", "#Podcast"]
+  
+  facebook:
+    enabled: false
+    access_token: "${FACEBOOK_ACCESS_TOKEN}"
+    page_id: "${FACEBOOK_PAGE_ID}"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
+  
+  linkedin:
+    enabled: false
+    access_token: "${LINKEDIN_ACCESS_TOKEN}"
+    person_urn: "${LINKEDIN_PERSON_URN}"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]

@@ -1,0 +1,88 @@
+# BGE Social Quote Generator Test Configuration
+# This config is designed to work with actual BGE data from parent directory
+
+# General settings
+general:
+  episodes_dir: "_episodes"  # Will be overridden via CLI
+  texts_dir: "assets/texts"  # Will be overridden via CLI
+  output_dir: "output/images"
+  log_dir: "output/logs"
+  log_level: "DEBUG"  # DEBUG for testing
+
+# Quote extraction settings
+quotes:
+  preferred_source: "claude"
+  fallback_sources: ["openai", "deepseek", "llama"]
+  max_length: 280
+
+# Image generation settings
+images:
+  templates_dir: "templates"
+  fonts_dir: "templates/fonts"
+  default_font: "OpenSans-Regular.ttf"
+  
+  # Platform-specific settings
+  platforms:
+    instagram:
+      dimensions: [1080, 1080]
+      template: "default_square.png"
+    twitter:
+      dimensions: [1200, 675]
+      template: "default_landscape.png"
+    facebook:
+      dimensions: [1200, 630]
+      template: "default_landscape.png"
+    linkedin:
+      dimensions: [1200, 627]
+      template: "default_landscape.png"
+  
+  # Branding settings
+  branding:
+    logo_path: "assets/images/logo white.png"  # Will be overridden
+    logo_position: "top-right"
+    logo_size: [100, 100]
+    primary_color: "#FFFFFF"
+    secondary_color: "#000000"
+    background_color: "#1a1a1a"
+  
+  # Text rendering settings
+  text:
+    quote_font_size: 48
+    quote_color: "#FFFFFF"
+    quote_max_width: 900
+    metadata_font_size: 24
+    metadata_color: "#CCCCCC"
+
+# Social media platform settings
+social_media:
+  enabled_platforms: []  # Disabled for testing
+  
+  twitter:
+    enabled: false
+    api_key: "test_key"
+    api_secret: "test_secret"
+    access_token: "test_token"
+    access_token_secret: "test_token_secret"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}\n\n🔗 {youtube_url}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
+  
+  instagram:
+    enabled: false
+    username: "test_user"
+    password: "test_pass"
+    caption_template: "🎙️ BGE Episodio {episode_number}\n\n{quote}\n\n{hashtags}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech", "#Podcast"]
+  
+  facebook:
+    enabled: false
+    access_token: "test_token"
+    page_id: "test_page"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]
+  
+  linkedin:
+    enabled: false
+    access_token: "test_token"
+    person_urn: "test_urn"
+    caption_template: "🎙️ BGE Episodio {episode_number}: {title}\n\n{quote}\n\n{hashtags}"
+    hashtags: ["#BGE", "#DevOps", "#IT", "#Tech"]

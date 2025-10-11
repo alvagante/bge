@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "name": "Code Verification & Security Review",
+  "description": "Automatically reviews code changes to verify functionality, confirm task completion, identify security vulnerabilities, and suggest corrections",
+  "version": "1",
+  "when": {
+    "type": "userTriggered",
+    "patterns": [
+      "**/*.rb",
+      "**/*.html",
+      "**/*.css",
+      "**/*.js",
+      "**/*.yml",
+      "**/*.yaml",
+      "**/*.md",
+      "_config.yml",
+      "_config_dev.yml",
+      "Gemfile"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "Review the modified files and perform the following checks:\n\n1. **Functionality Verification**: Analyze if the code changes actually work as intended. Check for:\n   - Syntax errors or typos\n   - Logic errors or incorrect implementations\n   - Broken references or missing dependencies\n   - Compatibility with Jekyll 4.3.4 and the existing tech stack\n\n2. **Task Completion**: Verify if the changes fully complete the intended task:\n   - Are all requirements addressed?\n   - Are there any incomplete implementations?\n   - Do the changes align with the project structure and conventions?\n\n3. **Security Issues**: Identify potential security vulnerabilities:\n   - XSS vulnerabilities in HTML/JavaScript\n   - Unsafe YAML parsing or Ruby code execution\n   - Exposed sensitive data or credentials\n   - Insecure external resource loading\n   - Missing input validation or sanitization\n\n4. **Corrections & Suggestions**: Provide specific, actionable recommendations:\n   - Code fixes for identified issues\n   - Best practices improvements\n   - Performance optimizations\n   - Accessibility enhancements\n\nFormat your response with clear sections for each check, highlighting critical issues and providing code examples for suggested corrections."
+  }
+}
