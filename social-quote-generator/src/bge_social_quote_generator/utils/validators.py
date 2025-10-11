@@ -444,7 +444,9 @@ class TextValidator:
         """
         Sanitize text for safe rendering.
         
-        Removes potentially dangerous characters and HTML entities.
+        Removes potentially dangerous characters.
+        Note: Does NOT escape HTML entities as text is used for image generation,
+        not HTML rendering. HTML entities would appear literally in images.
         
         Args:
             text: Text to sanitize
@@ -462,8 +464,9 @@ class TextValidator:
         # Remove null bytes
         text = text.replace("\x00", "")
         
-        # Escape HTML entities to prevent injection
-        text = html.escape(text)
+        # Unescape any HTML entities that might be present
+        # (e.g., from previous processing or YAML parsing)
+        text = html.unescape(text)
         
         # Remove control characters except newlines and tabs
         text = "".join(
