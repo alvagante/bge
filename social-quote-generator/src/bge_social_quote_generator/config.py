@@ -144,7 +144,9 @@ class QuoteSettings:
     max_length: int
     
     def validate_source(self, source: str) -> bool:
-        """Validate if a quote source is valid."""
+        """Validate if a quote source is valid (None means all sources)."""
+        if source is None:
+            return True
         valid_sources = ["claude", "openai", "deepseek", "llama", "random"]
         return source in valid_sources
 

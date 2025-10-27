@@ -11,11 +11,17 @@ pip install -e social-quote-generator/
 ## Basic Commands
 
 ```bash
-# Single episode, all platforms
+# Single episode, all platforms, all quotes (4 sources × 4 platforms = 16 images)
 bge-quote-gen --episode 1 --dry-run
 
-# Single episode, specific platform
+# Single episode, specific platform, all quotes (4 sources × 1 platform = 4 images)
 bge-quote-gen --episode 1 --platform instagram --dry-run
+
+# Single episode, specific quote source, all platforms (1 source × 4 platforms = 4 images)
+bge-quote-gen --episode 1 --quote-source claude --dry-run
+
+# Single episode, specific platform and quote source (1 source × 1 platform = 1 image)
+bge-quote-gen --episode 1 --platform instagram --quote-source claude --dry-run
 
 # Multiple episodes
 bge-quote-gen --episodes 1,5,10 --dry-run
@@ -33,11 +39,22 @@ bge-quote-gen --all --dry-run
 
 ## Quote Sources
 
+By default, all 4 quote sources are used. Use `--quote-source` to filter to a specific source:
+
 ```bash
+# Generate images for Claude quotes only (4 platforms = 4 images)
 bge-quote-gen --episode 1 --quote-source claude --dry-run
+
+# Generate images for OpenAI quotes only (4 platforms = 4 images)
 bge-quote-gen --episode 1 --quote-source openai --dry-run
+
+# Generate images for DeepSeek quotes only (4 platforms = 4 images)
 bge-quote-gen --episode 1 --quote-source deepseek --dry-run
+
+# Generate images for Llama quotes only (4 platforms = 4 images)
 bge-quote-gen --episode 1 --quote-source llama --dry-run
+
+# Random source selection
 bge-quote-gen --episode 1 --quote-source random --dry-run
 ```
 
@@ -120,7 +137,7 @@ social-quote-generator/output/images/
 
 Naming format:
 ```
-bge_{episode}_{platform}_{timestamp}.png
+bge_{episode}_{quote_source}_{platform}_{timestamp}.png
 ```
 
 Example:

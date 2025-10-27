@@ -17,4 +17,3 @@ episodi:
 layout: geek
 nome: Cosimo Streppone
 ---
-

@@ -5,4 +5,3 @@ episodi:
 layout: geek
 nome: Paolo Mangano
 ---
-

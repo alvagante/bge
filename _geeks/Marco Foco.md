@@ -16,4 +16,3 @@ episodi:
 layout: geek
 nome: Marco Foco
 ---
-

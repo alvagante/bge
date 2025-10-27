@@ -141,20 +141,51 @@ bge-quote-gen --episode 1 --platform twitter --publish
 
 ### Setting Up API Credentials
 
-1. Copy the example environment file:
+Publishing to social media requires API credentials for each platform.
+
+1. **Create `.env` file:**
    ```bash
-   cp social-quote-generator/.env.example social-quote-generator/.env
+   cd social-quote-generator
+   touch .env
+   chmod 600 .env
    ```
 
-2. Edit `.env` and add your API credentials:
-   ```
-   TWITTER_API_KEY=your_key_here
-   TWITTER_API_SECRET=your_secret_here
-   TWITTER_ACCESS_TOKEN=your_token_here
-   TWITTER_ACCESS_TOKEN_SECRET=your_token_secret_here
+2. **Add credentials to `.env`:**
+   ```bash
+   # Twitter/X (requires Developer Account + Elevated Access)
+   TWITTER_API_KEY=your_api_key_here
+   TWITTER_API_SECRET=your_api_secret_here
+   TWITTER_ACCESS_TOKEN=your_access_token_here
+   TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret_here
+
+   # Instagram (simple username/password)
+   INSTAGRAM_USERNAME=your_username
+   INSTAGRAM_PASSWORD=your_password
+
+   # Facebook (requires Developer App + Page Token)
+   FACEBOOK_ACCESS_TOKEN=your_page_access_token
+   FACEBOOK_PAGE_ID=your_page_id
+
+   # LinkedIn (requires Developer App + OAuth)
+   LINKEDIN_ACCESS_TOKEN=your_access_token
+   LINKEDIN_PERSON_URN=urn:li:person:your_id
    ```
 
-3. See `PUBLISHERS.md` for detailed setup instructions for each platform
+3. **Get API tokens:**
+
+   See **[PUBLISHERS.md](PUBLISHERS.md)** for comprehensive step-by-step instructions for obtaining tokens for each platform.
+
+   **Quick summary:**
+   - **Twitter/X:** 30-60 min setup, requires Developer account + Elevated Access approval
+   - **Instagram:** 5 min setup, just username/password (unofficial method)
+   - **Facebook:** 30-45 min setup, requires Facebook Developer app + Page
+   - **LinkedIn:** 30-45 min setup, requires LinkedIn Developer app + Page
+
+4. **Test your credentials:**
+   ```bash
+   # Test without publishing (dry-run mode)
+   bge-quote-gen --episode 1 --platform twitter --dry-run --verbose
+   ```
 
 ## Common Issues
 

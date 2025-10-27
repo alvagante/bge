@@ -10,4 +10,3 @@ episodi:
 layout: geek
 nome: Andrea Spagnolo
 ---
-

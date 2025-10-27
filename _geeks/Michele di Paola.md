@@ -7,4 +7,3 @@ episodi:
 layout: geek
 nome: Michele di Paola
 ---
-

@@ -4,4 +4,3 @@ episodi:
 layout: geek
 nome: Roberto Bettazzoni
 ---
-

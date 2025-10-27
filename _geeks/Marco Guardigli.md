@@ -35,4 +35,3 @@ Alcuni dei suoi motti sono:
   IF serve(x) AND sai_fare(x): fa(x); ELSE impara_a_fare(x);
   Ogni volta che fai una cosa per la prima volta, ti diverti molto di più.
   Solo i pesci morti vanno con la corrente.
-

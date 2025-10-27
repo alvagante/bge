@@ -6,4 +6,3 @@ episodi:
 layout: geek
 nome: Ruggero Tonelli
 ---
-

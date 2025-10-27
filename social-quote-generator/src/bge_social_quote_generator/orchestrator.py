@@ -422,6 +422,17 @@ class PipelineOrchestrator:
         
         logger.info(f"Found {len(all_quotes)} quotes for episode {quote_data.episode_number}")
         
+        # Filter quotes based on preferred source if specified
+        preferred_source = self.config.quote_settings.preferred_source
+        if preferred_source and preferred_source != 'random':
+            # Filter to only the preferred source
+            filtered_quotes = [q for q in all_quotes if q.quote_source == preferred_source]
+            if filtered_quotes:
+                all_quotes = filtered_quotes
+                logger.info(f"Filtered to {len(all_quotes)} quote(s) from source: {preferred_source}")
+            else:
+                logger.warning(f"No quotes found from preferred source '{preferred_source}', using all quotes")
+        
         # Generate images for each quote × each platform
         for quote in all_quotes:
             for platform in platforms:

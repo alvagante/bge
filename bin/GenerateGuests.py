@@ -3,7 +3,7 @@ import sys
 import os
 import re
 import yaml
-from frontmatter import Frontmatter
+import frontmatter
 
 if len(sys.argv) < 3:
     print("Please provide the source dir as first argument and the destination dir as second")
@@ -27,9 +27,17 @@ for guest in guests:
     guest_file = os.path.join(dest_dir, guest + ".md")
 
     if os.path.exists(guest_file):
-        frontmatter_data = Frontmatter.read_file(guest_file)
+        with open(guest_file, 'r') as f:
+            post = frontmatter.load(f)
+            frontmatter_data = {
+                'attributes': post.metadata,
+                'body': post.content
+            }
     else:
-        frontmatter_data = {}
+        frontmatter_data = {
+            'attributes': {},
+            'body': ''
+        }
 
 #    print(frontmatter_data['attributes'])
 #    print(frontmatter_data['body'])

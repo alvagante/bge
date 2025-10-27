@@ -1,0 +1,13 @@
+**BGE 99 - Framework Agentic AI: Overview e pratica**
+
+Nel vasto e tumultuoso oceano dell'intelligenza artificiale, si profila un’onda travolgente: i framework per agenti AI. In questo episodio della Brigata dei Geek Estinti, Luca Bianchi e Luciano Flandesio si addentrano in un’analisi senza fronzoli, smascherando un panorama in continua evoluzione popolato da nomi come LangChain, LlamaIndex e Agno. Ma cosa si cela realmente sotto il cofano di questa rivoluzione digitale?
+
+Il dibattito si apre sull’evoluzione dell'IA generativa, un fenomeno che ha preso piede con una rapidità vertiginosa, trasformando radicalmente il panorama IT. Non si tratta solo di buzzword; gli agenti virtuali, entità autonome pronte a eseguire compiti, stanno rielaborando le interazioni tra umani e macchine. Come i gladiatori nell’arena, questi agenti combattono per la supremazia nell'automazione, interagendo con ambienti virtuali e reali.
+
+La discussione si sposta poi su architetture e orchestrazione, svelando le sfide e i trionfi nell'implementazione di soluzioni complesse. Qui, i relatori mettono in luce la necessità di una comprensione profonda degli algoritmi di machine learning. Non si tratta di una mera questione tecnica; è un imperativo etico. Con l’avanzare della tecnologia, la responsabilità di gestire le sue implicazioni sociali e morali diventa cruciale.
+
+Ma la vera essenza dell’episodio si concentra sulla memoria degli agenti. Come possono questi sistemi apprendere e adattarsi nel tempo? La gestione della memoria emerge come un’arma segreta, capace di potenziare l'efficienza operativa. E in un mondo dove la convergenza tecnologica segna il passo, la sinergia tra diverse tecnologie offre opportunità senza precedenti. Ma attenzione: “multi-agent” non è solo un termine affascinante, spesso cela dinamiche interne conflittuali, come dei thread che litigano tra loro.
+
+Il podcast, privo di marketing e fuffa, offre un mix esplosivo di ironia da veterani e scetticismo geek, rendendo l’ascolto un’esperienza tanto educativa quanto stimolante. Con dimostrazioni pratiche e uno sguardo critico sulla realtà dei framework, i relatori non si fermano alle parole: ci invitano a esplorare, a mettere le mani in pasta.
+
+L'epoca degli agenti AI è appena cominciata, e mentre ci prepariamo a navigare in queste acque tumultuose, una domanda rimane: siamo davvero pronti a gestire le conseguenze della nostra creazione?

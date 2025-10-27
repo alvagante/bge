@@ -10,7 +10,7 @@ general:
 
 # Quote extraction settings
 quotes:
-  preferred_source: "claude"  # claude, openai, deepseek, llama, random
+  preferred_source: null  # claude, openai, deepseek, llama, random, or null for all
   fallback_sources: ["openai", "deepseek", "llama"]
   max_length: 280
 

@@ -7,4 +7,3 @@ episodi:
 layout: geek
 nome: Paolo D'Urso
 ---
-

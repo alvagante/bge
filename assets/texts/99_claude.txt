@@ -1,0 +1,11 @@
+Nel labirinto degli agenti artificiali, dove framework si moltiplicano come triboli in un campo incolto, la Brigata dei Geek Estinti si addentra con il machete della razionalità tecnica. Un viaggio attraverso l'architettura degli dei digitali, dove LangChain, LlamaIndex e AutoGen non sono che le prime stelle di una costellazione in rapida espansione.
+
+L'episodio disseziona anatomicamente i framework agentic AI, rivelando sotto la superficie lucida del marketing le vertebre tecniche che ne sostengono l'architettura. Come un Virgilio tecnologico, la Brigata ci guida attraverso i cerchi concentrici dell'orchestrazione, della memoria e del tool use, demistificando quello che troppo spesso si riduce a un gioco di scatole cinesi di wrapper.
+
+Particolarmente illuminante è l'analisi del cosiddetto "multi-agent system", spesso magnificato come l'avvento di una nuova forma di intelligenza distribuita, ma che nella pratica si rivela più simile a un monologo schizofrenico tra thread che si auto-interrogano. Un esempio perfetto di come il "consenso allucinato" possa manifestarsi anche a livello architetturale.
+
+La discussione non si limita alla teoria: attraverso dimostrazioni pratiche, vengono esplorati i confini spesso sfumati tra l'autonomia del modello e la rigidità del workflow predefinito. È qui che emerge la vera natura di questi sistemi: non tanto intelligenze artificiali quanto sofisticati automi di Turing, le cui capacità dipendono più dalla qualità dell'orchestrazione che dalla profondità del modello sottostante.
+
+Come diceva Wittgenstein, "i limiti del mio linguaggio sono i limiti del mio mondo". Nel caso degli agenti AI, potremmo parafrasare: i limiti del framework sono i limiti dell'agente. Un promemoria sobrio in un'epoca dove l'hype tecnologico rischia di offuscare la vista anche ai più esperti.
+
+"Quando guardi nell'abisso del codice, il codice guarda dentro di te" - e la Brigata ci mostra esattamente cosa c'è da vedere, senza filtri, senza marketing, con solo il sarcasmo come guida e lo scetticismo come bussola.

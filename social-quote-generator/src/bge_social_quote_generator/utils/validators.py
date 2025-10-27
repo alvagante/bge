@@ -414,23 +414,27 @@ class ConfigValidator:
         Validate quote source name.
         
         Args:
-            source: Quote source name
+            source: Quote source name (can be None for all sources)
             
         Returns:
-            Validated source name
+            Validated source name or None
             
         Raises:
             ValidationError: If source is invalid
         """
-        if not source or not isinstance(source, str):
-            raise ValidationError("Quote source must be a non-empty string")
+        # Allow None or empty string to mean "all sources"
+        if source is None or (isinstance(source, str) and not source.strip()):
+            return None
+        
+        if not isinstance(source, str):
+            raise ValidationError("Quote source must be a string or None")
         
         source = source.strip().lower()
         
         valid_sources = ["claude", "openai", "deepseek", "llama", "random"]
         if source not in valid_sources:
             raise ValidationError(
-                f"Invalid quote source: {source}. Must be one of: {', '.join(valid_sources)}"
+                f"Invalid quote source: {source}. Must be one of: {', '.join(valid_sources)}, or None for all"
             )
         
         return source

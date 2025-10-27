@@ -8,4 +8,3 @@ episodi:
 layout: geek
 nome: Gabriele Gobbo
 ---
-
