@@ -6,5 +6,5 @@ episodi:
 - 98
 - 99
 layout: geek
-nome: Luciano Flandesio
+nome: Luciano Fiandesio
 ---

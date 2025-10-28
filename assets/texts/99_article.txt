@@ -1,6 +1,6 @@
 **BGE 99 - Framework Agentic AI: Overview e pratica**
 
-Nel vasto e tumultuoso oceano dell'intelligenza artificiale, si profila un’onda travolgente: i framework per agenti AI. In questo episodio della Brigata dei Geek Estinti, Luca Bianchi e Luciano Flandesio si addentrano in un’analisi senza fronzoli, smascherando un panorama in continua evoluzione popolato da nomi come LangChain, LlamaIndex e Agno. Ma cosa si cela realmente sotto il cofano di questa rivoluzione digitale?
+Nel vasto e tumultuoso oceano dell'intelligenza artificiale, si profila un’onda travolgente: i framework per agenti AI. In questo episodio della Brigata dei Geek Estinti, Luca Bianchi e Luciano Fiandesio si addentrano in un’analisi senza fronzoli, smascherando un panorama in continua evoluzione popolato da nomi come LangChain, LlamaIndex e Agno. Ma cosa si cela realmente sotto il cofano di questa rivoluzione digitale?
 
 Il dibattito si apre sull’evoluzione dell'IA generativa, un fenomeno che ha preso piede con una rapidità vertiginosa, trasformando radicalmente il panorama IT. Non si tratta solo di buzzword; gli agenti virtuali, entità autonome pronte a eseguire compiti, stanno rielaborando le interazioni tra umani e macchine. Come i gladiatori nell’arena, questi agenti combattono per la supremazia nell'automazione, interagendo con ambienti virtuali e reali.
 
