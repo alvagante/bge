@@ -1,0 +1,23 @@
+# Quando il Verde Diventa Codice: L'Impossibile Equazione tra Bit e Biosfera
+
+*"Non puoi ottimizzare ciò che non misuri"* – diceva Peter Drucker. Ma cosa accade quando misurare significa ammettere che ogni query, ogni streaming, ogni modello di AI è un piccolo incendio nel pianeta?
+
+L'episodio 101 della Brigata dei Geek Estinti ci catapulta nel paradosso fondamentale dell'era digitale: l'immaterialità apparente del cloud che poggia su tonnellate di cemento, rame e consumi energetici da nazione industriale. Green IT non è un ossimoro – è un campo di battaglia dove l'utopia incontra la termodinamica.
+
+Francesco Fullone e Alessandro Vozza ci guidano attraverso il labirinto delle contraddizioni: data center che divorano energia quanto intere città, hardware progettato per l'obsolescenza programmata, e il greenwashing che dipinge di verde ciò che rimane ostinatamente grigio. La narrazione smaschera l'ipocrisia dell'economia digitale: celebriamo la "dematerializzazione" mentre accumuliamo montagne di e-waste nei paesi del Sud Globale.
+
+**La superficie di attacco ambientale si espande**, proprio come quella informatica. Ogni dipendenza software, ogni libreria, ogni container Docker ha un costo energetico spesso invisibile nei dashboard aziendali. Le vulnerabilità non sono solo nel codice – sono negli assunti fondamentali di un modello di crescita infinita su un pianeta finito.
+
+Il cloud computing prometteva efficienza attraverso la condivisione delle risorse. L'AI ci vende predizioni miracolose. Ma chi conta i watt? Chi audita il carbon footprint di un modello GPT addestrato su cluster distribuiti? Le certificazioni esistono, certo – ISO 14001, Energy Star, certificazioni LEED per i datacenter – ma troppo spesso sono foglie di fico su architetture energivore.
+
+L'economia circolare nell'elettronica rimane largamente teorica. **Il riciclo dei dispositivi tecnologici è il phishing dell'ecologia**: sembra la soluzione, ma nasconde complessità devastanti. Separare terre rare, smaltire batterie al litio, recuperare componenti miniaturizzati richiede processi spesso più inquinanti della produzione originale.
+
+E poi c'è lo Shadow IT ambientale: quegli strumenti, quei servizi, quella proliferazione di dispositivi IoT che sfuggono a ogni governance energetica. Ogni smartwatch, ogni termostato connesso, ogni telecamera di sorveglianza è un nodo in una rete di consumi invisibili ma cumulativamente devastanti.
+
+**Zero Trust dovrebbe applicarsi anche alle narrazioni tecnologiche**. Verificare ogni claim di sostenibilità, assumere che ogni soluzione "green" nasconda esternalità non contabilizzate, richiedere trasparenza sui consumi end-to-end. L'automazione può aiutare – algoritmi che ottimizzano i carichi di lavoro per minimizzare l'impatto, sistemi che spengono risorse inutilizzate, architetture che privilegiano l'efficienza sulla performance bruta.
+
+Ma la formazione rimane cruciale. Non basta insegnare a riconoscere email di phishing – serve riconoscere il greenwashing, leggere tra le righe dei report di sostenibilità, capire che "carbon neutral" spesso significa solo "abbiamo comprato crediti per compensare".
+
+En-Roads e altri simulatori climatici ci mostrano la verità scomoda: anche con tutto l'impegno possibile, il Green IT è necessario ma non sufficiente. È una battaglia di retroguardia contro l'entropia informazionale ed energetica.
+
+**Il futuro della sicurezza informatica è inseparabile dal futuro ambientale.** Un datacenter allagato dall'innalzamento dei mari è un incidente di sicurezza. Una supply chain interrotta da eventi climatici estremi è una vulnerabilità sistemica. La resilienza digitale richiede resilienza ecologica.

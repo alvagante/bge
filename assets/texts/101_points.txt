@@ -1,0 +1,10 @@
+- Sicurezza informatica moderna: Analisi dello stato attuale della sicurezza informatica, evidenziando la crescente complessità e vulnerabilità delle infrastrutture IT.
+- Superficie di attacco: Discussione sull'espansione della superficie di attacco, dovuta all'aumento delle dipendenze software, librerie e pacchetti, rendendo più difficile la gestione della sicurezza.
+- Vulnerabilità emergenti: Riflessione sulle vulnerabilità che continuano a ripetersi nel tempo, nonostante i progressi tecnologici, evidenziando il bisogno di una maggiore attenzione.
+- Problemi di autenticazione: Esplorazione delle sfide legate all'autenticazione e all'autorizzazione, sottolineando l'importanza di pratiche di sicurezza forti nel contesto delle identità digitali.
+- Shadow IT: Riflessione sull'uso di applicazioni e servizi non autorizzati all'interno delle aziende, che aumenta il rischio di esposizione e compromissione dei dati.
+- Attacchi di phishing e social engineering: Analisi delle tecniche di attacco più comuni e delle loro evoluzioni, con particolare attenzione all'ingegneria sociale e all'utilizzo di credenziali compromesse.
+- Importanza della formazione: Necessità di una formazione continua e consapevole per i dipendenti, al fine di riconoscere e mitigare i rischi legati alla sicurezza informatica.
+- Automazione nella sicurezza: Riflessione sull'uso di strumenti automatizzati per migliorare la risposta agli incidenti e la gestione della sicurezza, evidenziando i vantaggi e le sfide.
+- Approccio Zero Trust: Discussione sul modello di sicurezza Zero Trust, che richiede la verifica di ogni accesso ai sistemi, indipendentemente dalla provenienza, come risposta alle crescenti minacce.
+- Futuro della sicurezza informatica: Considerazioni sulle tendenze future nella sicurezza informatica, incluse le sfide legate all'adozione di nuove tecnologie e alla gestione della complessità crescente.
