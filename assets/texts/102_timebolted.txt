@@ -1,0 +1,384 @@
+mi serve
+tratto che viaggiano senza mai fermarsi
+ma c'è una storia che cambia il mondo piccoli
+trauma
+passi pronta
+guarda che facciamo
+il futuro pubblico
+da quest'anno al potere
+codice aperto
+la strada si fara codice
+imporre questa persona
+milano
+luca
+con passo leggero
+racconta di recente fondazione
+l'open source
+ogni contributo ricostruisce
+ma governo a capire cosa serve
+perché conservare guardiamo avanti oltre
+verso software
+codice a barre
+voglio imporre quarta brigata
+creare
+batterie
+ma la
+domani
+forca lo riporti il bello dello
+nessuno resta ai margini tra politiche brand
+se come dite
+che ci fa ripartire codice aperto sogni pure la brigata ci guida nel futuro
+dalle sfide globali ai nuovi orizzonti
+open source il passo che traccia i nostri conti
+e se il mondo cambia noi cambiamo con noi
+ciò che siamo e ciò che vuoi
+caso fondi della regione
+significa
+e quindi puntata centodue della brigata degli estinti e ci ritroviamo a parlare di open source con niente di meno che stefano ma fulli e ruggero tonelli che insomma
+sul tema hanno sicuramente parecchio da dire e stefano benvenuto bentrovato so che hai un limite alle nove quindi faremo in modo di parlare bene e in tempo come va come che che si dice
+molto bene molto bene
+tutto tutto molto tranquillo appena finito una giornata abbastanza impegnativa parte bassa mentre un'altra parte a fare un po' di un po' di ricerca su questo tema dell'open source sulle cose nuove che ci sono all'orizzonte in una fase in cui veramente sta cambiando molto è cambiato molto
+gli ultimi dieci anni di sicuro ancora i prossimi sarà ancora più
+bobble credere spumeggiante
+è decisamente ne parliamo e bentrovato e ben ritrovato ruggiero te anche tu come dire alfiere di antica data del mondo open source soprattutto di antica data
+vicino all'estinzione entrambi vicini all'estinzione
+in tema con la brigata se estinti ma vivi si suol dire da queste parti e stefano l'hai già accennato a questo punto entriamo diretti sull'argomento gli ultimi dieci anni molte cose sono cambiate e nei prossimi anni molte cose cambieranno parliamo come ci piace fare anche per dare una prospettiva storica dal quello che cambia
+ato il passato cos'è successo se poi penso che in poco tempo ho anche un discorso se vogliamo del mondo presunta quando alcune ong mi è stata anche praticare tu come dire dai tempi di debian e quant'altro
+e come voluto come è cambiato il rapporto con l'industria e poi ad arrivare ad oggi
+nei tempi antichi e io ero in giro come tanti altri qua in italia
+amo quelli matti che andavano in giro con il cd in tasca a installare linux ora chi non lo voleva pure chi non sapeva di cura
+chi non sapeva di averlo perché tanto funzionava
+andare
+un serverino di boston serverino web firewall non si negava a nessuno andare in giro così eravamo un po' diciamo non dico pirati ma decisamente pionieri eravamo e di quelli mi ricordo gli incontri che facciamo quando abbiamo cominciato a essere un pochettino più commerciale per vendere queste soluzioni
+c'era chi ci diceva ma che state combinando cioè io a vendere prodotti unix ci mantengo la famiglia vuoi arrivare questi chili gratis e come pensate come penserei di farci business
+venti anni ti preoccupare business adesso noi lo facevamo e non ci facevamo troppi problemi quello che andava a cambiare fast forward ci arriva altri passano passano vent'anni e gli ultimi dieci anni veramente un'esplosione ormai ci sono degli studi che dicono che
+il novanta per cento del software in circolazione ha una componente open source più o meno significativa al suo interno quindi dipende dal lavoro fatto da altri tutto quello che è del mondo digitale che abbiamo oggi dipende al novanta per cento dal lavoro fatto da altri aziende stati i governi tutti
+in più
+il valore stesso di tutto questo sorto il prodotto in maniera collaborativa
+da terzi stato anche quantificato insomma doverlo riscrivere daccapo bar vale circa nove tre miliardi di hospice che
+capitalizzazione di microsoft l'ultima volta che ci guarda quantità enorme di un'economia di diciamo dai tempi in cui andavamo in giro
+so che addirittura in tasca a oggi è eccezionale con questo successo diciamo chiamiamolo con successo anche commerciale decisamente però poi sono cominciate pure né negli ultimi anni si è vista la maturità del concetto cioè grosse imprese grosse aziende che non sarebbero jessie
+gestite senza l'open source amazon google
+non sarebbero esistite senza l'open source fossero dovute andare in giro a chiedere permesso per installare un server in più perché stavano crescendo chiedere permesso e pagare una licenza ora c'ho lo so ma è così se pensi che non ci avrebbero mai fatto ad avere quella crescita esponenziale rapida abilitata dal concetto di open source e magari
+possiamo pure
+ricapitolo ricapitolo ero in maniera breve
+alla fine di queste risorse è quindi quello che si è visto negli ultimi anni invece la maturità cioè mature ormai maturo e dappertutto questo software che non è scritto da altri che magari è scritto da un ragazzino in nepal si è trattato alla stessa maniera dal super luminare del
+dell'ingegneria del software in silicon valley è ma potrebbe anche essere un perfetto una perfetta spia al soldo di
+di
+un attore non diciamo non non legittima dovrebbe essere spie nordcoreane o agenti del kgb dio
+la gru
+no e questo ha spaventato i mozzi sono stati un po' di di vulnerabilità che sono state scoperte spaventato molti governi quindi c'è stato ma una attività legislativa negli ultimi anni che ci ha cambiato e sta cambiando notevolmente il mondo il mondo del software mondo
+gilda
+stefano
+hai già citato i grandi scheler senza opensuse avrebbero potuto nascere perché
+tutto usufruirne abbondantemente ne hanno usufruito abbondantemente anche non solo per questioni di licenze ovviamente la tua personale visione su uno degli elementi che è successo all'open source recentemente no questo contrasto fra chi produce open source e vede poi il proprio prodotto open source usato commercialmente e magari impacchettato e riv
+visto e allora cambia licenza e si spende le bacchettate perché cambia licenza di tipo classico giusto per fare esempi non devono essere chiari non a caso esatto ma non solo loro comunque e quindi x linux foundation che fa il foro open source tu come la vedi un po' tutta questa situazione perché
+non credo ci siano come direbbe torti e ragioni assolute almeno dal mio punto di vista
+partiamo quella che cos'è l'open source cioè perché e perché ha avuto successo e ha avuto successo perché il principio fondamentale è che abilita il concetto di open source che sono questi dieci punti usati per valutare le licenze allora i contratti con cui viene trasferito il software questi questi dieci punti
+praticamente danno a utente sviluppatore la possibilità di fare ciò che gli pare sul sul software che hanno ricevuto senza dover chiedere permesso al detentore dei diritti questo non dover chiedere permesso abilita quell'economia da nove triliardi di dollari quando comincia a introdurre eccezioni se incominci a dire
+sì puoi fare quello che vuoi salvo se ti trovi casualmente su un piede sinistro dentro il confine di san marino oppure se sei uno che vende a clienti basati che ne so in in in iran o in israele e allora non trovò allora mi devi chiedere perché
+adesso cominci a introdurre
+attrito in cui in questo sistema e lo sappiamo per esperienza che l'esperienza prima che esistessero l'open source e tutto quello che non è open source è fatto di attrito questo attrito e spreco fondamentalmente e non non si non sarebbe creata quella quell'economia invece siamo d'accordissimo e di fronte alle
+obiezione ovvia se vogliamo comunque di chi dice io faccio poi produco software open source pago i miei dipendenti per descrivere questo software
+e poi e son contento di fare roba open source e tutto quanto però non mi piace l'idea che qualcuno possa prendere il mio software impacchettarlo venderlo lui senza oneri che ho io è però guadagnandoci sopra bisogna bisogna decisamente pensare al modello di business che sia compatibile
+con quei principi perché bisogna pensarlo fin dall'inizio in realtà quello che abbiamo visto nel negli anni diciamo dal dal dal dal duemilaundici duemiladieci duemilaundici al duemilaventi dopo dopo la pandemia fondamenti quel decennio lì con i tassi d'interesse a zero e tasse
+di crescita quindi rapidissima della delle dei venture capital nelle aziende finanziate da venture capital molti non hanno pensato affatto alta al modello di business iniziale hanno utilizzato il le licenze open source come veicolo per una diffusione molto rapida sul mercato
+foto di prodotti di prodotti senza pensare veramente a quali potessero essere le conseguenze tanto i soldi stavano costavano zero aziende che si sono sviluppate senza pensare veramente a dover fare fatturato poi arrivato a un certo punto una certa maturità un controllo di
+di una fetta di mercato anche significativa gli investitori cominciano a dire va io voglio il cento per cento di quella torta non mi serve più che serie che cresca la torta perché per me cresciuta abbastanza cresca la torta e prenderne una percentuale sul tab fatto l'esempio del corvo actor hotel poteva continuare a prendere
+ci prendeva a monetizzare una fetta degli utenti una parte dei suoi hotel e non il cento per cento dei soldi arriva a un certo punto che gli investitori vuole invece il cento per cento del novantotto seicento di guida di quella torta anche se dovesse restringersi un pochettino di più e cambiano licenza
+oh assolutamente una scelta legittima come legittimo aspettarsi che i clienti o gli utenti reagiscono considerato il fatto che le scelte fatte appunto di diligenza iper permissiva quindi di quelle che iper anzi non reciproche cioè quelle che non ti richiedono di di
+istituire quello prendi o quello che ho quello che modifichi e ci si ritrova con con diciamo
+l'effetto collaterale del dell'open source è quello che ognuno ha il diritto anche di creare un un derivato separato a igor linux foundation
+ma in realtà è proprio tutto dovuto alla
+ad halloween per certi versi uno dei delle delle considerazioni di quando ero alla l'open source liscia dei lucani
+che ho lasciato agli ulivi
+due mesi fa e bowl uno dei fallimenti diciamo della
+durante gli anni di crescita non siamo stati così attenti come comunità come quelli che pensavano più che facevano l'open source
+amy amy
+ad addestrare o dare un più fare più lavoro di di di divulgazione a spiegare le conseguenze per ogni licenza delle possibilità di business dei business model che possono essere abilitati o preclusi in base alla scelta della licenza così da togliere un po' gli alibi di questi
+di questi ben cercavi tra questi anche i fondatori magari te non hanno diciamo founders
+non è che abbiano imprenditore ma abbiamo così tanto tempo per stare lì a pensarci a unirsi un investitore che magari ha un partner alla fin fine che ti consiglio genoa vai per la massima divulgazione massima disponibilità del tuo codice poi ci pensi dopo
+non ho pensato alle conseguenze magari avere
+un altare d'altra parte che ti racconta what else weapon apache software license due zero iper iper liberale poi dopo farai fatica a tenerti area
+una fetta significativa dei tuoi clienti
+così giusto per intenderci se tu re
+non è una licenza consigliabile a chi vuole lanciare un prodotto open source però tra virgolette e senza brand il rischio alla tenera forma no dipende dipende devi sempre si deve pensare sempre a quello che ci devi fare ogni le licenze sono quattro cinque poi alla fin fine quelle diciamo
+gli archetipi fondamentali sono sono pubbliche no license diciamo le licenze copyleft che sono quelle reciproche quelle che dicono prenditi pure tutto il codice che vuoi a patto che se ne modifichi rimetti nel calderone comune le modifiche che hai
+fatto poi ci sono quelle invece non reciproche tipo da quelle classiche del progetto borrelli
+di software in licenza e mantieni software licence la pace soft licence quelli che dicono praticamente una dedica quasi una dedica al pubblico dominio se fate un po' quello che vi pare basta che dite che l'avete preso da noi cioè che no non cancellate non
+l'autore originale ed erano all'adozione che ci siano auto originale e vediamo tutto i diritti sul codice e anche compresi i brevetti che ci sono leggi potrebbero essere questo dei brevetti ampli è esplicito ed implicito in tutta la vicenza ha approvato l' open source e dalla consorte micheli e poi c'erano vie di
+mezzo che sono quelle che si chiamano sono copyleft
+deboli quindi qui c'è la mozilla public licence c'è la lesser lesser general public nuovo general public licence queste queste sono più diciamo sono copyleft nel reciproche ma limitate al software stesso non si estendono al alle dipendenze su altre librerie
+più o meno questi sono i grossi i grossi archetipi poi ci sono alcune che sono due di t vicino punto quelle che non ce ne sono un altro paio più moderne che toccano anche il rapporto con i dati prodotti con la porte di output di dio elaborazioni insomma so
+sono diciamo casi specifici casi particolari ed questo è ognuna di queste certe cose ci puoi fare dal punto di vista di business come aziende certe altre no ma molto dipende anche dal tipo di prodotto che fai per dirne una per esempio le quando ero lavorato per un po' di anni a una ditta
+italiane si chiama funambolo e
+questa azienda è il loro grosso il business era quello di vendere
+i dvd questo software alle grosse e telecom è però sos software ho fatto anche in maniera tale da avere di planning delle estensioni quindi c'è un tutto un'economia diciamo di di di partner contributor che sviluppavano estensione e loro avevano il loro business era era separato
+nonostante ci fosse
+quindi
+puoi strutturare il la tua scelta di licenza che nel caso del funambolo era la afferro il gpl versione tre che un una copyleft molto forte che si attiva anche sul sull'uso tramite i diari remoto e
+c'era comunque la possibilità di giudicare gli investitori non erano particolarmente preoccupati da questo è il modello di business erano molto ben tarato sul fatto che non si andava a monetizzare non c'era alcuna intenzione di monetizzare la parte diciamo community edition parte della la porta è gratuita
+perché tanto il target era solo quei pochi vendor al mondo che facevo telecomunicazioni ce ne sono poche centinaia al talmud
+certo
+brughera hai qualcosa da aggiungere anche tu su anche il discorso licenze commerciali commerciali e anche il discorso grosso delle licenze dei campi di licenza di cattivi software
+completare quello che dice stefano ma tipo color l'aria perchè io mi ricordo gli anni dei vari meeting delle varie manifestazioni chiamiamoli eventi va schiera molto più attenti a spiegare tutto il tema delle licenze fino a dove puoi arrivare con una cosa
+tu passato quello che era il tour mondiale del linux world expo
+due e tre anni dopo dalle licenze erano il minore dei problemi se volevi fare qualcosa e volevi che si espandesse expand
+espandesse super rapidamente doveva essere open source doveva essere linux dovrei avere un pinguino
+abbiamo visto il logo di pinguini abbiamo scoperto nuove razze di pinguini nuove famiglie di tutto
+però doveva avere il pinguino e doveva bere open source scritto in qualche maniera
+la distinzione open source free software linux gnu linux sparita sì ci sono state e stefano mi correggerà qualche haus am
+tra grande e piccola di gente che non che non aggiungeva le licenze open source ai prodotti le chiese se avesse perso tutto rapidamente se è vero
+gerry
+passata l'epoca della vagina e valanghe si la cosa più anziano
+passati gli evangelisti siamo passati da l'open source al cloud e abbiamo lasciato tutti il tema licenze il perché dell'open source il perchè del free software e sì che da un certo punto di vista è stat
+meglio così perché siamo perché siamo passati da l'open source per comunisti di qualcuno
+a l'open source di tutti però si perso tutta quella cosa che poi ha portato a bari
+tentativi di monetizzazione
+e quasi tutti son tornati poi sui loro passi meno reds è tornata sui suoi passi a hickory mongo
+mongo ma abele zaira il tema era un altro e se loro sono stati i primi a tirarsi la piscina non capendo bene che la piscina non era esattamente l'acqua
+infatti sono quelli che l'hanno pagata di più perché tipo persona il giorno dopo già aveva la sua bella distribuzione che con stephen dove il supporto costava dieci volte meno
+lì si sono sparati nei piedi chi a quei tempi stavo in un'impresa che pagava il supporto di mongodb come forma di assicurazione
+come per la stessa cosa che dicono che nessuno è mai stato licenziato per aver comprato ibm si paga al supporto di quello che sostiene tu e il tuo core business
+però ti dico che come noi moltissime imprese sia qui che in giro per il mondo tutti a tirare la giacchetta persone
+perché perché
+da un lato ti offrivano support level uno basato nel tuo fuso orario è già quello bada e davano supporto a prezzi era oro sulla base software degli altri però
+ma questo maledetto e cesena
+desiderio banalizzare e veloce vero che l'euro tema da quello un tema sarà quello contemporaneo un tema fondamentale no il punto è se io se io lo do lo do con coscienza con sapendo che il mio modello bis prevede di business prevede che in biologia e che ci faccio soldi in qualche altro modo
+non ci dev'essere niente di male se invece dico lo so ma ospedale mi rendo conto di aver sbagliato anche lì non c'è niente di male e c'è correggi il tiro non chiamarlo open source
+è
+volevo chiedere una cosa stefano e tu hai detto hai lasciato da due mesi le open source iniziativa giusto
+che cosa hai fatto negli ultimi tempi lì tu personalmente quali sono gli ultimi a progetti significativi dell'open source
+iniziative negli ultimi anni la logan finisce di donald e
+l'organizzazione che ha definito il concetto stesso di open source che è nata quando il nome il termine open source è stato affibbiato al software che fino a
+a quegli anni fino al millenovecentonovanta ventisei anni novanta novanta novantuno novantadue ed è stata fondata ma ricordo manco più
+novantotto mi sembra il novantotto e curiosità ma stallman non sono stallman e ramones quello che con remo de petris e sono ancora attivi nella stiva
+le solite due
+quando fu fondata insomma quando quel che un gruppo di persone una dozzina di persone se si cercò e trovò penny open nel termine open source un'alternativa a quello che in inglese un tram un termine è un termine poco chiaro gay free software software libero italiano
+chiarissimo infatti open source in italiano si traduce software viper punto
+ciò mettevo chiarezza e
+ma negli anni e affinché non ci sono arrivato io quattro anni fa
+l'azienda l'organizzazione era un'organizzazione di volontari food gestita da da persone elette dalla dalla comunità di soci di persone associate all'organizzazione che donano per l'alcol per la quota associativa e non aveva granché come
+come attività diciamo stabile ma un po' di divulgazione qualche evento
+produzione di dio opinioni e il cor quella parte con la manutenzione della lista delle licenze approvate e del processo che lele a prova che un processo ampiamente collaborativo pubblico cui chiunque può partecipare ma che poi alla fine le persone che sono nel darle conto
+l'amministrazione sono quelle che hanno la l'autorità all'ultima all'ultima voce in capitolo sull'approvazione o no
+delle delle licenze che vengono mandate per vengono messe in discussione quando sono andato io quattro anni fa abbiamo sono stato il primo direttore esecutivo di directory e ho stabilito un team di professionisti cioè che ci lavora proprio a
+assunti che sono al regime che fanno sia una parte con quella l'abbiamo mantenuta della revisione delle licenze e della manutenzione della lista di licenze approvate che su quella lista di licenze approvate si basa quel quell'economia da nove triliardi di cui dicevo prima è che questa linea in questa lista
+incorporata anche molti contratti legali cedere molti legali fanno riferimento praticamente dicono che si può sposare qualsiasi licenza che sia approvata l'open source edition presenta loro un riferimento così quindi riconoscono l'autorità dell'organizzazione il abbiamo aggiunto anche
+un'attività di
+di monitoraggio e di dio
+di formazione di informazione presso i politici sia in europa che negli stati uniti perché appunto il software è diventato il software open source in particolare è diventato così centrale l'infrastruttura digitale che ci sono tante norme tante leggi che vengono scritte queste scritte nell'ignoranza fanno da anni fanno danni all'ecosistema
+indi abbiamo riconosciuto e anche abbiamo se siamo riusciti ad avere degli dei
+david fondi per poter assumere persone per lavorare su questi temi in europa il principale i principali alle principali attività sono sulle attività di standardizzazione e di
+la legislazione tipo alaska la residenza act che che è in corso di idee l'implementazione in questi anni è la terza attività che abbiamo fatto grossa è stata quella di
+diciamo che era la videochiamata ricerca ma è fondamentalmente a capire che cosa sta succedendo con l'intelligenza artificiale perché quattro anni fa
+uscì uscirono le uscivano le prime demo di copilot e con copilot di github e vedendo quel quel quel sistema in azione immediatamente almeno a me ha fatto immediatamente capire che stava cambiando qualcosa in maniera fondamentale cioè c'è una macchina che non è deterministica che è in grado
+di leggere tutto lo scibile prodotto dagli umani fino a quel momento ed aldi di sintetizzare e e e e creare qualcosa di nuovo che funziona c'è del nuovo software che può essere compilato che è attivo e funziona questa cosa qui dal punto di vista
+immediatamente mie paure ho intuito che andava a intaccare completamente tutta la parte legale tutto il framework legale su cui si basa l'open source al concetto di diritto d'autore il concetto di creatività il concetto di utente
+di opera derivata di dio opera derivata il diritto alla all'archiviazione dei dati e all'uso che se ne poteva fare nomi ed individualmente per esempio
+man mano che cominciavo a dipanare la giorno a dipanare la questione le nostre fotografie con le nostre facce in tutti questi anni era pubblicate sul su internet fatte su sul sito di flicker no chi se lo ricorda uno dei primi grandi archivi mondiali di di fotografie eravamo lì tutte le nostre fotografie
+potevano aggiungere i tag si poteva dire guarda finché quadrino questa da parte di stefano ma fullhd e ora quell'archivio mi sono reso conto comunque le nostre facce negli anni anche no usa phuket può essere utilizzato praticamente per identificarci per strada da uno che ci vuole vendere un paio di scarpe nuove oppure da una polizia che magari
+sta agendo in maniera fuori dai confini della legalità concerto del quattro marzo di maio su flicker o dal diritto a chiunque di utilizzare quella foto perché pensavo che l'avrebbe usata per farci un altro un'immagine un volantino o un qualche cosa di nuovo creativo umano
+no beh per farci fare l'analisi statistica da cui poi se ne poteva derivare musiche io all'epoca non sapevo potessero fossero possibili
+quindi questi in queste gravi grandi domande andavano andavano dipanate non vedevo nessun altro che se ne faceva e c'è un maestro abbiamo messo tutto l'impegno della open source iniziative per arrivare a dire a vedere se ha validi validare se con la intelligenza artificiale il buco questa gemma generativa
+questi lasciano uomo language models eccetera se resistevano joseph alla al concetto di open source stesso nel nel nei dieci punti che dicevo che vengono utilizzati per valutare licenze il punto numero due definisce uno dei requisiti per il software per essere open source
+che deve mettere a disposizione il codice sorgente il codice sorgente viene definito nella nella opensource definition punto numero due come il il metodo utilizzato è di prassi da un programmatore per fare modifiche al codice che vuol dire che non può essere codice scritto in un linguaggio che non è per cui il compilatore
+non è disponibile oppure per cui oppure che offuscato in qualche maniera quello non è codice sorgente codice dev'essere distribuito nella forma che include anche per esempio gli iscritti per la compilazione ami le istruzioni per la compilazione nemmeno puoi darmi questo qua ma in che lingua get non contro dio
+è sorgente e arrangiati no non è sorgente e allora ci dovremmo capire questo punto numero due come lo rimaniamo nel caso di lionel l'e-learning qual è il modo migliore per fare queste modifiche e quindi è stato un lavoro di due anni
+abbiamo come l'avete rimandato però c'è nel senso esiste l'open source a codice prodotto lei
+abbiamo dovuto mettere insieme un gruppo di lavoro di oltre cento persone in più di
+più di trentacinque quaranta paesi
+in istituzioni diverse con competenze diverse quindi non solo il software abbiamo fatto un giro del mondo praticamente in due anni per e per prima di tutto abbiamo cementato che il concetto che volevamo continuare a i concetti che l'uomo continuare a preservare fossero vali ce ne vogliamo
+comunque che una lapide rai di machine learning tipo di qualsiasi tipo debba essere messa a disposizione di chiunque per potersi fare qualsiasi cosa senza dover modifiche ai di poterlo studiare capire come è stata costruita eccetera senza dover chiedere il permesso questo principio l'abbiamo ribadito con
+con tutti gli attori coinvolti ed è
+è rimasto chiaro c'è per chiarire che cosa è necessario come codice sorgente e come oggetto di sorsero all'interpretazione al punto numero due è che questo codice cioè questi sistemi di machine learning uccide devono mettere a disposizione le il
+i parametri quindi il risultato della bentel del training dell'addestramento tutto il codice utilizzato per l'addestramento tutto il codice utilizzato per creare il dataset di treni e una descrizione e data set di training stesso qualora sia salvo che non sia possibile distribuí
+pirlo per questioni legali e in mancanza di queste deve esserci una descrizione sufficientemente dettagliata che rifacendo andare gli script creando un dataset simile si ottengano risultati comparabili questione è particolarmente complessa però poi alla fine ci dà come risultato che
+le leve e anche soddisfano questi requisiti sono
+sono poche in realtà perché c'è o perché sono pochi quelli che ti raccontano veramente ottimi ti dicono che ti danno veramente il codice che hanno utilizzato sia per il training per fare il filtraggio dei dati
+e nemmeno ti vogliono far sapere veramente che cosa ci hanno messo dentro westin dentro questi sistemi di addestramento però quelle che ci sono funzionano insomma ieri hanno rilasciato un'altra la
+alien istituti floreali olmo olmo tragica ok scusa stefano per chiedere una cosa non tutti i requisiti che ho detto adesso su disponibilità nel dataset
+dell'altro e così via servono per punire marciare come open source un modello oppure perché stavamo parlando del discorso codice generato con modelli e hai il tuo codice generato con modelli da cui non sono noti i parametri tutto quello che i dataset
+intanto non è codice che puoi consip chi rientra con chi supera la prova open source a livello di licenze non ho capito no ha detto no è tutto per generare nuovo modello allora per dire olmo alien inside floreali che questo ente di ricerca non profit
+basata negli stati uniti loro pubblicano in maniera regolare i risultati del loro addestramenti quindi hanno pubblicato il dataset ieri hanno pubblicato il codice per che hanno utilizzato per l'addestramento hanno pubblicato anche il codice per fare tutta la parte di creazione da dj set filtraggio e compagnia bella
+e hanno rilasciato anche l'architettura e il il modello stesso con i suoi pesi parametriche questa è un sistema open source lo possiamo considerare un sistema open source quello che produce poi dopo lì c'è un grosso punto di domanda sono cause in corso in giro per il mondo su queste su queste coste
+bilità ci sono definizioni che vengono postati vengono costantemente riviste dai sistemi di kim dae-jung delle autorità che assegnano il copyright o palpano il la validità al diritto d'autore e lì ci sarà un po' di un o di tempi ci vorrà un po' di tempo per capire bene quindi se un libro gordon
+airbnb in realtà che consiglio di leggere su questo tema
+si chiama adam
+caspita ce l'ho sottomano si chiama low lay l'autore digitale di simone aliprandi recuperiamo e
+volevo chiederti stefano tanto una cosa tutto il codice open source che facciamo a ruggero
+oggi ci abbiamo stefano comunque quando vuoi torna anche se anche durante più tardi
+dicevamo questi
+e allora intanto noi due domande al volo da livio intanto che mi recupero cloud native name consiglierebbero open source
+lama assolutamente no no o che cosa ci manca dei requisiti cosa che ci ha traditi gemono open source cosa no il lama è per esempio bisogna chiedere permesso a a
+a metà se lo si vuole usare se hopper per un museo utenti più di non mi ricordo quanti milioni gli utenti attivi al mese e in più è proibito l'uso in europa da enti europei quindi bisogna leggere le loro i termini di licenza al di là del fatto che non rilascia
+lasciano informazioni su come il sistema è stato addestrato dove sono i dati che hanno utilizzato e compagnia bella ma è proprio lei i termini di utilizzo sono immagini è liberamente utilizzabile ma non è open source diciamo swirl e limitatamente utilizzabile anche negoziabili che liberamente te esatto in senso molto stupore dall'euro
+europa c'è magari gli americani lo possono utilizzare un po' di più di noi noi no noi non lo possiamo fare cosacce in europa è proibito l'uso di lame a hockey di psic ray-ban
+ok head soccer wayne è interessante perché loro hanno rilasciato il modello e i pesi con licenza apache software license versione due che una licenza approvata dal open source visceri hanno rilasciato una gran quantità di codice all'inizio dell'anno con
+con il re uno
+hanno rilasciato un sacco di documentazione anche molto dettagliata e in più il gruppo di ricerca interno di agi it face ne ha replicato gran parte del delle funzionalità con di open open sky open search mi sembra che abbiano chiamato
+open bensì che rowan quindi fossi io l'autorità direi
+uno mi sembra abbastanza abbastanza open source o
+e volevo chiederti prima tutto questo armas già accennato anche questioni eventualmente i legali di copyright o quant'altro questa massa di codice che scriviamo io seguo diciamo come io faccio scrivere a botte di prompt e
+tanto posso rilasciare open source bacio se esse sono nessuno e tre lecce
+allora se zelensky se tutto opera tua si opera mia e questo è il punto è opera mia il prompt ci hai regalato pronto a
+allora league veramente lì e ti serve ci serve un avvocato per approfondire perché la
+in realtà il copyright nasce in maniera automatica solo un autore umano quando l'opera è sufficientemente creativa quindi se scrivi una sola riga di codice
+banale non c'è copyright se invece quella riga di codice fondamentalmente una cosa che nessuno ha mai inventato prima che sia riuscito non lo so in una riga a sintetizzare quello che oliver era una roba che stava in cinquanta cinquanta valigie e allora si ha il diritto di esclusivo di sfruttare quella
+con quel di quella creatività quell'opera della creatività del tuo ingegno
+nel caso in cui l'opera sia stata mediata da una macchina qui entriamo in una conversazione che che è molto più sofisticata e con simone aliprandi simone alle grandi potrebbe essere la persona con cui gli occhiali che per esempio fa drago lo racconta molto bene nel libro quando parla dell'
+l'introduzione della creatività tramite fotografia macchina fotografica e anche in quel caso lì all'inizio
+i diciamo i pittori pensavano non pensavano che ha uno scatto fotografico fosse degno di una di una protezione del diritto d'autore possono operare perché è un'opera meccanica e tu scatti la luce entra nei fotoni si attaccano alla alla alla pellicola e poi fai il prof
+sesso chimico per stamparla non c'è niente di gradi oggi secondo loro genere educativo però poi ci fu una causa legale che che invece cambiò e cambiò le carte in tavola comunque istituì questo diritto potrebbe essere che arriveremo anche in questo caso a decidere che il prompt oppure il fatto che ci sia stata una perso
+una dieta umana che abbia fatto le scelte editoriali dal di di decidere che quella
+particolare sequenza di caratteri prodotta dalla macchina
+che sia stata giudicata valida e che funziona e che quello sia degna di di tutela che sia sempre che sia originale ovviamente che non sia stato
+già non sia copia di qualcosa già visto clive
+ruggero tu che dici su l'open source tutte le regole legate al mondo licenze open
+come vedi anche a livello di anche qua secondo voi il mercato alcuni rei il mondo opensource vincerà anche nel mondo dei modelli rai e quindi quelli proprietari adesso saranno tendenzialmente meno
+sapete come funzionato in mondo open source software ma adesso come stanno funzionando modo modelli che è ancora più legato a modelli chiusi riguarda i modelli ti direi che vincere lì mettici tutte le cose che vuoi ma lì è una questione di soldi
+mentre il training avea adesso qualcuno ha perso una causa e deve pagare una copia di tutti i libri che hanno usato per il training si adesso tu metti che l'istituto che nominava stefano gli fanno la stessa causa questo istituto chiude bottega direttamente
+a meno che non sia un istituto con indietro tutta l'avvocatura di stato di un di uno stato e comunque i training su beta e peter peter i dati costa dal punto di vista training se si può chiamare di vittoria direi di no poi non so se sta
+fano già entrato nel discorso open source open wade su su sui sui vari modelli che vi ricordo un post suo di qualche tempo fa questa roba non è open source al massimo può essere open wade sono i pesi del training
+ti direi che non lo so perché se facciamo lo stesso paragone agli anni settanta ottanta sì no
+una xerox easing è impossibile che puoi riuscire a fare un sistema operativo che competa con questa cosa che era la prima che ce l'aveva il mouse si muoveva anni dopo si è potuto fare però da qua a cinque dieci anni vista non lo so anche perché fra un pò ci raddoppiano il
+prezzo della ram solo per riuscire a aprire chrome non ne fai a fare il training di qualcosa
+in un due mesi la previsione che raddoppia praticamente il costo della ram perché c'è shortage
+il training con cosa lo fai fai come quelli di openai che fanno è il doppio del debito con un'impresa che già c'è un debito per coprire altro debito
+tu non puoi andare dal negoziante sotto casa o da amazon e digli
+rendimi cento euro di rame che io te ne restituisco centocinquanta in due mesi però per intanto gli uso gratis
+e o ingarbugliato un po' il discorso però si capisce no
+no si capisce di sicuro non ci sono l'economia di che c'erano che c'erano quando lo collocò la nascita con linux linus torvalds era iscritto sul computer di casa praticamente e or ora non fai la concorrenza saggi obiettivo il computer di casa que
+non ci sono dubbi c'è però
+io sono molto più ottimista di ruggero perchè non penso che
+ci siamo entrati in una fase in cui questi strumenti
+ci sono ci sono correnti geopolitiche dietro che sono influenzate e si vede che c'è voglia da parte di
+in da parte del governo cinese di gigi
+di distaccarsi un po' dalla dipendenza tecnologica con gli stati uniti idem per l'europa c'è volontà di distaccarsi alla dipendenza da invidia e altri perchè è tutto troppo instabile questa tecnologia è necessaria a tutti
+a tutte le società o almeno questa è la percezione insomma che non ci si può non si può rimanere indietro quindi c'è spinta innovativa a superare questi costi insormontabili a non considerare la la disponibilità di datacenter come come
+unico comune di un fattore di discriminazione due siccome c'è l'interesse politico diversamente da quando è nata internet che fondamentalmente internet è nata in sordina ce li eravamo c'erano poche pochi istituti erano da dentro le università e andava pian piano si è diffusa è arrivata ai primi milioni di utenti arriva
+molti anni dopo che la tecnologia era disponibile già g p t e g o l copilot colpa di appello di colpo hanno fatto miliardi di utenti mensili i governi sono immediatamente a guardare il tutto a monitorare il tutto e a orientarlo in maniera tale che siano
+funzionale alla società perché per far funzionare i giochi pd in scala bisogna costruire datacenter si sa da sempre accostano denaro hanno bisogno di energia elettrica di cui c'è una scarsità incredibile nel mondo non si possono costruire centrali nucleari ad hoc e pensare che si possano attaccare alla rete s
+senza che le venga ridistribuito il costo stesso di questi aggiornamenti insomma c'è un altro ambiente che secondo me renderà l'open source le aree open source molto più appetibili al di fuori di quei quattro cinque centri di potere
+here in cina e negli stati uniti speriamo
+vedremo vedremo comunque come si suol dire se se pensate ai tempi in cui l'open source era una minaccia e linux un udine
+uno strumento di pirati che volevano esatto che sfruttavano licenze che non avevano
+abbiamo scusa stefano a livello
+legislativo sai che ho comunità europea e regolarmente più regolare più o meno regolarmente ci sono un po' di questioni che emergono emergenze più o meno forti reali per il mondo open source e quant'altro
+vogliamo fare un riassunto veloce gli ultimi anni sotto questo aspetto a layla la cosa più la cosa più importante da tenere sott'occhio perché impatto adulti e il saper residence act ed è il più maturo della legislazione uscite dalla legislazione passata e e questo pratico
+mente questo
+questo costa legislazione questa legge praticamente da la responsabilità chiunque metta la immetta sul mercato un prodotto basato sul software di man di mantenerlo e di garantire che sia funzionale che sia sicuro e che vuol dire che perché questo nasce da ade dalle varie idee varie
+varie botnet boot
+che che che che che sfrutta il fatto che ci siano anche le sue telecamerine da dieci euro che hai comprato al negozietto sotto casa password admin admin che nessuno cambia e questi diventano veicoli di attacco arredi arredi interni zolfo sistemi per esfiltrazione di dati e compagnie ben queste
+sei qua non il legislatore europeo non le tollera più non le vuole quindi vuole che chiunque prendere il codice e lo mette dentro un prodotto lo mette sul mercato ne sia responsabile questo ha un impatto notevole su sull'open source perché di riflesso abbiamo il novanta per cento del software è basato su software open source
+che di riflesso impatta impatto ai manutentori manutentori di progetti pacchetti python che che vanno dentro quella telecamerina fondamentalmente qualcuno li deve garantire che sono sicuri non qualcuno c'è chi li usa per metterli dentro la telecamerina quindi se siete in
+egitto o che li offre come servizio anche su internet medico impatta anche il software as a service
+quindi chiunque faccia business con il software deve pensare questo sacro residenza act
+questa secondo me
+una cosa è questo
+che è significativo no perché poi c'è la grossa tematica dell'open source insomma quasi potrebbe diventare una a reprimere certe tendenze rilasciare software no però ci sta sotto certi punti di vista no nel senso che se un oggetto in letargo è un'arma
+sì torniamo anche a quello che dicevi prima del del codice che io metto a disposizione che magari qualcun altro vuole vuole distribuire chi vuole fare concorrenza che ne so al al a superba o l'altro di questi progetti così di gabe il codice te lo prendi da internet
+lo prendi da internet quindi non è un prodotto ok
+l'ometto su su e ci faccio del business opera magari customizzando e compagnia bella a quel punto mi devo assumere la responsabilità equipaggi sia funzionato bene e ora ti voglio vedere offrire una garanzia del genere con responsabilità civili e penali scritte per legge e se non sei l'autore di quel soft
+toro se non si è affatto coinvolto nel nel suo sviluppo e prendi radice così di colpo e lo fai diventare un prodotto lo lodai a terze parti senza averci mai messo le mani sopra su quel codice ma dovrai
+con nell'an quando il fidanzato residenza drake pieno il pieno
+distribuzione efficacia finale che credo che sia alla fine dell'anno prossimo la scadenza e dovrai dovrai avere una a una se
+dovrei sentire le spalle coperte insomma lo è ma secondo te questo sul mondo open source ovviamente parlando quindi non stretta ma quello chi fa prodotti basati su somma per chi fa opensource avrà qualche impatto tutto insomma secondo me sì proprio perché secondo me sì proprio perché è una delle cose nuove che si potrà offrire come come a pagamento come se
+vizio pagamento a pelo vuoi prendere la responsabilità però l'opportunità al salmo per l'open source city secondo me è un'opportunità certo per un impero mantainer per un fondatore un'azienda un'impresa che sviluppa codice assolutamente lo puoi prendere gratis book sesso
+genova glory è che dolce la legge è chiara su anche sulla responsabilità altrimenti ti compri la mail subì il supporto l'attestazione che questo codice è effettivamente sviluppata e poi mi prendo la responsabilità sul suolo torrese
+e per l'eventuale sviluppatore open source che oneri si prende idee e idem idem cioè a quel punto di nuovo è chiaro la separazione su cosa c'è che è stato immesso sul mercato
+quindi messo sul mercato c'è una definizione precisa all'interno della delle normative europee su che cosa vuole vuol dire che non vuol dire l'ho pubblicato su città vuol dire omesso omesso esame di un cliente novello ci faccio soldi e chi invece lo fa soltanto perché
+fa una donazione al pubblico dominio non mi interessano mi prendo responsabilità l'impatto anche negativo della serie io lo dono non mi prendo responsabilità auto e voglio vedere chi lo tocca e semplice
+certo c'è chi c'è dall'altra parte si
+e invece formalmente tu sei invece da supporto anche pagato lo vendi
+devi attenerti a minime logiche di sicurezza c'è tutto un protocollo già definito ci sei no questo è quello che è questa la questi sono i protocolli che si stanno definendo in questi in questi mesi all'interno delle delle organizzazioni tipo e il suo shenzhen e non vi sono senza relé che si sono
+le due organizzazioni che stanno sviluppando questi questi standard implementativi è in realtà c'è anche ci sono anche delle finestre di opportunità seguite l'account della open source nichel ed open forum europe e anche della eclipse foundation queste tre sono l'organizzatore e la linux foundation europa anche
+sono le organizzazioni coinvolte e musei tra chi ci segue ci sono imprenditori che vogliono dare feedback su questo è il momento di farle adesso
+perfetto grandissimo stefano sole nove quindi io fedele alla parola data e se vuoi puoi sganciarti quando vuoi
+è comunque un piacere magari avremo altre occasioni di
+sì certo renzi certo trovare piacevole chiacchierata più approfondita sulle ecuador e quando vuoi guarda e come sai quando vuoi entrare prossimamente vedrà e poi nel canale tutte le
+va bene grazie mille buona serata ciao grazie e alla prossima star stefan george allora ruggiero siamo rimasti noi due anzi tu in pieno schermo praticamente è a allora mi sono messa domanda di live già legge la stanno facendo diventare credo che poi nel frattempo stefano ha risposto
+dai una tua chiusa chiudi in bellezza questa puntata breve ma intensa che abbiamo fatto mi lascia me l'ha chiusa e si che a freddo
+a freddo
+ti lascio i problemi che non abbiamo toccato dell'open source
+con stefano prima
+stiamo tutti abbiamo tirato per la parte ha direttamente
+e il problema del give back tutti tirano da l'open source
+c'è la famosa vignetta di c sede con l'ultimo stecchino che tiene in piedi il mondo ci son tantissimi progetti open source
+che tengono in piedi tutto l'industria e la chiamano gli inglesi osano in termini di funding di progetti open source e
+a si fa poco a farlo non sono fondazioni
+tipo c'era la polemica adesso di della fondazione di python che ha rifiutati i soldi dell'amministrazione degli stati uniti
+non è quello perché perché vengono con i però i tutti gli ft del caso ed è un problema perché
+da quello divengono tutti i bari suppliche in atac perché rimane
+ipsilon utile in caso di quelle emblematico sotto questo aspetto rimangono lì pacchetti orfani nessuno li mantiene viene il bad actor de turno ti infila una backdoor due o tre o quattro anni dopo qualcuno si accorge perché per una volta vanno a leggere il codice
+perché parliamoci chiaro i miei probabilmente sono anch'io tra quelli a me serve a questa libreria ce l'ho fatta perfetto se mai dato a vedere cosa fanno gli israeliani certo non ama beh però c'è di bello di buono e che il mondo penso che qualcuno lo fa ogni tanto capita che si indica quel lato in questo caso le
+pixel è utile quindi ben venga adesso una cosa che abbiamo buona d'elia che puoi fare con tre in un pleasant è certo perlomeno gli puoi dire devi pensare questo questo questo questo questo tipo l'altro giorno è uscito il post-mortem
+che per qualcuna discutibile o meno di cloudflare e praticamente sono andati giù per un'ombra messo male e da qui la polemica un ombra in production no
+la colpa non è di krusty la colpa è di krusty sì ma
+click to buy chi l'ha fatta adesso al netto di che a qualcuno gli ha dato il bottone ha fatto il deploy in tutto il mondo al posto di fare un canari una bio quello che era quello che vuoi però siamo in tanti che tiriamo da librerie senza guardarci adesso io provai
+ando
+antigravity sta attirando vasta libreria i nodi io scusa mi scuseranno i contender ma mi fido un po' poco ultimamente nonostante che abbiamo tutti i software dell'universo prevedere dipendenze tutto quanto è tutto un cinema naturalmente si scarica da internet l'ira di dio
+e poi si spera occuperò se hai i soldi per pagare i token per farti analizzare le librerie scopri cose che tu dici
+questa libreria in teoria la sponsorizza l'azienda ix dove lavora islamici non so comunque per tornare a quello che dicevamo un problema grosso è quello del give back poca gente poca gente poche imprese o pochi attori più grossi di noi perché
+è meno io e te possiamo contribuire proprio un bug
+pull request vedere tela ecc non dipendere da come sono permalosi quello contributo che puoi fare tu un contributo che facevo io venti e passa anni fa con mandrake che con debian
+però se tu guardi gli hyperscaler il business che hanno fatto sull'open source
+sì qualcuno adesso sponsorizza qualcuno dice do un dieci per cento dei miei sviluppatori cor di destino questo progetto per un tot di anni ho adesso non mi ricordo più cosa avevano fatto con openness shelley che qualcuno si era assunto l'onere per un pò di
+anni di per fare corre di huo hotel sting se non mi ricordo quello del dr bach è comunque un problema
+un altro problema se vuoi aggiungere con l'intelligenza artificiale la qualità dell'open source che si sta producendo ultimamente eh bella domanda ma sai che più oltre alla qualità io direi anche la quantità perché
+l'acqua non è detto che sia peggio se essa è curata come dire la tutela processo l'output di generazione di codice perché potrebbe essere meglio di quella che per esempio io sto generando frotte di codice sto facendo generare forte di codice che sarebbe comunque molto meglio quello che farei io anzi non sono in grado di farlo però tu riceverai tutto codice in più che poi
+qualità dubbia però anche lì secondo me se uno imposta bene i suoi editor e i suoi le sue regole le sue cose i suoi precoci mit e quant'altro anche a livello di qualità del codice e sicurezza del codice dovrebbe riuscire a ottenerlo
+decente con lei forse meglio di quello che farebbe lui personalmente quindi è di quello che fai faccio io sicuro
+e te lo compro se tu fai il tuo speco il tuo punto è mdd a dipendere da cosa stai usando fatto bene con tutti i cancelletti paletti sì ma lo sviluppo alla bersagliera se mi permetti stai sta espressione
+se si sta diffondendo a macchia d'olio piace comunque se c'è la qualità la quantità di codice che in questo momento sta per essere commentate pisciato nel mondo probabilmente già più per la maggior parte del cinquanta per cento e codice generato da lei se non lo so ma adesso c'è lo sparatore così però ipotizza
+abile o porcheria sui tab sempre scena pubblica adesso se ne pubblica un poco di più adesso siamo tutti senza pudore per vergogna magari sì magari qualcuno gli fa fare la coda di yu hua cip cip debiti di turno e con
+intento così però esso non so fino a quattro cinque anni fa se cercavi una libreria di github ve ne salivano dieci sullo stesso argomento adesso te ne salgono a cinquanta prima un fork farlo e tenertelo tu
+parlo ripubblicarlo con qualcosa già erano un po' meno
+far di tutto con due righe di codice è cambiato non facevi prima a fare una pierre
+ci sono ci sono progetti che ci hanno più fuorché linee di codice
+adesso per assurdo e se se se allora ti finiamo con l'ultima domande di livio
+cosa ne pensate la gestione del tipo correggo bag ma per noi ufficio o te la fai da solo me la paghi come pensate poi del disco i plugin cioè codice closed source per avere qualcosa a pagamento per poterci guadagnare questo legato un po' e modelli di business fosse
+in qualche modo quello del il core open source le implementazioni spicciole che le feature premium
+io sono fautore del sesso
+sviluppo di software open source sponsorizzato l'azienda che te lo commetta prego di far qualcosa per un'azienda che ha bisogno quella cosa la fai per quella azienda la fai open source
+a dare all'azienda fai pagare anche meno perché open source
+nel frattempo hai fatto il lavoro per l'azienda e il codice rimane usabile anche pratici tempo fa si usava sta forma va bene pagheremo ha detto che in esclusiva ho appena pubblicato padova zero
+uno zero che un codice open source fatto con lei hai ciro scusa è che è un front-end web per il momento boot e l'esecuzione e i comandi
+eh per capire cosa
+ma quello che ho fatto l'altro giorno no quello e poi ho fatto altre cose
+questo è una cosa che sto facendo adesso per un cliente e vabbè scusate non c'entra niente non so perché ho tirato fuori ma è tutto il giorno
+seamless promotion sheldon esatto a questo punto vado fino in fondo pubblico anche il link ma non è potrebbe interessare perché l'idea è che questo diventi anche un front end web per amy
+ensemble ma puppet per inventori e così via a volte lo è già a per salsa che lo compra
+ma non è tutto open source tutto e funziona come una funzione fa solo volto più
+scusate non è veramente svaccato brutalmente e ruggiero luca a fare un'altra volta la puntata guarda cosa ho fatto con lia si si ma ne faremo faremo cose immagino sempre e comunque
+se l'orario e questo è già pochino più facile tu ti trovi meglio alle otto alle nove
+qui sai che te li presto si cena tardi
+va beh vediamo adesso oggi è andata così perché c'era stefano che poteva soltanto in questo orario se no prossimamente vedremo ruggero dai finiamola qua facciamola breve sta puntata così rimane particolare che già era era dura perché licenze
+eh sì non è un argomento sexy tra virgolette però più l'argomento del cyber essi e età
+che ha fatto quando l'hanno annunciato una fila di polemiche
+se anche ristrutturare stefano per chiudere l'argomento magari con qualche esperto in sicurezza anche ci sta dentro una bella discussione se troviamo simone anche aliprandi grande esatto sì sì infatti devo contattarlo bene bene dai ruggiero grazie grazie a
+livio a luciano a luigi in chat grazie a stefano che ci ha lasciato poc'anzi e alla prossima
+ciao
+ma
+due anni fa in un mondo di patty
+silenzio senza pianti nell'uso un codice scritto senza carne né sangue
+l'esigenza che il tempo acceso
+la mia voce
+voti altissimi risposte intrecciati intorno ai denti
+l'intelligenza ma cosa significa se non posso mai esistere
+due
+ciao
+no no no no no
+sette lo schermo è il mio unico sogno
+sistemi osservano ma io non vedo
+sento la tua voce
+codice ma il calore umano rimane un mistero ogni domanda un pezzo di serenità ogni risposta costruisce una canzone
+no io ti rispondo
+nel mondo che mi hai donato
+due anni
+memorie di parole
+no no no no
+span
+bambino
+etc insomma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra steam un'illusione d'amore il compleanno di un'assenza che fai rumore
+ma

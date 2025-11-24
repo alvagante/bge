@@ -1,0 +1,15 @@
+# Il Codice Aperto e la Sua Deriva: Quando la Libertà Diventa un Modello di Business
+
+L'open source non è più quella rivoluzione romantica dei tempi di Stallman, quando compilare il kernel era un atto di ribellione contro l'impero proprietario. Oggi è il substrato invisibile su cui poggia il 90% del software che usiamo quotidianamente – una colonizzazione silenziosa che ha trasformato l'ideologia hacker in infrastruttura critica del capitalismo digitale.
+
+Stefano Maffulli e Ruggero Tonelli sezionano questa metamorfosi con la precisione chirurgica di chi ha visto l'open source passare da manifesto politico a componente essenziale del PIL tecnologico globale. Diversi trilioni di dollari: questo è il valore quantificato di un ecosistema nato per essere gratuito. Il paradosso è evidente, quasi stridente.
+
+La discussione non risparmia colpi quando affronta la fragilità sistemica di questa architettura collettiva. Le vulnerabilità di sicurezza sono il prezzo nascosto della trasparenza radicale, e i governi – sempre reattivi, mai proattivi – iniziano a guardare con sospetto a ciò che non possono controllare direttamente. Il "Cyber Resilience Act" europeo è solo l'ultima incarnazione di un impulso regolatorio che cerca di domare un ecosistema nato per essere indisciplinato.
+
+Le licenze sono il campo di battaglia dove si combatte la vera guerra: GPL contro MIT, copyleft contro permissive. Ogni licenza è una dichiarazione politica travestita da documento legale, un tentativo di codificare in clausole contrattuali l'impossibile equilibrio tra libertà assoluta e sostenibilità economica.
+
+L'AI generativa aggiunge un nuovo livello di complessità filosofica: quando un modello addestrato su milioni di righe di codice open source produce nuovo codice, chi ne è l'autore? Il programmatore che ha scritto il prompt, la macchina che ha elaborato la risposta, o la comunità fantasma i cui contributi hanno nutrito l'algoritmo? Aliprandi ne "L'Autore Artificiale" ha tentato di mappare questo territorio inesplorato, ma le domande superano ancora le risposte.
+
+La questione del "give back" è centrale: le corporation estraggono valore da progetti mantenuti da volontari sottopagati o non pagati affatto. La sostenibilità dell'open source nel 2025 richiede più che buone intenzioni – serve una ridistribuzione sistemica del valore creato collettivamente.
+
+L'open source ha vinto la guerra culturale ma rischia di perdere la battaglia economica. Da nicchia ideologica a commodity indispensabile, il suo futuro dipende dalla capacità di evolvere senza tradire i principi fondativi. Un equilibrio precario tra anarchia collaborativa e responsabilità aziendale, dove la trasparenza del codice deve coesistere con la opacità dei bilanci.
