@@ -1,0 +1,13 @@
+Nel vasto panorama dell'intelligenza artificiale, dove il cloud ha regnato sovrano, un nuovo paradigma si fa strada: l'AI locale. Nell'episodio 103 della Brigata dei Geek Estinti, i relatori Michele Sciabarra e Marco Guardigli ci guidano attraverso le intricate vie dell'hardware e del software necessari per portare l'intelligenza artificiale direttamente sui nostri computer. È un viaggio che non si limita a esplorare tecnologie, ma si addentra nelle implicazioni etiche e nei rischi insiti in questa evoluzione.
+
+Con un'analisi acuta, gli ospiti mettono in luce i vantaggi delle soluzioni locali: privacy, controllo sui dati e la capacità di personalizzare le implementazioni. La conversazione ruota attorno all'architettura hardware, dove schede di accelerazione e unità di elaborazione neurale diventano protagoniste. L'idea di modelli neurali quantizzati emerge come un faro, promettendo efficienza e costi contenuti in contesti specifici.
+
+Ma non è solo una questione di tecnologia. La privacy e la sicurezza sono al centro del dibattito, con allerta sui rischi di esfiltrazione dei dati in un'epoca in cui il controllo diventa sempre più sfuggente. Le interfacce conversazionali, invece, si rivelano come strumenti di interazione capaci di semplificare l'accesso alle informazioni, riducendo la necessità di complessi manuali.
+
+La riflessione si amplia, abbracciando la necessità di nuove competenze nel coding, dove l'AI stessa si fa assistente nella generazione di codice. I relatori mettono in guardia dai rischi di affidarsi indiscriminatamente a soluzioni AI pubbliche, sottolineando l'importanza di un approccio critico e consapevole.
+
+Progetti open source come Apache Open vengono citati come esempi di collaborazione comunitaria, un elemento cruciale per migliorare le soluzioni di AI e abbattere barriere. La discussione si chiude su come l'AI locale possa rimodellare i modelli di business, conferendo autonomia alle aziende e riducendo la dipendenza da terzi.
+
+In questo contesto, il futuro dell'intelligenza artificiale si profila come un territorio di opportunità e rischi, dove un approccio etico non è solo auspicabile, ma essenziale per preservare ciò che ci rende umani. Come un novello Prometeo, l'umanità deve affrontare il dilemma di creare senza perdere il controllo. La vera sfida è non solo accettare il cambiamento, ma saperlo guidare.
+
+E mentre ci avventuriamo in questo nuovo mondo, ci si domanda: quale sarà il costo della nostra libertà nell'era dell'AI?

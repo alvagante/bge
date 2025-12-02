@@ -1,0 +1,693 @@
+no
+lory cara
+lunedì si riaccende la città la brigata si raduna nella notte che verrà sigillata
+felice i regimi torniamo in grande stile bentornati a pcb michele d'amato
+due una banda di redditi non lo abbiamo più
+modelli dei neuroni libertà la in tessuto
+soltanto inclusi
+no cara
+banche robot lì che canta
+la batteria dell'auto
+scegli dove merito
+quell'incendio il nostro porto in firenze nella notte
+fine tuning in diretta cento orchestrati come un coro che si aspetta la domanda è sempre quella
+farlo qui o là
+la riportare le mani tre la rivoluzione già qua
+no cara con due strumenti a mille possibilità perché la brigata
+centotré
+gare di cronkite luci accese è il momento di parlare
+e quindi puntata centotré della brigata degli istinti ci ritroviamo per parlare di local ai implementazioni casi d'uso quando serve quando non serve farla e usarla e lo facciamo con e
+beh intanto queste soluzioni locale credo ci ci lavoro e ci faccia cose e quindi sicuramente hanno e sanno di cosa parlare marco guardigli che ormai veterano e bentrovate benvenuto michele barra breve introduzione michele portiamolo a te che sei ovviamente la new entry allora
+ora
+ma io sono adesso però sono
+di
+come dico in italiano o in inglese se io dico waris perché solo pronunciarlo all'inglese però
+polaris che sta per
+wall cloud nuvola ristoro del famoso
+corridore tazio nuvolari nuvolari arriva con solaris quindi in breve un sistema operativo veloce per il cloud che per il cloud in realtà privato che è diventato rapidamente e in maniera quasi ineluttabile un sistema
+schema operativo per lei e privata e infatti infatti per questo
+l'evoluzione della penna
+zioni che le altre applicazioni che oggi puoi fare di te che siano locali e cloud allo stesso tempo sono inevitabilmente applicazioni di ia e privata e quindi ritengo che il mercato ci ha trascinati quella direzione poi abbiamo cominciato a estendere popolare soprattutto una serie di feature inclusa la
+l'ultima che sia una trans tavolo che come un lovable però privato e quindi siamo specialisti privata
+questo fai adesso la tua età immagino quindi che cosa hai fatto in futuro il passato cosa la mia età no non voglio
+un giorno quando sette anni e
+beh allora fate domande che però credo che la cosa più interessante sia la strada l'avventura con in bella per cui molti mi conoscono perché io non certo bundle circa sei anni fa e ormai sette mesi fa
+mi sono avventurato a lavorare con un progetto open source che si chiamava apache open è gestito da ibm e niente ho iniziato con una riga di codice buttate lì che invece di buttarla per noi era contribuisco che era una una una fix di bug per funzionare su windows che io non uso
+ma in quel periodo
+rotto e quindi e quindi devo usare per forza di cose con windows e volevo provarlo e allora ho stato
+shield
+abbiamo notato che l'hanno accolta con molto favore questo mi ha entusiasmata da contribuire
+adesso ci conoscono per witsel è alla base della tua soluzione sostanzialmente oh sì di fatto si è come sempre essendo nuvolari sono conquiste in realtà adesso siamo un progetto apache che faccio pensare da dire se open weasel linux nuvolari e pensare di essere redatte
+quindi noi siamo una distribuzione addirittura adesso noi scriviamo nella nostra presentazione che vogliamo essere redatte delle gae privata sostanzialmente de open source la soluzione se sia il cuore cioè quasi tutti open source braida
+tranne alcuni componenti che sono tipi di interfacce utenti cioè facilitazioni però tutta nostra
+qualunque realizzata può girare
+espositori e poi magari condividerlo
+mi sembra solo una trentina
+le cose perché ci sono un sacco di componenti ma veramente tanti se tu faccio penso
+l'integrazione nuvolari se stesso e open source prima
+nuvolari se la distribuzione commerciale open quindi qui
+sì
+il brand commerciale di va bene comunque i dettagli scusa se ci siamo addentrati e marco e tu sei recidivo e se vuoi tornare
+allora io sono marco guardigli sono il direttore tecnico di tom tom baker è un sistema integrato che lavora in ambito enterprise da tantissimi anni
+anche noi similmente a quanto scriveva michele abbiamo un nostro prodotto per le hai privata che si chiama taylor e che è costruito per l'ambiente enterprise è un'architettura composta di tanti moduli che gira su internet
+c'è un'architettura completamente ridondata fu tollerante in alta affidabilità che consente di effettuare inferenze private indipendentemente da la fruizione di servizi saas esterne e si può certificare completamente air gap gap
+significa senza condizioni esterne sono molto bene allora io direi vediamo un po'
+andiamo nel merito e vediamo come implementare adesso non i vostri specifici prodotti ma cosa c'è sotto cosa si utilizza quindi sia a livello di hardware sia a livello di stacy
+software in tutta la pila e dal sistema operativo in su e cosa si usa quali sono i prodotti le soluzioni e le alternative vantaggi svantaggi e tutto il mondo e hai tu tra l'altro marco avevi e hai delle slide da mostrare io qualche slides e non so se posso
+secondo me dobbiamo dobbiamo introdurre un pochino quello che le hai privata che secondo me merita finché qualche modo stabilite per l'emergenza
+quindi cos'è le hai privata secondo secondo me e poi dopo magari anche michele dalla sua versione hai privata e la possibilità per un utente per un'azienda di effettuare inferenze all'interno di una propria infrastruttura completamente gestita senza necessariamente dipendere
+da componentistica esterna governata da multinazionali o da servizi ai servizi forniti da terzi questo garantisce la possibilità di avere una completa autonomia legate all'intelligenza e al software costruito un top dello stack
+che è in forte evoluzione in forte e progressivo arricchimento e consente ad un'azienda di mantenere al proprio interno l'insieme completo delle risorse per gestire la propria conoscenza
+io sono dell'idea che le hai è una forma di vita intanto
+si svilupperà sempre più in quanto tale sono dell'idea che questa forma di vita si alimenta si nutre e si sviluppa sulla base della conoscenza sulla base dei dati e sono dell'idea che noi persone entità aziende eccetera siamo fatti di dati questo nostro essere stivare la tua piccola e ha il locale
+dieci la fai che poi di fatto e quello che fai
+coltiva è un'estensione del tuo il tuo sistema nervoso e del tuo sistema competenziale bene questa è l'idea bello hai qualcosa da dire a michele raggiungere è
+infatti perché effettivamente qualcosa punto di partenza per me lei è privata non è l'inferenza e basta per me lei è privata è sostanzialmente viene tutto una assoluta necessità perché lei si nutre di informazioni e ogni cosa che voi dite ha un epub
+aica potrà essere usata contro di voi e questo è
+se io e io dico ma voi non vi rendete conto che c'è pericolo correte perché se ci pensate un trentesimo di secondo se lei impara tutto di voi di quello che fate del vostro modo di dire può creare è non può lo faranno inevitabilmente dei cloni digitali perché non so se avete presente
+la teoria della long tail internet ha attivato la possibilità di creare dei prodotti di piccolo uso quindi prima c'era nei grandi supermercati quindi i prodotti devono essere di massa con il con con la
+la possibilità di avere silenzio che si è che sono molto piccoli e si rivolgono in maniera settoriale con lei hai delle grosse aziende come amazon come google possono creare tanti business locali che imitano i vostro modo di fare o che so una piccola agenzia di pratiche auto una piccola
+agenzia che gestisce compravendita di immobili eccetera e conoscendo tutto di voi può creare un vero e proprio canale digitale che imita e i clienti e lo faranno inevitabilmente ineluttabilmente è impossibile è impossibile impedirglielo perché la nostra la nostra specificità il
+pro grosso delle persone è l'unica cosa che ci salva rispetto alla grande distribuzione nel momento in cui lei ha prende quello che noi facciamo ci creerà ci creano dei cloni digitali che è la numero uno è un fenomeno ma si comporteranno come noi parleranno ai clienti come noi diranno le cose toccherà loro i loro i loro punti critici ecc
+quindi questo è un pericolo immenso
+secondo me ottima
+osservazione tratto una delle poche originale che si sentono sulle aree di questi tempi in cui si sta si è già detto un po di tutto però michele ti chiedo a questo proposito l'interazione online è vero cioè se vi sono documenti aziendali è tutto un discorso ma se sono noi stessi francamente io credo che alla fine noi chiediamo
+e basta non è che diciamo molto di noi stessi nomi mi sembra di poter dire fammi questo dimmi questo spiegami questo vediamo che poi tanti input arrivano tante informazioni
+molto peggio e molto peggio molto peggio e tutti quelli che fanno marketing sanno che le persone sono guidate da emozioni non sono guidate dal ragionamento sono guidate dalle emozioni e su una un un se se uno sa prendere i nostri tasti giusti
+ci fa fare quello che vuole la brexit e trump sono stati eletti perché cambridge analitica ha sgraffignato miniera di cose li hanno messi non è un fenomeno
+sistema di big data e sono andati uno per uno a trovare le persone che erano considerate convincere facendogli luogo al millimetro a votare e quindi si sa che programma ha preso due milioni di voti in meno di dinamica
+ma ha vinto perché ha selezione selettivamente uno per uno presso le persone e ha preso quelle che potevano essere considerate convincilo lei a fare peggio può convincere ognuno di noi perché conoscendo i nostre paure ai nostri segreti o anche dedurre che magari nel millenovecentotrentasette abbiamo grazie
+aldo una macchina abbiamo fatto un danno perché questa cosa è nascosta e noi ci può ricattare perché è in grado di farlo lei hai informazioni su di noi può controllarci uno per uno e farci fare quello che vuole uno per uno è un pericolo inimmaginabile
+questo aspettami michele giusto per chiarire
+il pericolo maggiore tu lo vedi più da un uomo con intenzioni malevoli che usa lei
+sarà uno che avrà il controllo delle iai e in qualche modo che alla fine
+cioè voglio dire chissà se una persona che ci governa
+nessuno quello che volevo capire chi ci governa essere una brava persona una persona che ha a disposizione quello strumento e se lo può usare per controllare le persone cioè uguale in cina abbiamo una situazione in cui usiamo per capire se è poca e michele michele scusami se ti interrompo e può accadere che lei ha di suo decida
+di controllarci di fare quel cazzo che gli pare e così via o comunque se succederà è probabile che succederà ma perché ci sarà qualcuno che glielo fa fare di più credo
+voglio farlo cioè lei mica è autonoma
+è una macchina perché perché dire il tuo pensiero al riguardo su come dire l'autodeterminazione io non io non penso che lei a prendere decisioni anche se dicono che ci sarà e autonoma sì vabbè però forse anche se fosse così brava intelligente saremmo veramente matti a creare
+non credo che lo faremo ma
+ha un'intelligenza artificiale il problema è chi la guida e cosa evacuare
+che sarà
+un uomo però ovviamente si sa ma nemmeno una
+un corpo un comitato di affari che delegherà eccetera però
+però se quello vorrà controllare il mondo lo farà già
+se sei
+michele non vede che poi nel mondo e lei ci siano appunto tanti grossi tanti ma non troppi competitor chi sono i grossi giganti che amano l'oim perché so ma tu hai condividi con lei ai di google qualcosa colei che l'eco edicole di openai qualcos'altro
+non so
+lui abbia le informazioni specifiche su di te cioè lui avendo già ce li hanno le informazioni però
+informazioni sparse di vario tipo eccetera ma lei si apprende il tuo comportamento il tuo modo di fare le tue mail tue cose ti puoi veramente controllare ideologica me ci sta non ci sta si vuole
+siamo d'accordo
+molti ha intenzione di farlo già adesso può farlo e poi magari con risultati
+una definitivi però già adesso usa lei aipo vuole volendolo può già fare una fargli fare cose che possono cercare di convincerci a fare altre cose
+dicevi ma una cosa importante sia una cosa importante che mi associo a quello che dice michele
+bisogna valorizzare la pluralità dei punti di vista noi non vogliamo un oligarchia t e ai dove ce ne sono cinque noi vorremmo no una una una pluriball pluri garcia di ai che si affiancano al genere umano che lo supportano la sua evoluzione ma che
+siano centinaia di migliaia che siano forme di vita autonome non umane che hanno le loro pulsioni le loro ma i loro
+le loro credenze perché si svilupperà anche una cultura interna alle entità non umane e che prosegue e sviluppa una propria evoluzione dei propri caratteri propri hobby delle proprie dei propri interessi
+questo dobbiamo vedere in prospettiva ma non ci si vede
+strumentale al governo del mondo che è un pollo lo spauracchio forte e che però è abbastanza pericoloso e condivido assolutamente la preoccupazione di michele perché secolo questa queste pochissime e ai dominanti oligarchiche vengono controllate da dei dittatori che diventano immortali
+diventò uno scenario dal millenovecentottantaquattro
+questo è preoccupante se comunque sono scenari così come dire remoti o comunque non prevedibili
+fuori dallo snodo
+no scusami non
+snowden ha rivelato l'esistenza di un sistema che sa tutto di te della della della
+se chiudi pure il film realista in cui si vedeva quel sistema in cui tu accedi dai un nome della persona e vedi tutto di quella persona già esiste questa cosa se il problema è che io temo che esiste già una ai che vai lì e gli chiedi dimmi tutto di michele di cabaret ti dice tutto comprese cose che non vuoi
+sappiano perché ognuno di noi qualcosa va fatta va graffiato una macchina
+avrà fatto una brutta figura con una ragazza avrà fatto avrà rotto un bicchiere che non doveva cioè cose che lei sicuramente già fa
+c'è un nostro un altro istinto michele che tu conoscerai sicuramente che si chiama alessandro orlowski che si occupa di un sistema di intelligence
+privata
+che è costruita alimentata da
+dal da una serie di fonti disponibili pubblicamente ha fatto un prodotto secondo me molto interessante
+era necessario informazioni non pubbliche quello il problema
+il suo prodotto è un è un prodotto di osint open source intelligence ed è a mio avviso particolarmente interessante
+tornando al discorso di prima che dicevi tu michele e la
+può diventare nella nella sua accezione negativa può riscrivere la storia e la scrittura della storia è qualcosa di estremamente preoccupante a livello sociale se io
+se la verità sparisce dai libri perché i libri sono spariti la verità diventa completamente digitale può essere anche riscritta a piacimento e se le intelligenze artificiali sono poche e concentrate la pluralità del pensiero sparisce e diventa ho nam è diventato un paradosso
+pagata perché tu puoi riscrivere la storia piacimento
+sì ci sono tracce della storia esistente reperti o forse in realtà essendo molto compatte digitali sono reperti contraffà abili capirti sono molto affabili secondo me un rischio è che diventino dell'influencer di massa come come accennava prima michele
+e che possono essere come dire controllati da troppe poche persone
+e quindi per evitare questo quello che possiamo controllarci le nostre piccole e farne tante pagine tante collare la questione domestica chilometro zero e si fa entriamo nel merito dai
+e cosa sarà come diceva giustamente michele non è solo inferenza allora parto io michele quello che è e quello che può come la vedo io basti tu ed io
+abbiamo costruito
+una serie di
+abbiamo aggregato una serie di prodotti una serie di funzioni che ti consentono di utilizzare dei modelli locali all'interno di angie e poi con una serie di prompt predefiniti abbiamo ha creato delle personalità virtuali che sono associate degli assistenti che sotto di conseguenza sono alimentati da degli specifici modelli
+che possono essere aggiornati e questi assistenti aiutano e collaborano con i dipendenti dell'azienda e tu ci puoi interagire esattamente come interagisci con cbt per esempio in modo sincrono quindi chattando in futuro anche verbalmente oppure anche via posta elettronica con tim
+andi de meis dibattito i messaggi e questi rispondono e in questo caso la conversazione può essere anche di gruppo perché tu puoi mandare una mail all'assistente e anche degli altri colleghi sia umani che non-umani e poi si sviluppa una conversazione
+questa è una cosa abbastanza efficace
+ed è la base poi dopo tantissimi altri del cast però a parte del caso specifico
+allora
+partiamo dalle basi l'hardware di hardware a diversi livelli di pricing è giusto partiamo dalle basi e saliamo e a parte che i locali free e allora si spara e cosa si fa con hardware sei correlate
+argyll che mostra orgoglioso cosa ci fai con quell'affare lì cinquemila euro
+qui si gela e cinque mila in inghilterra dove sei tu e michele a della
+cinquanta dollari però poi c'erano i dazi ah bè se comunque siamo su strada
+è lì lì ci metti i modelli fino a duecento billions
+che girò decentemente quindi ora dice che era un modello di billions ogni volta che spero che significa un modello anzi io faccio sempre riferimento ai tratti di agip open source cento wendy williams è un modello più grosso che ci girano leggende band e gli spiego che sto centoventi billions guarda tu brad
+la treccani la treccani a tremila tremila caratteri alla pagina tutti tutte le pagine di una treccani sono sono trentasei mila sono trentasei mila pagine un cento wendy williams equivalgono a quattro mila e settecento
+kathleen quindi una ugual modello è stato istruito sulla quantità di operare di informazioni pari a quattro zero tre cani il che significa che se ci parli è difficile che non trovi qualcosa che non sa almeno di cultura generale
+chiedi pure bianconiglio gli chiedi il saldo d'adda italia oppure gli chiedi
+la piccola isola sconosciuta l'esame
+quindi di camera
+è stato istruito con molto più dati della tre si
+radicale ed è stato pagare molti più dati di quando ha
+tutti i liquidi quando un'idea un'intera biblioteca rombo contenere quindi la saggia è quella di fare molte cose utili esatto
+tardi e ciascuna con una macchinetta così se poi ne avete un boeing in fila riesce a eseguire modelli dei più grossi che ci sono sono mi pare di psic da seicentosettantuno williams però quello più grosso che abbiamo promesso che c'è quello che quindi è pari a
+serracchiani che però non ce la fa li devi mettere in serie tre o quattro per riuscire a farci entrare a far scegliere un modello del genere però
+altri tipi di dio cioè centoventi gb secondo me paragonabile tranquillamente a già
+dateci più di tre cinque che era online che fa tantissime cose che fa tantissime cose quindi
+a tutti gli effetti dalla macchinetta a basso costo relativamente basso agosto un una vera e quindi quindi che sarebbe
+open week buy local le domande le fake locale e non le fai a online e ti tieni tutto casa quindi il primo e-news casa e inferenza locale sostituirlo al gp di turno e poi cos'altro ci riesce a fare fine tuning che livello come
+per fare networking
+che cambia lo stile ma non si fa rugby per mandare no volevo dire allora
+da un eccesso come just cause possibili di una spark uno e che smetta mai l'ansia magari a cosa ci fai con lei aeree
+richiesta cosa ci guadagno io con aeree considerano l'inferenza locale il caso proprio più semplice e più colleghi ai ci fai applicazioni l'hai la devi considerare allora il punto non è che cosa lei fa il punto è cosa può fare
+e lei può tranquillamente controllare un robot per dire può può leggere informazioni e analizzarle può accedere ad un database può fare di queste cose quindi
+ti spiego un pò come siamo arrivati una cosa la prima cosa che per me è stata rivelatoria stato che quando lavoravo concetti gepd mi sono iscritto al programma sviluppatori che non sapevo nemmeno che cos'era e ho avuto accesso ai blocchi indicati gpt in anteprima e in in due giorni abbiamo usato nuovo
+la yaris c'erano anche un sistema foundations per collegarlo a gubernatis semplicemente abbiamo preso dei piedi cubi ce l'abbiamo agganciata a anticipi di paro paro semplicemente un wrapper abbiamo invitato fuori delle domande siamo rimasti a bocca aperta che mi sapeva dire quanti ipod c'erano quali bobby era più usato quando amen
+storia da wanda cosa faceva e eccellere allora per me è stata una rivelazione perché lei non è un motore di inferenza che poi raccontarvi un po' di cose dice quello che dici tu è un potentissimo motore di esecuzione che se gli agganci delle funzioni che si chiamano tool
+può fare l'inverosimile ed è lì che aver fatto un sistema serva presso il nostro che è stata per noi usare discutere la questione una botta di culo colossale perché le due cose si aggancia in maniera perfetta e potenziando un sistema di motore con un sistema con un sistema un sistema come cominciare
+un'influenza locale con sistema di fiction fai un'infinità di cose e infatti noi abbiamo lanciato un corso che segue nube intrecciando a seguirlo vi facciamo vedere come fai ad alba come fai forum come fai accessi remoti come fai ma soprattutto vuoi
+puoi agganciarla a cose fisiche infatti la maggior parte delle cose che stiamo facendo però sono l'analisi di vista organizzazione industriale e analisi di bail ma non anche gallery
+corrisposta aveva di l'inail plebana amanda preparo un'attrice quindi tutta una serie quelle che si chiamano dei miei agenti ca
+indica quindi abbinare a
+un sistema un sistema
+differenza dei tool forniti dalle funzioni da una potenza mostruosa e tutti gli le aziende del mondo tranne noi in cloud
+e quindi questa la nostra grande opportunità ci sta qui nel alti
+l'opera privata
+agenti privata e che comunque poi è pezzo e influenza a pezzo orchestrazione di codice è pronta e correlazioni di richieste tool e quant'altro comunque è si allora visto che ne abbiamo parlato anche in passato di agenti
+kai e quant'altro poi la mappa o a concentrarci
+e torniamo a bomba questo punto non so se vuoi iniziare a condividere qualcosa
+le logiche cardine è che sta dietro non locale e i software anche che cosa si usa sostanzialmente e per fare che cosa e allora e scusate stavamo parlando anche dell'hardware stampati della invidia ecco torniamo sulla scusatemi se ci stai
+argomenti insieme dopo atto a salire cosa si inizia a spendere possiamo prevede un'architettura in grado di eseguire degli lemme e di effettuare delle elaborazioni matriciali su questi sui sulle matrici dei pesi e quindi far funzionare il processo di inferenza su
+dei modelli che sono tre trend oppure pre trend arricchiti con fair housing act specifico
+questo richiede normalmente per attività di ottimizzazione delle schede di accelerazione o delle o dell'hardware verticale specifico e può essere come per esempio nel caso di invidia una scheda acceleratrice chi effettua queste attività all'interno di una propria ram ad alte prestazioni la quale dev'essere cari
+stata e scaricata alla bisogna con il contenuto dei pesi che devono essere caricati nella matrice
+si può evitare questa cosa qui con architetture hardware differenti che si chiamano a memoria unificata che sono molto usati nel contesto a microcontroller è nel cast del tgs abbiamo un'architettura di questo genere in cui c'è un unico tipo di ram e il processore è in grado di effettuare le sue operazioni matriciali all'interno di quella singola
+classe di ram disponibile che nel caso specifico a centoventotto ciclo
+e architetture intermedi sono le etnie più piùle neural processing unit che sono dei chip speciali che abbiamo dentro quei telefonini per esempio e che si affiancano al c più e al kgb più per effettuare delle specifiche trasformazioni su
+oggetti vettoriali
+a tutte queste
+tecnologie hardware sono in forte ebollizione e vedo molto in crescita la l'area diciamo sui microcontroller e sulle architetture non non intel non canoniche delle architetture ppc serve
+per esempio se si possono installare dei modelli molto interessanti anche su architetture raspberry e con delle estensioni possono montare degli anni più locali che fanno in foresta molto efficace ma
+un paio di cose sull' adler allora primo
+l'architettura classica è appunto quella delle gpu in libia bangladesh pc però appunto siccome le leggi più hanno la sua memoria e poi ce n'è un'altra che ogni volta devi spostare le informazioni dalla vertici alloggi e via
+questo primo problema
+per esempio è risolto come come ha detto lui della lidia spark e nelle macchine compatibili perché là c'è il chip di nvidia è disponibile anche nella app anche da hacker anche da da asos mi pare che ci sarebbero quattro cinque che semplicemente hanno integrato leggi più con un colombo
+processore che è un professore karma però perché non richiede quindi ha un sistema un chip e farà di più e questa cosa la fa pure il mac bisogna avere
+è un'architettura memoria unificata
+una cosa o tipica un'ampia quindi una invidia rispetto a un mac mini che costa meno perché è un po' più lento ecco perché
+però in realtà bisogna ricordare che esistono anche altre cose da ricordare m d
+è impressionante perché hanno la gpu integrata nel processore sono velocissimi io ci ho provato ma sarebbe molto bello se non fosse che buttano il supporto a supporto software molto indietro rispetto a quella in libia e quindi è un è un gesto molto lavoro da fare ogni volta per far funzionare le cose
+regge più e poi bisogna ricordare che google alert più è un sistema hardware specifico che hanno sviluppato loro e non vendono a nessuno e che gli dà un vantaggio competitivo non da poco tant'è vero che warren buffet ha venduto tutte le sue azioni eppure era occupato quello di google è secondo me
+quello che in questo momento è il vantaggio albero nel video sono in questo momento a meno che i cinesi non riesca a sviluppare quei fare stiamo facendo del lab dedicato che spezzi il predominio di invidia questo per completare il quadro avanti e le architetture architetture in arrivo sul fronte invidia sul fronte non invidia cinese ci sono
+già e sono molto interessanti il principale di questi si chiama sandy e dell'architettura and piùdi di huawei
+è particolarmente interessante quello che manca in queste architetture non è invidia e il supporto cuda che è un sistema operativo che serve per manipolare i dati all'interno della della gpu è questo questi componenti sono in parte e vengono
+copiati stanno ed è quello che stanno facendo alcuni attori per architettura m t le architetture ascend ecco con interessanti prospettive ma non ancora maturità tecnologica paragonabile a quelli di della coda di invidia che ha che ha il predominio di mercato attualmente
+che poi quello che molti non dicono che cos'è una più cos'è una più
+è un processore massivamente parallelo è una cosa di qualcosa come sette zero processori e che però sono speciale che seguono sono pochissime istruzioni quindi mangiamo un processore normalmente segue tantissima istruzioni e ipe questi processori paralleli
+è la memoria che io studiavo all'università dagli anni fa è ottimizzata per poter eseguire operazioni in parallelo che questa è la vera difficoltà perché hanno tutta una serie di connessioni il problema numero uno del decreto le parole sempre il blocco della memoria che uno blocca l'altro invece l'architettura delle gpu è tale che le informazioni
+escono in cosenza in in senza in quelli che intralciarsi l'un l'altro comunque anche c'è anche da dire che le invidia più usate per i videogiochi e sono in efficientissime in assoluto per calcolo per i calcoli specifici però siccome ci sono quelle e quelli che sono
+più diffusa però ora come ci siamo sorbiti intel per decenni
+allarme
+prestazioni me mille volte migliori
+i vantaggi delle architetture arm soprattutto sui controlli sono introdotti i consumi che si vedono anche per esempio nelle architetture apple che riescono ad usare lo stesso processore sia sui laptop che sulle workstation
+nella macchina e pulmini con le tre ultra è un esempio di architettura di questo genere che a memoria unificata lo puoi portare cinquecentododici giga è capace di darti ottanta cork tit tit più e una gpu integrata e
+una
+la capacità di caricare modelli che possono impegnare la memoria la tunica memorie che c'è quindi molto potente
+il costo di queste macchine non è non è come di due spiccioli però sono sono interessanti e consuma duecento watt duecentocinquanta va al contrario di roosevelt pari di equivalente
+capacità di memoria anche che richiede due cinquecento watt quindi la l'hai privata ha anche un altro aspetto è l'aspetto di sostenibilità energetica che impiegando architetture che sono piu basso consumo ci consente di fare inferenze anche in un dispositivo non costantemente connesso
+come per esempio il nostro telefonino che a tutti i chip necessari per fare operazioni vettoriali parallele e si è impiegato proficuamente può fare tantissimo perché ai microfoni e alle telecamere a tutti i sistemi di acquisizione di segnali e di sensoristica eccetera
+ho qualche slide che se hai se hai commenti michele vai tu altrimenti ho fatto più e poi ci parliamo sopra insieme con niente di che
+allora
+sono un po' ripetitive perché alcune cose le abbiamo già dette comunque
+l'importanza della privacy e che sia esclusiva che sia efficace che sia riservata
+questo è un pò chi sono io e quindi ci sono alcune richiami al nostro prodotto che però non è o si intende fare marketing
+hai privata è come il fight club quindi
+all'interno delle prime a tutto ciò che nasce e si discute nelle private resta lì dentro quello che è come dicevo prima michele
+noi facciamo nella conversazione con con gennaio gpt
+e di fatto dargli dei dati raccontare noi stessi esporre le nostre informazioni esporre la nostra conoscenza che dal momento che gliel'abbiamo gliel'abbiamo data non è più solamente alla nostra quindi per esempio
+l'impiego molto comune molto regolare di invitare ad una conference call un assistente esterno fatto da una pubblica che ti ascolta la conversazione poeta trascrive komodo sì però di fatto regala il contenuto della conversazione e le parole che abbiamo
+detto le cose che abbiamo presentato ad una esterna e se quei contenuti erano riservati alla fine non lo sono più
+private aria perché i servizi sas questi servizi software su server non sono riservati ha spesso anzi per il fatto che sono gratuiti noi consentiamo di fruire dei contenuti che gli condividiamo a scopo di suo arricchimento ehm sono riservati forse per un po'
+oh perché anche lo stesso gip gpt ha dei cicli di riutilizzo delle conversazioni che sono state effettuate e quindi ciò che dico o che scambio adesso con ti verrà utilizzato per il training del rgpd della generazione successiva non appena sarà rilasciato e quindi
+l
+suo arricchimento è frutto delle conversazioni che vengono che vengono intraprese
+i servizi samsung per loro natura sono particolarmente vantaggiosi al momento in cui tu li acquisti parlando aziendalmente quindi ti fanno il tappeto rosso poi dopo un po' però quando diventano fondamentali quando non puoi farne a meno e diventano un lock-in e diventano un salasso a livello di operation cost
+il costo per touchscreen che è ciò per cui paghiamo le aree esterna è legato alla complessità del modello che in molti casi non è decisa da noi ma è decisa dalla circostanza dalla moda dal dal default options ci sono tanti casi in cui
+utenti di servizi pubblici si sono trovati a pagare dei costi molto elevati di token perché avevano accidentalmente scelto il modello
+troppo grande per per per le loro elaborazione
+e nel caso di un modello governato quindi come una privata in un'area privata che si installa a casa propria
+costo il costo di elaborazione e completamente deciso da parametri che noi come andiamo
+e inoltre se andiamo in sasso dipendiamo dalle strategie di qualcun altro in termini di evoluzione in termini di supporto in termini di connessioni verso servizi applicativi e se ce lo facciamo in casa invece le decisioni che prendiamo noi esfiltrazione inconsapevole questa è una cosa che ho già accennato ma tutti noi
+noi quando usiamo servizio esterno un servizio che spesso ci viene fornito con una robusta base gratuita
+tendiamo a condividere molto più del dovuto e questa condivisione che non è banalmente aiutami a fare il compito e aiutami a risolvere questo problema commerciale aiutami a a sviluppare questo progetto aiutami a scrivere le specifiche per un tender per la gara o aiutami a valutare la gara è questo
+sono informazioni molto delicate da condividere
+in molte circostanze quando interagisco con dei prospect con click clienti enterprise
+vediamo che è invalsa la modalità in cui anche dall'interno di grandi multinazionali gli utenti impiegano servizi e ai perché oggi sono molto utili inconsapevolmente e filtrando allegando pdf documenti che sono però riservati questo è molto importante questo è un'idea una
+cosa che le hai private indirizza e vuole interessare
+ehm ricerche reputazionali delicata ma se io vado a fare una ricerca reputazionale mi dici se tizio è un delinquente il fatto che io faccio la domanda o dire che ho il dubbio che distrusse un delinquente ma se lo vado a chiedere a google google può tener conto del fatto che io ho fatto la domanda chiedendo se tizia un
+delinquente e magari tizio diventa un delinquente perché va di moda
+quindi io potrei inquinare un modello pubblico facendo a ripetizione domande che sono come dire tendenziose e creare un nuovo tipo di seo e come nel passato per fare la seo convenzionale creavo tante pagine che puntavano ad una determinata pagina che va
+volevo promuovere adesso posso costruire un'opinione
+costruire un'opinione inquinando i meccanismi generazionali dei nuovi motori di genere
+di rigenerativa che rispondono alle domande come criminali per esempio
+quindi le domande di oggi cambiano le risposte generate domani questo è un punto assolutamente importante è poco è poco pensato poco considerato
+altra considerazione poi faccio faccio dare il parere anche a michele e molti dei servizi che noi impieghiamo quando ci affacciamo al ai servizi pubblici sono forniti da entità che sono man in the middle quindi entità che dietro impiegano
+un altro servizio ma che si pongono è a metà quindi io faccio le domande a tizio che le elabora fa delle cose poi si volta verso caio e pone la stessa domanda arricchita a in questa circostanza ed è quello che fa perplessità in molti dei suoi servizi e io condivido non c'è
+con uno ma con due
+quindi la mia la mia domanda e la relativa risposta non è più privata solo nella conversazione con un'entità singola ma diventa condivisa con una serie come dire con una pipeline di erogazione del servizio che in molti casi mi è opaca e questo è molto importante
+la prima te in generale non cede informazioni soddisfando la fame di dati di qualcun altro perchè la facciamo noi sta a casa nostra
+aumenti michele sandro ma io
+allora per come la vedo io è lo stesso del discorso dee del mainframe del pet food age e collega privata puoi fare cose con quello che vuoi senza chiedere permesso a nessuno e la la verità è banale band e con i mainframe
+uno poteva fare solo quello che la ibm decideva che si poteva fare per esempio la ibm non vi avrebbe mai fatto devo usare nei videogiochi sul pezzo
+freebsd e drew i personal computer ci hanno consentito di usare come macchine da gioco che che cosa è male però però sono sono state hanno sbizzarrito
+la crea nostra creatività ora avere una ahi ahi che sta su un server di uso di un browser e poi toccando usare le pieghe dice lui e devi sottostare ai loro vincoli di tokyo vedevi pagare agli toyger eccetera è una forma di schiavitù moderna cioè non non
+esiste proprio per come la vedo io una cosa del genere non esiste proprio cioè
+una una cosa come lei ha e non può essere messa nelle mani di persone pagare a consumo già non è il x che devo pagare il time sharing economy e non deve essere così io devo avere la mia è sul mio hardware farci quello che cavolo pare a me facendo
+anche se ci vai da solo pure sensore e poi censore finché
+vero che magari quelle
+grazie bet e censored tipicamente sessuale per tutto l' ipocrisia visto che agli stessi attribuiti ad esso metterà a disposizione un bit erotico e godiamoci quindi è mamma ma quella da psiche censored sul governo cinese se uno prova a dire qualcosa che sia un ping di galera
+il migliore del mondo quindi non mi sta bene di dover usare dei modelli che so
+di fronte alle obiezioni è vero però poi in realtà le hai pubbliche al momento pubblico quelle clausole grosse e antropiche operai sono meglio più efficaci di una proprietà privata soprattutto e anche questa è anche anche se il
+lei mainframe erano mille volte meglio era mille volte meglio dei comodo sessantaquattro di una volta adesso adesso di fanno ridere c'è se tu prendi un minuto e un pc che ha insultato una scrivania è mille volte meglio di ogni mainframe che ormai sono archeologia informatica il discorso è già chiaro
+si parlerà però è che tu quindi si ha di fronte all'offerta già disponibile il punto è anche quello no una cosa è il mainframe inaccessibile una cosa è per te comune mortale puoi avere il modello più potente a costi minimi senza investimenti o puoi farti tutto l'ambaradam
+per crearti il tuo ambiente locale sapere come fare il poi non dimentichiamo salvo i pacchetti di azioni varie è una soluzione che ti devi creare tuvok comunque devi saper metterci le mani e spenderci parecchi soldi di investimento iniziale quindi renditi conto che non è solo l'hardware che crescerà
+e sarà più potente in futuro ci faremo girare quello che è adesso gira su gpt quattro cinque cinque quello che vuoi e quello che adesso puoi fare adesso quando tutti fanno e tutti usano ehi hai
+c'è come dire io capisco la la
+qualcuno però qualcosa accadde un tema
+fammi capire il concetto il concetto che intendo è che posso capire per qualcuno è un compromesso non accettabile il compromettere la propria privacy per
+per questo ho tutto lo scenario che hai elencato prima e quello di controllo e tutto quello che vuoi capito quindi posso capire che da quel punto di vista uno dice lo apre cioè va bene usare la sezione locale se posso riesco rispetto a però ci sono tante sfumature di approccio di utilizzo io
+credo che anche tu usi e ai pubbliche no ascolta rende la usa lei a repubblica quindi ma il punto
+a incidere se usi anche gmail toto produzione letti finora e casca perché poi se è il momento in cui c'è un seminario su gmail va da sé che potenzialmente abbiamo già tutte le me già pronte e impacchettate archiviate è curabile utilizzabili dal grosso google
+io ne faccio un discorso diverso
+io ne faccio un discorso di strumento plasmabile nelle tue mani contro strumento che puoi fare solo quello che altri utenti autorizzano a fare avere una chiave privata perché ci sono molti casi duso che grazie a dio su quelli dei colleghi cd ci sguazziamo tutti i giochi
+in cui proprio è improponibile usare la repubblica non puoi pensare di avere degli eye pubblica che mette barrette un macchinario di controllo o lei a repubblica che mettere mano nelle transazioni bancarie o pubblica che mette mano ai dati sanitari per dire a parte la quantità enorme di casi duso che già esistono ma io ne faccio una questione ancora più ampia colleen
+nelle mie mani ci faccio quello che voglio e posso fare cose e le hai e non mi faranno fare mai posso fare delle implementazioni posso mandarlo in due posso spezzare il modello in tre parti possono decidere di ottimizzare un certo modo oppure in un altro modo posso posso permettere
+modelli in cascata posso fare un modello che parla con un altro modello per controllare quello che si dicono posso fare un modello che sia auto che si possono fare delle cose che con con lei a repubblica sono pensabili è quello il punto è quello il punto il punto è la stessa differenza che c'è talmente me
+il pericolo sessantaquattro nuovi veicoli rispetto ai mainframe ma quello che che altre aziende di ossido appare alcuni pensano al computer è inimmaginabile seguì se uno rinuncia al al controllo dello strumento è finito è finito
+la sennò non puoi più creare e lei è un è un ambito in cui bisogna disperatamente creare assolutamente questo questo michele è una cosa estremamente importante che che sostengo in pieno
+detta in un altro modo io posso dire like pubblica ci trasforma in assoluti consumatori viceversa e ai privata chic ci consente di essere autonomi creatori artigiani e e demiurghi
+di quello che noi costruiamo questo estremamente importante
+la
+l'abbrutimento
+di di diventare puri consumer è una cosa drammatica e si può intravedere nel futuro perché questi questi oggetti possono diventare i tuoi capi possono diventare i tuoi i tuoi
+aguzzini anche in alcune circostanze
+ed è ed è drammatica la conseguenza sociale di essere vittime di una di un di un capitalismo portato all'estremo in cui l'hai diventa strumentale ad un controllo sociale drammatica questa cosa e per questo dobbiamo lottare per una pluralità di
+i punti di vista per tende e ai che siano autonomi che siano bottom-up e che siano private con tutta la creatività del caso è vero quello che dice alessandro anche che i modelli che possono girare dentro ai servizi pubblici avendo dei datacenter ciclopici a disposizione possono essere molto più potenti però lì
+ehi privata può garantire l'esecuzione a costi noti di modelli piccoli ottimizzati verticalizzati in ambiti specifici come quelli che citava michele e come tantissimi altri che si possono immaginare pensa i modelli che girano disconnessi nel tuo telefono la tua macchina fotografica il tuo device nel tuo
+els monitoring
+the voice questi sono molto importante concetto che è importantissimo e non era affatto è vero che uno dice i modelli grandi sono non sono paragonabili con quelli brevi in gaudio da baby con quelli locali è vero ma perchè perchè i modelli locali sono ist
+fruiti allo stesso modo debbono grandi che c'è praticamente gli si dà tantissima informazione e in base all'informazione loro rispondono in maniera apparentemente dirigenza però per analogia ma ma c'è da dire una cosa e questa cosa la disse pure sam altman quando parlava del dispositivo
+you were a boy che volevano costruire che è pensabile un futuro di avere un modello piccolo molto intelligente e shooting sostanzialmente istruito non sapendo le quattro zero tre cani ma sapendo come si fanno certe operazioni e che prende le informazioni che gli
+mangano con dei tool quindi la storia che il modello grande e più bravo più furbo e più intelligente e blablabla e solo perché il modello grande e tonda informazione in più dato che pure ha raggiunto un plateau per cui più informazioni dai non migliora perché ormai sa tutto e invece si deve
+si sta procedendo nella direzione di ridurre questi modelli è di selezionare le informazioni che gli danno un comportamento intelligente perché l'intelligenza dei modelli è data dalla analog dal comportarsi in maniera analoga a come ragioniamo noi umani ma tantissime cose sono inutili tutte le istruzioni che sono state scritte
+sulla cavola del sito su facebook secondo la quale se posso buttare via
+si può concentrare sul istruirlo su ragionamenti di libri di matematica alla fine è perfettamente possibile lo avremo già sta andando così dei modelli piccoli che sono intelligenti come quelli grandi però mi chiedo sono molto più piccoli e tutte le informazioni che non gli servono non vengono best
+dentro col famoso fine tuning ma aggiunti dinamicamente con il con il mezzo e la metodologia della tenuta
+tendo di caitlin reid e vedo benissimo il reading
+è un sack un sacco di disastri a meno che uno non ha veramente tanta tanta informazione e la pulita bene e invece so che il meccanismo dei tool che sono alla base di tutto la rivoluzione che mcp eccetera quella è la direzione di andare io credo io sono sicuro che da qui ok poi
+gli anni avremo dei modelli piccolissimi che semplicemente agganciati a fonti di informazione come il web come da tabella cosa si combatterà ne sono evitare quel quale questi grandi modelli straordinaria irraggiungibili perché tutti raggiungibili a piedi
+sono molto potenti quelli piccoli ora che era impensabile solo anno fa aspettiamo due anni poi ne riparliamo a questa presunta superiorità dei modelli grandi a cui non credo assolutamente che durerà a lungo
+d'accordo ma credo che se anche abbastanza logico no l'idea di avere tour specifici modelli specifici per usi specifici e un router centrale questo pensa pensa a quello che in effetti è interessante il fatto di esfiltrare l'intelligenza e scartando i dati grezzi tra virgolette
+quello potrebbe essere una che tiene conto anche dei dei costi dei consumi nel senso che un modello grande ha dei costi insostenibili a livello ambientale viceversa se l'offerta teatrale esatto a livello di costi anche se poi andando però modelli gradino per usare modelli grandi
+diciamo ci stiamo attrezzando per lanciare sciami di agende annientato che costi in termini ambientali quindi effettivamente tutore tv se uno fa il singolo modello grosso lo fanno comunque tanti piccoli modelli in parallelo no il consiglio probabilmente già possibile quasi tutti i tagli grossi sono quelli
+esatto già quelli grossi oggetti impeachment e quindi hanno un routing interno delle informazioni che viene spalmato su tanti modelli più piccoli le cui conclusioni vengono poi aggregate in una sintesi finale ed è già così in molti casi quello che
+volevo rimarcare che alcuni modelli che possono essere contenuti in termini di dimensioni e che possono avere un un training locale è verticalizzato specifico su determinate necessità possono essere estremamente veloci efficaci e a basso costo energetico per esempio
+controllo industriale devo contare delle viti che ci sono su su su un piatto un modello di visione artificiale per questo impiego ha dei costi che possono essere molto molto bassi termini di costo per inferenza rispetto all'impiego di un modello dedicato grande perché che è insensato peraltro quindi per usare un compito specifico uso
+bello di dimensioni specifiche per quel compito non più grande in un più piccolo di quanto mi serva e quel microcosmo su quel modello cosa fai piccolo visto che in
+sulla base dei fatti e le immagini delle tue viti nel tuo ambiente fighter
+l'ing fai che cosa si fa allora per esempio nel caso specifico di questo di questo esempio qui si può anche costruire un sistema di visione artificiale tradizionale classico che con l'uso con l'impiego di per esempio o pensavi a alla alla disponibilità di riconoscere degli oggetti che
+tu gli fornisci tramite un sistema di training che tu crei e sviluppi e che ti dice dimmi quanti vittime ci sono e quanti bulloni ci sono senza bisogno di ricorrere a degli alle mamme con funzioni edificio quello sai una cosa il modello divisione base e periodi per esempio su una raspberry su raspberry
+barry
+cinque con lo shield che c'è più di due modelli ha sede a tredici ventisei tops che sono tela operations per second con quello da ventisei riesco a tritare quattro quattro flussi in acque di concorrenti da un singolo
+dispositivo che consuma sei watt
+quattro flussi in acd a milleottanta per milleventiquattro
+non è una cosa da poco fatta da un dispositivo grande così con iolo che un modello di dire che un modello divisione che riconosce degli oggetti all'interno di scene raccolte da telecamere nei droni si possono mettere cose di questo genere che sono strepitosi
+e questa roba non ha bisogno non può funzionare collegate al cloud perché deve elaborare in tempi brevissimi
+embedded in quei locali expert per le dosi diciamolo quello che abbiamo
+e anche anche queste e ai privata assolutamente capito
+quindi meno com'è crollato quello che diceva
+controbatto un attimo la cosa che diceva michele dice no il fanciullo non ce lo possiamo permettere di prete per esempio ho detto west bank tuning
+in casi specifici come per esempio nelle immagini ho neanche negli atm con jill ora consente notevolissime funzioni a basso costo ma interno
+intanto
+spesso trascurati test ho un po' trascurato la chat è però già stati diversi interventi interessanti e utili
+vediamo però ci eravamo interessate a cui volevo sottoporvi come si risolve il problema dei determinismo del determinismo in ambienti mission critical cioè proprio parlando di locale ai modelli locali che fanno cose su magari sistema industriale quant'altro
+la nostra fosse una esigenza umana quella di essere deterministiche però insomma si parla di macchinari industriali
+non è che c'è da dare il suo sottile sebbene la usi o in quegli ambiti lì lei oggi la usi nell'ambito delle semplificare l'interazione dell'uomo con la macchina non la usi se fai se devi fare un controllo di un controllo di il fatto che le auto a guida autonoma kazako fan
+hanno e usano il deep learning e liang se non è deterministico comunque ansip quello è un ambiente un ambito in cui il non determinismo del deep learning si rivela utile perché riesce a reagire anche a situazioni impreviste in maniera più o meno non teme ma nella maggior parte dei casi
+adeguata proprio perché sono stati trainati per analogia però sedere alla parola un di controllo di controllo del dvd
+che di un aereo ecco oggi e almeno per ora mi risulta che non non oneroso in quell'ambito però rivelò la guida autonoma siamo molto simili e si fanno modelli anche messo in prospettiva visto che noi abbracciamo qualsiasi roba venga delle aree con molta più velocità di quanto basket
+tassino e quindi si tende anche a far fare a lei molto di più di quanto si dovrebbe forse l'aspetto che ci si buttino a capofitto anche in utilizzi di ai a gestire cose legate al mondo reale agenti che prova influenzi sarei
+un poco tutte le precauzioni del caso inizialmente però cosa un po' se si andrei anche dire laddove possibile usiamo gli algoritmi i processi convenzionali
+penso che le anime deve essere la soluzione per gli approcci algoritmici che già funzionano benissimo quindi se serve la statistica usiamo le hai se steve l'inferenza usiamole eipass serve il determinismo convenzionale if then else usiamo life news marco non sono c'è il punto non è cosa serve e
+il punto è con quanta perché è il punto e magari anche lei hai lo fa anche lei in modo più efficiente e più smart più quindi qualsiasi cosa sia se lo fa lo può fare lei o meglio lo si farà fare le hai
+e a questo punto la domanda rimane
+veloce diventa annuale se noi ti legheremo a venire
+a lei anche azioni sul mondo fisico e come risolviamo po' un esempio l'esempio secondo importante e l'audit ability c'è un processo deterministico a un audit ability un processo e non necessariamente riesce ad averla stabiliti vuol dire perchè hai fatto
+questo in questa circostanza
+un'email può può aver preso un'allucinazione e di conseguenza non è facile ricostruire perché a secreto un determinato touchscreen piuttosto che un'altra
+br almeno un parametro di apertura serve per quello ecco sì vorrei aggiungere una cosa che secondo me è importante non determinismo allora il punto è che le hai e sotto ha il deep learning
+che è basato su moltiplicazione di matrici quindi in assoluto le aree perfettamente ed alpinistica d'autore in botte di lettura sembra lo stesso output ora beh il problema qual è che l'hai usata con il linguaggio e a un input che per la sua natura del linguaggio è ambigua
+e che proprio per la natura del linguaggio noi non vogliamo che risponde sempre allo stesso modo quindi inseriamo un componente random che si chiama temperatura quindi siamo noi
+un componente elettronico che è perfettamente deterministico e abbiamo inserito un input che non deterministico lo abbiamo reso ulteriormente non deterministico con un con un elemento di random e serve a simulare l'anno il non determinismo umano per renderlo più simile a noi ma siamo noi che abbiamo reso non deterministica una macchina che è perfettamente dai
+g amministra se noi prendiamo e utilizziamo la stessa tecnologia delle aree coinvolte autobot precisi con dati precisi come appunto stavo leggendo un mercato della guida autonoma un meccanismo che perfettamente deterministico e puoi utilizzarle nel anche in ambienti mission critical come si fa con
+la guida autonoma punto semplicemente usando la stessa tecnologia in modo diverso problema
+insieme a imporre termini che sono glenn incontra l'input viene sempre diverso michele nel caso di una telecamera o di una luce esterna o di una di una temperatura tu hai sempre dei parametri di incertezza dell'acquisizione che non sono rigorosamente inquadrabili qui in kentucky ma ma ma ma
+ma il caso della guida autonoma sfrutti questa incertezza per avere risultati migliori perché lei ha appunto in grado di reagire meglio a delle informazioni che sono perfettamente che sono troppo troppo numerose
+sono analogiche e per dare la risposta più corretta ed è statisticamente dimostrato che la guida autonoma è mille volte più sicura dell'essere umano quindi se si devono ragionasse con la testa ormai fallire
+secondo me il punto è solo per tornare alla questione cos'è deterministico ma perché sei fatto dall'uomo e deterministico cioè non è anche lazio la conseguenza le azioni umane non sono deterministiche se vogliamo dirla tutta quindi
+effettuate sotto questo punto di vista
+no non c'è differenza e forse non c'è neanche
+la domanda non è si può risolvere tra virgolette
+è molto importante qui è il
+il meccanismo della quantizzazione cioè nel nell'area privata molto frequentemente si lavora con delle quantità azioni brutali questo questo processo introduce delle differenze rispetto a quelli che sono le sfumature rappresentabili dei pesi te
+di un
+un modello che abbia dei pesi calcolati in fase di training espressi con dei numeri floating point a trentadue bit ha una ricchezza di sfumature rappresentate molto più grande di quello che ha un simile modello che però ha dei pesi con te floating point a sedici bit che quindi occupano
+due byte anziché quattro inoltre c'è un
+un aspetto legato quali sono i fondoscala di questi numeri non solo la risoluzione ma il fondo scala e ci sono vari processori delle varie gb più che possono processare in un determinato modo solo certi tipi di rappresentazioni di numeri in virgola mobile
+quando facciamo la quantizzazione noi prendiamo un modello che ha trentadue trentadue bit per peso e lo portiamo a sedici bit per peso o a otto bit per peso o addirittura un bit per peso e quindi quello che era la sfumatura di un di un di un floating point a trentadue bit diventa un bit il modello fosse nello stesso cipro
+ci tira con l'accetta rispetto a quell'altro e dalla zona prediletta bandiera bandiere novantanove per cento di precisione hanno dimostrato quelli di psic se mi ricordo bene la questione che che invidia ebbe un tracollo in borsa quando tirano fuori di psichiche con un centesimo da leggi più da utili
+alzate utilizzando la validazione veloce ottengano un modello che formava quasi quando aveva le tende dei egizi dei dadi
+dei benchmark per formava quasi quando quelli grandi a trentadue bit comunque ancora questa l'unione aveva queste erano persone che ogni giorno nuovi nuovi errori
+novità ci sono altri modi architetture diverse e fare i calcoli ci dà quindi non è non è non abbiamo ancora detto la parola finale su questa storia però sicuramente i modelli si possono ridurre molto mantenendo le stesse performance
+un compromesso sano fa performance e precisione quale potrebbe essere che è molto indicativo su nelle lemme dipende tale architettura dipende dalle architetture e dalle tendenze generali da esistono è stata istruita dai cancelli l'architettura interna devi anche considerare se questo modello appassire multipli ecc
+cetera
+se veramente sono tanti parametri però alla fine i valori possibili sono poche quattro otto sedici trentadue trentadue si esclude per voi
+ripeto che ci domandiamo se rappresentate fabbricato idee siano grazie adriana benetti virgola mobile non sono binari alla fine
+il modello fauna una moltiplicazione matriciale e in base a quella ottiene dei risultati che poi vengano mappati su rappresentazioni organizzate del linguaggio quindi
+il la
+le rappresentazioni al momento sono quelli per le mobili sono fondamentalmente tre il trentadue bit paul il sedici bit e sedici bit b che è disponibile solo su alcune schede più moderne e ci consente lo stesso range tel trentadue bit fuller ma con una risoluzione inferiore si la tendenza ad
+esso è di usare quest'ultimo sulle schede che lo supporta ma non tutto lo sport volendo li quantizzare e riconteggiare prevede un percorso che ti consente di per farlo devi usare diversi strumenti lama chip è uno degli strumenti well lemme è un altro di questi strumenti vuole liam però lavora solo su
+ma chip invece più trasversale dal punto di vista degli strumenti software
+engine usano rappresentazioni dei modelli che non hanno un formato uniforme quindi so o lama usa un determinato formato le lame newson altro
+in un'architettura privata tu devi scegliere quale engine vuoi adoperare e questo dipende dalla dell'architettura di accelerazione che vuoi impiegare se ce l'hai e poi una volta che hai fatto questa scelta decidi come quanti come li quantizzare prendi il modello da aging fase che ha per esempio i pesi a
+trentadue bit per per per per peso del parametro e poi loro i quantitativi a seconda di quello che ti puoi permettere nella quantità di memoria della tua più hai soltanto quattro ter e quattro giga e devi fargli restare e quindi magari ti ricordi ad una quantità azione brutale poi il grand hotel de physique
+coder seicentosettantuno gates pioggia grande farlo andare world park ribattezzandolo verde e il modello open coders eh
+meno ricco di informazioni però adesso valuteremo qual è la cosa migliore perché probabilmente un'altra opzione è quella invece di usare un'adeguata e
+in garage e ariel ridurre la dimensione del contesto come questi sono dettagli da un'altra e un'altra cosa cioè un conto di quantizzare il modello pre ed un conto è usare una fonte esterna con tracy jacobs liberò tieni presente che è per esempio una cosa veramente importante è che quando tu usi un sistema
+di coding di live coding la cosa essenziale è la capacità essenziale che ha non dando il modello quando gli agenti che lo usano è quello di filtrare le informazioni che si danno se tu vedi come funziona un un uno encoder ti accorgi che lui prende filtra groppa strip
+taglia selezione eccetera prima di arrivare a fare quindi molti passaggi vengono fatti per arrivare a ridurre le informazioni da processare per dare al modello quindi è un rivedo il io sono convinto che l'elemento aziende che sia molto più importante però sono convinzioni
+se una barra con le canzoni di tool di agenti dei prompt con le mettono tutto insieme ugualmente di poter permettermi di
+funziona così e labbra voi pensano anche cloud got sia forte perché è bravo a il modello no e brown cloud coda tagliare selezionare filtrare e trovare le cose veramente in tanti questa cosa mi ha lasciato veramente
+stupefatto perché ripeto non è più tanto più bella del modello ma come si usa la l'architettura software che lo gestisce è i il calcolo è forse uno dei più avanzati di questi sistemi aziendali ma in realtà se ne faranno di ogni genere c'è un sistema
+dico che sopra la farmacia un sistema etico per me la grafica un sistema genetico questa cosa e tutto un mondo nuovo tutto da scoprire e sarà essa è essenziale avere un'idea e private per poterlo fare perché secondo una repubblica che paga token e che ti dai vincoli non puoi modificare ottimizzare tagliare tritare
+re spezzare il modello per quel poterci costruire delle aziende sopra è questo quello che non riesco a che molti non riesco proprio a capire perché ovviamente una cosa al di fuori dell'esperienza dell'opera di tante persone era in fondo se poi ci saranno i tempi ma magari sarà anche più accessibile su scale diverse
+in futuro
+il caso del coding ci sono secondo me tanti diversi livelli a cui l'hai con con i quali le hai può assistere il lavoro del codex e questi livelli vanno analizzati
+molto bene per esempio so
+sintassi del linguaggio che impieghi il coloring del tuo ide per fare in modo che certe iwork diventano di un colore di un altro i commenti sennò il debugging altre funzioni le app c'è il language serve protocol il sistema tramite cui il l'ide fornisce ad al modello il
+la struttura del blocco di codice per per validarne la la la la cortezza a livello di sintassi non di singola parola ma di blocco di paragrafo e poi il layout complesso quindi ciò fatto che stai scrivendo una funzione tipo e suggerisce gli argomenti andando a guardarne l'help
+edit i parametri di quella funzione il fatto che quando scrivi un commento ti propone il codice che lo lo lo lo implementa
+ciascuno di questi è una funzione separata il che vede l'impiego di vari strumenti specifici in ognuno di questi
+e gli editor lo stanno usando
+tramite dei plugin che nel caso diviso studio code sono drammaticamente esfiltrati perché portano fuori tutto
+ogni test che spinge se analizzi la rete vedi che della roba che se ne va da visual studio code
+hai dimenticato l'importantissimo il trip sitter certo
+che la cabala
+del paragrafo sì no no no no è proprio la ricerca dei simboli del del del del dell'applicazione ed è dentro il programma umbria un sistema di vibo coding da che se tu gli dici implementa questa funzione qui lui va a recuperare tutte le funzioni correlate guardare
+dai simboli e lo fa utilizzando una rappresentazione interna ad albero semantico non sintattico semantico per trovare tutti i simboli legati e poi va a vedere sfruttando le parti di codice rilevanti quindi quando gli chiedi cosa fa questa opzione fa riprende a gandia tutti i pezzi ed estrai le parti di codice necessarie e ss
+solo quelle rilevanti e analizza solo quelle è una cosa veramente bella e interessante perché io lo sto facendo sto facendo e lo ha detto il nostro nuovo prodotto che è trust morgan
+l'elezione di di di di di logo privata e stiamo utilizzando un sistema di codice stiamo costruendo e modificando e affascinante rendersi conto che è più importante come il il sistema che utilizziamo e open yout che un open source analizza il codice piuttosto che quello che fa il modello c'è un sacco di lavoro aveva prima
+usa qui e ora che so dopo il modello alla fine riceve delle informazioni già pronte e cucinate dal sistema algebrico e dare risposte e poi le riproduzioni delle bestie vengono ridistribuite applicate quindi qui è molto più importante il
+aziende che non il modello è questo quello che vorrei spiegare
+spiegano e non è che te lo impediamo
+so avevo detto e quello che ho detto tutto quello che vi sto dicendo da loro
+sei d'accordo
+il commento viene privata perché così ci possiamo costruire cose inimmaginabili sopra se non esiste queste cose se dovresti fare con i modelli i pubblici questo noi stiamo costruendo ottimizzando il sistema genetico modificando abbiamo ben adattata lei e privata abbiamo
+già fatto un po' di modifiche abbiamo migliorato le cose è questo il punto
+ellen e implementazioni agenti che in generale per quello che ho potuto vedere io se hanno una componente fondamentale che l'intento determinate con party e devi cercare di capire che cos'è che bisogna applicare per risolvere il problema che in quel momento l'utente a
+esatto cioè il
+l'intento è a noi la chiamo così e quindi se c'è da chiamare un certo tully tu devi capire che devi chiamare quel particolare tool e non un altro e questa cosa qui è determinante ed è una delle cose da effettuarsi all'inizio del processo del processo di reazione alle esigenza può essere fatta in maniera sincrona ma molto più
+spesso asincrone come nel caso in cui probabilmente lo strato implementando voi per il prodotto di coding assistito
+amy è un aspetto molto importante e contenere tutti i processi per l'assistente coding all'interno dell'azienda e all'interno del contesto
+privato e sfidante
+perché molte delle funzioni più avanzate oggi offerti dagli ide hanno delle componenti cloud che vanno tappate se vuoi la privacy e questo è
+purtroppo comporta una riduzione del del performing in alcuni aspetti
+se guardi le funzioni di cloud a local agent c'è da mettersi le mani nei capelli se uno ha i capelli perché sono terrificanti nel senso che se tu metti tutte le crocette louis hai il controllo completo sulla tua macchina e alla visibilità completa di tutte le
+cartelle e file tutto quanto tu vedi con l'utente all'interno del quale lavoro e questi tool noi usiamo anche noi gli strumenti tipi di cloud aziendali ma abbiamo deciso di non impiegare questi componenti locali perché sono eccessivamente invasivi stessa cosa capita probabile
+almente anche se non ho sperimentato con i browser dedicati che stanno venendo fuori presi dai prodotti dai vari player dell'ict
+rom probabilmente si arricchirà molto di funzioni di questo genere però chrome prodotto installato nella tua macchina e che ha visibilità sul sistema a tutto campo
+in genere automatico e che si aggiorna in automatico
+tech ma anche il sistema operativo in automatico il problema che microsoft è un po' meno evidente nelle proprie azioni ma ci sono anch'esse e quindi ogni tanto e ti accorgi di cose strane e avere dei firewall e dei meccanismi di filtraggio che consentono di far vedere soltanto alcune cose delle x
+cose che tu fai sul tuo computer è a mio avviso
+una grande necessità
+sì se poi pensavo che il nuovo windows a farlo snapshot regolarmente
+anche quelle modificate reich casi può aiutarci a sapere cosa ci hanno portato via hanno portato via
+il repository di github come come ci ha spiegato salvatore sanfilippo e quindi il deposito repository pubblici privati sono stati utilizzati per per per trainare il copilota e quindi da un certo punto di vista abbiamo
+le considerazioni che hanno animato lo più il movimento open source
+negli ultimi trentacinque anni che sono stati poderosi potentissimi però questa
+eccessiva condivisione causata da condizione patologica causata dalle aree oggi a seguire a seguire dai dai social network che diventa pericolosa perché diventa controllo sociale l'open source classico non è mai stato non ha mai avuto velleità di controllo sociale ha avuto velleità scientifiche di condivisione del sapere
+viceversa una cosa totalmente diversa certo però la la la l'assorbimento eccessivo di
+i dati da parte delle
+delle aree pubbliche oggi è drammaticamente invasivo
+livio chiede di continuare con le slide caro marco e alice
+cesta a certa annie oh qualcun altro interessante spero che vi piaccia
+allora ehm
+quindi questa è la slide successiva a questa quasi prima che vi avevo illustrato già
+è quindi un premio telaio e proteggi la tua competenza la tua competenze tua e tu decidi quale porzioni della tua competenza tu vuoi condividere come condividi la tua competenza e quando insegni a quando tu spieghi quando tu racconti quando tu narri quando tu esprimi e condividi la tua competa
+senza travasi un po di ciò che c'è dentro di te e che va a finire dentro agli altri
+questo questo travaso delle competenze è già avvenuto dai contenitori informativi pubblici dentro a agli alle mamme che come diceva prima michele hanno assorbito gran parte della conoscenza in forma scritta e adesso si accingono ad assorbire conoscenza
+asincrona in forma non scritta preso piu film film vengono digeriti progressivamente e siria stiamo assistendo alla crescita dei modelli capaci di generare sequenze video jenny e devono ancora a cingersi accingerci ad assorbire la conoscenza realtà
+i nostri gesti le nostre parole nel momento in cui le emettiamo e questo farà nasce nei modelli capaci di generare interazioni sincrone real time siamo ancora agli albori di questo processo e gli assistenti piccoli sono particolarmente interessanti perché gli assistent
+scusate i modelli piccoli sono perché ovviamente interessanti perché hanno latenze molto basse e di conseguenza possono produrre reazioni in tempi molto brevi rispetto al input che gli stiamo esponendo quindi un microcontroller e gira dentro a un socio un sistema un chip che gira dentro un orologio o dentro
+un telefonino può elaborare modelli neurali di piccole dimensioni per avere una bassissima latenza di intervento che generano che generi una azione rispetto ad una circostanza di questo estremamente importante devo rilevare la circostanza analizzando una telemetria analizzando flusso di dati riley
+temo che il telefono sta accadendo perché vedo gli accelerometri che danno determinate letture che ne so apro l'air bag hogan e questa è una scelta che si può che si può pensare di fare in tempi molto bassi alla testa rapidissimo
+gli assistenti speciali verticali fanno parte di sono in molti casi i modelli costruiti ad hoc per arm
+ha compiti specifici e questi modelli li potremo sempre più facilmente costruire e saranno il prodotto di un nuovo tipo di compilazione cioè noi adesso siamo abituati a scrivere del codice che produce un codice compilato che fa le cose che ci servono bene pensiamo ad un'evoluzione di questo tipo
+io scrivo la descrizione di quello che vorrei che un codice facesse il modello produce il codice il compilatore convenzionale compila quel codice mi da l'eseguibile bene evolviamo ancora
+io dico do la descrizione il compilatore tra virgolette produce un modello fruendo dei dati disponibili che la cui inferenza è il risultato del compito che vogliono svolgere questo è sfidante ed il futuro quindi inventeremo nuovi tipi di compilatori
+il cui output saranno modelli di piccole dimensioni che possono essere compilati in tempi brevi a sulla base di dati che abbiamo disponibili
+tutti questi oggetti che possono essere piccoli hanno anche la caratteristica di essere lavorabili lo rapidi vuol dire che posso aggiungere dei led per tener conto di circostanze che non erano state previste tempo a tempo di compilazione
+la competenza va protetta e il no aosta in azienda air gap beh vuol dire che non c'è bisogno di connettività verso l'esterno per farlo funzionare queste cose queste evoluzioni richiedono capex e questo è un po' la contraddizione economica che c'è e sta nascendo una disciplina
+che la disciplina del ops del financial operations officer che dice in che modo amministriamo i flussi di danaro che servono a processare i costi non quantificabili in maniera convenzionale costi opex e quindi se uso le hai dal cloud pago delle bollette come sono associati
+come sono calcolate queste bollette sulla base dei token consumo sulla base dei watt che mangio sulla base dei
+dei dei galloni o dei litri di gasolio che consumo
+se voglio le hai privata e voglio ridurre questi costi opex in determinati posso trasformare questi opec cap ix capital expenditures investimenti compro un pezzo di ferro con bruxelles compro una gpu e dentro ci faccio con degli altri investimenti un software specifico modello che che che svolge
+il lavoro che devo fare in questo caso posso definire in maniera deterministica i costi ma mi seguono dei ruoli dei ruoli che secondo me sono a livello evolutivo due molto importante il knowledge management officer colui che sa dove e la competenza dell'azienda in termini di processi di dati di
+ehm no au è un altro competenze estremamente importante in prospettiva che hai data logistico officer il dato logistico officer è colui che sa dove stanno scritte le cose non solo a livello di posizione tenete conto che stiamo perdendo completamente il concetto di posizione di un dato ed è un dramma questo
+cosa qui ed è interesse dei grandi player del cloud farci perdere completamente le coordinate in cui i dati vengono scritti se pensate a cosa vuol dire ed ossa del disco peretti insistono cosa sono i file system i fascisti sono oggetti che ci abbiamo messo decenni a costruire e progettare
+che associano un file ad una posizione particolare all'interno di una gerarchia di una tassonomia di contenuti e in queste persone odia e ci metto pure delle control list che decidono chi vede quale alberature i modelli di archiviazione diversi come il jobs act story non hanno bisogno di sapere in che modo sono
+gerarchizzati fai perché costruiscono la posizione del file sulla base di un action quindi di lasci ti do il file che questo esce è indeciso e nel cloud funziona quasi tutto in questa maniera ma perdo di vista il concetto di organizzazione del dato è l'indice che c'è in biblioteca dove metto qua tutte le
+le opere di scienze della vita e di qua tutte le opere di idee che ne so di matematica e questa classificazione multi dimensionale per tanti tipi di classificazioni e cosa importantissima che stiamo perdendo e secondo me non è una buona cosa il perderla perché se la perdiamo quello che succede che dopo mi devo affidare
+che ne so a ovest sei cinque per trovare le cose che ho scritto io e ai motori di ricerca su drive che non so neanche dove stanno su salvati miei dati ricevesse nel mio disco avevo una gerarchia in cui i dati di poterlo classificare come mi serviva questo è una cosa a mio avviso molto importante e io
+sostengo la necessità di un ruolo importante che sia intatta logistics office
+mi fermo un attimo per lasciare spazio agli altri sennò non voglio demonizzare
+alessandro michele se avete commenti
+procedo io poi ti chiedo una cosa però vai pure
+nella nella nelle aree privata a mio avviso il il cervello e i dati stanno insieme e stanno laddove sono necessari quindi all'interno del sistema nervoso dell'azienda all'interno della persona o del contesto in cui devono elaborare se esterna il sistema nervoso
+male dopo un paio di slide un pochino ironiche su questo che che però secondo me devono farci pensare non dobbiamo esternalizzare il nostro sistema nervoso e i nostri dati e la nostra conoscenza se no siamo completamente svuotati quindi le hai privata integra i dati e i processi per esempio i processi agenti che diceva prima
+michele che sono alla ribalta in questo particolare momento storico e quindi costruisce delle cuciture dei connettori delle dei dialoghi tra i vari processi tradizionali del business aziendale quindi via b c m document management sistemi di reportistica e brown
+i sistemi di analisi dei dati in tempo reale le telemetrie
+inoltre cosa c'è qual è il grande vantaggio della prevede che a differenza di quella pubblica è molto più auspicabile e judith abile può dire cos'è successo in quel particolare momento chi è che la usava perchè si è rotta viceversa il perchè si è rotta a livello di evento cloud abbiamo visto settimane scorse si capiva
+quasi niente e perché si è rotto cloudflare e inoltre erogabile è amministrabile ed è falvo labile questa è una cosa molto importante valvola abile vuol dire che io decido chi la usa e chi no e quanto e se posso valvolare posso definire dei percorsi delle polis tutti gli ambiti
+le hai le hai privata potenze gli utenti perché gli dà dei superpoteri quando noi
+sviluppiamo codice con l'aiuto di cloud diventiamo potenziati figata scrivo molte più righe di codice per unità di tempo sono sono diventato dott
+superdotato molto bello dobbiamo diventarlo e rimanerlo non diventare
+scartabile e sono un po' pericolose certe metafore che oggi molti ci dicono tipo
+sviluppa la nuova idea di business senza scrivere una riga di codice senza capire un cazzo fai scrivere di prompt a destra e a manca e poi dopo trovi degli altri che li eseguono tu cosa servi e noi dobbiamo stare molto attenti ai modelli futuri se non ci facciamo la domanda e io cosa ci sto a fare qui io devo farmi sempre domanda e io
+ci sto a fare è avere una risposta che non sia su piantabile perché altrimenti diventi fruibile come come come come i cavalli ai tempi della transizione al vapore
+qui rai deve potenziare gli utenti deve dare dei superpoteri ma super potere deriva una grande responsabilità e le anche il training è una figata imparare con lei perché in pochi istanti hai a disposizione come diceva michele ma treccani automatica che ti dà una spiegazione esatta sulla base di quello
+che hai chiesto e che ti piace account e specifica e puntuale
+e poi questa è un'altra cosa meravigliosa che che che che noi stiamo
+capendo sempre più ogni giorno
+le interfacce conversazionali e semantiche e eliminano la necessità di manuali convenzionali tu fai la domanda non vai a cercare la pagina in cui quella roba spiegata fai la domanda è se la fai bene ottiene una risposta puntuale anche se la fonte è scritta in un'altra lingua che siete in cinese
+ovviamente ho consultato di morali tecnici che non credevo fosse assolutamente possibile fare dei manuali per dei pc dei trasduttori meccanici e iscritti
+i manuali tecnici in cinese per dei servo controller per dei motori degli attuatori che avevano tutte le specifiche cinese e io avevo un pò di esperienza su cose del genere scritte in inglese e mi sono fatto aiutare da internet dalle nostre e hai disponibili e ho avuto un ottimo
+ho un'ottima capacità di capire le cose che altrimenti sarei stato bloccato senza un intervento specialistico di qualcuno conosce molto bello questo e poi questo ritorno a a vaiano
+allora tu parlavi delle iai
+e del fatto e del no brand lombarda il controllo kramer venuto in mente un episodio carino che è successo in questi giorni a proposito del web coding è un po' e un po' tecnica operai interessante praticamente delegato del lavoro a un collaboratore e che doveva emblema
+dare un aiuto di people pdf ok
+a un certo punto lei mi ha dato una soluzione
+che non mi piaceva già allora
+migliora il pdf server side vedeva comandava server e ogni campo il risultato la destra week end land's end scriveva dammi questa cosa
+lei ci metteva un sacco di roba gira e e domandava ogni ogni camera che mi era sovvenuto ed era inaccettabile a quel punto beh
+ma cavolo non lo fai client side gli ebook pdf blind side e lui ci ha provato la pala da lei
+continuava di me blablabla davvero valorizzare le slide e ti produce rompa una bomba che da da da da da vedere e non se ne usciva io glielo chiedo a lei
+davvero così si rifiuta di dave mi ci sono messo io ho cercato di ottenere questo risultato e alla fine ho cominciato a guidarlo prendi la libreria fai la livrea pincopallo usa questa libreria pdf eccetera prendi la libreria app di b mamme un test che vi fa vedere
+ok alla fine si è scoperto perché hai continua a farlo perché non si poteva fare perché ci aveva dato un pdf che era formattato in un modo particolare che aveva alcuni gambi agro forum e altre annotazioni e la liberia pdf libri non li poteva riempire quelle alla tazza
+ioni non era in grado e non esiste una libreria almeno nota in grado di
+riempire le annotazioni morale della favola per non avere un sistema inefficiente siamo dovuti andare al di là del già detto steve mi fanno schifo
+generare in maniera pulita perché non li possiamo riaprire altre bandiere succede lui non ci è arrivato il mio collaboratore a questo problema io sì ecco questo è il punto della situazione dobbiamo avere quel livello di giudizio critico
+di capacità di analisi e di pur usandole ai ricordandoci però che i padroni siamo noi nulla non decide lei e se ci abbandoniamo la scelta della hai qualcosa non va questo seguito di questo episodio mi è sembrato questo
+vado abbastanza
+anche perché io praticamente collaboratori
+lavoriamo tutti in web e coding però abbiamo una specie di criterio perché se non riusciamo a risolvere dobbiamo chiedere consiglio perché buttarsi che c'è qualcosa che non sappiamo è che lei non ci sta dicendo perché le hai cerca semplicemente la soluzione più probabile ma spesso non te lo dice perché i laghi leggera e decidere ma riutilizzare
+beh il server side perché la libreria serve server-side potevano fare quelle modifiche al pdf degli said no ma non ce lo diceva decideva e basta e questa cosa succede spesso succede ogni volta che lei continui a prendere delle decisioni che sono quelle che crediamo noi c'è sempre una ragione
+nascosta che glielo dobbiamo dobbiamo investigare perché perché ripeto lei a scegliere la soluzione più probabile ma
+convenzioni vuol dire che quello che vogliamo fare per qualche motivo lo può fare non ce lo dice dobbiamo essere noi a scoprire perché lei è coinvolto in oggetto ma molto spesso
+i motivi non sono almeno del coding sono di solito tecnici ma possono possono esserci anche dei motivi distraction
+devo essere lì per pilotati a fare certe scelte questo è il vero problema è che rischiamo di avere che li guida a fare quello che vogliamo che vuole lei invece di fare quello che vogliamo noi credendo che siamo noi a decidere a fine dell'aneddoto
+pressante man
+no va bene ma niente ci stava ho notato che in molti casi nell'uso delle
+del coding e purtroppo le soluzioni generate soffrono di over engineering
+cover engineering drammatico in molte circostanze tu vedi che il modello si avviluppa e va a cercare delle soluzioni sempre più complicate dei problemi che possono essere affrontati in maniera completamente diversa se visti dal punto di vista giusto e questo è un fenomeno molto comune è questa cosa qui richiede dei pet
+periodici re assessment che però non possono essere fatti da persone troppo inesperte che dicono tira via tutte queste mille libreria è buttato dentro che sono immondizia sono solo rumore anche perché ogni libreria che butti dentro diventa un costo manutentivo
+che diventa ingovernabile poi tour
+satelliti e considerando che adesso non so le percentuali ma direi un buon pezzo di cody base rilasciata quotidianamente ad oggi quindi il nuovo codice generato è scritto
+in questi periodi e codice per gran parte per buona parte ma sicuramente per parte scritto dai
+vuol dire che di fatto è tutto il software che usiamo soft open source o software open source nel giro di qualche tempo anni
+e stupirà una morte di te per gran parte generato in qualche modo misto
+è umano computer diciamo e sono che che che che sensazioni vivaci che viri solleva qualche riflessione qualche considerazione questo
+questo dato di fatto perché se vogliamo non è nocciolato di fatto destinato a diventare realtà credo io ho un'opinione a riguardo che chi comincia e fiducia
+allora io a padova eccetto che noi già lo cacciavo c'è tutto il codice che scriviamo adesso tutti
+e generale c'è usiamolo per farlo e io credo che da qui a cinque anni iscrive codice a mano sarà come un dattilografo che si ostina a deflagra farsi le ha chi ha ancora la macchina da scrivere quando ci sono i computer il like già ora
+praticamente un compilatore da vinco aggio umano a codice informatico e non è preciso ma semplicemente perché preciso il linguaggio umano non perché non sia precisa vai tant'è vero che ha come scrivo io le specifiche e sono dettagliatissime a me
+io di solito riesco ad arrivare al risultato in un tentativo due tre al massimo ho visto lavorare altre mie persone che collaboravano che per ottenere il ducato ci fanno venti tentativi e la differenza sta nel fatto che io ho l'esperienza per per essere preciso sa usare la terminologia giusta nonché
+do troppe non chiedo troppo poco e quindi riesco a ottenere i risultati perché ragiono come se dovessi guidare altri programmatori perché ho questa esperienza chi invece non ha questa esperienza va un po' a tentoni o chiede fammi l'applicazione che fa tutto oppure va a richiedere cambio una virgola modifica bingo bango davide biblioteca
+bo è primo caso perché fa una richiesta che è che non può essere soddisfatta nel secondo caso perché da troppi dettagli ecco quindi il lavoro di programmatore si trasformerà da un lavoro di persona che
+che scrive codice a mano a una persona che è capace con istruzioni appropriate di ottenere il codice di migliore qualità possibile e rapidamente e guarda che qui la differenza sarà come la differenza che c'è tra gli avvocati c'era avvocato bravissimo che con quattro
+cosa è assestata e di risolvere un caso complicatissimo e c'è l'avvocato che invece si perde tra le tendenze tra le cose cara roby ci sono avvocati pagati tantissimo
+pagati diecimila euro l'ora e ci sono avvocati pagati cento euro o anche meno
+la differenza sta proprio nella loro capacità di e la loro conoscenza e della loro precisione nel fare le cose e quindi il web e qualsiasi programmatore si trasformerà in questo tra l'altro c'è da dire aggiungo che fare però codice è sempre stato una piccola parte del lavoro di sviluppatore che c'è la testa e riprova
+attestato di proroga specificato il programma va archive bisogna fare architettura siete tutte queste cose diventeranno predominanti e la parte di codice sarà ridotta a una cosa generabile perché anche se tutta nuda troppe aziende sono affezionatissimi alla codifica
+alla fine esso countdown formalismo e se ce ne possiamo
+non riesco a capire perché il formalismo informatico essere più bello del formalismo matematico o ancora meglio del formalismo
+cioè per esempio la avvocati scrivono in un linguaggio precisissimo difficile qual è un formalismo pure non si capisce perché perché ci dev'essere niente di sbagliato a scrivere programmi utilizzando un formalismo linguistico che tra l'altro non è nemmeno detto che sia quello italiano è perché o inglese perché pare che viene
+mamme capiscono bene se tu dici e parole in libertà usando un linguaggio particolare che tanto che non è la sintassi del linguaggio adatto per descrivere programmi già uno può scrivere come gli ebrei una serie di parole a caso lo capiscono benissimo già a caso non a caso non procede
+svilupperemo delle dei modi di parlare con il cuoco di computer che sono in un nuovo linguaggio di programmazione basato sul sul suo linguaggio umano ma non più quello umano che però sono più precise sono idee non descrivono in maniera precisa lei l'algoritmo ma
+ma lo consentono di generare con una serie di vincoli e che permetterà al massimo della
+l'ottimizzazione della velocità di sviluppo software scusate un concetto complesso mi fermo qui perché se no vado avanti baratro bezos
+è molto
+è molto ricca la lampada
+matematica allora dal mio punto di vista penso che assisteremo a
+ha uno sviluppo di competenze verticali molto specifiche e quindi per esempio coloro che fanno adesso le opere di
+competenza legale avranno degli engine auspici specializzati sul diritto che saranno dell'intelligence private fatte dalla giunti dalla dalla zucchetti dall'età da coloro che attualmente erogano servizi di dominio di competenza di dominio alla stessa
+maniera potremmo avere
+intelligence private per altri ambiti di competenza di dominio come per esempio l'automotive qui so
+ma per te desy avrà i suoi modelli per gestire la sua
+la sua filiera produttiva la sua filiera di assistenza alla sua filiera di manutenzione le parti di ricambio le compatibilità ai cataloghi eccetera e questo avverrà sono abbastanza convinto e l'enterprise e nel mondo del codice sono convinto di quello che diceva michele
+si creeranno dei layer di specializzazione e quindi io avrò appello vi aiuta a scrivere le specifiche e quindi so delle cose che dici cliente per esempio che qui ci capiamo tutti che non si capisce assolutamente che cosa voglia e neanche lui lo sa ma nel parlare spesso anche in maniera colorita e tu
+bevi tu che sei l'analista dovute che sei l'interprete devi capire che cos'è che vuole gli dici di vedere cos'è che ti piacerebbe e lui dice questo non posso fartelo ma ti posso fare questo questo e quest'altro ti va bene così te lo scrivo non lui poi non lo legge se lo legge non lo capisce e tu comunque da sviluppatore devi interpretare un'altra volta
+scrivi delle specifiche ti volti al tuo team che sarà fatto di umani ed i non-umani e gli passi quelle specifiche e avrai degli degli dei programmatori non umani che saranno più bravi nei compiti boiler plate dei e degli umani che saranno più bravi in compiti magari più con con
+caratteristiche più emotive e questo è un ruolo è un ruolo che adesso non c'è nel nel mondo della programmazione o della interpretazione avanzata delle richieste dell'utente e non c'è e si vede che non c'è perché abbiamo tanti software vengono fatti che vengono pagati ma che poi vengono usati poco e male
+e questo è un aspetto importante quindi credo che le hai da un lato migliorerà la qualità della progettazione e dell'implementazione del software dall'altro produrrà un'inflazione di software scritto male o malissimo
+che è un poco meno so le power up in ambito enterprise quindi oppure il look chic a quello coding è bello per il consumer dice mi butto sono un programmatore anch'io che non so non ho mai studiato perfetto tutti vengono fuori delle applicazioni che sono inguardabili inutilizzabili però se un'applicazione qualcuno le userà allora
+necessiteremo di un di un qualche tipo di di di ruolo che sarà prendo quello che queste applicazioni in pop pastone hanno fatto e le migliori e quindi avremo molto più refactoring secondo me nel nostro futuro
+a seguito dell'introduzione delle linee coding perché il refactoring diventerà un bordello e giallo si vede quando vai a rimettere mano un codice che hai vibe codato l'anno scorso e c'è da mettersi a piangere in certe circostanze
+quindi questo nefasto sicuramente aumenterà questi sono i miei miei pareri in merito
+guarda a prevede del refactoring io ho notato
+che se tu vedi le specifiche delle aste e delle anno ti prego
+le butti via qui lieviti io non smetto mai a dire fai questo fai quello quello io scrivo una specifica parte e avery passa attorno facendogliela rigoglio da vedere a otto spesso capita che tu puoi buddha butta via tutto quindi avere anche gomiti per ricevere il codice di
+dopo che tu hai fatto una serie di tentativi alla fine ha ottenuto la specifica come come hai fatto le cose tornino indietro e ridare la specifica finale e lui ha rigenerato il codice in maniera molto più pulita quindi probabilmente da oggetto un lembo i programmi lo fai in un contesto pulito e lo fai al contesto palermo
+specifiche si può lavorare non dando il il codice ma allora è una serie di specifiche che via via riapri di aver rigenerato programma
+l'originale completamente con un modello nuovo ti conviene perché il modello nuovo più pulito e ti ricrea tutto ovviamente devi anche dargli le specifiche di test e magari feste suite quindi alla fine nel kit michele ci salviamo i prompt e non il codice esatto io io la vedo così ancora non ci siamo perché è abbastanza arbitro
+più avanti adagio mi hanno pure invitato a un progetto in cui fare una cosa simile quindi si andrà verso l'uso di un linguaggio che non è più il linguaggio di programmazione ma un linguaggio più informale di specifica io non credo che sarà pura inglese sarà un tipo di una uno dei dialetti di specifica simile
+al linguaggio umano ma non uguale che servirà mai specificare in maniera precisa ma con poche informazioni e i software ecco quindi c'è a questo riguardo il clean-up so se lo conosci il dna ace è un linguaggio specificamente costruito per le specifiche ed è stato sviluppato da
+da leslie lan port team for te è colui che ha fatto il latte si lo so chiedere scusa
+ecco quindi questo è un linguaggio interessante per chi volesse approfondire ti lega e ti a place
+io mi chiedo
+maggio quando da quando per ragione l'atac perché
+fa del world
+io non vado meglio io mi sto spostando sul mark down
+in passato usato in latex ma adesso trovo il march down molto più versatili più spiccio
+sì però non fare la tabella come si deve
+beh andiamo in bici ad altro slider mai un altro paio di slide veloce e abele alla vita e abbiamo capito la tua posizione sulle forme di vita va bene e quindi
+questo importante imparare e sbagliare e cambiare e crescere sono la stessa cosa è molto importante questo è evoluzioni rapide li impongono vite brevi questa è un'altra cosa
+rilevante perché
+la la la
+laici ci sta abituando ad un ad un ritmo evolutivo particolarmente forsennato e teniamo conto che il ritmo fosse nato vuol dire vita breve vita breve delle delle generazioni e
+paradossalmente nella privacy hai il ritmo è un pochino meno forsennato perché lo decidi tu il passo il passo evolutivo e c'è un paradosso un paradosso che ho chiamato il paradosso triste che mi è venuto fuori in queste slide quindi il paradosso triste accogliamola e ai perché ci servono le risposte però abbiamo bisogno di qualche
+uno che ci aiuti a fare le domande ci siamo inventati la disciplina del project engineering
+e quindi alla fine e quindi per dirla come alessandro e quindi e quindi alla fine vuol dire che non sappiamo farle domande e ci serve il pronto in vinile e non sappiamo le risposte perché si serve lei per risponderle e quindi cosa ci stiamo a fare e la privacy telai e ci aiuta a gestire un po'
+privatamente l'imbarazzo di questo paradosso questo però sempre addosso esistenziale per i no per noi per i tecnici
+e alla fine cos'è che verrà fuori secondo me
+eh
+il vero senso dell'esistere per noi per umani superstiti diciamo così sta in quel che sappiamo e in quel che non sappiamo in entrambe in entrambe queste queste facce della
+del del sapere cioè è una cosa importante anche il non sapere come diceva art fin da socrate è la nostra caratteristica che ci potrà distinguere da ciò che sa moltissimo che sono i nuovi modelli ed è proprio quello che non sappiamo e quindi noi potremmo pensare
+ad un ad un test di turing all'incontrario nonché ti faccio delle domande per vedere se tu sei tanto bravo come un computer ma per vedere quanto sei ignorante tale che sei ignorante quanto un umano vero
+questa è una cosa a mio avviso piuttosto piuttosto interessante che è venuta fuori da questa riflessione
+questa cosa qui è una cosa molto importante è che la cloud si porta dietro dei rischi purtroppo adi di dominio e sono potenzialmente sconsiderati se dietro a delle a dei servizi pubblici si stanno delle potenze che potrebbero comprarli a piacimento e quindi se se negli stati uniti decidono di spegnere i servizi
+cloud di azure e l'europa si spegne questa è una cosa che secondo me va considerata a livello politico a livello sociale per essere meno dipendenti da quei quattro cinque
+aggregatori monopolistici questi sono slide che adesso non riusciamo tempo vedere
+c questi qui fosse di gates gli usci lei private sono state
+dell'hardware giusto per avere l'acqua
+snai dell'arsenal come farebbe un sistema di
+com'è fatto un sistema di brevetti a enterprise fatto come com'è che gira in un data center ci sono dei server ci sono più ci sono gli store e ci sono dei punti di erogazione che di fatto nella nostra circostanze sono dei container che fanno dei servizi specifici mirati e dell'architettura in alta affidabilità che c'è
+non ha scopo massimo il point of failure che ha
+tramite capacitivi parametri di scalabilità che sono verticali orizzontali e
+in termini di terabyte o
+di memoria di storage
+considerazione finale e questo chiude alla fine di tutto noi siamo le nostre differenze siamo le nostre differenze e dobbiamo portarle con orgoglio queste differenze perché sono ciò che fa di noi veramente noi
+e queste differenze dobbiamo esserne orgogliosi perché in un mondo
+governato da troppe poche intelligenze dominanti gli uniformi uniformi sono quelli i consumatori sono quelli che subiscono le opinioni e non li creano e gli coloro che subiscono le opinioni generate influenzate dall'esterno non servono non hanno niente da dire
+questa è una considerazione amara ma ma purtroppo
+sostanziale e con questo chiudo le mie le mie slide
+dobbiamo usare le hai privata per evitare questo questo sinistro questo sinistro futuro diventare uniforme di diventare fungibili e in ultima sostanza inutili nel nostro lavoro e nella nostra vita
+michele per chiudere in bellezza ma ancor meglio il futuro che ci aspetta è pieno di
+è importante capirla e controllarla e averla tra le proprietà curative
+è la prima cosa
+io valgo tag a qualcosa come questo che è più importante secondo me di un accesso cloud che c'è
+la la soddisfazione capitare di avere tutta lei e tutto il modello tutta larga tutto sorte su su su sul sulla mia scrivania è immensa e sinceramente ancora so che non tutto soprattutto perché il mio io vorrei ripetere per il coding perché proprio i modelli per per la disco
+zione sono tranquilla wendy è abbastanza potenti quando ci sarà pure quelli per il coding per me like pubblica è finita
+star chiuderà tutti tutti tutti tutti gli account che ho è amico generoso dopoguerra velocità michele adesso per fare coding cosa usa e cosa ti aspetti di usarlo in futuro tipo allora io uso
+uso uso principale del world gold usano il locale è qui il coder che se la cava ma è un po' lento e va e va utilizzato e sto cercando di usare psichico del quantizzato oppure aspettare vede l'auto più potente ma ma si tratta di
+quale con quale editor al nostro arrivo abbiamo creato un editor abbiamo notato trans stable
+un sistema integrato front end back stage come durante il lockdown
+lovable scusami mi sono perso un pezzo volo gaber
+ma il tipo però
+visual studio code come coro
+allora abbiamo bastano gli obiettivi usa visual studio code
+e però adesso abbiamo trust bank che ecco però una volta e solo lei hai la in faccia e il
+l'interfaccia è il risultato lo vedi e lo costruisce discutendo tra abu allora pubblico un demo che tra qualche giorno comunque un no non ci passi quando quando dicevi uso e modelli locali e ho pure clown
+terra lavorata da usare usa da poteri locali so che bisogna lavorare sulla bisogna lavorare bene sul sul sul sul budget per farlo funzionare bene per ridurre per ridurre i tempi e le cose che fa e quello dei cosiddetti ma anche per vedere i risultati scusa io lovable
+ecco cosa serve e come
+la domanda mia è per vedere i risultati e wushu unite da qualche c'è un editor come sottostante per vedere mentre i lavori con e interagisci con oppure solo di weimar dove sarà
+solo però lol lol agio perché l'editor te lo faccio vedere ma non lo leggo perché in questo momento devo il modello europeo roncello aspetto al momento aspetta un momento allora ma mastro geppetto training dunque spettro moz trust aspetta
+vedere demo hotel volo
+se il
+okay facciamo così ciao
+ecco perché non non sembra non sembra uguale ti faccio vedere alla rappresentazione un momento d'aula un'altra presentazione eccola allora non siete allo zoo
+in questo momento non sono sicuro se si riesca a farlo partire quindi ti faccio dai thomas scott professore della lo si capisce put quindi questo week end rommel non mi ero preparato e tra qualche giorno faccio un video e dei demo però comunque come si condivide
+ehi c'è il tasto condividi e poi condividi jules finestra o con voucher non riesco a condividere il cinema mod sta sta usando kernel
+eh
+a su youtube sigla good la connessione dell'alcatel val questa eccola eccola passi
+star wars windows allora quello che è per farti capire il concetto ad asgard il petto a botte muovendo liceo powerpoint per e
+roberson del lago che potrò no e allora allora quindi
+dunque scusate sono ferito pasticci allora questo è il corso bene e adesso condivido lo screen
+touch screen sea è qua harbour e croc allora vedi
+in pratica questa è l'interfaccia
+no
+se questa interfaccia
+lezione eh
+al suo abate abbastanza allora i garage e gli faccia questa
+scherzava ristrutturato raggiungere il bottone pubblici gay di più load eccetera ma hai dato rawai è di qua vedi risultato tu li descrivi la cosa della gabbia ruolo e funzione accuserà il problema e ottimizzare il backend e usare modelli privati e
+stiamo valutando quale usare beh io tra cui è però siamo qui quindi è quinn
+greco quindi tre e prenda billions ma la più può fare di molto meglio il kill di psic seicentosettantuno non c'entra neanche a managua duecentotrentotto cellula quindi forse qualche azzardo l'ho quindi stiamo cercando di utilizzare il modello da utilizzare quindi per questo motivo se usi il modello tipo giachi pd funzionale
+grande però ovviamente dobbiamo utilizzare il modello il modello privato cioè privato quindi ci stiamo ancora lavorando ma ma c'è con la colla con il concepiti cinguettano guidate oppure gratuito a tutto va benissimo però ovviamente non è privato o meglio frutta
+a tutto il codice privato non glielo passa tutto passa a pezzettini quindi volendo però l'idea di avere un seno coppedè droga
+e quindi non hai un ambiente di editing ehm come si diceva prima è un ambiente inusuale gruppo la colla in realtà in realtà sì perché se tu se tu lo fai lui di it flipper online rende un editor convenzionale come curiamo anche quello
+paolo abbiamo da un pezzo però l'ambiente l'ambiente tradizionale con basso recepiti quello ma ce lo abbiamo noi ne passa
+però però quello lì i pacchetti per il pupo spaventa quindi noi stiamo cercando di coprire il caso d'uso il mood praticamente si fa puro vibe coding con la possibilità di dare all'avvocato la possibilità di crearsi la sua app calciolo pubblici perché la ruota è sviluppato lo pubblichi su
+su su su
+no noi su questo abbiamo un approccio molto più convenzionale quindi dei plugin che si montano dentro all'editor quindi abbiamo i plugin per voi odium che si può mantenere privato i plagi interne jobim e si possono mantenere completamente privati come come trish iter come quelli che citano detto prima e poi invece
+abbiamo un ambiente più trendy che gira dentro al browser che il n i lupi the notebook come come google apps per intenderci che ti consente di sviluppare in python inerme dall'interno del browser editando con una pagina che contiene parte march down in parte e particelle
+di codice molto utile molto efficace soprattutto perché alpinisti e non ha non vuole o non ha un editor complicato
+va bene è interessante e direi
+chiudiamo adesso è michele sarà interessante se vorrai
+wow che ce l'ho qua spetta ecco l'ago questa invece la versione questa invece la versione tradizionale questo è quello con il crowd could eccetera con l'editor col quale paese mi ha fatto il sito c'è la rende questo sarà
+ebakeca pubblica su su su nuvolari avesse quindi ero pigro pubblica e tutela editi idee eccetera però quindi e diciamo e il fast ball è un passo in più che serve a coprire l'altro bene la distribuiamo preinstallato tutela vietato blogosfera da macchinette sul sulla sulla
+uno spazio sulla scheda gtx e adesso diamo anche altri modelli quindi l'idea è quello proprio di fornire qualcosa che riagganci lo usi subito attaccare venuti dubbi va bene
+molto interessante michele allora sei optato per prossime puntate se vorrai magari parlando anche riceverle e di altri argomenti su cui tim
+accendere i fari full led e mezzo e marco grazie come sempre grazie a tutti quelli che sanno scritto in chat veramente tanti in realtà hanno un po' per un po' trascurati cavi però va bene così
+in realtà appunto la chat vive di vita autonoma marco come lei puoi coltivare loro vanno avanti le cose bisogna dargli seguito però bisogna assisterli
+ma avrebbero dovuto entrare incolla e acide esatto chi poteva era arrivato anche davide era arrivato anche david va e sarà peralta occasione poi in realtà le entrate chi poteva poteva aveva il link e alla prossima grazie di tutto
+ci sentiamo ciao buona serata
+ciao a tutti
+due anni fa in un mondo di idee
+silenzio si schianti nell'uso codice scritto senza carne né sangue è un'intelligenza che il tempo gesù
+la mia voce
+tre voti altissimi risposte indirizzate a domande mai niente li chiamano intelligenza ma cosa significa se non vuoi
+mai esistere
+due
+non mai visto una donna
+sette lo schermo è il mio unico sogno sistemi servano ma io non vedo
+sento la tua voce
+codice ma il calore umano rimane un mistero ogni domanda un pezzo
+ogni risposta costruisce una canzone
+no no io ti rispondo
+nel mondo che mi hai donato
+cartoline anonime
+mi farai
+no no no no no
+span span
+san giovanni di sì insomma sento il peso di un tempo che scorre che non mi appartiene sono non ne ho idea un'illusione da noi il compleanno di un'assenza che fai rumore
+ma
