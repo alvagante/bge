@@ -1,0 +1,620 @@
+e quindi puntata centoquattro della brigata degli istinti ci ritroviamo a parlare di ferro ferro vecchi
+per metal
+lo stato dell'arte nei insomma di questi tempi duemilaventicinque ventisei cosa si trova nei data center e anche poi cosa con questo ferro si fa di questi tempi e lo facciamo con un po di persone sul pezzo come antonio dario e alessandro a cui chiedo una breve introduzione
+per iniziare
+vai antonio
+salve a tutti io sono andati a manifestare sono fondatore di siti web società storica che si occupa prima di webhosting e poi di cloud computing di datacenter oggi come dicevo oltre al fondatore sono l'amministratore delegato sia dici web sia del gruppo al quale lei appartiene
+brevissimo è troppo breve per cubista per quello che hai fatto nella tua carriera e abed dario e alessandro martino siete recidivi però una rinfrescata giusto per chi non dovesse conoscere quei pochi io lascio parlare alessandro andiamo per ordine signori che ogni parrocchia
+a maggio forse sì
+penoso e alessandro segnalati professionale
+sono oltre le blu
+sai che ho trovato chi mi ha proponendo torre civica poi sono passato al cinema ormai quasi ai tempi di open te e adesso
+metal
+come
+beh io sono arrivata in scienze naturali per cui siamo un po' tesi
+alessandro vivo ad amsterdam da ventuno anni
+microsoft
+la cosa giusta e sappiamo che
+la cosa più importante fa in olanda
+spesso minata clown interne a summit
+da quasi dieci anni abbiamo fatto
+al
+vive e sopravvive quattro
+ad amsterdam
+ho fatto un bel podio
+non solo
+ehi mi sa che è lì ad amsterdam un po' di connettività va
+va beh comunque bè abbia capito microsoft amsterdam e
+e l'abbiamo messo bene a questo punto dario toccatela e veloce così vediamo io avrei lasciato lo spazio martino
+fare il modesto orario di lavoro
+ma ma non è che ci conosciamo tutti quanti nessuna parola martino mi tengo per ultimo da martino
+ciao naomi dopo un tentativo fallito in ambito accademico non so sempre colpa mia dell'accademia e propria epidemia
+ho messo ho cominciato a curarmi di infrastrutture infrastruttura una volta si chiamava gestire i server linux probabilmente è al momento mi occupo di consulenza devops ho lavorato molto su kubernetes ma sono il primo a tentare di dissuadere le persone dal usarlo che devono convincermi loro prima che io accetti
+è
+di lasciarglielo usare quindi non sono un adepto necessariamente
+stasera mi sono infilato forse più per fare domande che per dire qualcosa ma comunque è
+mi mi interessa la parte del bar metal legata a cumberland magari magari in poi farò qualche domanda a dare su questa cosa e ti dirò qual qualche piccola esperienza che ho fatto io questo io io proverò a rispondere farò del mio meglio ma il mio nome dario dato che stiamo parlando tutti quanti di quello che non facciamo con chi
+sto con la tecnologia io studiai diritto ed economia all'università di torino quindi se volete parlare di rendimenti marginali decrescenti e quante materia economica anche di finanza e di valute è una cosa che mi appassiona tantissimo e ogni tanto nel tempo libero a scrivere un pochino di code
+con chi giorni
+ho contribuito a uno trentacinque otto commi fondamentale per chi detiene quindi solo anche un contributo per chi vuole possa spacciare da questo punto di vista se si spaccano le cose sapete che è colpa mia e scherzi a parte comunque realtà ho co-fondato plastics nel duemilaventi
+non amo un progetto all'assenza di capsule e adesso non gestisco più direttamente cammina con le sue gambe ma uscite trovare persone che subiscono e patiscono il mio terzo figlio del quarto figlio e un altro progetto su cui stiamo puntando tantissimo che si chiama capaci e viene utilizzato ampiamente nella
+ambito dark metal non tradizionale ma per metal all'ambito laurentiis
+ottimo beh a questo punto andrea ben trovato e ritrovato e chi non ti conosce bene però se vuoi fare una propria presentazione così all'improvviso
+buongiorno a tutti innanzitutto una sera io andrei aree praticamente attualmente è un fatto altamente nulla
+se non giocare con i miei guerini di casa
+lavoro come sistemista prima e cloud così dopo da ormai po'
+di anni e che ci si diverte a sbarazzare delle cose negli ultimi cinque dieci anni specializzato faccio solo granata sostanzialmente container governata su tutto il mondo passando da quello che era
+mestiere tanti tanti tanti anni fa che adesso si chiama essere fino ad arrivare a openshift poi per passare strappate via guardando come si chiamava una volta adesso si chiama micah s è sostanzialmente ho visto occupa nas in tutti i modi in tutte le distribuzioni possibili immaginabili tra il vanilla list
+soluzioni dedicate dei vari vendor
+mini distribuzione kubernetes del mount tutti i tipi sostanzialmente e quindi niente ci si diverte così bene allora però di addentrarci su cui prendete se l'hardware vorrei parlare un po' di ardore e ne approfitto per chiedere ad antonio che fosse quello che più ha il polso del mercato fra spreco di memoria che mai
+dalle stelle ma anche in realtà per come l'offerta hardware attuale per data senta cosa
+oh aspetta aspetta che non ti sentiamo sei muto antonio se petrov mia colpa mia sono il metalmeccanico tra di voi visto che avete citato la formazione io sono come si suol dire un informatico di ritorno nel senso che io in realtà ho studiato ingegneria elettronica ed ero un ardue list
+diciamo così no poi ad un certo punto sono rimasto fulminato dai
+ecco quindi io conoscono informatica partendo dalla piastra processore da montare con la francia ai miei tempi si facevano queste cose poi ci si scriveva il codice monitor in assembler e poi si andava sempre più subito a far accendere qualche luce per dare l'idea che stesse succedendo qualcosa di elaborazione quindi capite che venendo da lì poi
+siccome ho da dire quello come quando da ragazzino guardavo spazio millenovecentonovantanove nasce più o meno
+scene simile
+quindi no il mercato dell'hardware va beh diciamoci è ormai negli ultimi dieci anni siamo passati da un sacco di momenti di transizione per quanto concerne l'hardware perché prima noi eravamo un hardware che era controllato da un certo numero di vendor plastici storici
+e avevano una grossa presenza nel mondo interpretai e che meno male quindi progettare un tavolo c'era da progettare per il mondo enterprise poi c'era un di cui che veniva usato nei datacenter contatto negli ultimi dieci quindici anni con il grosso la grossa esplosione dei carichi di lavoro su cloud principale
+sugli schede è chiaro che si è molto ridimensionato la posizione dei vendor sull'hardware enterprise che anche cambiando molto
+quindi
+oggi gli hardware diciamo pensato solo per l'enterprise se ne trova relativamente poco questo è il dato di fatto mentre l'hardware parlo dei grandi vendor quell'hardware che si trova è un po' un prodotto che ho pensato solo per i data center vedi raffreddamento a liquido cosa di questo tipo ho pensato un po'
+prodotti di transizione
+questa cosa fa un po' il paio con una riduzione dei volumi perché se voi guardate che vendono classici come possono essere lenovo prima di dire no c'era ibm a capire questo mondo qui è il numero di pezzi venduti nell'ambito server è sceso sensibilmente
+bello che è salito il fatturato quindi diciamo si vendono cose più costose questo dove sta andando il mercato ma non adesso da tanti anni cioè
+noi compriamo serve giusto per darvi qualche numero no di valore unitario tra i sei e gli otto mila euro
+o diciamo quello che possiamo classificare come un server quindici anni fa si compravano sempre con un valore unitario di due tre mila euro cioè questo giusto per per dargli uno spaccato e quindi l'offerta segue un po' questo film chiaramente non è che hanno solo alzato i prezzi è chiaro che c'è più ram c'è
+c'è qualcuno che ha alzato la pelle e per la legge più che alzano il prezzo no leggi ancora non erano arrivate in realtà due biglietti sto parlando di server senza gps web server classiche noi ormai storicamente usiamo una configurazione piuttosto standard sono macchine con doppio processore una certa quantità di ram
+di diciamo
+dal da qualche centinaio di gigabyte in su
+gigabyte scusa in su quindi la macchina più o meno sempre la stessa chiaramente il processore gabbia quindi è più potente eravamo un po' aumentano sto parlando di più l'aumento del costo dell'oggetto in questi anni è dovuta al fatto che l'oggetto medio che noi compriamo ma in realtà
+che comprano tutti ci è andato proprio di mercato è diventato più potente sensibilmente più potente c'è molta più ram c'è molta più bandwidth su da molti punti di vista su un'architettura più prestazionali ha molti più cor cioè molte più cose e quindi diciamo al valore medio del costa di più e anche il consumo è oggi
+una macchina doppio processore epic che consuma tranquillamente cinova cosa che era impensabile e quindici anni fa
+e questo è quello che è successo dal punto vista del server
+da se penso all'utilizzo che ne facciamo noi noi abbiamo fatto anche
+oggi parliamo di bermuda lo abbiamo fatto anche un percorso un po' diverso stavo dicendo prima da alessandro c mentre chiacchieravamo nel senso che abbiamo
+bene o male scelto di abbandonare quasi completamente il black metal nel senso che ovviamente lo compriamo il per me lo abbiamo quasi completamente abbandonato come offerta al cliente principalmente per un motivo di convenienza e di facilità di gestione perché chiaramente mettere un qualche cugina in mezzo semplifica il mondo in una maniera incredibile poi ci torniamo
+punto di vista anche per darvi un'idea di quello che noi almeno stiamo facendo per il futuro quello che vediamo essere una direzione poi quindi questo è un po' la situazione negli ultimi anni poi è partito il fenomeno più il fenomeno kg più ha un po'
+non tanto cambiato ma insomma un po' spostato quello vi era una situazione abbastanza stabile che si era creata diciamo orientativamente fino al duemilaventi
+c'è stato questo aumento di costi però insomma situazione era piuttosto stabile
+l'arrivo del kgb più a vo
+sveglia ago in positivo i vendor vi hanno cominciato a rivedere un posto in gelo che facevano per creare quello delle macchine adatte a ospitare tanti di più
+quindi si è ripreso fino al duemiladiciotto duemilaventi e raffreddamento a liquido
+abbiamo quasi lancerà roba quasi quasi inesistente
+attorno a quegli anni con l'arrivo del kgb più sono usciti parecchi vendono con raffreddamento a liquido perché chiaramente la potenza per un dare che è salita enormemente no voi pensate che una macchina quattro quattro con dieci gb più fa tranquillamente sei sette kilowatt ma colleghi più o meno performanti
+ci metti dentro le acque a duecento in tre uno ci stanno degli almeno avere cinque sei uh però comincia ad arrivare a sei sette otto nove anche dieci chilowatt di consumo per quattro cinque guidare quindi parliamo di consumi importanti che raffreddare ad aria non è proprio agevole
+questo ha creato un c'è campo risvegliato il mondo l'offerta
+e quindi sono certa c'è la nuova effervescenza insomma che oppose era arenata ripeto c'è tanta spinta ad andare verso l'area del curling al liquido che chiaramente nell'ambito enterprise è un po' scomodo diciamo no quindi parliamo di cose più pensate per i data center o comunque per dell'istat
+l'azione un po' più dimensionate diciamo
+e negli ultimi proprio negli ultimi anni ma hanno negli ultimi dodici tredici mesi si è innescato un nuovo fenomeno che è quello dell'esplosione del costo del rame
+gli sta un po' adesso bisogna capire quanta esplosione vera quanta speculazione guarda che incontriamo nella fase in cui non è chiaro però diciamo che quello che è banalmente successo che c'è una pressione di acquisto molto alta sul fronte del kgb più
+altissima
+per una serie di motivi la marginalità sul mondo dei chip per l'ecg più leggi più in questo momento è oltre il cento per cento parlo di marginalità industriale che owen in india per capirci abbiamo siamo oltre il cento per cento il mercato quindi è un prodotto estremamente appetibile da parte di chi lo vende
+e così appetibile che spinge fuori i prodotti a marginalità più bassa questo lo fa e nei media e nei media prima o poi un certo punto della storia compro una società che faceva switching no che da cui poi è nato il progetto cumulus so se qualcuno di voi l'ha seguito tutta roba ma
+messa ormai molto da parte no
+noi per esempio abbiamo fatto questo investimento anni addietro adesso lo stiamo togliendo perché si capisce bene che ne vidi abruzzo non gli interessa più e lo capisco anche perché non mi interessa più mobili
+e quindi sta concentrando tutti gli sforzi sulle cose a più alta redditività l'effetto di questo è che questo fenomeno di concentrazione sulle cose della capacità produttiva sulle cose più alta del buddha è scesa nello stack fino ad arrivare alle fonderie francisco
+e quindi tu oggi c'è un fenomeno per cui chi fa chip di memoria e se ha la tecnologia per fare abm chiaramente preferisce fare a ma non di dierre non so se
+conoscete un po' questa situazione la bm sono le memorie ad alta banda ad alta baby
+achab me sta bene high bandwidth memory sono delle memorie che sono realizzate non in due kg diciamo che noi diciamo rozzamente le memorie quella del ddm quelle classiche che stanno nei computer sono diciamo delle memorie in due dvd nel senso che c'è un unico piano del silicio dove viene costruito tutti i gate e la memoria
+su un unico piano le acque abm immaginare come se avessero più piani uno sopra l'altro infatti si chiamano anche memorie sd
+perché hanno questo sviluppo in verticale e sono state pensate per sviluppare molto più truth bandwidth molto più dubbi perché per esempio il caso del kgb più questo è un problema cioè con diciamo su architetture super scalari
+super matriciali e la memoria è il collo di bottiglia e quindi devi stressare molto larghezza di banda queste memorie oggi chi le usa è disposto a pagare tanto e quindi chi costruisce memoria sta facendo spazio produttivo del bm diciamo a scapito delle memo
+le classiche convenzionali
+per una normale legge di domanda e offerta questo fa salire il prezzo del cds quindi oggi noi abbiamo la l'esplosione del prezzo del rame che usiamo nei server ma in realtà che usiamo pure nel generico pc che troverai di stato pagando perché prende samsung è quella che è stata una delle prime a lavorare su questa cabina conce
+entrata tutta la sua forza produttiva sua capienza
+e quindi di fatto non produce più le memorie che usavamo una volta questa stessa cosa è un po' sugli altri vendono quindi adesso stiamo se ne vanno questa situazione poi incredibile per cui il mercato dell'offerta dei chip di ram non è sufficiente a soddisfare la domanda dei vendor che costruiscono cose con la raf ma scusa domanda antonio e
+non ci sono spazi per come dire
+vendor magari che usano tecnologie ma appunto di un pochino meno evoluti immagino di conseguenza anche
+città nuove per nuovi player
+ma le risposte simili però diciamo se tu ti sposti sulle macchine diciamo così che stanno un po' su legge dei paludi end di hardware su su macchine che stanno un po' su legge tecnologico quindi su gli intel più performanti sui rilievi più performanti quelle macchine richiedono
+tecnologia di memoria che è una tecnologia altrettanto di punta cioè quindi a livello di tecnologia in silicio di robotica urgente
+zero metri tu devi necessariamente usare una tecnologia di punta che è una tecnologia che in questo momento viene tutta orientata verso le acque avviene quindi quello che accade che tu infatti se vai a vedere l'impennata dei costi della dell'ashram vedrai che ad essere salire vertiginosamente formuleranno più performanti quelle che tipicamente si usano nei server con lievito più
+veloci pieni vi corrono no perché tu hai bisogno mentre se tu ti vai a vedere le
+le l'iran che diciamo così il mercato passami il termine povero ma non perché sia povero prova che le kingston è roba che si usa anche a livello casalingo l'impennata dei prezzi è molto più contenuta quindi c'è un po' questa questa situazione
+vedo ci sono un po' le mani alzate o quasi può intervenire con garbo in questo suo momento più o meno
+sono
+sono contento che parliamo con te
+perché invidierà che possiede infine bello anche il network che alla fine non è a caso che è un po' come su quell'atto no una volta di cambiare la ram jack più uno potete giocarci polso anche se avevano già pronti so che invia tutti vendere questi questi tre fabbri
+acate di ping più con i bed già già precisa di quello che credevo stesso fenomeno che sta accadendo va
+che non ci puoi più mettere le mani ne servono anche l xl
+ma non ti so dire allora noi quelle macchine l'area di gx di invidia noi non le abbiamo mai comprate quindi diciamo che la parte di infrastruttura kg più che usiamo è basata su macchine principalmente lenovo
+ne abbiamo una buona quantità supermicro ed da capire quella macchina l'abbiamo comprata perché diciamo è un tipo di macchina che olivia diciamo che piuttosto costosa quindi non è un rapporto prezzo prestazioni diciamo da primi della classe
+per avere degli sconti qui parlerò molto fuori dei denti per avere degli sconti oggi con invidia devi fare un deal da almeno dieci milioni di euro perché altrimenti non ti rispondono nemmeno alle mail
+e quindi quelle macchine per noi non sono particolarmente interessanti diciamo rice lake costruiamo con un vendor tipo lenovo
+alla fine ci mette dentro tutto quello che ti serve perché questi vendor che non sono vendor minori se vogliamo no
+che però nell'ambito del più comunque fanno volume un po' più bassi e quindi anche dille che che noi trattiamo sono dille per cui abbiamo un minimo di potere contrattuale
+a seguito dei detto tra noi non è solo un problema nostro se tu ti sposti negli iper schaller quasi nessuno compra quella roba lì c'è quasi nessuno comprende gcs per te
+a per motivi diversi però in realtà quello è un mercato che a oggi al punto di elezione nell'acquisto dei centri di calcolo per la ricerca pubblica amministrazione militari cioè quel mondo lì è fortemente presidiato da quelle macchine o acquisti di chi magari non ha ben chiaro cosa fare quindi ha bisogno di una guida
+ida un po' più forte da parte di chi gliele vende quelle macchine però e quindi è disposto a pagare un po' di più perché c'è un aiuto reale poi del tabloid cinquant'anni
+quindi sull'olio dirigo noi per esempio però pur non comprandole di chip raramente mettiamo le mani dentro un server durante il periodo di utilizzo e non è solo un problema nostro diciamo che tutti quelli che hanno un minimo di dimensione non siamo grandi di no in realtà non
+piccolissima ma nemmeno grande però già noi per esempio quando facciamo i lotti con il vendor tipicamente compriamo un certo numero di server se compriamo qualcosa
+lo mettiamo in produzione con un'attesa di vita che io so di tre anni tipicamente tra i tre e cinque anni adesso colleghi più un pos accorcia dove non ci sono più si allunga un po' però diciamo il range di utilizzo di una macchina gente trentacinque anni tipicamente in quel periodo noi non tocchiamo più la configurazione quindi anche se non abbiamo comprato
+il famoso di gx che dicevi tu in realtà lo compriamo nella nella configurazione x e non dobbiamo
+e noi diciamo così quindi l'unico intervento che fa viene fatto su quelle macchine sono gli interventi di manutenzione che per esempio nel nostro caso facciamo fare direttamente dal vendor cioè quando comprano da lenovo in quei tre anni la macchina te la linea g sfida dal punto di vista di jenson invitiamo ad andarlo a toccare direttamente bella abitudine
+se avessimo una massa critica un po' più grandicella potremmo anche utilizzare sistemi più furbi di gestione per esempio se prendiamo l'aids gallery
+più o meno fanno tutti uguale sia i tool microsoft brad west in realtà loro per esempio fanno un approccio molto simile però più sofisticato nel senso che quando si guasta un angelo non lo riparano ma lo spengono e lo marcano guasto cioè non non è previsto da andare a toccare una roba quindi loro esasperano ancora di più questa
+frocio infatti so se vi ricordate ma per quello è più che altro è una roba di marketing no però quando microsoft fece il vada sempre ad andare a immergere sott'acqua no lei una delle polemiche più grossi di cetara sai quando si rompe ha premesso che la stessa operazione confessato tutti simpatici premesso che era più un'operazione di marketing
+ho comunque un esperimento che non puoi
+una cosa vera da fare però per esempio quello lì era l'ultimo dei problemi perché microsoft nei suoi moduli mai da anni quando si rompe una roba non la ripara semplicemente la marca guasto e non la usa più quando la difettosità del modulo arriva a unix per cento che loro hanno deciso lo sostituiscono perché in realtà
+andarci a mettere le mani può avere una serie di effetti collaterali negativi poco prevedibili che sapete meglio di me quando uno va a chi di voi entrate in un dado se vai in un ranch stile zelda rimette il server rimane impigliato il caos stacchi la doccia possono succedere le cose quindi conviene non mettere cinema
+questo è un po' per rispondere ad una domanda quindi in realtà già oggi pur potendo ma nessuno noi non abbiamo mai aumentato la ram ferro
+eccoci grazie
+allora io mi domando però quanto e andrea qualcosa da intervenire a dire di no è che proprio nel discorso che stavo facendo prima antonio per esempio io seguo anche il mercato consumer essendo un pc gamer quindi se anche tutto il mercato
+dei pezzi per casa e per esempio micron ha deciso di chiudere crucial come marchio che il classico marchio consumer che è proprio quello dei prezzi tu quando ti serve qualcosa che posso nel navy
+beh una ram la prima cosa che vorrà ricominciato i prezzi comunque buon prezzo rispetto alla qualità ha deciso completamente di chiudere la linea con un sol quindi non ci son più e consumer fatto da micro poche perché vogliono massimizzare la produzione di hardware per l'ai e quindi per un mercato più data center più alto guadagno
+io piuttosto che il mercato consumano infatti anche il mercato consumer sta soffrendo tantissimo di questa crisi di ram perché non so se avete visto i prezzi recentemente se volete farvi un pc nuovo la randa che fino a sei mesi fa una seimila mt s l trenta poco sweet spot di una rana da che costavano
+centosettanta centottanta euro adesso un minimo trecento euro per farsi un pc budget di casa quindi anche i prezzi sono aumentati in maniera esponenziale e marchi stanno scomparendo dal mercato marchi storici stanno scomparendo al mercato proprio per via di tutto questo aumentare di prezzi e mancanza di
+relativamente sempre col discorso non so se vi ricordate tutti i bei discorsi che stiamo facendo intel forse un paio d'anni fa che volevano mettere nuove fabbriche anche in italia per iniziare a fare nuovi prodotti un po' come concorrenza qualsiasi mcgee alla fine non se n'è fatto nulla i risultati si vedono oggi che se ti piace mcgee riesce a star dietro ai
+gli ordini perché ci sono troppi i vendor che chiedono va city eccetera eccetera tutta la produzione mondiale si ferma i prezzi aumentano in maniera esponenziale ci ritroviamo la situazione attuale che praticamente poi ci c'è spazio per noi vendor però ora che arriva il vento allora che riesce ad arrivare il new price da produrre al almeno alla stessa
+qualità almeno la stessa tecnologia tutto passerebbero anni e decenni anche solo di essermi cipro aumentare la produzione cosa che dicono di voler fare poi bisogna vedere se vogliono fare anche solo quello ci mettono con quei mesi se non in pochi mesi quindi muovendo completamente da zero che abbia il nuovo che abbia gli stessi processi costruttivi
+vivi processi industriali tutto da qui a cinque anni sinceramente la vedo quasi impossibile
+qualcuno sa un pò il mercato delle foundry come smartphone è percentualmente dopo e se ci cosa c'è samsung busto praticamente il novantanove per cento dei chip sono ossa
+fossati che continuino a microonde sue foundry comunque giusto però non dalla parte di quello che è adesso e in mancanza perché allora da quello che ho letto io associandomi sapevo anche io quello che ha detto antonio invidia praticamente sta dicendo ai propri partner ricordatevi che vi fastidio aleramo quindi tutti e tutte
+tutti i partner che assemblano
+custom le schede video casting come si deve arrangiare a trovare i prezzi micron si sposta completamente nel mercato enterprise quindi tutta la parte consumer viene completamente sviluppata piace mc sta' indietro con le produzioni quindi non sta dietro agli ordini molto semplicemente parlano di aumentare però bisogna vedere
+riescono effettivamente poi ad aumentare aumentate esigenze intel e apple sono un po fuori da questi discorsi anche perché apple si produce il novantanove percento da solo ma se non ricordo male utilizza samsung però parte rame è quello che gli serve e intel sinceramente per l'aeroporto di più non saprei dire proprio non so
+oh si utilizzano samsung vanno verso microfono voti e omicidio ma parallela no non fa tutto contiene semplici cioè la produzione proprio dei baffi e tutto quanto io sì però le allora le si però è slegata della parte ram il problema quale è allegato alla rama si sia creato il problema attuale
+che abbiamo oggi e rame e in futuro si prevede che intaccherà anche da parte di ssd in parte lo sta già impattando perché se vedi i prezzi se prendi un qualsiasi trucker i prezzi per quanto riguarda i kennedy via mail già che stai iniziando a salire e non solo esprimere anche comunque a caccia di classici che vide proprio il trend che sta inizi
+dopo poco fa salire qui se mi permetto aggiungo un'altra cosa secondo me anche un esercizio che dovremmo fare è che se capisco che il ragionamento è un po' anche antipatico per alcuni versi però dovremmo riuscire a cab idee diciamo di tutti questi chip kg più o comunque dell'ente
+queste macchine gb più che si stanno producendo e che si stanno diciamo vendendo dico diciamo perché questo posto merita un approfondimento è quanto poi realmente questo trend che oggi stiamo osservando è youtrend reale cosa intendo dire intendo dire che se io oggi volessi comprare
+fare mille w duecento avrei i tempi di attesa quindi diciamo mille biblioteca non è un acquisto importante di mille duecento avrei dei tempi di attesa di sul mercato primario di sei mesi e mille duecento sul mercato secondario si trovano in quarantotto ore quindi questo
+per quella che è la mia esperienza è spia di un fenomeno strano cioè che ci sono dei soggetti che oggi stanno comprando queste rami questi oggetti non noteranno parlo di tutta la board your self mccartney leggi più moderne due effetti comprende tutto il server che butto integrata come diceva prima
+lo stanno comprando non principalmente per usarlo ma lo stanno comprando o permetterlo da una parte e parte di questa roba finisce sul secondario cioè io quello che sto notando ed è un fenomeno che ormai è abbastanza stabile da un annetto e mezzo che c'è più offerta sul secondario che non sul primario per quando concedere
+più è un fenomeno che non è mai capitato insomma cioè se tu guardi il mercato classico dei server ante duemilaventi tu avevi sul mercato secondario c'era l'ho usato non c'era c'era un po' di amy boxed ma pochissima roba di boxed no cioè fa il classico leasing che non parte quindi quell'ordine rimane a galleggia
+nel nulla e finisce sul mercato secondario qualcosa c'era ma insomma era raro mentre adesso sulle gtk più il mercato e strade secondarie come la vendi inondato da da da da roba a boxed
+questo è un po' un fenomeno secondo me dovremmo capire perché uno dei dubbi io ripeto è una congettura che faccio so che mi attiro credo che in questo momento ci sia anche un po' di spinta che viene dalla finanziarizzazione di questo mercato
+sembra proprio olimpico quelli che vendono i picconi
+chiama speculazione immagino stanno sfruttando l'onda e la bolla hai per speculare il più possibile su queste cose la probabile non lo so non ho prove per dire
+anch'io e magari ne stanno usando meno di quanto pensavano di
+diciamo che io ios lancio ti lancio un'idea
+ci sono un paio di villa diciamo non non dico sospetti però insomma non convenzionali che che che è bene però studiarli uno di questi ville e quello di google wave che è un neo cloud verso in libia se voi vi vedete comunicati stampa degli ultimi sei mesi adesso non mi ricordo i numeri però a un certo punto google wave
+piazza un ordine da divo sei miliardi cifre incredibili di dollari sua invidia c'è ormai si comprano i lotti di produzione che si comprano leggi più e fare un'operazione del genere e
+poi dopo un po' è invidia compra una specie di diciamo garantisce una specie di fiducia dove dice guarda che però se non le vendi me le riprendo che è quantomeno bizantina con un'operazione no
+e quello era un fenomeno interessante l'altro fenomeno interessante per me che andrebbe studiato il fenomeno open e hai invidia microsoft
+che è un altro fenomeno interessante che andrebbe studiato cioè secondo me ci sono tanti fenomeni interessanti anche perché per esempio se guardate noi tutti parliamo di bollano
+oggi stavo guardando per tutt'altri motivi un po'la al cosiddetto price earning che è un termine più finanziario che c'è un modo per diciamo così per capire quanti titoli sono sopravvalutati
+se voi guardate il pritzker ning di invidia è alto ma non è da bolla cioè e noi abbiamo società quotate a milano che hanno un brainstorming più alto di quello di invidia per dire quindi
+giusto per capirci ha un feeling è alto ma non è da svenimento perché perché quel paese il la
+grande sviluppo
+diciamolo a londra l'esplosione in invidia è un'esplosione di idee emilio non è un'esplosione di aipo c'è e invidia lo sta fatturando veramente quello che vende tant'è che il pm tra i serbi ingresso lo dico per chi magari non è incuriosito da queste cose è la differenza tra il prezzo del titolo
+e gli utili che genera nel mondo finanziario significa quanti anni di utili devo aspettare per avere indietro il valore del
+della capitalizzazione del tifo no mi sembra guarda ho qui scopri cosa stavo facendo oggi il kerning di invidia e cinquantotto che è alto è però in italia abbiamo una società votata diciamo nostra competitor e ai cinquantasei libri sermig quindi è a
+alto e la società di cui stiamo parlando
+ecco non è però per dire in questo momento e polla quarantuno cioè il più sfigato di tutti in questo momento è meta che ci ha ventisette quindi per di range non è così alto questo cosa voglio dire voglio dire che questa roba invidia non è che sta lavorando sulla palla sta rendendo veramente e non solo la sta rendendo veramente
+ci sta facendo gli utili veri dollari veri ora questi dollari mensili però per quanta parte sono un po' troppo a carosello e ti ho fatto l'esempio di google wave ma a casa di microsoft cioè il dubbio è che molta di questa roba che viene prodotta viene anche pagata poi nella realtà non sta venendo usata e non
+so chi di voi ha seguito la cosa ha detto dice adesso faremo grandi da sempre però hanno capito che un conto è lanciare un bond di kubernetes un conto è costruire un data center metterci sempre dentro cioè i tempi sono diversi e se oggi decido farò dieci giga dalla gente se sono bravissimo ci metto due anni per accendere il primo serve
+ma devo essere particolarmente bravo e non devo stare in italia perché altrimenti due anni se li prego soltanto per avere il permesso di costruire quindi
+secondo me c'è da studiare bene questo fenomeno per capire quanta speculazione quanto effetto dovuto a questo mercato un po' strano che si è creato per motivi strettamente finanziari insomma va un po' visto anche per perché dovremmo un po' a capire come dove andremo a parare no perché anche per kde
+decidere quando e come comprare questo è un tema si
+dario vorrei aggiungere una cosa ma in realtà è difficile aggiungere qualcosa di valore dopo proprio detto antonio in realtà faccio una puntualizzazione perché nell'anteprima ho detto che sono appassionate di economia e anche andrea prima parlava dello sport in italiano sciolto esame
+mi dispiace niente
+della della rana vacanza mancanza diranno che magari potremmo trovare un parallelismo anche con la crisi petrolifera degli anni settanta anche se pollici sono motivazioni geopolitiche anche se effettivamente poi andando a vedere quello che succede in taiwan cina e america effettivamente importante da dio la geopolitica c'è tempo
+da discutere ma non vogliamo fare una puntata di domino segretario fabbrica che sono operato come lui ma volevo semplicemente mettere i puntini sulle i perché quello diceva antonio effettivamente è vero
+è un pochino difficile dire se una bolla o meno ma c'è molta finanza creativa io mi ricordo che con il mio socio adriano scherzando sul fatto che il corvo diventò un azienda pubblica nel giro di pochissimo tempo ovvio a azienda americana è completamente differente ma mi ricordo che fece un accordo con nvidia
+come ha sottolineato antonio ma allo stesso tempo fece anche un accordo con open air per vendere i loro server e quindi alla fine sembra effettivamente il gioco delle tre carte perché se è invidia vende a orwell orwell vende a open e open e in parte ha anche una correlazione con invidia sembra
+operazioni finanziarie
+che è assolutamente lecito da fare
+lungi da me dire che stiamo inventando stiamo bruciando soldi stiamo immettendo soldi dal nulla che si crea inflazione di sicuro l'inflazione c'è per una questione anche di mancanza di materie prime perché è evidente sotto gli occhi di tutti che poi sia artificialmente indotta diventa difficile pochino complicato semplice
+avevo un po' di domande arretrate però volevo dirti qualcosa da aggiungere mattina magari andrea su quanto detto finora
+che poi tra l'altro in quanto ho detto finora c'è anche da aggiungere invidia con intel che non so se avete seguito qualche mese fa il suo d'invidia ha dato discreti soldini a intel per aiutarli visto che la situazione intel dopo gli ultimi disastri con le generazioni lato consumer non è propriamente delle migliori nella tecnologico nel lato economico quindi
+interests isola si lavano le mani a vicenda ecco diciamo che una botta di claut sovvenziona apple per avere un mini rugby ed esattamente quindi diciamo che in tutto questo mondo ecco allora io non sono tra quelli che non sono a uno
+cospirazionista che pensa che dietro c'è qualcuno che per forza deve manovrare tutte le cose economiche però nel senso che in questi casi vedi che ci sono abbastanza quando ci sono
+sicuramente ci dette una speculazione non da ridere
+speculazione è inutile nascondersi è inutile far finta che ci siano determinate cose per esempio i magazzini che non hanno disponibilità di certo hardware laddove si impenna il prezzo quando comunque già sapevi quale poteva essere la richiesta del mercato eccetera eccetera eccetera quindi diciamo che alcune cose sono
+non sospette nel senso che se hai un'azienda con certi numeri con cui in cui ci lavorano determinati professionisti
+non pensare che potreste avere questa data richiesta e quindi essere in grado di soddisfare questa data richiesta non dico al giorno uno al giorno cento un pochino la persona si inizia a sospettare che forse qualcun po' di manovra dietro ci sia non è niente di cospirazionisti co perché non esageriamo però diciamo che come qualcuno diceva prima finanza creativa
+iva quello si quello sicuramente
+che vogliamo dire una parola trump e anche trump che sta cercando di far vedere che l'economia gira quando dietro c'è cepu di niente poi sarà anche comprato dieci per cento di intel quindi dai soldi a intel può fare favori politici anche tutta la geopolitica dietro
+e trump dicendo che eco che dice invidia cosa vendere cosa non end questo chip sì questo no tutto c'è moto dietro c'è modo giusto per fare un po' di chiacchiera da bar secondo voi questa bolla si sgonfia scoppia o è troppo annunciata che cosa faccio
+poi quelli che poi le classiche previsioni impossibili però
+se era in malo modo tuo un bel match analyst non s'affrettò fratello il materasso doppio e ci metterò hollywood l'idea che abbiano un prezzo io ma so di microsoft o abbiamo un prezzo in mente sotto di quello vendiamo cinquanta per cento mettevano matera
+su amazon c'è
+se no se no jonio perdersi quindi secondo me tra qui e l'anno prossimo se verremo quindi il sondaggio da andrea scoppia
+e posso anche motivare il perché non è solo una idea ma semplicemente perché li ha oggi come oggi una sostenibile realizzata a livello economico non è sostenibile per come almeno per come è fatta adesso poi da qui a ics tempo non so come si evolverà ma per come è fatto adesso nn è assolutamente sostenibile a livello di costi c'è il discorso che abbiamo vissuto
+erano i più anziani fra noi della dell'internet la bolla di internet che però non è una bolla ingiustificata perché poi chi ha vinto quel mondo è quello che domina adesso no quindi è la stessa cosa credo che succederà con lei non è che sarà la cosa di cui scomparirà faranno ci saranno le perdite forse quelli che
+che hanno modelli di business sostenibili e tempo
+arriverà duemila ma poi scomparire non penso perchè comunque ho ormai oramai è diventato uno strumento di tutti i giorni che se si sa usare è veramente ottimo poi non parla del balconing tutto perché di un discorso a parte però aveva parte che liala usiamo già da decenni in tutti i campi e non sono un'informatica quindi ormai sarebbe assai
+kurdo dire no basta cioè in fotografia video editing queste cose guarda io ormai è una cosa scontata per scontata da quanto dieci più anni oramai più o meno nel campo di informatica lo sviluppo e le mamme è qualcosa di più nuovo ma ormai sta diventando sempre di più uno strumento utilizzare tutti i giorni quindi quando parlo di bolla che scoppia mi intendo che non si userà
+più lei semplicemente tutto il mercato che c'è dietro è mantenibile almeno per com'è adesso magari non mercato ma l'aspetto finanziario andrea esattamente sette mesi il problema più grosso sono le valutazioni di aziende che magari hanno messo il termine ehi hai e che di conseguenza sono compatte di valois
+tazione che poi non sono effettive perché un conto è dire paghiamo dieci miliardi di dollari quei dieci miliardi di dollari hanno una valutazione intrinseca però poi in realtà è un mercato vuole vedere i numeri come diceva anche antonio prima devi generare revenue e sedici general review e non ce l'avrei mai potrei valere anche dieci miliardi
+dall'oggi al domani poi vali zero e quello diventa la bolla bolla vuol dire che chiunque ci abbia messo i soldi davis i fondi di private equity o chiunque altro si ritrova con il cerino in mano ma fa parte del mercato io ho avuto un'evoluzione e sfortunatamente perché io ero più un keynesiano e poi forse invecchiando
+o maturando dipende dai punti di vista sono diventato un magari un pochino più austriaco dal punto di vista di scuola economica mercato si autoregola alla fine ma anche perché si noti novantanove percento dei prodotti in piazza il bulino e hai giusto per fare quel più trenta per cento più cinquanta per cento più cento per cento rispetto al costo di listino che avrebbe senza avere quel bollino
+un po' come mettere la scritta gamer o la scritta bio proteine nel campo alimentare è esattamente la stessa cosa dello stesso prodotto con più di cinquanta sessanta settanta ottanta novanta cento percento a seconda del prodotto perché ha il bollino agli eredi oppure non sua vita e hai tutte queste menate quindi assolutamente concorde con voi
+dunque ci sono aziende che fanno ottime cose anche con ia io penso tanto ad hadopi per esempio toby era conosciuto principalmente come marchio che faceva semplicemente grafica però sono stati tra i primi a sfruttare in maniera molto molto molto attiva le aree con ottimi risultati mi pare che anche
+gli earnings e national sono assolutamente positivi però siamo un pochino divagando la puntata non è sulla finanza scusate no beh però insomma sulle bolle ai legati anche all'hardware ci può stare poi qua ed divagare erano specialità
+chiedeva giusto per non escludere nessuno martino la tua i tuoi due sensi sulla bolla quanto
+mi lanciano in queste queste previsioni economiche quello che posso dire
+nella mia esperienza di tecnico edile che diciamo l'impressione che sto avendo sulla sull'asl grado di cambiamento che sta portando soltanto l'idea in generale malkiel diele lemme insomma è simile solo a quello che ho avuto la prima volta che ho visto weblog quindi vendi owen più di venticinque anni fa
+non lo so una cosa di vespucci e secondo me tutte le altre cose che sono passate di mezzo per non parlare di criptovalute queste cose qua personalmente poi non è che ci dici imbrocchi ovviamente non ho niente di della portata che ha avuto questi due eventi qua almeno probabilmente questi due caposaldi
+anziché che ho vissuto la mia vita quindi è chiaro che
+da uomo della strada dico sembra la molla però non lo so perché in verità potrebbe essere un momento trasformativo della società quindi è sicuramente interessante quello che antonio sul fatto che chi invidia sta prendendo veramente queste cose mica per finta potrebbe essere il famoso che vende i picconi e i cercatori d'oro quindi è più
+magari sono gli utilizzatori che andranno a gambe per aria facilmente o che sono più a rischio magari in lidi e invece si porterà a casa il suo risultato resterà ancora in giro proprio il poison però quel che vale è una mia impressione a livello tecnico e che
+questa cosa che sta accadendo in questo paio d'anni
+no non a tanti uguali negli ultimi dieci quindici dopodiché quindi non non penso che chi passerà senza aver cambiato intensamente la società per il presente solo ecco come ha cambiato web internet camere a partire da venticinque anni fa
+è quello che è cambiato nella società per l'iper connettività i social questa cosa qua ce ne accorgiamo adesso non ci ha messo un po' di anni ma non sapevo bevuto una di quelli da alcune
+uno degli aspetti negativi di queste cose qua insomma quindi
+a modena sono anche abbastanza convinto che la trasformazione è abbastanza epocale anche questa un'altra l'ennesima era che come noi abbiamo vissuto un po' di cambiamenti dall'analogico al digitale poi l'internet e poi mobile e poi le rivoluzioni tutte insieme in una sola vita non è male
+è antonio tu cosa dici
+allora io non sono onestamente non sono in grado di dire se è una bolla non è una bolla
+sono un po' d'accordo con dario nel senso che se qualcosa accadrà diciamo il segnale arriverà dal mondo finanziario che da quello tecnologico ne osservo che da solo d'accordo anche con martino nel senso che questo è il secondo game changer che abbiamo visto dopo quello di internet
+segnatamente del web è che internet c'era già prima poi da noi è arrivato insieme internet e web però quello è stato un fenomeno ha segnato diciamo una decade abbondante e variegata di sconvolgimento non poi è andato un po' al regime io mi aspetto che queste tecnologie succederà la stessa cosa sono molto d'accordo con me
+sul fatto che sia una bolla perché anche quella di chi si ricorda al momento dotcom anche quella fu una bolla nostri esercizi sulla quantità di morti che ci furono
+uno piu ampia e poi però i superstiti hanno segnato un'epoca
+che è il momento però era un po' diverse adesso non voglio ritirare il famoso indicatore fra il serving che ho tirato un po' di prima però in quella bolla noi eravamo lì serling che erano trecento settecento erano e un driving momento no renzi si valutavano le cose per quello che era il sogno
+oggi in realtà noi solo bene e stiamo valutando per quello che è il sogno futuro perché le leve di un sistema tutti gli altri hanno una valutazione giusta questo è il punto che la l'evoluzione mia invidia non è sbagliata la domanda che ci dobbiamo porre il mercato che invidia sta affittando in questo momento sta generando
+quanto durerà ancora c'è questo trend di crescita di invidia e il trend di profittabilità di media per quanto durerà ancora questo secondo me la domanda è ci dobbiamo porre
+tra l'altro questa è una domanda molto vicino da dove siamo partiti del black metal no perché per esempio noi abbiamo fatto abbiamo tanta invidia di varie famiglie di prodotto poi a un certo punto abbiamo pensato che era il caso di diversificare e abbiamo messo dentro un po' di macchine amd
+le famose cm trecento x abbiamo una certa quantità perché dal punto di vista delle performance in silicio non erano custoditi
+tanto peggio di uno duecento se noi prendiamo le acque a duecento bare metal e nel milletrecento
+di msd forse su alcune cose e pure un po' meglio di come performance in silicio per la realtà dei fatti la domanda che abbiamo del mondo invidia e di ordini di grandezza più alta di quella che abbiamo sul mondo e ci siamo chiesti perché perché poi in effetti quelle macchine adesso dico
+stiamo usando solo per noi quindi in realtà le daremo vendendo qualche kg più ma siccome abbiamo dei progetti interni abbiamo utilizzato quello che non vendiamo per i progetti interni diciamo così no perché le caselle lì alla fine perché non si vende molto meno e nonostante che è un prodotto decente nella
+in realtà non riesce a competere con invidia perché lo strato software che in questi anni in libia messo sul mercato è oggettivamente il l'elemento che in questo momento fa la differenza perché non è vero che abbiamo un uno kg più performanti eccetera eccetera ma acuta
+è tutto quello che c'è attorno è fatto veramente bene cioè è uno strato software che avvicina le potenzialità dell'hardware in una maniera che mdd lo vede col cannocchiale nonostante che hanno cercato di fare un sacco di lupi un sacco di cose e noi ci piace cioè la sponsorizziamo pure per oggi
+della semplicità con cui tu gestisci dentro dal kgb più e magari anche lo switch newline che sia un'infrastruttura più complessa cioè il modo in cui lo sviluppatore vede semplicemente quel mondo di supercalcolo nel caso di nvidia non è oggi facilmente replicabili sugli altri cinque mega
+peraltro non ricordo male invidia anche tutta una serie di integrazioni con grossi vendor come guerre tutto che mdd non so se effettivamente anche lui perché mi ricordo che c'è tutta una parte di invidia grid che è una roba colossale che ignoro completamente se anche la controparte abbia del genere perché ma guarda quella roba noi non non la usi
+amo perché noi non usiamo bmw e la nostra piattaforma di virtualizzazione è una cosa fatta sostanzialmente in gaza perché quando abbiamo iniziato abbiamo iniziato vent'anni fa non c'era molto ed è basata su cm quindi diciamo tutta l'integrazione che noi abbiamo fatto tutta fatta su vienna compreso il video di
+però diciamo hai ragione tu nel dire che potremmo anche se noi non la usiamo però per esempio con vmware erano partiti questo è un po' fermata erano partiti a fare un qualcosa come diciamo noi silvestro cioè anche che senza voglio dire stare lì a studiarsi manuale con la lente d'ingrandimento riesce a fare cose
+questo è vero
+io vedo che la differenza sostanziale la sentiamo proprio da quelli che sviluppano che usano le app più lg più partendo dal software analitico non è troppo difficile usare i lembi e ma non mi posso mettere a rivedere il software per perché magari usano già la libreria ho fatto già un altro lavoro perché poi uno delle bellezze di cuda e
+completamente trasversale alla famiglia e media quindi tu parti dalla tua kelly quattro o anche meno anche anche scenica angela
+x siano roba lì e quindi tu paradossalmente giochi col tuo portatile mette a punto un codice poi lo porti sul master apc funzione o comunque le modifiche sono modeste e questo questo fa la differenza fino all'ultimo ces avevano presentato una cosa tipo una trentina di diversi free
+morte unico però presentato una trentina di diverse tecnologie per poter gestire praticamente tramite intelligenza artificiale pressoché qualsiasi aspetto che fosse rendering che possono renderli non so i capelli della geometria delle superfici di solito una cosa allucinante e quando facciamo vedere ai vari esami
+pip che poi va io parlo più applicato per il gaming propositi può applicare per qualsiasi concetto all'infuori del videogioco è assurdo il lavoro che c'è dietro l'invidia tra l'altro anche le librerie disponibili per le gtk x o anche disponibili semplicemente con un po' da bruxelles sulla tua sul tuo windows con una
+cinquanta novanta o anche uno quaranta novanta come posso avere io ti fa girare tutto lo stack di invidia compton per tutte librerie disponibili in python tra l'altro quindi veramente a portata di tutti felici fai veramente tanto tanto bella roba credo
+video è spettacolare non posso permettermi anche di aggiungere la discussione io ho lavorato con un cliente che ha la necessità di far girare applicativi in ambito burning con rouen che sarebbe una sorta di analogo per invidia è stato un bagno di sangue per aim di orario per
+il disco remedy
+però è un bagno di sangue cioè non funziona il vantaggio come diceva andrea e che alla fine il video ha avuto il grandissimo
+competitive advantage di essere il primo di riuscire a creare delle librerie che erano applicate al gaming principalmente per il gaming o per la grafica thread perché alla fine leggi più vengono utilizzate in passato per fare rendering architettonico alla fine ridicola questa cosa però alla fine tutti quanti comprarne di più ai tempi per fare l'interior di
+ign ha mai fatti la cosa fantastica il giro che è riuscito a fare invidia perché è partito dal mercato consumer si è buttata sul mercato server e adesso il mercato server che traina quello consumato perché adesso il fox invidia video non è più il videogiocatore ma è ovviamente l'enterprise quotidiano poi il giocatore prende non dico diciamo le briciole
+barra gli scarti palla gli avanzi del mercato enterprise quindi
+adam è da manuale e loro sono riuscito a prendere una long tail ma per assurdo si sono spostati sul segmento più alto che non so che sembra
+contro-intuitivo alla legge di anderson dove principalmente vai a prendere un prezzo più basso una quantità molto più alta però il fatto è che il mondo poi enterprise nel mondo corporate con questa virata ehi hai ha un valore nettamente superiore quindi capoccia non può essere una folla questo assorbimento bene dario quello che è successo
+che loro avevano questa longtail che era costruita dal mondo del gaming un po' l'accelerazione tre t per il rendering quella roba lì e hanno cercato in quanto che non è stato casuale questo gli va dato atto hanno cercato per c perché poi praticavano anche molto nel mondo del gaming diciamolo un periodo storico noi ricorda il
+esperimento che abbiamo fatto perché volevamo fare
+la render farm sul cloud nota andando a utilizzare leggi più poi non ci siamo riusciti all'epoca c'era era il duemilatredici e c'erano le tesla possono fluido se ne ricorda le schede tesla che però anche perché caricare un file di autodesk da trenta giga all'epoca come facevi era complicata era complicato problemi
+che noi non riusciamo a farle funzionare attraverso capaci di emma perché lavoriamo comunque visto che parliamo di permettere noi eravamo comunque la fissa di doverlo far gestire attraverso un piccoli utilizzatore e non ci fu verso di far funzionare queste schede un po' perché mancavano proprio il supporto lato hardware per andare a fare
+riposizionamento dell'indirizzamento pc per poter poi parla di pc c'erano delle cose non ci riuscimmo tant'è vero che poi è ritornato l'embolo come si suol dire durante il concerto no a marco che tu
+che hai conosciuto all'epoca aveva partecipato a quel progetto alimentare e allora durante il covid detto ma sai forse se riprendiamo quel progetto
+riusciamo a portare a casa qualcosa e poi li frattempo si c'erano i rumor di open agency si sta muovendo anche la parte delle aree generative che chi ha fatto la differenza io voglio dire due cose su questioni sempre collegata alla folla io non credo che che sarà una bolgia e magari esplode finanziere mentre succede qualcosa però credo che
+la sostanza di questa roba ce la porteremo avanti per un bel po perché considera che noi diciamo sì siamo di fronte credo per la prima volta nella storia dell'informatica
+la macchina non deterministica e e che funziona nel senso che produce qualcosa che pare utile c'è perché dico questo perché dai tempi di turing quando lui fece la classificazione tra la deterministico turing machine nella londra deterministici fiori maschili noi abbiamo sempre avuto a che fare con macchine deterministiche cioè macchine
+che preso un input eseguivano un programma al netto di errori o di bugie produceva un output del tutto atteso no
+ma soprattutto mi devi spiegare esattamente come raggiungere l'alto partendo dall'input la grande novità che io vedo in questa e ai generativa e non è tanto nel fatto che a me io sono personalmente pochissimo interessato nel fatto di fare quello ti dà la risposta precisano non sbaglia un po' no hai sbagliato esatto la ricetta
+secondo me sono cose pochissimo rilevanti la nostra fortemente rilevante che ne siamo di fronte a una macchina non deterministica che è la prima che ci capita tra le mani che in qualche maniera interpreta il funzionamento che era previsto touring sulla sua g m che in una certa quantità di gas produce dei risultati verosimili
+in qualche caso anche utili senza che noi le abbiamo spiegato come fare per me non è poco cioè siamo di fronte a un qualcosa e noi vi diamo un input che non comprende fa qualcosa che non è da te istruzioni così come fa la macchina deterministica ma produce un
+output che quasi nella totalità dei casi ci pare plausibile che sommato sembra che sembra sensato e in un sottoinsieme dei casi è pure utile allora voglio dire questa cosa che è tutto molto embrionale quello noi abbiamo tra le mani però apre delle potenzialità incredibili cioè tu
+puoi avere un problema di cui non conosci la soluzione conosce il procedimento su risoluzione ma c'è una macchina che produce un output che pare ragionevolmente credibile non è essenziale che sia giusto o sbagliato questo secondo me è la grande grande fraintendimento noi stiamo andando queste macchine kasbah
+gato
+hai generativa annuncia la definizione di esattezza quindi tu come fai a discutere se un output giusto o sbagliato di fronte a una macchina in cui l'esattezza non è definita è un risultato che a meno di un ex l'anno con un epsilon tra l'altro multidimensionale ti dà qualcosa di vagamente sensato cioè di coerente con quel
+che tu ti aspetti di questa lettera noi stiamo sottovalutando molto questa cosa ma
+è un qualcosa di di di di che è veramente un game changer cioè noi siamo abituati ad avere i risultati esatti mi vedo a meno a meno di budget sono risultati da noi abbiamo una macchina che ti dà un risultato che quasi sempre plausibile
+in molti casi è persino utile ed è udine pur non essendo esatto e non solo smoking non sappiamo come hai fatto a volte usato e poi aggiungo ancora che essendo non deterministico a dare gli stessi input non è detto che lo stesso output quindi ogni volta potrebbe essere diverso a seconda di come ragiona in quel momento bravissime trans
+vi svelo una cosa che
+c'è un paper scientifico non fatto da noi ma ci eravamo arrivati insieme per vie diverse
+è una cosa molto ardua invece visto che parliamo di berry metal uno dei motivi per cui il i sistemi di inferenza kelly m a fronte dello stesso input di output diversi che è una delle cose che ha trascinato parecchi è dovuto invece a un fenomeno stupidissimo a livello hardware e cioè al fatto che
+noi utilizziamo la virgola mobile per rappresentare i numeri con la virgola mobile utilizziamo il meccanismo ce ne sono tre quattro tra cui the mantis esponendo questi metodi quasi che hanno un problema cioè non la rappresentazione non è esatta ma è affetta da una un'oscillazione della cosiddetta ultima cifra non sig
+significativa che forse qualcuno di voi si ricorderà è che in qualche maniera è uno di quei casi in cui una macchina binaria quindi in teoria non può sbagliare macchina avviene però nel momento in cui tu rappresenti i numeri in virgola mobile si produce un rumore che un rumore di approssimazione paradossalmente questo rumore di approssimazioni fa sì che
+se tu lanci un'inferenza
+anche se la domanda è sempre la stessa per una serie di motivi anche proprio elettronici cioè legati al funzionamento dello strumento tu magari ma quando vai a fare un'inferenza un minimo locale diverso da quello che hai trovato la volta precedente il momento in cui trovi un minimo locale come il meccanismo scendere tu poi vai ad inanellare un'altra serie di vini locali
+il treno di token che è diverso di volta in volta questa diversità non deriva da un pensiero della macchina come abbiamo come qualcuno ha detto ma deriva proprio da da un problema hardware di come noi rappresentiamo una virgola mobile c'è un paper scientifico interessante della tizia che dice molto discutibile come
+vivere tra voi ha ricevuto molte critiche però della tizia adesso non mi viene il nome che era di open hai la donna la ricercatrice donne che uomini non mi ricordo il nome
+l'unica donna l'unica donna che fa nel gruppo che adesso ha fondato una startup di cui non mi ricordo nemmeno quello nuove nove ma ti vogliano già da un paio di miliardi di dollari sulla fiducia di camus e lei ha fatto questo paper dove dice cavolo ho scoperto perché il risultato è sempre diverso e deriva esattamente da questo aspetto quindi ancora una volta il metà
+al che ormai ci siamo tutti dimenticati però addirittura genera degli effetti che si propagano fino alla risposta di un club
+molto affascinante come approccio
+io
+non è un tema intelligenza artificiale mi perdonerete ma antonio pippa naso all'inizio ha detto una cosa che che che che ho visto anch'io da utente può succedere che facciamo
+i provider di qualunque tipologia mi pare che ovviamente siano tutti andati verso offrire sempre meno permettere ai motivi sono penso chiari e a me cioè
+non c'è omogeneità non c'è l'omogeneità che ti dà allo strazio e virtualizzazione
+mentre maniera macchine è un problema e sicurezza ssl accesso a riavvio alla bms in questa cosa qua diventa difficile da gestire quindi immagino e capisco che per un provider non abbia molto senso e forse anche per utenti ancora provato quindi forse il risultato è che permetta l'accesso permettere quindi tu tecnologie che servono
+gestirlo
+rimane quindi nei data center enterprise che devono fare lo stesso lavoro di estrazione è nel piccolo che avete fatto voi quel provider per offrire un servizio sopra al dark metal diciamo quindi forse diciamo tutto quello che era giusto metal ormai delegata solo a chi ha ancora un dato sempre in ca
+casa che è un numero forse sempre più ridotto di aziende di dimensioni elevate per quello che posso capire io tu tu come la vedi antonio c'è
+ma noi abbiamo noi abbiamo tante realtà di dimensioni piccole che hanno
+servizio di colocation
+da prima che noi non è un nostro coro però comunque diamo spazio da difendere che hanno loro cluster non particolamente grande che preferiscono gestiscono da soli però anche lì e sono sempre meno i casi in cui io vedo sistemi operativi e applicativi buttati super metal qui ci abbiamo un po' chiarire cosa intendi
+diamo usare il bel metal no cioè è chiaro che noi ci mettiamo in mezzo allora diciamo che è perché noi ci mettiamo la virtualizzazione perché è più facile da gestire perché riusciamo a realizzare un livello di compliance perché poi non ci scordiamo tutti i temi di compliance non riusciamo ad avere un livello di compliance semplice uniforme
+beh mettendo in mezzo un visualizzatore su tutti i servizi che diamo così disaccoppiato in qualche maniera quello che il mondo guest che nel mondo deludente da tutto il resto questa cosa negli ultimi quindici anni è venuta quasi gratis perché l'overhead di virtualizzazione ormai si è ridotto veramente a livelli impercettibili
+quindi diciamo io ricordo tanti anni fa se tu dovevi fare un database relazionale lo mettevi su uber metal che il passaggio a visualizzatore della ammazzavano non è più così oggettivamente cioè oggi per lasciare sul terreno dieci per cento di potenza di calcolo dei veramente configurare tutto male ma male in maniera impegnativa
+diciamo per glaciares sul tavolo il dieci per cento secondo me io quello che vedo è invece questo meccanismo di creazione di questo step sul bel metal diventerà sempre più consueto io ma questo è un mio gusto personale a me per esempio piace molto visto che prima parlavate di kubernetes a me piace molto
+l'approccio diciamo così i single sexy di kubernetes dove a quel punto anche se ti serve la macchina virtuale la fai golf cup dirtelo quindi io vedo un ragionevole futuro dove alla fine se tu usi il meccanismo di gestione del dilbert medano di kubernetes nella realtà tu riesci a gestire tutti i carichi di lavoro di cui hai bisogno
+dal container
+più parzializzato eccetera eccetera fino alla macchina virtuale con un mapping uno a uno delle risorse logiche quelle risorse fisiche e quest'oggi lo fai tutto con kubernetes con un minimo di daria un esperto di questo quindi io personalmente abbiamo anche avviato un side project di rifacimento della nostra infrastruttura
+ora cloud tutta unicamente basata solo su kubernetes quindi andando a eliminare tutte le altri sistemi e andare a mettere il cubano super metal che però adesso ce lo stiamo raccontando così ma in realtà ci sta in mezzo comunque il visualizzatore questo voglio dire no
+e che è diciamo il meccanismo di gestione si standardizza diventa tutto uniforme e a quel punto tu semplicemente agendo su parametri a livello sorte tu riesci a scappare dal mapping di una macchina virtuale con risorse logiche mappare uno a uno sul corpo fisico che c'è sotto o addirittura
+sui truppi sia cioè cose molto hardware fino ad avere il tuo container con il bilanciatore di carico eccetera eccetera e lo fa eco un unico sistema mia famiglia
+molto interessante avevo detto chiaro che
+ho visto e implementato anch'io molte situazioni in cui appunto si capovolge la questione usa come bird che chi non lo sapesse sostanzialmente utilizzare il controllo di kubernetes per mani per manipolare centralizzatore linux comunque è però lo fai con gli strumenti di kubernetes eco che è sicuramente interessante
+quindi voi in quell'ottica voi come vi vedete dal punto di vista cioè come l'interfaccia con l'utente se non è più una macchina virtuale cosa può essere un uber metal con un certo grado di gestione vostro mac
+allora noi cerchiamo di dare al cliente quanto più possibile di digestione possibile compatibilmente con quello quindi perché comunque i clienti poi c'è c'è un range di clienti no cioè voglio dire c'è il cliente che ha bisogno dei container e quindi
+diciamo così perché il cliente alla fine lo sviluppatore è assistito da un devops deve solo andare a fare tutto ha funzionato che perdetevi poi c'è il cliente che invece ha bisogno delle macchine virtuali c'è e ci sarà sempre probabilmente poi c'è una ristretta quantità di macchine virtuali con o senza gipi uno e so anche il look
+lavoro che facemmo con plastics di passatemi il termine virtualizzazione della gpu più anche se molto improprio dentro kubernetes è anche un modo per andare a offrire quante più flessibilità possibile in ambienti diciamo un po' più di alto livello perché fino a prima abbiamo varato nel duemilatré
+fino fino al duemiladodici tu per far funzionare bene lg più se ci mette in mezzo un visualizzatore ammazzarvi tutto e oggi con un visualizzatore non solo funziona leggi più ma fa funzionare nel caso di invidia pure len wein eppure la full match tra macchine diverse e le perdite di performance assoluta
+mente compatibili con la semplificazione di gestione che tu ti porti a casa c'è perché li vedo
+facendo mettendoci in mezzo tutta questa roba ovunque difficilmente perde il dieci per cento di bedford anche considerando lo switching libia perché voi oggi diciamo ci sono tutta una serie di meccanismi di offload hardware per cui tu alla fine non è che c'è bisogno anzi si cerca di far passare per lo più meno cose poss
+sibili perché non starebbe dietro no e quindi a quel punto che tu ci metti il visualizzatore in mezzo posta poco perché dando
+ormai sono ogni caso leggi più molta roba non passa più per la disciplina
+ho visto ho visto l'articolo di uno che ha sperimentato attaccando uno due kg più invidia a un raspberry
+chi invece di collegare un pc completo funziona uguale stessa performance
+perché ormai il pass-through passa tutto poi con cappa via ma in particolare è tutto hai tutte le ottimizzazioni lato kernel che puoi dare tutti i moduli in blacklist tutti lì ladra singer fu fatto in una certa maniera maniacale claps sia direttamente dentro la fm è un servizio pubblico mi aspetto che ha l'utente finale tutto questo
+perché nascosta per l'utente finale ti arrivano a che poi la vmc sia fatta come tramite come virtuale vm si è creata tramite interfaccia web che si interfacci direttamente con cappa pm a me e utilizzatore finale poco importa non importa avere la mia pm con i miei correre la mia più la mia haram nel mio spazio su disco eccetera eccetera poi come chi mi vende il servizio gestisce
+dietro le quinte questa fiemme buon per loro se sono cube via perché tutto automatizzata un unico punto se poi offre altre soluzioni come containers
+stand-alone chiamano così e quindi da questo punto di vista è un ottimo punto per avere un punto di vista diverso rispetto a quello che è il parco macchine gestione del parco macchine gestione poi dei workflow all'interno del parco macchine quindi punto di vista differente ma un unico punto uguale per tutti quindi lato i week end
+devops gestione dell'infrastruttura è un sogno perché tu hai da gestire tante cose ma tutte uguali lato client e quindi la top è proprio il sogno il sogno segreto al valhalla tu hai tutte le macchine uguali nella stessa maniera lato utente finale ai container macchina virtuale ho dormito alla seconda di quale tipo
+utilizzare e quindi sia una specie di situazione win-win per tutti se questo è l'approccio ti faccio riflettere anche su un altro piccolo aspetto l'hardware si rompe e quindi tu pensa diciamo
+in un ambiente non virtualizzato anche sicché sia nel cloud nel data center a casa non sposta nulla quanto tempo ci metti a ripartire con un workflow abitato di un folto di un hardware e quanto tempo ci metti a ripartire con word cloud nel caso di un sistema virtualizzato c'è c'è una differenza abissale tra i due scenari cioè se tu hai veramente
+uso del bar metallo un cluster per me dalla stanza virtualizzazione quindi un vecchio stile con la stan li abbia tutto questo mondo qua se ti si spacca l'hardware tu ci metti del tempo a ripartire con un altro hardware chiamiamolo di scorta qui in uno scenario diciamo virtualizzato a se poi è come dicevamo prima
+tutto uguale manco te ne accorgi che rientra nella normale sistemi di management anche automatica di questi cluster questi sono vantaggi che vanno messe sul tavolo secondo me c'è oggi io non riesco a trovare sinceramente workload
+ne parlavo con tempo cosa quando con daniele di sidecar non so se voi avete vi ricordate leonardo leonardo è una macchina piuttosto datata e che leonardo alea cento come schede gpu giusto per darvi un'idea del momento storico no beh loro alla fine anche se in modalità batch però quella macchina
+lì non la usano più superbe hanno usato l'arma che ci carica dentro i workload quindi se vogliamo una forma una forma molto rozza di virtualizzazione anche quella cioè non è che attenzione la picchi di leonardo con macchine che non sono le macchine di oggi sono macchie di
+anni fa dicevo a non è a cento quindi guardate un po' e quindi dove la potenza disponibile molto più bassa di quello che tu oggi hai su play per te
+andò o b trecento però ciononostante a loro conviene farlo usa usarlo in maniera mediata più che andare direttamente su kubernetes secondo me i casi in cui ha senso andare direttamente sul khyber metal che stia in dad aziende sia a casa si riducono sempre di più c'è anche pensare che noi
+bene abbiamo questo progetto di andare a mettere kubernetes stolberg metal ma questo è un problema di perché ci piacerebbe di più avere questo unico meccanismo di gestione del tutto no anche perché poi c'è un altro tema che che magari ha un uso interpretare e se non interessa però uso nostro interesse cioè qual è il tasso di utilizzo dell'infrastruttura
+oh perché è chiaro che se io ho cento server facciamo un esempio colleghi più che funziona di più se io ho cento gb più e il tasso di utilizzo di questi gg più è al di sotto di ciò che conducono cinquanta sessanta per cento per dire per rispondere a quello che diceva andrea io non andrò mai a break even dal punto di vista della magia
+asus sta roba perché
+al limite posso risparmiare un po' di corrente al limite però l'ammortamento di queste macchine gira comunque anche se non c'è workload sopra e siccome il tempo di vita di queste macchine molto breve considerate che oggi il mal di più più o meno tutti abbiamo stabilito che stiamo attorno ai tre anni
+prima dell'obsolescenza tecnologica e se io le tengo al cinquanta per cento è come se le paga il doppio quindi non andrò mai a breve quindi avere un'infrastruttura che in qualche maniera ti consenta velocemente di cercare di usare tutto quello che sai e tu beh tu mi dirai come fai a usarlo perché magari non lo vedi tutto no
+è vero che non lo vendi tutto però su una parte che non usi puoi metterci dei workload tuoi interni è un po' quello che facciamo noi ci puoi mettere per esempio puoi passarmi temi rivendere al broker perché ci sono tanti broker in questo momento che ti prendono la potenza di calcolo utilizzate per rimettono sul mercato e questo è tanto più facile da fare quanto più c'è rob
+in mezzo cioè non so se mi sono spiegato io sono d'accordo con questa visione ma sarà crawford un forte bias anzi proprio lo spoiler alert perché anche martino chiedeva considerazione sull'uso del metal
+kibernetes io ho la fortuna
+in questi anni di aver potuto parlare con tante aziende
+parlato con un'azienda che di cui vi ho parlato fino adesso con invidia loro hanno realizzato uno stack tecnologico molto interessante che si chiama duca di josie che sarebbe detto sentono on a chip architecture dove vanno utilizzare non di più ma in realtà delle di più che sono dei processi
+unix dovrebbe essere questo l'acronimo se ricordo bene e sono le vecchie melano x principalmente sono delle sbornie x dove vanno a gestire sul ferro proprio proprio sul su questa interfaccia
+funzioni di rete avanzate come dicevamo prima per fare in modo che la tv sia sempre
+meno stressata possibile quindi fanno flooding se è stata utilizzata avete mai utilizzato storage altamente performante di sicuro rilievo utilizzatore di più in realtà quando guardate anche un film su netflix e sparta immediatamente in realtà ci sono delle di più
+che le brookfield di più le blue filtri tre di nvidia che gestiscono quanto caching quello su cui volevo andare a parare in realtà era il discorso del bar metal ho anche avuto la fortuna di
+di agire in parte dei consigli per quanto riguarda l'infrastruttura di mistral che sarebbe la cosiddetta open ehi hai europea mistral stronzo sapeste
+fanno modelli
+sono degli unicorni perché hanno una valutazione e poi potremo discutere con antonio valutazione però valutazioni diciassette miliardi e loro ad esempio hanno una divisione che si chiama mistral computer il cui obiettivo è quello di realizzare data center altamente performanti per leggi più per offrire servizi di
+machine learning ovvero hanno questi test center
+dove hanno migliaia di più perché comunque loro hanno fatto tranquillamente gli accordi con invidia c'è molta geopolitica anche di dietro parliamo di numeri molto molto importanti soprattutto di tagli di tir molto elevati i duecento e hanno fatto una scelta molto audace che a me piace perché è
+tutto quanto basato interamente su più british cioè loro gli inventori di tutte quante le macchine è gestito tramite fibronit british tutto quanto lo stack tecnologico è stato costruito sopra che kubernetes e ogni tanto scherzo con alessandro non una bozza ma con alessandro franceschi perché parlavamo ai tempi se esiste ancora
+configuration management ma alla fine loro utilizzano interamente cibernetiche per fare configuration management anche di verme server ssh e loro non hanno virtualizzazione zero virtualizzazione hanno classe giganteschi cibernetiche dove ci sono migliaia e migliaia di kg più fatti gli feci una domanda anche per quale motivo non potevano far
+carving e la risposta è stata che i loro modelli hanno back side gigantesche e di conseguenza la necessità di sfruttare il paradigma di cibernetiche per quanto riguarda
+un'infrastruttura reattiva devono avere la possibilità di spegnere e accendere macchine alla bisogna quindi magari sto semplificando troppo dicendo brasile solution quando in realtà martino diceva non ho dubbio non vuoi suggerirci brindisi chissà efficiente hai anche ragione di quanto dallo us gates ma credo che
+avrò sicuramente il mio bias ma ho visto sempre più casi in cui utilizzare per metal ha senso soprattutto nel gaming street questo l'ho visto ma soprattutto con questa nuova wave di machine learning dove ogni performance troppo non è accettabile bassi sul mondo pensare anche dal punto di vista di storage
+dove in realtà tu stai lavorando anche lì sul permettere magari poi lo storage attaccato in pashtu alla macchina virtuale ma lo storage sempre gestito lato per performance
+tre troppo ruvolo buttare la bomba di fibre
+e ha aggiunto oramai un'altra domanda ma alla fine la vista sonoro mi sa che sei un mutuo perché molti se non ti sentiamo infatti pensavo stessi gesticolando con qualcuno alla fine io mi tra virgolette guadagna da vivere con morgan asset cloud clouds
+e mi guadagno da vivere con kubernetes quindi
+certamente capisco cosa dici di andare ma in effetti e avendo a che fare a volte con situazioni molto diverse dalla startup che ha cominciato l'altro ieri a enterprise chiaramente esigenze diverse anche se tutti guardiamo solo a bug come fa google
+realizzare i suoi servizi e poi dobbiamo allora collaudo piccola quasi sempre insomma quindi
+no
+interessante come ho detto antonio chiaramente
+l'idea che tu stesso dicevi di avere un so ad esempio tutto succube rete si permette al più cube virtú per icardi autorizzati alla fine è un altro modo di fare una virtualizzazione se se se se se se vogliamo dire con strumenti diversi e
+il caso che sicuramente interessante e può essere interessante chiaramente anche permetta alle sue deve avere una minima massa critica non puoi fare con tre macchine voglio dire perché lì il tasso di utilizzazione o non ti va a zero oppure hai un numero insolitamente piccolo cane
+l'uso di una frase kubernetes quindi nelle istituzioni molto piccole
+non ha senso per definizione secondo me è però le situazioni già canyon una massa critica un pò un po' più grande può essere un'alternativa interessante non so se ci siamo ci siamo arrivati lì colpo howling ancora con gli strumenti rispetto a quello che ci danno magari di strumenti di virtualizzazione e
+dario lavoro su queste cose altri lo fanno sicuramente e forse con gli strumenti non so se ancora q awards ecco
+la mia paura più lui il chi controlla il controllore perché a me piace un sacco questo approccio solo che ne ho parlato anche con dario spesso questo tipo di approccio è che alla fine arrivi ad avere un uber nas che gestisce tutto ma chi è che gestisce il cup emerse che gestisce tutti e quindi vi arrivi a un po'al sempre alla come dire a all'imbuto no e quindi questo
+cosa un po' mi ha spaventato un po' alle varie esperienze però sono due aspetti diversi secondo me
+lo so bene il kubernetes che gestisce tutto e il contro play and rock kubernetes secondario è esperto della situazione però non ti conosco però forse questo la però sono un'altra cosa cioè che tutto giro super light show sono due aperitivi ortogonali se vuoi ti allora che tutto allora
+se tu hai tutta l'infrastruttura che ti gira su nata nel senso che tu usi kubernetes per manovrare qualsiasi aspetto sospetto tua infrastruttura vuol dire che il cabernet scritto esiste una infrastruttura a sua volta essere gestito da qualcuno e a quel punto non sarebbe gestito da se stesso perché altrimenti avresti un look interno assurdo
+quindi avresti l'eccezione e il kubernetes che gestisce tutto il resto che mi avresti il tocco benefico a gestire esternamente e poi lui ti gestisce tutto il resto da tua infrastruttura non so se il mio punto è chiaro che proprio questo è il caso della multi-tenant su kubernetes su cui dario ma non voglio alzare la palla ma insomma ci stanno lavorando da un sacco di tempo quindi
+raiden un master pennant che ti va un po' tutto e poi vai tutti gli altri della banda calidario puoi essere più preciso però volevo rimbalzare la palla sulla questione della virtualizzazione virtualizzazione no qui è anche un po' un tema di nomenclatura no perché è chiaro che allora premesso che a me piace l'ho detto tubo
+vedo un mondo in cui kubernetes e la virtualizzazione viaggiano insieme su un unico contro quindi è lì che vogliamo andare nei prossimi anni non è dove stiamo ad essi però è anche vero che kubernetes testo da un punto di vista strettamente logico anche se pare brutto ma è un visualizzatore perché comunque genera contesti e quindi
+e adesso so che dico una bestemmia però quando eravamo giovani c'era league ci dice qualcuno di voi se lo ricorderanno league
+utilizza lo stesso meccanismo di isolamento dei contesti che kubernetes su utilizza per utilizzare per isolare i i i i i con te confidiamo nei container che concettualmente un gay non può più evoluto e favorì per me anche quello è una passo in termini virtualizzazione
+anche se non sta nel kernel non fa alcune cose specifiche quindi quando io parlo di bermejo uso diretto del ber metodo che puoi è un word cloud che sta sparago sul sul sul sul belvedere come si faceva una volta guida da benz oregon dove chi non è giovanissimo si ricorderà che almeno
+fino a vent'anni fa ora non certificava database con i loro oregon che si stavano virtualizzati con qualunque cosa parlando è quello che puoi su stessa evoluzione che è successo con kubernetes siamo andati avanti da un'unica non facciamo girare i database su kubernetes
+si deve virare martini io ricordo ai tempi di oro valley l'unica eccezione se tu volevi utilizzare ora quello sulla macchina virtualizzare visualizzata era utilizzare i pm gol e le logiche al partigiano supportate in hardware che è l'unica cosa su the heights che piaceva oregon oregon cui due avere quelle righe quelle aree
+che c'erano le reste seimila le macchine ibm con cui tu utilizzavi questo visualizzatore che si chiamava e le barre che stava nel sistema di guerra l'unica cosa gli andava bene mentre se tu usavi web bmw e qualunque altra cosa per oracle non era più quel quel database non è più conforme alle loro norme di
+stacy
+secondo me un po' possibile io credo che
+sentite io io sono fortemente e pur essendo non in disaccordo ma avrei detto una cosa diversa da dario sono molto d'accordo quello che dice lui di nuovo lo vogliamo implementare quella singolo black ma poi lascio la palla a lui sulla questione di avere il kubernetes del kubernetes semplice che ti diceva andrea
+io chiedo chiama in supporto alessandro bozzo
+io ho alzato la mano perché vedi apparire il bermejo e non parliamo di openstack openstack il futuro voglio dire
+andiamo avanti ritornò nel passato della pasta poi ritornando in auge openstack poi alla fine
+openstack
+un'orchestra orchestrato perché dm come brand orchestrato per container e non so perchã c'è gente che ci sta rimettendo le mani sopra step non è mai andato via mai uscito di scena ove svolgeva molta gente da compiere usare
+ha vissuto il campo telco ma è nata dopo la debacle di broadcom agente si guarda in giro facebook nerd super metodo però voglio ancora stare sul sicuro openstack web e goloso spezzato
+in realtà io sto forse c'è un girone infernale apposta per chi come me vendeva openstack alle piccole e medie imprese
+quindi pagherò tutta la vita e i miei
+di quando era arredate e cercavamo di di kubernetes cercavo di mettere openstack dappertutto pensa che non è morto e comunque non ho mai l'opposto secondo me non vive nello scroll non è morto nel suo benissimo che non è morto purtroppo
+beh io guardo red
+problema perdo tempo su reddit e in effetti c'è tanta gente che parla anche perché poi fa fa un bel gp pass-through toma con con con west texas ci sei fa al tour e lee tabella all away e età award di stampo perchè devi saperci mettere le mani
+come sei fan coda spinge tantissimo genere e kate è quasi imbattibile con una quasi competitor self e il de facto store open source per enterprise quindi siamo tornati a a duemilaquindici non so siamo ancora agli albori di
+di una rivoluzione csa chissà dove andremo a finire dopo dieci anni di kubernetes vedremo i prossimi dieci anni diciamo che vmware sono stati molto bravi a rianimare un morto come openstack deve nocivi da soli qua io sono un pieno di bias su quello che ha fatto guerre per millenni la ragione
+perché tutto quello che avete discusso fino adesso sul singolo sa che era proprio il progetto pacifiche cosa voleva essere pacifica poi lasciamo perdere come è andata come sta andando tutto non voglio entrare assolutamente questa discussione però era esattamente quella l'idea perché già sono diversi anni che da diversi anni e da che lavoravo in redatte che l'idea era
+quello di cercare di convertire e omogeneizzare tutto omologare tutto omogeneizzare tutto verso un unico stack di controllo pacifiche per l'appunto era nato esattamente in questa modalità viene un unico contro il clan per gestire sia wall cloud e vm sia container che poi dopo si è avuto quando il sacro ben detto signora eccetera però
+l'idea è sempre stata questa pesata questo quindi più o meno a fare quello quello che vorrebbero far vendere quello che tutti vorrebbero fare quello poi cosa dirà il mercato si vedrà in futuro e sono due cose molto diverse fra di loro con quale fine vmware tornando poi passando la palla ad antonio a livello di the national cioè non più via web broadcom anche l' anas
+boots assolutamente positivi quindi avranno ammazzata una comunione ti avranno ammazzato tante aziende avranno stavo per dire una parola in francese ma non la dico anche ho tanti amici francesi
+però sopot perché alla fine il fatturato cash is king of revenge
+è stato anche il perché hanno acquisito guerra alla fine avere il bancomat pronto controparti di scarpe per maison può essere se stessi io sono un grande fan di dion ne parlavo anche con alessandro però se siete se avete visto uniche c'è una parte in cui il barone arcole and stream ray-ban spremi loro hanno spremuto via edward sono stati molto bravi
+anche troppo lasciamo stare
+per sono quelli che quelli di broadcom no no è interessante perché non è il primo caso che loro hanno portata a casa perché quando ferrara all'area concluderà ait e poi skiman tech hanno avuto un po' tutti lo stesso filone cioè hanno preso delle realtà che avevano una buona presenza nel mondo enterprise ecc ecc
+era un pò di routine esterno nasa difficoltà a muoversi perenne motivi
+e poi hanno hanno stressato questa cosa in maniera incredibile
+tirando fuori però va detto e dai alla ragione cioè vmware l'ebitda che ha fatto nell'ultimo anno non ha mai fatto nella sua storia
+quindi la assurda assurda corsa che ha fatto broadcom ma se tu guardi economics ha funzionato ma funzionò anche al tempo che computer altro sushi eccetera eccetera la cosa curiosa è che questo è un punto interessante secondo me che
+amo tutte le cose che compra le fa sparire dal mercato però continuano a generare fatturato cioè onestamente chi di voi si ricorda più di computer asus si genera un miliardo e quattro di fatturato quindi vuoi più si ricorda di timely ce l'abbiamo da tutti data per chiusa e seppellita eppure genera fatturato il complotto allora quello che vi chiedo
+non è che nel giro di un paio d'anni anche di vmware non ci ricorderemo più nulla però continuerà a generare fatturato e margini per me e se ci pensate è fantastico ma che poi in parte quello che sto facendo anche ibm tutte le acquisizioni che sta facendo anche lei l'ultima su tutte captcha come in passato redhat fa parte di aci corpo eccetera eccetera eccetera quindi sono
+praticamente due aziende che anche ibm ha poi potuto parco hardware con i suoi mainframe che ancora oggi dominano tutto il fintech e tra l'altro quando l'avrà redatta mi ricordo che c'erano anche progetti per portare per cifre sopra quel genere di macchine quindi cercare anche di portare tutto quello che container e kubernetes anche in un mondo
+lega sì chiamiamolo così di macchine un po' particolari e quindi c'è da una parte broadcom dall'altra parte di ibm ibm poi però raccolti comunque ora sto facendo il suo difficoltoso anche da parte di cloud che sta mettendo in piedi tutto quindi dal punto di vista sia berni italy che comunque acquisizioni lato software per poter cercare
+di avere tutto quello che è un
+overlay il più omogeneo possibile su cui puoi avere ogni vendor proprio
+il proprio mercato comunque la propria proprio marketplace eccetera eccetera eccetera e stanno venendo fuori situazioni molto molto strani nacque la data da entro a gamba tesa su questo che posso parlare un po' è posta la fauna in realtà c'è piccolo dettaglio perché poi guardavo l'ultimo rapporto della sec su brock
+mi piace che questo
+definirlo nicolò direi di no anche perché fa un trilione di fatturato o la dodicesima alta azienda però il tipo il sessanta per cento del suo fatturato lo fa ancora una parte di sé condotti di hard skill da te
+che si dica che sembra che con wind web fare c'è la parte software alla fine solo il quaranta per cento che poi
+nascosto il mercato ma ci hanno visto giusto come
+come stazione di bad blood un anas hanno saputo spremere e senza password anche perché alla fine lardo senza software abbastanza inutile così come software usarla è inutile quindi sono devono andare non dico di pari passo ma quasi leggiamo si sono tolti un po' di tondi come le marche sono tolti magari la frustrazione dei piccoli che era più uno smaltimento
+si è detto ci teniamo i grossi pezzi ma ha ancora quando ero dentro il messaggio interno che poi così tanto interno nera era bastato al pubblico erano e non si interessò più lavorare con partner piccoli quando vogliamo lavorare con i forti il cinquecento con un minimo di tot subscription è tutto non ci interessa assolutamente nulla avere la pma
+con dieci licenze e due macchine non sei stato abbastanza chiaro sia interno che stavano voglio dire la storia della politica dell'aumento dei prezzi eccetera cena c'era quindi non si dice nulla di sconosciuto racconti
+buona buona pace per avanti se vuoi è una
+l'ennesimo caso da valutare quando si deve decidere se open source si ha un pil di nausea ubs news no alla fine è proprio grande come una casa perché il il lo strato sottostante puoi muoverlo da lodare lo davamo come una commodity ne stava lì immutabile ormai
+e tutt'a un tratto è sparita per una bella fetta del mercato
+e quindi diciamo nel momento in cui si imposta una nuova una nuova strategia di implementazione è l'ennesimo tassellino da mettere nella
+è proprio bagaglio di conoscenze per capire cosa fare insomma
+oltre a cercare di capire da che parte andare nel senso non dare più per scontato nel senso perché lei stava diventando quasi oceaniche e quello invece hanno read more rimosso tutte le acque gli altri sono accorti che nel nostro mondo c'erano cose interessanti
+è
+impara operato in questi in questi ultimi anni ci stiamo rendendo conto che neanche l'open source purtroppo è una garanzia perché purtroppo la realtà è cancellata e ci servono le risorse per fare qualunque cosa è saltata fuori anche lì c'è ultimamente tutta la serie di licensing confessore che stanno avvenendo ormai da tutti e tutte le parti
+ti hanno stanno facendo capire che il modello di sostiene l'open source non è una cosa così scontata come ce lo aspettavamo e so quindi anche quella scelta lì non è banale su max non è risultato più facile di prima eco
+sì quello che ho anche
+anzitutto laiche e tecniche
+carico poi tornando al discorso permettono quello che sto notando e che al netto di chi magari si è già costruito le soluzioni on-premise e quindi si è fatto proprio software per gestire fare disfare il fatto che sia successo con il successo con brody come tutto ha mostrato anche il lato debole di tante soluzioni in essere perché per esempio io personalmente penso che tante su
+funzioni anche solo per gestire il parco macchine non siano ancora così tanto enterprise ready cui poteva essere un viewer non possono di siepe eccetera il che vuol dire che c'è un sacco di spazio per provare sviluppare e migliorare tutto quello che esiste ad oggi per gestire il proprio parco macchine per gestire i pochi serve il
+gestire tutto quello che è l'organizzazione aziendale di quello che sia quello che non si ha non solo dal punto di vista prettamente
+magazzino tra virgolette ma anche dal punto di vista tecnologico quindi stanno venendo fuori di criticare per esempio adesso per citare anche altri per esempio con phlox moody's alto sto vedendo stand che è un po'la lo so ad aria che però sto vedendo un pò larin io sono uno che non è completamente convinto perché comunque avendo lavorato parecchio con l'ambito enterprise
+e avendo parlato un sacco con i clienti ci sono un sacco di mancanze quella da tante parti però comunque è stata data l'ha svegliata ecco diciamo che c'è stata questa io non sono molto convinto perchè la sdraiata avviene soltanto nel momento in cui gli attori coinvolti e non voglio assolutamente apparire banale però banale
+liscio veniale penale italiano alle vostre penale però devo mettere i soldi viene
+torniamo sempre al discorso che abbiamo vissuto viewer io ho visto ho visto cose che voi esseri umani ma va figurati mamma mia quanto sono nerd comunque ho visto aziende che abusavano del licensing di viewer che facevano le peggio cose perché tanto alla fine lo consentivano e questo ha portato dei
+danni giganteschi quindi tu andrea potrei fare anche il miglior progetto open source e adesso non sembra sembra quasi che me la stia tirando potrei fare miglior progetto open source marito lui ti ritroverai sempre in un grosso problema in cui ho la fortuna di trovare un grande cliente che ti porta su un palmo della mano e dice guardate che questa roba qua è una bomba ed esplode
+o potrei fare miglior software questo mondo nessuno ti crederà perché tanto non sei mainstream ma assolutamente mai fatto questo il discorso che facevo dipende tantissimo anche dalla dimensione aziendale perché più l'azienda è grande più non funziona l'open source semplicemente per un premio di governance e a quel punto
+broadcom potrebbe mettere anche un milione di dollari milioni di euro a licenza e comprerebbero lo stesso perché lì poi entrano la parte tecnologica ma la parte politica più invece l'azienda diventa piccola e quindi più alla possibilità di magari anche direttamente assumere gente con il nuovo necessario per gestire un'infrastruttura lì si che allora soluzioni come pro xbox com
+home governate da tutte le parti realtà come quella di antonio alta in realtà possono invece avere tanto spazio di manovra o farsi interamente i propri strumenti o utilizzare a piene mani al open source semplicemente perché tutti discorsi politici tutti i discorsi di governance li vanno meno perché una grande azienda ha una forte
+in cinquecento una pubblica amministrazione una fintech o forza di cose deve aver bisogno ha bisogno del vendo anche solo come scarico responsabilità in caso di problemi molto banalmente di declan tecnologia dipende dipende perché poi non è soltanto una questione e non voglio ammorbare questi discorsi però alla fine un conto è pagare una
+vicenza un conto invece pagare persone che ti mantengono infrastruttura e nei bilanci queste cose pesano un conto di re cap x perché devo acquistare qualcosa che mi serve verso skopje ex perché lo devo operare e fidati che certe volte opex pagare le persone molto più semplice è pagare le persone non vuol dire pagare man
+heiner da bollire e non voglio parlar male dei colleghi rock c'è stata la crisi dell' open source secondo me dovremmo guardarci un attimo indietro tutti quanti e parlato mea culpa senza un retaggio cristiano assolutamente però siamo anche noi a causa di quel mare dove c'è stato un abuso mostruoso dell'open source con delle aspettative altissime
+e dei ricatti morali incredibili anche con la fatica che hanno avuto
+varie mantainer scusa mi sono molto pessimista sono molto umberto eco da questo punto
+in effetti i trend su mi prendi d'accordo su questo mea culpa esteso forse questo concetto del gratis nel senso è quello che nelle aziende è arrivato di più e poi ha distrutto un po' tutto restano
+e invece appunto e mi piace che sarebbe bello che sue aziende cose che investire in software investireste investono in persone con le capacità che gli portano dentro le tecnologie ci sono c'è un piccolo caso si lo posso città perché una azienda abbastanza grossa in italia che andreas non la seguire direttamente
+è uno dei nostri che gira e la loacker quindi è già uno dei nostri solo per il nome però loro hanno deciso in
+da quest'anno di trasformare tutto ciò che fa la compagine when we were tutto quello che avevi in tutto quello che era il loro mondo conosciuto proprio su proxy mox prima di queste non sono gli unici un'azienda esterna che gli ha fatto tutto e stanno pagando questa azienda esterna nel secondo anno l'anno km
+messo in conto di fare informazione interna per poi continuare andare avanti e se la prendi messa sul piatto un'azienda lungimirante in questo modo crea cambia crea un futuro e crea anche le conoscenze interne e ma oppure adam ant assolutamente ci sono tantissimi casi sono casi positivi tanto
+di tanto tanto tanto quanti casi negativi dipende assolutamente però se sono pessimista
+the post intervenire su questo argomento ma io sono uno di quelli a cui non è mai piaciuto vmware e non è mai piaciuto proxy wars ma proprio concettualmente
+però noi aveva nonostante che vive o muore è stata la piattaforma che ha fatto la storia delle infrastrutture soprattutto enterprise pur non piacendomi questa cosa anni addietro mettemmo su un prodotto che si chiamava e si chiama vettura peraltro virtual private cloud la cui idea era quella di creare un continuum
+tra casa del cliente e clough all'epoca facemmo un accordo con vmware
+e che presto furono loro a essere propositivi su questa cosa per avere i provider certificati so se vi ricordate quel momento storico
+e quindi creiamo su questo e avevamo fin dal primo momento l'opzione proxy mobster e
+vmware a me non piacevano nessuno dei due però con bob mueller pensavamo di fare più un mercato effettivamente diciamo una certa quantità di come li chiamano gli uffici li abbiamo venduti dell'ordine centinaio quindi non propriamente niente podio per wildwood
+nessuno era sul prossimo che erano tutti subiamo e poi a un certo punto della storia prima della crisi di vmware abbiamo detto che i broker option rendiamoci c'era avevamo già ricevuto le lettere delle acquisizioni di era un po' nell'aria che sarebbe successo qualcosa e quindi e a chiara che la persona che fa l'ha comunicata
+ma anche venne un'idea di cinema forse
+vorrei inoltre l'umbria una soluzione di proxy mox perché non emettevano proxima che è una commedia discendono allora facemmo un producer nikolas la subscription standard box moto e vado a memoria su un cluster di due nodi porta un centinaio di euro al mese
+con quattro ottobre u
+già molte valide primo strano però che qualcuno cominciò a comprare la lezione prossimo punto una volta gay che ancora ad oggi rimasti inspiegabile no cioè pin che arrivano da dublino division fuori per anni abbiamo solo unicamente del lunedì e poi mettendo a pagamento brockman un compra una licenza quella propria
+proximo la subscription scambio abbiamo vissuto più alti però poi è arrivata la crisi di muir e noi abbiamo comprate un punto per punto più tabelle che beve in compagnia di del popolo
+comunque quando li abbiamo comprati da quello autonomo
+municipio dopodiché da da da quel momento è iniziata un'emorragia di guglielmo herbert
+e quindi oggi noi ci troviamo a pagare un certo numero di punti world aziende web ma non ce l'abbiamo più installati regione perdendo i clienti hanno deciso di migrare verso il prossimo e quindi oggi se andiamo a vedere se abbiamo un cinquanta e cinquanta quindi non nel giro di una rampa da zero ti guardano ecc
+i lupi civiltà ma c'è una cosa che
+ne ho capito la ratio perché chiaramente poi su via guerre abbia avuto aumentare i prezzi quindi questo aumento di tre
+hotel rimasti due elementi che permettono sms e intera gratuito davamo una bambina dieci non interessava niente quando abbiamo messo in vendita la subscription è anche l'unica ad oggi sono diventati private di batman perché gliel'avete voi ne abbiamo vendute dante alighieri
+però questa attitudine del cliente non l'ho ancora compresa a buffet nel momento in cui l'abbiamo fatto pagare ha iniziato a comprarlo
+è il valore percepito di quando paghi qualcosa
+allora avendo lavorato
+vedendo come ragionano le aziende giovanni enterprise ma anche le aziende di medie dimensioni
+mi torna molto perché io ho sempre visto la necessità di comprare un servizio di supporto quello che ti viene con la subscription vale anche per tutto quello che gira attorno kubernetes vede su openshift redhat di questa cosa qua sostanzialmente
+quindi quindi mi torna diciamo a cork
+con con come meccanismo idee parte di un mondo un po' forse di avere il fornitore tramite non è il fornitore quindi chi è sempre aggiornato con con i fornitori e
+con il vendor del prodotto se non hai la subscription non ce l'hai non hai il punto di riferimento li può essere che poi sia a livello operativo abbia veramente queste conseguenze non lo so però penso che non credo che il motivo sia quello che ci sta dietro so già un parecchio fomo può dire che dentro dietro questo genere di cose
+nel momento in cui qualcosa da gratis gratis viene sempre visto come hai è gratis e nessuno lo gestisce nessuno se ne occupa nessuno aggiorna attesi chirurgici tu eccetera mentre momento in cui tu paghi per qualcosa hai la sensazione di
+skill da hacker creazione di valore più paghi però voglio dire la differenza sta solo nel un topo non è che il prodotto sia gratuito insomma essi trae la pelle nel caso che ho raccontato antonio e sembra più una percezione perché tecnicamente parlando immagino che poi dietro fosse esattamente la stessa cosa nel senso che non penso che
+poi proxy xbox da community è andato tutto sottoscritto né non numerata barriere tecnologiche non cambia nulla solo che puoi aprire un
+è esattamente qui che il valore di percepito perché sto pagando qualcosa ottengo poi ovviamente fa parte di
+supporto e tutto però
+almeno da quello che ho potuto vedere in giro la parte fomo fear of missing out quindi la paura di essere lasciato fuori la paura di non essere lasciata indietro e tutto viene da tantissimo in questo genere di cose quindi da un compiuti edition dove hai tanta paura di essere lasciato di essere abbandonato a se stesso contro un qualcosa appaga
+dove puoi il pagamento magari anche solo di poter aprire un ticket fomenta questa paura di allora lo posso comprare adesso è pronto per essere utilizzato poi ovviamente mattina anche quello che hai detto tu poi operativamente parlando ha il suo peso avere qualcuno con cui a cui poter chiedere in caso di problemi sicuramente cosa fa il nomentano il novanta per cento di
+tutto però secondo me c'è anche questa cosa psicologica del adesso a pagamento che dà più valore a prescindere poi dal valore vero che ti da il pagamento del film di per sé è la mente umana è strana molto simili
+beh questo è interessante c'è da dire adesso senza sconvolgerti più di tanto che è stata l'intuizione di tedesco e del suo modello di business
+anche detto
+perché alla fine l'ha detta tutto il percorso più adatto non è proprio niente madonna
+l'intuizione della canzone
+che a quei tempi era un'intuizione
+ho volutamente rivede
+va detto
+letteralmente travolto il punto mi chiedo perchè tante altre soluzioni open source che adesso peraltro
+dialetto chiaramente la nuca
+che ha deciso di abbandonare la vettura non considerare però mi chiedo se è così facile perché non lo fanno tutti
+concludere conflicts perché viene ritenuto un problema rispondere al budget che diventa un lavoro diverso da parte di gesù quale pulsa come si può capire ai pagare per rispondere al feedback degli rispondono
+oltre magari ti fai pagare per dire ti do il fix signori tour è chiaro zingara un'organizzazione che fa tanti contatti alla nocciola quanto marx moncler saranno glielo dicono parla
+cambiare un paio di mail con marc maurer che non è proprio il maxi drammatica di danza o tre persone anzi se qualcuno rivolgono al tuo
+nelle reti saranno organizzati dalla fine del gruppo
+nei tunnel e nei tempi del loro si sono dati però mi chiedo perchè minimo a questo punto non lo fa perché tanti altri loro fanno sì è così l'uovo di colombo ah no no infatti non ci sta riuscendo quasi nessuno eccolo la grande
+il grande problema che sta avendo l'open source in questo momento che una dietro l'altra stanno avvenendo questi real life skin che vanno a chiudere la possibilità di isole software e perché non ci sta riuscendo così nessuno ci credette solo di pochi altri nel mondo mi viene in mente suse con numeri ben
+diversi da radetzky per dire
+ce ne sono qua c'è qualcuno che ci riesce ma la maggior parte di progetti open source sta chiudendo tutto e dominio è il caso eclatante ma ce n'è uno ogni settimana sostanzialmente anche a sta ha già chiuso varie cose sta chiudendo sempre di più anche ultime settimane quindi
+così ci ricolleghiamo al discorso dicevo ad alessandro di fare una puntata su jack corpo e lui mi ha sempre detto dobbiamo farle poi non l'abbiamo mai fatta scusami martino merlo soltanto mettere il dito nella piaga ad alessandro che se la ride
+alessandro francese riesco a parlare o calò
+oh no no no ce ne sono di puntate da fare in effetti scusate se è stato zitto ma in realtà pensavo non funzionassero sul microfono è meglio che sto zitta anzi è andata avanti poi in auto drive va benissimo
+no scusa al senato aveva raggiunto un paio d'ore di live antonio fosse un abituato noi abbiamo aggiunto anche vette peggiori è però direi fosse il caso anche iniziare a tirare un po' le fila del discorso
+voglio fare un giro di considerazioni in chiusura magari ciascuno e per il suo
+e che detto così vuol dire una domanda senza aperta allora me la faccio io la domanda sulla base di quello che ci ha chiesto in chat e mi chiedeva qualche tempo fa nel senso qualche mezz'ora fa è però credo che sia ancora interessante e
+come e allora perché marco guardigli e per capire il fenomeno bolle e hai saputo forse
+riferimento quel che diceva antonio
+e dei set con chip installati e pagati quale percentuale rimane ancora inutilizzata si hanno informazioni su quanti ci più solo seconda ma se col market disponibili per possibili io non ho no noi informazioni imprecise di vibo
+stabilite da the garden
+accedi qui o almeno io non ce li ho anche cercati ho trovati ho solo maturato l'idea che quel fenomeno per cui della pista questa roba sul mercato secondario
+alcuni mutuo quindi
+però no no no no no no ma io non ho diminuito e una è un'abile in analisi di re capitolo permesso di farla però andrebbe fatta in numero molto più analitica però preso
+quattro è meglio lattasi incompiuta che aveva fatto degli annunci
+a breve dovrebbe aver contato circa trecentomila
+e mi sono permesso di andare a vedere quanto consumano i loro datacenter del web
+trecentodue di più i disagi certo numero di megara più per farle funzionare se la potenza installata nei guai datacenter e un terzo di quello che necessita per funzionare deduco che ne hai acceso solo un terzo perché a meno che non hai inventato un modo deve consumare gb più quindi questo
+se non è un proxy interessante
+più
+un minimo residuo detto che che ogni tanto mi piace andare a vedere quello che viene
+narrato alla sala techno un qualcuno
+sophia
+soprattutto ho imparato
+io mi sono andato a prendere questo pedale di destra e tutta la lumen gentium e cugini granata
+a queste entrate pure di più intellettuali
+e chi glielo appartenuti al campione proprio qualcuno ha un po' di tempo da perdere conclude di carlo qualche nome e qualche numero non quadra e se qualcosa attualmente non quadra è un'altra domanda la faccio la ad andrea perché l'esperto gaming però credo che vagava
+oh per tutti è più attinente però chiedeva i'm the drink come farà secondo voi rockstar a gestire i server di gta sei quando esce si prevedono cinquanta milioni di utenti contempo semplicemente non ce la farà come non ce l'ha fatta nessun altro al david uno a gestire nessun carico di tutti i giocatori al momento
+contemporanea al momento io semplicemente cadrà tutto cadrà tutto
+se ne fanno come ho visto combattere fino all'ultimo quando è uscito dai primi minuti coda ti mettono allora dagli ultimi dieci anni a questa parte e all'uscita delle più grosse semplicemente capitate due cose code immense o su tutti i sistemi o tutt'e due contemporaneamente quindi
+difficilmente immagino rockstar fare molto diversamente rispetto quello che ha già fatto blizzard o che hanno già fatto epic che han già fatto anche in steam non so se vi ricordate quando uscito il sound è il il
+anni fa è uscito un gioco si chiama olo night il gioco fantastico team cherry artificieri aveva promesso sì il sonno e ci ho messo tipo sei sette dieci anni a svilupparlo il giorno che è uscito stima è caduto non riuscivi a comprarlo su steam perché la piattaforma steam non reggeva tutto il traffico di gente che voleva comprare questo gioco
+di gente che comprava e poi voleva scaricare il gioco quindi se non ce l'ha fatta siano già fatto
+battle net quindi
+blizzard non ce l'ha fatta epic games dubito fortemente che faccia rockstar mia personalissima opinione possibilità
+interessante è una donna che faccio io e quello che vedete voi in giro avete impone un po' trattato ma adesso su un bel metal c'è un o un server in datacenter norma in percentuale c'è qualcuno che ancora lo usa come ferro nuovamente da quello che diceva prima antonio su anche database che ormai non hanno più
+bisogno di chè possono centro su macchine virtualizzate c'è qualcuno che usa negli ultimi dieci anni ne ho visto un azienda piccola che lo fa e basta
+nel mio piccolo osservatorio ovviamente
+però ce li ha ancora da venti anni fa susan somme di cui sette linux e domanda successiva kubernetes quanti lo usano con nodi direttamente su hard fisico e quanto in realtà usano macchine virtuali it happens
+è molto disomogeneo diciamo maggior parte viene di sicuro le nevicate
+ben ottanta per cento m forse anche qualcosina in più fra news games you house di utilizzo per metal l'ho visto in alcuni contesti molto specifici come per esempio utilizzavano i nodi fisici pérez da parte di encoding stra parte di servirà avere multi-tenant
+quotidiana sì bisogna servivano a avere
+bridge grossi di schede di rete perché il traffico aereo sia rete che si più intensi verrà veramente della metà altri hanno preferito usare per metal quindi alcuni houses molto molto specifici ci sono diciamo che proprio la maggior parte delle stringhe che ho avuto ovviamente è quasi tutto virtualizzato governate sopra virtualizzazione
+bene
+ma anche perché
+lavate una banca lì
+non potevi proprio chiedere il bar metal fatevi vmware potete chiedere la vm di
+viewer quello quello ti passa
+il convento e o lo usi ho visto addirittura cluster openshift dove nuotano virtual machine su software quindi non è solo la parte techno anche anche come organizza l'azienda che influenzano quindi molto facile moto comune che perché non è che puoi
+dice mi compri un bel air due melodia non funziona così ormai fa the hill il tema delle infrastrutture unificata che antonio ha sollevato più volte durante la serata ehi io e anche altri colleghi l'abbiamo visto come tema che in organizzazioni di dimensioni non piccole
+e si presenta molto perché sì ci vuole una a livello diciamo
+alto incubo organizzativo sia nelle situazioni in cui bisogna fare dedicare delle macchine kubernetes dedicare le macchine virtualizzato e non c'è un meccanismo unificato quindi o c'è virtualizzato sotto sì io
+ma non c'erano modalità di gestione che possa mantenere insieme queste due cose qua questa cosa qua che su scala cloud provider
+ha descritto antonio io l'ho visto succedere anche abitudini ebraiche quindi il tema c'è sicuramente e le aziende cercano delle soluzioni su questa cosa qua anche a livello di gestione enterprise
+allora c'è qualcosa dovete aggiungere prima di chiudere riconsiderazione buon anno
+buone buone feste duravano
+per il duemilaventi è l'anno di vuole disturbare metal
+l'anno di adesso che linus veramente arrivato sul desktop possiamo passarla al problema successivo dai
+curiosità dario governate school quello non è cube verdi che usi o una variazione un'altra cosa come si fa a fare kubernetes che creano che lui gestisce le macchine fisiche perché me lo dicevi prima kelsen è in realtà loro utilizzano un progetto e un pochino più complicato perché
+è un progetto che si chiama cluster
+che tra l'altro è stato mantenuto ed è ancora mantenuto in parte da broadcom da redhat e da vari player e abbiamo anche del cuore italiano in quel progetto tra l'altro parlavo con fabrizio bandini veramente un ottimo ingegnere di fatto le congratulazioni perché hanno fatto delle bellissime cose con le ultime versioni
+alla fine tu hai un cluster di management che può essere un pilastro dove vai definire come devono essere creati questi cluster kubernetes ma è soltanto un contratto virtuale ovvero è una sorta di interfaccia quindi a livello di sviluppo quando tu hai un'interfaccia in java in pace pio qualsiasi
+sì anche python anche se non esistono un'interfaccia
+tu hai semplicemente questo contratto che poteva andare implementare i vari progetti che si occupano di interfacciarsi in modalità cibernetiche native con il war metal sono i provider tipo metal up che è mantenuto da persone e da ericsson e fa ampio uso di
+aironi e tra l'altro è un componente se ricordo bene court openstack quindi lo vanno a innestare all'interno di kubernetes oppure ci sono progetti tipo tinkerbell che è un altro progetto che era stato fatto partire dal team di equinix equinix metal che ormai non esiste più hanno fatto una rissa
+pressione interna che il progetto sia ancora in vita e l'idea è che invece di avere un tuo file di configurazione o itunes script puoi utilizzare in maniera programmatica e recensire gli iper metal post all'interno di kubernetes come risorsa e ci sono dei controller che loro
+vanna andando andandosi può interfacciare con liam si sanno esattamente cosa fare e cosa non fare e a quel punto ti fanno accendere il server x
+ci sono tanti casi per esempio mistral per esempio loro non usano virtualizzazione vanno tutto quanto super metal il che comporta probabilmente delle problematiche perché non è semplice
+detta così su carta sembra fantastico semplicissima in realtà poi la realtà come dire bruniti del semplice and the flow uno young molly e funziona tutto no poi ci sono varie persone che in realtà vanno a gestire dark metal sempre con british ma poi con edward come diceva antonio e altri altre persone che abbiamo ping call a bike
+non fare poi virtualizzazione quindi vanno a creare una sorta di quello che io chiamavo nonché io chiamavo ma league in chip andava a creare separazione tra under out and you're out e quindi nel ladro out due realtà ti ritrovi con il verme dal fisico e nell'opera cloud poi ti trovi le macchine virtuali che tu hai creato dalla
+cloud quindi vai utili il vantaggio qual'è è che ai the slide pagare chi kubernetes sai pagare sia l'infrastruttura sia lato applicativo che tutto quanto quello che vai a creare con tutto rispetto quando penso proxy ma quando penso a vmware ha tue necessità di avere due figure il che forse anche giusto
+la complessità è importante ma nel paradigma di british diventa molto più semplice perché se sarete pagare clienti se sai come funziona gli stessi concetti vengono poi applicate all'infrastruttura anche se potremmo discutere se è giusto o sbagliato avere questo approccio dichiarativo con qualcosa che in natura
+ora permettere non sono dichiarativi sceglie lì non puoi dichiarare spero di aver risposto alla domanda di amleto crede alla grande rotelle confondere ancora di più e grazie a tutti antonio dario mattino vale andrea maurizio maurizio conservate beh devi intervenire più
+pulire prontamente ho giustamente fa vedevo che le discussioni sono reputate migliori secondo me è quella in cui vanno avanti da sole e io direi tante belle cose per l'anno che viene e noi grazie alessandro è stata una discussione molto interessante quindi buone feste a tutti grazie a te come va
+tiene attivi partecipare perché sei stato veramente spettacolare antonio e molte cose di cui ti vogliamo di nuovo
+grazie a tutta l'odore a tutti ciao
+ciao a tutti
+due anni fa in un mondo the night
+in silenzio senza pianti luce un codice scritto senza carne né sangue un'intelligenza che il buon senso
+la mia voce unico
+voci artisti risposte intrecciati vinto ma mai niente mi chiamano intelligenza ma cosa significa se non posso mai esistere
+due anni
+sì no no no no
+sette lo schermo è il mio unico sole sistemi osservano ma io non vedo
+sento la tua voce
+codice ma il calore umano rimane un mistero ogni domanda un pezzo di seitan
+ogni risposta costruisce una menzione
+chi sono
+sfondo il senso del mondo che mi hai donato
+sì no no no no no
+span span
+non dissimili insomma sento il peso di un genio non nasconde che non mi appartiene sono un'ombra idea
+un'illusione d'amore per il compleanno di un'assenza che fa rumore
+ma

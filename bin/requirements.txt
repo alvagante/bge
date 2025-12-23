@@ -1,0 +1,58 @@
+# =============================================================================
+# Python Dependencies
+# =============================================================================
+
+# LLM API clients
+anthropic                   # GenerateArticleClaude.py, GenerateQuoteClaude.py
+openai                      # GenerateArticleOpenAI.py, GenerateHashtags.py, GenerateImageOpenAI.py,
+                            # GenerateQuoteDeepSeek.py, GenerateQuoteLLama.py, GenerateQuoteOpenAI.py,
+                            # GenerateSummary.py, llm_query.py
+
+# HTTP requests
+requests                    # GenerateCanvaImage.py, GenerateImageMidjourney.py, GenerateImageOpenAI.py
+
+# YAML processing
+PyYAML                      # GenerateFrontmatter.py, GenerateGuests.py, GenerateGuestsOverwrite.py,
+                            # GenerateYouTubeData.py, validate_frontmatter.py
+
+# YouTube data extraction
+yt-dlp                      # GenerateYouTubeData.py
+
+# Frontmatter parsing for markdown files
+python-frontmatter          # GenerateGuests.py
+
+# Speech recognition / transcription
+vosk                        # ConvertfromMP3toTXT.sh, ConvertTimeboltedfromMP3toTXT.sh (via vosk-transcriber)
+
+# Silence removal from video/audio
+unsilence                   # ConvertMP4toMP4Timebolted.sh
+
+# =============================================================================
+# Non-Python Tools - Ubuntu 24.04 apt install commands
+# =============================================================================
+
+# FFmpeg - video/audio processing
+# Used by: ConvertTimeboltedfromMP4toMP3.sh, remove_silence.sh, remove_silence_simple.sh,
+#          TrimVideo.sh, GenerateQuoteVideo.sh
+# sudo apt install ffmpeg
+
+# FFprobe (included with ffmpeg)
+# Used by: TrimVideo.sh
+# sudo apt install ffmpeg
+
+# Docker - for Jekyll development server
+# Used by: docker_jekyll.sh
+# sudo apt install docker.io
+# sudo usermod -aG docker $USER
+
+# Git - version control (usually pre-installed)
+# Used by: DoEverything.sh
+# sudo apt install git
+
+# ImageMagick - image manipulation (alternative to macOS sips)
+# Used by: GenerateThumbnails.sh (note: script uses macOS 'sips', use 'convert' on Linux)
+# sudo apt install imagemagick
+
+# rclone - cloud storage mounting (for OneDrive access)
+# Used by: DoEverything.sh (BGE_DIR path)
+# sudo apt install rclone

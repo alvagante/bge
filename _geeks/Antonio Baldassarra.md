@@ -1,8 +1,6 @@
 ---
 episodi:
-- 22
-- 70
 - 104
 layout: geek
-nome: Martino Fornasa
+nome: Antonio Baldassarra
 ---

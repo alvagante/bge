@@ -1,0 +1,33 @@
+# Il Ferro Nudo nell'Era dell'Effimero Digitale
+
+Nel dicembre 2025, mentre l'umanità celebra l'ennesima resurrezione del cloud computing come panacea universale, la Brigata dei Geek Estinti compie un gesto eretico: disseppellisce il cadavere del bare metal per verificarne lo stato di decomposizione. Sorpresa: il corpo respira ancora, seppur attaccato a macchinari di sostegno vitale sempre più costosi.
+
+L'episodio 104 si configura come un'autopsia tecnologica travestita da conversazione tecnica. Antonio Baldassarra, Dario Tranchitella, Alessandro Vozza, Martino Fornasa e Andrea Spagnolo non si limitano a discutere specifiche hardware: scandagliano l'anima stessa dell'infrastruttura digitale, quella dimensione fisica che il marketing cloud vorrebbe farci dimenticare, come se i nostri dati fluttuassero in un'eterea dimensione platonica anziché su silicio costosamente refrigerato.
+
+## L'Ironia della Dematerializzazione
+
+C'è qualcosa di profondamente kafkiano nell'attuale paradigma infrastrutturale: più proclamiamo la "smaterializzazione" dei servizi, più dipindiamo da hardware sempre più sofisticato e inaccessibile. Il bare metal—termine che evoca una nudità tecnologica quasi imbarazzante—diventa metafora della verità scomoda: sotto ogni container, VM o funzione serverless, c'è ferro che scalda, consuma e costa.
+
+La brigata esplora questa contraddizione con lucidità chirurgica. L'abbandono progressivo del bare metal non rappresenta la sua obsolescenza, ma piuttosto una sublimazione: come i vecchi dei politeisti, non scompare ma si nasconde dietro strati di astrazione, venerato da sacerdoti sempre meno numerosi.
+
+## Il Costo della Conoscenza, la Conoscenza del Costo
+
+L'impennata dei prezzi hardware emerge come leitmotiv inquietante. Non è solo economia classica di domanda-offerta: è il prezzo della complessità che si autoalimenta. L'AI e il machine learning—quei moderni Prometeo che rubano il fuoco computazionale—richiedono sacrifici sempre più onerosi agli altari di NVIDIA e compagnia.
+
+La speculazione aleggia come fantasma nelle discussioni sulla supply chain. Siamo davanti a scarsità reale o a panic buying artificialmente indotto? La brigata non offre risposte consolatorie, solo domande taglienti che squarciano il velo del marketing industriale.
+
+## Open Source: L'Ultimo Baluardo o l'Ennesima Illusione?
+
+Il dibattito sull'open source rivela una tensione generazionale irrisolta. Da un lato, la promessa libertaria di sovranità tecnologica; dall'altro, la realtà brutale delle competenze necessarie e del supporto enterprise. Come sempre, la libertà ha un prezzo—spesso misurato in FTE di ingegneri specializzati.
+
+L'enfasi sulla formazione e il rapporto vendor-cliente tradisce una verità scomoda: la democratizzazione tecnologica predica rimane, in gran parte, aspirazionale. Chi controlla la conoscenza controlla l'infrastruttura, indipendentemente dalla licenza del software.
+
+## Gaming, Server Dedicati e la Resistenza del Concreto
+
+Interessante l'osservazione sui casi d'uso persistenti del bare metal: gaming ad alte prestazioni e server dedicati. Sono le nicchie dove la latenza fisica conta ancora, dove l'astrazione diventa intollerabile impedimento. Sono i bastioni della materialità in un mondo che vuole disincarnare ogni processo.
+
+Qui emerge un pattern ricorrente nel progresso tecnologico: ciò che viene dichiarato morto raramente scompare, semplicemente si ritira in contesti sempre più specializzati, dove le sue caratteristiche uniche rimangono insostituibili.
+
+## L'Automazione Come Destino Manifesto
+
+La pro

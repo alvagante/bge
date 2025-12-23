@@ -1,5 +1,6 @@
 #!/bin/bash
-BGE_DIR="/Users/al/Library/CloudStorage/OneDrive-Personal/BGE"
+#BGE_DIR="/Users/al/Library/CloudStorage/OneDrive-Personal/BGE"
+BGE_DIR="/home/al/rclone/onedrive/BGE"
 GIT_DIR=$(git rev-parse --show-toplevel)
 EPISODES_DIR="${BGE_DIR}/Episodes"
 SCRIPT_DIR="${GIT_DIR}/bin"
