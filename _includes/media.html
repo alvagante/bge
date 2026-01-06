@@ -62,7 +62,19 @@
 
       <div class="row">
         <h2>Le canzoni della Brigata</h2>
-        <h3>Soon coming</h3>
+        <p>Canzoni generate con l'AI a tema BGE</p>
+        <div class="col-lg-12">
+          {% assign songs = site.static_files | where_exp: "file", "file.path contains '/assets/songs/'" | where_exp: "file", "file.extname == '.mp3'" %}
+          {% for song in songs %}
+            <div class="song-player mb-3">
+              <h4>{{ song.basename | replace: '-', ' ' }}</h4>
+              <audio controls preload="metadata" style="width: 100%; max-width: 500px;">
+                <source src="{{ song.path | relative_url }}" type="audio/mpeg">
+                Il tuo browser non supporta l'elemento audio.
+              </audio>
+            </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>
