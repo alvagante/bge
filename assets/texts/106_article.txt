@@ -1,0 +1,33 @@
+Data: 2026-01-09 — BGE 106: “ISO 42001: si può certificare l’IA?” (durata ~70 minuti). Ospite: Giulio Faini. Link utili: ISO 42001 (https://www.iso.org/standard/42001) e ISO/22989 sui termini (https://www.iso.org/standard/74296.html).
+
+La traccia dell’episodio è chiara e ambiziosa: trasformare l’IA da black box culturale in macchina gestibile. Non con incantesimi, ma con una norma. La ISO/IEC 42001 nasce come armatura normativa: governance, responsabilità organizzative, gestione del rischio. Tre pilastri ripetuti dai partecipanti come mantra operativo — persone, processi, tecnologia — e una promessa implicita: se applichi la norma, l’IA diventa certificabile, quindi affidabile, quindi commerciabile.
+
+Sintesi tecnica (quello che davvero conta):
+- Scopo: standardizzare pratiche di gestione dell’IA per ridurre bias, aumentare trasparenza e responsabilità. Non un miracolo etico. Un set di processi da integrare.
+- Struttura: ruoli definiti, policy formalizzate, metriche e audit. Documentazione come ossigeno per ogni certificazione.
+- Risk assessment: obbligo di valutare impatti sociali e discriminazioni potenziali, non solo errori numerici.
+- Allineamento normativo: 42001 si interseca con normative nazionali ed europee (AI Act), offrendo un percorso pratico per la compliance.
+- Costi e limiti: investimento significativo in persone e strumenti; rischio di “checklistism” — rispettare la forma senza cambiare la sostanza.
+- Evoluzione: la norma è progettata per rimanere plastica, aggiornabile con il progresso tecnologico.
+
+Qui entra il sarcasmo filosofico. Certificare l’IA è come certificare il tempo atmosferico: puoi misurare parametri, costruire modelli, ma il clima dell’ecosistema socio-tecnico evolve. “Quis custodiet ipsos custodes?” rimane valida: chi certifica gli auditor? La norma sposta il problema. Lo trasforma in un loop di sorveglianza organizzativa—utile, necessario, ma non definitivo.
+
+Punti di discussione rilevanti emersi nell’episodio:
+- Misurare non è capire: metriche di fairness e spiegabilità sono proxy. Occhio all’illusione di controllo.
+- Human-in-the-loop non è un talismano. Serve disegno operativo: chi interviene, quando, con quali poteri?
+- Audit continuo: non un controllo annuale, ma monitoraggio in produzione e drift detection.
+- Governance orizzontale: ruoli come “owner del modello”, “responsabile del rischio AI”, “auditor tecnico” diventano nativi nell’azienda.
+- Trasparenza vs segreto industriale: il compromesso va negoziato, e la norma fornisce formati di evidenza per terze parti.
+
+Riflessione filosofica breve: la norma è una grammatica per parlare d’IA. Non è la poesia. Va bene. Le grammatiche rendono possibile il discorso collettivo, ma non impediscono che il discorso diventi propaganda. Standardizzare significa anche rendere prevedibili i comportamenti istituzionali. In tempi di modelli che apprendono in tempo reale, la prevedibilità è un antidoto — e una trappola.
+
+Pratiche concrete che la Brigata mette sul tavolo (e che ogni organizzazione dovrebbe tradurre in attività):
+- Inventario degli asset AI + valutazione dei rischi a livello di caso d’uso.
+- Policy di governance con ruoli e soglie di intervento (es. when human override is required).
+- Pipeline di validazione continua: test, metriche di fairness, monitor di drift.
+- Evidence pack per audit: dataset, versioning, log di decisione, report di explainability.
+- Processi di miglioramento continuo e aggiornamento della norma all’interno dell’organizzazione.
+
+Un ultimo appunto: la ISO 42001 è un’opportunità pratica per le imprese che vogliono evitare bozzetti etici da vetrina e costruire responsabilità operativa. Ma non si illudano: la certificazione non santifica. È uno strumento di governo. Come ogni strumento, produce risultati in mano a chi lo usa bene — o lo usa male.
+
+La domanda finale, che resta nella stanza dopo il podcast: possiamo davvero relegare l’imprevedibile a un fascicolo di audit? O stiamo solo confezionando un buon abito per un organismo ancora capace di mutare pelle?

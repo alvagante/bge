@@ -20,8 +20,8 @@ BASE_DIR="/home/al/bge"
 EPISODES_DIR="${BASE_DIR}/_episodes"
 COVERS_DIR="${BASE_DIR}/assets/covers"
 FONTS_DIR="${BASE_DIR}/assets/fonts"
-MUSIC_DIR="${BASE_DIR}/assets/music"         # Directory with background music mp3 files
-OUTPUT_DIR="${BASE_DIR}/assets/videos"       # Output directory for generated videos
+MUSIC_DIR="${BASE_DIR}/assets/songs"         # Directory with background music mp3 files
+OUTPUT_DIR="/home/al/rclone/onedrive/BGE/Clips/Quotes"       # Output directory for generated videos
 TEMP_DIR="/tmp/bge_video_$$"                 # Temporary working directory
 
 # Video settings
@@ -276,9 +276,11 @@ wrap_text() {
 escape_for_ffmpeg() {
     local text="$1"
     # Escape special characters for ffmpeg drawtext
+    # Order matters: escape backslashes first
     text="${text//\\/\\\\}"
+    # Escape single quotes by doubling them (ffmpeg drawtext convention)
+    text="${text//\'/\'\'}"
     text="${text//:/\\:}"
-    text="${text//\'/\\\'}"
     text="${text//\"/\\\"}"
     text="${text//[/\\[}"
     text="${text//]/\\]}"
@@ -295,15 +297,15 @@ build_image_effect_filter() {
     case "$effect" in
         zoompan)
             # Slow zoom in effect
-            echo "zoompan=z='min(zoom+0.0015,1.5)':d=$((duration * VIDEO_FPS)):s=${VIDEO_WIDTH}x${VIDEO_HEIGHT}:fps=${VIDEO_FPS}"
+            echo "zoompan=z=min(zoom+0.0015\\,1.5):d=$((duration * VIDEO_FPS)):s=${VIDEO_WIDTH}x${VIDEO_HEIGHT}:fps=${VIDEO_FPS}"
             ;;
         ken_burns)
             # Ken Burns effect (zoom + pan)
-            echo "zoompan=z='if(lte(zoom,1.0),1.5,max(1.001,zoom-0.0015))':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=$((duration * VIDEO_FPS)):s=${VIDEO_WIDTH}x${VIDEO_HEIGHT}:fps=${VIDEO_FPS}"
+            echo "zoompan=z=if(lte(zoom\\,1.0)\\,1.5\\,max(1.001\\,zoom-0.0015)):x=iw/2-(iw/zoom/2):y=ih/2-(ih/zoom/2):d=$((duration * VIDEO_FPS)):s=${VIDEO_WIDTH}x${VIDEO_HEIGHT}:fps=${VIDEO_FPS}"
             ;;
         pulse)
             # Subtle pulse/breathe effect
-            echo "zoompan=z='1+0.05*sin(2*PI*in/$((VIDEO_FPS * 4)))':d=$((duration * VIDEO_FPS)):s=${VIDEO_WIDTH}x${VIDEO_HEIGHT}:fps=${VIDEO_FPS}"
+            echo "zoompan=z=1+0.05*sin(2*PI*in/$((VIDEO_FPS * 4))):d=$((duration * VIDEO_FPS)):s=${VIDEO_WIDTH}x${VIDEO_HEIGHT}:fps=${VIDEO_FPS}"
             ;;
         none|*)
             # No effect, just scale
@@ -426,26 +428,21 @@ TEXT_DURATION=$((VIDEO_DURATION - 2))
 # Build ffmpeg filter complex
 echo "Building video filters..."
 
-FILTER_COMPLEX="
-[0:v]${EFFECT_FILTER},format=yuv420p[bg];
-[bg]drawtext=fontfile='${FONT_FILE}':text='${EPISODE_TEXT}':fontsize=${EPISODE_FONT_SIZE}:fontcolor=${EPISODE_FONT_COLOR}:x=${EPISODE_X}:y=${EPISODE_Y}:enable='between(t,0.5,${VIDEO_DURATION})'[v1];
-[v1]drawtext=fontfile='${FONT_FILE}':text='${TITLE_ESCAPED}':fontsize=${TITLE_FONT_SIZE}:fontcolor=${TITLE_FONT_COLOR}:x=${TITLE_X}:y=${TITLE_Y}:enable='between(t,1,${VIDEO_DURATION})':box=1:boxcolor=${QUOTE_BOX_COLOR}:boxborderw=10[v2];
-[v2]drawtext=fontfile='${FONT_FILE}':text='${QUOTE_ESCAPED}':fontsize=${QUOTE_FONT_SIZE}:fontcolor=${QUOTE_FONT_COLOR}:x=${QUOTE_X}:y=${QUOTE_Y}:enable='between(t,${TEXT_FADE_IN},${VIDEO_DURATION})':box=1:boxcolor=${QUOTE_BOX_COLOR}:boxborderw=${QUOTE_BOX_BORDER}[v3];
-[v3]drawtext=fontfile='${FONT_FILE}':text='${AUTHOR_ESCAPED}':fontsize=${AUTHOR_FONT_SIZE}:fontcolor=${AUTHOR_FONT_COLOR}:x=${AUTHOR_X}:y=${AUTHOR_Y}:enable='between(t,2,${VIDEO_DURATION})'[vout]
-"
+FILTER_COMPLEX="[0:v]${EFFECT_FILTER},format=yuv420p[bg];[bg]drawtext=fontfile='${FONT_FILE}':text='${EPISODE_TEXT}':fontsize=${EPISODE_FONT_SIZE}:fontcolor=${EPISODE_FONT_COLOR}:x=${EPISODE_X}:y=${EPISODE_Y}:enable='between(t,0.5,${VIDEO_DURATION})'[v1];[v1]drawtext=fontfile='${FONT_FILE}':text='${TITLE_ESCAPED}':fontsize=${TITLE_FONT_SIZE}:fontcolor=${TITLE_FONT_COLOR}:x=${TITLE_X}:y=${TITLE_Y}:enable='between(t,1,${VIDEO_DURATION})':box=1:boxcolor=${QUOTE_BOX_COLOR}:boxborderw=10[v2];[v2]drawtext=fontfile='${FONT_FILE}':text='${QUOTE_ESCAPED}':fontsize=${QUOTE_FONT_SIZE}:fontcolor=${QUOTE_FONT_COLOR}:x=${QUOTE_X}:y=${QUOTE_Y}:enable='between(t,${TEXT_FADE_IN},${VIDEO_DURATION})':box=1:boxcolor=${QUOTE_BOX_COLOR}:boxborderw=${QUOTE_BOX_BORDER}[v3];[v3]drawtext=fontfile='${FONT_FILE}':text='${AUTHOR_ESCAPED}':fontsize=${AUTHOR_FONT_SIZE}:fontcolor=${AUTHOR_FONT_COLOR}:x=${AUTHOR_X}:y=${AUTHOR_Y}:enable='between(t,2,${VIDEO_DURATION})'[vout]"
 
 # Build audio mix
 echo "Building audio mix..."
 
+# Build ffmpeg command using arrays to handle filenames with special characters
+FFMPEG_CMD=(ffmpeg -y -loop 1 -i "${COVER_IMAGE}" -i "${TTS_FILE}")
+
 if [[ -n "$MUSIC_FILE" && -f "$MUSIC_FILE" ]]; then
     # Mix TTS voice with background music
     AUDIO_FILTER="[1:a]adelay=${TEXT_FADE_IN}s:all=1,volume=${VOICE_VOLUME}[voice];[2:a]volume=${MUSIC_VOLUME},afade=t=out:st=$((VIDEO_DURATION - 2)):d=2[music];[voice][music]amix=inputs=2:duration=longest[aout]"
-    
-    AUDIO_INPUTS="-i \"${TTS_FILE}\" -i \"${MUSIC_FILE}\""
+    FFMPEG_CMD+=(-i "${MUSIC_FILE}")
 else
     # TTS only
     AUDIO_FILTER="[1:a]adelay=${TEXT_FADE_IN}s:all=1,volume=${VOICE_VOLUME},apad=whole_dur=${VIDEO_DURATION}[aout]"
-    AUDIO_INPUTS="-i \"${TTS_FILE}\""
 fi
 
 # Generate video
@@ -453,9 +450,7 @@ echo ""
 echo "Generating video..."
 echo "Output: $OUTPUT_VIDEO"
 
-eval ffmpeg -y \
-    -loop 1 -i "\"${COVER_IMAGE}\"" \
-    ${AUDIO_INPUTS} \
+"${FFMPEG_CMD[@]}" \
     -filter_complex "${FILTER_COMPLEX};${AUDIO_FILTER}" \
     -map "[vout]" -map "[aout]" \
     -c:v libx264 -preset medium -crf 23 \
@@ -463,7 +458,7 @@ eval ffmpeg -y \
     -t ${VIDEO_DURATION} \
     -pix_fmt yuv420p \
     -movflags +faststart \
-    "\"${OUTPUT_VIDEO}\""
+    "${OUTPUT_VIDEO}"
 
 echo ""
 echo "=========================================="

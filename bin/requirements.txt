@@ -27,6 +27,9 @@ vosk                        # ConvertfromMP3toTXT.sh, ConvertTimeboltedfromMP3to
 # Silence removal from video/audio
 unsilence                   # ConvertMP4toMP4Timebolted.sh
 
+# Video generation script
+gtts                        # GenerateQuoteVideo.sh
+
 # =============================================================================
 # Non-Python Tools - Ubuntu 24.04 apt install commands
 # =============================================================================

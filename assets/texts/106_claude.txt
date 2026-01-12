@@ -1,0 +1,31 @@
+# Governare l'Ignoto: La ISO 42001 e l'Illusione del Controllo
+
+Nel 2023, mentre il mondo si accorgeva che l'intelligenza artificiale non era più fantascienza ma infrastruttura critica, ISO e IEC hanno fatto ciò che gli enti di standardizzazione fanno meglio: hanno tentato di imbrigliare il caos con la grammatica della conformità. La **ISO/IEC 42001** nasce come primo standard internazionale per i sistemi di gestione dell'AI, un esperimento filosofico travestito da documento tecnico.
+
+Come ci ricorda Philip K. Dick: "La realtà è ciò che, quando smetti di crederci, non scompare". E l'AI? È già qui, opera, decide, discrimina – che la certifichiamo o meno.
+
+## La Trimurti della Certificazione: Persone, Processi, Tecnologia
+
+La struttura della ISO 42001 poggia su un triedro classico: **personale qualificato, processi documentati, tecnologie all'avanguardia**. Un'architettura che suona familiare a chiunque abbia digerito ISO 9001, 27001 o le altre liturgie della compliance. Ma qui c'è un twist: l'oggetto da governare non è statico. L'AI si addestra, muta, "alluсina" – termine tecnico per indicare che inventa realtà plausibili ma false.
+
+Come si documenta un processo che apprende? Come si audita un bias emergente che nessuno ha esplicitamente programmato? La certificazione diventa un atto di fede operativa: crediamo di controllare perché abbiamo scritto procedure che *descrivono* il controllo.
+
+## Risk Assessment: La Cartografia dell'Imponderabile
+
+Il cuore pulsante della norma è il **risk assessment sociotecnico**. Non basta verificare che il modello sia statisticamente robusto; bisogna mappare le sue "impronte nell'antropocene digitale": discriminazioni algoritmiche, reinforcement dei pregiudizi, opacità decisionale.
+
+Foucault parlava di "governamentalità" – quella sottile arte di rendere governabile ciò che sembrava incontrollabile attraverso la produzione di sapere. La ISO 42001 fa esattamente questo: trasforma l'AI da fenomeno emergente a oggetto amministrativo, assegnando ruoli, responsabilità, KPI.
+
+Ma attenzione: la norma ISO non è prescrittiva sulle tecnologie. È *agnostica rispetto al substrato*, come direbbe un filosofo della mente. Non ti dice quale architettura neurale usare, ma ti obbliga a giustificare perché l'hai scelta, a documentarne i limiti, a pianificare audit ricorsivi.
+
+## L'AI Act e la Convergenza Normativa
+
+La certificazione arriva in sincronia strategica con il **AI Act europeo** – non per caso. Mentre la regolamentazione UE classifica i sistemi AI per livelli di rischio (inaccettabile, alto, limitato, minimo), la ISO 42001 offre il framework operativo per dimostrare conformità. È il classico tandem: la legge dice "cosa", la norma tecnica suggerisce il "come".
+
+Le aziende che operano nell'ecosistema EU si trovano di fronte a una scelta che non è scelta: certificarsi diventa **moat competitivo**, segnale di mercato, anticipo sul futuro regolatorio. Come nella tragedia greca, la libertà consiste nell'abbracciare consapevolmente il destino che ti sta già accadendo.
+
+## Il Costo dell'Etica Proceduralizzata
+
+Nessuna certificazione è gratuita. La ISO 42001 richiede investimenti considerevoli: consulenti specializzati, audit ricorrenti, documentazione bizantina, formazione continua. Per le PMI può essere proibitivo; per le Big Tech, è una voce di bilancio che compra legittimità.
+
+Qui emerge il paradosso: la certificazione diventa **gatekeeping involontario**. Chi
