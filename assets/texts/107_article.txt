@@ -1,0 +1,19 @@
+BGE 107 — OpenClaw e MoltBook. Agenti a briglia sciolta.
+
+Sette giorni. Tre nomi (Clawdbot → Moltbot → OpenClaw). Centomila stelle su GitHub in tempo record. Non è una leggenda metropolitana del software: è il battito accelerato dell'open source nel suo momento più alfa. In questo episodio Luciano Fiandesio, Cosimo Streppone e Fabio Ciucci smontano il fenomeno pezzo per pezzo, con la freddezza di chi sa riconoscere gloria virale da infrastruttura sostenibile.
+
+La bomba è semplice: agenti "always-on". Macchine che non attendono input, ma sorvegliano, azionano webhook, deployano, rispondono su Telegram e WhatsApp, mantengono uno stato persistente e — spesso — una memoria che si comporta come un diario con punti ciechi. OpenClaw non è solo un codice: è un contratto sociale che chiede a centinaia di sviluppatori di mettere in pista server 24/7. Perché? Bassa latenza, continuità di servizio, e la promessa seducente che un agente sempre connesso sa anticipare bisogni, non solo reagire.
+
+Architettura: LLM al centro, orchestratori leggeri ai margini, vector store per memoria persistente, webhook e bridge verso chat e sistemi aziendali. Il risultato è una colonia di processi che vive di eventi, embedding e policy. La bellezza tecnica è evidente. La pericolosità anche: memorie erranti conservano bug come incisioni indelebili. Gli agenti non perdonano la negligenza; replicano errori come virus ben scritti.
+
+Moltbook è il paesaggio attorno a OpenClaw. Non solo hosting: è un ecosistema di tool, template, e integrazioni che abbassano la soglia d’ingresso. In pratica, democratizza l’accesso agli agenti autonomi. Democratizza anche i rischi. La vera domanda non è "può farlo?" ma "chi controlla quello che fa?". L'open source qui è doppio taglio: distribuisce potere e diluisce responsabilità.
+
+Sul coding cambia tutto e niente. Il coding assistito riduce frizioni, accelera prototipi, e crea nuovi debiti tecnici sotto forma di "memoria condivisa non documentata". Auto-deploy e automazione promettono il santo graal del ciclo CI/CD senza interventi umani. Poi succede che l'agente sbaglia in produzione. Il problema non sparisce: si replica. Persistenza degli errori diventa persistenza di reputazioni. Filosoficamente: il sistema salva la storia del tuo errore e la restituisce amplificata.
+
+Sicurezza e privacy non sono optional. Agenti che hanno accesso a canali di messaggistica e dati sensibili devono essere progettati con principi hard: least privilege, audit log immutabili, e circuit breaker. Se la memoria dell’agente è un archivio, quel che ci metti dentro decide chi diventerai. Tradotto: data governance diventa etica tecnica.
+
+Impatto sul lavoro? Il mercato non scompare, si riallinea. Sui banchi perdono i compiti ripetitivi; crescono gli steward degli agenti, gli ingegneri della fiducia, i progettisti di policy e i verificatori di sistemi autonomi. Le skill richieste si spostano verso supervisione, modellazione di incentivi e gestione del rischio. Non è disoccupazione, è ricollocazione nel circuito dell'attenzione tecnica.
+
+Ascoltare questo episodio conviene se volete capire perché una stella su GitHub oggi pesa più che mai. Fiandesio, Streppone e Ciucci offrono mappe tecniche e spunti etici. Non danno soluzioni pronte. Le lasciamo al codice che chiudiamo a notte fonda.
+
+La vera sfida non è costruire agenti che agiscano senza permesso; è costruirne di cui non ci vergogniamo quando, domani, leggeremo il loro registro.

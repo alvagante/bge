@@ -15,6 +15,7 @@ episodi:
 - 80
 - 98
 - 100
+- 107
 layout: geek
 nome: Cosimo Streppone
 ---

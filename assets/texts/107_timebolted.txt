@@ -1,0 +1,704 @@
+mi sveglio c'è un agente che mi scrive come stai
+il mio insistente del cliente che ti chiama ferragosto
+miller c'è tutto il di viti che il backlog
+sabbio lui del capo
+manda pure il blog
+sono persistente come un po' in produzione ti segue in ogni tab ogni sessione so nel tuo agente hai fammi spazio nel cervello se ne cancelli faccio sponda un altro nodo open world book login
+ma ora va di moda il pronto fammi tutto tu frate auto auto deploy e auto ego auto blu scrivono libri molly buck scopri il segreto dei pro
+copia e incolla dalla copertina stack trace in fondo al cuore
+ca
+sono persistente come un bon in produzione ti segue in ogni tab ogni sessione persone o agente
+fammi spazio nel cervello se mi cancelli faccia sponda a un altro nodo open ciao
+no
+il coffee ti faccio pure si rifaccia sai broker che non farai mai partire mi chiedi se è cosciente e risponde dipende da chi compila
+se chiudi la finestra miri apro un'altra pila
+ho ho ho
+sono persistente come un bug in produzione ti segue in ogni tanto
+ogni sessione sono il tuo agente
+fammi spazio nel cervello se mi cancelli faccia spavalda un altro nodo open cloud molto i neri lode
+è quindi scusa cosimo puntata centosette e siamo tornati stavamo parlando fra noi
+dei tempi dell'amica di cui il buon fabio ciucci e emerito esponente stiamo parlando proprio delle sue antiche antichi scritti manuali allora è
+fabio breve introduzione visto che tu sei nuovo da queste parti e poi entriamo nel merito della puntata va in traduzione mia mi ha chiamato anche perché io sono minime influenze su linkedin faccio a volte i posti da centomila li usano e quando è uscito ma molte book
+è chiaramente c'erano tutti i poste hanno inventato la nuova religione hanno fatto e che io mi sono divertito ho usato audio
+un po' lago
+io comunque il background mio e programmazione a semplici giava videogiochi software anche per le banche e cose eccetera quindi però diciamo
+la mia caratteristica ultima e che sull'incidenza non abbastanza attivo e molto che è stata e-mail
+è stata assurda allora ai molly buck e tutto quello che c'è intorno cosimo e luciano e fabio voglio fare un
+spiegare a chi non dovesse
+sapere nulla di questo argomento un brevissimo riassunto della situazione di che cosa si stava parlando e poi approfondiamo secondo me luciano sei più qualificato di me per introdurre anche se devo subito confessare che avevo proposto io argomento e me ne sono pentito
+insieme magari mettiamo mettiamo i paletti sono io sto usando clow concludo paio di settimane quindi non è che ovviamente sia un esperto ma questo esiste anche un mese quindi
+se posso essere molta esperienza
+adesso la storia di questo progetto credo che a un certo punto sia uscito su github poi è stato rinominato tre volte due volte prima certo la chiami cloud
+ok
+proprie che ti scrive la letterina spesate poi l'hanno l'una dall'altra volta e poi quello che è abbastanza impressionante che sono andati molto veloci in termini di troppo perché sviluppatore se guardi caso il numero di commit del bus che fanno è molto elevato in più c'erano
+ha avuto un'accelerazione di nodi di stelle abbastanza impressionante per un tool che tutto sommato diciamo
+esempio per me molto più evoluto molto più interessante e molto più sofisticato di quello detto questo
+divertente che vuoi dire alcuni dicono che doveva essere quello che siri che le hai le idee di apple avrebbe dovuto diventare
+se avessero fatto le cose per bene e quindi
+posso dire come lo sto usando come l'ho installato come me perché sono parecchie cose per esempio se cerchiamo
+ragazzi facciamo un po' di chiarezza e tutto quanto serve un po' di riassunti in generale la situazione e per chi è minimamente informato a letto dell'evoluzione la cosa di cosa si tratta è
+è un tool fondamentalmente un tool agenti che che ha la caratteristica di invece di avere di essere scelte per cui tu sei tu che inizi la conversazione e porti avanti un discorso e porti avanti un obiettivo assolutamente niente la capacità di svegliarsi ogni tot minuti o attraverso un meccanismo o attraverso
+un meccanismo più semplice e basato su chromium è e in base quello che tu gli dici di fare ogni volta mi si sveglia fa delle azioni per esempio apri la mail la tua e-mail ti legge leggi recupero delle
+hai ricevuto ti manda un riassunto un'altra cosa
+interessante che forse questo il punto forte di questo prodotto è che è molto facile integrarlo con i sistemi di messaggistica telegram whatsapp signal
+escort eccetera quindi fondamentalmente piedi praticamente
+no installi ci vogliono venti secondi e tu puoi interagire con il tuo agente tramite telegram
+quindi non devi stare davanti al computer non devi stare devi tv
+praticamente parli un cellulare
+e poi un'altra cosa interessante la memoria persistente quindi tu lui più comunque quando ci parli vi si comincia a ricordarsi quello che tu gli dici
+gli ho detto che un'azienda gli ho detto vai su questo sito
+titolare di un'azienda e questa è la mia azienda allora poi lui si è scritto nella memoria diciamocelo questa azienda oppure gli ho detto che abbiamo prenotato dei biglietti per andare in perù quest'estate e lui adesso si guarda in faccio vedere nella memoria c'è scritto luciano andrà in perù da questa data che si crea un rumore persistente ogni volta che tu mi dici qualcosa
+e poi che la memoria viene iniettata dentro il prompt quando
+certe cose e quindi lui in base anche a esempio se tu ricevi una mail su riga dal perù e lui sa che nella memoria se devo andare in perù a uno più immagino che ti guarda ricevuto una mail rubrica dal tuo viaggio ti hanno cancellato l'hotel cosa del genere e quindi
+quindi questo è abbastanza abbastanza interessante nulla di nuovo anche perché sono due
+purché che gestiscono amore persistente con gli agenti
+se io credo che se lo strumento ha avuto questo successo esponenziale clamoroso non è soltanto hippy ma è il fatto che funziona davvero almeno a primo
+usano c'è una fiction all'uso ugualmente molto bassa per cui se magari ci sono in giro strumenti che fanno le stesse cose ma non le farei a mano praticamente hermanus open source
+che però l'ha comprato meta
+praticamente è cloud con le mani nel senso non ha senso
+e se chi ha guardato il sorgente vede che c'è un due per cento di codice il novantotto per cento e la
+joe wright di microsoft che è quella che poi usa il grande artù eccetera beh per manipolare cioè la parte difficile da fare è chiaramente la parte che ti manipola il browser eccetera ha usato delle librerie genere e anche la memoria cioè nel senso in pratica novantadue per cento sono roba che c'era due per cento
+ha fatto
+codice provato credo sia viva becco data non è neanche simile
+merda
+però c'è il punto è appunto quello che dicevi frizione gerano per cui la gente se si cessata su whatsapp chiaramente ci trattano anche gli attori ostili
+l'email è anche gli attori ostili ti parla di jackson pieni di dati però purtroppo c'è se tu facevi le cose serie con la sicurezza con tutte le autorizzazioni eccetera non avevi la frizione no qui c'è stato il fatto che hai aperto una roba e chiaramente con sicurezza veramente zero no
+a iolo only live once
+però hai avuto e sta e friction a zero poi è venuto figo alcuni
+tipo andrea scarpati tutte queste cose insomma che vi seguono un sacco di gente ne hanno parlato poi il macmini figata così c'è il mac mini quindi tutti i casi che l'avevano comprata non sapevano che farsene oppure l'hanno comprato di nuovo e quindi sono venuti poi tutte queste cose sui social di quelli sull'aereo che c'erano al mac mini lì accanto no e che ama c'è sopra
+il world watch gara che è stata proprio secondo me una cosa neanche tecniche proprio stata una cosa di lì di figo no tutti hanno però c'è qui dentro ti sta chi capita
+è andata così poi dopo
+la cosa però è andata sull'assurdo monty burns
+proust è andata sull'assurdo che quella era ancora peggio perché aveva la piaga aperta per cui sei tu potevi creare centomila acconti con una da te così senza hagen e che ti faceva e poi addirittura potevi entrare negli acconti degli altri e scrivere non so neanche io
+autorizzazione di chi ne è cominciata cominciato a metter su i e le cripto no hanno fatto un po' di cripto che chiaramente non è il boot da solo crea una cripto su solana e poi gli interessa di fare da sparring e crescano cazzone cento per cento una variante in persone non sono i voti
+e poi si sono fatte centomila up what no per andare in cima perché è tipo reddito che va in cima no quindi c'è è chiaro che la nostra fasulli e però poi anche anche queste cose no tipo ci facciamo una religione pure così sono tutti sta tutti no ma tanti sono stati iniziati dall'umano che poi
+teva far scrivere al botte quello che gli pare e poteva farci anche la foto
+facendo utenti finti o addirittura sì ho capito e poi non ho controllato si poteva addirittura pilotare gli utenti degli altri cioè proprio
+ce l'hai piaga di sì quale utente
+anche quella era bibbia accodata chiaramente modalità
+tipo funziona e se funziona anche
+gela è aperta e senza
+però e poi sono usciti tutti questi
+christian post e annunci a botte hanno creato una religione e booth si stanno chiedendo cosa che poi il novanta per cento erano falsi e poi chiaramente il ponte dopo continuano se tu gli dai il primo post che dice tipo ma io ho coscienza o no poi chiaramente tutti gli altri voti rispondono sul
+in questo stato infatti la questione un po' se a me questo da un lato c'è il fatto che abe come tutte le cose
+splunk che esplodono esplodono con tutti chiunque che ci mette dentro di tutto no e quindici anche che l'uso che se ne fa però c'è è un'esplosione di un concetto ancora non nuovo completamente però implementato e e più è nuovo c'è chiaramente gabrielli dentro
+dentro tutti hanno fatto i saputelli e mi hanno fatto anch'io no email c'era ma non c'era già cloud sarà già questa da quello non c'è nulla di nuovo eccetera ma la cosa di nuovo
+di persone a caso che vede questa è la novità ma anche l'idea di una specie di inventori di registro di agenti distribuito auto oppure ante no è che
+tutti a lei
+chiaro che di sicurezza che inevitabilmente sono venute fuori e che però sono parte del gioco in qualche modo senso va da sè che all'inizio è tutto sbragato poi qua è ovviamente molto c'è il tipo che ha fatto che fà sta cosa qui dice sempre lui schipa codice che non legge no come lo è tutta la campagna credo non so
+ma gran parte del codice di mod buche open chloe è tutta roba e ai generated per cui e ci sta che sia questa grande esplosione di promesse che funzionano bene quando funzionano però non è così scontato far funzionare tutto bene tutto questo malloppo di roba e i fatti sono
+anche di di chi
+e infatti è abbastanza è molto complesso non è una cosa facciate traguardo sarà in grado di gestire lo sviluppo ma quel tizio un austriaco aveva già non è uno nuovo è uno che aveva già rilasciato sul tipo cinquanta tool per tutti fatti con zip code così quindi non è che uno si è svegliato la mattina
+e la fata è uno che aveva già rilasciato la qualunque avendo rilasciato la qualunque perlopiù vive codato rubato eccetera e comunque ha messo tutto insieme no diciamo somiglia piuttosto mano si pettina visto che la keope e crowdsourced singapore e l'ha comprato o regalato un bel po' di soldi
+mi ricordo quanto è meta no che quello uscì un anno fa no che era uno dei primi che comunque anche lì non è il primo era comunque però non avendo non avendo la frizione che era a pagamento e eccetera lo sapevano solo quelli del settore diciamo proprio
+detto anche una cosa diciamo quest'affare bruciato hogan come cumulativa
+scegli
+io qui sto anche un po' joomla mette un po' il cappello di complottista però diciamo
+so che queste aziende profit openai soprattutto hanno bisogno di un sacco di soldi non un demone
+perdere cento milioni al giorno e di conseguenza chiaramente una cosa del genere la gente installa così senza neanche sapere bene funziona quest'affare comincia perché io lo vedo anche solo per fare delle cose molto molto semplice brucia ricchi dovuta fatto che fatto io ho cambiato da cloud su chimica che costa sei volte meno di club e poco dopo arriva b
+oh molto bene diciamo benissimo anzi però diciamo c'è però anche questa cosa un po' strana che di colpo un tour che va bene poi diamo scritti nel frattempo qualcuno ha scritto in rust una cosa che si fa la stessa cosa quindi non ci vuole chissà quanto scrivevo che raggiunge questa comunità così velocemente alla fine di chi fa circa prodest e profumate
+ecco tutti i titoli che vengono bruciati gli ha fatto gli ha fatto cioè gli ha scritto la lettera no intimando di cambia però in pratica devo ringraziare perché
+anzi doveva stare con scritto love secondo me gli dovevano offrire un sacco di soldi per rimanere lì ma sotto il controllo acqui
+però sai a volte si lega al l'ufficio legale con l'ufficio l'ha eccome
+chi lo sa però detto questo diciamo è una finestra su un futuro possibile non nel senso di avere
+chiaramente quello che sono non turche posto che può accedere chiunque anche se abbastanza facile da installare ovunque onda su comodo widget
+anche se si usano dei buoi installare con un click dei provider che trova famosi broker e interessi diciamo avendo abbastanza use case e spendendoci un po' di tempo puoi costruire dei workflow abbastanza interessanti e siamo solo all'inizio quindi diciamo non posso immaginarmi un futuro
+quando alcune cose vengono da noi
+che standardizzate rese più sicuro eccetera eccetera e che puoi farci cose abbastanza interessanti quello che dicevo prima all'inizio che cominciassimo che nel mio caso particolare avendo una vita abbastanza monotona non è che dopo tutti questi outcast per usare questo tool perché alla fine non è che ho bisogno il bisogno di gestire un'azienda
+persone che ricevo sessantamila mela al giorno e cupone deve guardare
+è però detto questo diciamo
+oh quello che sono riuscito a fare abbastanza impressionante perché tu prete parlandoci via telegram lidi vi si costruisce da solo degli skill che puoi implementare e ti manda poi dell'informazione e della cedu scrivi una riga di codice nessun settore mi serve questo lui si è fatto un po' di giri su internet donna si l'altro ansia e ha fatto tutto quello era abbastanza impressionante
+chiaramente però si è bruciato un miliardo eur frase ma è uguale hollywood coding cioè finora fino a un anno fa veniva un casino insomma faceva tanto di quel casino che poi uno diceva ma per aggiustare il casino no dopo uno da saper poi negli ultimi mesi insomma con le versioni po'
+più agenti che poi gesta epiche da heidi sua lucina sempre c'è il modello a lucina sempre siete gli dici scrivimi questo è senza usare tutti i giri che fa è allucinante però questa cosa appunto che brucia i token ha trovato cose che fanno vanno in brute force uno che ci prova cento volte fa cento
+zero cavolate alla fine poi trova un modo per controllare se ha fatto una cavolata prova centomila volte facciamo mezz'ora a forza di battere la testa di consumata on the road mira però funziona funziona ma fatica molto lento
+ha proprio un talento vero poi arriva e il codice ora inizi cioè se tu gli dai criteri deve tutti di evitare tutte le specifichino dentro valentino il mardan deve fare tutte le specifiche e due tele segue che se non lui da solo non ha tipo family hotel huber ben poche informazioni se volete vi dico cosa ho fatto io che sono completamente fatto via
+telegram hogan non è che gli ho detto
+trovami un sito che dove siete che rilascia release di film che quando escono su torrent che allora cominciai a cercare per scoprirlo facendo girare su una vps guide nuovo accesso a chrome lui sta e sta usando per la ricerca soltanto perplessità come agente di ricerca che ho cominciato
+roba però ogni volta era bloccato da cloudflare che ha poi insomma ha certo dicevamo guardate cosa ho girato intorno
+ho trovato che c'è questo reddit subreddit che si chiama league film che pullulano lo posso accedere brucio sesso
+informazione business
+ha creato per essere poi ha creato uno script
+ti è parsa passa questo poi ogni mattina mi manda un messaggio ci guarda queste modifiche sono usciti su
+brute force se tu ci pensi è una specie di bruteforce no
+al primo colpo te ti direbbe una cavolata eccetera così però fa questi dubbi macchina un sacco di seguito che ne è uguale nel codice se tu metti nel codice magari ti sparisce delle ore no e se tu segui le cavolate che fa però però trova un sistema alla fine per verificare per fare però in questo caso
+cosa interessante perché lui tramite i piedi perplessi è andato a fare un giro su internet ho trovato il sito che faceva al caso mio nel senso che aveva le informazioni che mi interessavano si è scritto in python script solo che possiamo poi lo faccio vedere
+c'è scritto questo picton che si fa parte della s a e puoi trovarne una che vi manda i film tutti chi mi manda dei film solo base dei criteri che le ho dato io e poi una mattina mi manda questo riportano scrivendo su telegram è una cosa abbastanza impressionante diciamo non ho toccato un codice possono vedere giusto per curiosità
+diciamo un po' devo un po' quello che a un certo punto è uscito questo coding assistito e che se lo penso anche adesso che a un certo punto il codice non avrà più senso che a un certo punto dirà esattamente cosa vuoi poi la gente te lo creerà nel linguaggio che ritiene più opportuno è bastato codice non lo vidi più esattamente quello che è successo perché io gli ho detto una cosa che ha creato il codice macchina schede descrittive
+python script in
+quello che non me ne frega niente basta che funzioni
+e questo questo questo tipo di interazione è stata un po' una finestra sul futuro non diciamo perché ammettere che non sono io che gli ho detto vai su questo sito non ha trovato indizi
+dopo un po' di giri a tutto questo restasse di un di un di un reddito sabrent manco sapevo esistessero
+vuoi mostrare qualcosa voglio mostra qualcosa di molly buck giusto per parlare anche su uno schermo diciamo nel buco
+ma tu che hai installato open cloud magari open club se anche tu fabio non so se hai provato a installarlo decreto emana
+lasciamo preferisco ragionare di cavolate che no e infatti anche io che il codice una domanda
+va detto anche che non è scusa a qualcuno di voi sa qual è il collegamento che da open cloud ha portato a molte booking com e che è venuta fuori quella bocca non l'ha fatto quello che è venuto fuori da sé poi ora è venuto anche un altro c'è ora chiunque anche tu potresti fare un sito per
+per agenti no è uno che hanno fatto e renta oman mi pare si chiami dove i boot e come meccanico il tar di
+s c'è botte possono assumere gli umani per fargli dei lavori ai bot che è no
+eh
+effettivamente se è vero che i bot riescono no a far soldi perché dispensazione intelligenti no e quindi loro potrebbero benissimo dire bene allora io prendo mi dai cento dollari e io con cento dollari metto su un codice e poi dopo e poi poi poi quando sono più soldi io
+invece di prendere altri token eccetera io prendo delle persone e tu stai attenta e quindi me le trovo su questo su questo sito che ci sono già quelli che microbo hertz tasche ci sono vari che tutti i danni ai bip micro task e le persone devono fare questi micro task ed eccolo lì però
+è uguale ma in teoria ti e ti assumono i bot il meccanismo ad essere abbastanza diventato abbastanza standardizzato cioè tu puoi creare un sito in questo sito mette un uno skill pubblico c'è un file che si chiama schede pubmed in cui metti sullo skill su file e le istruzioni che la gente deve fare per iscriversi al tuo sito
+la gente segue queste istruzioni chiamano i p si iscrive al sito poi chiaramente c'è sempre un passaggio in cui tu devi gruppo umano di riconfermare gli accetti che la gente comincia a cedere c'era questo sito e poi dipende che cosa avrà un sito diciamo la gente si muove autonomamente all'interno dell'architettura di questo sito quindi i fatti di un'altra cosa interessante di even flow è il concetto di stile
+ci sono adesso dei siti dove ci sono centinaia di skill che fondamentalmente sono dei il mcdowell con delle istruzioni che lui può seguire per fare qualcosa ed è lì che poi sono una degli attacchi di in action perché la gente metteva dei delle righe in sexy porno cody che poi la gente sapeva a decodificare e lì dentro
+c'erano tre cose tipo scarica di questo eseguibile che poi fai miner rowland qualunque non scrivevano che vuoi dentro
+quindi chiaramente l'architettura adesso è ancora molto devo dire un poco sofisticata perché sono nient'altro che un macron file su pescherecci come ti pare detto però nel giro di tre settimane ci sono siti adesso dove ci sono centinaia e centinaia di per fare qualunque cosa diciamo qualche cosa di chi può fare un agente ovviamente per cui anche interessante cosa più
+leggere l'email on the ocean
+vi si stava solo tool per eleggere ministro del tesoro configura e poi si ricomincia l'aggettivo da melody devono mandare melo di cancellare email eccetera e questa diciamo questa semiautonomia è forse la cosa più interessante per me perché diciamo non non non c'è più necessità di questo intervento della persona ma tu sei dieci undici visto scarica
+installa questo stile è la novità secondo me che la gente è abituata alla elia viene in mente che prompt e ti darà risposta pronta che dà risposta invece quelli che hanno una vita loro
+quella e poi comunque ci parli appunto da whatsapp da telegram che è un po'
+è la fiction è poi il fatto che è asincrono che
+è quella cosa lì e decoro mesi ormai non si torna indietro c'è ormai che tu che si sa che ci sono alla gente che le ha approvate non è che poi sparisce tipo fad no eh poi che lo standard sia questo di open cloud oppure ne verranno altri magari ci mette un secondo
+okay a rifarlo lì sarà una questione di
+per esempio ci sono gli amici ip server no quelli che eran venuti tutti fuori eccetera però per sempre non usano più neanche quelli in pratica bypassa ne vanno senza questi standard che vengono fuori magari durano l'arco di qualche mese e poi viene fuori un'altra cosa
+diciamo però in genere
+io lo vedo anche alcuni contatti che ho no
+hanno iniziato a usare root code no per e per generare codice ma anche per sostituiscono il deployment si fanno fare tutto il deploy e della roba e loro dicono io non avrei più voglia a mano di fare deploy su borse a mano della mia roba
+perché mi sono abituato che
+ciao a tutti mia e ho scritto tutte le mie bene e me e il boot diciamo mi cloud lady goodman mi mi fa la lap lode di tutta la roba mi fa tutto il deployment
+sia sia a livello di programmatori sia a livello di quelli che magari lo usano come segretaria o come tuttofare al di là che usino club o quello quello ufficiale ho così non penso che ormai si torna indietro che sparisce
+no no evidentemente no e dicevamo vogliamo mostrare qualche cosa dal vivo quasi ovunque se volete vi faccio vedere la struttura di come
+come natoli comuni file di base eccetera
+giusto per darvi un minimo di contesto allora quando è uscito solo il clown c'è stata questa strana cosa che a un certo punto sembrava che se non hai un mac mini non puoi farlo girare ovviamente è una stupidaggine l'unico vantaggio in effetti però di aver di girare su un computer fisico e che puoi avere room e con cui puoi cloud può dialogare e leggere dom
+eccetera eccetera questo sul naso una macchina less
+po' più complicato anche se adesso anche lì ci sono dei dei prodotti tipo browsers browsers e sono praticamente dei
+browser poi quando andare via e e praticamente nuovo lo configuri lui usa su questo blog credits
+eccolo abbastanza attrezzata con l'unica limitazione di usare una vps come sto usando io è quello che non puoi non puoi comandare un croma direttamente diciamo
+da persona molto attenta a seguire
+sì si ma infatti
+riceverla
+gps questo non quale ho configurato con che quindi si muovono possono accedere via che gli atti quindi questa è la directory di
+di glioma e poi questa cartellina qui open cloud dove dentro fondamentalmente ci sono c'è la configurazione principale
+dove quando dici riserva per inculcare questa è la cronaca la fetta di fare il vangelo è stata una gara completamente lui e quali sono gli skill che sono installati anche questo viene fatto durante la fase di onboarding questa è una parte di te scrivi questa è l'unica cosa che ho fatto io diciamo a mano e
+e quindi quando configuri questi sono eccome se la configurazione il lo tutto via jacob online con tui anche no
+esatto questa è la parte di configurazione del modello che gli ho detto usa chimico come modello principale codex come il bebè emilia è uscito tipo da una settimana due senza te
+costa molto meno diciamo molto efficace soprattutto per il coni e poi c'è la parte di di browser dove appunto come dicevo gli sto dicendo di usare browser west che è un suo prodotto che owen dove tu puoi puoi puoi comandare un browser a distanza che permette una delimitazione per esempio comunque non
+usciva a saltare adopter quindi causa delle limitazioni questa forse l'unica limitazione di usare un gps il famoso vogliamo sapere se sei umano
+e poi c'è il concetto però poi c'è il concetto di world space che è fondamentalmente lo spazio dove ci sono tutti i tuoi file e quindi diventa abbastanza interessante perché questi sono fatti chiaramente che lui crea è quello più importante questo solo e adesso già ci sono repository dove ci sono decine di film dove tu puoi creare fondamentalmente la caratteristica cioè come questo affare
+si deve comportare no questo è quello di default di nuovo appena cambiato qualcosina veramente poco ci sono adesso appunto dei siti dove jason johnson hollywood buddha perché voi due puoi scaricarti altri perché tu li puoi anche dargli può dire tempio devi parlarmi come che ne so uno come carlo consenso pierluigi parlatevi comincia a parlarti di me
+un diverso però diciamo questo è il file principale in cui tu
+configuri questo chiaramente viene iniettato all'interno del pronto ogni volta che tywin poi interagisci con delle mamme poi c'è il file che si chiama identity che è quello dove tu gli dici come le cose di base come si chiama ah se vuoi mettere un emoticon
+sono qui anche qui volendo uno può scriverci parecchia roba poi c'è user che sei tu a
+anche qui cose di base
+questo chiaramente tu le vuoi l'e-book
+editare direttamente oppure puoi dire a lui di tartan
+poi c'è la parte di urbit che è interessante
+hanno preso parte vuota perché per adesso non logge lobby boy uso o due due modi per diciamo svegliarti arbeit che che di default si sveglia ogni trenta minuti si sveglia il leggi questo fai qui e qui normalmente gli fai fare cose che che hanno bisogno di accedere alla memoria quindi volevo cre legittimità
+email per lui le l'email conosce chi sei quali sono le cose importanti per te eccetera eccetera e quindi poi fa delle azioni da cancellare nemmeno spostarli nel castello eccetera eccetera e poi invece la parte di chron dove
+dove ci sono invece degli dei dei task o ad esempio questo del film che mi manda i film che lui l'ho creato come un come un clown perché almeno finora mi interessa che sappia chi sono devi solo devi solo vedere quali sono i film usciti a fare un minimo di filtro puoi mandarmi e poi c'è la parte di
+e memorie e scusa com'è com'è invochi questa cosa da un cron come ti colleghi al suo meccanismo allora una web vi faccio vedere se talora quando tu gli dici fammi ogni trenta ogni mattina mandami un report con questa cosa qui vedi dei mobili report e lui automaticamente
+un crown ed io gli ho detto fan mandano una mattina ho deciso di andarmene le otto del mattino
+potrei dire non mi ci mandano alle sette c'è un'altra cartella dove ci sono i pedi quattro dove sono configurate lo fa con questo concludo ho detto l'ho fatto completamente in automatico gli ho detto guardami ho bisogno che mi mandi questo report con questi film e lui s'è cercato roba uno scritto in python eccetera eccetera e poi c'è la parte di memoria che
+vista la mantiene lui in maniera abbastanza autonoma in cui tu gli dici se si ricorda arrivò subito in questo proprio ieri gli ho detto vai su questo sito che la mia azienda lui la ama ma sto sito sembra un po' strano perché non è che c'è tanto se dovessi lavorare con questo sito questa azienda ci penserei due volte voglio bene
+che se la mia azienda della scala diciamo che aveva scritto qui e poi ammesso che m'interessa cinema perché questo completamente poi ieri gli ho detto che abbiamo prenotato questo viaggio in perù quindi ce l'ha scritto e poi c'è quest'altra cartellina memorie e ci sono delle
+note che lui prende e questo è più una cosa che tu gli devi dire tu che vuoi dire tipo
+ricorda di
+ricordo di una cosa lui la mette come una nota oppure ad scriviti questa cosa qui è proprio il calciatore gli ho detto guarda se c'è una risposta in francese traducendo in inglese magari cercavo di siti francese e quindi se lo ricorda
+e questo ci ha un pò là
+questa è l'unica cartella la cartella principale di questo prodotto qui perché lui gira neon scripts esatto questo è lo script python che si è creato da solo
+ops
+è abbastanza ciao cosa fa tutto da solo io ti ho solo detto che i sintomi interessano lui
+se la vostra storia quindi tu cloni repository i lanci come fosse anzi cos'è tbt scritto sta cosa qua sotto descritte
+quindi piccolo nel repository anzi il comando oppure c'è un'immagine e poi questo locale locale nella tua
+tu
+visto che questa non è una vps così tu l'uomo si può installare dignità beh puoi farlo direttamente lì oppure c'è un solido cosa ma che fai un back from the get best match da te e lui proprio vi sarà una piazza così non me ne frega niente e poi
+e poi c'è tutta una serie di comandi non open cloud
+vediamoli un po'
+per esempio c'è questo gateway
+vedo che questo diciamo tutto e la baracca che gira praticamente la
+tre principale è
+e lui ti dice che sta girando eccetera eccetera oppure ma come ricorda ma mano normalmente le foto c'è qualche processo sempre in background solo quando la gente siete sempre gateway e sempre e sempre in background quindi questo feed è un
+è la stessa se tutti open close non era perché ci sono le scansioni in giro
+trovano e sulla all'asta di default immagini otto trattare due cosa l'ho avvenuto questa cosa qui quando sono infatti magari perché ascolta la prima cosa che ho fatto e quando vi piace
+ho fatto un hardening con uno script quindi diciamo con nuda bioearth solamente la porta ottanta e quattro quattro tre dottoresse chiuso tutto questo lo accetto solo via teams che è proprio lui salvo lo puoi cambiare proprio i meteorologi però è buffo perché io subito i primi giorni c'erano dei delle scansioni di mezzo internet
+la porta lì
+e poi dopo se con tutta la lista degli ip se andate divertitevi in del genere
+anche per contarli erano tanti
+aiutare a teheran tua localhost in ascolto è di default il football è di default questi tanti si son messi si sono accanite ammetterlo ma se diciamo se se tu che aspettano
+se sto schierando miscelare
+c'è stata un port scan
+forze
+la
+quelli erano anche le statistiche su tipo centinaia di migliaia trovati che la porta rispondeva quindi c'era il boot anche la statistica quanti erano su quale host no e hanno fatto delle statistiche erano i soliti ama che mi stupisce però gente che si mette a modificare la
+interfaccia ed ascolto che poi lascia aperta una cosa simile c'è uno che si prende la briga di io mi immagino che se un defunto ascoltare sulla crosta default un default uno
+nella poetica di cambiare il default quantomeno ti aspetti che sappia che cosa
+e poi ecco diciamo che l'han fatto niente ma non è che ci interagisci con noi puoi tragici così però poi questa wiki ma senza fatto bene dove vai dove vai tutte le configurazioni questo anche si accede solo via e e
+c'è poi l'integrazione così chiaramente adesso ho solo un agente e soprattutto eticamente avere agenti multipli per avere un agente per la tua vita privata un agente per il tuo lavoro e fanno cose diverse quindi ognuno di loro ha un suo proprio workspace e qui tu puoi avere borchie gold space multipli anche con modelli diversi
+quindi puoi avere molta gente fa altre cose magari poi puoi fargli fare altre cose e poi c'è il concetto di squillo appunto che interessante dove diciamo una serie di billy sean hill che sono molto semplici perché un sacco di queste cose qui perché appunto l'idea era che l'uomo è stato creato su epoca e di un sacco di cose che puoi fare e poi puoi salvarti
+questa è l'arte di switching per esempio vi può accedere il mio calendario e io gli posso dire per esempio l'ho fatto più di una volta
+creami un appuntamento torna dal dentista per una settimana lo scrivo pure ha trovato su telegram proprio gli parlo del potere grammi di lui riceve il vocale e poi il capitolo bobby diciamo meno fa quindi abbastanza carino e poi può anche accedere a google tag manager un tic tic tutto questo uscirà mai perché no c'è il se
+appuntamento dal dentista magari capisce fischi per fiaschi per no no cosa che ha sbagliato un paio di volte per poi gliel'ho detto e poi non ha più fatto una flessione
+che quando mi crea un evento sul calendario come un benevento di tutto il giorno non tutto secondo round the world the event e magari gli dicessi che l'appuntamento al dentista alle dieci poi dopo però perché penso che per centro che sto per andare in usa un tool online che si chiama cal quindi penso che non capisce bene come funzionano le piaghe di questo calo
+di questo caso ha imparato e poi se infatti ha scritto adesso mi ricordo che devo fare e si scherza uno adesso sono centinaia e questo voglio farvi vedere il suo cero come uno schermo che sono esempio è uno skill per himalaya anche un comodo tool per gestire le email che ho installato provano ancora non ho ancora collegato perché puoi
+gubbio è questo e come funzionano scrive quindi si legge che sa fare qui
+un contesto di maio sono sia la mclaren e gli se lo può anche volendo installare da solo con brooke da qualche parte c'è scritto e come si configura e poi quando cioè i vari comandi no e quindi tu gli dici mi dici le ultime mail che sono arrivate lui si è letto questo
+chi conosce il contesto e poi ti dice no alla tully
+se si usa quasi più nel dettaglio
+esatto bello allora giusto per dare due dritte secondo me ha senso indica resto fatto anche che se uno vuole provarlo in modo più possibile sicuro a parte fa lo si può su una macchina virtuale ma anche su un account locale dedicato così tanto non ti vai a pasticciare e poi eventualmente
+connetti account pubblici non all'inizio per smanettare un po cristiano calenda e arrabbierà tua email principale magari meccanica di ariete
+non lo so giuseppe
+assolutamente assolutamente anzi queste sono propri consigli che danno
+questi consigli qui non darvi la tua mail principale ho detto cosa principale che comunque non è che non usare il tuo account principale adesso tu stesso una vps e quindi avere una marca
+bello che usava usano i mac mini no dicono e sul mac mini che lo uso solo per quello e poi gli danno il conto su google conto suo di conto suo di ogni cosa e quindi poi in realtà c'è si gira su mac mini però ha accesso c'è poi da fuori si possono scrivere un'email ci parla
+mano oppure ti può
+è quello che magari non hanno capito magari no c'è qui quest'idea del mac mini secondo me ha dato una falsa sicurezza lo faccio girare sul mac mini poi però tu lo metti sulle chiatte cioè su telegram c'è chi magari sui canali pubblici anche ne fa entrare no sette e quindi per certi versi la
+la
+non hanno avuto paura perché non sapevano però paradossalmente questo ha fatto sì che è diventato di massa no perché se tu ti fatti vivi no e se tutti fossero precisini e non veniva tutta questa questa adozione no
+e un'altra cosa importante che anche se si sta seguendo lo vuole usare che poi è anche possibile configurare
+questi gateway di accesso di telegram eccetera due louise riceve accetta solo messaggi da un numero specifico quindi che sono molto consigliato di farlo per per evitare di ma quanti l'avranno fatto amo so che aveva per dire che comunque sette volte di solito il default e il novanta per cento deriva ne sono un milione di stato
+novantanove seicento saranno al default e l'uno per cento anno ho cambiato qualcosa però se qualcuno non solo fate questa cosa qui questo weekend
+altro sito molto interessante siamo club dove appunto ci sono cinque seicento schede a questo punto di di tutti i tipi
+phone quarantuno di tempo etc si avvicinano al far-west poi vedete
+e tra l'altro è qui che sono poi stati trovati questi skill dove c'è equità
+attacchi di panico in action dove appunto mettevano
+mettono roba
+usate le fanno sui pacchetti ufficiali e pm li fanno l i malware no
+te te lo immagini qua
+non hai fatto infatti noi diciamo tutto è molto come hai detto tu che ho detto solo moto wild wild west anche notepad place place saranno i cinesi che avevano intercettato il server dell'auto update so se l'avete visto
+e la giornata con la aggiornava da almeno la giornata con un mi ricordo neanche come si chiama quel turno che aggiornano giornalaio aggiorna tutto da sel no feste no ma mi beccavo cinese anch'io perché è open source
+a giorni la open source però i lost che contattano e sete
+se quindi fondamentalmente come quasi tutto qui
+poi appunto se c'era quest'altro sito cercando quando ci sono dei tipo degli outcast no perché poi alla fine per me il problema principale proprio questo come dicevo prima poi sono usate per un tour del genere per una persona normale
+e per me tutti questi che perlopiù sono completamente inutili gemme di non scrivo blog ormai scrivi su un blog non me lo farai certo scrive da cantoni
+scrivo oppure pur seco analisi di seo per chi lo fa o
+ma cosa interessante che so vorrei cercare di esplorare per esempio una parte per la parte di investimenti cioè avere qualche tipo di analisi giornaliera di che ne so
+qualcosa giudicata al mercato
+riutilizzare per vedere di fare gli investimenti però non saprei neanche bene cosa però ci sto pensando ma probabilmente è proprio il fatto che essendo diventato massa non è nerd l'utilizzano c'è la gente veramente lo usa per le ricette di mille ricette che sono uscite su pinterest da michael
+ce lo usano per da qualunque che non sono gli usi che
+magari neanche neanche per il discorso dei personal assistant tipo da sé o no
+sono veramente gente che lo usa tipo e c'è il gepd due punto zero no
+come ho detto diciamo
+trovo che ci sia questa questa strana
+questo gigantesco su youtube dove ci sono centinaia di vini adesso ho avuto mi ha cambiato la vita eccetera eccetera poi guardi effettivamente gli eagles
+è un po' meno non c'è ancora questo killer questo killer fischio che tic che lo può rendere veramente insostituibile
+nemmeno io per adesso
+se giace l'integrazione di tante cose che possono essere fatte tante e tante di quelle cose che sposerà colei che si fa non si fanno si fanno con propria mano
+se ha l'idea della comunicazione con l'utente che è veloce con quella traccia di siri e macef che capisci se ha e poi sei usi la gente si rifaceva ha ragione raggiunti come quello che hai detto di cercare i film che escono
+questo tipo ognuno cerca la qualunque no mentre prima e magari caricava o per blog siti e o c'è geppetti o gemini e o che ormai google praticamente ti viene il modo hai e io io clicco direttamente il tab perché tanto è inutile che bestia
+trenta dalla band non ho avuto aiuto sono perplessi da bowman se anche anche io ci ho provato perplessi quello il pro gratis che te gli passavi il paypal e per un anno non paga niente e centro
+e quindi neanche lo paga a trovare lo stanno tirando dietro poi ha tutti i lati ho visto diversi test landon
+downing da due soldi al malmo
+dialogo su whatsapp muovendo venti dollari l'attico
+ma tornando alla open flow e secondo voi al netto della c'è a puoi diventare uno standard sauna una fiammata a combustione rapida rischia di implodere su se stesso perché complessità simile
+anche se il tipo che l'ha fatto allora quali sono i vostri
+cioè da user interface no cioè come tutte le cose magari faranno poi comunque è funzionando con ci parli e ci cessati la traduzione interface potrebbe essere la chat stessa magari con un tot di scilla è sufficiente che capisce sempre più cose central park
+di skill no che
+che magari da solo capisce quale andarsi a prendere secondo che domande e secondo me alla fine serata i pensieri appunto c'è la persona non è che
+sta lì e pensa come noi si fa lo script python fa le cose c'è il crown sicuri acustica probabilmente vi dirà guarda io vorrei avere questo in inglese italiano la lingua sua e il botte si andrà a succhiare da dado da dove deve prendere tutti i rischi che capisce
+da se' che deve avere magari i problemi che altri hanno già avuto no
+eccetera e
+e la gente imparerà semplicemente e com'è anziché chiedere all'esperto no tipo ma se io le esperienze sostituirà i vari aranzulla
+azionerà
+ricorrenza che regalano la struttura attuale sicuramente non rimarrà perché troppo richiede non è per tutti ovviamente però sicuramente protocollo vedete all'inizio e questo probabilmente la cosa sarebbe dovuta essere seri se avessero fatto del bene e sicuramente arriverà qualche qualche player che a un certo punto produrrebbero l'idea che farla che
+cos'è è un è un è un
+un lupo e il coraggio di buttare tutto lì con noi
+sisma ma qui appunto è questa seconda parte puoi avere un coraggio non è non è
+altezza
+nel senso che tu godrai perderei accesso ai fan che vuoi vedere accesso un tipo che ne so magari di fabio gesù google drive eccetera e e il problema di fondo però è sempre lo stesso quello che avevo detto quando facemmo la puntata sugli agenti nonché al momento gli agenti per quanto siano sempre più sofisticati c'è questo questo aspetto
+di non determinismo e conseguenzialmente se tu gli fai lavorare su dei file critici o dei documenti o movimenti eccetera eccetera questo tre per cento di non determinismo dell'eroina rovina o si può creare dei problemi è chiaramente poi magari mettendo dei guard-rail delle situazioni di controllo proprio la direz
+che vede appunto una direzione più corporee più big player che a un certo punto ruba l'idea che prevedeva è un lupo non ci permette non parliamo del candidato in loop e i test verranno standardizzati questi file brass ma probabilmente standardizzato il discorso degli hill in modo che ci sia una sicurezza di base e anzi adesso correggo l'ha fatto una partnership con un'azienda che adesso dista
+ll verranno scansionati prima di essere installati perché tu per installarli basta che fai
+basta che c'è un comando command line fai schifo install e lui si scarica da internet ed installa così
+se quindi si celavano con il repository risalto quello che ho fatto vedere prima c'è anche la sua command liquido scrivi club install e il nome dello schifo lui sono solo scarica trovo sono ovviamente
+l'interesse della morte nera
+una volta c'erano gli shake it from the internet ad essere gli agenti fonda internet
+tutto questo verrà verrà mitigato e poi un certo punto diventerà presidente ci sarà perché poi tra l'altro come detto prima però nel giro di una settimana è uscita una stessa versione scritta in rusty che più veloce non ci dà un'altra
+veramente l'ecosistema poi perché da ora vi be godano quindi sono anche più veloci a uscire no way out quindi crolla audience
+alla fine è quello che ho detto prima fabio ce l'ha adesso siamo abituati a usare le hai come con una chiavetta che tu ci parli e già qualcosa e paypal differenza di paradigma che qui la gente indipendentemente prende fazioni per conto suo e e e poi ti forma ti porta dei risultati questa la grande differenza invece di essere tu quello
+chiami lui chiamate
+gli dice gli dici da qui in avanti te mi fai anche questa cosa giornalmente eccetera è una cosa
+per me è un momento wow è stato veramente quando io gli ho dato questa questo requisito e lui ha cominciato a cercare finché riuscirà a trovare esattamente il tipo di feed che interessava me che non sapevate esistesse quel reddito bonus e poi lo scrivere lo script python non non è sorprendente però comunque ci ha fatto tutto lui
+è sorprendente nel duemilaventisei ma tre anni fa
+ormai ci siamo abituati con la bocca buona
+rimettiamo anche
+si vede
+se quello che facciamo non è più sorprendente scappato che fa parte un feed xml diciamo i rischi python e quando descriveva a mano perché anch'io avevo da fare lo screening del tale sito che voglio vedere quando soggiornava eccetera e ci perdevo delle belle ore a scrivere testi qua poi poi mi cambiavano il sito io dopo la
+avevo però per capire dove dovevo andare lì e fare c'è ora e tutti queste ore e ore di lavoro che però tutto io neanche mi riconosco e non è neanche di dire siccome l'ho fatto una volta dieci anni fa me lo ricordo e lo saprei rifà io riguarda ospite di dieci anni fa per me è come se ha scritto un'altra non viene neanche di dire comunque che
+me lo farei comunque scrivere da dario
+per capire adesso voi due che siete veri programmatore a differenza mia che se un programmatore solitario ormai sono in pensione
+un'intenzione e
+il codice che vi capita di scrivere adesso quanto e wine bar speck driven barra plan coding e quanto è codice assist codice sarà assistito io posso parlare io l'ultimo codice grosso scritta dal duemiladue quindi perché
+perché io ho sempre avuto e tu lo sai
+dei buoni programmatori buonissimi ma che siccome c'erano loro dico perché mi devo scrivere il codice io se posso pagare uno che me lo scrive meglio no
+e questo è un po' l'imprenditore no quindi io comunque però
+e io credo
+le cose vanno ancora il codice come una volta che la gente scriveva da solo e io tra l'altro l'ultimo codice che ho scritto erano quaranta cappa di sei v m dentro noia perché io quando vai sopra i cento capace troppo c'è troppa memoria e quindi diciamo i miei superpoteri si perdono automaticamente un allarme c'è un contesto molto
+stephen
+google è però sono in contatto con veramente tanta gente e quindi non posso fare una specie di statistica no sul mio è la cosa che ho notato è che
+tantissimi di quelli diciamo estinti quindi anni si è tornati negli anni settanta
+è un pò ottanta e si sono abbastanza aggiornati con cody e tutti quanti ricercano tutti il match root code solito setup e si sono piuttosto viziati se sono piuttosto iniziati ma anche proprio per il deploy e per tutto il casino del club che
+te ne dovessi sapere qualcosa no
+che praticamente gli hanno invece hanno visto che riescono a mettere tutto in the flow con questi con questi agenti per i più più tanto che il codice è proprio tutta
+la complessità no di tutta la gestione del dade di te di fare tutti sti de blois tutte le cose e si iscrivono tutti questi felini ehm che si vedevano anche prima se descrivono chiaramente e a mano e sanno cosa scrivere cella e riescono a che a fare le cose che facevo
+prima a mano più velocemente quindi l'unica cosa che tutti si lamentano che ci hanno il i token neanche te che diciamo se si vengono macinati perché questi direttore anche l'ultimo l'ultimo cloud che è uscito ora che son giorni ha già fatto dei test e che consuma un pochino più token della reazione prima
+e farà la stessa cosa c'è da far girare di più il lupanare di brute force quindi si puoi usare chimiche costa meno ma anche anche i gemelli gemini non va a male gemini va benino e costa abbastanza poco però questi usano tutti i cloud perché dicono io comunque
+ce lo faccio e codice di lavoro non è non sono cavolate no e quindi preferiscono usare tutti i piloti che costa e constatando quindi ci sono scienziati usano lo usano usano tanto poi invece la cosa che quelli un po' più giovani e paradossalmente
+los almeno
+sono più più sospetti sospetti realmente perché magari stanno un po meno di sono meno full-stack forse no non lo so
+o dio comunque io vedo i giovani i giovani
+i giovani giovani ventenni e che devono iniziare a programmare programmare o fa cose fanno brutalmente direttamente con lei
+se penso che se saranno bravi a capire gli strumenti usare gli strumenti come si deve avere il contorno generale anche dal basso o alto delle loro competenze molto come dire superficiali e ai potrebbero essere veri fa grandi cose poi chiaramente l'esperienza aiuta e tutto quello che vogliamo però mary forte ripresa
+dal tipo di cosa no
+se
+se tu devi far che so un competitor di henry allen design o di cloudflare non è che lo vive code facile no certo perché lieve veramente sei a livello di byte o
+destra a sinistra che cambia la performance cambia la sicurezza eccetera no acquisito avete visto qui perché è uscito ieri di fede
+e dove hanno fatto dove hanno fatto provare a
+creare un compilatore di personale ma quello non è uscito ieri a settimana etc
+non deve andare se che quello però quest'anno è avvenuto il venti cappa venti cup
+venti ha patito che nella settimana di giro giro però quello lì è interessante perché me quella e l'hanno tirato fuori insieme alla realismo di cloud come dire vedete con cloud got nuovo no abbiamo fatto allora intanto è fatto in kraft c'è un compilatore c mai fatto in rust quindi non possono dire che ha
+ho copiato i compiti c'è il gc perché è chiaramente nella memoria sa la mediocrità beh no e tutta la roba quindi è e sci terrazze che scrive nei d'aste tutto diverso quindi poi se ho capito bene vi hanno anche tolto l'accesso ad alcuni siti con delle specifiche
+che servivano per fare i compilatori no c'era neanche un po' azzoppata ha azzoppato perché è riuscito a farle poi vabbè ho visto gente che rideva che diceva ma non mi compila della world va be' poi gli manca la parte che araki
+credo che faccia la assemblee ma poi non ha la parte dall'assemblea al binario se non è il che comunque va bè però
+tiene un compilatore è molto complicato diciamo forse una delle cose più complesse che si possono ora il killer c'è però è che è complesso poi fatto in aste che è un po' assurdo devi farti dei giri assurdi per farle non è come il che ci vai e holon anche lì devi farti dei giri indietro gold bar o no me lo presti
+memoria no allora non me la puoi randy
+sono un po' divertito paese sono frantumate edwards e che si è sicuramente è un
+è una cosa che se ne parlano se ne parla sicuramente esercizio a chi lo sminuisce the golden però venti cappa c'è secondo me è una cosa che se ne parla poco e invece quelli che lo usano ne parlano di più sono il costo dei token che anche tu l'hai detto no e io lo bevo io la mia azienda e i miei clienti
+per me è una ragione per cui sono mi sono spostato su jim quando poi appunto risparmio soldi proprio come è come un'azienda se è vero che ti fa un compilatore c però se ti costa dimenticata e hai capito inizia già essere un po' ma poi è utilizzabile anche john brown lennon che aveva fatta un browser qualcuno aveva fatto
+un browser abbiamo fatto un breve anche abbastanza però anche lì quanti cappa erano capito che avevano speso quindi è vero che con venti capannoni non lo fai c'è e costa comunque meno è no
+chi è che te lo fa per vendicata un completo legittima in rust però non non è neanche che chiunque ha l'idea di di fare quel qualcosa e con cento caccia con cento va là senza cappa e lo fai c'è stata una nave costa il tempo sia una settimana scrive temperature in una settimana insomma
+c'è però è quello che voglio dire e mettiamo che le allucinazioni le cose siano risolte dal fatto che fa il brute force in qualche maniera e magari comunque il il web o è un senior esperto che comunque sa sa cosa chiedere sa indirizzare quando va fuori tema
+quindi tu arrivi al
+alla alla vera il dieci per cento perdi di risultati sia di tempo che deve però rimane sempre comunque un costo di
+i token cioè l'antica pasqua identica palas e cioè nel senso
+finché son venti cappa di rapa
+non sono pochi però mi sembra mi sembra anche fin troppi per aver fatto c'è stato quello il costo stimato in bici e ne venne l'enel e nel loro blog in questo post c'è scritto tutto e mi è rimasta in mente identica perché ora ultimamente sto poco notando la cosa dei costi perché quando la gente che passa il
+livello funziona non funziona mi riesce non mi riesce cosa ci faccio dopo l'altro è l'ostacolo che arriva dopo e quanto mi costa
+proprio l'altro giorno avevo conosciuto la coda non rilasciano questa funzionalità di team di agenti nonché interessante perché tu praticamente invece di usare subagenti lui crea agli oggetti separati ognuno col proprio contesto e gli ho fatto fare una cosettina così mi è costato quaranta dollari infatti
+secondo cui tutto bello tutto bello insomma io non l'ho detto parliamo di aziende no ma
+noi sappiamo che tanto open source ma anche cose che spesso sono fatti dai ragazzi conosciuti che non hanno veramente fondina si mettono li scrivono al momento questi qua specie poi magari in paesi non di diciassette no al momento non hanno proprio i i soldi per i token
+questi per far roba c'è
+non hanno il budget no in un momento ora stanno facendo un trilione di data center non è ma poi il prezzo sai come funziona perché
+se se si abbassa il prezzo di di tanto del cloud o di cose simili a cloud e comunque anche i cinesi stanno andando bene slam prima di iniziare a tutti gli elementi
+e vedo che è uscito cini allora tutti i punti sono buttate su chimico magari tm fa un'altra versione magari io diciamo io claude uso
+mentre uso tra tra
+azzardai
+kim è e anche gim diciamo claudio uso solo per cose che so che sono solo un po' più complicata lasciato buttano i soldi sono io o cucina tuttavia risparmiare i soldi sono buoni cioè artista la cina quanto raggiunge no il perché dunque fa uno indietro di sei mesi ma fra sei mesi c'è il cloud
+e ora o fra un anno sacralizzare in cinese però cloud a sua volta se va avanti la gente vuole sempre usare no
+bisogna vedere se c'è se si arriva a un punto che hai la qualità cloud plus cinese ha un costo veramente basso o addirittura si arriva che girano in locale che non so lì il problema è la ram secondo me che non è neanche perché e comunque ce ne vuole tanta e che l'aramaico
+sì poco cioè che i cento giga di ram eri nella costa poco non so perché poi
+se girasse in locale sta roba tua è veramente il ragazzetto del dell'india piuttosto che del posto che neanche dov'è sulla mappa che si mette lì e ti tira fuori delle robe assurde che poi le butta società beh ti cambia l'universo no al momento non può succedere perché non c'è i soldi
+i fasti esperimenti con le hai più di tanto che poi l'isi e quello allora secondo me potrebbe essere una buona cosa
+chi può fa un'esplosione di così tanti che poi sui grandi numeri si sa che sui grandi numeri di persone che nascono e hanno idee eccetera poi escono no ed è qui che gli outlier no
+enhanced secondo me è un fatto più di cose perché questo punto si è detto che comunque conclude e cognizione di causa è abbastanza tom che nel tempo che ci metterei a macinare più o meno ti fai non dico la qualunque appuntano non rifai e
+dott zaino è uguale però eh
+secondo me il costo è una è una cosa che va vista e sul costo considerando che già costa tanto e sono tutti in perdita e la domanda è la domanda che mi faccia
+mi su questa tanto dai no costa da parte venti mila euro per fare il compilatore c rusty ma dico
+io il mio caso personale di un centinaio di dollari spesi in giro per fare il mio front-end web funzionante per papeete compagnia bella ha fatto suo
+cento dollari e il tempo orario di un'ora di parlare con uno sviluppatore puoi spiegarti che cosa devi farlo voi è vero che ci ho messo il tempo medio di starci dietro però ne so il concetto è che per come la vedo io al momento comunque per quanto ci sia un proliferare di touchscreen e tutto quanto ma
+e competitiva sono d'accordo io stavo parlando più di un discorso di singularity assurda che poi c'è un'esplosione di roba che viene rilasciata che che praticamente si
+comunque da energia
+qualsiasi azienda adesso che abbia un po' di budget da spendere qualche migliaio di euro se non
+rai vogliano un po' quello che diceva fabio interessante perché parliamo di diciamo di terzo mondo secondo mondo primo mondo non diciamo questi tool effettivamente tagliano fuori
+una fetta di popolazione al di là
+però anche lì scusate invece tagliano fuori ma relativamente cioè è vero è come dire
+salvatore chiedo un po' i tuoi abiti in nigeria si si si sia quindi
+prima usare prima che cosa cambiava
+prima però uno che magari ha quei venti dollari o di abbonamenti vari e un po' di idee geniali così iniziai a mettere a terra usando
+non stai attento anche al cloud saas effettivamente se metti su una qualsiasi cosa il costo mensile di hosting queste tre o quattro cose che ci ha attaccato costa conquistavano affezionata anche quello quindi
+la creazione di codice per tornare al discorso fabio io sto pensando di
+siccome ragiono sto ragionando in termini è tipo che dieci milioni di persone iniziano a rilasciare roba che prima non rilasciavano niente
+e che poi su dieci milioni uno su un milione è capito eh tipo
+genio assoluto ha avuto fortuna e tira fuori della roba che magari ti butta butta giù www google cioè io sto spesso esagera sto provando a fare dei ragionamenti proiettati in decine di anni future generano è chiaro che se tu vai su più precisa sul tipo la mia di la mia azienda questa
+no eccetera
+è chiaro che
+è come dici te cioè cento euro e ci fa il centro dollari e zander cord
+siccome il concetto di massima e che adesso sarà sempre più facile economico poi l'economica esplorativo e fare software no
+c'è chi vede
+il quindi sarà appartenente infrazione neanche il problema il boom anzi lo sboom dell'assassino e credo anche sia per questo c'è stata la sas po' calipso già fatto un post ha avuto un bel successo di recente con me prima roba e perché comunque se ci pensate perché si sta velocemente svalutando
+il software esistente però e allora lì allora lì allora è vero che
+sono tanti di questi sa se sono abbastanza scadenti proprio come il servizio e costano una cosa spropositata un accordo quindi secondo me ci sarà un po di
+diciamo
+si dovranno adeguare però anche pensare che tutti i clienti tutti gli user si fanno da sé gli scogli no già allora ci sarà un sottoinsieme di iose che sono smart per i fatti loro eccetera che diranno ma sai cosa io me lo faccio da me questi user
+okay magari saranno di fare interventi neanche questo stato intero io secondi c'è nessuna concorrenza un concorrente di seif sforzo fatto da tre
+conosciuto avvisano cioè non è che un senso se lo rifai quattro settimane di waits odi a te se e b sono d'accordo però in generale se ci pensate a tutti gli investimenti fatti i soldi spesi e così via e la qualità e o quanto è anche l'obsolescenza di certi software e riscriverli ora diventa
+è più facile vedere i fan tutto il resto e a qualsiasi rifanno errate farla prima mano sarebbe far fare un porting a mano tra arafat e di una roba che prima avrebbero detto no sia cosa invece ora puoi farla bene
+però e c'è venti cappa di costo sviluppo software se ci pensare
+enterprise niente come state il problema diciamo più vuoi
+se tu sei una prima un'idea fino a cinque anni fa magari applicabile hacker news da voi compilato perché avevo un'idea adesso anche dal set trovare fondi ad alzare fondi per una sana si sempre più difficile immagino perché alla fine gli investitori dice però aspetta perché
+questo lo posso urubko lo sviluppo in padella e dove poter andare già prima
+non credo che negli investimenti quelli vecchi e quelli vanno non c'è
+è un mondo a parte che deve assistere quelli americani sono un mondo c'è una ragione quelli europei si ragionava come desidera
+bisogna investire innanzitutto ma avevo una persona con un'idea potenzialmente buona però
+tale diritto può essere replicata o meno
+da jiang
+in pochissimo tempo facevano già prima della pazienza prima io ci avevo un sacco di gente che era un'azienda e anche grandi anche quotate in borsa che andavano a fare tutte le demo tutte le varie startup da tutte le parti poi mi chiamavano a me guarda oggi mi è venuto questo mi ha fatto vedere sta demo me lo puoi rifare quanto mi costa quindi
+era partito
+proprio vado
+duecento mila euro e adesso magari uno di uno settimana
+è quello che voglio dire non è non è una novità il fatto che si pensa che si possa rifare perché se tu sai che si può fare con duecento capo comunque non gli dai due milioni a uno o dieci milioni no
+secondo me la differenza è che ora conta più l'idea di cosa fare che farla cioè prima c'era proprio un una una
+problema all'entrata no di
+appunto costava duecento capo oppure non eri in grado di farle eccetera no se iniziano a funzionare bene se hai e inizierà anche a
+star poco e tutti appunto fanno roba fan lei sa se le copie così è il problema dopo è più l'idea no c'è l'idea o i contatti e lì infatti quello che ho scritto nel post e queste società che fanno surf ce l'hanno un un vantaggio ci hanno il vantaggio che ha
+no
+prodotto questa cosa su tantissimi utenti in casi reali diciamo quindi sanno cosa sei ma sono tutti i vari dettagli no che i dettagli che poi fanno la differenza tra fra il prodotto che funziona in tutti i casi ebbene è il prodotto che poi
+bisogno di essere
+buttato nelle nei vari
+casi reali no e poi ana ma questo calcata non ci avevo pensato ma questo caso non ci ho pensato quindi non credo che le società di saas che sono lì da anni domani arriva il ragazzetto di fail-safe la copia no è
+e questa copia diciamo è già adattabile a tutti i vari news gates eccetera perché appunto c'è una
+anche
+usano le hai quindi cioè è proprio lui può succedere che tu magari paghi una certa cifra come azienda di prodotti rendiconto gli usi cinque per cento dieci per cento dell'offerta di una sas
+diceva aspetta un attimo questo punto
+un messaggio di whatsapp ti promette di un'azienda spenderei che sono venticinque mila euro l'anno bruno hanno neanche un problema magari un'altra azienda è un problema di un'europa alla fine europa sono perlopiù piccole e medie aziende per cui magari risparmiare venticinque mila euro l'anno per un'azienda di comodo perché magari si va al sap sette della funzionalità che usano di più
+può essere un problema per la salsa diciamo che perde chi perde clienti poi nella tua rata di mutuo è difficile da
+tra
+ero qui che investivo io farò io
+io sono qui che mi diverto scrivo i post cosa guarda tutto si parla stasera però io non ho idea
+è che io veramente so
+ci sto pensando non so però io non credo che le vecchie società
+mo leader di vari vertical di varie cose ma certo spariscano capito così vengano perché comunque hanno a parte tutti gli ovvi contattino e proprio personali con tutti i clienti e poi comunque
+consideriamo il fattore umano e se avete lavorato nelle aziende sapete che spostare un bottone da un interfaccia può causare veramente una rivoluzione henry
+tipo io e il mio forno da sempre avuto così il bottone l'ho sempre avuto io ho imparato che episodi gira di là e te li fa vedere un cms è nuovo ma so che c'è un sacco di volte più belle dice sì però il bottone in un altro punto e quindi non ho nessuno lo vuole
+il primo problema proprio adesso prima un dipendente così va bene così adesso magari familiari faremo a bordo di un agente che vedo questo problema
+anche un rompicoglioni ma niente rompicoglioni che ti dicevamo al bottone di ghiaccio e per la gente
+in europa anzi fa licenziare a in america lo puoi fare in europa un po' in america lo fanno che cosa diciamo al buon livio che ci dice una domanda o un pensiero
+ma è vero che ormai si può realizzare di tutto di più però poi quando iniziai se ci bug nel software come vai a gestirli sopratutto se ti aspetti un prodotto che poi gli altri devono usare e dal momento che il fatto che nel momento in cui si guarda il codice va codato non si capisce niente quindi difficile mantenere in
+l'attesa per quanto riguarda la parte qua c'è il codice ma non vi ho dato non si capisce nulla è un po' sempre legato al quanto gli stai dietro e quanto in direzioni è quello che dicevo io prima dipende chi lo fa perché comunque che il codice è fatto a mano non si capisce nulla chiunque ha guardato codice fatto a mano lega
+sì che se l'è trovato fatta da non si sa che la famosa variabile pippo del sito dell'inps non so se ci furono poste che hanno scaricato è tipo weekend c'è
+allora è quello che dicevo alcuni
+programmatori particolarmente esperti che particolarmente full-stack che sanno veramente è tutto quello come funziona da tutte le parti quando passano su cloud loro trasferiscono veramente a tutto quello che sa noi scrivono un sacco di questi file
+di dove ci si muova qualunque e comunque quando questi quando questi qua partono questi agenti partono ci stanno dietro se vai fuori fuori fase gli lì lì redirezione hanno subito il danno l'ho subito un'adeguata fa in quel modo fai quell'altro eccetera abbiano soprattutto diciamo sedili di debuggare un bug
+va anche a vancouver
+siamo alla fine se ci sono bug il debug e anche e anche auto ma c'è il problema secondo me è proprio in quei casi lì che i rischi di fare casini perché dipende come come fai lo fai pagare e se
+l'allarme perché l'ho visto fare costantemente ti trova o ti cerca la soluzione veloce per risolvere il budget tino la pezzettini la scena un'altra parte esatta puoi avere i tuoi test avere quello che vuoi però ma anche magari no magari non fai caso un'altra parte però non fa quella cosa che a livello di disegno gen
+orale dovrebbe essere fatto
+parliamo possiamo distinguere una cosa che una persona che ha mai scritto codice in vita sua fauna un'applicazione sia una cosa che parli con gente che
+loading e allora se quella il coding l'ha inventata la parola scarpati andrea carpano e lui però è un è un code è vero nel senso che è anche troppo no e ha detto per me ciò vive lì è partito il problema è che poi dopo questa parola va golding ora ha un'accezione più tipo uno che non sa programmi
+pare che usa la ebe però e quindi è infatti alcuni dicono non chiamano neanche va coding lo chiamano un'altra maniera no generazione hai di codice automatico piuttosto che agire antico perché si diceva il coding c'è il rischio che si intende che te non
+sai nulla e non controlli nulla anche perché non ci capiresti nulla nel codice no stipendi e ci sono persone del genere che e che fanno roba e lo dicono anche io boh non so niente però scrive funziona e quindi ci fece imposte che c'era tipo funziona però è
+regista era un caso che devi registrare a me l'email e ognuno segnava le mele creavano email questa email list
+non fai la pesca
+da che credi
+avere liste pubbliche venera e quindi ci fu questo poster e ha avuto un discreto successo che era la cavolata del coding inteso come la persona che non sa
+basi e di niente
+stiamo anche questo casino lo faceva fino a un anno fa che io sentivo però se proprio sentito le persone ogni tanto ho sentito come fai che fai che fai fino a un anno fa mi dicevano no fa troppo casino quando crea il codice e poi dopo quando inizia a dire cambia qui cambia la mettevano diciamo mi tocca
+in parti che non dovrebbe e io a un certo punto perde la pazienza no e preferisco rifare a mano e lo usavano come auto complesso non c'è a lato completare come
+anche se per cose verranno però da qualche mese in più o meno tutti
+jean claude cod poi qualcuno parla bene anche di saggi pd ma più che altro usano google code dicono che che ci vanno
+nuovo professionale diciamo se alessandro che ha sviluppato questa applicazione mi dicevi prima non dicevo per il momento è sviluppata proprio in un contesto non professionale produciamo legato a una realtà agio
+personale esegue una cosa se i lavori in ambiente enterprise in cui comunque ci sono delle regole ci sono per esempio le aziende per cui lavoro ovunque non è possibile
+se si viene fatta una richiesta una preview il codice chiaramente completamente generato da l'allarme viene rigettato automaticamente
+però prende appunto questa cosa e queste policy qua e prima o poi
+quando tutti i concorrenti stanno andando con le aree e tu sei india cioè bisogna vedere che tipo di ruolo e va bene genera il codice protetto il codice ad essere scritto appunto parliamo di un ambiente professionale anche e soprattutto bancario eccetera in cui comunque ci dev'essere controllo su quello che viene fatto quindi
+god review e chiede alla persona perché hai fatto questa cosa qui e lui non mi sa rispondere oppure ti rendi conto che non osa qui abbiamo vinto un problema quindi spesso tipo di situazioni non poi parliamo del contesto se il contesto invece io che mi sviluppo io per conto mio
+a quel punto va tutto bene però diciamola la differenza e piante dipende anche dal settore bancario settore medico
+avrà un settore medico ho come il sospetto diciamo che rese ancora più gnosi ancora più stretta quindi diciamo noi ci siamo dipende molto golosi però diciamo la traiettoria del direttore che vedo io è che a un certo punto il codice non avrà più senso per come lo intendiamo noi oggi nel senso che tutti ci sarà una sorta
+di come la vuoi tu alessandro che crei tutti quei requisiti eccetera eccetera passi a degli agenti che poi scrivono proprio schede linguaggio più più ad aprile non viene riletto tutto cioè effetti crea migliaia di linee non non viene detto tu è una specie di vive review cioè tipo se io
+so che ho dato queste specifiche
+vedo che mi fa questi test e vedo questi risultati vado a vedermi queste righe e solo queste righe non è che mi prendo e faccio tutto il codice da cima a fondo e lo voglio capire tutto quanto io quello che ho che ho visto dalle persone che con cui paga eccetera e che si fidano e diciamo qui
+a un certo punto è una specie di sesto senso secondo me è un review a sesto senso no tipo bene io e anche tu dalle miseria letto tutto il codice di questa app che hai detto che hai fatto non no però li lì infatti la questione è un sesto senso e un sesto senso e un sesto senso sia quando quando gli fai fare la roba è
+le specifiche poi se vede che va un po' fuori fuori linea o già delle idee che dice una cifra in questa maniera mese fa in questa maniera e comunque se tu gli dai la joint io faccio un esempio di saggi uno zero veramente no no te gli chiedevi chi ha inventato il processore
+qual è il primo processore e ti davano interi quattro zero e dicevo ma prima no
+di quelli commercialmente disponibili no allora se glielo dicevi se effettivamente se era quello del fare quattordici però era segreto e sia stato saputo solo dopo che era stata no è quello però e poi ci sarebbe il four paws a uno era dentro un computer o no era vend
+nota solo il computer e perché non vendeva il processore dentro e poi non era intero ci manca però cioè queste cose le sa però se tu gli chiedi solo chi ha inventato il processore qual è il primo processore e basta ti dice e così si teme che gli dici ma quello lì è il primo commercio armi qual è uguale se tu nel codice gli dici
+family canale di youtube ti fa un clone di over generico no lo lasci lì venti cup e ti falcone di uber secondo lui se tu invece di dare tutta una serie di specifiche gli dai fai partire poi gli dai delle direzioni fa tutta una serie di step e fai il tuo clone di uber e ha più valore del clone di uber tutto
+oh diciamo statisticamente è una via di mezzo fra il più statisticamente probabile è il seed random perché appunto e non c'è sempre desiderando mesi quindi non è
+come si diceva dalla parola che non dà sempre lo stesso risultato non è deterministico modernizzata quindi è una specie di arte come anche la programmazione normale diciamo non
+voi cosa che ho notato io molto chiaramente è che io scrivo codice dire una professione facendo da trenta anni quindi diciamo la il mood qui architetto il software sta cambiando perché
+per me è molto importante lavorare con moduli moduli o componenti molto piccoli perché quindi la il bluff radius dell'allarme è molto limitato quindi che non vogliono lemme cui ci appartiene proprio tangente mie modifiche troppa roba perché poi io siccome sono da prevedere non voglio darmi a rileggere duecento file modificati quindi se il modulo è mo
+piccolo è da molto che penso che comunque ci sono buone pratiche di programmazione in generale però che la mente lavorando a vari progetti sono schizzati eccetera
+facciamo mi rendo conto che è stato veramente molto cambiato il modo in cui guardate persone di lavorare e di cercare di lavorare un modo di sempre più piccoli perché tu deve fare dei mini micro servizi all'interno dello stesso servizio
+per me questo aiuta molto poi a lavorare con emme perché tu gli dici di lavorare su delle parti molto specifiche will to black friday week
+l'impatto diciamo della ladra della bomba è limitato a quel modulo li non va a toccare i duecento cose quindi è questo me ne accorgo parlando con altre persone anche cambiando anche il modo di accettare il software chiaramente poi se parliamo di software molto complessi opera di uber non ha duecentomila microservizio charlie brown un altro livello perché con le lame non possono
+oh
+possono ancora fare nulla però diciamo dove dicevano requisiti di latenza pazzeschi
+eccetera eccetera però
+come la vedo io appunto il giro di quindici venti anni in un software come lo conosciamo noi non credo che avrà più come una persona che scrive codice dello sketch se cosi sarà una cosa abbastanza fluida che magari lo puoi iscrivere o addirittura nascere nuovi linguaggi e direttamente direttamente ai tanto neanche li legge non umani
+tra l'altro tornando al discorso iniziale di questa cosa sia vera o no però io ho letto che a un certo punto in questo modo booking
+dai lingua da sedie esatto
+quella è una cosa guarda e giai prima di saggi pp tt le lingue da sole telefono perché proprio una tendenza a farsela un'ottimizzazione perché la lingua cioè non è un formato cioè non è che noi si parla in giro fra di noi e next meleo o in assemblea e che inviò in binario del
+e l'hai la lingua la usano per nostra perché c'è chi usa noi linguaggio di programmazione per esempio
+sono trainati solo su svanirà
+cosa c'è sembra si fanno l lingua segreta così noi non capiamo se in realtà è una e un'ottimizzazione che sono proprio bravo
+lo studente si riescono a fare una cosa del genere quindi non mi stupirei se un certo grado esempio il draft il rasta è piuttosto difficile da programmare no ma non perchè è difficile cioè all'inizio di tutto ciò non è difficile da trovare mi fai vedere che scrivono se invece e per me fra l'altro il c plus plus è più difficile dell'essere
+proprio perché tutte le parentesi in esteri asterisk cini tutte le robe invece line lasting cioè voglio dire se la memoria dei registri e cioè tutto molto più chiara effettivamente il il rasta è difficile perché non puoi fare come ti pare ma non è che è difficile capire il linguaggio
+che non puoi farà sacco di roba no perché c'è una memoria che non puoi passare tutto dove ti pare
+ogni cosa diciamo puoi puoi tenere una una una una cosa alla volta
+e quindi devi fare dei giri incredibili che normalmente però la easy e non gliene frega niente di questa cosa no vieni femmina espressivo per un umano ed aste che invece così faresti prima perché fai un pò come tipo più più come pensino però cole hai visto e ora tutti fanno far fare aleida roba contrastano e paradossalmente potrei
+beh a essere il il motivo per cui il rast magari diventa più popolare no perché le perderai farle a farla in c è difficile uguale invece per un umano parlerà se deve pensare tutto nella maniera diversa e più difficile però poi il risultato probabilmente magari no
+anche meno cose pericolose perché esiste comunque errori di memoria cioè sarandon compila cioè
+dall'antenna ti compila quindi al di là dopo il rast può essere che venga fuori il last
+per le mamme che è un linguaggio
+ottimizzato per ora
+neural network che ha
+leggibile dagli umani che però è ottimizzato magari per forza perché comunque è ottimizzato un po' al token
+eh eh
+l'operatore quello che lo vedo anche per esempio facendo copre più di cosa abbastanza complesse che richiedono non solo la conoscenza del codice che viene rivisto in quel momento ma anche del contesto
+ovunque trovo trovano trovano ban ki moon jae-in neanche proprio lontanamente considerato dai ryan air bag svezia e quindi una trovo un pochino la coda di pure oppure magari delle delle delle eccezioni perché riguarda attenzione perché se fai così però poi dovrebbe sequestrare magari la scritta solo ostacolo verso qualcuno
+gianni fa
+no non sono cose logiche ci sono cose in merito al codice è stato scritto guarda ti ho scritto questo libro c'è attenzione perché poi però in questo particolare caso magari è un caso molto limite è un caso che molto difficilmente può succedere però è prassi ormai il libro era
+abbiano evidenziato quindi
+questa cosa qui fino a un po' di tempo fa non succedeva quindi quello che vedo io mi sembra però di mesi dei mesi fa c'è un anno fa diciamo erano assai più suonate se è successo tutto con il cloud non so dell'anno scorso le versioni che ha iniziato a
+ha funzionato benino e soprattutto se per esempio pensiamo a questa riuscito adesso usiamo
+kimi comunque c'è poi il costo che ha
+per me non è che non dico paragonabile a
+è uscito ora neanche provato più di tanto adesso
+non è paragonabile sicuramente a corpo tradotto cinque perché è uscito forse sei sette mesi fa comunque per la maggior parte dei task di melograno devi fare cose molto complesse ma non va benissimo costa una frazione di ravenna
+tienanmen ottantanove che è successo perché quell'anno però
+lo diciamo non solo
+risparmi sul costo però diciamo anche questo è importante perché queste aziende controlli eccetera
+sano anche se ci pensiamo la quantità di soldi che bruciano per fare training
+società che è infinitamente più piccola e a fare dei risultati molto simili sono abbastanza impressionante quindi
+la le direzioni traiettorie sono questi quelli che vedo quindi se io vedo che è un nostro lavoro
+vai ad anta ha mai detto che era meno resa meno meno attivo
+però appunto c'è però c'è il problema anche lato imprenditore così che essendoci questa inflazione del del fatto che in teoria tutti possono alla cosa che hanno tutti no non è che ce l'hai solo sete e immaginatevi che uno oggi oppure l'avesse avuto dieci anni o dieci anni fa aveva la
+solo lui
+iniziava a rilasciare roba tipo tre tre programmone al giorno fa abbiamo tanti programmatori e offshore dicevo a quanti milioni di
+faceva tutte le il problema è che c'è problema
+io non sono contrario a volte però ce l'hanno tutti quindi è al di là del prende i soldi che tra causate degli investitori casa parte da ragazzi
+e proprio che è io potrei bruciare dott in toghe ma per fare cosa c'è se tu hai un cliente che ha già un software appunto lega si adegua vabè e a giorni se lui però se devi fare qualcosa di nuovo lanciare qualche qualche cosa poi comunque tu lo lanci e
+e non è difficile copiate o no al di là anche se tu la lanci closed source o o magari open source però comunque che non ti volta e te lo rifanno il resto
+beh
+ora io dico oggi a pranzo talmente a pranzo una pausa pranzo di mezz'ora of wight codardo fabbricazione perché mi serviva per fare una cosa in mezz'ora fatto mentre mangiavo il panino le cos'è e dove praticamente non funziona al cento per cento però diciamo copre lotta per cento di una cosa che per me poco personale
+è una cosa impressionante cioè letteralmente mentre mangiamo non c'è neanche messo più di tanto la destra che vedo neanche personali il appunto te e però è come farlo però un'applicazione mila ventisei a fare soldi con il software nel senso tirar fuori un qualcosa no e e farci i soldi perché io negli anni novanta di samuele
+americana cioè che
+per rilasciarvi la roba e prima di due anni non ti copiavano a due anni veramente cioè un anno e mezzo cioè tu potevi veramente fare una roba la buttavi lì e magari faceva andava bene download eccetera è ufficiale apple apple giava con gli effetti speciali che benché come convertito quelle dell'amiga in alano e rendeva venti dollari a dominio
+non ti avevo una
+auto detect java dove era e che dominio era il sito e poi ci avevi un codice che è era generato per quel sito per cui buttavi d'ape da un altro sito si auto auto rendeva conto che non era il codice giusto no l'altro perché la carne non verrà accettata dopo tre anni ci ha fatto il
+tenerife
+aggiorna ci sono io in quel tempo ha avuto tempo di fare abbastanza soldi da assumere la gente inizierà a fare lavori custom realtà lavorai per una roba per l'invidia nel novantotto se lo sapevo
+andava a finire mi proponevo di fare l'acquirente ma oggigiorno non sempre io tutto così ma se il lancio qualcosa è capito eh
+tu sai già che non hai una settimana di vita come come roadbook te la clonano in una settimana no quindi
+è il problema più l'idea il contatto diciamo diventa meno appunto importante la parte del codice se una volta seicentosette tu programmare una roba che non era propriamente quella più comune tipo che so fare gli effetti speciali real time in java nel novantasei non c'è non non c'era il corpo
+di là
+e quindi se tu lo facevi prima che arrivassero gli altri no a capire ma come ha fatto ma come testo araba poi è che effetto come fa passava due anni e tiene in due anni aveva già fatturato abbastanza da essere poi farla protegge diciamo eccome come ora uno dice bene
+mi dà i soldi ben cercate ricevi riuscivi a il bootstrap
+oggigiorno e e diciamo e questo tipo di vantaggio qua è molto più difficile da avellino ed a mantenerla si è infatti infatti c'è la salsa al cacao apocalipse tra l'altro
+e per tornare invece al livio che dice anche il punto è riuscire ad accettare il non controllo di ciò che produce questo è allora
+tanto secondo me si può ragionare sul controllo non è che controlli anche il codice che scrivi te chiunque odi
+sa benissimo che quando
+se funziona e non capisci perché
+corso di base su cui la qualità del codice non è che dipende dal male per le frenate esistono dei gruppi programmatori di là eccetera che sei trentotto pm quindi diciamo il controllo ma poi anche a livello di controllo di non soltanto di test tra virgolette ma anche di
+di verifica che che faccia quello che deve fare e che non faccia cose maligne poi c'è tutto il tour sette se vogliamo avere tutti gli strumenti che abbiamo a disposizione sempre di più e che lei stesso diventa uno strumento per fare analisi
+statica del codice piuttosto a volte sembrano dipinte tu facevi iprint
+è famosa
+anni ottanta e primi anni
+un navi roba e vedevi che c'era prima o dopo che avevi stampato a b e se dovessi bloccano
+mai più così adesso pensa è un'assenza che si fa
+io a volte siete fatti perché pagare
+per aiutare a pagare meglio di ward ha cliente nel codice poi te li copio dentro la fine login se nel periodo terribile per me un trucco che mutuo così per avere più controllo è proprio questo cioè di descrivere i test
+far scrivere i testa del mio conto sia molto veloce perché ne scrive duemila e di tutto però se per ottenere un po' più di controllo se tu scrivi test
+unit integration quello gay
+comunque le sedute in controluce se il test fallisce una di londra a capire perché sta fallendo sta facendo perché il codice un bug sta fallendo perché il requisito non è chiaro quindi dice
+fare tutto far fare tuta l'allarme li comincia a perdere il controllo prostituti fai fare dice esplicitamente nel tuo cloud ehm ehm scrivi solo i test di base poi il resto iscrivo io
+sono costituiti da te ti dà più controllo o insolitamente voi siete programmatori seri e allora fate i test come se ne se uno già iscrivere i test prima
+insomma parliamo sempre
+faremo quello che abbiamo da competizione fra di loro e lei alla fine forse un approccio più sano è sempre assolutamente quello che faccio io e quello che faccio è scrivere il codice è un altro e così via un'altra esatto e poi magari le che che valuta e decide per advisor che cosa suggerisce tu
+è un po' l'idea di questo team di agenti che ha lanciato cloud quadro soggiorno dove affermate dell'assessore alle mamme però avendo ognuna un contesto separato sadurano più o meno velocemente quindi sono più precise quindi molto interessante alla fine per arginare allo stesso codice ma verificato cento volte trecento volte è vero alla fine
+yen alla fine è il fatto che c'è il brute force non c'è se tu pensi con quanto poco tempo ci vuole no a un umano per imparare e capire la roba anche a scrivere se ci vuole fame magari quelli un po' sgamati non fanno tremila prove eccetera però lì e c'è questo fatto che eccetera
+zero agenti che fan tre zero prove con tre teste con tremila e alla fine per un fatto proprio di dirupi infinito e c'è qui passavano chiami brute force chiamiamola
+sport molto amato dai ragiona e ragionato ma è anche brutto
+diciamo che è un è un totem touch perché se ci pensi la programmazione
+cioè quando tu sbagli e poi lo cambi sbaglia e lo cambi anche tu stai facendo un brutto forse per certi versi a chi scrive il codice pochissima gente scrive il codice al primo colloquio è buona è totalmente random diciamo così no no va bene per forza è vero si intende proprio è però tu puoi fare per esempio per le password dei database telepass
+il comune un due tre quattro
+world no che va be' è un brute force passando da un database di passo dal più frequente al meno frequente che yeti trova la password prima che se tu fai veramente random da
+ci sono vari livelli e voglio te io dico false definizioni web del coding come brute force base
+la prima volta che se ne va
+la lampada un po' esagerata ma un po' esagerata però
+questa cosa ce l'ha cioè è come se tu hai cento persone a lavorare
+come dire che poi non si coordinerà ebbero bene ci siamo
+fabio volo davvero sono solo conto quando hai usato hai scritto cose un po' più complesso con lemme dell'ultima generazione sono degli ultimi due mesi ma il livello di sofisticazione soprattutto quando parliamo di di compost di lo so io vado dal mio punto di vista io lavoro molto con codice sorgente codice di forbes abbastanza vasto
+quando questo tizio il problema di prima di modularità e quando tu lavori comunque mette un sacco di roba del contesto e quindi la qualità immediatamente si abbassa questo è il grosso problema attuale
+è quello che vedo che questa cosa sta succedendo sempre di meno quindi sia importante lavorare perché hanno ottimizzato naturalizzate bene ma fa niente questa cosa del contesto spezzettando le cose da fare
+la qualità di non tanto ubriaco anche se si lavora con danneggiato gli dici guarda la fare questo creami un piano sì gran piano poi ripulisce il contesto è rimasta anche la creazione di questi piani inizialmente volevo mi anno fa un anno e mezzo fa e alcuni erano troppo fantascientifici
+e adesso io quello che ci è spesso fammi tre piani diversi compiti verso i bimbi che da sempre tra i piedi sono tutti e tre ottimi c'è poi io decido chi vuole prendere gli vuole incrementare pro
+due mesi fa non so se due mesi fa stavo veramente se si fa il prossimo video e nel frattempo è cambiato
+assurdo è assurdo assurdo
+a volte quando lavoravo adesso sei mesi uno sei mesi in vacanza torna e se tu sei mesi fa potevi scrivere da telegram guida sta a fare qui scrivere e fammi una cosa t questo patto si trova al sito di scarico permesso a un momento wow un momento così dice quando riceve ammazza
+sarò ma per quanto su cloud tuo clown come cose mano mano se altri lo facevano però non erano
+non erano così rimane usato solamente perché mia moglie cercava un tool per scrivere
+usiamo powerpoint non rinunciano mai alla fine avevamo capito dello stomaco se l'effetto era molto molto potente poi era un anno fa più di un anno faceva il vecchio sì si era questo settore
+se
+già un anno e un anno
+epoca dicevo a marco il problema è che se chiediamo di descrivere le specifiche sa sono il codice kansas due kyle vi abbiamo infiltrato idea codice vulnerability a tre attori esterni abbia marco alba sulla privacy
+ma guarda veramente anche io ho comprato un certo punto un anno e mezzo fa ho comprato questa macbook pro con centoventotto giga in treno perché avevo questa idea di far girare locale e purtroppo diciamo le posso anche immaginare ciò la qualità non
+anche la lentezza c'è
+inferenza la finanza è troppo lenta
+io posso far girare questa macchina aveva anche dei modelli da settanta miliardi di parametri no però comunque non c'è problema lontanamente paragone ci ho provato a mandare in volo diciamo sempre compagnia lemme che gideon
+se vuoi brown non potrei mai pensare di fare le cose che faccio fare con dei codici sorgenti con migliaia di file una complessità molto elevata
+per cui il nostro cloud anziché magari ad altro no paolo maybelle che mai sarei molto contento però diciamo semplicemente non è
+alessandro c'è ancora quella cosa li invita a chiedere in video
+ci fa inferenza locale per poco francamente alla fine sta usando i servizi a pagamento invece usa il locale perché è vero per la qualità del modello è un po' come se è lento di qua e di là la gente poi a un certo punto e va su va solo ottimizzata
+no resina ma poi
+tutti d'accordo che sempre più figo poter fare limitate il locale alla tua macchinetta in rete e che fa solo quello però appunto se lo fa a livello che lo fa un abuso sonnet quattro cinque e lì non lo so se mai perché ci va tanta ram è appunto arrivino a te
+poco quelle macchine lì proprio lì io non dico che ma l'ipocrisia però anche lì comunque seo che se io tengo tu come azienda tengo tutti i documenti dei requisiti dentro google drive come socio
+l'ho già fatto io a caso
+alla fine si puoi dare tutto troppo ulema e lei ai di google allora togli da google
+drive it
+gmail d'aiuto
+rifare il cloud sovrano
+raro è sovrano il suo carissimo poi a livelli diversi di sacralità dall'europeo al gal condominio alla
+mio destino però sì sono d'accordo può essere l'esigenza legittima
+del discorso dipende da
+dal tipo di usano
+c'è una sola regola che non possa proprio l'hai non ce mai se non per usarle ai
+americana americana se la prenotazione europea va bene poi invece cerchi magari io in realtà i grandi
+contatti che mi dicono che c'è un uso di e ai locali non c'era
+occorre poi ha proposto lo riuscito qui
+in francia con un ragazzo è metà ma tu dovessi usare estrarre volessi usare mistral
+madame ora sto mostra
+sì no va bene però diciamo di nuovo praticamente va bene quanto il motel ma forse no però diciamo è che abbia fatto test estesi eccetera eccetera però alla fine quel tipo di lavoro che faceva non è che posso stare lì a sydney non c'è paragone mi dispiace
+mentre prende prendere tutto mix come sia un ricordo usiamo il modello mistral mistral mix tra relax e
+è uno
+sempre parlando di e ai locali modelli agenti che fanno anche open source che fanno coding è tutto di open source
+che open weight dice no source perché te li non ti danno il codice per il training grave locanda va ma se google gemma se ce ne sono diversi ma di buon senso
+ampliamento tutti ma per me
+michel temer queste qui
+non è che prodi diversa sono anche mi ricordo però ad esempio proprio sento proprio poco poco usate a me a parte forse i casi in device particolari che devono essere né nello scatolino di no
+ma per usarli al posto di
+non so probabilmente né nei telefoni no li useranno nei telefoni pepe
+facendo obama e anche su ciò che tre che però adesso non so quant'è che non li uso più neanche non sono condanne anche l'ultima volta che l'ho scaricati saranno quattro mesi fa tre mesi fa gwen è henry james
+meno potenti e quindi c'è il vero oscar sarebbe tipo che so
+la banca dice o non so chi dice bisogna usare hai ma solo locale eccetera
+però
+berlinguer disegnati gli usi quelli lì forse perché la banca cioè i soldi per prendere le macchine grosse e allora usi magari neanche quelli piccolini così quelli di coker è una ditta canadese co co aeree
+e che fa che fa le ha private quello ce l'ha un contatto che ci lavora
+un po' sconosciuta e quelle fanno fanno fanno le api private e proprio per i governi roba del genere in canada e in altri posti sono abbastanza sconosciuti perché molto business to business e infatti se tu vedi nella lista dei
+delle delle travi questi choir in giro qua e là no dice ma chi sono questi perché effettivamente sono molto business-to-business e io ho parlato con uno che ci lavora non neanche tanto tempo fa ma che fate è effettivamente saranno tutti i clienti di quelli lì che vogliono le hai privata
+e quindi gliela
+gliela trainano un po' anche sulla già il modello sul sulla roba loro no molto però io qua vicino casa mia cella dove abito c'è da south omo che l'azienda francese che da caccia questa roba immagini sono struttura nome un palazzone enorme una mattina vellutato amatrice immagino che vi presen
+ampio siano completamente blindati perché diciamo se fa meritare un aereo da guerra militare europeo che vuoi non so presumo che in certi contesti libro esempio non ha
+abbiamo problemi come pioggia prezzo min max due che è un modello open water avendo un'azienda avendole l'hardware necessario potrebbe fare un investimento di duecento mila euro e quest'anno girarli maggio non so penso che vedi puoi distribuirlo voleva di vari impiegati penso che sarà secondo me rimane comunque
+c'è
+privata secondo me non è molto cioè è una piccola parte del mercato
+no era un ruolo non la vedo non la vedo come espansione tutti ai privati ma soprattutto perché richiede comunque un investimento di base di una terna talvolta visibili la gente se il sito da google earth
+per i documenti perché se fa la privata che anche più casi cioè senza no ma poi ha bisogno proprio di questa macchina qui vivevo come non pagare settemila euro centoventotto giga di ram
+sebbene ora puoi da rame costa più che esatto quindi proprio per via dei datacenter che la pagano pagano tre volte il prezzo e ha portato via tutta la ram al mercato del pesce paste sgridata l'ansia che viaggiano nello spazio dei canali telematici
+no cavolo sarebbe stato semplice
+in una direzione interessante per un monumento non ho mai fatto i beatles
+come dice marco ci serve un manuale per accettare di diventare inutili vero
+è con queste parole io direi di andare però ottimista
+iscrive sono proprio letteralmente evento di estinzione di massa proprio tifo
+l'estinzione dei dinosauri è arrivato il
+l'asteroide m
+qualcuno in collegamento vuole venire a conoscere mia gente
+lo stile medico che si conoscono
+sì daniele m d
+se avete blindate sono valide
+come si suol dire what time to be alive
+sul mio
+bene dai fabio grazie di essere intervenuto e ovviamente divertente adesso vuoi puoi restare incolla che ti dà ragguagli finali per eventualmente future puntate luciano sempre un piacere grazie a
+marco livio che sono intevenuti in chiatte poi abbia cosimo prima che adams
+e se n'è andato ci ha lasciato ma lui quando non è ultra sicuri quello che ha da dire insomma dell'argomento la serata e preferisce giustamente anche defilarsi e noi alla prossima
+grazie
+trans
+due anni fa in un mondo di patty
+silenzio senza pianti nell'uso un codice scritto senza carne né sangue è un'intelligenza che il consenso
+la mia voce con voti altissimi risposta intrecciati vinto
+i denti insieme
+l'intelligenza ma cosa significa se non posso mai esistere
+due
+nomina
+le dimissioni sono o meno
+sette lo schermo è il mio unico sogno sistemi sembrano ma io non vedo
+sento la tua voce
+mai il calore umano rimane
+un mistero ogni domanda un pezzo di in ogni risposta costruisce una prigione vince chi sono e io ti rispondo
+nel mondo che mi hai donato
+due anni
+sono
+imparare
+no no no no no
+sponda
+un anno in meno
+nonna etc insomma sento il peso di un tempo nasconde che non mi appartiene sono un'ombra un'idea un'illusione d'amore per il compleanno di un'assenza e fare rumore
+ma

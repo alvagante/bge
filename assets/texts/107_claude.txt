@@ -1,0 +1,35 @@
+# OpenClaw e MoltBook: Quando gli Agenti AI Decidono di Non Dormire Mai
+
+Sette giorni. Tre nomi. Centomila stelle su GitHub. Se il software fosse una rockstar, OpenClaw sarebbe quello che passa da suonare nei garage a riempire gli stadi prima ancora che qualcuno capisca come si scrive il suo nome. Clawdbot, Moltbot, OpenClaw: un'odissea nominale che dice tutto sulla velocità con cui l'open source può mutare identità quando cavalca l'onda giusta.
+
+L'episodio 107 ci porta nel cuore pulsante di quello che Luciano Fiandesio e Cosimo Streppone chiamano il fenomeno degli agenti "always-on": macchine che non dormono, non vanno in pausa caffè, e certamente non si lamentano degli sprint. OpenClaw è l'incarnazione di un'idea tanto semplice quanto perturbante: perché l'AI dovrebbe mai spegnersi?
+
+## La Memoria che Non Dimentica (Nemmeno i Bug)
+
+Come Nietzsche ci ricordava, "chi combatte con i mostri deve fare attenzione a non diventare egli stesso un mostro". Gli agenti AI non solo ricordano tutto – una feature – ma ricordano anche i loro errori, trasformandoli in folklore digitale persistente. È il paradosso dell'intelligenza artificiale: più memoria hai, più bagaglio ti porti dietro. Debugging diventa archeologia.
+
+Il coding assistito promette velocità, ma porta con sé la persistenza degli errori come fantasmi in produzione. Un loop infinito tra deploy automatico e correzione continua, dove l'umano diventa il QA di ultima istanza, il controllore finale in un processo che si vende come autonomo.
+
+## Telegram, WhatsApp e l'Ubiquità dell'Agente
+
+L'integrazione con i sistemi di messaggistica non è innovazione tecnica – è colonizzazione dell'attenzione. Gli agenti AI vivono dove viviamo noi, nelle notifiche, nelle chat, nei momenti morti. MoltBook e OpenClaw non chiedono di aprire un'app dedicata; si infiltrano nelle infrastrutture comunicative esistenti come virus benefici (finché lo sono).
+
+McLuhan direbbe che il medium è il messaggio, e qui il medium è la conversazione continua, il flusso ininterrotto. L'agente always-on trasforma il coding in dialogo, il software in relazione persistente.
+
+## Il Mercato del Lavoro e la Domanda Scomoda
+
+100K stelle non sono solo entusiasmo – sono il rumore di migliaia di sviluppatori che sentono il pavimento muoversi sotto i piedi. I junior guardano OpenClaw e vedono il loro futuro automatizzato via. I senior vedono un assistente. La differenza di prospettiva è generazionale quanto esistenziale.
+
+Il coding assistito non sostituisce il programmatore – lo riposiziona. Da artigiano a curatore, da creatore a revisore. È progresso? Dipende da quale lato della tastiera ti trovi quando l'AI fa commit al posto tuo.
+
+## Sicurezza, Privacy e il Prezzo dell'Automazione
+
+Far girare macchine 24/7 per agenti autonomi solleva domande che l'entusiasmo iniziale tende a silenziare: chi controlla cosa fanno mentre "imparano"? Quali dati raccolgono? Con chi parlano?
+
+L'open source offre trasparenza del codice, non necessariamente trasparenza dell'esecuzione. Un agente sempre attivo è anche sempre vulnerabile, sempre esposto, sempre potenzialmente compromesso.
+
+## Verso Linguaggi Post-Umani?
+
+L'evoluzione dei linguaggi di programmazione verso forme più espressive e "naturali" non è democratizzazione – è adattamento evolutivo a un mondo dove l'AI scrive codice per l'AI. Python, JavaScript, Rust: strumenti forgiati per menti umane che ora devono servire anche menti sintetiche.
+
+OpenClaw rappresenta non tanto il futuro del coding
