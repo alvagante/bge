@@ -1,0 +1,10 @@
+- **Luce blu matura**: Riferimento a una nuova fase nel progresso tecnologico, caratterizzata da un'evoluzione aperta e condivisa, simile a un "caos controllato".
+- **Building with public**: Concetto di sviluppo software trasparente e collaborativo, dove il processo di creazione avviene in pubblico, favorendo il coinvolgimento degli utenti.
+- **Rilascio di Papa Wiki**: Introduzione della versione 0.7.0 di Papa Wiki, un'interfaccia web basata su WIP coding, con l'intento di migliorare l'accessibilità e la funzionalità attraverso feedback pubblico.
+- **Feature della versione 0.7.0**: Implementazione di un'interfaccia web senza autenticazione, integrazione con Puppet e altre funzionalità utili per gestire nodi e risorse.
+- **Sviluppo e design**: L'importanza di un design orientato agli utenti e di un approccio "spec-driven", che facilita la suddivisione delle attività e il lavoro collaborativo.
+- **Integrazione con strumenti terzi**: Collaborazione con Puppet e Ansible per eseguire comandi e gestire configurazioni, evidenziando la necessità di una gestione attenta delle dipendenze.
+- **Documentazione e standardizzazione**: Creazione di documenti guida e standard di programmazione per migliorare la qualità e la sicurezza del codice sviluppato.
+- **Esperimenti sociali nella programmazione**: Riflessione sull'importanza di considerare l'impatto sociale e umano del software, oltre alla mera funzionalità tecnica.
+- **Debugging e testing**: Discussione sulle sfide del testing del codice, con particolare attenzione ai test di sintassi e alle problematiche legate alle dipendenze delle librerie.
+- **Pubblicazione e distribuzione**: Processo di pubblicazione della nuova versione del software, inclusi i passaggi per la distribuzione su piattaforme come Docker e GitHub, con un focus sulla necessità di ottimizzare i flussi di lavoro.

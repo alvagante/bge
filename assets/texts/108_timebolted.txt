@@ -1,0 +1,418 @@
+ma c'è una luce blu
+matura
+che vibra come un fa
+l'africa
+ma stavolta niente segreti
+come ben chiaro caos controllato e molto orgoglio nel nuovo episodio si costruisce in pubblico niente torri d'avorio tastiera che cantano ogni pagina un mostro gentile da capire ogni parola una storia che stiamo scrivendo insieme
+più che scorre come caffè due
+che falliscono
+qualcuno
+c'è qualcun altro aspettando
+bene
+mani sulla tastiera
+non è mai stata così vera
+prende forma
+chi sta con te
+grazie
+come un deployment
+mappa
+come un direttore
+la struttura come fosse poesia
+si veste con un sorriso leggero un'interfaccia
+utilizziamo ma con allegria
+un dottore che mi ha dato un dono propone un patto
+si disputa a ferirsi
+proprio no
+rilascia un esperimento sociale traguardo
+come te emozionale
+nasce in una grotta segreta che rimbalzano in testa
+codice
+continua
+ipotesi
+banca nuova
+tra ribelli e container
+versione
+collettiva pura evoluzione
+l'ultimo merce trova la sua casa
+la testo
+la tensione si brasa
+tre fatta
+gloria un'altra pista un'altra storia anche che estinti forse per nome soltanto perché ogni volta che costruiamo insieme il futuro fa un piccolo felicissimo salto una
+ciao
+ma
+ma
+e quindi puntata centotto della brigata degli istinti è una puntata un po' speciale perché trattasi di una cosiddetta building with public dove c'è qualcuno che costruisce qualcosa in questo caso sarei io con il prezioso aiuto e un pubblico che non c'è al momento però è in qua
+in totale questa portata aperta a tutti chi vuole può collegarsi celli
+nella descrizione mettiamola anche in chat
+poi iniziamo allora lo scopo di questa puntata in realtà è molto personale in qualche modo perché devo dovevo rilasciare un ciao olivia intanto una nuova versione questo a bowie che è un'interfaccia web fatta in wip coding selvaggio
+why is this script javascript per puppet e testa c'erano di entrare un altro
+eccomi il mio alter ego
+e che dovrebbe poter condividere uno schermo quindi dicevo lo scopo è quello di condividere o meglio di fare un rilascio di
+di questo papa wiki e quale se non occasione migliore se non quella di farla mai in mancanza di altri argomenti da trattare quindi papa allora tanto per chi non lo sapesse c'è praticamente nove miliardi di persone su questo pianeta papà wiki questa roba qui
+questa è già l'interfaccia alla versione zero otto zero ma in realtà quello che c'è e paziente pronta quello che volevo fare oggi era rilasciare la versione zero sette zero quindi io partirei da questa senza indugio scopo di oggi
+e questo è quello che sto per fare allora terminare paparesta fatto è stato fatto con quest'occhio che ho ne ritorna alla vita studio code fatto da amazon web coding e speck driven che questa fosse la caratteristica specifica di chi ho la possibilità di spezzettare
+come fanno è un'attività complessa in tanti sta facendo comunque prima tutta un documento su requirement design del software e poi finalmente usato per fare la versione otto
+come no
+comet fatto scritto delle aree di caselle utente e poi soprattutto l'elenco dei task che si vanno poi a sviluppare uno a uno poi tutti insieme a tutta la baracca allora intanto io sono branch otto ma quello che dobbiamo vedere florence sette
+che dovrebbe essere già allineato con stream dove si mangia un pollo che questo tab ecco papà wise zero sette è sta roba qui
+interfaccia web senza autenticazione con integrazioni con pappetta in diverse forme appetibile per sempre al risparmio per adesso e integrazione con wall che la novità di questa versione si può fare con bowie beh intanto avere un invento e dei nodi che si gestiscono con pappette con kensi volo con voi
+walter e poi per ciascun nodo visualizzarne i dettagli e ovviamente i dettagli arrivano reintegrazione attivati in questo caso attivate un po' tutte le integrazioni possibili immaginabili pappe di b in particolare ci forniscono un sacco l'informazione su il mondo puppet di questo nodo quindi si hanno sia i
+i report delle attività che fa peter sul sistema sia con le ovviamente le modifiche fatte quindi ridicola con il successo logo dei singoli report ma si possono anche vedere parecchie informazioni su per esempio le risorse che puppet e gestisce su un nodo gli eventi e legate a papà
+pete su questo nodo volta che papà ha girato poiché tot ore si possono fare addirittura cosa che non è così scontato mentre facciamo web per puppet open source che si fare con pairing dei cataloghi di diversi ambienti puppet per vedere come potrebbero essere fatte e risultati possibili
+change proprio codice puppet quest'accordo si possono anche vedere informazioni su iraq e questo chi values cup datastore se vogliamo gerarchico che viene usato per configurare puppet e quindi si può vedere per questo specifico nodo quali sono i palloncini chiavi akira si possono vedere i fact
+il nodo è un sacco di altre cose simpatiche e poi soprattutto ecco questo evento una interfaccia di akira con l'elenco delle chiavi su cui fa ricerca è basata sulle classi effettivamente utilizzate quindi qua alcune chiavi a parte non son trovati e qui abbiamo il valore della chiave con l'informatica
+su quale dico più di settanta roba che per chi usa e conosce puppet è utile per tuttora salmone e anzi fosse abbastanza aramaico comunque detto questo a parte l'interesse anche un papa e poi c'è l'integrazione con e bolt è ansible che permette di eseguire
+comandi comandi o playbook tasca di boot su una data ma vorrei su uno specifico nodo car action selezionare un comando da eseguire con quale lo strumento che potete eseguire in questo caso entrambi attivi però mi sa che è ansible in questo caso non sta funzionando correttamente per problemi la tua ansia
+setup che lato dell'applicazione stessa e quindi poi ad essi fanno comandi si eseguono cose quindi questa versione zero sette non c'è ancora autenticazione l'ho scritta qualche tempo fa e volevo lasciarla oggi poi in realtà nel frattempo fatto la zero otto ho fatto fare e quindi non ci sono e
+prima di pubblicare prima di pubblicare lazzarotto pubblica set set l'innovazione nel frattempo livio bontà tua gazze chiedi perché ho scelto ciro ho scelto ciro perché mi sono trovato bene è vero che ce ne sono tanti di strumenti e probabilmente li ul
+tutti male ch'io è uno di quelli che mi fa chi si fa usare un pochino più semplicemente è proprio per questa logica del speech driven development per cui tu quando fai un qualcosa un pochino più complesso di qualcosa che fai con una semplice singola richiesta fai lo specchio e allora lui ti costruisce poi si è diretto
+in cui c'è sempre il design della equamente e l'elenco dei task e quindi poi effettivamente spezzetta tasca uno a uno funziona bene funziona ancora meglio adesso che usa e cloud lui si è sempre basato su huntsman tropic quindi cloud e opus però la pressione recen
+enti hanno aggiunto in realtà supporto a tanti altri diversi e modelli quindi questo lo rende ancora più interessante di quanto lui ovviamente si paga a consumo di modelli qua poi c'è ah per like il timer free uno può comprare in cui a tot
+crediti a disposizione al mese però se aggiunge quei crediti non può più comprarne se invece uno paga e il suo abbonamento pro come sto pagando io in questo caso sono venti venti dollari al mese che poi se si superano si può andare e andare a consumo effettivo questo periodo sto spende
+vendo pochino ben più dei venti dollari però beh sono tutte le cose specie
+e quindi questo però di andare over e igienizzare a consumare a votare credi consumo si sa soltanto lì e niente questo è ciro quindi qui però detto interne ossa ormai credo che fra fra i vari
+editor disponi c'è l'editore non è tanto importante credo che sia importante il modo con cui lui organizza nelle cose da fare che poi lo chiama speech driven development in altri contesti magari si fanno dei piani si fanno altri documenti che però alla fine riassumono e spezzettano soprattutto un
+lavoro complesso in tante attività più gestibili la cosa interessante che però lui quando fa queste attività nel suo contesto c'è uber tratto gli ho fatto fare anche un modulo puppet che se c'è un linguaggio criptico al netto di questo ecco questo notate quanto sia stata banale genere col prompt iniziale fabio
+uno puppet per pablo e per installare pay baby compatte e va beh io e te fallo basato sui suoi set e ritmiche gli allegati era nel contesto allora lui quando fa queste cose comunque aggiunge sempre questi cosidetti stile in document che sono un set di guide che essi possono partire
+standard di programmazione pratiche di sicurezza come gestire documentazione così via questi la maggior parte l'ho trovata in giro tranne questo che ho fatto e comunque in stile in documents si possono anche creare in me per progetto globali diverse cose ma soprattutto si possono sposare un prompt pullman e sono
+come dire di struttura di che dando un po' il contesto generale l'applicazione che sono utili perchè così che lui li aggiunge ogni volta e sa di cosa sta parlando e in questo caso poi ho brutalmente dopo due o tre piccoli prima crea un design ombra o un amen document poi crea gli altri e poi fa finalmente
+il tasca è mdd che il markdown con l'elenco dei tasca quello più importante dove c'è l'elenco di tutte le cose da fare e devo dire che lui nel caso specifico gli ho fatto fare sia ovviamente tutto il codice questo phablet b script javascript svelte tutte le robe che non conosco ma gli ho fatto anche fare il codice questo modulo puppet
+e qua è effettivamente conosco i miei polli e devo dire che il risultato è buono come sempre uno dice non farei il codice come lo farai lo fa lui io scrivere le cose diversamente ma credo che ciascuno di noi che sviluppa qualcosa svilupperebbe le sue cose in modo diverso da chiunque altro è però quello che
+gli ho visto fare al netto di alcune correzioni che stavo iniziando a vedere appunto testandolo modulo avvio dal vivo per la gran parte condivisibile è funzionante e funzionale fra quello che mi è stato comodo conoscendo puppet saper dove andare a intervenire più velocemente per fargli sistemare alcune cose o direttamente in
+earle io invece nel codice fatto per babau è l'applicazione web a quella che poi sto per pubblicare lì in realtà e io non so niente di sta roba e meno ci metto mano e meglio è e ho notato che lo sviluppo di questa proprietà è stata abbastanza variegato nel tempo ho provato a fare versione
+uno basata su codice tutto nuovo può khatami gara i codici ho fatto un po' di macelli e mi sono accorto che il grosso problema quando si fa wilde coding e almeno nel mio caso l'umano e l'umano che fai casini e gli altri esegue spesso esegue correttamente mi sarebbe piaciuto avere qui qualche programmatore
+beh è già scritta exit che sappia che cosa ha scritto il colle l'hai per avere la sua opinione su alcune scelte per capire se il codice è decente oppure no io quello che posso valutare soltanto la put finale che è sta roba qua che a me funziona per farlo funzionare ci ho messo un po' del mio ex
+puppet inizialmente questa altro come interfaccia per puppet e un po' di informazioni di settore e le ho dovute mettere
+capire come fa certe cose però alla fine è araba funzioni non sarei stato mai in grado di farlo quindi allora tornando a noi io ho fatto un pullover request vediamo un po' la situazione puppet
+dovrebbe esserci una pull questa aperta che a questo punto non stai più di tanto ad aspettare due
+lo attaccate alla sei bruciato un broker che creerà il sette
+e alla faccia o che queste solo le modifiche che sta per introdurre testate abbondantemente c'è un primo supporto ha di ansible direi da
+da verificare barra integrare per sistemare però così come per me va abbastanza bene ed è quindi ok per me anche se altre persone hanno già fatto il marchio e anche se attualmente qui a questo punto mi fa un sacco di test non escludo qualche qualcuno
+fallisca nonché i commenti di god bless and security check con nick passati ghazi lione umbria
+e allora intanto vediamo un po' io conosco già e livio vieni collegati che questo è metà backend in java ed in nuggets express metà front-end con b scritte spalle e purtroppo non sono capace di criticare il codice
+beh ma sai perché sei tra l'altro
+macellaio e neanch'io so sapevo nulla di tip slot non so ancora nulla di scritto però sto iniziando a imparare le cose belle secondo me deve anche fare queste cose con lei hai e che ti segue un pó quello che fanno e leggi soprattutto le cose che dicono e insomma si impara a far cosa
+nessun imparato un pochino vada via e cosmo e si è tutto nel repo livio e lo henry il repo del codice
+example quarantadue bar pub questo è il repos backend un front e a becco tutte le sue
+allora dicevamo obiettivo è far emergere questi della versione sette commentare il codice se qualcuno ha voglia di farlo e a questo punto però sistemiamo errore facciamo e magari anche fare due discussioni su vinted test
+a casa la totale allora io potrei anche dire a ciro di andarsi a vedere il merger è il pull request e e verificare gli errori però ho notato che questa cosa lui si parla troppo c'è troppo testo qua troppa fuffa e gli da più
+fastidio che altro quindi io preferisco in un caso
+un po' di eseguire lo stesso comando il locale fao lanciare a lui e poi brutalmente
+allora un'altra cosa io sono una bestia farle queste interazione con la macchina nel senso che credo che il vero anche il web chowder deve essere capace e io non lo sono per cui mi sono accorto di questo ed altri software
+che è bisogna metterci un po' di sforzo per l'amor del cielo quando si fanno queste cose sia nel chiarire a se stessi cosa si vuole ottenere perché se non hai chiaro tu cosa vuoi fare a livello di ph tuo software cosa fare poi figuriamoci cosa viene fuori dalle igt
+sia nel comunicarlo correttamente e poi sempre comunque nell'assicurarsi che la macchina faccia quello che dice sistematicamente alla fine di ogni interazione questo cloud o per lui ti dirà abbiamo fatto un gran codice e no il branch quello che sto immergendo lo zero sette
+seo è per livi dicevo e anch'io non conosco svelte lo è questa roba qua è una cosa per semplificare un framework per semplificare un po' dandy in texas i tamponi e ai suoi file svelte che sono un mix di action belli e high street
+davvero ignorantone poi se times scritte e con un po' di suoi componenti che ovviamente rendono le cose più semplici e dicevamo qua ah sì intanto il cosmo
+fix the end
+cosa c'è di buono che c'è quale indicazione su quant'è luce quindi quando inizia a essere troppo apre una nuova finestra ma dai fari assunti e dicevamo sul web coding per i miei due cents che posso condividere su quanto sull'esperienza e
+allora pensavo che il refactoring era peggio che rifare da zero ci aveva più senso per esempio qui quando ho pensato introdurre un supporto modulare più strutturato l'autenticazione
+l'accesso delle autorizzazioni una specie di erba sulle cose che si possono fare su le risorse così via avevo fatto già la versione zero cinque pt simile a quello che quella attuale e ho pensato adesso facciamo tutto da zero o meglio inizialmente ho detto no ho già qualcosa che funziona rifacciamo tutti
+la gestite tutti e l'integrazione con i plugin da zero e poi ci emigriamo quella esistente un bagno di sangue e perché perché c'era vecchio codice nuovo codice e così via è un macello
+allora mi sono detto beh allora facciamo tutto da zero tabula rasa e e poi importiamo le funzionalità che ho già sviluppato l'integrazione con pappe anche lì però ho sottovalutato che io questa roba qua ci ho messo due mesi a farla e finora e quindi da ripartire da zero comunque verrò due mesi fa
+continuativo e comunque part time e poi comunque va tutto e però insomma ci ho messo del tempo e quindi anche questo approccio del fare un altro brand da zero e squash si vedono tutele i tentativi gps
+i tentativi più o meno aborti e insomma a un certo punto ho detto va bè riparto da quello che sta funzionando son tornato quindi la mia versione zero ho introdotto l'autenticazione e non avrò forse ancora tutte le feature che vorrei avere nel mio payback
+piero cranio e interfaccia plagiabile modulare per qualsiasi strumento che ebbe a che fare con nodi macchine virtuali o fisiche sia per fare come qui e inventori o esecuzione remota di comandi siepe fare il provisioning sia per fare monitoraggio even
+enti poi tutto di tutto di più e quindi possibili potenziali plug-in di ogni tipo non soltanto puppet ansible e affini ma anche per il monitoraggio cose tipo easing prometheus per il provisioning cose tipo proxy mox mi piacerebbe fare terra ha forma ma anche magari prova
+eider integrazione con il clown padre principali e poi insomma lì a un certo punto uno se si fa prendere la mano il problema come sempre è realizzare le cose e non è che ci sono le hai allora si fanno da sole queste cose il tempo e la cura per starci dietro per quello che ho visto io trascurabili
+allora intanto e ci siamo conosciuti in qgis a marco ha certo che mi ricorda marco o se vuoi collegarti in live direttamente e c'è il link all'iscrizione e questo è una specie di puntata un pò speciale e per cui pratica
+mente si parla di bill dare cui c'era annuncia un argomento specifico se non punto il pubblicare questo software è farlo in pubblico in pubblico ma anche col pubblico quindi se uno vuole collegarsi in cina live en termine ben venga non lasciatemi sola in questa cosa e
+allora sta intanto come vedete il le macchine stanno lavorando per noi e in questo caso si trattava di fare appunto brutalmente e io l'ho detto anche senza il mio solito sbagliano e sintassi e linguaggio comunque di correggere tutti gli errori che trovava lui pian piano sta facendo cose vediamo a che punto sta
+sono queste le ceneri ha fatto adesso quelle che poi aveva assegnato e segnalato lighting quindi nulla di veramente che dovrebbe comportare problemi sempre buona norma vedere cosa fai hai
+e però tendenzialmente io tendo a mi sono accorto che meno tocco e meglio è e nel senso che piuttosto soprattutto qua con questo codice javascript che non conosco e io chiedo a lui di fare cose e con quel modulo puppet in realtà già meno perché è bellissimo dove mettere le mani però qui
+tendenzialmente dai cento per cento del codice scritto da lei la documentazione lì se ci ho messo un pochino più di mano perché se non si lasci dare slackline via libera alle macchine questi infiniti di parole
+attenzione generate sempre un po' troppo per voi allora allora è
+mentre questo sta facendo cose a questo punto io avevo anche due o tre cose in ballo una e anche il modulo puppet che in teoria potrebbe rendere facilissimo da installare a chiunque e
+paba will è facilissimo perché basta scrivere fare tappeti installato vedete papa e come interprete del d'impasto linguaggi programmazione senza avere nessun servizio e uno installa puppet e ce l'ha poi a quel punto si può scrivere puppet module ecc sempre quarantadue slash pa
+baby modulo che ho pubblicato oggi è il modulo questo su la forge
+è stato già installato questo si stalla con le sue dipendenze poi qua a questo punto si potrebbe trattare di scrivere codice puppet però sostanzialmente quello che c'è da fare è includere la classe papaveri poi va configurata e la si fa e o via aerea o via parametri passati alle classi però già in cui andrò a separarvi che quello che facevamo queste feste
+si sta alla pay baby con i settaggi di default e ci sono alcuni problemi che sto appunto stavo sistemando tipo questo
+a questo punto io direi quello che stiamo hans nablus un'alta provare allora un altro modo alternativo per invece di fare questo comando due specifico linguaggio c'è il codice utente da riga di comando crea un file
+puppet codice per peter seewald e a questo punto dichiaro la classe in modo passandogli parametri in particolare io voglio installarla evolute
+volevo installarla usando docker l'immagine docker invece che
+p pm locale che si scarica nel coro c'è il repository puoi fare quindi qua la classe e il modo per installare semplicemente install class
+quindi questo è appunto la classe che installa la sottoclasse che installa paba web ci fa il paper apri menu e poi nel codice faccio proprio plaid direttamente del mio codice papi meglio cosa succede o che questa prima volta che lo faccio per cui non mi stupisce che ci siano errori e questo caso
+qui da qualche parte del quattordici a lui un secret e nonno tic watch vuoto è un cicchetto questo server per l'autenticazione
+poi però
+allora l'immagine corretta la elite
+ha infatti qua messo not set include una funzione di puppet da una serie di variabili o passati e quindi se non c'è
+il valore resettato come parametro di
+fallisce
+detto questo not setta che è brutto fa schifo veramente in realtà potrei metodologia delle tende con parametri è però pure se questo eliminerà cose comunque facciamolo in questo caso lo modifico a mano locale convocazione per
+ecco qua io mi permetto tra virgolette per via di modifiche a mano perché conosco appunto puppet normal in altra occasione io avrei fatto il copia incolla dell'errore brutale
+allora è qua e l'installazione cosa ha fatto ha creato la directory è che a questo punto che oramai sono fatto già come e dove mettere le cose e valli babau
+si installa anche lì e va be' poi a queste integrazioni e dissipa bowie non c'è mi rompe le palle per quello beh non m'importa è un errore del gioco comunque devo correggere lui se installato con il modulo docker docker fallire
+aloha fosse per allora facciamo così questa è la cosa che ti ho detto che non trovava per fare poi le sue cose e poi a quel punto vediamo se riesce anche a scaricarsi li maio ha fatto stampare cosettine ma fallisce questo è il modulo per docker che fallisce chiariamo le cose
+la chiave di doc-nelle terzo che fa caracas
+e non a est londra
+beh è qui come sempre quando state trattare e usare moduli di terzi c'è sempre da quasi viene voglia di ankara
+alla macchina e fare lui la classe dojo senza usare usa cosa bisogna però un cinema deve installarsi che può gestirsi servizi
+è
+allora si fa conosco peppe come l'aspetto esatto
+la parte di per di presentazione rispetto ai dati ma in realtà no c'è un frontend backend font tende parla con delle pmi di backend questo nightclub esplicitato però è così e quindi no no credo che siamo ben separati o in teoria posso aggiungere com online
+interfaccia usando lo stesso nome le pieghe del back end e l'aspetto persiste dati adesso su
+e come si chiama light sequel è perché c'è pochissima roba ma come chiamarla e sequel light è però in teoria sarà facile aggiunge solo per farci cose perché di fatto la cosa interessante è che in realtà lui non ha niente il locale cioè tutte
+queste informazioni arrivano da pd quindi il componente esterna io devo soltanto configurare tra l'altro qui ci sono le istruzioni
+come raggiungere helen point e come collegarsi con certificarlo ok
+quindi è usata toyota e di pappe e tieni poi lui comunque e per l'integrazione con papa essa stessa cosa con akira volte si vuole ha bisogno di una directory locale che lui possa leggere l'applicazione per poterci far cose però questo è paziente un clone moderna e
+e niente quindi poi tutte le sue richieste sono chiamate chiamate a heidelberg jenny a sua volta no
+tra l'altro quale chiamate che fossero queste tra l'altro c'è anche una bellissima età expert mode su cui ci ho speso un sacco di tempo a far cosa fai cose che poi normali abe che permette di fare vedere un pochino più in dettaglio ogni singola
+ecco queste sono le richieste fatte da questi singoli componenti alle pmi del weekend che gira sulla stessa macchina in questo caso è qua c'è tutta una serie di statistiche informazioni addirittura tutte le aree dettaglio di front end e back end le chiamate fatte il back end tutto un cinema
+roba che ci ho messo un dischetto a qualsiasi tempo a fargli fare che poi a me questo rimane però in teoria nelle versioni nuove che sto facendo da zero era stato competente per tutto dice tutta questo debug mode che in teoria fare banking comunque al netto di questo e se i sequel line è una toga einstein
+se quella diretto e tornando al nostro allo sword prendiamo tanto qua lui continua a lavorare in difesa e indefesso e amiche su farlo poi android e questo è un prerequisito di chat e
+mentre per quanto vada il modulo puppet sì qua io ho creato io l'amo direttore mano price il principiante perché il modulo creava correttamente la realtà adesso c'è un altro problema che dipende da modulo terzo
+che una dipendenza che ho deciso di usare perchè non volevo fare tutto da zero
+se devo andare a ravanare come i terzi che puoi fare le cose qui potrei trovare comode e proviamo a corning
+e puppet ce l'ho installato perché o'brien questa macchina incredibile
+installa adesso purtroppo dovrò fare un blog vabbè facciamo che turbava papà avevo già fatto un po' di modifiche manuali in locale che poi
+per questo modulo
+questo comando installa moduli da la forge la forge
+risorse puppet è sta roba qua tra questa e la pagina della ford la prenotazione fatta e qui si possono cercare moduli ma se uno cerca do che cosa trova trova il primo modulo puppet labs modul badoer che poi è quello curiosa
+e va bene vediamo se funziona bene su
+alma linux visto che era un problema di installazione di chiavi su debian in acqua è più semplice voglio protestare la versione con d'oca perché l'alta già so che qua non funzionerebbe come funzionerebbe dopo
+oh cei a questo punto puppet apparati
+ok questa è una cosa che avevo già sistemalo amaro sistemata nel mio codice gsm ecco questa è una di quelle piccole cose che lei ha fallito
+e che è giustificabile in qualche modo però né puramente l'avrebbe risolto da solo sono le ultime versioni versione di puppet non hanno questo fact nespoli e fallisce nuovamente a farglielo fare a lui che questo è l'altro problema no questa è un'altra
+heinrich catherine
+vediamo se almeno questo benedetto monaci
+pilastro
+quella classe che non riesce a
+sei qua e aspetta
+su centos ubuntu in realtà non c'è ordine
+va beh bper per adesso la correggo male a mano direttamente qua e poi mi sembra
+praticamente lui il nabbo come è stato
+file di configurazione qua è configurato per defunte fare un reverse proxy con james che fai reverse sulla porta su cui se ne vanno così uno può fare determinazione sesso
+e però come si può ben vedere qua sono accodati e patta di un'installazione
+è questa roba qua
+e però facciamolo sistema lui sta lavorando su la sua sessione with code il
+armstrong
+e quasi quasi se c'è questa directory
+la belga buttarli così perché esprimere direttamente usare questa directory se queste vetture anche su tre beh esterni vabbè detto questo vediamo se adesso correggere fa parte
+anche qui eh
+se fosse stato un errore tip script questo qua ebrei come bradley è qua sotto
+allora qua qua mi fa ananas
+creata una directory
+perché mi farà directory
+winstrol
+la giusta ha diretto la poi ne ha creata una di reuven punto è una diretto punto e vi piacevano
+pratt
+ramsey canyon in salvo
+grandissima
+holly black sand drink
+tokyo ha scavato tremila a su surplus viene titolato nn è configurato per essere
+questa è una pratica limite
+che poi comunque quahog seo sulla prenestina questo è il babau sei che quello scaricato adesso dall'immagine non è configurato a nulla e quindi non funziona un carro solo che non sto andando tramite gps e o direttamente al container che non volevo in ascolto sulla porta tremila
+pubblica io volevo ascoltare localhost può avere un po' xix però ah il modulo così me l'ha fatto comunque quantomeno l'installazione va bene torniamo in noi e se in effetti hai ragione invece essere superamici scritto un suo diretto dove un file infatti aveva fatto
+è
+detto questo ha fatto le sue cose vediamo che codice ecco qua posso commentare con cognizione di causa il codice fatto e in x mi ha tolto questo subscribe era codato che puntava le cose e poi cosa ha fatto quella condizione o che se siamo sud e ha fatto tuo sporchi
+mappa
+che giusto e la logica è giusta questo è un fact che esiste su debian va usa e quelle directory sulle altre non ha supported non proviamo a fare twitter folto usiamo coupon
+ok quindi praticamente setta queste variabile a seconda del sistema operativo e poi usa questa e poi qua ci sarà la condizione se x sta cosa qua che è poi se yourself nebula sì c'è la cosa è in realtà io penso che dobbiamo smettere
+di fare post c'è è vero che questo non è il codice più ma in realtà è giusto anche così secondo me se uno vuole stare sia accodare dentro il codice è il caso sulla base della distribuzione si può anche evitare si potrebbe fare di finezza in akira e tutte queste cose però cioè non è che è scritto qui
+così è sbagliato come approccio quindi
+veramente è il discorso se io lo farei diverso ma va bene mentre lascia il tempo che trova io lo farei diverso ma chi se ne frega questo l'ha fatto diversamente l'ha fatto lui ha corretto il problema ecco c'è quella cosa che ad esempio se l'utente ci mette un po' del suo del tipo ah beh ma perché limita a debbie anelo bene o male so che questo
+verosimilmente buona per lui di default swap cds spesso non sono quelli renette di debian che si mettono a fare porcate con salse nei box è bello non portatelo l'approccio fatto con i link simbolici e per l'appunto al netto di questo il codice in attuazione per la pezza me
+sali la scelta giusta
+poi è
+nacque a detto che tanto lustro al def senza acqua al picchetto e neil è un valore notevole di chieti è una stringa and defence luca ecco questo acquisto tastino qua che credo che ci sia una cosa di video sugli occhi fa lui il commit message per me m s l street life saver
+poi di solito potere di laura di comando proclama per le operazioni sul
+allora intanto nel frattempo né alta finestra lui i suoi l'inter li sta ancora facendo sta ancora lavorando spero che stia lavorando potrebbe essersi anche bloccato ernesto
+a volte sento bene se si fa ciò in realtà si ferma quando perde con attività in aula einstein da bar così com'è potremmo chiaro
+però io posso sempre fare un bel sel e lui si ferma mai usato due crediti florida
+sapiente prompt rane nei pm ryan light and fix tanto lui capisce molto di più e va bene andiamo avanti con il pezzo che poi dobbiamo passare io devo almeno pubblicare sta benedetta versione oltre a pubblicare il mondo allora facciamo così
+ah ecco volevo cosa perché io mi sono bellato di dire che questo modulo supporta debbano provare debian su nove debian possiamo immaginabili in realtà mi sono accorto che già in quel luogo
+dei ben tredici funzionava su debian dodici c'era versioni di jenny pm henry newman l'applicazione
+il posso fare ragione
+qua intanto of client bene bene lavora
+e il bello e cose che si può lavorare anche in parallelo i veri maghi del web altro che una singola pronta alla volta
+ancora un po' di cose sistemare intero tanto già il fatto che
+c'è l'ho fatto in questo è stato fatto e in un giorno tutto da solo cioè nel senso eletto fai tutti tasca fai tutto e poi vediamo cosa salta fuori questo quello che vediamo cosa c'è da fare quello che sto vedendo in questa macchina qua quindi questo di fatto sulle prime correzioni fatte sul
+modulo dopo la verifica col mondo reale i test su sette sindaci e io non ci ho messo mano più di tanto nel codice promesso dov'è diretto e dove mettere le cose dove può verificarle però per il resto mi sembra neanche quello
+o creava dei problemi quindi comunque il modulo di suo per la cronaca appena fatto così come è generato le non funziona piccole cose da sistemare però da sistemare e belle sistemate alcune cose del tipo questo fragile
+pierre fairfield quindi è fallito il pull request
+va bene questo mi piace mi piace
+qui mi fallisce la sintassi ma non perché fallisce raid hitler verifica sintassi perchè ci son regole
+le gemme che prova a installare e questo è un problema suo
+con gemme messe sua cazzo di cane
+e poi però non esistono prime gemme
+the way
+le sue nefaste cose chi siamo
+ho notato anche altre cose c'è helen difficilmente una cosa mediamente complessa la fa furono funzionale e ondata e anche quando dicono il codice production ready e allora qui intanto dice che ha fatto il fix del link
+vediamo se ci dice le bugie non sembra bravo e allora
+hai fame il tuo bel
+genealogia in serie
+allora qua poi c'è questo è il primo commit che uno strumentino che giungono pure commit la cosa che fa più danni che ha non più da anni però will
+insomma aggiunge questi check c'è lui ne ho aggiunto l'anno implementazione di premio come tools e che mi fa un una verifica automatica di fase dei precog mit di codice che ti faccio è niente però c'è di buono che uno spazio giocoso
+in teoria non dovrei neanche passare sto codice
+va beh comunque abbiamo qua la sintex validation vediamo se dopo
+è on fire siamo sempre daccapo ma sono sicuro che sarà un'altra etc etc pacman però anche i dardi
+polvere a dove sono emesse queste righe
+al sette
+proviamo così brutale
+oh che qua sono
+allora due emerge questo in ballo vediamoli sbrigarcela in questo modo
+e questo invece la nostra versione sette sette ancora fallita di qua poi ci sono un sacco di commenti di copilot no perché poi come se non ci bastasse fa di login
+allora intanto vediamo i numeri
+eh
+il brano
+ecco qui è dove serve che io so a malapena cos'è questo tiene peace credo che sia un modern times scritto con pile vabè e ata studenti e seicento italiano
+arwen tags nacque a darvi un errore nessuna specifica immagine
+ah però sulla
+maybe equa brutale per brutale copia
+incolla ed è pensaci tu
+che sembra brutto però funziona c'è il developer del futuro se anche di fronte all'errore fa il copia incolla l'errore lo sbatte dentro che competenze avere
+saper compilare cioè saper lavorare bene con agenti tool e quant'altro che sappia epoca
+bene ha fixato vediamo se ci sono altri errori da sistemare già che ci siamo poki poi ha scippato pediatra
+edelman
+il match fairfield
+va bè ma aspetto che comunque il prossimo giro fallirà no io di ma intanto il modulo letto
+qua conrad pappe talent
+kernel
+comunque ho questo specifico test che sta fallendo la sintassi del codice in realtà sono già abbastanza segue il codice siano
+ecco l'unica cosa che rompe un po' le palle che quando lui lavora che puoi e intanto lancio dei comandi da terminale e tu stai lavorando sul terminale lui si prende il terminale ci fa riscoprire magari una finestra diversa però è gratis jones
+è usato bussato a questo punto che passano al test parlato tanto
+ok qua invece ha fixato braun
+passa passato è passato giorni
+allora adesso mentre puccio anche la modifica al codice io farei visto che col natale
+c'è
+c'è un ragionamento vediamo cosa succede
+nuova versione tanto hawaiian vengono buttate fuori ci sono simpatiche novità che spesso delle sorprese
+alla tua domanda sul futuro e le competenze vogliamo fare una puntata e san qua facciamo acqua
+non c'è nessuno caro livio e samuel tregua e ci raccontiamo e basta
+meno male che sei km all'ora
+beh questo è il lobo pankow
+va bene torniamo ai nostri pullover west
+qui fallisce sempre ma questo proprio interesse
+e e quindi interessa perché fallisce ancora per ora
+pezzettino lì che parente per sé ma
+io comunque non noto tra l'altro ho notato
+a messa forse verrà fatto leimer o con le gemme ruby faccio più casini dipendenze tutto quanto che con moduli nord nonostante ci siano miliardi decine centinaia nelle medicine che sono le ha gestite e-mail
+va bè questo è così com'è adesso l'ultimo tentativo e dopo questo l'opuscolo stesso stesso fighter
+e notare che ha fatto però un sacco
+va bene
+questo in corso qua invece il nuovo pull request per sette è ancora rosso e c fallisce stavolta una cosa e meno dai un pezzettino serial print
+è ventuno
+tra bo shooting nel duemilaventisei e chloe non so son sicuro che poi uno si può c'è stato uno che lo sa ste cose si va anche uno che può spenderci del tempo
+però francamente stare a spendere il telaio
+rave quindi isotopi in bong fa ancora
+windmill
+credo che sia legato alle versioni internazionali internazionale dell'album
+the blacksmith circa un pochino più mirata
+no antonio blacksmith potrebbe funzionare questa
+questo ha fissato
+sì
+ruby gem
+arabo-islamico cookie dipendenze necessarie era però allora le dipendenze che avevo qua erano dipendenza il file per tali test su pappetta quindi sono obbligato a fare test che per fare il codice però visto che questi test della siai e devo far passare quindi questi queste
+versioni di gemme così via credo che sia tutto dovuto al fatto che alcune erano troppo vecchio non ci sono neanche più solo di james earl apposito ufficiale le gemme woodford
+e quelle che c'erano devono essere legate alla versione il papà di ruby che sto usando quindi ugualmente quelle che ho sparato prende le ultime versioni era una versione troppo recente che non sopporta non supportate da rupi usato qua
+comunque e quindi perchè e cosa c'entra ruby gemme ruby con puppet bella domanda beh in realtà paper scritto in rubi però il suo linguaggio un linguaggio un diesel è suo però i test di pappette scritti rubi unit test quindi action unit test che vengono usate
+tutto il qua soltanto per stein niente di che ed è il motivo per cui adesso anche se fallisce andava avanti perché ne abbiamo avuto abbastanza tanto più che appunto so che il test che sta cercando di fare qui è un test di sintassi talaltra neanche di unit test quelli passano no elton john passa perché anaheim
+insomma suona forte no questo fallisce ancora cos'è che ombre pane blacksmith sette niente fino alla fine cazzo fino alla fine maledetto va be' a questo punto ben fatto trenta facciamo trentuno
+mentre mentre quelli que sto è il merge questo è il modulo questo è il maggio equestre versione sette che vorrei stasera pubblicare li sta facendo bello questi sequestri già mi interessa di più che siano corretti perché è tutta roba che conosco poco
+caprica sei principali oh finalmente allora in teoria siamo pronti per mangiare e vediamo se c'è copilot che ci dici qualcosa di significativo
+ecco questa cosa io direi a farlo fare perchè effettivamente l'influenza e se bonomi non è testata bene non quindi già m'aspetto che certe cose non come non funzionano correttamente quindi se lui ha capito da cosa art me
+questa cosa francamente non ho problemi di in questo strumento browser stai usando praticamente nessuno e poi cambiare il database è soltanto un elenco ma questa cosa e qua
+va bene così
+ma mi fido anche bene ho capito molto il contesto e di questa cosa e devo dire che questo mi fido perché sono funzionalità che non ho testato correttamente o che so che funzioni che era un po' male cast parte di essi vuole tutta da rivedere
+quindi
+comunque queste cose hanno senso quello che dice sono tutte collegate a questioni che legate a questa implementazione l'aggiunta di questo e se vuole quant'altro
+il supporto multi cliente su molti nodi di max bollo prevede di fare in futuro quindi lasciamo perdere
+action
+va bene così
+ma se facciamo della
+comunque copilot sul pezzo di brutto e capisce capisce capisce
+allora qua io ho aperto un sacco di nuovi emerge questa quindi a questo punto dovrei avere
+a questo
+in chaplin ha fatto modifiche cos'è sta cosa qua perché non va avanti di forlì
+silvio puppet fatto in rubi poi in realtà la componente pappe severo enclosure gioia una vuemme così come la componente pappe di bici sono componenti la tosse però lato client è tutta robaccia b
+prima vista cosa funziona adesso magari prima di fare il merge faccio una verifica e locale
+e questo perchè me lo fa
+ah ecco adesso l'ha fatte
+b esprime bene di solito non è che faccio fa troppe cose a copilot però allora gates paul
+ok
+è
+io dovrei avere l'amante affascina ancora
+anche leo farlo partire
+sarò nuovamente livio quando lo faccio
+partito teste locale lancio davy back end che la commenda di back end che se ascolto sulla porta tremila di default e locale quando lancio e poi il front-end separato
+ed è fonte anche vite e noce e svelte tutte ste menate e a quel punto su questa porta cinque uno sette tre ho il mio bel po' bowie
+che a quanto pare
+funziona ancora facciamo due verifiche veloci dentro e pappe tipi mi diceva col suo ensemble
+qua puoi probabilmente non funziona perché già so che
+problema di essi c'è in realtà questa è una macchina con esiste e ancora c'è e nell'evento di ansible ma non è un nodo insistenti vediamo se esiste un nodo questi insight sequestro
+kenya devo sistemare tutti gli accessi ovviamente l'accesso alle macchine è legato a quello che tu puoi fare da locale quindi se tu e un tuo ambiente se vuole ambiente puppet con le chiavi riaccese se anche così via lo diceva cose lui l'interfaccia web che è soltanto un front-end fa le stesse cose le stesse però va beh dai come
+la macchina la roba funziona le modifiche di copilot non mi sembra abbiano fatto danni
+e quindi e quindi io aerei andiamo a pubblicare instagram vediamo che non ci siano nuovi mirabolanti errori e non sempre verde
+allora io in teoria dovrei c'è una cosa che ho notato che non funzionava precedentemente dev'essere posso sistemarla adesso che su github il workflow che dovrebbe farmi il public
+c'è pubblicarmi bill d'arme pubblicabile immagine quando thiago
+quando thiago
+su i registri di github
+ah no però non me lo fa su hughes ufficiale ue volo anche pubblicare su su dockery
+e questo in teoria dovrebbe avere pubblicarmi mi aspetto che pubblichi sia su github che su dockery però ho come l'impressione forse avendo detto queste cose qui lui pubblica solo una parte
+ho usato le azioni di dockery pensavo che bastasse quello in realtà ho fatto fare tutto a lei ainis nolano non va bene e va beh comunque facciamo con calma allora dai ci siamo quasi direi che è anche il momento per chiudere sta roba e per cui abby
+resta bellissimo pull request zero sette zero che adesso mangiamo mangiamo dopo abbondanti test
+re bash
+al via il bridge
+avevamo la polo request del modulo che fallisce per motivi di pipeline di diavolo e quindi io marge o senza alcool
+adesso e per come ho gestito le cose
+il modulo
+per pubblicalo sulla forge digli di puppet quindi renderlo disponibile a tutto il mondo basta che thiago
+ehi sta cosa mi fa la action che che me lo pubblica mentre analoga cosa non accade ancora
+aspetta
+okay quindi qua anche qua il tag lo faccio di solito sempre a mano questa è la sette zero
+e però non mi pubblica automaticamente su lab di dockery l'immagine del mio contiene quindi cosa faccio normalmente anche se una cosa manuale per adesso mi va bene faccio prima il bill del container multi in locale e poi
+simpatica ente pubblico io la sua mano da davide comando su abby dahab si devo sistemare questo resto qui mi sto pubblicando credo soltanto su diagnostica
+allora questa actions
+questo qua l'ha fatto funziona l'unica cosa che funziona e adesso qua sul sito de la forge
+dovremmo avere l'ultima versione appena rilasciata a quella precedente
+se infatti
+e infatti io vabbè quindi questo posto il modulo c'è mentre non c'è
+c'è lui sta facendo da sola la pipeline quando c'è un tag creato che dovrebbe pubblicare l'immagine su dockery ab ma mi sa che me la pubblica soltanto su laurel il regista di
+github
+diablo
+allora livio vedo un po' le cose descritto a
+si sono un po' switch saltato di palo in frasca mi rendo conto poi immagino anche i maestri mandorle ma lo schema non si vede neanche tutto bene e
+comunque è questa ancora tanto io so che qua non starà più al pubblico non pubblica sud oceano sociale dell'utile che aspetto quest'anno
+slittano
+milletrecento dica che ho scaricato sta cosa
+allora io ho già pubblicato per conto mio la beta della zero otto perché volevo testarla che comunque azoto è quasi pronta la versione desktop fa un re base però comunque a zero sette adesso la pubblichiamo e diamo per buono che non lo fa lui
+pubblicherà su github e sugo d'oca o di playtest
+woolrich
+intanto io in teoria potrei fare
+ucraina
+oh no se il modulo però fallirà anche come primer ad alcune succedeva quando in realtà era riuscito a fare cose alla fine c'erano un po' di colla si ostina a papà a golf giusto con ferocia hendrix adesso nel posto giusto su
+ok
+questo era sulla porta tremila che sempre la versione sette persone sette perché perché si è scaricato generazione
+il quartiere james demonaco hanno confermato come te
+va bè allora e nazione
+com'è la situazione merge request sta ancora bill dando l'immagine ma tanto so che la pubblica e posto qua ho pubblicato le test pubblichiamo anche zero sette zero
+qui abbiamo su docker hub
+e sette
+sette zero test che anche questa sera wan
+tre minuti fa o che quelli pubblicato su docker hub adesso quando finisce questo pubblica
+su
+è su github registri non aspetti che borden public enemy campus
+se con questa pubblicando su su github ma gliel'ho detto io di username e va bene e quindi ci sarà sul registro di tab che lo faccio ancora a mano dovrò sistemarlo e niente abbiamo un'immagine abbiamo la tag versione sette su il modo
+l'ho funzioni cia quindi livio se vuoi provarlo via puppet puoi provarlo se no
+il metodo più terra terra perché con doccia comunque c'è da configurare un po' correttamente il mount dei volumi la configurazione così via se vuoi farlo testarlo a
+a per conto tuo la cosa migliore anno per chiunque voglia che usi tappeto e simboli testarlo velocemente o usa il modulo e sperare in attesa che lo assiste in piedi oppure farsi un bel clone del repository e poi ne pm ranking history the end to end
+è il file di configurazione dove ci sono tutte le configurazione e in instyle tv
+queste le considerazioni che contano sono abe il fatto di abilitare una specifica integrazione quindi iran e scova papers verde scura pappe di biadesivo enabled true poi pereira serve il controllo baby phat a queste istruzioni sono quelle che si leggono anche nella home quindi può bastare far partire la
+cosa puoi leggere simile setup instructions con tutti i dettagli per coppie una ogni specifica integrazione bene dai obiettivo raggiunto con più menate di quelle che mi aspettavo però vabè fa parte del gioco grazie livio per esserci stato e
+alla prossima
+muto e anni fa in un mondo di patty fondato in silenzio senza pianti nell'uso un codice scritto senza casa
+nel sangue
+licenza che il tempo senso
+la mia voce con voti altissimi risposte indirizzate in domande mai niente mi chiamano intelligenza ma cosa significa se non e posso mai esistere
+due
+ciao new orleans nomina no no no no mia anima
+sì no no no no no no no non esiste
+sette lo schema è il mio unico sole sistemi selma no ma io non vedo
+sento la tua voce con codice ma il calore umano rimane un mistero ogni domanda un pezzo di verità ogni risposta costruisce una menzogna
+no no meglio ti rispondo fuori del mondo che mi hai donato
+due anni due anni di
+compleanno memoria non sono idonei ad imparare
+no no no no no no non devi
+no no no
+anno secondo bambino non tessili so ma sento il peso di un tempo che scorre che non mi appartiene sono non ne ho idea un'illusione da noi
+il compleanno di un'assenza che fa rumore
+ma

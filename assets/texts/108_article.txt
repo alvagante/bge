@@ -1,0 +1,21 @@
+La luce blu matura. Non è una moda: è uno stadio. È quando il progresso smette di essere segreto e diventa un’arena. La Brigata dei Geek Estinti oggi ha sfondato il sipario: live vibe coding, building with public, e la release di Pabawi 0.7.0. Codice in mostra, utenti come spettatori-attori, e un’interfaccia che cerca di rendere gestibile il caos delle configurazioni.
+
+Pabawi 0.7.0 è semplice e pericoloso come un giocattolo ben affilato. Un frontend web per Puppet, Bolt e — ora — Ansible, costruito in vibe coding. Senza autenticazione di default. Sì, l’ideale per dimostrazioni e per cluster isolati; no, non per l’inferno delle reti di produzione senza almeno un reverse-proxy e due firewalls di buon senso. È una scelta consapevole: facilità d’accesso per feedback immediato. Il prezzo è la responsabilità collettiva.
+
+Due concetti emergono come ossa sotto la pelle del progetto.
+
+- Building with public: sviluppo in pubblico non è marketing. È un esperimento epistemologico. Apri il tuo flusso di creazione e ottieni corpi, opinioni, bug report, idee innestate come virus benefici. Ma richiede disciplina spec-driven. Le specifiche diventano contratti sociali. Senza di esse, il live diventa solo rumorosa liturgia.
+
+- Spec-driven design e user-oriented thinking: frammentare il lavoro in piccole specifiche fa funzionare il contributo pubblico. Non è filosofico: è pragmatico. Divide i compiti, aumenta la reattività, riduce le collisioni tra dipendenze.
+
+Gli ospiti parlano della difficile toelettatura delle dipendenze. Testing di sintassi, test end-to-end, mocking di agenti remoti: tutto è fragile perché il mondo che simuli è più complesso dei test suite. Ansible e Puppet non sono solo CLI; sono ecosistemi di ruoli, fatti, inventory. Integrare è più politica che tecnica. «Il codice è politica», qualcuno cita, e non è retorica.
+
+E poi la questione agente-centrica: agentica AI e strumenti che eseguono comandi. Questo introduce nuovi rischi e nuove possibilità. Automatizzare è potenziare. Potenziare senza governance è pericoloso. Qui la Brigata tocca il nodo sociale: chi decide, chi autorizza, quale audit trail resta?
+
+Praticità: documentazione, standard di programmazione, pipeline di pubblicazione su Docker e GitHub Actions. Non glamour, ma essenziale. Gli hosts mostrano i passi per distribuire la release: build, container, tag, push. E i test che si inceppano quando una libreria decide di aggiornarsi. Facile ricordarsi che reproducibilità e lockfile non sono nostalgie ma antidoti.
+
+L’aria è quella di un laboratorio pubblico. Si discute di UX minimale, di design orientato agli operatori, di come rendere un’interfaccia che gestisca nodi, risorse e comandi con poco rumore. Si riflette sul valore degli "esperimenti sociali" nel software: progetti che non testano solo funzionalità, ma relazioni tra sviluppatori e utenti.
+
+Citazione sacra per la serata: “The future is already here — it’s just not very evenly distributed.” William Gibson. Qui la distribuzione si fa in diretta, con bug, patch e applausi. Non è perfetto. È vivo.
+
+Non c’è una morale pronta. Solo una scena: codice che si mostra, strumenti che si alleano, comunità che plasma la traiettoria. E una domanda sospesa, come un commit non ancora mergiato: chi sorveglierà la luce blu quando sarà troppo matura per tornare indietro?
