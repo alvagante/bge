@@ -1,0 +1,35 @@
+# BGE 109 - Quando i Bit Avevano Ancora un'Anima
+
+**La nostalgia non è un bug, è una feature.**
+
+Nel marzo 2026, mentre l'intelligenza artificiale riscrive il codice della realtà e i quantum computer promettono di risolvere enigmi che nemmeno sappiamo ancora formulare, i Geek Estinti si fermano. Si guardano indietro. Non per reazionario conservatorismo, ma perché chi dimentica il modem a 2400 baud è condannato a non capire perché il cloud sia solo il mainframe che abbiamo sempre odiato, travestito da servizio.
+
+Alessandro Franceschi accompagna la Brigata in un *amarcord* tecnologico che suona come archeologia digitale per i nativi del 5G, ma che è filosofia applicata per chi ha vissuto l'epoca in cui *connettere* era un verbo che implicava pazienza, cavi RJ-11 e il coraggio di chiamare una BBS all'altro capo della città.
+
+## Il CPM e il Paradosso della Semplicità
+
+Il primo computer dell'autore era un CPM. Non Windows, non MacOS, non nemmeno MS-DOS nella sua pomposità IBM-compatibile. CPM: Control Program for Microcomputers. Un sistema operativo che stava su 64KB e faceva quello che doveva fare senza chiederti se volevi condividere la tua esperienza utente con Redmond.
+
+**Heidegger lo chiamava *Zuhandenheit***: lo strumento che scompare nell'uso. Il CPM non aveva un'interfaccia che ti seduceva; ti chiedeva di essere competente. Una differenza abissale rispetto all'odierna *user experience* dove il software ti coccola, ti monitora, ti trasforma in dato.
+
+## Amiga, Commodore 64 e la Rivoluzione dei Creativi
+
+Poi arrivarono loro: **Amiga** e **Commodore 64**. Non semplici computer, ma manifesti culturali. Il C64 con il suo SID chip che componeva musica che oggi sarebbe classificata come chiptune hipster. L'Amiga con il suo blitter grafico che rendeva possibile l'impossibile: multitasking preemptive quando Windows credeva ancora che bastasse una finestra per volta.
+
+La **cultura demo** nasceva lì: programmatori che trasformavano limiti hardware in sfide estetiche. 64KB per generare grafica 3D, plasma effect, e scrolling sinusoidale. **La scarsità come catalizzatore di genio**, concetto che il cloud computing con i suoi petabyte infiniti ha completamente seppellito.
+
+## ISP, Token Ring e la Follia Pre-TCP/IP
+
+Trumpet Winsock. Chi lo ricorda, ha cicatrici. Un .dll che traduceva le chiamate Windows in stack TCP/IP prima che Microsoft decidesse che Internet era forse qualcosa di serio. Un kludge glorioso, un hack necessario.
+
+E il **Token Ring**? IBM che cercava di democratizzare la rete inventando un protocollo dove un token virtuale girava in circolo e solo chi lo possedeva poteva parlare. Elegante in teoria, disastroso in pratica. Ethernet vinse perché era rozzo, pragmatico, **darwiniano**: collision detection, retransmit, sopravvivi.
+
+## Windows 95: Il Trojan Horse dell'Accessibilità
+
+Windows 95 non fu solo un sistema operativo. Fu un **reset epistemologico**. Rese l'informatica user-friendly, ma al prezzo di una lobotomia collettiva. Improvvisamente, non serviva più sapere cosa fosse un driver, un IRQ, un DMA. Start → Click → Magia.
+
+**Arthur C. Clarke**: "Qualsiasi tecnologia sufficientemente avanzata è indistinguibile dalla magia". Windows 95 trasformò i computer in grimori per stregoni pigri.
+
+## Solitudine Digitale e Memoria Storica
+
+L'episodio si chiude con una nota malinconica: la sensazione di parlare
