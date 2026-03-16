@@ -1,0 +1,27 @@
+# DevOps in Italia: Una Pratica in Cerca di Identità
+
+DevOps è diventato uno di quei termini che, attraversando lo Stivale, muta forma come un virus informatico che si adatta all'ambiente ospite. Non è tecnologia, non è ruolo, certamente non è quella certificazione che qualcuno espone su LinkedIn come un trofeo di caccia digitale. È piuttosto un *mindset* che in Italia si è frammentato in mille interpretazioni locali, ciascuna plasmata dal contesto aziendale che l'ha adottata – o fraintesa.
+
+Questo episodio della Brigata dei Geek Estinti arriva come un check-up diagnostico sul paziente DevOps italiano, in vista dell'Incontro DevOps Italia. Francesco Fullone, Martino Fornasa e Carlo Sacchi si addentrano nella selva delle implementazioni nazionali, mappando il territorio tra l'enterprise che si muove con la velocità di una nave cargo e le startup che scambiano agilità per improvvisazione.
+
+## Il Divario Culturale: Quando il DevOps Parla con Accento Straniero
+
+L'Italia tecnologica vive una doppia temporalità. Mentre le community internazionali dibattono di GitOps, service mesh e chaos engineering, molte realtà nostrane stanno ancora cercando di convincere qualcuno che CI/CD non sia un acronimo di un sindacato. La conversazione tocca questo *cultural lag* con la precisione chirurgica di chi sa che il problema non è la mancanza di strumenti – quelli sono gli stessi ovunque – ma l'ecosistema culturale che determina come vengono usati.
+
+Kubernetes come control plane universale emerge come sintomo di una tendenza più ampia: la convergenza infrastrutturale. Container e VM sotto lo stesso orchestratore, come se finalmente qualcuno avesse capito che la guerra delle piattaforme è meno interessante della loro integrazione. Ma questa convergenza tecnica maschera divergenze organizzative profonde.
+
+## L'AI Come Catalizzatore (o Detonatore?)
+
+L'intelligenza artificiale irrompe nel discorso non come salvatore tecnologico ma come acceleratore di tendenze esistenti. Pipeline più intelligenti? Certo. Ma anche nuove superfici d'attacco, nuovi punti di fallimento, nuove opportunità per quell'errore umano che l'automazione dovrebbe prevenire ma spesso amplifica.
+
+Il ML Ops – figlio naturale del DevOps nell'era dell'apprendimento automatico – porta con sé sfide che i nostri host dissezionano con lucidità: enormi volumi di dati da gestire, preoccupazioni sulla privacy che si scontrano con le necessità del training, e quella documentazione auto-generata che promette di scriversi da sola ma che nessuno leggerà mai.
+
+## La Compressione Generazionale
+
+Qui emerge un paradosso degno di nota: strumenti AI che permettono ai junior di sembrare senior, almeno finché non si tratta di gestire un'emergenza alle 3 del mattino. L'esperienza non scompare, si trasforma. Diventa la capacità di riconoscere i pattern nei fallimenti, quella saggezza procedurale che nessun Large Language Model può ancora replicare.
+
+Come osservò già Alan Kay, "Technology is anything that wasn't around when you were born". Per una generazione cresciuta con GitHub Copilot, il DevOps sarà qualcosa di diverso da ciò che è per chi ha compilato kernel Linux a mano. La domanda non è se questo sia un bene o un male, ma come navigare questa transizione senza perdere le competenze fondamentali nel processo.
+
+## Green Ops: L'Insostenibile Leggerezza del Cloud
+
+L'impatto ambientale emerge quasi timidamente nella conversazione, come quell'ospite alla festa che tutti sanno dovrebbe essere lì ma nessuno vuole davvero ascoltare. Eppure, mentre l'industria tech si congratula per aver spostato tutto nel cloud, qualcuno inizia a chiedersi quale sia il costo energe

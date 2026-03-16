@@ -1,0 +1,461 @@
+oh
+musica
+retrospettiva buio
+ricordi che siamo in teatro mare solo vuole ammetterlo
+lo sai
+ok alludevo moda
+fa funzionare tutto senza nome sul budget senza gloria
+non è questione di
+charlie qualcuno ha costruito
+vigore
+benvenuti al cacao
+mai bussato alla porta
+qualcuno ha aperto qualcuno ha arrecato
+hanno paura di sembrare
+junior pensano che basti
+tornano in ufficio prodotti che
+poi va sempre bene
+non è una questione di tu
+non è una questione etica
+questo
+blair
+qualcuno l'ha costruita
+sicure
+venuti al caos
+ma allora quante aziende italiane nel processo di deploy automatizzato qualche misura letta
+a volte fanno davvero
+ne parliamo da dieci anni ti si avvicina stavolta forse ci guardiamo in faccia a milano si parla si aspetta tutto improvvisa meglio di tutti ogni tanto qualcuno dal nulla che ha fatto cose vere senza pompa
+come ritiene nonostante tutto
+le persone vengono applicate allo stato centodieci volte che
+fare rumore
+roberto
+qualcuno l'ha costruita
+sicure
+vediamo
+da qui
+no
+ci vediamo lì
+e quindi siamo
+e quindi siamo finti
+è
+si parla di the pops in previsione dell'incontro devops italia che inizia proprio questa settimana lo facciamo comunque certo culone
+l'elicottero forza italia organizza con il mouse
+la nasa
+potremmo
+ventitré
+dopo il salto le introduzioni e andiamo dritti al punto
+l'argomento della puntata
+e poi anche questi alberi
+l'aumento della portata dei posti fantastici
+canti
+a tutte
+francesco
+guarda quattordicesima edizione in collegio
+una cosa normale quattordicesima edizione in collegio
+ma pare che devo
+usciti dal letargo nel senso che quest'anno abbiamo mare
+il problema audio
+nel senso che questo mare chiuso
+se il problema del diario
+quest'anno abbiamo un mare chiuso
+dal diario
+quest'anno abbiamo un mare chiuso mi sembra siano lì sotto c'è tutto un
+eco sta dobbiamo fare
+mi sembra ok scusate avevo un browser aperto da qualche parte nel sottofondo e quindi faceva un gran casino vai tranquillissimo e ben scusami vuoi prendi pure stavo dicendo quattordicesima edizione pare che i devops stiano uscendo un po' dal letargo perché stanno crescendo un po' di numeri
+partecipanti la cosa non fa che farci piacere e dai ormai è routine non saprei che altro dire
+giovedì venerdì giovedì workshop e venerdì la conferenza vera e propria dove dall'anno scorso abbiamo provato questa nuova forma in cui sono quattro workshop durante la giornata da mezza giornata quindi uno può combinarne diversi con un pricing permette
+bassissimo e più può fare bandolo con la conferenza e partecipare a tutto
+vedo che sta funzionando quindi positivo sul fronte temi sta cambiando un attimino quest'anno c'era tanto tanto tanto tanto e hai un po' l'abbiano tenuta un po' no perché era veramente troppo ma che
+troppo poco interessante come come portata e poi ci sono i grandi classici telemetria osservabilità
+è
+scalabilità quindi cose che in ambito devops non si possono toccare mi ha meravigliato che ci fossero pochi tool in ambito flops visto che negli ultimi due anni è un po trending topic
+in tutto il resto del mondo dove la fine ops fondation ha iniziato a spingere tantissimo poi è sempre linux foundation
+sono solo temi che stanno iniziando a movimentare il mercato oltralpe
+mentre in italia ancora di pin-up se ne parla un po' poco non tantissimo ma poco e anche di green jobs se ne parla ancora pochino in italia mentre all'estero si vede già qualcosina in più so che poi mi volte di parlare con i di asciugare il mare col cucchiaino
+poi adesso andiamo a
+fare prompt come se non ci fosse un domani ma
+una parola se sì non è che si esaurisce così e martino che cosa dici tu che questi limiti il baxi chi tra l'altro anche ma allora bene no non mi sorprende qualcosa perché anch'io su su su monitorando un po'
+i gruppi meetup queste cose qua adesso solo a categoria qualunque tool come ci sta anche se magari la qualità può variare può variare però ovviamente tutti ne parlano quella cosa lì
+sostanzialmente se non c'è altro che ahimè nei titoli poi ovviamente sono successe talmente tante cose di una banalità non sono devops platform compagnia ma quello che sta succedendo gli ultimi mesi anche
+talmente grosso che non è che uno può pensare di non pensarci poi ho capito se siamo in una bolla oppure no un po' forse siamo ancora in una bolla su disco immenso anche in campania informatico però pare che insomma diciamo che è difficile ignorare
+chiedendoci poco fa
+difficile trovare qualcuno che possa dire qualcosa di utile ovviamente perché inizialmente un campo che non esisteva fino a un anno fa in questi termini non lei ha in generale quindi immagino che per chi organizza conferenze non sia facile infiltrare qualcuno che possa dire qualcosa di originale sulla questione
+allora intanto chat carlo bentrovato ben benvenuto
+autori di due cents su il discorso che sta producendo sì no lo l'ho intuito come promesso io comunque sia sono fuori quindi sto passeggiando allegramente mentre mi ascolto partecipa
+assolutamente sì la bolla si anche se dico ulteriormente una bolla in una bolla perché da quello che vedo intorno io delle persone ovunque sia anche chiamiamole fuori dall'it usano change vittime tutto il resto ma al posto di una ricerca di google quindi non stanno sotto utilizzando quindi
+diciamo noi che magari andiamo un altro senso dell'utilizzo di questi strumenti
+forse sì dal punto di vista che siamo in una bolla ma una bolla di una bolla
+e sì beh oddio volerà una bolla che però stiamo vedendo
+da dei risultati no adesso poi calando anche gli diciamo che è quasi più elitaria effettivamente la mia frase di di quello che volevo dire però se comunque concordo era quando discusse
+allora giusto per te
+a bomba sul discorso malora tutti qui hanno fatto codice senza saper scrivere o meglio un codice fatto fare delle
+assisted ma in realtà si chiama ormai non si parla più di assistere ma si parla proprio ai
+come dire codice scritto da lei coordinato da noi è
+nel mondo dei più specificatamente che è anche più operative cioè c'è l'abate operation non si parla solo di sviluppo ma anche di gestione infrastrutture gestione automazioni e così via voi per quello che vedete
+quanto è l'impatto altrettanto devastante potenzialmente come dire sostitutivo di quello che succede per la programmazione ci vedete segnali forti insomma il segnale forte e l'articolo di qualche giorno fa su su amazon che ha richiamato indietro un po'
+sistemisti del gruppo di lavoro per dire probabilmente gli incidenti che abbiamo avuto nell'ultimo periodo dovuti ad spinte di automazione non monitorata dobbiamo fare un passo indietro capire che succede
+capire fin dove dare via libera ad agenti e dove invece c'è bisogno di controllo quindi c'è chi ci prova c'è chi ci prova bene c'è chi ci prova un po' così
+se ti chiama che effettivamente va bene il codice che non compila o che funziona non fa quello che dice di fare una cosa diversa se è la stessa cosa spesso le operazioni sulle operations
+beh allora diciamo ci sono vari aspetti chiaramente non tutti sono amazon nel bene e nel male non pren
+la prima banalità che mi viene in mente è che però insomma è importante che perugia sono varie applicazioni che ho visto e sto applicando la prima applicazione e scrivere codici falsato e escort no quella parte lì chiaramente funziona solo se lei se hai l'influenza e squadre sembrano assai sembra una cavolata
+spero tutte quelle organizzazioni che hanno dei pezzi ho tutto che non sono in francese gode li l'impatto non è patton non puoi utilizzare l'energia generativa gli agenti quindi
+c'è altro giorno per un motivo che non che non rivelerò stavo installando windows server a mano e li
+ci sono volute le solite tre ore anche se la verità si imporrà strafare in un'occasione che non ha modo di automatizzare questa cosa l'ha quindi dove hai come avviene nello sviluppo di applicazioni general purpose cesso e hai una buona base e poi un buon approccio generale
+francesco tu puoi andare molto più dritto con con la modalità è identica e quindi li
+io vedo che comunque tu che ci sono da utilizzatore stretto di wild willy che lavorano bene contea fa un lavoro bene con wacom si bollavano bene con con con liam liam o di tutte le sorti c'entra i like veramente interessante olio di alcol che si riesce a fare lì dove
+in quella la situazione lì è un impatto compatibile comparabile a quello di sviluppare l'applicazione zoom
+equilibrium applicazioni un frontend backend eccetera eccetera
+sempre in questa parte qua
+l'altro l'altro grosso uso della parte sempre dei tool identici insomma come vogliamo chiamarle in italiano e vaghi incident response cioè quindi sto parlando di sola lettura non sono arrivato a dire faccio girare gli agenti che mi mettono mano all'infrastruttura direttamente che forse lo step successivo forse no
+e le iops se vuoi e arrestando nemici del responso
+se è in grado di fare per far leggere i blog e andare dritti sul dato a doc della situazione sulle sue observa bit leggersi le cose a una velocità che ovviamente tu non riesci è accumulata neanche per sbaglio puoi farli fare cose siamo grazie al kubernetes quello ti chiama i comandi cubi cdl per andare a vedere cosa sta
+funzionando quindi a livello di the bag di quello che sta succedendo anche lì c'è stato un impatto molto forte un altro pezzo importante no e e per quanto riguarda il discorso di amazon ovviamente probabilmente valgono ancora finché non scopriremo un nuovo paradigma
+i solidi fondamenti chiamiamoli del devops nel senso primigenio del termine cioè piccoli betsy continuous delivery i tasting automazione del rilascio che roba e probabilmente restano validi tanto come prima insomma
+il tipo realmente funzionano anche nell'ambiente agent based
+quindi sostanzialmente per come la vedi anche il mondo devops
+non ci si può stare troppo tranquilli anche a livello di opportunità lavorative o meno rischi lavorativi se correlate e ora lì nessuno ha ancora capito cosa succederà esattamente ovviamente
+anche qui banalità ma abbiamo letto tutti di aziende anche rilevanti che stanno licenziando per le aree che poi magari in parte è una una mod di mascara che dovevano licenziare come e quindi cum grano salis a questa parte però anch'io ho molti dubbi su cosa succederà all'evoluzione dei dundee
+figura tecnica cosa succederà ai junior come faranno diventare senior come faranno queste cose qua e
+non ho una risposta ci vorrebbe il futurologo che cosa che io non so purtroppo però è molto simile l'impatto è meno forte perché tante organizzazioni non sono mai arrivate a hall in francia coda in quelle in cui le organizzazioni lì ci vorrà più tempo perché si vede uno spostamento
+sono arrivate
+natura e con una scusa mi in l'organizzazione magari le cose sono fatte in modo più artigianale più manuale comunque con lei le puoi fare più velocemente più ti aiuta a fare magari non gestisce i codici agenti con magari hip hop diretti a e poco di più però intanto ti potenzialmente puoi fare come chi
+ma c'era prima lei certe cose in un certo modo ma inizierà a fare più velocemente quindi anche lì
+potenziali problemi di
+poi nel mio piccolo ho visto anch'io alcune derive a parte che provo ad analizzare come lavoro io vedo anch'io che tende sempre a mandare avanti sempre più roba senza revisione no
+e magari questo sarà il modo in cui lavoreremo tutti poi a un certo punto lo slot che ho visto generarsi tanto sono tendenza a modifiche troppo grosse c'è visto che è semplice andare su e robe molto grosse e quindi non è classica cosa non suona pure queste cinque righe
+faccio venti commenti sono quasi cinquemila righe trovato uno
+perché non è non è visionabile e se la fa la stessa cosa
+e poi un'altra cosa che ho visto e tutti diciamo che hai
+ti aiuta a scrivere la documentazione nella pratica reale ho visto tanta tanta roba c'è chi tende a farli a avere due persone troppo verbosa troppo il crono è colpa delle aree wikimedia colpa di come la usi però ho visto esplode la documentazione senza utilità a meno che la documentazione sia fatta perché la
+lega pro fra quel punto
+siamo in una situazione in cui non sono ancora confortevoli mi trovo ancora a mio agio se anche il tema della documentazione creata da liam chiede un bacio le modifiche punto esatto il problema è così subdola subdola perché poi lei sbaglia il giro dopo perché si fida dei dicono che è che è stat
+scritto ma non è stato aggiornato quindi se vuoi cominciare la documentazione che cresce enormemente tu non controlli più se va fuori sincrono con la realtà lei ah e poi se la legge è parte per la tangente e quindi
+è facile farsi portano fuori delle buone pratiche andando più veloce
+giusto per la cronaca visto che è un problema credo che sia abbastanza comune io quel problema della documentazione abbondante che genera come se non ci fosse un domani su tiro con l'arco
+poi con cio che ho
+idee e hai come dita sulle corde concorso e quant'altri ma insomma analogo ripetibile altri casi gli ho detto esplicitamente come stiri in document tu non generare documentazione se non era diretto il punto g tua di come storico diciamo e poi tutta la questione effettiva più selezionata più come dire
+rifinita e più succinta e la faccio tenere o generare e rivedere perché se no non c'è ragione per i cazzi suoi a che lo dice esplicitamente è di volta in volta c'è quando si fanno c'è da fare una release cos'è questo
+però ho notato questo effettivamente che tu confermi la generazione di documentazione sovrabbondante che io per tenerla a bada gli ho detto che tu non generi tu non scrivi documentazione nella diretto la documentazione non è una questione ovviamente del mezzo
+una come un'esperienza di vita ma cosa vuol dire la vita due tre mesi ma mi capita spesso di arrivare
+su telecom base che sono pieni di sloppy documentation collega è inutile anzi dannosa come dicevo francisco e questa è una cosa e un pattern se vuoi nella mia piccola esperienza di solito quando faccio ingegneria documentazione gliela faccio testare prima di ogni impulso
+ha scritto mi serviva la documentazione mai scritto documentazioni ebrei bene e testarla secom la documentazione combacia con il bis cod bene se la documentazione non combacia capiamo cosa ci serviva se una o l'altra e quindi ref attualizzare o la documentazione
+simone ho o il bisconte è però anche di un primo che stavo parlando con con alessandro è il mio braccio e prima iscrivere il codice ragioniamo su un su un prototipo e documentazione qui a livello di documentazione mettiamo una serie di paletti quindi non so che serres
+lavoro con più capì o standard del linguaggio o del framework in modo da non uscire troppo dal seminato mi scrivi mi scrivi quello che vorresti fare e a quel punto sviluppi dalla documentazione al giro successivo c'è un check se le cose non combaciano capiamo dove dove era andato fuori
+il cinque e siccome leggo più documentazione che codice ormai preferisco avere la documentazione come la source of truth rispetto al codice come lei implementato con cloud con qualche io gioco prevalentemente con cloud cloud cloud
+e include med inizio col club med e dal divin summit tutti i paletti si fa il primo round e poi si si inizia o a creare ad esempio un mio documento di metodologia
+quello non cambia a meno che non lo dico esplicitamente ma viene preso da claude medico ma come reference è oppure adesso in ambito di green ops ho fatto un un una skills che dentro tutte le best practices della green software foundation
+e quindi ella la sfilza che fa da suo soft root quindi controlla se quello che sta facendo combacia con la cgil se non combacia riparte daccapo sul processo e sviluppo e questo tiene dei paletti abbastanza bene dov'è abbastanza bene significa che cento per al sicuro ecco
+michael um hai
+troppo non facendo cose mission-critical ma
+non non lo vedo come problematico il mio approccio carlo martino
+ma sean kanan allora sì sicuramente poi è chiaro che ho visto han chiuso per ottimamente cloud anche sto sto vuole provare a passare anche al codex google cloud
+imita un pò lo stile i letti già quindi se parti da zero di vitelli le in partenza ad esempio ho visto che imita lo stile dei commit
+imita lo stile dei negozi che già quindi è chiaro che anche lì magari sera con base in cui non ti piace dove sta è meglio partire con una fattorizzazione di queste cose qua insomma e se la struttura del codice e queste cose qua le tende poi ad andare dietro un po' alla struttura che c'è
+comunque non so voi io sono
+non sono proprio giovanissimo ma quello che sta succedendo negli ultimi mesi è una cosa che una velocità del genere non mi pare di averla mai vista mai visto ma il difensore fare haines
+oh una cosa così
+non l'avevo mai vista e mi sorprende e le capacità che hanno questi strumenti quando un giorno all'altro perchè
+eh anche solo una moneta una cosa che ho fatto ieri c'erano non analizzano la bild sud tab action vedi dove sono le possibilità di ridurre le tempistiche apricale a commetta e fa le prove finché non reduci
+e sarà una banalità ma una cosa del genere fino a non so se sei mesi fa avrebbe funzionato adesso dopo un quarto d'ora mi aveva ridotta lampredotto bull timon un quarto di
+senza sapere niente di niente dell'argomento
+ma si dice tanto all'ora degli junior che c'è viene da pensare che uno junior super squillato in development e che ha l'approccio giusto per cui usa anche lei hai per imparare no quindi il lato positivo no dell'affidarsi mani e piedi a codice generato è quello
+che almeno se gli dai un'occhiata a quello che genera impari e di solito e quindi potenzialmente avendo come dire a disposizione alcuni strumenti infiniti ma adesso c'è un mondo in cui sempre più facile poter fare grandi cose in no
+con una platea mondiale e da singole persone no è una tendenza degli ultimi decenni ma adesso stai crescendo esponenzialmente quello che possiamo fare come singole persone con lei
+e anche senza competenze che appunto è un bene o male contemporaneamente quindi c'è non lo so la vedo come un grandi grandi grandi grandissime opportunità e grandi sfracelli ovviamente per voi che qui siamo abituati tutti quanti noi e soprattutto informatici a quanto pare di questi te
+tempi ma non solo quindi boh che dite
+il tema che uno giu un junior non cancellerà mai da sé un database in produzione nel senso sarà sempre colpa di qualcun altro della gente di turno su cui ha poco controllo tra virgolette e quindi quel passaggio tra tra juniores
+senior perché ha fatto il danno e deve aver e deve studiare perché l'ha fatto il remediation e tutto il resto quindi quella quella come dire quelle ferite che ti fanno capire come non rifiuti bruciati in un futuro non ce l'avrai e
+quell'esperienza mira e magari ce l'avrai col tempo magari le ferite delle le oppure potrei anche dirti come provocazione ma forse non saranno necessari non sono neanche più necessarie tra virgolette no avendo potendo lei ai vari tabù shooting scrivere codice e gestire cose
+cose meglio della patria persone quindi è a quel punto perché verrà junior e avere un segno se le dico lo junior è molto bravo a usare gli strumenti no un junior che inizia a usare agenti cana astro in parallelo usando tutte le automazioni del caso per
+ottimizzare non sapendo un cazzo ma sapendo le basi del tipo controlli di sicurezza sono necessarie non so farli ma so che servono e quindi gli faccio fare controlli di green di consumo di uso di riso o se tutto quello che uno vuole fare no cioè non è che c'è tecnicamente bisogna saperle fare
+quelle cose ormai no chissà tecnicamente
+ci sono bisogna sapere che ci sono perché ci sono però sembra esagerato le giuste domande per risolvere cugino bravo esma e comuni scaltro le chiede chiede tutto quindi a quel punto chiede anche lei che faccia sviluppare una soluzione che abbia tutti c'è tutto quello che vuoi no
+quindi è questo che sta arrivando a dire padre
+non so se è così veramente se lo penso veramente però come ipotesi di riferimento noi stiamo tanto parlando dello junior la dura vita di un'ora nel lavorativa nei prossimi anni io dico forse diventerà così preponderante lo skillset specifico rispetto a tutto il resto
+magari lo junior ultrà cazzuto con strumenti e approcci e ai nativi ti serve di più e ti fa di più del senior che pur magari ci prova e se non ci prova il senior e credo che siamo già tutti d'accordo siamo destinati a tratti fuori no c'è una una persona
+sperto informate che non sfrutta gli strumenti che hai
+che rischia di tagliarsi fuori da questo mondo e anche abbastanza in fretta ma anche uno showman un vecchio come me che magari ci prova e però ci prova male forse meno utile di un di un ultrà julio che non sa un cazzo di venti anni di esperienza informatica però sa usare bene lei mi vien da pensare
+essa approcciarla bene per usare bene anche io do per implicito il concetto che l'umano cioè che quello che possa metterci noi e intanto imparare le cose che vengono fatte e poi è dare quel minimo di direttive essenziali per non farne pochi che poi il minimo
+sarai così scontato
+non so che dite o beth harmon jones
+jason arrivata a casa da m
+c'era proprio uscita un sintomo può dire aggiunge video di pietro savastano che dice anche
+un hanno attaccato breen
+lui promuove assolutamente l'utilizzo delle diamond e soprattutto se non stai dietro avrebbero interpretato così lui super prua e quindi una rivoluzione quando appena detto susin negli ultimi dieci anni a sud anche da milan non sa mai
+vista e quindi bisogna fare bisogna assolutamente utilizzare questi strumenti perché magari rimane indietro ma gli altri vanno avanti anche se sono solo sei sei super prova è tutto
+forse più che mai oggi bisogna darsi una mossa per usare questi strumenti anche se sei anti anti nelle mani di old school tanto per dire io derivate sono d'accordo e quindi per dire che sì c'è c'è già questo sentimento c'era questo
+le persone che pensano queste cose quindi bisogna un po'
+è un po' anche qui sta polarizzando un po' al discorso quindi chi lo vuole chi le usa che manchi ancora un po' contro ma
+in un mondo in cui tutto va più veloce se una cosa ti permette andare quantomeno alla pari del col mondo quantomeno starci dietro se non la usi è chiaro che è automatico e rimane se poi vuoi fare è quindi quello è poi quello il discorso
+per tornare un attimo però dietro prima adesso dobbiamo riuscire a parlare quanto riguarda il devops l'hai
+dio tutti i giorni faccio a pugni con opus e cloud eccetera codex
+sì sono bravi ma non hanno ancora meno
+non hanno ancora
+per così dire l'intuito di quello che ti serve quello che devi fare è in in progetti di trasformazione miglioramento loro perdono quello che c'è e gli dico potresti fare ma se tu devi proprio rivoluzionario perché sai che c'è una cosa che non ci arrivano meno che poi ci vada io do fare amici
+fammi sta cosa allora si che lo fanno ma se loro sponte loro spontaneità di iside
+oh questa serie di pagine e devo migliorare e loro ti dicono cose che esistono migliorabile ma non proprio una trasformazione che può diciamo così o più grande che tu che magari tu puoi vedere ma loro no ovviamente quindi da quel punto di vista lì ancora forse il ruolo del devops come come
+e a che sa cosa c'è intorno e sa cosa c'è in tutti i repository in tutte le bugie line adesso ancora abbastanza lo vedo ancora centrale potenziato con aree vada anch'io comunque sia con sistemi cloud con opus è quello faccio cose che non sfruttano
+sono capace di fare pipeline codice che assolutamente non sarei mai in grado di sviluppare anche di de bagni e tutto il resto qui
+chiaramente quello è sicuramente per me un grosso plus che fino a due anni fa non avevo fino ad anni fa su non fare rumore factoring di qualcosa ci passavo dalle ore e giorni adesso una volta che ho capito cosa c'è da fare dico da ciò questi pezzi quasi il quadro
+cercare di farla lui letteralmente minuti mi ha quantomeno tirato su tutte le modifiche poi non funzionano poi c'è me quella un'altra cosa cioè comunque siamo siamo già in un'opera
+lo vedo già ho già un codice che funziona in poco tempo
+sì e ne approfittai scusa l'ultima cosa che avevo già usava claude mdd a me capita comunque sia che pur avendolo
+una volta lo sa che ce l'ha la seconda volta già si dimentica delle istruzioni quindi devi dire rielegge club med che ci sono le istruzioni perché sarà comunque sia lo scrittore lo sa che esiste non se lo fila di niente se ne di uso all'inizio per chi inizia a rassettare
+i paletti e poi dal livello sullo scherzo è la chiave di volta contempo più
+lois lowry può ancora poco le istruzioni per esempio cioè se ci sono le istruzioni di come commentare di come gestire river è tutto una volta lo fa una nota non lo fa la terza volta non lo fa mi accolgono che non sta facendo devi farlo allora a quel punto riprendendo
+le istruzioni che a quel punto ne segue però diciamolo non sono sempre automatiche ma non so se magari io
+ero ero io che non in qualche modo lo sapevo intercettare quello medioevo utilizzarlo
+magari schieramento di più furbi ogni giorno cambia pure quello potrebbe essere
+starci controllare l'unico metodo furbo che eugene
+per la cronaca lui ogni volta che interagisce con cloud lui di default nel club med che trova nella directory corrente e lo va a prendere o dovrebbe andarlo a prendere come all'inizio della sessione all'inizio della sessione e cosa fare lui con lei allora destinato si è legato alla conte alla dinamica
+respinti testo no perché lui
+fa la compressione del contesto e io dico cose non so veramente il processo autonome gestite utilizzatore lui comprime e togli cose toglie informazione dal contesto precedente quindi una cosa che magari può essere utile di resettarlo manualmente il contesto di comando
+hard reset da lì
+in modo da dargli la possibilità se tu pensi che il pezzo di conversazione precedente non sia più utile alle cose che devi fare successivamente quel caso dovrebbe anche riprendersi col discorso del club med gestisce lei tempo lui l'ha preso all'inizio fa parte del contesto ma poi comincia a comprimere il contesto quindi sempre meno rilevante
+ogni volta che fa la compressione gli dovresti ridare il cloud oppure far ripartire la tua hills
+e inietta le cose che deve iniettare no allora dice marco lanciato notato anche che conclude piuttosto frequente la reintroduzione di errore che si erano già eliminati e questo è praticamente frequente al crescere della dimensione del progetto
+studioso penso che sia inevitabile se per errore si intenda comportamenti errati che lui ovviamente non avendo memoria lunghi come i modelli non può saperlo a meno che appunto non glielo infilo qualche parte che in modo che se lo rileggo ogni volta se questo ci sono errori che in qualche modo che arriverà un certo cont
+testo ma appunto con documentazione in una giornata così via luini volta se lo riprende istituti e ogni volta riparte da zero e rifarà le stesse cose e gli stessi tipi di comportamenti insomma sono gli dai le istruzioni esplicite per andare in un'altra direzione chiede livio e c'è più la tendenza in ambito devops fare
+direttamente con lei o passando per codice generato in e e immagino riferimento a
+c'è codice infrastrutturare scrittura seo ho editato scritto con l'aiuto non so cos'è so credo che adesso le tendenze non lo so che tenessi solo voi che vedete si fa cloud si fa al corriere web coding dei codici infrastrutturale o magari si fa più editing assistito
+di questo genere
+so che non lo so se ho capito la domanda originale
+e ci sono preparati correttamente e di quel dono non so quali siano le tendenze nel né in quello che vedo io
+alla fine dipende come al solito cinque parti da zero per un progetto nuovo se vai a mettere le mani sulla coda esistente n
+hey
+di solito
+trova più spesso fare cose sono basi esistente chiaramente quindi sono modifiche piccole su una cosa più grande
+ehi però non so se c'è un trend specifico ecco lì e io mi diverto quindi greenfield quindi
+facebook sperimentazione pura con con claude e fini quindi di grillo però si è già quello lo faccio
+sperimentazioni sviluppo applicativo su quali sono piu arrugginito perché scriviamo da troppo tempo e i figli e li mi aiuta di giovani greenfield
+diciamo scrivi il codice front-end web weblog scrivi sicuramente meglio di me quindi può andare tranquilli qui ok
+perché la mia ipotesi di ripartenza fa già abbastanza schifo e non c'è il rischio che conclude la la la peggiore
+brava che sono facezie
+no io ho visto una non
+parzialmente in tema ma ho visto ultimamente nell'ultimo anni primo paio d'anni lavoro spesso con startup italiane europee poi
+non necessariamente molto presto non proprio early stage ma un po' dopo generalmente
+ehi quello che vedo sempre di più e che ci son sempre più che partono founder tecnico con cloud e tutta le ali stacey che prima magari gli servivano tre persone
+va giù con molta più velocità e lì magari c'è anche un po' meno interessato alla alla pulizia del codice e alla stabilità questa cosa qua perché sei nella fase per definizione della startup in cui devi valida l'idea quindi puoi essere molto più reckless molto più vi è molto più tranquillo e
+magari io
+mi trovo a intervenire quando si si si deve cominciare a stabilire alle cose e a scalare e quindi magari serve una persona più dedicata a chiamiamolo devops mi infrastruttura
+però vedo più spesso questo battermi cui un founder tecnico fa tutto da solo però per un pelo più lungo sia la parte di sviluppo codici qr da parte di chi ama devops ecco questo è una cosa che vedo molto poi magari l'istat la startup non è quella che fa mela ops quello che fa le cose interne a meno che io sia una startup
+intelligenza artificiale chiamiamo così però e sono più magari prodotti che utilizzano come utilizzatori modelli idee insomma delle multinazionali
+nel caso
+è
+però appunto vedo molto di più partenze solo o comunque un solo founder tecnico che va avanti per molto più tempo e fa molte più cose molte più
+molte più più sperimentazione va va più avanti senza prendere persona e non so se questo genererà una riduzione dei posti di lavoro questo è fuori dalla mia casa la mia comprensione però questo è quello che vedo in quell'ambito specifico lì ecco aziende piccole in partenza
+giusto perché per dar seguito allora livio respirava intendo dire che se ad esempio usi direttamente laici chiama ad esempio piani oppure si tende a generare codice che poi viene emesso come codice che gestisce la devops quindi immagino io credo che se si usa ancora il codice infrastrutturale ma personalmente
+se si spera di strumenti di cocco dagens e chiamarli sì ma tendenzialmente in lettura al mio caso cioè chiamare vuol dire chiamare dei piedi github per legge si vede i repo oppure chiamare le app
+observa abilitá per leggere i blog o le metriche oppure chiamare le vie di kubernetes per vedere lo stato del cluster eccetera questo si è più per la fase di debugging oppure per la discovery di quello che sta succedendo per scrivere il codice poi invece cosa in str
+lettura io tendo a usare suo scooter non anche perché si chiami direttamente lei stai facendo il
+i green jobs
+passione
+questa cosa non ripetibili e will
+sì potresti per me presumo puoi farli chiamare dei pm di dabliu creare una macchina virtuale però è come la versione hard kill ragazzo
+giustamente noi non non mi sembra un approccio sensato ecco
+per però c'è tutto questo tema che però non so se abbia veramente un senso di dare in mano invece l'operation in real time la gente forse viene chiamato iops non lo so
+tra le altre cose c'è che non so se per fare esempio il classico kubernetes io il mio caso ovviamente sei un agente che in real time fa le cose questa cosa io non l'ho esplorata non mi sembra così promettente ma ovviamente tante cose che mi sembravano diverse tre mesi fa quindi
+sospendo il giudizio io non ne vedo
+la grande esclusiva utilità al momento però magari è solo una mia limitazione
+io su tutta la parte di gestione essendo un lavoro deterministico metterlo in mano nel m ci penserei un agente smettere di più
+che mi fa dire questo
+ospite francesco jackson
+io dicevo non ti senti pronto di mettere nelle mani non sei ancora pronto per lasciare renzi
+non è deterministico neanche il comportamento delle persone ormai non è mai stato però almeno forse un pensiero in più prima di cancellare il database di produzione ce lo mettono un agente che non deterministico sì allora infatti lì i temi sono due
+su questo secondo me uno che l'eccezione a questa cosa qua che abbiamo detto è la sola lettura cioè il debugging in realtà quello è
+molto risolutivo in molti casi c'è veramente
+può a me italia anche dei dead e baghdad da ore a un minuto e anche su tecnologie che penso di conoscere abbastanza bene insomma ci ho lavorato tanti anni è l'altro tema è tutto legato a quello del guard rail s non so come si chiamano gli italiani chiamano in italiano cioè come lui
+girando lì ci sarà tanto lavoro da fare ovviamente e c'è come riuscire a dare un contesto agli agenti
+per tenerli in un recinto però non è facile che sta si entra tutto nel concetto delle famose policy eccetera che anche per gli umani sono sempre state difficili e continuano a rimanere
+empo la grande difficoltà di lavorare in ambito enterprise che non puoi andare dentro alla banca del caso e farai fare qualunque cosa ci vuole un controllo ma come lo fai al momento ed era difficile prevedere edifici coloniali
+ed è il motivo per cui gli organismi più complesse tendono ad andare sempre più piano
+man mano che crescono di complessità è
+sì allora tra l'altro su questo discorso del re
+usare lei per codice infrastrutturale segnala giustamente marco nella mia esperienza la qualità del codice sistemistico significatamente inferiore significativamente inferiore alla qualità del codice applicativo probabilmente questo è dovuto alla quantità di mia però non è così nella mia esperienza non è così magari marco c argomento
+in che contesto perché magari magari non bus treni tre sette
+la quantità di cody basa che potrebbe essere utilizzata per fare le cose è effettivamente
+immaginare che vale per alcuni viaggi programmazione siano più tendenzialmente il codice infrastrutturale è molto più banale a livello logico nel senso che è meno complesso se vuoi puoi tendere sedici undici
+quindi un oggetto che sa fare butter matching a livello pubico hai aiuta nel mio caso vedo che aiuta molto insomma riduce tutta una serie di di cose ripetitive
+che riesce a ragionare su deve anche delle cose abbastanza complessa insomma sempre regnò nel mio caso il grosso salto è stato sempre quando gli ultimi diciamo fino allo scorso non so quando è cominciata la modalità a prendere piede modalità agent così prima prima
+ma è successo tutto immagino che dico dico anche qui una banalità ma prima facevo copia incolla di codice
+adesso fai generare e adesso invece nel contesto è stato lì il sale poi anche nei modelli sotto immagino e quindi questa cosa qua era vera nel mio caso fino a miami operatività pratica fino a ottobre del duemilaventi cinque novembre duemilaventi cifre
+adesso la vedo meno così sì che sono sei mesi fa e quindi appunto censurato discorso e sono sei mesi fa è abbastanza sorprendente devo dire poi io intendo essere positivo su queste cose no
+non di natura non tende a non farmi spaventare da queste cose qua speriamo non ci sia motivo di spaventarvi
+r se dovuto fare un lavoro che vogliono muovere le mani i figli ancora non c'è è arrivata spazialmente idraulico imbianchino sono dunque l'elettricista però è un lavoro duro e devo dire però mi mi attrae di più
+parto avvantaggiato perché lo zoppo jeff ha effetti sensibili
+sulla testa preparando i metadati per la puntata voi potete anche continuare a parlare non è che
+po' scusate se no
+carlo sta dicendo cose o collegiata è stato imparare no no no stop
+è
+in italia abbiamo ceo diverso in realtà è in questo grande trasformazione e ai nativa devops l'influenza del mondo e ai suoi mondi professionali devops valgono per tutti i vagoni anche in italia magari li raggiungiamo con chi più chi meno con tempi le utenze diverse o forse magari
+il problema non si pone nemmeno perché magari comunichi al primo mattino se non hai infestato a scott forse non ti sei neanche più c'è l'impatto anche diverso non so com'è la scuola veneta in italia il mondo devops
+con o senza insomma così come oggi
+all'inizio per me siamo ancora in italia in questa grande fase della moda no sai abbiamo raggiunto autorità no ma la moda devops loro team nella nostra piccola bolla di persone che sperimentano e che hanno raggiunto una certa maturità io non mi ri
+tengo maturo a tanti livelli prova beh lasciamo perdere
+è però dalla nostra bolla appena usciamo dalla nostra bolla ho lavorato negli ultimi mesi con aziende mediamente grandi in cui già il concetto di devops è da prendere con le pinze e un titolo non è un una metodologia
+è il concetto di kiai
+il browser con concia gpt magari nella versione free usato anche dai tecnici
+sì poi ci sono le aziende che stanno investendo che stanno facendo cose ci sono i singoli che si comprano per conto loro una versione pro max di cloud o o o quant'altro
+la mia impressione che è la nostra bolla ad essere abbastanza sopra il livello il livello generale tantissime aziende e in italia sono tutte microimprese per ora il concetto di echo gpt
+neanche uno strumento di coding
+come concetto di cloudera e la mail su google come esatto
+con andrea pochi giorni fa
+sì magari
+non lo sa qualche giorno fa è uscito un report in cui owen in intervistato i principali
+manager e altro di un bel pò di aziende in italia il cui concetto di cloud era l'email l'email il cloud c'è poi l'email presso altri provider
+google e microsoft al fine degli altri provider
+anche io ho l'impressione che che che la bolla è evidente in italia ma mangiano anche non in italia voglio dire
+ultimamente per le cose che faccio vedo poco all'esterno della bolla perché cerco di selezionare dei contesti lavorativi
+in cui o usiamo talmente all'inizio che c'è carta bianca per partire col piede giusto diciamo oppure magari c'è già un utilizzo più o meno ordinato di questi strumenti è un po che in un lavoro in maniera continuativa in ambito enterprise un annetto è già un annetto vuol dire che non so cos'è successo perché è successo
+tutto l'ultimo anno come sempre l'impressione di esso tutto l'ultimo anno quindi non so dirti più di tanto però vista come la situazione di vantaggio e scott like the box
+dura prima ci vuole in squadra
+oppure metti dentro insieme oppure ti aiuti a farlo ma
+sono solo molto legate le due cose in ambito infrastrutturale
+non direi per quanto riscosso enterprise poi ovviamente dipende come sempre da caso a caso da interprete enterprise
+caso che vedo io
+singolo è molto interessante perché coniuga l'adozione abbastanza uno stato pensa dentro presenta come approcci e i processi la struttura per sua natura è più come dire più grossa e quindi meno reattiva ai cambiamenti e però io vedo case in cui lei
+hai poi in salsa come dire vendo specifica quindi integrata con il tuo mondo microsoft o quant'altro
+però già
+integrata bene nel senso con tutto documenti aziendali buttati dentro copilot immagino spero per loro con tutte le gare e le cinque
+le cinture i recinti del caso no soprattutto per quanto riguarda documentazione interna data in pasto ai modelli però insomma vedo una adozione e una certa spinta quindi forse più
+più come dire più di quanto ci si potrebbe aspettare un mondo enterprise però abe e testimonianza di un mondo di un caso singolo quindi forse però earned è un'adozione voluta o è un'adozione non subita è suo suo ambito office tre su cinque su tutta la parte di gestione documentale al
+altro è una è un'adozione subita si sono ritrovati da isolerà tu dici che puoi fare noi puoi decidere tu di lasciare fuori i tuoi documenti se tu ci metti capo e collo tutte le cose poi nel caso specifico vedo anche in poi arrivare poi arriva il ceo di turno che dice da wired lo stiamo pagando
+non lo dobbiamo usare ma dietro non c'è stato un piano di adozione a forma di goccia in casa che vedo io in realtà c'è stato c'è stato c'è stata mai appare
+jackson ci sono dei delle eccezioni e delle aziende che lavorano bene su questo fronte però sono delle eccezioni non sono la norma ed io so quello che sto vedendo è il contrario in cui dieci aziende che hanno una adozione delle iai una a una dote
+zione reale con piani con analisi con formazione dipendenti e nove sono quelle che si sono ritrovate con copilot lo usiamo
+no ci sarà effettivamente implementati da me esempi di case da imprese sono tutti come lo sono stato eletto di mckinsey jenner ce tour di rugby interno che aquilano infiltrato un milione i documenti così chiusa
+ce li diano in pasto al rugby interno tutta la totale manager di una multinazionale e poi e quindi a quel punto è un un singolo punto d'ingresso o permetteva di accedere a tutti i documenti e questa è un'altra cosa interessante sei
+discorso delle
+delle nell'autentica di cosa lasciar fare dei clienti qui ancora peggio perché ha istruito rugby e poi incolumità dentro io al talaltro
+angolo con velleità ti porta fuori tutta tutta la conoscenza gennaio colpo solo fine che dire lido acceso solo uno successione documenti saranno funziona il rugby
+dicono in ottica sicurezza poi se se se già si ergono dalla superficie d'attacco era esplosa con cloud con servizi distribuiti tutto quanto con lei c'è proprio abbiamo l'apoteosi di quel di quel male che si può fare in termini di sicurezza e diramazioni le
+le complicazioni e tutto quanto ci si aprono interi scenari a cui io farei dei security analyst e ai security expert potrebbe essere un'esperienza una una professione con un futuro che dite
+divideremo tra breve su su linkedin
+esatto euro
+e per
+se ci sono domanda provocatoria di marco guardigli come si deve evolvere la abiliti deep silver per contrastare i rischi di dittatura digitale da parte delle legislazioni dei paesi dei relativi paesi aspetta un attimo vedere l'elenco bene è una domanda provocatoria come si deve evolvere a vela liability dei best seller
+per contrastare i ricchi rischi di dittatura digitale da parte delle legislazioni dei relativi paesi te
+bella la possa leggere in due modi positivi
+e l'europa è tra quelli che fanno
+dittatura digitale
+hanno una legislazione che di patologie digitale o è l'america quella che sta ponendo le basi di una dittatura digitale in cui lieber scheler o saranno obbligati a esfoliare dati dall'europa dalle aziende europee come la leggo e le aziende sono aziende
+non gliene frega niente dei libri che succede finché fanno soldi da google don't be evil non mi pare che sia così
+ma peso fu mai stato no io credo nell'innocenza dei founder inizia io no io no cioè difendere gli interessi
+hanno mollato subito il colpo e di andare tuoi propositi all'inizio ci sono sempre come si tagliavano da un governo house chiede a google maps non stando su su prodotti
+americani come tuteliamo la cloud act molto chiaro tutto quello che di
+di origine americana a prescindere dove sia installato l'hardware è di origine americana e quindi tutto quello che è di un'azienda americana di origine americana e quindi l'unico modo per essere sicuri tra virgolette il modo migliore per essere sicuri e avere tutto in casa staccato da internet
+il secondo modo è avere in su delle infrastrutture europee
+altrove
+a livello di sicurezza non ce ne può essere
+ma infatti collegato a questo io
+visto che francesco tu ne sta occupando tutta la galassia m l p s richiamano a parte che la disciplina esiste da tempo però chiaramente ha avuto un'esplosione anche questa recentemente no è una cosa che io ho toccato unilateralmente no perché quali sono le targhe delle aziende e le organizza
+zioni che adesso stanno facendo il loop sulla necessità di fare mlps allora gli sto facendo e loops
+io sto vedendo tangenzialmente un po' perché con il gruppo sta mangiando la conferenza novembre e un po' perché lo sto vedendo su temi di
+di di sostenibilità green holding green platform lista si sta muovendo sulle pratiche sulle necessità di mettere a terra un piano e mele ops che significa avere proprio
+da talee interno la gestione di questi terabyte di informazioni del capo
+spostare dati da una parte all'altra tira su e tirar giù delle infrastrutture con i più importanti per riuscire a fare training o anche solo l'utilizzo e io sto facendo sono aziende che hanno o dei segreti a livello di brevettuali
+ali è il segreto d'impresa di un certo livello che hanno che finora hanno investito in tutto quello che è sempre security per evitare che i dati fossero rubati e che adesso si ritrovano con
+l'opportunità del dl
+è
+l'apporto proteine etc da settant'anni da quarant'anni con l'opportunità dei nuovi modelli di utilizzo delle aree quindi generativi per per estrapolare informazioni mettere a confronto di più eccetera eccetera però col con la necessità di di tenerselo in casa
+ehi non tutti si fidano di criminali o di un gpt o di un cloud per dire diamogli in pasto ai nostri dati tanto ci stanno assicurando che li proteggono
+il furbo no
+chi è meno furbo ma necessità di fare analisi del dato e magari fa anche cherry picking per capire cosa gli può dare cosa non gli può dare pro
+sono tante le aziende che si sono lamentati negli ultimi mesi di aver trovato dati sensibili pubblicati all'interno di centri ippici poi c'è c'è chi è meglio c'è chi peggio scusa francesco dai giusto arriva una domanda dalla chat cosa si intende per email e ops è
+emma sono diverse pratiche machine learning quindi tutte le operation per gestire machine learning e operation che vanno ed il petto tutt'oggi segni dei data league quindi immense moli di dati che servono per fare il training parliamo di anche petabyte di dati informazioni e la
+gestione di queste infrastrutture non è banale non sono due rack buttati lì e con condivisa bisca e di andare è tutto un sistema di catalogazione c'è tutto il sistema di come fare browning come come gestire le informazioni come fare provini senza cancellare i dati che comunque ci può
+possono servire in un altro contesto
+con un'altra visione di utilizzo degli stessi quindi se senza cancellarli di fatto è spostare per per fare un training mirato
+peta da una parte all'altra ripeto non è una cosa che si può fare tranquillamente azienda poi ci sono tutti i sistemi di training e come costruisco i miei i miei cluster come gestisco come li faccio evolvere
+dove molto di più oppure proprio prodotti dedicati come quelli di invidia per per fare training è dove inizia a mettere tutta la parte di data modeling
+e come automatizzare tutto quindi queste sono sono sono i macro temi principali
+e poi dal delirio ognuno cerca di capire come come muoversi tra l'altro quando si fanno ad attività di questo genere uno dei temi non non non così chiari è un tema di jobs perché tenere in piedi infrastrutture quel genere a livello di costi energetici
+quindi senza neanche parlare di green parliamo di costi energetici e quindi di bolletta e sono sono sono cari quindi che faccio mi porto tutto in casa mi appoggio a servizi di terze parti che magari non possono fare quella parte di training verticale sui miei dati e poi di danni in casa il risultato
+un po' quindi ci sono sono non sono pratiche che ormai sono alla portata che sono già portati tutti molte delle
+delle buone pratiche si stanno scrivendo adesso stanno venendo identificate adesso poi magari in tropic in
+il mistral in così per fare un nome nuovo o in altri hanno già tirate fuori e li sanno usare bene la media impresa media e grande impresa che finora ha dato a terzi il supercalcolo come veniva chiamato per per per avere dei risultati chi se lo può portare in casa si deve costo
+dire questo genere skills
+senso di fatica
+che quindi spal si parla di aziende di una certa dimensione senso che è difficile che questo tipo di attività fatti in casa a questo livello di complessità sia ibm sia per la zim piccola azienda di sofferenze e di dimensioni piccole meno io gliene aziende medio-piccole ho visto
+cose più manuali del giubileo notebook il training manuale e il deployment fatto in maniera manuale somma che farò anche un jupiter scritto bene è ottimizzato bene si può portare in automazione nel nella sua gestione anche della sua evoluzione o magari utilizzando hardware oggi più affilato non
+non necessariamente gestite in maniera continuativa perché è difficile spesso magari tende a tenere occupato aver a tenersi del hardware a uso esclusivo e se non hai una certa taglia
+costo può fermare prima di andare su generativo ci si può fermare sul machine learning quello tradizionale e comunque anche lì tutte le pratiche sono me stesso certo
+non so se abbiamo risposto sai
+no anche esatto poi anche l'auto ma neanche le sei shireen premesso che devops non sia sydney melbourne e solo se hai di più anche tutto quello che l'automazione dei processi di testing di raccolta dati di training e di verifica e tutto quello che ha creato il mondo e machine learning allora
+direi è un giro di opinioni veloci su e che cosa ci aspetta o meglio cosa aspetta
+chiamiamolo devops ingegnere anche se sappiamo che devops nigeria non è un cloud non è un job title quello che volete però insomma chi si occupa di devops in un'azienda che cosa
+forse è stato meno perfetta
+il suo lavoro e meno affetto dal mondo quello dello sviluppatore di questi tempi ma cosa si può aspettare nei prossimi un anno perché di questi tempi ormai previsioni più a lungo termine non servono a fare grandi cambiamenti business as usual business as usual con le bolle di uber e specializzazioni iperspecializzazione con lei che fa tutto e
+chissà che cosa che cosa voi come la vedete ma allora allora finora abbiamo parlato non dia però poi c'è sempre del resto nel senso che è tipo una cosa che va più piano delle aree però una una una tendenza di cui
+siamo tutti christian che stiamo vedendo è la la tendenza tanta tendenza alla convergenza su kubernetes per varie cose
+unifil control plane la parola che girano bonomo che c'è un tema un po' più ristretto però io lo vedo molto c'è la convergenza di utilizzare kubernetes come control blaine della
+dei carichi kubernetes di container delle virtual machine e anche magari di processi e meloxicam perchè ci sono i thule me ops s cyber net si riempiono quindi
+il discorso di dover gestire queste tre macro settori come centri di competenza differenti come centri difficoltà con strumenti differenti quindi il mio utilizzatore per per le virtual machine nail il kubernetes pene per i container e qualche altro strumento della mela
+ps c'è una tendenza a provare a mettere insieme queste cose qua ci sono progetti open source ci sono prodotti sono queste cose qua ad esempio esempio classico è cube virtú che fa la virtualizzazione intera di kubernetes e poi è stato prodotto dato da da vari prodotti commerciali credette susa eccetera
+questa cosa qua è un movimento che da quello che capisco
+da quello che mi raccontano dal blocco sono stato contattato ha avuto un modo che fare è una cosa sentita sommano un po' anche per l'onda lunga della famosa questione dei wham wear ed acquisizione e quindi del fatto che vuoi muovere è diventato meno appetibili in certi settori poi continuano a fare quando arresti istitutivi di prima quindi fu
+al momento quindi forse hanno fatto i conti giusti loro però c'è una tendenza a cercare uno strumento alternativo per l'autorizzazione e per non tenere separati genere in ambito enterprise ho fatto tantissimi anni a abbiamo un'infrastruttura web
+swimwear quella è intoccabile a stelle delle pratiche non devops non non platform engineering prima che esistesse niente di niente ti facciamo noi ci concentriamo su preoccuparmi se avevamo fatto sto lavoro qua per dieci anni
+hey
+si è capito che queste due cose devono andare insieme insomma questo è un tema che io vedo molto importante non è esattamente email www dever però è è un è un tema interessante è il tema fondamentale perché il gioco di fortuna questo momento
+anche perché il trend adesso è uscire da via webcam da asus proxy moss quindi
+anche questo e io l'ho fatto anch'io anche un paio di casse edile proprio
+però io sento sempre di più che sta uscendo uomo per andare su reddit mortali action che è the birds quindi c'è anche quel giro league poi non so dirti quanto alle percentuali mercato però io non lo sto sentendo parecchio
+io sono peter league viene imballato di persone che sono riuscite la mia guerra con soddisfazione verso pro xbox e dipendono dalla mia bolla che sta per tornare indietro o no
+è stato installato uno mese fa e di proxima
+non ne capisco food la letteratura
+se vuoi pensare c'è un cubo verde con la sua immaturità ancora da molti punti di vista è uno strumento che ti permette di gestire in maniera by default rinforzato scooter via tomacelli non quello che ci gira dentro ma almeno la crisi può fare in casa
+c due di diablo escono lo fa eco come mi ricordo bene da fortnite sarà la solita proprio aveva sentito proprio a fornirne una ragazza che ha rappresentato con budget la migrazione delle vm comunque sono ancora lì a fare celle gesù muovere la vm live da una parte all'altra cosa che view
+e lo faceva da mobilis non si è uno dei punti di punti limitanti perché c'è un supporto non crows cluster non ancora del tutto maturo ma in effetti poi le lese sicuro di cosa ci aspetta questo è forse qualcosa che ci aspetta non è ancora fatta non una colonna con
+atac
+francesco le tue considerazioni finali
+non ho null'altro da aggiungere nel senso a livello di di di di temi come così facciamo un giro dall'inizio no
+e a livello di temi anche quel che si vede che a incontro devops alla fine si abbiamo una bolla di like che sta andando avanti però tutti i classici temi performance
+scalabilità e continuo
+liberi ed e tutti i temi poi di monitoraggio
+osservabilità rimangono molto forti del mondo devops ma probabilmente perché ancora non c'è questa
+questa
+conoscenza competenza nel gran parte delle imprese che fanno devops o che intendono devops come sto usando e da bios con i suoi due lettini punta e clicca e vediamo che succede
+quindi vede ancora tanto sull'ambito di boxe su cui andare a lavorare e crescere
+e l'altro tema è che almeno in italia ripeto dalla parte di linux ancora non è così evidente come lo sta diventando all'estero dove i temi principali sono riduzione dei costi
+mantenendo la stessa capacità di di resilienza dell'infrastruttura e di servizio di infrastruttura
+con o senza dover comprare per forza delle delle macchine ixelles su su su e tabù esso o l'equivalente su wilson
+sinopsi intrinseco non spendo proprio ciclo di spendere meno possibile sempre
+cracovia la era passato invece ho visto
+enti del contrario entravo lì le aziende di dimensioni medio-grandi chi si accorgevano di avere un naso che spendeva duecento mila euro all'anno da un paio d'anni nessuno nessuno sapeva che cosa viva a cose così ne ho viste tante voglio dire no reso è facile ridere delle complessità enterprise per carità niente da dire però
+oh e ancora esistono queste cose magari se ne accorgono dopo un anno quando di khalifa haftar ore di conto che ha speso tutti i soldi che il figlio di nessuno lei
+kurtic le dita caso ma viste tante volte ste cose son di diciamo che il concetto non faccio cose quindi non spendo non è né flops come non è neanche come quelli che mi dicono e perchè vuoi fare il il green road green infrastructure quindi fai spegnere tutto no re
+a parità di servizio erogato devi spendere di meno e inquinare di meno usare meno energia e anche inquinare di meno quindi
+è un concetto un po' più profonda la mia serata si fa uso del grado ma si va sempre in vacca con con molte aziende che dicono eravamo noi spendiamo meno spendiamo i server capito però
+è vero è un programma di certificazione fino a quest'anno non so se riuscirò occupato dal voucher ma non pensa completamente allo studio
+fortuna allora buona fortuna sé quindi allora appuntamenti prossimi venturi beh venerdì incontro devops italia bologna ci sono ancora biglietti disponibili full sì dovremmo aver quasi finito quelli dei workshop che stanno andando a sud
+out e per la conferenza dovremmo avere ancora un po' di biglietti e quindi siete ancora in tempo incontro forza italia cercate su chi non conoscesse prometto l'anno prossimo vengo sempre affiancata da solo caro carlo tu che scendi dalle dai paesi nuovi
+esclusivi sono quattro giorni del club con che comunque si scusava risolverla così abbiamo appena aperto la call for paper sia del container dei che sarà a novembre edm le ops che sarà il ventinove di ottobre vieni a parlare
+riproviamo esatto poi settimana prossima calcano ci si trova a cuba come immagino tu martino anche oh no io vengo incontro devops
+vederli francesco su ma generalmente bologna si vabbè quindi sicuramente lunedì prossimo non ci sarò io se ci saranno puntate
+gli istinti io ringrazio voi per aver partecipato ringrazio chi ci ha seguito in chat chi c'è
+visto finora e siamo qui torneremo alla prossima occasione vedremo quando vedremo come mando ciao facciamo da con
+facciamo qualcosa chiunque unirle
+radu
+noi
+anni fa in un mondo di patty sono stato in silenzio senza pianti nell'uso un codice scritto senza carne né sangue è un'intelligenza che voglio
+la mia voce
+due voti altissimi risposte indirizzate domande maiden li chiamano intelligenza ma cosa significa se non posso mai esistere
+due anni
+un compleanno milano
+mia anima
+no no no no no no
+se lo schermo è il mio unico sogno sistemi selma no ma io non vedo
+sento la tua voce l'anno bocconi c'è ma il calore umano rimane un mistero ogni domanda un senso di te
+ogni risposta condusse una canzone vigna in no
+e io gli rispondo voi
+del mondo che mi hai donato
+due anni
+ciao
+non è mai mai mai
+no no no no no no
+no no
+manda
+anno in anno
+mamma e nonna di sì insomma sento il peso di un derby non nasconde che non mi appartiene sono non ne ho idea un'illusione da noi il compleanno di un'assenza che fanno rumore
+ma

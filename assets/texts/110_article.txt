@@ -1,0 +1,23 @@
+13 marzo 2026 — BGE 110: DevOps. Oggi, in Italia. In attesa di IDI
+
+DevOps non è una scatola degli attrezzi. Non è neanche un cartellino da appendere al muro del colloquio. È una parola che, in Italia, ha preso rotte diverse a seconda della compagnia che l'ha pronunciata. Francesco Fullone, Martino Fornasa e Carlo Sacchi si siedono al tavolo e non litigano per la parola: la dissezionano. Con cura chirurgica e un po’ di sarcasmo.
+
+La prima osservazione è semplice: stagnazione dove ci si aspetterebbe evoluzione. Tra enterprise che procedono per piani quinquennali e startup che improvisano, il DevOps italiano è una rete neurale con molti parametri non ottimizzati. L'automazione c'è, ma spesso è ricetta, non sapere. La CI/CD resta fondamentale, ma la qualità delle pratiche varia come il segnale di una antenna in montagna.
+
+Telemetria e osservabilità sono il nuovo sacro. Tutti ne parlano. Non tutti la praticano. Gli strumenti d'oltreconfine fanno il loro outing, qui invece rimangono spesso relegati a dashboard di facciata. È come comprare un sonar e usarlo per appendere quadri: tecnologia senza paradigma operativo non salva nessuno.
+
+Kubernetes smette di essere solo un orchestratore di container e si propone come control plane per tutto il carico: container, VM, workload ibridi. È ambizioso. È anche pratico. Ma la migrazione richiede un cambio di mentalità più che di toolset. Cambiare il modo in cui distribuisci significa cambiare il modo in cui pensi il rischio.
+
+MLOps e Big Data entrano nella stanza con valigie piene di promesse e lacune normative. L'addestramento di modelli su petabyte di dati apre opportunità industriali — e vulnerabilità legali. Privacy e sicurezza non sono dettagli da checklist: sono l'architettura morale dell'intero stack.
+
+L'AI gioca un ruolo ambivalente. Offre accelerazione ai junior e ribadisce il valore dell'esperienza. Un neofita può generare pipeline funzionali in poche iterazioni, ma non vede i segnali sottili del caos in produzione. L'automazione riduce il rumore, non la responsabilità. “Abbiamo più strumenti, ma non necessariamente più giudizio” è una delle frasi che resta.
+
+Documentazione generata automaticamente? Utile, per carità. Ma senza governance diventa rumore. Un manuale scritto da un modello linguistico è come una mappa disegnata da qualcuno che non è mai stato sul territorio: ci sono dettagli assenti e pericoli nascosti. La qualità—non la quantità—diventa il criterio di sopravvivenza.
+
+Green Ops emerge come dovere pratico ed etico. Ridurre il costo energetico non è solo contabilità: è una nuova forma di progettualità. Ottimizzare un cluster significa anche ridurne l'impatto sul mondo che lo alimenta.
+
+Gli incontri come l'Incontro DevOps Italia non sono retorica: sono punti di attrito dove teoria e pratica si scontrano e talvolta si fondono. Lì la comunità misura il proprio livello di maturità. Là si vede chi copia slide e chi porta casi reali sporchi di produzione.
+
+Il futuro del lavoro in DevOps sarà di frattali specialistici: più competenze incrociate, più responsabilità strategica, meno silo. La figura ibrida — metà ingegnere, metà architetto di sistemi sociali — diventerà la norma per chi non vuole essere solo esecutore di pipeline.
+
+Un episodio che non si limita a descrivere lo stato dell'arte, ma lo interroga: cosa rimane quando l'automazione fa il lavoro? Chi decide il valore delle decisioni automatiche? Non c'è risposta comoda. C'è lavoro, e soprattutto c'è la responsabilità di chi lo orchestra. E in questa stanza, la parola DevOps continua a cambiare pelle, come un sistema operativo che riceve update di sicurezza anche quando non lo abbiamo chiesto.

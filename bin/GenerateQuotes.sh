@@ -72,8 +72,8 @@ for FILE in "$DIR"/*_points.txt; do
         LLAMA_TXT_FILE="${FILE%_points.txt}_quote_llama.txt"
         EPISODE=$(basename "$FILE" | grep -oE '[0-9]+')
 
-        # Check if the txt file already exists
-        if [ ! -e "$LLAMA_TXT_FILE" ]; then
+        # Generate when file is missing or empty (e.g. previous failed run)
+        if [ ! -s "$LLAMA_TXT_FILE" ]; then
             # Run the summarise script
             echo "Generating a quote for episode $EPISODE to $LLAMA_TXT_FILE"
             $SCRIPT_DIR/GenerateQuoteLLama.py "$DIR" "$EPISODE" > "$LLAMA_TXT_FILE"

@@ -51,5 +51,15 @@ completion = client.chat.completions.create(
 #print(content)
 
 for chunk in completion:
-  if chunk.choices[0].delta.content is not None:
-    print(chunk.choices[0].delta.content, end="")
+  # Some providers emit terminal/usage stream events with no choices.
+  choices = getattr(chunk, "choices", None) or []
+  if len(choices) == 0:
+    continue
+
+  delta = getattr(choices[0], "delta", None)
+  if delta is None:
+    continue
+
+  text = getattr(delta, "content", None)
+  if text is not None:
+    print(text, end="")
