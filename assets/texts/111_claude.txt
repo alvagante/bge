@@ -1,0 +1,33 @@
+# Panel Therapy: quando parlare di inclusione diventa parte del problema
+
+Il 2024 ha battuto ogni record: più panel "Donne nel Tech" che mai. Eppure i numeri di rappresentanza femminile in engineering sono rimasti fermi come un deployment bloccato in staging. Non è ironia. È diagnosi.
+
+La Brigata dei Geek Estinti torna con l'episodio 111, ospitando Giulia Naponiello, Valeria Salis e Aurora Burroni per un dialogo che non celebra, non demolisce, ma **ragiona**. Senza gli hashtag autocelebrativi della diversity week, senza le foto corporate di stock che sorridono davanti a un Mac.
+
+## Il pipeline problem: scusa o sintomo sistemico?
+
+C'è chi parla di "pipeline problem" come se il problema fosse a monte — poche ragazze che studiano STEM. Ma se il tubo perde da decenni, forse non è colpa dell'acqua. È il tubo che va rifatto. E chi l'ha progettato così?
+
+Il vero dato non è quante donne *entrano* nel tech. È quante *restano*. Perché molte abbandonano la nave prima degli uomini? Le culture aziendali non sono neutre: sono campi minati dove il bias non serve dichiararlo per esserci. Basta un "sei brava... per essere una donna" per capire che il complimento è sabotaggio linguistico.
+
+## Linguaggio inclusivo vs. inclusione reale
+
+Le parole non sono neutre. Costruiscono realtà. E il linguaggio che usiamo nel tech — meritocratico sulla carta, escludente nei fatti — perpetua stereotipi che le quote rosa da sole non possono cancellare. Perché le quote funzionano se modificano la cultura, non se la aggirano.
+
+Come osservava Wittgenstein: *"I limiti del mio linguaggio sono i limiti del mio mondo"*. Se continuiamo a dire "developer" pensando solo a figure maschili, il mondo che stiamo costruendo è già distorto al punto zero.
+
+## Open source, sostenibilità, networking: le battaglie sotterranee
+
+Tra i temi trattati nell'episodio emerge anche il legame tra IA, sostenibilità e responsabilità tecnologica: modelli giganteschi che bruciano energia come data center in fiamme, mentre si pubblicizzano come "green". Perché l'inclusione passa anche da qui: da chi decide cosa sviluppare, come, e a che costo ambientale.
+
+E poi c'è il networking — non quello LinkedIn con emoji cuore, ma quello vero: comunità che si scambiano codice, esperienze, fallimenti. Progetti come il [Manifesto Italiano Donne Tecnologia](https://www.manifestoitalianodonnetecnologia.com) o iniziative come [MAS - Matematica al servizio della città](https://www.unisi.it/unisilife/notizie/progetto-mas) dimostrano che l'alternativa esiste. Non fa rumore, ma funziona.
+
+## Role model o marketing ben confezionato?
+
+Quanta parte della narrazione sui "role model" è sostanza e quanta è performance per investitori e PR? Le storie di successo ispirano, certo. Ma se diventano prodotto confezionato per keynote sponsorizzati, perdono credibilità. L'esempio positivo non è quello che brilla su un palco: è quello che condivide fallimenti, pull request rifiutate, progetti naufragati.
+
+Come ricordava Simone de Beauvoir: *"Non si nasce donna: lo si diventa"*. E lo stesso vale per chi lavora nel tech: non si nasce inclusi. Lo si diventa — se il sistema te lo permette.
+
+## Futuro senza filtri
+
+Nessuna conclusione ovattata. Nessun lieto fine preconfezionato. Solo una domanda: siamo pronti a smettere di parlare *di* inclusione e iniziare a praticarla? Perché il dibattito serve solo se non div
