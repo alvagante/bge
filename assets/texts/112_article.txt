@@ -1,0 +1,15 @@
+29 aprile 2026 — BGE 112: Ritorno al Darkweb. Tre parole che suonano come un avviso di sistema: aggiornamento critico richiesto. Qui la Brigata non scende solo sotto la superficie. Si scende dentro un ecosistema che ha smesso di comportarsi come “luogo” e ha cominciato a comportarsi come agenzia autonoma.
+
+Lì l'anonimato non è più una condizione, è un prodotto. L'intelligenza artificiale non è più un martello nella cassetta degli attrezzi. È un capomastro che riscrive i progetti. Marketplace che non dormono. Protocolli che eseguono transazioni senza intermediari umani. Modelli che generano phishing in tempo reale e identità sintetiche capaci di imitare la presenza sociale meglio di un truffatore addestrato. Non chiamiamolo più “amplificare il rischio”. Chiamatelo industrializzare il crimine.
+
+Michaela Odderoli e Roberto Dal Brun dialogano su questo cambio di paradigma con la calma di chi ha visto il codice trasformarsi in architettura sociale. Micheala porta l’occhio della ricognizione — vedi il suo pezzo su KawaiiGPT e GitHub —; Roberto porta il calibro dell’operatore di sicurezza che misura il perimetro dove il rischio diventa danno. Entrambi convengono su una cosa: le competenze tecniche sono democratizzate. L’hacker di un tempo era artigiano; oggi l’attacco è una catena di montaggio accessibile.
+
+La novità è duplice e fredda. Primo: mercati decentralizzati che operano come organismi autoprodotti — smart contract, bot, reputazioni algoritmiche. Secondo: l’AI come intermediario anonimo che impara da noi per ingannarci meglio di noi stessi. La distinzione tra umano e macchina smette di essere utile. Diventa un dettaglio amministrativo.
+
+Da qui emergono implicazioni morali e strategiche. “Quis custodiet ipsos custodes?” non è retorica scolastica: è protocollo operativo. Chi monitora i modelli? Chi valuta le decisioni prese da un agente sintetico? Quando la difesa diventa anch’essa un codice, il codice diventa politica. E la politica, nel dark web, si scrive in Python.
+
+Sul fronte pratico, la discussione sfiora infrastrutture e accesso fisico — perché il perimetro non è solo digitale; è rack, porta, badge. Il problema non è soltanto fermare bot sofisticati. È imporre scelte progettuali e controlli normativi prima che gli algoritmi stabiliscano ciò che viene vissuto come “normale” nella sottorete.
+
+Il tono dell’episodio è clinico e sarcastico. C’è lucidità tecnica. C’è inquietudine filosofica. C’è la sensazione che stiamo osservando un ecosistema che non vuole più essere domato: vuole essere compreso, monetizzato, replicato. Per leggere la mappa di questo territorio, iniziate dall’articolo di Michaela: https://michaelaodderoli.com/il-darkweb-vive-su-github-e-si-chiama-kawaiigpt/
+
+Il dark web del 2026 non è una caverna: è un laboratorio che produce mercati, identità e norme. E quando il laboratorio si automette, l’etica diventa un processo in tempo reale. Chi si prepara a rispondere non è solo l’ingegnere della sicurezza. È chi ha il coraggio di ripensare cosa significhi essere umani nello spazio che le macchine hanno smesso di chiedere il permesso di abitare.

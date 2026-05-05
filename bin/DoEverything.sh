@@ -16,6 +16,9 @@ $SCRIPT_DIR/ConvertMP4toMP4Timebolted.sh "$EPISODES_DIR"
 bold "Converting timebolted MP4 files to MP3 files in $EPISODES_DIR"
 $SCRIPT_DIR/ConvertTimeboltedfromMP4toMP3.sh "$EPISODES_DIR"
 
+#bold "Converting MP4 files to MP3 files in $EPISODES_DIR"
+#$SCRIPT_DIR/ConvertfromMP4toMP3.sh "$EPISODES_DIR"
+
 bold "Converting MP3 files to TXT files in $EPISODES_DIR"
 $SCRIPT_DIR/ConvertTimeboltedfromMP3toTXT.sh "$EPISODES_DIR" "$GIT_DIR/assets/texts"
 
