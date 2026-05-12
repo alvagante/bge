@@ -1,0 +1,3 @@
+We need to produce a short, memorable quote (max 150 chars) based on the provided text. The text is a podcast description about Elixir and Phoenix LiveView, with philosophical and poetic language. The quote should be invented, not attributed to anyone. It should capture the essence of the described paradigm: less API, more continuity; less orchestration, more intention; future anterior. Keep it concise, impactful, slightly punk.
+</think>
+Il futuro anteriore non ha bisogno di API: il DOM è solo un effetto collaterale.

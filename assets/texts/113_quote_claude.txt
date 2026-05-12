@@ -1,0 +1,5 @@
+```
+Il frontend ha sempre mentito:
+Phoenix LiveView è solo il momento
+in cui abbiamo smesso di credergli.
+```

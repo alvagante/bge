@@ -1,0 +1,1 @@
+Il futuro anteriore non ha bisogno di API: il DOM è solo un effetto collaterale.

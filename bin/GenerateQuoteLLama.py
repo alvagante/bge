@@ -32,7 +32,7 @@ messages = [
 # Nvidia Build Inference
 base_url = "https://integrate.api.nvidia.com/v1"
 api_key = os.environ['NVIDIA_API_KEY']
-model = "meta/llama-3.1-405b-instruct"
+model = "meta/llama-3.3-70b-instruct"
 client = OpenAI(
   	base_url=base_url,
     api_key=api_key,

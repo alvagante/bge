@@ -1,4 +1,22 @@
 #!/bin/bash
+
+# Auto-detach so the script survives SSH disconnects.
+# Set BGE_NO_DETACH=1 to disable this behavior for debugging.
+if [[ -z "${BGE_NO_DETACH:-}" && -t 1 ]]; then
+    LOG_DIR="${HOME}/.cache/bge"
+    mkdir -p "$LOG_DIR"
+    TS="$(date +%F_%H-%M-%S)"
+    LOG_FILE="$LOG_DIR/DoEverything_${TS}.log"
+    PID_FILE="$LOG_DIR/DoEverything_${TS}.pid"
+
+    export BGE_NO_DETACH=1
+    trap '' HUP
+    setsid "$0" "$@" >>"$LOG_FILE" 2>&1 < /dev/null &
+    echo $! > "$PID_FILE"
+    echo "Detached. PID $(cat "$PID_FILE"), log: $LOG_FILE"
+    exit 0
+fi
+
 #BGE_DIR="/Users/al/Library/CloudStorage/OneDrive-Personal/BGE"
 BGE_DIR="/home/al/rclone/onedrive/BGE"
 GIT_DIR=$(git rev-parse --show-toplevel)

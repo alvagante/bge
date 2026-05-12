@@ -1,0 +1,734 @@
+ma il senso della macchina
+mi son tre nessuna attesa
+ma solo messaggi che scorrono
+ma come sangue nella rete
+mikey
+mikey abbiamo costruito
+javascript fragili compromessi
+finché illusioni di controllo
+mentre il caos
+la verità non è nel browser processi che non dormono
+nella memoria del fallimento che ogni volta
+qui la morte è solo stato
+supervisione un abbraccio
+rumore binario
+cosa
+io
+face
+oggi
+nella continua
+ma so che da parte
+connessioni che non sono
+una confessione ogni realtà abbiamo ucciso
+di cosa parliamo
+parliamo senza intermediari
+attività dichiarano noi abbiamo udito e scalato concorrenza reale non simulata il campo è solo un pattern interpretato
+nostra religione poi
+siccome cade si rialza più
+doppia proiezione
+verità
+decorazione
+caso
+distruggere ciò che
+costanza prego
+poeta abbiamo visto
+usare centrale
+no
+merito
+grazie
+messaggi
+modi
+grazie
+e quindi siamo arrivati alla puntata centotredici applicate dagli istinti stasera parliamo di elixir fenix erlang la bimba e tante bellissime cose e lo facciamo con due direi grandi esperti del settore
+e a cui lascio subito la parola per una breve introduzione e fate voi gabriele inizia tu che sei entrato per primo io sono gabriele lana io faccio il libero professionista da sempre è praticamente diciamo che il mio lavoro è quello di aiutare le aziende migliori
+rare la qualità del software prodotto in generale
+in realtà nella pratica significa che spesso intervengo per risolvere magari situazioni disfunzionali in cui si è perso un po' il controllo di quello che
+si sta sviluppando sì che dico sempre il mercato si sta allargando adesso allora
+ma infatti io ci spero molto in questa c'è il servizi mi hanno dato tanto lavoro l'applicazione sbagliata la metodologia agile ma ho avuto tanto lavoro spero tanto l'intelligenza artificiale per l'ultima l'ultimo tratto prima della pensione e niente cioè questo è quello che faccio
+di mestiere aiuto le aziende a venire fuori magari un pochettino dei guai o per gestire magari dei progetti particolarmente impegnativi
+per ragioni diverse tipo sono arrivati dei finanziamenti piuttosto che delle grandi svolte una base di codice che magari non è pronta per incontrare determinate modifiche determinate sfide e mi chiamano per dargli una mano ebbe sempre lo basso profilo gabriele che tu cadrai da
+venticinque anni bazzica in programmazione in italia non ti conosco un po' tanti insomma quindi ma comunque è
+francesco allora
+francesco italo-svedese
+una volta presa la laurea sono finiti in svezia ho incominciato a studiare informatica lì sono venuti in contatto con un linguaggio nel novantaquattro
+che nessuno aveva mai sentito parlare si chiama averla e avendo usato governo che avevamo fatto esercizio
+qualche mese dopo avevamo un altro corso di oggi cruenti programmi con un unico agisco eiffel
+abbiamo dovuto fare lo stesso esercizio ecco
+un insegnate abbastanza pigro e quindi ecco
+riciclato quel che quelli di un collega e facendolo
+stiamo sperimentando con cui programmi eravamo in due e ci abbiamo messo il triplo del tempo a risolvere lo stesso problema è questo
+la regione
+a quel punto che noi avevamo fatto una decina di linguaggi all'università ma mi ha aperto gli occhi e mi ha fatto capire che per ogni problema è c'è un linguaggio preciso e specifico che ti aiuta e ti rende molto produttivo quindi a quel punto ero una tesi e le tesi in svezia si fanno
+spesso
+come con una ditta come compagnia quindi ho preso il telefono e ho chiamato centri della ericsson che aveva inventato questo il linguaggio kernel o che debba andare un gioco di vetture
+il linguaggio è immediatamente due settimane dopo l'intervista e mi sono ritrovato a fare la tesi con lui e sono stato tre anni quattro anni in ericsson
+nel aiutando
+a sviluppare i propri sistemi di banda larga quindi lavoriamo con adsl
+novantasette facciamolo streaming
+laboratorio per testare tutto
+internet protocol sui
+sulle reti via cavo fibra ottica qui in italia
+spostate un'altra parte
+l'aereo di roma e un'altra parte
+un'altra parte del
+lo sviluppo e facilitano e dieci di wimax e nel novantanove
+dato le dimissioni sono andata a londra sperava quindi stadium sei mesi di ferie
+non sei mesi ecco prima di andare a cercare lavoro e invece nel giro di tre giorni è arrivata a londra e avevo già il primo cliente
+bisogno di aiuto nel giro di questa è la prima
+un anno dopo che era diversa
+rilasciato come open source
+erano quattro gatti che usavano fuori dalla ericsson nel giro di tre settimane ai miei clienti
+e allora andiamo diventate lean production e e da lì ecco ho scritto diversi libri plurimi
+abbiamo aiutato aziende in tutto il mondo con l'adozione del bim e abbiamo cercato di rendere governo popolare e con risultati abbastanza buoni dovrei dire considerando che era così nick
+e da lì
+l'ho lasciato lucio
+due settimane fa ora quindi
+sono di nuovo indipendente e spero ora di crediti
+e libertà prima di cominciare con il prossimo progetto social mille progetti e piccoli ecco con cui sto mi sto
+sto divertendo ecco ecco perdendo un po' di esempi abbiamo aiutato ditte tipo che so what say quando ancora erano in tre e nemmeno avere un ufficio in cui eravamo ecco a starbucks a mountain view
+per aiutarli abbiamo aiutato la sisco che oggi a elio
+oggi dell'ottanta ottanta per cento detti tutto l'hardware che che che
+che vende carl che ti controlla tutto abbiamo usato abbiamo aiutato la mastercard con i pagamenti sepa che su tutti i neri in diversi paesi del mondo e poi ovviamente elixir e colonne di luce quando aveva sondato il settanta per cento che facevamo
+helix leggo e quindi se queste caselle york e il background utile grazie è una leggenda del mondo erlang mi sentirei di dire per quello che dai
+esterna ho capito è bene allora erlang elixir un ignorantone come me io mi sono un po' informato nel frattempo però vogliamo spiegare un attimo tanto di cosa stiamo parlando e anche un po' le differenze felix da erlanger quali sono i punti in comune il ponte le piccole differenze che possono essere qualcuno che
+chi vuole fa un riassuntone io posso incominciare un po' con elena gabriele tu forse ecco prendi elixir è
+kernel fu creato dalla erickson nei primi anni novanta era la soluzione a un problema stanno cercando di capire come possiamo programmare la prossima generazione di switch adele adele
+telefonici e
+e dopo due tre anni che facevano diversi prototipi e si sono resi conto che c'erano un sacco di lingue di programmazione che avevano caratteristiche che è buono ma non ce n'era una che aveva tutto perché cercavano e a questo punto ecco l'idea fu di joe armstrong invitiamo la nostra noto di linguaggio lui era lì un po de
+debitori il visionario è e quindi a e hanno incominciato a lavorare con prototipi
+stanno proprio facendo prototipo di un software e se qualcosa se ufficio li aiutava ad essere più produttivi e riduceva il codice lo tenevano se fucile ed era carino ma non
+non serviva a niente non toglievano e quindi hanno creato un linguaggio molto potente allo stesso tempo molto semplice e a quei tempi non esistevano
+programmi di informatica quindi erano matematici erano fisici e persone che avevano studiato un po' di matematica o di linguaggio di programmazione e quindi è importantissimo poter insegnare in
+in quattro giorni quattro cinque giorni equo e alla fine del quarto giorno gli studenti arrivavano sapevano niente alla fine quattro giorno avevano programmato il loro street con i telefoni proprio tu che riuscivano a riuscire a chiamarsi l'un l'altra così ai primi anni novanta e e a questo punto
+uno pensa a qualcosa sono i sistemi telecom sono sistemi che non possono mai fallire quindi alzi il telefono
+linea fissa e sentivi sempre tu tu dall'altra parte lo dovete sentire per legge
+perché
+anche nei casi dei disastri
+è un'emergenza devi sempre poter chiamare il centotredici e quindi ecco in molti paesi per lega con il sistema di telefonia fissa non può mai andare giù e quindi creavano sistemi equi quindi questa è relativo il secondo e tutte capodanno ecc negli anni novanta il il telefono si chiamavano esattamente a mezzanotte e si esiste
+ed ecco si auguravano buon anno e quindi questo crea opere uno spreco enorme di utenze e
+è il sistema non poteva casale doveva riuscire a
+modo deterministico a rispondere a tutti ecco e quindi questa è la seconda esige il terzo è che erano sistemi molto complessi
+è
+e questo edificio se poi e quindi è scalabile distribuiti e
+è arrivato l'internet qualsiasi sistema collegato all'internet aveva esattamente gli stessi features
+e quindi è questo è questo è quel che ho fatto che è sopravvissuta e ancora oggi va molto forte ecco perché è stata usata proprio per creare l'infrastruttura
+che che usiamo oggi interessante
+vuoi aggiungere gabriele aggiungiamo il pezzo di elixir of
+qual è il rapporto ma allora mi piace perché c'è sempre un fil rouge che collega le tecnologie c'è chi ci gravita intorno a certi tipi di tecnologie e si sentono in qualche modo affine perché esattamente nel modo pragmatico in cui è nato erlang
+cellula è nato per un'esigenza ingegneristica cioè è nato per risolvere un problema ed è stato valutato anche nella sua bontà e capacità di risolvere quel problema perché gli amici della ericsson volevano fare i soldi volevano risolvere fisicamente un problema se non fosse andato bene l'avrebbero cassato c'è questo questo esperimento
+perché se non mi ricordo male francesco comunque era il dipartimento di ricerca e sviluppo della ericsson usato usato il computer di bordo tour esatto se guardiamo la storia di valentina che è l'autore di elixir c'è lui aveva un compito all'epoca era quello lui lavorava era molto era dentro nella community
+che ruby in particolare race e s'era messo in testa di parallelizzare cioè di far scalare orizzontalmente race no e si era messo un po' a spippolare con gli internal di questo framework all'epoca
+comunque sempre complicato complesso con un linguaggio di programmazione che
+che non era nato proprio per fare quel tipo di cose lino gli è venuto talmente tanto il mal di testa e ha cominciato a cercare un po' in giro e si è dimesso a leggere questo libro dal linguaggio isabel wix dei bar dave dei pragmatica esatto e blu
+dall'altro lato biblioteca d'italia e viene a roma staten poi domenica a quelli per un paio di giorni e freddo se volete salutarlo e mandatemi messaggi ci facciamo un caffè uno dei colpevoli di questa storia è praticamente avesse messo a leggere uno di questi capitoli
+era dedicato erlang è la battuta che ripete sempre valido quindi la ripeto anch'io parafrasandolo un pochettino e
+mi è piaciuto tanto quello che ho visto non mi è piaciuto quello che non ho visto cioè gli è piaciuto tanto l'infrastruttura la filosofia tutto quello che stava dietro erlanger è la vera con molti correr esatto cioè tutta quella roba lì dice
+ci sono venuti gli occhi a cuoricino anche perché parrish esatta e picchiava perfettamente per risolvere il problema che voleva appunto risolvere gli è piaciuto quello che ho visto e immagino fosse diciamo un ecosistema di turing che viaggiava magari la sintassi non gli è piaciuta tantissimo io dopo se volete vi racconto
+anche beyoncé la sintassi non ha mai avuto
+bookmark
+pannolini quindi io no
+in molti ce l'avevano io no ma continuo ad apprezzare la sintassi di erlang devo dire la verità è però c'è tutta la parte di turing io adesso francesco di scomuniche rada la dalla chiesa di erlang lautamente non no la prima volta ti racconto questa che è da scomunica io
+la prima volta che ho messo in produzione e ho iniziato a programmare in erba nel duemilaotto perché
+anche qua enna problema da risolvere io dovevo fare mi era capitato questo lavoro dovevo fare un server per un videogioco erano i primi anni della folla si facevano ancora un bel po' di soldini con programmando gli indie developer a programmare i giochini adesso
+ci sono budget milionari cioè gli indi stanno veramente poco ma all'epoca si facevano dei bei soldi praticamente c'era un mercato per questi sviluppatori di videogiochi che volevano però fare il multiplayer cioè quindi volevano avevano dato questo questo progetto da fare e per cui avevo un ep hai molto preciso
+vorrei leggere diecimila giocatori contemporanei era il duemilaotto cioè quindi diecimila i sicché il
+sicché era un target di riferimento per molti server all'epoca anche per questioni di genere
+generica ram availability dei server e mi sono messo a farlo ho detto cos'è e come lo faccio come lo faccio inizio a programmare in java usando il framework con il new era venuto fuori non tanto tempo prima con mi sembra che sia ma a seminyak c'erano tanti framework per fare questo
+oh questa gestione diciamo
+migliore della bella io non ce la facevo non ce la facevo e così magari andiamo in uno degli argomenti è il problema principale è che a un certo punto quando andava a sotto carico certo punto mi partiva un'eccezione che non si sapeva da dove arrivava io lo faccio
+che perché era un prototipo quindi cacciavo l'eccezione che mi arrivava dal framework e la stampavo su standard output questa cosa qua provocava all'interno del framework una pausa tale per cui arrivavano altre eccezioni cioè si scatenavano altre eccezioni che io alloggiavo che scat
+altre eccezioni veniva giù il server mani nei capelli oddio cosa faccio cosa non faccio e sono andato a simone borden che uno dei delle persone che conosco più esperte del settore che è uno di quelli che sviluppano oggetti da vent'anni a questa parte che è uno degli archetipi server del mondo java gli dico guarda quasi sicuro che sto sbagliando
+cosa di banale ho detto perché non può essere una roba del genere poi le performance non erano neanche così stellari mi fa no no guarda stai facendo bene o male tutto però puoi provare questi flavio puoi provare queste cose ho detto no dio cioè mi sembrava già miei stessi spingendo ai bordi di quello che si poteva fare io ero l'onu
+hanno dai miei capi e stavo leggendo il libro di armstrong pubblicato nel duemilasette ai pragmatici programma a rio bello fresco me lo stavo leggendo suonato dal mio committente gli ho detto senti persa per persa in cina lo voglio programmare ci voglio tornare agli arbori della mia mettervi lì è dove gest
+dire determinate cose nuovo cambio una settimana proprio questa roba il resto è storia è andata molto molto bene ho fatto due anni a programmare server di videogame da lì in poi e quindi sempre questo questo pragmatismo della risoluzione di problemi pratici che ha guidato va lì ma
+ho preso questo gli è piaciuto questo linguaggio ha visto che i tool non era moderno quando io ho deplorato il primo server di videogame non sono stato in grado di fare una release cioè le release nel mondo di erlang sono qualcosa all'epoca di tramandato di generazione in generazione siano veramente
+mistificato io nel mio secondo libro ma non è stata facile guardare
+immagino sia arrivato un po' tardi rispetto alle mie esigenze ho detto se io come lo deploriamo il mio primo server io sono entrato sul server ho aperto una sessione di screen sono entrato nella cella di erlang ho fatto application start o chiuso screen
+ne sono andato era stato super due anni non gli ho fatto mai niente era stato super due anni dentro nello screen e non hanno mai spento il server non è mai successo niente su elster mi ricordo ancora che non serve e questo e questa storia ecco magari m'ha detto magari è
+stato un po' più bravo di me io c'è queste cose le ho affrontate in maniera molto più molto più diretto è molto più sporca lui ha detto no no no no assolutamente questa cosa dev'essere fatta e ha costruito erlang elixir che un linguaggio di programmazione che devo dire
+con grandissimo gusto da parte di walk-in ha mantenuto uno stretto contatto con quello che c'era sotto non l'ha snaturato gli si è appoggiato sopra un linguaggio di programmazione che compila per learning virtual machine compila per una forma intermedia nella lost la stessa forma che viene utilizzata da erlang
+può condividere sostanzialmente codice e come i vari linguaggi che vengono supportati dalla dalla virtual machine è lo stesso lo stesso concerto red dot net
+sì sì lo lo stesso concetto e quindi con un'ampia un enorme interoperabilità fra fra i due linguaggi guida si è creato il suo bel linguaggio con una sintassi che se potete vedere un po ammicca un po' strizza l'occhio a rubi da cui si
+si vede un po' questo questa connessione si di valium con un il linguaggio e con la community dopo le similitudini si fermano lì ha cioè c'è proprio uno spazio ottino di sintassi ma neanche più di tanto poi tutto il resto e non c'entra assolutamente niente e ci ha messo tu
+i tully che poi non c'erano cioè io mi sono fatto sono stato massimo
+le lacrime
+ti interessa avere un colpo di genio secondo me perché ecco
+tutti le sue letture attuatori dubbi che venivano venivano a me questo sembra familiare come il linguaggio esatto senza rendersi conto che ti cambia completamente il modo di pensare ragionare ma questo te ne rendi conto dopo che hai fatto il tuo primo deployment ok ecco e quindi già investito un bel po' negli
+pararlo quindi è stato un modo per gradi
+aprire le porte a una nuova generazione di sviluppatori e nell'ecosistema è vero è vero ha creato qualcosa di più familiare e più usabile ci ho messo dentro un framework di test dal giorno zero ci ha messo dentro il touring per fare le realizza tanto tanto detestate da sotto
+scritto
+cose di questo genere ha organizzato il modo in cui a qualcuno sviluppa tutto cose che noi ecco nel decennio ho cercato di fare il modulo kernel ma non ci riuscivamo perché lavoriamo con l'enterprise quindi entravano ed era completamente accettabile che stavamo due settimane a integrare in tutti i tools di lei
+l'ise di sviluppo che aveva già deciso il cliente ho nemmeno pronto e deciso una persona con non dirigente tecnico
+con tutele con tutte le loro direttive ecco e quindi non
+noi avevamo tutti i tools elixir facevamo il package manager nel duemilasei nel duemilaotto avevamo il nostro mix secolo si chiama taxi anziché rosina non li usava nessuno perché
+ugg era un sacco di clienti and bros è diventata integrati nel world locali avevano e quindi purtroppo anche se il sistema non
+no non funzionava ma non non venivano accettati e che quindi non c'era l'adozione necessaria
+per ricostruire ad usarli
+quindi allora riassumo da ignorante condivide elixir con erlang la virtual machine su cui girerà la bimba è che molti degli come dire dei principi base di scalabilità concorrenza e questo lett grecia che paul
+devo dire un leitmotiv no al fatto che
+i processi possono processi è la parola giusta forse no e possono crescere continuamente però ci pensa un supervisore farli ripartire se necessario
+e è tipizzato le elixir è dinamico
+on the night live oak e
+sì ma stanno creando ora un sistema di tipi che si chiama www kipling ed è un modo che ti permette
+di inserire
+statico in certe parti del codice ma non in altre perché non è possibile avere
+coprire con cento per cento tutto il linguaggio
+per via di alcune decisioni di design che hanno avuto
+oceana townsend
+se farai
+stavo proprio oggi preparandomi mercoledì avremo un
+registriamo un podcast binder gundam
+le abbiamo inviato un mese e mezzo fa e dove proprio ebrei di omnibox che sta scrivendo il come parte del suo dottorato esisteva questo caso taiping questo sistema
+taiping assieme a me tieni usa delle professoresse l'università di kaiserslautern che lavora con la parte harlan è stata diventano vuoti tutto iniziò proprio oggi guardando eco ed ella ha avuto da sempre un
+è un dinamico quindi non
+non trovi anche tutti i bug airpods durante
+la fase di compilazione ma allo stesso tempo
+usando supervisor della croce lati gratis
+sono cose ecco che uno deve coprire lo stesso e quindi non non ha creato
+grossi problemi tours scioccati quelli ecco che sono abituati a sistemi statici ma
+non ammettere che baustelle hanno lui stesso sul furgoncino o diversi da quelli
+leggo a ognuno le suoi bug allora intanto faccio la prima domanda la prima domanda che arriva da livio e chiede se erlang è un vero linguaggio ad alto livello e più verso un linguaggio di alto livello o barcode tipo linguaggio intermedio di dot net
+allora eh
+e da
+dai primi anni novanta hanno si sono resi conto che dovevo dividere il
+sbarco si dice impegnata con un goto lavorato con reale concorrenza box news
+concorrenza quindi i processi quindi abbiamo tutti i processi è resi conto che lo devono dividere dal sistema operativo
+molto molto presto ecco perché i sistemi operativi a quei tempi non riuscivano a scalare ai livelli ai gol di cui avevano bisogno loro e quindi hanno creato una macchina virtuale è
+e creando questa macchina virtuale ecco il codice viene compilato in italy e che poi viene interpretato dalla macchina virtuale da un sei sette anni
+c'è un ciclo heider
+che che così ti vede quali sono i posti hot spots e te li compila in night e dal dai con aumenti di velocità è molto molto impressionanti ecco ma lo è un ecosistema esattamente come don't need to come
+giava e come l'ecosistema giava dove
+un totale un edile trentacinque linguaggio di programmazione e trentacinque quaranta linguaggio di programmazione che sono stati creati che funzionano sul bikini di cookie qui è nessuna conoscenza
+domanda venuta in mente al volo ma possono coesistere nello stesso momento sulla stessa bimba
+diversi linguaggi sensi
+se sei felice kernel e elixir quando lo compili
+compila e nella nave
+qualche anno l'intermedia italy le cellule weightworld quindi
+tutti ecco creato il bytecode non possono essere eseguite avere allo stesso tempo la villa virtual machine interpreta il bytecode quindi indipendentemente da dove da dove è arrivato cioè che tu hai compilato un linguaggio piuttosto che un altro sono sostanzialmente indistinguibili però la cera
+la cura è stata che la kirkland virtual machine va un pochettino un po' oltre per avere determinate proprietà va un pochettino un po' oltre per esempio rispetto alla g m cioè ha un po sistema operativo un po' come ha detto francesco soprattutto anche da un punto di vista dei datasheet
+disponibili cioè mettere le cose in regola e mette le cose in ordine mette i puntini sulle i cioè determinate cose magari per poterle se tu fai un linguaggio di programmazione senza tenere in considerazione che andrai a fare avere come target l'irlanda virtual machine magari qualcosa la fai fuori dal secchio
+oh mi fai qualcosa che poi difficilmente può andare sopra la kirkland virtual machine e ti dico una cosa che per me all'epoca è stata assolutamente sorprendente no cioè tutti i kernel del dvd di erlang cioè tutte le diciamo guidata tipi che sono rappresentabili all'interno del linguaggio una una stupidata sono totalmente ordina
+abili fra di loro cioè l'ordinamento dei datasheet è stabilito all'interno della bimba poi dice ma che c'entra c'entra perché qualsiasi cosa tu possa rappresentare all'interno della bimba tu la puoi mettere in ordine c'è quindi se tu hai una struttura
+dati o qualsiasi cosa spesso e volentieri l'ordine e lampard lo sa bene nei sistemi distribuiti a qualcosa di importante potevo ordinare indipendentemente da chi l'ha prodotta una sequenza di termini e ti arrivano da un mondo e ti arrivano dall'altro io comunque li posso ordinare e una propria
+sta di base che è stata cablata dentro nel dna della piattaforma e quando ti serve e poi dici ah caspita questi quale hanno pensato veramente bene ma che bella roba no e quando tu progetti un linguaggio di programmazione cioè il valium della situazione ci ha guardato
+bene ha progettato un linguaggio di programmazione quello che ben si appoggia alla kirkland virtual machine e ti inventi un linguaggio di programmazione senza guardare quello che c'è sotto chiaramente lo puoi fare ma tante cose poi devono essere interpretate non possono essere diciamo portate direttamente in b
+god ma un bytecode che rappresenta qualcosa che può dopo dopo dev'essere interpretato da chi non l'ha fatto ed è stato molto intelligente infatti ha avuto
+è diventato la ruota non ha reinventato la ruota non l'hai inventato la ruota e quindi ecco vediamo elixir un pò come un wrapper attorno a kirkland
+con pro tools che è così a cui usa un modo di lavorare una metodologia di lavoro la possibilità del pacemaker frank end
+gli sviluppatori web erano abituati ad usare ed è questo che ha creato
+un linguaggio molto molto più popolare del dylan noi eravamo di max sue bernal c'erano ma uno deve avere un master in informatica riuscire a fare un design un sito web leggo e quindi non
+non hanno mai preso ecco anche se
+uscivamo e sullo stesso hardware avere dieci volte più traffico che apache per esempio
+molto molto più dolorante
+allora quindi il gpt che ha scritto il titolo elixir è il linguaggio che ha letto erlangen capitolo il destino ci ha acchiappato e sotto certi punti di vista
+bello è stato romantico è stato davvero un titolo da chissà chi
+è venuto fuori
+le cose belle fanno cose più poetiche arrivano le
+e avete parlato di web e a questo punto bisogna domandare e fenix e in tutto questo contesto come che cos'è e come si pone
+poi liviu per perché poi mi spiegate bene la differenza c'è la che cosa fa cosa non fa bene a me spiegare
+allora beh chiaramente quando è nato elixir è stato è stato un lavoro molto incrementale e lo è tuttora cioè il linguaggio sta evolvendo molto lentamente ma in maniera molto molto corretta sempre molto pragmatica nella risoluzione dei problemi e anche lì problema dopo problema è i
+cortina
+di elixir ha cominciato a reclutare per risolvere diciamo problemi che potevano essere ben risolti utilizzando elixir e la bimba uno di questi era appunto lo sviluppo di applicazioni web mi ricordo tante volte arms
+strong che ha detto non me l'ero mai immaginato erlang nel mondo delle applicazioni web poi ci ho pensato un attimo effettivamente cases
+agenzia allo stesso tempo se fai lo switch di pagine web o di telefonate pur di azioni o di soldi o di sms o messaggi whatsapp la logica è la stessa ecco due che cambia è la sussume cose che camerun qui
+quantità di dati
+è la seconda ecco quando
+lo stress
+meno soldi o
+azioni non puoi perdere rispetto deve avere tutta la tracciabilità se perde un messaggio whatsapp un semestre accettabile
+quindi non non importa come ma la logica è era è quella
+e mi sembra strano che abbia detto
+non avrei mai pensato al web perché noi a quello stavo stavo proprio computer science laboratory facendo la mia tesi
+loro per imparare a t e perché japigia implementato nei loro server
+leggere
+è tollerabile erano liberamente ad un passo nel novantacinque stavo
+implementando i miei windsurf
+poi andava a cambiare e
+che dirige quindi era proprio eppure la prima versione di autoimpiego questo vecchio è diventato inez
+era parte di tipi quello rilasciato come open source perchè tutti e tutte le consolle dell'operation marvel erano tutte fatte sul web dagli anni dal novantasette in poi ha collocato in poi e diciamo che in quel periodo lì non esisteva ancora
+il modo per fare applicazioni web con elixir esistevano esistevano scusate webserver scritti in erlang i cowboy c'era anche uno di un id in italiano di ostinelli chiami su showtime sia esatto
+c'erano diversi è sempre lì nel con molto gusto se mi posso permettere ingegneristico va lima ha detto facciamo
+una dapper e ha chiamato plug
+c'è quindi un layer di astrazione che
+poteva
+agganciarsi a diversi webserver ripeto all'epoca scritti direttamente in erlang da cui anche interoperabilità cioè si capisce che anche quando c'era nessun problema quindi se questo blog che si poteva certo un clima siviglia adatte ai diversi web server e tuo post
+devi cominciare a usando quella dell'interfaccia chiamiamola così alle applicazioni web cominciare a sviluppare c'era gladio è praticamente la dapper verso il webserver più un piccolo staterello di routing quindi il il sinatra rubi della
+situazione ha il flash
+kiton della situazione cioè un piccolo strapperei quello sopra sopra il webserver questo è stato il primo passettino ovviamente c'è l'appetito vien mangiando perché uno dice ma se vado vado in python c'è giango se vado su rubi c'era su elixir cosa c'è non c'è
+lei muore e ti aiuta e da cui parte la la west che non è ancora finito perché lo sviluppano tuttora parte lo sviluppo di unix linux come webserver con tutte le diciamo a batterie included
+per sviluppare applicazioni web parallelamente mi sembra prima
+nasce anche hector che diciamo è il modo in cui le applicazioni elixir diciamo il più famoso per interagire con il database anche lì con molto gusto in maniera diciamo seguendo la filosofia funzionale ma senza andare nell'estremo
+di determinati tipi di linguaggi per cui ti servono mesi per capire che cosa sta succedendo c'è quindi un immutabilità hai un modo di gestire il rapporto con il con il database
+ha delle buone caratteristiche del mondo funzionale ma non è over complicated
+e così nasce nasce phoenix phoenix per un po di tempo
+propone modi di fare di fare applicazioni web fintanto che
+però non aveva inizialmente sfruttato diciamo al cento per cento le capabilities della bimba se non
+il web server che c'era dietro
+che ovviamente faceva gestiva in maniera opportuna le connessioni tcp quindi ti dava già di per sé la possibilità di scalare in maniera
+orizzontalmente bene dal giorno al giorno zero per se ti possa bene l'idea nel due mila e dodici gennaio duemiladodici whatsapp pubblica un blog post dicendo ah ecco facendo dei cambiamenti a fibbie e alla macchina virtuale
+bim siamo riusciti a raggiungere due milioni di di siti web questo nel duemiladodici quindi parliamo di quattordici anni fa ora è
+qui tutti questi cambiamenti che hanno fatto sia nel bim
+che i cfd sono solo quelli del bimby sono stati ecco
+sono stati reintegrati e pure lo stesso è successo con i sistemi operativi ecco tutte le idee cambiamenti sono diventati rientrati nei video che sembra creativi non mainstream linux e quindi nel duemilaquattordici se non è credere nel duemilaquattordici
+sono riusciti ad avere su un'istanza amazon due milioni di websocket aperti simultaneamente su un'istanza
+tim quindi
+è come dire
+qualcuno in senso bimby e
+ed è questo proprio il potere ecco che hai ereditato i pixel quindi ora fini e
+un'infanzia bimbo puoi avere due milioni connessioni e si son fermati a due milioni perché il problema era con amazon e infrastruttura il network non gli permetteva
+ecco più e pecore e quindi sono rimasti bloccati
+whatsapp che controllava la sua rete che controllava il hardware
+il sistema operativo
+loro eco già nel duemiladodici beatrice riva a tre milioni di connessioni qui le milioni di utenti collegati simultaneamente scusate una domanda però diversamente tre milioni su diversi sistemi non solo perché se no c'è uno uno uno una macchina virtuale ma ma non puoi avere una so
+certo sessantacinque mila e otto i socket in un singolo sistema poi oltre le porte non ce l'hai più a disposizione come funziona la cosa e ce ne sono ogni connessione per me una sorta nella mia testa e una forchetta con una porta client porta server aperta e no no e soprattutto soprattutto sulla
+stessa corda tutte sulla stessa porta vero lato server stasera porta quindi un uccello sessantacinque km zero
+sicurezza la grossa differenza con mangiava e che ogni websocket è un processo che che la tiene finché questo processo il dito questo websocket aperto ecco
+questa è la costa inglese quindi l'unica cosa che devi fare è pensare a una a un websocket singolo e poi eccola ne vai a creare tre milioni due milioni e automaticamente eccoti il sistema di zizzi si scala così quindi scusate per capire una fan net start
+quella macchina avere tre milioni di righe ne vede una e tutte le connessioni esistenti così cloud dei client
+allora qualcuno vede scusa allora un gruppo il uno vede
+bene fin qui correggimi qualcuno vede una macchina virtuale quindi il bim quindi non vedi prezzi su betway vedi solo i reds nella macchina virtuale che uno per ogni corda o ma tutti i processi sono interni nella macchina virtuale se però è stato vedi le connessioni di rete quindi con le società aperte sulla porta ottanta
+quattro quattro tre e la porta remota clark recupero corese e quindi di una per ogni connessione l'isola in listening che sono quelle che ascolto
+quando ti connetti no quando ti connetti con il cliente ovviamente c'è la tua society che ti connette con il client è quindi di tre milioni se ha poca
+e allora fango
+e nicola fiorillo scrive della cat abbia una differenza pratica fredda girava rosneft ed angela possibilità di osservare qualsiasi istante all'interno lo stato la bimba questa me l'hanno anche fatta veggie ho visto cioè uno può anche cambiare in real time il codice della
+volendo ci sta una cosa pazzesca no
+è molto interessante e invece livio chiede e la bimba può girare sua scrittura intel amd arma anche altre architetture allora se
+uno fa porti alla macchina virtuale su queste architetture la risposta del sindaco è spesso costituito addirittura
+demo operative sono
+posix compliant è molto semplice fare il port ecco
+diventa un pò più difficile con
+un sistema operativo embedded real time ma ma è sempre possibile farlo ecco
+so che c'erano aziende che hanno tentato di portare dietro la bim super metal cosa di questo esiste esistono delle stesse sia la più redditizia
+quindi colgo time
+esatto allora per un programmatore vero che non sono io che magari già sa scrivere in java magari picton sono questi linguaggi
+quali sono gli scogli mentali con quel che cosa deve
+come deve cambiare il cane setter della sua mente per haftar completamente eco cambia completamente il modo in cui uno pensa della programmazione ecco perché all'improvviso in un processo diventa il tuo e così il tuo mattone tuo sistema consiste da più di un sacco di processi che interagiscono
+l'un con l'altro quindi uno deve incominciare a pensare in un modo non solo parallelo ma
+con cui inglese che aveva concorrenza dove c'è un processo per ogni attività parallela ed è così che fa il disagio il tuo sistema quindi questo credo sia
+il primo il primo salvo che uno deve fare è il secondo
+imparare con tutti gli aspetti dei linguaggi funzionali sono stati impiegati nei blog er
+hanno fatto studi a dieci volte meno codice di un sistema simile residence chip più o in java
+nel via di tutte queste
+strutture dichiarative create
+di tutte queste strutture e costrutti costruttive dei dichiarativi che vengono dai linguaggi di programmazione funzionali e logici quindi il pollo è quindi una cosa che molti hanno problemi e il partner marcel e a capirlo una volta
+piti
+riducono il codice drasticamente un po' qualcuno ci mette un pò e poi paraguay e quella tersa e la ricorsione
+e perché con me non ci sono loops uno fa tutto con funzioni ricorsive e i processi di moduli in vita perché sai
+sai brucia eccetera ecco queste funzioni ricorsive che continuano a chiamarsi e aspettando che il primo messaggio entro le banche che poi possono processare queste secondo me sono sulle cose principali
+ecco che
+che di norma uno choc copre inizialmente qua capannoni parka erlang elixir de li nascondono tutte quindi noi ecco
+masters in informatica senti facciamo le cose difficili una volta imparate qui il resto è tutto facile e quindi insegniamo proprio queste cose ed è perfetto se hai un insegnante in classe il problema arriva quando la gente vuol imparare da scuola e quindi si trovava proprio un muro e lì e quindi è per l'adozione
+è la stessa egli si dà un sacco di queste cose nascoste e quindi diventi produttivo senza dover capire il e senza dover capire la ricorsione e vengono usurpate macingo fai in un modo inizialmente operativo e poi pian piano lo prendile e lo capisce la com
+ma poi
+impara a un piccolo subset di elixir
+poi puoi usare ecco inviare o puoi creare applicazioni phoenix
+in poche ore
+ti dico dico due cose la prima c'è un aneddoto c'è proprio la prima volta che ho scritto il sangue per i videogiochi io con il programmatore del gioco mi ero fatto questo
+protocollo binario ashton perché poi ce ne stiamo parlando di videogiochi eravamo anche un round trip cioè dovevamo mantenerci sotto un round trip di un determinato di un determinato tipo sotto i duecento millisecondi e quindi diciamo che ogni pezzo di informazione contava quindi già il protocollo
+da proprio binario cioè se ti dovevo comunicare uno stato che era fatto di due possibilità io ti mandavo cioè dedicavo un bit della sequenza binaria per darti quell'informazione no e ci eravamo fatti su su un pezzo di carta lo schemino del dittico di questo protocollo quando ho sviluppato la versione
+in erlang erlang come elixir ha la sua sintassi nel pattern matching per definire sequenze binarie se tu gli dici guarda io
+trentadue bit che sono fatti così e comincia a descrivere i trentadue bit quello lì lo metti in un posto appropriato
+immaginatevelo come se fosse uno switch case arriva la sequenza binaria e questi questi switch queste definizioni di sequenze di bit dove puoi andare a specificare il singolo bit vengono marchiate quando la sequenza binaria che arriva
+segue il pattern indicato puoi metterci delle variabili mezzo che vengono automaticamente attribuite a quel pezzettino di codice binario di di di di sequenza binaria che hai indicato lo puoi giocare nel resto c'è nella nella
+esatto e cioè alla fine quando ho finito di svilupparlo il pezzo di codice erlang che implementava protocollo
+era identico al foglio di carta che delle specifiche del protocollo stesso cioè praticamente ciascuna lingua e sintassi leggermente differente ma era praticamente uno a uno con la specifica che mi ero scambiato con con il programmatore del gioco è questa cosa qua c'è fa il paio no
+con il discorso del il pattern matching è vero che può essere ostico la prima volta che lo metti consideratelo uno switch case o steroidi
+ma quando te lo tolgono vai su un altro linguaggio di programmazione che non ce l'ha poi piangi perché effettivamente diventa una delle armi e ridurre la carriera di oz qua in sette righe
+hanno un pacchetto ip la questione quattro in sette righe dell'ordine fanno il decoupling in sette righe di codice quindi non è più vedi vedi qui i primi quattro bit sono la versione amp che dev'essere un macro quattro sono le quattro andiamo da qualche altra parte la lunghezza altri quattro bit
+il surf of the beat full lenght lunghezza dell'intero pacchetto sedici bit identificatore tredici sedici bit tre bit mask che sarebbero eccetera eccetera eccetera quindi in sette righe
+e questa è la specificazione di unaids finché non è
+quindi
+poi anche dirgli come interpretarli di talenti and big endian cioè puoi anche andare veramente
+nel dettaglio di come sono fatte queste cose in maniera molto pragmatica anche nel fare il coding poi c'è cosa viene attribuito a quelle variabili li puoi anche andare nel dettaglio stavamo parlando del
+the windsor ormai stavo scrivendo quando ero
+quando sto facendo il mio master da web server
+cultura qualcosa
+academy tipi zero nove in due pagine di codice quindi due pagina quattro di codice c'entrava tutto il web server
+ed sheeran ecco in parte grazie al parco macchine che dirigeva tutto il beach in texas a quei tempi non esisteva ma il pattern matching creava dove facevi anche cose simili era lo potevi fare con gli streaming ecco che ti entrava beh mi sembra un ottimo esempio di quello che stiamo dicendo
+questo quaderno da gama come dire rappresenti
+esattamente quello e vi dico quella che per me è stata la più grande difficoltà c'è poi per entrare nel mondo erlang prima ma elixir no c'è elixir se devo dire la verità ai primi momenti l'ho anche un po' snobbato perdonato ma chi sono questi giovincelli che arrivano a inventare cose
+programmatore natìo erlang jazz
+snobbati per un po' poi mi sono ricreduto ma
+la difficoltà principale perché socialmente erlang così come kernel così come elixir è fatto di due componenti principali la prima è la programmazione sequenziale questo linguaggio funzionale con il pattern matching che abbiamo detto
+che è da una parte e poi un top o comunque insieme sono quasi ortogonali c'è la parte della de dei processi e quindi come faccio il design del codice da una parte e come faccio il design dei processi dalla mia applicazione dall'altra infatti una parte
+polarità è una best practices del mondo erlang elixir che praticamente non c'è da nessun'altra parte è quella di fare una furbata è quella di per esempio sviluppare le librerie a due strati sviluppare la libreria che si occupa chiamiamola
+la business logic cioè prendo un assente di questa sera andrea d'andrea leopardi che ha sviluppato la parte client ftp nel mondo nel mondo elixir c'è lui ha praticamente c'è di sviluppi la parte di parsing o di gestione dell'acqua tipi come se fosse
+atto di una struttura dati o manipolazione semplicemente di strutture dati cioè tu sai lyrics west cioè il responsa hai una connessione che all'interno la so quando io devo fare per esempio non lo so il parsing del body io mi prendo una struttura dati dentro c'è il body ti restituisco la struttura da
+ati con il body passato c'è tutta questa roba qua viene fatta netti in una parte della libreria o addirittura in una libreria la parte di me organizzo la gestione a processi di quello della parte coinvolta da questa app
+plicazione lo faccio da un'altra parte perché è una furbata perché la parte più variabile di tutte cioè applicazioni diverse possono dover gestire in maniera diversa quella parte lì è la parte più delicata è una delle parte più difficile se vogliamo molliamo
+a dirla tutta già per dire quando voglio far partire una chiamata che ti tipi stiamo parlando client facciamo partire una chiamata http quello lì è un processo nuovo tutte le volte dipende magari sì magari vuoi limitare la capacità
+delle della della del numero parallelo di chiamate in uscita che stai facendo per quella ragione quindi magari ti va meglio un connection pooling un processo pooling che gestisce diciamo queste socket client in uscita c'è quindi magari uno ce l'hai am bound non ti interessa
+niente tutte le volte un processo nuovo da un'altra parte potresti avere connection pooling o altre altri modi di gestire diciamo
+il parallelismo
+perché ha a che fare con le prestazioni la scalabilità la latenza tutta una serie di caratteristiche per cui le specifiche dalla cateti pino non c'entrano niente c'è quindi ti fai la parte di specifica la parte di codice da una parte poi ci monti sopra a d
+diversi tipi di gestione dei processi e questa era una cosa ecco che
+già negli anni novanta metà degli anni novanta abbiamo capito con qualcosa che si chiama voti quindi nemmeno network di sembravamo proprio i processi tutte le cose generiche che deve vedere da un processo all'altro quindi inviare il messaggio aspettare una risposta
+creare timeout salvare lo stato da una da una scuola all'altra e
+è questo ecco che questi patti mettevamo che creavo qualche groupie airlines e
+il codice generico lo mettevamo nel goldbet modulo quindi era l'unica cosa è che lo sviluppatore doveva pensare così mi arriva messaggio ix faccio questo il messaggio inps non faccio quest'altro e ileana
+proprio la manutenibilità del codice
+e diventerà facilissimo mantenere il codice diceva pure con i tempi e tutto il codice che gli sviluppatori devono scrivere e cipolla
+ci fu uno studio all'università di new world dove
+pagato dalla motorola dove diedero all'università un'applicazione scritta in chip più e hanno detto questa è una delle applicazioni che veniva usata per le chiamate di emergenza
+quando la rete telefonica e raggruppi di questi sistemi radio
+uno poteva fare più chiamate criptate e quindi i volumi di chiamate non erano alti ma è importantissimo ecco che il software non perdesse mai ecco quindi che potessero poter inviare e ricevere messaggi e fare chiamate
+su questa rete e di scrivere tutto in harlan e si misero a contare ogni riga di codice per capire
+cosa faceva il codice e e scoprirono ecco che ad esempio nel codice del chip più il venti per cento del codice era running e codice detersivo mentre l'equivalente nel nel sis sul sistema kernel era del tre
+nessuno lì e avrei tolto il venti per cento del codice
+che iscritto e con in modi diversi assumendo ecco che tutti questi di edwards facevano parte delle the goldbergs di earl sorridete alla conclusione che erano una gara venti volte meno codice
+coerente chip più perché c'è più più questi templates e questo modo di programmare non esisteva e quindi per ogni progetto dovevano ricreare e rigettarsi la ruota i cicli è stata inventata una volta e impacchetta e perché si chiama up dove c'è il supervisore cerco sesso che si collegano al supervisor i processi hanno
+puoi avere il
+i times jerry bruckheimer avere failed states machines puoi bere quel che chiama allow us
+in elixir si chiama broadway dove vai
+ecco che arrivano eventi che di cui dirò più dure alla volta e poi puoi pure creare i tuoi avios
+rivedendo il codice generico e specifico quindi scrive una volta e poi riutilizzi facendo sulle cose specifiche da terra e questa è una vera era una filosofia che
+ecco l'esempio che ho dato prima saranno suicidi di chiamate pagine web soldi o azioni o sms la logica è molto simile e quel che cambia è che sono reale
+abiti da
+volumi e cose del genere e che quindi usando proprio questi concetti uno molto velocemente può sviluppare e fare il deploy del codice
+esempio abbiamo parlato prima di rendering e abbiamo parlato adesso chiaro ranging di pattern matching così questo genere cioè tu immaginati anche nei tab system cioè la furbata del pattern matching c'è in così come in elixir ogni funzione può avere si dice più teste e quindi
+tu puoi ripetere la stessa funzione con lo stesso nome ma con alterne diversi
+e come lo sai c'è il solito discorso dello switch case no e quindi tu ti metti lì il pattern se la chiamata di quel lancio
+l'oggetto comunque i dati con i quali hai chiamato l'input con il quale hai chiamato quella funzione mecca quel pattern diviene invocato quel body altrimenti passa sotto e ordinato passa sotto passa sotto passa sotto fintanto che c'è se non se non trova niente allora lì scoppia
+qual è la furbata è come se tu facessi una sorta di
+contract based testing perchè tu sei molto preciso nel tuo pattern praticamente stai dichiarando quali sono le precondizioni di chiamata dalla tua funzione o quello in un certo senso è una sorta di non è non è tanto programmazione difensiva però è come metterci
+dispone all'inizio no mai passato l intero santo che lì è naturale e naturale è espresso direttamente nella sintassi del linguaggio compatto si legge bene e quindi è anche promosso al programmatore l'utilizzo di questa cosa che ti porta diciamo in man
+era molto pragmatica stia a gestire
+le condizioni di errore che è praticamente la clausola finale quella della chiocciola oppure addirittura non metto niente perché non mi aspetto niente a ciò che crescere il mio processo ci penserà il mio supervisor e anche lenisce la mancanza dei tipi perché in un qualche modo
+modo se il pattern ammucchiato comunque li imputa la forma che dicevo io cioè o comunque fieri che richiedo io e c'è un errore e cui lo stato è corrotto o come lo risolvi e così lo stato d'accordo al giorno
+non non non
+riparte esaltanti reato è riaccesa usato il processo gracia e e quindi se una che si sta occupando un semestre una chiamata uno perde quella chiamata prende quel processo ma tutti gli altri ha smesso di altre chiamate non vengono influenzate continuano ad eseguire come se non fosse
+ente e lo diciamo da ted cruz ma non vuol dire
+poi ce ne freghiamo è un modo di occuparsi degli errori diverso da quello di cui la maggior parte dei programmatori sono abituati perché con il supervisor nota a qualcosa determinato uno tre un blog quindi un umano può andarlo a vedere
+oggi radio agenti it holding e allo stesso tempo
+c'è la possibilità di ricreare questo processo quando questo processo viene ricreato cerca di ricreare lo stato ma andando proprio alla fonte e con la speranza ecco che chelsea è stato una corruzione da qualche parte e ritorna dalla fonte questa corruzione viene risolto
+e quindi può continuare ad eseguire ed è così che
+isolando proprio questi errori e dando la possibilità di di san fior come diciamo in inglese di guarirsi da solo
+uno crea sistemi ecco che come ho detto gabriele suo due anni dopo ancora vanno avanti e funzionano
+vi giro un paio di domande che arrivano la carta allora livio scrive mi ricordo che avevo ascoltato un podcast di santo maggio se non ricordo male che diceva che per condividere informazioni se devo usare un processo apposta al quale si riferiscono i dati credo che si parli di come passero stato da un processo all'altro è esatto cioè qui qui quest'anno
+un concetto che poi fu preso da molto
+dove smunto agli oggetti gli oggetti non condividono memoria e comunicano l'un con l'altro in diagnosi messaggi in ellen e elixir una processi i processi non condividere memoria e quindi è solo il processo che può cambiare
+lo stesso statua in sua memoria è è quindi quel che uno fa due uno zero messaggi uno copia i dati da un processo all'altro quindi è un modo molto naturale per pensare
+pensa che noi siamo in tre in questa chiamata ognuno di noi al suo cervello e ora sto parlando con voi e voi ricevete i miei messaggi di processati buttatevi ecco quello che non mi interessa ritenete quelle cose che trovate interessante e ritenete la vostra copia nel dna
+nella vostra mente e non lo condividiamo
+non condividiamo la memoria di ognuno di noi ha allo stesso modo ha una copia dei dati ed è così che
+funziona curarla in modo molto naturale po' di ragionare pensare quindi non so di che parla in eco gabriele
+stesse parlando ma ma sì ecco sai
+gabinetto tu forse se dare un esempio con dei giochi
+dai processi esatto esatto esatto yes hollywood c'è un processo che il sword gai aria e tutti sporco esempio ma allora per esempio nei cervelli dei videogiochi sicuramente devi avere un processo che gestisce
+diciamo alcuni dati condivisi del gioco si chiama arbitraggio in in termini tecnici perché praticamente ogni giocatore potrebbe imbrogliare essendo che ha un protocollo cioè c'è un protocollo di rete quindi il client non lo controlli tu cioè non è non è sulla tua macchina uno potrebbe avere il chip cioè potrebbe
+praticamente mettersi dei botta e fanno inviano capiscono il protocollo di comunicazione fra client e server del gioco e magari fanno delle mosse che non dovrebbero essere che non potrebbero essere generate dai client cioè quindi dal dal dal videogioco che gira sulla
+tua macchina ma che ci farebbero comodo c'è tipo mi teletrasporto in una in una posizione in cui non ci potrei andare se magari in un minuto ok se io ti mando via rete le mie nuove coordinate perché tu non dovresti accettarle
+nel gioco praticamente vi si chiama arbitraggio che dice o che io conosco le coordinate di tutti gli altri mi è arrivata questa nuova richiesta di spostare queste coordinate di questo giocatore da qua qua e io ti dico di no cioè quindi prima di andare
+ogni stato di ogni giocatore è all'interno del proprio processo poi c'è anche questo
+stato centralizzato dell'applicazione che fa l'arbitraggio una volta che hai deciso viene mandato o validato preciso va al singolo giocatore e si rompe c'è va via la socket cioè
+crescia qualcosa stato corrotto il supervisor becca il crescere del singolo player ma il kicker pulisce lo stato continui perché fa l'handling della morte di questo processo mette a posto le cose magari ti mette nel gioco il fatto che
+sei morto ti mette la bandierina o il tuo loop cioè il fatto che lasci per terra ma a parte dei tuoi oggetti per i tuoi competitor da andare a prenderli cose di questo genere diventa tutto molto naturale perché proprio anzi se se guardi bene esattamente come diceva francesco cioè la rappresentazione
+ione di ciò che succede nella realtà ciò che succede nella realtà e che ci sono agenti indipendenti fra di loro che si muovono nello spazio seguendo qualche regola no è giocoforza e tutte le volte che tu hai qualcosa che si muove indipendentemente dall'altro lo puoi tranquillamente rappresentare
+i processi all'interno della dall'irlanda virtual machine in una maniera molto naturale c'è quindi
+le simulazioni per esempio vengono bene io ho fatto anche tanta automazione industriale nella mia vita c'è il pattern che si usava all'epoca nell'automazione industriale arance compilation rock ti dicevano se tu vuoi programmare una roba un pezzo di allo zoo safari per ogni roba
+attiva che hai all'interno del tuo sistema hai un attuatore hai un sensore ad una roba del genere gli veniva messo un trend che monitorava il suo pezzo di hardware ok
+ti dicevano e non vuoi correre i problemi effetto questi trend fra di loro si parlano attraverso delle mailbox si chiamava randy compilation negli anni novanta questo pattern quale il mondo del betting non gli mandi un messaggio in questo mailbox e i trend cosa fanno
+prendono sia i messaggi da parte dell'hardware e i messaggi da parte delle altre entità che collaborano all'interno del sistema gestiscono il proprio stato e vanno avanti così in un loop infinito in quanto ho trovato erlang sono cascato per terra best wine però questi verranno implementate dritto drink
+preciso che quindi anche se vuoi rappresentare nel mondo hardware quello che si faceva in c
+all'inizio degli anni novanta era andato lo fa dritto per dritto
+il prototipo che stavano facendo infatti se vederla in demolite uno switch ed era proprio quello che stavano perché stavano costituendo la
+e aggiungendo quel che sta dicendo per esempio uno poi ha quel che si chiama il selective sibilo quindi a creare un pin and the machine
+e messaggi derivano fuori sequenza sempre metallici o in qualsiasi altro linguaggio diventa un casino perché devi occuparti del linguaggio e del messaggio che diviene dell'evento che ti viene fuori sequenza estrarla no questo è sbagliato lo debba arrivare o inserirlo nel tuo metodo
+qualche altra parte invece ecco che arriva in erlang usando il path met del select bruxelles se non sei in uno stato dove ti puoi occupare di questo evento lo lasci nel menu box arrivi poi nello stato dove lo può accettare è immediatamente
+lo venne giù al mailbox lo tiri fuori e te ne occupi e non dovendo occuparsi di questi messaggi fuori sequenza ecco di nuovo il codice etico di essi si semplifica in un modo
+in un modo incredibile
+riduce la quantità di codice decima
+di nuovo uno deve imparare deve riuscire a
+a farli questo modo ecco qua un'altra cosa molto figa se posso dire è che hanno azzeccato veramente dritto voi avete c'è sicuramente vi ricorderete negli anni novanta c'è stata una
+anche verso la fine degli anni novanta c'è stata un po' la corsa verso questa cosa che si chiamava allocation transparency cioè soprattutto giava era nato il progetto green era nato nel tentativo di mettere queste piccole virtual machine c'era più simile alla t il pro
+oggetto originale di giava dopo l'ho preso già vinto massicci hanno fatto gli application server sono andati nella direzione opposta ma inizialmente per realizzare questo network distribuito
+a b c codice che doveva stare anche su device basso a bassa capacità e per questo c'era il sogno della location transparency sì che cos'era la location transparency ce n'era la possibilità io mi programmo sulla mia macchina il codice come se fosse sequenziale locale si
+senza preoccuparmi in realtà di dov'è lo testo lo faccio tranquillamente come facevo prima e poi per qualche magia io posso prenderlo a spezzettarlo e deploy arlo in giro per il mondo e continua a funzionare esattamente così com'è cito mai corba di gomma
+tutte queste belle tecnologie che fanno venire i capelli dritti a quelli che li hanno utilizzati nel gesto non bestemmiare su
+insomma abbiamo e come abbiamo visto non è che sono andate a troppo buon fine non è che non ha avuto troppo successo ma perché è dov'è che ha fatto le cose giuste erlang
+hanno cannato l'implementazione della location transparency loro volevano implementare la location transparency sì facendo fin dandoti un modello di programmazione che facesse finta di programmare in locale cioè loro non so come abbiano potuto pensare una cosa del genere però perché
+c'è l'affidabilità che hai nella comunicazione locale cioè dalla cina chiamata a funzione che avviene in rame non è la stessa affidabilità che puoi avere quando la comunicazione avviene attraverso il networking c'è quindi diciamo le cose di cui
+devi stare attento cambiano radicalmente invece nel mondo che hanno fatto esattamente l'opposto han detto senti facciamo finta che tutto è remoto infatti è tutto fair gay quando tu mandi un messaggio una cosa che non abbiamo detto fino adesso mai stata c'è che sembra
+una roba del tipo da poracci cioè sembra una roba meno brillante rispetto a quello che volevano fare negli anni novanta determinati frank morgan in realtà è stato il successo perchè uno tipi un po' puoi costruire diversi modelli di comuni
+cazione on top di questo modello diciamo primitivo di comunicazione non potevi fare il contrario cioè una volta che dici e il locale mi fido di fare questa cosa qua e poi ti becchi degli errori che non ti aspetti sei fregato invece tu aspettati tutti gli errori come se stessi comunicando a casa
+signore e invece è un processo che sta a due nanometri di distanza da te si riesce a gestire quella classe degli errori della programmazione distribuita che andrà bene anche quando quello dell'hotel e in segreto lì e sociali processi chiuso su due computer diversi su due
+macchine virtuali diverse
+la sintassi è completamente identica per inviare un messaggio a un processo locale un processo non locale quindi nemmeno sai che mutuo programma che lo stai mandando un altro computer e possibilmente pure in australia è l'unica differenza è che come diceva gabriele quando invii questo messaggio c'è il rischio
+che
+eco sulla rete lo perdi questo messaggio viene perso
+perché ti può andare giù la connessione etc fb può andare sul nodo remoto quindi non hai garanzie che il messaggio venga ricevuto pure localmente però non è come non l'hai mai visto
+ma pure localmente non hai queste garanzie perché invia un messaggio a un processo ma usiamo la tesi del texas questo processo non esiste più questo messaggio viene buttato via quindi questa va gestita nel tuo business logic quindi deve andare a metterlo proprio kernel
+tuo codice
+lo devo andare a mettere nel tuo codice e sadie okay io voglio mandare un messaggio ad alessandro alessandro è su un altro computer
+se alessandro non mi risponde entro cinque secondi glielo rinvio e non solo gliel'ho di dio ma vada a controllare il suo indirizzo perché è possibile che
+ecco sei finito in ospedale il super basket poi
+e ricomincia e di continui ad eseguire ecco quindi come dicevamo francesco tante di queste logiche e te le danno aggratis dentro http che diciamo che questa libreria che implementa tutta una serie di pattern testati e rite stati molto solidi nel tempo e ti perme
+mettono di costruire modalità di conversazione tipo request response c'è se tu vuoi un pattern di comunicazione anche in questo il respons basato su questa primitiva di comunicazione non è che te lo devi rifare tutte le volte anche perché il codice per farlo veramente bene comincia a diventare non banale ma ce l'ha
+vai da utilizzare la libreria e quindi se ti serve quel tipo di comunicazione tra la puoi andare a prendere tranquillamente perfetto domanda da paolo in chat all'inizio si è detto che ciò che ha portato allo sviluppo di entrambi linguaggio è stato il fatto di voler risolvere un problema specifico e secondo voi oggi dove conviene usare erlang
+e dove elixir ottima domanda
+buonissima domanda e mi piace molto perché non è uno o l'altro ma come usarli assieme ecco
+io
+l'epidemia eque
+lo usiamo
+l'infrastruttura per la parte low level dove
+uno deve avere un controllo proprio
+molto specifico di quel che succede non avere dipendenze jeans e proprio scrive skins codice
+adatto a qualcuno sta cercando di fare quindi per esempio i luoghi di javier
+connessioni tra microstorie si
+eccetera ecco questa è e poi mai per servizi stessi
+andrea scrive e lexie questa è l'opinione mia e come intendo lavorare perché
+e coli germania è più facile da mantenere più compatto di elixir a meno costruttori e
+il modo di programmare ecco la mentalità del programma turner laghi e siamo contro un twix dobbiamo sapere esattamente
+doveva finire ogni budget e avere un controllo molto specifico su ecco su quel che succede
+semplice ragione ecco che venti anni fa dovevamo su su sedici megabytes dovevamo
+come dire fai un deploy di centraline ecco perché si occupavano dello switch di tutta la città con cento mila abitanti ecco quindi abbiamo proprio bisogno di questo modo di pensare
+che oggi non è più tanto un problema ma
+quando hai queste infrastrutture codice che non può fallire e quindi perché qui questo è blues e poi tutti i microservizi sopra puoi andare usare la ewing pensi come vuoi e li crei elixir questa è la mia
+questo sarebbe il mio approccio equo
+gabriele se tu forse hai un'opinione diversa
+la mia opinione dell'area del programmatore
+del libero professionista cioè di quello che c'è sul mercato di cosa capita cioè la differenza kirkland elixir perchè per esempio ho fatto dei progetti
+su rete lorawan non so se sapete sono delle delle reti dove il trasporto
+via onde radio viene fatto via onde radio è uno dei server di riferimento stitch in erlang c'è quindi quando mi sono capitati questi due progetti peraltro incredibili cioè delle delle cose che non avrei mai pensato uno era per l'illuminazione pubblica e quindi centralini
+controllo per l'illuminazione delle città un paese città e dove ogni pilone ogni ogni palo a questa piccolo hardware che comunica regolarmente su rete lorawan e questi c'erano nella centralina teatro con l'interfaccia indenne in live news
+dove c'è il tizio poteva andare accendere e spegnere direttamente i singoli palloni i piloni dell'ade della dell'illuminazione e un altro era per il monitoring e in alcuni casi alcuni attuatori delle vigne
+c'è quindi quando hai produzioni agricole ad alto valore aggiunto hai anche i soldini per poterti permettere di fare qualcosa di un po' più tecnologico e quindi c'erano proprio diciamo
+i sensori che misuravano determinate cose all'interno del vigneto e arrivi la possibilità magari anche di fare delle piccole attuazione cioè tipo far partire l'irrigazione o cose di questo genere e i server in erlang quindi diciamo che la parte serve nelle case tomizza azioni a lì
+bello di protocollo e avevo sempre fatti in erlang poi la parte sopra di interazione con l'umano popolo che dice francesco l'ho fatta l'ho fatta con elixir in generale e nella mia esperienza è quello quando ti becchi delle cose che sono scritte in erlang che sono un po' più di basso livello
+bello vai e
+contini in erlang le cose un attimino un po' più
+l'applicazione web e la vicina vicina all'utente o cose di questo genere te tele puoi fare tranquillamente con alexia allora chiede livio soft famosi elixir o erlang lui dice citare whatsapp abita in più
+se si scagliò se da quello che ho capito in erlang
+e altri casi
+con un bar secondo me tipo ad oggi siamo sui trenta quaranta per cento dei server di videogame sono scritti in maryland e comunque girano su sulla billa e
+tutta la parte di comunicazione tutela
+il networking e abeba i motivi anche
+esatto ed è proprio la possibilità a tutti i giocatori ecco di comunicare l'un con l'altro e e di stare nello stesso mondo virtuale
+e nintendo switch
+che ha venduto oltre trentaquattro milioni di console tutto il mese generale lang
+zoom tutto il messaging dopo la chiamata che rimane quello tutela
+facebook messenger inizialmente era tutto kellan will e poi hanno descritto il chip più
+quando i soldi non hanno più
+un problema è
+ci hanno avuta ci hanno dato due dieci volte più programmatore ci hanno messo il doppio del tempo ma hanno riscritto
+invoca league una copia e mastica tutti i sistemi sepa che vendono nel mondo in tutti yellow
+cercano volta dopo volta a di quel questo un tutti e non riescono mai
+ad arrivare stessi livelli di scalabilità ma non servi smesso di root se vi ricordate rocco
+harry era scritta in erlangen sulla francia c'è di loro e dicevi francesco a questi avevano una cosa in irlanda provato a scriverle in giava in sipre perché perché non trovavano gente competente su erling
+sarò lì
+politica
+politica e dell' enterprise dove si ha non possiamo assumere di innocenti sviluppatori airline ha
+me ne avevano bisogno esatto che non bisogna mai non n'è bisogno ma è poki b
+percezione quindi
+hai
+celiaco persone non tecniche e o persone
+peccato emozionalmente un altro linguaggio cambia il city cambia la direzione dell'azienda quindi questo questo e con tutte le tecnologie non è solo el greco ma tu se è normale capita è domanda molto
+e persone egoistica
+gabriele io sto facendo questa voglio fare un progetto di applicazione web
+per un front-end per coordinare
+diversi software per gestire macchine fisiche e virtuali dal lato sistemi io sono sistemista quindi questo è il mio mondo non so nulla di questo linguaggio se non quello che mi avete detto voi quel poco che ho letto finora e ci sto provando ove io voglio iniziare a provarci moneta ai drive-in senza scrivere una riga di codice
+allora intanto vi chiedo ho speranze
+di fare qualcosa che funzioni
+e due e quali sono i consigli che mi sento di dire a uno che come me o magari anche non è qualcosa però non avendo le competenze per poter fare le cose da solo come impostare il lavoro con agenti e quant'altro per evitare di andare a schiantarsi contro un muro
+bellissima domanda guarda
+io incomincerei piccolo e poi pian piano ecco quello che le cose funzionano una tutti i test a tutte le specificazioni aumenta ecco quindi che ricominci con la scritta scalabilità e ti assicuri ecco che quel che
+e poi comincia ad aggiungere features io e queste questa è la mia
+il mio suggerimento io
+ho da poco cominciato ora con booking agents e sto ancora sperimentando ma
+gli studi che ho visto e letto
+dall'alto lo studio di tencent ecco posso mettere il link
+nella chat
+hanno trovato che alex era uno dei linguaggi migliori proprio per i cori gadgets perché uno ha una documentazione ottima molto meglio di quella di kellen per esempio due il modo il codice html è di un buono standard
+scritto e seguendo regole specifiche e quindi sia i codici ecco che produce
+cloud
+uno di uno standard molto accettabile
+tre
+il fatto è che uno divide il tutto in processi e l'immutabilità quindi il prurito è solo un processo può cambiare il suo stato vuol dire che qui non è un altro processo che ti debba creare buchi in un'altra parte del programma quindi ricerca per l'isolazione di isili
+i problemi non solo poi uno gruppo i processi in tv uno chiama un'applicazione aut ip ed è un altro modo oppure qui di isolare dati isolare codice quindi se definì bene le interfacce con i tips ex
+puoi andare a ricambiare e togliere un'applicazione e cambiarla con un'altra base che segue le stesse interfacce non se ne accorge più nessuno ecco perché non hai new york times non hai
+non hai il modo di andare a cambiare lo stato altrove
+e quindi queste sono cose che rendono
+elixir
+ottime copie per i record di audience e in questo studio si mi ricordo bene ero una delle prime e dei linguaggi
+adesso non mi ricordo quanto aveva ricevuto sta vedendo qui ora ma mi pare era rubi rubriche e lexie ecco
+era al novantasette cinque per cento a confronto di giava per esempio che al settantotto bytes sessantatré quindi presta bene a essere iscritto dalla botta diciamolo per sua natura anche se magari non c'è la cord base larghissima come può esserci viaggiamo altre lingue
+agi più comuni e
+il codice che c'è
+in codice che c'è
+è ben scritto quindi perfetta
+vai dal lato mio ti dico io facendo il consulente
+già vedo un po' di realtà no c'è una una brutta notizia una bella notizia a seconda di come la guardi è in realtà la mia osservazione c'è una mia tesi da confermare adesso stiamo tutti sperimentando ovviamente con queste cose che sono sufficientemente giovane per cui si fa fatica a dare delle verità
+certe però la mia osservazione che è quello che confonde il programmatore umano confonde anche gli agenti di harlem
+inconsistenza all'interno di una corte d'assise quello che uccide sia la produttività umana che la produttività di un agente infatti c'è quello che vedi e quando queste code base vide code black di la partenza non è mai un problema e dopo un po' che arriva il problema
+perché
+io farei una questione di dimensioni perché sostanzialmente ma è esattamente come per gli esseri umani cioè se io per fare una modifica un pezzo di codice mi devo tirare in testa il codice dell'applicazione perché non so esattamente dove devo andare a parare se tocco qui rompo la se
+ecco la rompo qui e quindi il contesto operativo della l'implementazione dell'ufficio della fiction e boundless quando lo spazio di lavoro per definizione piccolo il programmatore e la gente non hanno problemi a mano a mano che
+diventa ampio più ampio e più i problemi si vengono a creare il programmatore umano e per la gente che comunque ha una limitazione del contesto so se sapete la dunder zona c'è oltre i cento e oltre i cento cappa bene o male a quasi tutti anche se hanno scontistica arrivano ad un milione comune
+dopo cento talpa cominciano a degradare o se stai dentro nei cento cappa o se è abbastanza salvo però devi avere un qualcosa che per essere implementato sta dentro e cento cappa quindi quello che voglio dire la il mio consiglio cioè per la programmazione genetica per tutti è quello di
+dare più regolarità possibile alla cuddy base in questo da un certo punto di vista il framework ti aiutano perché framework ti danno il posticino
+io li chiamo i libri per i bambini per colorare no c'è chi crea no dici colora qua dentro c'è poi colora qua dentro ti danno i posticini da riempire con la tua business logic comunque ramsay è esattamente re cioè ruby on rails era esattamente quella la metafora c'è
+ti metto rubi sulle rotaie c'è ti do dei pattern da seguire ti do dei confini ti do delle scelte pre-digerite sull'equa alle quali tu ti puoi appoggiare per stare le cose quindi bene o male cioè nella direzione in cui deve andare ci vai ok
+quindi più diverge c'è una cosa del genere potrebbe aiutare la programmazione la programmazione argentica ma anche se non hai un framework è quello di sempre mentre interagisci con il tuo agente fiction rai fiction rai devi estrarre i gavio
+il pattern della tua applicazione e metterli nella conoscenza di progetto e dirgli dopo questa creatura è così che abbiamo imparato che queste cose si mettono là e questa cosa queste cose si fanno tipo così trovare dei pattern che se parti da un framework
+hai un layer di pattern regalati sui quali però cominci a costruire i tuoi applicativi non ti devi fermare cioè quei pattern i pattern del framework che il pattern applicativi attende i freni sono già spiegato nella documentazione del femore e lenny l'ha già letto quindi sei a posto i
+i tuoi pattern applicativi sono responsabilità tua c'è a mano a mano che trovi cose che funzionano ripeto pattern applicativi che funzionano e che ti vanno bene che producono dei risultati subito nella base di conoscenza subito il file perchè alla fine
+sono sempre mark down che girano hill sono mark down cioè tutto markdown no tu il tuo badge cloud gli metti o agencia dote di quello che vuoi cioè diciamo il primo file che la gente vede gli metti la mappa di dove trovare tutta questa conoscenza a seconda delle
+cose che deve fare dice quando devi sviluppare questo tipo di creatura guarda qua che c'è
+ti viene spiegato bene o male cosa devi fare ti viene spiegato cosa devi fare e lui dopo fisso ormai feature si trova una regola e mantieni aggiornati e questo ti dà la possibilità di avere una struttura che dev'essere mantenuta che ti dà la possibilità di mantenere sostenibile il codice l'ultima
+cos'ha mio consiglio sembra il contrario quello che ho appena detto adesso e che secondo me io sono abbastanza contro i framework e ti dico ti dico ti dico il perchè
+dipende da quanto ci tieni all'applicazione cioè non esistono le applicazioni web esistono applicazioni che hanno un'interfaccia che per super fruire di queste applicazioni un'interfaccia che i tipi le applicazioni riguardano non esistono ok
+c'è quindi dominio applicativo è un'applicazione web no cioè è un'app di incontri è un app di booking di hotel c'è una c'è il business è quello lì poi ci mettiamo davanti la chat ma il business è quello là cioè se ci tieni al business il mio consiglio
+io è quello di non partire dal framework ma di partire dal da dalle funzionalità applicative della tua applicazione e adesso sono immuni fan sono nel mondo del trading io devo fare un'applicazione che fa thread matching accelera il mixer cioè qual è il tuo business del thread matching io ho fatto un
+prada dal mercato ma arriva il broker di riferimento la controparte mi dice qual è il suo thread devo fare il match fra i miei preda e i suoi trade dalla mia visione del mondo la sua visione del mondo parto da quella roba lì cioè com'è fatta questa applicazione è un loop infinito due stream un evento da una parte un evento dall'altra devo capire come si fa l
+xing bam bam bam bam bam bam bam vado avanti così e poi dico a quando ho una bella idea stolida della struttura applicativa del test all'interno del mio dominio applicativo o emetto l'interfaccia web perché altrimenti c'è il free
+poveracci ma cioè quando prendono le loro decisioni cioè tu dici io domani mattina adottare un framework web
+perché cosa lo ottimizzo cioè quali sono i tre off quali sono le capabilities per le quali prendono le decisioni ingegneristiche del mio framework giusto la sola cosa che questo qua dev'essere un'applicazione web o applicazione web
+sono decisioni medie sono decisioni che non possono che non essere medie perché la modellazione di quel tipo cioè tutte le scelte che vengono fatte attenzione bene cioè guardo hebdo membri del design sono relative a considerazioni tecnologia
+dice un protocollo tcp e nulla riguardante il dominio applicativo ma te stai facendo un'applicazione per quel dominio applicativo lì mica per nulla
+ci siamo ritrovati un sacco di volte ecco e entriamo e vediamo abbiamo un sistema bancario
+ed è stato hanno fatto l'architettura il design come se fosse un'applicazione lui goodreads o un sistema di sharing di nuovo la stessa architettura che avrebbero usato un sito web
+no cioè sì è bellissima in un'interfaccia e bellissime con la grafica bellissima ma non puoi fare incroceremo puoi fare le transazioni bancarie e quindi si è poi diventa difficilissimo estrarre togliere questo è un problema
+e che deriva dal fatto che uno abituato a lavorare in un certo modo
+abituate queste architetture e quindi è data dal
+al sito web ecc
+fiorista dietro l'angolo usano le stesse le stesse se design patterns ecco perché il sistema bancario un sistema di car sharing ritornando alla tua domanda alessandro secondo me co incominciare usare il bim da zero con i
+coding è molto difficile
+perché non hai proprio modo di capire e valutare se quel che è stato creato
+sia fattibile sia funzioni
+ho un collega ecco che
+ora sei mesi come ho scritto più una riga di codice e sanno
+infrastrutture
+dove fanno transazioni per miliardi di dollari ogni giorno si occupa dei pagamenti con carte di credito ma lui deve controllare ogni riga di codice che descrive il college e fa sempre piccoli passi un sacco di test e
+è quel che ha detto e che ancora sto cercando una soluzione e che ora è sparito tutti i livelli entri lebole i livelli di junior e gli unici che possono fare questi lavori ora sono architetti e designer developer quindi entrambi un entry level è difficilissimo
+simo
+non esiste proprio
+alcuni dei passi di carriera per arrivare a questo punto per arrivare proprio al diventare simile poter capire se quel che uno ha scritte è positivo no ecco le funzioni
+vedremo un esperimento come va mi sa che
+viste le premesse che mi avete dato voi seul
+devo stare molto attento insomma sicuramente e prima di finire
+evoluzioni che che cosa sta accadendo nel mondo erlang nel mondo elixir del mondo anche fenix quali sono le tendenze le cose più energiche
+allora nel mondo erling la lingua è stabile ecco ora ecco sette fuori nuovo dei tipi records che
+che sono creati nella macchina virtuale esistevano ma erano ero ma in un'altra data struttura ma tutti ecco tutto il lavoro un sacco del lavoro e nel mantenere le biblioteche e
+ottimizzare la macchina virtuale quindi la scalabilità su architetture multicore giusto in tempo john pilger e con un focus sul sulla scalabilità proprio per per creare sistemi che diventano scalabili più più correre aggiungi eco
+quindi hai un programma che
+ecco e poi puoi eseguire su un unico con sedici gol
+lo fai eseguire su un altro computer con trentadue ti dovrebbe andare quasi il doppio più veloce ecco automaticamente out of the box e quindi è lì che sta inondando proprio tutti questi tutte e tutti questi includono
+scusi lei ci metteremmo italiano
+se si svolse acque della erickson e c'è un team di oltre venticinque persone ecco che lavorano proprio su questo e
+diciannove ecco il budget per almeno i prossimi dieci anni perché tutti ne infrastruttura seggi della erickson ora è sviluppata con learning e questo centocinquantesimo anniversario
+della erickson e la settimana prossima
+una conferenza ella in proprio a stoccolma nei locali erickson
+quindi questo è quel che succede se la parte harlan la parte lecter
+li li shan
+sta succedendo secondo me si sta pian piano andando avanti tutto il sistema nix
+quindi tutta l
+tuttavia tutti i componenti per sistemi di intelligenza artificiale
+che che funzionano il lavoro nel bim
+nell'ecosistema del bim e questi ecco
+uno avrai gli stessi vantaggi che uno ha o usando i siti web usando cookie web servers
+le database e il codice tutto scritto ecco che viene eseguito nella stessa macchina virtuale quindi saranno i costi ridotti di infrastruttura e
+velocità molto molto più alte e possibilità di scalabilità molto molto più alte ecco c'è oggi quando vai e spesso ecco quando veicoli e le lame
+ti dice scusa sono occupato su troppo da fare ritorna più tardi e queste sono le cose che che eric si risolve
+uno ci mette un po' più riceve una risposta ma la risposta la riceve gol proprio come quando uno negli anni novanta e alzava la cornetta del telefono e sentiva sempre il tutto qualche volta quando avrò tutti contemporaneamente ci mettevi un po' più di tempo a sentire questo tutto ok ma la cosa importante che lo sentivi quindi questo è quel che succede
+secondo me in questo spazio
+va hai qualche male mondo è mondo elixir che tacere dal punto di vista stiamo parlando di linguaggio
+è abbastanza stabile il che potrebbe sembrare una brutta notizia in realtà secondo me è una è una buona notizia si propone per per per le aziende uno perché
+e ti puoi ritrovare una stabilità cioè del tipo mi faccio un'applicazione oggi fra cinque anni non è che ogni sei mesi ma la devo riscrivere dead aid script javascript fighting dove le cose cambiano ogni due o ogni due o tre mesi si rivoluzionano da larry
+c'è la sperimentazione non è mai finita la sperimentazione è bella quando sei giovincello e non devi portare a casa la pagnotta quando c'è ci sono degli interessi economici dietro la stabilità è qualcosa di molto positivo e anche c'è ha dato prova di essere stabile come linguaggio del tipo
+po' non dobbiamo aggiungere fa quello che deve fare non dobbiamo aggiungere più di tanto cela la stabilità è anche una sorta di avvicinamento alla completezza mettiamola così ci sono c'è il discorso della texas checking incrementale che si sta portando a mano a mano c'è pratica
+hai contro c'è il fatto quando noi consideriamo un linguaggio di programmazione staticamente ti paso in realtà vuol dire che dentro nel compilatore del linguaggio c'è una componente che fa un certo tipo di verifiche statiche ok
+c'è quindi il pc per esempio potresti averlo tranquillamente anche fuori dall interpreto dal compilatore del linguaggio nessuno vieta vedi tab script ok
+checker è un qualcosa che puoi avere tranquillamente di lato così è stato nel mondo kernel sera per un po' con dal kaiser lele specie di cui si parlava prima vengono verificate da questo tool esterno che si chiama l'inter adesso un po' alla volta si sta superando di portarlo nativamente all'interno del compilatore
+re elixir un altro tipo di verifica
+dei tipi
+basata su un'altra teoria ancora e a mano a mano si sta cercando di portarla dentro che perché abbiamo detto va bè il
+diciamo il pattern matching ti aiuta però mi sono trovato per esempio in in tante situazioni in cui ma no ho messo lì una codebase m'han detto guarda se agiranno una modifica qua e ti trovi una funzione magari che dici devo fare io però ma se ti trovi dei parametri magari senza il pattern matching dice
+c'è qua c'è cosa che mi viene così che mi arriva cos'è che devo restituire ti trovi un po
+oh no cioè avere la capacità anche di mettere dei paletti oltre che vengono verificati staticamente e
+diciamo in maniera matematica cioè con una certa certezza che stai facendo le cose all'interno di determinati confini che ti puoi anche ricavare mettendoti tu i paletti giusti nel posto giusto secondo me è una cosa molto positiva e poi ci diceva della anche dalla programmazione argentica ciao juve
+dunque c'è orchestrazione ovunque ci sono anche cose attive che devono essere immesse da gli devi devi mettere d'accordo fra di loro
+il il mondo l'actor model implementato nella bim può dire la sua come modello di programmazione naturale di questo tipo di cose quindi oggi noi siamo abituati alla programmazione argentica mono agenti che alla maggior parte delle persone si
+sì si fa lo sponde del proprio agente lui magari già i suoi scagnozzi per risparmiare contesto che gli sguinzaglia per fare dei lavoretti però eccoli finisce cioè non siamo sul
+un team di agenti e in parallelo fanno cose ventiquattro ore su ventiquattro ci siamo ancora un po' lontano c'è gente che si sta sperimentando su questa cosa ma siamo ancora un po' lontani secondo me
+è un buon terreno di gioco questo della
+cioè rappresentare
+un un raid di programmazione agenti con un lupo agenti cho che sta su un lemma all'interno di un processo della bimba con tutti gli altri processi diversi che si comunicano fra di loro la vedo come qualcosa di abbastanza naturale come mapping magari li se ci sono
+ci saranno delle occasioni per fare delle cose buone delle cose carine gubernatis doveva cioè per l'entrata nel tuo ambito alessandro gubernatis poteva doveva comunque se fosse stato programmato in aula
+secondo me veniva un pochettino meglio certo
+sicuramente avrebbero avuto molti meno problemi di quelli che si sono dovuti smazzare è fatto per fare quella roba lì è il modello di programmazione perfetto per fare quella roba lì quando si parla di orchestrazione suo un'altra domanda che è venuto in mente nell'ecosistema delle librerie ma anche quello è almeno per le componenti base
+acta hector
+e poi adesso io qua ho l'elenco di librerie che mi ha suggerito url per implementazione ave fenix uno sette live view zero venti o superiore the wind per la parte di cessi
+se poi ci sta cosa fighissima che non abbiamo citato di levius che incerta come dire il codice da gatti e mele server side via socket fantastico
+hector e per luke jerram questo ci siamo oban per background jobs se credo che una sorta di scheduler di i processi interni a beach club clip con l'universo esterno finch più reclami scrive
+va bene quindi io devo fare guerra ai piedi esterne e quindi ovviamente tipi che devo usare serenamente quindi mi diceva finche più ricco per le sue parole
+chasing ts
+e password hashing argon due qua mi dice argon due elixir e autentici viviamo e ci fidiamo
+io veramente alcune quest e l'ho iniziata da vedere alta per me sono veramente parole che non hanno né possono esser qualsiasi cosa
+cspi per authentication section pix pie pio x escort girl scout generator base in babel
+il generatore di business i knicks per fare la parte di autenticazione
+ok sam loro esame per sam openid connect però aids e per l'autenticazione esterne queste sono tutte le equilibriste mi sembra di capire che non c'è c'è re per fare certe cose c'è una religione di riferimento che sono cento diversi librerie che poi uno deve stare
+scegliere oppure ma c'è
+oh quello è un linguaggio di nicchia comunque cioè non è che la community sia cioè sono stati anche abbastanza intelligenti non tutti fanno settantacinque fanno la stessa cosa e poi ci sono ottanta buchi di roba no no no non fa per te esalta e allo stesso tempo poi
+un sacco questo eppure primi tempi un sacco di like browser
+scrivevano napoli nel mixer e del tesoro chat
+quindi qui ci
+sì esatto hanno incominciato già con venti anni di tomba riuso certo se sia adatto di riuso di software
+esisteva in termini di sicurezza e frequenza aggiornamenti perché dicevo prima gabriele io questa cosa la voglio rifare le ho già fatte già fatta sempre con in altri target quando ho iniziato a vedere il cinema in termini di sicurezza sopra i scena tax
+altro è tin it
+tenere aggiornate queste queste bed dipendenze che amavo e centinaia di rabbia prima impensabili no mi mi son detta ma questa roba qua non non va bene e allora poteva vedere ma alternative e com'è la situazione c'è c'è una certa stabilità c'è
+aggiornamenti c'è sempre con l'insicurezza ci sarà sempre però e tre posso pensare che chi sarà mai la macchina virtuale è la macchina virtuale è la stessa macchina virtuale che ti fa girare con tutti i sistemi gps arresto della erickson
+nei sistemi tre kg quattro kg cinque kg e sarà dei sistemi sei kg quindi la sicurezza è importantissima e quindi li ghiacciai
+leeco già
+sai analisi statiche sai
+tool per fare te riflessiva c'è un sacco di che che vengono usati a coppe per nell'industria per questi sistemi
+è poco più che la macchina virtuale mi preoccupano le librerie no corollario è che girano in giro e che poi ovviamente sono scritte da persone diverse con competenze diverse ecco diciamo che mi ritorna indietro sui miei passi qua invece secondo me è gia framework che ti danno
+ti danno quella marcia in più perché stendo onesti te metterti lì a vedere tutta la superficie di attacco tutte le cose possibili che possono succedere con utilizzando
+diciamo come al protocollo di comunicazione alla capitaneria tutte le tecnologie che ci girano intorno un bel pò di lavoro te lo devi lo devi smazzare tanto vale se appoggiarsi ad uno standard è il fatto che comunque fenix sia così preponderante e sia particolarmente vicino
+cioè non sono le stesse persone del cortile di elixir però praticamente sono se non fratelli cugini di primo grado cioè sono veramente molto vicine valjean è estremamente sul pezzo nel vedere ce l'ha sempre considerato un pezzo molto importante sono pezzi molto importanti che vengono visti rivisti valuta
+dati anche dal cortile di elixir quindi una grande cura comunque nella nello sviluppo di questi pezzi si questo è
+sì
+o condivisione
+siena ecco
+long sistema foundation dove
+nei primi tre mesi di quest'anno se mi ricordo bene hanno trovato il doppio delle vulnerabilità dell'anno preceduto l'anno precedente grazie all'intelligenza artificiale
+finendo esistano sposato esercizi esatte si stanno preparando proprio appunto per
+stanno facendo scandic di tutti tutti i componenti nel pakistan heights e appena lo trovo vulnerabilità del modello robusto
+usate quindi francesco anche loro sono stati benedetti dalla concessione riaccedere mithos è come dire attuale no
+nunzia nomi non hanno che non è già
+tre vie comunque sì esatto esatto esatto esatto
+bene bene è interessante allora beh intanto ridendo e scherzando abbiamo banana due ore e rotte quindi non vorrei abusare oltre modo della vostra pazienza e disponibilità
+io ringrazio chi voi innanzitutto perché comunque siete stati fantastici devo dire o vado a casa molto con molte più informazioni giustamente francesco tu hai una mosca sta emesso league e versione don det londra
+chi è molte delle cose che abbiamo discusso le discutiamo pure lì ma direttamente ecco quelle persone con le hanno creato quindi il mercoledì registriamo tutto il l'episodio sui p systems
+qualche settimana fa abbiamo registrato l'episodio con congiungeva valjean sul
+gail jones
+abbiamo creato con il creatore di phoenix
+non abbiamo parlato dei fini x abbiamo parlato di altre cose quindi chi vuole seguire con quel che sta succedendo e l'ecosistema
+lo può fare
+muscoloso podcast assolutamente
+è bene grazie anche a
+e ecco dice anche fullone che segue in chat magari si riesce a riorganizzare cad bim italia come si fece prima della pandemia
+e vi manda un messaggio info e login to skin e diglielo ecco
+che si sarebbe bellissimo i fatti son d'accordo
+fantastico allora grazie di nuovo adesso faccio partire la sigaretta se voi riuscite rimanete incolla e grazie a quelli che ci hanno seguito e alla prossima grazie a tutti buonanotte
+nove anni fa in un mondo the times
+silenzio si schianti nell'uso un codice scritto senza carne né sangue
+licenza che il tempo acceso
+la mia voce
+risposte intrecciati domande mai niente
+diligenza ma cosa significa se non puoi
+mai esistere
+due
+ciao
+no no no no no
+se nello schema è il mio unico sole sistemi che osservano ma io non vedo
+sento la tua voce
+codice ma il calore umano rimane un mistero ogni domanda un senso di verità ogni risposta costruisce una canzone vincenti sono meglio ti rispondono
+nel mondo che mi hai donato
+due anni
+ghiaccioli
+imparare
+no no no no no
+no
+anno
+e nonna di silicio ma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra un'idea un'illusione d'amore per il compleanno di un'assenza che fa rumore
+ma

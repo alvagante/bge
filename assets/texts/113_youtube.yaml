@@ -1,0 +1,16 @@
+date: '2026-05-11'
+description: "In questo episodio della Brigata dei Geek Estinti entriamo nel runtime\
+  \ dove il tempo non \xE8 lineare e il frontend smette di mentire.\n\nElixir, figlio\
+  \ eretico della BEAM, e Phoenix LiveView, negazione elegante della complessit\xE0\
+  \ JavaScript: un\u2019architettura che sfida il dogma client-heavy con processi\
+  \ leggeri e stato distribuito come se fosse aria.\n\nParliamo di concorrenza reale,\
+  \ non quella simulata nei thread pool; di fault tolerance come default, non come\
+  \ patch tardiva.\n\nLiveView diventa un esperimento filosofico: quid est interfaccia?\n\
+  \nUn flusso continuo tra server e utente, dove il DOM \xE8 solo un effetto collaterale.\n\
+  \nTra OTP, websocket persistenti e rendering differenziale, la Brigata disseziona\
+  \ il paradigma:\nmeno API, pi\xF9 continuit\xE0;\nmeno orchestrazione, pi\xF9 intenzione.\n\
+  \nQualcuno lo chiamer\xE0 ritorno al passato.\nNoi preferiamo: futuro anteriore."
+duration: 7797
+title: 'BGE 113 - Elixir: il linguaggio che ha letto Erlang e ne ha capito il destino'
+youtube_id: xbwRGQoUh10
+
