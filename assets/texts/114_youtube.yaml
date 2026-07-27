@@ -1,0 +1,17 @@
+date: '2026-07-27'
+description: "Colibr\xEC \xE8 un motore di inferenza minimale scritto in pure C da\
+  \ Vincenzo Fornaro, privo di framework pesanti per eliminare ogni overhead di sistema.\n\
+  \nLa sua innovazione risiede nel modo in cui gestisce i grandi modelli MoE (Mixture\
+  \ of Experts):\n\nStreaming da Disco: Anzich\xE9 caricare centinaia di gigabyte\
+  \ di modello in RAM, tiene in memoria solo la struttura base. Gli \"esperti\" MoE\
+  \ rimangono su SSD/NVMe e vengono letti al volo solo quando necessari per la generazione\
+  \ del token.\n\nDemocratizzazione dell'Hardware: Con questa tecnica di I/O intelligente\
+  \ e una quantizzazione spinta, permette di eseguire modelli mastodontici (fino a\
+  \ 700B+ parametri) su PC e CPU consumer con soli 24-32 GB di RAM.\n\nIl compromesso:\
+  \ Sacrifica la velocit\xE0 di generazione (rendendola pi\xF9 lenta), ma abbatte\
+  \ radicalmente la barriera d'ingresso hardware, rendendo possibile ci\xF2 che prima\
+  \ richiedeva cluster di GPU aziendali."
+duration: 7428
+title: "BGE 114 - LLM da 744B parametri in Locale: Il Volo di Colibr\xEC"
+youtube_id: AoCt9IGoAHQ
+

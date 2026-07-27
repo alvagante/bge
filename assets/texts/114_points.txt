@@ -1,0 +1,10 @@
+- **Introduzione a Colibrì**: Colibrì è un motore di esecuzione open source per modelli di machine learning sviluppato da Vincenzo Fornaro, progettato per funzionare con hardware limitato, permettendo l'esecuzione di modelli di grandi dimensioni su PC normali.
+- **Architettura del modello**: Utilizza una strategia di caricamento che permette di eseguire modelli enormi (come quelli da 744 miliardi di parametri) caricando solo le parti necessarie in RAM, lasciando il resto su disco.
+- **Community e sviluppo collaborativo**: Colibrì ha generato una comunità attiva di sviluppatori e utenti, con contributi significativi che migliorano continuamente il progetto attraverso feedback e pull request.
+- **Evoluzione e aggiornamenti**: L'implementazione di nuove funzionalità e ottimizzazioni avviene grazie al contributo collettivo della community, che permette di testare e migliorare costantemente il codice.
+- **Obiettivi e filosofia di sviluppo**: La filosofia di Colibrì si basa sulla semplicità d'uso e sull'accessibilità, permettendo a chiunque di contribuire e utilizzare il software senza barriere complesse.
+- **Integrazione e utilizzo di hardware**: Colibrì supporta l'integrazione con hardware vari, offrendo la possibilità di eseguire modelli anche su sistemi a basso costo e di ottimizzare le prestazioni in base alle risorse disponibili.
+- **Prospettive future**: Si prevede l'espansione del supporto a nuovi modelli e funzionalità, nonché l'integrazione con altre tecnologie emergenti, mantenendo un focus sull'ottimizzazione delle prestazioni.
+- **Documentazione e supporto**: La documentazione è un aspetto cruciale del progetto, garantendo che gli utenti possano comprendere e utilizzare Colibrì con facilità.
+- **Critiche costruttive**: Le critiche sono viste come opportunità di crescita; il progetto incoraggia feedback per migliorare continuamente le sue funzionalità e risolvere eventuali problemi.
+- **Impatto e ispirazione**: Colibrì rappresenta un esempio di come un progetto open source può evolversi rapidamente grazie alla passione e alla dedizione della comunità, ispirando altri a contribuire e innovare nel campo del machine learning.

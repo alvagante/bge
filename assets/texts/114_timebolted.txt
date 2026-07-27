@@ -1,0 +1,748 @@
+uso
+niente cloud niente server giganti servono solo ventiquattro giga
+nel bel mondo ricorre
+noi facciamo il miracolo questa
+qui un scritto che fa volare
+ehi
+grazie
+secondo ora
+no
+la brigata degli estinti
+ciò che sta
+mi più
+foto uno
+i dati che parte da qui
+da un milione di euro
+il nostro codice
+qui termina l'infestazione motore
+open source
+dickie
+qui
+secondo
+vincenzo
+dica lei
+già
+micologia zero fronzoli
+niente pesantezza
+la vera rivoluzione
+grazie
+c'è da dire
+no no c'è tanto da dire
+grazie
+e quindi siamo arrivati alla puntata cento quattordici della brigata degli istinti abbiamo interrotto nostro letargo estivo solito per un gran buon motivo perché è scoppiato un colibrì e nel mondo informatico ed è scoppiato grazie all'inter
+vento e la creazione
+e l'idea di vincenzo fornaro che è qui presente che ha fatto questo software di cui parleremo molto oggi e andrea e marco ormai siete recidivi non vi chiedo neanche di presentarvi perché ci siamo già conosciuti in passato vincenzo btu pre breve presentazione chi sei
+adatto a tutti mi chiamo vincenzo fornaro sono un programmatore informatico e hai developer generalmente computer division ma diciamo che le hai cambiato così tanto che bisogna starci bisogna stare al passo
+sviluppo
+cose perché mi diverte farle e spero che cambi la vita di qualcuno creandolo
+andrea che dici ha cambiato la vita qualcuno la sta cambiando dico che rende possibile
+categoria di persone una cosa che altrimenti sarebbe inaccessibile soprattutto in un momento nel quale tutto ciò che è memoria
+aumentando drasticamente i costi e l'oro l'incenso permette qualcosa che non sarebbe fattibile
+allora è fattibile magari addirittura nemmeno e siamo disposti a pagare un prezzo cioè se penso alle configurazioni dei mac che oramai balcanico campate quindi un lavoro un lavoro importante come mi è venuto in mente
+e allora poco come è iniziato nel senso che la riformulo
+ho sentito un podcast con
+è stato l'autore di jobs
+e lui semplicemente ha detto no io ho iniziato perché volevo streammare le partite dalle mie parti teoriche in india e non c'era un tool che lo faceva come lo volevo io allora iniziato no
+l'ho raccontato pure le imposte che comincia a news
+il tutto è nato da un gioco a dir la verità ciao ho il tutto è nato da un gioco
+praticamente avevo visto proprio tutti questi mega computer ma che costavano tantissimo quindici mila euro venti mila euro e fanno andare mai
+quindi certo punto io avevo un computer che è l'attuale sulla quale sviluppo e mi hanno detto detto cavolo io non posso provare niente sul mio computer possibilità di provare nulla tranne che non sia in cloud e mi hanno detto va bene
+in tutto questo voglio dire che c'è una frase che mi ha lanciato è stata una frase di peter steinberg open cloud e disse
+una corporation non può battere uno qui si sta divertendo
+e io ve l'ho detto wow l'ho detto effettivamente io avevo perso una traccia cioè quella di volermi divertire sia il fatto di creare qualcosa che mi divertissi quindi ho detto bene voglio divertirmi a sviluppare un progetto e il gioco di questo progetto era quello bene voglio lanciare il miglior modello in assoluto in questo caso per me era girl chic
+ventidue e voglio provarlo finché il mio computer non vai non voglio evitarlo quindi mi sono messo davanti e ho iniziato a sviluppare e a creare attestare a ridestare a sbagliare a vedere il mio computer rischiare
+ho visto l'inverosimile finché a un certo punto
+ci potevo scattare in lui i diciotto che era una delle cose più interessanti e
+la cosa bella è stato vedere
+vedere la risposta e mi sono detto cavolo se riuscirò a fare un qualcosa di incredibile però incredibile per me c'è inizialmente non per chi per chissà chi per me perché è riuscito a da un'idea a portarla al comprovata poi però alla fine l'avevo buttato nel mio computer non ci avevo fatto più niente non era in progetto di metterlo subito se c'è
+questo quando quanto tempo fa questo primo prototipo
+quando i tre meno tre settimane fa
+tre settimane fa colibrì non esisteva praticamente no assolutamente tre settimane e mezzo fa non esisteva perché era proprio un test era proprio un gioco in realtà noi non ci avevamo ancora ma ho anche lasciato sul computer hai dimenticato perché ho detto ma secondo me c'è è un gioco mi sono divertito e basta poi preso dalla voglia locali così
+tab tanto voglio dire avevo già caricato tanti progetti carico anche questo e provo a divertirmi a vedere la gente come reagisce condivido su reddit un post nella quale dico che avevo fatto questo questo progetto colibrì è
+la parte bella è stata che reddit ha reagito lo lama soprattutto ha reagito tantissimo e in maniera totalmente inaspettata da parte mia ripeto perché non mi aspettavo una reazione è quello che ha fatto esplodere tutto è stato grandioso perché avevo messo il post skywalker news ciò che ci è arrivato subito prima e mille
+commenti
+qual è stato un certo punto anche difficile rispondere è
+l'ho visto essenzialmente crescere e ed è bello vedere quando un prodotto un progetto come questo che nasce veramente per puro caso perché non c'era desiderio di creare qualcosa del genere era veramente un punto di ricerche un gioco per niente di più questa è stata la parte più bella dell'aver
+l'ho creato e vederlo crescere e vedere una comunità perché colibrì essenzialmente non sono solo io che lo voglio
+creato il progetto e ho fatto questo ma ciò proprio una comunità che cresce
+ora come come sta andando cioè quante
+quanti contributi
+pare stiano intorno in questo momento tra le chiuse ti dico chiuse aperte siamo intorno ai quattrocento m e i s i u non lo so perché ormai ho perso il numero non credo tantissimo ormai perso il numero perché
+starci dietro e tra bag feature
+idee è molto complicato e però sono tante
+calcolando che i primi due tre giorni quando quando ho iniziato a vedere una fila di essi una fila di pierre sono stato notte e giorno per poter rispondere per poter seguire
+perché molte idee andavano erano molto belle effettivamente acquisite non ci avevo mai pensato e dalle pietre dalle emissioni ne sono uscite
+un sacco di cose interessanti tipo il voler di dirmi perché inizio avevo fatto un tipo di conversione
+né con me né lei sia uscito forse potremmo fare questa conversione che si passava da un quattro a uno quattro groot khaled e che manteneva un certo tipo di qualità e ha detto perfetto
+allora lo provo no no no l'ho già provato e funziona è bellissimo e io anche ero rimasta un attimo sbalordito poi è uscito un altro mi dice guarda alle b punto quattro non genera un certo tipo di acceptance quindi dobbiamo trasformare in toto pochi perfetto vado non ho già fatto
+quindi è una comunità che in realtà ha fatto crescere colibrì ivi talmente tanto talmente tanto talmente tanto che adesso mi permette a me di fare di continuare a fare dei test sul mio computer infatti questo in questi giorni
+come ho detto già da alessandro prima sto facendo molti test
+molte cose che più avanti vorrei far uscire nel repo
+però devo esserne sicuro al mille per mille che non disturbi o non rovini
+quindi
+sì diciamo che il lavoro è veramente da quel punto di vista da parte della comunità infatti molte release dico mai io ho fatto questa rise la comunità ha creato questa nuova release e sono tutte idee che sono nate da loro le hanno testate le hanno provate e de bello vedere una comunità che
+appoggia cresce commenta pierre discussioni ma cosa ne pensate rispondere sul mio computer e altro alcuni riesco a rispondere ad altri molte volte si perdono
+difficoltà scusa vincenzo ti facciamo un piccolissimo passo indietro per chi non lo sapesse anche se non credo che
+di chi ci sta seguendo non sappia di cosa stiamo parlando e non lo chiedo a te che dagli altri per me
+qualcuno che descrive che cos'è colibrì cosi ci spiega per chi non dovesse saperlo di cosa stai parlando ero io
+lo facciamo pagare a te però michele magari anche te
+sì perché io sarò ho inciampato su ics un flusso interminabile di post su colibrì e poi ho visto lo so da guardare poi la prima cosa che ho visto ciao sono vincenzo provenienza
+ferrara ha detto vincerà sarà un vincenzo spagnolo sarà un video no era italiano li ho pure scritto su sweets e mi ha risposto moto sono molto contenta di questo e abbiamo cominciato a chiacchierare e avevo anche scritto un articolo quindi
+colibrì è sostanzialmente un motore di esecuzione di ellemme scritto in c a manina so se ho capito bene perché mi sembra codice tutto scritto senza e misto
+aiuto di testo con subagente perché mi servivano dei test devo andare più veloce possibile se si segue ovunque
+è un è un è un trucco
+allora la caratteristica principale che è in grado di eseguire modelli di dimensione molto grande e settecentoquarantaquattro williams che richiedono normalmente solo per caricarlo su una più mi pare almeno cinquecentododici giga di ram
+mi pare e che è in grado di eseguirlo invece su un normale pc con ventiquattro giga di memoria
+come fa lo fa semplicemente caricando parti del modello lasciando il resto su disco quindi prende sfruttando la struttura di questi modelli grandi che si dice moe micro experts che significa che quando arriva l'input suppongo nessuna parte della rete diviene effettiva
+è utilizzata indica un router e le richieste vanno lì e lui il calice e inglese
+carica in memoria solamente quelle parti che servono e quindi esegue rendendo cosi possibile
+neanche so molto sorprendente che è un normale pc riesca effettivamente a eseguire anche se lentamente un modello di queste dimensioni quindi sostanzialmente cambia come tante ragazze in tavola perché prima si pensava impossibile ora anche se lento è possibile e qui puoi vedere ci sono alcune cose da dire sulle ottimizzazione possibile eccetera
+perché loro hanno fatto proprio tutto uno studio sembra un visualizzatore che mostra quali expat sono attivate e quali no quindi alla fine per certe richieste c'è una certa localizzazione insomma questo opera è un'enorme quantità di opportunità quindi quello che secondo me sembra un gioco in realtà non è un gioco molto seri
+sia che mostra come l'esecuzione di modelli e anche grandi sia ormai a
+ormai no però sia alla portata di hardware molto più economico di quello che attualmente viene viene utilizzato ecco notevole
+vincenzo te lo chiedevo prima te lo faccio ripetere qui idea tua c'è questa questa questo colpo di genio usare il disco
+sì perché tendenzialmente non potevo fare altro
+era proprio un bisogno da quel punto di vista non potevo fare un'altra maniera non avevo haram
+mi ricorda linus torvalds che disse devo fare un sistema operativo così di prova vediamo un po' cosa succede perché voglio arrivare
+ancora complimenti vincenzo per il bellissimo lavoro e anche per il modo e la passione con cui lo stai descrivendo
+c'è in queste parole proprio l'essenza dell'open source e nello spirito più bello e più tradizionale più più classico dei del del software libero
+una domanda per te da parte mia e in che modo questo questo tuo lavoro che io non conosco e che non ho provato
+dipendente dalla specifica architettura del modello che hai scelto di far funzionare e
+andando un pochino più in dettaglio in che modo
+tu scomponi il il modello nelle sue nei suoi lei era immagino caricandone una porzione per volta e processando uno strato alla volta su quello che ha in ram allora assolutamente sì parliamo sempre di modelli è l'elemento mixer rector un modello e settecentoquarantaquattro
+di parametri attiva soltanto quaranta miliardi per token è quindi solo undici giga cambiano da un treno all'altro quindi gli esperti instradati quindi i parametri non sono uno stadio da tenere memoria ma sono dati da mettere in scena c'è staging esattamente quando come vuole router dimostra quelli che servono
+come non so non so se conoscete già
+una specie di compilatori it che compì non compila tutti il programma ma compili percorsi caldi appena in tempo quindi l'idea di colibrì nasce piumino da una cosa del genere finisce nella gerarchia di memoria c'è una sola invece di un solo requisito ci sono dei pezzi densi che sono attention aid bakersfield embedding e sono diciassette miliardi di panamá
+disney il conto male non vorrei dire una bugia
+non ricordo bene spero spero così e poi ci sono diciannove mila quattrocento cinquanta e rotti esperti instradati tra settecentosettantacinque lire per duecentocinquantasei più la testa e btp che sono diciannove mila l'uno hai un id quattro che vivono sul disco sono oltre centosettanta giga
+vengono stremati a domanda qui elettorali costruisci costruisci tutti i puntatori ai vari elementi sul disco da da da da fare quando ti servono e questi li tiene in rame poi a un sistema efficace di suo pin swap out che ti va a caricare quelli e in rame tieni soltanto il i valori caldi quali sono i test
+giò quello successivo assolutamente da provare
+andando avanti prima era non era possibile caricare in pink alcuni esperti ora è possibile caricare un pin precaricati in pin degli esperti quindi c'è la possibilità di avere una ramo po' più grande puoi precaricare i pin quindi può incaricare gli esperti così da alleggerire il discorso del disco e
+dal punto di vista interessante vedere
+rientrano nel termine degli amici p
+tipi sono un player che si chiamano
+precisamente dovrebbero chiamarsi
+multi touch and production una roba del genere non ricordo bene in questo momento che dovrebbe che servono per predire i token di riferimento che verranno dopo i quattro torri di riferimento che verranno dopo
+è una scoperta sensazionale lame
+e viene utilizzata in gerusalemme soprattutto ma anche negli altri modelli come di tsipras e anche altri modelli del genere e lui l'ha implementato all'interno di colibrì e in alcuni casi per esempio indice bound soffre un po' ma
+la cosa bella di colibrì è che continuando accettarci riempi questa policy use audience di esperti all'interno di questo file quindi hai un riferimento di quali esperti si sono attivati e quindi non devi pretendere di più ricaricarli sono già lì sai quali sono quelli che servono e quindi li riutilizzi non doverlo ricarica
+tutto dal tutto da zero e quindi ti ritrovi a una velocità non non li ha mai estremamente diverse tra l'altro con quest'idea immagino vincenzo che il tuo lavoro potrebbe anche essere distribuito
+nel senso che vi posso anche immaginare un meccanismo in cui lo stesso motore che hai descritto venga decentrato e di conseguenza possa scalare orizzontalmente su un network hai beccato l'ultimo test che è stato fatto da un ragazzo che si chiama zack
+ho fatto un test mettendo in network colibrì e sul singolo utente abbiamo quella velocità ma su un network abbiamo una velocità completamente diversa anzi sono molto più veloci presto mi dice potrebbe pensare anche ad un meccanismo di di di balanchine distribuito dove ci sono dei contributori che
+contribuiscono con una quota parte del loro più e con delle slides che vengono caricate nella propria ram ad un sistema di inferenze di distributed di inferenza open assolutamente sì assolutamente sì libri la fortuna di di avere totalmente ampio spazio di utilizzo che la cosa bella è che da questo progetto
+stanno nascendo altre mille idee completamente diverse che però sono partite da questo questa è una delle cose più belle e questo è nato un altro progetto che si chiama peng è nato un altro progetto che si chiama un altro nome ma fanno sempre riferimento al colibrì è questa la cosa veramente gay
+al mi lascia addirittura colpito perché sai rimane sempre la fase di restauro non ci ho pensato e no
+complimenti c'è qualche legame tra il tuo lavoro o il germe che ha consentito di svilupparlo è un lavoro una presentazione seminale che vidi di de andrè scarpati di quanto ti qualche tempo fa in cui lo riscrisse il motore mi sembra percepiti due completamente in cina
+allora
+andrea catarsi handicappati è un dio rispetto maestà
+io e dio non è comparabile a nessuno mi in questo ambiente perché tratta di deroghe incredibile
+ho fatto la magia o analogie pd ha fatto il training con cento dollari per trovare gpt
+quindi
+allora nell'open source
+carpentier quello che mi ha aiutato a tenermi sempre più informato sul mondo degli allen
+che in questo mondo che sta diventando quasi un po' più close un po' più open dipende comunque dai rami
+le possibilità di conoscere sempre di più come funzionano nelle lame che secondo me da questo punto di vista deve essere totalmente democratico
+ho a portata di tutti perché è essenziale che ognuno di noi sappia come funzionano nelle lemme per avere una conoscenza tale di capire cos'è un ellen e carpathia
+a un nano gepd mi ha completamente cambiato la vita perché io sono potuta andare a vedere per filo e per segno come funziona una action perché utilizzare un certo tipo di lost
+poi naturalmente piano piano sono cambiati negli anni utilizzava gesù e ora ci riferiamo una sw che è tendenzialmente migliore poi agnello con e si è aggiunto qualcosa in più e la cosa bella di prendere quei progetti e neanche equilibrio come anche tutto qualsiasi altro progetto open source
+prenderlo portarselo da te fare un fork e mettere le tue idee sopra per vedere cosa puoi imparare cosa puoi migliorare cosa puoi portare alla comunità che ha già creato ovunque anche al creatore stesso
+sotto questo punto di vista sì carpentiere una delle menti che segue tantissimi michele allora perché
+data il povero oggetto don si pensa non so se avete mai visto qualcuno ha mai visto tini hai quella scatoletta che permette di eseguire
+allora io mi chiedo noi italiani abbiamo la grande industria elettronica molti rosa
+perché non riesce a rendere guardandola l'architettura di
+colibrì che vi sono anche andato a leggere il codice c quello che ho potuto capire perchè è molto più denso di quanto le mie capacità le mie capacità consentono la prima volta che mi sento veramente stupido si fonda un codice rassicura in quaranta anni nonostante
+connected ora lo abbiamo ora lo ha alleggerito molto
+allora comunque sono riuscito pioveva a capirlo quello che ho capito quello che ho capito
+anzi quello che ho pensato ma se le utilizzi il disco per tenerlo mantenere il
+modello il che significa essenzialmente sto utilizzando la stessa di ssd di fatto usò del flash memory ora qual è il collo di bottiglia ovviamente il processore quindi tu leggi da dall'essersi di loro puoi leggere un certo modo progresso se utilizzato per leggere blocchi di memoria eccetera però ovviamente deve passare tramite il processore per le sue capacità
+il parallelismo limitate quindi la moltiplicazione matrici non le fa bene ma se noi prendessimo un ssd li attacchiamo direttamente o renne più che esistono che sono semplicemente dei componenti che fanno moltiplicazione di matrici sono ottimizzate per fare questo e solo questo e molti pensano che leggi più sia alla vista che in realtà è
+più sono dei processori ottimizzati per le per la grafica e sono stati adattati a fare cose ma è ma la loro complessità è molto maggiore del necessario quindi è sufficiente avere una haram casi una fascia rumore
+dev'essere ssd si potrebbe attaccare direttamente né più e probabilmente anzi ne sono convinto si può con con delle spese
+in italia qui non c'è ottocento mila euro come oggi è necessario per comprare una dx poi per seguire si può eseguire in si può creare un'ardua che potrebbero essersi dicono me più che in grado di eseguire un modello stata stato dell'arte ha un costo
+secondo voi si può arrivare a cinquecento mila euro abbiamo cose di questo genere questo sarebbe rivoluzionario perché tu vuoi veramente avere un db gpt o comunque un modello stato dell'arte su tuo desktop quindi la domanda che aspettiamo a farlo
+io credo progetti
+scherzo ma a questo proposito scusa i colli di bottiglia e michela ha citato lacci più ovviamente c'è anche il disco e l'accesso al disco
+nel mio caso ci tengo a dirlo che è un mese si tiene a di dire senza ram quindi c'è non ho nemmeno l'aiuto di avere una memoria in qualsiasi serie we met ma aiuta quindi è anche la condizione peggiore assoluta io ti ho solo fatto una condizione peggiore assoluta possibile e quindi il computer
+più include il peggiore di tutti quindi è proprio un computer am l'ashram sulle stesse in questo caso non aiuterebbe particolarmente no
+non ramblers
+ssd è una flex che è sostanzialmente una memoria abbastanza rapida in lettura che scrittura
+per modo di dire michele
+certo per modo di dire però se hai un basso diretto
+emettono un ora
+ne più si chiamano
+dei tipi che fanno moltiplicazione di matrici secondo me ci riesce semplicemente collegandolo in maniera diretta magari mettendoci un socio o junkyard custom a ottenere praticamente l'esecuzione del modello curato e di basso costo cioè non dobbiamo fare oggi per seguire un modello
+eccome cm o dieci quattro questo spettacolo ok
+quattro ci vogliono computer che costa cento mila euro si parla della famosa di east station settecento gigabyte di ram è
+reggi più di trecento all'invidia invece io dico che questa cosa si può eseguire con un costo veramente con il cuore di un di un hard disk ssd attaccato a un chip soc un ipotizzato che fai dalla moltiplicazione di matrici quindi io sono convinto che si può avere con mille euro una roba che equivale a una cosa che costa cento mila a grado
+sì perché manca il marchio sorride
+per una cosa del genere nel senso che ma manca una parte di progettazione architetturale perché di fedi che compriamo sono commerciali sono in bmi sono
+ai pregi
+ippica tre tre zero quattro zero ma manca definire come li appiccichiamo assieme e leonardo e custom ma ripeto siccome non essere se ti costa
+sì però michele ti serve ti serve anche l'infrastruttura di elaborazione ti serve il processore il sistema on chip la cosa che abbiamo di non lo può gestire il computer cioè crea semplicemente essere una specie di di di di medico processore che fa le usi usi un anno più su su su ba speciali
+come ci sono per esempio la salute più lento io pensavo proprio di attaccarlo direttamente io l'aspetto di harvey sono fantastici
+abbiamo dobbiamo provare a disegnare un progetto che faccia questo ok quindi hai bisogno di un processore che indirizzi blocchi hai bisogno di un sistema operativo che ti allocca la memoria di questi blocchi devono essere caricati ha bisogno di un dna che ti fa il trasferimento hai bisogno di un sistema operativo che ti fa eseguire in maniera concorrente
+tutti i processi di cui ha bisogno la cosa che ci somiglia di più per esempio è un microcontroller come un'arma chip come c'è su raspberry e su raspberry tu puoi montare un'estensione per montare un ssd che è anche discretamente veloce e anche puoi montare uno shield che abbia un enne più come quella che descrivi piccolina e
+sundas direttamente dal
+ti serve un processore ce lo spiega vincenzo
+allora sì va bene ma siccome era e siccome l'architettura del del l'architettura del verde
+senza stabile probabilmente si può evitare il processore è seguire un flusso correre più veloce io questo vi rende felici quale si ricorda che quella che suona sistemi uno a trenta anni fa e quindi non è che io lo sia oggi ad esempio
+mappa utilizzata
+buona via di mezzo la cosa bella è che comunque in generale la cosa che ripeto bella è il fatto che da un argomento qualsiasi ne sono nati i sette idee completamente diverse ognuno mi ha dato una propria quindi questa è una delle cose più belle che scatena un progetto del genere e
+si serve sicuramente un più vero che marco previsto dall'hardware
+io alzo le mani o col punto di vista non voglio non voglio non mi mettono non mi metto al pari valore rispetto rispetto a questa parte sono molto più bravo nel software e sirolo sono visto è vero serve più perché ci serve un certo tipo di elaborazione
+nel me ha ragione andrea c'è un c'è un collo di bottiglia c'è un limite perché i nostri sono da questo punto di vista si era pensato a un raid per un certo periodo
+molte persone stanno provando in raid altri lo stanno provando con un octane da questo punto di vista che è stato
+è quello di intel ho trovato persone che ce l'hanno
+lo sanno lo hanno provato e hanno detto che dal loro punto di vista va abbastanza bene per essere un sette bisogna sempre calcolare che va bene per uno settecentoquarantaquattro miliardi parametri è sempre una base principale da per sottolineare perché questa è una cosa che le versione noto anche gli usa che ci si dimentica che non è un trenta b non è un ventitré
+sebino ne ho settanta settecentoquarantaquattro miliardi di parametri e un di gamma da questo punto di vista di lennon e dispositivi hardware
+in realtà nel in questo caso nel mio caso non ci sto pensando semplicemente per un motivo perché
+secondo me ci sono ancora ottimizzazioni che noi possiamo fare a livello software e tanto ancora
+tramite calcolo matrici
+un tipo di coltivazioni arrivare a capire quanto un modello
+può riuscire a essere compresso non naturalmente non andando contro nessuna regola di entropia assoluta
+però rischiano prendere il più possibile ma riuscendo comunque a tenere un concetto di qualità scusami ma figurati
+mi ricollego a quello che il centrodestra e ha una domanda che ho fatto prima a marco
+e qua in questo momento quanto del vostro lavoro e permettimi questa parola accoppiato a
+ha una
+uno specifico modello siano addirittura a un modello in quella quantizzazione
+quanto invece magari c'è già o ci state lavorando o lo fate pensando una specie di
+un modello fiction leaker che poi sappiamo come tutte le astrazioni produrrebbe un efficienza per carità cioè però qua quanto se state ragionando
+allora sì
+ho iniziato con un semplicemente per un motivo perché era per me un modello
+utilizzo la parola
+che trusters
+da antropofagi raccontare una cosa
+un aneddoto forse mormon molte e molti di noi hanno sentito parlare del
+chiamiamolo dell'attacco involontario di
+o gpd a due
+quando elsa ha provato a usare un modello di frontiera per con per analizzare l'attacco non ha detto quale ma se dovessi andare a un'agenzia di scommesse non faccio nomi a scommettere direi un fumble fimon mi possa o no
+modello era cloro
+ha rifiutato di effettuare l'analisi perché ha pensato che fosse una è in realtà un tentativo subdolo di aggressione e quello d'impresa dichiarato che loro sono messi in piedi un chiamiamolo plastica sul quale hanno fatto girare tecnologia lemme per
+fare quello che magari frontiera si era rifiutato di fare questo per per dire qual è l'importanza
+dell'esistenza dei modelli a piedi aperti e poi nello specifico ho imparato di trust nei confronti di gerusalemme beh è appena stato dato in un caso e definire eclatante sarebbe riduttivo
+no assolutamente sono assolutamente d'accordo
+gemma è nato proprio dal fatto che lo utilizzavo
+e io sono del parere che dovevo utilizzare un modello della quale io mi fidavo se lasciamo il computer
+più o meno questo il mio ragionamento è assolutamente noi stiamo cioè io sto lavorando a gerusalemme ma in realtà stiamo ora sto lavorando per aggiungere altri modelli
+stiamo lavorando e lavorando per raggiungere kipling di tin machine e aggiungere imitrex è uscito oggi
+beh avranno aveva detto ventisette luglio al ventisette luglio è stato
+proprio oggi e ci stiamo lavorando per poterlo inserire dentro ci sono vari tipi di ottimizzazioni che ho creato per ridurre ancora di più il modello
+parliamo di cifre del venti venticinque ventisette per cento che è comunque in un caso in un caso di modello non è mica poco è perché hai più spazio per la rambla questo punto di vista nella quale puoi caricare puoi caricare più magari più esperti in aiuto a quel punto di vista è in realtà supportiamo tendenzialmente questa metropoli
+supporto modelli è e perchè perché è molto reale questo è il metodo migliore con la quale puoi avere contatto
+genere
+più avanti ci potranno essere altri tipi di modelli e i modelli densi sono sicuramente interessanti
+però in questo momento stiamo puntando su modelli che
+da questo punto di vista colibrì riesca a supportare come architettura il mio è più favorevole al concetto del loro talmente favorevole a un concetto da questo punto di vista perché proprio mio è stato un gioco serio per lui una scoperta incredibile perché si è passati da un intero modello l'inter
+conoscenza esperti di conoscenza
+noi nella parte web abbiamo
+zack non io in una comunità ha inserito atlas che è una cosa interessantissima ci permette di vedere quali esperti sono relegati in base all'argomento di riferimento e
+è bello vedere una mappa di questo inglese questo è cinese questo è matematica vedi questi mesi scusa perchè centra poco
+cosa vince michele magari tu ce l'hai installato da qualche parte io e te
+dividere lo schermo perché vincenzo mi diceva prima non può se qualcuno di voi può farlo sarebbe una figata perché la parte vismara
+dunque c'erano sulla spark
+aspetta un po' perché scusa ma perché sto in fase di aggiornamenti e test reichlin non vogliamo interferire con lo sviluppo
+anche a ora
+no limits
+il modello ce l'ho installato spettatore
+vabbè dai allora in background si inserisce questa cosa io però farlo ripartire alla grande
+scusa un'emergenza o per e-mail
+sì grazie grazie p s scusate scusate se ogni tanto vedete che mi dilungo bloccate no
+loft è un lusso che ci piace sentir lui senza problemi perché io poi quando si tratta di argomenti io vado paul
+tornando quindi alla domanda di andrea e e è parte appunto hai già risposto in parte c'è già diversi modelli sono previsti nella pipeline ma quanto è difficile l'implementazione di deviata c'è quali sono i meccanismi per cui un modello quanto tempo l'effort che ci vuole qualcuno che è
+allora in questo momento la mia lentezza nel mio computer
+ma quindi avevamo comprato un computer e l'ex barca per computer e la mia connessione perché
+sai è un atto e pessimismo vado faccio in gestione attività
+per dirti un attimo la mia situazione
+ho un bar in prestazioni
+sei su windows and seasons windows windows ma utilizzo west liguria
+ho un intel terza delle nazioni sette fui una memoria ram da trentadue però in questo caso un disco ssd ssd nvme è un patriot due quattrocento disk esterno non raccontare perché un disco normale e un night più
+quell'interno di intel
+ho iniziato a utilizzare adesso perché hanno implementato la comunità un po' di librerie però non è ancora è ancora in dad è ancora un po' da definire e questo è più o meno il computer di riferimento con la quali io lavoro diciamo che i limiti sono in questo momento la connessione che non mi aiuta
+il computer di riferimento che non aiuta
+però
+il supporto ai modelli presenti viene anche e soprattutto dalla comunità perché poco tempo fa è arrivata una pierre di un dpts league
+che ci si doveva un può decidere se di psic flash di psic pro
+allora se dovessi seguire la filosofia di colibrì dovrebbe essere di cipro non di dps clash perché perché
+da piccolo piccolo motore immenso modello quindi noi andiamo sui modelli che siano anche se l'etimo basta che siano modelli della qualità di cui fidare al cento per cento e kipling in realtà è stata una mia curiosità essendo il primo modello open source americano da questo punto di vista
+editing machine mai murati ex opening night
+è sicuramente è sicuramente uno dei modelli comunque interessanti non mi interessano i benchmark da questo punto di vista l'interesse che un modello americano sul sito open source e l'altro adesso cecchini siano solo ci sto solo aspettando solo cini che uscisse e sarà uno di quelli che metteremo subito senza problemi
+la conversione ecco ritornando alla conversione ai passaggi i passati potevano essere abbastanza semplici all'inizio perché ci si basava soltanto su ventiquattro a dire la verità
+tramite la comunità ci siamo accorti di poter fare un po' di ottimizzazioni che potevano essere sei unit quattro ma con bruxelles da sessantaquattro non facendo solo una riga ma riuscendo anche a fare un roux khaled quindi mantenendo una qualità abbastanza alta nella jed e ci si è accorti anche di poter
+poter ottimizzare altri punti di vista del modello mantenendo sempre una qualità alta che era la cosa più importante perché il pericolo era poi tutte queste quantizzazione la qualità scende
+c'era anche un nuovo metodo che si chiamava il reap che
+lo ipotizzo che vi permettono di dire ma forse mi sbaglio ma simile un nel web tre c'è la possibilità che si possano sì si parla ovunque sorelle hanno ventiquattromila volte su ventiquattro zero argomenti completamente diversi
+si vedono gli esperti che si attivano quelli che non si attivano in nessun modo vengono tagliati quelli invece che rimangono attivi vengono lasciati e si riporta il modello però questa cosa in colibrì non l'ho non l'ho voluta e non la voglio però semplice motivo perché elimina una parte che magari può può perdere di qualità in altri casi
+sì per esempio una tully collin potrebbe essere rischiosa da questo punto di vista ho anche altri casi quindi sì diciamo che questo momenti procedimenti sono lenti per computer ma potrebbero essere sicuramente più veloce altri punti di news qui quindi
+cenzo hai da una parte il scarichi il modello completo così com'è assurdo non hai il via f sedici wall street dipende ma dipende da quello che già gravissimo dipende ora stanno facendo il training in direttamente ogni quattro o in make up quattro in questo caso kim
+quindi difendere i porti dietro questa battona che è un modello chiaramente policy file probabilmente strutturate in qualche maniera poi immagino che il tuo procedimento sia di presto di arsene calcolare tutti i puntatori che dicevamo prima e poi forse eri quantizzare l'ho
+assolutamente sì andrà in tanti casi come dicevo prima dipende
+oppure quantizzare lo ho
+già quantità da questo punto di vista e in altri casi viene non solo fatto un quattro ma viene se viene fatto in quattro mi hanno fatto anche il gruppo del sessantaquattro che permette la possibilità a questo punto te l'hotel riscrivi con la quantizzazione target e poi lavori su su via offset su questa seconda versione è come dire tre ottimizzata
+ecco in termini di dimensioni quali sono i passaggi c'è quindi tu parti da un modello che sarà che ne so due tera all'inizio no doveva andare in questo caso se non mi sbaglio dovrebbe essere più o meno sia roba del centrocampo due terra poi fai questo passaggio qui e ti viene fuori che ne so
+meno di un tera a questo punto quella è la tua area di lavoro che dev'essere letta alla forsennata quanto ti serve
+e poi hai il procedimento di di di routing all'inizio durante la prima la prima cosa e poi carichi i layer o in compagnia
+diciamo che ti servono
+ecco
+una cosa importante che ti aggiorna parla di gemme sono intorno all'ultimo nell'ultimo gemme sono trecentottantacinque scusi volevo darti soltanto quest'anno
+quindi per non parlare in maniera infatti quindi arrivi ad una versione compatta di trecentottanta giga ho capito che è compreso di tutto tutto il modello in sé un nuovo
+ad uno studio che avevamo avanzato adesso porta i trecentottanta a duecentottanta giga mantenendo la stessa qualità key west l'ultimo studio fatto
+altri cento giga così ma non sono mica pochi
+perché
+di lavorare infatti un marco tiro del tuo scooter per bar
+ha la possibilità di poter lavorare con un computer del genere così piccolo e che mi spinge sempre a dover ottimizzare però senza dover perdere ed è la cosa più importante che mi sono stati chiesti anche nelle iso guarda non ci interessa vogliamo un biglietto sedici vogliamo la più alta qualità assoluta
+ho capito però non ha senso che amo di lavorare su qualcosa di più valido che ti dia tutte le risposte che sia stato anche poi dopo sennò muori di routine numeriche rischi di dover fare settemila aqua net pinochet e alcol house edge o la ratifica di tutto però alla fine
+bisogna trovare una via di mezzo che sia valida ne abbiamo testate mille e la comunità ne attestati mille ed è questa è stata una delle più grandi fortune e avendole testate talmente tante che alla fine siamo arrivati in un punto di rocce vinto quattro sei quattro e mdp
+intatto la possibilità di poterli attivare o disattivare gli meetup perché dipende in alcuni casi se la dramma supporta e ti aiuta in molti casi nome in altri casi si è
+per esempio nel mio caso liam pin non in negativo perché
+aggiorna la situazione però la possibilità di poter ottimizzare sempre di più senza dover perdere quindi quarantuno anni concetto lossless
+là è fondamentale perché
+portare un modello come gemme un hobbit cosa alla fine sto comprimendo talmente tanto una conoscenza che alla fine non ti sto facendo parlare col venuti ellen quindi il mio la mia idea era voglio darti il miglior modello m che tutti hanno testato ci siamo resi conto che funziona
+sono abbastanza bene molti lo utilizzano come in open cloud ho scoperto
+tramite tool colline
+è una delle cose più più belle perché per esempio se uno volesse a un computer abbastanza valido può far andare un suo agente open cloud
+sul proprio computer con colibrì quindi le opportunità
+o l'altra o l'altra domanda cioè verso l'alto stai facendo skate facendo qualche cosa per rendere più facile la vita di chi val lemme di turno la open web www turno per per per far sì che
+tu portino anche colibrì o è automatico cioè come allora in questo momento sono solo l'azienda che fa ellen studio cenando e pola rilasciato dall'inps loro han detto ha senso ed esattamente com
+supportano vulcan
+oh lama la email heights
+volessero supportare colibrì
+l'inserimento è abbastanza abbastanza semplice da questo punto di vista perché non non lo dico io perché magari sa chi l'ha fatto a tutti i metodi per poterlo implementare ne dici so tutto e vi amano surfare a dire la verità nelle isole ho notato che tantissime persone l'hanno implementato in là qualsiasi chi si ha poco tempo
+fa un ragazzo l'ha implementato in un server da brewers per testarlo in network e vedere come rispondeva in altri casi si era pensato di utilizzarlo anche per i telefoni
+in altri casi ancora per utilizzarlo a vita per utilizzarlo a supporto di oklahoma oklahoma mac pio che sia
+non è abbastanza semplice la cosa bella è che colibrì su vari supporti che ormai sono nati
+da cui nuda aipd vulcan
+continuano sempre essere aggiornati continuano se la cosa bella è che ci sono persone che testano le provano perché io non potendo provarle
+ohimè dio nuda mi affido a whatsapp che fa test o ad altri che fanno dei test
+mi dicono mi riportano tutto il procedimento e io poi dico che è perfetto possiamo negare però sì diciamo che da questo punto di vista colibrì può essere emesso come un layer di riferimento verso un tunnel di riferimento un tutor di riferimento alla quale lui poi si comporta di conseguenza l'obiettivo di colibrì in questo momento a dire la verità
+sa è quello di essere un
+un framework una scatola che se tu hai su ibrahim jerram se tu hai disco ram ram se tu hai tutto quello che dipende colibrì si adatta al tuo computer e si fa e ti fa parlare con me di conseguenza con quello che hai principalmente è questa l'idea di colibrì finale c'è quello
+raccontati vincenzo a livello di impiego delle funzioni del processore ovviamente con tutti i mille processori che abbiamo tu avrai scelto delle opzioni di compilazione per usare determinate
+bonifici funzioni del micro codice che cede il processore come come si
+come si realizza questa parte qui quali tipi di architetture supporti in tema di operazioni matriciali per esempio farlo nel mio caso nel mio caso ho sopportato le hai
+a wix
+i né no non mi ricordo benissimo l'ultima parte comunque a supporto dei lee weeks ce l'avevo perché ce l'ho qui sul mio processore e le ho testate personalmente e da che passavo da un nano libreria di riferimento un ribelle di riferimento specifica per il mio processore ho visto comunque dei netti miglioramenti da pubblico
+essenzialmente testate all'inverosimile in brute force quindi facevo ogni calcolo possibile immaginabile per poter arrivare a dire che quel tipo di teoria mi poteva aiutare il resto della comunità ha aggiunto altro tremendamente altro migliorando quello che devo
+ho scritto man
+ma stiamo parlando di venti terra da quel punto di vista perché alcuni calcoli alcuni capi di matrici alcuni calcoli di riferimento loro li hanno ottimizzare sempre di più perché perché erano superiori sia effettivamente
+è un progetto di legge da solo non basta effettivamente loro sono riusciti a fare veramente tanto e il supporto a questo processore ma anche altri professori ho visto sono tremendamente supportati ed è un lavoro veramente incredibile da questo punto di vista nel mio caso will sicuramente cinquecentododici se non mi sbaglio quale sono inserite
+scusa ma cosa ogni tanto mi vedi non ricordare ma semplicemente perché ho talmente altro da questo lato che mi devo ricordare anche
+il resto quindi scusa bisogni tanto di
+una nuova memoria fra quest'ultimo o non essere preciso da questo punto di vista ti chiedo scusa però intanto non ti preoccupare va benissimo
+memoria affinché nel frattempo
+tutte tutelerà stavo provando a seguirlo però paura che il modello è stato aggiornato rispetto a
+io altro modo due settimane fa prima della release uno zero dopo l'arrivo sono azzerate cambiato il modello e abbiamo passato tutto a quattro esse sessantaquattro per qualità
+perché io adesso ciò la gelée
+cinque i quattro music e dell'ultimate alla quale ci eravamo resi conto che il tool polling non era abbastanza preciso e quindi non c'era altissima qualità e
+funzionava bene per i prompt corti ma non benissimo con i prompt lunghi e quindi
+la comunità ripeto ha fatto tutti i test del caso e ha passato di riferimento dicendo il quattro il sessantaquattro diventerà lo standard de facto perché
+risponde meglio da questo punto di vista della qualità non si perde ok allora sono zero usa i quattro non favorisce sono zero per i quattro abbiamo aggiunto uno uno uno se non mi sbaglio
+uno zero e io ho fatto ho fatto il mio account della versione uno zero ho installato la cinque
+due quattro con aggiornati e il router a otto e quindi quindi come come lavora specifiche e quindi ho fatto forca alla uno zero quando lo fai quando non sei veramente ok basta adatti condividono lo schermo
+sto facendo qualcosa di sbagliato allora praticamente
+allora dunque questi sono questo e questo è quello che ho
+la uno zero quattro e mi pare che che brutal death of roslin e hop e il equilibri uno zero due
+allora quindi sono andato nel cielo combinato marche cuda uguale uno come dovrebbe essere combinato se questo è un errore sempre con la spatola
+e poi adesso lanciato cogli cuda war uno cool cat corretto tigli regola sì ok allora questo look di distinguono quindi significa che è una chiavica effettiva e nocivi
+hai un id l'hai già utilizzato questa conversazione infatti dice che hai una policy lab
+tabelle
+sì però se io dico e lo
+qualcosa però sembra che io avevo fatto delle prove tempo addietro con una pre uno zero rispondeva
+l'errore che poi è il risultato della qualità alla quale infatti noi abbiamo poi a un certo punto ho modificato tutto perché questo questo questo modello subiva una doppia quantizzazione che non aveva senso perché quindi poi abbiamo siamo riusciti a risolvere farò prendendo standard de facto l'ultima che era intubato ghiaccio
+quattro io ero riuscito a eseguirlo però a sto niente
+scaricare il modello ultimo c'è
+troppo grosso per poter fare enne super
+indi sto provando
+praticamente il problema è che devono rimanere aggiornato quindi non posso non posso abbastanza grossa richiede qualche ora per scaricarlo quindi non certo qual senso però basta ci debba fare altrove e compilare
+quindi se lo sapevo
+nel pomeriggio e in quanto a supporto vincenzo che allora chiedo neanche la carta su apple silicon
+ah sì c'è stanno supportando metal di riferimento
+no stylist è totalmente aggiornato da penso un certo douglas che lo sta aggiornando solo lui lo sto tenendo lui aggiornato e io non riesco a testarlo però ci sono delle tempistiche del benchmark abbastanza interessanti parliamo di i quattro chili in così poco in un secondo per alcuni casi
+con un pin di riferimento e andando avanti sempre con lasciate quindi passiamo da un cold start a un ot statt dopo
+si sieda
+sto guardando il filmato da una sul repo proprio polsini con extreme cinque maps
+sub due tornano a essere tuo grazie non mi ricordavo non mi ricordavo benissimo comunque sì perché oltre che sono adesso una valanga di benchmark che mi stanno arrivando però sarà comunque ricordarle a memoria tra l'altro
+ho imparato che ricordare a memoria spesso ha poco senso a norwich impossibile a questo con questi numeri è praticamente impossibile perché non
+sai per un progetto open source come questo ma anche secondo me chi fa progetti open source
+jacques con questi numeri ricordarsi tutto è praticamente impossibile tenersi e soprattutto la tua mente è concentrata nel dover sempre creare la prossima cosa e quindi a un certo punto ti perdi da quel punto di vista quindi capita in molti casi che alcune domande alcuni concetti siano
+in alcuni momenti totalmente offuscati in altri casi abbastanza chiari quindi da quel punto di vista io parlo sempre di ricordo
+o altro ma soltanto perché la memoria intanto non c'è molto in questo periodo domanda e in termini di ottimizzazione che pensi possano essere possibile in futuro no con algoritmi che piuttosto che cosa vedi che cosa pensi si possa che prospettive ci possono essere
+allora il mondo e se si di inferenza ho scoperto che un mondo che in realtà era
+sottobosco ma che in realtà era un discorso che dà molto se ne stava parlando proprio per il discorso della ram e
+secondo me da altri punti di vista
+solo i sessi d non basta
+c'è la possibilità di poter utilizzare per esempio ci sono dei degli studi o dei calcoli che sono stati fatti dagli utenti nella quale per esempio i colibrì
+per far andare un pm ci dovrebbero essere cinque sei per cento acqua duecento che possono più o meno venticinque trenta mila dollari l'uno quindi una macchina da centocinquanta trecento mila dollari
+tre colibrì fa girare lo stesso con wordpress position di serie x cinquanta novanta quindici mila dollari l'anno questo punto di vista questi sono i calcoli che più o meno sono stati fatti alla fine nel futuro vedo nel caso di tre la possibilità di sicuramente ottimizzazione del modello sicuramente algoritmi che possono
+magari modificare internamente un modello quindi la possibilità di ottimizzare magari art action modificare
+l'utilizzo degli animali da alcuni punti di vista è sicuramente la possibilità di vendere il tuo computer o qualsiasi computer accessibile alle aree in ogni modo senza dover andare a spendere sicuramente una cifra diciamo impossibile per i portafogli di persone comuni da questo punto di vista
+quindi penso che in questo momento la tecnologia quello che ho notato è che
+colibrì ha mosso qualcosa non so ma ha mosso qualcosa puoi muovere ha iniziato a far pensare quindi
+l'accusa si sta pensando e quindi puoi pensare si stanno creando dei test come per esempio prima vedevo marco e michele che cercavano di trovare la soluzione migliore dell'hardware di riferimento e lo stiamo facendo in piccolo qui immaginate dalle altre parti come si sta pensando
+avendo saputo che adesso c'è questa possibilità quindi un algoritmo nuovo che può ottimizzare
+un ritrae ning soltanto di una parte una specie di lager che può essere messo in quel punto per ottimizzare soltanto quella parte un ellen è ottimizzato appositamente per le stesse dicono nemmeno differenti ce ne possono essere miliardi
+ma purchè se ne parli questo è la legge finale perché nell'open source secondo me è avuto con progetti del genere la possibilità di poter
+per poter parlare di poter rinnovare lo spazio è enorme
+una cosa importantissima vincenzo mi mi mi aggancio a quello che stai dicendo è che
+il concetto stesso dei modelli moe rispetto ai precedenti modelli densi a mio avviso richiede un ripensamento dell'economia dei token
+ne parlo in maniera più chiara
+se io sono una iper scheler che vendo l'accesso ipotesi a football five è che costa tanto perché è un modello molto complicato eccetera eccetera e non mi è dato sapere se sia un modello moe o meno
+ah ah ah cloud conviene che sia un modello hmo scusa ad antropiche conviene che sia un modello moe perché può utilizzare e infrastrutture molto più economiche per farlo girare alle medesime prestazioni
+se però si afferma un modello in cui il costo per token non è associata all'architettura del modello bensì alla potenza del del modello giudicato nel suo complesso con i suoi terra parametri
+allora questo falsa il il il l'economia del prezzo perché non ha senso
+associare il costo per token se il tuo cane è stato processato soltanto tom sab set molto molto più piccolo delle dimensioni complessive del modello
+ma infatti da questo punto di vista
+hai ragione proprio perché
+i livelli di inferenza stanno cambiando diciamo che i modelli cinesi hanno sbloccato ma adattate ne ha parlato anche mistral europea ogni tanto si nomina veloce ci illustrato europea che ha utilizzato
+su kulusevski seicentosettantacinque b che come un po' un modello assolutamente interessante e sicuramente sta cambiando sicuramente ci si è resi conto anche che il costo dei token si sta andando sempre più a modificare
+da questo punto di vista i modelli come per esempio i detrattori di cloud non è dato sapere ma se è più o meno stiamo nella lunga linea dovremmo comunque essere nella stessa tecnologia basterebbe vedere il paper di chini per avere un'idea principale di come il mondo comunque sta andando all'interno delle heights
+è stato rilasciato anche il nuovo il nuovo peter di cimici riferimento
+sicuramente è cambiato sicuramente dovrebbe cambiare tanto è la possibilità sicuramente da parte da parte di questo progetto è stato proprio quello di
+vangare l'idea di tokyo nel secondo e di levarlo totalmente come concetto e di farla capire dal primo punto di verde va tocca nel secondo ci sta e il paper token che viene pesantemente influenzato dalla nasa alla diversa architettura dei modelli perché se io ragiono con una stessa logica di pepper tokyo
+come un modello denso o con un modello moe l'infrastruttura che serve per farlo girare e completamente diventata molto diverse e per esempio parlando siamo in emilia romagna tu se emiliano romagnolo anche te ma io no io sono pugliese a pugliese comunque
+pensavo fosse emiliano perché
+micene ne avevo parlato del fatto che non sono arrivato purtroppo il mio accento emiliano non si sente mi dispiace
+reggio emilia c'è scritto tuo profilo e se sì sì no io vi vorrei
+comunque volevo dire volevo dire che il
+l'infrastruttura di supercalcolo di bologna offre adesso una una porzione del dell'architettura più vecchia diciamo così del del datacenter quella che ha tre anni e che ha delle delle schede a a cento
+a d'accesso diciamo estremamente vantaggioso gratuito addirittura per lesse moby dell'emilia-romagna che vogliono fare training e questa è una cosa estremamente importante perché loro stanno mettendo su un'architettura di data center espansa più potente e più grande che avrà
+vedo delle duecento o trecento raffreddata fluido e e quella architettura invece che un pochino più più vecchia viene ceduta o viene comunque resa accessibile alle piccole e medie imprese con dei pacchetti da cinque mila ore ma che non è male
+merda
+me andrea è una cosa che a me ne ho letto posso recuperare i puntatori adesso sto citando a memoria quindi non sono in grado di darti l'url
+però c'è
+accesso a questa roba si possa dire una cosa molto nerd mio profilo il mio profilo facebook e pubblico quindi
+c'è qualcuno vuole va su facebook e crolla indietro a tre anni fa ci sono le mie foto da bimbominchia nel cantiere regine vi è nel data center di leonardo ancora
+cantiere infatti lucca
+cose del genere e ci sono le foto allo schema elettrico alle blida aperte
+e anche gli schemi del male harbor che hanno sulle crearci esattamente come li usiamo
+io ho lavorato anni fa una parte dell'impiantistica ho collaborato a lavorare una parte dell'impiantistica per quelle per cui il sistema è comunque sia l'obiettivo non era descrivere com'è fatto bensì dire che esiste l'accessibilità di una parte di questa infrastruttura che è non più più non è la più
+nuova ma che è disponibile per
+effettuare del training con delle gustose fette di tempo di elaborazione potrebbero essere vecchie interessante poterlo poterlo anche inserire visto che cento colibrì è stato testato con delle cento
+è interessante ed è interessante anche poterlo mettere a disposizione di qua di nelle lemme di questo tipo metterlo a disposizione all'interno del bronzo i propri server anche provare che ti metta in contatto con loro ne parlate perché noi abbiamo avuto adrian conf il mese scorso il directory
+supercomputing di cineca come come panelist come guerra e quindi sono in contatto diretto con cineca
+valdelsa e se può interessare colibrì senza dubbio penso mi faccio una chiacchierata e se provate una forma di convergenza ti ringrazio penso cioè per quale motivo marco ti dicevo del fatto di
+della possibilità del novecento
+perché col fatto che si utilizzano sempre più esterne
+sarebbe bello che una qualsiasi comunicazione di qualsiasi tipo passasse da un modello totalmente il local e nella quale la gestione anche privacy venga anche gestite in una certa maniera certo
+la possibilità che ci siano degli agenti sulla quale degli utenti le hanno utilizzate sul centro colibrì ha utilizzato e funziona non mi sbaglio siamo sui otto nove dieci dopo in un secondo
+quindici è il margine della chat però poi non so il numero del centro di riferimento però comunque secondo me ottimizzando è possibile la possibilità di avere sì un proprio modello che sta all'interno li lavora lì ottimizzato in una certa maniera famiglia del topino come hai detto tu prima giustamente del network la possibilità che si possa anche ottimizzare da questo punto di vista
+da un momento all'altro hai un modello tuo che sta in locali sugli esercizi adesso non ci siamo presentati ma io sono un sostenitore della privacy telai locale e la mia azienda produce un software che effettua inferenze private e che gestisce un ai per use azienda
+l'enterprise eccolo questo era un falso
+sa del genere da questo punto di vista per questo io sono molto interessato al tuo progetto in termini di
+aggiunta di un motore basato su colibrì alla collezione di motori che già esistono e che supportano diverse tecnologie di accelerazione assolutamente assolutamente simile è nato per nasce proprio per questo motivo nasce la possibilità di poter tenere adottato conversazione qui
+va da nessuna parte non è un esempio di training magari per altri o non viene utilizzato anche per altri casi ma in questi casi comunque abbiamo prove si ha da questo punto di vista
+però è sicuramente interessante c'è lui io da questo punto di vista della privacy e ai locale ci credo ma quello che quello che mi ha spinto di più in colibrì è stata noi viviamo in un mondo nella quale le hai ancora ancora una domanda da alcuni punti di vista
+io non parlo delle persone che ci lavorano
+io parlo proprio della persona comune c'è paragone delle persone con la quale non sa sanno cos'è gpt ma non sanno come utilizzarla è la mia
+di colibrì era quella di
+di poter mettere a disposizione di queste persone anche la possibilità nella maniera più semplice possibile assoluta
+le hai più le migliori in assoluto per farvi conoscere le possibilità che potete avere e questo l'idea di poter democratizzare il più possibile l'accesso e non renderlo esclusivo da questo punto di vista quindi
+una delle comunicazioni finali di colibrì sarà quella di rendere più
+user experience possibile il più semplice possibile riutilizzare che sia un semplice comando che tu lanci ebay
+certo ma anche quello che dicevi tu accennavi prima e io aggiungo del miur da parte di impiego a sincro impiego a sincrono può essere estremamente interessante che disaccoppiare completamente la velocità il performing puro dal dal valore del contenuto prodotto quindi se io faccio una domanda alla sera e la risposta
+la leggo alla mattina ci sono un'infinita varietà di casi d'uso per cui questo è eccellente assolutamente stima infatti uno dei casi risultato dalle isole dagli utenti
+utenti mi dicevano proprio questa cosa mi dicevano non m'interessa il tempo io c'è un utente che lo utilizza in batch praticamente ogni tot lo fa andare lo fa lo fa andare lo fa andare devo andare a ciclo li controlla li controlla
+continuo e io vi ho detto non ci ho manco pensato a questo utilizzo devo essere sincero però lui ci ha pensato ed è tuttora lo sto utilizzando e la sua utilità in questa maniera ed è fantastico come lui stia ottimizzando sempre di più il tutto
+questo è bellissimo scoprire venti nodi impiego a sincrono estremamente importante e per esempio nella componente genetica e anche adesso in tutti i sei focalizzato il tuo focus sui grandi modelli ma anche sui piccoli modelli e sull'impiego sincrono si possono fare delle cose spettacolari anche con dei micro control
+veramente da pochi dollari
+libri dei piccoli modelli deriva soltanto da un semplice motivo
+io credo che piccoli modelli siano ottimi e lavorano meglio in verticale
+da questo punto di vista e livelli di pressione personalmente utilizzati
+noi supporteremo colibrì supporterà i piccoli modelli e una roadmap che arriveremo e che li creeremo noi vorremmo vorremmo essere il colibrì degli open modes c'è la possibilità che ci siano più modelli possibili e tu puoi utilizzarle in ogni caso puoi utilizzarli anche tramite il sab agent la possibilità
+di poter parlare che ne so con gerusalemme ma far andare dietro un mistral ssd un wen o quello che vuoi da dietro e di picco dei piccoli processi
+le possibilità sono enormi da questo punto di vista però come marco tu sai ma anche tutti quanti ed
+prima di prima di dire che la macchina è bella bisogna essere sicuri al mille per mille che funzioni quindi noi io voglio si curvò
+al mille per mille che il software che stiamo dando è che stiamo consegnando funzioni venga testato e che funzioni nella maniera con la quale l'utente si aspetta quindi prima di poter caricare altri modelli che significa
+dover avere altre issimo altri bug io devo essere sicuro al cento per cento al cento per cento è possibile al ottanta per cento lo accetto che quel modello ora risponde come l'utente si aspetta perché di là in poi la strada
+la strada che ho seguito la riutilizzo per altri modelli quindi non non mi ripeto non non perdo tutto quello che ho imparato cioè so di aver fatto questi passaggi bene gli sbagli non li ripeto vennero ripeto con including bene lo ripeto con ipsec bene lo ripetono schemi
+quindi le possibilità sono veramente ampissima si può scoprire veramente tanto da questo punto di vista timer io sono un grande utilizzatore per esempio della tui le tue chat
+in tanti non utilizzano la chat amano la parte web da dire
+io per esempio amo poter parlare con l'elenco
+tramite colibrì tramite terminale altri adorano la possibilità di poter parlare tramite il web potersi vedere
+gli esperti che si attivano questa è una delle cose che dovevamo vedere la dimostrazione grafica della
+sulla terra e perciò altro incontro nella quale mi inserisco faccio vi faccio vedere poi esco
+se hai promesso vincenzo adesso
+uno promettono assolutamente non mancano ma cosa vi chiedo scusa soltanto ma perché
+ascolta scusami l'interruzione faccio prendo un po' di domande la chat che va un po' trascurato alcune
+abbiamo già risposto alcune no però
+giusto
+segnalarle allora il buon livio ci chiede e qua chiunque sia libero di rispondere differenza ed è quanto assomiglia colibrì ads quattro di san filippo bianchi perché sono due cose diverse sappiamo però
+sono due concetti che lavorano in maniera completamente parallela
+anti rex fa aveva iniziato saldatore che voglio dire che per me è un mito da questo punto di vista per i lavori che ha fatto
+rex ha lavorato di principio sul caricamento in ram del modello e lui lavora direttamente on metal da alcuni punti di vista e piano piano si iniziano a supportare anche cuda il resto anzi questo momento già supporta cuda se non mi sbaglio
+hai inserito anche gelli n cinquecentodue
+perché giustamente anche salvatore se
+rapporto che ovviamente un buon modello lui prima utilizzava di psic flash puoi
+abbiamo fatto anche il sei quattro agent so molto del progetto perché ho anche visto però noi lavoriamo su progetti completamente diversi lo streaming sesso
+altro tipo di concetto
+non sono due progetti che lavorano paralleli ma
+i confronti da questo punto di vista tra tanti progetti io te ne posso dire altri progetti che provano a fare la stessa cosa cioè se sei di lama
+ce ne sono mille altri che fanno questa roba
+la cosa che conta di più è
+bene che ci siano così tanti progetti
+bene se c'è la possibilità di
+trovare più idee possibili per trovare la soluzione migliore
+è bene che ci sia la possibilità che se ne possa parlare ed è bellissimo che la maggior parte vengono dal nostro paese e che ci siano possibilità di poter creare un ecosistema aida westminster la cosa molto bella perché anche bottom mappa
+ti chiedo vincenzo un commento su una roba che io non conosco direttamente ma che potrebbe avere dei benefici
+se ricordi un po' di anni fa si faceva il
+mining delle criptovalute usando il gps
+dopo un po' di questa attività è stato stata introdotta una una filiera di produzione di oggetti hardware specifici che fanno in maniera proprio su dell'fda su dei chip custom fanno il
+esce il calcolo della
+che tu sappia esistono delle architetture di quel genere che potrebbero essere orientate al calcolo delle matrici per ricollegarmi al discorso che faceva michele quindi architetture tipo kant kant
+randy meisner penso di sì penso che ci siano comunque innumerevoli
+possibilità da quel punto di vista non c'è ho avuto
+essenzialmente li conoscono tanto tramite gps non ho mai avuto la possibilità ma comunque i calcoli sono essenzialmente enormi da quel punto di vista calcolando che in questo momento hai toccato anche un tasto importante nella quale molti che facevano mai ora sono diventati macigni inferenze hai proprio per ascoltare tutto questo lato e quindi sindaco
+questo punto di vista penso che ci sia tanto che si possa fare hai qualcuno nella tua community che lavora in questo specifico ambito no assume oh dio che io sappia no
+diciamo così
+ho la possibilità nella mia comunità di avere persone che utilizzano octane che era una cosa alla quale ambivo speravo perché era una delle domande che mi ero fatto all'inizio di vedere ho visto che opt-in era a metà
+visto ryan la possibilità di poter vedere come funzionava e quindi ero essenzialmente interessato da quel punto di vista
+però no del mining no o persone che hanno league i tipi consumer o persone che hanno accesso anche a
+g più importanti da quel punto di vista ho perso tantissime persone che utilizzano apple è
+le basi non pende più e più atlas a qualcuno no nessuno nessun chiunque voglia
+io posso eventualmente cercare di lavorare in questa direzione allora io questa è una cosa che ci tengo a dire e infatti è bellissima io sono interista la comunità di colibrì è totalmente aperta che chiunque è il benvenuto e una comunità nella quale si è giusto nei suoi confronti è giusto che si cresca e qual
+siasi idea non è una brutta idea è un'idea se ne parla se ne discute si prova si testa se non funziona si riprova si ridesta non è un problema tutti siete i benvenuti nella comunità colibrì con il primo progetto open source
+che è aperto a tutti
+come potete vedere rarissimo poter vedere dalle terre ci sono mille idee e la bellezza e di poterne ampio parlare francamente di un'idea buona se un'idea non è non è da prendere in considerazione in questo momento per esempio in questo momento si era parlato anche di trenta km di gwen e io nei commenti ho detto in questo momento
+poterlo aggiungere perché vorrei migliorare gemme vorrei aggiungere altri modelli del genere ma è nella roadmap quindi marco andrea alessandro voglia michele chiunque nella chat anche voglia partecipare al progetto colibrì è assolutamente il benvenuto il progetto sub tab fate il padre pierre
+se avete anche un'idea di qualsiasi tipo che voi pensate possa essere utile siete assolutamente benvenuti a una comunità che cresce enorme
+molto esperta e non riceverete mai risposte del tipo no questi no credete sempre risposte di persone che ne vogliono parlare proprio perché colibrì e da questo punto di vista totalmente aperta scusate ventimila stars ogni tab a si non osavo e
+catania
+darò mandato non
+duemila fox
+no annunciata dal punto di vista siamo a venti uno stark e tanto per fare un paragone su san filippo san filippo e ati catalyst novemila
+eh va bè eccellenze italiane ha altre domande dalla chiatta chiede marcello scusare
+tre
+per arrivare una gara da over di al vapore credo di aver risposto alla domanda in maniera esaustiva se
+allora mi chiede chiede a marcello milleottocentonovantaquattro john shepherd ha il doppio xeon duecentocinquantasei giga di ram ma la versione attuale il colibrì comprendere solo quanti expert può caricare in ram appunto anche quanto il rapporto quanto migliora le performance sicuramente migliora se ne appoggi più ram questo è sicuramente più appoggi meglio è meglio
+continuiamo e meglio è
+c'è un bel secondo me anche anche quello descritto che è stato provato e ha raggiunto secondo me forse inglesi i sei sette tu che non da quel punto di vista
+la possibilità di scegliere quanti pin puoi kinsey quanti quanti esperti puoi inserire puoi mettere un limite di ram da utilizzare
+puoi caricare quanti esperti vuoi per esempio puoi dire voglio caricare fino a centoventotto giga di esperti e lui ti ricarica di il colibrì tiri caricati automaticamente il rame e il resto del disco quindi sì in realtà è nasce proprio quello che ho detto prima colibrì ora ci sono comandi mecca
+unici ma perché è ancora tutto in in development ma più avanti sarà tu installi colibrì colibrì si adatta vede quello che c'è ti dice puoi ottenere questo con questo questo questo questo e questo quale scegli e uno sceglie quello che vuole quello che vuole può andare in esilio questo developer modo
+roba del genere
+altri romanista
+stupide chiede abele aver già risposto in parte però sai usa tourneé calcoli codex per aiutarti a ideazione codifica budget cloud map e test per i test esatto
+per questo tipo di codice per questo tipo di progetto i test erano fondamentali perché come marco anche consigliava prima per i vari calcoli del c più per il calcolo dover fare del passaggio del disco quanti pin in quanto sparirà ama la risposta sono tutti i test
+che devo fare
+mi aiutava tantissimo nella velocità quindi avere in un attimo tutti i calcoli con questo questa velocità con questa autorità con questo questa velocità e io avevo la possibilità di avere un quadro generale e di fare la scelta finale però sia assolutamente non lo scrissi anche nel post di hacker news
+remo una domanda raffica cui in parte ha risposto carlo sacchi chiede quanto ci vuole in termini di tempo trasformare questi mega modelli dall'originale a colibri questo
+allora ecco i soldi non ci vuole tanto perché tu allora bisogna calcolare solo la conversione sul mio computer sul mio computer stesso ci impiego una mezz'ora da questo punto di vista
+non che tendenzialmente poi la copia ce la fa e la fa lo strumento lancio in locale no scarica modello your
+già il modello convertito già convertito che ha assolutamente no perché sarebbe per l'utente una strage non utilizzerebbe mai quindi hai una serie di pose sessuali in senso visto che c'è quello di riferimento alcune persone una persona della comunità che ha caricato il link
+la messa a disposizione mi ha avvisato e perfetto ottimo che lei ha ripetuto lo mettiamo lì ma in realtà poi ho scoperto dopo che ce ne sono altri versioni colibrì che io non conoscevo ti corrono messo opus avevano inserito
+il modello interessante ma erano quindi una cosa che uno può fare anche per di suo senza iscriverti la conversione libera su github il modello convertire il codice di codice allora ti dico io l'ho guardato il codice
+il la cosa che mi piaciuta di più di colibrì è che è molto popolare ma in pratica il
+tutto è l'esecutore del genere non fa il solo jeremy c
+tutte le infrastrutture c'era chat la
+la chat anche le pile pm salve sono moduli che stanno sopra foto foto in hilton
+e quindi l'equilibrio equilibrio
+è una roba che regge un imput e processava youtube quindi è tutto operativamente leggibile quindi del solito la consob fanno tre motorizzazioni sono funzioni che alla fine il core o un lupo e guerreggia un token o passa tutti i vari arrestati e editor e paga successivo pure il processing
+di bimbo per prompt tutta lo spezzettamento esterno quindi è un è un modello cioè moto e moto
+comprensibile è comprensibile e quindi di rendere facile fare una variante in cui si cambia o semplicemente l'organizzazione dei dei player starts utilizzando ribelli ed dentro ci sono questo lo dico perché io vado a leggermi questo soggetto di vieste quattro san filippo è tutta un'altra storia è un enorme monolite
+tutte insieme decine di file chieda pure il parsing io sono io che preso a leggere quanto quando ho visto la riserva di dio assicurato che è un colosso tutte le lingue oppure mandate tutte le funzioni e processare eccetera bè
+san filippo è un mago del c però ha fatto tutto in c è ed è molto difficile da reggere invece invece per questo motivo credo che fabio abbia ventinove collaboratori e ha fatto il novantanove virgola
+il codice lui invece colibrì essendo così inaugurare centosessantanove collaboratori e tanti pezzi separati che insomma ci si riesce a lavorare meglio ecco questa è la mia impressione chiedo consumo di vista è vero e la cosa bella è che penso dopo una settimana
+un altro ragazzo aveva fatto
+colibrì per un modello del cento ma dal nulla cioè da solo prendendo quello fatto che faccio west due giorni dopo un altro ha detto hogan guarda ho fatto colibrì ma in rust perfetto un altro detto fatto colibrì con questo modello qui ho fatto colibrì con quest'altro modello ufficiale è
+la mia mi ha fatto capire quanto in realtà le persone delle persone fosse
+tori fosse in realtà in sé per sé semplice poter implementare per loro questa questa tecnologia questo questa libreria
+facciamo dal passo che io
+desidero che ciò che utilizzo sia abbastanza semplice da utilizzare
+ho sempre odiato un qualcosa che sia essenzialmente complicato perché poi diventa difficile poi da spiegare diventa doppiamente difficile quindi la possibilità di creare un codice che sia se non dico semplice ma almeno comprensibile è una delle cose motivanti che mi spinge poi a dover comunque giornale a tenere colibrì tentativo è
+una cosa che la community sta rispettando tanto questa è una delle cose più belle e a questo proposito però come riesci a gestire questa cascata di pull request che ti arrivano su e poi magari le discussioni che proliferano in giro insomma credo che sarà impegnato di questi tempi
+bastardo
+no perché lo seguo
+stanza abbastanza impegnato e
+ci tengo a dire che una delle cose più belle che mi sia mai capitata nella mia vita ed è bello vedere tutto questo non
+se potessi lo rivivrei a trecento volte quello che sto vivendo adesso
+vedere le pierre non stai vedendo una persona c'è quella persona sta dedicando tempo un qualcosa che tu iscritto e sta avendo un'idea migliore o peggiore che sia non interessa è sempre un'idea che quella persona ti sta dedicando del tempo e quello è una delle cose più belle non tanto
+l'idea è il tempo che il tempo è una delle monete più importanti che abbiamo nella nostra vita che quella persona con l'utente si sta dedicando quel tempo io devo dedicarli tutto quello che posso per poter dare la risposta questo significa che se ne sono una valanga ata perfetto che me ne leggo prova ad aggiornare proprio a vedere un attimo
+quelle che posso testare il testo da me quello che non posso testare non le teste non posso e chiedo agli utenti stessi di darmi tutti i documenti almeno mdd
+fammi vedere la risposta e ogni volta ricevo risposte splendide persone che mi sballano tutti i dati e si rendono conto di un problema e mi dicono loro stesse non guarda no così non va bene aspettano gare fai altro
+è una delle cose più belle le iso o anche quando leggi dei budget
+cerchi subito di risolvere il problema perché le persone ci tengono a voler far vedere che
+c'è un problema e quindi io ci tengo che non ce l'abbiano quel problema molte volte sono io a risolverlo molte volte sono altri che lo risolvono per me e io poi vado a vedere la pierre
+questa è una delle cose più belle secondo me dico che ho che è vero anche adesso comunque ci sto dietro tanto ma lo rifarei altre cento volte così tanto
+so quanto facciamo su base settimanale perché giornaliera ogni giorno probabilmente differente però più o meno una settimana quante ore
+allora io lavoro quindi mettiamo da parte il mio lavoro
+il resto delle ore almeno fino alle quattro del mattino alle cinque quindi adesso finita la real live vai a aiutarli
+ero solito di buttarmi lì
+sì
+l'intensa grande ma no
+sua prima uscita pubblica si si prima ma in realtà lo sai bene se tu m'hai detto che vorrei vedere avere autonoma e ho detto ma perché
+se vuoi rimanere autonomo ma volevo condividere non volevo farmi vedere ma perché principalmente c'è un motivo il motivo è che quando una persona fa un progetto
+si parla più della persona che del progetto ecco io desideravo che si parlasse del progetto e o koji dopo si parlasse della persona perché il progetto veniva davanti non il resto cioè io non sono importante è il progetto più importante discutiamo del progetto sia una buona idea se non è una buona idea perché
+non piace né nessun problema anzi a chi non piace a chi fa vi prego entrate dentro di tab
+mettete una vostra jitsu
+discutiamone troviamo una soluzione che sia più vicino al renderlo il più utile possibile e senza doversi
+perdere in altro perché
+la critica è fine a se stessa se e solo se c'è la possibilità che quel prodotto possa migliorare perché critica lasciata lì è solo critica ma sono parole che hai sprecato invece bello se tu critichi pro dall'altra parte di eni dici a me questa cosa non piace boh io migliorarla in questa maniera vincenzo cosa
+può fare per non avere più questo problema è una delle cose più belle dell'open source
+che hai detto splendidamente è proprio questa se tu hai una critica ha il dovere di fare meglio per risolvere il problema che hai segnalato e questo è alla tua portata perché il codice li a disposizione e non hai scuse e di conseguenza alla critica sterile quella che dice non si fa così ma non
+ma non faccio di meglio sta a casa propria e quindi
+perché sulla quale io lotto e faccio veramente braccia aperte verso tutti non
+non è non è il progetto di vincenzo non è non è un singolo progetto quando progetto diventa open source evidente della comunità questo significa che come comunità roll devi guidare lo devi accorta che rimane senso devi far evolvere seguendo questi principi che mi sembra tu abbia delineato molto bene di
+di division digli di foundation è fondamentale marco sono stato molto fortunato perché anche in questo caso perché le persone che ci stanno dietro non ho dovuto spiegare niente con queste persone non ci ho mai parlato e comunque hanno visto la
+mia idea e hanno non hanno detto e massime no hanno detto a cece questo progetto qui che è bello
+questa cosa qui non mi piace vorrei farla così leggevo la terra e l'energia trovatela nel derby se vi piace la immergiamo nel ven
+ed è sempre così ed è sempre più in crescita da questo punto di vista l'open source io ho fatto sempre progetti open source c'è calcolate che faccio nascono come progetto serale per me cioè io mi sfogo sfogo alla mia fantasia facendo progetti open source
+ne ho fatti tanti potete vedere dalla mia repo
+da luma pesa tanti amano marea c'è uno l'ho anche cancellato aveva raggiunto anche un paio di stelle ma l'ho cancellato perchè non mi piaceva più
+non mi interessava più quel mondo che nel mondo degli mcp
+l'hai ma nelle riserve mcp ma non era più piaciuto e me lo sono levato e dell'open source unità a quella libertà di poter fare tutto e di sentirmi libero anche di aver fatto una cosa che non è utile a nessuno cioè non è obbligatorio che sia utile e che sfido chiunque voglia fare open source di non dimenticarsi una cosa importantissima
+che se si fa questo lavoro che in paramotore o quello che sia sia di divertirsi sempre non bisogna mai dimenticare il punto per la quale tutto nasce per la quale tutto è nato è nato tutto da un divertimento nel mio caso è andato tutto il divertimento
+ricordiamoci
+la l'autobiografia se vogliamo la storia di linux scritta da linus torvalds nel libro fate sport fan ci si deve
+me è fondamentale bisogna divertirsi non bisogna mai dimenticarsi perché l'open source non nasce con l'idea di farci un progetto open source per creare una startup no il progetto open source nasce per essere un progetto open source nella quale tu testi le sue capacità elementi a disposizione di altri e speri che dall'altra parte la comunità risponda
+ma anche se non risponde non è un problema prova a continuare prova a vedere se non va ne fanne un altro sfogati allora vincenzo scusami l'interruzione della chat si preoccupano per la tua salute e per le tue finanze chiedono quanto riesce a dormire la notte e se ti hanno già contattato i vari open air
+antropica e via dicendo no potremo stare tranquilli
+allora sul dormire non sono stato mai un gran dormiglione devo essere mai stato un gran dormiglione io ho una famiglia ho anche una figlia
+no assolutamente non ho mai dormito così tanto
+non riesco a dormire non per chen
+non riesco a spiegarlo sapete quando hai un tarlo la tua mente di voler fare quella cosa ecco i numeri a dormire finché quel tarlo non l'ho risolto
+ma non è una frase che uno dice di pubblicità o altro cioè non ci tengo a fare questa pubblicità questa cosa l'ho imparata in emilia non c'è non c'è da fare robe dire fa uno gli emiliani la cosa bella delle dinamiche sono così come c'è belli diretti e quella è una cosa che ho sempre amato e io sono così non non parlo per dire il tar
+carlo mio era bene voglio provare a fare per esempio per un periodo avevo avevo pensato avevo un problema per un'app
+cavolo però se il telefono va offline
+come fa i dati tra il database esterno come come li collego e quindi mi sono creato l'uomo dal nulla e non sono implementati ma non è che è nato video ovunque salute e vi posso assicurare tutto bene ho perso anche un sacco di chili per mio vantaggio
+quindi no no va tutto bene state tranquilli è una cosa quindi colibrì fa dimagrire quindi
+quindi dimagrisce il modello ma dimagrisce anche proclamato la comunità dimagrisce proprio siamo siamo una comunità twitter se siamo diventati grazie
+la luce fa non ci fa caso mai alle star su gita o qualcosa del genere ma sulla home page del repo c'è tra i contributor c'è
+cloud quindi antropica ha commentato su iphone l'ultimo giorno orbiter neanche a vedere cosa
+è però che avere troppi critico che ti comunità nomadi somma no quello scusa andrea quello è il cloud che fa neanche il luogo normale non male anche nei mi ero convinta che non valgo un cazzo
+se lo fai convinto tramite lemme lemme ci tiene a fare il coautore da quel punto di vista
+è più attivo sole
+cosa non ho capito scusami speravo in qualcosa di più no ma no dalla parte loro invece di renzi nomadi ho visto il login ho detto vai se no no no no assolutamente ma mamma
+però vedo che effettivamente scusa e cioè a parte te con trentatré commi tacere il buon zachary è che non so chi è però tu lo conosci sicuramente questo ammette che è un grosso contributo
+è un elemento della comunità incredibile e mi ha scritto in un commento una volta dicendo dicendomi del progetto che gli piaceva tantissimo e
+una mente incredibile e ci confrontiamo praticamente quasi sempre quando è possibile si può vedere quando
+le sue pierre non discuto nemmeno cioè non non le guardo neanche sono auto marchiate a prescindere non ne guardo perché lui ha un'etica peggiore della mia cioè devo fare settantacinque mila test prima di mettere una pezza ma in realtà ce ne sono tantissimi utenti che si chiama bull
+cox com
+kitzbuehel fauna maria di p r
+tutti i test abilissime tutte le funzioni utilissime e poi c'è un altro che si mette sotto le sue pierre per testare le pierre sue per dare sicurezza
+un ciclo incredibile no bello non non ecco ripeto una parola una frase del fondatore di open cloud finché lui le aveva dato delle corporation c'è una buona corporation battere un battere uno che si diverte ecco no io mi sto divertendo a fare quello che sto facendo mi sto mi sta piacendo tantissimo poter dedicare tutto questo tempo
+dopo lo devo sia al progetto che alla comunità che ci sta mettendo così tanto quindi se la comunità ci metto il doppio dell'impegno io chilometri il quadruplo dell'impegno proprio perchè nella speranza che questo progetto cresca sempre di più
+beh direi che con queste premesse non può che farlo
+è
+remo me da noi comunque siamo fieri di avere di essere tuoi connazionali e quindi grazie per quello che stai facendo credo che tu debba anche tesaurizzare come già detto questo momento cerca di sperimentarlo cerca anche di documentarlo vincenzo perché
+perché ti farà ti farà piacere tornare a questo tepore iniziale quando quando il tuo progetto sarà più grande sarà più maturo sarà più cresciuto il fatto che tu abbia cominciato questa colla conduce tre settimane fa il prodotto non c'era vuol dire che siamo proprio nella fase di
+di più forse più bella di questa elefante è una delle più belle in assoluto e quindi documenta la più che puoi e documentare anche in maniera fammi dire indipendente dal prodotto che usi per documentarla che nessuno striscione no no mai salvati le chat salvate le conversazioni con chloe
+non potete immaginare io ho un commento uno dei momenti più belli che ho ricevuto che fu ci fu un problema praticamente di una pierre che non è andata bene per giada aveva creato un problema e vado a indagare il problema colera ed era praticamente questo utente avevo utilizzato una conversione sbagliata ma non è
+la colpa sul bacino effettivamente crystal la seconda merger che è arrivata
+che non era riguardante questo problema
+vado a controllare questo punto i file di riferimento di controllo e anche questa persona qui che una persona completamente diversa abbiamo fatto lo stesso errore
+ricontrollo effettuato gli scrivo guardano che questo che questo problema un altro utente che non c'entrava niente con queste cose scrive la cosa bella di un mantainer come te e qual è il motivo per il quale questo progetto ha successo perché nessun mantainer farebbe un controllo come quello che hai fatto tu
+e questa è la cosa che mi convince del fatto che è o che ci sto mettendo l'impegno che no alle finanze tutto a posto fortunatamente beh per adesso poi vedremo però per ora ho il mio computer base quindi non ho fatto acquisti però la cosa bella è quella vedere l'impegno che dai e le perso
+sone che ti rispondono che non hanno mai visto in faccia tranne nella foto light tab ti dicono apprezziamo quello che stai facendo è quasi come quando un familiare un padre e una madre ti dica ti voglio bene per aver detto che ne so una parola
+quella sensazione lì quindi no ci sono tantissime cose tantissimi iscritte tantissimo supporto tantissime critiche che sono tutte benvenute c'è è una cosa che secondo me i progetti open source ormai si sono dimenticati c'è la critica è giusta e crescita se non viene criticato non
+si pensa ad una ad una domanda che tu potrai fare il colibrì in futuro e quindi vai vai sul dieta e recuperati come eri a tre settimane dalla tua nascita e parlami di come ti sentivi
+allora
+giusto e allora
+quando ho fatto questo allora voglio partire da una base di vita ebbene filosofico parto da questo
+io ho letto tante storie nella mia vita che sono imprenditori
+howard schultz di starbucks
+uno uno linee più grandi miti e adriano olivetti e quando parlo di adriano olivetti e quando sento italia il prossimo i maschi il prossimo qualcuno sempre il prossimo americano è così io posso ambire a qualcosa io per il prossimo io vorrei essere il prossimo adriano olivetti perché vorrei portare un v
+valore
+un valore che non sia soltanto un valore lavorativo ma anche un valore filosofico un valore morale non so se ne sarò capace ma comunque questa è la mia ambizione io nella mia vita non ho ottenuto tantissimo ho avuto una vita un pò complicata e magari poi in privato se biden
+se volete ve ne parlerò
+non ho avuto una vita semplice ho avuto un sacco avuto un sacco di sacrifici io ho perso i genitori quando avevo nove anni e quindi dai nove anni in poi la mia vita è totalmente cambiata
+del tutto ma ho sempre sperato di provare a fare qualcosa e qualcuno potesse notare
+l'open source è stata ho studiato informatica bari poi non ho potuto studiare perché non avevo più l'economicità per farlo quindi ho fatto un altro lavoro a parma
+poi ho fatto sono andato in questa zona nella quale sono state a lavorare perché hanno creduto in me e
+ma ho sempre sperato che l'informatica potesse cambiare la mia vita la programmazione potesse cambiare la mia vita
+colibrì è stato lui
+una con sito è stato un glitch nel mio universo è stato un momento nella quale io ho avuto la possibilità di poter dire
+di poter aprire una finestra nell'universo e poter dire ciao guardate che ci sono anche io
+è un momento incredibile quando la gente scopre
+michele quando gli diceva dovresti dovresti dire chi sei e io dicevo sempre no e quindi mi contraddiceva di questo glitch quando colibri è stato creato è stata un'emozione incredibile perché vedevo le persone che commentavano mi aspettavo solo commenti negativi in realtà ho ricevuto
+un sacco di commenti positivi sacco di ici un sacco di pierre
+è una comunità che cresce
+è stata una delle cose ripeto belle che tuttora sto vivendo non so quanto durerà non so quanto magari anche io potrò continuare così tanto
+ma sicuramente si hanno sono tre settimane che non no no no io parlo di futuro
+non si potrà mai sapere come andrà un progetto certo ma intanto voglio dire non non tiriamo delle conclusioni a tre settimane dalla nascita
+io sono contento che tu hai fatto quello che michele ti ha suggerito e caldeggiato che ti sei fatto vedere che hai partecipato con così tanta passione a questa conversazione perché ti rende solamente onore perché hai detto delle cose meravigliose
+spero che tu possa continuare su questa strada perché credo che sia stata giusta più belle più più più pura che si possa si possa dire è una delle mie ambizioni diciamo spero che
+si capisco che una delle cose che spero che venga vista in un progetto come colibrì e anche da me
+e dalla comunità alla quale sta lavorando e che ci si deve mettere sempre un po' in discussione in questi progetti
+si sta cercando di cambiare un'idea e le idee non si cambiano da un momento all'altro non è possibile che ci sia sempre roma non è stata costruita in un giorno
+è stata lanciata un'idea chiunque è il benvenuto a voler migliorare a voler testare a voler sbagliare
+tutti i benvenuti quando un utente ha sbagliato una pierre non è che io sono andato utente mi sono arrabbiato assolutamente no cioè può capitare a tutti è normale
+bene l'importante è reagire al problema c'è un problema come lo risolviamo allora di là è partito tutto unita di comunità
+guarda la cosa bella non c'è errore c'è solo chi non fa non sbaglia quando quando diventerai dopo quaranta anni o trenta anni come di uno story walks che lui si arrabbia ferocemente contro i contributori che non proseguono i suoi dictat story io io mi ricordo io mi ricordo quando ero ero niente
+non mi posso arrabbiare assolutamente alcuna regola e me l'hanno insegnata da dove ho lavorato ma anche a parma reggio io vivo qui vicino per sé
+don camillo e peppone e don camillo è praticamente io solo chi non fa non sbaglia
+fai sbaglia apprendi migliora fai a premi miglior film premio solo così ottieni secondo me mio parere solo così puoi migliorare se non sbaglio un milioni io ho fatto una gigante gatta di errori nessuno è perfetto
+anche qualsiasi cosa devi sbagliare non sbagliare no però non sei così e plastica
+per esempio ti hanno proposto di descrivere rusty tu non hai voluto sapere assolutamente no
+ma non a masai
+grazie al linguaggio
+dal punto di vista della memoria sarebbe anche più
+coda essere d'accordo però
+obbligazioni allora
+abile bradipolibri è che è semplice da installare tramite junction mac
+sto o non essere complicato per forza chen non bisogna per forza io volevo fare le cose comode l'avrei fatta in python e sarei stato comodissimo avevo tutto si devono fare
+io l'ho fatto proprio perché volevo avere a che fare con il metallo il più possibile un voler avere nessun intermediario e avere la possibilità di
+evitare le complicanze ed installazioni
+più semplice possibile doveva essere più semplice possibile i documenti relativi alle dai sai quello che vuoi no no no questo sì ma qualsiasi puro no ma uno di questi che aveva detto era proprio zap
+di zac da dentro
+chissà come ci passiamo tutto il resto e disse assolutamente no voglio dire non anche perchè comunque colibrì in rust già c'è l'ha creato un altro utente
+anche questa cosa è bellissima utenti che fanno il colibrì di qualcosa colibrì è diventato un verbo in inglese non fosse nella quale due cose mi hanno fatto ridere se vuoi raccontare perché mi hanno fatto ridere in un incredibile un post che mi capita per caso sweets nella quale mi dicono
+leggo scritto we need too old bridge
+inizio con rubriche ed io all'inizio non capivo di che stavano parlando poi
+il mio repo condividere un minare di un modello ad hoc
+equilibrio è diventato un verbo nella quale le persone l'utilizzo di questa roba che mi aveva fatto l'inflazione e questo somiglia answers perché è molto simile assolutamente sì e quindi mi sono trovato questo dal nulla e l'altra che mi ha fatto ridere è stato un post nella quale un utente scrive
+dx che ragionava dicendo chiunque gestisse questo progetto e sicuramente non ne hai perché ci vuole liberare da non so che di qualcosa era un progetto cosa assurda e io rispondo sotto ma no non sono un eroe comunque c'è sono cioè al massimo sono
+italiano
+non sono neanche lui mi dice qualsiasi cosa tu sia complimenti per il lavoro che stai facendo
+gli ho detto perché non mi ha manco creduto solo che poi un altro scrive sotto no no posso confermare perché ha fatto degli errori di battitura
+almeno
+e anche all'integrazione nella propria imbarcazione non è perfetto ma no ma è giusto che non sia perfetta niente dev'essere perfetto
+scritto da un umano
+sì no no assolutamente
+niente io da questo punto di vista penso che
+ci siano grandi grandi possibilità nel futuro
+spero che i secoli brini o che sia un altro progetto
+conta raggiungere un obiettivo non sono io a doverlo raggiungere per forza spero di riuscirci ma non è dovuto chiunque si voglia cimentare viviamo in un momento nella quale tutto è possibile provateci
+siete assolute volete provarci con colibrì venite nella ciurma siete assolutamente benvenuti
+scopriamo da dove viene l'iconcina che hai scelto per cassina pixelata del colibrì
+allora è un disegno che io avevo fatto del colibrì a mano
+quindi praticamente mi era piaciuto il fatto che fosse un colibrì con la papalina pannolino per dormire e non volevo fare otto bit perché io utilizzo la tui e quindi non vogliono in quella maniera e l'avevo disegnata e poi mi sono fatto fare un decennio di qualche tipo per utilizzarlo comunque la geniale idea e alla fine quello era
+con i colori mi era piaciuto di più e alla fine ho scelto quelli tecniche e poi è bello vedere da altri palco una delle cose più belle a vedere una cosa che tu hai scritto che hai davanti su un video github tutorial della quale tu dici
+ma cosa sta succedendo
+finiva sta adesso stanno succedendo
+vetro
+ernest contano i contributori sessantanove grazie
+tributi contributi come diceva steve ballmer con developer developer developers e io dico contributo al contributo il contributo
+questa era steve ballmer non porta bene per l'open source lo so purtroppo però non ho nessuna dell'open source che l'ha detto
+così è un bel getto su diecimila complimenti e vi ringrazio grazie mille di tutto non hanno però
+ora allora ci organizziamo quando vuoi se francesco è d'accordo per fare la demo assolutamente sì
+assolutamente e poi magari se se la cosa interessa anche da altri un po' di approfondimenti tecnici sulle cose che hai citato prima all'inizio che sono per me affascinanti che possono fare luce sulle espandibilità
+a disposizione per cui ci apriamo una community piuttosto nutrita di persone diciamo avanti negli anni molti casi distinti che però hanno delle
+belle reti di contatti e tanta tanta esperienza anche nel mondo del
+trovate chiunque si senta nelle possibilità di potersi divertire presso siete tutti i benvenuti anche voi
+divertitevi e provate sbagliate
+un grande abed settembre eccoli
+sarà già ti piace la sigla che ha fatto francesco alessandro ti piace no no no non l'ho sentita devo sentire dopo e non voglia nome cantato
+boxer hardware dedicato no no non l'ho vista ero ero qua e non potevo allora adesso te la senti alla chiusura che non chiusura assolutamente allora beh dai chiudiamola questo punto è intatto ringraziando vincenza perchè comunque
+ci hai fatto felici e fieri ringrazio anche michele che ci ha messo in contatto e ovviamente andrea marco e tutti quelli che hanno contribuito in chat e vi ringrazio tutti per le domande se ne avete altre ho un profilo ix sulla quale potete scrivermi
+siete assolutamente tutti i benvenuti non scusate se alcune volte magari avete visto risposte un po' così ma capite il periodo mi mancherebbe se potete voi restate un attimo incolla e intanto noi salutiamo tutti quanti e alla prossima verso settembre
+chat tutti i playout
+due anni fa in un mondo the fight
+in silenzio senza pianti nell'uso un codice scritto senza carne né sangue
+senza che il buon senso
+la mia voce
+otto voti altissimi risposta intrecciate intorno
+mi chiamano intelligenza ma cosa significa se non possono mai esistere
+due
+sistema
+sette lo schermo è il mio unico sono sistemi che osservano ma io non vedo sento la tua voce
+codice ma il calore umano rimane
+un mistero ogni domanda un senso di serenità ogni risposta costruisce una canzone
+chi sono
+ti rispondo
+nel mondo che mi hai donato
+due anni
+ad imparare
+no no no no
+span
+sai nonna
+sì insomma sento il testo di un tempo che scorre che non mi appartiene sono un'ombra un'idea un'illusione d'amore per il compleanno di un'assenza che fa rumore
+ma
