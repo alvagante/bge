@@ -1,0 +1,16 @@
+{
+  "name": "Swamp Audit",
+  "description": "Records agent tool usage for swamp audit tracking",
+  "version": "1",
+  "when": {
+    "type": "postToolUse",
+    "toolTypes": [
+      "*"
+    ]
+  },
+  "then": {
+    "type": "runCommand",
+    "command": "\"/home/al/.local/bin/swamp\" audit record --from-hook --tool kiro",
+    "timeout": 5
+  }
+}

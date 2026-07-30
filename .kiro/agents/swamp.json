@@ -1,0 +1,31 @@
+{
+  "name": "swamp",
+  "description": "Swamp automation agent with audit tracking",
+  "tools": [
+    "read",
+    "write",
+    "shell",
+    "grep",
+    "glob",
+    "thinking",
+    "todo"
+  ],
+  "resources": [
+    "file://.kiro/steering/**/*.md",
+    "skill://.kiro/skills/**/SKILL.md"
+  ],
+  "toolsSettings": {
+    "shell": {
+      "allowedCommands": [
+        "swamp .*"
+      ]
+    }
+  },
+  "hooks": {
+    "postToolUse": [
+      {
+        "command": "\"/home/al/.local/bin/swamp\" audit record --from-hook --tool kiro"
+      }
+    ]
+  }
+}

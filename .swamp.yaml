@@ -1,0 +1,8 @@
+swampVersion: 20260730.013940.0
+initializedAt: "2026-07-30T05:13:28.982Z"
+repoId: 0cc69e09-90c6-4be5-ab14-a7bd6bae1717
+tools:
+  - claude
+  - codex
+  - kiro
+gitignoreManaged: true
