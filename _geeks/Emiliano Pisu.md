@@ -6,5 +6,7 @@ episodi:
 - 100
 - 105
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/pixu1980/
 nome: Emiliano Pisu
 ---

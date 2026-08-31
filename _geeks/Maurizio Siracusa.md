@@ -8,5 +8,7 @@ episodi:
 - 93
 - 100
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/myfox/
 nome: Maurizio Siracusa
 ---

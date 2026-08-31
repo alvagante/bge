@@ -5,5 +5,7 @@ episodi:
 - 59
 - 102
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/ruggerotonelli/
 nome: Ruggero Tonelli
 ---

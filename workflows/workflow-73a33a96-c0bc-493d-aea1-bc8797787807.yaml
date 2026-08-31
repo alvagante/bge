@@ -1,0 +1,67 @@
+id: 73a33a96-c0bc-493d-aea1-bc8797787807
+name: enrich-geek-linkedin
+description: Analyze an official LinkedIn Connections.csv, pause for review, then add approved exact profile matches to geek frontmatter.
+tags:
+  domain: bge
+  source: linkedin-connections-export
+inputs:
+  type: object
+  properties:
+    csvPath:
+      type: string
+      description: Absolute path, or repository-relative path, to LinkedIn Connections.csv
+    urlColumn:
+      type: string
+      description: Optional exact URL column header; leave empty for automatic detection
+      default: ""
+    geekName:
+      type: string
+      description: Optional exact geek name for a one-person canary run
+      default: ""
+  required:
+    - csvPath
+  additionalProperties: false
+jobs:
+  - name: enrich-geeks
+    description: Analyze once, require human approval, and update all safe candidates in one fan-out method.
+    steps:
+      - name: analyze-connections
+        description: Produce a privacy-minimized match analysis and review report without changing geek files.
+        task:
+          type: model_method
+          modelIdOrName: geek-link-enricher
+          methodName: analyze
+          inputs:
+            csvPath: ${{ inputs.csvPath }}
+            urlColumn: ${{ inputs.urlColumn }}
+            geekName: ${{ inputs.geekName }}
+        dependsOn: []
+        weight: 0
+        allowFailure: false
+      - name: approve-linkedin-links
+        description: Require a person to review the generated candidate report before repository changes.
+        task:
+          type: manual_approval
+          prompt: Review the @alvagante/geek-link-enrichment-report for geek-link-enricher. Approve only exact LinkedIn URL matches; conflicts and ambiguous names are never applied.
+        dependsOn:
+          - step: analyze-connections
+            condition:
+              type: succeeded
+        weight: 10
+        allowFailure: false
+      - name: update-geek-files
+        description: Atomically add LinkedIn links for the approved, unchanged candidate files.
+        task:
+          type: model_method
+          modelIdOrName: geek-link-enricher
+          methodName: update
+          inputs: {}
+        dependsOn:
+          - step: approve-linkedin-links
+            condition:
+              type: succeeded
+        weight: 20
+        allowFailure: false
+    dependsOn: []
+    weight: 0
+version: 1

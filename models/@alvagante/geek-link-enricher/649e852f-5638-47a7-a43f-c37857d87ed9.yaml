@@ -1,0 +1,9 @@
+type: '@alvagante/geek-link-enricher'
+typeVersion: 2026.07.30.2
+id: 649e852f-5638-47a7-a43f-c37857d87ed9
+name: geek-link-enricher
+version: 1
+tags: {}
+globalArguments:
+  geeksDir: _geeks
+methods: {}

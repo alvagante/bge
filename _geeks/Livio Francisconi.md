@@ -7,5 +7,7 @@ episodi:
 - 89
 - 100
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/liviofrancisconi/
 nome: Livio Francisconi
 ---

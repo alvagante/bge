@@ -6,5 +6,7 @@ episodi:
 - 75
 - 105
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/apengue/
 nome: Alessandro Pengue
 ---

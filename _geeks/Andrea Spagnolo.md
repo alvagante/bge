@@ -9,5 +9,7 @@ episodi:
 - 79
 - 104
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/andrea-spagnolo-0189574/
 nome: Andrea Spagnolo
 ---

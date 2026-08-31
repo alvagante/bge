@@ -6,5 +6,7 @@ episodi:
 - 54
 - 80
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/bennaker/
 nome: Simone Bennati
 ---

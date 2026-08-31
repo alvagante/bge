@@ -7,5 +7,7 @@ episodi:
 - 99
 - 107
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/ishipsoftware/
 nome: Luciano Fiandesio
 ---

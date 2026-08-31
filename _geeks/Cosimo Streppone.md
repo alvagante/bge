@@ -17,5 +17,7 @@ episodi:
 - 100
 - 107
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/cstrep/
 nome: Cosimo Streppone
 ---

@@ -14,5 +14,7 @@ episodi:
 - 68
 - 77
 layout: geek
+links:
+  LinkedIn: https://www.linkedin.com/in/marcofoco/
 nome: Marco Foco
 ---
