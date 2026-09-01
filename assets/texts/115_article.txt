@@ -1,0 +1,13 @@
+Hai deciso che il cloud degli altri costa troppo. Hai speso il triplo per un server in salotto. Bravo: ora possiedi una nicchia elettrica, una collezione di cavi e una serenità che vibra a 3.600 RPM. Questo episodio è per voi — per chi ama consumare corrente in casa con classe e per chi trova consolazione nel rumore dei rack fatti col LackRack e i mini-PC scovati su qualche mercato dell'usato.
+
+Tre Andrea e un Alessandro discutono senza filtri: Andrea Spagnolo, Andrea Ghirardini, Alessandro Vozza. Parlano di hardware che ronzano, di switch e firewall che promettono ordine ma spesso introducono caos. Parlano di VLAN configurate male — perché la segmentazione di rete è un esercizio filosofico e pratico: teoria semplice, pratica catastrofica. Parlano di VPN usate per raggiungere file che avresti potuto mettere su una chiavetta. E ridono. O piangono. Dipende dall'ora: il martedì alle 2 di notte è sacro.
+
+La puntata scava tra tecnicismi e umori. Unifi come esempio di gestione centralizzata; PFSense e OpnSense come guardiani della tua frontiera domestica; Netboot.xyz e Headlamp come strumenti per resettare realtà e container; Harvester HCI e Arc Loader per chi vuole virtualizzare senza dover vendere l'anima. C'è Docker. C'è Proxmox. C'è la gioiosa sensazione di aver rotto tutto e di avere comunque il Wi‑Fi che funziona. “Non è un bug, è una feature” si sente spesso. E si sente anche la filosofia: Heidegger avrebbe apprezzato il Gestell del tuo rack — la tecnica non è neutra, ti rivela.
+
+Si parla di IoT e domotica come insediamenti fragili in mezzo a una rete che decide di tradirti quando meno te lo aspetti. Segmentazione, firewall, Wazuh per la sorveglianza e AdGuard per tenere lontani gli ospiti indesiderati: la sicurezza domestica non è più folklore, è disciplina militare declinata in chiavette USB e chiavi SSH.
+
+Energia e sostenibilità fanno capolino. Pannelli solari e sistemi di accumulo trasformano il tuo hobby in un piccolo esperimento di resilienza energetica. Hai tutto il potere in mano — letteralmente — ma anche la responsabilità di non far saltare il contatore.
+
+Il cuore dell'episodio è pratico e disincantato: backup veri (NAS e software affidabili), aggiornamenti continui, monitoraggio che non dorme mai. E la chat: una galleria di disastri infrastrutturali condivisi con la generosità di chi insegna inciampando. Qui la conoscenza si costruisce sbagliando insieme.
+
+Ascoltarli è prendere appunti e ridere della propria stessa ossessione. Alla fine capisci che il vero homelab non è solo hardware. È un atto di sovranità domestica. E un modo elegante di far sapere al vicinato che, sì, quella musica in sottofondo è il tuo server che compone il futuro.

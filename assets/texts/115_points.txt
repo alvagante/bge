@@ -1,0 +1,10 @@
+- Infrastruttura di rete: Discussione sull'importanza di avere una rete ben strutturata, con l'utilizzo di switch e firewall adeguati per gestire il traffico e garantire la sicurezza.
+- Dispositivi di rete: Esplorazione di vari dispositivi come router, switch e access point, con un focus su soluzioni come Unifi e le loro caratteristiche di gestione.
+- Domotica e IoT: Analisi della crescente integrazione di dispositivi smart nella rete domestica e delle sfide legate alla loro sicurezza e gestione.
+- Cybersecurity: Importanza della sicurezza all'interno delle reti, con riferimenti a firewall e pratiche di segmentazione della rete per proteggere i dispositivi IoT.
+- Virtualizzazione: Discussione sulle soluzioni di virtualizzazione, come Hyper-V e VMware, e sull'uso di container per la gestione delle applicazioni.
+- Pannelli solari e gestione dell'energia: Riflessioni sull'uso di sistemi di accumulo e pannelli solari, con l'importanza della gestione energetica nella rete domestica.
+- Backup e storage: Riflessione sull'importanza di avere un sistema di backup e storage adeguato, con un focus su NAS e software di gestione.
+- Aggiornamenti e manutenzione: Necessità di mantenere aggiornati i dispositivi e le applicazioni per garantire la sicurezza e l'efficienza della rete.
+- Strumenti di monitoraggio: Utilizzo di strumenti e software per monitorare il traffico di rete e gestire i dispositivi con efficienza.
+- Collaborazione e condivisione delle conoscenze: Importanza di scambiare esperienze e conoscenze tra professionisti e appassionati per migliorare le pratiche e le soluzioni adottate nelle reti domestiche e aziendali.

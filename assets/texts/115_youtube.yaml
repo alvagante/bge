@@ -1,0 +1,14 @@
+date: '2026-08-31'
+description: "Puntata dedicata a chi ha deciso che il cloud degli altri costa troppo,\
+  \ quindi ha speso il triplo per farsi il proprio server in casa. Ma con soddisfazione.\n\
+  \nIn questo episodio parliamo di Homelab senza troppa teoria e senza vendere soluzioni\
+  \ miracolose:\n\nL'hardware: mini PC usati, vecchi rack e tutto quello che fa rumore\
+  \ mentre cerchi di dormire.\n\nLa rete: VLAN configurate male, subnet inutilmente\
+  \ complesse e VPN per accedere a file che potevi mettere su una chiavetta.\n\nGestione\
+  \ e disastri: Docker, Proxmox e quella bella sensazione di quando rompi tutto il\
+  \ sistema alle 2 di notte di un marted\xEC, ma non ti importa molto.\n\nSpazio alle\
+  \ domande in chat per confrontare i rispettivi disastri infrastrutturali."
+duration: 8564
+title: 'BGE 115 - Homelab: consumare corrente in casa con classe'
+youtube_id: QBZWPYF2nVk
+

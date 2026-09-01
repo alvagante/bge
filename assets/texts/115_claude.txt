@@ -1,0 +1,17 @@
+# L'Estetica del Fallimento Domestico: Una Fenomenologia dell'Homelab
+
+*"Il cloud è il computer di qualcun altro"* — recita il mantra dei devoti dell'autogestione. Ma cosa succede quando quel "qualcun altro" diventi tu stesso, alle tre di notte, circondato da ventole rumorose e pentimento tecnologico?
+
+L'episodio 115 della Brigata si configura come un'etnografia del disastro volontario, una sorta di *Sisyphus Reloaded* dove il masso è un rack IKEA sovraccarico e la montagna è una subnet configurata male di martedì sera. Andrea Spagnolo, Andrea Ghirardini e Alessandro Vozza ci conducono attraverso un percorso che Heidegger avrebbe definito "essere-per-il-downtime".
+
+La tesi di fondo è semplice quanto paradossale: spendere il triplo per ottenere lo stesso risultato, ma con la soddisfazione ontologica del possesso. È la dialettica hegeliana applicata al networking domestico: tesi (cloud commerciale), antitesi (homelab caotico), sintesi (consapevolezza che probabilmente avresti dovuto restare sul cloud).
+
+Le VLAN inutilmente complesse diventano metafore esistenziali della nostra necessità di complicare il semplice. Proxmox e Docker non sono strumenti, sono rituali di passaggio verso l'illuminazione tecnica — o verso il ripristino da backup delle 4 del mattino. La virtualizzazione diventa un esercizio filosofico: quanti layer di astrazione servono prima che il sistema perda completamente significato?
+
+Particolare attenzione merita la sezione sulla sicurezza, dove firewall e segmentazione IoT rappresentano l'illusione del controllo in un ecosistema intrinsecamente vulnerabile. È kafkiano: costruiamo castelli di protezione attorno a lampadine smart che comunicano in chiaro con server cinesi.
+
+I pannelli solari e la gestione energetica introducono una dimensione quasi escatologica: l'homelab come preparazione all'apocalisse digitale, dove l'autonomia energetica diventa sinonimo di sovranità tecnologica.
+
+La vera lezione? L'homelab non è un progetto tecnico, è una forma di ascetismo tecnologico. Un modo per ricordarsi che dietro l'astrazione cloud ci sono sempre cavi, switch rumorosi e quella particolare forma di masochismo che chiamiamo "passione per l'IT". Perché nulla insegna l'umiltà come sistemare una configurazione di rete alle due di notte mentre il resto della famiglia dorme, ignara del dramma infrastrutturale in corso nel ripostiglio.
+
+*"Prego signora, è solo il sound design della modernità"* — disse nessun sysadmin mai, mentre le ventole raggiungevano gli 8000 RPM.

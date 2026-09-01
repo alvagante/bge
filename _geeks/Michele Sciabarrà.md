@@ -5,5 +5,5 @@ episodi:
 layout: geek
 links:
   LinkedIn: https://www.linkedin.com/in/msciab/
-nome: Michele Sciabarrà
+nome: "Michele Sciabarr\xE0"
 ---

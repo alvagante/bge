@@ -1,0 +1,20 @@
+---
+guests:
+  - Andrea Spagnolo
+  - Andrea Ghirardini
+  - Alessandro Vozza
+
+links:
+  LackRack: https://wiki.eth0.nl/index.php/LackRack
+  Unifi: https://www.ui.com/
+  Netboot.XYZ: https://netboot.xyz/
+  Headlamp: https://headlamp.dev
+  AdGuard: https://adguard.com/
+  Pabawi: https://pabawi.example42.com/
+  Cache Domains: https://github.com/uklans/cache-domains
+  Arc Loader: https://github.com/AuxXxilium/arc
+  Harvester HCI: https://harvesterhci.io/
+  PFSense: https://www.pfsense.org/
+  OpnSense: https://opnsense.org/
+  Wazuh: https://wazuh.com/
+  FibraClick: https://fibra.click/

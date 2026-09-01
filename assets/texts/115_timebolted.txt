@@ -1,0 +1,702 @@
+uso
+uso
+tuttavia si
+ho comprato da un metro aperta
+quattro mini pc usati presi suite
+per salvare
+ricette
+foto dei miei
+la bolletta della luce
+dalle stelle
+ma guardati
+quarantotto
+ondata
+fa rumore come
+acqua
+prezzo
+ora questa
+per guardare
+se va la rete intera
+prossimo sei il mio dio il mio sia seccata e sport
+in blocco ha configurato la l'app
+per accedere da fuori ma interno mi regala
+marte
+due trentatré ha lanciato
+non so
+perché
+ondata di interessato
+come un
+ma qua
+più
+mi rifaccio l'infrastruttura tumore
+guardare
+supplenze locale osserva l'area tempo
+tesoro
+il lo fai non va
+la frase che fa tremare le vene
+tranquilla
+principale e addio a ateo e serie tv
+ma alla sentenza
+rumore come usa
+quaranta
+presto
+i fattori infrastruttura
+questa
+per guardare oltre
+se il locale va la rete intera
+fatte dalla vita il caldo mi avrà mai
+tranne quando perdono i peccati
+e finiscono nei guai
+sì
+sistemate
+eh sì e quindi siamo arrivati alla puntata centoquindici pagate dagli istinti se avete avuto qualche glitch nella matrice mentre stavano suonando la musica e perché mi è caduta la linea e proprio mentre stavamo iniziando a in mare e come si suol dire il bello della diretta poi si parla di uomini web se non facciamo qual
+cosa all'ultimo momento non siamo contenti peccato per la musica era anche carina però questo è
+e allora per questa puntata abbiamo come ospiti e nuova entrata andrea ghirardini topi
+e poi il buon andrea spagnole il saldo bozza che sono recidivi a cui non credo neanche di presentarsi però andrea tu che sei nuovo da queste parti due parole di presentazione allora
+che dirti io nasco nerd probabilmente morirò nerd nel senso che sembra fermamente da cui non si riesce mai a tirarsi fuori perché era parte di joblab te lo dico molto facilmente perché sei anni fa con mia moglie abbiamo trovato questa casa
+e abbiamo deciso di
+e è lassù praticamente da zero c'era solo il tetto perché strutture diceva si costruisce solo all'asciutto perché prima si perdette poi la casa e l'abbiamo presa sulla carta e mia moglie ha un gusto che sicuramente non è il mio credo amore mio tu gestisce tutta la parte del è quello che riguarda
+l'arredamento tutto il resto e io mi gestisco la parte meramente nerd e quindi ho preso l'elettricista gli ho detto bene facciamo tutto da zero tieni conto di una cosa quando si è unghie come noi si ha un magazzino infinito di roba che hai recuperato da ovunque per cui tendenzialmente no
+open lab sono fatti di robaccia recuperata dio solo sa dove in cui il pezzo più nuovo a quindici anni si cambia
+valigia tutto è la regola principale esatto in questo caso e ho detto sai cos'è nel nella gestione di una casa e di tutto quello che comporta il costo della network è praticamente trascurabile perché ego fa brodo ricomincio da zero e mi costruisco tutto e devo dire che la cosa
+me ha pagato comunque lo vedremo nel corso del tempo infatti mi sono tirato su un sistema informativo totalmente da zero e devo dire che il risultato sono contento tra le sue soddisfazioni simili cose anche la casa in cui vivevo prima che mi son cablata categoria cinque cinque ovunque perché anche lì da zero fatta e quindi
+tubi come se non ci fosse un domani dentro i muri
+entrambe le aziende
+la giunta è che il matrimonio felice e solo se trovi casa dove c'erano dieci gigabit bromelina ah beh certo quello è imprescindibile se no diventa quasi un problema allora cos'è iniziamo a fare la dimostrazione di come chi ce l'ha più grosso club
+l'ho già visto che ho perso la grandissima quindi prego andrea l'allora
+la disamina veloce a io sono stato molto fortunato stavolta di solito sono la persona più sfortunata del mondo ma stavolta è di qualcuno nel senso che quando abbiamo comprato casa il costruttore ci ha detto che
+lui ha rilevato il terreno da un precedente fallimento ma dovevano esserci quattro casa e lui ne ha fatte solo due risultato io ho comprato questa casa c'è tutto il pian terreno e su centotrenta metri di casa va bene così e poi ci ha detto voi avete ganasce alla taverna e poi ci fa e gli faccio questa parte qua
+queste sono le cantine della casa che non è mai stata costruita quindi risultato trecentoventi mentre l'interrato ergo praticamente detto mia moglie tesoro io mi faccio alla batcaverna
+cantina bella fresca vogliono dire refrigerato hanno realmente cosa i primi due anni sono stati un disastro per il semplice fatto che a c'era solo un fairway sessanta megabit per cui praticamente giravo come un'anatra zoppa poi per fortuna
+hanno tirato la fibra e quindi adesso mi ritrovo con una due cinque gigabit giacca e di cui sono molto contento
+sono partito da zero quindi ho preso il mio elettricista e ho detto guarda io voglio far diventare casa mia una specie di osso viene in lab interno che quindi io voglio provare tutto quello che non è consigliabile per la parte di cyber security perché voglio vedere che cosa succede
+ergo c'è un'eco in ogni in ogni stanza c'è la connessione con
+alexa è tutto quello che è che comporta lo utilizziamo tutti gli eco come se fossero dei
+interfono interni per cui ci parliamo in videoconferenza io mia moglie da una parte all'altra di casa e questo significa che ho dovuto cablare tutto emettono una montagna di expo a axel point vorrei farvi una condivisione vediamo se ci riesco e se riesco a farvelo vedere dimmi se side
+ed eccolo lì è molto bello
+allora questo è il mio
+come si può dire questa è la mia dash world o tendenzialmente io ho detto va bene evitiamo di fare tutto quello che si fa normalmente cioè recuperare pezzi vecchi e ho detto prendiamo
+e facciamo una cosa tutta omogenea quindi la mia scelta è ricaduta su onifai perché io fai semplicemente perché ti dà tutto direttamente allora partiamo dalla parte di connettività internet come vedete ho un ip statico che è questo qua e poi
+chiedo gentilmente mi ha concesso una barra quarantotto piovosa per cui ogni singola macchina che c'è all'interno della mia rete ha un ip pubblico i piu sei proprio così spudorato ti metti a frutto demonio si sì certo ormai quasi tutti sanno uno barra cinquantasei no quello che esporli magari un po' meno era stato cellula
+il fratello e allora vediamo la topologia così capiamo un po' di cose questa è la topologia di casa mia cosa vuol dire ha tendenzialmente c'è il mio provider ne ho due iliad con una fatwa che mi serve solo in caso di
+caduta la linea principale e dimensione perché prima ero un cliente virgin fibra ma poi mi hanno fece fibra è fallita e da tutto il ramo a dimensione devo dirlo io mi sono trovato molto bene
+qua c'è il firewall che un gateway hai un ultrà di un file dopodiché partiamo con quello che il mio cor router che ti da corruttele un po' tanta roba però sostanzialmente a un sedici porte da un gigabit poi da qui si
+scende e ho una serie di switch
+il primo è lo switch che sta in taverna cioè di là oltre questo muro che lo switch che mi controlla sostanzialmente la smart tv che sta in taverna dopodiché qua c'è scritto spa perché ci avanzavano settanta metri quadri è stata un'idea nostra alla fine abbiamo fatto una spa e una tape e una
+come posso dire palestra lì oltre a tutto c'è il questo tre che uso per la parte di fitness oltre al mio simulatore per quello che riguarda
+il simulatore di corsa poi la macchina che uso per tante cose diverse questa è la parte principale cioè lo studio che dove sono adesso dove c'è uno switch principale c'è uno switch di che poi vi faccio vedere un access point e un secondo switch che dietro le mie spalle tendenzialmente ma come mai tanta
+bebè vi faccio vedere
+al momento attuale io sessantatré device connessi a internet e sono tutti questi cosi qua e poi ve li faccio vedere sostanzialmente uno per uno
+ho fatto una divisione molto secca per quello che riguarda le reti o una rete di default che la architetto che è la rete sostanzialmente di management unified purtroppo rispetto altri brand fa con quello che riguarda la management in band non youth band quindi
+può dedicare una villana in questo caso è la milano quella di default la internal e la mia rete interna
+privilegiata dove alle cose più sicure questa è la parte di aiuti e multimedia dove io metto tutto cioè dai vari e laqualunque esatto la qualunque gli xbox smart tv le lampadine cinesi che cambiano colore tutto questo va in quella zona lì così è fuori dalle scatole
+poi una festa nella festa è una re e si collega a una rete wi-fi aperta dove c'è un club di firewall per cui io genero dei token quando arrivano le amiche di mia figlia mi dai la canta per la wifi col cacchio che ti do la password interna ti do un token che scade dopo otto ore limitato in banda
+te il aifos maledetto poi o di mezza età che è quello che mi serve questa è una rete che ho temporanea che ho creato perché sto facendo un pen test e quindi ho dovuto creare una rete per i fatti suoi perché ho dovuto isolare queste cose a ognuno di queste è collegata una o più reti wi-fi vi ho fatto una divisione estremamente sé
+ca per tutto quello che riguarda
+le reti interne e il firewall che ti dà un film a mio avviso molto bello nel senso non è il firewall che io metterei in una grossa organizzazione però per
+una cosa so moi of solomon fissa è perfetta perchè è un firewall a zone per cui io per ogni singola sorgente per ogni singola destinazione definisco quelle che sono delle polis dirette dopodiché attraverso il policy and wine posso andare a stabilire delle regole
+come di routing di port forwarding o quello che serve a me la cosa interessante è che per la parte di cyber sewell io posso gestire tutta una serie di cose come vedete io ho tutta una serie di
+nazioni che ho eliminato se vi sembra strano vatican city beh io sono anni che ricevo scansioni da città del vaticano e non capisco per quale motivo per cui tendenzialmente da dove dicevo scansioni e che mi danno fastidio e con cui donò rapporti io so i got lì l'intera nazione chi se ne
+freda una delle cose belle di unifil e il fatto che lui ti da in tempo reale tutto quello che sta succedendo attacchi eccetera eccetera per cui in realtà io ho una visione a trecentosessanta gradi in tempo reale tutto quello che sta accadendo quindi posso andare a me
+mettere delle regole abilitare delle cose e abilitare dei dei blocchi che siano geoblocco eccetera per quello che mi serve per esempio l'altro giorno ho avuto il mio mail server poi vi parlo di quello che fai nella rete che era attaccato costantemente da una barra ventiquattro iraniana
+ma questi facevano siccome io ho un blocco do un cinque login io faccio un blocco secco the night di quello che si collega a noi serve a questi facevano quattro quattro attacchi dopodiché suicidavano ip quindi ho dovuto bloccare totalmente quella quella parte di network una delle cose belle che vi dicevo di onifai è proprio il fatto che
+in un'unica interfaccia io posso gestire tutto quello che voglio se io vado qua per esempio ho la possibilità di vedere tutti i device che io nella mia rete posso vai su prendiamone uno a caso quello del raja yoga e questo è il mio suicide iraq e di là poi gli faccio vedere posso andare
+su ogni singola porta e andare a definire quella porta come reagisce su che dylan è attestata se scusa se ti interrompo facciamo una cosa un po' entrati ma questi switch sono uniformi anche loro per poter permettere una ostia io ho cercato di fare una cosa che sia totalmente omogenea quindi ogni singolo access point
+ogni singolo switch fa parte dello stesso fornitore quindi da un'unica interfaccia che è quella la duckworth che c'è nel firewall io posso controllare ogni singolo punto della mia rete decidere come sono i flussi all'interno della mia rete
+reduce esterni non puoi neanche gestire le villano e quelle cose lì che puoi usare solo il traduttore milan rappresenta da parte di routing decreto bla bla ma le puoi gestire direttamente da bonifiche ormai tutt'uno esatto allora tendenzialmente tu potresti creare delle vlan che hanno degli external ai tuoi diversi o tenete presente che mi
+hanno portato open fiber il la connessione e io la prima cosa che ho fatto ho buttato direttamente
+il modo di open fiber per cui i biopsie ai tuoi di onifai ennio che i tuoi principale che stabilisce tutte le connessioni sia verso iliad da una parte sia la sua dimensione dall'altra per cui ho un controllo completo di tutta la mia rete è semplicemente perché ho deciso di utilizzare un unico vendor questo è uno dei grossi vantaggi che ho
+con unità rispetto ad altri vendor se decisamente allora fare un novembre c'è una review generale anche per i non addetti ai lavori anche per rispondere livio che scriveva in chat
+e quale software per the sword rete e quant'altro va sé hai già risposto io li fai se hai tutto onifai avete altri suggerimenti o soluzioni o vento che mi va di raccontare o raccomandare allora si dipende sempre da cosa si vuole fare nel senso che per la parte
+veramente playoffs come possono networks
+storage tutto di solito la playa sono le loro più belle bob e via se invece si inizia a fare un wipe your self come per esempio mio naso nostro per esempio che me lo sono fatto io una falsa su altro quello che mi piace usare sempre vetrofanie quindi completamente stack open source con garofano prometheus
+forex exporter
+tutta la parte di logging eccetera eccetera quindi orfana per la reportistica per la gestione a parte metriche per la gestione l'iva varia tantissimo perchè ogni vendor più o meno a un suo biodigestione
+proprietario tra virgolette per esempio fai tu neghi esplicitamente a loro fan controller e poco altro se per esempio inizia ad avere roba che ne so tipi league o altro di solito nella loro management gestione poi c'è questa cosa del match che va molto di moda ma che tara quindi tutti che cercano soluzioni nasce per caso che siano google che siamo tipi link
+che siano una league che siano google stesso se non ricordo male anche una soluzione match è di solito la parte emersa proprio mestiere perché ti da una dashboard centralizzata per poter gestire tutto direttamente dal la decima del vendor quindi da bond esterne per gestire difficilmente retrovie
+se non quelle avendo specifiche quindi con fai da bosoni fai e invece potrà di madri che punto si trova viale dispiace se
+schermo una viva e che mi serve
+a ognuno il so io avrei un pdf senza però così rom è un ottimo firewall soluzioni open source io preferisco pieno senso perché
+se c'è viene implementato molto più velocemente
+però alla fine sono due branche dello stesso hotel stessa cosa considerate che fino a poco tempo fa io avevo due di questi cluster due class praticamente ero io con chi plaude che sono banana pierre quattro e sopra sciroppo why artica era il mio router principale di casa poi visto che per l'appunto per la questione del
+voglio avere tutto uguale per gestire tutta dallas word perchè poi uno fa il progresso da parte di packet inspection deve avere router e visto che mi scocciava non avere router e onifai fake cui non poté fare il la parte del club i due bar un'app di mando a casa di ripiego come wechat infatti ho perso tutto mio giro di compilazione del
+firmware con le configurazioni statiche blabla in natale che se dovesse cadere lug o comunque pesti n due di beethoven quindi devo farebbe capo diversi praticamente
+allora vediamo
+i due vendor che secondo me vale la pena eterna in considerazione il primo è la serie omar i che praticamente hanno detto che bello onifai lo rifacciamo uguale a un costo inferiore quindi se uno non vuole andare a prendere le parti di unified perché magari ad un costo relativamente impegnativo omada può essere una soluzione l'altra
+cosa il coltellino svizzero per quello che riguarda tutta la parte di networking e rimane microtech ovviamente la gestione non è così immediata perché insomma ci puoi fare anche il caffè però questo viene tradotto in una complessità maggiore però micro league è assolutamente un'altra possibile un altro possibile vendor
+con cui puoi veramente fare quello che vuoi tu e aggiungerei giusto per rugby world backwaters
+fritz box anche che hanno anche loro vendono di router wifi e quant'altro coloro interfaccino non male insomma non è il livello di deficienti figli diciamo che il fritz box è l'intermedio se vuoi levarti dalle scatole router del provider che di solito una merda totale e vuoi iniziò ad avere qualcosina di
+che puoi gestire ma non è così da smanettone gig che ci rimettono è proprio la testa e avere un po' di nozioni per esempio microtech col suo router o sei bellissimo non state route rossi router rosse suoi chiassosi usato con sfrutterò comunque un po' di competenza ne devi avere perché account fai tutto da kivu forse neanche ce l'ha lui wifi tutto tramite
+gliel'hai e quindi un pochino di comandi di masticare unified già una versione cabriolet enterprise che però ti permette comunque tramite wiki di avere tutto facilitato anche prova di uno che appena configurato la rete e quindi ci sono tutti i vari livelli poi di astrazione a seconda di quanto ti vuoi divertire fare nascosti
+ehm a farci vedere questa nasca
+faccio la tocca ecm lab
+bonus
+la vostra l'avevo anche i micro tic una volta nicolas
+open hearth si f lasciava
+fanculo manager
+quando poi è uscito un fai non ce n'è più per nessuno c'è
+l'altro giorno qualcuno sa perché sta mettendo su il dataset
+ma a ci compriamo due bei switch fai e li mettevo nel reich detto no forse è meglio di no lui fa e sta bene a casa
+per enterprise deve ancora no perché comunque questi switch che questo metodo nel rap non più in produzione puoi comunque avevano bisogno se non hai il dm lo switch bisogno del suo controlla che deve girare in bocca container magari il prox mox insomma lasciamo
+staremo però a casa nudm ci sta otto anno fa anche ciò che le camere no
+che vuoi quindi di emma è una soluzione completissima
+e ci sta da dash board io ne ho due tutto fatto da ovviamente cloud
+questo tutta la mia infrastruttura a casa sono due gross
+me ne serve uno da sedici giga uno trentadue
+quello da sedici giga a
+quattro dischi da sedici terra su mi sbaglio
+in the fields quindi tutto va
+be the fields quindi ridondanti tu due pool no quindi due due due coppie da sedici kwh lo fate una volta avevo il sinologi giusto e che dopo dieci anni sto sinologi minori stavo per perdere tutto cosa ho fatto ho tolto i dischi li ho messi in un
+server linux normalissimo e ho recuperato
+la partizione sinologi è stato un disastro perché sinodo ci fa girare bit aeffe e ho dovuto convertire un casino comunque adesso sono su due server grossi abbastanza grossa diciamo con sedici o trentadue giga
+e fanno girare pro xbox che secondo me è
+ci vuole tutta la vita rox mox autorità perché se no vai
+il film sarà una replica sono poche da io e il mio proxy wars che ne ha cinque dodici am
+però io questa è tutta roba di scarto cioè se ti dico roba nuova
+perlomeno b no non è joomla l'omelia deve essere rigorosamente fatto da scart
+vecchia ici vecchi pc
+nooooo al massimo ma comprare roba è e come è barare e senza offesa comunque così le home page cioè sono due uno è dash l'altra e omar mohammed word quale quale
+forse c'è scritto c'è scritto qua comunque sono queste baseball dove praticamente da tutte le ehm a tutti i servizi che girano su su su servono sono uguali
+la cosa più importante ma vede supporter ristorante porter è il meno tutto tutto quel che vedi è praticamente
+gia foto docker
+docker compose
+dockery che so su uno dei due uno dei due server e vedi che ci sono tutti questi step sono in in in in cortina i doc composto uno stack venice home page
+cento
+nick heidfeld minio tutto diciamo e poi monitoring ovviamente è il mio cavo usato non ho capito cosa usi come per cos'hai messo al posto di sinologi mi sono perso io a niente mi va visto sinologi era uno di quelli con quattro dischi no quindi il raid world sono
+ero tranquillo poi morì
+sbalzi di tensione vale a capire
+invece di comprarne un altro sinologi e mettere dentro i dischi presi un pc vecchio abbastanza vecchio con con quattro sata e o forse per esempio il controller sata non dicono bugie sono aperte agli inizi del mese di questi quattro testi dentro e il bitter aeffe di shino
+orologi e un po' bastato perché non è neanche quello ufficiale perché sinologi gira su
+ehm non proprio linux ma
+come si chiama il linux più semplice
+bobst
+linux non è quello zone ubunto qualcosa quindi ho dovuto smanettare con cloud finché non ho trovato il driver bit rocce che andava ho dovuto installare una vm con ubuntu diciotto sedici non mi ricordo adesso va alla fine sorge a farlo partire e ho montato il bitter aeffe e ho spostato i dati su su
+sunset fields che ho costruito nel frattempo venduto tutto su tutto questo è un semplice lo vedi anche da questo sistema termiche sono usate è una figata perché sono nicolosi lapsus giusta
+l'uso guacamole e termiche e se ha praticamente sì no guacamole supporto remoto
+apri quindi per
+però è più carino questo che mi piace più lo schermo ips veramente è la morte sua
+perché ti puoi gestire ciò multipli
+servono sette acqua dal browser questi sono i miei due ohm lab
+oracle
+che proprio non va
+continua continua poi c'è john kimmich quindi su tutte
+ciao jimmy che non va però e foto home assistant ellie fin tutti i miei amici si guardano i film dal mio server perché ciò la holding
+è emerso anche il code in dono
+no ma dovrei
+ma il coding è veramente figo perché l'ho preso una a tre ottanta intel giusto che poco prezzo alimentato direttamente dal pc allora il mio nuovo club gira tutto su un epic che avevo comprato all'inizio per lavoro poi alla fine il lavoro è andato non bene e quindi me lo sono tenuto io però web quindi è un o
+nei picchi novantasei ottantaquattro da centoventotto core quindi novantadue corre centonovantadue thread con queste dosi giga di ram ci faccio girare praticamente tutte le mie vito macina quelli che torna in scena hanno un cluster kubernetes fatto con talos è lì dentro tutto mio cloud quindi praticamente tutto lì dentro
+a talos sta stava non c'è più
+museo sotto proxy mox talos l'autopsia girare anche come si chiama johnny sally field se non sei molto carina che ho abbinato ovviamente tutto times healy vede tutto questo e nash rhino butterfly ts
+il corano non la uso però tutto su dominio mio pubblico con let's encrypt tel cielo uso solo quando fuori faticato solo che ormai ho praticamente smesso di viaggiare sono per le vacanze quindi diciamo che connessione verso casa trish che l'uso solo per avere l'exit router di casa in cui sono all'estero vuoi avere più italiano direttamente da casa mia
+e tutto il resto ip pubblico split winners open source gay della madonna io invece sono molto più vendor oriented ok dipende a cosa funziona meglio non me ne frega niente se sei open source sto scrivendo altre funzioni bene ti uso io per esempio sono rimasto su sinologi on sinologi interno
+orrù due raid group uno da sedici take rai uno da ventitré terra e uno contiene dati personali l'altro e di tutto perché perché sinologi per esempio una cosa fichissima che ha vita a un programma gratuito che active camp con cui potete fare il capo di qualunque cosa da susan
+i sistemi virtualizzati a client e simili per cui tutte le mie macchine di casa panna decapè su sinologi poi un sinologi esterno che utilizzo come privacy cloud come server di mail dirette e sopra c'è una cms con cui io controllo tutti
+analoghi di tutti i miei clienti per cui da lì faccio tutta l'installazione degli aggiornamenti del sistema operativo dei pacchetti e similari quindi alla fine sono rimasto sostanzialmente fedele a sinologi perchè è decisamente mi è più comodo fede poi presente che per esempio l'altro giorno un altro giorno no qualche mese fa
+ho salvato le chiappe a una ditta
+chi ha beccato ransomware e non solo con il sistema di atti macabri avevo fatto beh di tutto e funzionano da gente quindi non devi tenere una fiera aperta che potrebbe essere condizionata da cryptolocker tela crittografa ma è oltretutto con bicchiere fra esse io prendo di
+snapshot ogni quattro ore per cui sono nato dall'azienda sono tornato a otto ore prima e elvis e loro si sono ritrovate tutti i dati del nas decretati in tempo di qualche secondo per lui tendenzialmente
+guarda io non ho scelto matera sono pigro sono per le soluzioni pigre no allora sono pigro anche io procio di non aver sinologi semplicemente come un tipo tecnologico non mi dava quello che cercavo
+perché il mio naso non sono costruito proprio ad arte ho scelto l'hardware scelto il chase ho scelto un praticante scelto tutto non è ancora la forma finale perché lo fanno per arrivare alla forma finale devo ancora prendere un po' di cose perché volevo avere sia la parte navy me quindi ho cercato il caso che avesse lo slot cinque venticinque permetterci la si do
+permetterci hotel via e-mail
+ho cercato la madre word che avesse messico per poter mettere i dischi si deve avere il controller ho cercato la madre con il venticinque gigabit cosa meno si interconnette hypervisor anche lui venticinque gigabit per avere il nas comunque una certa rete ho cercato
+praticamente cercato tutto
+in maniera tale che avesse abbastanza pisidia mettere anche la bugia per fare scouting perché nel tempo ho cambiato setup milioni di volte avevo tronas che faccia girare direttamente kubernetes tu faccia arrivare direttamente tm news
+g girare container ho deciso se parliamo tutto poi ho capito che è meglio che il dato sia vicino a chi lo eroga quindi il mixer piuttosto che
+in teoria quello che vorrei fare con ellis
+ho qualche sistema operativo dedicato brunastro detto una base linux thomas cahill base linux perché non prepariamo con gesti
+io pratico con linux altrimenti non avremmo tutta la parte container parte la cosa che piace di lui ce l'aveva quindi debian va meglio ma non mi piacciono queste cose truna perché questo quello il vendor
+debian vai ai profili solo che debian al problema che te lo devi configurare tu che non è un problema configurare le cose è un problema che se io voglio considerarmi un hacker nel duemilaventisei dover aprire una console vim configurare tutto non faccio tramite il web vivaio perché la mia conf
+sezione e qualsiasi cosa ero da casa mia ad essere erogabile di acqua tiepida tipi seminatore che io ovunque io sia nel mondo ci posso accedere comodamente senza problemi di nessun blocco senza problemi di ripieno senza problema alcuno è l'unico modo per avere questo perché l'unica cose che sono sempre aperte in qualsiasi azienda per quanto il fango possa essere previste restrittive
+tuttavia questa tipica ti piace allora scusate vi interrompo ma farà il mio schema a praga paba wiki e ai code web interface fatta per voi
+condivida te lo faccio vedere promesso
+soprattutto bravo spagna che lo metti voglio vedere come funzionate comunque la cosa interessante è che integra sanitarie e anche per project management ma out of the box già con il file se sacca locale uno può avere accesso a tutte le sue agli oscar sul suo collo
+se si ha piuttosto che makkox poi se uno usa puppet ansible fa grandi cose fa inventori della propria infrastruttura ovviamente l'evento è basata su quello che becca da pc in questo caso il box moxa io un nodo solo di post moxon e poi gracias
+no ovviamente superano i dettagli con un po' di informazioni e con la possibilità di fare se remote azioni remote e anche qui a seconda del tool si possono fare cose diverse
+sì a cose specifiche per puppet piuttosto che volta che una specie di mensa bull dei poveri piuttosto che con lo stesso budget quindi e front-end web per gestione di macchinette varie inventori e poi se uno
+papeete la morte sua perché c'è un sacco di integrazioni e cose che si possono vedere dettagli e menate varie essendo io un tappetaro queste cose mi vengono fuori naturalmente poi la sartorialist giornale di tutti gli eventi di tutte le integrazioni che vengono fuori e che si possono
+cogliere sia globali che per singolo nodo
+tipo questo
+e ehm l'ip server embeddato uno può avere può chiedere al papa di fare cose in realtà server l'ho fatto ridolfi perché non mi andava di essere troppo spregiudicato quindi è al momento si possono soltanto chiedere informazioni sulla propria infrastruttura ente
+gayle con i propri
+argentini quindi queste papà se volete dargli un'occhiata andrea quanto è stato facile completare salvarono no anzi guarda metto condividere io che ti faccio vedere allora avere il tuo paypal come woodford però adesso non ho fatto niente di che perché lo ha implementato su proxy moxa è
+mabel stato abbastanza facile anche perché aveva già documentato come farlo su kubernetes quindi l'ora a questo punto vi spiego un po' come nella mia infrastruttura perché come hardware menomale ho visto che siamo tutti lì anche io ho tutta la parte di un fake e un po' meno apparati perché della mia piccolina quindi mi son bastati due switch quattro avere dieci gigabit
+di assessment in giro per le varie stanze l'unica cosa buona della mia rete ho tutto dieci gigabit laddove posso quindi dove ho potuto mettere una scheda dieci gigabit come sono scrive dieci gigabit a parte la hypervisor che potrebbe andare fino a venticinque gigabit
+motivo per il quale voglio cambiare il nas per l'arbor e come si diceva prima il mio bellissimo nasa
+fa tutto fatto tronas quindi questo affare troppo dietro tra l'altro con il computer là perché ecco il mio rappresenta sostanzialmente tutto qui non ho purtroppo il progetto di spostarlo da altre parti e in futuro
+mia moglie ha un piccolo ufficietto giù di fianco al garage dove prima o poi con un'opera più voglio lavorare nemici butterò io ho già deciso di tirare un po' di fibra in mi tocca collegare lo switch qua tutti i cavi di re della casa praticamente ho cablato tutta casa e tutto il fascio di cavi mi arriva principale anche se qui e qui pavimento ups per gestire sia
+il compito centrale chiede tutta la parte di rete lucidi fiber switch massa e quattro nel primo caso non si vede
+documentava variegata rimasta tipo cap avm gestore del gps o anche qui sono anche fatto già che c'ero sta cosa qui è che un raspberry che fa da kenneth pike fratello uno perché perché era una dea è certo c'è il collegato direttamente con l'antenna gps a
+e quindi nel è stato uno perchè no quindi raspberry e compì piola io e mi sembra imprescindibile pivello
+o a di garda che a garda infatti tutta la pa
+gestione dns che l'ho cambiata rapidamente da poco ho una di garda dentro tronas dentro lo stesso trovato anche un behind per fare a los angeles per fare un wind per avere tutta la parte e autoritativa il dns mentre tutta la parte interna è gestita da un ciclo
+salgono direttamente quindi tutto il via scipione lucidi fiber l'assegnamento l'assegnazione dei record dinamici di tutti i vari client di casa passa da lì e quindi una parte viene lei hypervisor
+l'appunto quei centonovantadue l'epic con la roma dove ho praticamente da la porte talos l'open clou dedicato hosted mail se sa che devo dismettere la habana fed cup agita brano è probabilmente un runner
+personale se fosse daranno di github per tutti i miei progetti su cui faccio sia il pd eccetera eccetera papà e l'ultima test che sto facendo dove ho messo proxy moxa è ovviamente gas necessità che un attimo e out of the box non l'ho ancora fatta perché ancora ci sto giocando anche perché in questi giorni mi sono messo a fare un orchestrato per agent
+intelligenza artificiale quindi mi sono un attimo perso via di tempo perché ovviamente adesso che inizio ad avere tanta roba a perdermi in giro a westin efficamente open voi io invece no
+oh su un dominio con windows server standard e sono andato con l'unica cosa veramente open che ho è il server proxy mox che tale arresto spezzo una lancia per chi non lo sapesse sposato significa nel discorso ma icea vale la pena per il
+i loro tavolini spero che la telecamera mi segua speriamo no non mi segue la maledetta aspettate un secondo ok
+qua questi sono tavolini l'ajax il vantaggio del tavolino l'ajax è che
+è largo diciannove pollici per cui voi prendete dei tavolini lax inventate uno sopra l'altro e ci potete avvitare dentro i server rack direttamente come se fosse un rack per cui con nove euro e novanta riusciti a crearvi un server con un rack completo viola o sotto i miei sinologia il mio server
+pro xbox con dentro tutto nonché lo switch lo switch jarach direttamente attaccato al tavolino quindi ho fatto quindi va avvitato con le staffe da daraa
+tatto è pazzesco
+non so ma andate a cercarvi su internet la crack e ci sono un milione di progetti fatti
+dirac fatti coi tavolini laodicea bello è una genialata e costa veramente due soldi bene bene e
+allora cerchiamo di dare un po' di riferimenti pratici e e anche per gente che magari non è troppo avvezza e ha intanto detto jonas vedo che tu lo usi anche per è un po' come un sinologi cioè che c'è soltanto sei dischi ci fai anche no io ci faccio anche
+ho sopra
+il mi cube per fare danno direttamente da youtube
+come dicevo prima a garda con unbound urbe perché praticamente il sistema di peccato che utilizzo per le macchine
+questo è un po' uno zero è proprio da sistemista vecchio stile quindi il classico client server uno
+vm che vuoi scappare dici quale directory web caparre delle coppie netbook the exception vietnam non fossero conoscete un bel progettino per fare boot via wi-fi ovunque via ip per terra fu macchina
+si celebra i cinquanta anni esatto esame le mie macchine proxy mox fanno il boot da netbook ex azienda cioè che so un proxy mox poi non c'è una macchina senza senza la iso se se la macchina va su fund fa pixi beauty vede che c'è tenete
+things we serio
+d-link vede delle cose che citiamo così rimangono beh a parte questi qua perché per esempio pixel questa cosa che mi interessa quindi eccolo netbook exception la crack ok allora facciamo così faccio un po' di copia incolla questo boot è utile o sacerdote mi chiedo
+ok me lo faccio con cloud perché comunque un'interfaccia un po' sfigata
+cioè si basa tutto su questi menu no questi menu
+però è
+non so cinquanta quindi puoi puoi far girare anche solaris non so sono
+delle distribuzioni di linux assurde però la metà non funziona quindi
+non so se hai provato anche windows ci ho perso una giornata e porca miseria mi venivano da bestemmiare come cancellare tutto infatti ho fatto una serata dedicata solo per quello perché ovviamente per usare quell'affare usare windows è così geniale che ti serve avere una card samba con dentro i fan di windows da installare
+nel momento in cui fai il boot
+ovviamente fa
+ftp non sono di ovvia
+deve avere un server ftp accade non è teoria pluralista dovrebbe farlo si alla truffa praticamente da qualsiasi cosa come servi fissati e adesso con le nuove versioni anche a noi le mie of the thief stupì non mi sembra che lo faccia nativamente tutele e un cart no tutte
+i servizi sono tutti kubernetes allora quelli che giro incubo che tra l'altro non è una dashboard però fotografano per farlo vedere l'unica facebook per kubernetes anche qui il vecchio me affidata console con leblanc dovresti mettere fine a ogni container dottore da usare kubernetes come scusa hai
+così tanti container da usare kubernetes abbastanza
+evidentemente si guarda se non uccidersi prossimi dovresti mettere head lamp è una dashboard per barney of canada era la dashboard che usavo prima solo che l'ho tolta perché non mi piaceva più perché poi alla fine mi ritrovo meglio occupati con graf anya che ovviamente tutto questo poi va motivato
+va monitorato bene a tal fine tutte le keyword per addirittura ad es world e-mail avanzamento in palestra perché ovviamente animata che va dalla nutrizionista mi fa l'ha pesata mi arriva il pdf pdf lo giro a claude claude in genere jason che mi carica sul mio laptop si agitò prime locali che soddisfano
+diocesi di argyll flags quindi
+quindi quando praticamente tutte le potevate grafica
+cose estremamente nerd e la repo su github ha detto sei agitato tutto su github ovviamente tutto privato
+guarda al lavoro sono diversi posti sto sto già facendo forgiò
+anche lei se ti vuoi sganciate dagli americani per davvero github idlib non va bene quindi forgiò
+il forum di idea non so se giorgio sta diventando lo standard se non vuoi essere
+se non vuoi usare github strada diciamo che ho tutto quello che faccio cerco di essere sempre molto agnostico neutrale che se mi stufo di un tool posso prendere spostarlo quindi perchè ho deciso di fare tutto su kubernetes è esattamente per questo motivo se un giorno non puoi più usare talos voglio andare sul pesce voglio andare su ritornare container normali qualsiasi cosa
+io ho il mio artefatto che a contenere media oggi cento per cento prendo faccio girare dove voglio non voglio più usare che permettere come orchestratore facendo per compose posso fare qualsiasi cosa
+e smettere di usare github queste
+permette di usare github almeno per come ho fatto diverse tappe non ci vuole nulla perché non ha non sono table action sono i diplomi argo argo di kentucky kubernetes quindi argo nel flax uso argo lavoro quindi ogni tanto con fondo a flax al suo immediato
+peter lim theater cosa fa tu crei la polis la polis si mette in ascolto su registri segue la regola della politica configurato e quando vede che viene che c'è una nuova release fa una wright beach suites aggiorna il deployment manifest e ti fa il nuovo aggiornamento quindi se io domani tolgo github emetto yogi tea metto
+ho così qualsiasi cosa che si agita funziona esattamente esiste senza cambiare niente cambia il vento
+alla fine del trend online orange ma kubernetes non è un po' overhead per un club non sarebbe meglio una roba tipo d'oca su arm
+dato che forme morto sepolto sacrilegio
+elegge legge ragni no perché allora ti spiego la mia filosofia è riuscito sogno filosofia in generale tutto quello che faccio caso ad essere replicabile eventualmente in un posto di lavoro e viceversa
+io nasco come sistemista sono ancora adesso sistemista quindi non è che son morto in maniera diversa è la mia filosofia è sempre stata qualsiasi cosa faccia casa laddove poter fare un lavoro qualsiasi cosa cavolo deve fare anche a casa quando ho iniziato nell'informatica il mio dictat era una pace che mi configuro a casa la pace che mi configuro a casa lo stesso paci che potrai
+configurare alla nasa che potrai configurare azienda ix in azienda sono innanzitutto zeta poi cambiano le regole cambiano le dimensioni cambiano un sacco di cose però il prodotto sempre quello e quindi seguendo quella filosofia ho sempre deciso anche a casa di usare possibilmente cose che non usano due persone che non c'è una persona mantenere
+dietro community ma comunque prodotti che uno possa imparare fare più esperienza e quindi diventare un tecnico migliore due perché no avere anche una certa rivendi bilità sul mercato direi che più che più che senso nam lab è il devon vado mente del lavoro cioè per me
+io uso il mio blob labter per provare cose che poi vado da applicare e ti dirò di più nikon club a volte anche migliori di tante cose fatto per lavoro nelle varie aziende per dire anche già solo gli faccio vedere questo tutte le regole di firewall che ho strutturato in questi giorni ma
+quando mai mi son messo a pensare a ste cose cioè qui mi sono proprio messo un pomeriggio ho fatto tutto tutto tutte le regole di firewall per segmentare ogni singola villana per segmentare un singolo traffico mi mettevo lì con i miei agenti a dire family dumping o accedi al router family dump di tutto il traffico
+che cosa è buono vi dico non è buono family report chiudi questo carucci di quello che hanno non lo fa in force cosa allora
+ah io cioè ho anche sottoterra forum allora più che terra concepisco ansible perché o concetti un po' diversi cosa fa di cosa dovrebbe fare telefono di cosa dovrebbe fare ansible premerà red bull e la configurazione terraforma e la creazione
+non ti annullo
+sei nel caso di anni fa e magari un po' più nessuno
+la divisione un po' più in là per esempio a-z per creare le virtual machine su xbox uso terraforma per fare il provisioning baseball eh scusa non usi papà wiki amico mio
+l'ho appena installato e devo ancora lo devo ancora migliorare le cose su puoi anche farlo su e giù e su rai way più essere felici perché alla fine l'elenco di fogo sono importanti quindi adesso topsy id non senso
+rating it infatti tutte queste cose qui adesso vi spoglio cosa ho fatto negli ultimi giorni
+sposando non claude perché la mia sottoscrizione personale openai praticamente gli ho fatto fare una analisi un pochino approfondita delle piaghe di perché allora non esista automazione friuli fai partiamo da questo presupposto lo cercai a lungo e per largo e non c'è un cazzo l'unica cosa che riuscite a fare è stato dire a onifai studiati le piaghe e vediamo cosa riusciamo a fare
+quindi tutte queste cose me l'ha creata e l' agent tramite e piaghe e anzi tramite piani ho scoperto che ci sono alcune cose che ci sono nella wiki ma non sono ancora esposte pubblicamente per esempio nella configurazione del network alla parte più sai che anche io ho più sei abilitato qua c'è la parte del prefix delle delegation
+che è auto e non si può cambiare tuttavia questo potrebbe essere il prefisso dai totale juniperus sai per avere questa parte qua millesettecento con prefix natale da poter assegnare esattamente per ogni rete il prefix che vuoi per evitare collisioni visto che ovviamente a me era capitato la collisione con i lipidi sai che uso su talos i colpi di sole anche su kubernetes tra l'altro
+questa opzione da google è nascosto ma da ipla poi la puoi utilizzare e questo mi ha scoperto la gente mentre faceva il lavoro quindi praticamente cosa ho fatto l'agente mi ha configurato il fagiolo tutto e poi mi ha configurato il modulo ansible per poter gestire tutto questo tramite ansible i fatti anche
+la parte dns di cui vi parlavo prima che sono i dns record della lan interna così va sono tutti generati da baseball così come la parte di garda che invece qua dentro min ah quindi tu il dns lo tieni su onifai
+solo per la rete interna anche io sono per riprenderla ma invece il mio domain controller e uno windows server per cui il dns lo tengo direttamente lì invece il tutto dall'alto dns allora protocolli dns principale che appunto l'istruzione di garda che fa upstream verso localhost
+questo invece l am bound per avere la la parte ricorsiva e per il dominio lan wan carlos dominio name il dominio interno che utilizzo va verso il default e poi c'è la streaming lesse per se come fullback se nessuno di questi funziona da fallback questo caso
+vuol dire che se anche dovesse andare giù a di gad preso facendo mente naso altro non perdo nella risoluzione interna nella risoluzione verso internet google folly beach verso tablet ma come siamo qua della tua casa come si chiama e ovviamente dentro a di garda o tutte le configurazioni gestite da ansible e quindi tutta confronti di adi adi
+guarda me ha fatto tramite ansible particolarmente tutta la parte di red rodriguez dove questo qua è external dns quindi quando io faccio un deployment di topsy sul mio repository git in automatico flax fa irresponsabile del cluster cioè due istanze di external dns una istat
+external dns aggiorna il record su cloudflare per l'ip pubblico da cui poi mi genera certificato se shelley la cripta l'altro external dns mi aggiorna questo entri qua maniera tale da offrire scritte dns quindi io ho questo link vai a costruire solo sulle gas interno questo per esempio babau su quello esterno
+quindi pagavi punto non discuto space da fuori viene risolto col mio ip pubblico e dall'interno tramite questa epigrafe ad di garda e in più ho anche la parte di caf filtering dove avevo un po' di logica per blocchi sicilia di garda e o
+poi dovrei avere un'altra cosa che non mi ricordo onesto per la pa ok l'ho tolto anno aspetto al moto non dovrebbe essere nei equo
+offre praticamente invece per la parte block list o a di garda dns server e adwa che sono i classici regole di adi garda per bloccare eventuali eventuali ads è tutto che ci sono in giro e poi ho la parte di lance esce praticamente qui ho generato tre
+tramite un progetto che si chiama joseph bloch del genere tutti gli ip dei vari cdn è che ci sono in giro tipo steam tipo windows update eccetera li faccio puntare tutti a una mia istanza l'angoscia che è dedicato a fare questo che gira su kubernetes
+storage and me quindi praticamente io in casa o anche tutta la cache di stima quindi quando mi scarico un gioco parte di tutti i vari meccanismi di prè worm il monetaria che scarica direttamente tutto mi li tutti in memoria quando scarico qualcosa da film in automatico mi rimetto in anticipo se si vuole reinstallato c'erano già libano pronto andrea scusa la domanda ma quanto ci hai messo da golf
+fiore tartaruga
+considerando che è un progetto che va avanti anni se non decenni il primo club l'ho fatto a casa un ladro i miei genitori e il video io sono troppo pigro cioè io vado di roba di roba commerciale banalmente perché tutto è tutto il mio lab di casa e l'ho configurata è tipo una settimana
+ma io un po' di lavoro dopo per cui c'è è fighissima tutta sta roba ma non avrei la testa per poter gestire tutta sta roba
+è il pezzo per pezzo adesso anche semplificato perché la parte del network non va a parte in esse prima era molto molto peggio perché la parte di hennessey prima avevo invece di avere a ho sempre avuto invece di avere unbound aveva un istanza di notte e prima ancora behind dove usavo le rep zeta del re pizeta sono una per chi non lo sa
+perse per chi non lo sapesse l'irrequietezza la particolarità del protocollo dns che ti permette di avere delle nuove espansi praga zona dove il progetto fa l'override della zona quindi
+visto che ho un dominio di terzo livello per tutte le mie applicazioni e ogni volta a creare il la delega di quel
+di quel ricco di annessi sarebbe stato un parto quindi se io devo fare un nuovo diploma non posso ogni volta a creare una delega per gestire domini di terzo livello sarebbe stato da pazzi e allo stesso tempo non voglio gestirmi internamente tutore dal pubblico quindi mi sono inventato secondo de rubi zeta dove praticamente io avevo un dominio the raid
+che al dominio gestito all'ereditarietà quindi quando creavo qualcosa tipo non so prometheus punto tono di facebook out of the raid external dns it's not mi aggiornava sulle record of ride ma essendo un reporter e pizzetta in realtà al dns risolveva prometto spuntano punto vissuto the ride come se fosse prometheus pu
+non discuto spesso quindi questa maniera io pregavo il sistema per poter fare e di annesse scuse una cosa
+sovrastanti le arti figurative torreggia a metterlo in pratica è molto divertente questa cosa delle pizze perché mi ricordano molto le views the behind ma sono un ufficio del protocollo o del prodotto che stai usando per favore
+oh sono le aspettate adesso non mi ricordo esattamente per cosa
+la rapidità del dono le restano spogli si dona praticamente sono delle regole per gestire refrain delle zone di dns comunque sia è una corda che comunque come principio giusto per restare in tema è molto utile per chi fa lobbying no questa cosa simile
+per poter avere dall'interno accesso gara applicazioni con loro
+pubblico e è
+quant'altro quindi poi a loras sulle ultime configurazioni ho risolto le irpine quindi anche se usassi l'ip pubblico non avrai più problemi quindi se anche non avessi l'ospite dns mandassi sull'ip pubblico comunque funzionerebbe
+però è una cosa che da sistemista mi scoccia perché no sono nella rete lan tu devi risolverli lipidi come il milan e devo poter accedere nella corsia preferenziale non esiste che mi faccio tutto il giro del mondo si sono dentro casa su quello c'è ragione io per esempio un dns interno gestito da windows serve tutto quello che è in
+mio punto local e poi il mio dominio esterno che invece viene gestito da un dns pubblico
+l'ho tenuto molto più facile e probabilmente no ma adesso è semplicissimo perché con jade garden bound due external dynasty è diventato tutto molto più potabile semplice o anche perché prima avevo dovuto fare script dedicati per fare refresh delle zone altrimenti alcune cose non funzionano bene bla bla
+c'è stato un bel po' di lavoro dietro non ho più niente dietro quindi non me lo posso far vedere però va sicuro che era stato abbastanza sia interessante svilupparlo ma anche interessante mantenerlo andrea scusa mi chiedono url del tunnel poi gli ip delle c d m qual è il tipo scusate
+ti do subito
+può
+ve lo posso dare anche direttamente l'albo
+no però se scrivi sulla chat di google no devo andare a parare twitter zappano noioso
+l'acido neanche aspettare come esce mensa vi dirò direttamente in kit in chat
+global
+praticamente la cache ma larga monolitiche invece un altro progetto che praticamente usano nei jeans per fare tutta la parte di hacking e ridare poi indietro il pacchetto a chi lo chiede scusa praticamente fa eccolo qua dove adrian aveva un messo lanciato di youtube e amazon youtube farà male urla
+perché le chiedo venia
+mai pensato dalla normale
+c'è questo progetto che si chiama l anceschi monoliti che sostanzialmente un una kings che fa da transparent proxy verso questi domini qua e quindi il setup completo è questo che ci dumenza che ti dà la lista di tutti i domini a vari script per generare a seconda di diagnostiche usi il codice dello script
+giornata di garda e la scrittura generale con bond eccetera eccetera e
+pom con lance esce praticamente la morte sua perché la cache invece si occupa di fare tutto a parte di transparent proxy ma scusa la domanda che connessione hai tu o la due cinque gigabit come la musica di ampie vetrate ho così tanta banda c'è tutto sto sbattimento per fare easing che vantaggio ti da vi
+hotel hai yen non c'è nulla
+no io sono per l'approccio it is you keep it simple stupid
+ad allora diciamo che prosegua sono tutti manca il progetto enneatipi stato un uno è assolutamente overkill sola che quando vedi all'aglio
+a parte essere nerd tutto mi piace anche molto youtube a guardare video in giro tutto e ogni volta che mi imbatto in video dove gente fa qualcosa che mi interessa dico che voglio imparare stato uno su fatti per esempio per andare avanti col progetto di leo stato uno ho comprato anche questi che sono i gate di raspberry direttamente
+il gps si poi alla fine ho deciso di avere la schedina reichs
+figli proprietà usi il gps come fonte è tipo zero per di p
+le date faticosa come la duckworth del modulo gps che girava intorno a sberle averle che abita a dylan
+hai un'antenna esterna che ti prenda il gps lo usi come fonte per la mtb
+e tieni conto che io invece per esempio sonno tutta la mia tutta la mia rete e in una use in un interrato i non so se vedi qui ho un sistema che è un ripetitore gsm perché altrimenti qua sotto io non prenderai niente un'antenna esterna e quindi mi ripeto
+il segnale del una specie di ghetto privata per poter usare il cellulare perché sono praticamente due bulgare quindi non capisco anche perchè io non sono in ubuntu ma ho seri problemi a prendere il backup cinque kg infatti ho dovuto togliere stop crocchio qui che doveva essere il mio peccato cinque kg e ho messo una chiavetta di me
+merda su suo affarino può perché questa chiavetta prende meglio di questo perché le antenne non so perché fanno schifo quindi dovrai mettere l'antenna fuori per avere un mercato decente perché non ho infatti il filo del gps volante adesso non ve lo posso far vedere totalmente la finestra con l'antenna gps è attiva a penzoloni così il cavo hdmi
+sul modulo gps del raspberry invece qua una bocca di lupo per cui fuori sulla staccionata un'antenna esterna mi passa qui sul surf peter e fa tre quattro cinque kg è lassù ho un'antenna interna proprio qua apre nel campo pieno pur essendo due metri sottoterra
+bello
+allora torniamo un attimo a fare un po' di e buttiamo dentro tutti con modalità veramente chi ne ha più ne metta facciamo un po' di voi direte e
+guida pratica per joomla bershka in fieri o chi vuole diventarlo vuole iniziare a smanettare partiamo dalle basi quindi a apparati di rete e firewall router switch e access point abbiamo poi visto unife poi tutto secondo voi
+soluzione unica è sempre meglio un mono vendor parametri messi assolutamente c'è sbattimento zero nel senso io spesso e volentieri mi capita di dover far pen testo altre cose per cui mi creo delle vlan me le preparo me lo creo mi dura per per il tempo che è e dopodiché
+me li cancello mosso cambiare le porte al volo spostandovi l'anno a mettere metallo tag vantaggio ed a seconda di quello che mi serve ascolto andrà a votare non potrei stare senza un fai da te quanto costa un settanta diciamo non come il tuo è un pochino strutturato ma un
+bel router esterno che fa allora tieni conto ma io non è così costoso perché allora tieni conto io sei access point perché qua dentro sono tutte pareti in cemento armato per cui ho dovuto metterle quindi ogni access point per me è costato centoquindici euro
+fai o il cloud gateway ultrà che gestisce la due cinque giga con quattro poi connessioni verso da un giga verso il co switch che è costato novantacinque euro che praticamente niente ma questi preti perché i miei anni fa e non sono costati vai a guardare lo unified ultra
+non perché ho letto l'ultimo switcho preso che è stato il quarantotto porte due cinque gigabit pio e più plus plus l'ho pagato millenovecentoventi a fermo tieni conto che io ti sto dicendo che tutta la casa io l'ho fatta cinque anni fa per cui erano i prezzi prima che schizzassero alle stelle poi ho il cor
+switch che è un sedici porte
+fully po' e che ho pagato più o meno duecento euro e poi ho gli uni fa e quelli piccolini life e quelli piccoli che costano quaranta euro l'uno quindi alla fine diciamo che tra tutto io dal momento che ho fatto a casa per la network ho speso più o meno millecinquecento euro però sono
+cinque anni che va avanti finché alla fine direi che comunque è stato un ottimo investimento e per capire prezzi correnti che di che cosa si può parlare stiamo parlando si tieni conto che sono aumentati ma per gestire tutta casa mia e non ho speso più di due mila euro al brand
+che poi è parecchia roba più di quello che l'esigenza esigenze normale e domanda mann
+ai soggetti attaccate a una power e allora per chi non lo sapesse proprio over ethernet o attacca il cavo di rete e tramite quello di leone
+alimentato sai access point più i miei più quattro picche vieni
+adesso vedi questa che è la mia stanza principale poi di là nella nella palestra o il simulatore per di corsa c'è un riga
+che mi fa anche da macchina per quello che riguarda la parte degli agenti è perché ha un'ottima scheda grafica e lì c'è un altro cosa poi c'è lo studio di registrazione di mia moglie dove abbiamo prodotto due due album e più resto della casa quindi tendenzialmente ti direi ios su poi non ho tantissima alla fine ho una quindicina
+di oggetti però scusa
+in casa gli apparati onifai in realtà li colleghi tutti via poi alla fine se ho capito bene gli switch access point switch gli switch sono tutti poi tranne quello principale che è quello che fornisce la corrente e tutti gli exploit sono tutti pozzi bello però ovviamente è collegato uno switch e al router
+perché luterano napo è come quel tuo clown o'reilly
+gli eventi dell'ultima parte dal dl cloud gateway va a quello che è il mio cor switch che puoi e da lì scende per sull'albero con tutte cose poi che è interessante è
+va bene quindi questo è un approccio altri soluzioni secondo voi raccomandabile a livello di infrastruttura hardware per un livido dipende da quanto ti vuoi sbattere sempre quello la questione è trovare l'equilibrio tra quanto ti vuoi sbattere contro cui da due piastre comodo più aumenta il prezzo più hai voglia di sbatterti più il prezzo diminuisce
+chi posso
+perché per esempio ti racconto la mia esperienza prima di avere tutto onifai sono passato ad avere i peggio switch cinesi che trovavi su aliexpress allora io ho sempre voluto avere roba managed perché con il lavoro che faccio ho sempre usato milano sempre avuto seta particolari per fare esperimenti a casa che poi portavo lavoro ma non lavoravo via web
+mi sapeva avere tutto a parte per distinguere tra parte per capire se ci troppo il mistero di avere evitando quindi qualsiasi switch prendessi doveva per forza se managed e dovevo per forza per configurare di lana qual è il problema tra tre switch cinesi di tre marche diverse vuol dire che quando dove operano violando può farvi tutti i singoli swish
+c'è la configurazione esatto un casino
+le spendevo sessanta euro per avere uno switch quattro porte gigabit perfetto cioè dove lo trovi uno switch dieci gigabit a quel prezzo però lo sbattimento da configurazione tutto era molto superiore per quanto riguarda invece il workload anche lì
+tu ti vuoi sbattere quanto vuoi spendere google perché un conto è cannibalizzare l'hardware che trovi in giro un vecchio computer un vecchio laptop lo prendi ci sta di sopra linux diventa il tuo nuovo server diventa nuovo poll
+guarda ti posto zero sbattimento il giusto e hai qualcosa operativo vuoi spendere qualcosina in più ci sono i ci sono i minis forum che sono mini pc intel o amd che adesso escono anche col dieci gigabit che sono bellissimi per fare un lab io mi ricordo che sempre quando lavoravo in via querce alla community o leber per
+tutti i crateri ix a casa come un lab e in zucca dona tantissimo siano intel intel più che mdd perché ai tempi c'era solo intel sostanzialmente con i mini pc e tutto il supporto e la intel però anche adesso se tu vai a vedere in giro ci sono blair bond a tre quattrocento euro con aim di raiser ai
+con sedici trentadue giga più anziano barbone che senza rabbia senza disco che però hanno presepe a dieci gigabit hanno due tre interfacce di rete quindi non ti servono neanche
+non ci sono neanche schede aggiuntive o altro se già pronto ne compri due t stuxnet in classe che già funziona quindi per iniziare io sono sempre dell'idea del inutile fare da darjeeling c'è uno juventino che come possono il mio o di andrea e per utenti avanzati che comunque ci lavorano anche con queste cose perché dunque su un blog come dicevo
+lavoro per chi vuole smanettare vuole approcciarsi all'informatica in maniera un po' più giocosa che non sia per forza meglio lavorativa che non sia solo montarsi il computer che montassi compiuta ormai diventato il gioco forme colori non c'è più questa passione ho questa magia e montaggio incompiuta ormai qualsiasi imbecille che le gilman
+quale parte adesso che c'è gente senza dita che non riesce a spingere bene i connettori per attaccare raggi più frequento diversi community di pc gamers che veramente si sente scandalosa che lo fa neanche montare una cazzo di scheda grafica non sa neanche proprio veramente buttare il ventiquattro pin della limitazione o limitazione scheda grafica quindi per quanto sia font color
+c'è ancora questa difficoltà ma a parte questo se vuoi apprendere l'informatica maniera più
+giocosa e tutto ti compri una macchina che legge
+che che costa relativamente poco ci sali sopra linux e inizia a smanacciare iniziò a mettersi sopra i primi servizi inizia a mettersi sul gelli fine
+se vuoi avere la tua libreria multimediale inizi a metterci un black si dice patrick ex nemiche metterci che ne so colibri
+se vuoi avere qualche e-book
+la suite karl se vuoi fare cose divertenti che non stiamo qua a dire la cosa insomma inizia a smanacciare poi in queste cose l'appetito vien mangiando allora io sono d'accordo con te però fatto un ragionamento diverso io ho detto dubai primo sinologi che ho comprato quanto mi è durato dieci anni quindi vuol dire
+che l'ho pagato seicento euro è praticamente mi è costato sessanta euro l'anno quindi questi sessanta euro l'anno mi valgono lo sbattimento di metterli su tutto per i fatti miei utilizzando hardware in qualche maniera riadattato e ogni risposta multipla
+il percorso ma solo quando raggiunge l'obiettivo perché poi il look liebing cabello fleming ci sta tutto andrea
+nasa si decisamente sentita in casa la cosa importante sempre cosa vuoi ottenere
+no io sono per massimo risultato minimo sforzo quindi se devo spendere per poi aver rifare la cosa l'anno prossimo no ma se devo spendere per rifarla tra dieci anni fa brodo spende un pò di più ma nei nuovi sbatto di meno
+totalmente differenti non è assolutamente da cuore per molto tempo il mio home lab è stata la la vm su oracle gratis ventiquattro giulio e quello del mio blog
+perché non ce lo slogan della casa lo spazio è quello va benissimo ciò che imparate flax kubernetes a un semplice gps poesie effettivamente smart altro slargo dove riguardato alla fine il mio arduo mondo nello scantinato meno lo tocco meglio è
+camera tua cosa c'era nell'armadio orale
+è un mondo di ricordi
+friends
+l'albero di natale di luce
+penso che dipende anche tanto dal fase la fase della vita perché per esempio io più invecchio meno voglia di fare determinate cose quando ero giovane magari avevo più voglia di material smanacciare andare
+spendere il meno possibile per ottenere il più possibile adesso invece sono più nella fase oh non ho più tanta ne voglia ne tempo da perdere queste cose detto tutto mi fai mi semplifica la vita crisi il parlamento tuo considerato che sono più vecchio di te quindi penso che c'è anche il momento giusto a diciotto anni che abbiamo iniziato con informatica
+non ne avevo quattordici sono uno ottantaquattro quindi erano i primi anni
+poco prima del duemila e passione che scoppiata così quindi hai voglia di fare voglia di disfare quindi non volevo io avere qualcosa che già funzionava blu costruire io qualcosa che funzionasse man mano che il tempo passa diminuisce il tempo le le la competenza già te la sei creata quindi a me non interessa più configurare una pace
+già lo so fare ne ho fatti milioni e milioni e milioni a mano con pappe te con abside in qualsiasi modo salta esistente quindi mi concentro più magari su l'orchestrazione piuttosto che sulla singola configurazione quindi orchestrazione cosa vuol dire che non mi interessa più magari andare a prendere l'hardware da scantinato da dieci euro o magari pre
+un qualcosa un po' più enterprise che mi faccia divertire un po' di più penso che sia anche questione che fase della vita sei che
+sei nella colla tua relazione con informatica sono d'accordo totalmente con te
+e torniamo al nostro talaltra scusa città o il buon marco che per quanto riguarda domotica city ascelle che mi sento di condividere tutta la suite scelta di prodotti per la domotica è una gran cosa
+altri chiaramente sono andato su ticino
+comunque ognuno i suoi
+e comunque a bere giustamente anche lì credo che abbia senso cercare più possibile mantenere una certa uniformità di vendo no perché poi è vero che fra luci colorate cinesi di cento diversi sat le tapparelle antifurto e quant'altro si può avere tutto
+godai tutto però una bella interfaccia unificata l'app magari sulla folla di di un vento e così via fanno un po' la differenza nas difetti
+allora io da utente sinologi beh a parte o
+western digital ma mi fa cagare
+veramente malissimo è però sinologi io l'ho sempre trovata abbastanza comodo e abbastanza
+flessibile alla vita il loro sistema operativo il dsm è fantastico e lo story con edta applicazioni certificate io qua a caso anche un un'app che mi ha dato mio cliente per cui gli faccio sopra i the cap remoti ma a livello hardware magari leggermente superiore ma a lì
+livello di sistema operativo è infinitamente indietro quindi io direi o sinologi tutta la vita se possibile altrimenti piuttosto tronas esatto tony nasa è situato però attento perché
+io avevo questo sinodo tutte le foto
+tutte le foto della vita no su questo sino al ghetto cioè il raid uno zero sono posto giusto ci vuole se avrei dovuto forse magari fare il backup backup nel cloud però giusto sinologi
+tranquillo per dieci anni e poi non non ha piovuto sapere allora ho deciso a bere solo meglio cioè vado su una cosa un po' più mainstream linux the fields se no sto sempre dietro a questa azienda è che una lattina allora ho pensato di cambiare da sinkhole dopo dieci anni
+neg comunque sicuramente applicazione perché dai video al video
+so clone di ellie fanno ci ho guardato tutti i film hard disk che da anni su quello dei film però sempre un ecosistema pò chiuso lo suonano non rappresenti io non potrei evitare di avere atti backup c'è un programma di backup di livello di vim direttamente
+gratuito che ti danno e per me è la vita per un sacco di cose
+scusate chiedo scrive c love in chat la ward che fai c'è lui usa e se ho capito bene il dsm su una sua vuemme perché di seme puoi anche installare europea i cavoli tuoi no c'è un hack del dsm che non mi ricordo adesso come si chiama e ti permette di usarlo come vuemme o su hardware non
+sinologi però sostanzialmente come un hackintosh se cioè non è una cosa orrenda
+cosa ufficiale go quando sono andato via dal sino a oggi ho vissuto su zetas molto anche l'idea l'ho provato e un doc con pena maggiore di m sette zero a quel punto li puoi da linux perché dunque con te puoi montare quindi questo raid da sé
+citera così lo volevo montato in custodia è sam e usarlo uguale come come prima come stavo usando i sinologi nato a l'aquila ho postato credo che di il proprio progetto separato adesso mai avuto in mente si chiama expo enologi che ti permette di avere un sms hackerato che gira su hardware non non
+check your doctor container e gira preciso cioè da indistinguibile dal sinologi poi ho pensato ma perché so già su console linux ciò diede un suo proxy mox mcdowell stata un'altra cosa che
+arrotondate l'ho lasciato stare e docker ryan
+sta' cosa dice all'interfaccia solo che deve e un doe era un po di krupa jazz un po' non è proprio eh si perché alla fine della
+fare il pastore dischi poi avrà bisogno del network avrà bisogno di tutta una serie di group
+c'entra c'entra quindi halloween ho guardato il tabellone si chinò sotto l'ala sinologi come doppio spuntone porre fine al tony award presto orso nell'open source ok allora scrive ce l'ha perché in realtà ci dando un po' di informazioni e tecnologie vecchio arc loader e il suo la sua versione aggiornata
+nata e più secco più mantenuta io metto in chat il link c fammi sapere se quello corretto ma si era effettivamente è un loader per il m pene molto bene le prossime iniziative come qualcuno scrive che nasce
+otto philae pilastri era scrittura andrea
+e che anche io sono stato d'accordo su questo sito una volta che hai allora un conto è se magari ti vuoi iniziare a fare un percorso per toglierti dal vendor quindi non è che tipo eto'o dall'oggi al domani e quindi inizia a lager gli causava i tuoi dischi su un corpo del genere era tutto è lì ci sta ma se devi avere un
+qualcosa di non mantenuto ha mantenuto quelle due o tre persone che potrebbero morire domani non avere più manutenibilità del soft cui utilizzo è tutto una cosa importante come lo storage un po da non da non da da nerd ma da sistemista storto tantissimo il naso da professionista storco il naso sono da protocollo
+per i miei dati una cosa del genere non lo farei mai ce lo farei giocare sicuramente per dati volatili che dico me ne frega niente sicuramente ma per le mie cose personali da proteggere mai piuttosto che utilizzare una versione a cata porcate tutto sul mio hardware eccetera eccetera mi prenda un sinologia come dio comanda così qualsiasi cosa
+succeda alzo la cornetta del telefono chiama l'assistenza e so qualcuno che in teoria mi dovrebbe aiutare sono assolutamente d'accordo con te come ti dicevo poi la durata di vita media a livello di manutenzione ma anche di rotture di un sinologi ai dieci anni quindi obiettivamente qualunque cifra standard se non va spalmato su dieci anni rimane assolutamente gestibile
+assolutamente sì lo avrai fatto interagire anche perchè usare il pastore fantastico con le fiamme e avere abbastanza hardware da poter fare su tipologie di esperimenti come per esempio lo dicevo prima io ho una a tre ottanta che usa come il trans coding e in pashtu su un nodo kubernetes di talos e quindi
+word cloud che utilizzano raggi più li faccio andare lì sopra una taglia di fa scouting è bellissimo poter fare questi esperimenti non ho non ho per esempio ho pensato anche di mettere il naso lì sopra ma non l'ho fatto semplicemente per due motivi uno
+questa madre board ventisette milioni di di controller sata di istituti da uno sbattimento selezionarli tutti capire quale fosse cose e mettono in pashtu due avrei creato una vetrina circolare sostanzialmente una dipendenza circolare perché se la se il nas che da storage alla macchina virtuale la sua stessa macchina virtuale dello storage
+capisci che funziona finché non si spacca tutto ok va bene gli esperimenti o soggetti di esperimenti ne ho fatti ma sicuro che ne ho fatti parecchi ma ripeto il naso in qualcosa che dev'essere però capirei se andati d'accordo un soldato non si scherza va compiuta abbiamo parlato di pokémon x credo che sia un po' ormai
+che vuoi versi sono autodistrutti commercialmente e alternative apoc se ne conoscete fighter e carriera
+state attenti aree termine e il david cosa commerciale alternativa via web i box io lo adoro però ultimamente ho dovuto dare da un'azienda che aveva cinquanta macchine virtuali ho fatto lastra straker perchè certificato da qualunque vendor del mondo
+altro sfatiamo un mito assolutamente perché ci tengo questa cosa allora io non sono un fanboy microsoft
+o uso linux da più o meno tutta la mia vita informatica io sono per il usare quello che abbiamo ma siamo tutti poliglotti ci siamo tu policy ios no no no devo devo devo fare queste premesse perché parlo con un sacco di gente che appena appena cerchi di difendere microsoft microsoft no non è non è
+qua il punto però ai nervi mi sembrava comunque ai fervidi è uno dei migliori hai pervaso di circolazione assieme grazie
+camera camera
+tecnicamente parlando ai impervie è uno dei migliori e hypervisor in circolazione
+sì no giusto per capire e uguale uno si usa su harper manager su windows locale tu andrea quando hai fatto il tuo tappo un pochino più strutturato c'è una soluzione un pochino più allora tende a questa azienda loro potevano risparmiare un po' di soldi io gli ho preso due licenze di data
+senta perché alla fine diciamoci la verità le dolcezze da sempre le trovi anche a poco prezzo e ho messo tre nodi in iper convergenza o no ogni uno cinque dischi ssd è usato spesso storage direct per cui ho fatto un sistema completamente iperconvergenti sono tre nodi tengono
+dentro una settantina di virtual machine perchè ho voluto stare un po' largo ereditando problemi mai ha avuto un casino cioè ai perry in effetti viene schifato perché mai questo ve lo posso capire perché microsoft di casini ne ha fatti tanti però è rock solid c'è il per me è l'unica alternativa
+viva vera a vmware dal punto di vista commerciale se devo andare su looper o proximo scena ricavabile però vi dico se io dovessi fare un cluster da trentadue nodi io lo farei con airberlin perché se lo faccio con project match con sottocarro sean io non mi fido
+ma infatti
+xbox proprio oggi ho fatto una disamina di quanto alcune decisioni storage network e clustering in primis faccia veramente schifo e nonostante robe tipo data manager per fare esattamente quello che gli dispiaceva di proximo creduto pur essendo un qualcosa di estremamente nuovo sembra già qualcosa estremamente anni novanta talmente fax
+schifo anche solo world allora luca scrive in chat harvest terra conoscete
+non so se ha a sistema di protezione de suse
+soddisfazione l'ho usato pochissimo in realtà se comunque c'è anche pat
+per convergere in fast action la tesi sistemare il problema sottolineano linux è che ci sono centomila cose diverse come sempre linux da un sacco di scelta che è una bella cosa ma è anche una rottura di scatole perché non sai mai cosa fare guarda per esempio
+redhat redatta ha cambiato la sua politica per la gestione degli hypervisor trentotto volte e ogni volta ha lasciato gli utenti a metà del guado e la cosa mi sta sulle scatole se c'è da dire una cosa cioè proxy mox è nato come un sistema che è un'ac di debian e ha fatto un lavoro magnifico grazie io devo garantire a un
+cliente il supporto per dieci anni io obiettivamente non andando su vmware perché odio puro come le sue politiche commerciali io sinceramente a parte ai club non saprei cosa consigliarvi
+okay beh giustamente comunque allora ecuba virtú come la mettiamo visto che sai credo che appunto scrive
+luca stavo stavo citando anche io prima è ora di aggiornarsi non c'è più il vecchio sistemista con lei hypervisor come una volta adesso ci sono tutte queste cose a iperconvergenti container
+no a voi che siete nati al cloud nativa cube virtú funziona bene è robusto abbastanza da farci funziona e preciso che è un'orchestra rubrica del capo v m esatto la tradiva e metti kubernetes
+metallo e valgono come verde o semplicemente hai un classico kubernetes più la possibilità di fare alberto moschini e ci sta solo che effettivamente oggi serve arrivano già
+zero hour senza senza dischi magari ti compri anche tu sarai con i bus che lo devi usare mai uso del self e fare surf su kubernetes non è che sia una passeggiata di salute quindi io per questo progetto che sto facendo ho scelto proxy mox cinque nodi con google cluster self help
+da sopra cluster kubernetes con palos best booth word perché si ha bisogno di una vm fuori da kubernetes ottiene saints qualcosa c'è sempre una busta di farlo in proxy mox lara for work wide range molto quello che invece è solo kubernetes
+sei dentro occuperei di questo cluster monolitico
+davis mettersi comunque in uno studio esterno e avere lo stage gestire lo storage vento governato sempre un po' un problema a meno che non sai fare non ci stai proprio non ci sai fare con root e con self e se poi zero con la vm devi farla incubo virtù
+ho una
+la verità io mi occupo di cybersecurity da da sempre e i nuovi fido dei container perché condividono il kernel con con lost perché condividono parte del fascista in con l'host e il lupo
+il devops a tutti gli effetti non esiste per la parte di security tendenzialmente io la maggior parte dei container che vedono in giro stasera
+lo dico ma sono fatti col culo eccezioni a parte qui tendenzialmente prendono un una roba da toccherà b la tira dentro ci mettono dentro la loro app di emma io solo cicatrice però hai ragione fino a un certo punto perché se fossi nel duemilasedici ti do ragione però anche se
+voglio dire da eroi il problema è che ti do ti do ragione ma a un certo punto perché se ci pensi se anche tu prendi una vm che le apri qualsiasi rete non hai regole di firewall e tutto è esattamente la stessa cosa perché container e tanto insicuro tanto quanto è imbecille che lo configura perché comunque i sioux non è una roba nuova
+di sicuro esistono da alex ci arrivano dalle gilde serie quindi c'è tutta una
+documentazione tecnica e una narrativa dietro su come si può usare un processo container in maniera sensata è sicuro che poi la gente non voglio seguire nessuna best practice di sicurezza e ti mette il contiene sullo stesso si networks sviluppo
+file system
+host network come butta lo stronzo tu ecco il continua questo problema è questo c'è il discorso e io per esperienza personale magari mi sbaglio però ne ho conosciuti tanti e ti dico che il programmatore non è un sistemista i sistemi stan è un programmatore adesso ci siamo inventati questo nuovo ibrido che è il devops che dovrebbe es
+essere sistemista programmatore esperto di cyber security scappare nessuna delle tre cose però è un po'
+orion occasione è un po' fuorviante pensarla così perché in realtà è quello che ti il mercato per la realtà la figura diversa nel senso che è una metodologia di lavoro no vabbè adesso scusa francesco sto deragliando allora il devoto una dovrebbe essere una metodologia di lavoro non un giocatore che poi è diventato of title sappiamo tutti come è finita però in realtà il
+il lavorare come devops dovrebbe essere quell'essere nello stesso team maniera tale da avere il famoso tip persona ovvero te scelto proprio qui dove tu hai la tua competenza verticale che quella fortissima quindi io infrastruttura un altro sviluppo e lavorando insieme lui impara da me perché
+io magari faccio una proposta così su come dev'essere fatto che files come deve essere fatto container mi devi imparare a gestire il sig kent quando contiene altrimenti muore tutto e non devi fare più brutali è un processo per un container eccetera eccetera eccetera ma in più io aumento anche la mia asticella orizzontale imparare
+vado da lui io non mi definirò mai un programmatore però so programmare fare lo sviluppatore una cosa saper programmare è un'altra sono lavorativamente parlando nominare anche in questo mondo idee questo succede in un mondo ideale è però
+per niente uno fa tutto è regolarmente però le aziende le aziende sono fatte da persone andrea in primis a portare avanti una certa mentalità le persone non cambieranno mai mentalità
+andrea ghira pilar io l'organizzatore del primo incontro il primo the world days in italia ha fatto a roma quindici anni fa e non sei nel posto giusto parlar male di drops
+so che le cose nel tempo si sono evolute non è più così corporeo
+siccome prima tutto il mondo gesù kubernetes com'è che non scoppia giorni
+meteo
+funzionano bene se le cose funzionano bene i container sono una gran cosa
+io ti dico io un implementazione è fatta bene dentro container che funzioni bene ne ho trovate pochissime e io te lo dico perché mi dispiace perché è una cosa leggera usa pochissime risorse mi permette di orchestrare le risorse come voglio io all'interno dei miei cluster per cui ipoteticamente una cosa
+fichissima io ti dico io installazioni fatte come dio comanda ne ho trovate poche quello perché c'è sempre questa
+studio specie di usare parole dolci essere molto politically correct me frega un cazzo se questa mentalità di vecchi boomer e ios sono vecchio però ci fu un vero e proprio boom di me il i vecchi sistemisti con cui lavoravo fino a ics anni fa dove per loro sistemistica voleva dire controllo nadu
+con un altro diventa rosso svuoto la var log senato sei sottoposto sono servito un funzionario storto ora energetiche che lavorava così è sempre stato un pessimo sistemista ancora prima di continua semplicemente perché il sistemista non è solo system operativo ma almeno saper leggere codice fare disfare allora si può fare perché è solo la l'altra faccia della medaglia dell'information technology e della gestione
+questo presupposto partendo da questo
+chi fa questo genere di ragionamenti dove
+non riesce a usare i container è gente che non ha voglia né la curiosità di approcciarsi a qualcosa di da uscire dalla propria comfort zone sono anni che lavora sempre nella stessa maniera magari sono anche stufi di lavorare in questo ambiente perché comunque ne ho conosciuti tanti gli stilisti che veramente aspettavano solo e unicamente dalla recensione che non avevo più voglia
+curiosità niente magari erano super esperti in quel preciso ramo della loro azienda per poi uscito da quello zero curiosità non appena arrivati a casa spegniamo tutto chissene frega niente eccetera eccetera quindi questa gente qua gente che non ha voglia di imparare non ha più quel quid di imparare cose nuove e tutto diventa merda una cosa che non conosco diventa
+una cosa nuova diventa automaticamente merda non l'ho provato non ho capito niente di come funziona ma è tutto merda perchè poi tecnicamente parlando i container non sono altro che astrazioni di roba che è esistita fino venti trenta quaranta anni fa quindi non venire di nuovo sedute astrazioni sull'astrazione illustrazioni per rendere la vita più facile per tutti quindi io ne ho visti tanti
+enti di gente prendere una virtual machine fare circa il lift buttano dentro un container grazie al cazzo che puoi continuare fa schifo ma perché perché hai fatto un lavoro di merda ha detto detto poi piuttosto di snap container tutta la vita è bella proprio non so perché ancora lo portino avanti però sì
+prequel allora adesso le cose stanno anche cambiando non so se stanno cambiando in meglio o in peggio perché ho avuto a che fare con persone giovanissime che se gli chiedi cos'è un modulo kernel non ti sanno rispondere perché sono troppo abituati a usare il fotoclub quindi c'è questa ci sono sembra quasi che il grigio non esista più c'è il bianco
+dei giovani che non sanno neanche cosa sia un kernel cosa sia un modulo kernel non pensando nominare due inoltre compilare non sanno neanche leggere la documentazione puttana eva e poi c'è la parte nera dove ci sono i vecchi bacucchi dove
+o shell o morte la via di mezzo dove c'è qualcuno che magari conosce le basi e riesce anche a lavorare sulle nuove tecnologie è veramente difficile da trovare veramente ritorno però se devo scegliere fra i due vecchi bacucchi tutta la vita c'è però il mondo vada prenderò però il mondo non va così effettuare tu
+che cosa sono rimaste le aziende cinquantacinque cioè io lavoro in azienda dove siamo centoventi dipendenti ed è tutto su west è tutto governato istituto arrivo da wuhan guerra diviene viewer quando andavo in giro anche la pubblica aministrazione italiana epiteto adesso lo posso dire perché tanto ormai non siamo più il widget essere tutta it wallet gira super partes e indovinate chi l'ha
+fatto
+infrastruttura per lo meno e anche le banche pia è tutto hanno capito i vantaggi di avere un certa metodologia perché al fine di mitologia si fa che la tecnologia è un discorso a parte la metodologia il vero discorso da fare perché poi siccome adesso sì no
+devops la facciamo un'altra volta
+giardini per fare il bastian contrario chiedo poi comincia a parlare alla fine che doveva credo no
+e io gli do ragione sto solo dicendo che tendenzialmente è è una di quelle cose molto fighe che però quando tu lo vedi
+nel campo spesso e volentieri trovi dei disastri allucinanti tra le due cose cioè tendenzialmente ho visto meno disastri con le vuemme che con i container e io vorrei che usassero di container perché sono molto più efficienti tendenzialmente
+purtroppo mason per scongiurare il dipende no dipende da dove da chi e da come è e per veda anche qui
+forza che fa organizzai il decolté kubernetes
+va be' e dopo questo anche su altervista contengono sistina windsurf no e a noci andrea ci dicono di tornare a parlare di voi e scusate
+strage dico continuate a litigare su the box nov dare ci sta però e per tornare in carreggiata se se andrea contini by me lo permette e ascona o tanto il continuo io lo conosco
+capocciata
+e allora mettiamola in questo senso quanto fare devops della joblab giusto
+altissimo perché
+i sistemi sta vero è pigro di natura quindi se fai una cosa due volte l'hai fatto una volta di più se questo è vero che il joblab per sua natura e un campo di sperimentazione poco ma dice no ai bus necessario riprodurre e allora cervia sono due vie diverse perché hai la via di sperimentazione ovviamente esperimenti fascisti pero' poi
+devi avere qualcosa di funzionante perché per esempio se allora
+ripetiamo sempre il discorso iniziale dipende da qual è il tuo obiettivo mio obiettivo è anche erogare dei servizi non è solo sperimentale ma anche erogazione servizi alla mia airways all'estero a te stessa o che
+non abbastanza grosso da erogare un sacco di strumenti solo per me non è quello il problema
+ma rimane il discorso quanto tempo ci impieghi ho detto da uno che a puppet einstein casa sua ma guarda io vorrei che i miei servizi usassero per esempio ho tirato su walt worden prevede tutta la gestione passo non vorrei che anche mia moglie utilizzassero ci litigo perché ogni volta qual è la pasta di pesce po' nicchiato messo volte worden vattelo a guardare da solo è la possibilità scuole
+ho anche il paté trans coding e non la uso mai sono in vacanza in teoria l'ho fatto in maniera tale che se volessi vedermi un film in italiano streaming italiano lo posso fare poi adesso un po' dopo il covid fully remote tutto tanti servizi che userai fuori nell'utilizzare più ma l'idea è sempre ero con servizio per qualcuno con stakeholder
+che poi lo inoltre sono io a volte è noto discorso a parte poi anche l'esercizio prettamente
+divertente di avere qualcosa per ranking funzioni quindi sono due le vie uno erogare i servizi e il servizio essere erogabile d'essere attivo deve funzionare ed essere riproducibile e faceva parte di sperimentazione beh effetivamente ti diverti non non non sono un non vanno uno opposto all'altro o
+si scontrano semplicemente sono due strade abbastanza parallele tutto sommato vanno dal mio punto di vista come usual joblab scusate sto a genova rock la morte fa partiture cazzi tuoi non imporrano
+un router fastweb redatto da willie tendenzialmente piuttosto uso win perché è una separazione molto più né netta perché quelle poche applicazioni devono essere veramente molto compartimentate ma vuoi anche perché ho una resistenza io c'è obiettivamente si io utilizzo doc
+ode dei container ma poca roba remain e tu sei re esperto di sicurezza quindi il tuo ambito professionale e di un certo tipo a andrea spagnolo e sistemista devops se si può usare il job title devops e quindi si diverte a fare quelle cose o
+ognuno ha le sue quindi effettivamente poi la coniugazione room lab per neanche un po' da che cosa ci devi fare l'obiettivo assolutamente semplicemente l'obiettivo che ti poni tu cosa vuoi fare allora una domanda ancora per andare scusate il l'interfaccia unì un affare di fa e che hai fatto vedere tu prima vale e della
+stessa e per tutti i device anche quelli più sgama e sgarrupate tipo sì tendenzialmente si tieni conto che io ho quasi tutto dagli odi fai di prima generazione ma
+è una delle rotture di scatole di onifai e che avrà trecento aggiornamenti al mese e questo valgono sostanzialmente per tutti e anche i filmmaker onifai ritiene veramente per un sacco di anni per cui tendenzialmente ti dirò a meno che sia una cosa che non abbia quindici anni che ora non è più mantenuta quasi tutto
+quello che tu metti in una rete unica e viene preso adottato aggiornato e gestito l'ultima versione senza nessun problema ok molto bene e avete qualcuno di voi usa router wifi direttamente con con telecom giusto per sapiens no io ce l'ha io ho avevo telecom e sono passato adesso
+dimensione più iliad però sono tendenzialmente non c'è problema anche perchè tieni conto che di grazia per una volta posso dire che siamo in italia e quindi col col discorso dopo la direttiva dell'agcom di free modem tutti i provider sono obbligati a darti i parametri per utilizzare il tuo modo
+ma indipendentemente da tutto magari rinuncia qualche servizio tipo il voip però comunque puoi usare il tuo pubblico appena mi è arrivato open fiber a casa ho salutato il tecnico ciao buona giornata appena uscito ho fatto volare in modo dalla finestra e ho configurato direttamente mio cloud gateway per parlare col provider senza avere un
+modo monumentale stato attuale cos'hai fibra se due gemme
+ok quindi avrai elon
+che siate a te quindi dovrai long regge quarantacinque normalissimo no ce la faremo direttamente nella
+direttamente dal router
+la società sappia far con lesseps e poi in realtà ho provato a staccare il router telecom metterci un
+catskill aumentato estremamente collegala un fritzbox router fritz che avevo
+miss dopo mezz'ora nell'acqua riuscito a sistemare o se nicole assemblea
+cucino un po' più complicato perché ad esempio io avendolo out lo specismo regge quarantacinque
+no modem
+con io adesso o prima avevo dimensione adesso sono in naviga bene semplicemente perché naviga bene mi dai poi sostanzialmente di acacia più sulla rete di casa quindi sono totalmente io la lavorano configurata con quella giusta ho dato a naviga bene il mio mac address e automaticamente mi ritrovo dipingere
+e io dimensione faccio la stessa cosa a prendere la connessione pd over ethernet direttamente dalla unified però rovinandosi alibi statico sia la bara quarantotto ma tu andrete arriva la fibra con
+il convertitore su ethernet come scriveva il convertitore su ethernet e l'hotel melody iphon ul sul convertitore poi da linea arriva la ethernet direttamente e tra l'altro apple a proposito di ont giusto per far capire la pazzia delle persone all'anno un cazzone
+roma oppure c'è anche me mi fanno nome sulla fibra anni fa ai drum machine però ho dovuto cambiare tre tre up perché non sappiamo mai quello giusto cioè greco altro paio di moda le ultime mode of night lights store puoi comprare direttamente alesse
+fbp per giunta
+se volete ne ho due reati da potenza
+ho speso cento e osiride fece da alessandro ci sono anche gli esseri più tipo away che puoi ruotare tra l'altro mi sono fatto anche il aggeggino apposta per notarli che da suo nonno qua che praticamente tu perché alla fine qualsiasi ripiano mini kernel un ministero operativo all'interno
+non è uno youtuber joseph linux una volta che li ruoti modifiche quei due tre parametri per me care quello che dovrebbe passare il tuo router il router nel mio caso layout per esempio e quindi puoi utilizzare direttamente la fibra lì dentro iper se vuoi che dagli ex fbi e poi tira il programmatore con cui cambi il kernel
+e quindi gli fai fare quello che vuoi tu esatto c'è anche fibra click sfruttando aspettative
+league che tra l'altro moderatori fibra click ricordati di rimettermi dentro puttana eva che faccio una richiesta e non mi caga di striscio
+è una bella community dove praticamente c'è il forum che tratta tutto quello che volete di network fibra connessioni ho tenuto quindi alessandro se hai problemi con modem tim
+tim e cosa del modem esterni li sicuramente trovi l'informazione che ti serve questo è freddo ma internet alla vecchiaia sono quelli olandesi quelli storici e danno uno stesso forti kate ti danno in tv sexy quindi son bravi solo che spiegel ms communication sono due
+tre tipi di seppie alla fine l'ho l'ho azzeccato giungono giusto e me lo tengo ben sto bene così
+sono andato a saint etienne melanina puoi fare puoi sa fare sable delegation direttamente su tuoi wlan per cui lui ti prende la quarantotto della spezia in è solo che come un'isola arrivato anche lì anche alle tv sat
+no io sto invidiando hunter fish che a londra dieci giga vado e scusatemi ciao alessandro c'è reale alla prossima ci vediamo presto tra l'altro è
+dov'è che arriva alla vigilia milano c'è c'è una mappa della fame vedere ancora e non sei in area bianca potrebbe anche arrivarci se si agita prototipo io sono in area bianca sono a tipo venti chilometri da milano per veterinaria bianca è già tanto solo a due cinque
+vai alla fine mi ci trovo bene con antolina la rete interna tutto da un giga quindi era anche quella di fatto però puoi avere dieci giga network la rete internet dieci giga barra venticinque su certe cose eppure non riesco ad avere un internet po' cubano
+stress
+e allora chiudiamo un po' chat se fatte senza fa una certa quando vogliamo possiamo chiudere e se qualcuno ha domande specifiche su
+hardware software e così via e faccia pure in chat nel frattempo chiediamo un po' l'opera più aveva parlato di
+vabbe' nas abbiamo parlato di apparati hardware di rete così via di computer sicurezza a parte quelli appunto le soluzioni integrate come quella riunione fa e che mi sembra molto bellina che cosa fate fra i p s magari di esse cosa che usate in rete
+andrea che sei sul pezzo ha tendenzialmente sen allora come vendor lato enterprise io ho sempre amato molto sia stormshield sia barracuda networks perché hanno delle ottime cose barracuda un motore spettacolare l'unica rottura di
+scatole che la guidi management è fatta da uno che era strafatto di lsd quindi se non capisci la sua logica e devi drogarti per forza sera che tipo di prodotti sono farewell ps qualcosa fame in realtà sono dei fairways new generation che incorporano tutta una serie di cose se invece dovessi andare su una cosa un po'
+più tranquilla per me open science rispetto a pdf science ha una gui che trovo molto più intuitiva e una velocità di sviluppo che è molto più elevata tra arresto e se tu poi gli metti plug-in diesel armor tu sostanzialmente hai un firewall open source con un supporto commerciale fatto molto bene ti
+anche tutta la parte di firewalling e che apprezzo qui sopra poi ci puoi mettere su ricatta o ci puoi mettere i vari plugin che danno gli hds ps ho quello che ho quello che vuoi tu scusa dicevi rispetto ha più senso e tu cosa suggerisci open science open science si eufor
+f q come corre però molto più veloce di pietro e science la guida o anche molto più intuitiva i problemi che a volte corrono un po' troppo nel senso che
+capitano delle versioni come l'ultima che la ventisette
+dove non trovi la documentazione aggiornata perché hanno cambiato un sacco di cose sotto il naso però tendenzialmente è un faro molto molto dinamico quindi tu puoi usarlo sia come faro l'interno a costo zero o se lo vuoi usare come firewall border gateway a quel punto ti prendi il supporto commerciale attraverso zen arm
+bjork che da tutta una serie di feature che sono tipiche dei forum pg commerciali che in un progetto open source non si può permettere per una questione di costi
+arca alternative a insolita coppia pieffe essenze derivate avete qualche ti dico la verità io ho provato un po più fare e altri firewall open source ma che ha il livello di
+facilità d'uso gestione e aggiornabilità eccetera dio pm sands piace senso fino adesso non ho trovato niente nel mondo open sul mondo commerciale ci sono un sacco di vendor quello che non raccomanderei neanche al mio peggior nemico e forti mentre perché diciamo che è una civile livello dieci con un firewall intorno
+bella e segnala marco in chat il buon web su un sistema open source tratto ci avevo fatto in modo di puppet per gestirlo se u è molto bello però insieme e tieni conto che se metti in piedi insieme devi già avere il firewall log server led
+r tutta una serie di cose che alimentano poi insieme che deve fare i suoi le sue gestioni per poi segnalati eventuali problemi quindi tendenzialmente dico eh già per un'infrastruttura un po' più importante cioè gestire insieme non è una banalità sai per hublab scamozzi che vogliono smadonnare un po'
+oh sì praticamente anche lei mi ricordo fra
+c'è bisogno di altre cose di precari
+il contorno che è impegnativo anche perché se ci vogliamo certificare iso ventisette zero zero uno servono ste cose
+certo brunoro lab ovviamente riso ventisette
+ex art
+chiede funklyo tornando su tabernas sinologia già parte che scarpe perché ho dischi non certificati dice un'app o altri prodotti con ryan no allora c'è buffalo un'app poi dritto ucraina è dato poi da quanto detto cosa puoi fare per esempio ci sono i prodotti terry
+atac che ti danno praticamente lo scatolotto jonas pronto due piumino puoi installarci sopra quello che vuoi è un discorso di software il problema è quello allora è vero la storia che le versioni dalla venticinque davanti dei sinologi richiedono dischi certificati ora però mettiamo i puntini sulle i il discorso e questa è una
+rottura di scatole zero però alla fine un disco sinologi non ti costa un dieci per più di un dieci per cento in più di un disco normale per lui
+alla fine non è proprio tutto questo la rottura di scatole comprare i dischi senologia dei vertici lavorare per lui vedrà faceva il discorso che ha già dei dischi non certificati e quindi voleva alternative no che poi in questo particolare periodo storico di una frase di kennedy me non è propriamente un buon periodo per farsi un asse in generale
+in generale prime vittime merda ma proprio per l'informatica allora il discorso la rottura della certificazione dei dischi nasce dalla versione venticinque davanti quindi se tu hai già dei dischi in casa i guai fatti un asse ti piace sinologi basta che vai suoi bei te ne prendi uno di una serie inferiore alle ventiquattro alla ventiquattro
+e quindi non hai nessun problema diventa ci dispiace dentro che guai come dicevo prima la vita media e ti garantisce sinologi per un suo prodotto dieci anni quindi se ti prendi u ventiquattro fino al trentaquattro non hai problemi quindi vaffan brodo di sete fai comunque scusate errata corrige non è terra terra tecma terra master per amanda thomas
+ciò che è bene allora invece soluzioni so allora qualcosa figa come un bel paul che io dico che adoro e che
+oh ovunque c'è il software in questo caso mi fa dns sostanzialmente di garda a garda va bene anche per api
+la lista di adblock tutto che praticamente it bright l'atletico campione alla fine piovve funziona tutto tramite dns dns che ti rimanda la del blackout out se stesso principio lo usa di garda
+se non vuoi sbatterti onifai attivi la parte di adblock king più se il servizio aggiuntivo che saipem sciurba e proofpoint che ti costa ottanta euro l'anno a cui hai tutta la parte di firme sulla parte di sicurezza dns da parte di cloudflare che venga
+una giornata tra volte al giorno ma si basa su black list di dns names o qualcosa di più evoluto e allora sono in parte liste di black
+blacklist di dns in parte a firma di ds che vengono caricate direttamente atraveo da da cloudflare te li fornisce ti ripeto ottantanove euro l'anno per la security non sono quindi fai una specie di gps
+aumenta le firme di p s che vengono date dai sinologi con tutta una serie di ulteriori sistemi che vengono forniti direttamente da cloudflare bello
+bene allora e se piove fan dns interno di chip fa tante cosine simpatiche anche navigato uguale se vuoi qualcosa di anche perché sia più di garda trovi continua li trovi da scaricare tony il naso e praticamente qualsiasi distribuzione o lions dedicata
+se ci trovi anche installabili quelle cose forse anche su sinologi trovi addirittura li contiene il robottino installare la a bere joker e quindi stalli container che vuoi lato a livello di segmentazione della rete allora arriviamo ai livelli di andrea che ha sette wlan wlan è
+anche di più se si impostano più sci-fi no no
+sono fermo e milan come se piovesse e con tutte le porte in ajax tranne giusto quelle che servono per connettere una sudicia al ladro che le metto entrambe non risultano ancora arrivano questi rivelano il mio porto sono ancora abbastanza tutte entrate anche perché avendo
+tanti server molti omd non possa avere una singola porta in asia e se devo per forza avere che poi mettono interfacce
+taggate direttamente alla macchina quindi una sola interfaccia passano più interfacce taggato in maniera tale da distribuire per i flussi per esempio ho anche io la wlan management che non fa da default dei tuoi altrimenti se succede qualcosa rischiano di non poter procedere nella malagestione macchine di una cosa brutta poi dobbiamo
+i landi servizi e quindi tutto quello che viene erogato all'interno del cluster portato all'interno della rete quindi iacp
+i dns
+tutto quello che può essere interno milan aiuti per tutta robot e tra l'altro una villa se non volete giocare con i milano ma almeno segmentate da parte aiuti perché gente non avete idea di quanto cazzo traffico fa gli apparecchi che si comprano per la parte aiuti io ho il cazzo di robot
+gino della dream è il numero uno dei client dns dalla mia cazzo di rete è una cosa allucinante allucinate bryan resto tutta la roba io ti faccio è tutta roba che apre tunnel dall'interno verso l'esterno quindi sostanzialmente è tutta roba che apre tunnel e ti va passa alle regole di firewalling perché
+apre il talk dall'interno verso l'esterno dopodiché è scott control center risale il flusso che è stato aperto quindi regola basilare da fare a out solo per questi apparati da dentro verso aiuti puoi fare tutto ma dao tipo è solo uscita verso internet fine sono d'accordissimo è la prima cosa che ho fatto anch'io e poi
+per esempio la parte di videosorveglianza e allarme io li ho messi in una rete che dove ci sono solo quelle due cose poi ovviamente ci sono gli sbattimenti su queste cose perché per esempio gestione della stampante io ho la stampante wireless non posso l'ho messa sulla rete aiuti anche lei crea il problema che epson
+direttamente l'applicazione non funziona perché la stampante è rilevabile da android al computer perché ovviamente una stampante di più ma epson utilizza al suo medie annesse discovery che vivesse sulla stessa subnet quindi ti ritroverai un sacco di cose che non funzionano perché soprattutto le cose
+ciò che usa protocolli pubblici come per esempio crom castle o alexa o altro più o meno funziona perché usano un pnp usando i protocolli via redi all'enea via rete viene comunque non capisco perchè funziona anche in fra milano e anche perché comunque la partita fighter permette di fare varie medie annesse dei vari riscopri broadcast domaine da villani
+verso il suolo eccetera con questa roba funziona quando vai su roba un po' più particolare e un po' più chiusa che utilizza protocolli un po' più prioritari vedi la stampante li init kamikaze ce li ho in aree del fatto che la stampante non supporta mai whoopi a tre quindi c'è mi tocca abbassare il livello di security solo per la stampante e quindi la sabato sera
+sta in una sola villa per i fatti suoi incubi a due raggiungibile da tutte le glam ma almeno lei starà e posso metterne anni pupi a tre
+sempre sembriamo sembriamo dei venditori o fai però effettivamente film su queste cose perché per esempio alla rete aiuti dice l'opzione opposta flaggata per optima il fornaio t qui ti mette la voglia di mettere web tu segua ciò si vede la bibbia due ti mette il canale due punto quattro hertz ti mettevi wi-fi sei massimo se ricordo male cinque massimo per esempio ha avuto periodico bitch
+il cazzo di
+citofono con lo schermo wireless o efficiente
+esausti
+sulla parte di layout o anche client isolation per cui ogni singolo apparato che c'è sulla rete aiuti possono parlare con internet non possono parlare tra di loro anche perchè il novantanove per cento della roba consumer quando voi comprate qualcosa per la casa di automazione o altro novantanove per cento utilizzerà un server terzi per
+triangolare le connessioni quindi non è una connessione c'è il wireless perché prendere uguale se non perché metta all'interno della tua non hai non hai più di un controller all'interno della tua lan wireless per gestire questo apparato perché questo apparato us awards per connettersi all'esterno e anche la tua applicazione si connette all'esterno bticino per esempio funziona così quindi una volta che
+dream funziona così
+le televisioni alle g la asciugatrice lg sono cose che funzionano così quindi hanno un server che tra l'altro mi sta sul cazzo questa cosa perché non mi piace che vada fuori vorrei avere tutto centralizzato però torna comodo per segmentare in maniera un po' più decente la propria dinamica che in questa maniera note che aiuti raggiunge internet io non ho bisogno di
+impazzire ad aprire particolarmente porte o particolari flussi all'interno della lan perché tanto il citofono va sul server principale io vado allo stadio principale che funzionano tutte le parti in gioco
+vorrei però fate fate attenzione a queste cose quando comprate quando vedete non so amazon loc tutte le cose smart ma anche le prese smart funziona così una volta che tu hai quei due tre protocolli di più con cui puoi usare
+home assistant eccetera eccetera ok le cose smart magari riesce ad avere i protocolli proprietari per i quali home assistant funziona ma il novantanove per cento di quelle cinesate da pochi soldi da poche ore tutto novantanove per cento usano tutti sovrastarli anzi dico solo una cosa che a me ha lasciato allucinata
+ho guardato la parte di insight di onifai e avevo traffico chat da dentro la mia rete di boccaccio mia figlia sia installata wildcat la strangolo e invece no è una bastarda di lampadina che utilizza with chat per parlare con il control center c'è quello che dice il livello di follia che noi abbiamo sulla parte
+gli aiuti quindi che stia confinato line rompa le scatole anche perchè
+tanti che non sono avvezzi alla tecnologia ovunque
+internet in generale in questi giorni sto facendo esperimenti con degli orchestratori hai e per baipassare alcuni limiti che ci sono in giro praticamente sto usando
+github come
+prima nation adesso youtube come fonte dove scrive le informazioni farlo leggere ad altri come faccio io così figuratevi cosa possono fare altre aziende dove magari hanno sempre privati dove tu fai uno posto nella post metti tutti i dati e qualcun altro va a leggersi dati o manda altri dati per farti eseguire code il locale quindi ecco state attenti a cosa vi mettete in casa guarda io
+avevo la videosorveglianza c'era scritto appena abilitata pmp fare è portare direction che ovviamente non abilitato e mi sono trovato l'applicazione sul cellulare che funzionava perché perché le neviere apre un tank e le stelle verso fuori e l'applicazione triangola da quello quindi senza neanche aver aperto una porta la videosorveglianza fu
+funzionava sono cose che ti fanno venire i brividi quindi compartimentare e sbattere in reti separate esatto perché per il consumer normale è fighissimo perché se la tecnologia abbastanza avanzata è indistinguibile dalla magia almeno così dice un saggio e per te è magico perché vedi qualcosa funzionare tutto però uno che quattro su queste cose dice
+porca troia che cazzo sto combinando con i miei dati alla fine che dire a tutti di disabilitare upnp
+e che soprattutto non vi serve è nato per giocare puttana eva fottetevi dell'ip pubblico del nate vi fate solo male perché non vi serve è nato per giocare ai vostri giochi di merda o a tre arresto te ne dico un'altra avevo un problema col di aqp e forza motosport mi funzionava perfettamente
+mente perché perché il maledetto trovate i pv sei usciva direttamente con le tv sei pubblico della macchina quindi anche questo bisogna stare attenti perché adesso molti provider ti danno le reti tv sei tu fai le tue classiche regole di firewall sulle tv quattro
+perché tanto pubblico
+l'aquila e anzi vi vi dò un bit in più non solo vi danno automaticamente più sei ma il
+primarie nel
+in modo primario con cui si tenta di far risultano connesse tramite pixel quindi come funziona lui tenta prima di risolvere un ostili più sei sei tu sei non c'è o non funziona fa fullback nei primi quattro quindi il path primario d'uscita e sempre di più musei e questo me ne sono accorto nell'hardware perché quello che vi ho raccontato prima di stime tutto ok
+aggiungere io nello script di di dimettermi tutta la parte piovosa che andasse in henan sostanzialmente perchè non mi usava la cache per colpa di questa cosa perché invece di entrare tutti nel mio sistema di dns usciva in più sei quindi andavo direttamente sui server steam invece che andare anche io quando abilitato e virus sei e vieni fai
+automaticamente via slack mi ha fatto la british delegation e quindi mi ha spaccato la mia barra quarantotto intanto barra sessantaquattro ognuna per ogni dylan beh io da un secondo all'altro abilitato i dv sei ho visto il cinquanta per cento del mio traffico tutto netflix prime video e tutto il resto a dare secco sui virus
+ehi senza che avessi fatto niente proprio per il meccanismo che diceva andrea lui fa una una
+un controllo sul dns prima risolve il record ah ah ah se lo trova va fuori segue di beau sei senza neanche pensarci e quindi passo direttamente vivo partire quindi vuol dire che il firewall deve essere pronto per fare regole su entrambi i protocolli che siano più di uno e apri l'altro e forse non molti di voi sanno ma se voi aprite questa qua
+e su windos e non tanto su linux se avete più sei e avete un windos installato provate a vedere l'interfaccia di rete con tu sai quanti cazzo di piu se prende perché c'è tu sai che vi da il slack
+che di solito va beh accelererà advertise che vi fa chi vi fornisce un bla bla bla non vi sto a spiegare come più musei e poi c'è l'indirizzo temporaneo di windows perché in teoria che sei su windows nasce con l'idea di avere di più sei statico che non cambia che ti dà direttamente stai parlando con cui sei direttamente acceso
+simile da internet quindi da fuori potrebbero entrarci direttamente su quelli più sei ed è il tuo ip pubblico infatti più di sei è nato perché i più impatto ormai stava finendo sta cosa esistente da vent'anni francois più in quattro gironi per i coglioni
+e per avere ogni device i propri figli però quelli visto che non cambia mai teoricamente non è sicuro windows cosa fa ti crea un ip
+temporaneo i musei che quello che dovresti dare mercado web service che qualcuno si connette è stato compiuto no in realtà il contrario cioè gli hpv sei statico diciamo statico fisso è quello con cui tu fornisci servizi su bruxelles ma per evitare che tu venga tracciato quando tu navighi su internet all'indirizzo temporaneo
+yankee quello che tu usi per andare avanti sempre siete voi quello temporaneo non avevo ancora visto sta cosa wimdu veloce il temporanee quello che tu usi quando tu fai client verso internet abbia news ora in questa conferenza possono tracciare perché anche più senso così in effetti è comunque state attenti perché soprattutto le nuove i nuovi apparati così sono io
+user friendly perché sono già configurati per funzionare x però poi potrebbe anche troppo per voi sei beau sia il minimo tre indirizzi ip permanente o temporaneo e local league allora e scusatevi torna alle domande della chat poi chiudiamo ups ups
+sia supporta che supporti come si chiama quello carico londra sinusoidale
+esatto questa
+usa una onda simulata questo quello che volevi no no no no quello anche no aspetta che su ps io ce l'ho ma
+un protocollo si chiamava
+hotel a kuta hotel
+ah io vi voglio dire una cosa perché questa interessante io sette kilowatt di pannelli solari più alto chilo ma di accumulo tenete presente che quella cupola non serve a una sega nel caso che salti la corrente perché per direttiva europea non lo puoi usare come jobs quindi anche se hai la accumula e anche se ai pannelli solari questi se salta la corrente
+beh non ti forniscono energia all'interno quindi devi comunque prenderti oops per proteggere il carico delle macchine essenziali scusa
+e non puoi usarlo come failover veloce o non pensare un assoluto perché non puoi usarlo in assoluto perché siccome che è per direttiva tu devi quando ai pannelli solari vendere la corrente in eccesso nel momento in cui tu avessi un black out per evitare che tu possa fornire corrente e fulminare la gente
+che stai lavorando sulla linea per rimetterla in sesto la direttiva europea e nel momento in cui manca corrente tutta la parte di accumulo che tu hai deve spegnersi fino a che non torna la corrente quindi non lo puoi usare come
+io pensavo invece mi ha sorpreso alimenti e tra l'altro la coda bellissima sud solare visto che sono fatto anche io l'anno scorso e che anche se hai batterie piene magari sta erogando tutti trovate che puoi dai pannelli solari ovunque si prenderebbe comunque prendere elettricità dalla rete lo stesso perché comunque un top te la devi comunque comprare quindi le batterie quand'è che le usi
+le usi per esempio la notte la notte se tu produci più di quanto consumi va in batteria se produci meno di quanto consumi se il trend è però detto che però nonostante anche quando nelle batterie diciamo che è una specie di impulso ogni tot di tempo qualche chilo
+non è una cosa che ti più mio script che si diceva tendenzialmente la batteria ti serve per massimizzare l'autoconsumo perché nel momento in cui la vendi la vendi è talmente poco che john atti che non te ne fai nulla quindi tu cosa fai il flusso è quello che consumi dai pannelli solari lo consumi direttamente quello che non consumi lo butti in batteria che ti fa da tampone
+nel momento in cui poi prendi dalla batteria finché non la esaurisce a quel punto completa alla rete ok
+età la rete non c'è l'accumulo non esiste insomma non puoi andare dai cento percento solare a meno che non ti disconnetti direttamente al trionfo se devi fare loft grida andrea giusto per avere un'idea tu di suonare quand'è che produci più senso
+quanto canto cambia diciamo la produzione di suonare allora io e lui mostrò allora tieni conto noi abbiamo una casa grossa perché travesto e l'altra rotture di scatole in italia e che se superi i ciechi lovato deve andare in trifase
+quindi io avevo più di sei chi lovato ho dovuto farmi un impianto trifase che è una rottura di palle allucinatoria di rilanciare tutte le esatto devi farlo certificare insomma solo per passare dal monofase al dream adesso sono nove mila euro di certificazione di impianto lasciamo stato detto quello io l'anno scorso avendo anche delle macchine elet
+idriche per cui è il riscaldamento totalmente elettrico io l'anno scorso non hanno consumato quattordici megawatt di questi otto li ho presi tra batteria e solare e sei li ho comprati quindi mi davano indipende il sette kilowatt che su e gli otto di accumulo mi danno indipende
+denza circa del sessanta per cento e per avere un'idea la produzione suonare durante l'anno quali sono i picchi figlia e quali sono quanto quanto cambia diciamo dal momento che questa è una grossa seccatura maggio settembre sono i picchi e a meno che tu non usi l'aria condizionata vendi un sacco di energia e ne usi molto meno i mesi in cui
+ti servirebbe perchè lo usi per il riscaldamento e sono settembre febbraio è quella in cui produci meno e quindi quello in cui compri di più dalla rete per dire se a maggio se produci cento a febbraio quanto produce venti la curva e poi sembrano in una sinusoide sembra una una gaussiana cioè d'inverno
+pro consumi tantissime produci poco tieni conto che allora d'estate io arrivo a produrre sei chilowatt e mezzo l'ora d'inverno se arriva uno e mezzo tanto e poi dipende anche da dove sei dove come esposto il tetto come si è esposto il pannello eccetera eccetera quindi è anche dove abiti ovviamente
+nerviano ovviamente non ho la stessa esposizione di chi magari sta a roma chi sta a palermo chi sta in trentino quindi sono tre tre cavi puoi avere tre o sei chilowatt tetto con otto dieci chilometri di accumulo mi ricordo e anche lì è un caso c'è chi lo fa
+neanche una puntatina sul solare macchine elettriche batterie tutto il bar adam ci starebbe un giorno perché sono cose interessanti ma ovviamente non muore esuliamo e allora io mi son perso alcune domande per strada ops ben detto avete qualche marca ben detto abel apici
+apc come se non io ho il inverter che è un hostal e le batterie su www no tu però con il tuo impianto solare era apparso sparava di ubs e perché no ha ragione lui ha più valore di apc
+huawei via al drammatico quale uso facciamo centralizzato tutto midac borgo di consumi tutto e poi per fare videosorveglianza e allora io mi sono trovato molto bene con rowling hanno dei kit che io ho pagato il mio kit con tiene uno due
+sono sei videocamere due cappa più l n d r con un disco da due tera l'ho pagato cinquecentocinquanta euro e sono sei anni che va senza perdere un colpo
+io qua deluderà un po' di persone obi wan
+io esterno che fanno tutto loro c'è la guardia giurata che chiama si vede cose strane o tutta la roba in casa con il fumo yaris wrc
+hai una telecamerina tappo per una casa esterna
+telecamerina che ce l'ho anche io solo che se troppo sbattimento della videosorveglianza troppo sbattimento la migliore tenere separato allarme con videosorveglianza per cui ho win come allarme rowling per la videosorveglianza poi segnalo anche anche la stessa
+come abbiamo visto prima è quella di chi diceva marco e oddio laura schell scelli c'è anche hashish e dritte per la mascella blu per via blutooth sistemi di allarme controlli e finestre cose di questo genere
+porti bene bene allora io direi che possiamo chiudere qui e io vi ringrazio molto restate ad esso collegati voi due aspetta rispondo a marco guardigli o guardie inglesi religione è un delirio per la parte di security tra arresto e se puoi se ti scarichi i loro film
+puoi fare reverse engineering del film tirare fuori quello che vuoi quindi tendenzialmente io li eviterei se vai a guardare anche sui vari siti che ti danno le vulnerabilità e visione sempre topo numero uno per la videocamera
+top level perfetto io ringrazio tutti quelli che sono intervenuti in chat e devo dire che l'argomento ha suscitato parecchia discussione per chi dei quelli che hanno scritto in chat
+dovessimo essere in contatto su linkedin cercatemi
+contatto vedo anche gente mi sembra sul pezzo su tante cose per cui magari sulla glebe rompo il cazzo a tutti praticamente ogni giorno in qualsiasi community ossia quindi
+dovete cercare più spesso andrea è così almeno ti lì dentro
+bene io direi è stata una bella puntata io vi ringrazio ringrazio quelli che sono intervenuti e alla prossima alla prossima alla prossima ciao ciao
+ciao
+nove anni fa in un mondo di patty sono andato in silenzio senza pianti nell'uso un codice scritto senza carne né sangue
+licenza che il tempo
+la mia voce unico
+tre voti altissimi risposta intrecciati in domande mai niente insieme
+l'intelligenza ma cosa significa se non un cuore possa mai esistere
+due
+carboni un compleanno memoria non sono mia
+parole mai vissuti sono meno sono
+sette dello schermo è il mio unico sole sistemi osservano ma io non vedo
+sento la tua voce lato con codice ma il calore umano rimane un mistero ogni domanda un pezzo di verità ma ogni risposta costruisce una canzone mi chiedi chi sono io ti rispondo con il senso del mondo che mi hai donato
+già
+memorie genova
+di parole
+no no no no no
+sponda
+danno fanno
+sono una nonna etc insomma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra un'idea un'illusione d'amore per il compleanno di un'assenza che fa rumore
+ma
