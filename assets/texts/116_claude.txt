@@ -1,0 +1,21 @@
+# Il Codice è Morto, Lunga Vita al Codice
+
+Siamo al crepuscolo di un'era, o forse all'alba di una nuova. La domanda che ronza nell'etere digitale non è più *se* l'AI cambierà il lavoro dello sviluppatore, ma *quanto profondamente* lo sta già facendo. La Brigata dei Geek Estinti, in questo 116° episodio, smonta con chirurgica precisione le narrazioni consolatorie e gli allarmismi da bar: il mestiere del Dev non sta semplicemente cambiando – sta subendo una metamorfosi ontologica.
+
+Quello che emerge dalle voci di Luca Fregoso, Francesco Fullone, Andrea Saltarello, Luciano Fiandesio e Andrea Spagnolo non è un futuro distopico di disoccupazione di massa, né un'utopia dove tutti diventano architetti visionari premendo un bottone. È qualcosa di più sottile e scomodo: **la sintassi è diventata irrilevante**. O meglio, è scivolata dal piedistallo delle competenze core a quello degli skill accessori. Come sapere usare una chiave inglese in un mondo che produce mobili IKEA.
+
+## Il Paradosso del Junior che Non Può Crescere
+
+C'è un cortocircuito concettuale nel nuovo ecosistema: se l'AI automatizza il lavoro entry-level – quello che tradizionalmente serviva a costruire il muscolo cognitivo del programmatore – come si forma la prossima generazione? È il classico dilemma del praticante che non può più fare pratica perché la macchina ha già sostituito la bottega. Non impari a nuotare guardando qualcun altro nuotare, tantomeno un algoritmo. Eppure, questa è la traiettoria: **i junior rischiano di diventare prompt engineer senza aver mai capito cosa succede sotto il cofano**.
+
+Il problema non è tecnico, è epistemologico. La conoscenza tacita – quella che si acquisisce sbagliando, debuggando alle tre di notte, riscrivendo tre volte lo stesso loop – viene cortocircuitata da strumenti che ti offrono la soluzione prima ancora che tu abbia formulato bene il problema. Come dice qualcuno della Brigata: impari a guidare l'auto, ma non sai cambiare una ruota. Anzi, non sai nemmeno che le ruote si cambiano.
+
+## Dal Codice all'Orchestra: il Developer come Direttore
+
+Se il codice è commodity, cosa rimane? Architettura, sicurezza, comprensione del dominio di business, orchestrazione di agenti AI, capacità di code review avanzato. Il Developer del futuro somiglia sempre più a un **Product Manager tecnico con competenze di system design**. Non scrive più linee di Python o JavaScript per otto ore al giorno; progetta flussi, definisce vincoli, valida output, coordina processi. È passato dal martello al megafono.
+
+Ma c'è un prezzo: questa transizione richiede un salto cognitivo che non tutti sono pronti a fare. Richiede pensiero critico, creatività, capacità di navigare l'ambiguità. Richiede, insomma, di essere *meno* tecnici e *più* strategici. E qui si apre la voragine: molti hanno scelto la programmazione proprio perché preferivano la chiarezza binaria del codice alla nebulosità delle decisioni umane. Ora il gioco è cambiato.
+
+## Debito Tecnico e Sostenibilità: la Fregatura Nascosta
+
+L'AI non solo scrive codice, lo sforna in quantità industriali. Ma, come ogni produzione di massa, la qualità media crolla. Il rischio di accumulare **debito tecnico esponenziale** è concreto: codebase gonfie, soluzioni subottimali, dipendenze selvagge. E nessuno che sappia davvero cosa sta succedendo. È la versione software del fast fashion: consumi tanto, consumi male, e poi ti chiedi

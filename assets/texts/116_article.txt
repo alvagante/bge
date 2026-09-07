@@ -1,0 +1,24 @@
+BGE 116 — Estinzione o Evoluzione? Il nuovo ruolo del Software Engineer (07/09/2026). Durata: ~2h15. Ospiti: Luca Fregoso, Francesco Fullone, Andrea Saltarello, Luciano Fiandesio, Andrea Spagnolo.
+
+La frase del giorno: "Il futuro è già qui — è solo male distribuito." William Gibson ha di nuovo ragione. L'intelligenza artificiale non è una calamità mitologica che piomba dall'alto. È una nuova infrastruttura cognitiva. Non ci toglie il lavoro come un ladro notturno. Ci sposta il banco di lavoro. E questo è l'oggetto del dibattito della Brigata: cosa significa, oggi, "fare lo sviluppatore" quando gli agenti autonomi scrivono commit e i Copilot ti suggeriscono architetture?
+
+Svolgimento netto. Tagliente. Senza retorica.
+- Dal codice alla verifica. Il Dev diventa sempre più simile a un code reviewer, a un tecnico di prodotto. Non solo "scrivere funzioni", ma definire contratti, policy, e limiti. Il lavoro si sposta dall'atto creativo della digitazione alla supervisione dell'automazione.
+- Il paradosso dei junior. Come impari le basi quando l'AI esegue i compiti entry-level? Si entra in un limbo formativo: rischio di pigrizia mentale, perdita di craft. Ma anche un'opportunità: imparare a pensare l'architettura prima della sintassi.
+- Competenze che contano. Architettura di sistema. Sicurezza e governance. Conoscenza di dominio. Prompt engineering avanzato — non come buzzword, ma come pratica d'ingegneria cognitiva che traduce esigenze di business in catene di azioni agent-based.
+- Strumenti vs Agenzia. Dove finisce l'assistente e dove comincia l'automazione totale del workflow? I partecipanti mettono in guardia contro la sostituzione acritica degli strumenti: un agent che ha permessi, dati e budget è una macchina di potere, non solo un assistente.
+- Debito tecnico e sostenibilità. L'adozione rapida di AI può accumulare debito: codice fragile, logiche opache, inefficienze energetiche. La sostenibilità digitale entra nel discorso come responsabilità progettuale, non come addendum morale.
+- Mercato e percezione. Il lavoro IT rischia di diventare commodity — prezzi più bassi, meno identità professionale. Ma emergono opportunità: prodotti che orchestrano modelli, consulenza su governance, automazione verticale per domini specifici.
+- Collaborazione umana. Non è un tecnosolipsismo: la comunicazione, il lavoro di squadra e la gestione dei conflitti restano il fattore X. L'AI amplifica le relazioni umane, senza sostituirle.
+
+Dalle voci dell'episodio emergono due scelte strategiche per chi lavora nel software:
+1) specializzarsi — diventare esperti di dominio, sicurezza e design di sistemi; oppure
+2) orchestrare — saper mettere insieme modelli, pipeline e policy, come un direttore d'orchestra che non suona nessuno strumento ma decide la musica.
+
+Citazione filosofica sparsa tra i microfoni: Heidegger ricordava che la tecnica non è mai semplicemente strumento. È modo di rivelarsi del mondo. Qui l'AI non è neutra: cambia la nostra concezione di mestiere, autorità e apprendimento. E una battuta: il prompt engineer non è un mago; è un traduttore tra bisogni umani e automi ipercompetenti.
+
+Pratico e utile: gli ospiti passano in rassegna competenze concrete — ascolto del dominio, test di confini, definizione di SLAs per agenti, gestione dei permessi e metrica della sostenibilità. Codemotion viene citata come luogo di confronto e upskilling; rimane vero che la formazione continua è la valuta più solida.
+
+Un avvertimento, senza allarmismo: non confondiamo accelerazione con maturità. La distribuzione di responsabilità è politica tanto quanto tecnica. Un commit non è innocente; un agente con accesso a dati sensibili non è un assistente banale. Le scelte architetturali oggi scrivono la nostra etica domani.
+
+Ascoltare questo episodio significa prendere posizione. Non per i nostalgici delle tastiere, ma per chi vuole progettare il mondo che l'AI non deve soltanto eseguire — ma rispettare. Benvenuti nell'epoca in cui il codice non sparisce: si sposta, si sublima e comanda chi sa muoverlo.

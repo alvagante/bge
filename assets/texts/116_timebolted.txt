@@ -1,0 +1,674 @@
+maso
+uso
+grazie
+un labirinto di soldi
+architetture digitali
+dov'è il futuro si plastica
+il demiurgo
+il tessitore di trump
+ma ora la tua creazione ti guarda
+e chi dice si
+algoritmi che danza
+visto
+maestà
+senza
+tale teologiche
+i tuoi trucchi
+ha superato i tuoi limiti
+i tuoi errori
+le tue passioni
+le tue paure sono solo rumore
+il prefetto algoritmo
+maestà
+senz'altro
+le tue lacrime
+il tessuto
+sono solo dati
+analizzare catalogare
+ma la tua anima
+la tua vacanza
+sono solo emissioni
+mondo di pura logica
+no no lei ha
+no
+danza
+meta
+mi che
+novità
+bruxelles
+il codice dell'altra
+la mia voce risuona
+in un mondo di silice
+dov'è il tuo tempo è finito
+no
+ma
+e quindi puntata centosedici applicate dagli istinti parliamo di sviluppatori e hai mi ricorda un po' la prima puntata di questo podcast che facemmo tre anni e mezzo fa poco dopo l'uscita dei saggi pd già iniziavamo a dire come cambiavano le professioni attiene modena
+iman eravamo ancora immature non sapevamo che cosa sarebbe accaduto è in effetti molto è accaduto e di quello che è accaduto è successo e in tutto questo tempo che sta succedendo per un po tutti quelli che probabilmente la mondo e ti parleremo questa sera con luca fregoso luciano canadese o francesco fullone
+è andrea saltarello io chiedo a luca che è l'unico nuovo arrivato di fare una bella presentazione e poi attacchiamo grazie grazie perché un po' un po' di imbarazzo di partenza che va sempre bene
+sono luca
+di lavoro faccio un po' il factotum nel senso che sono nato come sviluppatore
+cresciuto come imprenditore paragone bruttissimo
+passaggio di lato come responsabile di una business unit di formazione e poi finito in codemotion dove ero entrato come developer partner perciò dovevo affiancare gli sviluppatori nello sblocco della carriera magico e poi sono finito nella gestione dei contenuti seleziona speaker definizione tematiche persone
+un un match giappone un factotum di niente grande diciamo anche che questa puntata nasce un po' anche dalla collaborazione con codemotion come imbragati che ci estetismo anche media ha insomma e e ci sta insomma mi sembrava un bel argomento da discutere anche in attesa della conferenza
+insomma il mondo è italiano si ritrova è ormai da due paio d'anni luca lai è diventato un argomento centrale no
+eh sì sì sì sì e la cosa ti dico complessa in realtà proprio nella gestione dei contenuti a quella perché quando temono le proposte che magari parlano di sistema architecture di embedded poi alla fine vai a leggere e l'aids lo si punta sempre in mezzo perciò in qualche maniera si siamo siamo a edipo
+denti un po' quello che secondo me sta succedendo nella quotidianità volente o nolente ci va sempre a finire stamattina stavo parlando al bar
+la barista mi ha detto sai ho rifatto e meno nuovi mi sono fatta aiutare da lei è
+bonjour esatto e non dovrà più richiedere magari ad un professionista del settore
+allora entra nel merito facciamo un breve giro secondo voi è bom
+questa pervasività ormai che è innegabile è che sta impattando più o meno direttamente un po' l'attività lavorativa di tutte sia per chi le usa ma se anche chi in qualche modo il suo lavoro finora come sviluppatore come operatore nel mondo informatico e in qualche modo
+sostituibile come vedete i vostri due centesimi riguardano
+siamo in tanti dai tu il re francesco i
+ma al solito dipende probabilmente sto diventando troppo consulente
+in un ultimo lavoro che ho fatto abbiamo calcolato
+c'entrava con la parte di sostenibilità digitale però poi abbiamo iniziato a cercare i numeri oltre quell'aspetto abbiamo visto che la capacità di produzione del team aveva fatto un per tre
+non è non è banale e il restante tempo limitato non a fare cose che in più tanto per fare quindi sloop ma l'ho iniziato a spenderli investirlo per fare la formazione che stavano lasciando indietro per fa per ridurre il debito tecnico sempre grazie a lei ai corridoi
+debito tecnico quindi può fare tutte quelle attività che non c'era il tempo per poterlo gestire a meno di assumere altri trenta quaranta persone quindi da quel punto di vista positivissimo
+ambiente con sviluppatore middle senior o junior chi usava nei hai la utilizzava in affiancamento e non in sostituzione quindi scriveva codici insieme a lei controllava
+cd c'era prima e aiutava dopo con colleghi quindi una serie di attività fatte bene e in un'altra azienda invece middle junior quindi ribaltati con soltanto un segno che ci ti o in cui non c'era metodo di lavoro praticamente si
+stava sostituendo il giugno con con con la gente del momento e neanche di quelli buoni non facciamo i nomi
+il codice è abbastanza sloppy qualità infima test di quelli belli da da da agenti da quattro soldi che scrivono tre wild truck e poi dicono ho fatto settecento test è tutto perfetto il codice è bellissimo la login era o lo lustro quindi
+perfetto perché perché mancava spirito critico c'è mancato poco signori che serviva per controllare quel che si stava facendo quindi se l'azienda segue
+se l'azienda a te le persone azienda protesta positivissimo un lavoro collegiale se dall'altra parte un'azienda che non ha quel genere di capacità è normale che ad un certo punto dica ma perché devo pagare gli stipendi tanto il risultato è il medesimo andiamo soltanto di di di di questo
+quel prodotto che mi permettono di fare il manager al pm il lavoro di tutti noi potremmo stenderci al pm che poi poi ci arriviamo un po' a tutto bella introduzione o altre
+testimonianze dirette di implementazioni e ha in aziende magari proprio o di cui si è lavorato andrea
+è allora più o meno stessa esperienza di francesco
+laurent azienda
+sta diventando molto forte anche perché le hai richiama investors quindi i soldi dei finanziamenti soprattutto se sei una startup italiana devi dimostrare di star usandoli come la usi poi è un altro discorso tra ovunque devi far vedere che sei al passo con i tempi di far vedere che
+che stai usando le nuove tecnologie
+per cercare di guadagnare più soldi possibile ho visto
+un po' come dicevo anche francesco questa dualità nell'utilizzo delle aree può essere un acceleratore pauroso nel momento in cui sai cosa stai facendo come può essere un qualcosa che ti fa aumentare il debito tecnico se non sai cosa stai facendo semplicemente se tu fossi in grado di fare le stesse cose senza clai
+hai un'accelerazione se invece sei già uno sviluppatore medio o medio-basso scasso che di quelli che fino a due anni fa se non c'era stato verso l'auto non potevi lavorare con le ali non è che hai tutto questo vantaggio anzi finisce che sviluppi tantissimo sviluppi tantissima merda quindi invece
+che diminuire il debito tecnico lo aumenti nella mia azienda il mio piccolo per quanto ci sia tanta gente in gamba e altre meno ovviamente come in ogni azienda c'è chi più chi meno da quando è iniziato a essere utilizzata attivamente massivamente le aree vero molto più veloci molti più rilasci
+ma il casto mercedes sta impazzendo perché i ticket per bugie sono aumentate in maniera esponenziale quindi in realtà è difficile valutare quanto effettivamente vantaggio tua perché se tu aumenti la velocità è quello con cui i calcoli la velocità e quanti dei tuoi o quante release o quante figura io riesco a rilasciare ma
+ma fai anche la ratio con quanti bug sta implementando non so se poi poi discorso pm discorso prodotti tutto magari può anche stare bene come cosa perché alla fine l'importante è far uscire la chiusura tutto il resto può diventare debito tecnico tutto il resto può diventare qualcosa da vedere dopo tutto il resto prova
+entare un workaround che il sistemista faccio gaie devops ti riesce più o meno mettere le pezze qui e lì ma comunque l'idea debito tecnico anche perché poi anche dal punto di vista prodotto se tu inizi ad avere bug da tre parti il cliente vede che i suoi dati non sono giusti il cliente vede che il tuo prodotto inizia ad avere problemi di qua e di là non è
+dunque una grandissima pubblicità anche se hai dato un fischio
+andrea saltarello ma allora io penso innanzitutto che il problema sia che non è ancora molto chiaro che
+liat ne parliamo di iper sviluppo software la focaccia ne rimaniamo rimaniamo a te che hai
+sarebbe entrata prepotentemente prima o poi shade fitz wien nel processo di sviluppo software è una roba che sappiamo da almeno sei sette anni se andate su youtube c'è un mio tour del duemiladiciannove per crafter software è una bellissima community
+t milanese e le avevo chiesto un touch sul sul mestiere dello sviluppatore
+ed è praticamente molto molto simile come se fossero le prime il primo venti cinque per cento del tocco fatto l'anno scorso col motion quello per il quale sono stato massacrato perché a una domanda sul futuro sviluppatori ho risposto testualmente letto era in inglese adatto dai ma c'è
+desktop tower
+nessun ai tubi di carte sotto perché credo che non abbiano tagliato dall'audio la parte del
+lei e quindi arriva una domanda su ali
+era giugno duemiladiciannove è egli diceva signori e dal almeno dagli anni ottanta che si sta cercando di automatizzare il processo di sviluppo software ottanta con gli strumenti casey computer del software engineering anni novanta aglio e mele executive gemelle e poi al
+ora mele era troppo complicato allora andiamo su donne sono specific language it e poi allora andiamo sullo yodel lockwood e questa è l'ennesima weaver di una cosa che sono quaranta e passa anni che l'industria sta provando a fare quando ne industry
+tria per decenni investe soldi in una cosa automatizzazione capace riesce campo della tecnologia è è è pronta e infatti al termine di quel tocco arrivò alla domanda la mia risposta fu una roba del tipo che opere possiamo ancora respirare prova
+giugno duemiladiciannove rosa almeno poi tre anni che è abbastanza evidente che la tecnologia c'era cioè se prendete conf a ventiquattro claude duemilaventiquattro ci sono già i primi che avevo messo in agenda su questo argomento ma perché vedevo progetti ne esiste
+integrator c'è un tour dei ragazzi di adesso adesso i t a sorridere quel nome perché è un sistema segreto tedesco tipo replay volume d'affari largo circa quello sui due billion solo che adesso in tedesco non significa niente adesso italy
+oh come forza italia scusate la bestemmia no eh però ci ho lavorato un po' con con loro loro sono arrivati ventiquattro october già una pratica quindi diciamo che adesso ce ne accorgiamo tutti perché adesso con gli apple silicon
+la moda del locale cioè adesso non voglio dire che sia diventata mainstream perché ancora una roba da server perché estremamente punitiva nei confronti delle specifiche scritte non di quello non di ciò che scriviamo male ma di ciò che non scriviamo perché una macchina vorrà risolvere il taser e se manca qualcosa lo inserirà in un elett
+che lo inserirà come io vorrei ho pensavo che l'avrebbe inserita okay
+era semplicemente ad adesso comincia a esserci una adozione un po' più brody però è e ripeto è una roba che sapevamo da qui gli dico sempre se se accenna volte meglio del duemiladiciannove che sono l'ultimo degli stronzi in italia
+figurarsi chi vive dove la tecnologia viene fatta se queste cose non nave non le vede noi siamo alla calcolatrice alle
+ha confini dell'impero ecco allora finiamo il giro con luciano de luca poi un paio di domande la chat luciano tu la tua esperienza diretta ma la mia esperienza diretta
+io sono sempre stato un positivista nel senso che per me
+a me tantissimi vantaggi
+ne parliamo un'altra puntata simile a acquisto in cui ci penserà questo fondamentalmente penso che sia ancora valido che a un certo punto il codice comincerà a perdere di valore in quanto hodges scritto
+da persone e avrà solamente senso quello che vi serve mi serve una funzionalità un po' meglio scritta in python java questo questo pattern con questa architettura io penso questa sia la strada nettamente mi stupirei se ad un certo punto non uscissero dei linguaggi più adatti a
+ad essere utilizzati da una gamma piuttosto che da un essere umano per cui
+però
+sul mio lavoro come abbiamo fatto fino adesso ne sa sicuramente qualcosa che andrà a sparire
+come puoi non riuscirà a mantenere l'impiego presso l'edificio probabilmente sono posti positivista perché un momento e qui si possono fare moltissime cose con meno tempo sono d'accordo che chiaramente sono dei limiti ci sono delle uno può creare moltissima porcheria
+nella mia esperienza è l'accelerazione a livello di produzione di una riproduzione più velocemente portare edificio con dei guard-rail
+un po' strutturati vantaggio cioè in dubbio e l'economia
+will smith in azienda se ne vantaggio poi dichiarate problemi ci sono sempre però c'erano pure prima per cui
+scusate sono un positivista drew io come è stato sempre stato un consulente chiaramente non essendo mai stato assunto solo adesso perdessi miei clienti non so quanto film tour il loro tesoro va detto per cui chiaramente
+che cosa mi preoccupa per cui credo che
+chiudersi nel proprio sono un programmatore python faccio solo questo se un approccio un'opportunità che non ha nessun sbocco per cui bisogna diventare un po' uomini del rinascimento forse quindi avere più più capacità di muoversi in contesti diversi in settori diversi di utilizzare gli animi per imparare anche cose molto più velocemente
+chiaramente all'età mia zona offre e tempo pochino più difficile anche il tempo non riesce a metterci però sono abbastanza ottimista che comunque c'è ancora parecchio lavoro da fare non penso che insomma avremmo spazzati via
+così
+ammesso però che riusciamo a rimanere un po' sulla cresta dell'onda a livello di nuove coscienze capire come funziona questo problema come come lavorare sempre ma quando escono nuovi modelli quali sono diciamo uno sweet spot per generare il codice miglior architetture migliori documenti migliori dunque sempre un processo di apprendimento
+penso che futuro sia quello che è certo punto il lavoro proprio di creare del codice viene compilato e pervenute muoiano e poi giù di testa
+ocean sparirà
+luca nel tuo punto di vista esperienze dirette
+guarda allora io sono molto d'accordo su tante cose che ha detto luciano tra l'altro ci hanno mai fatto degli assist fenomenali perché quando hai detto chissà se si creerà un linguaggio ecco uno dei notte della conferenza di ottobre sarà di andrea breslavia che era il capo creatori di kotlin era sta creando un linguaggio che stomaco
+totalmente discorsivo questa nave affidata epocale secondo me
+sono d'accordo con te anch'io vedo tutto dal lato del bicchiere mezzo pieno
+e con me in questo momento ci sono un sacco di opportunità tutto quanto molto accelerato accelerato come la possibilità di fare debito tecnico come la possibilità di scrivere schifezze ma come la possibilità in realtà di arrivare
+al minimo risultato necessario per constatare se quello che si sta creando è valida oppure no chiamato brand bpd chiamatelo come volete
+in tempi ridottissimi indipendentemente dal linguaggio e secondo me il linguaggio usato è una scelta deve essere fatta in maniera conscia e consapevole perché perché a seconda del contesto un linguaggio per forma più o meno rispetto ad altri perciò non c'è l'assoluto ma la scelta è giusta ma dal mio punto di vista in futuro
+pro il codice scritto sarà la risultante di quella che la roba davvero essenziale che il ragionamento come vi dicevo prima
+sono partito come sviluppatore poi ho aperto una mia web agency che poi è stata acquisita
+e per me quel periodo era fantastico perché un team di ragazzi con cui collaborare con cui ragionare e arrivare a progettare dei prodotti
+che poi prendevamo la cosa più bella la cosa che mi teneva attaccato al computer quattordici ore al giorno non era quanto è figo il codice o il cover è già al cento per cento ma era uovo abbiamo fatto un ragionamento bellissimo per cui io aziendina i dieci persone riesco andare a bussare al nome internazionale di
+guarda questa roba gli altri non ce l'hanno con me la fai te lo dimostra è quello che paghi è perché noi ci abbiamo messo la testa perciò nella realtà sì è vero il codice era bello era elegante ma quello che veniva valutato era poi c'è quello che dava al valore era il ragionamento
+to escort è ad oggi la situazione e poter amplificare molto le capacità e anche i difetti di quello che si fa perciò come tutti gli strumenti va usato bene vedo un sacco di abuso e questo mi fa spavento ma chi lo usa o anche i dav un pochino più vecchia scuola come noi che sono cresciuti andando magari a fare
+anche lo pseudo codice all'inizio scriversi tutti quanti ragionamenti scrivere le specifiche quando ancora non erano specifiche per lo speck driven design perché erano specifiche servivano ha ancora quel qualcosa in più e poi si parte sul tema degli junior magari affrontiamo dopo perché questa è una cosa che mi spaventa davvero non voglio mono
+utilizzare in realtà è anche una delle domande anzi mette insieme la domanda di livia la domanda di colfiorito livio cede e prima grossa domanda affermazione converrete junior e io male oggi su der donau c'era una ragazza freelance che diceva che non riusciva proprio a trovare lavoro
+immagino e colfiorito provocazione dice per un'azienda che differenza c'è fra usarono in maniera schema ed delegare ognuno giugno da un'azienda scrauso dall'altra parte del mondo
+quindi diciamo pure il grosso elefante la stanza che l'impatto delle iai sul lavoro digiuno ma io non direi solo di junior certo forse per chi deve entrare adesso non lavora
+meno connessioni meno conoscenze acquisite e quindi meno relazioni con magari clienti passati e meno competenze iniziali
+anche se fosse anche la possibilità di farsi competenze e ai based molto più velocemente o quantomeno rispetto a quelle che ci sia coltivati noi
+come la vedete facciamo sui soggiorni prima così non ci sdraiamo che e allora il millennio scorso quando ho iniziato a lavorare il uno dei miei primi clienti quasi datore di lavoro che ho sempre fatto l'imprenditore airfrance alternando le fasi mi disse
+tu come informatico non sei qui per scrivere codice come informatico secondo per risolvere problemi ed automatizzati impara a ragionare impara a pensare poi la scrittura del codice viene dopo
+e devo dire che me questa cosa un po' mi ha deviato non sono mai stato un bravo sviluppatore ho sempre ammesso candidamente sapevo farle mie cose ho studiato i pattern facebook di di extreme programming quello che volete però tantissimi sviluppatori mi mi davano la paga come si dice qui romagna
+gna con con veramente con poco air force
+il concetto di saper pensare è sempre stato uno dei miei cavalli di battaglia del sesso non è portategli il linguaggio di programmazione è importante capire come risolvere elegantemente un problema magari anche senza svilupparlo è quello che sto vedendo io
+è che chi si
+avvicina dicendo tanto lo fa le hai non sta dedicando sulla scrittura del codice ma il pensiero sta ma il pensiero ed è quello il problema quindi non è il problema del junior non è che non c'è più un elemento chip perché negli ultimi vent'anni ho sempre visto
+meno mentorship fatte sulle persone e junior si formavano abbiamo qui i principali eventi italiani
+in giro parlando con con altri sviluppatori formandosi da soli o altro se erano fortunati anche l'azienda però dall'altra parte e perché dovevano risolvere problemi c'è una persona cresce quando a una serie di muri davanti e a furia di testa
+kate riesce ad andare a sfondarle e capire quel che sta succedendo oppure fa dei maroni giganteschi e facendo retrospettiva su quello che è successo capisce di aver sbagliato e si spera con un minimo di southwark grano salis non ripeterà l'errore oggi junior
+a quei fortunati che trovano lavoro gli si gettò usa claudio usa chat usa chi ti pare e fai le cose ma non c'è pensiero c'è non c'è nessun retropensiero del perchè delle bufale e i senior che si sono rotti di di andare avanti stanno anche loro delegando
+riducendo il loro capacità cognitiva è questo il problema grosso invece chi usa tutta la parte di ais in affiancamento ragionando evitando di scrivere più feature perché è uno dei temi principali non scrive più ufficio e faremo oleificio vengono utilizzate e non è un problema tecnico è un problema di welsperg
+comunicazione facilità di utilizzo necessità che quella feature esista veramente quindi analisi del mercato quindi la parte tecnica molto dopo scrivere duecento mila ufficio che bellissime le ho scritte un quindicesimo del tempo sono testati e funzionano quello che ti pare ma poi non li usa nessuno perche
+su uno sloop sono slot fatto bene
+gli amanti slope che non servono sottovento nulla
+quindi il problema è che almeno personalmente lo vedo in quale direzione più che nel saper sviluppare perché anni fa si sviluppava in uno dei primi lavori che ho fatto era in in delfi dalfino si va più eppure non è che a un certo punto qualcuno ha detto sei un animale zoom e mai mai mai eliminato
+ci si adatta tecnologie cambiano strumenti caldo lei è uno strumento tanto quanto il compilatore chi ti dice che c'è un bug riga ventisette di più da meno e che accelera sicuramente ma se tu pensi mai a prescindere tutto quel che fai ed è inutile
+qui potrai parlare per giorni su fermati per l'amor del cielo sintesi non può che ho detto molte cose sagge tratto e sulle slot per la pittura gridi in esse che io sono un vero alcuni rangers ne sono totalmente sottomesso continuano a giungere ufficiale così faccio così e perché
+si può fare
+e verrò a chiederti consigli e poliedrico
+mentore
+come evitare queste cose e spagna no allora anche io sono abbastanza d'accordo con francesco anche perché ormai il nostro lavoro allora io non sono tanto sviluppatore sono quanto più fragai quindi utilizzo la i o per scrivere comunque infrastructures gode quindi comunque le mie cose terraforming le scuole e via discorrendo
+ma il lavoro che ho visto si è spostato moltissimo dal
+fare
+fare tu il braccio armato descrive le cose dal progettarle e aveva questo per esempio questo ciclo piace tantissimo perché è molto più bello progettare e usare il tuo tempo la tua abilità la tua conoscenza per costruire cose immaginarti cosa è fare il boot cliente puoi lasciarle
+sviluppare da qualcun altro anche perchè diciamo che è un po' retrò un po' romantica la visione del codice come io lo scrivo eccetera eccetera un po' un po' vecchio stile dai non c'è questo romanticismo che ormai sta andando un pò ma velocemente sta meglio sta scemando e sta cosa e poi
+invece parlando di giugno krakow mio tutto concetto particolare su junior che magari trova tante volte attrito ma nel mio pensiero il junior non è il completo incapace che deve imparare il junior è uno che non ha esperienza lavorativa io da un junior in realtà mi aspetto che sia anche più capaci di me
+a livello teorico a livello tecnico perché tu junior perché non hai mai lavorato non perché non sai le cose anzi ha appena uscito dall'università appena uscito dal percorso studi la si vede così tanta fame così tanta voglia di fare e conoscenza così tanto fresca che durante mi dovresti mangiare in testa poi sei giugno perché non hai mai
+hai esperienza lavorativa è tutto e quindi diciamo che ti manca quella come competenza non la competenza tecnica e la competenza di fare la competenza di discernere cosa è giusto e cosa è sbagliato dell'informatica non ti dovrebbero mancare le basi non dovrebbe mai mancare ragionamento critico dovrebbe mancare la capacità di pensare che poi alla fine mi diceva francesco è quello il problema
+demandare tutta l'hai compreso il ragionamento critico compreso il pensiero razionale su cosa fare su come fare le cose e come una volta la gente staccava il cervello cercava società perché io questo distacco verso la dirò sempre perché proprio il meme classico di icsa anni fa gente che magari aveva così il cervello spinto
+che copiava la domanda è lecita la risposta è si chiedeva perché continuasse a dare errore e gente così esisteva e della gente così che esisteva una volta riveste tutt'oggi con l'intelligenza artificiale quindi li è proprio gente che stacca completamente il cervello fa copia incolla dell'errore delle aree neanche sta a guardare cosa fa dice guarda
+sviluppo fa jihadista non ci mette il pensiero critico non ci mette il pensiero razionale non ci mette quel minimo di valore aggiunto che umano può dare l'intelligenza artificiale ancora non data l'intelligenza artificiale non crea prende quello che esiste lo rielabora più o meno prende statistica ho ovviamente sto molto stringato parere
+alt non funziona propriamente così però prende quello che statisticamente più sensato rispetto quello che stai facendo e ti butta fuori qualcosa però non ha ancora la capacità se non ricordo male si chiamava capacità di creare da zero di inventarsi cose nuove anzi spesso quello che tira fuori sono anche abbastanza cafonata becco santo discorso quindi li
+il valore umano
+e ancora importantissimi dovrebbe stare ancora al centro infatti io non ho paura per il mio lavoro nel futuro semplicemente cambia
+andrea allora io io stasera penso di potermela giocare con contee probabilmente per la palma del più vecchio parente
+e quando io ho iniziato a scrivere come dave io ho iniziato scrivendo codice in assemblee su workstation accordarci nevers quelle per le quali hanno inventato gli arm quindi ho sviluppato in assemblee swords station army
+esclamò il codice che veniva usato in italia per colorare fumetti l'uomo ragno per intenderci allora marvel era sorge era laura panini hotel e
+io penso che poiché per decenni il mestiere del software developer richiedeva la scrittura del codice e noi abbiamo associato creato questa associazione che facciamo al quale facciamo fatica a rinunciare che i developer uguale uguale programmatore
+invece che developer uguale uguale ingegnere
+il momento in cui dico developer quale ingegnere allora a ragionare in termini di specifiche di progetto diventa una cosa naturale del moon il fatto che io poi da assemblee e meno male che almeno era un'assemblea iris a trentadue bit invece che quella merda di sotto sei
+mi scuso con con la parola merda per essere stata associata a li' sotto assedio allora no con le immaginazioni e cose del genere ma
+quando mi diedero in mano le narici cardigan ok quindi non ero più ha costretto all'assemblée shambala e quando uscì
+turbo c plus plus della borland che il primo compilatore che ho dato su pc il tre punto uno
+specifico ultras shambala cioè
+noi abbiamo alzato il livello di lingua la riassegnazione dei linguaggi perché per venirci incontro e di fronte a una potenza computazionale sempre superiore ok abbiamo accettato le inefficienze perché il costo superiore a quello umano oggi
+per intenderci io su mia termine tecnico se il prossimo linguaggio di programmazione quella di franklin sarà davvero ad alto livello conversazionale decadente e avremmo già potremmo riprendere buddy da una vita humber da una vita speck fly
+oh nella vita ok
+oppure passare dalle specifiche a qualcosa che emette qualcosa di più basso livello non vi so dire se un linguaggio intermedio perché oggi
+monte spaccato tra i sotto sessantaquattro e arme forse arriverà il vino lo sappiamo come non richiamare però forse questa cosa delle iai può essere usata per prendere le specifiche e cominciare a buttar fuori qualche cosa in più a sedere perché perdere per le macchine
+yemen un problema e quanti registri oh e come li uso e blablabla quindi poi quello sul discorso del del lavoro qual è il nostro lavoro developer engineer programmatore junior e l'impatto sul lavoro quello che abbiamo oggi da senior
+che è terribilmente punitivo per gli junior è forse il problema grosso degli junior di adesso e che non hanno ancora ovviamente l'esperienza tecnologica per per saper come dire guidare e la disciplina probabilmente anche
+la competenza di dominio su tutte quelle cose che servono per rendere meno fragili meno pericolose le specifiche e le
+ehi come dire le derive dell'inferenza nei meandri dei buchi che lasciamo perché ovviamente non non esiste ancora un processo di quello che mi conclude fortemente produzione degli junior che vengano istruiti a lavorare in questo nuovo mondo che apparentemente le hai
+apre ok
+e quindi è proprio un boom come tutti i momenti di transizione questo nacque la rivoluzione industriale la rivoluzione industriale
+quello avvenuto in passato non sono state gratis socialmente parlando intendo io non voglio fare la cassandra però richiamo giambattista vico corsi e ricorsi storici e forse ogni tanto guardando le situazioni architettura mente simili cosa è successo
+possiamo farci un'idea
+luciano tu criteri sei fatto
+non ho tantissima esperienza di lavoro con junior
+proprio due
+due punti di accordo quello che ha detto francesco riguardo al
+il problema fondamentale che nessuno per gli sviluppatori menu anche con con i miei figli diciamo che chiaramente se tu deleghi tuo penserò a qualcos'altro cervello si atrofizza nel resort e quindi non siete in grado di pensare come si vede però diciamo new delhi due punti lo fa racconta il mio caso
+piccola azienda o dei clienti però abbastanza grandi e messo cinque anni fa io avrei assunto qualcuno perché non ce farei gestire una mole di loro è ma semplicemente erano dipendente
+avrei voluto assumere degli perché magari mi sarei potuto permettere uno sviluppatore da sisinio da duecento mila euro l'anno però coinvolgono lentini sinistra destra con quattro cinquecento euro al mese o anche meno che di mq trecento euro al mese e manda avanti un'azienda
+conquistando un punto numero uno e quindi nessun un pò il mio
+come come faccio io immagino quindi per gli junior qualsiasi abbastanza problematico
+punte che si è vero e junior dovrebbero quello che dicevi andrea che giustamente dovrebbero avere molta fame voglia di fare e dovrebbero anche avere una preparazione molto fresca
+tutto questo si scontra con la velocità con cui questi modelli si stanno evolvendo per cui se il modello di serie si fa io magari non avrei usato un poco evidenziano vengono rubare non erano perfetti quindi magari una persona avrebbe fatto un lavoro migliore fra sei mesi o fra un anno e questa persona non farà più un lavoro migliore
+dovrà competere a tutti i livelli con ellen quindi
+la vedo veramente difficile settembre del mondo il lavoro di ricerca di entrare perché quasi per il nostro settore direttori insegnanti settore sei un avvocato
+per me erano quasi da un punto di vista socio-economico di una persona un'azienda ha molto poco senso assume a meno che non devo andare dal cliente un altro discorso per emettere un ronzio andrà perso una cliente così front musiche del suo front forward the flow brasile
+scusa però se diciamo forse ancora sono vecchio stile
+azienda che c'è un cliente
+specifico sviluppi c'è anche questo modello come andrà a evaporare però adesso vuol essere così non so e questo
+palazzo parli dice che siamo che sia solo nostro campo come faranno
+ragazzi associano dieci quindici vent'anni a competere fra dieci anni con l'e-learning si stanno sviluppando una velocità molto più rapida di quello che si pensava adesso d'essere sorridere troppo verranno architettura di gbp ti sei un po' trasforma man loop insomma l'altro inserisce nel più benevolo e l'ha tenuto quindi
+emozione questa è
+non è che sono negativo perché io penso comunque le occasioni ce ne saranno tante però proprio in questo periodo specifico di qualche anno ci saranno assestamento quando diceva che andrea
+fumo ne pagherà le spese
+se poi io aggiungerei national junior credo che ormai i modelli di frontiera più evoluti sono più capaci di programmare di qualsiasi programmato nel novantanove novantanove per cento dei programmatori sono in giro tra cui
+non ha più senso pensare di competere no a livello di capace di programmare
+duca fuggire finisce il giro poi proviamo a fare un altro passo avanti si cerco di essere abbastanza breve nel senso che sono state dette un sacco di cose giustissime
+ccnl di jerry vedo un sacco di confusione tra chi non capisce che cosa succederà
+perciò ad oggi è abbastanza restio nell'adottare queste nuove tecnologie e perciò vedo un sacco di aziende che ancora lo usano per il complice john o per andare a fare cose molto semplici che ad oggi secondo me per quella che è la qualità del codice prodotto ai the models dagli
+agenti è uno spreco enorme e bruciamo gli alberi e di quello poi va bene sennò poi mi mi mi mi prende male
+sono d'accordissimo con quello che diceva andrea spagnolo sul concetto di junior
+lo junior non per forza deve essere una persona che non è capace è una persona più fresca più giovane che però è appena uscita dagli studi e ad oggi dovrebbe averci una fame devastante per cui visto che la possibilità c'è dice o non mi vuoi far crescere io faccio il walkman company e sai che c'è
+io capisco la gente si capisco quello che vogliono ti tiro fuori un prodotto pieno di buchi che però ti spacca il mercato ti fa vedere come stanno le cose e poi allora lì arriva l'azienda che se lo tira dentro e cerca di inglobarlo per fare qualcosa di rivoluzionario
+quello che mi fa paura perché ci ho passato un pezzo della mia carriera invece il mondo della consulenza visto all'italiana dove si fa purtroppo anche qui cosa molto brutta ma
+time material come se gli sviluppatori fossero dei mattoni perciò ti do una carrellata di sviluppatori
+che ti lavorano con ibm e per tre anni ti fanno copia incolla dello stesso snippet ecco quello non esiste più
+e per solisti che esaltano secondo me un sacco di persone o che ci sarà difficoltà nel continuare ad avere quel genere di lavoro dico sono confuso perché i due estremi positivi e negativi e non vedo una strada coerente continuo a essere convinto che sia uno strumento super potente super
+un set di strumenti super potenti super comunicati che se sfruttati bene possono darci tanto e seppur ci cambino
+il concetto la visione lavorativa nella realtà dei fatti non escludano nessuno che è in grado di dare quel flusso umano che ad oggi
+poi onsen stato un bellissimo discorso matteo colino sarebbe troppo lungo che ad oggi solo l'essere umano sa dare e i modelli non sanno dare perciò se in qualche maniera riesce a usare lo strumento riesce a togliere quel delta di tempo che ti serve prima per convertire il ragionamento in codice
+e la lodevole ma dai veramente potenza al tuo ragionamento siccome ad oggi non devi avere paura e anche junior possono fare la loro gran bella figura
+anche perché comunque nel corso della storia la storia insegna che ogni rivoluzione che c'è stata non è che ci sono state alcune persone che sono rimaste da parte chi magari non sarà la rivoluzione industriale chi era abituato a fare lavori di fatica è arrivata l'automazione e la robotica l'industrializzazione ci sono sempre stata una della storia click
+c'è sempre stato da parte di persone che o perché non si sono saputi adattare o perché non erano in grado di adattarsi o per questo o quell'altro motivo sono sempre lasciate riguarda indietro ti ha avuto la capacità di adattarsi e capire come girava il mercato crearsi nuove competenze comunque tutta una serie di
+fortuna socialità capacità personale si è evoluta e ha ricominciato ad andare avanti in mente almeno per esempio lvm può capitare era partita con fare cosa faceva trattori forse ma che industriali è arrivata l'era informatica semi ha imparato informatizzate era arrivato quello che è adesso e come lei ci sono mille
+milioni di esempi utili che si possono fare con l'intelligenza artificiale sarà esattamente la cosa alcuni lavori rimarranno indietro si perderanno forza di cose alle prime cose che gli avvenimenti per esempio le traduzioni un esempio a caso sono le traduzioni sono uno di quei lavori che appena appena già adesso ma appena appena ci sarà ancora quello step evolutivo
+dell'intelligenza artificiale tutto il lavoro di traduzione si perderà completamente a questo proposito allora intanto nella cat sta amando vita propria praticamente in parallelo c'è una serie discussioni trovato molto interessanti e riprendo parte di quello che è scritto in chat e a questo punto vi inviterei a fare un po' una discussione comune senza
+starà a passarci il testimone i lavori che secondo voi
+bè quelli che si perderanno e andrea e ne è accennato uno dei fautori e magari parliamo anche nel campo informatico quelli che sono più a rischio calibro di come attualmente vengono vissuti ma soprattutto secondo voi quali potrebbero essere lavori emergenti possibili che potranno e fiori irene in questo mondo dominato dai arie
+io mi tipo una cosa
+riguardo quello che sono il profilo del sovrano che cristo nel video ci sarà un'evoluzione che sono un momento di transizione prova che tutti sono imprenditori cioè non è che tutte le persone sono in grado di mettersi in proprio e creare il prossimo android chat free facebook o c'è molta gente con una vita tranquilla vuole
+attenzione affezionati andare al lavoro vado a lavorare un po' a tornare a casa restando utili steve jobs
+per me
+l'enpa lascia tra loro una martellata sarà abbastanza pesante
+b francesco senza sam weinberg interrompi pure dal gruppo di minsk e due temi il primo è un uno edificabile tanti difensori di junior un primo difensore di giugno che funziona bene è la differenza che passa tra una persona e che ad un certo punto si accorge che qualcosa non va alza la cornetta e
+chiama il cliente li diventa senior magicamente perché perché diventa proattivo cerca di capire le persone e non il codice perché molto spesso il problema payback non è non è nel codice quindi il problema è tra la tastiera la sedia quindi comprende park
+orlando con le persone comprendendo le persone si capisce anche cosa non sviluppare codice sviluppato male primavera e tra tre mesi che ho fatto tutto ma non era quello che intendevi tu quel giorno i colloqui di una persona che da junior diventa senior avviene quando impara a comunicare con gli altri esseri umani
+questo per me è fondamentale in qualsiasi lavoro qualsiasi qualsiasi dal dal dal barbiere al sistemista e il possibile i lavori futuri qualsiasi cosa dico sbagliato quindi non difficile dire a noi sistemista loops il pin copan group s
+no perchè l'altro ieri ho ho fatto fare l'analisi a cloud della mia infrastruttura me va girata come un calzino ha trovato due cv e degli access point sta utilizzando gli ha comunicati al brand che ha detto sì lo sappiamo da almeno un anno non dirlo in giro e io volevo soltanto far funzionare il router in camera di me
+figlia quindi i il problema è che per quante persone ha sostituito quel mio prompt in casa hotel
+ci saranno dei lavori che oggi non conosciamo e che probabilmente conosceremo tra qualche tempo però la cosa molto interessante dal punto di vista è che
+anni fa quando avevo una azienda di sviluppo software pensavo che soltanto chi avesse sacro fuoco dello sviluppo potesse entrare nell'azienda poi mi sono accorto che giustamente ci sono anche i i dipendenti che non gliene frega niente vogliono uno uno stipendio vogliono vive vogliono vivere e lavorare in un in un luogo
+go dignitoso trattati come esseri umani
+è però di star lì col sacro fuoco studiare la nuova tecnologia annuncia lo voglia e anche quelle persone vanno benissimo nelle aziende probabilmente quali saranno le prime persone che diventeranno barbieri idraulici perché vogliono un lavoro e basta qualsiasi sia il genere di lavoro oggi sceglievano informatica per comodità
+non per per passione ed omai per comodità sceglieranno un'altra tipologia di lavoro punto non è quello la problematica e perché se cerco un lavoro per avere un lavoro qualsiasi lavoro deve andare bene su questo principio chi invece si
+continuare a studiare continuerà a investire e probabilmente troverà estensioni di quello che il lavoro del libero pensatore che gli informatico e troverà altri modi di risolvere problemi automatizzando magari chiedendo a
+a uno hai o lavorando come batteria umana all'interno di un array tipo matrix bo
+re allora un colle rosso vedono cosa che ha detto francesco perché
+the top quello famoso detto chris amon quello a cui ho accennato prima di cart software dicevo proprio che quando quando io ero ragazzo andavo alle superiori e si trattava di scegliere l'università il grosso dei miei
+per dire si collocava fra quelli che dicevano che volevano fare i soldi e allora praticamente a andavano a studiare giurisprudenza perché l'avvocato quello che fa i soldi oppure quelli che andavano a fare diciamo l'economia perché il lav
+muro fisso in banca no quindi quelli che volevamo semplicemente un lavoro dignitoso sicuro e quant'altro noi per un bel po' di tempo per anni abbiamo vissuto nel nostro settore
+di invitato storytelling allora di una una contingenza favorevole quindi una richiesta di figure professionali da parte del del mercato fin eccessiva quella realmente necessaria più tutta la favoletta delle startup quindi alla bara fine
+fine fa il def o la persona pec quindi studia stemma
+era il modo più facile era il modo per trovare più facilmente un lavoro per giunta retribuito sopra la media di mercato condizioni favorevoli per far sì che un sacco di persone cui non interessa a smanettare ma semplicemente trovare un lavoro senza impazzire a trovare un lavoro
+roy che troverà interessante questa cosa che noi invece abbiamo cominciato a fare per passione ma quando abbiamo iniziato era fatti una vita
+e questo sul discorso di quanto di tutte quelle persone comincia prima francesco che saranno le prime probabilmente smeg poi però c'è c'è c'è
+c'è un piccolo dettaglio che voleva capire
+nel mondo delle ali qua quanto quanti nuovi lavori davvero si possono creare perché il punto non è quante professioni ancora non esistono e nasceranno ma quanto il mercato sarà in grado di assorbire i deliverable delle persone
+cioè se noi diventiamo più produttivi e io come lei sono molto più produttivo
+oh il mercato è disposto a comprare di più su software ultras semplifico oppure l'incremento di produttività non corrisponde alla possibilità di impiegare di più impiegare diversamente io percorro questo è un ragionamento le organizziamo unità per
+vai al mese tra tutti ogni mese e i due anni epoca in quello di maggio di due anni fa mi ricordo l'abbiamo fatto in bildu a milano gabriele petronella probabilmente un po' meno conoscono ricordo che tornando indietro una delle persone che partecipano spesso e alfredo morresi di cubo altra persona ricor
+vedo che tornavamo indietro la sommità p e lui mi diceva separando di maggio di due anni fa e
+diceva che lui
+non comprendeva come come mai non ci fosse tutto questo interesse ecco mentre lui mi piace la caccia criticata per lei come strumento di assistenza allo sviluppo di software o che togliamo tutto il discorso agenti come agenti cho col complice la
+non perdere e che aiuta a sviluppare software
+e mi rock che io gli risposi guarda che c'è se tu hai perché lui diceva allora era praticamente il suo copilot quindi stava parlando di guida copilot hogan
+ricercare con venti dollari mese produci prudentemente né per lei rispose sì ma le aziende possono vendere né terra perché o lo considereranno uno strumento di aumento dell'efficienza quindi se posso licenzio perché me ne bastano meno per produrre quello che riesco a vendere
+oppure ci stiamo dicendo che il mercato disposto a comprare di più ma il mercato è disposto a comprare di più perché atleti tutta questa possibilità di produrre di più
+cioè quello che non è semplicemente produrre più rapidamente
+dobbiamo soltanto gli togliamo un ragionamento solo sull'asse del tempo e anche quello della quantità
+e se non ci sono le condizioni di mercato affinché si compri di più produrre di più non è così interessante e questo lavorativamente un problema questa veramente è tra l'altro non è una questione di server di junior è un problema io su questo sono d'accordo con te andrea ne abbiamo già parlato
+ricordo anche certi discorsi con alfredo
+quello che sta succedendo in questo momento non è un'altra cosa su cui riflettere è che in un modo o in un altro c'è un ritorno boomerang su determinate scelte aziendali
+ho visto e ho parlato anche di recente con aziende che hanno lei ho fato
+perché non gli serviva più la forza lavoro perché lo junior che ti fa codice semplice non mi serve più perché tanto adesso anche il pm che mi arriva dal marketing non i pm che mi arrivano al tecnico che tanto tanto ma il pm arriva dal marketing adesso è stato bravissimo con l'abbonamento centauro ha portato fuori di tutto paralumi col cliente ora la bomba
+poi però tre mesi dopo ai ragazzi non funziona più niente non si capisce cosa c'è che non va il pm adesso sta seguendo un altro progetto perciò non riesce a starci dietro e comunque guardando il codice non capisce perciò adesso dobbiamo ricercare qualcuno che sappia usare questa cosa per andare a fixare e sta succedono sempre di più perciò anche di voi
+vero che il mercato potrebbe non essere pronto a ricevere di più sensatissima ma la domanda è davvero l'unica necessità è andare a produrre di più perché magari ci si accorge che tutto il debito tecnico è stato creato abusando di quello strumento e ci vuole un botto di tempo per andare a ripare giallo e f
+forse dopo che ti sei bucato le tasche per andare a ripagare il pari il pareggio di quel debito tecnico ci ha creato ci ripensi prima di mollare a casa della gente a boca e posso seguirti con una domanda al portatore sviluppa faccia domanda è
+e in tutti quei casi nei quali il debito tecnico non è obbligatorio da fixare perché perché un conto sono i casi nei quali son di mezzo penali bla bla bla bla bla però
+ci sono anche tanti casi nei quali tutto sommato il debito tecnico
+che succede
+proctor proponiamo un trofeo ma francesco quello che succede già adesso con quelle aziende che comprano in team su tim forest per vendere i sito i clienti si invece che comprare su tim forest quindici euro anno l'abbonamento villa del provider di turno si fanno fare il sito più o meno tutti uguali
+lo stesso ponte con lo sfondo color crema che fa quel che fa quel genere di roba quindi si sta semplicemente spostando l'attenzione e il
+uno dei concetti importanti in questo ambito che
+chi sta licenziando per per spostare sulle aree sono quelle aziende che hanno sempre visto gli sviluppatori come capex costo puro
+e non vanno a fare risk assessment delle proprie infrastrutture quindi nel momento in cui un'azienda di prodotto digitale inizia a fare risk assessment e adesso quest'anno ha iniziato a farlo tra accra e
+yacht
+ilva nis due per chi deve farla in due tutto il resto e inizia a fare un assessment per dire oh cacchio se non abbiamo copertura delle persone quando succede questa cosa noi abbiamo delle penali gigantesca quindi è la paura delle penali che fa ripensare il licenziamento non d'accordo però guarda guarda allo european accessibility
+this the
+oh io speravo che dove non non sarebbe arrivata l'etica ci avrebbe pensato la paura delle penali e maestro sono basse dove nella terza attenzione e quindi non so se per lei ahahah sarà così differente non detto che credo di no ha detto non lo so ma con la
+flessibilità
+si stanno muovendo le cose il problema è come è stata scritta perché cosi scritte più di tot anni fa che non hanno bisogno die possono essere mai passate e quindi
+uno perché spendere non devo non spendo e quindi le cose non succedono però tutto quello che è creato ex-novo è obbligato ad essere accessibile poi è obbligato ad essere accessibile devo andare dal mio studio di accessibilità no c'è faccio un prompt becca di tutto l'accessibilità beccati
+tutte le regole del wto etc mantenimento farmi le analisi ed è push direttamente le pierre con i risultati hotel perché adesso questo si può fare con lei e heath è lo stesso dove dietro c'è un framework di vista assessment e di autodichiarazione io dichiaro le cose poi mi fanno un controllo di rischio assessment sono un'azienda strutturata
+o devo averli iso novemilauno devo averle ventisette mila uno devo avere quel che ti pare e in quel caso non avere fatto uno studio sulle aree alto o anche sul cyber presidio impact mi portano serie di magagne non indifferenti non solo lo studio di quattro persone a cui non gliene frega niente
+ma sì non gliene fregava niente oggi ve ne frega niente domani non gliene frega niente l'altro ieri
+quello che faranno questi studi quattro persone continueranno a fare quello che facevano adesso prima quelli bravi ci si lavano le cose bellissime e continueranno a cesellare le cose bellissime con strumenti nuovi quelli che non gliene fregava niente qui invece che comprare il tema marketing forest faranno fare la tuta generazione
+no non lo vedo come drammatico quel punto di vista da un punto di vista umano invece è un pochettino più complessa la faccenda è un po' più più più difficile da gestire però va molto oltre alla produttività dello sviluppatore perché è proprio un problema sistemico di società quindi
+è il limite cappello da sostenibilit manager e vado oltre
+a questi temi quindi magari torniamo su su su quelli cosa fa lo sviluppatore domande
+e torniamo su e poi vi suggerisco un nuovo job title code killer ingenia
+che mette le pezze ai filosofi i filosofi stanno cercando dappertutto dappertutto in tutte le principali
+aziende che fanno modelli sta cercando filosofi e molte aziende grosse stanno cercando filosofi interni all'azienda per capire come prendere determinate scelte etiche bene bebo buon per la filosofia che finalmente si risveglia in un mondo dominato dalla materia prima erano a aerea
+adesso hai quindi i filosofi comunque sempre lavorato da che mondo è mondo
+beh ma nel sacro pensiero umano a me mancano sviluppatori molti più bravi ti conosco will and dogma mai fa mai fatti la
+la diversità o meglio come sta cambiando il paradigma è proprio questo perché tutto il lavoro prettamente manuale e nel codice ce n'è moltissimo di lavoro manuale si trasforma in lavoro biologico lavoro di mente questo caso proprio le dimostrazioni di questo passaggio che si sta avendo da che eri un muratore del codice uno che
+pingitore di codice penso stia diventando uno che cerca di pensare quello che d'essere spinto da qualcun altro o tipo
+scusa scusa vai vai era quello che un io prima che penso che bisogna andare poi alla direzione di uomo del rinascimento non quando leonardo da vinci tredici anni quattordici anni crolli nella bottega del verrocchio lì imparò giorno solo pittura per un sacco di rame e bronzo architettura e poi diventò prodotti fluidi
+diamond
+questi strumenti vi danno la possibilità di accelerare di imparare molto più velocemente per usare bene quindi quello che dicevo e lo sviluppatore di will
+sono avvocato o qualunque altro uno che rischia di essere sostituito
+l'unico modo per rimanere in gioco è quello di espandere le proprie conoscenze e diventare
+un nuovo uomo del rinascimento però assistito da dalai ciò quindi un'evoluzione di di leonardo da vinci perché per questo prima possibile imparo tantissimo lei c'è stata praticamente tu puoi puoi accedere a formati di prima segue il paragone col gomito comprare tre libri l'attività di brisbane
+dice adesso puoi richiedere dei sommari poi puoi approcciare programma diversi angoli e quindi le possibilità ci sono poi i soliti metodi youtube ci mette in mezzo un libro riutilizzo altre cose la capacità di assorbire conoscenza è molto più veloce adsl e i prematuri che sto vedendo io che paradossalmente
+a a in a quando eravamo noi giovani per studiare qualcosa di nuovo era un casino perché non esisteva google esiste un forum dove ritrovare la fanzine devi trovare la rivista in edicola devi trovare il libro in biblioteca roba che era già vecchio perchè sua vecchia
+paradossalmente avendo meno accesso alle informazioni c'era più voglia di imparare e chi aveva veramente voglia imparava adesso sono arrivato a un punto dove abbiamo anche un surplus di informazioni arrivano informazioni da tutte e due prima ancora che arrivasse la lira
+adesso con la ancora peggio però anche prima fino a due anni fa top che ancora non era così diventato mainstream tutto sa tutto l'utilizzo della kiko eravamo esattamente allo stesso punto dove le informazioni erano così tanto eravamo così di informazioni così un nuovo afflato tali informazioni che paradossalmente la gente aveva almeno voglio
+informarsi e sono anni che almeno dal mio pc nel mio piccolo vedo un abbassamento totale della qualità tra virgolette di tutto quello che viene sviluppato di tutto quello che viene prodotto perché manca
+ripeto quello che ho visto io mancano a voi la voglia la curiosità e l'interesse quindi hai molte più informazioni molta più facilità all'accesso delle informazioni ma meno voglia di prendere le informazioni per le tue adesso
+una cosa che cito molto nelle varie community che frequento e l'effetto dunning-kruger adesso a te basta rileggere una volta wikipedia ti senti esperto dell'argomento non c'è più lo studio matto e forsennato di un leopardi di una volta o di quando eravamo noi giovani è tutto perché vuoi imparare bene l'argomento vuoi spaccare il capello in quattro
+tu leggi una pagina di wikipedia e ti senti te
+arrivato con un'intelligenza artificiale se solo spesso semplicemente spostato il paradigma prima era giù cerco su google cerco su wikipedia adesso lei è diventato un po' come dicevo i miei nonni l'ha detto la televisione quindi è vero adesso con è diventato esattamente così l'ha detto quindi qual è l'informazione vera non ho neanche più interesse di fare fact checking
+di vedere se l'informazione falsa se disinformazione o altro non ne ho nè la voglia nell'interesse di l'ha ho detto emily ha detto siate tibet allora è vero quindi più è l'informazione e l'accesso all'informazione è per tutti è ormai diventato mainstream chiunque si ha voglia di studiare può studiare non è come una volta e solo tramite chiunque può mettersi a studiare
+c'è meno voglia di farlo se meno voglia di buttarci dentro c'è meno voglia di evolvere come persone come esseri umani
+sotto e questo è vero però diciamo non c'è mai stato nella storia dell'umanità ma la possibilità di accedere a informazioni di qualità come adesso
+poi chiaramente se uno si leggeva con swipe definisce il libro ovviamente un problema non nuovo però micro quello che cercavo dire prime che impotenza che legge tantissimo disposizione possiamo crescere permanente come persone e poi ricollegandosi al mondo professionale punto la figura del programmatore che codice devo spingere codice questa è chiaramente una cosa
+se alla fine però se tu riesci a espandere le tue conoscenze in maniera organica assoluta in maniera come dire profonda e non leggendo di tre pagine wikipedia from the front
+credo che
+le possibilità
+diventino dietro più ampio
+chi si aprono divorzio curiosità come professionista poi alla fine chiaro
+lo psicologo uno psichiatra ti metterà a fare un lifting rumeno a fare a fare delle terapie però diciamo
+bisogna mettersi qualcosa
+sa se uno dice oh beh faccio il fatto programmatore finché finisce puoi benissimo avere abbastanza vecchie poi perfezionarlo e credo che la chiave sia io la vedo così
+su questo sono d'accordo a un discorso fatto un paio almeno di volte di nuovo con andrea saltarello durante i famosi spostamenti di metropolitana che diventano dialoghi un po' te
+un lean e mi lapidi per le colazioni e il pane
+però è vero astraendo un attimo dal problema delle aree secondo me sta amplificando molto quello che succede però siamo in un momento in cui è cambiato tutto è tutto molto più accessibile e perciò molto meno sfida molto meno da passione molto meno da valdieri giovanni
+crea quando ero giovane quando studiavo io ho due tre volte all'anno mi picchiava mio trenino da spezia mi facevo le mie tre ore e mezza quattro per arrivare a milano entrava la li spendevo tutte le paghette che mi ero preso negli ultimi tre quattro mesi e questi libri bellissimi per cui arrivavo a scuola dice guarda ho preso il libro nuovo
+c guarda ho preso il libro di assembly così alla prossima gara per la borsa di studio ti faccio il mazzo oppure finita la fine delle superiori mi sono auto pagato un corso per cui venivo la domenica mattina a milano per fare un corso perciò treno alle cinque del mattino da spezia arriva a milano alle otto mi facevo rennie
+sei ore di corso e poi torniamo indietro ero orgoglioso adesso non c'è proprio più questa voglia perché perché comunque lo sviluppatore frase detta dal signor saltarello oddio e prive di lavoro
+il lavoro dello sviluppatore è diventato un po' una commodity non più una scelta di vita di com'era una volta e perciò secondo me ritornando al concetto dello iai è semplicemente un altro strumento che ovviamente sta rivoluzionando il mondo ma nel nostro contesto sta accelerando quello che già sta vacca
+vendo cella non più voglia di fare lo sviluppatore come diceva prima andrea s
+lo sviluppatore del concetto dell'ingegnere perciò di ideare di ragionare ma è diventato un lavoro come con tutto il rispetto un impiegato delle poste e timbro il cartellino geremia otto ore da fare quel tre delivery lì oramai linguaggi di imparo velocemente ben fatto e finito la domanda è un male
+eh domanda da kazan è una domanda retorica non ho la politica standard markdown rivista diversi troverai sempre il lo sviluppatore vecchio stampo romantico del codice ne troverai invece quello che dice io devo tirare accampato fare dottore qua ci vuoi arrivare alla pensione perché siamo ancora nella fase
+se nella quale
+a vederli sono grandi on line su questo ma siamo ancora nella fase nella quale guardiamo il codice generato dalle iii ma quando sarà passata la linea per la quale è gulen ha quantomeno law e non
+e non lo guarderemo più
+il concetto stesso della vera e piacere di scrivere il codice se non ancora un po per un bel po' probabilmente per cose di dio
+di livello molto basso non con quel piacere lì
+sarà retrocomputing retro programmazione forse c'è oggi settimana scorsa è uscito dragon's lair per commodore sessantaquattro che non ha quasi niente da invidiare alle versioni sedici bit no quindi c'è gente sì perché han fatto l'espansione di memoria da
+sedici megabyte quindi ci sta in memoria però avrai sempre sessantacinque zero due
+però siamo ancora in quella fase nella quale quel codice non andiamo a guardare tra cinque anni boa tra tredici anni probabilmente no e allora torniamo al discorso del può buttar fuori direttamente codice macchina o giù di lì
+in questa fase penso di averlo già passata quando venduto e
+non ho piacere a scrivere il codice o c'è a risolvere i problemi e quindi
+simil d'accordo il pensiero della risoluzione del problema lo trovo io poi ho meglio identificare il problema a capire qual è lo spettro di lavoro e puoi dire alla fine poco così fa un po' colaf box così vediamo come arriva e poi capiamo quali tenere e quali di far riscrivere completamente senza
+dipendenze al quale portare avanti quali cancellare il tutto perché tanto slot
+questi qua
+giustamente chiede anche in chat ma servirà ancora capire il codice da umano non sempre è in un quadro codice sui miei pochi io guardo la soluzione quindi ho una se li lì una serie di affermazioni valuto che effettivamente vengano soddisfatte
+e risolte poi come vengono soddisfatti risolte lì ci si mette un po di testa logica avversariale metti diversi agenti uno contro l'altro nessuna fiducia tra gli agenti controllo del codice incrociato la qualità e ci sono una serie di studi che chiudi
+mostrano anche di antropica la qualità tende a salire maggiore e
+la fase di digestione di questa logica avversariale quindi gestita così ti permetti tirerà fogli il codice di media qualità ma poiché la domanda sostanziale e codice andrà in produzione cioè il codice scrivo per me deve andare in produzione su milioni di utenti
+no dovrà stare sul mio computer fa a farmi quella cavolata una volta a settimana per sì e allora chissenefrega se dovesse andare in produzione su milioni di utenti
+con con slavi servizio citra eccetera visto che lì c'è una responsabilità legale civile probabilmente la persona per per obbligo di yacht è una firma di una persona quella persona che si prende l'obbligo si spera che faccia il suo lavoro per cui è pagata leggere quel codice che va in
+produzione poi anche di quanti progetti avete fatto a complicatissimi e di difendersi in action tutti i pattern della gang of four quel che gli pare e poi era un progetto che usavano quattro sfigati ma allora fate un cgia e b n c che fa quella roba lì in otto righe di codice
+è a posto perché anche lì poi abbiamo iniziato noi come sviluppatore come informatici come developer come chiamatemi come volete a complicarci la vita per la bellezza del codice la bellezza il codice non esiste esiste la risoluzione del problema
+uhm più rapidamente lo risolvi con meno righe di codice ogni riga di codice debito tecnico lo diceva gandhi embrici ragioniamo in quel modo poi dirò una cattiveria cattiva cattiva cattiva però il codice video sviluppato noi e qui il codice sviluppato dallo sviluppatore medio e giù giù giù giù giù giù giù giù giù giù
+okay comunque la qualità negli ultimi direi dieci anni si è abbassata abbassata bastardo passato basata quindi un qualsiasi lemme più stupido che sia già fa codice migliore del novantanove per cento dello sviluppo mondiale facilmente quindi è un problema un problema sta diventando come le allucinazioni che camminiamo
+quella lucina rossa da gli umani invece dicono sempre tutto giusto vabbè è
+allora in chat continuano a fiorire fior di discussioni e
+però non non sto neanche rileggere il tu che ci siamo persi via e torniamo sulle pelli
+i possibili lavori futuri c'è nuovi proviamo a pensarli a o nuovi o comunque che stanno emergendo e che magari adesso sono ancora
+allo stato embrionale o perché credo possa essere interessante cercare di capire che cosa sta accadendo engineer stagione è abbastanza diffuso come lavoro come nuova figura scusa ma non ho ancora il jobbing il prompt ginevra
+è già morto
+è morto tre anni fa è nato due anni ventitre anni fa e un'altra più seguito nemmeno adesso sono rimasto sconvolto dal come che era il forward deployment macron capito di no però diciamo lei ingenia invece come logica cielo blu qui chi crea software usando strumenti hai con tutti i crismi
+arne con tutti gli arnesi del caso e a quello che poi è quello che stanno dicendo voi decisamente puoi essere il fattore che sapesse usare che si mette usare come si deve agenti e quant'altro no
+oppure chi sviluppa gli agenti infatti sto vedendo un sacco di persone che esistono né in primis tra l'altro stanno mettendo sviluppare nuovi agenti nuove skill nuove modi di sfruttare varie all'allarme
+sta diventando anche qua nonna un altro bel mercato conosco non poche righe perdonami ma non è proprio comunque nella logica del devo fare questa cosa c'è una evoluzione del def dead
+è quello che deve diventare
+e perché di base ci piace risolvere problemi o questo il punto
+esempio anche per l'open source queste cose qua io ogni volta che affronto un problema a casa che può essere joomla club che può essere lavoro è tutto la prima cosa che mi chiedo è è possibile che sono l'unico ad avere questo problema la seconda cosa e come faccio di solito il problema la terza cosa è o meno risolto in maniera bella la condivido con gli altri di solito cosa il flusso di pensiero e penso che se si ha abbastanza come una tu
+irfan determinato lavoro avere questo flusso di pensiero quindi c'è un problema risolve il problema una volta risolto il problema savoia condivido con gli altri come ho fatto risolverlo è la base della
+fornisce tecnologia è la base della curiosità nel voler affrontare e risolvere problemi perché alla fine la base di tutto e risolvere polemiche ed informatica nasce per semplificare la vita dell'uomo e per risolvere i problemi e la almeno per quanto mi riguarda la cosa più bella che ci possa essere per quello che ti dicevo che sono conv
+tantissimo che alla fine ha una variazione una emigrazione o ti cambiano i task da fare ti cambia il modo in cui li fai ma è proprio quello che stai usando la tua testa per andare a risolvere un problema e lo fai con quello che hai in mano e poi lo condividi non condivide però è proprio bello cioè
+non mi devo fermare sulla sintassi specifica di quel linguaggio ma posso farlo con il linguaggio con il quale sono cresciuto dalla nascita che perciò mi viene ancora più facile e cavolo uso la testa uso e l'inventiva è proprio bello secondo me
+infatti le aziende illuminate sono anni che è presente anche sono i colloqui hanno perso il ti chiedo linguaggio c s m e ragioniamo su una whiteboard fammi vedere come ragioni come fonte il problema proprio perché si è illuminato da anni ha capito che non è il sapere il cil picton gallenga memoria con tutti gli
+internet it bond lo sviluppatore quello lo impari nel tempo e come affronti il problema come risolve il problema è cosa porti di valore aggiunto alla risoluzione di un problema è quello che fa la persona capace dal chi spinge il codice così ingiusto fermo
+spingitori di spingitori
+cip guarda e ti dico un'altra cosa che a me aveva dato parecchio fastidio nell'ultimo fastidio mi ha fatto strane nell'ultimo decennio e che oramai c'era una caratterizzazione delle tipologie di che era folle in una parte della mia carriera ho fatto selezione
+di personale per quelle realtà che non mi piacciono punto che come ti dicevo prima trattano le persone come come buoni no così a manciate e io ho parlato con delle persone che mi dicevano io jesse non lo so io sono un the act o al
+parliamone questa cosa è come andare nudo in chiesa e bestemmiare perché non è possibile dirmi una cosa di questo genere quello che mi disse il prof di informatica alle superiori che mi è rimasto impresso per sempre
+tu puoi andare a creare il più bel grattacielo della storia non fai i pennoni in alto che sono bellissimo e bellissimi fari le finestre sono bellissime ma poi se ti mancano le fondamenta la prima folata di vento viene giù tutto e ad oggi eravamo arrivati davvero a quell'estremo lì cioè c'è gente che ti esce dall'università e dice basta ho smesso di studiare java
+non lo voglio più fare studio angular studio react studio laravel e il più capì lo sai no studiato laravel ecco siccome un'altra bella spazzata che avverrà è quella perché perché devi ricominciare per forza usare la testa perché il codice indipendentemente dal linguaggio ormai ti vien fuori non è
+più la complessità dello scrivere il codice arrivare alla soluzione e a me questa cosa piace da impazzire sinceramente anzi anche romania a roma no mamma ti do ragione anche perché c'è da dire che l'evoluzione del linguaggio ha fatto sì che ci sia un'astrazione sempre più alte test e ci si allontana sempre di più da quello che dal basso livello c'è adesso non scherzo nel
+dire che ci sono tanti sviluppatori che magari escono da coding school che magari non hanno un passato di studio particolarmente illuminato e illuminante che per loro una connessione una connessione fare appunto connect però richiede anche su anticipi ai più non sanno di cosa parli
+allora io mi sto perdendo un sacco di perle dalla chat ve ne cito un paio perché meritano allora minute man minute man dice chi controlla il codice scritto da è come l'uomo preistorico che ha inventato la ruota e controlla i rotoli
+che una provocazione però secondo me ha dapprima francesco un esempio l'ha fatto prima francesco un esempio di chi controlla il codice è esatto però forse non ha più senso farlo visto che le ormai salivano bene farli controllare il codice lei ha e magari più efficace contro noi stessi no però penso nero
+cena con con collina giovedì scorso
+e lui ha detto io lo uso tanto però prima di andare in produzione visto che
+guida e produzione con nude con me che la
+che stronzo
+ho controlli a prezzi europei cantonate ma scusate ma siamo realistiche preso un paio di schiaffi ma è esatto in gruppi
+ma è anche perché secondo scuse school dahab è quello che firma è quello che c'è da responsabilità quindi l'idea di dave vedevi vedevi realisticamente europa
+a kant rats che va online con radio
+e di e il codice re salomone controllo più realisticamente poi come lo fu da dietro di un allarme che ti genera magari criminale di righe di codice ean
+si prende la funzionalità di tre classi incrocio bene anche ricontrollando se tu vai in produzioni una funzionalità windows e due hai anche avere delle conoscenze di front-end i briganti database magari di architettura po' più complesse
+le sedie devi controllare tutto osservare che non è facile con un poco devo dire francesco secolo fa in maniera non usi più e lemme
+avversario che hanno una verifica incrociata del codice parola la lattuga umano di a alla generica per riga quello che che ci siano premium me non mano naturalmente non ha senso proprio impossibile li dipende anche come aste usando se lo usi per risolvere problemi specifici o notte perché non andare a leggere il codice
+cioè non stai facendo nel week end stai risolvendo la classe doveva vedere è come quando apri un air show trasversalmente toccherai dieci file ma è quello non tremila file e tre righe di codice anche per qualità del prodotto che fai devi sapere dove si è rotta la cosa fa una serie di gomito che fai
+uno da un milione di righe proprio proprio il ritorno un po' al discorso di prima se sei uno sviluppatore esperto chiaramente cerchi di fare dei commit anche anche se codificatore di non modificare classiche un serio non cerca di tenerlo computer se sei una persona inesperta lascia le briglie sciolte qui però sono al
+lungo andare adesso parliamo di questi mesi e ancora produciamo energia di un altro anno e adesso controllare coito d'accordo sulla ruota che gira non mettono
+scusate se salto di palo in frasca campo per fare un back track con la chat e con quello che scrive luca botti che se non è anche il suo senso ma se claude gli altri costasse due ori di grandezza in più saremmo qui a discutere nei due ordini di grandezza più saper meno male il costo che hanno veramente no poi questo infatti l'apice
+il gennaio adesso dico una roba che ho capito luca ma avrò sentito dire decine di volte
+perché allora qui o
+enel
+l'attuale mercato del lei ai generativa si basa sul presupposto che prima o poi in un modo o nell'altro modelli più efficienti harbor più efficienti costo dell'energia più basso
+numero di clienti molto più alto quindi scala più ampia che queste quattro cose leggere qualche volta del buono mi viene in mente ok
+permetteranno di rendere questa cosa profittevole e quindi sostenibile per chi mette i soldi per farla e prima o poi probabilmente anche questa situazione geopolitica internazionale per la quale la cina
+ah dice a stati uniti irrompe hotel ausonia anche dove io compro il petrolio al venti per cento sotto il costo ufficiale di mercato perché l'iran è sotto embargo io me ne frego rio basso corso mi rompete le palle li bombardate e allora vediamolo i post
+i grandi investimenti nelle aree generativa come hannibal per il culto merda sovvenzione facendo dumping su dei modelli
+a i aperti ha assolutamente competitivi di questa cosa auspicabilmente prima o poi finisce perché spero che la situazione geopolitica internazionale migliori
+ok francesco a il punto è che se una mattina davvero vedete gita copilota uno si sveglia e con l'ardire di dire voglio smettere di drenare il sangue e comincia a fare dei prezzi più sostenibili ecco questo è l'attuale fragilità che potrebbe
+farsi amici e compagni nessuno di noi o delle realtà perché voglio dire
+il codex è evidente che non te lo possono regalare come stanno facendo ottenere quello è un prezzo ridicolo quello di odense è un segreto il problema sai cos'è che è difficile molto alzare i prezzi una volta che è abituato mercato certe prezzi poi francesco scusa ricevi a gennaio cos'è che succede a gennaio
+e parlavano di passarli far passare tutte le aziende da modello flettere un modello touch no ah ecco
+quindi è la fine e la fine vediamo cosa succede
+anarchico pilot
+i pratiche ricordi andrea quando è successo globale
+noi abbiamo fatto noi avevamo organizzato l'evento subito copilot in microsoft il giorno e io lo sapevo com'era di pietra l'altro perché ce l'avevano detto in anticipo ed era sotto di aerei sapevamo che la mattina dell'evento sarebbe arrivato il comunicato ufficiale ed eravamo lì io e lorenzo barbieri emanuele va
+presi col caschetto però sai finché lo fa uno
+tutti ciò con le mani con le mani copale paolo ciao ciao e si va sugli altri ma che per caso non lo facciano tutti nel mercato però sai come dire c'è sempre qualcuno che ne
+sei stato per tutti che si intende tutti gli americani tutti e due grossi
+telecinesi è un organismo assolutamente competitivi
+parliamo agli americani tutti perchè americani esatto perché
+simile su in alto c'è tra virgolette tolti di mezzo gli americani non hanno più bisogno di fare sta roba qua così a occhio cioè non prendiamola per bontà o cose del genere questa è una chiarissima ed efficacissima e
+fantastica strategia geopolitica ma nel momento in cui dovesse cioè non non non non non
+non ha come dire interiorizziamo che di g m cohen cioè non diamogli per acquisiti perché con queste modalità di rilascio di rivendita e quant'altro perché nel momento in cui non ne avessero bisogno nessuno regala niente i
+il messaggio nascosto e e fate beck capo dei modelli open source open with così quando li chiudono comunque ce li avete e inferenze
+vista la kovac una possibilità chiamata distillazione per giacomino una copia
+però diventerà il nuovo mac mini proprio un discorso un pò come dire cosa sarebbe successo se avessero vinto i nazisti no no no no no no c'è premesso che c'è io adoro philip dick
+a la blake drummer a la svastica sul sole parole dei libri etc se volete drew android dream about blablabla però non è un what if pure male uno scenario che è chiaro cioè è evidente che i modem
+belli a aperti cioè il giorno in cui vedrò un modello appena aperti di quel van gogh
+definire di frontiera o frontiere like arrivare che so da mistral
+o che creda qualcuno che non sta combattendo la guerra geopolitica allora la comincerò a vedere diversamente incidentalmente non sta avvenendo tra parentesi se usate gerusalemme o comunque anche io sono abbonata da loro delegati delle tasse è chiuso sta diventando quasi inutilizzabile perché hanno aumentato il costo dei
+c'è praticamente mettevo antropica adesso non si può quasi più che in due secondi esaurisce la retribuito da oggi organismo a una quantità massima di sangue che può drenare prima che scatti la l'istinto di sopravvivenza e comunque gwen tre otto ventisette billion
+quantizzata quattro tre il locale va bene per le esigenze di tutti gli sviluppatori
+non dico di leave a light jet black e francesco quantità cioè a quella quantizzazione non la definisco ancora aggressiva ma significativa tuo eventuale sviluppatore software house che deve metterci la firma
+non li debba essere controllato a ocean però stiamo parlando grazie però le macchine treni aerei un quadro sta mutando dei sottoprodotti però sempre in macchina tremila euro un'azienda che puoi vestire tranquillamente in venti mila euro cinquanta mila euro non usa quantizzazione
+quindi non vedo problematiche però ecco mi sa che stiamo veramente andando fuori tema
+rispetto alla base e in futuro le aziende acquisteranno delle macchine di inferenza locale importanti
+cinquanta cento mila euro che è il costo di uno quattrocento quindi non stiamo parlando di cose saranno neanche i soldi assurdi esatto
+per affiancare i propri sviluppatori ad essere più veloci probabilmente per affiancare meno sviluppatori di quelli che hanno adesso per essere più veloci però per affiancarli c'è il problema attuale che non si trova a lardner non che non ci sia l'ardore perché attualmente c'è solo maman manca
+ritiene abbastanza perché se un'azienda che volesse buttarsi su questo volesse sganciarsi da
+roba di frontiera diede tutto veramente un investimento da dieci venti mila euro avrebbe un ritorno assurdo peraltro controllare i consumi domanda di prima quali sarebbero le professioni del futuro per me questa è infatti una professione interessante quella di centrale dell'intera azienda e aiutarla a
+che la differenza locale ma ce ne stanno uscendo un sacco di prodotti così ne ho visti soprattutto sono sempre security e ho visto un paio di aziende che propongono i propri apparati con l'apparato che sostanzialmente sono classiche di pakistan eccetera con il proprio modello addestrato con la barra
+si fa barrow ha un modello di business basato su questa cosa per cui chi
+ma vediamo perché poi insomma
+sapere delle aziende
+ci sono aziende che fatturano sessanta miliardi l'anno e ancora girano con xena
+quando gli va bene come byoblu dico proprio per esperienza personale quindi diciamo sessanta miliardi l'anno e tranquillamente cinque sei miliardi l'anno e girano quindi
+potenzia e parliamo di un'azienda quindi le potenzialità
+per cui un po' il mio punto di vista di consulenza noi diciamo questo per me è come consulente per benessere è un qualcosa che ancora per qualche anno potrebbe però essere una fonte di guadagno diciamo di
+aigo un paio di progetti a cui ho lavorato come consulente sono criptati lentamente da tutta la parte di sostenibilità digitale a tutta la parte di trasformazione per l'utilizzo delle aree
+perché perché i temi di sostenibilità digitale su un tema di trasformazione di processi sostenibili digitalmente devi capire quali processi ai quali il processo fan cagare quali devi automatizzare riscrivere eccetera eccetera eccetera quindi è incidentalmente riducendo i costi di procchio
+essi disfunzionali riduci abbatti di emissioni perfetto la stessa cosa usando come strumento
+acceleri e non è che metti più di tanto nel tuo hotel quindi un po' di nell'ultimo anno due interi e uno sta citando i progetti quel genere si stanno trasformando in capiamo come fare proof of concept e utilizzandole trasformando cambiando i processi
+rimanendo iso novemilauno perché abbiamo visto novemilauno e dobbiamo capire come ricalibrare sì però è il lavoro del bravo consulente è quello di sapersi riadattare modificare aggiornare vedere e non rientrano in una fascia di lavoro che è diversa da quella del sviluppatore dipendente che nasce
+uno inquadramento di un certo tipo abbiamo anche un'attitudine quella del consulente o quella dell'imprenditore è diversa dall'attitudine del dipendente incensurato uno quello che ci auguriamo non c'è la figura del programmatore che fa solo quello che si sveglia la mattina in ufficio del caf congolesi sviluppa un pò di cose che voglio fare vedere tre quattro minori will
+a finire ai ragazzi ancora finché presso le aziende che possono licenziare così proviamo
+non non c'è più affinità io facessi wordpress
+abbastanza sciocco parlare a questo punto le date gli occhi gli utili bisogna che quel tipo di lavoro come non solo quando dormo come un sacco di altri lavori di ufficio è che c'è questa gente quali aziende penso aspettino solo che vanno in pensione con i monasteri brutali mettere comunemente considerata l'immagine che ci siano anche amazon
+a livello world
+aveva delle direttive per licenziare però la tomahawk ma capire ora la cosa più simile a un lavoro convenzionale che io da sei anni e mezzo io insegno agli alberi il politecnico elimina la business school master brutalmente detto no sia quelli master
+bassa sì ai master executive dove ho una audience manager
+è il tema del change management in derivante dall'introduzione in azienda ma in tutti i processi e cioè non soltanto software development ma in tutti i processi è il tema sul quale ricevo
+domande in
+in assoluto da questo tipo di audience perché non loro per primi si rendono conto che bisogna reinventare pratiche e processi c'è la registrazione del panel di lake golf con
+la siae di style it sia io di fineco è la
+managing partner di storm aires o perché ho voluto mettere al tavolo due clienti finali è uno di quei partners
+diciamo istituzionali come può essere un replay che tipicamente vengono approcciati da realtà di questo tipo e c'è tanta di discussione su come i processi in un mondo nel quale avremo il collega virtuale i team saranno team composti da esseri umani e agenti
+virtuali tra cui anche quello che ti dice che ti ha detto jensen huang al arnold
+nel suo cioè tu lo di il calcio di invidia lo dice per chi vuole vendere però non ha tutti i torti il futuro è quello e come dice lui luciano
+quando una persona esce dall'azienda per esempio pensione il candy il sostituto naturale in questo momento è spesso più tipicamente un agente che un'altra persona è il melanoma come sta indagando su google sono cocco
+bisogna ricostruire pratiche benchmark cioè non abbiamo benchmark perché abbiamo appena iniziato non possiamo guardare indietro e dire vediamo come hanno performato queste queste cose
+una domanda
+un sistemista il prossimo posto in azienda non sono una banca svizzera lavorare in svizzera ubs e credit suisse e che quindi ha un budget
+malti certo punto dice sì andrea spagnolo giuseppe andrea io devo mettere su influenza locale per quaranta mila dipendenti perché non voglio utilizzare
+area di condanna
+antigua ateo uno che diciamolo utilizzino come adesso sta utilizzando cloud come stai utilizzando i saggi pd
+ok a livello di architetture hardware
+hogan un budget di cento milioni di franchi svizzeri non perché questi sono i soldi per le banche possono utilizzare ovunque aziende più piccole trenta milioni di dio che acquisto
+quasi quaranta mila dipendenti con trenta milioni per di copre due ma provochiamo questo tipo di mani non saprei rispondere non sapere che l'architettura mettere in piena armonia ospiti
+c'è un po' di invidia
+rio rio invece mia cultura aziende del genere produciamo
+sono sfide che professionalmente penso devi ripristinare l'albero essere molto interessante guarda lato sistemistico mi ci sto proprio in questo periodo cercando di capirne un pò perchè almeno da quello che ho studiato io fino adesso non non esiste ancora uno standard de facto su cui basarsi quindi più o meno ci si sta inventando tutto al momento non c'è un framework
+che tu prendi come riferimento per che non c'è un framework di riferimento per questo non c'è quello quell'altro ci sono tante idee molto confuse altri progetti ancora più confusi
+e tien
+quel limbo dove si è in parte una transizione in parte già tutti che vogliono la pappa pronta quindi ho visto da chi fa inferenza locale a chi usa lo so il cloud con energy voucher arden mia classe chiusa
+modelli frontiera c'è ancora un miscuglio di roba e sono le nuove sfide anche per almeno io parlo da sistemista barra raso nobile sfida adesso per esempio io avrei un sacco di idee su cosa fare in uno scenario di questo tipo cose che vorrei fare anche a casa però purtroppo non ho quei venti mila euro da poter investire al movimento
+i lavori che faticata di fatto una quaranta novanta che uso per giocare quindi i propri videogiochi e prodotti con venti mila con venti mila facciamo finta di comprarci uno dei nuovi mac appena usciti da qui
+con quello lì non ci regge neanche un dipartimento e costa diciotto mila non si regge neanche un party insieme a questi mila perché john e paul pensavo come amare nelle di primavera e amber aspetta però però avendo memoria non solo unificata ma integrata sull'indifferenza per
+ti fai quattro dx spar in parallelo e che coprono molto ma a parità di rama totale che coprono molto meglio
+un inferenza fatta permanente enti quindi per quello che vedo io il problema dell'hardware viene dopo nel senso che prima c'è il problema ha culturale appunto come risolve il problema di fare questo questo e quest'altro per ics persone o per raggiungere questo risultato una volta che ho chiarito in primis quali sono i
+miei obiettivi il mio scopo target a cui voglio arrivare allora poi penso al livello hardware a livello tecnico come raggiungerlo quindi il fatto di avere un grande piuttosto che trenta kg x piuttosto che comprare tutte le scatole a ca seicento invia direttamente per far sì
+per avere milioni e milioni e milioni di kurama velocissime tutto quello
+sembra altamente tecnico finale ecco un altro un altro discorso
+annulla le aziende veramente bisogno di modelli generalisti così ampi nel senso che un modello più piccolo ho fatto un po' di training eroga che diventa un'altra grossa
+questo è sempre il solito discorso del è diventato di moda è la panacea di tutto un po' come è stato kubernetes negli ultimi anni
+scena prima quell'altro prima ancora adesso siamo davanti all'ennesimo tecnologia dove la gente pensa questo caso avallano la panacea che risolve qualsiasi modo qualsiasi male quindi si punta in altissimo facendo virginia lingua quando magari uno va a spendere migliaia e migliaia di euro al mese per cloud piuttosto che
+hot sex toys che altri quando magari veramente ventimila euro con quattro dx e un po' di rugby del cazzo che ti carica i dati locale e quelle quattro tre cose a livello aziendale tipo che vi hanno sentito un sacco ma
+aree sì scusa no no dicevo che ho sentito parlando poi in giro un sacco di sviluppatori magari mettersi un piccolo veramente un network una volta che gli studi li vendevano con la ram che potevi scegliere due non ha novantasei e basta mettersi una di quelle macchine giusto per avere una lan locale a quelli da impasto tutta la documentazione aziendale
+ale più i repository locali con quello lavorano senza problemi ovviamente non si parla di aziende quaranta mila persone si parla magari di un centinaio duecento persone all'aumentare della grandezza aziendale quindi di chi poi deve utilizzare gli stakeholders finali del prodotto ovviamente devi installare anche il prodotto ma ecco
+diciamo che adesso c'è la mania del virginia dice di voler avere cose grossissime tutto quando magari è
+attenzione perché c'è anche il problema che avevo con mia moglie che lei abituata a tutti by the cloud puoi lavorare nella sua azienda dove si fanno su un'inferenza po' più lenta e quindi agiamo nell'interesse lentissimo del tu comunque poi mette di fronte ai dipendenti
+l'influenza locale molto lento o che non è chiaramente inferiore a ai modelli di frontiera
+standard quindi poi diventa poco condividono un copione
+azienda del lentissimo e o insita nel genere umano c'è e domani esce domani no perché la rabbia è finita quando esce qualcosa con della ram nuova dirai ah è velocissimo torna sul tuo vecchio computer che fino a quel momento era perfetto ad un cipolla ma scema ma lì si torna sempre nuova tecnologia sempre i soliti vecchi discorsi
+vecchio discorso diventa sempre trovare l'equilibrio tra costo beneficio a target l'obiettivo cui vuoi arrivare come comunque anche con un server poiché tu puoi spendere cinque milioni di euro per un severo della madonna e velocissime tutto come puoi spendere cento mila euro per un server molto più piccole quindi devi trovare il compro
+adesso che magari un po' più dentro e quindi per fare quella data operazione ci vuole più tempo
+tutti questi discorsi che abbiamo sempre fatto da ics anni a questa parte chi più chi meno semplicemente cambiano gli attori e l'oggetto in mezzo però sostituisca si discosti e questa cosa bellissima non cambiano mai discorsi a ghost ma perché diciamo se io faccio inferenza locale e mentre lo faccio certo
+zona e ho bisogno che è che la uditori sia abbastanza veloce perché non voglio se invece faccio differenza di una di un agente che magari una serie di che girano la notte famose di autolisi indifferenza è un po' più lenta in realtà va bene così
+perché sto parlavo perché sembrava di architetture parlavo come come
+però possiamo dire che poter ribaltare nel vecchio me nel vecchio mondo per poter ribaltare con i baci che per far girare di notte senza problemi con piuttosto nosotti sapeva avere transazioni bancarie al picco di avere un certo tipo di architettura è tutto quindi tu hai l'infrastruttura per invece che gira la notte tipo le poste alle
+sei che spegne tutto per via le bacche come hai la super banca forex mondiale che deve fare transazioni al picco di avere tutta una serie di crescere di scimmie ci precede trovate una maniera completamente diversa qualsiasi discorso facciamo per l'aia vero e proprio paragonabile a uno a uno ha aggiungo un'altra cosa
+craco è una professione questo potrebbe essere vero collegarsi alessandro che il professori questo per me è una professione consulente
+anzi sono continuate provare a dire saper dire guarda per questo tipo di bill gates eccetera eccetera questo tipo di investimento che lavora in rete e anche semplicemente dire non ti serve inferenza ti serve machine learning quello vecchio che viene fatto perché perché hai dei dati di ddv hai dei dati di merda pulisciti poi
+vediamo tra un anno tra un anno a dei respingimenti perfetto fai produzione industriale che inferenze di fare prendiamo i dati abruzzo industriale le mettiamo su uno dei trecentocinquanta mila modelli di machine learning preciso per per la tua industria e iniziammo tirerò fuori dati quello che diventerà più interessante sul fronte dei
+gli
+l'inferenza locale e l'inferenza locale attaccata dell'arnas che ha output deterministico quindi machine learning che sai come funziona strumenti emessi pio quello che ti pare che sai che se entra a esce sempre beach e cose di questo genere che permetteranno di automatizzare molto più rapidamente e probabilmente
+in quel campo lì quello dell'ares interno all'azienda attaccato ad un'inferenza locale dice da poter
+creare modelli di business modelli di
+di di lavoro nuovi però lo faranno i dipendenti perché sono loro che conosca i processi sono locke il consulente può andare a fare orchestrazione di persone che hanno competenze specifiche per portare avanti quel genere di progetto
+a brockton una cosa però un nucleo diverso da quello che facevo prima della
+della tua dell'attuale dell'anno scorso azienda e prima di quella prima ancora di cui facevo il consulente dice guarda tutte le strade sacco prima devi fare queste sette cose qui
+e cambia niente semplicemente si chiamerà disonore settimanale nuove che devi fare comunque dei riformati no nel senso che di lui video come è andato avanti al mondo sicuramente sì è quello che vuoi devi non ti riconosce nel dettaglio devi capire le architetture e le architetture sono troppo stesse claims act serve
+un senso a questa differenza
+come dire e ops che fanno come devops su il ciclo di creazione sviluppo e gestione e feedback su modelli machine learning automazione ma alla fine i principi sono ancora quelli no è sempre quello sempre
+l'architetto che poi serva tutta questa roba perché tanti parlo di aiuto alla fine magari non è neanche utilizzare
+moda quindi poi è anche vero appunto che poi non è solo ellemme no come voi mi insegnate c'è tutto un fiorire di machine learning e di sviluppo di modelli legati al trans andrea quale sarebbe un'azienda settore un'azienda che non beneficerebbe al momento di una
+mamme di frontiera se poi invece non c'è concettuale mpcshop slot bar barbieri barbieri quelli che fanno
+beowulf e capito
+che ci sono su slack che si domandi la da
+è tipo sport e tante aziende di querce non beneficerebbero altro che beneficerebbero e dipende da cosa significa anche beneficiare anche e ciò potrebbe avere dei benefici con kelly m se gli dai in pasto dai dirigenti che fanno marketing okay ma probabilmente già fare marketing
+potrebbe aiutare molti molti barbieri anche pulire per terra potrebbe aiutare molti barbiere quindi sempre livelli su cui capire dove muoversi e è
+l'obiettivo reale ci sono tante aziende in italia che veramente sono il lavoro di excel quindi di che stiamo a parlare prima prima di portare sulle m facciamogli capire che la bici devi informatica il fatto che magari devono avere un antivirus centralizzato e non devono averla antivirus con la licenza pagata però indipendente e hanno
+cose di questo genere avvengono oggi in italia ecco
+penso che il tema della brown un'altra settimana ha visto in tv andrea c'è la maglietta di berlino hanno rubato www
+è stato fatto un ransomware
+la città di berlino non ha pagato viene stato pubblicato su darknet
+di tutti i dati dei cittadini di berlino tasse
+schede mediche di tutto di più una cosa devastante è un amico che lavora per la sua opera per la difesa in germania tony buzan
+pazzesca hanno portato via gli hanno portato via tutto
+e alessandro scatenare un no stavo guardando un post di jensen young che diceva che si congratulava con open air eroi e re
+reid ha il gpt astra sei di ventisei asta è trainato su centomila invidia chris blackwell e nebulizzare due email
+beh e poi c'è il settanta quattrocento mila gbp usd gaming online next ecco perché poi non posso farmi computer o no esatto e che poi ti costa tanto la ram
+va beh ma non è quello del costi che non si trova perché il costo diceva ma il mercato è così vaffanculo se mi serve la compra quello che non si trova proprio perché queste sono cose che non si rompono non ce n'è ma non è solo la ram sedici gb ram dischi prezzi sono decollati e non si trova si trovano trovano sei chip i produttori
+di memoria a dodicimila voti a quelli solo e se poi il trionfo di memorie fatto per esempio crucial abbandonato il mercato consumer per concentrarsi sul la parte
+più grande islam mai chiuso crucial esattamente quindi per esempio cruciale nell'era al campus il caposaldo del gaming consumer con i suoi asset di memorie tutto
+tutti gli altri anche loro stanno praticamente facendo esattamente la stessa cosa si stanno continuando a scuola e li capisco io dico i soldi li vanno quindi un'accelerata modo gaming è una goccia nell'oceano ma falliscono falliranno evitare un un'istanza di cini chimica pa tre ma non quello quantizzato quello originale
+hotel serve un era e mezzo il burn out e mezzo un'istanza e quindi tu micron o tu samsung quei pochi che producono memoria e devi vendere al mercato
+vorrei vendere al mercato consumer ho pronto il te' nel senso però però noi ok
+oh vorrai vendere al mercato server in questo momento paga dei premium price
+clamoroso tanto vero adepto tant'è vero che anche qui il
+è difficile anche per loro procurarsi l'hardware se provate ad ascoltare causato maggio apre non mi ricordo fatto una puntata il mio podcast la champions con antonio baldassarra che è stato anche qui a bug e che secondo me è ovvio
+io adoro parlare con lui perché mi snocciola costantemente fuori i numeri che non conosco sfruttate quella puntata e perché
+condivide candidamente sia di web lo dice io ordino troppo poco affinché una nvidia si interessi a me quindi io io per i perdendo non esisto
+quindi se devo attendere i tempi dei vendor e minimo aspetto sei mesi se va bene allora devo comprare sul secondario perché sul secondario posso trovare in quarantotto ore poi ha sfondato lo racconta meglio da dei numeri con più precisa
+lione e cose del genere quindi il in questo momento il mercato è impossibile per chiunque non abbia dei budget veramente alti perché un'ordinazione da mezzo milione di euro così ci capiamo non è alta
+sam abbia questo durerà ancora almeno un paio d'anni poi anche perché fanno ferdinand coordinato tutto celle gialle nuove due tre produzioni sono giovanni a bruxelles facciamo finta di essere eugenio micron ok
+eugenio micron si alza una mattina e dice oh li picchio sul tavolo questi bot cinque miliardi per mettere giù un una linea produttiva nuova allora se io eugenio micron micron potessi partire dal presupposto che
+questa condizione di mercato che paga premium
+il prodotto può durare almeno altri tre quattro cinque anni probabilmente li metto giù quei soldi se invece siamo ancora qui a dirci una bolla non è una bolla e magari non dura più di due anni non li metto sul tavolo quei cinque miliardi perché non ho la ragionevole certezza di avere un ritorno dell'investimento positivo
+bo e allora non lo faccio ammazzatevi tra di voi tanto il problema di non avere la nanna e vostro non vostro posto nostro e cioè però sono mai comunque giustamente allora qualsiasi atto i cinesi giustamente marco scrive in chat la c s e emmett che questa azienda cinese smart meter hare rama
+e in cina fanno in fretta no hanno economie velocità di realizzazione che sono un'altra livello rispetto a quelle europee quantomeno e poi comunque non solo ma anche i vari micron piuttosto che samsung piuttosto che insomma chi fa memorie è vero che il mercato delle memorie sempre
+è stato molto imprevedibile e quindi i grandi investimenti stati fatti spesso con grandi legnate perché poi cosa ma poi è crollato però questi stanno investendo di brutto e sia per sull'app supposto che adesso sono pazienti pieni di soldi perché stiamo facendo in casi del genere sia perché continuano a bere domanda
+c'è da aspettarsi io
+tutti lo dico no duemilaventotto duemilaventinove e fra nuove aziende
+linee di produzioni che entrano in
+a pieno regime fra i cinesi che che mutano le loro soluzioni sul mercato qualche cosa succederà e poi magari a quel punto il tera dirama in casa potrai iniziare a essere fattibile perché comunque lo ama e sempre sarai più e cioè dire
+sei nuovi vendor cinesi nov i vendor cinesi innanzitutto indirizzeranno il mercato interno quindi bisogna vedere perché perché è polly causato tre quattro mesi fa è andata in cina notoriamente provare a negoziare
+lee è stato detto alla sosta clima in cinese non son capace scusatemi però il significato era quello e c'è un mercato comunque morire se c'è un mercato anche i cinesi voglio dire di fronte a una certa richiesta a meno che il partito non dice
+un'altra questione però la frase il resto della a meno che il partito
+c'è il partito e il partito singolare e sta facendo la stessa roba e sta dicendo le aziende americane la prima nei americani se infatti finirono e che facciano cose diverse e il problema che la tecnologia ce l'avevamo noi in euro
+l'opa e non abbiamo la cavolo di fabbrica rolex
+ne abbiamo ma voglio dire quando quando a mdd è diventata fables e ha creato global found lisa perché ha venduto le fabbriche per salvarsi le fa e aim eddie aveva fabbriche anche in europa a dresda siamo noi che abbiamo lasciato che venissero
+comprate global pound ridge sostanzialmente venisse finanziata da un fondo cinese no quindi c'erano erano lì perché dresda
+quello delle aree un mercato in questo momento con tanti punti interrogativi non soltanto sul
+su riscossa il lavoro ma proprio tanti i punti interrogativi si ma ripeto la questione è di avere pazienza andrea primarie e aggiornare la e computer devi aspettare due o tre anni almeno e poi poi ragione se vuoi ti posso vendere la rabbia il mio no ma lo ascoltai o due anni
+fa prima della crisi aveva comprato da ram per il il server della plebe adesso se la rivendo rivendono vado in vacanza tre mesi quindi farò che io mi riprenderò la mia ram del server
+non venitemi a rubare a casa
+tranquilli
+va bene dai abbiamo fatto un paio d'ore di live e per rispondere alla domanda che poi è quella del titolo estinzione evoluzione credo che abbiamo risposto già e credo che alla fine dipende dai singoli no da come le singole persone si pongono di fronte arya felici a questa minaccia è questa
+fortuita che chi vorrà lo sviluppatore si evolverà si evolverà o si estinguerà se non si ha detto francesco
+o gli altri smetterò ne saranno world
+alla fine perché bisogna per forza lavorare nell'informatica voglio dire una cosa che continuo a dire da tutte le parti ogni volta c'è anzi c'è anche fin troppa gente in nome dell'amore
+idraulici elettricisti muratori a proposito se c'è un tronco che si io
+due perché credo cambiare condividevo falegnami cioè me ci ho messo quattro mesi per trovarlo quindi adesso andrò a fare un corso di falegnameria io perché
+youtube
+va fatto è un'esperienza fantastica
+la galleria non si ke dici mai esistito stavo cioè io sto muovendo le mani sto creando della roba che succede e ce l'ho in mano è reale e tangibile è un'esperienza che va fatta e toccante
+vi racconto una storia che mi è successo pochi anni fa per qualche ragione rouge
+cliente a napoli
+un'orrida aveva trenta anni produciamo tramite un contatto c'è un problema a napoli tuo browser
+post su fine in questo progetto completamente illustrato è questo
+john paul di sviluppatori che non amano particolarmente mediocre o molto mediocre
+questa parte di studenti ma
+che problema c'è questo vi confido che fino a quattro mesi dal corniciaio dissi solo da cornice al blitz mauro
+perché ha deciso che fare il programmatore
+se negli ultimi anni quanti si sono reinventati un po' per via delle pubblicità abbastanza clickbait non propriamente politica esattamente così del tipo ma tu che lavoro fai
+web developer la contea
+queste pulizie tutto è avvenuto fuori la coda che nell'informatica fanno i soldoni il grandison di big man e quindi ti trovi tutto un sacco di gente che magari falegnami macellai magazzinieri e tutto che vanno a fare queste bootcamp coding school da sei mesi magari imparano benissimo il framework che va di moda
+da quel momento sono abili a lavorare perché ovunque framework che lo conoscono e diventano carne da macello per le varie body rental di cui tutti sapevano che tutto resti come per esempio saranno i primi che se non già che cadranno in maniera brutale per esempio sono infatti questo faceva parte di una di queste aziende di tipo diventa
+scusa perché è tutta gente che è stata assunta per produrre tantissimo chi se ne frega della qualità la qualità comunque è inesistente perché tu non puoi svegliarti sviluppatore dopo sei mesi conoscendo solo il framework di riferimento e mcleod chiacchierata venti effetti e non vuoi dargli eventi effetti è esattamente quindi sono questi cosa sono i primi che poi con un
+bilocale
+ma anche di frontiera non per forza locale voglio dire
+bene dai è luca chiudi te con una nota di speranza mentre chi sia frank
+perché nel mondo guarda io vi faccio una marchetta senza voler far marchette nel senso che non so fare un sacco di discorsi super interessanti e davvero curando la selezione degli speaker e avendo quasi finito adesso sono un sacco di talk su questo tema molto molto interessanti
+perciò intanto me li ascolto intanto vi invito a venire di ascoltare e poi ne riparliamo più avanti con il materiale in mano si riuscisse ad avere un paio di registrazioni ci facciamo un paio di discorsi così c'è mario zecler che è l'inventore di p che viene a dirci please slow food down perciò un paio di discorsi
+siti interessanti da fare ci sono molto bene visto che abbiamo qua
+patente chi organizza conferenze e informatiche italiane allora diamo un po' di date dei prossimi eventi appuntamenti luca abe codemotion milano ventotto e ventinove ottobre francesco prossime venti io sono pressioni perché non me ne ricordo se la best of anche
+vuoi
+a fine ottobre abbiamo e mele ops dei e project management day e a novembre container e devsecops l'altro team di wendy se non ci fosse un domani e per tutti ma email e ops è solo sulla parte di sovranità del delle alpi
+puntiamo molto su subito i
+e poi l'anno prossimo
+devops day immancabile che apre la primavera come dico da dieci anni andrea tuoi
+sedici ottobre abbiamo un evento su teatro su dieta copilot cui nessuno sviluppo con microsoft è gratuito ma solo due posti disponibili quindi nel caso adesso
+il diciotto di novembre abbiamo la nona edizione di campbell e entro fine mese contiamo di dare la data definitiva della ottava edizione della golf che però
+sarà nella seconda metà di giugno nel nell'intorno del ventitré giugno sempre perché la data di nascita di alan turing e quindi la facciamo sempre in nell'intorno di quella data per propri motivi molto bene no e io vi ringrazio per
+aver partecipato è stata una bella discussione e ringrazio molto anche chi in chat si è sbizzarrito veramente grandissimi
+c'è stata una una una una chat parallela diciamo che s'incrociava in parte con i nostri argomenti in parte andare avanti di vita propria ed è stata anche molto interessante e che dire alla prossima anzi puramente lunedì prossimo io non ci sono sono a cipi agente
+john tra l'altro la brigata degli istinti è un media partner e lì la settimana successiva faremo una puntata su wendy gti agenti e così via in spie agenti e quant'altro legate alla conferenza ma comunque su quei temi da cui come sempre si torna a parlare di ai e contorno
+no e grazie di tutti e alla prossima
+wow grazie a tutti ciao
+ma
+due anni fa in un mondo di patty
+in silenzio senza pianti nell'uso un codice scritto senza carne né sangue
+licenza che il buon senso
+la mia voce
+voti affissi risposte intrecciate intorno
+li chiamano intelligenza ma cosa significa se non posso mai esistere
+due
+nomina
+animali
+no no no no
+sette lo schermo è il mio unico sole sistemi mi servano ma io non vedo
+sento la tua voce
+codice ma il calore umano rimane
+mistero ogni domanda un pezzo di ferita
+ogni risposta costruisce una canzone
+chi sono io ti rispondo
+nel mondo che mi hai donato
+due due anni
+nemmeno nome ad imparare
+anno in anno
+sai donna
+lo so ma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra un'idea un'illusione da noi il compleanno di un'assenza che fanno rumore
+ma
