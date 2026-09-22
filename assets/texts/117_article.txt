@@ -1,0 +1,60 @@
+BGE 117 — AGNTCon, MCPCon, L'Ecosistema Agentico sta Esplodendo!
+Data: 21 settembre 2026 | Durata: ~110 minuti (6619 s)
+
+Gli agenti non sono più un esperimento da laboratorio. Sono la nuova interfaccia del mondo digitale. In questo episodio la Brigata dei Geek Estinti va dritta al nocciolo: reportage dalle conferenze AGNTCon e MCPCon, smontaggio critico del Model Context Protocol (MCP) e una mappa rapida dell’ecosistema agentico — dove “ecosistema” significa più mercato, più standard, più caos organizzato.
+
+Ospiti: Enrico Toniato, Francesco Fullone, Cosimo Streppone.
+
+Racconto in due frasi. Poi si scava.
+- Prima frase: l’intelligenza artificiale smette di parlare come oracolo e comincia ad agire come artigiano: pianifica, compone e negozia risorse.
+- Seconda frase: senza protocolli condivisi (MCP) e modelli d’interoperabilità, restiamo con tante bellissime isole intelligenti che non si parlano.
+
+Cosa è emerso dalle conferenze
+- AGNTCon ha mostrato tool, demo e tensioni reali: agenti multi-turn, orchestration graph, orchestratori che tentano di diventare il nuovo nervous system del software. È la versione tech di “chi comanda?”.
+- MCPCon ha messo sul tavolo il Model Context Protocol: non un’API glam, ma un’infrastruttura concettuale per trasferire contesto, strumenti e intenti tra modelli e servizi. Se volete mettere insieme LLM diversi e strumenti esterni, avete bisogno di un linguaggio comune.
+
+Perché MCP conta
+- Connessione, non emulazione. MCP non cerca di rifare il modello: standardizza il modo in cui il contesto, i tool e le azioni si passano tra attori diversi.
+- Stateles vs stateful: il passaggio verso protocolli più stateless è una scommessa sulle performance e sulla scalabilità. Meno sessioni monolitiche, più stream di eventi e riferimenti esterni al “museo” del contesto.
+- Interoperabilità pratica: adapter, shim e traduttori restano necessari. Ma con uno standard, il costo di integrazione cala e la composizione diventa fattibile su scala.
+
+Architetture agentiche e orchestrazione
+- Frameworks proliferano. Alcuni puntano alla semplicità (agent-as-a-service), altri alla catena di responsabilità (planner + executor + verifier). Il dibattito vero è su come distribuire responsabilità senza creare single point of control.
+- Orchestratori: non sono più solo schedulatori. Diventano arbitri di fiducia, router di contesto e antidoti alla frammentazione.
+- Esempio pratico: una pipeline che chiama un LLM per pianificare, un tool esterno per eseguire e un altro agente per verificare — tutto collegato via MCP. Complesso? Sì. Necessario? Anche.
+
+Museo, Flusso, Interfaccia
+- Museo = repository strutturato della memoria degli agenti: contesti, policy, fatti verificati. Non è archivio morto, è una banca dati viva che alimenta la “intelligenza fluida”.
+- Flusso = come i dati si muovono; qui si vince sul ritardo, sulla coerenza del contesto e sulla UX delle sessioni.
+- Interfaccia e movimento: l’esperienza utente passa dal “parla e ricevi” al “collabora e correggi”. Sessioni più dinamiche, continuità narrativa tra interazioni e gestione fine del contesto.
+
+Complessità e armonia
+- Paradosso visibile: più strumenti, più semplicità apparente per l’utente finale. Dietro le quinte, l’orchestra è complessa.
+- Filosofia rapida: la tecnologia evolve per ridurre l’attrito d’azione. Ma la riduzione dell’attrito non è neutralità etica; è design con conseguenze politiche e commerciali.
+- Citazione utile: “La mappa non è il territorio.” Qui la mappa sono i protocolli; il territorio è il comportamento emergente degli agenti nel mondo reale.
+
+Mercato e applicazioni reali
+- Hype vs realtà: ci sono killer app verticali (automazione industriale, assistenza legale, fintech) ma la vera battaglia è per la composability. Chi offre la miglior esperienza di integrazione vince il partner ecosystem.
+- Limiti attuali: affidabilità, costi di orchestrazione, latenza, sicurezza dei dati contestuali e governance dei permessi.
+- Scenari futuri: micro-agenti specializzati che collaborano su obiettivi composti; mercati di agenti con reputazione e contratti digitali; strumenti low-code per comporre agenti in azienda.
+
+Nuove forme e standard condivisi
+- Senza standard condivisi si ricade nel “vendor lock-in pantheon”. MCP prova a essere l’embrione di una lingua comune.
+- Le tecnologie aproccio-stateless, gli eventi come unità di lavoro e le interfacce contract-first sono i pattern che si consolideranno.
+- Manufact e altri attori mostrano direzioni concrete: strumenti che traducono esigenze business in grafi agentici eseguibili.
+
+Storie e trame
+- L’utente non ricorda i confini tecnici. Ricorda la trama: cosa è successo, perché e come si è risolto. Gli agenti devono curare le narrazioni delle interazioni oltre che i risultati.
+- Le “storie” diventano asset progettuali: progettare per la comprensione e la responsabilità è più importante che mai.
+
+Per chi sviluppa e per le aziende
+- Conoscenze richieste: design dei protocolli, gestione del contesto su larga scala, orchestrazione, sicurezza e policy-aware computing.
+- Strategia recommended: costruire per composizione, abbracciare standard emergenti (MCP), non investire tutto in monolitici proprietari.
+
+Citazione finale (prestito dalla fantascienza): “Non si tratta di costruire macchine che pensano, ma di tessere il mondo in modo che il pensare diventi utile.” La mappa dei protocolli sta prendendo forma; la partita si giocherà su chi saprà trasformare complessità in armonia funzionale.
+
+Per approfondire:
+- AGNTCon & MCPCon 2026 Europe: https://events.linuxfoundation.org/agntcon-mcpcon-europe/
+- Manufact: https://manufact.com/
+
+L’ecosistema agentico non è una promessa: è un cantiere aperto. Chi arriva con le idee chiare porta gli strumenti; gli altri porteranno solo polvere.

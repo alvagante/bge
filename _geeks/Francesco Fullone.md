@@ -4,6 +4,7 @@ episodi:
 - 101
 - 110
 - 116
+- 117
 layout: geek
 links:
   LinkedIn: https://www.linkedin.com/in/fullo/

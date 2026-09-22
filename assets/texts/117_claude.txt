@@ -1,0 +1,13 @@
+# Quando gli Agenti Smettono di Essere Vapore e Diventano Protocollo
+
+L'intelligenza artificiale ha sempre avuto un problema di identità. Per anni ci siamo illusi che bastasse un LLM abbastanza grande per risolvere tutto, come se la cognizione fosse solo una questione di parametri. Spoiler: non lo è. L'episodio 117 della Brigata dei Geek Estinti arriva nel momento giusto, quando il discorso si sposta dai "modelli che parlano" agli "agenti che fanno". E questa non è una sfumatura semantica — è un cambio di paradigma.
+
+AGNTCon e MCPCon non sono l'ennesima vetrina di demo costruite ad arte. Sono il momento in cui l'ecosistema agentico smette di essere una promessa e diventa architettura. Il **Model Context Protocol** emerge come risposta concreta a un problema che troppi hanno ignorato: come diavolo facciamo comunicare un LLM con il mondo esterno senza trasformarlo in un monolite ingestibile? MCP non è solo un protocollo — è un confine filosofico tra ciò che l'AI *sa* e ciò che l'AI *può fare*.
+
+La transizione verso sistemi **stateless** non è nostalgia per REST. È la consapevolezza che la persistenza dello stato, in un contesto agentico, è veleno. Ogni sessione è un debito cognitivo, ogni connessione mantenuta un punto di rottura. Il futuro degli agenti è fluido, modulare, componibile. Come i microservizi, ma con l'ironia di sapere che anche quelli li abbiamo iper-ingegnerizzati prima di capirli davvero.
+
+L'**interoperabilità** diventa il vero campo di battaglia. Non basta avere agenti intelligenti se poi parlano lingue diverse. Gli standard condivisi non sono burocrazia — sono il linguaggio comune che permette a ecosistemi complessi di non collassare nella propria entropia. E qui sta la bellezza: l'armonia non nasce dalla semplicità, ma dalla complessità ben orchestrata.
+
+Francesco, Enrico e Cosimo dissezionano tutto questo con la lucidità di chi ha visto troppi hype cycle implodere. Non c'è retorica salvifica, solo analisi tecnica e una sana dose di scetticismo pragmatico. L'AI agenziale è reale, ma non è magia. È ingegneria. È protocollo. È architettura che si piega ma non si spezza.
+
+Gli agenti non sostituiranno gli umani. Ma chi sa orchestrarli sostituirà chi non lo sa fare.

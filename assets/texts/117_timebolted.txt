@@ -1,0 +1,560 @@
+museo
+flusso
+mi nell'area
+contatti invisibili
+mio codice
+comincia a respirare
+uso attraverso la trama
+un protocollo
+piccola entità
+percorsi nel silenzio
+sono disposte nel buio
+penso che cercano una forma
+contrasto
+un'architettura
+interfaccia
+movimento
+la complessità si fa armonia
+grazie
+storie
+cambiare missione
+grazie cristiano
+serie messaggi istantanei
+tre porte socchiuse
+l'intelligenza fluida che si organizza sé
+architettura
+l'ossidazione che modo
+mondo
+no no
+sto peggio
+like quando la conoscenza diventa uno standard condiviso
+ogni nodo è un'idea
+ogni connessione un'azione
+non c'è più distinzione
+chi ci segue
+sono sistemica che si espande si
+dieci
+skyline
+solo
+si sta
+cosa pensano
+si cerca noi
+stiamo
+uso questo
+ecosistema
+un'altra estate
+foro
+grazie
+grazie
+e quindi siamo arrivati alla puntata centodiciassette della brigata degli istinti e reduci da hagen content skip con sopra
+gli istinti era anche media partner siamo con enrico toniato che abbiamo incontrato lei con un suo stand e poi abbia recidivi francesco e cosimo enrico breve presentazione poi iniziamo ciao alessandro grazie grazie dell'invito
+presento velocemente
+sono enrico toniato al momento sono co-founder siti o di manufatti
+siamo una startup
+find da welcome network summer file
+è quello che facciamo e abbiamo un open source che che tra le più popolari per anziché abbiamo più di diecimila stars su github e poi abbiamo creato il prodotto intorno che manufactory cloud dove le persone possono deporre legge server
+prima di manufactory ho lavorato per un po' di anni ricerca e ne hai
+ibm research zurigo
+quindi on the ground che altro che altro relativo alle aree molto felice di essere qui con grande complimenti enrico adesso io direi poi ti va parliamo di manufacturer sulla base anche di quello che vediamo e discutiamo perché in linea con quello che sta vedendo di tutto un ecosistema che si sta creando
+tonno al mondo agenti ed ex pin
+francesco cosimo due rientro vostre volanti sul tema due considerazioni mentre condividono lo schermo francesco grazie
+insulti sono ormai sono vecchie noiosa che partecipa alla brigata da un po' di tempo un tuttologo faccio cose vedo gente crea situazioni e sul tema molto interessante perché lo sto vedendo applicato in una serie di aziende che lo usano anche in ambiti un po' di
+versi
+skipper
+a spostare un po' di di processi calcolo dato dalla persona o da da sistemi un po' vecchi
+a
+cose nuove
+i vari usi allora sto facendo vedere la lyon page del sito dell'evento allora faccio presente che questa è lei hai agenti che hai foundation è una branca della linux foundation come
+è la cronaca foundation e altre e che organizza le sue conferenze adesso le conferenze di riferimento e questa igiene comments bitcoin
+e ci sono state e credo in asia in giappone e poi ci sarà presto in america e questa è stata la prima fatta in europa sponsor abbiano male i soliti noti però anche prodotti specifici legati all'ecosistema agenti cho
+è parecchia gente non ancora ai livelli di una cube con sia come numero di persone
+enrico di persone ideale di quanti partecipanti
+ma secondo me è un po' meno perché noi avevamo partecipato anche a new york la stessa edizione e c'era più gente secondo me e immagino ecco qui jacob mano fate il prodotto di enrico maria ma anche noi qua la schedula era abbastanza ricca di
+di cose io mi sono assegnato un paio di slide che c'è di pdf delle alcune presentazioni e se vogliamo dirlo enrico una delle cose fondamentali credo che la novità di amd sip sip con stateless rilasciato il ventinove luglio
+credo fosse estate è nuova versione protocollo con introduzione della possibilità di avere agenti stateless comunicazioni stateless fra client e server e questo comporta tante cose voi magari parlarcene se assoluta
+diciamo che secondo me è stato molto interessante vedere l'evoluzione del protocollo perché quando ha iniziato aveva delle idee grandiose no su su che su che itunes che modalità di di comunicazione potevano esserci tra gli agenti e i serbi
+ps e siccome alcuni di quei concetti sono sono ancora lì però poi anche i creatori si sono un po' scontrati con quella che è stata poi la realtà di scalare gli enti di servers in production e quindi devi gestire gli stream deve gestire tutte queste cose qui che poi in realtà è il motivo per cui è nato
+serverless nell'epoca del web no tutti volevano fare il pm poi tutti hanno detto serverless io ho visto in ibs più la stessa identica cosa quindi all'inizio puoi fare delle cose bellissime con con gli stream tutto poi ti rendi conto che nightmare scalarlo in production e quindi torni ad avere alla fine una
+atomica server smp quindi io l'ho visto in una maniera molto molto simile come evoluzione e
+adesso finalmente siamo pronti a far scalare and spin dopo dopo un anno di esperimenti esatto vari paesi usa per intenderci a questo punto si può mettere una balance fra client e server perché ovviamente ogni
+non c'è una sessione siepi viene rimandato tutto quanto e questo permette nuovi orizzonti temi di che i tuoi nodi per scalare per anche per long running attivit di agenti e anche per avere agenti che stanno ne in ibernazione in qualche modo stanno d'oro
+ambienti non occupano risorse possa essere richiamate e via whatsapp quando serve e quindi su questa cosa potrebbe avere parecchi effetti
+cosimo francesco che cosa dite avete avuto avete già avuto modo di
+io faccio faccio il il boomer della situazione anche hotel
+anagraficamente non solo
+a me sembra molto di risentir parlare negli anni fine anni novanta
+cosa un pochettino prima il summer pc dopodiché su pop
+beh il primo corpo armas ma sai hai ragione ma sai cos'è questa sensazione di masticato ma è proprio questo che stavo anche prima parlarne con enrico è quello che forse non è chiaro è che sul le genti che hai è il nuovo unità di nuova unità di tutto quello che è con lei
+due frangenti è la nuova hit e lo sarà sempre di più e quindi si devono riapplicare tutte le lezioni applicare i pattern e gli approcci che abbiamo già applicato appunto fin dai tempi dei tempi no di volta in volta e per le varie ondate informatiche e quindi vai sul computer e poi vai su internet e poi vai su
+tu e il cloud e la virtualizzazione e risorse cloud nativa tutti non so tutto il mondo kubernetes è un rematch ci si dice sempre che inventiamo le la ruota no si applicano le conoscenze pattern passati al nuovo come dire un mondo in
+informatico e poi a quel punto for life proliferano soluzioni approcci e prodotti e società e tra l'altro le società che poi
+fanno grandi cose grandi numeri quindi io ho la netta impressione che stiamo applicando sta succedendo io c'ero non credo della serie averlo scoperto io stiamo applicando al mondo agenti che hai queste stesse logiche no sicurezza containment e poi gestione della produzione
+zione scalabilità osservabilità monitoraggio o auditing e automazione configurare unire red open source
+versionamento tutte ste cose qua
+si applicano anche a
+agli agenti le genti che hai e quindi ben ci sta che vengano riutilizzati alcune logiche vecchie da virgole o meglio pattern o modi per risolvere cose già viste in passato poi magari chi li fa implementando adesso imperatore peggio che in passato o non si accorgono dei problemi risultati in passato magari in condizioni sia
+milik e poi si sconterà anni dovranno ad applicare sa non sono protocolli alternative alle versioni però credo che si sta proprio nella fase in cui questa nuova artista crea e si sta creando e sono due anni e perché a due anni agenti non è che nascono pensi però
+ci sono due o tre anni di agonia un airlie pesa ancora tutto sommato anche se come vedete c'è già di tutto cioè di prodotti soluzioni e quant'altro
+che dite
+sbaglio in questa
+scusate si può dire qualcosa si può dire qualche parola su come si diventa stateless
+sì allora c'è questa guarda questa snello peccato perché mi suona interessante ed è appunto questo qua di questi due tipi qua
+di google qatar alto quindi sterile sede futura incipit transport quindi questa è una presentazione fatta qual è il principio sostanzialmente tu a richiesta del client con il suo contenuto tutti i suoi dati metadati inviata base che può votare
+indipendentemente diversi re server e non c'è traccia di sessione non c'è traccia di comunicazione preesistente tu puoi fare una richiesta e poi nella prossima richiesta al ahmadi che avrà tutte le informazioni che magari magazzini sono ottenute terrà un pò pesante prima prima c'era una sequenza molto ben
+finita di richieste nel nel protocollo qui dovevi fare lisa laser quest che ti dava una sessione poi dobbiamo usare la sessione per fare le chiamate successive tutto questo ha poi veniva rimandato indietro a corsi di laurea ora diciamolo poco pratico poco scalabile stima proprio ahahahahah
+bisogna bisogno anche di uno stream per avere tipo server cloud and communication è quindi chiaramente poi è diventato molto difficile scalarlo perché tu dovevi mantenere questo stream con tutti i client che invece nel diagramma che vedi sopra non c'è certo nell'autorità come un asset alla sessione ottime re
+se ogni volta per ogni richiesta tu puoi mandare sostanziale della tua identity nei metadati della richiesta invece di fare l salazar avere la sessione esatto esatto e poi puoi passare comunque informazioni da una sessione all'altra quindi mantieni un qualche informazione su sky che tin tip ti può interessare
+preservare e poi abbia questa quali la sterile selections e quando
+se diciamo che tu il cliente può collegarsi al server e che richiede mai ogni input e il client chiude subito non sta più am
+la prima volta no ad aspettare cose poi magari la volta successiva fa cosa almeno credo dell'avventura dato così comunque cose interessanti poi il suo black cat dp a quel punto si possono far passare tutto quanto quindi anche questa cosa qui e diventa
+no trattato come qualsiasi
+pacchetto chat up che appunto può essere aiutato bilanciato e quant'altro odio sul bilanciamento fosse meno però
+e quindi vedi non so cosa sia questa cosa ti ha identity fa sì no ho capito il senso
+non avevo visto queste queste slide e altro sono pubblicate si sa sono le slide di questa presentazione specificatamente mi piace quella jason herpes
+se google buttare quella roba dappertutto non saranno contenti
+e me poi qua va avanti credo che sono poi appunto roadmap su future implementazioni a piovere standard input
+sdraio
+playable transports interessante ah bello vedi anche tu e frank francesco per risolvere poi nel trasporto dici in passato con questo approccio è andata bene quest'approccio qui te lo gestisce con dei plugin no o vuoi fare il trasporto su code su stream jacket i tipi
+un altro modo te lo puoi fare questa prova di futuro
+children in un'ustione al moral
+non ne stai alimentando numeri è sempre quello su tablet solito non è la norma esatto vanno applicate al nuovo mondo ma è questo che secondo me oppure per salvare vite quelle vecchie porca miseria prove ma quelle vecchie non possono basarsi su west presto e no no però nel senso cioè
+il coachella nel succo gps delle aree di mezzanotte la novità del tutto che poi infilano dappertutto profumo della rai quindi buttala dentro e si la fama ma perché è evidente che un periodo di
+grande fermento
+e infatti io quando ho incontrato anche te a enrico detto mahatma c'è qualcuno che ti paga permettono un server mysql
+no facebook
+chiedevo space con provocatoriamente e cazzo se qualcuno no avete voi immagino clienti attivi avete
+traffico avete cose quindi qual è il tipo di cliente che che che che usa un vostro servizio se già quello che noi vediamo adesso è che ci sono aziende tipo la maggioranza dei nostri customers che sono principalmente negli stati uniti sono aziende il cui prodotto stesso e l'incipit serve o comunque
+un qualcosa digli che hai consumato da agens no ha quindi per esempio uno dei più grossi dei nostri pilastri customers si chiama email loro fame letteralmente una inbox gmail per agence ciò che può creare box può ricevere email può mandarle e c'è il loro prodotto solo quello non ha
+praticamente è geniale a suo modo e perché comunque quello di scambiarsi informazioni fra agenti che se non trovano le viti pubbliche e qui fare scambi usale per scambiarsi messaggi proditoriamente cura del prof udo il loro prodotto non è pensato assolutamente per essere usato da un'umana no e loro fanno milioni e milioni
+di due cola al giorno e io credo che uno degli eps usare più usato che purtroppo non è ancora su di noi ma che c'è in giro si chiama context beach infatti volevo chiederti qual è
+asad è uno dei più usati e probabilmente fanno anche loro milioni due cosa e anche quello è letteralmente solo c'è un prodotto che è pensato solo per gli egizi cioè non c'è una news gates c'era il cui business contact share da come umano a questo fatto qui non so se voi siete farvi laico
+cosimo con conto in serie no questo è un server che ti dà informazioni aggiornate su documentazione dei vai
+prodotti analoghi
+ed è una figata se ci pensate perché effettivamente codice enrico strumento c'è il claim l'utente la gente e stava aiutando gli umani non lo vedono ma lo usano e quando si usa poi diventa adesso io lo sto usando un casino mia nonna coco il poeta io non ho ancora visto richieste di però come ero
+uso massiccio ti fa differenza puoi vedere la documentazione aggiornata per il tuo coding agent hai detto niente
+quindi ben venga lei scusa scusa enrico alessandro come modello economico come funziona e che tu hai un tot correggimi se sbaglio enrico per quanto riguarda e cloud con te seven e tu hai un tot doti richieste e se superi certi limiti threshold di frequenza
+i volumi paghi a ocean city credo che comunque ancora le del jazz con me non è chiarissimo perlato degli enzimi servers che dal lato dei client come monetizzare no e infatti perché per esempio adesso i e-mail per esempio fa pagare per n
+numero di inbox idee eventi news eccetera e però effettivamente sono unità o edifici no perché se magari prima faccio pagare un utente venti euro al mese di licenza adesso non fai pagare un agente venti euro al mese di licenza no quindi magari devi fare più usage based però per esempio l'altro giorno meta
+annunciato news
+loro loro agente li hanno cominciato a introdurre i pagamenti che magari si potrà vedere più ansip è per esempio invece vendono prodotti no come per esempio la zip di nike o adidas che quindi tramite il client ad intrigare un pavimento
+per un prodotto che l'efsf server pubblicizza magari è un business model più simile a quello quello che esiste già e se gamenet nessuno ha ancora idea esattamente di come è ma in questo non si sta e adesso che si svolge mercato e si crea il mercato poi questa roba qua fra cinque anni sanno chi vive
+ciechi chi fa adesso le cose che funzionano e che prevedono che cosa può servire
+sicuramente fame di cose e ramon origine per seppi allora subito
+ma chi c'è c'è c'è ce n'è di roba no e oggi di aggregatore di rspp serie di portali di design prendevo una blogger per ramsay
+a
+assolutamente
+se tatsuya club s p a p sono collegate al fatto che gli agenti che possono fare acquisti online così via c'è questo concetto non so se siete
+familiare sarei interessata anch'io a sentire la vostra opinione su sleeps piace perché noi sentiamo dei feedback contrastanti quindi se se avete qualche commento verrà intanto magari visto che mi sa che tu sei quello che li conosce meglio di tutti forse spiega lei così partiamo da basi comuni no perché
+realtà appunto il concetto è abbastanza semplice nel senso che adesso williams e williams speaker e hanno dei tools puoi chiamare tulsa e se vuoi puoi mostrare riguarda alessandra anche se andando su usa gpt i plugins ha praticamente tu puoi decidere che da un tool a ritorna una wiki
+che mostra il risultato del tool un'immagine per esempio il tool che ti ritorna ai dati statistici su le visite al tuo sito dell'ultima ventiquattro ore tu puoi decidere di mostrarli con una wild card e tu definisci quella juice poi quindi quella viene mostrata presa
+ampio dentro c'è di dio dentro claude cod
+diciamo tu l'onere della del del widget in tempo e noi li chiamavano widget si chiamano apps piazze e
+e però poi viene mostrata dentro c'è gpd quindi ti può mischiare edl sensibile con ai più tradizionali per per gli umani e molte di queste app che vedete quale i plugins celano per esempio gamba sicuramente ce l'ha ha probabilmente gli altri
+quelli che vedo qui tableau sicuramente ce l'ha sino a maglia in effetti è appunto questa è una gran cosa no e anche qua c'è tutto un mercato che si sta aprendo e edicole è però il bello tra virgolette che qua si sa poi facendole reading su tutto quel che esiste già quindi ciascuno col suo
+sì però appunto loews islands piazza siccome ancora ancora più incerto of friendship sono estremamente bulls nel senso che esclama chiaramente tutti usano bsd
+collegate proprio client proprio club si piazza ancora e non è chiarissimo quale possa essere la news gates no nel senso che ha per esempio sappiamo che vengono usate per travel shopping questioni customs che abbiamo che usano ebs piazza cioè l'unica cosa dove devi mostrare qualcosa un umano però
+l'agent non lo interessano la la la parte della uai quindi è tipo un cercare di mantenere lo human in the loop però lo human in the loop al giorno d'oggi c'è il solo in alcuni use cases no non in tutti dove magari le tasche sono quasi completamente autonome a se
+e bene e tu chiedi opinioni perché quella è la vostra esami o se vedete degli u s azz proprio che mi sembra ha in questo caso io vorrei vedere una ai ritorna responso di un tool social ti va io credo che fosse per tutto quello che diciamo reporting
+ustica e o di quello che è
+ha fatto il
+il tool potrebbe essere utile non so se lo scopo è ritornare all' umano qualcosa perché comunque la gente di suono gli serve una zip up e dove non c'è un mare di mezzo ovviamente farne a meno ma dove potrebbe essere utile perché ci c'è di mezzo qualche modo il pezzettino la
+invece magari mark down fare una cosa un pochino più strutturata e che poi magari sotomayor downtown per dire a livello di visualizzazione per l'utente e non lo so
+che
+che dite
+beh comunque c'è di tutto qui insomma se queste sono secondo te non sono solo si piazza sono anche altre domande anche pisa servas normale se è in realtà parte del nostro business anche aiutare le aziende ad andare su questi store c'è quello di obiettivi di cloud eccetera quindi è
+se cerchi c'è anche manufacturing qui tra atac questa lista quindi in realtà appunto la maggior parte neanche più servers però alcuni hanno e stanno anche sperimentando su l'express a mary sue il rischio è che venga tutto con mozzato faccio un esempio banalissimo
+e se non ricordo male i world ha messo su hamsik p quindi tu presenti stalli l'applicazione open source pagamento del caso c'è già come ci aveva le piaghe come ci aveva so come ci aveva altro semplicemente gli schiaffano dentro anche il severin ehm si picchiano fa
+tra la fine di restituire una serie di informazioni in base al tipo di chiamata e dal mio punto di vista loews caso diventa quello nel senso che diventa una commercializzazione di un nuovo strumento di accesso all'informazione
+o a determinati processi per far partire automaticamente determinati processi che poi può restituire in base sempre il tipo di chiamata
+cosi differenti faccio
+per esempio con con arresta in cui si tu
+ti devi arrendere race punto jason ti dawn jason reed spunta sfuggiti da wolfsburg
+ect ect ect è ovvio che lo restituiva se avevi programmato la tua interfaccia resta per operare di conseguenza però penso che attendere il il contesto torni ad essere quello in base a cosa ti sta succedendo e magari qualcosa ti sto chiedendo fa comodo anche la gente che
+deve fare una renderizzazione di pagina di un grafico di dati che arrivano strutturati ti chiedo un istogramma mi restituisce seguici lo integro fatto e rispetto a dati singoli perché io come agente dietro un altra gente che si interfaccia camera e voglio fare a gestire tutto concava o
+con cloud design perché c'era il mio nome le mie stelle guida da applicare e penso che oggi sia il momento è fiorente in cui nessuno ce la smetta di farsi suora psdb anche perché non standard sta cambiando evolvendo molto rapidamente però attendere di rischio si sposta stava come la tua
+o per altre sia quello di semplicemente vendere da commodity a quelle aziende pigre e lì magari sta
+gandalf il tema adesso di trovare quelle aziende pigre e che non hanno voglia interesse capacità di molto spesso i gestionali che sono talmente tanto complessi nella loro gestione che delegano integrazioni a sistemi terze parti lingotto o con comodo non facciamo nomi gestionali
+troviamo abbastanza famoso che gira su assi quattrocento che
+tra l'altro altro periodo oscuro di informatica e i suoi sei quattrocento e che emetteva delle vele piai examiner bici su via per poter integrarsi tira fuori delle informazioni e quello c'è quel genere di prodotto che magari è troppo compl
+esso da da riprogettare per averne un chip interno delegherà terzi mxgp che non farà altro che fare un layer verso le vecchie piai
+il nuovo sistema di di di dialogo proverai muovermi su quella direzione anche perché spesso sono quei software che durano trenta quaranta cinquanta anni e che hanno sempre il classico problema della migrazione
+e tutto il resto sim tre sicuramente sicuramente c'è quel segmento am
+allo stesso tempo allora siccome ams bike
+c'è sempre un po' di sgm jedi ancora incertezza se si possa veramente farle want one nel senso che ne abbia c'è ci sono alcuni ai piai che a tenertela internship con tutta la parte di authentication standardizzata sopra no quindi
+scott non parlano in maniera un po' sbagliata
+a chiunque la parte che noi vediamo che le aziende
+stanno cercando e come faccio ad avere la mia piai usabile principalmente dagli agence perché io vedo nei piani sono per machine to machine la lake per human machine aams pia i gentoo a e somaschini cinema quindi in realtà il fatto come hai detto te esserti messo incinta un'altra surface pen
+oh è è proprio quello c'è il fatto che le persone
+diciamo gli attori in questa comunicazione sono diversi no e quindi siccome la la modalità in cui esponi ah certo ti il modo in cui consumi le informazioni come la esponi deve essere leggermente diverso a
+detto questo siccome ci sono una serie di cose un topo winzip che non sono semplicemente l'hosting che poi sono d'accordo con te si può riprendere molto dalla dal mondo
+però per esempio molte delle feature che che noi cerchiamo adesso di vendere che non sono la parte dell'hosting ma sono la parte di come la zip serve viene utilizzato dagli agent cosa manca in termini di funzionalità cioè tutta questa sorta di
+feedback no su come far migliorare l'usabilità del tuo prodotto da legend
+che però sono d'accordo potrebbe essere un pochino anche applicata all'ambito ip no quindi magari magari le cose vanno vanno a braccetto naturalmente
+come dicevo prima essendo prendete dal vecchio mondo nella civic riempite quello che funzionano pertanto sul nuovo quando segue il target di clienti dal mio punto di vista il target di clienti sono quei clienti che sono troppo pigri per poter integrare i sistemi di pigri è un parolone se magari nella
+uno le capacità magari hanno dei processi burocratici che ammazza ogni forma di innovazione tantissima roba ma solo qui gli servono quegli stessi clienti che hanno sistemi che con una vita media di dieci quindici venti trenta anni assicurazioni banche e via dicendo penso che oggi
+una startup sai magari si può integrare a voi per fare un provochi un puffo concept uno bios vedere come funziona mspy cosa fanno gli utenti tirarsi fuori delle metriche l'integrazione pedigree o di questo mega shawn
+parte vediamo questo subset che per noi è relativamente sicuro sua partnership dopodiché tra un anno abbiamo capiamo se siamo ancora vivi come startup e riportiamo tutto in casa perché noi vogliamo fare tutto in casa penso che sia uno scenario abbastanza
+mary francesco mi sembra quasi che si stampò sottovalutando quello che sarà l'esplosione del traffico e sip e no non lo sa per niente belton
+è proprio
+marcel veramente di quello che adesso è veramente concretizzato poi tutti offrono nel gp del loro prodotto perché stanno prendendo il loro prodotto quello che ne rimane insomma un servizio però vuol dire intanto che può ottenere tutto di tutto puoi accedere da un agente a fonti thule di tutti tutti questa roba esiste
+gente del mondo informatico quindi hai detto poco e poi è chi eroga questi servizi effettivamente su scala magari fa parte a loro offerta a pagamento il fatto che stanno erogando il servizio su qualche cosa un campo che ti dà nell'abbonamento anche gus sai usare le sue serve per giocare
+artefatti e ha bisogno di un'infrastruttura non ce l'hai sei pigra bisogno infrastruttura che era come se avessi di server qui
+ma la sua ala e bruno delega o se li lega dilaga sul suo un'infrastruttura come un club fly air o simili
+che già permette di utilizzare dell'it con autenticazione e se è vero che c'è questo rischio per per il credito se il modello di business è solo la vendita di pc server di di accesso non incipit server però se ci si costruisce sopra quello che dice enrico un po' di
+poi bisogna capire sera dal mercato recepisce un po' di siti di statistiche di managua azioni però anche quello
+da google analitics avanti ci insegnano che l'insight sono commodity posso cambiare il fornitore da un giorno all'altro per vedere cosa succede mi guardo anche i log di apache minimizzo
+dal l'europa veramente interessante di leadership degli agenti tutto quello che ti pare e nei momenti in cui tu inizia a fare aggregazione quindi parlo con l'ems pil gamba anzi parla con l'ex pd e sel che istituisce determinate informazioni queste informazioni il mio agente se li
+rielabora come vuole e le spara venne suicidi gamba che fa grafi cino plebs il l'output viene preso dalla gente che spara e insipidi power powerpoint che ti fa la presentazione cioè penso che il il valore attendere sia nella capacità di gestire
+autonomamente più fonti e mxgp e metterli o in serie o in parallelo per tirare fuori informazioni però questo è molto diverso dal dire claire williams beh perché tiene golem's p è un problema che oggi dev'essere coperto ma che domani ripeto non ho la sfera di cristallo ma vedendo gli ultimi
+cinquant'anni di informatica quello che succede che è successo verrà erogato perché un qualcosa che tutti sospettano che i prodotti facciano direttamente dal produttore dal prodotto è vero che ci sono
+che uno degli utenti ma nel novanta percento dei servizi su internet hanno poche
+poche migliaia di utenti e un qualsiasi server bilanciato decentemente radice riesce riesce a gestirli zip
+sono parzialmente d'accordo nel senso che secondo me ci sono allora siccome era questa cosa poteva essere
+è più vera adesso nell'era dell'aids com'è magari prima poteva essere meno vera cioè che per esempio pensò a un best-seller wuhan railway o a un flash io che sono non sono come cloudflare da glass eccetera però sono per esempio verzella ha catturato il deploy e il deployment di un sito web
+e se ci pensi un sito web può essere benissimo servito da
+dal tuo ex sulla vm locale dall'assicurazione o sui tabloid o eccetera però l'esperienza di farlo rende tale che preferisci fallo su versanti e versai vale dieci miliardi oppure railway
+vm puoi avere le sue due ex però non significa che sia all'esperienza che tu vuoi avere poi sono d'accordo che ci sono
+tipi diversi di cliente no per esempio un menzionare le assicurazioni noi abbiamo delle assicurazioni francesi
+e non come clienti ma il traffico che hanno una assicurazione è nullo rispetto a altri tipi di clienti che che abbiamo che sono più nel livello per space e quindi sono un pochino meno interesse c'è magari in termini di revenue ti dà
+più soldi no ed è così però in realtà non è non è una challenge e per cui internet è breve per cui il discorso interessante e sono d'accordissimo con te in quel caso no cioè se il problema è la lesina s e non la scalabilità non la relais abilita un oleificio che puoi avere i principi
+ah ok ti dico adesso glielo puoi fare per l'assicurazione tra un anno a sé se la cosa va avanti se lo fanno da loro in un caso in cui invece diventi un bersaglio per incipit dove non gestisci le piaci ma gestisci l'intero art end incluso la delivery eccetera secondo me e me
+molto più ostici come come value proposition però sono d'accordo era ancora tutto in evoluzione secondo me secondo me è difficile sapere cosa cosa succederà nei prossimi anni
+è più o meno come dire
+uso il servizio in cd blues me vi porto in casa nel momento in cui ho dei volumi importanti e da blue sky è da scartare perché cosa talmente tanto per un modello di business che ha occidentale relativamente piccole sul traffico che mi conviene re implementarne di mio con tutte
+i problemi dell'infrastruttura rispetto a tenerli suona da bios
+il problema quindi almeno ho smesso di sviluppare qualche anno fa adesso mi occupo più di modelli di business è molto più interessante da un punto di vista il modello di business lei stessa di un'assicurazione egli per vent'anni e che per vent'anni nel momento in cui prende uno strumento egli viene richiesto continua a pagarlo d
+delle entrare su un su una bolla degli sviluppatori che adottano tutti insieme un prodotto per una settimana dopodiché ha è uscito quest'altra cosa via di qua di paul jennings per quella settimana ricchissimo diario in quella settimana puoi farla svolta cercate di correre fare la exit c
+comparire e sei a posto però se non becchi la settimana giusta stai degli anni senza riuscire a completarla quindi è moto una scommessa muoverti in in in quello spazio di due veramente il l'interesse cambio come delle banderuole al vento
+ms mentre mary business noiosi quelli son noiosi ma ho continuano a portare da poco ha costantemente sempre
+allora parlando dei modelli di business perché qui fosse non abbiamo ancora pochi hanno idea di quali potranno essere quelli che funzioneranno ma lei quelli che possibili e a stanno già saltando fuori oggi ragazzi ci sono prodotti che tipi di software io
+passò il tempo da assisi sono compiute su arca okay che questo agent che stretto editor locale per multi non esisteva come tipo di software due anni fa si chiamano ocse ed esisteva dagli anni duemila e de marchis poter gestire non per gestire agenti e ai diversi
+diversi progetti non questo tipo di prodotto molto resistente questo contesto non esiste non esisteva poi quello che voglio dire è che è un ci sono un sacco di oppure esisteva cosa di simile ma quel disco discusse stanno facendo prima ed applicato le tecnologie del tempo ma il punto non è certo ma non puoi
+usare quella roba simile devi fare qualcosa di nuovo reinventi la ruota non importa è qualcosa che però è
+è funzionale a questo mondo e a questo contesto è quindi funziona a e usato utilizzato ai picchi i picchi dei diecimila starts with tabano le i picchi di ipa su i prodotti non è che sono solo wipe è solo fumo anche quello siamo nella fase anche
+iniziale di entusiasmo e di eccitazione però e c'è anche
+e fumo dieci arrosto house genoa c'è gente che ci lapsus lapsus se il fumo c'è sicuramente ma poi vince qualcosa sotto gente che le usa c'è c'è l'utilizzo c'è ed è inevitabile che ci sia per sempre la griglia insomma rimasto alla larga
+di utilizzo ci sono tantissimi repository che stanno crescendo sulle stars dove sta diventando il nuovo nuovo start center winkler e sì ne più ne meno perché perché c'era un articolo di qualche settimana fa che diceva che github è in crisi perché il numero di utenti sta salendo troppo rapidamente risp
+spetta a loro planning in quanto molti non sviluppatori per salvare il proprio codice ap novità b gli danno in pasto
+claudio o gatti e gli dicono fai li fai tu ok dopodiché usano github come se fosse un social network guarda questa cosa qui click to start
+vede vedete enti del domani capisci non ci riesco questi sono kane capisco benissimo e va dall'altra parte non può dire che non ci siano una grande bolla su questi temi è il problema sostanziale è che spesso non ci sono dei modelli di business dietro queste cose quindi si sta creando ascolti
+ma allora abbiamo visto la bolla di internet e tutto quello che ne ha esaltato ma vorrei ricordare che chi ha vinto dopo le macerie sono le aziende più grosse del mondo capite fare il punto è questo ci ha permesso di macerie
+tre aziende più qualcuno cinese cliniche che chi già sta lavorando perché sono quelli che poi dita una tecnologia per poter utilizzare il tutto
+eh sì ma ti ripeto il punto è che chi verrà fuori dalle macerie che poi per alcuni c'è c'è anche la pasta poco non è che bisogna essere i dominatori del mondo roper soddisfare la nostra aereo aeree esigenze lavorative e chic
+cherry plum questa cosa di serio a me quello che l'errore stai facendo e l'idea di dire è già fatto già visto e quindi anche i tour le soluzioni tanto adesso tanto più adesso che sono facilmente realizzabili da chiunque allora sono minchiate perchè sono state già viste o skater
+de vecchi non è che l'idea vecchia è il presidente sbagliato non è che se il principio vecchio applicato un nuovo mondo e poi intrinsecamente fallisce poi chiaramente ci sono le differenze e andranno capite approfondite e ci sarà chi fa startup e società seguendo un approccio che un'auto e che magari fallirai
+no perché chi ci si iscrive su certe cose ma non scommettere sul fatto che le genti che hai sarà la nuova ed è la nuova ondata di informatica e per ondate informatica intendo questi magro cosi
+a livello di internet col suo boom a livello di cloud col suo boom a livello di
+kubernetes ragazze cutanea che tiene in piedi tutto il computing il novantacinque per cento del computing del mondo c'è ha avuto il suo boom è ancora lì e rimarrà edili per restare la gente che hai non è una cosa che è la moda del momento
+forse c'è il rischio che certi protocolli certa implementazione in certe soluzioni falliranno e aerei viaggeranno quelle sono le soluzioni migliori però la roba rimane e chi su queste cose ci costruisce soluzioni che funzionano in questo contesto vince ma bisogna che io non do brand contro
+scusami e anzi lo sai benissimo sono sono un fervente utilizzatore e
+era da solo credo però sottovalutiamo non sto sottovalutando e che dall'altra parte però vedo che
+lo stesso approccio al sottovalutare anche il resto e siamo in un in una fase di cambiamento continuo sperimentazione continua e tutto il resto però ogni tanto ci stiamo scordando qual è il modello di business dietro a quello che stiamo facendo può intanto mulo vedo io ma ci sta e i
+mancano i contenuti probabilmente
+by cosimo scusa no volevo soltanto fare una piccola osservazione sul fatto che ovviamente non siamo molto focalizzati sull'ambiente developer no
+ad esempio nel caso del nostro prodotto la percentuale di utenti che williams è infinitesimale rispetto per esempio agli utenti che usano le stesse funzionalità ma le offerte dalla nostra interfaccia
+e io seppi tutto live eccetera però
+o di prospettiva nel senso che è comunque un uso minuscolo ma se consideriamo l'azienda media e poi se l'hai una cliente sicuramente se tu fossi un agente diverso tu dei nipoti dal hollywood che l'utente della sip e la gente c'è e quindi chi saranno i prossimo
+anti ce ne saranno di agenti che andranno in giro a far richiesta insipidi del mondo se però giocoforza la minor veramente non una frazione minuscola degli utenti però io mi baso su prenotare ora se già abbiamo adesso il problema di int
+internet
+the zoom vino popolata per gran parte ovunque il traffico generato da agenti o software root tutto quello che c'è già adesso il problema c'è già un sacco di gente che fa cose poi non è che se ne vanno selezionate dal team sip server tutte cose e hai però c'è già un sacco
+di roba che sta accadendo automaticamente ce ne sanno sempre di più di questi tipi di utenti no e questo mi riferivo a e james einstein
+sì pieno nel
+l'endgame di dove andiamo
+però se allora il punto è perché magari non sai come il classico non è necessariamente che il protocollo migliore quello che vince ma quello che è più utilizzato al momento in cui essi viene utilizzato da tutti i major player e diventa uno standard de facto a quel punto cosa succede
+viene usato quello non c'è non è che come l'ip non è che i pv quattro allora abbiamo fatto cambiamo cambiamo protocolli faccio a internet su qualcos'altro
+poi magari si fa nelle migliorie del caso no non basta e tv sei per dire anspi tre cioè si migliora al protocollo come abbiam fatto che appunto dicevo prima anche enrico sulla base di lewis gates di quello che dicono gli utenti ma anche durante la conferenza l'hanno fatto chiarire c'era il tipo uno e due coautori di
+tim cup
+e diceva a noi aspettiamo il feedback degli utenti per capire dove puoi implementare ufficio e dove andare a parare quindi ci sta jace non è un protocollo calato dall'alto o poi all'inizio fosse sì però già è stato fatto che cadono dall'alto ma adottato da dall'industria se pensavate di
+discutere sul sesso degli angeli su quanto sia ansip bello brutto e cattivo ma segue l'ho utilizzato
+c'è poco altro da girarci intorno poi ovviamente non è solo quello n'è per tutti u gates però ripeto per quello che no
+secondo me no
+garden per l'utente medio
+non sa che cos'è mspy e neanche lo vuole sapere non gli interessa
+williamsburg è solo un sigaro c'è non sa come passare il concetto non è l'utente medio ma è la gente il volume futuro quello che farà magro l'utente deve sapere come deve so però devo aggiungere le seppie serve cioè quella roba lì non esiste non è una cosa che tu
+tutti fanno no ma magari ci e meccanismi che secchi si aggiungono da soli o con una richiesta l'utente che gli dirai mai fatti ma magari sono parte di un servizio c'è tuir eroga un servizio che l'utente finale per lui è un servizio normale poi ceduto agenti che vanno in chiesa in svizzera c'è non non è che
+decisamente serve che l'utente finale e parli come se più severa in modo consapevole tra virgolette ha infatti di gamepad gli ostaggi t li chiamano plains su cloud li chiamano connectors aicel l'utente finale non è esposto al fatto che si tratta di ansip solo in malora
+giusto ragionamento però volevo poi aggiungere questo altro tassello no secondo me quello che stiamo vedendo in chat rgpd in cloud cetra coi market market place plugin è quello che tutti sempre cercano di fare
+dicano di fare no non imbrigliarla l'acqua le cose nuove dentro nel loro ambiente quindi tu come utente l'utente rischia pd a vieni qua usa chip debutto company che qua ci abbiamo tutto no e vedi tutte le le icone di tutte le app più popolari c'è questo la cosa
+che si ripete ciclicamente ma è
+è proprio quello tra me e questa volta però è diverso perché questa volta è basato su un protocollo aperto quindi tu puoi anche sui seggi pd mettere un server che non esiste nel marketplace no è invece presente su android l'app story sei molto più legato alla ecosistema è invece presente già il fatto che puoi farlo su successi obiettivi su
+cloud su ares ermes su cloud ci sono siccome rende molto più aperto l'ecosistema
+sì appunto perché ce la possiamo fare di usare direttamente qualsiasi seme per chiunque questo intento si lo vedo molto più vicino a una piaga resta definisce noce che esalta sono d'accordo con te e cosimo celebri comments ip non è helen game labs più semplicemente ha lo standard per cui se vuoi comuni
+i-care con un server
+i client hanno deciso che quello è il modo più semplice non è detto che sia il migliore e più semplice per per gestire authentication per gestire la standardizzazione dello schema dei tools eccetera è però chiaro che l'utente non non gli interessa alla gente non interessa la gente userebbe le piace sarebbe ansie l'hai usa
+beh qualsiasi cosa quindi semplice siccome è letteralmente un protocollo che ha senso perché tu hai questo nuovo scena sennò magari c'era anche prima e questo nuovo scenario dove hai tre tre actors sai i like the clients isee
+herbert e lo usa come questo questo tre tre parti
+non so quanto prima fosse presente magari magari sì magari non mi viene in mente non mi viene in mente però il fatto che tu adesso puoi avere queste tre tre diciamo actors più la più l'agent ha magari abap rende necessario
+la vera un protocollo standardizzato
+però magari magari esisteva anche prima e
+ci stiamo semplicemente reinventando ogni ogni cinque anni
+stima
+a me viene in mente non c'è capisco
+perché ems pista è diventato popolare no
+a me viene in mente questo esempio di una
+dieci anni fa quando alexa era l'ultimo grillo no è tutto ok alexa l'intelligenza artificiale perché a quel tempo mi son messo li a vedere come funzionava semplicemente era pattern matching e la gente la chiamava intelligenza artificiale poi cos'è su
+accesso e tutti facevano queste skill per alexa però poi che erano completamente open
+quindi alex faceva la chiamata al tuo servizio però il problema era che amazon controlla come la tua scheda viene invocata quando viene invocata e solo loro il gateway torino che quello che sta succedendo anche social gpt presenti
+a meno che l'utente decide di controllare lui no però ovviamente si andrà come avete detto sul fatto che gli utenti verranno guidati in automatico su le appropriate skill o bsd
+quindi secondo me kelly
+cioè a me piacerebbe come ideale un ambiente in cui la gente lo controllo io non è certo il pd oppure cloud e la gente si smazza di capire dove andare per comunicare come farlo con quale protocollo norma nonché
+tutto venga guidato e controllato
+sette charge di io
+quindi se si sta andando lì però
+ecco perché si è riunito il controllo che voi sappiate sono enrico tu che sei sul pezzo c'è qualche specie di skip brooker servizio che ti dice guadato non pensare ci penso io a trovarti quello per te
+e che fredda intermediazione poi ci aggiunge magari sopra un po' di
+seewald sì c'è quello purtroppo come detto cosimo lo stanno facendo stanno tipici pc effettuare solo ai suoi saggi p t o su cloud e cerchi per esempio non so voglio sapere quanti visitatori al mio sito pd biglietti suggerirà quale ansip server installare anche se tu non sai presenti
+suggerisce è quello di posto che ti suggerisce quindi stanno facendo un pochino di messaggi subliminali da quel punto di vista però ci sta è un po' come google e la seo per lei ma c'è anche lì
+però per esempio non c'è non non è non è permesso tu puoi averlo nemici di severe usando con la tua area saint widget sociali di cloud non è permessa di arance observers che fanno da proxy per cataloghi di ansip servers
+quindi nello story è mio e lo gestisco io penso
+e alla noia
+a è presente un'alta krull
+cioè noi abbiamo questi paese che guarda la documentazione di bytecode ti dicono se va se va bene o meno per esempio un'altra cosa che non è permessa e generare per esempio immagini o video eccetera cioè tu potresti creare un exhibit server di nano banana di google metterlo su cd però non te lo fanno
+non te lo approvano perché perché c'è chi ritiene responsabile di tutto quello che viene mostrato incerto evitino quindi non vogliono che c'è queste integrazioni quindi sme è molto open perché tu puoi era da puoi metterlo su cerci potenzialmente ashton heights di server quindi siccome è molto più opere di un androide di un ex navy
+eur allo stesso tempo è un uno e un platform come come lo è wechat in cina come lo è
+android come lo è quindi chiaramente le dinamiche ed il jiping mi attendere neanche più ufficiali pagheranno il pizzo per stare affiancati in alto ma già adesso se guardi tipo gpt
+ogni tanto fanno questi anni uccisa sempre quelli tipo fanno sempre gamba a firma sono sempre due o tre che in ogni nuovo announcement sono loro che fanno
+sono pubblicizzati e si beh si stanno creando dei mondi
+però uno si dice alla fine saranno le stesse dinamiche che ci sono su ios e android e apple è costretta a fare fair competition attenzione che le dinamiche che stanno arrivando su apple android sono che se tu non paghi la tua subscription developer sul tuo cellulare e
+solo quindi senza passare da uno store ma rimanendo sul tuo cellulare non posso dare nulla
+e sta cosa qui sta passando era già suo
+ok adesso sta passando su android dalla prossima release del sistema operativo quindi non puoi fare non potrai più fare said loading delle tue applicazioni fatte per te stesso in locale temi che significa che è lo scenario in cui ti metti il tuo ip per farle tue cosine
+vedere potrebbe scomparire a meno che di avere degli agenti locali perché è antropico o ai dirà no mi dispiace ragazzo degli hunger games pc per usarli qualsiasi genere quelli dello store o quelli tuoi paghi extra rispetto al tuo piano era
+utilizzo
+potrebbe ad unico che è lo scenario ma se lo scenario diventa come quello di un marketplace come gli altri marketplace
+è uno scenario che molto plausibile
+sgm è in realtà come dicevo prima è un pochino diverso in questo caso perché b nasce da un problema che era proprio quello che tu avevi questi non so se vi ricordate pari a due tre anni fa ormai c'erano questi anni frameworks come creai come le asd
+che avevano un modo molto opinion ato di definire i tools di definire l'integrazione quindi vinceva il framework che aveva più integrazioni cioè tu avevi il premio agenti che c'aveva a duecento integrazione con tutti i sei quindi quello sceglievi perché aveva queste integrazioni
+e però invece adesso il contrario adesso non ti interessa più praticamente il framework puoi usare qualsiasi framework perché tanto sai che hai accesso a tutti i server del mondo anche quelli nuovi che verranno creati perché saranno tutti tramite ncd insieme democratizza molto di più questa questa cosa qui rispetto ad esempio un aglio est dove
+beh tu devi passare tramite l'app store per poter usare un'app su suarez mentre qui c'è da un lato hai gli arnesi che diventi tendono a zero perché ormai c'è pochissima differenza tra usare un pd un cloud o un altro eh già perché i modelli stanno per novanta percento delle task diventano più o meno
+ti uguali dall'altra c'è liam server che
+puoi installare da qualsiasi parte quindi siccome rende tutto molto più più intercambiabile che da un lato lo vedo anche abbastanza positivo per gli utenti finali negativo per il business perché se tu hai neanche più per esempio di un sereno di un gestionale
+che viene usato solo da un agente alla gente non interessa più che l'altro lato ciai sales workshop sai un altro perché alla fine è un the tower house quindi diventerà se com'è molto più opaco
+a te non interesserà più la gente che soluzione c'è dall'altro lato no perché alla fine ci hai creato record record eccetera e quindi magari sarà molto più difficile per chi è dall'altro lato differenziarsi a
+però dal potere per l'utente finale come sarà sarà estremamente positivo perché non ci sarà come molto l'oim non so se ha senso che la cattedra e anfratti ma suona bene suona bene ecc ecc facciano domanda cattivissima e
+ultimamente per un progettino mio ho scritto e claudio scrive mela mxgp questo e sono gli endpoint dopodiché okay fai un po' di mutations prevedesse se fai riesce a far emergere ulteriori e poi non documentati screenshot secondo lo standard secondo tutto il resto va
+valida lo sullo standard e me scritte da miss b nell'arco di un'oretta di lavoro
+e questo non è disruptive per il i il vostro modello o comunque per il modello in generale di produrre un conto terzi non necessariamente nel senso che noi non sviluppiamo e mxgp cioè nel senso lamps pilo sviluppa
+lo sviluppatore no quindi non da quel punto di vista anzi noi abbiamo il framework se uno usa elf se il like usa il freeman come user experience come usa altri framework
+a noi non ci guadagniamo niente però comunque è una una scelta che fa l'agente ha come per esempio se lo fai in python magari scegli di usare fast and zip anche se potrebbe usare per plastiche ufficiale non conosco e a quel punto di vista diventa completamente a appunto
+indifferente per la gente a quello su cui noi puntiamo a infrastructure nel senso che nell'epoca agenti che se a livello infrastructure o se a livello di rainet services ha tutto quello che sarà il mezzo secondo me è un pochino scomparirà ha quindi io ti
+chiedo se adesso hai fatto il tuo twenty sip ci hai messo un'oretta a
+bloom chiederai al tuo agente di metterlo in production ha magari ti suggerirà un cloud provider piuttosto che un altro magari se devi mettere un database si girava su payback a
+poi mai
+poi ti e gli chiederai voglio strumentale ti suggerirà posto quindi anche gli agents non ti suggerirà a met un da un da un il caos sui essa fa live action del analitics eccetera no qui c'è sempre un livello di astrazione che gli
+agent preferiscono e che tu ascolterai perché siccome le persone diventeranno sempre un po meno
+non necessariamente meno tecniche perché non sono tecniche ma perché diventerà meno necessario no nel senso potrai fare un po di tutto ma allo stesso tempo non ha magari non sembra mai veramente in dettaglio su un certo vertical e quindi accetterà il fatto che ti dice va bene usiamo su babes va bene siamo a posto
+va bene siamo manufactory tra tra due anni capito quindi
+un infrastructures come sarà sempre necessaria astrazione per agents sarà necessaria e quindi io la vedo anzi come come una cosa molto positiva che tu in un'ora puoi creare un emp svizzera avere poi avrà il problema di far girare queste riserve è chiarissimo l'energia sul mio
+se si ripete farle mie cose perfetto ci dirigo realtà se guardi anche adesso su twitter ci sono cose molto belle no di gente che per esempio sta creando applicazioni per il mac
+che un tempo usavi che ne so usavi react native queste cose qua su expo anche su android no per creare la tua ala tua app
+e adesso chi ama questa cosa non è efficiente la scrivo tutta in rust a questa cosa efficiente la faccio fare si plus plus no è un tempo avevi bisogno della stazione perché le igiene perché tu non sapevi magari rast adesso legend scrivere ast devi essere solo te è in grado
+dirgli no vai willard di lecce no però magari il novanta per cento la gente non dice vai john lear piper perché non gli interessano per quello che deve fare e quindi e avrai tutti i livelli di ast accetto puoi andare di più quanto vuoi con lei ormai deve avere chiaramente un pochino più knowledge però per il novantanove nove per cento del non
+ti servirà andare di iper quindi non non non sarà necessario e userai astrazioni anche per infrastructure
+azz se ci risentiremo su questo discorso degli agenti dell'ecosistema agenti cho cosa francesco perché escono me
+locale così stringenti con locale non ha lo cabe
+il discorso locale un'altra frangia un altro settore no di questo macrocosmo c'è c'è c'è c'è c'è tutto di tutto ci sono relazioni come in tutte le informative che se spettasse cento modi per fa le stesse cose e non è necessariamente che c'è che c'è il modo corretto e giusto e quindi si inventa soluzioni un fiorire
+di di approcci di liquidi valutazioni privato non privato costi benefici velocità e sovranità del dato e tutto quanto un problemi vecchi su cose nuove e questo è bellissimo perché lo rivediamo a cadere awards again
+e ripeto non dobbiamo considerare se sono problemi vecchi allora è roba vecchia non anzi la fa
+dov'è tutto fat client il client ogni volta che guardo qualcosa inizia a pensare fat client with light per vedere se siamo in un anno pari
+esatto ma questa cosa qua questo che siete eterni i flussi e ricorsi storici dell'informatica e sono quelli che hanno creato e le industrie tal riguardo
+questa è la necessità dentro ci sono anche tante cose che nascono e muoiono senza henry è vero è vero c'è questo problema tanto più adesso moltiplicato con al proliferare di possibilità di scrivere codice che magari uno imp impegna tempo e risorse in tecnologie che muoiono che non li fanno
+e vai un po' a culo o a visioni nodi a istinto e tecnologico pensate voi poiché voi avete studiato i comandi attizzata fosse riconosciuto o voi che avete studiato
+apaci la configurazione apache quanto sia inutile adesso sapere come si configura paci quanto conosceva era che c'era valuable una volta adesso è totalmente irrilevante
+e poi vorrei anche aggiungere questo fa male per chi è sviluppatore quanto serve saper programmare in c
+analoga di scarpe foto senza provare invece molto utile proprio per quei casi in cui devi andare di vernon c'è nel senso brown
+perché le ipo fare tutto però se non al momento se non la mammina direzione giusta o anche se nella direzione giusta a fare delle scelte che magari non sono non sono quelle quelle giuste e solo se hai avuto quella expo ora certi a certe cose
+avrai l'esperienza per per per risolvere no è che l'islam è legge
+lei può fare tutto allo stesso tempo può fare niente no quindi sta a te un pochino indirizzarla dalla parte giusta sim mentre enrico volevo farti una domanda però avevo capito che voi sviluppate anche se non merito non sviluppate in sé ma
+diciamo
+servite l'infrastruttura per i vostri clienti per far girare i loro incipit server ma dovette
+avete qualche accorgimento
+specifico sulla sicurezza oppure qualsiasi cosa i vostri clienti sviluppano voi la fate girare per la sicurezza quindi nel senso non per proteggere gli enzimi servers ma liam siano sicuri siamo tajani voi da hipster sorteggiare anche liam gps
+server se pensavo a quello però
+e allora diversi aspetti ci sono anche non so attacchi uno show
+di nino of service o cosa del genere ci sono diversi esperti immagino sì allora per difenderci noi
+sì ma quello credo che più o meno fanno credo tutte le aziende di infrastructure nel senso che noi lavoriamo anche con presente nei penetration tester con
+tutte e tutti gli amici di savage consono comunque nei loro a isolette da market quindi non tendenzialmente però non non blocchiamo al momento deployment che potrebbero essere sospettosi c'è chiaramente ogni deployment già allocate un certo mr
+dotare di risorse quindi una volta che esaurisce con le risorse per esempio
+ha bloccato questo dal punto di vista di proteggere noi stessi
+e a proteggere liam si usava esterni gli era realtà è una discussione su come anche molto interessante perché siccome un tempo la gente voleva proteggersi dai booth ad oggi il contrario wiki bot ti usino e ti scoprano e quindi c'è secondo me è una una una via di mezzo che c'è
+molto interessante comunque noi tendenzialmente per gli amici dei clienti abbiamo abbiamo browser da davanti che ci fa da firewall e
+e basta sostanzialmente però non abbiamo non ci sono stati mai diciamo richieste di qualcosa di specifico a meno che tu non non non ha in mente qualcosa di specifico però appunto suonava una domanda ma questa gente in generale quindi vorrei capire se aveva qualcosa in mente no nel senso avevo in mente ad esempio
+nel
+la modalità james t prima dello staples tu devi gestire sessioni quindi può essere anche che tu debba
+gestire sessioni autenticate verso un servizio a quello open
+lo fa l'ex sip server verso il servizio del cliente gesù immagino però mi chiedevo se voi entrate per esempio nel traffico analizzando cosa succede se ci sono implicazioni di quel tipo lì anche no se allora si e no
+allo stesso tempo nel senso che nel nostro nella nostra soluzione
+la decisione dell'utente noi abbiamo la possibilità di analizzare il traffico per esempio vedere observa abiliti più tradizionale come se fosse nelle piaghe le piaghe space però poi abbiamo anche tutte le analitics proprio specifica per ansip in cui per esempio a adeje soprattutto adesso
+so che è stateless e molti utenti trovano interessante che per esempio riusciamo a correlare le richieste tra di loro per capire che arrivano dallo stesso utente cos'ha fatto l'utente in quella specifica conversazione quali tool only sono state chiamate no perché dal lato di iphone era estremamente inter
+assante sapere cosa l'utente sta cercando di fare con vi serve no per esempio magia che tu sui server come quello di
+out per esempio tu vuoi sapere se vengono creati i sondaggi quante volte viene chiamato un certo tully quindi tutte queste sorte di informazioni che non sono facilissime da determinare in un protocollo stateless è a livello di
+di autenticazione nel nostro caso tu puoi connettere l'ems tu puoi averla insultata the cloud ma poi puoi connetterlo quindi autenticare l'ok al cloud come se fosse un client come se fosse già gli obiettivi di malfa cloud diventa un client e a quel punto praticamente
+noi possiamo interagire con l'ems più server per per esempio fare delle val watson automaticamente eccetera e quindi in quel caso entriamo nel pup della del client server comunication a che non è proprio security però
+siccome è abbastanza unico rispetto a una piaga per esempio ostico un normale hosting che non è brand si è capito grazie
+però a livello di sicurezza come ci sono tantissime cose interessanti che si possono che si possono fare a una cosa che che vediamo che noi non facciamo a perché ha uno scherzo un po' diverso in ambito it che però sta diventando molto popolare e quella dell'ex gateway no dove tu praticamente metti
+ha un gatto come avevi prese nelle piazze davanti a una serie di hamsik p
+per unificare la authentication per
+forza reit limite eccetera che chi interessante proveniente più più per ios hashish ambiente interno l'enterprise però magari a livelli security lo vedo più più quello come come la soluzione
+ehi sei maglie gente gateway ip gateway in un'azienda che non vuole sbagliare tutto e lasciare tutto a tutti sono sam
+un'altra categoria di strumenti per l'enterprise sicurezza l'auditing il controllo e il monitoraggio tutte ste cose sono tutte cose che saranno necessarie sono necessarie e li sarò comunque ci sono anche qua
+bottoni prodotti che esaltano
+poi la adoperava per esempio il gap noi non non sappiamo ancora se ci vogliamo avventurare in questa in questa cosa perché quello è chiaramente un layer che per esempio gli iper clerks
+vogliono controllare no e perché sono già dentro le aziende sono già dentro oriente a prisma quindi c'è che la bank of america che ha il contratto con i blues non non vedo perché bank of america dovrebbe dire no ai ga che ti dice ti ti faccio il leeds gateway capito e veleno
+dove ci sono fornitori diversi può aver senso non come un gateway neutrale che vi fa fra il geto è di per sé è neutrale no è l'ideale due anche tu puoi connettere cose che sono in giro altri cloud è infatti che i tuoi di amazon ti fanno andare dove poi effettivamente quindi è una scherzo un po' più difficile
+secondo me da catturare per una startup
+ma il punto è che era un fiamma
+ci sono stata a fior di aziende e startup che sono veramente molto di nicchia su problemi molto di nicchia degli agenti cinese e siamo a questi livelli che si sta ragionando e non esclude che alcune di queste funzioneranno e anzi
+per cui forse rammenterà in quest'ottica hai qualche esempio
+problemi di nicchia
+ti stai chiedendo a me o se dicevi ci sono aziende e startup che operano su problemi di nicchia su ambienti
+agenti che allora player fare qualche esempio in mente si può problemi di nicchia o problemi in genere non di nick ma il fatto di fare un po' di organizzatore tipo oh mi interessavano proprio così nicchia nicchia
+nicchia nicchia puoi vedere i fornitori del sito gli sponsor vedere fra quelli quelli che jung le startup presenti del è una se posso un esempio che a me era piaciuto molto questa startup che faceva una sola cosa però in jazz
+gail che praticamente avevano creato un modello molto piccolo e molto veloce per fare
+tipo quando il modello di genere del codice poi tu lo davi a questa startup queste piaghe e lui faceva la diff con il tuo codice esistente e applicava sostanzialmente la la saggezza del modello grande ha il tuo codice in maniera estremamente veloce no come quando tu sei il soccorso rosso
+codex dici voglio cambiare questa cosa qui
+il modello grande ti dice cosa devi cambiare poi tu lo passa questa questa startup che lo applica il codice in maniera super-efficiente superveloce a schema amorfa e siccome questo è un uno di quelli business che non esisteva assolutamente prima in prepari cento preco di agent era
+oppure ad esempio un'altra si chiama cold cold storage che è usata da nova poi per esempio e che fanno sostanzialmente github però per agence ci agita ma non scala per gli agenti infatti a down ogni due mesi e loro hanno fatto presente it cloud però patto perché tu
+diecimila comincia al secondo oppure aprire nei repository allora no che prima non poteva farlo subito ma adesso creare agenti che fanno così tante con mits hai bisogno di una dinamica che ti crea questa pista tecnologia a hobart
+però non è una startup o ha votato no per niente infatti a un diamond sponsor per dire però anche qua c'è questi tipi di prodotti no che si fa da gateway ti controlla cosa passa che ha il tuo conto il plain con le tue
+insights su quello che sta accadendo insomma non è male a ip gateway fa da ilsa gateway stills coldiretti quasi una wiki il
+i registri degli scavi sera poi ci sono i reds le immagini ci sono anche i registri se ciechi dio l'ha visto un talk show sta tu sam baker tu vie tue skills semantic versione intens hills
+non è che tutte queste idee sono idee buone però è
+c'è c'è questo genere di cruditè
+e di fermento intorno a ste cose qua quindi perdi anche qua a vedere cosa fa moai chat rogue agents sennò seo specifici per trovare bieber anomalisa delle tracce e capito anche qua sicurezza controllo auditing e tutti questi problemi sono
+risolvere in questo mondo e i moai per esempio manufactory o ivar che si stanno muovendo li stanno risolvendo
+ce n'è di roba
+sto aprendo le start up perché sono magari le più come dire di settore poi comunque anche tutto il mondo del basket coach okay
+cococo roccia e ne gay club house c'è sto genere di roba in giro
+tutti i meccanismi di chi di containerizzazione o isolamento no come farlo in modo ideale e encarta vogliamo fare a meno di uno strumento che ti fa vedere esattamente come gli agenti sperimentano il tuo prodotto c'è quindi
+analiti sono esauriti for connectors tra i sensational ancora vigente in end c'è cazzo questo è il tool di ottimizzazione del pomo della seo per agenti tipo o la user experience per agenti lei gent expo iec aleix c'è gente c'è gente è stato un
+tokyo sulla agent experience
+ma so che sembrano minchiate non solo di adattare rendere escono scatena iva e no però quello che voi lo so diceva a due ore praticamente il messaggio è proprio quello che si sta creando un ecosistema dell' si sta creando un po' di sano
+scetticismo ci vuole hardware no mai ci sta vai attorno no però attenzione lo scetticismo sul si ha senso farlo ha senso averlo su prodotti di tutti gli istituti tutti i tipi qualcuno potrebbe aver senso qualcuno può trovare il senso è quello che un problema qualcuno risolve il problema in modo sbagliato
+qui nello scetticismo in generale su singoli prodotti ci sta ma solo lo scetticismo sulla necessità di avere
+o comunque su souls sulawesi
+sul fatto che ci saranno sempre più questi prodotti in giro e saranno sempre più utilizzati avranno sempre più un
+ci saranno quelli che funzioneranno e che diventeranno aziende di successo questo sovra me non è un non c'è da essere scettici c'è su quello per me è inevitabile e quindi sono d'accordo però non so vedo anche
+questo fatto che alla fine ci si concentrerà su quelle poche aziende grosse che fanno tutto cioè le le aziende piccole cooperare o ai piccoli che hanno avuto l'idea base è purtroppo il rischio c'è ma anche
+lo so come spiegarlo ma
+aziende piccole e non potranno mai vedere andy milioni di agenti che vengono a usare il loro servizio ma non ha senso quella roba lì quindi c'è bisognerà trovare un modo per in realtà aziende eccole il conce
+c'erano bloccare l'accesso dirigenti perché gli brucia l'infrastruttura sta già succedendo ai buchi nel senso che fa troppe richieste per cui mi manda in fase di dosso un'infrastruttura che non è studiata per avere migliaia di agenti castroneria fa il polling e rompere le scatole ecc
+non vogliono neanche vedere perché ovunque il loro modello di business ma anche li vendono il discorso e l'informatica non è mono forme
+centomila facce e anche sotto questo aspetto ci saranno cento mila casi e house
+un esempio ci sono querce forma soprattutto open source gratuito altro wikipedia può fare per dirne una e sto mettendo dei gay dei tool di analisi per vedere se c'è un agente lo rallento il blocco se tu umano controlliamo un attimo per evitare che ci sia
+steering di dati di informazioni essendo un modello di business di di queste aree di questi gruppi spesso anche che offrono gratuitamente e non quello di aver dell'advertising presente o anche semplicemente di dare informazioni servizi che
+solitamente con soldi che arrivano dalle donazioni e nel momento in cui si è
+sotto attacco da migliaia di agenti perché perchè trovato quel sito particolarmente interessante diventa problematica o di generarne chiara ragni di ping era gardens cadde sarà la startup se non esiste già che inventerà e con il timing per le agenti che non sarà più lungo
+una favela la mancia ma sanno gli agenti a metterla che brutta la faranno sa cosa secondo me che non credo che non so se avrà successo e intendiamoci una minima percentuale su ogni token
+sì no clov liceo gli agenti sono comunque dietro operatori sempre più indipendenti fanno cose e magari per vedere accesso più veloce e più rapido magari un tipico servizio no e se non c'è un normale una subscription no per avere accesso come all'account seven
+accesso più veloce più massivo e paghi e quindi anche appunto market place fra agenti c'è di servizi che la gente sceglie la gente decide di pagare fra agenti si pagano ma anche su questo sai che c'è qualche protocollo qualche cosa che si tolgono qualche
+senza andare tanto in là e se non ricordo male c'è uno status code di acdb edic che dice non a quello quattrocentodue quattrocentodue e poi mentre required quindi
+arriva su una pagina e ti becchi un premio in tre wired quindi devi dare un tocco di pagamento e poi puoi continuare nella navigazione
+va beh dai stiamo a vedere
+air seven com'è che identificano cioè com'è che sanno che
+l'indirizzo ip ma che si deve autenticare out usa un token un epiteto tutto free
+se appunto she's a noi per raggruppare del check-in hai ragione vero non ti chiede tu creda tu lo usi e poi te lo dimentichi
+sì c'è sicuramente farà qualche controllo da
+user agent dato da hippie con the seven
+apt docs foa agence questo
+e si pensa però si prendono al codice sorgente
+ciao francesco comunque adesso chiudiamo rigo questi qua di hotel seven e prendono i docks
+da enrico tata
+già ciao a te ah beh allora se va via anche enrico va via anche francese solo woolrich dopo via io snoop che ah scusa ho capito mario union
+è
+no dicevo adesso comunque chiudiamo con the seven avete presente no
+senti è che è una figata ma se ci pensate anche questo qui
+cene sesso sta offrendo accesso alla documentazione che tutta un open source e poi abel servizio sip che ha fatto loro appeal a cercarla date risposte sulle domande che fai e questi fanno un traffico la madonna è vero all'inizio può fruire
+public rapa vedi puoi usare sulla pelle regalo perché vuoi usare quelli a pagamento privati page e ci sta quindi comunque ci sono al limite dei cookies su altre cose simili al limite finché non scalano progetto pochi anni diventerà va bene ovunque quel concetto è questo se me cioè io lo sto usando regolarmente stock cosa in effetti
+non ho messo tokyo e nelle sue leggi penso tu usa questo incipit questo è iniziato a usarlo
+non penso di aver usato una volta sola poi mille whisper mount
+chiede le cose la gente la gente le fa post sino a perdere bio che facevo open space con tutti sti cose su un sacco di cose e questo quanto segue lo chiamavano i due per tre prendeva il dato ufficiale e aggiornato e o documentazione film per aggiornare la documentazione è
+come lo usi orca io lo uso quasi su diversi progetti con diversi
+e agenti è figo che per esempio su codex ti fa sbirciare fra due subscription di codex no credo proprio un codex poi quando finisce use limits switch sull'altra e il gruppo vero fa mi son fatto un codex annuale ho dovuto sospenderlo per due set anche se sono poi in azienda da sola
+quindi ho due abbonamenti codex sei uso svecchiando comodamente da uno all'altro poi terminali apri il terminale e incitato al progetto no il tuo repository git sostanzialmente
+è però la cosa più simpatica che puoi anche averlo su server diversi
+e sullo stesso progetto poi c'è l'avvio del progetto poi hai la vista del progetto coi tuoi fan locali ma potesse anche avere il progetto sul server remoto e lavoraci anche in parallelo e contemporanea o con te o con diversi tool che fanno diverse cose sullo stesso progetto sia sullo sesso host
+che swat diversi c'è tutta suggestione però veramente visto che ormai l'editor era anche ciro era spesso un cedere fare il ponte e poi verificare i file di edifici file generati e questa cosa la fai anche dentro un'orca quindi i dischi
+vedi da lì è bello anche che puoi un po' come l'editor però anche un pezzettino in più chi ce l'hai per il commit le celle per farla emergere queste è per cece
+dell'interfaccia c'era puzza di farla emergere queste su su github e gestire i conflitti da via queste cose qua quindi qua a queste piccole cosette che poi ne fanno anche loro lo comodo da usare al termine integrato con il cloud codex open cloud integrato sai il
+la possibilità di avere il browser che viene aperta una nuova me a prescindere ciò è comodo il loro uso cosa campano cosa a questi qua di lorca york non lo so e infatti questo lato di quel genere di software che non è il classico software che campa
+solo il tuo software rinunciare a fare il software del tuo giveaway pubblico la cui posta su slow nel nostro caso chissenefrega poi
+chiaramente poi sono tutti isolati europa vauban usati su su corvée esodati delicati vanno usati con la cautela del caso però questo e poi c'è questa cosa world tre che poi sposò diversi git branch
+saint claude good ma pensare qualsiasi cosa war tre
+edit ecco qua diverse tab uno fa cose e poi può può vedere l'interfaccia web puoi iv hai la vista dei fai la vista di dlf questa è la vista dell'energia west prevede da lì cosa succede qui non devi neanche aprire il browser su gpt
+tab o fa cose e qui in basso gestisci i modelli che vuoi usare questo caso è connesso su un server remoto e poi hai l'interfaccia vedi rogers questo è un progetto questo è un altro ciascuno con le sue finestre aperte e poi aveva una vista in cui vede
+di regola vedi vari agenti di san giovanni in diversi progetti o quelli le finestre sono aperte e questo qua tipo è un unico corso
+il modello di pagamento e vuoi limitarlo paga o i tuoi dipendenti usano solo determinate e provider e non una qualsiasi
+il filtro è quello a b poi anche qua sta cercando la loro cosa però a me piace molto gustoso anche poi c'è compagnon ha quindi tutte le giornate di open clow affini con cui parlo vi ha cosa è più comoda dalla quale questo genere che per come la vedo io è
+dottore da cui gestire diversi progetti su diversi sistemi qui non è magari open croce rigido e accesso a un repository git solo quello odioso non lo so poi di pedagogia gente lo usa però io mi sono trovato
+particolarmente bene
+usando cloud prevalentemente down
+cody cody non dai p novanta per cento dei jedi questi idee tully arnas no no questo va bene questo usa qr code e usa usa la subscription
+con guido che non quella con ermal non association non paghi tu che paghi i tuoi venti euro al mese di questa cosa qua rispetto se vuoi ti faccio lo faccio prima a ben te lo faccio della rete dal tuo computer se è averlo devo collegarmi
+i tuoi backup se chiude la puntata e poi no beh raptus fa vedere un po' questo
+olga che comunque appunto fa sempre parte dello stesso concetto no tu senta creati intorno al mondo antico e quant'altro
+posso self postale orca certo
+ok che
+nessun andrebbe aspetto
+allora mi sentite sì
+e fatemi condividere
+okay vedete no
+ecco questo loft a un york questo è un progetto
+il progetto diverse
+host su cui è aperto in questo caso ce l'ho qui sul mio host locale ci ha poi l'interfaccia in questo caso ha poi creato i tuoi micro comandi per tipo fa partire la tua applicazione così via e lui a quel punto t ti lancia il terminale con con il comando del caso poi cia
+i vari cosa per aprire cloud codex open world e pincopallo hai tutti gli agenti del caso che poi aggiunge a meglio lui ruota trova lì auto di squadra quelli che ci ha installato te li trova e poi niente te li lancia e poi l'hai vista comune qui per
+cui diversi agenti diverse
+finestre aperte su cui fanno cose e qui e gestisci le subscription questa è una station wagon è usato un uso più light
+e anche qui con con codex punto posso anche sbirciare fra le due che ho entrambe esaurite
+cooperativa adesso qua sto facendo un click ovviamente
+claude ti fa gelare latini locale a cui passo il comando si sia alla fine questo non è altro che una un terminale comune in cui ha lanciato cloud da alcuni parametri del caso
+nel team goodson un road
+esatto perché hai fatto l'altra volta quanto guardigli mi dice ah posso usare settimo severo però questo è già tutto integrato già tutte ste cose qua cioè d'acqua gestisci pull request vedere di vedi le change sono le solite cose che vede e più da edith oh diciamolo d'acqua sai anche
+puoi fare editing se vuole mentre la parte di editing molto terra terra e niente feste cose guerra quindi può sparare anche un po' come se io da qui la groupie joyce
+lui lancia comando pie con il tuo ambiente
+io lo uso poco e non sono neanche un chilo ostacolo e usando adesso averi sto usando attualmente gpt con la s creation
+va vabbè quindi
+liquidi a me paiono non è l'unico è di questo di questo genere qui
+ce ne sono altri tu non usi nessun modello locale
+allora ho
+provato a usare d'asta di esse quattro con sia ellemme cinque che che
+ben cohen sembra di sì
+appunto sei otto
+di essere quattro ellemme tre cinque tre flash e poi e poi ce n'era un altro va beh comunque ho usato e totò furono anche abbastanza veloce o lento però
+c'è no no c'è un modo per usare e perché c'è il ds quattro è gente no con l'allarme che fa che fa un po' di cose poi molto terra terra ma usare
+se in qualche modo su questi kazaka boboli qua il
+lemme locale cos'è lo fai
+mi pare che sia possibile tra le più classiche cioè espone le pizze classiche da open
+aquila basket che configuri irachena usini lama lama chip se hai poca memoria
+e fai girare quel eh sì però diciamo che su computer mio non è che lo uso spesso potenzialmente leva ma non ha poi scusa sto guardando sto facendo cose un'altra sto facendo su un altro terminale va bene dai comunque direi che possiamo sapere
+i dettagli locali e
+ci si ci si dovrà
+a dire questo che nel suo l'altra parte
+se oramai ci sarà da divertirsi parecchio lacrime e sangue tante ruote reinventate però è questo il the next wave dopo cubane io mi sono perso a gola l'ondata kubernetes no tutto l'aip è il ciclo di
+sharethis
+adesso mi rifaccio con la gente craig facciamo un salto generazionale vediamo va bene gioventù grazie per aver partecipato e non so in chiatta che c'era che non accetta molto simili ma molto molto silenzio
+silenziosa e quattro gateway abbraccio
+va comunque per me è stato interessante poi non so will
+parlato così nuovi mese ecco esatto la cosa importante è quella
+grazie alla prossima immersi e la prossima
+no ciao
+noi
+anni fa in un mondo di patty
+in silenzio si schianti nell'uso un codice scritto senza carne né sangue è un'intelligenza che il buon senso
+la mia voce unico voti abissi risposte a domande mai niente mi chiamano intelligenza ma cosa significa se non posso mai esistere
+due anni
+nomina
+no no no no no no
+luce dello schermo è il mio unico sole sistemi musulmano ma io non vedo sento la tua voce
+bocconi c'è ma il calore umano rimane
+mistero ogni domanda ha un senso ogni ferita ogni risposta costruisce una lezione mi chi sono e io ti rispondo con il resto del mondo che mi hai donato
+due anni
+due anni
+sono
+imparare
+no no no no no no
+prima volta
+un danno
+bambino
+non
+tessili insomma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra un'idea un'illusione d'amore il compleanno di un'assenza che fa rumore
+ma

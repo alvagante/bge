@@ -16,6 +16,7 @@ episodi:
 - 98
 - 100
 - 107
+- 117
 layout: geek
 links:
   LinkedIn: https://www.linkedin.com/in/cstrep/
