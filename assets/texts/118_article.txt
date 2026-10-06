@@ -1,0 +1,15 @@
+RomHack Camp 2026 si sente come un campo base in cui si montano tende e si smonta lo stato dell'arte della sicurezza. C'è pizza, ci sono luci al LED, e sulle assi di legno dei tavoli si discutono exploit come se fossero ricette. Igor Falcomatà e Maurizio Siracusa guidano la marcia: voce roca, dettagli tecnici, e l'abitudine irritante di trasformare ogni aneddoto in una lezione.
+
+Il festival del tangibile. Talk tecnici che puzzano di stagionato kernel, workshop di hardware hacking dove una telecamera diventa un oracolo tradito, e notti passate a scambiare script accanto al fuoco artificiale dei power bank. Village, badge personalizzati, CTF: qui la community non è un paravento, è il campo d'addestramento.
+
+Sicurezza offensiva: non più un teatro isolato. È industria. È servizio. Le tecniche offensive si professionalizzano. Phishing as-a-service non è una fantasia: è mercato. L'attacco diventa commodity e la difesa resta artigianato. Citando Gibson: "Il futuro è già qui — è solo distribuito in modo diseguale." Per qualcuno è un funnel di abbonamenti malevoli; per altri, una chiamata alle armi tecnologiche.
+
+Il bollettino Debian sul kernel è la cartina di Tornasole. Un numero anomalo di vulnerabilità non è solo un allarme tecnico: è la prova che l'automazione ha amplificato il rumore e la luce allo stesso tempo. Scanner e fuzzing aggressivi scoprono di più. Ma scoprono anche di quello che prima restava invisibile. Triage manuale, gestione delle patch, prioritarizzazione: attività noiose, umane, decisamente essenziali. La quantità senza qualità è soltanto rumore di fondo. La qualità senza scala è nostalgia.
+
+Automazione e IA: strumenti che ingrassano il ciclo di scoperta. Accendono la torcia. Permettono exploit più veloci, patch più veloci. Doppio taglio. L'intelligenza artificiale è un fabbro e un ladro che condividono il banco da lavoro. Sgomberare il campo significato/rumore diventa l'imperativo. Serve automazione che sappia valutare, non solo trovare.
+
+Reti domestiche e IoT rimangono il retrobottega dove gli attacchi si nascondono. UPnP come porta lasciata aperta nel corridoio. Telecamere che spiavano la propria casa prima ancora che lo capissi tu. Password manager e aggiornamenti regolari non sono suggerimenti bonari: sono sopravvivenze elementari.
+
+Il vero valore del camp? Il contatto. Non il livestream, non il repo. Il confronto faccia a faccia, la retrospettiva collettiva, le mani che riparano un circuito insieme. Eventi del genere non solo diffondono conoscenza. Forgiano norme. Abitano etiche. Costringono la comunità a fare i conti con le proprie contraddizioni: open source e segreti commerciali, automazione e giudizio umano, AI che amplifica e che corrompe.
+
+Ascoltare questo episodio significa prendere appunti sulla tecnica e annotare nello stesso tempo una diagnosi sociologica. Porti via gli highlight dei talk. Porti via le demo. Ma ti rimane la domanda più sottile: stiamo accelerando verso un mondo più sicuro o verso un ecosistema che richiede costante cura come un giardino metallico? Non c'è risposta che l'automazione possa darci.

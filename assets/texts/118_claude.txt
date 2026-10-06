@@ -1,0 +1,29 @@
+# Quando il Campeggio Diventa Cyberpunk: RomHack 2026 tra Falò e Firewall
+
+*"La sicurezza si costruisce come un falò: con pazienza, stratificazione e la consapevolezza che una scintilla può ridurre tutto in cenere."*
+
+Il BGE 118 ci trasporta in una dimensione dove l'hacking incontra l'outdoor, dove le tende sostituiscono i data center e il networking assume significati multipli: quello delle connessioni umane e quello dei protocolli vulnerabili. RomHack Camp 2026 rappresenta l'antitesi della sterilità corporativa, un ritorno alle radici della cultura hacker dove la condivisione prevale sulla competizione.
+
+## L'Ecosistema delle Vulnerabilità: Dal Kernel alla Coscienza
+
+Il bollettino Debian menzionato nell'episodio diventa metafora perfetta del nostro tempo: l'automazione ha trasformato la sicurezza in un gioco di numeri dove ogni vulnerabilità identificata produce dieci figli. Siamo nell'era dell'*exploding CVE syndrome*, dove il triage manuale diventa archeologia digitale e gli strumenti automatizzati generano più rumore che segnale.
+
+La sicurezza offensiva si evolve come un organismo darwiniano: il phishing-as-a-service democratizza l'attacco, abbassando la barriera d'ingresso fino al punto di non ritorno. Non serve più essere Kevin Mitnick per orchestrare campagne sofisticate; basta un'API e una carta di credito.
+
+## IoT: L'Internet of Threats
+
+Le riflessioni sulle reti domestiche rivelano un paradosso fondamentale: connettiamo frigoriferi e telecamere ma ignoriamo i principi basilari della segmentazione. Universal Plug and Play diventa *Universal Pwn and Play*, una porta spalancata verso l'interno delle nostre vite digitali. 
+
+Come notava Bruce Schneier, "la sicurezza è un processo, non un prodotto" – eppure trattiamo i dispositivi IoT come elettrodomestici da installare e dimenticare, password di default incluse.
+
+## L'IA: Amplificatore di Ogni Intento
+
+L'intelligenza artificiale non è né salvatore né nemesi: è un moltiplicatore neutrale che potenzia difensori e attaccanti in egual misura. Gli strumenti di analisi automatizzata scoprono vulnerabilità con efficienza industriale, ma la stessa tecnologia può generare exploit personalizzati su scala. È la corsa agli armamenti riformulata in chiave algoritmica.
+
+## Community come Contrappeso Entropico
+
+Il vero valore di eventi come RomHack Camp risiede nella resistenza all'atomizzazione. In un'epoca dove la sicurezza diventa servizio cloud anonimo, il campeggio hacker riafferma l'importanza della trasmissione orale della conoscenza, dei badge hardware personalizzati, delle CTF condivise sotto le stelle. 
+
+La socializzazione non è accessorio folkloristico ma necessità epistemologica: certe intuizioni nascono solo dalla frizione informale tra menti diverse.
+
+*"Nel futuro, la differenza tra chi sopravvive e chi soccombe non sarà determinata dalla tecnologia posseduta, ma dalla capacità di adattarsi alla velocità con cui quella tecnologia trasforma le regole del gioco."*

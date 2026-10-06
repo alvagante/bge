@@ -7,6 +7,7 @@ episodi:
 - 91
 - 93
 - 100
+- 118
 layout: geek
 links:
   LinkedIn: https://www.linkedin.com/in/myfox/
