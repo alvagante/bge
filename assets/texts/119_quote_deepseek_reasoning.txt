@@ -1,0 +1,17 @@
+We need to produce a short invented quote (max 150 chars) in Italian, based on the provided podcast episode text. The quote should be memorable, punchy, poetic, punk-ish, deep, essential. It must not invent an author; just the quote text, no commentary. Respond in Italian.
+
+The episode is about AI-assisted reverse engineering, software possibly being "dead" but evolving, SaaS costs, customization, automation, ethics. We need a quote that captures the essence: maybe about software being dead but reborn, or about reverse engineering as creative destruction, or about AI making everyone a developer, or about the end of traditional software but the beginning of something else. The title says "Il software è morto, viva il software!" So a quote could play on that.
+
+We need max 150 characters. Keep it concise. Something like: "Il software non muore: si decompone in mani nuove. L'AI non scrive codice, riscrive il mondo." But check length. Or: "Reverse engineering: l'arte di uccidere un software per farne nascere mille." But maybe too literal. Need poetic and punk.
+
+Let's craft something like: "Il codice è morto. Lunga vita al codice che nessuno ha scritto." Or: "Con l'AI, il software non si sviluppa: si disseppellisce e si ricicla." Or: "Non è la fine del software, è la fine del copyright." But avoid too specific.
+
+Maybe: "L'AI non programma: dissotterra. Il software muore vecchio, rinasce libero." Check length: "L'AI non programma: dissotterra. Il software muore vecchio, rinasce libero." Count: 68 chars. Good. But need more punk? "Il software è morto. L'AI ne profana le tombe e ci costruisce sopra." That's edgy. Length: "Il software è morto. L'AI ne profana le tombe e ci costruisce sopra." 65 chars. Nice. But maybe too dark? Could be memorable.
+
+Or: "Reverse engineering: l'AI non crea, ricrea. Il software muore, ma il codice è immortale." 80 chars. 
+
+We need to ensure it's based on the text. The text talks about reverse engineering with AI, recreating software, questioning if traditional software is dead. So quote about resurrection or recycling.
+
+I'll go with: "Il software è morto. L'AI ne profana le tombe e ci costruisce sopra." This is punk, poetic, memorable. Check max 150: yes. No author. Just the quote. Respond in Italian. So final answer should be just that text.
+</think>
+Il software è morto. L'AI ne profana le tombe e ci costruisce sopra.

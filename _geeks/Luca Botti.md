@@ -2,6 +2,7 @@
 episodi:
 - 68
 - 79
+- 119
 layout: geek
 links:
   GitHub: https://github.com/lucabotti

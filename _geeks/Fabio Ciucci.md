@@ -1,6 +1,7 @@
 ---
 episodi:
 - 107
+- 119
 layout: geek
 links:
   LinkedIn: https://www.linkedin.com/in/fciucci/

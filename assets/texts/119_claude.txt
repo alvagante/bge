@@ -1,0 +1,33 @@
+# Quando il Codice Diventa Argilla: Cronache da un Mondo Post-Proprietario
+
+L'episodio 119 della Brigata dei Geek Estinti si apre con una domanda che suona come un epitaffio: il software tradizionale è morto? Ma attenzione, non si tratta della solita retorica apocalittica da clickbait tecnologico. Qui si parla di ingegneria inversa potenziata dall'AI, di Large Language Models che scompongono applicazioni come fossero puzzle IKEA e di un futuro dove la distinzione tra "creare" e "ricreare" diventa nebulosa quanto un contratto di licenza non letto.
+
+## La Democratizzazione della Decostruzione
+
+Ricotti e la brigata affrontano un paradosso affascinante: mentre le aziende SaaS continuano a gonfiare i prezzi come palloncini all'elio in un party aziendale, strumenti come Reverse Engineer Anything stanno abbassando la barriera d'ingresso per smontare, replicare e ricostruire praticamente qualsiasi software. È il trionfo dell'ingegneria inversa democratizzata, dove un modello generativo può trasformare uno screenshot in un'applicazione funzionante più velocemente di quanto serva per leggere i termini di servizio.
+
+Come osservava Arthur C. Clarke, "qualsiasi tecnologia sufficientemente avanzata è indistinguibile dalla magia". Oggi quella magia si chiama prompt engineering, e la bacchetta magica è un'API.
+
+## Il Costo della Personalizzazione
+
+L'aumento esponenziale dei costi SaaS ha innescato una risposta evolutiva: le aziende stanno riscoprendo il fascino dello sviluppo in-house. Non per nostalgia romantica, ma per pura necessità economica. Quando un abbonamento costa quanto un junior developer, l'equazione cambia. L'AI non sta uccidendo il software proprietario – lo sta semplicemente rendendo obsoleto come modello economico dominante.
+
+La personalizzazione diventa il nuovo standard, non un lusso. E l'interoperabilità? Non più un sogno utopico, ma una conseguenza inevitabile quando puoi reverse-engineerare qualsiasi formato proprietario prima del secondo caffè.
+
+## Sicurezza: Il Tallone d'Achille dell'Era Generativa
+
+Ma c'è un lato oscuro in questo Eden del codice liquido. Se l'AI può ricreare software in minuti, può anche identificarne le vulnerabilità con la stessa velocità. La superficie d'attacco si espande proporzionalmente alla facilità di deployment. Ogni app generata automaticamente è potenzialmente un vettore di minacce, a meno che la sicurezza non evolva dalla postura reattiva a quella predittiva.
+
+Come in *Neuromancer* di Gibson, il cyberspace è diventato un territorio di frontiera dove i confini tra lecito e illegale si sfumano nella penombra algoritmica.
+
+## L'Etica della Ricreazione
+
+Il dibattito etico emerge inevitabile: dove finisce l'ispirazione e comincia la clonazione? La discussione tocca territori spinosi, quelli dove copyright, brevetti e licenze open-source si scontrano con la realtà di modelli addestrati su miliardi di righe di codice altrui. Siamo di fronte a una nuova forma di "pirateria generativa"?
+
+Le normative arrancano dietro l'innovazione come burocrati in un romanzo kafkiano, mentre gli sviluppatori navigano in un limbo giuridico fatto di interpretazioni creative e zone grigie.
+
+## Il Programmatore del Futuro
+
+L'automazione non eliminerà i developer – li trasformerà in supervisori di sistemi autonomi, orchestratori di pipeline generative, architetti di prompt sofisticati. La competenza tecnica si sposterà dalla sintassi alla strategia, dal debugging manuale alla governance algoritmica.
+
+Come suggeriva Asimov nelle sue leggi della robotica, il vero problema non è mai la tecnologia in sé, ma come scegli

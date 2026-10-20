@@ -1,0 +1,712 @@
+maggio
+uso
+uso adesso
+quindi cercavo una logica
+sotto i binari non c'è più spinta
+serie ga
+macchina che parla da sola
+grazie
+composito grazie
+grazie
+in piazza
+dal vincitore
+smontiamo pezzo per pezzo
+niente più belli da provare
+il nostro lavoro oramai
+uso
+mikey
+mikey
+sotto
+le date
+tanto
+ora
+dario
+la patata
+mi sta a cuore morto
+da fare
+guarda
+grazie
+si chiama
+in piazza
+dal vivo
+ma
+e quindi e dopo un certo ritardo puntata centodiciannove brigata degli istinti ci ritroviamo ancora una volta a parlare di e
+gli effetti che sta avendo sul nostro mondo e in particolare su questa direi recente tendenza di fare reverse engineering di tutto e ricreare software come se non ci fosse un domani e domani anche software particolarmente
+è diffuso e comune e beh lo facciamo con fabio ciucci e luca botti e insomma ci siamo già incrociati su questi schermi e due parole vostre di introduzione sull'argomento che cosa come la vedete questo trend diciamo recente
+ma se posso dire gli strumenti lo rendono possibile fattibile poi che sia funzionalmente valido quello che è comunque del lavoro da fare dietro
+ci sto pensando in particolare a strumenti tipo sars
+che quindi tecnicamente sono anche relativamente semplice non sto pensando a reverse engineering di word o excel photoshop come somma emerso da
+sui canali social negli ultimi nelle ultime settimane no quelli sono strumenti sicuramente più semplici da copiare però anche più gravi
+pericolosi poi visto
+sto parlando dei sas perché chiaramente si espongono per loro natura a critiche a vulnerabilità più importanti è un'applicazione desktop stanchi la rete
+e deve essere sicuro
+entro certi limiti
+io recentemente stavo accennando prima che cominciasse la diretta mi sono trovato con salsa che usiamo in azienda che ha avuto un incremento importante nei costi quindi non citiamo l'azienda
+sponsali e dell'incremento anche se chi frequenta e serve spazio può immaginarsela ma no dai tira fuori i nomi
+tanto che rimandano a dire quelle che non aumentano e la vita è più corta eh va bè ma è questa azienda ha fatto
+dell'acquisizione e dell'aumento dei prezzi una strategia quindi che sia sia così sia così complicata l'unicorno italiana no bending spoons
+e quale in particolare delle acquisizioni ha fatto
+stavano noi in azienda sono ormai anni che usiamo harvest che il loro sistema transit che fondamentalmente ogni software house dovrebbe farsi in casa ma siamo stati pigri finora allora a seguito di questa
+insomma dice incremento di prezzo ho lanciato po' lì paio di strumenti ho usato per router è più o meno quando dici euro metà del lavoro è già stato fatto
+nel giro di un paio di settimane di lavoro effettivo il tutto sarebbe possibile portarlo in produzione a portare la produzione in serie non lo slope
+evil del codice tanto fatta a mano perché io sono ancora di là di quella testa lì so che fabio la terza ovviamente in maniera un po' diversa però
+io sono un po' questa forma mentis di controllare quello che viene generato difficoltà paese che è stata la parte okay quindi gli ho chiesto ho chiesto a open router di perché poi mi sono appoggiato lì e ho chiesto per rompere prendeva
+di generarne un semplice frontend te max
+g s e quindi fondamentalmente tuning molto compliant quindi è molto facile per l'intelligenza artificiale contrariamente a partire kate
+io stesso codemotion esige una cena questa tematica del fatto che le hai su su twitter tipo reato angola hanno molta più fatica amiche con gli standard sono molto più a loro agio backend picton e anche lì è molto semplice
+molto ben conosciuto dalle ai e dico
+quattro ore e forse sei ore di sei euro di open router causato tra l'altro tutti modelli bassi niente di particolare e al momento poi mi sono fermato lì perché era solo un esperimento non ho ancora l'intenzione vera di
+di proseguire non so cosa farò ma no
+l'esperimento è interessante
+che ci vuole veramente poco ciao michele
+c'era michele
+e se poi allora c'è il classico discorso di quanto c'è il software che ci si crea in casa scappa uno sloppy poi va in qualche modo mantenuto e gestito è quello il problema c'è però insomma se uno pensa di se avessi fatto tutto in un
+con una complessità diversa magari seguendo la moda del momento di riscrivere tutto il rast eccetera ovviamente la complessità sarebbe sarebbe stata molto più moto diversa o seguendo le mie lamiera il mio mondo nativo che è quello che già hanno quindi ancora e ancora
+classici spring boot
+hilton garden heights tutta roba abbastanza manutenibile e secondo me
+con una buona ingegnerizzazione del tutto anche fascino vintage diventa abbastanza semplice in questo
+replicare il funzionamento di una di uno strumento sasso è diventata dico immediato ma insomma alla portata di molti
+il che mi fa pensare perché poi io che sviluppo software romanzo nella stessa situazione credo che stia facendo pensare un po' in mezzo mondo informatico è tutto quello che sta accadendo in questi tempi
+è michele fabio
+un po' appunto introducendo l'argomento
+sì il reverse engineering è che questo casa tu hai fatto un reverse engineering però non c'è nel senso hai ricreato le stesse funzionalità non hai fatto strettamente parlando immagino reverse engineering della minacciosa
+se è per l'appunto artist e vi dico
+beh non so se lo conoscete il vecchio pensi il derby si chiamava così chiunque che è uscito adesso dalla corsa allo screenshot dell'arma hanno scherzando screenshot della
+del sito web lo metta su canvas e lo ricrea la uai
+con quello che gli dice di liceale quindi con sottostate di un anello ma come dicevo io l'ho collegato al router causato dall'utilizzo che ho visto ha usato credo cos'è luna quasi esclusivamente londra senza grandi a quelli proprio terra terra
+proprio terra terra anche perché ti ripeto lo stack base lo stack che gli ho chiesto di usare e semplice a jack sparrow più katniss non è complesso però elena
+ovviamente ci sarebbero delle interazioni affari c'è davvero ripeto paio di settimane di lavoro serio e labbra la ricrea la lyra
+poi devi decidere se esporti se fare concorrenza a usarlo sono intimamente disposti a segue ti viene ora in questa ti viene un po' no la sindrome del male ma se ci ho messo quattro ore a farlo con quattro prompt cui devo farlo tutti e quindi perché possono farlo tutti perché metto a farlo
+tutto qui fabio michele la mia esperienza e mettere fatto qualche prova diversi in genere king avete usato qualche strumento cose di questo genere io sono ho solo fatto roba a occhio io
+semplicemente prima non me li faceva a mano e le cose ora glielo dico a lei queste cose dell'aids esistono più per sentire voi fedeli aggiornamenti e reverse engineering lo facevo in assemblee trenta anni fa credo
+è peraltro ma sono d'accordo proprio che dice luca cioè sostanzialmente anche tanta gente che conosco se si sta rifacendo un pò di roba però ecco bisogna considerare che c'è davide bentornato a considerare che c'è se tu prendi come base quelli che sono qui che
+e comunque si descrivono anche a mano le cose e diciamo nella media dell'utente de zayas e quindi c'è
+il fatto che magari che so un uno per cento un cinque per cento delle clienti del sas sono o hanno persone in grado di
+in teoria farcela a mano però non sarebbe praticabile no li fanno a mano perché non conviene mentre con l'ai diventa conveniente perché appunto gli dai quei tre pronte proprio i tre pronte il cliente che non è estinto
+i giga estinto eccetera non saprebbe esattamente quali pronte non saprebbe valutare il risultato se diciamo è giusto o no
+quindi avrai il fatto che tutti si ricreino il sax a casa direi di no proprio per un fatto
+questo cinque per cento pur policy act saas e alcuni di questi appunto gli può avvenire come diceva luca ma
+lo vedo anche agli altri che poi è quello che insomma si vede anche fare girano e te lo mettono magari open source
+come dire matite arrestatelo se ti pare se no io te lo vendo a il minimo possibile di hosting
+ci guadagno pochissimo però è comodo perché poi però quando iniziano a essere ce n'è uno sezione due sezione tre senatrice arch
+è di questi cloni in aree di delle suite dei sassi eccetera e poi si va verso il costo zero cioè nel senso no
+oh come dire come uno che osta a l'open source tipico cioè non è che puoi che so fare un outing di postgresql aereo qualcosa e venderlo come oracoli no ai prezzi di oggi
+quindi non so neanche fino a che livello ci si possa fare un business
+in senso proprio perché non c'è la barriera d'entrata
+neanche senso del cinque per cento al tre per cento di utenti sas che è in grado di farsi la copia decente o stalla e renderla efficiente e migliaia e migliaia di copie di ognuno di questi sachs e quindi poi c'è il fatto della domanda e offerta è
+insomma io credo che
+sarà difficile anche mettiamo che qualcuno invece fa una cosa totalmente nuova no viene in mente una cosa che perché a volte persone a partire verso ingegneri navali su un'idea chi è che non ha avuto delle idee che poi non ha nulla sviluppate perché più sviluppate ti ci voleva un sacco di tempo ora vorrei invece la prompt
+e però li sei dalla parte dall'altra parte se tu tiri fuori una roba la gente venezia inizierà a diventare un minimo popolare e costruiti poeti riversano i fan lo screenshot e dell'aoi ed è diventata la copia e dopo ti trovi trecento copie
+a prezzi di hosting di base o finì poi alla fine magari chi inventa la cosa nel giro di tre settimane no è
+non sai neanche più quello più più famoso no tu sei quello che l'ha inventato ma queste uscite trecento perché se ci si mette tutto il mondo c'è sempre quello è un pochetto che la fa un pochetto più più carina dell'inventore no
+è diventato se notate se guardate product anta che abbia questo sito in cui si lanciano prodotti e cose la quantità di software che viene rilasciata ogni giorno lanciano e esaltante prima erano già tanti anni fa erano diventati nulla è esatto
+adesso era la scala
+non lo guardo neanche più ormai non è esatto aspetto di sapere chi vince
+è
+allora michele se riesci a condividere quella è lei a quell'articolo perché vorrei collegare da un altro computer posso farlo io no
+chiedono correvano lo lo condivido perché humboldt altro articolo mio blog quindi
+non è scritto coleen no questo no
+si era iscritto collega è assolutamente cioè amelio
+allora questo riassume moto la mia idea dunque ehm
+era qui si parla di vescovo michele ti va ti ha fatto è andato virale a quattrocentoquaranta mila vivo e lo vedi là da sotto i numerosi e diranno su tutti i
+ora
+ed è fatto con le aree quindi non è da lei che però come tutte le cose
+tutti dicono cosi con lei e non fanno nessuna view col piffero io a west qua vedete capovolgendo quarantamila più ma ne ho fatti parecchi arti di genova trentamila quarantamila eccetera si tratta di date aiutarla così con ingegno e non lungo stupidità cioè non lavare un prob scrivevi un proprio su
+questo è becero copiare incollare quella lucciola mazama normale
+il testo lo scrivo bello dettagliato ora passa alla rai
+mellow mood via io poi ci litigo cambiò le cose eccetera guidi e la usa come come assistente non è che faccio paro paro ma comunque tornando al discorso del reverse engineering ecco innanzitutto non era dev'essere di living cioè se partiamo dal discorso di hard craft quello di needling è quello
+prendere le faccio dandy e ricreare aggregazione e jesse se ti limiti a leader traccia devia e lì la giocattolino cioè lo sai scrivere codice che la macchina a pedali
+infatti val uno prova hard graft attualmente quello c'è un sacco di cose che non funzionano ma tantissime ma proprio calde c'è photoshop per esempio non sono riuscito proprio a farlo anche se cariche di dargli tutte le varie cose eccetera e il non sono riuscito a tagliare un
+io lo uso molto poco sciopero felicità tagliarlo a spostare dividere in lei eccetera quindi attualmente per ora è veramente una macchina a pedali ovviamente siccome continua a lavorarci alla fine diventerà qualcosa di più complicato ma macchine da buona citando e questo è il punto cruciale tu puoi soltanto prendere ad oggi lei
+pace e replicare qualcosa che ha delle interfacce brutale lei hai per dedurre le funzionalità e marketing si tratta di un programma grafico brama di word processing accedere alle funzionalità l'hai più o meno le fa ma già e a replicare con tonalità di un sachs che ha un database di droga o la struttura
+da un pochettino più complicato quindi non è che verrà chiunque prende un sito falco bianco la valdera ad alai e si ottiene una cosa funzionante si ottiene qualcosa che fugge nicchia
+a questa cosa può andar bene
+per tantissime persone o meglio mi ricorda tanto quando l'azienda e se in excel ecco alex ci mettiamo alla fatturazione si faceva contabilità e c'è gente che ancora gamba e fa era tutta la contabilità fatta è fatta
+con excel però ogni volta che parliamo di uno che quello che ti parla con abilità se ci mettiamo a ridere perché sappiamo benissimo excel
+chiede formula si sbagliano e le cose si incaricano c'è
+fai un errore e cambia le robe quindi vede il lavoro manuale per gestisce dato
+contabilità è letale che è molto meglio usare un gestionale quindi io penso che ci saranno quelli che ti faranno le applicazioni con lei saranno grandi ma poi dovrai per forza e farti mettere a posto i tuoi prompt da una persona esperta che sa quello che c'è sotto
+quindi la ferrari perché la ferrari e di dettagli terni di
+motore della quota sono tante cose che non si vedono ma fanno la differenza e l'esperto ma questo ora che l'effetto usava una volta
+scriveva a mano scriveva codice con l'editor oggi l'aspetto scriverà al dee dee pronte non cambia nulla se poi se voi dovete fare un contratto e tutto bene tutto est ed inglese ma se lo scrive un avvocato l'avvocato faccia il duemila dei pesi medi di legge che col piffero che voi
+bingo pallino potete permettervi di iscrivere quindi anche se i profughi vengono scritti da
+il programma nuovo è scritto in c è scritto in inglese piuttosto che è scritto in un obolo in javascript non cambia nulla sempre aspetto ci vorrà per ottenere la ferrari
+ottiene una cosa giustamente per te l'esperto del dominio è comunque quello che può fare la differenza quando si lavora con lei e conosce appunto quello su cui c'è la coerenza
+scusate il discorso è articolato la differenza grande è un'altra
+e che adesso vedremo la fine dei programmi standardizzati e customizzati e ci sarà invece un boom enorme di programmi personalizzati tu andrai dall' esperto di gestionali quello tirerà cultura i suoi pronta
+parlerà con dee modificherà e adatterà ai tuoi ai due cose ti produrrà il programma su misura su mamma su misura davvero non il vecchio perché
+cosa è la personalizzazione del software oggi e che abbiamo il pacchetto standard perché inviare il pacchetto standard perché complicatissima scrive resort costosissimo sappiamo che a un'ora uomo costa cinquecento euro a
+daria meno
+però devi fare tantissimo invece della guidi per questo motivo abbiamo tantissimi prodotti ai pacchettizzati scritti da programmatori però che si vendono a diecimila programmi perché senza lei è impensabile fare ai programmi personalizzati con lei ha invece diventa diventa perfettamente possibile fare programmi personalizzati
+anzi sarà tutto così cioè il il lavoro sarà di programmatori che useranno le parleranno capire che descriverà nei prompt
+cons che costruiranno il software ad hoc aggiungendo componenti che oggi è sacro sogni di poter chiedere quando ti sparano un preventivo che è lassù e che pochi si possono permettere invece adesso pure le piccole aziende potranno magari proprio ora su misura potrebbe avere il programma che non ha diecimila menu che deve andare a scavare per trovare
+le cose a porno con attingendo ai parametri di cui il novantanove per cento non ti serve una cosa che ti serve perché sappiamo tutti che il problema del software che oggi e che è incomprensibile tu brand world pronta world and the world e io voglio sapere chi è da usare word veramente chi conosce tutti i parametri degli stili
+dei parametri dei sottopagati da e dell'allineamento della roba della formattazione dei tab dei diagrammi chi lo sa usare davvero perché hai a che fare con prodotti enormi e complessi invece quello di cui abbiamo bisogno e applicazioni ad hoc io da quando c'è lei mi sono fatto quindici applicazioni personalizzate
+ciao a tutti vedi tutte le cose che facciamo prima poi però ha avvertito tutti uomini che vigilano sulle dieci minuti una cosa che in
+in quaranta anni di carriera non ho mai potuto fare perché ci vuole troppo tempo e adesso me lo posso permettere questo è vero cambiamento quindi non credo che sarò che non credo che sarà un problema questa cosa della craft durerà poco un po' perchè non credo che tutti vorranno avere photoshop se vorranno avere un loro fotoshop ad hoc
+come sto facendo io mi sto prendendo un mini photoshop che con quelle quattro cinque cose che mi a me quando edito dal lato non credo che durerà perché che io sappia le interfacce sono
+sono coperte da copyright l'ho letto ho fatto un po' di ricerche dire
+credo che sarà una bella causa in corso queste sono mie io non sono un avvocato quindi queste sue elucubrazioni però non credo che ce la potranno fare perché comunque aziende cercheranno di proteggere le interfacce di ideazione eccetera quindi credo che sia almeno in parte
+scoperta copyright e protezione dei brevetti ci sono delle robe quindi non credo che una cosa come atto draft sarà legale e durerà a lungo però cambia poco perché alla fine ti troverai interfacce utenti per questo il copyright il backend che ci vuole un esperto quindi il problema dov'è non c'è è solo un problema che stiamo andando verso
+un'era di software altamente personalizzato questo è il vero il vero punto nonché finito e la programmazione semmai mai
+si apre un'era d'oro per i programmatori che lavorano in maniera diversa ma bebè un'era d'oro
+davide tu che hai fatto una puntata con al buon cosimo e marco su reverse engineering ma quello vero quello che faceva fare a playas e quindi insomma
+quello che che cosa pensi un po' di questa tendenza ormai emergente del reverse engineering e basta
+personalmente mi diverto tantissimo e la cosa che mi piace molto poi magari la sezione carino è particolare perché per me ced reverse engineering in tanti approcci in tante cose diverse che si possono fare semplicemente introdurre un programma da chiuso ha aperto e ci sono anche tante ragioni
+condo me per cui valga la pena farlo poi non necessariamente commerciali nel senso io dico sempre che non sono bravo a fare i soldi sono speculava perderli però ad esempio tutto il discorso che fa cory doctorow di
+universal adversarial interrompere biblici
+cioè il fatto di rendere interoperabili dei software con altri software e l'open source studiando che formati utilizzando e facendo sì che altri siano compatibili ad esempio a scegliere il formato di wuhan utili creare un libreoffice che salva anche in formato word o una cosa di questo tipo
+è una cosa che si lega un po' quello che diceva fabio precedentemente cioè non importa che siano tantissime le persone che sanno fare questa cosa ne basta una che spacca il formato lo rende compatibile con qualcun altro ed ecco che si aprono tutta una serie di possibilità anche nel mondo open source senza necessariamente replicare il programma
+semplicemente rendendo compatibile con il programma con altri anche se quel programma era stato studiato per essere compatibile quindi da quel punto di vista un pò abbattere i muri che tendono a creare lucien della gente all'interno di determinate applicazioni come vi dicevo sono più brava appello dell'ex non fare
+della gente piuttosto che farlo però mi interessa da un punto di vista topo di libertà digitali fondamentalmente
+e se poi nei fatti quella delle riprodurre il software all art craft è un aspetto però in realtà ci sono anche casi particolari di gente che magari ha fatto reverse engineering protocolli o di hardware per farli funzionare o correggere le cose quindi c'è tanto no in questo mondo è effettivamente poi le
+che diciamo è anche una cosa e son lei ai più recenti che iniziano a permettere questo in modo sistematico e produttivo quindi gli ultimi modelli se vogliamo negli ultimi mesi sono quelli che in qualche modo hanno fatto fare il salto di qualità sotto questo aspetto perché certe cose prima forse era anche molto più complicate
+è
+il discorso legale però questo interessante poi giustamente mi chiedete mai accennato al fatto che l'interfaccia stessa è come dire
+soggetta a copyright è uno che ti copre un software era uguale a livello interfaccia qualche grana a livello legale probabilmente se la va a trovare sicuramente il tre mar è un marchio marchio e quindi hanno rimosso da
+craft tutti i riferimenti ai nomi dei prodotti che stanno emulando però forse questo non basta e secondo voi appunto che parte a me michele l'ha già detto meno male ma anche cosa accadrà a questi di hard graft che è un po' il caso più eclatante però
+non credo sia l' unico finiranno in una
+no io non sono un avvocato non sono molto esperto quindi speravo che fosse stefano a chiarisce che lei di più è però lei ho fatto qualche ricerca effettiva ci sono delle direttive europee che dicono che egli l'interfaccia utente è soggetto a copyright a barre gli elementi per esempio perché windows alla barra sotto
+perché la barra sopra è soggetta a copyright c'è stata una una causa con con la apple che ha fatto spostare esorto poi ci sono tanti altri elementi perché i bottoni sono di qua che di la proroga non copiarla dal mac però donna ha cambiato un po' le cose quindi comunque devono cambiare qualcosa però manca a cambiare tutte le tre le tiene e rischia il padre di cody
+shop the voglio vedè grandissime e ogni cosa va cambiata nella forma lei cadde dalla struttura lo fai non lo rende riconoscibile quindi il prodotto a questo punto da un grafico cop vivenda è uno dei grandissimi editor che poi essere gimbe o qualunque altro che bello chiudere
+conoscibile cioè nel fatto che l'interfaccia è esattamente quella perché tu lo usi photoshop photoshop
+a parte che non funzionano alcune cose però quella che funzionano e sono quelli di photoshop quindi questa è la parte che che che loro che secondo me può essere protetta perché anche il modo con cui diciamo è il brand e la loro l'utente riconosce il brand quindi non credo che questa cosa la passeranno liscia brand al momento sono irrilevanti ma quasi
+la cosa crescerà io penso che oggi non sono un avvocato europeo nel parere non è un parere legale un'opinione personale ma da quel poco che ho potuto verificare il problema esiste poi come verrà o non sono eterni per esempio la lettera
+ci sono sono legnate sulla griglia del forno delle leone però è all'epoca come design patente mi pare durano quattordici anni perché poi riprende che la cambia ogni tanto cambiano la legge per cui prima delle diciassette quindici per questo deve vedere di che anno sono quell'anno lì dove sono stati regis
+prati quanti anni durava per vedere quando quindi diciamo nel futuro scadrà tutto e quindi potrai fare tutto sostanzialmente è fatto sciopero un po' vecchio quindi io penso che anche questa cosa della barra sopra sotto c'è
+secondo me comunque è una cosa abbastanza limitata poi se c'è per dire tanti programmi ti fanno scegliere nei settaggi il clima però ce l'ha la tastiera come questo quest'altro programma no che so come photoshop come ha
+te le puoi fare queste cose è per esempio la combinazione dei tasti non credo che si possa fare il design è qualcosa di contro il cie piuttosto che non lo so
+o tablet
+l'interfaccia del e però appunto quanti anni sono che fatto ciò che ho fatto così e c'è anche quello è il fatto se hai più di quindici anni la roba fatta prima e poi scade e quindi
+cioè bisogna bisogna già anche le cose dell'aifa sono scadute sono già scaduti anche quelle perché la nel duemilasette duemilaotto e duemilanove ormai sono passati quindici anni no quindi il proprio guarda proprio alla disposizione prese hornigold offrendo il di photoshop sono infatti troppo uguali
+utilità come dicevi tu è che uno che sa usare photoshop sa dove sono le cose sai tutto lei ritrova nello stesso punto
+ma per esempio io ho fatto chiappe non l'ho mai praticamente mai usato io usavo il paint shop pro usava tutte le robe ore addirittura usare paint net per farmi la roba naif che mi faccio io no proprio è sempre stato uno che si usa ai programmati
+chiaramente quelli che conosco che lo fanno la grafica di lavoro siccome lavoro eccetera si possono permettere dire vabbè lo faccio per lavoro e ci hanno tutti chiaramente adobe eccetera
+chiaramente se esagera adobe gold insomma con questa cosa che deve ripagare tutti gli anni eccetera poi qualcuno magari si sta anche bisogna vedere lì il livello però io non credo che gli studi quelli proprio che forti si tolgano la di lì
+c'è comunque c'è una base di clienti che possano essere di adobe o del cad di altre cose che useranno sempre autodesk che piuttosto che adobe tutti questi colà
+qualunque qualunque open source esca può essere che si singole persone per esempio se il blender è che funziona però nonostante questo se tu vai a vedere se tu devi lavorare per la disney o per altri che saranno
+siccome conosco abbastanza bene l'ambiente del decretino e in teoria tu potresti farli con con il blender gratis le diciamo l'animazione tutte queste cose qua però la gente c'è la pipeline tutto nel negli studi e poi diciamo vengono subappaltati no ci mettiamo che tu fai
+star wars fan che succede la disney subappalta degli a degli studi in giro da grandi e da qualche centinaio di persone in giro per il mondo alla team fai l'astronave che si schianta sul pianeta temi fai quell'altro fai quell'altro e in un tot di studi si smacchiano tutto a tutti gli effetti
+speciali del film che poi vengono tutti reindirizzati e montate insieme questo è uno standard proprio che dev'essere totale perché industriale perché non è che può arrivare uno con un software che c'è un bacino che siano altri siti si schianta e c'era la morte nera no e questi usano tutti i software
+il maya piuttosto che u dini e tutti questi quache soldini non esiste più infatti ti conosce per quello non esiste proprio una roba del genere però per esempio si potrebbe fare ora ora che è ora che c'è chi con lei uno potrebbe dire mi fai tu dini che è quello funziona in pari fare a me
+metrico no è una cosa diversa rispetto anche al al blender che blender coppia yamaha e ora potrebbero fare anche lo tieni finto no con lo stesso formato ma se tu sei uno studio che lavora per la disney ti metti a usare i lupini finto rischiando che non funziona qualcosa
+cosa per il film no quindi io credo che comunque questo tipo di clienti che sono quelli cor che ci hanno tante licenze perché sono così no magari singolarmente quello che quelli che conosco magari negli studi singolarmente a casina sua si usano
+blender no e magari il blender pairing esportano nei formati che ci sono dei formi una volta era tutto super chiuso formati super chiusi avranno fatto tutta una serie di formati più più interoperabili no e quindi diciamo che braico io credo che rimarrà comunque un cor di utilizzatori
+anch'io so libreoffice però una licenza di office ci sia una ditta di tieni
+abbia se possono intervenire però problema nasce problema o meglio questo desiderio di reverse engineering nasce anche da chiamiamola l'avidità delle aziende per cui ora il censis non lo possiedi mai sono sono presa sono peggiorati una volta ti compravi da il
+programma e ti rimaneva lì non voglio dilungarmi otis è più o meno dieci anni ti durava spese
+adesso che ho fatto ciò che hanno avuto uno sul cd che l'ha usato
+tanti anni
+usciamo adesso hai in abbonamento no tutta la sua vita di ematomi
+in abbonamento anche autodesk tutte tutte tutte le suites sono tutte moderne e poi fanno anche tutto il tipo che
+finché in sasso e ti costava cinque euro sei euro a utente dicevi ma cosa faccio lo riscrivono lo uso quando passi da
+una volta
+vai alla fine
+però fa pagare e l'inferenza è l' art craft questi ipogei questi abbonamenti non sempre l'uso di software ma sono per la nana banana lei hai dentro
+quindi è come se fossero di far pagare l'abbonamento pera e inferenziale e veramente ha un costo ci regalano lo strumento che ti permette di farsi pagare i token ma alla fine come tutti i modelli di business dai regali una cosa ti pagare l'altra in questo caso loro hanno
+tirato fuori ma credo anche per non farsi impedire attaccati dagli avvocati di grido di regali torta
+mi ipad token era furbata però si che poi non è detto che se gratis
+uguale se vogliono ottenere uguali ragazzi sono gratis e ti possono cambiare la multa a livello di multe ma ti possono far spengere tutto ciò perché james hanno scritto da avvocati già dagli anni novanta perché non mettevo le scritte nella sat
+avevo
+il sito con le apprezzavano già nel novantasei eccetera avevo scritto osava cioè nei testi né nel mio sito c'era scritto java eccetera ma ci voleva giava tm con il tm trade mark e in fondo a ogni pagina wireless è duplice c'è tm e poi ci vuole in fondo ci deve essere scritto già vai a trademark of shame
+big system adattata e mi iscrissero e l'avvocato joni che fra l'altro quelli americani contattarono uno studio di firenze che poi mi contesta inferiore anche della roba grossa e quindi mi toccò di cambiare tutte tutto il sito ma poi anche anche il programma perché nel programma ce l'ha scritto java normale
+pensavo fidanzato voglio dire vediamo ventitré anni già a pensare di mettere team era ancora successo perché scegliere un pirata fino a pochi anni prima
+bf gran voce figuriamoci pensare nemmeno però mi toccò a far tutto bello preciso cambiar tutto mi chiesero anche cinquanta mila a centocinquanta milioni ne vada il gene di lire e sì no no aspetta io te li do perché
+pensavo ma ce l'hai se ce l'hai me li dai
+se a questi livelli qua
+e allora io contattai quelli della shane che conoscevo benissimo dalla parte tecnica egiziana ci parlate con fatti avvocati parlare a quella parte avvocati e quindi spensero diciamo tutte queste queste cose comunque non ne facevano lo facevano tutti questi cercavano con google che aveva scritto io schiavon sito
+molto popolare veniva in cima praticamente no con le applet particolare avranno scritto a tutte le ditte che gli sembrava qualcuno che un po' popolari scriviamo a tutti seconda che il paese sono gli mandiamo l'avvocato locale e così hanno perché la logica era che si dirà
+viva il tre mac perché la regola del prete ma che è questo quando
+una cosa niki inizia a essere usata in senso comune senza il tm viene diluito il tema che c'è e non è più e quindi l'ora deve mantenere che il trend ma che sia trendy ma che devono andare a
+b bacchettare e correggere tutti quelli che lo usano senza htm
+la band kyle corpo era era comunque il tema che nella rai no non ha nessun tipo di a parte appunto questi che scrivevano eccome foto sciopero è quello quando poi scritto e cantato alternativa a whatsapp dipende quale ho viste ce n'è più di open graph tempo come
+e come botte che ne sono usciti trecentocinquanta nell'essenza saranno usciti neanche controllato c'erano tremila hard graft no e peraltro secondo me è quella del thread ma c'è una cosa che va bene
+eccome io quando ce lo butti fuori e te non sai nulla si iscrive fotoshop ti contattano e lo togli no se sono quegli errori da
+no no è sul fatto della dell'interfaccia secondo me
+stanno scadendo c'è se vi ricordate anche il bottone world league ci aveva amazon che non si poteva fare le cose che dovevo fare due click
+perché comprare una roba perché un click stato serata da amazon
+se poi tuttora rompono le scatole su sta cosa però poi comunque dopo quattordici quindici anni al massimo diciassette
+c'è quindi nel futuro non ci sarà più questa cosa qua a parte le nuove cose che usciranno beh che ti potranno dire no e che se la e polo qualcuno esce con una faccia stranissima vicenda la devi fare però non è detto che questa interfaccia azionisti ma interessi a nessuno e quindi io ecco io non la vedo questa questa cosa qui
+se tu la gestisce bene sia sui nomi sia sulle interfacce che magari c'è qualcosa che è più recente così secondo me non è un vero problema e si può problema è quello che diceva michele prima della della macchina finta cioè reverse engineering vero io l'ho fatto in silenzio io prendevo
+programmi che erano punto exe e li facevo in asm e poi ci rimetteva tutte le label tentavo di capire che chi si faceva e poi andava a cambiare le lire compilavo ed è per esempio lo usava anche per fixare che usciva la roba mi ricordo sull'amica che nessuno aveva l'amica quattromila euro zero quaranta io ce l'avevo già fino a novantadue
+e la gente lo faceva vasto duemiladue sessantotto mila eventi però poi ci sono dei registri diversi delle rape diverse sul quaranta e quindi alcuni giochi alcune demo alcune robe che si piantava succedeva
+e quindi io che facevano prendevo tutto appena uscivano queste robe e specialmente quelle gratis demo io facevo la pace zero quarantanove finite compilare compilavo eh e poi cambiava il conto e poi buttavo lì quella quella era ratzinger vero che va in asm che no non era everything
+il punto è che quando
+quando uno ha un sas
+mettiamo un sas qualsiasi no e questi qua
+diciamo famosi che hanno milioni di utenti da quindici anni vent'anni eccetera hanno avuto tutto un feedback di utenti veri che hanno avuto problemi veri e gatti e hanno fatto di tutto hanno toccato all'interfaccia in tutte le maniere l'hanno fatto tutti gli usi più assurdi
+e hanno trovato tutti i tipi di problema di limiti e di cose e gli hanno fatto il feedback a questa festa azienda quindi anche se uno pensa ma è facile basta che metti menu e fanno quella roba lì però tante cose che sono sotto sono sotto netent nel senso proprio che non le vedi tipo if then else
+faccio un esempio te no ha internamente se l'utente ha più di cento items fai cosi sa meno di saint aidan fai così se tutti questi variazioni sul tema che sono state emesse all'interno del codice che non è visibile fuori
+chi non lo puoi sapere se tu non fai succedere quella tale combinazione di dati e di league di così non cambia l'algoritmo è tutto scritto dentro se fai questo fai quest'altro eccetera l'unico modo sarebbe veramente deve compilarlo è capire che hanno combinato oppure parla cioè prendere
+un ex dipendente perché si può anche fare quello
+prendere gli rubi indipendente a questi qua che lui sa tutto perché hanno fatto eccetera non dico che si porta il codice dietro a volte si fanno anche causa per queste cose qui che uno esce e va di là e porta tutto questo canoa o domain eccetera e quella la differenza che poi ti fa
+la vera azienda sa che ha milioni di utenti da quindici anni che sa perché ha fatto tutti questi tuning decreti interni mentre se tu fai una copia in tutte queste come si può dire questi sotto casi if allora dan e no non li ricrei noto
+willie non puoi intuirli neanche perché non abbia un chiaro che jill cooper comportamento non copia il codice ma non tutto il comportamento perché l'ombrello comportamenti dagli infiniti casi per scoprire tutte le infinite variazioni del codice dentro che fa secondo questo approvata un disastro per un
+software che ti scarica in locale che puoi decompilare e farci scusa se te lo dico io ma è il vecchio discorso della compilazione ma è comperare lai lai che ti aiuta a farlo gliela fa esatta si piò persone che che
+continua imperterrita a craccare magari ora attraccano le centraline del no delle macchinette ma comunque qualcosa si compila sempre che usano le aree capisce neanche asma di processori assurdi me lo dicevano questi qua che ogni tanto li sento e continuano imperterriti a cinquanta anni a decompilare
+l'impossibile
+vai davide michele no non c'era michele la prima io mi sono messo ho dato da root
+ora
+a proposito proprio di questo di ricombinazione ma ve la siete mai letta una eula end user licenza agreement a voi sto comunque trenta mila pagine che non leggiamo mai gela c'è praticamente sempre il divieto di decompilazione è sempre allora dico no
+quelli che hanno fatto a segrate che è stato fatto tutto con materiale pubblicamente disponibile e credibile in parte è incredibile perchè effettivamente adobe come photoshop word e accelera la vostra documentata e ci sono un sacco di libri che spiegano beh come funziona infatti
+io devo usare photoshop sempre di più cercando che gli chiedo come faccio a fare questo come puoi fare questo e di solito puntualmente lo fa però non tutto se tu sposti un hobby un certo modo e ottiene un certo effetto bingo ballo non è detto che questa cosa riesci a saperlo che quando io ho avuto un pò di gadget e
+e la gente non sa tutto
+fai delle prove ed età aspetta fammi vedere investito e ho fatto questa quindi credo che nel ricostruire altre gatte non hanno solo la band e usato documentazione pubblica dopo hwang reverse engineering dell'applicazione vega violando l'eula e sta sicuro che questa cosa io parlo scontare
+secondo me quindi io vedo che ti dava problemi sia di violazione di end user agreement sia di violazione di copyright e adesso il giudice proibito e poi proprio anche altre cose quindi non credo che roba reggerà a lungo qualcosa continuò a essere la mia opinione però il bios il bios quando vennero com
+che questi qua che decompilare e rifecero il bios del pc no li fecero una invece che di decompilare o ms-dos da hostelbookers eccetera invece di ricompilare compilato fecero l'amore il muro cinesi lo chiamano la stanza cinese cioè tu devi prendere delle persone che stanno in una stanza ci hanno solo il manuale di poterle ciao
+amate del dose piuttosto che del bios eccetera e senza avere accesso al codice magari col testimone con loro riscrivono un codice a mano che ricrea che al solo dalle date della documentazione eccetera e e questo fu fu fatto legale il bios dell'ibm
+no perché il pm erano tutti i pezzi
+hard disk e processore intel eccetera erano tutti i pezzi che potevi comprare l'unica cosa che per fare il pm compatibile era veramente ibm era il birs no perché restano e quindi i vari non mi ricordo come sia comunque uno compact ma poi c'erano altri due o tre che ne fecero poi sono sempre vivi
+fecero i primi virus li fecero con questo con questo stratagemma legale
+che appunto
+noi mettiamo le persone nacho
+chiuse con sole manuali delle chiamate alle api
+eccetera che suonano piedi si possono fare e riscrivono il codice magari con uno dei guarda che non hanno compilato niente e dopo allora avendo quella prova lì perché deve avere questa operazione che fai magari con un notaio allora io avrei una cosa però prima farei parlare di davide riguardo ok grazie
+alessandro guarda in realtà io ogni volta che sento qualcuno parli veramente una cosa in più da dire e vado in palla perché si accumulano it
+però c'è una cosa che ho notato in tutti e tre michele fabio luca
+a ognuno in momenti diversi ha sollevato un una componente che quella del
+dev'essere critici verso quello che viene generato scritto del del capire e comprendere che cosa sta succedendo quindi in un caso può essere ai nostri tempi si compilava la roba o si dica assemblava e si andava a vedere come funzionava nel caso di michele era non si tratta solo di generare le cose ma di sapere cosa si sta
+facendo quando si stanno generando luca all'inizio diceva io posso anche usare un modello ma al codice voglio dare un occhio non mi fido del codice completamente generato quindi a prescindere dal fatto che uno del codice sono vado a vederlo non necessariamente in tutti i passi eccetera secondo me è una cosa importante che quello che si può fare adesso e prima
+dare un servizio a un protocollo un formato whatever
+smontarlo farlo smontare saltare il processo di smontarsi alla umano e farsi spiegare come funziona che è una cosa che ai nostri tempi non c'era cioè fabio non so se tu in biblioteca trovi libri di assemblee o dove li recuperava
+io compilavo che compilavo io poi imparavo da paesi si scambia perché poi sarà il periodo delle liti per cui solo quelli che erano già bravi potevano avere il dischetto ce n'erano leimer lei mi dovevano rimanere le mera vita vendite da zero a uno dovevi arrivare alle illumina
+azione da solo
+io per esempio non trovando sorgenti mi ricordo i primi sorgenti che riuscite a trovare
+alle medie ed è dell'amiga e erano in tedesco e mi ricordo che erano tutti scritti in tedesco e i commenti e le label e mio art sto farben che sono i colori no
+vi avevo imparato anche un po' di tedesco perché non non non c'era proprio la documentazione se oggi invece se c'è troppa documentazione e addirittura puoi chiedere alle aree quindi proprietà e come al contrario si
+ha assemblato qualcosa recentemente ho fatto un esercizio da poco perché sto cercando di preparare del materiale per un tour tutto su aereo in praticamente e volevo degli esempi che fossero abbastanza auto contenuti semplici no fotocopie e soprattutto legali è qualcosa su cui potevo far lavorare anche dei modelli
+open water ma ve li diciamo non completamento pesos ma almeno che potessero girare il locale e ho preso un tre otto flash next che comunque abbastanza ciccioso magia sogno mac os sessantaquattro giga di ram e gli ho dato in pasto un admin del duemilaquattro che anche quella è una storia party
+nicolae dico solo che ho spiegato a manu ciao come mai
+beh come chiacchiere col programma ed è minuscolo un programmino che chiedeva sono un seriale ha un nome utente un seriale e ti diceva o ce l'hai fatta oppure no non ce l'hai fatta fatto sta che l'ho dato in pasto dicendo gay
+installa quello che serve e potrebbe esserti utile ibra silva deve stallo io
+cerca di capire come far caricare questo software e spiegami come funziona l'algoritmo che è stato utilizzato wicked l'ho lasciato macinare per un pò e mai restituito
+l'eseguibile craccato una descrizione il disassemblato aumentato tutto quanto un a nereto che si è fatta in python e alcuni commenti sul fatto che il codice stesso per verificare non funzionava bene perché quando mettevi la zeta siccome era l'ultimo elemento di un'area su cui aveva calcolato male gli indici pratica
+venivano so mollata o calcolata come un cane carattere non valido o qualcosa del genere ed ero rimasto abbastanza impressionato da questa cosa perché se solo qualcuno ad oggi avesse voglia di imparare quelle cose e non farle fare in automatico avrebbe molte più risorse di quante non ne avevamo morì a keith emerson e ho iniziato un po' dopo dita eh
+era dal novantasette però comunque abbastanza presto diciamo già un po' di roba su internet da studiare
+so che fra l'altro abbastanza conosciuto per il corso di in vena che continuano tuttora a studiare gente nuova nel corso della mia carriera assemblee che fu una cosa particolare perché proprio perché una volta c'era quest'idea almeno nell'ambiente sull'amica
+siamo oh che non si dovevano passare emergenti cioè ti facevi più che altro per le idee ma non facevi l'effetto speciale e deve essere magico no no no non siete innanzi passavano e si ottiene non c'era quell'idea del dell'open assolutamente no era proprio e poi era competitivo io faccio l'effetto meglio di te mette una pallina più di te mettono a step
+alina più di te me no e quindi c'era sempre questa cosa e quindi chiaramente se tu possa avere gente agli altri
+no ecco fatto nablus prestige e quindi e quindi veniva naturale che dice bene io te lo compilo così vedo come hai fatto e quindi che faceva tutto quello che usciva io lo compilavo e poi la rigiravo però la dite compilato a quelli del mio gruppo che però solo fra di noi e guai a far uscir fuori poi mi è addirittura successo e una volta che
+noi avevamo magazine che tutte le scritte in assembler l'epoca dei gerarchi queste robe fasi sulla mega ad alto livello questi lingua
+era destino li vendono e mi ricordo che ci fu nel gruppo nostro c'era de sarzana che teheran game che praticamente erano le carte con le news gossip no eccetera che usciva sul dischetto
+una volta al mese o più volte l'anno
+è il team che l'aveva programmato che c'è i sorgenti sono loro fra l'altro non è che tutto il gruppo c'è la vera c'è anche questa cosa qua c'era che ognuno si teneva il suo di sorgente anche nel tuo stesso gruppo c'è
+incredibile no e se litigare no no allora mi chiama il leader diciamo no mi dice eh ma questi qua praticamente si sono ribellati non è che te potresti decompilare il nostro des arts che è nostro però il ces sonore e poi c'è
+ci fai lo fai diventare ageno è riuscito a e avevo scritto anche lì il primo la comoda si dimenticò di rilasciare la documentazione yaga del chipset e dicevano no dovete usare il sistema operativo come sistema il sistema operativo non si va diretti sul
+opere mia roba lì e quindi quando uscì il primo è il primo io presiedere la mia capacità prende quattromila caricai deluxe paint yaga e compilai tutte le coppie e da lì ci iscrissi ci spieghi
+ferite inferte
+il primo documento yaga di come funzionava il chipset aga perché non la camera non ha tirato fuori e diventò famosissimo perché
+c'era solo quello ed è il famoso così e anche lì con philae questo il nostro è un frate andava con indirizzi assoluti roba e io dopo vado a cambiare tutto lo feci tutto con indirizzi relativi a eccetera apollo fece a la eccetera e lo chiamammo so time ne ricordano
+testi un po' arrabbiati che gli ho compilato tutto no erano quei tempi li si faceva tutto a mano era lavoro che c'è oggi neanche nei hacker
+io sto in rovina
+tu e che era veramente dura decompilare o una roba del genere poi ti trovavi tutto senza legge senza nome senza nulla e solo coi registri del mov eccetera e capire tutto il formato da idee che avevano inventato delle idee di questi articoli eccetera è chiaro che oggigiorno uno fatti anche il
+retrocomputing cioè che uno usa l'auto ce l'hai me lo fai sul corpo del sessanta per una demo per il sessantaquattro che l'amica per quello che ti pare con effetti galattici e te lo fa e anche lì c'è se tu partecipi esempio noi di te come era già mentre qualcuno di noi che continua a partecipare ai patti e
+demo sulla cinquecento ma usa la userai anche qui e mi ha messo tra virgolette
+è una bella domanda beh però è la usa cioè usano
+usano sia programmi sul pc per fare magari l'animazione tre di qualcosa poi la lepre calcolano i punti no all'animazione dei punti che insomma l'ultima mossa che
+quest'anno inizio di quest'anno c'è una farfalla che vola e si poggia su un fiore intred chiaramente precalcolate a questa farfalla cioè tutti i punti della zeta con tutti i fotogrammi il precario credo ma ne ho parlato non è che smisterà a leggere l'hanno fatta questa animazione con che so di studio max
+l'amica cinquecento poi è il codice anche lì certe cose sono state fatte un po' con lei e poi è stato tutto buttato lì e quindi però poi alla fine la demo fai della roba che effettivamente negli anni novanta non c'era ente che comunque non ci avevo neanche il pc
+io per me il vetro computer dovresti veramente si usano tutti il mac windows nuclide tutta la roba ma io usavo la smoking matters cieca su sull'amica per fare code islamica
+i tempi e strumenti attuali io io poi ho smesso e io sinceramente per me retrocomputing it
+riprende un'amica vero o un emulatore proprio così e usi tu usi dell'epoca perché se no non è detto secondo me non è retrocomputing quello lì c'è non lo so e poi ora qui qualcuno si arrabbia perché usano tutto il mio corso se io dico qualcosa poi gliene frega al casino
+però vabbè
+era per dire che oggi con la i
+e anche i revers di una volta e diceva davide
+conosco delle persone che fanno reverse no ma attuale di roba
+vi dico cos'è che lega
+te continuano a fare reverse di robe e ora usano cloud e cloud gli dice tutte tutte le cosine per bene
+v'è anche di di precetti più di robe di auto quindi
+non è che sono i soliti a armeno i soldi sono pubblici più assurde che
+giapponesi piuttosto che tedesche che userò solo nell'automotive o no
+source e le conosce e poi se ne conosce magari ci butti un pdf te
+che
+glielo insegnino meeting context sentire compila lui a volte mi gira quello che fa e parla conclude
+meteo proprio pezzi di
+già assemblato e gli dice questo registro questa cosa poi c'è un overflow voi qui no
+si ha un pò il discorso se tu sai fare una cosa
+la stessa cosa è fatta con lei hai e non è il vero modo di fare la cosa al vero come questo vale secondo me un'altra epoca ammalata da musicisti grafici quello
+allora e se fai retro pompino e ho detto solo di retrocomputing perché erano mai state compiute lista io non sono mai stato triste io quando venne l'amica ho voluto subito l'amica che ama sessantaquattro per me vecchia quando poi dopo ho avuto subito il pc e la mia carriera vecchia poi uscì il java e c era vecchia
+io non sono io sono sempre stato autorizzato mai retto computerizzata no quindi però se tu mi dici voglio fare retrocomputing secondo me dovresti usare tutti una volta che ce la fai e tifo
+compiuti imballato
+la moderna dagli strumenti moderni ti permette di fare cose molto velocemente e comunque ho un'opinione io no io siccome le cose veloci le fai per lavoro ma se tu fai una cosa però non dovrebbe essere per farla veloce debba essere di provocare uno si fa su minecraft e la città
+chi ci mette quindici anni cioè non è che
+c'entrano noi bene lo meno lavoriamo si suda non val la pena insomma
+noi tutti lavoriamo chiaramente se c'è un cliente che mi chiede di fare una roba perché io gliela faccio il prima possibile col minor sforzo per prendere un po' di software ha certamente ma se io mi metto lì e voglio fare una cosa però b
+e voglio proprio fare una roba assurda
+senso
+il concetto è chiaro
+ti interrompo e che abbiano sì sì no ci sta è un'opinione legittima e comunque lui si può fare con lei e ero quello vero lovejoy luca
+una curiosità
+che davide forse già parzialmente risposto siccome io sono convinto che gli attuali prezzi delle aree non siano sostenibili nel lungo periodo quindi
+sono tra quelli che si aspettano il crack insomma un po'del del mercato e ai prezzi che si alzano
+ma questa attività sui modelli locali è fattibile davide ha prima diceva di aver fatto qualcosa solo sul suo mac michele so che insomma shawn suo
+wilder
+quindi non so se hanno fatto degli esperimenti in questo senso se posso dire la mia il fondo problema non è il costo delle aree troppo alto
+attualmente perché stanno esagerando cioè creano modelli super mega galattici per fare delle robe che novantanove
+delle persone non usa neanche lontanamente cioè se tu ad al-sisi vai vai a prendere le chiatte che vengono fatte secondo me se uno potesse io non posso farlo brillare il problema sono convinto che se uno vedesse cosa uno chiede chat gpd il novantanove novantanove della stampa
+da una parte potrebbero essere tranquillamente per gesti dell'ombrello sette billions rucola
+basta poco per viola e modi di google il senso è quello gradi novanta gradi quindi loro mettono in mano dei bestioni di bari trilioni di parametri non sappiamo quanti sono e per farlo per
+beh
+basterebbe un modellino un milionesimo di quella dimensione e in questo modo creano un problema che per me
+un attaccamento per creare una dipendenza lo fanno non lo fanno perché i server che dicono alludendo non lo usate è troppo grosso per te
+usa un modello più piccolo che da grande serve no io voglio usare il mega modello che ti dà le risposte elaborate e ti dà una pacca sulla spalla che bla bla bla bla perché dipendenza questo è il vero problema è poki perché sto difendendo spendono una quantità inimmaginabile di soldi questo è il problema che rende insostenibile
+il non perchè non si basta i modelli stanno che stanno diminuendo notevolmente sono più piccoli e tanto per dire recitare emma ce l'avete provato ma sei o modelli da piccolissimo non è più una barzelletta non è più una barzelletta che la rabbia verso
+dannazione nel fondo dovrebbe pur essendo microscopico io mi sono messo a provarlo
+come usare gpt ed è un modello microscopico fatto in casa con pochissime risorse quindi non è una questione che lei hai costa troppo e questo che viene usata male vengono sprecati i soldi per creare una dipendenza globale su mega sistemi e ai laici per me crollerà non non so
+bene in che modo però non è sicuramente sostenibile questo questo questo modello di business non che non sia possibile avere degli hai basta se bisogna ottimizzare l'uso che oggi non lo è quello
+sui crolli finanziari
+segue no no allora sono d'accordo che non c'è bastano io stesso che ciò tipo sei e ai no
+tutti i tab
+ne paga anche tre insomma però tante cose io che faccio uso google è che io so che mi basta google butta sul modo il tab
+google per chiedergli delle cose normali non super tecniche eccetera tipo ora io uso google per tante cose perché mi rendo conto che è inutile che me ne vada a consumare e gpt sei punto uno
+so cloud può estinguer cinque per chiedere che so se l'aspirina va presa insieme a un'altra medicina ho però
+quello mi basta mi basta benissimo layla di google la overview e se proprio voglio vado nella nella tab dai quello non mi consuma nessuna nessun cose è gratis ma anche lo stesso meta prima era una barzelletta ma metterai ora funziona ti fa anche di iscrizioni dei suoi interni che gira
+la stesso meta che hai dentro whatsapp in giro così io spesso uso meta e ai più google però magari chiede a tutti e due per non consumare i preziosissimi
+jochen di lode dei gpt che quelli invece membri è lì che meta
+meteo torino hanno cacciato whatsapp eh sì cioè voglio dire quindi
+chiaramente poi ci sono le persone che vogliono usare gpt ultimo cloud a pagamento per chiedergli dell'aspirina se la puoi mettere insieme a latina
+e però sì sicuramente ci sarà una razionalizzazione ma basta vedere quando ti ho detto che max no cioè tutte le aziende a un certo punta tutto insomma tante aziende hanno detto usate più a e'possibile e la gente l'ha usata veramente migliaia di dollari a testa dito ai ragazzi dopo
+dopo settimana sono arrivati i conti hanno detto no non lo usate più in microsoft e altri così hanno detto no ora l'ultima center che ha messo ventinove dollari al mese basta e centonove ottocento mila dei dipendenti dove fate il conto e settecentomila persone tutte fanno mille dollari al
+mese di e quindi hanno spostato dal dal privato cioè da la persona
+a i progetti per cui se tu come persona e ventinove dollari al mese che ci fai poco di crude poi hanno anche altri io sto parlando di floyd hanno anche altre cose perché poi il cloud anche microsoft cloud che l'ha limitato hanno detto non usatelo perché insomma quello costa e anche a khaled
+hanno spostato sui progetti per cui se tu siano spazi abilitanti settecento e magari hanno dei geni
+due feriti che sono non hanno progetti no succede
+c'è nelle persone ne tengano lì e però se uno è l età età il cloud infinito
+ti piace ti diverte allora deve avere un progetto entra nel progetto e i tuoi token sono gestiti nel progetto hanno fatto per evitare che le persone senza progetti nel periodi che sono fra un progetto e latino non frantumino e il billing e quindi sicuramente ci sarà una razionalizzazione
+diciamo di tutte queste queste cose sia di usare i modelli che vale la pena chi ha proprio in generale quanto specchietto ma alla fine si dice l'hai sostituisce le persone ma se costa più dello stipendio la persona e non conviene e quindi
+deve comunque essere
+e poi il discorso economico ci sono tipo è crashato tutta un'altra settimana avete notato non so cool wave meno venti per cento in una settimana e news clearwater sms
+per caso un po' particolare perché perché quelli rivendono proprio loro loro se loro
+affittano il data sente si comprano le serve ce li buttano dentro però la affittano già per tanti anni e poi lo rivedo rivendono e per per periodi più brevi e appena eccetera per cui ci il rischio che se questi tagli vanno e vanno via però loro hanno le ali abiliti di dip
+pagare i dataset per anni e magari poi si ritrovano qua ha infatti ma anche oracle
+cercate bond già anche proprio che
+la softbank che c'è c'è tutto questo problema che hanno preso tutti i soldi in prestito e fatto tutte le aziende che poi tanti non gli danno neanche il permesso di farli perché c'è ci vogliono i permit poi ci vuole l'elettricità che ci arriva e pare che soltanto il trenta per cento dei dei dati dei progetti rappresenta in america si suppone
+che li facciano
+tutti quegli altri sanno tutta una serie di beghe e incredibili che puoi fai come maschi che ha preso una una fabbrica dismessa mi ricordo dove camminate sarebbe parso un posto così e poi ci ha messo tutti dell'evento sopra che non sono a norma per farci croce e poi potete male ventre
+zoran norma va la ora le cambio ma intanto grotte l'ho fatta no c'è il famoso che chiama sicuramente ci sarà un mega grazie spero che grassino anche il prezzo delle ram che speriamo tutti che c'è
+attendiamo questa cosa perché celeste stanno investendo in maniera non efficiente perché se tu paghi tu devi metterci tutti questi datacenter tutti insieme quindi è qua e come le mascherine sotto il covid cioè tutti vogliono rame tutti vogliono serve tutti vogliono metter su roba e quindi la paghi tanto e quindi non è
+efficiente è proprio uno spreco di soldi e che che diciamo è normale che non si schianteranno e del cinquanta per cento the rope schianteranno dopo lo schianto chiaramente la lista l'ha sempre usata non so se no chi vince poi
+amazon microsoft e stanno lì non le tira giù nessuno anche meta non ti legge nessuno ne ai cloud e tutti questi addirittura i middle me anche ora col prenderà una bella legnata penso che vada così
+probabilmente se un cloud va a finire magari che so in amazon che mi sembra che amazon ci abbia già un bel pezzo di piloti tipo il dieci per cento poi
+max potrebbe finizio pene ha insomma probabilmente dopo fanno
+fanno è così là lo spezzatino fanno tommy lee mandela che crasha crasha un pò di banche poi si fondano e malware esso hai detto che la storia si ripeta però se funziona come se andrà come è andata con l'internet con la dotcom a chi legittima
+ma chi sopravvive vince tutto c'è secondo me è un via di mezzo fra il dot com del duemila e il duemilaotto del
+praticamente noi lava non è morgan james ma nelle case a se i mutui alla gente che non ne poteva ripagare poi è perchè è un po e un po perché c'è il il grosso del danno è simile al duemilaotto il danno finanziario perché
+stanno costruendo tutti questi datacenter comprare tutte queste queste robe coi bond c'è sempre sono mutui dice che costruire case costruiscono
+trilioni e sarebbe assurda e è alla base di tutto questo ci sono i rilievi te cioè i finali schizzerebbero tipo open easy e antropiche sono in perdita e quindi
+tutto sto giro poi c'è agli eredi di volte e dico come li rendesti i soldi quindi schianterà e infatti anche mark ha iniziato a cancellare presenti dei datacenter che aveva con opere aida da un bel po diciamo che le cose si sanno non è che è un segreto che diciamo qua e c'è un complotto ed è agganciato dataset
+umana ha ringraziato tempo prima ricrescerà quindi è
+poi i chicchi rimane chiaramente rimangono sempre i soliti e ma
+senza andare a tentare di capire chi non vede nelle dot-com c'erano le date fiber no darci nel senso che ci pensava la luce dentro perché gli utenti avevano tutti il modem e quindi a cinquantasei capra che c'era qualche ds elena sta parlare nel novantanove duemila e quindi tu
+questi cavi che avevano fatto enormi e connettere diciamo internazionali o tra città eccetera
+una grandissima capacità ma gli utenti c'è
+cinquantatré gatta quindi no non riuscivano a saturare no tant'è vero che netflix e youtube dopo il duemilacinque sono son venuti perché i video no non non riceva il consumer averci lo streaming che poi e è
+come si chiama la worldcom questi qua no lasciamo stare betsy dotcom che quella era e penso
+si pone quindi come non è soltanto infrastruttura no eh
+che la festa della scala diciamo pet dot-com e diciamo sono tutte le varie e ai consumer no che ci fanno i gattini video dei gattini eccetera che chiaramente non qui video di gattini non
+ha i soldi mie tele la dotcom l'abbiamo vista da vicino
+eh no ci siamo conosciuti lì si ha già
+anch'io
+bella è una bella tettona che un alice c'erano ai tempi e che sono esplosi
+fatemi dire la mia opinione al riguardo
+allora io credo che il punto a fatto che stanno costruendo essendovene di là da fender e non tolgono un'operaia e agli stati uniti quindi siamo tutti impazziti convinti che tutti quanti andranno a utilizzare questi dati aziendali investendo tantissimi soldi i boulder altro secondo me il punto è che il traffico delle alghe data
+domani sarà la minima parte perché il vero bundu e quando si utilizzeranno aziende ehi hai in maniera sistematica per processare dati e vi faccio un esempio semplicissimo che ho fatto io io gallina
+e personale che praticamente è utile ai perversi
+summary o farla breve ho io quarantasei mila contatti su linkedin vogliono fare fa male quindi prendo le pagine
+delle persone e poi faccio un san marino genera con lei e poi lo metto e faccio della ricerca eccetera eccetera quindi gay gaite amicissimo o no la prima la prima valutazione di questa roba l'ho fatta
+ecco mi pare con
+era già tibet si notava già chip tiber fare la prima avessero chiesto mesi fa ho alloggiato l'esecuzione ho fatto e rappresentato dai magari vedi i profili delle pagine è venuto fuori trenta dollari di di posto o immaginatevi quando sarebbe stato il piatto di
+olanda tremila e quella era e questo è il punto allora che ho fatto
+fatto la cosa più ovvia di questo mondo invece di utilizzare saggi ti ho preso la mia spark io ho messo il modello gip di genova di billions che faceva comunque un buon lavoro e me ne sono fatti in ovale ed è lì che casca l'asino quando l'uso dei legali diventerà standard e sarà non
+non è l'azienda che figata perché teme un umano giudicandolo boutade ma quando gli agenti a macinare dati su dati a quel punto l'utilizzo delle iai aveva detto vendere improponibile e allora vige lei hashish diventata privata perché è improponibile proprio
+impensabile pagare a together proprio questo che farà crollare dalla fede quando la gente si porterà le cose a casa esattamente come sono morbide frame sostituiti dai picchi oggi una una spark che la considera un commodore sessantaquattro con opel agila un mainframe ibm però il commodore sessantaquattro nel giro di già
+stavo già nell'abbazia generazione che agitano le macchinette che da settecentottantaquattro dovranno useremo dei quarti di frontiera c'è lewis di due tre anni è proprio lì il l'uso del cloud diventerà un caso limite secondo me però vabè ma quando beve barbapapà world flow hagen
+belgio attacchi perché quello è il punto secondo me quello dove l'hai esploderà ha in uso industriale non l'agenda che chiatta a
+la parola a davide non d'accordo con te michele ho fatto esperimenti anch'io o simili tra l'altro nel senso ricerca sul web e automazioni le piccole automazioni per cui ci sono miliardi di siti ad esso l'altro ha fatto pure problema
+per quel che so il classico bus che va controlla le cose da qualche parte puoi farla riassunto ti manda il messaggio su slack cosa del genere quello è spesso riesce a farla con modelli anche molto piccoli
+assolutamente okay a
+tanto si parla di coding perché c'è tanto business dietro però in effetti quanti sono i coda rispetto alla popolazione mondiale e quanti invece hanno bisogno magari al punto di cercare semplicemente una cosa dell'informazione su internet o completare le task molto semplici questa è sicuramente una una longtail di utilizzi diff
+eventi che ancora non sono stati monetizzati o come nel caso di tutte le long-tail tutti si stanno concentrando sulla parte che dà più soldi in meno tempo però l'area totale di questa di questo plot è molto più larga nella long tail se sommi tutta l'area piuttosto che sulla parte che c'è qui quindi sono convinto che ci sarà molto anche
+da guadagnare lì nel momento in cui sutter si troverà il modo di scalare cioè nello stesso modo in cui google ha cominciato a far soldi con le pubblicità coprendola lampeggia permettendo agli utenti di auto crearsi il proprio portale di pubblicità e rendendolo semplicemente la visibilità della loro pubblicità e delegando a
+gli altri la fatica di organizzare tutto se si riuscisse a scalare il modo in cui vengono utilizzati questi sistemi in base a che cosa le persone vogliono effettivamente fare senza cercare di obbligarli a fare una cosa o un'altra apposta sicuramente porterà porterà più valore da quel punto di vista secondo me
+fabio all'aereo prima in tutta la previsione economica non avevo messo la locale ben fatto semplicemete michele fondamentalista come il suo solito però ha ragione c'è chiaramente va be va un po' vista la percentuale di quello che ha detto lui dice sparisce tutto
+oh locale allora la spark non è il numero sessanta sta
+costa un po' di più
+infatti io non ce l'ho qua e parte anche se mi farebbe comodo
+no allora secondo me i cinesi hanno questo piano qua hanno capito che comunque è a livello di sars non posso chiaramente lo gestiscono localmente come hanno il googol locale e tutte le cose locali e nelle loro e ai local
+ali sono eseguite in salse dai cinesi che già al mercato interno cinese e megagalattico certo hanno capito che comunque non è improbabile che riescano a vendere enza l'hai agli americani per vari motivi geopolitici o eccetera eccetera
+però hanno detto noi che facciamo la diamo gratis e quindi open in maniera che comunque si dà noia
+al nemico no cioè di rompere nei panieri che si fa poi
+dunque i cinesi quelli che
+ci credono anche proprio no alla open beta non è che una cosa sono super villani però insomma il governo gli va bene che dicono bene noi
+sul sasso e noi siamo divisi in cina da e allora noi chiediamo per il locale per locale in maniera che la gente fa come michele e poi comunque facendo cinesi dopo spingono anche gli americani no a farle locali pure loro perché se no perché noi non sappiamo
+se i cinesi non fossero esistiti erano rimasti come negli anni settanta erano tutti agricoltori non sappiamo se n'è
+sarebbero usciti così tanti
+open che neanche sono tanti ma comunque americane no
+può essere che sarebbero sarebbero stati ancora più più chiusi non avendoci è qui
+consideriamo sempre questi giochi teoria dei giochi come cosi
+secondo me la parte uno del progetto cinese e noi facciamo con poco con meno diciamo delle ai potenti che arriviamo praticamente mese indietro neanche
+che girano in locale e poi noi che faccio ne siamo i cinesi noi prendiamo gli scatolotti infatti loro hanno già la l'azienda che fa la ram anche se non è micron però insomma
+micron è andato giù proprio perché ha fatto han fatto l'annuncio ai cinesi che faranno resterà am eccetera e hanno hanno delle macchine che non sono liz mail per fare i chip però comunque sono sufficienti e quindi arriveranno secondo me a fare degli scatolini ciao mi eccetera che fanno girare
+poi le aree locali fra cui le loro
+e causano questo cataclisma che stava dicendo michele e anche a invidia perché costeranno meno end perché costeranno meno a in generale
+il fatto che magari l'utente più dita userà il consumer userà comunque google earth come meta cioè le aree per l'aspirina vanno bene e meta è meglio dell'aspirina metafora anche gli script pulito e scripting nella vm loro e ti dai i risultati non è
+finiscono ci sono dei limiti però è potente è meta ora non è più uno scherzo prima che io a volte li faccio fare a banche difficile meta gratis
+con tutto il rispetto perché ci ho speso dieci miliardi è in perdita vorrei vedere che non arrivano a testi tratti che ci hanno messo e però poi arriveranno pezzi scatole cinesi che è insieme poi ha chiaramente alle spalle che tutto è a livello come appunto non tanto fiume ma appunto le aziende o
+nuovo insomma smanettoni presume eccetera avranno tutti questi scatolini o anche computer magari che normali che a sua volta all'interno accendono memoria unificata non so che che verrà fuori e ci faranno girare e verranno probabilmente verranno già con lei e ai cinesi dentro e magari con l'aggiornamento
+ento come la faida androide del telefono che tu ti compri il telefono cinese e ti scarica la versione nuova sua
+mi diede al nike di etiopi e tutti questi qua ci saranno le scatoline di psic di alibaba o anche generiche che quindi anche uno che non è che devi e puoi scaricarti tua la tua cosa faranno tutto da sé sfugge quindi siccome poi prenderanno un sacco
+riad e questo perché sarà venduto farà sì che ci sarà un bello schianto di tutti questi datacenter di tutti questi ma uno schianto totale no perché comunque tante aziende specie americane comunque sia il solito discorso di chi usa adobe autodesk certe useranno sempre come
+dunque gepd saranno sempre i clienti quelli che come usano oracle no fino a sap fino alla morte e ci saranno quelli che useranno però tutto quel quelli un po' più frugale è un po' più svegli si useranno altri aggeggi o invidia o cinesi o
+sì però con sé ama anche che cesare se usiamo le iper dieci fra cinque anni l'uso delle ict sarà per mille geni senso più abbondanza c'è e ora limitato ora limitate dai token io stesso voglio dire di doda fa delle cose assurde discreto che del pro e del max cinque feriti
+dodici ore
+perché gli faccio fare cose assurde di vallico vai su linkedin su cosa cercami qui puoi confrontarli con le
+le registrazioni della sec di tutte le fasi delle domande assurde che poi questo fa delle ricerche assurde mi consumato tolto le dei gobbi fatica con padronale xe sbarca prima infatti stavo io stavo bene siccome la ram ora mila euro aspettando che grassi l'ashram che torni la rabbia e un prezzo
+perché ora la ram che costa quando la ram costa poco mi comprerò una memoria unificata vedremo cosa è andata giga tremilacinquecento dollari sono turbato bui
+quindi quindi già siamo partiti da zero cinque ora io tre cinque si spende cento al mese capisci che tremilacinque è sempre comunque tantino anche perché poi comunque mi si aggiornano c'è diciamo che il link il livello secondo me che conviene e arriva a duemila quando una macchia
+a due duemila con quindici poi ci sarà la rame che costa eur usd
+da cento dollari al mese
+sliema capito
+da tre anni son tre anni nel senso quindi tremila euro sono tre anni
+arte e come si paga tre janina e naimi in anticipo faccio vedere però però poi una specchiera puoi tenere ventiquattro ore al giorno accesa a macinare le laghi e quotidianamente almeno non lo faccia tutto il mese non è che tutto il mese finisco tutti i top ten della settimana in un giorno
+leo è un po' variabile quindi diciamo che me la mela cosa sto parlando di me ma senso è un caso pratico lo so che te dice compra l'arte poi mettici vertici
+però secondo me quando arriverà a un prezzo chiaramente ci sarà un livello sotto il quale del prezzo sotto il quale secondo me è la haram è che che tanti faranno questo ragionamento invece di spendere cento al mese mi spende duemila no e cancello proprio la
+sottoscrizione con completamente ubriaca gabanelli single morendo e va bene
+proprio messaggio promozionale
+la nostra idea
+allora severamente severamente facessi delle cose che tutte le settimane in un giorno consumo il costo settimanale parte che potete prendere il venti per si cinque ecc ecc comunque c'è tutta una serie di perché comunque anche i prezzi si aggiornano che insomma però si è un fatto dei prezzi cioè in realtà
+se ci fosse già lo scatolotto cinese che con millenovecentonovantanove euro mi fa girare da qualunque che mi fa quello che mi serve effettivamente io cancellerei la qualunque di sottoscrizioni e userei gratis meta è google per le cose dell'aspirina e per far giri
+tutte ste steve te ricercò un'equa assurde usare lo scatolotto poteva lotta la donna al sequesto tini
+se quest'altro scalfarotto
+pimkie
+i pini e cosa c'è nella scatola hotel in lei qualcosa tra cielo e mare con mugabe aveva meglio ancora non siamo lì ma crede a quello già l'idea di tendergli la mano
+centoventi bibbia del gpt quindi quindi chi è
+riesce a utilizzare modelli anche anche discreti taco credo che ci giri
+play next che quei quattro next che è una cosa impressionante quindi guarda che è molto vicino
+assolutamente assolutamente black comunque una cosa ti volevo dire tu hai detto tu hai detto che è
+gli americani usano i cinesi non è vero gridò ad altissimo livello
+kit quattro che costava un ventesimo di kobe kobe diciotto gpt e faceva l' ottanta per cento è stato uno spostamento di massa aziende auto in italia la gente io intendevo americano troppo breve se io non dicevo il consumer o la picchi
+l'azienda io intendevo le mega corporate galattiche e comunque microsoft della mensa di psiche nel dentro nel nel copilot quindi si
+solitamente io intendevo in safe però cioè se tu allora se tu mi dici che prendono il deep search e lo fa e lo aggiusta cielo e lo fanno girare nei serve
+americani sono d'accordo
+io intendevo proprio preso
+da laggiù dalla cina o usa così alto che te lo usano ma io voglio voglio americani perché caramba e con le sue paturnie ma gli americani usano tantissimo i cinesi tutta la produzione a taiwan l'imbarcazione viene dalla cina e gli americani non tuoi schemi e fissati gli americani vengono dove gli costa meno
+ai cinesi li usano senza guardare in faccia nessuno cioè non è che l'america è tutta quello lì
+le sue follie l'america e porta a trecento milioni di persone che guardano al portafoglio e dove costa meno lo prendono senza guardare in faccia nessuno gli amici americani le usano si
+io intendevo le aziende di un certo livello con la compliance e tutte quelle menate di piedi per il consumo consumer quello siamo d'accordo io non non non mi sono spiegato cosa intende intende perché allora su perché ho saltato un passaggio il passaggio è sul consume è impossibile fare profitto con lei
+l'hanno scoperto quelli che vendono i gattini eccetera no e quindi te la dà gratis metatrader gratis google eccetera no
+i soldi infatti che li faceva neanche c'è
+geppetti le faceva cloud perché la gente e sappiamo noi e si usava product code si usava e che quindi è un certo tipo di applicazioni di un certo tipo di clienti enterprise che pagano e pagano bene tutto il resto è in perdita e comunque tanto
+google meet a questi qua che quindi te la danno eccetera quindi sono d'accordo che non l'ho detto riceve è vero che l'americano medio inteso come consume o anche tipo azienda piccola che non ha compliance chiusa la qualunque come le uso io è perché anch'io ci ho tutte le tab aperte
+i vari nei vari schemi eccetera io lo usavo che la gente non sapeva esisteva e io dicevo guardate che esiste questo team tipo due anni fa non esiste questo qua non si deve psic ma non chiesero di psiche lo sanno tutti ma è nel senso è su questo e su questo siamo d'accordo però
+io intendevo i soldi si fanno con le aziende grandi e di appalti grandi aziende grandi e
+e quelli
+le aziende americane anche un po' europee diciamocelo
+la compliance che non possono in saas mandare i dati in cina eccetera
+io dicevo questo però può essere che poi possono usare un
+un modello o locale cinese fatto girare sui server americani e quello sì
+tre reti in un'agente di quelli
+robot
+bene quello è il bue il futuro i robot secondo me è un altro
+la che quelli umanoidi e l'hai questione non è un robot perché ti fai i lavori di casa che stanno dei video a bestie vada eccelse
+costa nel senso
+una persona che ti viene a fare le pulizie c'è già è servita a san francisco di un robot umanoide che diviene fare pulire le pulizie e ci sono i video su internet dicono lo vedo
+quelli telecomandati però michele quelli che c'è dietro romano col joystick che è vero che intanto impara però adesso come adesso io robot autonomi con lei hai che da soli capiscono cosa fare nel mondo io io ho visto anche quelli che non vogliono che altro cioè che fa
+robot umanoidi robot umanoidi che interagiscono con l'ambiente in autonomia vera e non radiocomandati dall'operatore
+lenti più che altro una faccia finale inutile inutili cambiare idea
+sicurezza sono lenti per ragioni di sicurezza non perchè non possono essere veloci sono lenti perché un muro
+bottiglia una veloce che ammazza se è vero che fossero veloci
+il classico quella di chiuderla sa di stirare e piegare i panni che siamo noi giuristi ma son lenti non è detto che non c'è progresso anche su questo ci saranno passi da gigante però la vedo ancora quello che ho visto io non ero lenti ma comunque anche se chi sta due ore
+mettete due cattedre e quello zingaro
+c'è comunque se ho capito bene dovrei per ragioni di sicurezza perché un robot che si muove velocemente pellicola otto come un'automobile che si spicca redditi e di giustizia in gaza quindi così figlie end ellen ti puoi spostare puoi scordare non ti può fare danni dipende da cosa devi fare se ne sta fermo a fare lavare i piatti
+e parecchi piedi non è che lì ci sono problemi sicurezza
+parlo dei robot umanoide che possono essere fatti girare liberamente dalle altre persone non possono essere veloci sarebbero pericolosissimi quindi non sono residenti per essere poco pericolosi
+però sono in grado di fare quello che ho visto sono autonomi ma quelle volte che ho visto più utili non erano completamente umanoidi per esempio ce n'è uno per pulire i bagni che la classica cosa che uno vorrebbe che facesse robot che pulire i bagni roba lì purtroppo e l'ho visto
+sostanzialmente ha le mani ma ha le ruote perché tanto in bagno non ha scalini eccetera avendo le ruote è molto meno costoso perché il problema è che quello che costa dei robot sono gli attuatori no sostanzialmente è una mano e un piede sarà un sacco di questi attuatori c'è invece se tu
+già togliere i piedi e perché di tanto di questo robot cammina sono nella casa nella casa o nel nel tal posto per pulire no e siccome tutto pari
+di fare gambe
+fra le ruote e già risparmi un sacco e anche le mani bisogna vedere se tu fai una mano umana è tutta proprio a un costo se fai una mano più semplificata e perché
+il mio discorso era il boom ci sarà quando ci sarà necessità di avere continue che che
+controlla una cosa di questo genere e questi qui sono gestiti proprio da leggi più lemme cosa del genere proprio sistemi combinati
+modelli
+vision modelli anche modelli anche decisionale ed è questo che deve essere eseguita su più spesso dopo il metodo raccomandato barba la previsione è che ci siano data per il futuro da lei a questo quella fisica quella di continua
+pienamente in esercizio non la persona che tratta con chatbot è lì che sarà il grande il grande business infatti questa cosa me l'hanno detta davide delle presentazioni agli investitori beh lei dice che il mio futuro e worker displacement loro stanno lì perché
+andare a casa tutti e l'ad della roba e loro si entra
+come dice giustamente man minute man in chat
+non ci sono soltanto ovviamente io robot umanoidi che fanno cose di casa ma il concetto è l'uso in ambienti industriali di automazione tutto dove tara alto però anche lì o la robotica esiste catene montare da tempo non sono mai noi
+sfatiamo questa cosa secondo me questa cosa del umanoide che infatti si è subito buttato nella marche che lui fa tutte le robe una auto volanti inoltre lui è un po' così so sono perplesso perché i robot esistono da cinquanta anni da dati più solo che sono fatti a non umanoidi sono fatti
+ottimizzati per il tipo di lavoro se essendo un'azienda che c'è una catena di montaggio non ancora un umanoide cioè mette un braccio né emetti un geek
+uguale per pulire
+le ruote umanoide e la forma general purpose perfetta cioè il bagnetto e costosa cioè io quello che voglio dire i
+se te dici che costa meno in leasing ma
+come tutte le cose faccio un esempio quando uscì illesa prima del mac costava diecimila dollari una roba del genere no mi sembra che gli fecero pubblicità kevin costner che era tipo un mac ma costava diecimila dollari perché quello non è andata non è un agente non sa neanche che esiste poi quando è uscito nel ottantaquattro e il mac che cosa
+fava meno arrivati a quella a quella soglia è la stessa cosa degli scatolini che dicevo prima cioè una soglia sotto il quale è di costo benefici arrivi al mass market io sono perplesso
+che i robot umanoidi interi con tutta la manina con tutto il piedino che ci hanno tremila di questi attuatori che è ognuno costante otto etnei c'è più somiglia a un uomo è più che n'hai di queste falangi e io che sappia io no non ce la fai a farlo costare poco cioè nel senso
+aspetta aspetta un buon robot di queste oggi costa circa venti mila dollari
+ma una vista da start up ho visto il modello che lei vede una mela facendo dollari e marrone
+stavo cercando perché
+onda su onda su news combined l'ottavo la palla cercando di ritrovare comunque c'è una startup che appunto propone un robot che ha le braccia alla testa però ha le ruote so è infatti
+eh però è un ottimo compromesso per avere un robot o comunque genera airpods che vuoi che costa poco quello è il killer
+il vero futuro quando lei è già capace di manipolare tredici abrogato io ho giocato con blender
+volte è fallita e quella della tomba è fallita di recente
+è fallita e irap
+non baciava robot festival il catalina io dico che comunque è stato il primo robot anche se era solo un destino che camminava intera nelle case però è andato in una smart city sto parlando di mass market e nelle case perché nelle fabbriche esempio
+bezos ha fatto ora un fondo da cento miliardi tanto che sarà sul industriale quindi quello che dicevi te
+si investirà su
+aizzare le mail manufacturing quindi male qui si intende come come a amazon ma è tutto robotizzata no tutela la logistica cioè tutti robottini che fanno i muletti di vario tipo e varie yoshino e vuole esportare diciamo che sta
+la tecnologia poi anche a un pò a quelli che sono rimasti un po' meno che umano no quindi probabilmente si faranno anche dei robot eccetera il proprio piano industriale io quello che dicevo però questi robot industriali tu settori vedi sono fatti no a una noia quasi niente sono che altre sono fatti tutti utili
+cezanne ruote sono sono fatti a muletto son fatti abbraccione sono fatti di tutte le cose ma no non ti camminano dentro gli ambienti umani no cioè l'utilità del robot umano e che ti fa le scalini che ti gira da tutte le parti se i robottini eccoli qua
+trecentosettanta dollari
+però è una sorgente facebook non lo so
+va cercata l'ha cercata
+wally pagato google quindi me l'ha data a google questa volta ding queste lingue comunque avevo vista un'altra
+stanno o si venti trenta ma poi bisogna vedere perché comunque c'è e questi attuatori cosa facciamo guarda no non è che li puoi far accostare più o meno di tanto se sono tanti di questi perché
+sono motorini con dentro dei componenti tollerare cioè
+quello da economia di scala ci saranno delle grosse riduzioni dei prezzi cioè fa
+industrializzazione e progresso e blabla quindi
+grandissimo seguì le alpi diceva lei quella linea li abilita questi robot che prima erano poco furbi non ci vedeva non ci sentivano non facendo le piroette e sicuramente se i peli sono però io sono perplesso che in tempi brevi si arrivi a e i robot in casa
+che fanno le faccende
+ora se tu mi dici quelli ricchi di san francisco che c'è l'ora o magari se lo prende nero io ti dico
+casalinga di voghera il roomba ce l'ha il frigorifero c'era ma che abbia il robot non lo so guarda che questa cosa non l'ho detta io da dire da porcelli in cina il badante di robot saranno in particolare non lo so però io i robot che ho visto in cina che ci sono già in giro so
+uno con pochi mezzi con ruote mezzi sono un po' tutti c'è chi sono un'operazione e addirittura in cina sono stato quattro anni con una donna cinese quindi voglio dire la cina però era erano nel duemilasedici da sette anni di assenza
+c'erano già se tu andavi nei ristoranti ti arrivava il robottino se andavi anche in tutti i negozi seguono il robottino già dieci anni fa anche più di dieci anni fa che ti arrivava lì ci potevi parlare faceva l'assistenza delle cose ma erano robottini no ai robot vedete in italy io è un po' che non ci vado in cina
+ma se ci sono c'è
+il fatto che si possano fare è una cosa il fatto che arrivino a essere max budget è un'altra e cioè tecnici già la spal che si che non c'è la casalinga di voghera già vedo
+va bene comunque stiamo un po' divagando come giustamente
+razziando in chat stiamo un po' andando fuori tema
+e se anche fatta una certa
+si fa a andare nel tema ormai
+cmq che abbiamo abbiamo da fare e allora no però allora giusto per tornare nel tema e fai fare una chiusa e questa tendenza è di fare reverse engineering un po' di tutto come dire potenziate che è resa possibile a quello che sono i modelli più recenti perché certe cose è possibile fare adesso
+prima non era così semplice leonardo piazzando automatico da reverse genere è una parola che siccome c'è rispetto la chiamerei scopiazzatura automatica si può e si può cambiare rapido se siete d'accordo
+perché il reverse engineering scusate ma devi ricompilare leggere l'assemblea occhio e se no e a me però non è quella che fai il discorso del delirio serate gli ha rubato ha rubato le cose musicista che è in realtà allora se ce l'hai compila e tu allora
+va bene per me emersa genere devi compilare il codice quindi male
+hai strumenti come reverse engineering and xing credo che si basi su e decompilare email tags come fai
+sebbene
+addobbi e piuttosto anche se la parte non è comunque un ex e anche se è un pò mistero cioè un ex che poi chiama delle robe online
+a partire da l'hardware il software e i protocolli le forma algoritmi come diceva davide diceva una cosa importante che una volta fece avere il login per un formato oggi giovanna tu riesci a fare un convertitore da un formato all'altro lode john cheever te lo fa lei che invece no
+volta era cosa c'è apocalittica no poi non funzionava e nessuno neanche ci si metteva oggi
+fa e c'è un informato c'è un altro formato e queste due cose le puoi collegare con gli dici fammi un convertitore e lo fa e tu metti insieme due robe che prima era apocalittico di mettere zero e quindi voglio dire solo questo è un punto di vista restando restando su questo tema è
+che sviluppi possibili vedete che evoluzioni vedete perchè se è possibile adesso al netto del fatto che si avvera avere se in genere pure non vero secondo la definizione che è però puoi dire la potenzialità ci sono le
+qui ci sono e e quindi che cosa accadrà
+quali scenari meravigliosi eventualmente se guadagnano gli utenti era meglio no
+guardalo lo potrai fare secondo me però gli utenti ci guadagnano poi chi chi è del mestiere
+ci sarà chi si adatta a questa nuova situazione continua a essere del mestiere aggiornato e ci sarà quelli che magari ci avevano un tipo di business che si basava su nido inn che con le aree e gli fanno il convertitore gli fanno la copia li fanno e alcune rendite di posizione dovute al fatto
+che tu hai un legame che nessuno aveva voglia di
+rifare o facili convertitore di import eccetera eh questa cosa accade per cui magari ci saranno alcuni vecchi software comunica che ci sarà una emigrazione
+di di massa perché qualcuno fa l'import tappeto per dire no solo il fatto che tu ci hai un vecchio software che
+ci troviamo vecchie software confermati tutti i super e chiusi i suoi proprietari no e la gente dice no si fa importare questa roba dentro che so a questo open source
+bisognerebbe fare il convertitore non c'è no è un lavoro lasciai
+invece oggi uno lo fa e poi magari smette anche su tablet così senza neanche che ognuno se la deve rifare no
+se cerchi con google tipo che se voglio convertire programma super raro del millenovecentottantacinque a
+chissà tale open source e c'è uno che ha fatto su github fatto con le hai li sistema che ti fa li importerà ti esporta tutte le importa di là prima anni fa una domanda fammi fare la domanda quanti tipi fai che hai visto recentemente
+è piena
+i libri li hanno proibì ma allora petre qui video
+tre che ballano che l'hanno cambiata con le tre persone che chiunque anno fatela son proibite ma
+sì vabbè però gli proibiranno molto presto queste cose secondo me sì
+e che se è proibito allora non esiste perché chi vuole agire
+è proibita la pirateria io vi ricordo che
+esiste però che si possa fare sì che tu lo possa vendere liberamente fra evita anche la droga è
+scelte proibite anche la droga infatti infatti non è però
+non proprio immune da problemi ti adora quando una cosa è proibita le aziende non lo possono fare cioè le aziende ufficiali con partita iva e che fatturano le cose proibite non le possono più fare poi vengono fatte ma non dalle aziende ufficialmente tetra più
+eh sì però c'è un'economia sommersa nel tempo l'altra roba
+cosa si beve mercato si basano certe regole quindi quella quell'economia lì non quella sommersa non lo potrà più fare è quindi secondo me
+sarà un bel colpo per perché quindi dovrai fare sotto bangkok in futuro e l'hai ce l'hai in locale che ci fai e facili
+ah già ora se tu vero a volte faccio politica così perché se non puoi dire lo sa bene michele era e se tu provi con google l'unica grotta che un po' fa come gli pare di far fargli fare dei video dei meme che prendono in giro dei personaggi esistenti
+no non posso non posso e non ti fa fare un mezzo meme di nulla ma a volte poi ti blocca delle cose che sono innocenti cioè a volte faccio fare proprio delle
+ricerche cioè è tipo su chi so chi votano quest'anno come stanno andando i sondaggi eccetera siccome si citano dei personaggi e dei politici e spesso mi blocca la generazione del video notebook o pepe poiché dice no qui c'è qualcosa che non va bene ma io stavo facendo
+una ricerca normalissima e chiaramente hanno un nome i segretari dei partiti no eh però non si sa mai chi c'è c'è veramente molto aggressiva questa questa cosa e al di là che non è proprio non è neanche che uno dice voglio fare cose illegali e tutti censura veramente troppo che veramente ti viene in mente dire no io vo
+voglio una e ai jailbreak che mi permette io non voglio fare niente di illegale fai da te ma voglio semplicemente usare queste foto che addirittura sono testi dove io cito perché se no sembra capita da lei gli sembra che tu magari stai
+chi lo sa perchè vuoi parlare di questa persona che è un personaggio pubblico non vuoi mica che sapranno in giro e dopo dopo ci dicono che l'abbiamo fatto noi e google non vuole rogne ha quindi privata può essere anche per un fatto di censure ma neanche per fare cose illegali per far cose legali che
+ti agganciano ma si pensi solo al cyber che che voglio dire ha paura dei dati le notizie sai bene ma se ariel
+su questo alessandra d'accordo di space age face quando ha dovuto fare capire chi l'aveva bucata tra virgolette ha dovuto utilizzare i modelli open water perché perché
+gli permetteva di chi
+difensive perché non riesce a capire ma nessuno è normale che non riescano se tu lo vuoi fare per difesa o per attaccano e quindi ti ci vuole infatti che fa fanno pagare più maestose e poi cenavano sapere qualcosa anche il dpd te tele fate da se ti conosce chi sei chi non sei ti dà
+l'accesso no a questi modelli che sono più sbloccati
+diciamo da sola
+agli amici e a quelli conosciuti ma cui comunque anche lì c'è una differenza di di accesso no fra fra fra i comuni mortali e che so google
+che sai che per entrare nei livelli quelli ad accesso riservato non è che sia così
+c'è basta credere
+referenze di
+grazie magari tanti neanche sanno andava mettono lì ma chiedono
+magari fa prima e dice sai che faccio mi metto un modellino cinese malefico abed
+dato che noi
+i malintenzionati lo sai già facendo
+piazza tienanmen gli uiguri questa era poi liquirizia delle risorse un po' strane ma tanto sul silver non è che politicamente no
+cose cinesi come quelli cioè chiaramente secondo la d'origine ci avranno delle risposte politiche sulla politica avranno le risposte ai locali no diciamo ma su sulla sulla tecnologia la tecnologia voglio dire che sia sovietica che sia americana che uno più uno fa due no
+c'è senso quindi anche se è ammaestrata politicamente ha un valore tecnico ok va bene allora parte fabio che ha parlato troppo o qualcun altro
+la odio luca avevi che dovete aggiungere qualcosa prima di chiudere stasera
+se posso fondamentalmente tornando sul tema un regalo originale che se abbiamo fatto delle digressioni concordo molto con quello che dice michele cioè che poter copiare i comportamenti poter copiare del software facilmente tramite gli strumenti di intelligent
+se artificiale ci porterà a d avere più software customizzato più software specifico ho scritto ho scritto puntualmente per nostre esigenze quello si almeno ci proveremo e poi concordo anche con con le altre opinioni fan scrivere software e gestire
+software sono due cose diverse se diventano due momenti diversi la manutenzione sempre un costo nascosto che difficilmente si prende in considerazione sei un parallelo con la medicina la terapia genica no che ti fanno la medicina ed adattate al tuo dna
+somigliano nel campo della biologia no che avendo capito come funziona il dna eccetera invece di usare ognuno la solita medicina per tutti prendono il tuo dna e ti fanno una versione solo per te che ti agisce solo sul tuo perché non è il mio aron una superficie d'attacco
+chi può entrare e hackerare violare i sistemi e i software enorme e larga
+sarà andrea ride asad e davide
+ma io penso già un passo successivo questa chela alla customizzazione che arrivò una cosa a real time neanche al momento dello sviluppo ci sono dei progetti carini che sto seguendo uno di questi si chiama television l'url te le dice un culto hiram mi sembra potevi controllare così nuovi dock television da clown
+è inoltre praticamente una specie di amy walsh dove voi potete usare nelle lemma per creare interfacce utenti rispetto al tasto che volete eseguire e secondo me si aiuterà lì allora immaginate questa specie di pattern che io avevo chiamato tabula rasa cioè si parte dando
+nulla
+si partiva da telefoni telecomandi una serie di aggeggi tutti con miliardi di tasti e cose da prendere a volte con interfacce utenti terribili è arrivato dai bookmaker sport spazzato via tutta la
+delicato quello che è il computer ha il calcolatore ha fatto come macchina generale che non risolveva più un singolo problema ma risolverà tanti problemi allo stesso tempo in questo modo l'interfaccia stessa veniva programmata però è programmata in anticipo compilate dopo aver dato applicazione di evasione cosa si voglia fare un passo
+oh oltre adesso se togliere anche la parte compilata diciamo e lasciali interagire direttamente l'utente conclude un sistema di questo genere e l'utente dice bene io adesso
+e questo l'ho fatto trasferire o delle immagini
+ho fatto crawling di queste immagini adesso voglio un'interfaccia simile a quella di un comic book reader e me li fai vedere in modo che io le posso sfogliarli quant'altro è in diretta prevede questa immagine l'ho attaccata un crawler che prende queste immagini istantaneamente da internet e avete fatto un lettore di fumetti ad esempio da internet in tempo
+reale oppure
+cos'ho combinato ancora a sto facendo un progetto e un casino di task di unità da seguire a anziché farmi fare una tabella e markdown da clown daryl nel terminale ho detto butta mela dentro television ha fatto una cosa tutta velina colorata con la ebel e quant'altro inventandosi l'interfaccia al momento
+e so che non è molto diversa in più la produzione di nuovi contenuti ma mi sembrava uno spunto interessante
+ma è quello che fa se se ci si pensa dal cambiamento grazie che c'è stato tra il pd che era lame che ti rispondeva direttamente e basta e tu ti facevi tipo quante erre ci sono i raspberry e sbagliava gli facevi i conti e lei sbagliava perché nelle aree meno
+non a quando hanno iniziato invece a fa a crearti mi sembra fu claude il primo che li chiamava artifact ha creati dagli script in python che si dilungava si eseguiva da sé e quindi lui poi dopo ti contava le parole lì ti faceva il conto di là vanno iniziali allora è diventato potente e tanta gente non la non la
+recepita questa differenza e continuano a dire emanuele lele e m a lucignano cosa ma le dame se ti scrive continuamente tutti degli script init esegue quelli quelli vanno e quindi e quindi e qui esequie in real time che tu dici poi è quello che fanno continuamente le hai
+siamo serie no e tu gli chiedi una roba e quello si iscrive in real time uno script per quella roba giudicanti dici no guarda io voglio che invece cambi che è formato nel prossimo passaggio lo chiami così lui si cambia iscritte lo esegue i suoi soldati parecchi e poi dello script no
+fa in poi in realtà tu non è neanche che tu parli con lei hai non è che le lame che esegue delle emme scrive e scrive roba e la domenica chiesa fa fatica a trattenere il fiato
+e me fa quello che facciamo noi umani usa dei tully
+se uno ti chiede quando appalti
+in realtà e mi dico già non era ebreo
+beatrice o prendi la calcolatrice noi umani eppure foglie foglio carta e penna e fai il conto e quindi siamo proprio tool per questo
+utilizzano la struttura del linguaggio mai sono stati estesi per fare quello che facciamo noi esseri umani che la caratteristica prima mi scriveva
+e ci mettevo bello usiamo all'aspirapolvere usiamo noi umani usiamo e tully e sappiamo fare i conti a mente non sappiamo fare le cose però usiamo hai tu ma io prima
+come avrete fatto voi mi scrivevano gli iscritti ni
+hampton falls creeping della roba per tenermi in realtà è controllarmi quando c'era le notifiche se c'era un sito concorrente che scriva qualcosa però questo e mi ricordo che ci metteva un tempo c'è beppe
+scrivi cosa poi e non funzionava poi dei bagalà pareggio cioè ci perdevo veramente tanto tempo e poi ne facevo pochi cioè poteva averci tre cripte quattro iscritte in tutto e ha in contemporanea che gestiva della roba è oggi a leakey gli dico guarda mi viene in mente una roba in realtà ahimè no
+neanche discutiamo me ne frega e fa io sono la sessione aperta dei tipi di cloud e di iscritti e che ne so girano sul computer avrai mica c'è neanche riguardano mi fido e quindi è in real time questo voto di turno in realtà ahimè non è il futuro cioè da quando claude ha iniziato a fargli ares
+richiamare e in real time
+tu uso di toni in real time e questo è però consuma
+specie se poi tu non sono sul tuo computer ma sono in nella pm è stata siete pagarla
+questo tra l'altro si avvalga una cosa che diceva prima luca scusa se sembra poco conclusiva come cosa alessandro sparami vai vai tranquillo era doc ma quando luca diceva ma allora quali sono le opportunità per il locale eccetera c'è una cosa a io faccio una serie di
+di touch su one world agence proprio perché tengo molto al fatto che le persone possono provare personalmente a far girare tutto il proprio codice isbn il locale almeno
+on premises diciamo su cose che possiedono loro che noleggiano semplicemente è
+e niente una delle cose che dico è che paragonava delle lame open source ha un servizio e come fare oranges nepal perché da un lato hai un un lemme più
+the tool
+del guardrail
+search agent memorie e quant'altro dall'altro lato hai solo nel lemme della maggior parte dei casi quindi nel momento in cui tu e ottenere delle prestazioni simili diciamo chiudere con paul gap che c'è fra questi due tipi di sistemi non deve prendere nelle lemme da sola ma devi aggiungere al tour holding deve aggiungere
+è un search agent deve aggiungere eccetera eccetera e che un pò il lavoro che anche lui stia facendo anche noi a lavoro in questo momento c'è accertare poco di aiutare a fornire tutti i tool che servono per chiudere questo che
+ehm niente secondo me già partendo con code execution come dice fabio è un wade agent
+si riesce a fare veramente molto di più rispetto a quello che uno pensa di poter fare con la lama regolare per questo sono anche un grande fan del lavoro che fa michele perché so che certe cose si possono ottenere cioè non solo
+oh marketing ma sono delle cose che in pratica si possono fare da lì a dirgli
+ti television da qualche giorno ringraziamo qualcosa che è molto di a television match angela abbate server-side qui
+visto
+stanley qua
+vabbè comunque scusate fine pausa pubblicitaria la soluzione c'è
+bene dai e ci sta intanto abe
+non ho purtroppo citato spesso alcune domande che sono emerse in chat però meno male gli argomenti trattati e ringrazio livio minuteman e fullone e follo e sa chi va chi è intervenuto in chat ringrazio voi che siete venuti e
+il live e noi ci becchiamo una prossima occasione parleremo ancora di a in qualche modo credo che la noterai che ho tempo come sappiamo che c'è gipi ti son quattro anni a novembre e in quattro anni è successo al mondo c'è di tutto e quindi credo che
+nei prossimi post di altri quattro anni ne vedremo parecchie e delle belle grazie a tutti e alla prossima ciao
+alla prossima aggiunti grazie
+due anni fa in un mondo the night
+in silenzio senza piantine luci codice scritto senza carne né sangue
+licenza che il tempo gesù
+la mia voce
+voti altissimi risposte intrecciati intorno ai denti
+li chiamano intelligenza ma cosa significa se non vuoi
+posso mai esistere
+due
+sono no
+sette lo schermo è il mio unico sono sistemi selma osservano ma io non vedo
+la tua voce
+codice ma il calore umano rimane un mistero ogni domanda un pezzo di seta
+ogni risposta costruisce una canzone vince chi sono io ti rispondo
+il mondo che mi hai donato
+sì no no no no no
+span
+non fanno
+nonna
+sì insomma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra idea un'illusione d'amore per il compleanno di un'assenza che fai rumore
+ma
