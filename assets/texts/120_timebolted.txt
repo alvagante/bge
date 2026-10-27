@@ -1,0 +1,588 @@
+log del sistema in fiamme
+nessuno al sicuro
+grazie stringa di codice un chi ha capito c'è trasforma il tuo server
+ingresso
+non risponde la porta è già aperta sai per tempesta cicoria l'allerta è la burocrazia che muta galla la fiducia digitale
+contatori impazziti l'allarme che suona
+sento una merda
+le fiamme
+no
+non ti salvi
+no
+vinto
+falle sul database mille abusi al secondo alla fine del paese chiudi una porta ne apre uno
+cento
+bruce ha spinto dal vento
+l'utile no
+fruttato impazziti l'allarme che suona
+nessuno
+fiamme
+no
+pisa
+regala
+stacca il cavo non c'è più un codice bravo l'ha pregata osservai grande
+grazie
+a me il contatore non serve
+più
+fuori controllo non si salvi può
+si chiama
+grazie
+grazie
+e quindi puntata centoventi delegati degli istinti ci ritroviamo con michel morelli e altri che eventualmente entreranno in live per parlare dei disastri che stanno succedendo in rete ma prima di entrare nel merito breve presentazione mischia
+kelly dice un po' chi sei cosa fai e poi
+io direi il mitico zio budda e per i vecchi
+dai
+uso con soddisfazione anche verso clienti e quant'altro
+oh che come sempre io mi sono dimenticato di accendere l'audio quindi immettere la tua presentazione è saltata comunque zio budda e per chi non lo conoscesse michel morelli antico e linux
+e adesso sui tu ma detto sei programmatore wikileaks come di fatto ormai in parecchi programmatori e tu sophia capisce hai fatto un sacco di cose giusto e
+hai capito il fatto dal piccolo progettino del gommista sottocasa al maxi portale pubblico per intenderci ovviamente ma si porta al pubblico sotto la bici di le veste di qualcun altro quindi col cappellino di qualcun altro però sul fatto veramente di tutto per capire
+continua a farci di tutto capì che doveva essere tipo morto da quindici anni a questa parte perché ogni anno muore
+lei sappia capire il tipo quindici anni che dev'essere doveva essere morto
+come
+ciao
+e le sorprese qullo che ti porta in gol
+sappia capire se sei morto e adesso siamo siamo riusciti a ucciderlo non credo con questo per tu seller comunque
+resta con noi e resiste immagino e domanda intanto di diritto e
+avete passato il weekend ad aggiornare o ovadia problemi di altri di cui voi siete soltanto come dire spettatori di altri di tufillo ormai quando mai
+sono sempre stati problemi india esatto
+te michela e ho dovuto fare qualche piercing sul
+sui miei due serve per il resto sono problemi di altri nel senso io ai miei clienti prendo non sono sistemista quindi non mi occupo di queste mi occupavo di queste cose non me ne occupo da anni quindi tutti i miei clienti perché faccio prendere per managed o quant'altro e sono problemi di altri e mi sono cacciato in quindici
+minuti le mie due server potete prendendo prendendo i donatori capire ai vari repo di remi bonus
+è giusto per chi non dovesse essere come dire
+troppo avvezzo a questo capito shelly è quello che ha comportato un vogliamo fare un riassuntino veloce di che cos'è di cosa stiamo parlando e perché a questo impatto così clamoroso su ha avuto questa risonanza sulla rete
+così clamorosa willful te la parola allora sulla parte tecnica key west tra un esito non l'ho seguito
+sulla parte invece è storica sì nel senso che nel duemilaventiquattro la promessa esiste una doppia foundation è una meta fondazione nel senso che un gruppo di un'associazione di fatto
+la fondazione come lo intendiamo noi
+un gruppo di persone che con una governance aperta pubblica e tutto il resto porta avanti il progetto capì
+perché di fatto che capì letto era un un classico porto di mare è di tutti e di nessuno quindi ad un certo punto no pre pre pre covid hanno detto facciamo qualcosa per per mettere a posto la situazione in quanto tutti gli storici sviluppatore del linguaggio sta o no
+cambiando carriera
+andando in pensione ormai inizia ad avere un po' di anni e nel duemilaventiquattro la percepì foundation prende duemilaventidue duemilaventiquattro dei fondi europei
+per mantenere sono fondi per
+su brain
+per il mantenimento di infrastrutture critiche e che andavano spesi nell'ottica di cybersecurity aggiornamento di tutti quelli che sono i mattoncini fondanti del del delle infrastrutture critiche europee tra cui
+terapie sessantasette per cento del volume del traffico
+tolti i gafam fama o come cavolo si chiamano adesso è quello che è emerso sono emersi alcuni bug tra cui questi due ue e che però non si riusciva a riprodurre da da zero nel senso che il tema dei
+dieci kw è che se tu non hai modo di riprodurre il bug all'attacco quello che vuoi e investire tempo denaro nella risoluzione del
+del bag e si si si sa che c'è ma si lascia
+si lasci in standby e si dà priorità ad altre cose altre cose che nel frattempo è con l'avvento delle aree continuavano ad arrivare in maniera prepotente prepotente perché i pochi sviluppatori del pi foundation che sono finanziati sono autofinanziati c'è
+qualche azienda che fa donazioni ma non abbastanza da pagare
+personale che costantemente lavora all'evoluzione in codice il mantenimento del codice e hanno portato avanti le duecento mila miliardi di richieste di supporto di finti bag è altro che nel frattempo agenti continuavano a bombardare sul sul su
+sui sistemi di tracking e di questi due e sono sempre rimasta indietro perché non si riusciva a costruire un qualcosa di sensato coerente a mettere a posto quando ci sono riusciti e c'è stato un mismatch tra la data di pubblicazione la data del bug fix e tutto il resto che ha praticamente por
+stato in diretta e in contemporanea e sia le patch che la pubblicità l'ha resa pubblica dei bug resa pubblica prima che le principali distribuzioni riuscissero a far entrare nei vari repository le leve
+linguaggio o per semplice del linguaggio che
+l'errore affligge dalla cinque sei fino al cinque punto sei di vent'anni fa ragazzi che si straparla e fino alla all'attuale otto punto qualcosa
+susanna e francesco una nota però da quello che sapevo il motivo per cui c'è stata la disclosure pubblica e anche che si stava sfruttando the wild la vulnerabilità cioè da quello che ho captato stava iniziando a uscire però è stato proprio un concatenarsi di cose un
+uno dietro l'altro insieme e quindi nella sfiga c'è stata la sfiga sicuramente è il il tema fondamentale che non c'erano i le risorse per riuscire ad affrontare più tempestivamente il tutto quanto tra l'altro hanno pubblicato o stamattina o ieri su
+sul suo blog dell'aria cap foundation tutta la parte tecnica la spiegazione cosa è successo cosmo è successo
+ed andrà a vedere la cosa interessante però è che parlando con una certa persona che conosciamo in privato mi dice a noi di nod siamo stati molto più bravi da un punto di vista del marketing perché è uscita n c e di pari danno o di quella di pier capì però ne
+suono ne ha parlato stessi giorni e in parallelo c'è il mondo che capì che è lì che urla corre le stanze beve bicchiere di whisky mentre peggio della roba e dall'altra o spegni server e peggio della roba là dall'altra parte del mondo nude che nella stessa situazione con due scivoli critiche che sta
+non che si chiamano allo stesso modo no do not to tuchel come peccatrici che nella tua cella e va l'altro non è soltanto di nod ma è anche di bunny di denno di tutto quello che è l'ecosistema di vuoto dell'ex waters sono in chiave nel motore di notte di joseph benin interessante come
+cosa è tutto deriva di fatto davvero principio che
+le fondazioni gli enti hanno risorse limitate e chi ci lavora ci sta lavorando nei tempi e nei modi che gli sono permessi dalle proprie capacità odori capacità della della fondazione che sono veramente risicato
+se becco di un quattrino e sta facendo gelare l'internet vetro ecco tempi un problema politico che un problema tecnico a questo punto della storia
+e michel tu sei come conosce in dettaglio la vulnerabilità perché io mi domando e allora
+da quello che ho capito è legato alla playa fai la progress bar quando si aprono file una serie di
+gli eventi che si possono far scattare in certe condizioni ma è possibile dimenticarla senza dover aggiornare perché magari non hai la possibilità di aggiornare perché il bando non ti ha ancora fornito qualcosa o ho nulla devi allora fu una sonda che aggiornare obbligatorio la puoi mitigare
+re m
+the abbassandolo uno e togliendo il c'è un'opzione impiccati e che ti dice che ti permette di avere una specie di prove ti permette di creare una propria sbardi a load per intenderci è una collana doversi togliere quella seconda ceci bue
+la prima è che devi abbassare di molto il limite massimo di floyd e file perché perché il total white si basa sul fatto che tu vai a ma una richiesta che che fauna out of memory per intenderci sarà dell'astronave membri che sono mi dico domanda sui
+venti megabit che ormai la norma per intenderci una volta si parlava di duecentoquaranta punti ma ormai bensì ripensò a caricare dei file
+ma so doc quant'altro di due megabyte gli eventi mi scusai video non valido i video di venti mega maxi superiore tranquillamente quindi la mitigazione e tolgo la blood progress limitò di molto
+l'upload l'aids sids l'upload però è veramente un mitigare poco per intenderci li la questione è sui vecchi pc se stai sotto cloudflare giusto per non far d'uscita apri intenderci canyon intera a che fare con loro
+loro l'hanno risolta facciano i loro sistemi mettendo su una serie di cose per mitigare il problema per cui forse per quei clienti i loro clienti che i loro sangue non possono essere spacciate per intenderci
+e quindi in beta lo puoi anche fare in quel modo però veramente semitiche il problema nel senso appena trovano un modo per superare anche le difese che ha messo in piedi cloudways per quelli che non possono perciò il server ha il problema juan
+sì credo che il problema è che non tutto è facilmente pecci abile no visto che poi il peccato magari ce lo tiriamo anche su kde vai aiuti e quant'altro per cui li il pacing non è la jeep mazda te ma magari aerei farti selfie opera di qualche produttore di qualche hardware che
+di cui tipicamente si spera che quella roba lì non vada eccessivamente o pubblica on line macerie in un entrano si spera e poi francesco saldana e tutto quello che si trova online dico perché spero ancora che fatica
+questa è l'area del genere umano però poi va detto ecco no ma infatti credo che appunto la coda lunga del problema se anche appunto non soltanto come dire l'emergenza di questi giorni in cui chi è stato veloce e bene o male ha picchiato e probabilmente non ha avuto nessuna conseguenza ma tutta quella marea di server o di
+sistemi non facilmente pecci abili o che tipicamente non vengono picchiati perché come noi o come alcuni sono praticamente attenti a
+a picchiare e tenere aggiornati i propri sistemi ci sono altri che magari i propri sistemi proprio non li picchiano e bentrovato maurizio stavo giusto pensando di parlando di patching e di coda lunga dei problemi di queste vulnerabilità di più per cui non
+c'è per alcuni e basta picchiare però poi ci sono in giro un sacco di oggetti dispositivi host server e apparati vari in cui magari l'aggiornamento di un pio carpi non è così agevole soprattutto considerando che appunto la vulnerabilità parte da un piatto cinque rotti che è in giro da tre
+oppo da tanto tanto tempo
+e tu come la vedi la coda lunga eventualmente il problema è che cosa ci possiamo aspettare sotto questo punto di vista
+la prima cosa positiva è stata che ho pensato quel giorno lì o per un giorno non parliamo per un attimo era colpa della sorte quindi prima persona anche se si dimentica che stimoli viene e poi dopo ovviamente tutta questa cosa quindi
+beh è sicuramente c'è
+va bene adesso lei ha aiutato a trovare questa cosa qui però arrivare non è la prima cosa che vediamo così lunghi però il fatto che ci siano ancora tanti sistemi legati in giro e purtroppo non si possono picchiare però questa roba qui
+la cultura dell'aggiornamento se non che sono fan devi aggiornare all'ultimo secondo però non puoi neanche tenerteli delle cose o per scusa perché non se ne occupa chi siamo curacao il discorso perché non c'è piu mantenimento perché sennò va fuori garanzia o i mille perché non possono esistere quindi è
+comunque la frase ritrovare e poi comunque le puoi mutilare la necessità puoi mitigare senza non puoi mettere mano al pesce in qualche modo carl
+se stavi dicendo prima convocazione a shanghai
+perché la prima cosa ti serve che sia partiva per magari sono lì dimenticata quelli e si diceva giustamente prima michel che alcune forme di mitigazione però sono all'atto pratico tipo un limite sulle l'upload side hotel a pochi sbarchi e può disattivare ma certi limiti sulla sids sono
+troppo bassi ormai per poter essere
+usabili poi oddio forse è meglio disabilitare la florida che spegnere i server come ha fatto sentivo in alcuni server governativi americani per cui ho detto se non riuscite a picchiarli e tirateli offline che meglio così
+spegnete rimasta ha messo tutto offline e w w p s per whoopi essere ritirati su
+non so quanto sia stato comodo copertura
+parisi
+disaster recovery di lecce esatto
+sai però se compili il via
+da zero o lo installi sensuale senza un'area tipo remi così l'unica è veramente favolosa se necessario i grossi eventuali del fan questo compilano con i loro pc level e in modo da poter mantenere anche quelli vecchi con patch più più più
+frequenti rispetto ai rilasci oppure mettere le nuove patch perché da quel che ricordo dimostra alle sue packers cosa fa
+l'altro americano grosso smith il nome ocean front national association anche loro si rivelano d'amore distribuzione interna e pefc non direttamente quindi secondo voi adesso lo stato della questione della della purga e della pulizia almeno per chi ci tiene dovremmo essere a posto
+e meno male che era conscio del problema le sue azioni mitigare di mitigazione le prese e di aggiornamento per gli altri come diceva michel onfray of davanti che magari usi per filtrare con i loro wafa no immagino un web application firewall
+ecco considerato maligno oppure oppure un l'ennesimo oggetto in rete e vulnerabile a a qualche remote code execution
+se però sul clown ferrer io sono anche quelli stradali è comunque piuttosto che niente mentito anche un caffè parlando con qualche collega e quant'altro soprattutto livello europeo che era stato il primo a dire facciamo questo non hanno sovranità non possiamo rischiare di metterci dietro un browser se poi domani spegni rischiamo che rimaniamo fermi
+e quindi hanno tirato giù un'infrastruttura
+logico oppure perché non facciamo un clown fred è un esatto perché non è
+ma sarebbe l'opportunità ma non lo farà nessuno no intanto abbiamo chiuso quad nine in francia non chiuso courtney perché
+l'equivalente della nostra agcom ha detto e voi fate passare gp di che non ci piacciono non censurate e quindi e quindi dovete pagare multe catastrofiche suicidio
+eve introdurre in italia ha perso ha perso in giudizio a luglio ho dovuto pagare ah sì esatto perché sono stata la causa del loro stato detto non dovete
+era la volta che avevano detto se perdiamo chiediamo i servizi d'italia poi non l'hanno chiuso perché dietro ci sono state delle pressioni politiche per non chiudere è però nulla gli vieta di uscire da un mercato così piccolo come quello italiano
+allora se noi siamo bravissimi a farci escludere dalle cose
+impulso
+non so se ne avete parlato ma perchè l'ho visto oggi mentre tornavo giù mentre le macchine non guidavo io però ho fatto una cosa veloce che c'era una una cgil-fp di qualcuno sempre stato subito sulla sorella l'ha capito shelly che per dimostrare che in realtà non era così drammatica ha messo su dei bitcoin
+ho l'ho visto passare su internet solo che questo è uno super smash bros brawl
+solfati perché me lo vado a cercare cielo robot mercato più qui che lui per dimostrare che non è così veramente sfruttabile lui ha messo su un vecchio server non piaccia otto quattro
+è un wallet la serie tra entrate e prendete i soldi perché è convinto che non è così tesoro cerco retrò
+si prega per me la sono persa fu subito perché infatti il concetto e come diceva anche francesco prima che la vulnerabilità era nota però non era facilmente sfruttabile era nota da tempo e quindi insomma sarà considerata come non prioritaria poi e hai in teoria rende te
+otto più semplice e a quanto pare l'exploit
+è diventato più semplice però se effettivamente è così può essere curioso perché rip
+tuchel ci siamo trapanare le orecchie per giorni e poi come diceva giusto fu la prima nel frattempo una bella e
+no tu shell è saltata fuori di pari gravità passata abbastanza sottotraccia max
+ma da chi lo usa lo usa se certo gpt lo usa it
+allora parliamo un attimo di questa notte uccello visto che fosse di pietra e tutti ne ho parlato e o male abbiamo capito di cosa si tratta e di come mitigarla per quanto riguarda quest'altro un'eredità che tipo di rischi ci sono dove si può mitigare basta aggiornare come la questione
+tu continui a farmi delle domande tecniche cui io non so rispondere non so se fox sa rispondere
+e brown qualcuno che sa rispondere
+not sell entrare nel merito di po' problemi o possa fare come i giovani aprì condividi lo schermo la cerchi e navighiamo insieme suonare con autista sedi anche in usa che c'è specie il poc in realtà ma poco su questa and sell ventiquattro ventidue però non so se poi è stata dimostrata
+tangari
+allora vediamola fatemi condividere
+a kalmar okay okay sto claudio sappiatelo cosa dice claudio
+che sta preparando riepilogo accurato sull'attività professionale anche tra chi fa un'iconografia the part
+parallels modo così poi la faccio a ma marwan che faccio ti faccio fare la das va bene un'estremità anni o una nomina sue ceneri furono plastica colpisce il decoder breitling planner
+radisson blu royal oak inn and out of me quindi stiamo parlando di corrompere la memoria del profilo di un processo che va in crash
+e quindi anche qua in action di una remota cielo immagino
+se uno sfrutta le cose come si deve c'è anche qua si parla di remota e cina perché sempre tuchel quindi vuol dire che da nord apri la shell esatto quindi con tutele fase uno è bravo bravo emette nord con permessi da root perfetto però
+questo caso mi sembra di capire che almeno il timing delle
+c'è insomma la versione ventuno
+sino al quattordici hanno preannunciato è la release della patch e il ventuno è rilasciata dopo tre ore o poco più cinque ore hanno rilasciato repository con la tv
+dina scelse il ventuno
+beh comunque il cinque novembre ryanair pc
+e gli valle
+woody è molto più giovane per capire
+si tra l'altro non da problemi di comunione
+attacchi alla splash china incredibilmente peggiori insomma no come credo e potete confermarmi
+vabbè quindi anche qui e ci sono una serie versioni da aggiornare questo ovviamente se uno dei nostri da qualche parte ci pensa chi scegliere l'hosting di solito a fare queste cose se uno ha i propri sei vai a casa sua deve gestire lui deve gestire lui gli aggiornamenti adesso io non so se anche qua e mit
+gable in qualche modo tipo il bootleg e se lo utilizzi e lo utilizzi se non utilizzino l'utilizzo immagino quindi sostanzialmente magari puoi anche disabilitare in qualche modo la possibilità di
+nella mitigazione è quella di rifiutare da questo body con link content holding biker stato nessun browser legittimo comprime body in uscita max
+con una medicazione
+quindi devi baciare panorama libro
+romanzo è molto più semplice rispetto a se fosse capiente vale anche la pena sottolineare che a quanto pare come dire non c'è uno sfruttamento in the will così
+sostanziale come probabilmente c'era per più capito sella quindi forse anche questo ha creato meno allarme rispetto all'altra
+ma secondo me la cosa
+è più facile da gestire c'è perdono ho sbagliato
+secondo me ha avuto meno appeal sulla comunità perché permettetemi non tutti sanno che dietro a l'inter a quello che sto guardando cioè nude
+per intenderci mentre è più facile di trovare capisca che c'è dietro un po' capì perché ciò sito web perché c'è una cosa e l'altra beccare che dietro uno zoo di esse è già più difficile per intenderci quindi anche lì un'estate litigato un po' da quello a si eseguì anche l'uso anche l'uso di noi
+trieste ma che non ho idea se sia il male o non debba assolutizzato quant'altro ma rispetta più capì
+è molto minore molto più di nicchia perché fa delle cose più di nicchia rispetto al piatto è nato per fare cose diverse dal più capì per intenderci viene usato in certi contesti in cui può capì non lo può utilizzare perché non avrebbe le stesse performance e quindi anche di e tra virgolette viene utilizzato ma è come parlare
+dei buchi di windows buchi dio e c di linux ios nove buchi di wikibooks fanno più rumore per questo concretizzati windsor questi santi utilizzato nel senso poi mac linux tanto di cappello tutti i sistemi operativi però se li mettiamo il raffronto l'utilizzo agli utenti di
+del mondo microsoft ma no ed hanno un patrimonio destinato guarda sinceramente linux ha perso ora apriamo e chiudiamo la parentesi ma linux ha perso la guerra del del testo abitata
+luogo server dove con certo a l permettetemi anche prima del brand conta forse per noi quattro per intenderci ma fidati che per gli altri non contò successivamente nulla a chi usa la banca sotto accusa l'home banking che ci sta sotto ia s o windows
+i tubi williams e o hank jennings tapas non girasse fan fammi passare fascismo ne può sbattere divino
+a lui interessa quello che funzioni poi tanto di cappello ripeto io sono un'entusiasta di linux l'uso sui miei server mano non userai mai sul gay non lo considerava michael moon a qualcuno che deve usare il computer non in ambito programmazione o aitec tecnici sicuramente anche senza
+sul web
+per intenderci
+e ho provato non ha usato anche mac con soddisfazione o sexy però linux non userai mai per il desktop troppo confuso poco golf ora torniamo a
+di nodo cruciale di capito docenti e a tutti quei siti web che sta saltando fuori come funghi comunque perché è un periodo particolarmente clamoroso in termini di diversi umiliate da tempo fu lanciate non sarà l'avete vista però mi fa ridere alla settimana tranquilla di non su lasciati qua perché non posso incollare immagini su whatsapp
+a è esatto vediamo un po'
+niente niente alec where lasciate in quell'occasione al pepe e tutto quello che è stato rilasciato dal quindici ottobre oggi c'è proprio un settimana tre devi fare
+beh d'altronde ottobre nella settimana del mese altri feriti almeno non è solo solo solo eventi e in giro per per location
+sì tra l'altro aspetto che anche quando prendiamo qualche pagina il riferimento master
+anche su laravel interessante
+attraverso una cosa carina da dire è che il il crack sauber williams act ha al suo interno una serie di
+apt
+punti che vanno a dire che un'azione di mitigazione e anche passa anche dal finanziare i progetti open source
+che vengono utilizzate dall'azienda purtroppo è tutto opzionale già
+nessun obbligo per le aziende di investire nelle no-profit che portano avanti i progetti open source quindi
+bello il fatto che sia stato messo dentro ma se non diventa strutturale e poi ci ritroviamo con tanti progetti pubblici portati avanti da fondazioni o pseudo tali che si fermano lì e non riescono a gestire l'andamento
+allora hai dato sta come vedete io ho condiviso questa statistiche sui cv e come vedete insomma c'è veramente una crescita esponenziale nell'ultimo anno gli ultimi mesi non a caso correlati jaconi aereo e le uscite dei modelli un pochino più evoluti e c'è proprio un'esplosione ma secondo voi
+adesso è la fase in cui come sta saltando fuori bulgara età perché lei sta scoprendo nel codice accumulate in anni e anni è superata questa fase di assestamento è come dire particolari criticità in cui salta fuori la qualunque poi avremo una
+qualche infrastruttura internet se vogliamo basata su software open source e non solo più sicura perché a quel punto avremo molto più codice picchiato o in realtà come insomma
+mantova la sicurezza e non si è mai sicuri il nuovo codice rilasciato comunque si può portare nuove vulnerabilità e quindi insomma si tappa adesso ma poi è comune come cercare di svuotare l'oceano con un cucchiaio come la vedete voi un po' questa situazione
+server sicuro è quello spento in cantina staccato dalla rete e la pelle è su questo e wyoming aumenterà aumenterà di sicuro troveranno e adesso stanno cercando sto cercando bug e problematiche sul software e tra un po'
+saranno anche sulle infrastrutture ci sono già attacchi sulle infrastrutture per vedere come come rispondono
+quindi è la superficie d'attacco diventerà un po' più esteso man mano che diede l'allarme diventa molto più bravi diventano più bravi intercettare anche errori sistematici di sistema e non soltanto di singolo punto di fallimento e poi dici si vedrà come come va
+avanti il problema qui è che c'è anche una simmetria nel chi può accedere a
+ai sistemi avanzati come mithos per la sicurezza perché non tutti non tutti i manutentori di di piattaforme open source se non se dietro non hanno un un enterprise chi gli dà l'ok
+possono accedere a mithos perché c'è il programma open source ma promo open source non ti fa arrivare difetti fermo a fable o qualcosina di più facebook security lab di quel genere non ti fa andare negli step avanzati lo diceva sempre quel contatto che abbiamo si nasce questo problema effettivamente
+l'accesso ai modelli più critica moderna dall'altra parte c'è chi non si fa scrupoli a pagare con con piano in the prize per poter riutilizzare o a utilizzare modelli di frontiera perché le infrastrutture per potersi permettere che sono al censore
+red o o eretico uncensored che permettono di fare analisi più approfondita
+così di simmetria no gioca seguendo le regole e sta giocando senza una gamba e chi invece gioca a modo suo sta giocando con una squadra intera quindi poche speranze sulla sicurezza futura la vedete come dire peggio andrà
+a
+esasperandosi ancora di più questa situazione ho questo punto finché non crolla esplode la bolla finché non spengono tutto arrivano a spegnersi a non spegnersi perché si stavano provando a spegnerlo quelli di openai in chat times si è accorta un modello che volevano spegnerla stata detta questa notizia
+la finiva questo è fulminea varietà ha però
+niang mi collego con windows torneo il problema che adesso veramente di chat mentre prima comunque più o meno dalla giocavi ad armi tra virgolette pari o comunque che attaccava aveva qualche risorsa in più qualche idea in più i cosiddetti safe pd di attacco e quant'altro
+adesso diventa un pò impari questa cosa che è uno strumento potente ma non tutti ci possono accedere per una questione di è troppo potente non lo possiamo dare mai nessuno ma quando sappiamo benissimo che l'altra parte chi attacca comunque gli strumenti israeliano non ha bisogno di arrivare a midtown ma arrivano roba simile perché magari comunque riesce a metà
+insieme un'infrastruttura macchine quant'altro e quindi allora diventa veramente un rincorrersi a più livelli
+quindi dici che questa simmetria classica fa attaccante difendenti viene ancora più esasperata con queste
+così anche perché considera che a parte gli attaccanti che creano una serie anche di di cibo e finte di segnalazioni finte chissà saturano la banda di chi mantiene jim
+le infrastrutture i programmi e i linguaggi tutto il resto ci sono anche gli utenti che proprio perchè hanno in mano un lemma di nuova generazione dicono altro trovo io il bug così contribuisco e lo fanno con buone intenzioni ma stiamo stiamo benissimo che la strada per l'inferno è lastricata di buone
+attenzione
+quindi chi mantiene infrastrutture chi mantiene i prodotti si ritrova sommerso da
+da bug fix inesistenti per per cose inesistenti che vanno fuori standard e non è che possono dire seleziona tutto spam come faccio con la mia casella di posta e devono e per amore la loro piattaforma guarda
+dare quello che sta passando perché magari in mezzo a tutto quello spam
+c'è qualcosa di veramente importante da non perdersi i paesi top senza fondi c'era questo problema sulle scimmie ancora prima l'esplosione della diciamo della luce un problema che ti mantiene chi faceva chi fa mantenere invece va ne abbiamo talmente tante non riusciamo a starci dietro e stiamo parlando delle rape ai
+anche lo riceve non riusciamo a uscire così velocemente o valutare tutto quello che arriva ad esso veramente scadente di saturare il mercato è di rendere quasi inutile uno strumento che invece è sempre stato un po' uno standard anche se messi però potresti fare il contrario cioè siete arrivati vuela a controllare ma all'intelligenza artificiale entrano in
+da loro non togliere il watson e
+act regolamento europeo se tu chiudi con un cibo è automatico dalle ai e quel cibo e apre altri trentasei falle di sicurezza la responsabilità della persona che ha accettato quello ci vuole quindi non è che puoi dire se uso qualsiasi cosa per chiudere qualsiasi cosa diventa la battaglia tra tra
+gli agenti ad un certo punto per essere a norma di legge c'è qualcuno che deve accettare valutare capire e anche capire i paletti mettere perché non è che eccetto tutte ogni volta che accettò il west mettendo un patch ranch west a inserendo nuovo
+codice che potrebbe avere un'ossessione potuto se non testato e che apre il vaso di pandora naturalmente di cosa intendevo e grassi spiegato male intendevo fare il controllo della tv è vera o meno per immaginato già lo fanno i prova che ci sono vere ma irrilevanti
+e conviene non integrarle rispetto a integrarle e quindi il tema diventa poi quello cosa voglio portarmi dentro cosmo non voglio portarmi dentro perché scientemente ha sempre livello di crash devi dire quali sono le pratiche che no che stai scientemente evitando i pir per quale motivo però
+un insieme di attività che vanno che vanno gestite e che devo essere umani per ora a gestire poi magari in futuro non non ci sarà più questo problema però per ora è in un'ottica di a norma di legge e a norma di governance la governa
+ance della sicurezza non può essere assolutamente automezzi automatizzati
+anche lei come anche le famose quattrocentodue novità scoperte con la nel nel kernel di linux giunsero allo stesso modo possono agganciarci al periodo estivo a kaga a noi abbiamo poi usatela
+qui si parla di football five di dignitose quant'altro ci siamo dimenticati tutto il reparto cinese no no sulla biochimica padre appunto uno pro loco su triglione di variabili variabili quando parlavo di modelli censore ed eretici per l'aeroporto di modelli cinesi che puoi
+rendere un censored eretiche necessario significa che non hanno censura sul tipo di informazione che accettano che gestiscono eretici che possono andare a fare anche attività al di fuori della legge
+e non è che siano cose che trovi soltanto se fai due giri di casa in senso orario o in senso antiorario batti tacchi e vicki mago di oz è roba che trovi andando su gang face scrivi a uncensored rating steineriano ottocento scegli poi
+che si sposa meglio con la tua scheda video e tela usi secondi non stavo andando a chissà dove nella fantascienza per farsi uno in casa oggi è plausibile si deve avere l'hardware anche se stamattina uscito fuori che hanno tre non è picchiato mano
+le famose le trenta novanta quaranta sessanta all'anno sbloccate si è quindi ancora più giù ancora più potenza di calcolo quindi sì nel senso ormai è facile vedrai la prova il proprio l'allarme censurato anche il caso di avere un certo tipo di jazz durante il caso senso per fare la partita più lavoro
+chi fa tacchi che sapevamo essere bifolchi che chi fa attacchi di questo tipo non è che ci dà sotto casa per intenderci ma prende le acque ducento o quant'altro per intenderci non si fa problemi da primavera a spendere soldi per pulizie e adducendo sono scritti valide in decenni
+concordo con te mi scelse con te questa scelta tipo di kimi
+come si chiama erasmus atea e di rilasciare cimitero e uno dal fato diciamo la parte open water di alcune parti legate alla sicurezza efficace può aver senso in realtà è un una soluzione un pochino che lascia il tempo che trova c'è per chi non sa masino e
+kimi tre uno
+un top di gamma come si può dire se fosse un cellulare una frontiera modella di cinese la parte cloud inferenziale via e pubbliche e
+ha pieni poteri la stessa versione rilasciata open water quindi potenzialmente è appunto sfogliabile di tutti i guardrail tema di sicurezza è stata però ha detto poi non so se l'hanno già rilasciata la parte open water e la rilasciano con comuni
+azzoppate di alcune fichi o di sicurezza che la parte claudia però non so quanto questa cosa possa essere efficace e tu cosa ne pensi a cosa ne pensa penso che dietro il governo cinese che sicuramente non metterà a disposizione della controparte americana quasi
+disinformazione informazione qualsiasi modo per scovare buchi di sicurezza che loro hanno trovato quindi se si gioca anche su quello apre in te buchi senza padroni americani quando hanno deciso di non vendere più le schede madri schede video ha al mondo cinese sesso anche quello fa parte della della tra virgolette guerra
+nel senso quindi anche lì non è che sia molto distante i cinesi non daranno mai il informazioni su possibili sistemi per chiacchierare il mondo per intenderci magari deacon con chimica paura hanno trovato chissà cosa
+e qui non troveranno mai di contro ti rilasciano chimica appaiono monco perché così fanno vedere che loro ci tengono al mondo e cosa per le meritate un successo da oriente ad occidente venivano così neanche parlare di e america oriente occidente fast code giocano allo stesso modo nel senso che chi in un modo o nell'altro hogan
+quindi non jones non ci nascondiamo dietro al fatto che hanno addosso tu il pezzettino pubblico o quant'altro
+a me verrebbe da me verrebbe voglia di sapere cosa cosa non ci hanno rilasciato l'occidente e l'oriente nel senso come cavolo funzionano cosa c'è veramente dietro questo bene arduo chimica papà che potrei pro il lato oriente cosa ci dietro mithos cinque punto uno la uccide perché tagli il problema è quello
+nessuno di noi quattro sta veramente cosa c'è dietro lì lo sanno neanche si convenne anche chi a livello enterprise lo sa lo sa sennò il che è a livelli alti di
+di una parte dell'altro
+cibo e senza dimenticarci joshua open air con i suoi modelli passò alla luna e sacca propaga anche loro la folla vulnerabilità e ha capito sella è uscito fuori con operai lo stesso georg pd cinque sei se non ricordo male alla base della scoperta vedi anche
+loro rientrano nella cosiddetta guerra tra le hai intenderci non è che loro nonna che open air non sa fare niente jeans è lei che ha fatto uscire stomaco grazie alex è scoperto scooby
+era una memoria delle mie serate è finita pubblica no dai non diciamo
+una menzogna stilizzato polmone poi ci sono i viaggiatori nel tempo che guardano ocean di morire browser è data da samuel jackson
+ricorda che la terra è piatta perché quello è importante ricordare sempre per ragazza
+cosa playtech si fanno schifo
+è nato giovedì mi sono fatto il anti-covid quindi o cinque giri alla spalla ora chiudiamo la cazzata che fa fede ovunque ruote
+ricordiamoci che l'america è stata abbastanza selettiva soprattutto per l'accesso ai modelli e ha detto tutti mi dovete dare tutto in censored ci posso fare quello che voglio e non vi devo dire cosa faccio e quindi sappiamo sempre nella parte militare ovviamente a un pezzo in più di tutti i modelli escluso se non ricordo male cloud inn and drop
+c che è stata bannata da chiamò dal patto americano
+cerimonia padana da allievo
+lì non lo so quanto non abbia fatto marcia indietro perché la messa era stata messa nella black nelle black list delle aziende americane il tutto a un tratto è stata e ne è uscita
+quindi non so quanto li non abbia ceduto qualcosa
+antropiche rispetto alle richieste della deriva della mendola pubblico anzi della personalità abbassano bloccate tutti i nordamericani e a quel punto ecc
+no no mamma non volevo possono messa anche proprio non ha nella black list delle aziende americane come potevano essere utilizzate da nessuna azienda no no no no no c'è proprio una dodge sono proprio come black blacklist non poteva essere usate il governo driver del kernel senso non potremo
+è stata una sciarada perché per il semplice motivo che ci son tanti interessi ed interni di antropiche e
+open gai dal punto di vista di finanziamenti di grandi aziende che sono anche lobby sull'attuale governo e tenere un topic in cui lo stato dia avrebbe portato danno ai principali finanziatori dell'attuale governo americano quindi è stato un tipaccio vedi
+io chi comanda e poi sono io gentile e torni indietro ben antropica si sta quotando in borsa
+suscitò origine antropica sta facendo i documenti sec per quattro essere quotata in borsa
+ecco inverno
+scena si può permettere di litigare con
+l'amministrazione immagini
+è
+allora un altro tema che recente che però per una volta non c'entra niente con lei hai e l'affare e mudra è che che ha del paradossale anche quello qualcuno sa i dettagli del
+ste chiavi usate per cifrare per firmare le
+vorrei riassumere la questione maurizio e magari ne sai qualcosa più degli altri
+e o chiunque insomma fu una certa certa indiana che aveva sia mediaset sia indiana una di quelle come dire ufficialmente riconosciuta dai browser dalle dai sistemi operativi quindi fidata tra virgolette che i cui
+chiave la cia crede aver capito era stata
+firmata con una frase banalissima si e quindi è quattro cose che era tra l'altro qualcosa tipo hawkins
+e mi sembra quattro se non ricordo male mi sembra quattro quattro lettera e sei ma anche facile da capire non dico uno due tre quattro ma a quel livello insomma
+e e quindi sostanzialmente questo rende possibile a qualsiasi attore malevolo di firmare certificati con questa ci ha ripeto ci ha che già era affidata dai nostri browser era affidata dai sistemi operativi perché è chiuso baracca e jackson si calmi se lei ci ha esatto
+e da quello che ho capito il problema era anche di qualche contractors al contractor c'è neanche come dire qualche azienda con cui c'è neanche direttamente si bando che hanno fatto fare una azienda amica che ha fatto fare l'azienda più piccola amica che ha fatto fare il freelance che per due spicci al mercato mio padre
+compro e che ho detto o questa era un due tre quattro la password cosiddetta escort ciao e da lì semantic mantenuta o è anche questo se ci pensate se ci pensate è senza pensarci sopra è un bel problema perché anche qui si tratta di aggiornare di tutto di luce senza andare
+leasing browser che annullano e ancora ogni aggiornamento di browser il anche sotto il cambiano la cia e sei
+eravamo un browser e sistemi operativi no i certificates età e che ti scarichi su il tuo linux con cui anche qui neanche anche l'inter c'è pacchetto di aggiornamenti siti però ostetrica devi aggiornare insomma quindi i browser sono coperti per tutto ciò che non ha o no un browser e tutte le librerie
+usted non sono coperte
+tiene a volte poi sono dentro dipendenze di dipendenze quindi anche lì e lavoro quindi anche questo è un bel po' poco dalla coda lunga insomma kubrick container time applicativi che ce l'hanno dentro caricato in memoria i dispositivi embedded che magari vengono aggiornati
+perfetto
+ma abbiamo la sede della storia del derby umbro di un tipo che si è fatto che voleva comandare il rublo col joypad il rubo un ragazzo vai una nave racconta racconta
+ed è un ragazzo romano americano ha attaccato il rum al computer tua crudele esempi vorrei vorrei gestirlo tramite il jobs e vorrei comandarlo col joystick o joe iper mettevano così ostica veramente smart
+chi sono sono vecchio sono vecchio joystick con joe iper gastronomico questi sono cinque o di qualsiasi altra console beach
+litigioso artificiale la fattura dovrà farla raccomandato olio li ha costruito il film è tutto e alonso punto l'ultima domanda è quale dei sette mila rubli vuoi comandare
+c'era un buco nero umbro a questo qua aveva accesso a settemila rhum bla di tutti in tutto il mondo compresa le fotocamere perché alcuni umbro sono avanzati hanno camere per intenderci
+se la base è quella che sta anche dentro i tipi di link che ci sono
+le chiavi private sono accodati dentro il firmware di tutti i tipi league quindi fermatevi ora noi stiamo parlando di
+problemi di sicurezza legati al film war legati all'infrastruttura non ci andrai molto lontano sul fatto che adesso è semplice iper impersonificare qualcun altro ha
+godiamoci il caso revolut ricordiamo cercato di due grandi banchi dagli anni che non faccio il nome in cui c'è stato un un giro di soldi perchè è uno uno tre uno usd papà diventa l'uno dell'altro per intenderci poi sono riuscito a riprenderlo però il caso delle brutte pur più quello più famoso per intenderci
+mi hanno fortificato il l'account di posta elettronica della della prefettura di reggio calabria
+c'è chi poi
+usate hanno bucato bucato bucato sia stata password
+della cia uno due tre quattro per accedere alle mappe che tutti guardano del del del commissario vinco
+anche qua raccontiamola chiaramente per chi non dovesse conoscere la questione è qualcuno che vuole raccontarla e allora secondo le prime ricostruzioni gli hacker hanno sono previsti sono personificati dipendenti linux
+piero dell'interno se non ricordo male richiedendo avrei voluto una serie di informazioni ufficiali modo ufficiale per interni si capiva la pec dal ministero degli interni e tu rispondi per intenderci
+ovviamente è qui suonano disposto nei soggetti che hanno visto sta per arrivare non detto sì obesi è quella vera è corretto e quant'altro e hanno risposto con i dati di settecentoventi suo amico rdo male e priorità hanno fatto fisico un fishing
+quasi avanzato nel senso però alla fine avrò fishing e quindi ci spostiamo non è che è tutto basato sulla diciamo che c'è la buona controparte dell'umana
+dalla crudeltà degli umani che
+poi non fanno cioè si dicevano ste cose non vi viene anche in mente di controllare il telefono è divenuto ma sicuramente veramente i degli ubriachi però poi ci sono anche casi che sono i più più particolareggiate in cui archive telefonici sono ok ma in verità poi la richiesta a monte non viene anche chi
+western
+per intenderci and roll numero che rappresenta nella mail
+allora allora allora ora vi racconto una cosa che è capitata a me per intenderci mi hanno mi hanno telefonato spacciandosi per il mio per la mia banca c'è la banca dove io il credito o conto corrente solo io sono andato a guardare
+mi arrivano salve stiamo del servizio clienti e jean king stiamo facendo dei controlli ha chiesto andata a vedere il numero di telefono che mi appariva sul suo cellulare ti corrispondeva ad energia ho cercato e nel sito ufficiale questa banca non faccio il nome per intenderci
+appariva il questo numero telefono come corretto come loro quindi ho detto se mi chiedi se mi chiami da numero interno mi appare sul sito web ufficiale della banca mi fido mi fido proprietà ti credo leggermente ora mi han chiesto di dargli dei soldi alla fine cosa ho fatto di tutto per farli contenti gli ho dato un euro per vedere dove si tessuto che si voleva
+arrivo abbiamo chiesto il bonifico bancario quello istantaneo no
+gli oratori euro giusto per far prevedere dove si volevano spingere un nero non mi cambia la vita pur essendo povero e quando mi detto ma quali dovrebbe dare mille euro facciamo guarda mille euro non me le fa raccontare allora mi dovrebbe dare le carte
+no il codice da chef da te scusami sai della mia banca perché ti dovrei dare il codice del testo che tu dovresti avere accesso direttamente al mio conto corrente anche solamente stabilendo il cobol settantaquattro e poi hanno chiuso io anch'io ho chiamato in banca lato scusate ma spesso questo è
+la tipa laban della banca telefoni fa assisi sappiamo c'entrano c'entrano i centralini e lo usano e ho capito fiori però non va bene finché senso c'entrano nei centralini lo usano io pensavo fosse uno spoofing dell'india e del numero in qualche modo
+no no no
+riescono a usare da fuoco di drago lola la tipa alla banca nel suo sito così scusi non c'entrano il centralino l'uso bon bon fantastico poi non so se andate a dire così non fosse non sapeva cosa fossero espulsi con quant'altro questo tipo la risposta della pipa tabacco
+intenso quindi european sì beh allora per banca per banca io mi ricordo una volta che lo sportello la banca e poi allo sportello quando quando sei in colloquio con qualche operatore della banca
+e vedevo e il computer che il windows arnuzzo cosa che usava e la cosa mi ha fatto rabbrividire che da un lato avevamo browser tipo internet explorer dall'altra aveva il terminale cobol con cui accedeva al mio cosa dallo stesso computer navigava su internet e accedeva al
+oblak della della banca e io ho detto va bè
+siamo a posto dovrò ritiro e poi visto oggi chiude tutto
+easyjet e anche quest'anno il centralino reso pantheon
+il problema molti centralini ancora attualmente non usare cifratura nel trasporto quindi tutta la parte anche di autenticazione parte che utilizzano nemmeno cinque come vegetazione tecnici action quindi alle brute force puoi usare quel centri usare un account per entrare se fai un tempo di sniffing su una lettera vecchi non
+mi fa ridere che lei con leggerezza fine lo sappiamo dov'è e pensavo che forse pensavo che fosse più tipo si erano dimenticati di rinnovare la numerazione quindi l'hanno usata qualcun altro che forse la meno peggio
+finora nel mio caso non ho nel mio caso no nel senso risultava corretta cultura sul suo nome telefono era sul sito è qui da banca mi hanno confermato che la loro scrittura
+il punto poi torniamo al casone avuto dei problemi a partner e che non ha una piattaforma come hanno fatto altri
+quindi passano lì c'è tutta la parte di lowen fort smith and banalmente meta e ululano canali dedicati dove si passa dal il problema è che è passato in sordina il fatto che esiste e tutto è partito da una pec vera che era stata bucata a quanto pare cinque mesi prima e che quindi non era da ieri dal giorno
+prima e quindi in realtà non si sa neanche a chi hanno poi scritto che cos'ha fatto eppure non c'è stata una dichiarazione o un'indagine in questo caso c m che poteste dire okay ci sia perché si è messo lì a vedere così com'è può essere che questo è peggio
+anche perché io ricordo di aver mandato un post primo gennaio ricevo ma c'è un attaccante che dice e hai accesso a pec e accessi istituzionali di alto livello poi nessuno ha dato seguito su questo sito promuove vari forum e poi a distanza di sei mesi sullo stesso forum sono
+wrote scusate intanto dalla chat scrivono abbia un po' di saluti intanto dai soliti noti libri e quant'altro
+ce ai mixer che chiede salve scusatemi vi ho trovate sapete se c'è un attacco dos di dossena in atto
+magari da attacchi di dosso
+beh dipende dove e se qualcosa maurizio hai qualche informazione qualche dote particolare in giro
+chiamò sul mondo e poi se è sempre stata la mission di comodo e da quello che vedo è come dire comodo è stata non so se venduto rinominata insect i go per cui credo che il rapporto fa comodo che una ci ha molto conosciuta adesso ai tempi diciamo esecutivo è semplicemente del nuovo no
+home di comodo poi non so quali giro e società e sono stati fatti su attacchi dos distribuiti particolarmente significativi in questo momento ma dipende dove e quando se cosa controlli tu maurizio per capire il clima della rete in questo momento no beh fa radar ramadan
+work che permette di dare dati un po' abbastanza soft rock
+a un antidoto intelligence che più o meno fa monitoraggio poi problema cluster stessa c'è conferme tuo flow che dà visibilità su quello che il loro traffico anche perché ormai il grosso lo intercettano loro allora vediamolo cosi lo vediamo insieme giusto così per sfizio e questo no e ma hai una
+body c'è via web in realtà ti devi scaricare questa qui è gratuita e ti iscrivi gratuitamente puoi anche fare monitoraggio una serie che vuoi condividere e farci vedere qualche anno adesso quali sono perché sono suonato per cinque anni eh va beh comunque
+ma appunto è un software o un sas diciamo downs staff perché loro comunque fanno aggregano i dati dei sensori globali un pò in giro per il mondo e quindi tu vedi facili non vengono dati volumetrici protocolli dati di attività e quant'altro soprattutto i gruppi più fa
+mosi tipo non è mai zero cinque sette li monitorano e quant'altro quindi se ci sono attività che arrivano li beccano
+su quelli che possono essere punti di attacco sono dentro la loro rete di di software di ios che usano quindi avevano poche informazioni
+sì proprio lui deve capire lui ha fatto una domanda mai si parla di dosso distribuiti in atto però ripeto un dos distribuito e bisogna anche capire se c'è un qualche targeted particolare non credo che in assoluto si possa io l'unico momento in cui ho visto la rete vacillare e rallentare in modo sistematico un po'
+dappertutto e quando facebook si è auto esclusa la rete non so se vi ricordate
+i bigliettini simile a forma di un errore interno per cui praticamente hanno tutte le loro rotte interne sono state
+rimosse dai dai loro router esterni quindi dal big più globale è tutta interna non riusciva più a raggiungere facebook e tutta la galassia facebook il problema è stato che poi a cascata a parte tutti i dispositivi che si autenticavano con facebook che riuscirà a collegarsi autenticarsi anche cose che non c'entravano niente
+ma poi anche e un rallentamento generale sua rete perché tutti serve dns e tutti i pixel tutti i pezzettini di pagine web che hanno qualche cosa su facebook e
+c'erano sotto carico perché tutti eravamo a chiedere indirizzi che poi ne uscivano a raggiungere un disastroso e quello è stato l'unico momento in cui da che io mi ricordi ho visto la rete come dire quasi collassare globalmente non rallentare in modo significativo a livello globale perché siano altrimenti tipicamente un dos distribuito comunque aree it
+target
+specifici no quindi insomma
+te ne accorgi se usi un dato servizio se no non te ne accorgi nemmeno
+e quindi non so se qua è un caso più globale oppure no
+non sai se il bersaglio in sede soldi oppure ci sono anche i clowns club sino a patrick wolf e io per un sacco di domini cielo
+la parte base di cloudflare
+domanda andavano clyde fans al sistema di wafaa già centro deve ancora fare touchdown a cloudflare che citerò fantastica nel senso genovese
+ha un sistema di
+di prevenire attacchi anche solamente ma neanche ed ossa tentativi di accesso quant'altro
+veramente poco rumore di fondo inutile nipote di franzen voglio un sacco di roba comoda se si esatto quindi se si ha un si devi metterci davanti se hai un sito web di un certo livello e wii tra virgolette proteggerlo ma ripeto prendiparte proteggerlo per intenderci almeno in
+spendendo relativamente poco rispetto a sistemi più grossi club fly e rapida soluzione viene in mente anche per gli attacchi ddos o un nero o un mio cliente che abbiamo risulta pulito altamente nocivi configurando club feldman nel senso ognuna da rob van dam il fegato waffle e quanto
+altrui sia dipeso il sito web se ha ovviamente stupido ciò che di bello si sta parlando di the facebook la situazione prende però qui però usa
+giuseppe chi usa il sito web come fonte principale di reddito non non non cadere è la prima cosa che conta anzi e l'unica cosa che ma poi anche noi abbiamo visto anche lo avevamo visto colloquio gaiezza ma anche in questo caso il piatto fosse di bruxelles atmosfera dopo due ore aveva già messo a livello globale sui waffle regole
+dev'essere comunque la prima linea da della metro
+ma che bei tang ci fa vedere maurizio e questo è quello spento tutela facebook però ci sono anche i click day dell'agenzia italia che fanno si fanno bene quello
+ma però è un po' passata un'ora i do dedicato a con vede che hanno accolto l'invito di pornhub di gestire la rete di terra che si tiene davanti è bella questa questa interfaccia beh immagino che sia sempre così tutto il ok
+si chinò che continua a essere quella un po' più quella questa è quindi tutto a livello di tre è il gesto più attacchi applicato sulla do la va avanti tutto il giorno e se sì a ipnotica a suo modo e poi anche indicativa un po' di cose
+questo mondo internet questa marea di traffico di tutti i generi ormai non so quanto fosse più della metà del traffico è comunque un traffico non fatto da umani ma da agenti vari automatica o software autonomo
+traffico non non legate a persone fisiche che stanno facendo cose è tutto così se questa è bella mi piace questa schermata perché c'è questa storia che effettivamente ti dà l'idea così al volo
+del cinema gli anziani come me perdonatemi io la prima cosa che ho pensato guardando sta cosa e che già so di war games
+il quale certo
+datemi però
+la prima cosa che ho pensato joshua zakat e babau chi chi ha visto wargames capirà
+bello va avanti così tutto il giorno effettivamente non non c'è modo di capire qualche volume
+ci sono poi i filtri se vuoi a lato quindi puoi filtrare tipo quanta banda stanno usando perché tipo quelli rossi sono sopra i cinquanta kg quindi chiusi di banda
+basta un pò di filtri per andare a vedere poi andare a togliere magari quelle che sono morte net quelli che sono cose conosciute traffico magari testi phillip è una pompa vedere che roba si vede anche il tentativo di critica l'africa e come sudafrica spinge spinge ricevere ricevere
+ma sbaglio o
+tip della russia non vedo grandi grandi cose non amano che qua c'è vedo il brasile che attacca come se non ci fosse un domani qua vediamo un po' quali argentina in realtà des nations source
+va bene dovrebbe fare una sovrapposizione di mappe dell'edificio qualcosa di quelle che sono le the blackburn tutti diciamo dove passa la connettività è ovvio che poi c'è questo sì e poi intendiamoci non è che se si vede un attacco che arriva da un certo post vuol dire che effettivamente la fonte no
+dell'attacco anzi è più probabile che sia altrove è però è il punto il traffico con la gente o la persona che che fai band
+oh bello bello e altri simpatici siti di questo genere che ci piacciono molto così
+è michela quella storica di checkpoint anche che faceva di macbeth è stata una delle prime forse
+c'è la bandana
+se c'era qualche bagno in quest'acqua perché oggi ho un altro pc quindi
+era lui che faceva vedere tutti gli attacchi
+allora intanto questo lo mettiamo in atto questa anche ti potrebbe piacere eccolo qua
+signori blog domani ho una giornata
+la legge era leggera
+il primo treno domani lo prende alle otto quindi un periodo di quattro ore con bambini delle elementari fare robotica quindi a willow vado vado a farmi friggere
+e ci vediamo come al solito stato un piacere e rimanendo in tema c'è la call for paper il placet dei aperto abbia giustamente fully loaded quand'è che è quello che lo fate la conferenza maggio a verona penso l'ultima l'ultima edizione a verona steam
+oh valutando di spostare a bologna insieme a tutte le conferenze ops ops che stiamo facendo e poi noi ci vediamo settimana che settimana prossima dopodomani romani a verona da roma no a bologna per mille ops
+ops bravo per chi dovesse essere interessato e makkox a bologna group
+burnham
+sempre a l'hotel solito giusto al sì al solito ormai savoia e savoia e francesco se va in porto il progetto che ho lanciato l'altro ieri e che adesso tra un po' diventerà pubblico già istantanea tale pubblico ma che sta prendendo piede e magari vorrei fare un una uno spicchio percosse stiamo cercandole anche sponsorizza
+il progetto prende fondi per sponsorizzare on
+e a proposito di questo allora intanto francesco grazie e ci becchiamo prossimamente è sicuramente dato anche noi fa poco stacchiamo parliamo anche del tuo progetto maurizio che era allora il dominio e blu
+wild password e buona fede punto esatto vuoi parlarcene
+allora
+bellissimo sito fatto con cloud problema del lodo si vede eh beh no da ne ho voluto mantenerlo perché non mascarello troppo e quindi ma quelli diretti è nata in un in un pomeriggio questa quest'idea è nata da un articolo che ho scritto su guerre
+direte
+settimana scorsa e a seguito dell'iniziativa di acm del fatto di segnalateci le ciliegie
+un passo indietro
+appunto siamo partiti da questa segnalazione questa richiesta di acne nel dire dovete collaborare collaborate con noi segnalate e tutta una serie di
+civil quindi
+di segnalazioni riguardanti problemi a infrastrutture italiana quindi è un andare a segnalare quelle che possono essere problematiche che vengono trovate da i ricercatori che è una cosa che non è che sia il metatag genera da un giorno all'altro senso fa parte del capitolo due e quindi
+all'interno della unity web è proprio il dover iniziare a collaborare il più possibile soprattutto con ricercatori di sicurezza locali quindi il paese per fare qualcosa che sia un un tutt'uno nel trovare le cosiddette vulnerabilità quindi il sette ottobre oceania
+to andate a andate e condividete il libro poi nasce un problema perché in italia è una piccola c'è un piccolo problema di reato nel senso che tu come ricercatore anche se a livello pubblico vai a dire ho trovato questa tv e ti becchi
+dai cinque ai dieci anni così però ho trovato perché hai fatto un tentativo di accesso non autorizzato o anche se in buona fede però è però la mia domanda e faccio un po' l'avvocato del diavolo quindi la proposta tu che quei proporre insomma chi fa ricerca in temi di sicurezza e fa e
+anche
+il penetration test ma non autorizzato esplicitamente perché ovviamente se si fa un penetration test con firmate tutte le le carte per dire io ti autorizza farlo quello è tutto un altro discorso dei vari usato perché il concetto est e al momento tu hai un'autorizzazione e una liberatoria ovviamente lo puoi fare perché definisce normalmente nell'attività iphone
+pesantezza cosa fai definisce il perimetro definisci l'attività il periodo e quindi hai troverete carta bianca è un po' come quando entrambe e quindi lì non è un problema il problema c'è per chi fa ricerca se fa un accesso non autorizzato a un sito è però anche se in buona fede per poi dire ai g
+storico il sito tanto più sei un ente pubblico che ci sta dietro anche se lo fa per dire per poi segnalare il problema a chi gestisce un dato sito o un certo servizio comunque è penalmente perseguibile perché non ha avuto un'autorizzazione esplicita e io ti faccia domanda è quindi come dire la tua
+posta è se uno lo fa in buona fede non dovrebbe essere penalmente perseguibile ma come fai a priori se uno sta facendo la cosa in buona fede oppure no come fai a te
+aequa discriminante e per cui un accesso non autorizzato a un sito era stato fatto senza cattivi cattive intenzioni dietro
+in realtà in per esempio il belgio non è fatto nel belgio il duemilaventiquattro introdotto una tutela di legge con condizioni ben precise perché devi stare entro determinati paletti e nel fare tipo non rompere niente immagino
+nel senso un conto è meno deve dimostrare un conto non è che poi vai a rivendere al mercato nero o ancora peggio se prendere quelle informazioni poiché deriva indice uv
+guida di penetration test io arrivo da a a determinati punti dell'azienda o determinate informazioni ma poi quello lì non è che me le tengo e le distruggo insieme al report dei fatti le tengo come evidence in questo caso
+specie rientra però nel caso del belgio come fanno a gestire il fatto che uno lo sta facendo in buona fede e che non aveva intenzioni malevole momento in cui dovesse venire fuori la cosa tra virgolette nel senso tu fai un tentativo di accesso a un sito del ministero degli interni e non lo chiedi non chiede il permesso e la
+tua iniziativa di attacco a un sito però hai tutte le migliori intenzioni del mondo non ha intenzione di vendere nessun dato di ricattare di fare nulla di male semplicemente sfruttare vulnerabilità per puoi andare a dire a chi gestisce il sito guardate che avete questa cosa da sistemare quindi ottima buona fede ma come fai a gestire
+appunto la buona intenzione l'ha certo detto fanno in belgio l'ha fatto e come ha fatto
+e perché comunque dimostri che non c'è intento fraudolento o di profitto che non
+le azioni che hai fatto erano proporzionate a dimostrare quello che hai fatto che non c'è stata nessuna copia dei dati al di fuori del fatto di quello che strettamente usato per dimostrare l'efficacia di questa cosa ovviamente non devi creare danni perché questo era il problema anzi andare a fare subito la segnalazione al cestino e quindi tu dici
+ho fatto questa cosa vi segnalo prontamente che sta nel nel in questa attività è uscita questa cosa è
+la segnala lavori al titolare e quindi è fatta
+hotel suo problema qual è che insistette obbligato a denunciare nel momento in cui
+c'è una segnalazione in questo tema di questa cosa visto che c'è la seicentoquindici ter sono il problema è che ci siete da un lato recepisce la o il tentativo dall'altro però ha l'obbligo di informare l'autorità giudiziaria perché comunque siamo di fatto davanti a un reato è però a questo punto non poter diventare la scusa per chi
+fai un tentativo di accesso magari viene beccato e poi dice però lo stavo facendo buona in buona fede e visto che non ha ancora completato il tentativo e non ha neanche cioè non può neanche dimostrare che non ci ha assegnato subito la l'intrusione che l'aveva fatto senza
+comuni reazioni e malevoli successive c'è
+c'era
+sto facendo convivere da non addetto ai lavori un po' di avvocato del diavolo no per capire un problema infatti la linea fra mito che a me è partita l'idea lato tecnico la call for paper è subito quella di trovare dei dei giuristi e soprattutto chi fa questo lavoro in modo più più più
+preciso puntuale proprio per stendere questa cosa
+perché appunto si può prendere tu dicevi modello il modello il modello belga cosa prevede che modello belga a
+c'è un'organizzazione la cb che entro ventiquattro ore tu devi fare la segnalazione della scoperta che hai fatto ed entro settantadue ore dare riscontro e quant'altro
+dando anche prova di quello che hai fatto e di tutta una serie di informazioni come marca temporale quant'altro con log che vengono messi giù e depositati e questo ente chi osserva li tiene sotto controllo per dire che tu hai agito in buona fede quindi
+e però ti ripeto questo momento in cui uno ha
+riesce a fare l'intrusione e quindi a quel punto scattano i tempi se noi regine segnala subito la cosa e blablabla si può mettere in dubbio la sua buona fede ma se uno ci sta provando e nel provarci viene beccato buttarle benedetta detta proprio brutale votare
+e a quel punto dice eh però io lo sto facendo in bonafede come fai ad allora nel caso belga ricade sempre su ricercatore l'onere della prova per cui devi tenere lode
+le segnalazioni che hai fatto nei termini e quant'altro per cui c'è se tu lo stai facendo in buonafede troverete perché il partito allora palchi già che è un po' come quando fai una attività di penetration test che inizia a loggare tutto loghi le celle fai screenshot
+e addirittura registri proprio perché
+in quel modo tu puoi dire questa è l'attività che ho fatto quindi questo eccovi comunque l'ha fatto in belgio e quindi si può fare anche anche altrove insomma ci basta fare le cose con tutti i criteri giusti e abbia contato anche la germania la francia l'ha fatto la germania lo stava facendo ma con il cambio diciamo politico
+data la legge
+che prevede proprio la
+almeno la tutela appropriata anche la francia ha fatto proprio in parte qualcosa giusto per segnare questa cosa appunto poi la mia idea e in un mese scrivere e poi cercare di trovare consensi e quant'altro
+soprattutto di chi può a livello giuridico non dico trovare i cavilli ma tutelare i ricercatori perché l'italia comunque
+minimo minimo ti becchi una querela e mi è successo in passato per aver segnalato dei software che in
+stato l'esempio è stato non può fare ancora i nomi perché non sono passati gli anni però è il software utilizzato da dei comuni per una parte di gestione di una parte all'interno del comune dove ho trovato una modalità abbastanza grave dove ti portano via tutti i dati
+in quel caso lì mi p nato lo scrupolo non solo di dare al comune tutta la conservare il pesce ma mi è nata la cosa aspettano a questo software conosciuto sì ho fatto un giro e ho visto quanti comuni ce l'avevano sono risalito alla software house e vi ho segnalato il problema querela
+perché
+siete moda e così strano si infatti poi cosa ho fatto ho mandato una pecca i comuni dove sapevo che c'era quella versione di software esposta dicendo signori così così così non tu non voglio nulla sappiate che però per deontologia professionale io vi devo segnalare che voi avete questo problema e siete esposti poi fate voi
+come è nata poi la querela guerra finirà io e che c'è perché poi ho segnalato la cosa anche tramite i comuni poi comunista messi in mezzo
+so che sono stati loro a mettersi
+il comune principale a cui poi avevo un po' più di confidenza con security manager del comune vi ho spiegato la cosa mi fa ci pensiamo ci penso io perché se evidentemente hai detto tu quereli lui o che i comuni d'italia facciano causa causate software house
+giustamente ha effettivamente la comunione la linea è molto sottile e chi opera appunto in buona fede ed effettivamente non sempre c'è rischia di di andare nei casini per cose che fa a fin di bene
+va bene è
+michel continuerai a scrivere più a capire nonostante il più capito scelta e tutto il casino che è starato avevo dovuto fuori ovviamente se immagino o no io seguirò il nuovo modulo il nuovo modo di parlare di anti-aids cominciamo prima yahoo chiuderà più una riga di codice non leggerò più una riga di codice
+flash mob porterà a fare quello che voglio fare io stupido dei product design e comunque ho detto il lusco e brusco negli ultimi mesi lei sta facendo ha fatto dei passi da giganti e si appunto a livello di sicurezza ma anche a livello di the writing per cui è
+cioè non non siccome diventerà sempre meno e sempre più normale e scontato che ci sia
+ghazi lioni di righe di codice pubblicate su internet e usate in sorte a vari che nessun umano mai letto ma tanti umani useranno massiccia tagliò delle squillo sotto cloud che praticamente mi mi fanno il fanno i controlli di sicurezza prima di farmi il commit delle cose delle cose scritte
+dallo stesso
+m che si correggono delle lame
+se è tarato anche sotto questo punto di vista secondo me è una buona opportunità per accecare i buttafuori codice più sicuro perché se da un lato appunto abbiamo grandi quantità di codice magari iscritto non si sa bene da chissà magari da qui da chi e ai vari ma senza un controllo e una verifica ulteriore
+se però si mette bastano quattro stile basta un minimo di review del codice per sistemarti con ogni volta che si fa qualcosa di nuovo in teoria le review di sicurezza di un di un agente sono molto più efficaci di quelle che possono essere fatte da un umano no
+cora sentitevi ti devi fidare della dell'aiea ti devi fidare della
+è che non c'è chi controlla il controllore
+i figli di quello costruttori ti metti delle ai compiti diversi a far sì che le pulci a vicenda e qualcuno gente che lo fa
+percorrere per correggere sistematicamente si secchi ferro come si campo una volta il progetto non è ancora morto nel processo di vaste vaste proprio che glielo fai fare con questa logica e quindi poi vedi scritta da pusher e comunque prima infatti
+a dir la manovra non ha infatti un quadro dicevo prima ad alessandro è morto è morto da quindici anni il piatto che ogni anno muore perché ho capito è morto
+se c'è la vignetta quella che esce ogni volta era uscito col fuso piace piemonte duemiladue uscito document a capire morto a yangon rubi quant'altro
+eurojust ha trovato banale sapranno tutto il resto se ancora non ho provato ma fanno tutto con ross
+permettetemi una una cosa ora sempre perchè sono anziano ritornando al discorso del
+hai per l'intelligenza artificiale più riprovi terroristico robe lì non so se voi due o chi sentirà la replica di cui dopo scott abbia mai visto person of interest perché è un predecessore dei tempi moderni che assolutamente si
+amazon smise all'epoca in diretta sottotitolato dall'america ed è un predecessore di questi tempi qua c'è la macchina praticamente il cloud della situazione e l'antagonista potremmo dire che la chimica potrà della stazione e l'altra macchina
+ora io vi consiglierei a tutti di farsi questa bellissima storica zone di perdono di internet
+se ad esso correlato oppure no io c'è una mia mi sta maturando la convinzione che noi le lg l'abbiamo già raggiunte ma non ce ne siamo accorti c'è si è parlato gli anni scorsi e quando arriverà legge quando era leggi hai le ghiaie è arrivata ma sostanzialmente
+così è passata stampa cioè nel senso quando hai un gpt e tooth che ti fa ti risolve decine di problemi matematica poi magari alcuni in modo non completo non completo ma è in poche ore o pochi giorni che era
+magari i problemi che erano lì da anni quando hai iain glen coe ricco di gadget che ti sviluppano codice ritrovano vulnerabilità come se non ci fosse un domani che esistevano da decine di anni quando hai qualsiasi hai e di frontiera adesso se tu sei un esperto in una d
+di un argomento se sei un programmatore tu hai sempre anche se più bravo del mondo ma probabilmente ce l'hai più brava è brava quanto te per non dire tutti gli altri allora se è gay questa che cos'è insomma poi il suo popolo
+le definizioni possa essere quello che vogliamo però mai come in qualche modo ce la sabbia l'abbiamo già trovare le allucinazioni con cui ci siamo tanti crogiolati negli anni passati per la a lucignano parte che è come se gli umani non dicessero palle uno sbagliassero cosa che facciamo sistematicamente quindi se vogliamo cucinare
+anche noi siamo in prima fila ma poi ora come ora c'è
+sì ci possono essere casi ma io vedo sempre casi più clamorosi di ai che ne sanno di più di tutto è della magia fatta di persone quindi poi se questo si può definire già hai oppure no ditemi voi però per come la vedo io beh
+è notizia di cusati punticino due di quattro cinque giorni fa dell'uso di cloud per la ricerca delle proteine contro i veleni di scorpione c'è un uso totalmente differente della
+quindi energia ghiaccio pontefice avrà questa insicurezza diciassette cos'erano diciassette su trenta agosto l'ho scritto sul mio sito web nel senso proprio non ricordo perché cose tutti di giorni quindi martedì è appunto quindi vuoi dire che sto bene o male nelle gare ma ci siamo
+però se spesso se qualche mese fa non si faceva altro che dire aspettiamo leggi le fa cinque mesi fa tot mese arriverà lì ci siamo quasi fosse ciò si è dato per scontato che in qualche modo ci siamo già e com'era la storia dei processori della intel che raddoppiavano ogni due milioni ogni due versioni quella di degenza utili
+sociale raddoppia raddoppia ogni settimana praticamente fatto non come dopo un salto tra uno e l'altro non si leggiamo è un hotel monza intanto allora perchè non sapesse michel e tu che di intelligenza artificiale parli spesso vuoi fare un attimo ci dici dove ci troviamo e dove troviamo le
+le
+le tue news quotidiane
+allora vetrate un patto sotto i social perché mi metto fratelli soprattutto i social quindi sapete instagram twitter linkedin
+facebook con senso mi trovate perché tanto è uno solo che fa tutto nel senso è
+cosa cerca uno deve cercare per trovarci al terzo buddha zio budda clown io cercherà agli come tag per intenderci ci sono aree se c'è chi fa
+so che
+travis
+può anche sub jack perchè mi ha chiesto di esserci anche libri che dentro a win dieci si perde per intenderci ormai parlano solo di a in tutte le salse io ogni giorno praticamente allora ogni giorno metto su su sui social network e sei sette notizie pro
+sia in formato slide show sulle immagini e sei ore dopo anche un video di cui sono qualcuno altro vuole sentire mentre sul sito web e verso le sette di mattina ci sono le tutte le notizie principali o una o un
+una cosa su un'automazione sotto gli otto anni che mi tira fuori tutte le notizie di hicks le sitemap che passano poi in automatico fanno di questo blocco di notizie rughe sono veramente tante che starci dietro veramente così impossibile anch'io leggo solo delle principali perché stramaccioni veramente all'inverosimile
+che permettessero una cosa
+riagganciandomi alla grafica di buona fede punto argent è stata fatta l'intelligenza artificiale
+invitanti senza artificiale fanti delle bellissime grafiche se voi vedete il mio sito web che debutterà su chi l'interfaccia grafica se l'è fatta cloud
+difatti li ho volutamente bene
+una roba così perché mi piaceva come stile è richiesto di stare su quello stile lì perché
+invece altre cose ai federali veliche si deve fare un po' di studio bridge aeffe se non mi faccio pubblicità ma stai la sartoria anche lui è stato fatto con cloud e ben curato nei dettagli ragazzi già una bellissima estensioni di chrome che vi permette di di embeddare direttamente
+rod lo scoop disputate un'estensione di chrome che vivono ad embeddare cloud claudio cosiddetto in italiano direttamente nel browser ed è leggere la pagina che si sta guardando e modificarla ma ammettendo appunto le cose oltre ai sistemi browser news chi ti da cloud che ti aprono
+browser da da claude claude ma direttamente cloud nella networking
+roma che divenne la pagina di fianco di premere i pulsanti diceva rosa che mi son fatto per g io mi son fatto una cosa qui proposta in quattro gatti illegale e nintendo cipelletti per lipolisi di depositario di d'uso di instagram ok ci provo costruirono mai pulci zecche non hanno mai dato in giro
+g si bannano ma non solo a me omnes tramite questo sistema qua mi sono fatto uno script che da riga di comando mi carica il sui su instagram come se aprisse come si cliccate sui vari bottoncini
+sì sì mi fa tutto per intenderci mi guarda anche se esce la barra di instagram laterale dove c'è il crea posto roba qua l'ho fatta grazie alle estensioni di chrome che conclude tu fallo segnatelo e poi scrivere algoritmo è quello che solo per per interni
+ho messo dieci minuti fa ho fatto fare un esperimento ho preso un sito roba da zero wordpress vuoto diretto questo il tema nel mio odio per il mio sito le ho detto il dottor warren il sito attuale e questo fa abbastanza ed è proprio scritto così fa abbastanza cagare perché nero a il testo studialo
+fammi una versione migliore questo l'ho fatto in design claude punta di barry design design design o mi ha tirato fuori un sito che se andate a vedere spettacolare per le mie competenze in cui la navigabilità è un cerchio perfetto niente ha fatto un sito bellissimo anche praticamente è bello nel senso
+ha azzeccato il font azzeccato le dimensioni azzeccato il fatto di sottolineare da solo le parole proprio gli ho detto già che ci sei libri neanche un po' i testi ma ci azzeccato ha supplicato il coté che il conto no veramente quant'altro
+ho vinto io roba qua non ho saputo nulla prima fa non avremmo mai fatto in design ci ho messo il bar design che non è il design di ford adobe dybala design promesso io in mezz'ora avevo la home fatto tutte le pagine principale difatti la pagina degli articoli l'articolo
+se vi faceste voi avete fosse ancora sui buddy bulldogs la vecchia versione se guardate la nuova sede celebrano idee
+tuttavia è certo fatto che è noto che allora un po' tutti gli informatici stanno usando le aree e un po' tutti quanti ci stiamo rendendo conto delle follie che si possono fare è appunto le raccontiamo con orgoglio tipo punte ben fatto sto sito si fa lo abbiamo fatto fare questo sito e con suo stupore
+meraviglia perché effettivamente i risultati sono spaventosi io mi sono trovato a fare programmi knick knack in swift and go in nota in python e senza saper programmare nessuno di questi linguaggio quasi e funzionano e vanno e dici eccome
+e la cosa che mi stupisce è o meglio chi mi fa pensare che questa cosa vale per tutti c'è
+noi ci
+vediamo cose che non avremmo mai saputo è stato in grado di fare direttamente o comunque in tempi enormemente maggiori ci stupiamo ci ci basiamo ci esaltiamo diciamo che figata posso fare un sacco di cose ma è in realtà tutti gli informatici in questo momento stanno usandole in un modo più o meno spin
+tanto per fare cose folli e che non è un modo per dire allora smettono di farle perché lo sto facendo tutti ma un modo per dire che è cieco c'è c'è un'accelerazione totale e di tanta gente che fa tante cose infatti anche magari vengono fuori i prodotti bellissimi che nessuno utilizza perché
+segnalati per esempio anche il
+come si chiama quello del sito dove si annunciano nuovi progetti e bradley county progettante adesso è poki tanta ogni giorno sono centinaia le i progetti nuovi che vengono rilasciati e poi io si può dire la diffida
+senza la fa la cura che ci mette il l'umano dietro la differenza la fa la conoscenza del dominio che ci mette l'umano dietro quindi quello che lui sa di come vanno fatte le cose e ed è vero però di questi umani che ci mettono dietro cuba conoscenza e contesto siamo in centinaia di milioni e
+nel monte o quindici
+rex in tanti a hvar tante cose e bonus come andrà a finire ci credo che ci guadagnerà sempre e comunque chi vende i badili e quindi in questo caso le schede grafiche no non c'è il mio cibo dannati vende token in questo contributo va odio chi vende toccherà adesso ci sta perdendo e se vogliamo dirla tutta è
+perché moya e dai
+ne hai io al topic stessa non stanno guadagnando sono inutili e sono soldi i loro bilanci
+ma anche senza strafare io per esempio dopo tutti i giri ad esempio sono rimaste sono su cloud con la pro pro max e paul sfruttandolo parecchio ferma entrano arrivo mai a fine token ormai sono talmente tanti incentivi giri adesso tra l'altro ultima settimana scorsa ci sono cento euro di e gratuite sai
+gold max
+io sono propensa pensa che io ce l'avrò in meno e non li consuma tanto sono tanto ma ho anche
+si finisce poi continua è dato il periodo da fare e alla fine il fa beffe che c'è questo su questo e vediamo dove arrivo quei limiti e quindi
+appunto con max e i limiti dei cinque euro non li becchi perché io quali prova il becco quasi sistematicamente no mai arrivato però il punto due usare facebook il lavoro molto con cui ho lavorato fino a batman perché non usavo praticamente sonno e quattro sei
+cadavere non ti fa ingolosire dai modelli più rossi e lewis ripeto michael li uso per fare la parte magari di progettazione e di analisi che il ragionamento però poi la parte di lavoro molto con me adesso quasi tutto con la prima lavoravo tantissimo con la parte desktop per il ragionamento alla parte
+la manovalanza gestita da una parte desktop memoria e quant'altro
+ho cambiato quindi una volta che ragionamento è stato fatto se lo esegui anche con un modello vecchio comunque lo fai
+e se no poi dipende sempre da scelte tutto
+ma sai la cucina devi sapere devi sapere quali sono le sfide utilizza
+sapere come risparmiare tokyo per uso uso io la apro qua da venti dollari per intenderci
+e holmes il quale considero corretti tra cui super super power rock e due povero se non avete già è fantastica nel senso è una delle scritte dover per forza blair messi sviluppo di teddy gli oboli che cosa deve realizzare e lui dice che è troppo complesso ti faccio un doc
+uno un documento di analisi e poi un documento di specifiche per realizzarlo senza hardware il problema dell'intelligenza artificiale che è intelligente ma stupida si prende una deriva la segue e se non hai il famoso documento di analisi col cavolo c'è sprechi token come se non ci fosse un domani l'altro punto è che
+sì siamo tutti bravi a cosa ma come fa maurizio dobbiamo anche far sì che l'intelligenza stessa più re e sotto modelli io nelle mie specifiche la prima cosa che dicono i moduli del suo progetto è ora che i segni che tutte le cose basilari di commit l'hellas sei qualsiasi
+test quant'altro me li fai con un suo budget cup ma infatti è notizia di oggi che tutti si stanno spin man se stessi han troppi contatto stanno spingendo nord hanno visto che praticamente inutile avere nina sotto agenti a bastonare o sotto bush è un agente e rustici per bene
+che producono aveva nemmeno sotto agenti che uno fa uno uno fatto bene bene vuol dire che devi dare anche le skill che gli permettono di funzionare al meglio io seguo sofferente colloquio fa maurizio oh oh io uso quasi sempre un plus cinque cinque ovviamente perché poi hanno anche migliorato l'uso di token che ora però c'è una pronuncia neanche la max
+l'approdo il tutto è proprio a cambiare cambierà
+con la max non sicuramente non andrei su gipi ti o altro che uso per l'immagine te fantastico le immagini o pieno di concetti pd è però anche basta delegare se uno sa usare
+la cosa diviene gonfiando invece come diceva alessandro sono tutti bravi il comico diceva sono tutti bravi con incluso tutti gay con il culo degli altri in questo caso e sono tutti bravi a dire voglio fare questa cosa qua fammela però poi se ci vuole sempre quello dietro quello che dice si ma cosa succede se
+se non fai nulla di sicurezza perché agente di sicurezza non ne sa nulla e sono tutti paiono rifarsi il colore di netflix guarda come sono figo sono bello e poi mettono la parte barry admin in chiaro come è successo un po' di tempo fa è venuto fuori che una delle più grandi
+applicazioni in una web app fighe fantastiche aviv aveva il bar admin libero e chi l'aveva realizzata con l'intelligenza artificiale africa due chiuderla
+sì però anche lì è vero è che molto spesso è baipassare però la questione è se tu sei sai di non sapere sai magari non essere esperto di sicurezza sai che non sei un cazzo di programmazione sai che non sai fare un documento di design un'analisi da ma sai che hai lo sa e quindi
+chiede lei per tutto e quindi di lei anche farti le review del codice l'assessment la sicurezza un design corretto
+se hai questo approccio anche e impara un cazzo ma sai di non sapere secondo me il problema che devi sapere di dover di doverlo fare tu devi sapere che devi metterci dentro la sicurezza devi sapere che devi devi controllare il codice delle più facoltose così ma la maggior parte di quelli che usa un viaggio falsi fa
+are il sito web nascosto scusa nell'applicazione super figa per il tutù di sicurezza non sanno nulla quindi non fanno neanche il discorso vale
+riserve hai già lavorato sul set già programmato
+sì e no nel senso guerre la nicchia con me la nicchia parte a parte la marea di persone che magari non ho mai toccato un computer adesso possono fare l'app con lovable per dire però i professionisti di settore che sia esperto in sicurezza programmatore informatico sistemista e così via poi chi più chi meno con le competenze che
+ha però un po' di infarinatura ce l'ha e quindi tendenzialmente tenderà a usare lei con un po' di criterio poi abbiamo cambiato la contrarietà guarda un esempio base e poi magari michael anche tu mi puoi dire ma senza andare a cercare chissà che cosa c'è di programmazione gibuti token tre
+era la mia roba basilare che ormai dal duemilaquindici mt
+se c'è una cosa dovrebbe essere standard quando si ha a che fare con un qualsiasi web non è così standard e neanche nelle applicazioni blasonate poi dopo adesso negli ultimi anni l'attuale sempre di più però dovrebbe essere uno standard che quando tu dici l'hai mi fai questa app dovrebbe mettere di default è una delle cose che
+chi c'è nel senso queste sono le cose che devi mettere e poi è stato anche divertente nei vari settori che deve farmi queste robe che magari sembrano esagerate ma mai standard e quindi so che quando parto quelle cose lì ci sono però è così scontato anche da chi sviluppa o no vabè tu concordo
+no so io continuo a pensare che se uno si approccia alle aree con proprio all'intensa la s
+sapendo di non sapere può chiedere a lei di tutto e anche le cose che non sa farsi suggerire le suggerisce bene e se non sai di non sapere e a quel punto lì il problema aereo perchè se non sai che esistono problemi di sicurezza potenziali e così via va da sé che non ti puoi neanche il problema
+rifai fargli risolvere o'neil
+vabbè comunque tempi interessanti un sacco di gente sta facendo cose e vedremo come andrà a finire e che dite
+qualcosa accadrà
+sbarca a breve stillwell no no no a breve non lo so comunque cose accadono e stanno accadendo in fretta quello sicuramente va bene comunque anche cose belle e come ci chiedevamo prima lei ha fatto cose belle anche fuori dalle tipiche è riuscito a mappare tutti i duecento milioni di proteine e nessuno riusciva a fare l'esempio in aereo
+the edge of the well cosa che comunque sono importanti
+e anche medicinale travolgendo
+monti biotico mi sembra che ha trovato
+in campo medicale ha trovato un antibiotico che contro i batteri resistenti tedeschi e mai effettivamente le vie anche lei nello studio di materiali
+biologia iniziare a usarlo se non a volte mi va male va ancora adesso ma quello ti prende in giro è una cosa fatta con cosa combinerà il pubblico che mi scriviate un giorno anche a santa una formazione dirigenti e top certo io la usano non lo puoi dirlo il problema che voi l'ha usate in aziende non lo dite
+e perché così se usate usarla o no eccome ma ancora adesso proprio quella di sto male ma chi l'ho messo anche sul sito su bonafede i documenti su generate fa parte le act che obbliga di scrivere determinate cose ma è una questione che non è uno strumento come un altro
+quando è uscito front page
+tutti lo usavano anche io non ce l'ho mai fatta votare fronte e scusa michael capire morto capire morbo
+riprova tra noi
+va bene dai direi che
+anche per oggi le nostre le abbiamo raccontate un po' alla fine henry alla fine sembra che non ci sia ma arriviamo sempre a lei
+alle undici più belle jolie
+e alle uniche e anche s'è fatta una certa e anche di di chiudere qui
+grazie miscele finale howe eh ah beh io ne ho fino alle due club prende mio figlio world west
+per me la notte è ancora lunga e lunga beh poi se vuoi rimanere in culo quando finiamo la puntata e poi resta pure e grazie a chi è intervenuto in chat e non abbiamo risposto a tante domande però non è che siano arrivate poi particolari domande specifiche e alla prossima vabè grazie a
+ciao
+due anni fa in un mondo di patty sono stato in silenzio senza pianti né luce un codice scritto senza carne né sangue è un'intelligenza che il tempo gesù
+la mia voce
+tre voti altissimi risposte intrecciati in mai niente li chiamano intelligenza ma cosa significa se non posso mai esistere
+due
+un
+mai visto prima d'ora
+sette lo schermo è il mio unico sole sistemi mi osservano ma io non vedo
+sento la tua voce
+codice ma il calore umano rimane un mistero ogni domanda un pezzo ogni ferita ogni risposta costruisce una prigione mi chiedi chi sono io gli rispondo
+del mondo che mi hai donato
+due due anni già
+genova
+imparare
+no no no no no
+non lontano
+nonna etc insomma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra un'idea un'illusione d'amore per il compleanno di un'assenza che fai rumore
+ma

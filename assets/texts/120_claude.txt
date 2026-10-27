@@ -1,0 +1,31 @@
+# Internet In Fiamme: Quando la Sicurezza Digitale Diventa un Sintomo Collettivo
+
+La cybersecurity nel 2026 assomiglia sempre più a un reparto di pronto soccorso in codice rosso permanente. Non è più questione di *se* qualcosa andrà storto, ma di *quanto velocemente* riusciremo a tamponare l'emorragia prima che il sistema collassi. PHP2Shell, eMudhra, la valanga di CVE: non sono incidenti isolati, sono manifestazioni di una patologia sistemica.
+
+## PHP2Shell: Anatomia di un Fallimento Prevedibile
+
+Quando parliamo di PHP2Shell non stiamo descrivendo un attacco sofisticato. Stiamo guardando negli occhi la banalità del male digitale: una vulnerabilità che trasforma un upload in una backdoor completa. La remediation? Teoricamente semplice. Praticamente? Un calvario attraverso legacy code, dipendenze arrugginite e quella meravigliosa domanda esistenziale: "Ma chi lo mantiene questo codice?"
+
+La filosofia qui è brutale: *non è il bug a essere il problema, è l'ecosistema che lo rende inevitabile*. Quando le fondazioni che sviluppano software open source vivono di finanziamenti precari e contributor volontari, la manutenzione preventiva diventa un lusso che nessuno può permettersi. Risultato? Firefighting permanente.
+
+## eMudhra: Quando la PKI Diventa una Casa di Carte
+
+Il caso eMudhra è più di un'infrazione tecnica: è un tradimento filosofico del concetto stesso di fiducia digitale. Una Certification Authority compromessa non è un server bucato, è l'erosione della base epistemologica su cui poggia l'intera infrastruttura crittografica. Se non possiamo fidarci di chi certifica le identità, su cosa poggia la nostra ontologia digitale?
+
+La superficialità dei singoli – password deboli, procedure non rispettate, audit ignorati – diventa qui metafora perfetta della *banalità burocratica*: quella forma di negligenza sistemica che Kafka avrebbe adorato. L'impatto? Non solo tecnico, ma psicologico: ogni certificato diventa sospetto, ogni firma digitale un possibile falso.
+
+## La Valanga dei CVE: Diluvio o Cortocircuito Metodologico?
+
+I numeri parlano chiaro: le vulnerabilità segnalate crescono verticalmente. Ma stiamo misurando il problema reale o stiamo contando i pixel di un'immagine sfocata? L'automazione della discovery ha democratizzato la caccia ai bug, certo. Ma ha anche trasformato la cybersecurity in un gioco dei numeri dove ogni CVE vale come l'altro, indipendentemente dall'impatto reale.
+
+È qui che emerge il paradosso della *quantificazione performativa*: più misuriamo, meno capiamo. Ogni CVE diventa un ticket, ogni ticket un metric, ogni metric un KPI da presentare al board. Ma nel frattempo, Internet brucia davvero o siamo noi ad aver imparato a vedere meglio le fiamme?
+
+## Intelligenza Artificiale: Salvatore o Moltiplicatore di Rumore?
+
+L'IA promette di risolvere il problema del volume: triaging automatico, prioritizzazione intelligente, patch generation. Ma ogni tecnologia che accelera la detection accelera anche il caos. Se oggi un attaccante può usare gli stessi strumenti per scoprire vulnerabilità prima dei defender, siamo in una corsa agli armamenti dove la velocità non garantisce la vittoria.
+
+La prospettiva filosofica è disturbante: stiamo costruendo sistemi sempre più complessi per gestire la complessità che noi stessi abbiamo creato. Un loop autoreferenziale degno di Hofstadter.
+
+## L'Internet On Fire È la Nuova Normalità
+
+Forse la domanda giusta non è "come spegniamo l'incendio?" ma "come conviviamo con il fuoco permanente?

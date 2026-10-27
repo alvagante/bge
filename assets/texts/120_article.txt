@@ -1,0 +1,45 @@
+BGE 120 — Internet In Fiamme: breve guida al panico programmato.
+
+Il titolo è provocazione e diagnosi insieme. Il 23 ottobre 2026 la Brigata dei Geek Estinti si è messa a nudo: tre voci — Michel Morelli, Francesco Fullone e Maurizio Siracusa — a scandagliare un ecosistema che finge di resistere mentre si sgretola a byte. Durata: ~116 minuti. Youtube: fYwJfxTMcPc. Il tema: non tanto che la rete bruci, ma chi ha messo la benzina e perché continuiamo ad accendere fiammiferi.
+
+PHP2Shell: anatomia di qualcosa che non doveva esistere
+- PHP2Shell non è una bestia mitologica: è il risultato banale di errori banali — upload non filtrati, parsing ingenuo, funzioni PHP lasciate scoperte come porte aperte su un laboratorio pieno di esplosivi. La Brigata smonta il vettore: upload -> trattamento -> esecuzione. Lì dove il contesto di esecuzione è sbagliato, il codice malevolo conduce.
+- Remediation pratica: patch immediata, limitazione dei tipi e dimensioni degli upload, sanitizzazione lato server, isolare gli handler di file in sandbox e revocare permessi. Aggiungere WAF e controllo comportamentale; non confidare solo nel "fix" superficiale.
+- L'impatto: a breve, compromissioni RCE e data exfiltration; a medio-lungo termine, perdita di fiducia sui software legacy e aumento dei costi di compliance. Link tecnico: https://www.php2shell.com/.
+
+Il caso eMudhra: quando la superficialità diventa politica
+- La compromissione di una Certification Authority è un buco nella coscienza pubblica. Non è solo un certificato revocato: è tutta la Public Key Infrastructure che prende una botta morale. La fiducia è un protocollo sociale; quando la CA inciampa, saltano interi trust anchor.
+- Conseguenze pratiche: catena di certificati da ricostruire, revoche incomplete, sysadmin impreparati che continuano a fidarsi di catene corrotti. Politicamente, peggiora il rapporto tra cittadino e servizi digitali.
+- Il discorso della Brigata mette in fila responsabilità tecniche e istituzionali: audit più severi, separazione di compiti, rotazione e protezione hardware delle chiavi. Non basta ripristinare una chiave: bisogna ripensare chi la custodisce.
+
+Valanga di CVE 2026: tsunami reale o cortocircuito metodologico?
+- Statistica e rumore. I numeri di OpenCVE (https://app.opencve.io/statistics) mostrano una crescita verticale. Ma quantità non uguale gravità: l'automazione ha democratizzato la discovery e la segnalazione, generando molti falsi positivi e una diluizione dell'attenzione.
+- Automazione = doppia lama. Strumenti che scoprono vulnerabilità accelerano la patching pipeline, ma producono anche segnalazioni a cascata che sovraccaricano team e tool. Il risultato? Un sistema che invece di concentrarsi sui rischi reali si annebbia nel flusso.
+- Domanda centrale discussa nel podcast: siamo davvero in "Internet on fire" permanente o abbiamo costruito un sistema di allarme che suona ogni volta che passa una mosca? Probabilmente entrambe le cose.
+
+Log, burocrazia, manutenzione: l'ordalia quotidiana
+- I log sono ora il nostro unico testimone. Ma quando i registri non sono leggibili o i processi di escalation sono ingessati dalla burocrazia, la diagnosi diventa un esercizio di fede.
+- La Brigata bacchetta la governance: policy lente, approvazioni sterili, contratti che favoriscono la "non responsabilità". La sicurezza diventa politica quando è delegata esclusivamente a comitati.
+- Menzione estesa alla crisi del mantenimento del software: progetti open source, fondazioni, sostenibilità economica (v. riflessioni su Buonafede.org). Chi mantiene le librerie core? Chi paga il conto quando qualcosa esplode?
+
+Disparità e ineguaglianze tecniche
+- Non tutte le organizzazioni possono affrontare ondate di segnalazioni. Le grandi aziende hanno SOC, budget e consulenti; le piccole hanno spesso un admin esausto e una checklist Excel.
+- La conseguenza: gli attaccanti colpiscono dove la superficie è più fragile. La Brigata lo definisce senza romanticherie: sicurezza è un privilegio, non un dato di fatto.
+
+IA: manna e miccia
+- L'intelligenza artificiale accelera discovery, triage e risposta. Ma la Brigata mette in guardia: automazione senza contesto amplifica errori, facilita weaponizzazione e può trasformare la triage pipeline in un branco di algoritmi che confermano tra loro falsi allarmi.
+- Uso saggio dell'IA? Ridurre il rumore, proporre priorità basate su rischio reale e automatizzare playbook collaudati — non delegare il giudizio critico a modelli propensi all'overfitting.
+
+Mitigazioni concrete menzionate nel podcast
+- Limitazioni sugli upload, controllo MIME e magic bytes, sandboxing, least privilege, WAF, integrity checks, monitoring dei log, risposta automatica e workflow di revoca per le CA.
+- Strumenti e intelligence: SocRadar (https://socradar.io/), NetScout Horizon (https://horizon.netscout.com/) come esempi di feed e visibilità. Per chi indaga: analisi di node2shell come parallelo (https://www.sysdig.com/blog/node2shell-cve-2026-111497-detecting-the-node-js-brotli-rce).
+
+Tono filosofico — perché servono pensieri forti
+- La Brigata non propone soluzioni magiche. Spinge a una riflessione più ampia: la sicurezza non è un prodotto, è una pratica; la fiducia non è un file X. La tecnologia è diventata politica per inerzia.
+- Citazione implicita: chi abdica alla manutenzione consegna il futuro al caso. La rete non è solo cavi e certificati; è un contratto sociale che stiamo sciupando con call center e patch procrastinate.
+
+Chi ascoltare, cosa fare subito
+- Ascoltate gli ospiti: Morelli, Fullone, Siracusa spiegano come trasformare il panico in processo. Priorità operative: patching tempestivo + isolare vettori d'ingresso + testare la catena di fiducia.
+- Investimento strategico: più risorse ai maintainer, audit indipendenti per le CA, migliorare i processi di segnalazione per separare rumore e pericolo reale.
+
+La Brigata parla come chi ha visto la fiamma da vicino: non è l'apocalisse melodrammatica, ma un incendio alimentato da pigrizia, incentivi sbagliati e tecnologia senza custodi. Se la fiducia è la moneta della rete, qualcuno sta contraffacendo banconote alla luce del giorno.

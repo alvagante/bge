@@ -1,0 +1,14 @@
+---
+guests:
+  - Michel Morelli
+  - Francesco Fullone
+  - Maurizio Siracusa
+
+links:
+  php2shell: https://www.php2shell.com/
+  Overview su node2shell: https://www.sysdig.com/blog/node2shell-cve-2026-111497-detecting-the-node-js-brotli-rce
+  OpenCVE Statistics: https://app.opencve.io/statistics
+  SocRadar: https://socradar.io/
+  NetScout: https://horizon.netscout.com/
+  Buonafede.org: https://www.buonafede.org/
+  
