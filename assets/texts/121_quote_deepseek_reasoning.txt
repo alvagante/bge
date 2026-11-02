@@ -1,0 +1,57 @@
+We need to produce a short quote (max 150 chars) in Italian, based on the provided text. The text is about the crisis of entry-level jobs in tech due to AI, the paradox of competence, the need for human skills, etc. The quote should be memorable, effective, not invent an author, just the text. It should be a modern, deep, essential, slightly punk poetic observation. Must be in Italian, max 150 characters. No commentary, just the quote.
+
+We need to capture essence: maybe about how AI removes the bottom rung but real skill comes from mistakes, or how junior need to become supervisors, or the paradox of competence. Something like: "L'AI ti scrive il codice, ma non ti insegna a sbagliare. E senza errori, che competenza è?" But need to be concise and punchy. Let's think of a few options.
+
+Possible quote: "Se l'AI scrive il codice, la gavetta non muore: si trasforma in chi osa correggerla." That's 85 chars. But maybe more poetic.
+
+Another: "La vera gavetta oggi è imparare a sbagliare con l'AI che ti guarda." Not great.
+
+We need to reflect the text: "La sindrome della scaletta rimossa", "paradosso della competenza", "da esecutore a supervisore". The quote could be about how the bottom rung is removed, but real learning comes from mistakes. Something like: "Hanno tolto la scaletta, ma il vero salto è imparare a cadere." That's 69 chars. But maybe not specific to AI.
+
+Better: "L'AI ti copia il compito, ma non ti insegna a sbagliare. E senza errori, la competenza è solo un prompt." Count: "L'AI ti copia il compito, ma non ti insegna a sbagliare. E senza errori, la competenza è solo un prompt." Let's count: L'AI(3) ti(2) copia(5) il(2) compito,(7) ma(2) non(3) ti(2) insegna(7) a(1) sbagliare.(10) E(1) senza(5) errori,(7) la(2) competenza(10) è(1) solo(4) un(2) prompt.(6) Total: 3+2+5+2+7+2+3+2+7+1+10+1+5+7+2+10+1+4+2+6 = 82? Let's add: 3+2=5, +5=10, +2=12, +7=19, +2=21, +3=24, +2=26, +7=33, +1=34, +10=44, +1=45, +5=50, +7=57, +2=59, +10=69, +1=70, +4=74, +2=76, +6=82. Yes 82 chars, within limit. That's decent.
+
+But maybe more punk: "La gavetta è morta? No, è solo che ora devi correggere l'AI che ti ha rubato il posto." Count: "La gavetta è morta? No, è solo che ora devi correggere l'AI che ti ha rubato il posto." Let's count: La(2) gavetta(7) è(1) morta?(6) No,(3) è(1) solo(4) che(3) ora(3) devi(4) correggere(10) l'AI(4) che(3) ti(2) ha(2) rubato(6) il(2) posto.(6) Sum: 2+7=9, +1=10, +6=16, +3=19, +1=20, +4=24, +3=27, +3=30, +4=34, +10=44, +4=48, +3=51, +2=53, +2=55, +6=61, +2=63, +6=69. 69 chars. Good.
+
+But is it memorable? It captures the idea of AI taking jobs but then you have to correct it. The text says "da esecutore a supervisore". So maybe: "Da esecutore a supervisore: il nuovo junior è chi corregge l'AI che gli ha rubato il posto." Count: Da(2) esecutore(9) a(1) supervisore:(11) il(2) nuovo(5) junior(6) è(1) chi(3) corregge(8) l'AI(4) che(3) gli(3) ha(2) rubato(6) il(2) posto.(6) Sum: 2+9=11, +1=12, +11=23, +2=25, +5=30, +6=36, +1=37, +3=40, +8=48, +4=52, +3=55, +3=58, +2=60, +6=66, +2=68, +6=74. 74 chars. Good.
+
+But maybe too long? Still under 150. The instruction: "brevissima citazione inventata (massimo 150 caratteri)". So 74 is fine. Need to be "memorabile ed ad effetto". Could be shorter.
+
+Consider: "L'AI ha tolto la scaletta. Ora tocca a te costruire l'ascensore." Count: L'AI(3) ha(2) tolto(5) la(2) scaletta.(8) Ora(3) tocca(5) a(1) te(2) costruire(8) l'ascensore.(11) Sum: 3+2=5, +5=10, +2=12, +8=20, +3=23, +5=28, +1=29, +2=31, +8=39, +11=50. 50 chars. Very short. But does it capture? It's a bit generic, not specifically about AI and junior.
+
+Another: "Se l'AI scrive, tu pensa. Se l'AI pensa, tu sogna." That's 46 chars. But maybe too vague.
+
+We need to base on the text provided. The text emphasizes: "La sindrome della scaletta rimossa", "il paradosso della competenza: come sviluppare senso critico e intuito se non sbagli mai sporcandoti le mani?", "Da esecutore a supervisore", "evitare la trappola del copia-incolla senza comprensione". So the quote should highlight the need for human judgment, mistakes, and supervision.
+
+Maybe: "L'AI ti dà la risposta, ma non la domanda. E la gavetta è tutta lì." Count: L'AI(3) ti(2) dà(2) la(2) risposta,(8) ma(2) non(3) la(2) domanda.(7) E(1) la(2) gavetta(7) è(1) tutta(5) lì.(2) Sum: 3+2=5, +2=7, +2=9, +8=17, +2=19, +3=22, +2=24, +7=31, +1=32, +2=34, +7=41, +1=42, +5=47, +2=49. 49 chars. Nice and punchy.
+
+But is it clear? "L'AI ti dà la risposta, ma non la domanda. E la gavetta è tutta lì." That suggests the real learning is in formulating problems, not getting answers. That's good.
+
+Another: "La gavetta non è morta: è solo che ora devi correggere l'AI che ti ha sostituito." That's 71 chars. We had similar.
+
+I think the quote should be a single sentence, maybe with a twist. The user wants "arguto osservatore del mondo, un poeta moderno, profondo, essenziale e un po' punk". So it should have a bit of attitude.
+
+Maybe: "L'AI ti ruba il posto, ma non il talento di sbagliare. E la gavetta è tutta lì." Count: L'AI(3) ti(2) ruba(4) il(2) posto,(6) ma(2) non(3) il(2) talento(7) di(2) sbagliare.(10) E(1) la(2) gavetta(7) è(1) tutta(5) lì.(2) Sum: 3+2=5, +4=9, +2=11, +6=17, +2=19, +3=22, +2=24, +7=31, +2=33, +10=43, +1=44, +2=46, +7=53, +1=54, +5=59, +2=61. 61 chars. Good. It captures the paradox of competence and the need to make mistakes.
+
+Or: "Il nuovo junior non scrive codice: corregge l'AI che glielo ha rubato. E impara sbagliando." Count: Il(2) nuovo(5) junior(6) non(3) scrive(6) codice:(7) corregge(8) l'AI(4) che(3) glielo(6) ha(2) rubato.(7) E(1) impara(6) sbagliando.(11) Sum: 2+5=7, +6=13, +3=16, +6=22, +7=29, +8=37, +4=41, +3=44, +6=50, +2=52, +7=59, +1=60, +6=66, +11=77. 77 chars. That's also good and directly from the text.
+
+But the instruction says "brevissima citazione inventata" so it should be a quote, not necessarily a sentence from the text. We need to invent it. So any of these could work.
+
+I'll go with a concise, memorable one that captures the essence: the removal of the bottom rung and the need for human supervision and mistakes.
+
+I think: "L'AI ti copia il compito, ma non ti insegna a sbagliare. E senza errori, la competenza è solo un prompt." That's 82 chars, good, but maybe a bit long? Still under 150.
+
+Alternatively, a shorter one: "Se l'AI scrive, tu pensa. Se l'AI pensa, tu sogna." But that's less tied to the text.
+
+Another: "La scaletta è rimossa. Ora devi imparare a volare, ma con l'AI che ti guarda." Not great.
+
+I'll choose: "L'AI ti ruba il posto, ma non il talento di sbagliare. E la gavetta è tutta lì." That's 61 chars, punk, deep, essential. It captures the paradox of competence and the importance of mistakes. It's memorable.
+
+But let's ensure it's within 150 and no author. Yes.
+
+So final answer: just the quote text, no quotation marks? The instruction says "scrivi solo il testo della citazione, senza commentarla". So we can output the text without quotes, or with? Usually a citation is in quotes. But to be safe, just the text. I'll output it as a line.
+
+I'll go with: L'AI ti ruba il posto, ma non il talento di sbagliare. E la gavetta è tutta lì.
+
+That's it.
+</think>
+L'AI ti ruba il posto, ma non il talento di sbagliare. E la gavetta è tutta lì.

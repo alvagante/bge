@@ -6,6 +6,7 @@ episodi:
 - 83
 - 89
 - 100
+- 121
 layout: geek
 links:
   LinkedIn: https://www.linkedin.com/in/liviofrancisconi/

@@ -1,0 +1,20 @@
+La scaletta è stata rimossa. Non per cattiveria. Per efficienza. Per risparmio. Il risultato è un tappeto scivoloso su cui i neofiti devono imparare a camminare senza appoggi. BGE 121 mette il dito nella piaga: la gavetta non è sparita, è stata ricodificata.
+
+Apertura netta: il mercato IT chiede profili junior con esperienza. Si legge come un ossimoro, si pronuncia come un annuncio farsesco. Intanto l'AI genera codice, bozze di copy, analisi e prototipi in pochi secondi. La conseguenza pratica è semplice e crudele: le aziende tagliano i livelli bassi, perché un modello linguistico costa meno di una mentorship. Ma la domanda filosofica è più interessante: che valore ha un mestiere se non puoi sbagliare per imparare?
+
+Gli ospiti — Cornelli, Bertrando, Marigo, Morelli, Francisconi, Nastasi — scandiscono il tema in più voci. Non è solo un discorso tecnico. È un nodo epistemologico. Socrate ci direbbe: “So di non sapere”. La formazione non è accumulo di snippet; è saper riconoscere l'errore, diagnosticarlo, trasformarlo in sapere. Senza errori non si costruisce intuizione. E senza intuizione, resti un correttore di prompt.
+
+I punti chiave che emergono, in forma tagliente:
+- Il paradosso della competenza: se non ti sporcano le mani, non sviluppi senso critico. Il costo di non-sbagliare è diventare dipendente dalle soluzioni preconfezionate.
+- L'AI come attrezzo, non come padrone: utile per accelerare, per prototipare, per eliminare noia ripetitiva. Ma “garbage in, garbage out”: prompt intelligenti non sostituiscono comprensione strutturale.
+- Da esecutore a supervisore: molti junior vengono spinti a ruoli da “reviewer di output automatizzati”. Serve meta-competenza: design system, testing, security mindset, capacità di orchestrare pipeline.
+- Recruiter e mercato: cercano adattabilità, problem-solving, comunicazione. Le skill umane restano la valuta rara.
+- Strategie pratiche: portfolio credibile (progetti reali, contributi open source, prodotti che si usano), formazione continua e certificazioni cloud, partecipazione a community, pair-programming e mentorship attiva. LeetCode vale per il colloquio, ma non sostituisce la capacità di comprendere un sistema.
+
+C'è poi il discorso delle best practice. Principi come SOLID non sono esercizi accademici: sono mappe per navigare sistemi che cambiano. Saper scrivere codice leggibile e testabile è l'anticorpo contro l'obsolescenza rapida del singolo framework. Chi capisce il perché, non solo il come, sopravvive meglio.
+
+Un avvertimento morale: il copia-incolla senza comprensione è la forma moderna del servilismo industriale. È comodo, è veloce, ma ti spoglia del capitale più prezioso: la capacità di giudizio. E il mercato, prima o poi, ricompensa il giudizio più della velocità.
+
+La puntata non conforta. Non promette soluzioni miracolose. Propone invece una strategia di guerriglia cognitiva: coltiva fondamenta, costruisci prove, cerca mentori, entra nelle community. Usa l'AI, ma addestrala a lavorare per te — non il contrario.
+
+Il futuro del lavoro junior non è una rampa automatica né un muro invalicabile. È un codice da decifrare che richiede ancora una cosa antica e potente: la volontà di imparare facendo. E il compilatore non salverà chi non sa debuggarlo.
