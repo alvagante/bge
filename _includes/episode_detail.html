@@ -1,130 +1,126 @@
-<section id="episodes">
-  <div class="content-section-a">
-    <div class="container">
-      <div class="row adi-list">
-        <div class="col-lg-2">
-          <a href="{{ site.url }}/episodi/"><img class="img-fluid" src="{{ site.url }}/assets/images/logo.png" alt="La Brigata dei Geek Estinti"></a>
-        </div>
-        <div class="col-lg-2 big">
-          <h1><div class="bigger">{{ page.number }}</div></h1>
-        </div>
-        <div class="col-lg-8">
+{% assign dur_h = page.duration | divided_by: 3600 %}
+{% assign dur_m = page.duration | modulo: 3600 | divided_by: 60 %}
+<section class="episode-detail">
+  <div class="container">
+    <div class="detail-hero">
+      <a class="detail-back" href="{{ site.url }}/episodi/">
+        <img src="{{ site.url }}/assets/images/logo white 50.png" alt="La Brigata dei Geek Estinti">
+      </a>
+      <div class="detail-head">
+        <div class="detail-number">{{ page.number }}</div>
         <h1>{{ page.titolo }}</h1>
+        <div class="detail-meta">
+          <span class="meta-chip">Live · {{ page.date | date: "%-d %b %Y" }}</span>
+          <span class="meta-chip">Durata · {% if dur_h > 0 %}{{ dur_h }}h {{ dur_m }}m{% else %}{{ dur_m }}m{% endif %}</span>
         </div>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="video-container">
-            <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-6">
-          <blockquote>
-            {{ page.quote_openai }} (Geek Estinto)
-          </blockquote>
-        </div>
-        <div class="col-lg-6">
-          <blockquote>
-            {{ page.quote_claude }} (Brigante Claudio)
-          </blockquote>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-6">
-          <blockquote>
-            {{ page.quote_deepseek }} (Deep Geek)
-          </blockquote>
-        </div>
-        <div class="col-lg-6">
-          <blockquote>
-            {{ page.quote_llama }} (Metante)
-          </blockquote>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-8">
-          <h3>Argomenti trattati</h3>
-          <ul>
-            {% for topic in page.summary %}
-            <li>{{ topic }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="col-lg-4">
-          <h4>Live del {{ page.date | date: "%Y-%m-%d" }}</h4>
-          <h3>Partecipanti</h3>
-          {% for guest in page.guests %}
-          {% assign geek = site.geeks | where: "nome", guest | first %}
-          <h6><a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ guest }}</a></h6>
-          {% endfor %}
-          <h3>Host</h3>
-          {% assign h = site.geeks | where: "nome", page.host | first %}
-          <h6><a href="{{ site.url }}/{{ h.url }}" target="_parent">{{ page.host }}</a></h6>
-          <h3>Tag</h3>
-          <div class="tags">{% for tag in page.tags %}#{{ tag }} {% endfor %}</div>
-          {% if page.links != 'NA' %}
-          <h3>Link</h3>
-          <ul>
-            {% for link in page.links %}
-            <li><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-        </div>
-      </div>
-
-      <div class="container p-5 border border-dark bg-light">
-        <div class="row">
-          <div class="col-lg-12">
-            <h2 class="pb-3">I commenti delle IA</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-3">
-            <img class="img-fluid" src="{{ site.url }}/assets/covers/BGE {{ page.number }}.png" alt="BGE {{ page.number }} - {{ page.guest }}: {{ page.titolo }}">
-          </div>
-          <div class="col-lg-9">
-            <a href="#geekestinto"><h4>L'editoriale di Geek Estinto</h4></a>
-            <a href="#briganteclaudio"><h4>L'editoriale di Brigante Claudio</h4></a>
-            <a href="#deepgeek"><h4>La citazione, con ragionamento, di Deep Geek</h4></a>
-          </div>
-        </div>
-        <div class="row py-5" id="geekestinto">
-          <div class="col-lg-3">
-            <h3 class="pb-3">Geek Estinto</h3>
-            <h5>Un GPT di OpenAI</h5>
-          </div>
-          <div class="col-lg-9">
-            {{ content  }}
-          </div>
-        </div> 
-        <div class="row py-5" id="briganteclaudio">
-          <div class="col-lg-3">
-            <h3 class="pb-3">Brigante Claudio</h3>
-            <h5>Un Claude di Anthropic</h5>
-          </div>
-          <div class="col-lg-9">
-            {{ page.claude_article | newline_to_br }}
-          </div>
-        </div>
-        <div class="row py-5" id="deepgeek">
-          <div class="col-lg-3">
-            <h3 class="pb-3">Deep Geek</h3>
-            <h5>Un DeepSeek reasoner</h5>
-          </div>
-          <div class="col-lg-9">
-            <h4 py-3>{{ page.quote_deepseek }}</h4>
-            <h5>Ragionamento</h5>
-            {{ page.quote_deepseek_reasoning | newline_to_br }}
-          </div>
-        </div>  
       </div>
     </div>
-  </div>  
+
+    <div class="video-frame">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="quotes-grid detail-quotes">
+      <figure class="quote-card persona-openai">
+        <blockquote>{{ page.quote_openai }}</blockquote>
+        <figcaption class="quote-author">Geek Estinto</figcaption>
+      </figure>
+      <figure class="quote-card persona-claude">
+        <blockquote>{{ page.quote_claude }}</blockquote>
+        <figcaption class="quote-author">Brigante Claudio</figcaption>
+      </figure>
+      <figure class="quote-card persona-deepseek">
+        <blockquote>{{ page.quote_deepseek }}</blockquote>
+        <figcaption class="quote-author">Deep Geek</figcaption>
+      </figure>
+      <figure class="quote-card persona-llama">
+        <blockquote>{{ page.quote_llama }}</blockquote>
+        <figcaption class="quote-author">Metante</figcaption>
+      </figure>
+    </div>
+
+    <div class="detail-grid">
+      <div class="detail-topics">
+        <h3>Argomenti trattati</h3>
+        <ul class="topic-list">
+          {% for topic in page.summary %}
+          <li>{{ topic }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <aside class="meta-card">
+        <h3>Live</h3>
+        <p class="meta-date">{{ page.date | date: "%Y-%m-%d" }}</p>
+        <h3>Partecipanti</h3>
+        <div class="chips">
+          {% for guest in page.guests %}
+          {% assign geek = site.geeks | where: "nome", guest | first %}
+          <a class="guest-chip" href="{{ site.url }}{{ geek.url }}" target="_parent">{{ guest }}</a>
+          {% endfor %}
+        </div>
+        <h3>Host</h3>
+        {% assign h = site.geeks | where: "nome", page.host | first %}
+        <div class="chips">
+          <a class="guest-chip" href="{{ site.url }}{{ h.url }}" target="_parent">{{ page.host }} <span class="chip-badge">host</span></a>
+        </div>
+        <h3>Tag</h3>
+        <div class="tags">{% for tag in page.tags %}<span class="tag">#{{ tag }}</span> {% endfor %}</div>
+        {% if page.links != 'NA' and page.links != blank %}
+        <h3>Link</h3>
+        <ul class="link-list">
+          {% for link in page.links %}
+          <li><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </aside>
+    </div>
+
+    <section class="ai-panel" aria-label="I commenti delle IA">
+      <div class="ai-panel-head">
+        <img class="ai-panel-cover" src="{{ site.url }}/assets/covers/BGE {{ page.number }}.png" alt="BGE {{ page.number }} - {{ page.guest }}: {{ page.titolo }}">
+        <div class="ai-panel-head-text">
+          <h2>I commenti delle IA</h2>
+          <div class="ai-nav">
+            <a class="ai-nav-card persona-openai" href="#geekestinto"><h4>L'editoriale di Geek Estinto</h4></a>
+            <a class="ai-nav-card persona-claude" href="#briganteclaudio"><h4>L'editoriale di Brigante Claudio</h4></a>
+            <a class="ai-nav-card persona-deepseek" href="#deepgeek"><h4>La citazione, con ragionamento, di Deep Geek</h4></a>
+          </div>
+        </div>
+      </div>
+      <article class="ai-block persona-openai" id="geekestinto">
+        <div class="ai-block-id">
+          <h3>Geek Estinto</h3>
+          <h5>Un GPT di OpenAI</h5>
+        </div>
+        <div class="ai-block-body">
+          {{ content }}
+        </div>
+      </article>
+      <article class="ai-block persona-claude" id="briganteclaudio">
+        <div class="ai-block-id">
+          <h3>Brigante Claudio</h3>
+          <h5>Un Claude di Anthropic</h5>
+        </div>
+        <div class="ai-block-body">
+          {{ page.claude_article | newline_to_br }}
+        </div>
+      </article>
+      <article class="ai-block persona-deepseek" id="deepgeek">
+        <div class="ai-block-id">
+          <h3>Deep Geek</h3>
+          <h5>Un DeepSeek reasoner</h5>
+        </div>
+        <div class="ai-block-body">
+          <figure class="quote-card">
+            <blockquote>{{ page.quote_deepseek }}</blockquote>
+          </figure>
+          <h5 class="reasoning-title">Ragionamento</h5>
+          <div class="reasoning">{{ page.quote_deepseek_reasoning | newline_to_br }}</div>
+        </div>
+      </article>
+    </section>
+  </div>
 </section>

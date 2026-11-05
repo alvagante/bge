@@ -1,27 +1,28 @@
-<section id="geeks">
-  <div>
-    <div class="container">
-      <div>
-        <h1>Tutti i geek della brigata</h1>
-        
-        {% for geek in site.geeks %}
-        <div class="row geek">
-          <div class="col-lg-4">
+<section class="geeks-page">
+  <div class="container">
+    <div class="page-hero">
+      <h1>Tutti i geek della brigata</h1>
+    </div>
+    <div class="geek-grid">
+      {% for geek in site.geeks %}
+      <article class="geek-card">
+        <div class="geek-card-head">
           <h3><a href="{{ site.url }}{{ geek.url }}" target="_parent">{{ geek.nome }}</a></h3>
-          </div>
-          <div class="col-lg-8">
-            {% assign sorted_episodes = geek.episodi | sort | reverse %}
-            {% for ep in sorted_episodes %}
-              {% assign episode = site.episodes | where: "number", ep | first %}
-              {% if episode %}
-                <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h5>
-              {% endif %}
-            {% endfor %}
-          </div>
+          {% if geek.episodi %}
+          <span class="geek-card-count">{{ geek.episodi | size }} episodi</span>
+          {% endif %}
         </div>
-        <hr>
-        {% endfor %}
-      </div>
+        <div class="geek-card-eps">
+          {% assign sorted_episodes = geek.episodi | sort | reverse %}
+          {% for ep in sorted_episodes %}
+            {% assign episode = site.episodes | where: "number", ep | first %}
+            {% if episode %}
+              <a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </article>
+      {% endfor %}
     </div>
   </div>
 </section>

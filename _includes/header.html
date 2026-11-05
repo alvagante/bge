@@ -1,20 +1,15 @@
-<header class="p-3 text-bg-dark">
+<header class="site-header">
   <div class="container">
-    <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-      <div class="col-12 col-sm-2 d-flex justify-content-center justify-content-sm-start">
-        <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
-          <!-- TODO: check voiceover -->
-          <img class="img-fluid" src="/assets/images/logo white 50.png" alt="Home La Brigata dei Geek Estinti">
-        </a>
-      </div>
-      <div class="col-12 col-sm-10 d-flex justify-content-center justify-content-sm-start">
-        <nav class="d-flex nav">
-          <a href="/episodi/" class="nav-link p-3 p-sm-2 text-white">Episodi</a>
-          <a href="/geeks/" class="nav-link p-3 p-sm-2 text-white">Geek</a>
-          <a href="/media/" class="nav-link p-3 p-sm-2 text-white">Media</a>
-          <a href="/wtf/" class="nav-link p-3 p-sm-2 text-white">WTF</a>
-        </nav>
-      </div>
+    <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-between gap-2 py-2">
+      <a href="/" class="d-flex align-items-center text-decoration-none">
+        <img class="site-logo" src="/assets/images/logo white 50.png" alt="Home La Brigata dei Geek Estinti">
+      </a>
+      <nav class="site-nav" aria-label="Principale">
+        <a href="/episodi/" {% if page.url contains '/ep' %}class="active"{% endif %}>Episodi</a>
+        <a href="/geeks/" {% if page.url contains '/geek' %}class="active"{% endif %}>Geek</a>
+        <a href="/media/" {% if page.url contains '/media' %}class="active"{% endif %}>Media</a>
+        <a href="/wtf/" {% if page.url contains '/wtf' %}class="active"{% endif %}>WTF</a>
+      </nav>
     </div>
   </div>
 </header>

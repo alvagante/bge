@@ -1,49 +1,44 @@
-<section id="home">
-  <div class="container hometitle">
-    <h1>BGE<small>La Brigata dei Geek Estinti</small></h1>
-    <div>
-      <a href="https://youtube.com/@LaBrigatadeiGeekEstinti" target="_blank">
-        <img class="img-fluid float-left pb-2" src="/assets/images/youtube.png"
-          alt="youtube.com/@LaBrigatadeiGeekEstinti" />
-      </a>
-      <h2>Subscribe? Non Per Tutti</h2>
-    </div>
+<section class="hero">
+  <div class="container hero-content">
+    <h1 class="hero-title">BGE<small>La Brigata dei Geek Estinti</small></h1>
+    <p class="hero-tagline">{{ page.subTitle | default: site.tagline }}</p>
+    <h2 class="hero-sub">Subscribe? Non Per Tutti</h2>
+    <a class="hero-cta" href="https://youtube.com/@LaBrigatadeiGeekEstinti" target="_blank">
+      <img src="/assets/images/youtube.png" alt="youtube.com/@LaBrigatadeiGeekEstinti" />
+    </a>
   </div>
+  <a class="hero-arrow" href="#last_episode" aria-label="Scorri all'ultimo episodio">↓</a>
 </section>
 
-<section id="last_episode">
-  <div class="container hometitle">
+<section class="latest" id="last_episode">
+  <div class="container latest-content">
     {% assign last_episode = site.episodes | sort: "episode" | reverse %}
     {% for episode in last_episode | limit: 1 %}
-    <a href="{{ site.url }}{{ episode.url }}" target="_parent"><h2 class="text-white">{{ episode.title }}</h2></a>
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0"
-        allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
-    <div class="row">
-      <div class="col-lg-6">
-        <blockquote>
-          {{ episode.quote_openai }} (Geek Estinto)
-        </blockquote>
-      </div>
-      <div class="col-lg-6">
-        <blockquote>
-          {{ episode.quote_claude }} (Brigante Claudio)
-        </blockquote>
+    <p class="latest-kicker">Ultimo episodio</p>
+    <a class="latest-title" href="{{ site.url }}{{ episode.url }}" target="_parent"><h2>{{ episode.title }}</h2></a>
+    <div class="video-frame">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0"
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
     </div>
-
-    <div class="row">
-      <div class="col-lg-6">
-        <blockquote>
-          {{ episode.quote_deepseek }} (Deep Geek)
-        </blockquote>
-      </div>
-      <div class="col-lg-6">
-        <blockquote>
-          {{ episode.quote_llama }} (Metante)
-        </blockquote>
-      </div>
+    <div class="quotes-grid">
+      <figure class="quote-card persona-openai">
+        <blockquote>{{ episode.quote_openai }}</blockquote>
+        <figcaption class="quote-author">Geek Estinto</figcaption>
+      </figure>
+      <figure class="quote-card persona-claude">
+        <blockquote>{{ episode.quote_claude }}</blockquote>
+        <figcaption class="quote-author">Brigante Claudio</figcaption>
+      </figure>
+      <figure class="quote-card persona-deepseek">
+        <blockquote>{{ episode.quote_deepseek }}</blockquote>
+        <figcaption class="quote-author">Deep Geek</figcaption>
+      </figure>
+      <figure class="quote-card persona-llama">
+        <blockquote>{{ episode.quote_llama }}</blockquote>
+        <figcaption class="quote-author">Metante</figcaption>
+      </figure>
     </div>
     {% endfor %}
   </div>

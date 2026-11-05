@@ -1,24 +1,23 @@
-<div class="album py-5 bg-light">
+<section class="home-episodes">
   <div class="container">
-    <div class="row">
+    <div class="section-head">
       <h3>Ultimi episodi</h3>
+      <a href="{{ site.url }}/episodi" class="btn-bge">Tutti gli episodi →</a>
+    </div>
+    <div class="ep-grid">
       {% assign sorted_episodes = site.episodes | sort: "episode" | limit: 10 | reverse  %}
       {% for episode in sorted_episodes | limit: 12 %}
-      <div class="col-md-3">
-        <div class="card mb-3 box-shadow text-center">
-          <a href="{{ site.url }}{{ episode.url }}" target="_parent"><img class="img-fluid pt-1" src="{{ site.url }}/assets/covers/BGE {{ episode.number }}.png" alt="BGE {{ episode.number }} - {{ episode.date }}: {{ episode.titolo }}"></a>
-          <div class="card-body">
-            <p class="card-text">
-              <a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a>
-            </p>
-              <div class="d-flex justify-content-between align-items-center">
-              <small class="text-muted">{{ episode.date | date: "%-d %b %Y"  }}</small>
-            </div>
-          </div>
+      <a class="ep-card" href="{{ site.url }}{{ episode.url }}" target="_parent">
+        <div class="ep-card-cover">
+          <img src="{{ site.url }}/assets/covers/BGE {{ episode.number }}.png" alt="BGE {{ episode.number }} - {{ episode.date }}: {{ episode.titolo }}" loading="lazy">
+          <span class="ep-card-num">BGE {{ episode.number }}</span>
         </div>
-      </div>
+        <div class="ep-card-body">
+          <h4 class="ep-card-title">{{ episode.titolo }}</h4>
+          <span class="ep-card-date">{{ episode.date | date: "%-d %b %Y" }}</span>
+        </div>
+      </a>
       {% endfor %}
     </div>
-    <a href="{{ site.url }}/episodi" class="hometitle">Tutti gli episodi</a>
   </div>
-</div>
+</section>

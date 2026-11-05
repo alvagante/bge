@@ -1,57 +1,49 @@
-<section id="geeks">
-  <div>
-    <div class="container">
-      <div class="row">
-        <h1>{{ page.nome }}</h1>
-        <div class="col-lg-2">
-          <h3>Presente in </h3>
-        </div>
-        <div class="col-lg-10">
+{% for episode in site.episodes %}
+{% if episode.host == page.nome %}
+{% assign host = true %}
+{% endif %}
+{% endfor %}
+<section class="geek-detail">
+  <div class="container">
+    <div class="page-hero">
+      <h1>{{ page.nome }}</h1>
+    </div>
+    <div class="detail-grid">
+      <div class="detail-topics">
+        <h3>Presente in</h3>
+        <ul class="topic-list">
           {% assign sorted_episodes = page.episodi | sort | reverse %}
           {% for ep in sorted_episodes %}
             {% assign episode = site.episodes | where: "number", ep | first %}
             {% if episode %}
-              <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h5>
+              <li><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></li>
             {% endif %}
           {% endfor %}
-        </div>
-      </div>
-      {% for episode in site.episodes %}
-      {% if episode.host == page.nome %}
-      {% assign host = true %}
-      {% endif %}
-      {% endfor %}
-      {% if host %}
-      <div class="row">
-        <div class="col-lg-2">
-          <h3>Host in</h3>
-        </div>
-        <div class="col-lg-10">
+        </ul>
+        {% if host %}
+        <h3>Host in</h3>
+        <ul class="topic-list">
           {% for episode in site.episodes %}
           {% if episode.host == page.nome %}
-          <h5><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></h5>
+          <li><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></li>
           {% endif %}
           {% endfor %}
-        </div>
+        </ul>
+        {% endif %}
       </div>
-      {% endif %}
       {% if page.links %}
-      <div class="row">
-        <div class="col-lg-2">
-          <h3>Link</h3>
-        </div>
-        <div class="col-lg-10">
+      <aside class="meta-card">
+        <h3>Link</h3>
+        <ul class="link-list">
           {% for link in page.links %}
-          <h5><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></h5>
+          <li><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></li>
           {% endfor %}
-        </div>
-      </div>
+        </ul>
+      </aside>
       {% endif %}
-      <div class="row">
-        <div class="col-lg-12">
-          {{ content }}
-        </div>
-      </div>
     </div>
+    {% if content != blank %}
+    <div class="geek-content">{{ content }}</div>
+    {% endif %}
   </div>
 </section>
