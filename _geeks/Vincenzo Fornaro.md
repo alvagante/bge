@@ -1,6 +1,7 @@
 ---
 episodi:
 - 114
+- 122
 layout: geek
 links:
   LinkedIn: https://www.linkedin.com/in/vincenzo-fornaro-a603721bb/
