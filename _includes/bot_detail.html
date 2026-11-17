@@ -5,7 +5,6 @@
 <section class="bot-detail persona-{{ bot.persona }}">
   <div class="container">
     <div class="page-hero bot-hero">
-      <span class="ai-avatar ai-avatar-xl" aria-hidden="true">{{ bot.sigla }}</span>
       <div class="bot-hero-text">
         <p class="eyebrow"><a href="{{ site.url }}/bot/">Bot della Brigata</a></p>
         <h1>{{ bot.nome }}</h1>
@@ -16,10 +15,14 @@
         <p class="page-lede">{{ bot.intro }}</p>
         <nav class="bot-switch" aria-label="Altri bot">
           {% for other in site.data.bots %}
-          <a class="persona-{{ other.persona }}{% if other.slug == bot.slug %} active{% endif %}" href="{{ site.url }}/bot/{{ other.slug }}/"{% if other.slug == bot.slug %} aria-current="page"{% endif %}>{{ other.nome }}</a>
+          <a class="persona-{{ other.persona }}{% if other.slug == bot.slug %} active{% endif %}" href="{{ site.url }}/bot/{{ other.slug }}/"{% if other.slug == bot.slug %} aria-current="page"{% endif %}><img src="{{ site.url }}/assets/images/bots/{{ other.img }}-256.webp" alt="" width="26" height="26">{{ other.nome }}</a>
           {% endfor %}
         </nav>
       </div>
+      <picture class="bot-portrait">
+        <source srcset="{{ site.url }}/assets/images/bots/{{ bot.img }}.webp" type="image/webp">
+        <img src="{{ site.url }}/assets/images/{{ bot.img }}.png" alt="{{ bot.nome }}, {{ bot.modello | downcase }}" width="1254" height="1254">
+      </picture>
     </div>
 
     <div class="filter-bar bot-filter">

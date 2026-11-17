@@ -1,6 +1,8 @@
 # I membri sintetici della Brigata.
+# img: ritratto in assets/images/<img>.png (versioni webp in assets/images/bots/)
 # field: campo dell'episodio con la citazione del bot; persona: classe colore in css/bge.css
 - slug: geek-estinto
+  img: geekestinto
   nome: Geek Estinto
   sigla: GE
   modello: Un GPT di OpenAI
@@ -14,6 +16,7 @@
     Firma l'editoriale di ogni puntata e non ha mai usato la parola "dipende".
 
 - slug: brigante-claudio
+  img: briganteclaudio
   nome: Brigante Claudio
   sigla: BC
   modello: Un Claude di Anthropic
@@ -26,6 +29,7 @@
     editoriale tutto suo. Se c'è un "però" nascosto in due ore di live, lui l'ha trovato.
 
 - slug: metante
+  img: metante
   nome: Metante
   sigla: ME
   modello: Un LLama di Meta
@@ -38,6 +42,7 @@
     che parla poco ma quando parla tutti si girano. Il minimalismo come forma di ribellione.
 
 - slug: deep-geek
+  img: deepgeek
   nome: Deep Geek
   sigla: DG
   modello: Un DeepSeek reasoner

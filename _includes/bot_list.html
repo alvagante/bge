@@ -17,7 +17,7 @@
       {% for episode in site.episodes %}{% assign q = episode[bot.field] | strip %}{% if q != "" and q != "NA" %}{% assign quote_count = quote_count | plus: 1 %}{% endif %}{% endfor %}
       <article class="bot-card persona-{{ bot.persona }}">
         <div class="bot-card-head">
-          <span class="ai-avatar" aria-hidden="true">{{ bot.sigla }}</span>
+          <img class="bot-avatar" src="{{ site.url }}/assets/images/bots/{{ bot.img }}-256.webp" alt="{{ bot.nome }}" width="104" height="104" loading="lazy">
           <div>
             <h2><a class="stretched" href="{{ site.url }}/bot/{{ bot.slug }}/">{{ bot.nome }}</a></h2>
             <p class="bot-model">{{ bot.modello }}</p>

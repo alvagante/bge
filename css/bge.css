@@ -71,10 +71,10 @@
   --accent-line: rgba(255, 180, 63, .32);
   --accent-glow: rgba(255, 180, 63, .28);
   --yt: #ff2b2b;
-  --openai: #5ee39a;
-  --claude: #ff8a4c;
-  --deepseek: #59b8ff;
-  --llama: #c49bff;
+  --openai: #ff9a3c;   /* Geek Estinto: arancio */
+  --claude: #74e05a;   /* Brigante Claudio: verde */
+  --deepseek: #e65cff; /* Deep Geek: magenta */
+  --llama: #ff4f5e;    /* Metante: rosso */
   --font-display: "Peace Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   --font-hand: "Caveat", "Segoe Script", cursive;
@@ -1259,12 +1259,28 @@ main {
   color: var(--persona, var(--muted));
 }
 
-.quote-author::before {
-  content: "";
-  width: 18px;
-  height: 2px;
-  border-radius: 2px;
-  background: var(--persona, var(--accent));
+.quote-author a {
+  display: inline-flex;
+  align-items: center;
+  gap: .6rem;
+}
+
+.quote-author img,
+.ai-nav-who img,
+.bot-switch a img {
+  flex: none;
+  border-radius: 50%;
+  background: radial-gradient(circle, color-mix(in srgb, var(--persona, var(--accent)) 30%, transparent), transparent 72%);
+}
+
+.quote-author img {
+  width: 36px;
+  height: 36px;
+  transition: transform .3s var(--ease);
+}
+
+.quote-card:hover .quote-author img {
+  transform: rotate(-8deg) scale(1.1);
 }
 
 @media (max-width: 1199px) {
@@ -1993,12 +2009,20 @@ main {
 }
 
 .ai-nav-who {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
   font-family: var(--font-mono);
   font-size: .66rem;
   font-weight: 600;
   letter-spacing: .16em;
   text-transform: uppercase;
   color: var(--persona);
+}
+
+.ai-nav-who img {
+  width: 32px;
+  height: 32px;
 }
 
 .ai-nav-card h4 {
@@ -2030,23 +2054,32 @@ main {
   top: calc(var(--header-h) + 24px);
   align-self: start;
   display: flex;
-  align-items: center;
-  gap: .9rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: .8rem;
 }
 
-.ai-avatar {
-  display: grid;
-  place-items: center;
-  flex: none;
-  width: 52px;
-  height: 52px;
-  border-radius: 16px;
-  font-family: var(--font-mono);
-  font-weight: 700;
-  font-size: .9rem;
-  color: var(--bg);
-  background: var(--persona);
-  box-shadow: 0 0 30px -6px var(--persona);
+.ai-portrait {
+  display: block;
+  width: 120px;
+  height: 120px;
+  border-radius: 28px;
+  background:
+    radial-gradient(circle at 50% 45%, color-mix(in srgb, var(--persona) 32%, transparent), transparent 70%),
+    var(--bg-2);
+  border: 1px solid color-mix(in srgb, var(--persona) 35%, transparent);
+  transition: transform .35s var(--ease), box-shadow .35s ease;
+}
+
+.ai-portrait img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.ai-portrait:hover {
+  transform: rotate(-4deg) scale(1.04);
+  box-shadow: 0 0 50px -10px var(--persona);
 }
 
 .ai-block-id h3 {
@@ -2220,6 +2253,15 @@ main {
 
   .ai-block-id {
     position: static;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .ai-portrait {
+    width: 76px;
+    height: 76px;
+    border-radius: 20px;
   }
 }
 
@@ -2944,7 +2986,24 @@ main {
 .bot-card-head {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 1.2rem;
+}
+
+.bot-avatar {
+  flex: none;
+  width: 104px;
+  height: 104px;
+  border-radius: 26px;
+  background:
+    radial-gradient(circle at 50% 45%, color-mix(in srgb, var(--persona) 34%, transparent), transparent 70%),
+    var(--bg-2);
+  border: 1px solid color-mix(in srgb, var(--persona) 35%, transparent);
+  transition: transform .4s var(--ease), box-shadow .4s ease;
+}
+
+.bot-card:hover .bot-avatar {
+  transform: rotate(-5deg) scale(1.06);
+  box-shadow: 0 0 50px -10px var(--persona);
 }
 
 .bot-card h2 {
@@ -3032,17 +3091,40 @@ main {
 }
 
 .bot-hero {
-  display: flex;
-  align-items: flex-start;
-  gap: 2rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 3rem;
+  padding-top: 3rem;
 }
 
-.ai-avatar-xl {
-  width: 112px;
-  height: 112px;
-  border-radius: 30px;
-  font-size: 2rem;
-  box-shadow: 0 0 80px -10px var(--persona);
+.bot-portrait {
+  position: relative;
+  display: block;
+  width: clamp(240px, 30vw, 420px);
+}
+
+.bot-portrait::before {
+  content: "";
+  position: absolute;
+  inset: 6%;
+  border-radius: 50%;
+  background: radial-gradient(circle, color-mix(in srgb, var(--persona) 40%, transparent), transparent 70%);
+  filter: blur(30px);
+}
+
+.bot-portrait img {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 30px 40px rgba(0, 0, 0, .6));
+  animation: bot-float 6s ease-in-out infinite;
+}
+
+@keyframes bot-float {
+  0%, 100% { transform: translateY(0) rotate(-1deg); }
+  50% { transform: translateY(-10px) rotate(1deg); }
 }
 
 .bot-hero-text .meta-row {
@@ -3057,10 +3139,13 @@ main {
 }
 
 .bot-switch a {
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
   font-size: .84rem;
   font-weight: 600;
   color: var(--muted);
-  padding: .4rem .9rem;
+  padding: .25rem .9rem .25rem .3rem;
   border: 1px solid var(--line-strong);
   border-radius: 999px;
   transition: color .2s ease, border-color .2s ease, background .2s ease;
@@ -3069,6 +3154,15 @@ main {
 .bot-switch a:hover {
   color: var(--persona);
   border-color: var(--persona);
+}
+
+.bot-switch a img {
+  width: 26px;
+  height: 26px;
+}
+
+.bot-switch a.active img {
+  background: rgba(0, 0, 0, .25);
 }
 
 .bot-switch a.active {
@@ -3198,6 +3292,17 @@ main {
     grid-template-columns: 1fr;
   }
 
+  .bot-hero {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding-top: 2rem;
+  }
+
+  .bot-portrait {
+    order: -1;
+    width: 220px;
+  }
+
   .bot-quote {
     grid-template-columns: 140px minmax(0, 1fr);
     gap: 1rem;
@@ -3209,18 +3314,6 @@ main {
 }
 
 @media (max-width: 575px) {
-  .bot-hero {
-    flex-direction: column;
-    gap: 1.4rem;
-  }
-
-  .ai-avatar-xl {
-    width: 84px;
-    height: 84px;
-    border-radius: 24px;
-    font-size: 1.5rem;
-  }
-
   .bot-quote {
     grid-template-columns: 1fr;
   }
