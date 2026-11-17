@@ -1,0 +1,42 @@
+We need to generate a short quote (max 150 chars) in Italian, based on the provided text about Docebo from Brianza to Nasdaq. The quote should be memorable, effective, not invent author, just the text. It should be a modern, deep, essential, slightly punk poetic observer. Must be invented, not from text. Should capture essence: starting local, going global, bootstrap to VC, Nasdaq, challenges, AI, community, etc. Keep it brief. Italian. No commentary. Just the quote text.
+
+We need something catchy: maybe about dreaming big from small places, or about building a global company from a local garage, or about the journey from Brianza to Nasdaq. Must be <=150 chars. Let's craft.
+
+Possible: "Dalla Brianza al Nasdaq: non serve un biglietto per il mondo, basta costruirlo." (81 chars) Good.
+
+Or: "Parti da un garage in Brianza, finisci a Wall Street. Il segreto? Non chiedere permesso." (95 chars)
+
+Or: "Il bootstrap è la palestra; il venture capital il trampolino. Ma il salto lo fai con le tue gambe." (100 chars)
+
+Or: "Non c'è gloria nel copiare la Silicon Valley. La gloria è far tremare la Silicon Valley dalla Brianza." (103 chars)
+
+Or: "Un'azienda locale è un albero; una globale è una foresta. Le radici restano, ma il seme vola." (100 chars)
+
+Need max 150, so can be a bit longer. Let's pick one that's memorable, punk: "Dalla Brianza al Nasdaq: non è un viaggio, è una dichiarazione di guerra al provincialismo." (98 chars) Maybe too aggressive? Punk is okay.
+
+Another: "Hai idea, bootstrap, e una provincia che ti sta stretta? Il Nasdaq non è un sogno, è una scelta." (99 chars)
+
+I like: "Non serve la Silicon Valley per competere con lei. A volte basta un garage in Brianza e la faccia tosta." (103 chars)
+
+Or: "Il mondo non ti aspetta. O apri un ufficio a New York o resti a guardare. Docebo ha scelto." (92 chars)
+
+But must be a quote, not mention Docebo? The text is about Docebo, but quote can be general. It says "sulla base del testo fornito", so can reference implicitly.
+
+Let's produce one final answer. Ensure <=150 chars. I'll go with: "Dalla Brianza al Nasdaq: il coraggio non è un brevetto della Silicon Valley. È una scelta quotidiana." Count: 104 chars. Good. But maybe more poetic: "Parti da un garage, sogna Wall Street. Il resto sono solo scuse." (69 chars) Simple, effective.
+
+Given the instruction: "arguto osservatore del mondo, un poeta moderno, profondo, essenziale e un po' punk." So something with a bit of attitude.
+
+I'll craft: "Non c'è bisogno di un passaporto per il futuro: puoi costruirlo in Brianza e quotarlo al Nasdaq." (97 chars)
+
+Or: "Il provincialismo è una scusa. La Brianza ha partorito un unicorno che morde la Silicon Valley." (96 chars) But "unicorno" not in text? Docebo is a public company, not necessarily unicorn, but text says "creare altri unicorni", so okay.
+
+Better: "Dalla Brianza al Nasdaq: se il mondo non ti apre la porta, sfondala con un SaaS." (85 chars) Nice punk.
+
+I'll pick that. Check char count: "Dalla Brianza al Nasdaq: se il mondo non ti apre la porta, sfondala con un SaaS." Count: D a l l a (5) space (6) B r i a n z a (13) space (14) a l (16) space (17) N a s d a q (23) : (24) space (25) s e (27) space (28) i l (30) space (31) m o n d o (36) space (37) n o n (40) space (41) t i (43) space (44) a p r e (48) space (49) l a (51) space (52) p o r t a (57) , (58) space (59) s f o n d a l a (66) space (67) c o n (70) space (71) u n (73) space (74) S a a S (78) . (79) Actually 79 characters? Let's recount properly: "Dalla Brianza al Nasdaq: se il mondo non ti apre la porta, sfondala con un SaaS." 
+D-a-l-l-a (5) space (6) B-r-i-a-n-z-a (13) space (14) a-l (16) space (17) N-a-s-d-a-q (23) colon (24) space (25) s-e (27) space (28) i-l (30) space (31) m-o-n-d-o (36) space (37) n-o-n (40) space (41) t-i (43) space (44) a-p-r-e (48) space (49) l-a (51) space (52) p-o-r-t-a (57) comma (58) space (59) s-f-o-n-d-a-l-a (66) space (67) c-o-n (70) space (71) u-n (73) space (74) S-a-a-S (78) period (79). Yes 79. Under 150. Good.
+
+But is it "memorabile ed ad effetto"? Yes, punk attitude. I'll output just that. No quotes around? The instruction says "scrivi solo il testo della citazione", so just text, no quotation marks? Usually quotes are given with quotes, but it says "senza commentarla". I'll provide as plain text. Could include quotes? It says "citazione" so maybe with quotes. But to be safe, just the sentence. No author.
+
+Thus final answer.
+</think>
+Dalla Brianza al Nasdaq: se il mondo non ti apre la porta, sfondala con un SaaS.
