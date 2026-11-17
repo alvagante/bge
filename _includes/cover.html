@@ -1,0 +1,4 @@
+{%- comment -%} Copertina episodio con fallback: {% include cover.html episode=episode %} {%- endcomment -%}
+<span class="cover" data-num="{{ include.episode.number }}">
+  <img src="{{ site.url }}/assets/covers/BGE%20{{ include.episode.number }}.png" alt="BGE {{ include.episode.number }} - {{ include.episode.titolo }}"{% unless include.eager %} loading="lazy"{% endunless %} onerror="this.parentNode.classList.add('no-cover');this.remove()">
+</span>

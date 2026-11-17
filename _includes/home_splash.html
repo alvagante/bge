@@ -1,28 +1,67 @@
+{% assign by_date = site.episodes | sort: "date" %}
+{% assign first_episode = by_date | first %}
+{% assign recent = by_date | reverse %}
+{% assign total_seconds = 0 %}
+{% for e in site.episodes %}{% assign total_seconds = total_seconds | plus: e.duration %}{% endfor %}
 <section class="hero">
-  <div class="container hero-content">
-    <h1 class="hero-title">BGE<small>La Brigata dei Geek Estinti</small></h1>
-    <p class="hero-tagline">{{ page.subTitle | default: site.tagline }}</p>
-    <h2 class="hero-sub">Subscribe? Non Per Tutti</h2>
-    <a class="hero-cta" href="https://youtube.com/@LaBrigatadeiGeekEstinti" target="_blank">
-      <img src="/assets/images/youtube.png" alt="youtube.com/@LaBrigatadeiGeekEstinti" />
-    </a>
+  <div class="hero-bg" aria-hidden="true"></div>
+  <div class="container hero-grid">
+    <div class="hero-content">
+      <p class="eyebrow"><span class="live-dot"></span> Podcast ad assetto variabile</p>
+      <h1 class="hero-title">BGE<small>La Brigata dei Geek Estinti</small></h1>
+      <p class="hero-tagline">{{ page.subTitle | default: site.tagline }}</p>
+      <h2 class="hero-sub">Subscribe? <span>Non Per Tutti</span></h2>
+      <div class="hero-actions">
+        <a class="btn-yt" href="https://youtube.com/@LaBrigatadeiGeekEstinti" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.58 7.19a2.5 2.5 0 0 0-1.76-1.77C18.25 5 12 5 12 5s-6.25 0-7.82.42A2.5 2.5 0 0 0 2.42 7.19 26 26 0 0 0 2 12a26 26 0 0 0 .42 4.81 2.5 2.5 0 0 0 1.76 1.77C5.75 19 12 19 12 19s6.25 0 7.82-.42a2.5 2.5 0 0 0 1.76-1.77A26 26 0 0 0 22 12a26 26 0 0 0-.42-4.81zM10 15V9l5.2 3z"/></svg>
+          <span>youtube.com/@LaBrigatadeiGeekEstinti</span>
+        </a>
+        <a class="btn-ghost" href="/episodi/">Esplora gli episodi</a>
+      </div>
+      <dl class="hero-stats">
+        <div><dt>Episodi</dt><dd>{{ site.episodes.size }}</dd></div>
+        <div><dt>Geek</dt><dd>{{ site.geeks.size }}</dd></div>
+        <div><dt>Ore di live</dt><dd>{{ total_seconds | divided_by: 3600 }}</dd></div>
+        <div><dt>Dal</dt><dd>{{ first_episode.date | date: "%Y" }}</dd></div>
+      </dl>
+    </div>
+    <div class="hero-stack" aria-hidden="true">
+      {% for episode in recent limit: 3 offset: 1 %}
+      <div class="hero-stack-card hero-stack-{{ forloop.index }}">{% include cover.html episode=episode eager=true %}</div>
+      {% endfor %}
+    </div>
   </div>
-  <a class="hero-arrow" href="#last_episode" aria-label="Scorri all'ultimo episodio">↓</a>
+  <a class="hero-arrow" href="#last_episode" aria-label="Scorri all'ultimo episodio">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v15m0 0-6-6m6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </a>
 </section>
 
 <section class="latest" id="last_episode">
-  <div class="container latest-content">
-    {% assign last_episode = site.episodes | sort: "episode" | reverse %}
-    {% for episode in last_episode | limit: 1 %}
-    <p class="latest-kicker">Ultimo episodio</p>
-    <a class="latest-title" href="{{ site.url }}{{ episode.url }}" target="_parent"><h2>{{ episode.title }}</h2></a>
-    <div class="video-frame">
-      <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" frameborder="0"
-          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  {% for episode in recent limit: 1 %}
+  <div class="container">
+    <div class="section-label"><span class="live-dot"></span> Ultimo episodio</div>
+    <div class="latest-grid">
+      <div class="video-frame">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/{{ episode.youtube }}" class="video" title="{{ episode.title | escape }}" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="latest-info">
+        <span class="ep-number">BGE <strong>{{ episode.number }}</strong></span>
+        <a class="latest-title" href="{{ site.url }}{{ episode.url }}"><h2>{{ episode.titolo }}</h2></a>
+        <div class="meta-row">
+          <span class="meta-chip">{% include date_it.html date=episode.date %}</span>
+          <span class="meta-chip">{% include duration.html seconds=episode.duration %}</span>
+        </div>
+        <div class="chips">
+          {% for guest in episode.guests %}{% include geek_chip.html name=guest %}{% endfor %}
+          {% include geek_chip.html name=episode.host host=true %}
+        </div>
+        <a class="btn-bge" href="{{ site.url }}{{ episode.url }}">Apri l'episodio <span aria-hidden="true">→</span></a>
       </div>
     </div>
-    <div class="quotes-grid">
+    <div class="quotes-grid quotes-4">
       <figure class="quote-card persona-openai">
         <blockquote>{{ episode.quote_openai }}</blockquote>
         <figcaption class="quote-author">Geek Estinto</figcaption>
@@ -40,6 +79,6 @@
         <figcaption class="quote-author">Metante</figcaption>
       </figure>
     </div>
-    {% endfor %}
   </div>
+  {% endfor %}
 </section>

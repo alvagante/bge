@@ -1,20 +1,25 @@
 <section class="home-episodes">
   <div class="container">
     <div class="section-head">
-      <h3>Ultimi episodi</h3>
-      <a href="{{ site.url }}/episodi" class="btn-bge">Tutti gli episodi →</a>
+      <div>
+        <p class="section-kicker">Dall'archivio</p>
+        <h3>Ultimi episodi</h3>
+      </div>
+      <a href="{{ site.url }}/episodi" class="btn-ghost">Tutti gli episodi <span aria-hidden="true">→</span></a>
     </div>
     <div class="ep-grid">
-      {% assign sorted_episodes = site.episodes | sort: "episode" | limit: 10 | reverse  %}
-      {% for episode in sorted_episodes | limit: 12 %}
-      <a class="ep-card" href="{{ site.url }}{{ episode.url }}" target="_parent">
+      {% assign sorted_episodes = site.episodes | sort: "date" | reverse %}
+      {% for episode in sorted_episodes limit: 12 %}
+      <a class="ep-card" href="{{ site.url }}{{ episode.url }}">
         <div class="ep-card-cover">
-          <img src="{{ site.url }}/assets/covers/BGE {{ episode.number }}.png" alt="BGE {{ episode.number }} - {{ episode.date }}: {{ episode.titolo }}" loading="lazy">
+          {% include cover.html episode=episode %}
           <span class="ep-card-num">BGE {{ episode.number }}</span>
+          <span class="ep-card-dur">{% include duration.html seconds=episode.duration %}</span>
         </div>
         <div class="ep-card-body">
           <h4 class="ep-card-title">{{ episode.titolo }}</h4>
-          <span class="ep-card-date">{{ episode.date | date: "%-d %b %Y" }}</span>
+          <span class="ep-card-guests">{% if episode.guests.size > 0 %}con {{ episode.guests | join: ", " }}{% endif %}</span>
+          <span class="ep-card-date">{% include date_it.html date=episode.date %}</span>
         </div>
       </a>
       {% endfor %}

@@ -1,49 +1,49 @@
-{% for episode in site.episodes %}
-{% if episode.host == page.nome %}
-{% assign host = true %}
-{% endif %}
-{% endfor %}
+{% assign geek_name = page.nome | default: page.name %}
+{% assign parts = geek_name | split: " " %}
+{% assign hosted = site.episodes | where: "host", geek_name | sort: "date" | reverse %}
+{% assign sorted_episodes = page.episodi | sort | reverse %}
 <section class="geek-detail">
   <div class="container">
-    <div class="page-hero">
-      <h1>{{ page.nome }}</h1>
-    </div>
-    <div class="detail-grid">
-      <div class="detail-topics">
-        <h3>Presente in</h3>
-        <ul class="topic-list">
-          {% assign sorted_episodes = page.episodi | sort | reverse %}
-          {% for ep in sorted_episodes %}
-            {% assign episode = site.episodes | where: "number", ep | first %}
-            {% if episode %}
-              <li><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></li>
-            {% endif %}
+    <div class="page-hero geek-hero">
+      <span class="avatar avatar-xl av-{{ geek_name.size | modulo: 6 }}" aria-hidden="true">{{ parts.first | slice: 0 }}{% if parts.size > 1 %}{{ parts.last | slice: 0 }}{% endif %}</span>
+      <div class="geek-hero-text">
+        <p class="eyebrow">Geek della Brigata</p>
+        <h1>{{ geek_name }}</h1>
+        <div class="meta-row">
+          {% if page.episodi %}<span class="meta-chip">{{ page.episodi | size }} episodi</span>{% endif %}
+          {% if hosted.size > 0 %}<span class="meta-chip">Host in {{ hosted.size }}</span>{% endif %}
+        </div>
+        {% if page.links %}
+        <div class="geek-links">
+          {% for link in page.links %}
+          <a class="btn-ghost btn-sm" href="{{ link[1] }}" target="_blank" rel="noopener">{{ link[0] }} <span aria-hidden="true">↗</span></a>
           {% endfor %}
-        </ul>
-        {% if host %}
-        <h3>Host in</h3>
-        <ul class="topic-list">
-          {% for episode in site.episodes %}
-          {% if episode.host == page.nome %}
-          <li><a href="{{ site.url }}{{ episode.url }}" target="_parent">BGE {{ episode.number }} - {{ episode.titolo }}</a></li>
-          {% endif %}
-          {% endfor %}
-        </ul>
+        </div>
         {% endif %}
       </div>
-      {% if page.links %}
-      <aside class="meta-card">
-        <h3>Link</h3>
-        <ul class="link-list">
-          {% for link in page.links %}
-          <li><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></li>
-          {% endfor %}
-        </ul>
-      </aside>
-      {% endif %}
     </div>
+
     {% if content != blank %}
-    <div class="geek-content">{{ content }}</div>
+    <div class="geek-content prose">{{ content }}</div>
+    {% endif %}
+
+    <h3 class="block-title">Presente in</h3>
+    <div class="mini-grid">
+      {% for ep in sorted_episodes %}
+        {% assign episode = site.episodes | where: "number", ep | first %}
+        {% if episode %}
+          {% include episode_mini.html episode=episode %}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    {% if hosted.size > 0 %}
+    <h3 class="block-title">Host in</h3>
+    <div class="mini-grid">
+      {% for episode in hosted %}
+        {% include episode_mini.html episode=episode %}
+      {% endfor %}
+    </div>
     {% endif %}
   </div>
 </section>

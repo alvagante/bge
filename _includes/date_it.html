@@ -1,0 +1,4 @@
+{%- comment -%} Data in italiano: {% include date_it.html date=page.date %} → "16 nov 2026" {%- endcomment -%}
+{%- assign _mesi = "gen,feb,mar,apr,mag,giu,lug,ago,set,ott,nov,dic" | split: "," -%}
+{%- assign _m = include.date | date: "%-m" | minus: 1 -%}
+{{- include.date | date: "%-d" }} {{ _mesi[_m] }} {{ include.date | date: "%Y" -}}

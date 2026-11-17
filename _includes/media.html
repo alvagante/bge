@@ -1,12 +1,16 @@
 <section class="media-page">
   <div class="container">
     <div class="page-hero">
+      <p class="eyebrow">Brigata multimediale</p>
       <h1>BGE Media</h1>
+      {% if page.tagline %}<p class="page-lede">{{ page.tagline }}</p>{% endif %}
     </div>
 
     <div class="media-block">
-      <h2>Video</h2>
-      <h3>Video e intro</h3>
+      <div class="media-head">
+        <h2>Video</h2>
+        <h3>Video e intro</h3>
+      </div>
       <div class="video-carousel">
         <div id="video" class="carousel slide">
           <div class="carousel-inner">
@@ -49,7 +53,9 @@
     </div>
 
     <div class="media-block">
-      <h2>Playlist</h2>
+      <div class="media-head">
+        <h2>Playlist</h2>
+      </div>
       <div class="playlist-grid">
         <div class="playlist-card">
           <h3>BGV: La Brigata dei Geek Vaganti</h3>
@@ -67,12 +73,15 @@
     </div>
 
     <div class="media-block">
-      <h2>Le canzoni della Brigata</h2>
-      <p>Canzoni generate con Suno e affini a tema BGE</p>
+      <div class="media-head">
+        <h2>Le canzoni della Brigata</h2>
+        <p>Canzoni generate con Suno e affini a tema BGE</p>
+      </div>
       <div class="song-grid">
         {% assign songs = site.static_files | where_exp: "file", "file.path contains '/assets/songs/'" | where_exp: "file", "file.extname == '.mp3'" %}
         {% for song in songs %}
           <div class="song-card">
+            <span class="song-num" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
             <h4>{{ song.basename | replace: '-', ' ' }}</h4>
             <audio controls preload="metadata">
               <source src="{{ song.path | relative_url }}" type="audio/mpeg">

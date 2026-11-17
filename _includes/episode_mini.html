@@ -1,0 +1,7 @@
+<a class="mini-card" href="{{ site.url }}{{ include.episode.url }}">
+  {% include cover.html episode=include.episode %}
+  <span class="mini-card-body">
+    <span class="mini-card-num">BGE {{ include.episode.number }} · {% include date_it.html date=include.episode.date %}</span>
+    <span class="mini-card-title">{{ include.episode.titolo }}</span>
+  </span>
+</a>

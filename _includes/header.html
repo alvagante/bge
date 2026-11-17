@@ -1,15 +1,18 @@
 <header class="site-header">
-  <div class="container">
-    <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-between gap-2 py-2">
-      <a href="/" class="d-flex align-items-center text-decoration-none">
-        <img class="site-logo" src="/assets/images/logo white 50.png" alt="Home La Brigata dei Geek Estinti">
-      </a>
-      <nav class="site-nav" aria-label="Principale">
-        <a href="/episodi/" {% if page.url contains '/ep' %}class="active"{% endif %}>Episodi</a>
-        <a href="/geeks/" {% if page.url contains '/geek' %}class="active"{% endif %}>Geek</a>
-        <a href="/media/" {% if page.url contains '/media' %}class="active"{% endif %}>Media</a>
-        <a href="/wtf/" {% if page.url contains '/wtf' %}class="active"{% endif %}>WTF</a>
-      </nav>
-    </div>
+  <div class="container header-inner">
+    <a href="/" class="brand">
+      <img class="brand-logo" src="/assets/images/logo white.png" alt="Home La Brigata dei Geek Estinti" width="40" height="40">
+      <span class="brand-name"><strong>La Brigata</strong><span>dei Geek Estinti</span></span>
+    </a>
+    <nav class="site-nav" aria-label="Principale">
+      <a href="/episodi/" {% if page.url contains '/ep' %}class="active" aria-current="page"{% endif %}>Episodi</a>
+      <a href="/geeks/" {% if page.url contains '/geek' %}class="active" aria-current="page"{% endif %}>Geek</a>
+      <a href="/media/" {% if page.url contains '/media' %}class="active" aria-current="page"{% endif %}>Media</a>
+      <a href="/wtf/" {% if page.url contains '/wtf' %}class="active" aria-current="page"{% endif %}>WTF</a>
+    </nav>
+    <a class="header-cta" href="https://youtube.com/@LaBrigatadeiGeekEstinti" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.58 7.19a2.5 2.5 0 0 0-1.76-1.77C18.25 5 12 5 12 5s-6.25 0-7.82.42A2.5 2.5 0 0 0 2.42 7.19 26 26 0 0 0 2 12a26 26 0 0 0 .42 4.81 2.5 2.5 0 0 0 1.76 1.77C5.75 19 12 19 12 19s6.25 0 7.82-.42a2.5 2.5 0 0 0 1.76-1.77A26 26 0 0 0 22 12a26 26 0 0 0-.42-4.81zM10 15V9l5.2 3z"/></svg>
+      <span>Iscriviti</span>
+    </a>
   </div>
 </header>

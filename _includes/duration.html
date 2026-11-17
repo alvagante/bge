@@ -1,0 +1,4 @@
+{%- comment -%} Durata da secondi: {% include duration.html seconds=page.duration %} → "2h 15m" {%- endcomment -%}
+{%- assign _h = include.seconds | divided_by: 3600 -%}
+{%- assign _mm = include.seconds | modulo: 3600 | divided_by: 60 -%}
+{%- if _h > 0 -%}{{ _h }}h {{ _mm }}m{%- else -%}{{ _mm }}m{%- endif -%}

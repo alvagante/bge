@@ -1,27 +1,29 @@
-{% assign dur_h = page.duration | divided_by: 3600 %}
-{% assign dur_m = page.duration | modulo: 3600 | divided_by: 60 %}
 <section class="episode-detail">
-  <div class="container">
-    <div class="detail-hero">
+  <div class="detail-hero">
+    <div class="detail-hero-bg" style="background-image: url('{{ site.url }}/assets/covers/BGE%20{{ page.number }}.png')" aria-hidden="true"></div>
+    <div class="container">
       <a class="detail-back" href="{{ site.url }}/episodi/">
-        <img src="{{ site.url }}/assets/images/logo white 50.png" alt="La Brigata dei Geek Estinti">
+        <img src="{{ site.url }}/assets/images/logo white.png" alt="La Brigata dei Geek Estinti" width="28" height="28">
+        <span>Tutti gli episodi</span>
       </a>
       <div class="detail-head">
-        <div class="detail-number">{{ page.number }}</div>
+        <div class="detail-number"><small>BGE</small>{{ page.number }}</div>
         <h1>{{ page.titolo }}</h1>
-        <div class="detail-meta">
-          <span class="meta-chip">Live · {{ page.date | date: "%-d %b %Y" }}</span>
-          <span class="meta-chip">Durata · {% if dur_h > 0 %}{{ dur_h }}h {{ dur_m }}m{% else %}{{ dur_m }}m{% endif %}</span>
+        <div class="meta-row">
+          <span class="meta-chip">Live · {% include date_it.html date=page.date %}</span>
+          <span class="meta-chip">Durata · {% include duration.html seconds=page.duration %}</span>
+          <span class="meta-chip">{{ page.guests.size | plus: 1 }} geek</span>
+        </div>
+      </div>
+      <div class="video-frame">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" class="video" title="{{ page.title | escape }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="video-frame">
-      <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" class="video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      </div>
-    </div>
-
+  <div class="container">
     <div class="quotes-grid detail-quotes">
       <figure class="quote-card persona-openai">
         <blockquote>{{ page.quote_openai }}</blockquote>
@@ -43,27 +45,29 @@
 
     <div class="detail-grid">
       <div class="detail-topics">
-        <h3>Argomenti trattati</h3>
-        <ul class="topic-list">
+        {% if page.description %}
+        <div class="detail-description">
+          <h3 class="block-title">La puntata</h3>
+          {{ page.description | markdownify }}
+        </div>
+        {% endif %}
+        <h3 class="block-title">Argomenti trattati</h3>
+        <ol class="topic-list">
           {% for topic in page.summary %}
           <li>{{ topic }}</li>
           {% endfor %}
-        </ul>
+        </ol>
       </div>
       <aside class="meta-card">
         <h3>Live</h3>
-        <p class="meta-date">{{ page.date | date: "%Y-%m-%d" }}</p>
+        <p class="meta-date">{% include date_it.html date=page.date %}<span>{{ page.date | date: "%Y-%m-%d" }}</span></p>
         <h3>Partecipanti</h3>
-        <div class="chips">
-          {% for guest in page.guests %}
-          {% assign geek = site.geeks | where: "nome", guest | first %}
-          <a class="guest-chip" href="{{ site.url }}{{ geek.url }}" target="_parent">{{ guest }}</a>
-          {% endfor %}
+        <div class="chips chips-stack">
+          {% for guest in page.guests %}{% include geek_chip.html name=guest %}{% endfor %}
         </div>
         <h3>Host</h3>
-        {% assign h = site.geeks | where: "nome", page.host | first %}
-        <div class="chips">
-          <a class="guest-chip" href="{{ site.url }}{{ h.url }}" target="_parent">{{ page.host }} <span class="chip-badge">host</span></a>
+        <div class="chips chips-stack">
+          {% include geek_chip.html name=page.host host=true %}
         </div>
         <h3>Tag</h3>
         <div class="tags">{% for tag in page.tags %}<span class="tag">#{{ tag }}</span> {% endfor %}</div>
@@ -71,56 +75,93 @@
         <h3>Link</h3>
         <ul class="link-list">
           {% for link in page.links %}
-          <li><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></li>
+            {% if link[1] %}
+            <li><a href="{{ link[1] }}" target="_blank" rel="noopener">{{ link[0] }}</a></li>
+            {% else %}
+              {% for l in link %}<li><a href="{{ l[1] }}" target="_blank" rel="noopener">{{ l[0] }}</a></li>{% endfor %}
+            {% endif %}
           {% endfor %}
         </ul>
         {% endif %}
+        <a class="btn-yt btn-block" href="https://www.youtube.com/watch?v={{ page.youtube }}" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.58 7.19a2.5 2.5 0 0 0-1.76-1.77C18.25 5 12 5 12 5s-6.25 0-7.82.42A2.5 2.5 0 0 0 2.42 7.19 26 26 0 0 0 2 12a26 26 0 0 0 .42 4.81 2.5 2.5 0 0 0 1.76 1.77C5.75 19 12 19 12 19s6.25 0 7.82-.42a2.5 2.5 0 0 0 1.76-1.77A26 26 0 0 0 22 12a26 26 0 0 0-.42-4.81zM10 15V9l5.2 3z"/></svg>
+          <span>Guarda su YouTube</span>
+        </a>
       </aside>
     </div>
 
     <section class="ai-panel" aria-label="I commenti delle IA">
       <div class="ai-panel-head">
-        <img class="ai-panel-cover" src="{{ site.url }}/assets/covers/BGE {{ page.number }}.png" alt="BGE {{ page.number }} - {{ page.guest }}: {{ page.titolo }}">
+        <div class="ai-panel-cover">{% include cover.html episode=page %}</div>
         <div class="ai-panel-head-text">
+          <p class="section-kicker">Membri sintetici della Brigata</p>
           <h2>I commenti delle IA</h2>
           <div class="ai-nav">
-            <a class="ai-nav-card persona-openai" href="#geekestinto"><h4>L'editoriale di Geek Estinto</h4></a>
-            <a class="ai-nav-card persona-claude" href="#briganteclaudio"><h4>L'editoriale di Brigante Claudio</h4></a>
-            <a class="ai-nav-card persona-deepseek" href="#deepgeek"><h4>La citazione, con ragionamento, di Deep Geek</h4></a>
+            <a class="ai-nav-card persona-openai" href="#geekestinto"><span class="ai-nav-who">Geek Estinto</span><h4>L'editoriale di Geek Estinto</h4></a>
+            <a class="ai-nav-card persona-claude" href="#briganteclaudio"><span class="ai-nav-who">Brigante Claudio</span><h4>L'editoriale di Brigante Claudio</h4></a>
+            <a class="ai-nav-card persona-deepseek" href="#deepgeek"><span class="ai-nav-who">Deep Geek</span><h4>La citazione, con ragionamento, di Deep Geek</h4></a>
           </div>
         </div>
       </div>
       <article class="ai-block persona-openai" id="geekestinto">
         <div class="ai-block-id">
-          <h3>Geek Estinto</h3>
-          <h5>Un GPT di OpenAI</h5>
+          <span class="ai-avatar" aria-hidden="true">GE</span>
+          <div>
+            <h3>Geek Estinto</h3>
+            <h5>Un GPT di OpenAI</h5>
+          </div>
         </div>
-        <div class="ai-block-body">
+        <div class="ai-block-body prose">
           {{ content }}
         </div>
       </article>
       <article class="ai-block persona-claude" id="briganteclaudio">
         <div class="ai-block-id">
-          <h3>Brigante Claudio</h3>
-          <h5>Un Claude di Anthropic</h5>
+          <span class="ai-avatar" aria-hidden="true">BC</span>
+          <div>
+            <h3>Brigante Claudio</h3>
+            <h5>Un Claude di Anthropic</h5>
+          </div>
         </div>
-        <div class="ai-block-body">
-          {{ page.claude_article | newline_to_br }}
+        <div class="ai-block-body prose">
+          {{ page.claude_article | markdownify }}
         </div>
       </article>
       <article class="ai-block persona-deepseek" id="deepgeek">
         <div class="ai-block-id">
-          <h3>Deep Geek</h3>
-          <h5>Un DeepSeek reasoner</h5>
+          <span class="ai-avatar" aria-hidden="true">DG</span>
+          <div>
+            <h3>Deep Geek</h3>
+            <h5>Un DeepSeek reasoner</h5>
+          </div>
         </div>
         <div class="ai-block-body">
           <figure class="quote-card">
             <blockquote>{{ page.quote_deepseek }}</blockquote>
           </figure>
-          <h5 class="reasoning-title">Ragionamento</h5>
-          <div class="reasoning">{{ page.quote_deepseek_reasoning | newline_to_br }}</div>
+          <div class="terminal">
+            <div class="terminal-bar"><span></span><span></span><span></span><h5 class="reasoning-title">Ragionamento</h5></div>
+            <div class="reasoning">{{ page.quote_deepseek_reasoning | newline_to_br }}</div>
+          </div>
         </div>
       </article>
     </section>
+
+    {% if page.previous or page.next %}
+    <nav class="ep-pager" aria-label="Altri episodi">
+      {% if page.previous %}
+      <a class="ep-pager-link prev" href="{{ site.url }}{{ page.previous.url }}">
+        <span class="ep-pager-dir">← Episodio precedente</span>
+        <span class="ep-pager-title">BGE {{ page.previous.number }} - {{ page.previous.titolo }}</span>
+      </a>
+      {% else %}<span></span>{% endif %}
+      {% if page.next %}
+      <a class="ep-pager-link next" href="{{ site.url }}{{ page.next.url }}">
+        <span class="ep-pager-dir">Episodio successivo →</span>
+        <span class="ep-pager-title">BGE {{ page.next.number }} - {{ page.next.titolo }}</span>
+      </a>
+      {% endif %}
+    </nav>
+    {% endif %}
   </div>
 </section>

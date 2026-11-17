@@ -1,0 +1,9 @@
+{%- comment -%} Chip con link al geek: {% include geek_chip.html name=guest host=false %} {%- endcomment -%}
+{%- assign _g = site.geeks | where: "nome", include.name | first -%}
+{%- unless _g -%}{%- assign _g = site.geeks | where: "name", include.name | first -%}{%- endunless -%}
+{%- assign _parts = include.name | split: " " -%}
+<a class="geek-chip{% if include.host %} is-host{% endif %}" href="{{ site.url }}{% if _g %}{{ _g.url }}{% else %}/geeks/{% endif %}">
+  <span class="geek-chip-av" aria-hidden="true">{{ _parts.first | slice: 0 }}{% if _parts.size > 1 %}{{ _parts.last | slice: 0 }}{% endif %}</span>
+  <span class="geek-chip-name">{{ include.name }}</span>
+  {%- if include.host %} <span class="chip-badge">host</span>{% endif -%}
+</a>
