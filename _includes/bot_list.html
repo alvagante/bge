@@ -1,0 +1,42 @@
+{% assign latest = site.episodes | sort: "date" | reverse | first %}
+<section class="bots-page">
+  <div class="container">
+    <div class="page-hero">
+      <p class="eyebrow">Membri sintetici della Brigata</p>
+      <h1>I Bot della Brigata</h1>
+      <p class="page-lede">{{ page.tagline }}</p>
+      <div class="bots-intro">
+        <p>Saremo pure estinti, ma ci piace divertirci con le tecnologie moderne. Ogni puntata viene data in pasto a quattro LLM assortiti, che ne tirano fuori citazioni, editoriali e ragionamenti.</p>
+        <p>Non chiedono il gettone di presenza, non interrompono gli ospiti e non hanno mai fatto cadere la connessione durante una live. Hanno opinioni su tutto, proprio come noi. Conosciamoli.</p>
+      </div>
+    </div>
+
+    <div class="bot-grid">
+      {% for bot in site.data.bots %}
+      {% assign quote_count = 0 %}
+      {% for episode in site.episodes %}{% assign q = episode[bot.field] | strip %}{% if q != "" and q != "NA" %}{% assign quote_count = quote_count | plus: 1 %}{% endif %}{% endfor %}
+      <article class="bot-card persona-{{ bot.persona }}">
+        <div class="bot-card-head">
+          <span class="ai-avatar" aria-hidden="true">{{ bot.sigla }}</span>
+          <div>
+            <h2><a class="stretched" href="{{ site.url }}/bot/{{ bot.slug }}/">{{ bot.nome }}</a></h2>
+            <p class="bot-model">{{ bot.modello }}</p>
+          </div>
+        </div>
+        <p class="bot-card-intro">{{ bot.intro }}</p>
+        {% assign last_quote = latest[bot.field] | strip %}
+        {% if last_quote != "" and last_quote != "NA" %}
+        <figure class="bot-card-quote">
+          <blockquote>{{ last_quote }}</blockquote>
+          <figcaption>Su BGE {{ latest.number }}</figcaption>
+        </figure>
+        {% endif %}
+        <div class="bot-card-foot">
+          <span class="meta-chip">{{ quote_count }} citazioni</span>
+          <span class="bot-card-cta">Tutte le citazioni <span aria-hidden="true">→</span></span>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,62 @@
+{% assign bot = site.data.bots | where: "slug", page.bot | first %}
+{% assign sorted_episodes = site.episodes | sort: "date" | reverse %}
+{% assign quote_count = 0 %}
+{% for episode in sorted_episodes %}{% assign q = episode[bot.field] | strip %}{% if q != "" and q != "NA" %}{% assign quote_count = quote_count | plus: 1 %}{% endif %}{% endfor %}
+<section class="bot-detail persona-{{ bot.persona }}">
+  <div class="container">
+    <div class="page-hero bot-hero">
+      <span class="ai-avatar ai-avatar-xl" aria-hidden="true">{{ bot.sigla }}</span>
+      <div class="bot-hero-text">
+        <p class="eyebrow"><a href="{{ site.url }}/bot/">Bot della Brigata</a></p>
+        <h1>{{ bot.nome }}</h1>
+        <div class="meta-row">
+          <span class="meta-chip">{{ bot.modello }}</span>
+          <span class="meta-chip">{{ quote_count }} citazioni</span>
+        </div>
+        <p class="page-lede">{{ bot.intro }}</p>
+        <nav class="bot-switch" aria-label="Altri bot">
+          {% for other in site.data.bots %}
+          <a class="persona-{{ other.persona }}{% if other.slug == bot.slug %} active{% endif %}" href="{{ site.url }}/bot/{{ other.slug }}/"{% if other.slug == bot.slug %} aria-current="page"{% endif %}>{{ other.nome }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </div>
+
+    <div class="filter-bar bot-filter">
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <span class="visually-hidden">Cerca fra le citazioni</span>
+        <input type="search" placeholder="Cerca una citazione…" autocomplete="off" data-filter-input="#bot-quotes" data-filter-count="#quote-count">
+        <kbd>/</kbd>
+      </label>
+      <span class="filter-count"><strong id="quote-count">{{ quote_count }}</strong> citazioni</span>
+    </div>
+
+    <div class="bot-quotes" id="bot-quotes">
+      {% for episode in sorted_episodes %}
+      {% assign q = episode[bot.field] | strip %}
+      {% if q != "" and q != "NA" %}
+      <article class="bot-quote" data-filter-item>
+        <a class="bot-quote-cover" href="{{ site.url }}{{ episode.url }}{% if bot.anchor != "" %}#{{ bot.anchor }}{% endif %}" tabindex="-1" aria-hidden="true">
+          {% include cover.html episode=episode %}
+        </a>
+        <div class="bot-quote-body">
+          <blockquote>{{ q }}</blockquote>
+          <p class="bot-quote-ep">
+            <a href="{{ site.url }}{{ episode.url }}{% if bot.anchor != "" %}#{{ bot.anchor }}{% endif %}">BGE {{ episode.number }} - {{ episode.titolo }}</a>
+            <span>{% include date_it.html date=episode.date %}</span>
+          </p>
+          {% if bot.reasoning and episode[bot.reasoning] %}
+          <details class="bot-reasoning">
+            <summary>Mostra il ragionamento</summary>
+            <div class="reasoning">{{ episode[bot.reasoning] | newline_to_br }}</div>
+          </details>
+          {% endif %}
+        </div>
+      </article>
+      {% endif %}
+      {% endfor %}
+      <p class="filter-empty" data-filter-empty hidden>Nessuna citazione trovata. {{ bot.nome }} stavolta non ha niente da dire. Strano.</p>
+    </div>
+  </div>
+</section>

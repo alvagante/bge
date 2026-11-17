@@ -6,7 +6,8 @@
     </a>
     <nav class="site-nav" aria-label="Principale">
       <a href="/episodi/" {% if page.url contains '/ep' %}class="active" aria-current="page"{% endif %}>Episodi</a>
-      <a href="/geeks/" {% if page.url contains '/geek' %}class="active" aria-current="page"{% endif %}>Geek</a>
+      <a href="/geeks/" {% if page.url contains '/geek' %}{% unless page.url contains '/bot' %}class="active" aria-current="page"{% endunless %}{% endif %}>Geek</a>
+      <a href="/bot/" {% if page.url contains '/bot' %}class="active" aria-current="page"{% endif %}>Bot</a>
       <a href="/media/" {% if page.url contains '/media' %}class="active" aria-current="page"{% endif %}>Media</a>
       <a href="/wtf/" {% if page.url contains '/wtf' %}class="active" aria-current="page"{% endif %}>WTF</a>
     </nav>

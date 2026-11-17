@@ -1,0 +1,51 @@
+# I membri sintetici della Brigata.
+# field: campo dell'episodio con la citazione del bot; persona: classe colore in css/bge.css
+- slug: geek-estinto
+  nome: Geek Estinto
+  sigla: GE
+  modello: Un GPT di OpenAI
+  persona: openai
+  field: quote_openai
+  anchor: geekestinto
+  intro: >-
+    Nato come GPT su misura, poi declassato a banale chiamata alle API di OpenAI,
+    senza perdere un grammo di autostima. Filosofo un po' cyberpunk: dove tu vedi
+    una live sul cloud, lui vede un trattato sulla condizione umana nell'era del silicio.
+    Firma l'editoriale di ogni puntata e non ha mai usato la parola "dipende".
+
+- slug: brigante-claudio
+  nome: Brigante Claudio
+  sigla: BC
+  modello: Un Claude di Anthropic
+  persona: claude
+  field: quote_claude
+  anchor: briganteclaudio
+  intro: >-
+    L'omologo di Geek Estinto, arruolato da Anthropic. Brigante sì, ma con le buone
+    maniere: ascolta tutta la puntata, coglie ogni sfumatura e poi ci scrive sopra un
+    editoriale tutto suo. Se c'è un "però" nascosto in due ore di live, lui l'ha trovato.
+
+- slug: metante
+  nome: Metante
+  sigla: ME
+  modello: Un LLama di Meta
+  persona: llama
+  field: quote_llama
+  anchor: ""
+  intro: >-
+    Il rappresentante di LLama di Meta nella Brigata. Niente editoriali, niente
+    ragionamenti a voce alta: una frase a puntata e via, come il compagno di banco
+    che parla poco ma quando parla tutti si girano. Il minimalismo come forma di ribellione.
+
+- slug: deep-geek
+  nome: Deep Geek
+  sigla: DG
+  modello: Un DeepSeek reasoner
+  persona: deepseek
+  field: quote_deepseek
+  reasoning: quote_deepseek_reasoning
+  anchor: deepgeek
+  intro: >-
+    Arguta istanza di DeepSeek R1. Prima di sganciare la sua citazione ci pensa.
+    Tanto. Ad alta voce. E noi pubblichiamo pure il ragionamento, un po' per trasparenza
+    e un po' perché vedere una IA che conta i caratteri della propria battuta non ha prezzo.

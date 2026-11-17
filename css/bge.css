@@ -2890,6 +2890,348 @@ main {
 }
 
 /* ------------------------------------------------------------
+   Bot della Brigata
+   ------------------------------------------------------------ */
+.quote-author a,
+.ai-block-id h3 a {
+  color: inherit;
+}
+
+.quote-author a:hover,
+.ai-block-id h3 a:hover {
+  color: var(--persona, var(--accent));
+}
+
+.bots-intro {
+  max-width: 68ch;
+  margin-top: 1.4rem;
+  color: var(--muted);
+  font-size: 1.02rem;
+  line-height: 1.75;
+}
+
+.bots-intro p {
+  margin-bottom: .8rem;
+}
+
+.bot-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.2rem;
+}
+
+.bot-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  overflow: hidden;
+  padding: 1.8rem;
+  background:
+    radial-gradient(90% 70% at 0% 0%, color-mix(in srgb, var(--persona) 14%, transparent), transparent 65%),
+    var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  transition: transform .35s var(--ease), border-color .25s ease, box-shadow .35s ease;
+}
+
+.bot-card:hover {
+  transform: translateY(-5px);
+  border-color: color-mix(in srgb, var(--persona) 50%, transparent);
+  box-shadow: var(--shadow), 0 0 60px -25px var(--persona);
+}
+
+.bot-card-head {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.bot-card h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.7rem;
+  margin: 0;
+}
+
+.bot-card h2 a {
+  color: #fff;
+}
+
+.bot-card:hover h2 a {
+  color: var(--persona);
+}
+
+.bot-model {
+  margin: .2rem 0 0;
+  font-family: var(--font-mono);
+  font-size: .7rem;
+  font-weight: 600;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--persona);
+}
+
+.bot-card-intro {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.bot-card-quote {
+  margin: 0;
+  padding: 1rem 1.2rem;
+  border-left: 3px solid var(--persona);
+  background: rgba(0, 0, 0, .25);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+
+.bot-card-quote blockquote {
+  margin: 0;
+  font-size: 1.45rem;
+  line-height: 1.25;
+}
+
+.bot-card-quote figcaption {
+  margin-top: .5rem;
+  font-family: var(--font-mono);
+  font-size: .68rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--faint);
+}
+
+.bot-card-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: auto;
+}
+
+.bot-card-cta {
+  font-weight: 650;
+  font-size: .9rem;
+  color: var(--persona);
+}
+
+.bot-card:hover .bot-card-cta span {
+  display: inline-block;
+  transform: translateX(4px);
+  transition: transform .25s var(--ease);
+}
+
+/* Pagina del bot */
+.bot-detail .eyebrow,
+.bot-detail .eyebrow a {
+  color: var(--persona);
+}
+
+.bot-detail .meta-chip::before {
+  background: var(--persona);
+}
+
+.bot-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.ai-avatar-xl {
+  width: 112px;
+  height: 112px;
+  border-radius: 30px;
+  font-size: 2rem;
+  box-shadow: 0 0 80px -10px var(--persona);
+}
+
+.bot-hero-text .meta-row {
+  margin-top: 1.2rem;
+}
+
+.bot-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-top: 1.6rem;
+}
+
+.bot-switch a {
+  font-size: .84rem;
+  font-weight: 600;
+  color: var(--muted);
+  padding: .4rem .9rem;
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  transition: color .2s ease, border-color .2s ease, background .2s ease;
+}
+
+.bot-switch a:hover {
+  color: var(--persona);
+  border-color: var(--persona);
+}
+
+.bot-switch a.active {
+  color: var(--bg);
+  background: var(--persona);
+  border-color: var(--persona);
+}
+
+.bot-filter {
+  margin: 0 0 2rem;
+}
+
+.bot-detail .search input:focus {
+  border-color: var(--persona);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--persona) 15%, transparent);
+}
+
+.bot-detail .filter-count strong {
+  color: var(--persona);
+}
+
+.bot-quotes {
+  display: grid;
+  gap: .9rem;
+}
+
+.bot-quote {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 1.6rem;
+  align-items: center;
+  padding: 1rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--persona);
+  border-radius: var(--radius-lg);
+  transition: border-color .25s ease, background .25s ease;
+}
+
+.bot-quote:hover {
+  background: var(--surface-2);
+  border-color: color-mix(in srgb, var(--persona) 40%, transparent);
+  border-left-color: var(--persona);
+}
+
+.bot-quote-cover {
+  display: block;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.bot-quote:hover .cover img {
+  transform: scale(1.06);
+}
+
+.bot-quote blockquote {
+  margin: 0 0 .7rem;
+  font-size: 1.65rem;
+  line-height: 1.25;
+}
+
+.bot-quote-ep {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .3rem 1rem;
+  margin: 0;
+  font-size: .9rem;
+}
+
+.bot-quote-ep a {
+  font-weight: 600;
+  color: var(--text);
+}
+
+.bot-quote-ep a:hover {
+  color: var(--persona);
+}
+
+.bot-quote-ep span {
+  font-family: var(--font-mono);
+  font-size: .72rem;
+  color: var(--faint);
+}
+
+.bot-reasoning {
+  margin-top: .9rem;
+}
+
+.bot-reasoning summary {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  cursor: pointer;
+  font-family: var(--font-mono);
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--persona);
+  list-style: none;
+}
+
+.bot-reasoning summary::-webkit-details-marker {
+  display: none;
+}
+
+.bot-reasoning summary::before {
+  content: "▸";
+  transition: transform .2s ease;
+}
+
+.bot-reasoning[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.bot-reasoning .reasoning {
+  margin-top: .7rem;
+  background: #070605;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+}
+
+@media (max-width: 860px) {
+  .bot-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .bot-quote {
+    grid-template-columns: 140px minmax(0, 1fr);
+    gap: 1rem;
+  }
+
+  .bot-quote blockquote {
+    font-size: 1.35rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .bot-hero {
+    flex-direction: column;
+    gap: 1.4rem;
+  }
+
+  .ai-avatar-xl {
+    width: 84px;
+    height: 84px;
+    border-radius: 24px;
+    font-size: 1.5rem;
+  }
+
+  .bot-quote {
+    grid-template-columns: 1fr;
+  }
+
+  .site-nav a {
+    padding: .45rem .3rem;
+    font-size: .8rem;
+  }
+}
+
+/* ------------------------------------------------------------
    Motion
    ------------------------------------------------------------ */
 @media (prefers-reduced-motion: reduce) {
