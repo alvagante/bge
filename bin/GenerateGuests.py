@@ -35,7 +35,7 @@ for guest in guests:
             }
     else:
         frontmatter_data = {
-            'attributes': {},
+            'attributes': {'nome': guest, 'layout': 'geek'},
             'body': ''
         }
 

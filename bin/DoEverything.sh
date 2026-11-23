@@ -68,4 +68,7 @@ bold "Generating data source for AI"
 #$SCRIPT_DIR/GenerateDataSource.sh "$EPISODES_DIR"
 
 bold "Generating guests files"
-$SCRIPT_DIR/GenerateGuests.py "${GIT_DIR}/assets/texts" "$GIT_DIR/_geeks"
+"$SCRIPT_DIR/GenerateGuests.py" "${GIT_DIR}/assets/texts" "$GIT_DIR/_geeks" || exit "$?"
+
+bold "Generating missing geek portraits"
+python3 "$SCRIPT_DIR/GenerateGeekPortraits.py"
