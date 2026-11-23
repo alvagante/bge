@@ -1,11 +1,10 @@
 {% assign geek_name = page.nome | default: page.name %}
-{% assign parts = geek_name | split: " " %}
 {% assign hosted = site.episodes | where: "host", geek_name | sort: "date" | reverse %}
 {% assign sorted_episodes = page.episodi | sort | reverse %}
 <section class="geek-detail">
   <div class="container">
     <div class="page-hero geek-hero">
-      <span class="avatar avatar-xl av-{{ geek_name.size | modulo: 6 }}" aria-hidden="true">{{ parts.first | slice: 0 }}{% if parts.size > 1 %}{{ parts.last | slice: 0 }}{% endif %}</span>
+      {% include geek_avatar.html name=geek_name class="avatar avatar-xl" profile=true %}
       <div class="geek-hero-text">
         <p class="eyebrow">Geek della Brigata</p>
         <h1>{{ geek_name }}</h1>

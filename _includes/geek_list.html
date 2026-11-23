@@ -17,10 +17,9 @@
     <div class="geek-grid" id="geek-grid">
       {% for geek in site.geeks %}
       {% assign geek_name = geek.nome | default: geek.name %}
-      {% assign parts = geek_name | split: " " %}
       <article class="geek-card" data-filter-item>
         <div class="geek-card-head">
-          <span class="avatar av-{{ geek_name.size | modulo: 6 }}" aria-hidden="true">{{ parts.first | slice: 0 }}{% if parts.size > 1 %}{{ parts.last | slice: 0 }}{% endif %}</span>
+          {% include geek_avatar.html name=geek_name class="avatar" %}
           <div>
             <h3><a class="stretched" href="{{ site.url }}{{ geek.url }}">{{ geek_name }}</a></h3>
             {% if geek.episodi %}

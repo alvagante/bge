@@ -1,0 +1,16 @@
+{%- if include.profile -%}
+  {%- assign avatar_directory = "/assets/images/geeks/profile/" -%}
+  {%- assign avatar_pixels = 512 -%}
+{%- else -%}
+  {%- assign avatar_directory = "/assets/images/geeks/icons/" -%}
+  {%- assign avatar_pixels = 128 -%}
+{%- endif -%}
+{%- assign avatar_path = include.name | prepend: avatar_directory | append: ".webp" -%}
+{%- assign avatar_image = site.static_files | where: "path", avatar_path | first -%}
+{%- if avatar_image -%}
+  {%- assign avatar_filename = include.name | url_encode | replace: "+", "%20" | append: ".webp" -%}
+  <img class="{{ include.class }} geek-portrait" src="{{ avatar_directory | relative_url }}{{ avatar_filename }}" alt="" width="{{ avatar_pixels }}" height="{{ avatar_pixels }}"{% unless include.profile %} loading="lazy"{% endunless %}>
+{%- else -%}
+  {%- assign avatar_parts = include.name | split: " " -%}
+  <span class="{{ include.class }} av-{{ include.name.size | modulo: 6 }}" aria-hidden="true">{{ avatar_parts.first | slice: 0 }}{% if avatar_parts.size > 1 %}{{ avatar_parts.last | slice: 0 }}{% endif %}</span>
+{%- endif -%}

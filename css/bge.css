@@ -500,7 +500,11 @@ main {
   padding: .08rem .45rem;
 }
 
-/* Avatar monogramma */
+/* Avatar */
+.geek-portrait {
+  object-fit: cover;
+}
+
 .avatar {
   --av: var(--accent);
   display: inline-grid;
