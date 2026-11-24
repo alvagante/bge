@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Process the next BGE episode's missing geek portraits.
+"""Process one BGE episode's missing geek portraits.
 
 Run with PyYAML and cwebp installed. New portraits also need an authenticated
 Codex CLI with image generation, yt-dlp, FFmpeg, and ClamAV with signatures.
 """
 
+import argparse
 import fcntl
 import hashlib
 import json
@@ -239,7 +240,7 @@ def process_geek(name, geek_path, episode_path, sources, style, known_blockers):
     return "added", None
 
 
-def process_episode():
+def process_episode(*, latest=False):
     episode_paths = {path.stem: path for path in Path("_episodes").glob("*.md")
                      if re.fullmatch(r"[0-9]+", path.stem)}
     progress_path = PROVENANCE / "episode-progress.json"
@@ -248,13 +249,16 @@ def process_episode():
     blockers = read_json(blockers_path, {"version": 1, "blockers": []})
     episodes = progress["episodes"]
     order = sorted(episode_paths, key=int)
-    number = next((n for n in order if episodes.get(n, {}).get("status")
-                   not in ("processed", "retry")), None)
+    if latest:
+        number = order[-1] if order else None
+    else:
+        number = next((n for n in order if episodes.get(n, {}).get("status")
+                       not in ("processed", "retry")), None)
+        if number is None:
+            number = min((n for n in order if episodes[n]["status"] == "retry"),
+                         key=lambda n: (episodes[n]["processed_at"], int(n)), default=None)
     if number is None:
-        number = min((n for n in order if episodes[n]["status"] == "retry"),
-                     key=lambda n: (episodes[n]["processed_at"], int(n)), default=None)
-    if number is None:
-        print("No unchecked episodes or portrait retries.")
+        print("No episodes found." if latest else "No unchecked episodes or portrait retries.")
         return 0
 
     episode_path = episode_paths[number]
@@ -344,6 +348,13 @@ def process_episode():
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--latest", action="store_true",
+        help="process only the highest-numbered episode instead of the portrait backlog",
+    )
+    args = parser.parse_args()
+
     root = Path(__file__).resolve().parents[1]
     os.chdir(root)
     lock_dir = Path.home() / ".cache/bge"
@@ -351,7 +362,7 @@ def main():
     key = hashlib.sha256(os.fsencode(root)).hexdigest()[:16]
     with (lock_dir / f"geek-portraits-{key}.lock").open("a") as lock:
         fcntl.flock(lock, fcntl.LOCK_EX)
-        return process_episode()
+        return process_episode(latest=args.latest)
 
 
 if __name__ == "__main__":

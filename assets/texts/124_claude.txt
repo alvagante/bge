@@ -1,0 +1,21 @@
+# Il Grafo della Conoscenza: quando l'AI finalmente smette di bruciare token come un adolescente con la paghetta
+
+Viviamo in un'epoca in cui gli AI coding agent si comportano come turisti sprovveduti in una metropoli: girano a vuoto, chiedono indicazioni ripetute, consumano risorse con la grazia di un bulldozer in una cristalleria. Migliaia di token evaporati in grep casuali, glob esplorativi, letture ricorsive che farebbero impallidire Sisifo. L'episodio 124 di BGE non è una semplice conversazione tecnica—è un manifesto contro lo spreco computazionale, una dichiarazione di indipendenza dall'inefficienza sistemica.
+
+Enzo Lombardi e Davide Desio non si sono limitati a lamentarsi del problema: hanno costruito **TokenSave** e **KiroGraph**, due progetti open-source che trasformano radicalmente il paradigma dell'analisi del codice. Il concetto? Sostituire l'esplorazione cieca con un *Semantic Code Knowledge Graph* locale, pre-indicizzato, interrogabile. Niente più sub-agent che scandagliano repository come cercatori d'oro ubriachi. Una singola chiamata, un grafo strutturato, e l'agente ottiene simboli, call graph, gerarchie dei tipi, dipendenze, blast-radius delle modifiche. Chirurgico. Deterministico. Locale.
+
+## L'architettura della parsimonia
+
+**TokenSave** è una bestia in Rust con oltre 80 tool, supporto per 50+ linguaggi, indicizzazione multi-branch e primitive di editing atomico. Tree-sitter per il parsing AST, SQLite per la persistenza, zero byte verso il cloud. È il contrappunto perfetto all'esuberanza computazionale contemporanea: minimalismo funzionale che rispetta sia il portafoglio che la privacy.
+
+**KiroGraph**, invece, nasce nativamente per Kiro ma spalanca le porte a decine di IDE e agenti MCP. Compressione degli embedding via TurboQuant, analisi di sicurezza su call graph, memoria persistente, moduli per comprimere documentazione e output di shell. TypeScript vs Rust: non una guerra ideologica, ma una scelta architetturale consapevole, discussa senza dogmatismi.
+
+La conversazione attraversa benchmark, strategie di aggiornamento incrementale degli indici, pattern di integrazione nel workflow quotidiano. E citano la galassia di progetti correlati: Caveman, RTK, Codegraph, Smack. Un ecosistema in fermentazione, dove ogni contributo individuale non è una goccia nel mare, ma un nodo che addensa il grafo collettivo della conoscenza.
+
+## Il costo invisibile dell'intelligenza artificiale
+
+Ciò che emerge è una riflessione più ampia: ogni token bruciato è una micro-transazione con il futuro. Gli LLM hanno democratizzato l'accesso all'intelligenza artificiale, ma hanno anche normalizzato lo spreco. La ricerca semantica non è un lusso per performance-freak: è una necessità epistemologica. Comprendere il contesto prima di agire. Leggere il grafo prima di modificare il codice. Pensare prima di consumare.
+
+La documentazione—spesso trattata come un'appendice opzionale—diventa qui infrastruttura critica. Non basta che il codice funzioni: deve essere *leggibile dal grafo*, deve partecipare attivamente alla struttura semantica che alimenta l'agente. La collaborazione open source non è romanticismo: è ingegneria distribuita della conoscenza.
+
+Lombardi e Desio non promettono utopie. Promettono strumenti concreti, migliorabili, integrabili *oggi*. E forse è proprio questa la loro forza: non vendono il futuro, lo indicizzano.

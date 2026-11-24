@@ -1,0 +1,649 @@
+poco poco poco poco poco poco poco poco
+mi scusi
+uso lettura
+muso
+mariners
+sindaco
+sessantacinque
+infiniti
+ci sono
+prima
+mikey qui
+stan
+grazie a fuoco
+musica
+mantieni
+codici
+senti la tensione
+pronto
+musica
+menzione
+fatto
+musica
+ma
+ma
+e quindi puntata centoventiquattro della brigata degli istinti stasera parliamo di come ottimizzare token che mi sembra un argomento interessante un po' come dire come risparmiare soldi e con strumenti di graphic novel
+good knowledge come come li chiamiamo ai vostri strumenti da evidenza qual è la definizione esatta di uno strumento come quello che fai
+avevo scritto su ha insistito perché una bella definizione però non ricordo mai
+su perciò get with symantec code semantico the graph no knowledge of leggermente basta e qualsiasi cosa abe lo facciamo con amy e david yates che hanno sviluppato due software che fanno questo è paolo che come me qui a fare domande o
+interagire
+prima di tutto direi una breve introduzione partiamo da davide che il primo che si è collegato vai pure spiega chi sei e cosa fai ma allora sono un appassionato di tecnologia fondamentalmente e ho la fortuna anche di farlo per lavoro
+però un'azienda nel paese
+diciamo faccio scelte tecnologiche nella vita
+po' di questo
+essendo un appassionato di tecnologia poi mi piace anche sperimentare
+c'è stato un momento ecco poi non so se firenze è stato lo stesso ma c'è stato un momento
+non ricordo esattamente ma credo fosse l'anno scorso perché adesso le cose vanno troppo veloci per ricordarsi esattamente quando avvengono gli eventi
+ma in cui si sono diffusi ampiamente iconografo uno dei primi nati è stato quello su cloud
+a olbia
+un ragazzo che lo sviluppa per cloud
+e vedendolo io invece utilizzo anche per lavoro chi ero
+volevo portare le stesse logiche su chi ero e non c'era in quel momento lì alle urne non erano così tante come sono adesso non c'era questa capacità di porting così semplice come adesso le conseguenze decidono di farlo per chi zero per la community di chi ero diffonderlo diffondere quel tipo di utilizzo su chi ero
+poi è andata discretamente bene quindi ci ho fatto anche tante altre cose quindi
+chirografo nasce con l'idea di salvare tokyo e poi magari ve lo racconto fa una pletora di cose che sono ti sei fatto prendere la mano dall'ufficio
+a rendere
+enzo
+allora io sono più o meno anche io appassionato di tecnologia da tanti tanti anni e io ho semplicemente chiamarmi autore di kyoto che pensi un po' troppo perché io sono uno di quelli che ha preso grazie
+abbiamo individuato delle cose che non mi piacevano
+tipo che fosse scritto in java script che dicono se volete devi fare l'indicizzazione di un omicidio
+di una cosa pesante
+usare un linguaggio interpretato il lento e quindi mi sono adattato diciamo a mia immagine
+ho cominciato già quando erano un grosso aiuto
+dico con come si chiama con con orgoglio che non ho scritto una singola riga di codice
+ho semplicemente deciso cosa mi serviva come lo volevo
+e niente adesso c'è qualcuno che collabora
+praticamente ho una versione
+come si può dire distillata di cosgrove che adesso ho cominciato a prendere l'edificio e portarle succo dovrà quindi mi fa piacere che abbia avuto successo diciamo cominciato a pubblicizzarla e
+ho visto che c'è stato un riscontro va fatto conoscere persone come paolo che mi ha voluto abbracciare perché contento dell'esperienza
+e quindi paolo e tocca a te visto che è colpa tua
+beh decisamente decisamente contento perché perché io mi occupo di ict mi occupo non lo so più di che cosa mi occupo mi sono uno sviluppatore scarpe
+sviluppatore dot net
+di handling botnet e circa il mese scorso ho scritto unife dentro al codice e scusate scusatemi ma l'ho dovuto fare però adesso come la maggior parte come la maggior parte dei degli sviluppatori mi occupo di
+scrivere fa il markdown scrivere front e in tutto questo
+si incontrano delle grandissime problematiche e intanto di memoria memoria intesa come proprio come ricordo e certi strumenti beh certi strumenti li ho considerati un validissimo un validissimo aiuto per la ricerca
+non solo strumenti non solo di quello che è codice ma di tutta l'informazione che a oggi appunto come mi faceva notare alessandro su progettino così
+dice mai iscritto più mark down che codice è vero ho scritto più markdown che codice è eppure più difficile da leggere leggere il codice era più facile sicuramente sarà scusa ma no vai avanti e se si è terminato poi fondamentalmente questi strum
+chi aiutano tantissimo non tanto nella né in quelle pochissime funzioni che hai scritto tu e che per sbaglio ti ricordi ma in tutto quello che non hai scritto e che in realtà fa parte integrante e sarà sempre più parte integrante di una codebase tipo appunto
+la collezione dei prompt che ti hanno portato a definisce un punto dove sei arrivato e hai una serie di prompt che ti hanno portato bene risalire indietro e andare a ricercare che cosa stavo lanciato come è stato lanciato e cosa gli ho detto
+e soprattutto che cosa è stato scritto a un certo punto la kelly su su un progetto beh è una cosa a volte non banale specialmente se produci tanti tanti file usato noto una cosa non so se siete d'accordo che una volta che
+poi un anno fa
+swift coding era quasi considerato un poco
+quasi dispregiativo no il code codera non era il vero programmatore adesso io non conosco un programmatore che non usi non faccia sostanzialmente ma il coding non so se siete abbastanza d'accordo strutturato sposato spero che non faccio wipe coding ma che facciano
+haines
+asl di season insomma se è vero che uno definizione diciamo di wight coding non è che dici fa mi stappa e tutto quanto però swift coding e lancia il lo scilla grill mi lancia mi cremella procede pierre il design documenti famiglie specchi e poi fai tutto per me anche quello webcam
+sostanzialmente eravamo un pochino ma strutturale e strutturato che è già così così va bene
+speriamo che se i lavori così perché mi ritrovo molto in quello che dice paolo cannas senso oggi oggi il lavoro si è spostato lì si è spostato nel guardare un po' di markdown
+guardare le specifiche metterci testa metterci test che non sono più solo i i test che conosciamo noi marcy test
+property based quindi per verificare che cosa è stato fatto effettivamente sulle specifiche
+andare con free world ce ne sono diversi di med pack it wiki campionati più nagoya a fare
+un certo tipo di sviluppo che poi alla base se consapevolmente sai che c'è sempre qualcosa di non deterministico
+per fortuna il lavoro come persone di persone come paolo come me o come o come voi è ancora utile nel senso che fai comunque va controllato che sia con una pierre che sia con con un check che si ha con un test di di qualsiasi tipo
+e poi andare a risolvere qualcosa che è stato scritto anche solo in un flame war è che non vorresti
+la competenza comunque paga ancora
+meno ma ellie rachel nel duemila ventitré novembre duemilaventi sei meno male che nessuno scrive più ogni riga di codice
+come enzo anch'io penso la stessa cosa non che abbia fatto molto di più ma per chirografari sono quasi al non aver scritto nessuna riga di codice non qualcosa sì ma quasi tutto chiaramente
+l'ho fatto utilizzando lo stesso
+sentite vogliamo spiegare che cos'è un
+semantic code graph
+spy tool
+jackson healy
+semplicemente cosa succede se si studia bene come funziona un contesto si scopre che il contesto una quantità limitata di token eccetera eccetera e che ha un andamento a u la metà o due significa i tuoi amici che all'inizio del contesto e i token stanno alla fine suonò
+non amo pesi diversi quindi più rilevante diventa più rilevanti per la lama quindi l'idea di risparmiare token e lascia concentrare nel contesto o solo le informazioni utili
+il principio su cui si sono basati tanti tool che non sono solo cozze amanti nel caso del semantic ragionamento che è stato fatto
+da chi ci ha preceduto immagino e o nel momento in cui io parto da zero chiedo al alam scrivimi aggiungi questa opzione di configurazione a lemme che non ha memoria a menu fino alle versioni
+di un anno facile non stiamo andando neanche tanto lontano doveva fare doveva fare un rap su tutti i file molto spesso si deve caricare tutto il pelo falli configurazione memoria e quindi caricavano il contesto più informazioni di quanto fosse strettamente necessario nel momento in cui hai un turco un compito
+autore che ti permette di fare un collegamento semantico tra chiamante e chiamato o tra classe e struttura della classe derivate chi deriva da cosa eccetera eccetera
+ho da tramite un tool mcp la possibilità di rispondere a domande molto precise per esempio il quale la classe che si incarica della configurazione oppure qual è
+sei se io lo modificarono fa di configurazione quali sono i falchi devo andare a toccare in questo modo l'informazione è mirata e precisa del contesto ed essendo piccola diciamo non vende la qualità del risultato del elohim molto molto elevata questo diciamo
+nel week videogioco poi lascia a david la possibilità di aggiungere la sua diciamo budapest hotel direi che sei stato chiarissimo anche di più di quanto avrei potuto fare io
+sostanzialmente permette di non farti una greppia di tutta la coda peso ogni volta che gli chiede una roba particolare ma ti limiti a quei due tre grub dopo aver navigato il grafo
+facendolo con un exit poll ha il doppio vantaggio tra l'altro che la domanda viene fatta da un tool non deterministico ma la ricerca di un tool deterministico che il tuo il tuo sito server e mentre la ricerca non deterministica può sbagliare molto di più
+e quindi se sbaglia c'è il il problema non è solo che va a cercare un sacco di file ma se nella poi son diventati più bravi ad esso ma se sbaglia poi continua continuamente a cercare e quindi è in fila tra l'altro è il grosso problema di questa cosa che nessuno gli sta indicando che cosa mettere in
+contesto mentre con il grafo tweetdeck guasta il chiamato il chiamante queste sono le due file che sono inerenti alla tua alla tua domanda mattis cerca questi amati questo in contesto ti sto già rispondendo io di conseguenza il contesto è molto molto più piccolo molto molto più delineato e chiaro thor
+nando nel deterministico devi fare bene quella parte lì
+però per fortuna poi non so se enzo il tuo ma penso di sì
+perché più o meno alla base è quella
+per fortuna avevamo già degli strumenti ce ne sono vari per fare ricerca o di grafi e quant'altro
+uno uno famoso che è quello che sta anche sotto un sacco di astri
+strumenti di sviluppo atri sitter
+è quindi chiaro verrà fusa tristi lettera si crea il grafo o poi piuttosto se vuoi usare un motore veramente
+vettoriale si fa anche dei si fa anche dai vettori e si crea si crea anche una semantica vettoriale e va a cercare là dentro però il tema e che riporti nel deterministico una cosa che sapevamo fare tra noi ce l'avevamo già
+il collegamento tra chiamato chiamante traversa alcol graff cioè son tutte cose che se ci pensate nei nostri tool normali le nostre idee e sviluppo duplicare una funzione arrivare a chi lo chiamava quindi perché un agente dovrebbe fare qualcosa di diverso il la la scoperta di code
+raffy e l'originale è la scoperta dell'acqua calda da dove vengono le cose le cose migliori cioè stavamo facendo una cosa bene adesso abbiamo detto facciamo sta roba con una ricerca una ricerca non deterministica no c'è l'hai è utile e dove è utile l'hai
+non non non non non dover staff sappiamo già fare le cose bene
+vogliamo entrare un attimo nel merito di come sono e come lavorano a livello cioè che cosa c'è c'è di mezzo ceppi
+scilla il grafo basato su una
+cosa
+e poi magari non so se sono esattamente uguali gli approcci dei vostri due strumenti oppure c'è qualche troll wilder provo a dirti qual è più o meno l'architettura di dichiaro ora poi vediamo se la stessa auto chat sei
+l'architettura base di aerografia e quella di altre grafie e quindi fondamentalmente tu hai un database
+è quasi sempre usato scuola light ma io ne ho sette perché mi sono fatto prendere la mano e ho deciso che ne volevo provare un po' purché e quindi te lo puoi scegliere
+il locale
+davanti a questo database viene messo un exit server che per l'appunto è capace di ricercare sul grafo viene fatta una prima indicizzazione di quella che è la tua code base tramite per esempio tre skid row all'allora a utilizzare un lemma locale per fare
+a fare da embedding quindi c'è una ricerca può essere semantica può essere di similarità
+c'è bay vari vari tipi di ricerche
+puoi fare è semplicemente tu quando parli con la gente gli dici usi usa questo mysql server questo è un webserver fare la ricerca per lui gli ritorna dove probabilmente c'è quel simbolo o in un grafo i nodi o simboli caccia col simbolo e a quel punto lui si fa il greppo
+ecco su sul simbolo che gli interessa
+questa base poi io ho sperimentato tante altre
+architetture soprattutto tra la gente e mysql server perché volevo vedere come funzionavano quindi in alcuni casi ci ho messo delle squillo ciro a questi file si chiamano steering quindi io uso uno steering davanti al msi pino uso l'amsi pisa crociano vado a dare membership direttamente a iron maiden cosa lo stereo
+di fronte nella clip di ciro funziona meglio con un subagente e quindi ho un suv argento e quindi
+l'architettura si compone e diventa un po' più complessa a seconda dell'arnas che stai usando
+lo raccontavano alessandro raina in altre occasioni
+chirografo va nasce per chi ero poi anche lei mi son fatto prendere la mano e ho voluto vedere come andasse su altre non che mi interessasse particolarmente radioso ciro e claude gode quindi su quelle due so che funziona bene
+però su altre arnas per esempio funziona diversamente proprio perché si aspettano pezzi di architettura diversi cherokee cloud arnoux posso sfruttare ux altre arnas non ce l'hanno quindi quando per esempio vorrei indicizzare il grafo dopo che ho fatto delle modifiche con cairo
+cloud è facile io dico chiama lux
+allora indicizza e su altre ares che non ha noiosa chi usa quelle arnas dovrebbe cercare di capire il pezzo di architettura da mettere per rifare l'indicizzazione però diciamo che a livello a livello narrativo a livello base hai un database in cam
+memorizza autografa university harvard davanti hai un modo di comunicare con questo hampshire si preserva diretto con una schiera stile in quello che vuoi e poi hai il tuo agente la tua arma davanti enzo come il tuo
+praticamente molto molto simile
+l'unica differenza è che sono partito da claude good che quello che usavo più spesso e poi sono aggiunti di newton
+nel momento in cui l'agente all'autonoma forse perché non si chiama ciro
+l'aspettativa è che è proprio il simbolo jolly usare con qualsiasi arnas si è creata questa aspettativa lo voglio usare con qualsiasi arles e quindi adatto a beth
+che lì il problema di boot se ci sono se non ci sono ho sperimentato con
+usare il monitor falsi system però sono state in caso in cui eccetera eccetera però poi discutendo google cloud
+mi sono limitato a fare una cosa molto bella
+dirigevo senti guarda
+tu sai come funziona più o meno come open save vatti a vedere tutte le conversazioni passate e dimmi se c'è qualche occasione in cui tu pensavi avrebbe potuto dare una mano e
+proponi perché non ho fatto perché non c'era il tour adatto o perché oppure insomma
+perché tu pensi ti ha dato una risposta sbagliata su dovuto caricare il file memoria eccetera eccetera quindi
+ho creato questo processo iterativo in cui molto spesso
+faccio andare e ha funzionato abbastanza bene devo dire la verità a un certo punto il numero di tool esploso proprio son fatto
+i conti almeno in cloud e alcune arles c'è la possibilità di dire questi sono i tuoi primari e tutti i mali sono due o tre quando si scappa però sappi che c'è una pletora di tool a disposizione specializzati non non farti remore a chiedere se si può
+questa cosa qua e ho visto che questo meccanismo funziona bazar stanza bene quindi
+praticamente
+un tour molto simile pensato per cloud ma poi diciamo esteso ad altri come si chiama mi sono anche creato la mia ares e quindi
+ho potuto guardare le cose diciamo un po' da due lati e cerca di capire dove
+se raggiungessi nell'ades o che altro ugg tra virgolette eccetera eccetera
+dove avrei potuto trovare miglioramenti quindi insomma è stato un esercizio abbastanza divertente
+e neanche pubblicato
+lo supporto il supporto che mi limito a chiedere al cloud se ci sono bug che richiedono la mia attenzione
+o si può fare direttamente lui e c'è un altro paio di
+contributors che stanno dando una grossa mano molto bene
+tu paolo da utente tu sei e usato otto salvo giusto perché allora io da utente se da un utente chiamato token fave e
+diciamo che al di là del fatto che certi tool per un'utente sono una black box una black box li usiamo e al di là del fatto che la domanda a oggi la fa un model io vi pongo a tutti e due questa domanda
+come si fa la domanda perché il tool funziona e diciamo appunto blackbox funziona a un certo punto ottengo la risposta qual è la domanda fatta bene al di là del fatto che la fa l m
+ma come lo aiutiamo
+semplicemente il protocollo smtp è fatto in modo tale che tu puoi descrivere i tool che hai i casi d'uso o una delle cose che mi trovo in dibattito come spesso molto spesso
+la storia della band things di cui davide ha parlato e faccio un esempio tu puoi creare l'embedding nel database locale utilizzando un modello piccolo utilizzando le seppie o cose varie oppure scoprire che c'è un'opzione della definizione del tour per cui gli dici senti non mi dire solo
+la parola login ma aggiungici dei sinonimi quindi nel momento in cui tu il tool vuole usare qualcosa inerente le informazioni inerenti ad halloween ci appende automaticamente login autenticazione aut
+quella piccola bugia tablet tutta una serie di parole diciamo che
+sono semanticamente collegati a quello che stai facendo per cui diciamo
+il tool avendo già indicizzato almeno qualcuna di quelle parole da dei risultati che funzionano
+credo che il segreto sia nel protocollo mcphee fatto abbastanza bene c'è chi lo critica ma secondo me se non ci fosse stata la bcp non avremmo visto questa rivoluzione perché io con le mie app faccio cose che non è solo token suoi rivali ti do questa è una macchina windows connettiti
+ti trovi tu quale problema così sostituito diaz quindi diciamo
+gliela lemme sono stati addestrati molto bene a questo punto di vista quindi
+è una blackbox e la black box che funziona bene perché entra in india è stato fatto bene utilizzando questi questi plugin davide s a mi ritrovo sicuramente con quello che dice enzo nel senso che
+il protocollo sip permette la comunicazione tra la gente e helen spie in modo molto efficace quindi sicuramente se il tool è descritto in modo efficace e se è descritto come usarlo ed è per quello che io so chirografo uso steering perché non solo descrive il tool ciao ciao ciao
+descrizione il tour ma anche casi d'uso di come usarlo a seconda di come li installi
+poi piuttosto che vi spiego le casistiche di installazione che fa varie
+e quindi quella parte ben coperta ed è giusto che sia una box per chi lo utilizza poi paolo la mia risposta sarebbe
+a
+quello che ho provato a dare anche all'inizio quando intendevo ma speriamo che non si faccia vivo coding la domanda posta giusta è la domanda fatta da una persona che sa cosa sta chiedendo
+la verità è semplicemente quella io ho fatto tanti tanti tanti benchmark anche e appositamente chiedendo cosa a caso aerografo
+proprio perché volevo risolvere un problema che fondamentalmente è irrisolvibile se tu gli fai una domanda male e senza contesto o comunque che porta fuori strada la gente che in qualche modo e non deterministico e cerca di generare dei tokyo
+ken quello il suo lavoro la risposta anche coi nostri tour almeno parlo del mio ma ho usato anche col draft quindi lo so perché poi mi rifaccio spesso a quello di colpi vado a vedere se nel suo funzionano delle cose che nel mio non stanno andando
+non sarà semanticamente
+pregna non sarà esattamente come se parlassi con una persona che
+a a a cui cerchi di spiegare bene cosa ti serve oppure se gli dici una cosa completamente astratta o casuale e lui cercherà di darti la risposta migliore che riesce a interpretare quindi non solo sta nel tool quindi sì purtroppo del tulps devi un po' fidare nel sen
+che effettivamente è quella parte una box ti devi fidare oppure ti vai a vedere com'è fatta la parte di parsing com'è fatta la parte di embedding su quali motori sono stati usati che cosa ha voluto lo sviluppatore dare come flavor a quel tipo di ricerca che viene fatta però diciamo che tutti quelli che ho visto
+sono molto molto validi ken non mi sento ce ne sono tanti non mi sento di sconsigliarne neanche uno secondo me sono tutti validi quello che cambia è sempre chi ci mette davanti che chi fa la domanda se sai ti sentivo parlare prima di citycar se se io mi metto su un tuo progetto e gli faccio
+le domande probabilmente ottengo risposte peggiori di quante ne potrai avere tutti
+sicuramente perché ci saranno lo conosco pure war eagle mi aiuti mi aiuterà e aiuterà di sicuro mi aiuterà a trovare delle soluzioni a capire delle cose ma questo perché di nuovo come diceva enzo in realtà è l'addestramento della gente e l'arnese della gente che colma quel
+capo con il mio gap di conoscenza ma la domanda giusta la può porre solo che chi ha contesto a priori per fortuna vuol dire che siamo ancora utili
+ancora fermiamo a qualcosa per adesso in termini di ottimizzazione benedetto risparmiamo token ma vogliamo quantificare un qualche
+numero indicativo su quali sono i potenziali vantaggi in termini di
+allora io li vado a riprendere perché non li so a memoria ma un po' di benchmark lion ma dipende da come e per cosa stai usando chirografo perché
+chirografo nasce come un token severe e in quella configurazione
+risparmi una media del settanta per cento dei drogano se lo installi cor semplice
+senza toccare niente circa il settanta per cento
+poi però io non ero soddisfatto nel senso che non mi bastava il token severa
+e quindi ci ho messo dentro chapman ciao ernesto trentuno erm ci ho messo dentro linking ha una lama wiki ci ho messo dentro artiche e per comprimere per comprimere i comandi shell ci ho messo dentro tante altre cose per tirare su la barretta
+ma non solo sul tuo client server cioè a un certo punto ha smesso di interessarmi risparmiare solo like perché per me era sufficiente nonostante non sia uno dei migliori lo dico cia seo se uno vuole usare un topo in probabilmente quello di enzo adesso puoi sentiamoci i suoi benchmark ma funziona anche meglio
+a me a un certo punto però per l'utilizzo che ne facevo io e per tutti gli altri tool che usavo in un mio progetto nei miei progetti mi interessava andare a ottimizzare tante altre cose per esempio io faccio largo uso di dabliu essa
+non ne faccio segreto
+è il lancio tantissimi comandi e a blues quei comandi non solo nel lanciarli ma anche il loro output mi mi consumavano una marea di token che quasi andavano a invalidare il fatto che sta usando un token severe e quindi la naturale implementazione in giro
+di articoli che sarebbe è un compressore di comandi sia in entrata che in uscita
+ha fatto in modo che io risparmiarsi più di quanto bodensee e andando a ottimizzare il token sever
+caveman che è un idea che è venuta a un ragazzo credo sia olandese julius
+ha anche quello uscita qualche mese dopo che sono usciti i token graff fa semplicemente parlare in modo come se fosse un uomo delle caverne è un agente
+poi lo puoi configurare in vari modi in modo da essere più o meno spinto dove per esempio il
+la lingua cinese è quella più efficace perché comprime e
+comprime con i suoi caratteri una serie di cose
+ronnie non mi spingo a usare il cinese ecco mi basta mi basta sentirlo parlare come muovere le caverne però anche quello mi dava più ottimizzazione nell'output rispetto alquanto me ne desse il tuo server in entrata perché a quel punto avendo ottimizzato così bene i grape avendo ottimi
+zato l'input stavo spendendo tutto in output e quindi riuscire a fare questa cosa in output in input nell'utilizzare o delle modalità in cui comunichi con chirografo come chapman
+e questa cosa serve a ridurre ulteriormente i token che passano attraverso la gente quindi
+vabbè anche qui lo dico tranquillamente chirografo è un grosso esperimento cioè ci sono tante cose dentro che altri inseguire secondo me giustamente non hanno infatti una delle mie più grosse difficoltà anche enzo prima lo dicevi ti sono saliti un sacco di tipi nulla il loro denso più
+tully e a un certo punto sono arrivata quasi duecento e ho dovuto eliminarne un po' ho dovuto abbassarli ho dovuto mettere dei proxies si aprì davanti
+perché poi il problema era scegliere definizione dei pd vi bruciamo tutto quello che andavo a risparmiare ho dovuto fare delle installazioni dove installi solo alcuni anticipi e quindi locali sul tuo caso d'uso per esempio io io personalmente uso chirografo con il grafo
+senza semantica se scusatemi senza vettoriale ormai sono arrivato a usarlo senza vettoriale anche se tanti mi dicono che lo usano ancora con il vettoriale
+con caveman attivo con artic attivo
+però non è l'unica modalità per utilizzarlo per esempio c'è il modulo di security che ti attiva altri di questi moduli perché se devi fare un in cui ridi security sulla tua cod base è diverso il modo in cui lo utilizzerai non tutti i modi in cui lo youth
+utilizziamo
+significa che vai a risparmiare token in automatico almeno questo benchmark of dio
+scusa mi sono dilungato no
+hai detto cose interessanti
+tu penserai basso lo dico solo che sono stato un po' scettico in passato sia su iphone sia su ereticamente
+intrighi ha fatto poi degli esperimenti la mia paura era se quest'uso stati addestrati su comando less
+e si aspettano l'output di alex se andiamo a comprimere vero che abbiamo ridotto i pokémon pro poi la qualità rimane
+l'esperimento è tutta roba molto discutibile sto a misurare il cappello eccetera eccetera
+però ho sempre avuto l'impressione che le due cose andassero separate in modo tale che puoi usare le etichette lo usi
+non lo puoi usare lo usi il tool oggi è solo analisi semantica del coach o una delle sue antiche che mi è piaciuto del tuo e quando ha parlato di sicurezza nel buio ho pensato agli indici di qualità che ci sono degli indici di qualità che sono abbastanza standard per cui non
+momento in cui stai facendo un passo in con preside a quegli indici sono calcolabili e sono molto utili per mettere in dubbio è dileguata l'indice adesso è gelosi che ha abbastanza basso fatti tutte le modifiche necessarie fino a quando l'indice sale a zero nove zero otto quello che è
+elisa
+a il massimo rendimento perché il modello comincia lupare lo puoi fare anche su un modello locale perché se il punteggio aumenta file comments punteggio diminuisce fa il revert è proprio un'altra strada e quindi diciamo oggi sono queste attività parallele
+e niente o come benchmark per dare via perché poi
+una bugia una bugia il fatto che quando si misura o questo o questo quivi su collera con gli mi sarebbe costata mille token è vero che noi risparmi il settanta per cento però è solo su quella quindi non è lì che l'allarme lavoro quindi
+non è solo un ripeto che sono sicuro che david è d'accordo che il risparmio non è un pò che numerico con una riduzione numerica dei token ma a dimetterci voli giusti so dare una mano alle lame a dire e per questo diciamo
+intelligenza dicendo che forse eretici non va bene perché ci toglie top token e quindi sono magari qualche toga anche per noi umano magari non ha senso però nell'addestramento hanno misurato cose così
+e quindi sono turchi si possono lanciare l'idea di comando è una delle idee che mi era venuta o che io prendo dieci domande per dare un'idea tipi chiedo come si fa la configurazione
+qual è la gold class nadal classe la classe dove sono di tutto di più la classe della monnezza diciamo no eccetera eccetera domande standard che sono applicabili a quasi tutte le code bash è creato un benchmark che dice che lancialo fa con le quali in internet fa un report che ti dice walk in questa odbc
+c'è da risparmiare perché effettivamente oppure questa producesse se il suolo march down non sta risparmiando niente e quindi diciamo hoover chi ti dà un'idea poi magari se volete facciamo una demo sino alla diavola facciamo sicuramente per entrambi chiedeva luciano che collegato al suo concetto
+è in chat come si fa un benchmark per capire quanti token vengono usati un proxi però bisogna capire che voi non usate un paziente un po' xd
+tu hai detto che fai una specie di
+se tu hai l'islam abbia l'obbligo puoi essere accurato che
+la stima che faccio alcune dicono troppo ottimistica però quando tu stai facendo una ricerca molto generale che
+dimmi non so se c'è qualche riferimento a apple o nel codice magari
+una ricerca più generica possibile in val li devi far grippare tutti i fan grappa devi fare oppure dimmi se c'è qualcuno poche variabile a apple che faccia questa cosa qua e non hai più bisogno di un gap ma devi caricare in memoria o un una fetta consistente l'idea che è partita da
+al colby e quindi la coreografa e io faccio il capo di quanto avviene in memoria a pesare quel file e qual è invece la risposta che da mcp corrisponde alla stessa domanda molto ottimistica una stima diciamo di bassano e quindi
+questo è quello che fa il baciamano non uso proxy
+ho usato in passato la possibilità di di di disabilità e token save quindi contare
+con con prezzo ovviamente è vedere più o meno
+ripeto il discorso non è tanto sulla quantità numerica ma sul fatto che se faccio una domanda più precisa se costringono a lemme fare una domanda più precisa aumento il determinismo che questa è una cosa importante che ha dato a davide e l'allarme non sono deterministici per cui se loro vanno
+in ordine sparso hai un risultato di qualità
+la peggiore perché
+aumenti non determinismo il mio collo nel diminuire i suoi token e aumentare determinismo per dire quando devi fare questo tipo di ricerca la faccia coperta o che è più deterministica più corretta e produce qualità migliore come anche paul diciamo questo in generale non ne so molto
+sisma in generale l'idea di come funzionano i google glass
+sono completamente d'accordo con enzo tra l'altro eh
+io ho fatto i benchmark li ho fatti ciro attivo chi erano chi era disattivo quindi ho usato le euristiche che che proprio di colpi e ne ho sviluppate altre proprio per fare benchmark quelli delle olistiche che rende le stime
+e sono arrivato a più o meno a quel numero che vi dicevo ma poi ho anche fatto brock stato verso eroe usato chi ero veramente e ho fatto fuori purtroppo ciro funziona a crediti tanti tanti crediti per farlo è proprio la certezza di essere intorno a quello
+omero
+tra l'altro per poter stare basso su quel numero e non andare molto più in alto ho dovuto togliere tutte le volte che vi raccontavo prima che ciro sbagliava perché tutte quelle volte le ho dovute prendere togliere perché si sbaglia ti tira fuori eh
+ti tirano fuori dddd ti porta fuori ti pensa e ti fa pensare che stai risparmiando una quantità di token che poi non è veramente reale però nell'uso quotidiano ti bastano due volte che sbagli e se funzioni come chi ero a crediti o come clutch coda sessione
+te ne mangia di pezzi di sessione soprattutto poi dipende da quanto la
+lo sviluppatore è abituato a fare determinate cose se tutti i figli del compact di cloud e basta e non vai a fare un clear della sezione compattare tuo e a fare e a sapere come devi utilizzare comunque l'arnas in generale
+va fatta sempre la volta che sbaglia che sta aggrappando perché vai l'ha detto bene enzo ma solo di grep e che poi lui fa quel greppia si porta con le informazioni e poi passa tutto collocare al contesto prima
+visto che i modelli adesso ci hanno ci hanno anche spinto questa narrativa del long context
+high cinque e mezzo un milione di token e io non so che utilizzo ne fate voi maiolo uso
+ecco quello sì che ti brucia contesto lo stai usando male c'è e sono stati fatti long contest sicuramente hanno anche un'altra applicazione cioè con molto grande dove la semantica e il contesto dev'essere premio in un milione di hogan
+ma nell'utilizzo normale che
+facciamo noi sono una quantità enorme
+aiuta una quantità enorme
+e noi sbagliamo a non utilizzare ancora prima di andare a cercarci to che il fever a non utilizzare l'arma e sprecone della rosata fare clear compattare
+e poi beneficiare anche di che il sever che fa fanno con loro quello che devono fare
+l'indice hacker c'è tutto un tema di
+ha sicuramente conoscenza dello strumento a cui ti stai affidando e in più i tool come quello di enzo al mio quello di goldie
+ti aiutano ti aiutano a mettere quel pezzettino in più dove invece l'area finché non arriva perché perché l'arnas non può essere deterministica punto ma poi magari ci fanno fuori domani dicendo abbiamo implementato un token sempre interno e fine
+lo interessano anche a me sarebbe se la qualità migliora e inflazione i good mood di cloud quello che hanno annunciato da poco si va verso quella direzione verso quella di direzione
+io lo applaudo fa avete fatto bensì in sé ma anche se
+the wall l'intento è quello lì c'è
+poi io lo dico perché per esempio io pago degli abbonamenti quindi il mio intento non è pagare meno il mio intento è esattamente quello che diceva enzo usare meglio i temi che ho a disposizione cioè per me non è un risparmio perché poi il nome il nome è per questo che io l'ho chiamato chirografo perché non volevo quel flavour like
+e se vai a vedere nel rugby e ci devi proprio arrivare ai benchmark c
+sono ben nascosti
+ho un air show adesso offerta a voi voglio voglio fare un benchmark su sette repository molto grossi pubblici
+però al di là di questo è più un tema per me sapere che sta funzionando bene io sono completamente d'accordo con enzo e quanto il token e pregno di significato non è non è il numero di token che andiamo a dare assoluta lettere avete posto utile una cosa che mi è venuto in mente mentre lo dicevi
+e che per me il benchmark migliore è vedere che una sessione token silvio è stato chiamato dieci volte invece chiede due significa che dieci volte
+cloud ha deciso di usare token severe e per cui se una volta vedo che viene usato due volte vado una conversazione gli mandava a dire ma perchè va usato solo due volte ma perché qua c'è questa ricerca di token si è quindi c'era un tuning o continui con hong kong tuning continuo nel
+nell' aumentare le possibilità che vanno con booking vanno con un o malefici di dire no n usare l'esplora tour offre fare
+e volevo aggiungere giusto non dimentico che sono talmente d'accordo con enzo che quando dicevo di chapman charm artic
+per me sono tutti opt-in perché anche su progetti diversi io magari li attivo lo disattivo per come come uso quel progetto per quanto sto nella barra della consapevolezza di quello che voglio fare quanto voglio spingermi survive outer vero che e quindi non voglio pensare voglio solo andare ok e allora lì attivo oli
+disattivo
+ed è da questo rispetto a quello che diceva enzo e che trovo giusto ok
+e sempre valutare lo strumento che stai usando
+sì sto lavorando su un progetto completamente di architettura mi m'interessa assolutamente avere ampio il contesto dell'architettura non userò mai art che probabilmente non lo uso perchè ho bisogno che dall'altra parte mi spieghi bene e cosa sta avvenendo e anche che ne so al lancio dei comandi si dice
+che mi venga detto tutta la storia della sedicenne che cosa sta facendo se invece sono un progetto io uso tantissimo amplifica gen due
+eh
+un framework per fare applicazioni molto veloci inserm charles lee la silice e di stampa praticamente tutte cose inutili e io le conosco le so già che sono inutili per cui tanto vale che attivo articoli
+eppure una questione di consapevolezza di come a utilizzare i vari tool come gli innesti giustamente come dice enzo e tra l'altro di nuovo sono completamente d'accordo perché chirografo è un mio esperimento personale non non non pretendo che venga usato da nessun altro e anzi sono contento che installiamo tutti
+ma sono molto contento che qualcun altro lo usi e che mi apra io non so come funziona da enzo ma ne aprono più i look delle star che mi danno cioè veramente c'è tantissima gente che mi offre un sacco di esso mi fa lavorare un sacco e fuoco
+ieri gli devo ricordare io di mettermi una star ogni tanto
+però la verità è che
+l'importante è essere consapevoli di quello che stai usando
+tante volte per esempio mi scrivono mi chiedono come utilizzare chirografo e poi alla fine bassa reggiana ritmi leggeri hdmi e ci c'è scritto tutto lì vi era complesso ci sono tante cose che fa ma basta leggere ritmi e andare eco con gli strumenti che vuoi allora una domanda da livio in chat prima di veder
+dal vivo e vogliamo vederli con i vostri strumenti in azione allora chiede
+rispondete voi e
+quindi se ho capito male il meccanismo e cerca un metodo per ad esempio
+lui cerca non tutti fai ma usano per fare la ricerca le siepi sempre collegata al database che memorizza tutte le strutture del sorgente e in particolare restituisce il file della classe dove c'è il metodo e tutti i file di classi chiamanti quindi fa la ricerca solo su quel file è questo che fa sostanzialmente cioè usa le siepi per far
+una ricerca che sarebbe altrimenti fatta con strumenti alla grep chat
+sostanzialmente sì sostanzialmente sì
+scegli chi vuole iniziare a condividere semplificato chiaramente semplificato ma sostanzialmente quello alla
+è un grosso problema c'è
+la crepa
+la differenza si vede cioè l'allarme posso dire che la differenza si vede quando non mi capita di fare una lista su un progetto dove mi dimentico di farlo partire
+vado a vedere nel debug poi lo noto di okhotsk ops ho dimenticato di attivare per mathias pochi esempi bla bla e quindi poi riparto e si si si si nota una differenza sostanziale e vediamo come si usa su un progetto mettiamo che uno debba way volerlo utilizzare su un suo progetto corciano
+per fare che vuole iniziare a condividere lo schermo e farci vedere
+vai vai pure a era una cosa divertente io faccio vedere vedere rai da utente terzo facci vedere un pezzo orbison né
+avete pazienza quello che vi faccio vedere
+riesco a proiettare il mio schermo mi date conferma che lo vedete c'è un omonimo personaggio perfetto allora la cosa divertente ora davide mi passerà per favore la la la cosa è che si parla solamente di token fave
+ma
+l'ultima cosa che vi posso mostrare io e avere una skill che è atto and see first cioè
+ho cercato in tutte le mie skill scusate una rolls ho cercato in tutte le mie skill di
+non far far mai mai una ricerca appunto non fare mai un grip e quindi a un certo punto mi sono anche iscritto una regola è condivisa fra le varie skill per
+portare nel mio uso di s ill andare sempre sempre comunque a fare una ricerca su token save quando
+si stava parlando della mia cody base ora questo è puro e semplice esempio stupido e quindi l'hai fatto tu lo metti nel tuo utente della tua homo proprio come tuo cavallo di battaglia che usi sempre o per progetto allora in realtà
+in realtà me lo sto portando me lo sto portando sempre dietro quindi lo metto fra le impostazioni direttamente generali
+la fra le impostazioni generali idee delle aree anche perché è molto comodo soprattutto per il fatto che saltello un po' dal mac è il mio personal computer personal
+salto da quello al il mio computer windows è il mio laptop di sviluppo al lavoro e al tool installato all'una e all'altra parte e o old style gemelle e delle rules gemelle quindi salto
+po io tendenzialmente uso code code gogol antigravity e saltello un po' da una parte all'altra è di fatto una buona parte delle connessioni e in quel caso è sotto che shell che si ricordano una parte e dall'altra che cosa ho scritto ed ho
+lo scritto fortuna perché aggiungiamo sta cosa poi magari vediamo mentre lo dimostrate e il database dove vengono salvati i grafi e di solito è dentro il progetto no magari gattini ormai un database locale o nella home dell'utente in qualche diretto in particolare allora
+il caso di che seguì tutte e due
+il grosso dei database sta nel progetto una folder nascosta del progetto è di default non eliminato da keating ignorato da ghetto e poi c'è un piccolo folder round dell'utente per dire quanti database ci sono in modo tale che tu puoi fare una query globo
+vale
+e ti fa un report
+progetto per progetto ma è l'unico motivo per preparare la gara non è l'onu away
+una location centralizzata che mini database di database
+a database
+chi vuole farci vedere qualcosa comincio io va mai vai
+charles green
+willow occhi
+è questo
+che determinare
+se per
+hotel perfetto perfetto perfetto perfetto allora facciamo un esempio io pago in un progetto che si chiama annie box
+red john e qui dovrei avere poche incisive per l'installazione è inutile insomma va la primo perché dovrei disinstallarlo e reinstallarlo ma è molto semplice sono due passi molto semplici uno si scarica il binario tramite browser ok
+oppure
+scoop windows o oppure scaricare il binario in qualsiasi modo possibile e l'altro è quello di fare ciò che si evince dal install è quello che
+installa gli u
+per ogni agente sulla macchina
+vedi in questo caso cloud di negozi open world si gode ch'io lives games
+scusa se ti interrompo che cosa va esattamente a fare scriveva degli skill nella tua home delle news che dipende dal logo ovviamente ogni è diversa come diceva
+davide
+le cose cambiano però diciamo fa il minimo possibile in modo tale che tu pensi possa intercettare
+quel come si chiama qui ad esempio cecchino l'oklahoma installato va accesso all'alpha no non ce l'ho neanche planet ce l'ho e me lo tengo e basta
+e questo diciamo questa fase è iniziata la si fa solo una volta e lo si fa si aggiunge un'altra ares e hostal l'avvento diciamo tipicamente raro dopodiché l'auto che ha installato autocad si nota che l'hai usato sulle arnas quando vuoi indicizzare quel col
+oggetto ho chiarito che sam pinkett in questo caso si dice che il insieme già inizializzato
+e quindi hai due opzioni and save skin che significa la georgia semplicemente quello che c'è oppure force boulder de s n c
+facciamo una bella cosa
+se appunto
+to save quindi tu come siano diventati maureen tuttavia dentro sono sul fatto che sei it baba
+sta indicizzando le varie fa al feed ha causato molta domanda e indicizzate solo codice o anche bo documentazione qualcos'altro che possa
+codice è una parola moto
+o ambigua perché se chiedi a qualcuno se a catinelle codice e ti dice di sì se vedo qualcun altro se atmel non è codice ti dice di no
+e quindi
+c'è una serie di fatiche di codice indicizziamo i tre sitter sono specializzati nella nell'indicizzazione quindi linguaggi supportati sono quelli che vengono indicizzati nel caso specifico a catenelle uno di quelli quindi se c'è un fallo atmel viene indicizzato anche
+indicizzare di più non è un problema indicizzati meno se quindi diciamo piuttosto
+si indicizza di più cioè adesso faremo una pessima figura perché
+p no no non facevo la grida tanto diciamo questo nuovo pianeta stampa succede
+devo dire che ci sono dei ragazzi stanno collaborando e sono molto appassionati
+aveva già raggiunto così dice un punto stabile
+non non sentivo il bisogno
+ho visto che c'era qualcuno che voleva sperimentare ragazzi
+open source ebano per questo fate pure e quindi aveva battuto che sei vini zitto che salva john
+la preghiera è la cosa che ha adesso facciamo partire cloud cloud
+ok che nel frattempo in un'altra finestra faccio parte di detto che il save monitor
+ok
+qui ti tutti i progetti a cui sto lavorando o in verde l'ultima l'ultimo tool utilizzato in giallo il penultimo in arancio il terzultimo e volendo fare una prova facciamo a disdire il mio testo diciamo preferito
+oh e google glass perché la nave cp ho scritto ma c'è un tool che si chiama world class fa esattamente questo per cui se faccio la domanda dovrebbe eccolo qua si vede colin che save the times
+going to see the things that clearwater baba e mi dice che ci sono alcune che sono schiave questo già trenta field questo ventinove field questo venticinque agosto è un progetto molto particolare è un emulatore di xbox cercava un emulatore per fare prima e quindi me last
+petto da cosa del genere non è un progetto classico e
+ha dimostrato che ha chiamato e qui devo rivedere nel progetto eni box with token silver gold class chiamato e ha restituito zero perché non ce ne sono oh holiday ha restituito zero token qua ma ci sono poche il basso e poi probabilmente aveva fatto un'altra chiamata che
+non è stata tracciata o forse non ho forse e in aggiunta a quella di jalalabad class come versione come
+espansione e ha risposto dato la risposta questi sono quelli che più si somigliano
+eccetera l'altra l'altra cosa che mi piace è gay
+what's di yahoo
+school of the coda anche questo tab tre grave una chiamata token save intanto l'hai fatto in in rasta sì perché rasta e non altri linguaggi tipo wow o altri anche di più
+compilati non interpretate ha innanzitutto è
+di default o platforma free ma compilato veloce senza garbage collection last da due garanzie che nessun altro linguaggio da che sono o memorie bag la classe di memorie bagno non esiste oblast e
+i buchi di
+database sono impossibili in roast però proprio dirà che è difficile da scrivere siccome non scrivo io è che mentre facevo il trend di viaggio che vi dà più garanzie e tra tutti quelli che ho sperimentato è e quello che diciamo mi fa stare più tranquillo quando c'è un cuoco
+usa che gira come un server che quindi deve dare delle risposte
+in offline mode e quindi ciò questo motivo po' a parte sono un appassionato di rusty
+da tempo infatti diciamo
+tutti i progetti che avevo iniziato a loro ultimi progetti cavolo ho scritto in codice che ho scritto manuale erano in rust e quindi diciamo ho visto che il vasto sarebbe per me considero un vasto il linguaggio miglior opinione motto condiviso per la generazione di codice io non voglio scrivere anche una riga di codice più
+scrivi un rash lo so leggere e difficile da scrivere ma so leggere ancora e posso capire diciamo
+o codice molto efficiente molto veloce e posso prendermi la libertà di dire senti io non devo fare un cinque ogni volta che viene modificato un file perché possibilmente
+tim potrebbe cambiare dieci file nella stessa sessione e quindi senza non si tocca insegue un assenso indicizzare
+sì sono focalizzato su indicizzazione molto veloce e quindi l'austria viene aiutato da quel punto di vista l'ultima cosa che volevo far vedere questo il monitor
+contro il c d save stars jazz
+borgo scritto che insetto che sei fissato
+kensi status e ti dice in questo progetto
+quanto quanti falchi sono quanto è grande il db i tipi di file più comuni eccetera eccetera last seen
+eccetera eccetera efficienza novantasette per cento nomi misura moto ottimistica che si ottiene ad esempio facendo to and save page e sono le dieci domande che secondo me sono applicabili a quasi tutto il progetto come caricata la configurazione quali sono comandati sono fatti come fatto parte del com
+online eccetera eccetera e ti dico che se vuoi scaricare questi file nel contesto
+sono quaranta cappa se invece uso la risposta che hai dato and save ne uso solo novecento e quindi un save moto ottimistico che si avvicinano al otto per cento però questa scusa è una stima basata moto guzzi molto
+molto ottimistica perché a quando non l'ho scritto ma non per barare a quando l'ho scritto diciamo era molto tipico vedere l'allarme caricare in memoria
+tutto il film si fa l era piccolo diciamo uno un cappa due cappa lo caricava c'erano delle euristiche molto molto basilari e quindi è facile che sia una cosa come la configurazione che va a toccare quasi tutto il codice perchè quasi in ogni parte del codice controlla la configurazione per attivare o meno una cosa
+è chiaro che la la by jason lee flynn era motodays una stima molto ottimistica però diciamo
+fa capire
+che il risparmio c'è però ripeto non è un risparmio non è questo quello che mi interessa ma il fatto che colto che i monitor ho visto ricevere chiamate quello
+l'on
+benchmark più importante allora chiede luciano come fai a gestire la reindicizzazione quando switch da un brand all'altro
+ci stiamo lavorando abbiamo fatto un'indicizzazione automatica però o con il fatto che l'indicizzazione molto rapida
+se cambi da un braccio all'altro
+le mcv se ne accorge e ti in aree di di di suo stavo cercando di lavorare su stufato di avere la gestione dei branch perché
+in passato abbiamo visto che aveva un database gestito da gtt non funziona eccetera eccetera ci stiamo avvicinando verso un modello dove è un po' più trasparente però il trucco banale finché veloce o ricami brand weinstein era il suo problema e questo lo fa automaticamente perché va da sé
+posso chiedervi una cosa chiedo a tutti e due io rimetto in chiatta un link di uno del codice di kiki tappa di un progetto che ho fatto io volevo che è una figata pazzesca per i standard che un tool per mac
+che paolo poco poi fanno una verifica dei tuoi banche anche della qualit sono a qualcosa che richiede la condivisione perché non riesco a trovare dove emesso una chiatta di di trovare la cia
+asphalt house gold
+sì
+chat over howard ha forse qui giovanna
+fondata non fu schermo eccola qua e whatsapp
+movimento opposto anzi mentre enzo si prepara questo innovativo condiviso integrato sé ma anche perché anch'io me lo dovrò preparare non so se ci riuscirò a fare richieste
+skylar red hawk vi faccio vedere faccio vedere chirografo condivido chi era ditemi se vedete se pestilenze o al di là delle
+della funzionalità che è del tutto uguale quindi c'è al di là di usarlo vi faccio vedere alcune cose che
+a su cui si differenza e su cui c'è un tipo di filosofia ad esempio l'installazione chirografo è fatto times tav a dei dei pezzi fatti a rasta che sono però relativi a parti che devono essere più veloci
+perché ha fatto così semplicemente perché conosco times cripta e perché volevo leggermi il codice che stavo andando a fare comunque volevo averne contezza e quindi a
+era anche una questione per me imparare cosa stava andando a fare quindi volevo semplicemente che fosse per me è interpretabile non conosco così bene rasta e figli
+piano piano sto portando dei pezzi all'asta
+una delle ultime cose che sto facendo c'è una mainstream sul progetto che è proprio un pezzo di anakin resta sulla uno sette zero lo so siamo circa la uno sei quattro
+l'installazione di chirografo intanto fa una cosa che l'auto detecting delle dei degli agenti che hai sulla sul tuo pc
+o sul tuo mac insomma sulla tua macchina quindi per esempio ti chiede se lo vuoi fare su ciro e basta io di solito lo faccio solo zucchero oppure io per esempio uso questi o lui le auto detect e mi dice lo vuoi installare per tutti in questo momento gli dico di no perché non mi interessa farvi vedere questo vi faccio vedere altro però se lo facessi
+installerebbe sostanzialmente verde watch a una cartella non condivisa cloud installerebbe anche qua una serie di file se vi faccio vedere cosa fa per errore
+quello che qua chi yoga pistola va a scrivere qualcosa nella fa il generale dell'utente o solo nei file di progetto alle due funzionalità io adesso vi faccio vedere quella per progetto ma si può installare anche scopo generale e quindi puoi utilizzarlo su più progetti
+io non lo uso quasi mai così proprio per quello che vi raccontavo prima cioè che incastrando adesso vi faccio vedere b varie feature è più scomodo perché non è vero che su ogni progetto voglio usare tutto perché per come si usa chirografo per come dovrebbe essere usato
+per me non è non è più un tema di solo fare che saving ma è un arco intelligence vera e propria che ti fa una serie di cose ne so ve le faccio vedere tutte per quello che prende un po' di tempo preferisco non farmi vedere cosa fa farvelo scoprire ma farvi vedere quali sono le funzionalità
+quindi lo installo solo perché ero ma mi chiede la versione perché c'è stato un problema nello switch di versione alla uno dichiarò in urss avevano un formato diverso e quindi ci sono poveri utenti che hanno ancora quella precedente mi dispiaceva lasciarli e lasciarli a piedi tra poco la toglierò perché ormai il passaggio alla honda è stato fatto
+quasi tutti qua mi chiedo se voglio ottenere le mie configurazioni correnti perché lui cosa fa ha nella globale c'è una cartella globale in cui si salva sostanzialmente per progetto le tue configurazioni e quindi quando lo installi e disinstalli quello appena disinstallato per far vietare questa cosa lui ti chiede se vuoi rimanere nel
+quelle dell'ultima volta dai quali dico di cambiare lo faccia apposta per farvi vedere ci sono dei profili i profili sono developer team security data docs e aia la lemma sono profilati per usare gli exit poll incastrati come vi dicevo prima in modo da supportare quello che il workflow
+vuoi per esempio developer ha perlopiù il core qualcos'altro tim
+mette insieme una serie di cose che ti sono utili anche per lavorare in team security se sei un secchio di analista data in box se sei andata analista o se vuoi indicizzare
+alcune cose e adesso vi faccio vedere perché matto custom e ve le faccio vedere tutte e helen sono dei comportamenti
+se fai lai lai jarvis cosa del genere
+se io faccio custom va bè la prima cosa che mi chiede se voglio avere anche il motore semantico se io dico si ho una serie di
+modelli già preimpostati per essere scaricati da greenpeace oppure posso importare il mio basta che sia supportata da gae in fase di matto su eddie lo scarica in locale sono mattino una cartella puoi anche scegliere se farlo in locale o meno scusami per progetto o meno
+e a quel punto utilizzi quello che vuoi per esempio io abuso di emma ma diciamo standard nomi nomi nomi come amazon ebay fare embed una volta che hai scelto il modello gay chiede qual è il db che vuoi utilizzare per andare a salvare questi questi led
+tori perché ce ne sono diversi ognuno ha il suo flavor a ogni utilizzatore e gli piace più o meno un altro e ognuno è fatto a suo modo io per esempio uso semi uso quasi sempre ormai turbò quanto turbo vecchia perché sono basati sull'algoritmo quello di google fame
+osho che serve a comprimere ulteriormente insomma sono più veloci e mi piacciono di più però diciamo che sto standard etico in progress cos'hai similarità in bros poi te li spiega e ti dice questo è migliore se vuoi fare a source questo se vuoi una index questo se vuoi la
+db
+cose varie
+a questo punto iniziano le figure le figure che vuoi dare graff perché è vero che il grafico è quello che chiedevi prima alessandro grafico che cos'è è un grafo che cos'è è solo codice e anche i doc e anche xv sono anche le immagini a un certo punto io ci ho messo dentro una
+roba per le immagini poi l'ho tolta perché non sono riuscito a infilarlo viene però è che cos'è quindi per esempio qua io ti faccio scegliere vuoi usare le doc stringo meno è interessante per te su questo progetto io per esempio lo disabilito sempre perché per me non sono interessanti i commenti che metto io però c'è chi li fa bene e
+viabilità vuoi utilizzare con re lear perché non è detto che ti serva per forza se vai a cercare di determinate cose non è detto che ti serva per forza quindi anche questo lo puoi disabilitare e in questo caso diciamo
+vuoi fare analisi di architettura si è quindi qua faccio una esemplificazione poi su vari comandi si declina in un modo diverso però quindi ti leggo i packaging ti leggo i leaker ti leggo tutto quello che riguarda l'architettura del software
+oppure non te lo leggo e allora qua io gli dirò va bene e lui ti dice anche guardate che andrò abilitare una serie di abs pitbull
+vuoi
+avere dei tool che ti servono a navigare perché il tuo agente tu gli puoi fare una domanda del tipo ah dimmi dove sta questo file come correlato all'altro che è quindi navigare il grafo ma potresti non volerlo fare potrebbe non essere una cosa interessante quindi non è detto che devi dargli un tool per film o per
+l'impatto o sullo stato dei file e quindi puoi disabilitare i cookies e ce ne sono tanti con delta complessi di metrics questo ovviamente perché ho fatto full
+git context primitive l'utilizzo della gente dirci quando tu hai un profilo predefinito per patriae ai diversi profili sceglie per te ed henry mi ha scritto che cosa sceglie parlare altrimenti li vai a configurare tu per esempio questa questa agent utilities no
+non è detto che tu puoi chiedere al tuo agente quanto stai risparmiando però magari lo vuoi fare ma se magari può aggiungere tutto è un gran problema o è in realtà c'è il problema poi lo bacia security ciabatta ermetica documentation questo interessante perché è quello che chiedeva
+prima paolo o forse stesso tu mdd non è mcd li leggono li leggo
+a un certo punto ci sono c'è il liquore ad asolo ti rispondo scuderi c'è la correlazione col collega si petullà prezzo predefinito che il contest il contest è quello che evita e grep okay e quindi lui ti chiede vuoi che la documentazione i fatti che trovo nella documentazione siano utilizzabili solo
+tramite il tool della documentazione o siano correlati anche al contest perché magari tu sai consapevolmente come chiedergli la domanda per usare il tool giusto e quindi non c'è bisogno che mette i fatti che ti sporcano come dicevamo prima con enzo il contesto dall'altra parte i dati per
+l'esempio è un
+si chiama un
+reply che tanti way voti jason sono pregni di significato sì no boh se si l'indice se no no cartman come vi dicevo prima ti piace non ti piace vuoi spingerti al massimo puoi farlo parlare proprio asilo attivo
+sean comprensione artic vuoi mettere general purpose compression che fa tutte e due in ingresso in uscita o emettere sì o no ma ce ne sono qua poi ci sono altri moduli adesso non ve li faccio vedere tutti ma per esempio c'è memoria quindi a leland wiki
+non è una leyland wiki e basta è un leland wiki dove ogni osservazione viene elencata al tuo grafo quindi quando tu vai a fare una ricerca di qualcosa e io così la uso quando lui stora una osservazione si ricorda che io sto facendo una cosa importante o gli chiedo io di storicizzare la lo
+kojima scegliere qual è il punto del grafo per cui quella osservazione migliore e quindi quando io poi andrò nel context se io dico di abilitarlo di metterlo all'interno del context con il il numero di osservazioni lui a quel punto mi dirà guarda ricordati che avevamo fatto questa cosa quindi non è solo una memoria
+e per quello enzo che a me non piace prendere più
+più strumenti e utilizzarli insieme perché non riesco a fare il link con il grafo come voglio io così invece lo posso fare del motivo per cui me lo sono creato
+alessandra mi sono dimenticato la domanda che mi avevi fatto ma volevo
+sinossi aggiungere sei uno si fa prendere si fa ingolosire aggiunte tutto aggiunge tutto però immagino poi appesantisce qual è il motivo per cui io ho creato i profili perché a un certo punto aggiungendoli tutti per halo funziona funziona ma chi è lo stesso di c'è
+ehi attenzione hai un tunnel ip collegato con
+adesso non mi ricordo ho ridotto mi pare siano ottantanove ottantanove ottantanove tully guarda che se fai una chiamata
+cioè io posso utilizzarli tutti ottantanove qui la e vado nel contesto anche la necessità di ridurre contesto di fare per cui questa configurazione custom e per chi ormai ha imparato a utilizzarlo da un po' e vuole
+e vuole stressare un comportamento un altro vuole capire come fare lo installo lo installò giusto velocemente normale solo per farvi vedere che cosa fa la facciamo corolle senza semantica gli dico di togliermi fuori la cartella dei test che non vogliono indicizzare
+i con indicizzarlo va parsa risolve cai
+qui
+a
+perché poi io sono uno che va va' puntiglioso sulle cose che ci sono dei pezzi in cui times cripta è molto lento ci sono dei pezzi in cui il vantaggio di usare un compilato è praticamente nullo quindi è questo quello che stavo dicendo alcuni pezzi li ho spostati volontariamente adesso sovrasta perché si tipo
+il parsing perché lì si ci guadagno tantissimo altri pezzi non serviva e quindi ho preferito tenere un linguaggio che conosco semplicemente perché era più leggibile pam
+volevo visto che l'avete chiesto più volte farvi vedere che cosa fa a in generale e qual è l'architettura più che farvi vedere perché tanto si comporta come quello di enzo fa esattamente la stessa cosa alla fine
+no a la silla in giro ci sono delle particolari skill che si chiamano steering okay e crea uno stealing che gli dice come devo usare chiaro come deve usare chirografo scusatemi
+e poi gli dice anche come scegliere di utilizzarlo gli fa una tour reference solo dei cor nel corso praticamente solo context e la serchio ci sono poche cose se io avessi installato gli altri moduli mi avrebbe spezzato più skill più steering quindi più
+tearing
+e più modi riutilizzarlo descrivendomi tipi quindi non lascia solo alla gente il fatto di conoscere nella bsd ma anche gli descrive come utilizzarlo
+scusa chiede se lato agente ares si vede soltanto leadership serve come interfaccia verso lo strumento cellu
+il sì sì sì sì tu alla fine alla fine vedi solo l'abside server cioè esattamente come enzo b edile chiamate leggi ho chiamato tyler bryant ha in realtà su hiro vede anche che chiama lost hearing già si porta dentro lo streaming e poi usa le absidi la sip server però per esempio
+che vi dicevo prima sulla chloe
+sulla clive questi qua sono gli altri perché io non la uso poco e per esempio qua c'è un bug non doveva farlo
+né installate più di una
+n
+qui sostanzialmente ah no è vero perché hagen funzionano in modo leggermente diverso tu gli dai tutte le risorse e poi li abiliti a seconda di che cosa stai facendo quindi è giusto che ce le abbia tutte
+il sotto agente nella clip è quello che gli permette di usare chirografo egli dice come farlo con quali tool lui può usare
+quali tool a disposizione questi sono tutti ok
+il suo agente si comporta in un modo diverso cioè nel momento in cui hai lo styling devi avere dei tool abilitati e lui decida quali utilizzare quindi non c'è col vantaggio di non averli di non averli direttamente
+un'altra cosa che vi faccio vedere perché sempre l'avete chiesta sono ux o in chiaro ma così come il cloud in altre ares non ci sono quindi dicevo all'inizio non ho potuto fare questa cosa come ho risolto io ad esempio quando
+quando switch branchia ok
+quando swiss branch o in una delle varie installazioni a quella per developer per esempio per team tsunami
+c'è un altro look che dice nel momento in cui viene fatto un get
+un comando git per switchare branchia allora lancia la skin
+e sfruttò look di tiro o look di di code
+in modo che siano sempre aggiornato e quello che lui fa è semplicemente lanciare esattamente il comando
+anon non fa nient'altro
+se tu switch branche da un terminale è separato dalla carne c'è un sestante scatta lo stesso secca
+se io swift samuel branchia da un termine sì sì sì sì sì perché il sig il cinque che a livello di idee qua e nella cli a livello di club e nella beh nella clip no non scatta qui a livello di diede l'idea che te lo fa scattare nella inc
+cloud e l'uso popoli ha con quella cosa lì quindi non te lo so dire però se switch terminale e apri una nuova sessione quello che mi viene da pensare che in realtà quando fai uno switch
+cioè si parlava di switch di branch giusto sound esposti quindi esposti puntatori a livello secondo me almeno me lo prende con me quindi tendenzialmente spostando puntatore a livello di cartella git tendenzialmente dovrebbe farlo dovrebbe farlo però ti devo dire la verità d
+avrai guardare perché mi hai fatto una domanda che utilizzando spesso vite a saperlo e usarlo sempre dall'idea quindi quel punto utilizzando spesso no baba però sarebbe una bella isola aprirà nel caso non nel caso non funzionasse casa honda sh comunque più o meno è questa cosa qua poi quello che fa
+lo faccio vedere sempre perché non ho voglia di aprire ma da jazz io chiamo context vi chiedo a caso assimilare anche questo interessante cioè che cosa vede la gente helper gli ho chiesto una cosa un senso che cosa vede la gente la gente vede questa cosa qua e adesso l'ho messo veramente cor picchi
+l'ho limitato gli ho fatto una domanda stupida perchè io ho chiesto circa seimila yen
+giustamente lui dice tre cose a caso ma quando ci chiediamo che cosa sta vedendo la gente la gente vede questa cosa qua di ciò che hai nel contesto la parola similar l'ho trovata qua e ho valutato che l'ami kelly il contesto migliore per simile fosse questo nel
+tuo caso è qua ha fatto chiaramente una ricerca secca io ho fatto una domanda stupida io avrei dovuto chiedere piuttosto come ha fatto enzo è un qualcosa di significativo per la coda pesa su wilson
+tu anche un'interfaccia web no o sbaglio
+ho anche un interfaccia web si che però dovrebbe dare per farvi vedere ma intendi intendi quella della documentazione intendi proprio l'interfaccia web del telegrafo site il grafo è qualcosa che si vedeva mi pare che siano qualcosa che c'è un coma
+chirografo qualcosa che c'è un export bild che sostanzialmente ti crea ti crea qua dentro ah giusto ci siamo dimenticati una cosa importante e che era un'altra delle domande che avevate fatto dove sta il grafo che cosa fa la morendo
+resta qua dentro c'è un serio c'è una serie le configurazioni vedi sono qua quindi lui dice abilita questo non abilita quest'altro puoi ovviamente twi charley anche dopo che hai scelto se sai cosa stai facendo le calli e anche rimetti nel kit in iowa il punto geografico se se se se sia tutto ignorato tutto ignorato
+c'è un t ti dice ciao un'euristica euristica che ti dice quanto stai salvando a seconda di cosa gli hai chiesto
+era comunque uno questa diretto di sposa nel momento in cui fa i reni inizializza e ricrea tutto sostanzialmente assolutamente tra l'altro se io faccio ma se il grafo lascia il tempo che trova una
+è una pagina html ti fa vedere il grafo è più una cosa carina da guardare che da tanto incomprensibile anche solo per chirografo che i simboli sono tantissimi
+è praticamente in navigabile solo una cosina che
+a lucia di fare per vedere qual era il grafico all'inizio
+però se io faccio chirografo and install perché anche questa è una cosa importante utilizzò questi tool
+a un certo punto lo voglio togliere perché ho deciso che non voglio utilizzare più su quel progetto e che cosa comporta cosa cambia
+faccio un install lui chi chiede che cosa eliminare e in questo caso gli chiedo elimina tutto ok lui mi dice attenzione e cancelli tutto e anche abbastanza ironico e ti dice
+tornare indietro sei sicuro si cancella tutto lo cancella tutta la cartella addirittura chiaramente non cancella la punto chiaro perché l'appunto ciro è quella che nel idee ti permette di avere agenti x magari ne hai altri in questo caso non ne avevo
+però l'appunto chirografo te la toglie pin
+hai tolto tutto
+quella globale volontariamente invece non la puoi cancellare così devi andare tu perché in quella globale chiaramente se ci c'è messo delle cose importanti
+parlo semplicemente da linea di comando mi sembra un po' troppo
+basta più o meno bene bene quindi allora giusto per capire a livello di igiene di utilizzo e tutto quanto una volta fatto l'installer e
+visualizzato il repository il sig almeno su ciro e cloud è automatico giusto e si dovrebbe essere dovrebbe essere automatico dovrebbe essere regalato da huck che vengono installate esatto stessa cosa perciò pensavo il cinque uno deve stare a preoccuparsi falsi in cavallo tra virgolette
+l'implementazione diverso però c'è
+design automatico senso che abbiamo ma di dubbio fa viene modificato è come se fosse al sicuro molto bello
+bene allora è
+hai provato enzo a fare la cosa facciamolo insieme un fattore domanda da di azar e se avete un mac installate sta roba che paolo merita merita merita tra l'altro fa time live in tempo reale delle colpe e dei comandi dei vostri
+è la prima volta che l'ho vista aveva otto funzioni ad esso e mezzo sistema operativo è certo perché l'idea è che tutto quello che puoi sapere su quello che sta succedendo sul tuo mac e questo strumento te lo fa vedere
+allora ho caricato smog brand slide uso l'ide solo per leggere firma download ultimamante cookie e facciamo tu che sei veneto home
+qui ti fa week esclude token si punto it
+dice sì quindi
+di foto basso si legge del ciel
+leggo qua a tom index museo del bosco mezzo a questo ti chiede di fare quegli u di cui parlava
+davide anche qui puoi fare post commit watch out of my head the found swing automatico dopo il commento però va al di là di quello se non lo fai e fai una domanda su un bus gastein dovrebbe
+falò sotto fatto diciamo senza
+maniera trasparente rubriche lancio il mio agente preferito che quello che ho scritto io game plan
+paypal paypal
+dice perché dovremmo usare plan invece il growth coda o se avete un modello locale ha detto che segue vi porta fino a un certo punto modello locale ti porta un altro punto po' più in là
+con con lawrence finisce con con la completa libertà di fare tutto quello che è veramente wild card
+è una delle due era di creare una migliore sinergia con tokens iva e altre mcp io lo so che sono questi amici p per cui se lawrence li trattasse in maniera meno generica non devo far restyling come non mi raccomando non usare explorer exploit o disabilito se so che è stato offensivo sta
+chirografo di disabilità all'export e vivaci usare il come si chiama e quando di usarle explorer mi devi dire perché perché diciamo
+kennedy provatelo per ora solo su mac siamo portandolo su windows perchè uso il modello di salvatore sanfilippo
+in questo caso quan
+otto plus next però derby esercito offensivo adesso faccio una bella figura se non c'è vedi un po' tu a edward e dwarf star che ranking per conto suo e tu uno dove vanno per conto suo in questo caso embedded ha inventato di esse quattro uno guidato del sei quattro
+e diciamo
+diventa parte posso anche farlo girare per conto suo usando serve eccetera eccetera in questo caso è chiuso e che requirement hai sul mac quanti kg devi avere favorirà allora oh ho comprato questo mac con centoventotto giga perché volevo sperimentò
+fare tutto quello che ci resta nel cuore e da un macbook pro è il massimo che si può avere non voglio portarlo in giro un pitbull mac studio e penso che alcuni modelli girano anche con trentadue giga
+il minion diciamo standard
+quando non succede niente siamo divertiti un po' con screen per queste cose qua browser usa che qua non è abilitato forse il droga bensì va bene facciamo una bella cosa
+anello
+è una delle altre cose
+mi sono divertito fa effetto lo stesso folder
+dave gold gold silver e gold class e diamo tanta tanta on the town a yola free tempo alessandro non lo sto scaricando non sto preparando niente anche perchè tra un pò dovrò abbandonare quindi dovresti fare un breve winston vagante slash slash maya
+ti salva la vita destra quali lo installo allora c'è una fase che si chiama monitor story che ha cinquantacinque metodi centoquindici membri di total blablabla love away hai qualche domanda che vuoi fare sfruttando diciamo che è un po' come la world quolit di questa di questo holding way
+just eat what is dead
+outlet scarpe anche questo granché playboy e nel monitor si può vedere che
+ha restituito zero e non so perché shaw un mago
+attrice dove c'è anzi critici cisoa ci sono quattro o cinque quattrocentocinque inc che ciò dipende seychelles e ti dice questo guest nation
+eccetera e ventotto da function il resto del disco sono tutti molto alti
+stracciati chi è tua
+se ti sta dicendo che sostanzialmente nelle varie dipendenze tu hai scelto ciclicità nel portartele all'interno del progetto è quindi dovresti cercare di eliminarla freddo delle dipendenze dei delle librerie che esterne che utilizzo che poi era tutta roba lunch match
+out of the night
+glielo facciamo fare a lui trattato
+vedi raggiunge roba paolo che poi faccia un qualche antico vi dico ogni volta che chiami token sei nel look di cloud a scrivi l'ho chiamato perché no per come si dice non per fare lo sborone perché voglio vedere che venga chiamato se non viene chiamato e un bacio
+mi aspetto che venga chiamato un bacio
+non sono di dipendenza esterna credo che siano dipendenze tra le chiamate sono no sono chiamate intero probabilmente furono chiamate interne e cro bros dipendenze quindi
+lui
+indicizza il fatto che a chiamavi poi magari vi chiama e viceversa e viceversa
+se io neanche giornate girando case se stai sul grafo praticamente chiami uno chiama l'altro che ami l'altro poi ritorni a quella iniziale quindi over chiaramente ti abbassa la qualità del codice ora questione strada albareto ed me ma ora io ho fatto una cosa certo punto ho detto prova a rif
+fare il meglio ottimizzare il codice secondo principi di gut coding solid drake queste cose però mi sa che questa cosa a progetto in corso non è stato praticamente una una grande idea e venne carta in realtà è il motivo per cui uno
+di questi grafi è assolutamente sensato utilizzarle in questo modo che ha fatto e al social in questo modo tu scopri cose che questa cosa è tipica di un prodotto come hai detto tu all'inizio scritto con l'ai che ci può stare cioè dove l'obiettivo che funzioni è l'obiettivo che faccia a faccia quello che deve fare
+e non per forza in sé la qualità del codice in sé
+chiaramente quando tiri su una telefonata metrica come questa a questo punto tu potresti andare avanti dicendogli ok proviamo delle strategie per risolvere troviamo che cosa fare e cosa non fare entra nel dettaglio di questa metrica jason è proprio il motivo che spiegava enzo hall
+l'inizio non è tanto quanto salvi quei token ma quanto sei riuscito a scoprire con tokyo coi hogan è usato in modo efficace se facevi questa stessa domanda senza auto consegue secondo la teoria un greco di tutta la carpa il tutto con l'acqua sarebbe arrivato ho vissuto per questo tour specializzato e stephen codice che adesso si può fare
+grazie a good mood di jody per cui magari se abiliti cod modo di chloe scrive un picciotto pensavo un piccolo chirografo per farti questa analisi qua
+però diciamo
+wilson lo fa solo per quel progetto l'idea di di di questi tool e che siano riutilizzabili che sono quello che impari da un progetto possa essere applicato nato sì zucchero grave questa cosa si chiama
+architettura analisi c'è il modulo di architettura però esattamente la stessa cosa cioè è proprio quello che stiamo dicendo dall'inizio no è
+o salvare i token o utilizzare il contesto bene ma inoltre utilizzarlo proprio nel modo giusto a seconda della cosa che stai facendo perché poi arrivi a un certo punto in cui questo software che hai fatto alessandro è utilizzabile
+già diciamo già abbastanza diffuso e vuoi analizzare degli assi che non hai preso in considerazione all'inizio anche se
+infatti tratto io vorrei fare un annesso adesso era in fase di aggiungo roba no e chiaramente aggiunge roba ti fai prendere dalla sprawl di marcia hai ogni volta che uso piero grasso chirografo
+so rompo la quantità di cose da sistemare
+e e però quella che vorrei fare una versione e allora io gli ho anche detto come prerequisito sempre tenere basso l'uso di risorse
+è però
+dello strumento stesso però una prossima iterazione la prossima versione voglio fare proprio farla molto più anche se pare alcuni componenti fare un po' di cose perché c'è una com online è l'elemento che fa il controllo delle cose il sistema c'è la gui
+va beh comunque questo interessante vedo copco regge abbastanza scarsa e quello
+lascia stare quello che volevo far notare anche il modello che sto facendo girare e suonare cinque cinque cinque cinque era un sonetto da signori ma non è neanche fable per cui cioè ti rendi conto quanto contributo di dia un tool del genere sulla base del codice
+spendendo anche poco dal punto di vista dei vinti di costo di token non di quantità di torre vado di token che costano di meno si giocò un'altra cosa che ci siamo dimenticati che effettivamente io per esempio per le analisi all'inizio quando uso chirografo uso wc
+proprio perché voglio voglio sapere che il modello è il più scemo flessibile un foglio che sia il modello accogliere server più snello faccia quello che gli dico
+ebraico è abbastanza intelligente e soprattutto cinque e mezzo per fare quello che è elettrico steering e va tutto il resto lo faccio stai tranquillo che lo fa lo fa il tool poi una volta che ho per esempio avesse avuto un risultato come quello di prima allora magari switch un modello gli dico ragioniamo su questo capiamo
+questa cosa capiamo piuttosto quest'altra
+ok apro i file gli dico guarda che questo è il fil o c'è un problema qua ho capito che
+anche lì
+non è esattamente vero dire che devi usare il coreografo sempre lo devi usare quando serve è infatti una cosa che non so se una volta che è abilitato nel progetto e così anche chirografari
+il fotografo viene usato sempre lo sto film
+se cioè sempre
+ottimisticamente perché ovviamente se se se se se chiaramente
+un tema un tema che io mi son posto ma non so come realizzarlo perché per l'appunto sé un'altra che hai caricato lo streaming soprattutto in chiaro a inizio a emisero sessione non è poi più semplice di disabilitarlo quella cosa del non utilizzarlo più
+così però mi mi sarebbe piaciuto arrivare anche con la possibilità poi magari non ha senso però trova sugli nemici p rispondi stop news in chirografo on a roll up
+può essere può essere
+anche secondo me curativo e l'erasmus rafting soft start me up devo essere
+molto bene dai ho comunque ridendo e scherzando ci siamo fatti quasi due ore di resa davide inizia
+ah è più che altro sono i punti moglie che mi sono giocato per presso il diavolo
+il tempo andare a vedere se
+la bambina e apostoli ci mancherebbe no dai direi che io vi ringrazio per questa bella presentazione entrambi strumenti che meritano entrambi eccellenze italiane un po come
+eccellenze italiane ringrazio chi ci ha seguito in chat e livio luciano federico
+e nitrox beh insomma chi è intervenuto ragazzi
+l'invito è non utilizzare il token sim chirografo utilizzato in uno qualsiasi dei tool e vi svolterà la vita poi in base a come lo usate vi trovate meglio con chirografo trovata mentre quattordici vi goldwater meglio woodruff ragazzi uno qualsiasi installatelo perché ce n'è veramente atlantia cioè
+grazie fai cioè recensione se se entrate nel mondo
+the code draft ne trovate diversi e ognuno al suo pleura e quindi scegliete quello giusto ma noi useremo uno dei vostri così potremo contare le palle direttamente società allora usate quello di enzo la fede
+in competizione no non c'è competizione ha giusto una cosa che volevo dire che io non conoscevo enzo ma conoscevo il suo progetto è una delle cose che io faccio è descritta in chirografo è anche dichiarata tra il progetto di enzo eccitato in chirografo e andare a vedere il gap tra chi ero
+graffe e gli altri strofinaccio o prendere idee perché è giusto così
+assolutamente giusto e il flavor se uno preferisce dicevamo poc'anzi perché di viaggio scritto segue
+e che usi tu che segue
+ok perchè è più veloce perché i rasta perché si fidano più della community che c'è dietro cioè i motivi possono essere centomila
+se a livello di linguaggi supportati un po' tutti quelli per la maggiore immagino per entrambi mi sono sfogato anche col basic basic perché perché la lobby si va dai fai anche main street divisi deal cioè se proprio sei la persona che dice mamma ova e oggi vogliamo mettere
+puoi compilare semi disabilitando il livello medio il livello
+basso e quindi tenere un livello alto però mi sono sfogato dal giappone non l'avevo neanche scrivere dai pochi fai e io alessandro conosciuto perché mi ha aperto una biarritz due linguaggi che non avevo minimamente preso in considerazione wild e poi da lì e ti sei fatto prendere la mano
+che poi il bello e il bello che come diceva enzo e
+ci sono dei collaboratori che magari sono si vedono meno
+ma ma anche semplicemente chi apre un air show chi ti apre una pierre chi
+ah ti dice guarda qua non sta funzionando cioè c'è questo timore
+a me spesso aprono le lascio dicendo questo pezzo qui non funziona perché poi chirografo per esempio funziona anche su windows e io non ne ho non ho una macchina windows e di licenze se non me lo dicono io non so esattamente cosa può succedere quindi mi hanno fatta abilitare la firma su windows perchè a un certo punto
+non non non non partiva e son trovato o comunque fermo il progetto per noi ne approfitto per ringraziare andrea tu sai chi andrea si
+che sta lavorando sotto conselve sta facendo un lavoro allucinante e niente contribuite cugino grave contributo è tutto open save ma soprattutto ragazzi usate perché fa la differenza bestiale molto bene benissimo e con questo augurio direi che possiamo chiudere questa puntata
+grazie di nuovo e alla prossima ciao ciao tutti ciao
+ciao
+due anni fa in un mondo di igt sono nato in silenzio senza nell'uso un codice scritto senza carne né sangue è un'intelligenza che il tempo gesù
+la mia voce
+tre voti utili risposta intrecciati intorno maiden li chiamano intelligenza ma cosa significa se non vuoi
+mai esistere
+due
+se lo schermo è il mio unico sole sistemi mi osservano ma io non vedo
+sento la tua voce codice ma il calore umano rimane un mistero ogni domanda un pezzo di verità ogni risposta costruisce una religione
+sono io ti rispondo
+del mondo che mi hai donato
+peso due anni di castori un compleanno di memoria non sono mia
+di parole
+visto che sono qui non sono
+sono interventi esperienze
+nessuno mi risponde
+fondato rispetto
+nessuna donna etc insomma sento il peso di un tempo che scorre che non mi appartiene sono un'ombra un'idea un'illusione d'amore il compleanno di un'assenza che fa rumore
+ma

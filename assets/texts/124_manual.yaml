@@ -1,0 +1,13 @@
+---
+guests:
+  - Davide De Sio
+  - Enzo Lombardi
+  - Paolo Innocenti
+
+links:
+  Kirograph: https://github.com/davide-desio-eleva/kirograph
+  Tokensave: https://github.com/aovestdipaperino/tokensave
+  Caveman: https://github.com/JuliusBrussee/caveman
+  RTK: https://github.com/rtk-ai/rtk
+  Codegraph: https://github.com/colbymchenry/codegraph
+  Smack:  https://github.com/alvagante/smack

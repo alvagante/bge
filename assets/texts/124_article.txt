@@ -1,0 +1,26 @@
+Bruciano token come falene al LED. E non è un problema estetico: è economico, operativo e—soprattutto—cognitivo. L'episodio mette a nudo quello che tutti sospettavamo: quando affidi a un AI coding agent il compito di capire una codebase, l'agente spesso non sa dove guardare. Così invoca sub-agent, lancia grep seriali, riapre file mille volte. Il risultato è un coro di tool call e migliaia di token consumati per rispondere a domande che potrebbero essere risolte con una singola, disciplinata interrogazione locale.
+
+La soluzione discussa è semplice e brutalmente efficace: trasformare la codebase in un Knowledge Graph semantico pre-indicizzato, completamente locale, interrogabile via MCP (Model Context Protocol). Invece di spiare il repository alla cieca, l'agente chiede al grafo e riceve in una sola chiamata simboli, call graph, gerarchie di tipo, dipendenze e persino il blast-radius di una modifica. È come passare da una torcia a un radar.
+
+TokenSave e KiroGraph sono due implementazioni pratiche di questa idea, con filosofie e trade-off diverse ma obiettivo comune: risparmiare token e ridurre il rumore. Punti tecnici che emergono dalla conversazione:
+
+- Ingegneria dell'indice: parsing AST con tree-sitter per estrarre simboli e relazioni; archiviazione in SQLite/libSQL per query locali veloci; indicizzazione multi-branch per mantenere contesti separati.
+- MCP come interfaccia: il grafo diventa un servizio locale che risponde con pacchetti ricchi di contesto, rendendo l'interazione con l'LLM atomica e parsimoniosa.
+- TokenSave (Enzo Lombardi): server MCP scritto in Rust, più di 80 tool integrati, supporto a 50+ linguaggi, primitive per editing atomico e sincronizzazione multi-branch. Performance e robustezza come imperativo filosofico.
+- KiroGraph (Davide De Sio): nato per Kiro ma pensato per interagire con vari IDE/agenti MCP; compressione degli embedding (TurboQuant), analisi di sicurezza sul call graph, memoria persistente e moduli per comprimere documentazione e output di shell. Pragmatismo e integrazione nativa con flussi di lavoro quotidiani.
+- Compressione degli embedding: ridurre lo spazio e i costi computazionali senza perdere la qualità semantica. Questo è il nuovo campo di battaglia per chi vuole mettere l'indice on-premise.
+- Sicurezza e blast-radius: non è solo performance. Un grafo semantico apre la porta a analisi statiche più intelligenti — dall'attack-surface al rischio di regressione — perché hai il call graph e le dipendenze tutte in una vista interrogabile.
+
+Architetture a confronto: Rust vs TypeScript. Rust offre throughput, memoria controllata e affidabilità per server che devono rispondere a milioni di query locali con latenza costante. TypeScript vince in ergonomia, velocità di prototipazione e integrazione con toolchain esistenti. La scelta non è ideologica: dipende da scala, latenza richiesta e da quanto vuoi spingere sull'edge della performance.
+
+Best practice operative (dalla puntata, sintetizzate per chi vuole agire oggi):
+- Pre-indicizza la codebase con tree-sitter e conserva gli indici localmente.  
+- Aggiorna l'indice incrementale in CI o con git hooks, non ricostruire tutto a ogni modifica.  
+- Esporre il grafo via MCP: una singola query contestualizzata sostituisce decine di tool call.  
+- Comprimere embeddings dove possibile (TurboQuant o simili) per risparmiare spazio e costi.  
+- Integra analisi di sicurezza basate sul call graph prima di lanciare agenti che eseguono modifiche automatiche.  
+- Benchmark: misura token spesi prima/dopo per task reali; i numeri qui non sono teoria, sono denaro.
+
+La registrazione è anche una piccola ode all'open source: scambi di patch, moduli condivisi (Caveman, RTK, Codegraph, Smack) e un ecosistema che sperimenta diversi bilanciamenti tra ergonomia e performance. Paolo Innocenti tiene il ritmo, mentre Enzo e Davide mostrano che la strada per agenti più parsimoniosi passa per strutture dati, non per prompt più brillanti.
+
+Non è magia. È ingegneria della rappresentazione. Riduci il rumore, dai forma e struttura al contesto, e l'LLM smette di essere un esploratore disperato e diventa un citadino informato. E in un mondo che paga token come tasse su ogni pensiero, il diritto alla parsimonia è una piccola rivoluzione.

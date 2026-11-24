@@ -71,4 +71,4 @@ bold "Generating guests files"
 "$SCRIPT_DIR/GenerateGuests.py" "${GIT_DIR}/assets/texts" "$GIT_DIR/_geeks" || exit "$?"
 
 bold "Generating missing geek portraits"
-python3 "$SCRIPT_DIR/GenerateGeekPortraits.py"
+python3 "$SCRIPT_DIR/GenerateGeekPortraits.py" --latest

@@ -1,0 +1,30 @@
+date: '2026-11-19'
+description: "Quando affidi un task complesso a un AI coding agent (come Claude Code,\
+  \ Kiro, Cursor o Codex), l'agente brucia migliaia di token e decine di tool call\
+  \ scansionando file con grep, glob e letture ripetute.\n\nIn questo episodio di\
+  \ BGE scopriamo come risolvere il problema alla radice con i Semantic Code Knowledge\
+  \ Graph 100% locali insieme ai creatori di TokenSave e KiroGraph. \n\nOspiti della\
+  \ puntata Enzo Lombardi (autore di TokenSave) e Davide Desio (autore di KiroGraph),\
+  \ due progetti open-source che trasformano una codebase in un grafo semantico pre-indicizzato\
+  \ interrogabile tramite MCP (Model Context Protocol).\n\nInvece di esplorare alla\
+  \ cieca il repository, l'agente interroga il grafo in locale e ottiene in una sola\
+  \ chiamata simboli, call graph, gerarchie dei tipi, dipendenze e blast-radius delle\
+  \ modifiche.\n\nIn questa puntata parliamo di:\n- Perch\xE9 gli AI coding agent\
+  \ sprecano cos\xEC tanti token: il costo nascosto dei sub-agent di esplorazione\
+  \ e delle ricerche testuali ripetute su codebase reali.\n- Come funziona un Code\
+  \ Knowledge Graph locale: parsing AST con tree-sitter, database SQLite/libSQL, ricerca\
+  \ semantica e zero dati inviati in cloud.\n- Dietro le quinte di TokenSave: un server\
+  \ MCP scritto in Rust con oltre 80 tool, supporto a 50+ linguaggi, indicizzazione\
+  \ multi-branch e primitive di editing atomico.\n- Dietro le quinte di KiroGraph:\
+  \ nato nativamente per Kiro e compatibile con decine di IDE/agenti MCP, con compressione\
+  \ degli embedding (TurboQuant), analisi di sicurezza su call graph, memoria persistente\
+  \ e moduli per comprimere anche documentazione e output di shell.\n\nConfronto architetturale\
+  \ e best practice: Rust vs TypeScript, gestione dell'aggiornamento dell'indice e\
+  \ come integrarli subito nel proprio workflow quotidiano.\n\nLink e Risorse:\nTokenSave\
+  \ (GitHub): https://github.com/aovestdipaperino/tokensave\nKiroGraph (GitHub): https://github.com/davide-desio-eleva/kirograph\n\
+  \nOspiti: Enzo Lombardi (@aovestdipaperino) e Davide Desio (@davide-desio-eleva)"
+duration: 6922
+title: BGE 124 - Risparmiare token con Semantic Code Graph (con gli autori di Kirograph
+  e Tokensave)
+youtube_id: nL8tmpGoWPk
+
