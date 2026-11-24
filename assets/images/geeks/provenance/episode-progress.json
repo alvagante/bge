@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "episodes": {
+    "124": {
+      "status": "processed",
+      "video_url": "https://www.youtube.com/watch?v=nL8tmpGoWPk",
+      "portraits_added": [],
+      "existing_portraits_skipped": [
+        "Alessandro Franceschi",
+        "Davide De Sio",
+        "Enzo Lombardi",
+        "Paolo Innocenti"
+      ],
+      "record_inconsistencies": [
+        "Alessandro Franceschi: geek record does not list episode 124"
+      ],
+      "blockers": [],
+      "retry": [],
+      "processed_at": "2026-11-24T13:52:28Z"
+    }
+  }
+}
